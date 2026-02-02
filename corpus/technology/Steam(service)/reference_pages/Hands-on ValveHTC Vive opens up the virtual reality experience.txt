@@ -1,0 +1,99 @@
+# Hands-on: Valve/HTC Vive opens up the virtual reality experience
+
+If other systems put you in a VR cage, Vive frees you to explore a full VR room.
+--------------------------------------------------------------------------------
+
+![Image 1: Man in a blue shirt playing a VR video game with controllers in both hands](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4227-e1425591102420.jpg)
+
+In this shot, I believe I am batting at a virtual balloon with a virtual hand. It's much more gleeful than my face suggests.
+
+Virtual reality is in a really weird place right now. We're still months or years away from any truly mass market consumer product, yet we are still regularly seeing demonstrations of new, game-changing technologies that make everything shown before them seem a little obsolete. I saw it with [the first Oculus Rift headset prototypes](http://arstechnica.com/gaming/2012/09/virtual-realitys-time-to-shine-hands-on-with-the-oculus-rift/)and later with [heavily improved prototypes](http://arstechnica.com/gaming/2014/09/eyes-on-oculus-crescent-bay-prototype-is-a-new-high-water-mark/) that have solved early problems with image persistence and quality. I saw it with [Sony's Project Morpheus and the way it integrates hand tracking to great effect through the PlayStation Move.](http://arstechnica.com/gaming/2014/03/project-morpheus-impressions-sony-proves-its-serious-about-virtual-reality/)
+
+This week at GDC, I've seen it again in [HTC and Valve's Vive virtual reality system](http://arstechnica.com/gaming/2015/03/steam-controller-steamvr-steam-machines-valves-hardware-push-in-photos/)and the attendant Lighthouse tracking technology that changes everything about the VR experience. If using other systems is like being trapped in a small, virtual reality cage, using the Vive is like being freed to explore a full virtual reality room.
+
+Full room tracking
+------------------
+
+[![Image 2: A man in a blue shirt is adjusting his belt while sitting on a chair, behind him is another man walking by](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4211-640x960.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4211.jpg)
+
+Putting on the awkward controller-tether belt, which Valve says will not be in the final product.
+
+1.   [![Image 3: A man, dressed in a light blue long-sleeved shirt and gray trousers, is shown sitting with his head down and hands at his waist](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4211-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4211-640x960.jpg)
+Putting on the awkward controller-tether belt, which Valve says will not be in the final product.
+
+2.   [![Image 4: Person wearing a VR headset while sitting down](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4213-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4213-640x960.jpg)
+Getting adjusted.
+
+3.   [![Image 5: A person wearing a virtual reality headset and headphones](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4217-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4217-640x960.jpg)
+Hey, what's going on over here?
+
+4.   [![Image 6: Man is playing with a VR device in a room](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4229-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4229-640x960.jpg)
+The ready position.
+
+5.   [![Image 7: A man wearing a virtual reality headset and holding two controllers, standing in front of a white wall](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4226-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4226-640x960.jpg)
+What are these things I see in front of me?
+
+6.   [![Image 8: A person wearing VR equipment, holding two hand controllers in both hands](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4225-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4225-640x960.jpg)
+Here I'm probably juggling bread or something. Like you do.
+
+7.   [![Image 9: Man with a VR headset and controller in his hand, wearing a light blue long-sleeved shirt](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4219-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4219-640x960.jpg)
+I look so confused about the concept of seeing the controller in all of these shots.
+
+The way Vive's tracking works is fundamentally different from most other consumer-level VR systems in the offing. The Oculus Rift and Sony's Morpheus both use outside-in tracking systems, each relying on a single stationary camera to find the position of the headset and, in Morpheus' case, controllers. The Vive uses an inside-out system, implementing a series of dozens of small sensors on the headset and controllers themselves, pointing out in all directions.
+
+Those sensors pick out laser signals sent from two small, square Lighthouse transmitters placed in the corners of the room and use those signals to triangulate how the hardware is positioned and oriented in the real world. Crucially, these two transmitters don't have to be plugged in to anything but a wall outlet, freeing the tracking system from being tethered to the hardware powering the VR experience (the headset itself is still hooked to a powerful PC running the whole experience).
+
+In the demos Valve gave at GDC, I could explore a large square area—15 feet per side—in VR without ever worrying about the system losing track of my position. The technology creates the opportunity for an entirely different class of VR experiences from the three-to-five feet of exploration space (on each side) provided by the tracking cameras from Morpheus and Oculus.
+
+During one demo,I walked from a countertop over to a refrigerator a few steps to my left, grabbed an ingredient, then walked back to drop it into a pot. In another, I walked away from a huge rock monster speaking to me to solve a gear puzzle sitting on a back wall, pausing to admire a set of wind chimes in between. In a _Portal_-themed Aperture Science demo, I could walk around a massive, 3-D holographic cross-section of a robot's innards, viewing and manipulating it from all sides and angles, not just the ones I could lean in and see from a sitting position.
+
+These may seem like small things, but it's hard to understate the added sense of freedom afforded when you can really move anywhere in your real-world confines, confident the system will know you're there in your virtual reality. It allows for a much larger sense of scale and a sense that you're in a complete VR space, rather than a small box.
+
+Valve has taken some steps to make it safe to explore this kind of VR space safely. The system throws up a virtual grid when you're getting close to the limits of your real-world space, stopping you before you bump into a wall (you still have to make sure the floor is completely free of obstructions, though, so I hope you have a nice empty space handy). The Valve engineer giving the demo said this virtual floor space can be set to match the size of pretty much any room or even made circular for oddly shaped spaces.
+
+Hey, I can see my hands
+-----------------------
+
+The other key piece of the Vive experience is the controllers. There's one for each hand, both long and thin like PlayStation Move wands, but with flat, circular, clickable touchpads on the front where your thumbs naturally rest. There's also a trigger under each index finger and a pair of buttons that you can squeeze with the inside of your palm, as if you're gripping something. A mess of tracking sensors sits on an angular, bumpy surface on the top of the unit, allowing the handheld units to see the Lighthouse transmitters.
+
+All in all, the hand-tracking on the Vive controllers didn't feel especially more accurate than the Morpheus/Move combo I used earlier this week. The big difference was not having to worry about a limited tracking space for those controllers. Morpheus demos really require that I hold the Move controllers in front of me while facing the PlayStation Camera, so the system can find the glowing balls atop the controllers. With Vive, my hands could go anywhere, and I could remain confident that the controllers would show up there in virtual space.
+
+As much as [I loved the _London Heist_ firefight Sony showed off earlier this week](http://arstechnica.com/gaming/2015/03/one-year-later-sonys-morpheus-prototype-is-still-vr-done-right/), I know the Morpheus system would never allow me to spin around, 360 degrees, and start firing at enemies coming from behind me. That's because the single PlayStation camera mounted on the TV would easily lose the position of my guns as they disappeared behind my body and arms.
+
+With Vive, developers don't have to worry about this kind of problem. I could simply reach out and use my controllers as real hands in any direction, easily opening drawers or pulling cranks or even juggling pieces of virtual bread back and forth (more easily than similar sword juggling in a Morpheus demo, I'd hasten to point out). I could reach up and run my fingers through a school of virtual fish or play volleyball with virtual balloons or draw 3D figures in mid-air with a virtual lightpen, all without really thinking about the artificiality of it all. Being able to reach out and touch the virtual world in this way is nothing short of gleeful.
+
+The controller prototypes Valve showed this week were wired somewhat awkwardly—a belt harness strapped around my waist, which in turn connects up to the tethered headset. Valve promises the final controllers will be wireless and will still deliver hand tracking with low enough latency to be useful.
+
+The new state of the art
+------------------------
+
+[![Image 10: A virtual reality headset is displayed on a glass mannequin head, paired with two handheld controllers and two black boxes](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4188-640x427.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4188.jpg)
+
+_Sam Machkovech_
+
+This is the March version of the SteamVR "Vive" headset co-created by HTC; a newer dev kit has already shipped to eligible SteamVR developers.
+
+1.   [![Image 11: VR headset on a glass mannequin head, accompanied by controllers and accessories on a white surface](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4188-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4188-640x427.jpg)_Sam Machkovech_
+
+This is the March version of the SteamVR "Vive" headset co-created by HTC; a newer dev kit has already shipped to eligible SteamVR developers. 
+2.   [![Image 12: Close-up of a VR headset in black, with a blurred background](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4191-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4191-640x427.jpg)_Sam Machkovech_ 
+3.   [![Image 13: A close-up shows two black cube-shaped structures sitting atop a light-colored surface](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4194-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4194-640x427.jpg)_Sam Machkovech_
+
+The current lighthouse laser transmitters used to track a Vive user's position throughout the room. 
+4.   [![Image 14: Close up of a small black box with a silver label](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4196-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4196-640x427.jpg)_Sam Machkovech_ 
+5.   [![Image 15: A black face mask placed on a white table, with a handheld device and other items nearby](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4189-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4189-640x427.jpg)_Sam Machkovech_
+
+...and these are the March versions of the controllers, which now have longer handles. 
+6.   [![Image 16: Black VR headset with grey straps on a glass head](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4190-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4190-640x427.jpg)_Sam Machkovech_ 
+7.   [![Image 17: Black HTC Vive VR headset, with a headstrap, featuring several integrated sensors](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4187-150x150.jpg)](https://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4187-640x427.jpg)_Sam Machkovech_
+
+All those little laser sensors don't come cheap... 
+
+Visually, the Vive headset seems to check all the right boxes. Having a 1080p display for each eye, doubling horizontal resolution of some other prototypes, limits the screen door effect, letting pixels bleed into each other without any apparent black space between them. The 90 Hz reported refresh rate was high enough to avoid any nauseating feeling of delay between movement and image, and the tracking system made sure the system accurately showed me only what I should be seeing in VR space at that moment. The 110-degree field of view was wide enough to avoid tunnel vision, though I still had to turn my head rather than use peripheral vision to see many things off to the side.
+
+The prototype I used was a bit uncomfortable compared to the likes of its competition, using a ski-goggle style strap to squeeze itself to my face. The whole apparatus was light enough that I didn't find it cumbersome during the 20 or so minutes it spent on my head, though. And while I was always aware of the tethering wire wrapping itself around me as I moved, that wiring didn't drag heavily on the headset.
+
+Valve says it plans to release its Lighthouse technology as [a freely licensable standard](http://www.engadget.com/2015/03/04/valve-vr-input/) that other VR manufacturers will be able to use. Frankly, it's hard to see why they shouldn't, unless the pricing ends up being prohibitively higher than other tracking solutions. The precision and freedom of movement in Valve's inside-out system blows away anything that seems possible using a single, outside-in camera tracking and once again changes the state-of-the-art in consumer-level virtual reality before consumer-level virtual reality is even really a thing.
+
+[![Image 18: A 47x47 small image, likely a logo, icon or avatar](https://cdn.arstechnica.net/wp-content/uploads/2015/08/kyleheadsmallbw.jpg)](https://arstechnica.com/author/kyle-orland)
+[Kyle Orland](https://arstechnica.com/author/kyle-orland) / Kyle is the Senior Gaming Editor at Ars Technica, specializing in video game hardware and software. He has journalism and computer science degrees from University of Maryland. He is based in the Washington, DC area.

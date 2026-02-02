@@ -1,0 +1,904 @@
+# World Economic Outlook, Database—WEO Groups and Aggregates Information, October 2018
+
+World Economic and Financial Surveys
+------------------------------------
+
+Database—WEO Groups and Aggregates Information
+----------------------------------------------
+
+October 2018
+
+[Country Information](https://www.imf.org/external/pubs/ft/weo/2018/02/weodata/co.pdf)
+--------------------------------------------------------------------------------------
+
+(PDF File)
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Country Composition of WEO Groups
+-------------------------------------------------------------------------------------------------------
+
+The country classification in the _World Economic Outlook_ divides the world into two major groups: advanced economies and emerging and developing economies. Please refer to the introduction to the WEO's Statistical Appendix for details. This classification is not based on strict criteria, economic or otherwise, but instead has evolved over time with the objective of facilitating analysis by providing a reasonably meaningful organization of the data.
+
+Some countries remain outside the country classification and therefore are not included in the analysis. Anguilla, Cuba, the Democratic People’s Republic of Korea, and Montserrat are examples of countries that are not IMF members, and their economies therefore are not monitored by the IMF.
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Advanced Economies
+Australia
+
+ Austria
+
+ Belgium
+
+ Canada
+
+ Cyprus
+
+ Czech Republic
+
+ Denmark
+
+ Estonia
+
+ Finland
+
+ France
+
+ Germany
+
+ Greece
+
+ Hong Kong SAR Iceland
+
+ Ireland
+
+ Israel
+
+ Italy
+
+ Japan
+
+ Korea
+
+ Latvia
+
+ Lithuania
+
+ Luxembourg
+
+ Macao SAR
+
+ Malta
+
+ Netherlands
+
+ New Zealand
+
+ Norway Portugal
+
+ Puerto Rico
+
+ San Marino
+
+ Singapore
+
+ Slovak Republic
+
+ Slovenia
+
+ Spain
+
+ Sweden
+
+ Switzerland
+
+ Taiwan Province of China
+
+ United Kingdom
+
+ United States
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Euro Area
+Austria
+
+ Belgium
+
+ Cyprus
+
+ Estonia
+
+ Finland
+
+ France Germany
+
+ Greece
+
+ Ireland
+
+ Italy
+
+ Latvia
+
+ Lithuania
+
+ Luxembourg Malta
+
+Netherlands
+
+ Portugal
+
+ Slovak Republic
+
+ Slovenia
+
+ Spain
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Major Advanced Economies (G7)
+Canada
+
+ France Germany
+
+ Italy Japan
+
+ United Kingdom
+
+ United States
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Other Advanced Economies
+
+ (Advanced Economies excluding G7 and Euro Area)
+Australia
+
+ Czech Republic
+
+ Denmark
+
+ Hong Kong SAR
+
+ Iceland
+
+ Israel Korea
+
+ Macao SAR
+
+ New Zealand
+
+ Norway
+
+ Puerto Rico San Marino
+
+ Singapore
+
+ Sweden
+
+ Switzerland
+
+ Taiwan Province
+
+of China
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)European Union
+Austria
+
+ Belgium
+
+ Bulgaria
+
+ Croatia
+
+ Cyprus
+
+ Czech Republic
+
+ Denmark
+
+ Estonia
+
+ Finland France
+
+ Germany
+
+ Greece
+
+ Hungary
+
+ Ireland
+
+ Italy
+
+ Latvia
+
+ Lithuania
+
+ Luxembourg Malta
+
+ Netherlands
+
+ Poland
+
+ Portugal
+
+ Romania
+
+ Slovak Republic
+
+ Slovenia
+
+ Spain
+
+ Sweden
+
+ United Kingdom
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Emerging and Developing Economies
+Afghanistan
+
+ Albania
+
+ Algeria
+
+ Angola
+
+ Antigua and Barbuda
+
+ Argentina
+
+ Armenia
+
+ Aruba
+
+ Azerbaijan
+
+ The Bahamas
+
+ Bahrain
+
+ Bangladesh
+
+ Barbados
+
+ Belarus
+
+ Belize
+
+ Benin
+
+ Bhutan
+
+ Bolivia
+
+ Bosnia and Herzegovina
+
+ Botswana
+
+ Brazil
+
+ Brunei Darussalam
+
+ Bulgaria
+
+ Burkina Faso
+
+ Burundi
+
+ Cabo Verde
+
+ Cambodia
+
+ Cameroon
+
+ Central African Republic
+
+ Chad
+
+ Chile
+
+ China
+
+ Colombia
+
+ Comoros
+
+ Democratic Republic of the Congo
+
+ Republic of Congo
+
+ Costa Rica
+
+ Côte d'Ivoire
+
+ Croatia
+
+ Djibouti
+
+ Dominica
+
+ Dominican Republic
+
+ Ecuador
+
+ Egypt
+
+ El Salvador
+
+ Equatorial Guinea
+
+ Eritrea
+
+ Eswatini
+
+ Ethiopia Fiji
+
+ Gabon
+
+ The Gambia
+
+ Georgia
+
+ Ghana
+
+ Grenada
+
+ Guatemala
+
+ Guinea
+
+ Guinea-Bissau
+
+ Guyana
+
+ Haiti
+
+ Honduras
+
+ Hungary
+
+ India
+
+ Indonesia
+
+ Iran
+
+ Iraq
+
+ Jamaica
+
+ Jordan
+
+ Kazakhstan
+
+ Kenya
+
+ Kiribati
+
+ Kosovo
+
+ Kuwait
+
+ Kyrgyz Republic
+
+ Lao P.D.R.
+
+ Lebanon
+
+ Lesotho
+
+ Liberia
+
+ Libya
+
+ FYR Macedonia
+
+ Madagascar
+
+ Malawi
+
+ Malaysia
+
+ Maldives
+
+ Mali
+
+ Marshall Islands
+
+ Mauritania
+
+ Mauritius
+
+ Mexico
+
+ Micronesia
+
+ Moldova
+
+ Mongolia
+
+ Montenegro
+
+ Morocco
+
+ Mozambique
+
+ Myanmar
+
+ Namibia
+
+ Nauru
+
+ Nepal
+
+ Nicaragua
+
+ Niger
+
+ Nigeria
+
+ Oman
+
+ Pakistan
+
+ Palau
+
+ Panama Papua New Guinea
+
+ Paraguay
+
+ Peru
+
+ Philippines
+
+ Poland
+
+ Qatar
+
+ Romania
+
+ Russia
+
+ Rwanda
+
+ Samoa
+
+ São Tomé and Príncipe
+
+ Saudi Arabia
+
+ Senegal
+
+ Serbia
+
+ Seychelles
+
+ Sierra Leone
+
+ Solomon Islands
+
+ Somalia
+
+ South Africa
+
+ South Sudan
+
+ Sri Lanka
+
+ St. Kitts and Nevis
+
+ St. Lucia
+
+ St. Vincent and the Grenadines
+
+ Sudan 1
+
+ Suriname
+
+ Syria 2
+
+ Tajikistan
+
+ Tanzania
+
+ Thailand
+
+ Timor-Leste
+
+ Togo
+
+ Tonga
+
+ Trinidad and Tobago
+
+ Tunisia
+
+ Turkey
+
+ Turkmenistan
+
+ Tuvalu
+
+ Uganda
+
+ Ukraine
+
+ United Arab Emirates
+
+ Uruguay
+
+ Uzbekistan
+
+ Vanuatu
+
+ Venezuela
+
+ Vietnam
+
+ Yemen
+
+ Zambia
+
+ Zimbabwe
+1 Data for 2011 exclude South Sudan after July 9. Data for 2012 and onward pertain to the current Sudan.
+
+2 Data are excluded from 2011 and onward because of the ongoing conflict and related lack of data.
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Commonwealth of Independent States 1
+Armenia
+
+ Azerbaijan
+
+ Belarus
+
+ Georgia
+
+ Kazakhstan
+
+ Kyrgyz Republic Moldova
+
+ Russia
+
+ Tajikistan
+
+ Turkmenistan
+
+ Ukraine
+
+ Uzbekistan
+1 Georgia, Turkmenistan, and Ukraine, which are not members of the Commonwealth of Independent States, are included in this group for reasons of geography and similarity in economic structure.
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Emerging and Developing Asia
+Bangladesh
+
+ Bhutan
+
+ Brunei Darussalam
+
+ Cambodia
+
+ China
+
+ Fiji
+
+ India
+
+ Indonesia
+
+ Kiribati
+
+ Lao P.D.R.
+
+ Malaysia
+
+ Maldives
+
+ Marshall Islands
+
+ Micronesia
+
+ Mongolia Myanmar
+
+ Nauru
+
+ Nepal
+
+ Palau
+
+ Papua New Guinea
+
+ Philippines
+
+ Samoa
+
+ Solomon Islands
+
+ Sri Lanka
+
+ Thailand
+
+ Timor-Leste
+
+ Tonga
+
+ Tuvalu
+
+ Vanuatu
+
+ Vietnam
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)ASEAN-5
+Indonesia, Malaysia, Philippines, Thailand, and Vietnam
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Emerging and Developing Europe
+Albania
+
+ Bosnia and Herzegovina
+
+ Bulgaria
+
+ Croatia
+
+ Hungary
+
+ Kosovo FYR Macedonia
+
+ Montenegro
+
+ Poland
+
+ Romania
+
+ Serbia
+
+ Turkey
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Latin America and the Caribbean
+Antigua and Barbuda
+
+ Argentina
+
+ Aruba
+
+ The Bahamas
+
+ Barbados
+
+ Belize
+
+ Bolivia
+
+ Brazil
+
+ Chile
+
+ Colombia
+
+ Costa Rica
+
+ Dominica Dominican Republic
+
+ Ecuador
+
+ El Salvador
+
+ Grenada
+
+ Guatemala
+
+ Guyana
+
+ Haiti
+
+ Honduras
+
+ Jamaica
+
+ Mexico
+
+ Nicaragua
+
+Panama Paraguay
+
+ Peru
+
+ St. Kitts and Nevis
+
+ St. Lucia
+
+ St. Vincent and the Grenadines
+
+ Suriname
+
+ Trinidad and Tobago
+
+ Uruguay
+
+ Venezuela
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Middle East, North Africa, Afghanistan, and Pakistan
+Afghanistan
+
+ Algeria
+
+ Bahrain
+
+ Djibouti
+
+ Egypt
+
+ Iran
+
+ Iraq
+
+ Jordan
+
+ Kuwait
+
+ Lebanon
+
+ Libya
+
+ Mauritania Morocco
+
+ Oman
+
+ Pakistan
+
+ Qatar
+
+ Saudi Arabia
+
+ Somalia
+
+ Sudan 1
+
+ Syria 2
+
+ Tunisia
+
+ United Arab Emirates
+
+ Yemen
+1 Data for 2011 exclude South Sudan after July 9. Data for 2012 and onward pertain to the current Sudan.
+
+2 Data are excluded from 2011 and onward because of the ongoing conflict and related lack of data.
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Middle East and North Africa
+Algeria
+
+ Bahrain
+
+ Djibouti
+
+ Egypt
+
+ Iran
+
+ Iraq
+
+ Jordan
+
+ Kuwait
+
+ Lebanon
+
+ Libya
+
+ Mauritania Morocco
+
+ Oman
+
+ Qatar
+
+ Saudi Arabia
+
+ Somalia
+
+ Sudan 1
+
+ Syria 2
+
+ Tunisia
+
+ United Arab Emirates
+
+ Yemen
+1 Data for 2011 exclude South Sudan after July 9. Data for 2012 and onward pertain to the current Sudan.
+
+2 Data are excluded from 2011 and onward because of the ongoing conflict and related lack of data.
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)Sub-Saharan Africa
+Angola
+
+ Benin
+
+ Botswana
+
+ Burkina Faso
+
+ Burundi
+
+ Cabo Verde
+
+ Cameroon
+
+ Central African Republic
+
+ Chad
+
+ Comoros
+
+ Democratic Republic of the Congo
+
+ Republic of Congo
+
+ Côte d'Ivoire Equatorial Guinea
+
+ Eritrea
+
+ Eswatini
+
+ Ethiopia
+
+ Gabon
+
+ The Gambia
+
+ Ghana
+
+ Guinea
+
+ Guinea-Bissau
+
+ Kenya
+
+ Lesotho
+
+ Liberia
+
+ Madagascar
+
+ Malawi
+
+ Mali
+
+ Mauritius
+
+ Mozambique Namibia
+
+ Niger
+
+ Nigeria
+
+ Rwanda
+
+ São Tomé and Príncipe
+
+ Senegal
+
+ Seychelles
+
+ Sierra Leone
+
+ South Africa
+
+ South Sudan
+
+ Tanzania
+
+ Togo
+
+ Uganda
+
+ Zambia
+
+ Zimbabwe
+
+[](http://www.imf.org/external/pubs/ft/weo/2018/02/weodata/groups.htm)WEO Aggregates
+------------------------------------------------------------------------------------
+
+Composite data for country groups in the _World Economic Outlook_ are either sums or weighted averages of data for individual countries. All historical and projected data are recalculated to reflect changes in country group composition in order to ensure that the economic indicators reflect changes in economic conditions and not changes in the country group composition. Arithmetically weighted averages are used for all data except inflation for the other emerging market and developing country group—except data on inflation, for which geometric averages are used. The following conventions apply.
+
+*   Country group composites for interest rates, and growth rates of monetary aggregates are weighted by GDP converted to US dollars at market exchange rates (averaged over the preceding three years) as a share of group GDP.
+*   Composites for other data relating to the domestic economy, whether growth rates or ratios, are weighted by GDP valued at purchasing power parities (PPPs) as a share of total world or group GDP. Annual inflation rates are simple percent change from previous years, except in the case of other emerging market and developing countries for which the rates are based on logarithmic differences (see the [FAQ](http://www.imf.org/external/pubs/ft/weo/faq.htm) for more details).
+*   Composites for real GDP per capita in _purchasing power parity_ terms are sums of individual country data after conversion to the international dollar in the years indicated.
+*   Unless noted otherwise, composites for all sectors for the euro area are corrected for reporting discrepancies in intra-area transactions. Unadjusted annual GDP data are used for the euro area and for the majority of individual countries, except for Cyprus, Germany, Ireland, and Portugal, which report calendar adjusted data. For data prior to 1999, data aggregations apply 1995 European currency unit exchange rates.
+*   Composite unemployment rates are weighted by labor force as a share of group labor force.
+*   Composites relating to the external economy are sums of individual country data after conversion to US dollars at the average market exchange rates in the years indicated for balance of payments data and at end-of-year market exchange rates for debt denominated in currencies other than US dollars.
+*   Composites of changes in foreign trade volumes and prices, however, are arithmetic averages of percentage changes for individual countries weighted by the US dollar value of exports or imports as a share of total world or group exports or imports (in the preceding year).
+*   Composites for fiscal data are sums of individual country data after conversion to US dollars at the average market exchange rates in the years indicated.
+*   Unless noted otherwise, group composites are computed if 90 percent or more of the share of group weights is represented.

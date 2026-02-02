@@ -1,0 +1,373 @@
+# Valve debuts public bug bounty board in an effort to improve security
+
+Gamasutra - Valve debuts public bug bounty board in an effort to improve security
+
+===============
+
+The Wayback Machine - http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php
+
+*   Our Properties:
+*   [Gamasutra](http://www.gamasutra.com/)
+*   [GameCareerGuide](http://www.gamecareerguide.com/)
+*   [IndieGames](http://www.indiegames.com/)
+*   [GDC Vault](http://www.gdcvault.com/)
+*   [GDC](http://www.gdconf.com/)
+*   [IGF](http://www.igf.com/)
+
+[![Image 1: Gamasutra: The Art & Business of Making Games](https://twimgs.com/gamasutra/images/gamasutra_logo.png)](http://www.gamasutra.com/)![Image 2: spacer](https://twimgs.com/gamasutra/images/spacer.gif)
+
+SEARCH[GO](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php)
+
+[GAME JOBS](http://jobs.gamasutra.com/)
+
+[updates](http://www.gamasutra.com/updates/)[Blogs](http://www.gamasutra.com/blogs/)[contractors](http://www.gamasutra.com/contractors/contractor_display.php)[newsletter](http://www.gamasutra.com/newsletter-signup)[store](https://store.cmpgame.com/storefront.php?loc=&skin=gamasutra_redesign)
+
+SEARCH[GO](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php)
+
+*   [ALL](http://www.gamasutra.com/)
+*   [CONSOLE/PC](http://www.gamasutra.com/topic/console-pc)
+*   [SMARTPHONE/TABLET](http://www.gamasutra.com/topic/smartphone-tablet)
+*   [INDEPENDENT](http://www.gamasutra.com/topic/indie)
+*   [VR/AR](http://www.gamasutra.com/topic/vr)
+*   [SOCIAL/ONLINE](http://www.gamasutra.com/topic/social-online)
+
+[![Image 3: A 118x33 small image, likely a logo, icon or avatar](https://twimgs.com/gamasutra/images/btn_gdmag0.png)](http://www.gamasutra.com/topic/game-developer)
+
+*   [](http://www.facebook.com/pages/Gamasutra/31610613408)
+*   [](http://twitter.com/gamasutra)
+*   [](http://www.gamasutra.com/static2/rssfeeds.html)
+*   [](http://www.gamasutra.com/newsletter-signup)
+
+[![Image 4: arrow](https://twimgs.com/gamasutra/images/button_programming.gif)](http://www.gamasutra.com/category/programming/)
+
+[PROGRAMMING](http://www.gamasutra.com/category/programming/)
+
+* * *
+
+[![Image 5: spacer](https://twimgs.com/gamasutra/images/button_art.gif)](http://www.gamasutra.com/category/art/)
+
+[ART](http://www.gamasutra.com/category/art/)
+
+* * *
+
+[![Image 6: spacer](https://twimgs.com/gamasutra/images/button_audio.gif)](http://www.gamasutra.com/category/audio/)
+
+[AUDIO](http://www.gamasutra.com/category/audio/)
+
+* * *
+
+[![Image 7: arrow](https://twimgs.com/gamasutra/images/button_design.gif)](http://www.gamasutra.com/category/design/)
+
+[DESIGN](http://www.gamasutra.com/category/design/)
+
+* * *
+
+[![Image 8: arrow](https://twimgs.com/gamasutra/images/button_production.gif)](http://www.gamasutra.com/category/production/)
+
+[PRODUCTION](http://www.gamasutra.com/category/production/)
+
+* * *
+
+[![Image 9: arrow](https://twimgs.com/gamasutra/images/button_business.gif)](http://www.gamasutra.com/category/business-marketing/)
+
+[BIZ/MARKETING](http://www.gamasutra.com/category/business-marketing/)
+
+![Image 10: arrow](https://twimgs.com/gamasutra/images/icon_jobs.png)[Latest Jobs](http://jobs.gamasutra.com/)
+
+[**View All**](http://jobs.gamasutra.com/)[**RSS**](http://feeds.feedburner.com/GamasutraJobs)
+
+* * *
+
+**May 11, 2018**
+
+* * *
+
+*   Gear Inc.
+
+[[Vietnam] Game Designer](http://jobs.gamasutra.com/job/-vietnam-game-designer-hanoi-32430)
+
+*   Sucker Punch Productions
+
+[Outsource Artist](http://jobs.gamasutra.com/job/outsource-artist-bellevue-washington-32962)
+
+*   Sucker Punch Productions
+
+[Senior Environment Artist](http://jobs.gamasutra.com/job/senior-environment-artist-bellevue-washington-32961)
+
+*   Skydance Interactive
+
+[Software Engineer](http://jobs.gamasutra.com/job/software-engineer-marina-del-rey-california-32763)
+
+*   Skydance Interactive
+
+[Gameplay Engineer](http://jobs.gamasutra.com/job/gameplay-engineer-marina-del-rey-california-32658)
+
+*   Skydance Interactive
+
+[Marketing Video Lead](http://jobs.gamasutra.com/job/marketing-video-lead-marina-del-rey-california-32959)
+
+![Image 11: arrow](https://twimgs.com/gamasutra/images/icon_blogs.png)[Latest Blogs](http://www.gamasutra.com/blogs/)
+
+[**View All**](http://www.gamasutra.com/blogs/)[**Post**](http://www.gamasutra.com/blogs/edit/)[**RSS**](http://www.gamasutra.com/blogs/rss/)
+
+* * *
+
+**May 11, 2018**
+
+* * *
+
+*   [Podcast: IGDA GDSIG Mentor AMA Game Writing](http://www.gamasutra.com/blogs/SandeChen/20180510/317890/Podcast_IGDA_GDSIG_Mentor_AMA_Game_Writing.php)
+
+*   [Shadow of the Tomb Raider and the risk of making an introspective AAA game](http://www.gamasutra.com/blogs/BryantFrancis/20180508/317769/Shadow_of_the_Tomb_Raider_and_the_risk_of_making_an_introspective_AAA_game.php)
+
+*   [Recalling the Leviathan Axe](http://www.gamasutra.com/blogs/VinceNapoli/20180508/317680/Recalling_the_Leviathan_Axe.php) [[11](http://www.gamasutra.com/blogs/VinceNapoli/20180508/317680/Recalling_the_Leviathan_Axe.php#comments "11 comments")] 
+
+*   [My Library of Free GameDev Resources, Tutorials, and More](http://www.gamasutra.com/blogs/TrentPolack/20180507/317696/My_Library_of_Free_GameDev_Resources_Tutorials_and_More.php)
+
+*   [China could beat America in AR/VR/XR long-term](http://www.gamasutra.com/blogs/TimMerel/20180507/317636/China_could_beat_America_in_ARVRXR_longterm.php)
+
+![Image 12: arrow](https://twimgs.com/gamasutra/images/icon_blogs.png)Press Releases
+
+**May 11, 2018**
+
+* * *
+
+[**Games Press**](http://www.gamasutra.com/pressreleases_index.php)
+
+* * *
+
+*   [First Major Hunt: Showdown Content Update Now Live...](http://www.gamasutra.com/view/pressreleases/317984/First_Major_Hunt_Showdown_Content_Update_Now_Live_On_Steam.php)
+
+*   [Making humanity a multiplanetary species in...](http://www.gamasutra.com/view/pressreleases/317985/Making_humanity_a_multiplanetary_species_in_upcoming_game_Mars_Horizon_developed_with_support_from_the_UK_Space_Agency.php)
+
+*   [Anime Mecha Shoot â€˜em Up â€˜Project Nimbus: Code...](http://www.gamasutra.com/view/pressreleases/317986/Anime_Mecha_Shoot_em_Up_Project_Nimbus_Code_Mirai_Set_to_Spread_its_Wings_on_Monday_as_it_Launches_Worldwide_and_Sequel_is_Revealed.php)
+
+*   [RISING STORM 2: VIETNAM Players Get New Playable...](http://www.gamasutra.com/view/pressreleases/317988/RISING_STORM_2_VIETNAM_Players_Get_New_Playable_Faction_with_Free_Army_of_the_Republic_of_Vietnam_Update_on_May_29.php)
+
+*   [THE ONE-WINGED ANGEL SEPHIROTH DESCENDS UPON FINAL...](http://www.gamasutra.com/view/pressreleases/317987/THE_ONEWINGED_ANGEL_SEPHIROTH_DESCENDS_UPON_FINAL_FANTASY_BRAVE_EXVIUS.php)
+
+[**View All**](http://www.gamasutra.com/pressreleases_index.php)[**RSS**](http://www.gamasutra.com/pressreleases/rss/)
+
+![Image 13: arrow](https://twimgs.com/gamasutra/images/icon_about.png)[About](http://www.gamasutra.com/contactus)
+
+*   **Editor-In-Chief:**
+
+[Kris Graft](mailto:kgraft@gamasutra.com)
+
+*   **Editor:**
+
+[Alex Wawro](mailto:alex.wawro@ubm.com)
+
+*   **Assignment Editor:**
+
+[Chris Baker](mailto:chris.baker@ubm.com)
+
+*   **Contributors:**
+
+ Chris Kerr
+
+ Alissa McAloon
+
+ Emma Kidwell
+
+ Bryant Francis
+
+ Katherine Cross
+
+*   **Advertising:**
+
+[Libby Kruse](mailto:libby.kruse@ubm.com)
+
+* * *
+
+[Contact Gamasutra](http://www.gamasutra.com/contactus)
+
+* * *
+
+[Report a Problem](mailto:support@gamasutra.com)
+
+* * *
+
+[Submit News](mailto:news@gamasutra.com)
+
+* * *
+
+[Comment Guidelines](http://www.gamasutra.com/static2/comment_guidelines.html)
+
+* * *
+
+[Blogging Guidelines](http://www.gamasutra.com/static2/blogsubmissions.html)
+
+* * *
+
+[How We Work](http://www.gamasutra.com/static2/howwework.html)
+
+[![Image 14: Sponsor](https://twimgs.com/gamasutra/images/AdwGama_177x60_button_v1.jpg)](http://www.ubmgamenetwork.com/online/)
+
+![Image 15: arrow](https://twimgs.com/gamasutra/images/icon_about.png)[Gama Network](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php#)
+
+ If you enjoy reading this site, you might also want to check out these UBM Tech sites: 
+
+* * *
+
+[](http://www.gamecareerguide.com/)
+
+[Game Career Guide](http://www.gamecareerguide.com/)
+
+* * *
+
+[](http://www.indiegames.com/blog)
+
+[Indie Games](http://www.indiegames.com/blog)
+
+![Image 16: Valve debuts public bug bounty board in an effort to improve security](https://www.gamasutra.com/db_area/images/news/2018/May/317954/valveguy.jpg)
+Valve debuts public bug bounty board in an effort to improve security
+=====================================================================
+
+ May 10, 2018 | By [Alex Wawro](http://www.gamasutra.com/blogs/author/AlexWawro/950494/)
+
+* * *
+
+ May 10, 2018 | By [Alex Wawro](http://www.gamasutra.com/blogs/author/AlexWawro/950494/)
+
+* * *
+
+![Image 17: Comments](https://twimgs.com/gamasutra/images/comments_bubble.gif)
+
+[Post A Comment](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php#comments)
+
+* * *
+
+ More: [Social/Online](http://www.gamasutra.com/news/social-online/), [Business/Marketing](http://www.gamasutra.com/news/business-marketing/)
+
+* * *
+
+[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php# "Twitter")[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php# "Facebook")[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php)[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php# "Pinterest")[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php# "Gmail")[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php#)
+
+* * *
+
+The folks at Valve set up a [public bug bounty board](https://hackerone.com/valve?view_policy=true) on the HackerOne platform on Monday in an effort to patch up security vulnerabilities in Steam, Valve games, and other Valve services by paying people to report them.
+
+This is a big deal given how many people use Valve's tech (which has occasionally been breached in a very [public](http://gamasutra.com/view/news/40256/Steam_transaction_records_potentially_compromised_in_November_hack.php)[fashion](https://www.gamasutra.com/view/news/226771/Four_hackers_indicted_for_breaking_into_Valve_and_Microsoft_servers.php)),though devs who are interested in participating should know that the bounties are only paid for work done within very specific guidelines.
+
+Valve is joining [Nintendo](https://www.gamasutra.com/view/news/295899/Nintendo_is_offering_up_to_20k_to_folks_that_track_down_Switch_vulnerabilities.php), [Oculus](https://www.gamasutra.com/view/news/223834/Oculus_added_to_Facebooks_bug_bounty_program.php), and a litany of other tech companies in establishing a public bug bounty program, years after hobbyist hacker Ruby Nealon[told Ars Technica](https://arstechnica.com/gaming/2016/04/steam-hacker-says-more-vulnerabilities-will-be-found-but-not-by-him/)he was going to give up probing the security of Valve's services because they "giv[e] so little of a shit about people's [security] findings."
+
+"I won't be finding bugs anymore for Valve because there are plenty of companies that appreciate the time and effort put in by security researchers," Nealon said in 2016, shortly after publicly revealing two Steam exploits, one of which allowed him to [post a game on the service without Valve's permission](https://www.gamasutra.com/blogs/RubyNealon/20160329/269172/Watch_Paint_Dry.php)."See HackerOne, which is an entire platform hundreds of companies use. I felt like Valve were exploiting me."
+
+In the three days since launch, Valve's new HackerOne bug bounty program has paid out over $108,000 in bounties (the minimum payout is $100) and publicly thanked 39 hackers. For full details about the program and what's fair game, check out [Valve's HackerOne page](https://hackerone.com/valve).
+
+* * *
+
+[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php)[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php)[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php# "Reddit")[](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php# "StumbleUpon")[[Share](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php)[?](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php# "More")](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php#)
+
+* * *
+
+### Related Jobs
+
+[![Image 18: Gear Inc.](https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1020597.png)](http://jobs.gamasutra.com/job/-vietnam-game-designer-hanoi-32430)
+
+**Gear Inc. — Hanoi, Vietnam 
+
+ [05.11.18]**
+
+[[Vietnam] Game Designer](http://jobs.gamasutra.com/job/-vietnam-game-designer-hanoi-32430)
+
+[![Image 19: Sucker Punch Productions](https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/AU358.gif)](http://jobs.gamasutra.com/job/outsource-artist-bellevue-washington-32962)
+
+**Sucker Punch Productions — Bellevue, Washington, United States 
+
+ [05.10.18]**
+
+[Outsource Artist](http://jobs.gamasutra.com/job/outsource-artist-bellevue-washington-32962)
+
+[![Image 20: Sucker Punch Productions](https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/AU358.gif)](http://jobs.gamasutra.com/job/senior-environment-artist-bellevue-washington-32961)
+
+**Sucker Punch Productions — Bellevue, Washington, United States 
+
+ [05.10.18]**
+
+[Senior Environment Artist](http://jobs.gamasutra.com/job/senior-environment-artist-bellevue-washington-32961)
+
+[![Image 21: Skydance Interactive](https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/944688.PNG)](http://jobs.gamasutra.com/job/software-engineer-marina-del-rey-california-32763)
+
+**Skydance Interactive — Marina Del Rey , California, United States 
+
+ [05.10.18]**
+
+[Software Engineer](http://jobs.gamasutra.com/job/software-engineer-marina-del-rey-california-32763)
+
+**[[View All Jobs](http://jobs.gamasutra.com/)]**
+
+* * *
+
+### Top Stories
+
+[![Image 22](http://www.gamasutra.com/images/news/317863_thumb.jpg)](http://www.gamasutra.com/view/news/317863/QA_Building_and_balancing_Battletechs_procedurallygenerated_missions.php)
+
+[**Q&A;: Building and balancing _Battletech_'s procedurally-generated missions**](http://www.gamasutra.com/view/news/317863/QA_Building_and_balancing_Battletechs_procedurallygenerated_missions.php)
+
+[![Image 23](http://www.gamasutra.com/images/news/316731_thumb.jpg)](http://www.gamasutra.com/view/news/316731/How_the_QUBE_2_devs_built_a_better_massive_3D_puzzle_labyrinth.php)
+
+[**How the _QUBE 2_ devs built a better massive 3D puzzle labyrinth**](http://www.gamasutra.com/view/news/316731/How_the_QUBE_2_devs_built_a_better_massive_3D_puzzle_labyrinth.php)
+
+[![Image 24](http://www.gamasutra.com/images/news/317937_thumb.jpg)](http://www.gamasutra.com/view/news/317937/PS4_PaRappa_remaster_was_a_PSP_emulation_with_updated_textures.php)
+
+[**PS4 _PaRappa_ remaster was a PSP emulation with updated textures**](http://www.gamasutra.com/view/news/317937/PS4_PaRappa_remaster_was_a_PSP_emulation_with_updated_textures.php)
+
+[![Image 25](http://www.gamasutra.com/images/news/317766_thumb.jpg)](http://www.gamasutra.com/view/news/317766/Designing_Vandals_a_turnbased_stealth_game_about_graffiti_artists.php)
+
+[**Designing _Vandals_, a turn-based stealth game about graffiti artists**](http://www.gamasutra.com/view/news/317766/Designing_Vandals_a_turnbased_stealth_game_about_graffiti_artists.php)
+
+**[[Next News Story](http://www.gamasutra.com/view/news/317948/Video_Reclaiming_your_creative_drive_in_the_face_of_hardship.php)]  [[View All](http://www.gamasutra.com/updates)]**
+
+317954 newswire/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php[Loading Comments](http://www.gamasutra.com/view/news/317954/Valve_debuts_public_bug_bounty_board_in_an_effort_to_improve_security.php)
+
+* * *
+
+![Image 26: loader image](http://www.gamasutra.com/ajax-loader.gif)
+
+[![Image 27: UBM](https://twimgs.com/nojitter/gama/UBM_Logo_White.png)](http://www.ubmtechweb.com/)
+
+*   TECHNOLOGY GROUP
+*   [Black Hat](http://www.blackhat.com/)
+*   [Content Marketing Institute](http://contentmarketinginstitute.com/)
+*   [Content Marketing World](http://www.contentmarketingworld.com/)
+*   [Dark Reading](http://www.darkreading.com/)
+
+*   [Enterprise Connect](http://www.enterpriseconnect.com/)
+*   [GDC](http://www.gdconf.com/)
+*   [Gamasutra](http://www.gamasutra.com/)
+*   [HDI](http://www.thinkhdi.com/)
+
+*   [ICMI](http://www.icmi.com/)
+*   [InformationWeek](http://www.informationweek.com/)
+*   [INsecurity](http://insecurity.com/)
+*   [Interop ITX](http://www.interop.com/)
+
+*   [Network Computing](http://www.networkcomputing.com/)
+*   [No Jitter](http://www.nojitter.com/)
+*   [Service Management World](http://www.smworld.com/)
+*   [XRDC](http://www.xrdconf.com/)
+
+*   COMMUNITIES SERVED
+*   [Content Marketing](http://tech.ubm.com/community-brands/content-marketing-2/)
+*   [Enterprise IT](http://tech.ubm.com/community-brands/enterprise-it/)
+*   [Enterprise Communications](http://tech.ubm.com/community-brands/enterprise-communications/)
+*   [Game Development](http://tech.ubm.com/community-brands/game-and-app-developers/)
+*   [Information Security](http://tech.ubm.com/community-brands/information-security/)
+*   [IT Services & Support](http://tech.ubm.com/community-brands/technical-service-and-support/)
+
+*   WORKING WITH US
+*   [Advertising Contacts](http://createyournextcustomer.techweb.com/contact-us/)
+*   [Event Calendar](http://events.ubm.com/?company=10)
+*   [Tech Marketing](http://createyournextcustomer.techweb.com/)
+*   [Solutions](http://createyournextcustomer.techweb.com/)
+*   [Contact Us](http://tech.ubm.com/contact-us/)
+*   [Licensing](http://wrightsmedia.com/sites/ubm/index.cfm)
+
+*   [Terms of Service](http://legal.us.ubm.com/terms-of-service/)
+*   [Privacy Statement](http://legal.us.ubm.com/privacy-policy/)
+*   [Legal Entities](http://reg.ubmamevents.com/UBMLegalEntities)
+*   Copyright © 2018 UBM, All rights reserved
+
+![Image 29](http://www.gamasutra.comhttps//rudy.adsnative.com/cm.gif)

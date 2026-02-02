@@ -1,0 +1,82 @@
+# COVID-19 Vaccine Breakthrough Infections Reported to CDC – United States, January 1 – April 30, 2021
+
+* * *
+
+COVID-19 vaccines are a critical tool for controlling the ongoing global pandemic. The Food and Drug Administration (FDA) has issued Emergency Use Authorizations for three COVID-19 vaccines for use in the United States.[*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#FN1) In large, randomized-controlled trials, each vaccine was found to be safe and efficacious in preventing symptomatic, laboratory-confirmed COVID-19 ([_1_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R1)–[_3_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R3)). Despite the high level of vaccine efficacy, a small percentage of fully vaccinated persons (i.e. received all recommended doses of an FDA-authorized COVID-19 vaccine) will develop symptomatic or asymptomatic infections with SARS-CoV-2, the virus that causes COVID-19 ([_2_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R2)–[_8_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R8)).
+
+CDC is working with state and territorial health departments to investigate SARS-CoV-2 infections among persons who are fully vaccinated and to monitor trends in case characteristics and SARS-CoV-2 variants identified from persons with these infections. For this surveillance, a vaccine breakthrough infection is defined as the detection of SARS-CoV-2 RNA or antigen in a respiratory specimen collected from a person ≥14 days after receipt of all recommended doses of an FDA-authorized COVID-19 vaccine. State health departments voluntarily report vaccine breakthrough infections to CDC.[†](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#FN2) When possible, genomic sequencing is performed on respiratory specimens that test positive for SARS-CoV-2 RNA ([_9_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R9)).
+
+A total of 10,262 SARS-CoV-2 vaccine breakthrough infections had been reported from 46 U.S. states and territories as of April 30, 2021. Among these cases, 6,446 (63%) occurred in females, and the median patient age was 58 years (interquartile range=40–74 years). Based on preliminary data, 2,725 (27%) vaccine breakthrough infections were asymptomatic, 995 (10%) patients were known to be hospitalized, and 160 (2%) patients died. Among the 995 hospitalized patients, 289 (29%) were asymptomatic or hospitalized for a reason unrelated to COVID-19. The median age of patients who died was 82 years (interquartile range=71–89 years); 28 (18%) decedents were asymptomatic or died from a cause unrelated to COVID-19. Sequence data were available from 555 (5%) reported cases, 356 (64%) of which were identified as SARS-CoV-2 variants of concern,[§](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#FN3) including B.1.1.7 (199; 56%), B.1.429 (88; 25%), B.1.427 (28; 8%), P.1 (28; 8%), and B.1.351 (13; 4%).
+
+As of April 30, 2021, approximately 101 million persons in the United States had been fully vaccinated against COVID-19.[¶](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#FN4) However, during the surveillance period, SARS-CoV-2 transmission continued at high levels in many parts of the country, with approximately 355,000 COVID-19 cases reported nationally during the week of April 24–30, 2021.[**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#FN5) Even though FDA-authorized vaccines are highly effective, breakthrough cases are expected, especially before population immunity reaches sufficient levels to further decrease transmission. However, vaccine breakthrough infections occur in only a small fraction of all vaccinated persons and account for a small percentage of all COVID-19 cases ([_5_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R5)–[_8_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R8)). The number of COVID-19 cases, hospitalizations, and deaths that will be prevented among vaccinated persons will far exceed the number of vaccine breakthrough cases. To date, the age and sex distribution of reported vaccine breakthrough infections reflects the fully vaccinated U.S. population.[††](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#FN6) The proportion of reported vaccine breakthrough infections attributed to variants of concern has also been similar to the proportion of these variants circulating throughout the United States. During March 28–April 10, 2021, the aforementioned variants of concern accounted for 70% of the weighted estimates of SARS-CoV-2 lineages submitted to CDC’s national genomic surveillance.[§§](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#FN7)
+
+The findings in this report are subject to at least two limitations. First, the number of reported COVID-19 vaccine breakthrough cases is likely a substantial undercount of all SARS-CoV-2 infections among fully vaccinated persons. The national surveillance system relies on passive and voluntary reporting, and data might not be complete or representative. Many persons with vaccine breakthrough infections, especially those who are asymptomatic or who experience mild illness, might not seek testing. Second, SARS-CoV-2 sequence data are available for only a small proportion of the reported cases.
+
+Beginning May 1, 2021, CDC transitioned from monitoring all reported COVID-19 vaccine breakthrough infections to investigating only those among patients who are hospitalized or die, thereby focusing on the cases of highest clinical and public health significance. CDC will continue to lead studies in multiple U.S. sites to evaluate vaccine effectiveness and collect information on all COVID-19 vaccine breakthrough infections regardless of clinical status. Additional information and resources to help public health departments and laboratories investigate and report COVID-19 vaccine breakthrough cases are available at [https://www.cdc.gov/vaccines/covid-19/health-departments/breakthrough-cases.html](https://www.cdc.gov/vaccines/covid-19/health-departments/breakthrough-cases.html).
+
+FDA-authorized COVID-19 vaccines are safe and effective ([_1_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R1)–[_8_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R8)). CDC recommends that all persons aged ≥12 years be vaccinated with an FDA-authorized COVID-19 vaccine[¶¶](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#FN8) ([_10_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893#R10)).
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893)Acknowledgments
+-----------------------------------------------------------------------
+
+Suxiang Tong; CDC COVID-19 Strain Surveillance and Emerging Variant Team, Laboratory and Testing Task Force; state and local health departments.
+
+All authors have completed and submitted the International Committee of Medical Journal Editors form for disclosure of potential conflicts of interest. No potential conflicts of interest were disclosed.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893)Footnotes
+-----------------------------------------------------------------
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893)Contributor Information
+-------------------------------------------------------------------------------
+
+Meseret Birhane, CDC.
+
+Sara Bressler, CDC.
+
+Gregory Chang, CDC.
+
+Thomas Clark, CDC.
+
+Layne Dorough, CDC.
+
+Marc Fischer, CDC.
+
+Louise Francois Watkins, CDC.
+
+Jason M. Goldstein, CDC
+
+Kiersten Kugeler, CDC.
+
+Gayle Langley, CDC.
+
+Kristin Lecy, CDC.
+
+Stacey Martin, CDC.
+
+Felicita Medalla, CDC.
+
+Kiren Mitruka, CDC.
+
+Leisha Nolen, CDC.
+
+Katrin Sadigh, CDC.
+
+Robin Spratling, CDC.
+
+Gail Thompson, CDC.
+
+Alma Trujillo, CDC..
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8158893)References
+------------------------------------------------------------------
+
+*   1.Polack FP, Thomas SJ, Kitchin N, et al. ; C4591001 Clinical Trial Group. Safety and efficacy of the BNT162b2 mRNA COVID-19 vaccine. N Engl J Med 2020;383:2603–15. 10.1056/NEJMoa2034577 [[DOI](https://doi.org/10.1056/NEJMoa2034577)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7745181/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33301246/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Safety%20and%20efficacy%20of%20the%20BNT162b2%20mRNA%20COVID-19%20vaccine.&author=FP%20Polack&author=SJ%20Thomas&author=N%20Kitchin&volume=383&publication_year=2020&pages=2603-15&pmid=33301246&doi=10.1056/NEJMoa2034577&)]
+*   2.Baden LR, El Sahly HM, Essink B, et al. ; COVE Study Group. Efficacy and safety of the mRNA-1273 SARS-CoV-2 vaccine. N Engl J Med 2021;384:403–16. 10.1056/NEJMoa2035389 [[DOI](https://doi.org/10.1056/NEJMoa2035389)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7787219/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33378609/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Efficacy%20and%20safety%20of%20the%20mRNA-1273%20SARS-CoV-2%20vaccine.&author=LR%20Baden&author=HM%20El%20Sahly&author=B%20Essink&volume=384&publication_year=2021&pages=403-16&pmid=33378609&doi=10.1056/NEJMoa2035389&)]
+*   3.Sadoff J, Gray G, Vandebosch A, et al. ; ENSEMBLE Study Group. Safety and efficacy of single-dose Ad26.COV2.S vaccine against COVID-19. N Engl J Med 2021;NEJMoa2101544. Epub April 21, 2021. 10.1056/NEJMoa2101544 [[DOI](https://doi.org/10.1056/NEJMoa2101544)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8220996/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33882225/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Safety%20and%20efficacy%20of%20single-dose%20Ad26.COV2.S%20vaccine%20against%20COVID-19.&author=J%20Sadoff&author=G%20Gray&author=A%20Vandebosch&publication_year=2021&pages=NEJMoa2101544&pmid=33882225&doi=10.1056/NEJMoa2101544&)]
+*   4.Thompson MG, Burgess JL, Naleway AL, et al. Interim estimates of vaccine effectiveness of BNT162b2 and mRNA-1273 COVID-19 vaccines in preventing SARS-CoV-2 infection among health care personnel, first responders, and other essential and frontline workers—eight U.S. locations, December 2020–March 2021. MMWR Morb Mortal Wkly Rep 2021;70:495–500. 10.15585/mmwr.mm7013e3 [[DOI](https://doi.org/10.15585/mmwr.mm7013e3)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8022879/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33793460/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&title=Interim%20estimates%20of%20vaccine%20effectiveness%20of%20BNT162b2%20and%20mRNA-1273%20COVID-19%20vaccines%20in%20preventing%20SARS-CoV-2%20infection%20among%20health%20care%20personnel,%20first%20responders,%20and%20other%20essential%20and%20frontline%20workers%E2%80%94eight%20U.S.%20locations,%20December%202020%E2%80%93March%202021.&author=MG%20Thompson&author=JL%20Burgess&author=AL%20Naleway&volume=70&publication_year=2021&pages=495-500&pmid=33793460&doi=10.15585/mmwr.mm7013e3&)]
+*   5.Tenforde MW, Olson SM, Self WH, et al. ; IVY Network; HAIVEN Investigators. Effectiveness of Pfizer-BioNTech and Moderna vaccines against COVID-19 among hospitalized adults aged ≥65 years—United States, January–March 2021. MMWR Morb Mortal Wkly Rep 2021;70:674–9. 10.15585/mmwr.mm7018e1 [[DOI](https://doi.org/10.15585/mmwr.mm7018e1)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9368749/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33956782/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&title=Effectiveness%20of%20Pfizer-BioNTech%20and%20Moderna%20vaccines%20against%20COVID-19%20among%20hospitalized%20adults%20aged%20%E2%89%A565%20years%E2%80%94United%20States,%20January%E2%80%93March%202021.&author=MW%20Tenforde&author=SM%20Olson&author=WH%20Self&volume=70&publication_year=2021&pages=674-9&pmid=33956782&doi=10.15585/mmwr.mm7018e1&)]
+*   6.Tande AJ, Pollock BD, Shah ND, et al. Impact of the COVID-19 vaccine on asymptomatic infection among patients undergoing pre-procedural COVID-19 molecular screening. Clin Infect Dis 2021;ciab229. Epub March 10, 2021. 10.1093/cid/ciab229 [[DOI](https://doi.org/10.1093/cid/ciab229)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7989519/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33704435/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Infect%20Dis&title=Impact%20of%20the%20COVID-19%20vaccine%20on%20asymptomatic%20infection%20among%20patients%20undergoing%20pre-procedural%20COVID-19%20molecular%20screening.&author=AJ%20Tande&author=BD%20Pollock&author=ND%20Shah&publication_year=2021&pages=ciab229.%20Epub%20March%2010,%202021&pmid=33704435&doi=10.1093/cid/ciab229&)]
+*   7.Swift MD, Breeher LE, Tande AJ, et al. Effectiveness of mRNA COVID-19 vaccines against SARS-CoV-2 infection in a cohort of healthcare personnel. Clin Infect Dis 2021;ciab361. Epub April 26, 2021. 10.1093/cid/ciab361 [[DOI](https://doi.org/10.1093/cid/ciab361)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8135611/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33900384/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Infect%20Dis&title=Effectiveness%20of%20mRNA%20COVID-19%20vaccines%20against%20SARS-CoV-2%20infection%20in%20a%20cohort%20of%20healthcare%20personnel.&author=MD%20Swift&author=LE%20Breeher&author=AJ%20Tande&publication_year=2021&pages=ciab361.%20Epub%20April%2026,%202021&pmid=33900384&doi=10.1093/cid/ciab361&)]
+*   8.Haas EJ, Angulo FJ, McLaughlin JM, et al. Impact and effectiveness of mRNA BNT162b2 vaccine against SARS-CoV-2 infections and COVID-19 cases, hospitalisations, and deaths following a nationwide vaccination campaign in Israel: an observational study using national surveillance data. Lancet 2021;397:1819–29. 10.1016/S0140-6736(21)00947-8 [[DOI](https://doi.org/10.1016/S0140-6736(21)00947-8)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8099315/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33964222/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=Impact%20and%20effectiveness%20of%20mRNA%20BNT162b2%20vaccine%20against%20SARS-CoV-2%20infections%20and%20COVID-19%20cases,%20hospitalisations,%20and%20deaths%20following%20a%20nationwide%20vaccination%20campaign%20in%20Israel:%20an%20observational%20study%20using%20national%20surveillance%20data.&author=EJ%20Haas&author=FJ%20Angulo&author=JM%20McLaughlin&volume=397&publication_year=2021&pages=1819-29&pmid=33964222&doi=10.1016/S0140-6736(21)00947-8&)]
+*   9.Paden CR, Tao Y, Queen K, et al. Rapid, sensitive, full-genome sequencing of severe acute respiratory syndrome coronavirus 2. Emerg Infect Dis 2020;26:2401–5. 10.3201/eid2610.201800 [[DOI](https://doi.org/10.3201/eid2610.201800)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7510745/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32610037/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Emerg%20Infect%20Dis&title=Rapid,%20sensitive,%20full-genome%20sequencing%20of%20severe%20acute%20respiratory%20syndrome%20coronavirus%202.&author=CR%20Paden&author=Y%20Tao&author=K%20Queen&volume=26&publication_year=2020&pages=2401-5&pmid=32610037&doi=10.3201/eid2610.201800&)]
+*   10.Wallace M, Woodworth KR, Gargano JW, et al. The Advisory Committee on Immunization Practices’ interim recommendation for use of Pfizer-BioNTech COVID-19 vaccine in adolescents aged 12–15 years—United States, May 2021. MMWR Morb Mortal Wkly Rep 2021;70:749–52. [https://www.cdc.gov/mmwr/volumes/70/wr/mm7020e1.htm?s_cid=mm7020e1_w](https://www.cdc.gov/mmwr/volumes/70/wr/mm7020e1.htm?s_cid=mm7020e1_w) 10.15585/mmwr.mm7020e1 [[DOI](https://doi.org/10.15585/mmwr.mm7020e1)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8136423/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34014913/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&title=The%20Advisory%20Committee%20on%20Immunization%20Practices%E2%80%99%20interim%20recommendation%20for%20use%20of%20Pfizer-BioNTech%20COVID-19%20vaccine%20in%20adolescents%20aged%2012%E2%80%9315%20years%E2%80%94United%20States,%20May%202021.&author=M%20Wallace&author=KR%20Woodworth&author=JW%20Gargano&volume=70&publication_year=2021&pages=749-52&pmid=34014913&doi=10.15585/mmwr.mm7020e1&)]

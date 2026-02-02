@@ -1,0 +1,358 @@
+# A third wave of autocratization is here: what is new about it?
+
+ABSTRACT
+--------
+
+Less than 30 years after Fukuyama and others declared liberal democracy’s eternal dominance, a third wave of autocratization is manifest. Gradual declines of democratic regime attributes characterize contemporary autocratization. Yet, we lack the appropriate conceptual and empirical tools to diagnose and compare such elusive processes. Addressing that gap, this article provides the first comprehensive empirical overview of all autocratization episodes from 1900 to today based on data from the Varieties of Democracy Project (V-Dem). We demonstrate that a third wave of autocratization is indeed unfolding. It mainly affects democracies with gradual setbacks under a legal façade. While this is a cause for concern, the historical perspective presented in this article shows that panic is not warranted: the current declines are relatively mild and the global share of democratic countries remains close to its all-time high. As it was premature to announce the “end of history” in 1992, it is premature to proclaim the “end of democracy” now.
+
+This article is part of the following collection(s):
+
+Introduction
+------------
+
+The decline of democratic regime attributes – autocratization – has emerged as a conspicuous global challenge. Democratic setbacks in countries as diverse as Brazil, Burundi, Hungary, Russia, Serbia, and Turkey have sparked a new generation of studies on autocratization.[Footnote 1](https://doi.org/10.1080/13510347.2019.1582029#)
+
+Two key issues are not yet settled in this reinvigorated field. First, scholars agree that contemporary democracies tend to erode gradually and under legal disguise.[Footnote 2](https://doi.org/10.1080/13510347.2019.1582029#) Democratic breakdowns used to be rather sudden events – for instance military coups – and relatively easy to identify empirically.[Footnote 3](https://doi.org/10.1080/13510347.2019.1582029#) Now, multi-party regimes slowly become less meaningful in practice[Footnote 4](https://doi.org/10.1080/13510347.2019.1582029#) making it increasingly difficult to pinpoint the end of democracy. Yet, in face of this emerging consensus we lack the appropriate conceptual and empirical tools to systematically analyse such obscure processes.
+
+The second key issue, partly a product of the first, is that analysts disagree about how momentous the current wave of autocratization is. Some draw parallels to the breakdown of democracies in the 1930s and the rise of anti-democratic demagogues.[Footnote 5](https://doi.org/10.1080/13510347.2019.1582029#) Others maintain that the world is still more democratic,[Footnote 6](https://doi.org/10.1080/13510347.2019.1582029#) developed[Footnote 7](https://doi.org/10.1080/13510347.2019.1582029#) and emancipated[Footnote 8](https://doi.org/10.1080/13510347.2019.1582029#) than ever during the twentieth century. How wide and deep does the current autocratization trend cut?
+
+This article addresses these gaps with a three-pronged strategy. First, it provides a definition of autocratization as substantial de-facto decline of core institutional requirements for electoral democracy. This notion is more encompassing than the frequently used term democratic backsliding, which suggests an involuntary reversal back to historical precedents. Our notion of democracy is based on Dahl’s famous conceptualization of electoral democracy as “polyarchy”, namely clean elections, freedom of association, universal suffrage, an elected executive, as well as freedom of expression and alternative sources of information.[Footnote 9](https://doi.org/10.1080/13510347.2019.1582029#)
+
+Second, this article offers a new type of operationalization that in a systematic fashion captures the conceptual meaning of autocratization as episodes of substantial change based on data from the Varieties of Democracy Project (V-Dem). This new measure has four major advantages: It measures what we actually want to study; it is sensitive to changes in the de-facto implementation of democratic rules; and it is nuanced enough to also capture gradual autocratization processes and thus avoid biasing the sample towards fast-moving changes. Finally, it allows us to pinpoint the year of the onset of autocratization processes, which opens new avenues for empirical studies.
+
+Third, this article employs the new measure in a systematic study that adds a historical perspective on contemporary autocratization. The resultant findings are mixed. On the one hand, we are the first to show that a “third wave of autocratization” affecting an unprecedented high number of democracies is under way. This wave unfolds slow and piecemeal making it hard to evidence. Ruling elites shy away from sudden, drastic moves to autocracy and instead mimic democratic institutions while gradually eroding their functions. This suggests we should heed the call of alarm issued by some scholars.
+
+On the other hand, the evidence here also shows that we still live in a democratic era with more than half of all countries qualifying as democratic. In addition, most episodes of contemporary autocratization are not only slower, but also feebler than their historical cousins, at least as of yet. Thus, the affected countries remain more democratic than their equivalents hit by earlier waves of autocratization.
+
+Below, we first pursue a review of the literature followed by a reconceptualization of autocratization with accompanying operationalization, description of data, and coding procedures. The following section presents a series of descriptive analyses of the three waves of autocratization, followed by a closer examination of the autocratization of democracies. The final section introduces a new metric – the rate of autocratization – as an indicator for the pace of such processes. We conclude with a summary of the findings and avenues for future research.
+
+State of the art at present
+---------------------------
+
+Many have noted that the optimism spurred by the force of the third wave of democratization[Footnote 10](https://doi.org/10.1080/13510347.2019.1582029#) was premature, including Fukuyama’s[Footnote 11](https://doi.org/10.1080/13510347.2019.1582029#) relegation of the reverse process – autocratization – to the history books. A plethora of autocracies defied the trend[Footnote 12](https://doi.org/10.1080/13510347.2019.1582029#) or made some half-hearted reforms while remaining in the grey zone between democracy and autocracy.[Footnote 13](https://doi.org/10.1080/13510347.2019.1582029#)
+
+Yet, when assessments about “freedom in retreat”[Footnote 14](https://doi.org/10.1080/13510347.2019.1582029#) or “democratic rollback”[Footnote 15](https://doi.org/10.1080/13510347.2019.1582029#) emerged, they were frequently challenged. At the time, global measures of democracy had merely plateaued and established democracies did not appear to be in distress.[Footnote 16](https://doi.org/10.1080/13510347.2019.1582029#) Now evidence is mounting that a global reversal is challenging a series of established democracies, including the United States who were downgraded by both Freedom House and V-Dem in 2018.[Footnote 17](https://doi.org/10.1080/13510347.2019.1582029#) Substantial autocratization has been recorded over the last 10 years in countries as diverse as Hungary, India, Russia, Turkey, and Venezuela.[Footnote 18](https://doi.org/10.1080/13510347.2019.1582029#) An increasingly bleak picture is emerging on the global state of democracy,[Footnote 19](https://doi.org/10.1080/13510347.2019.1582029#) even if some maintain that the achievements of the third wave of democratization are still noticeable.[Footnote 20](https://doi.org/10.1080/13510347.2019.1582029#)
+
+Waldner and Lust recently concluded that “[t]he study of [democratic] backsliding is an important new research frontier”. [Footnote 21](https://doi.org/10.1080/13510347.2019.1582029#) A series of new studies on autocratization seems to have generated an emerging consensus on one important insight: the process of autocratization seems to have changed. Bermeo for example suggests a decline of the “most blatant forms of backsliding” – such as military coups and election day vote fraud.[Footnote 22](https://doi.org/10.1080/13510347.2019.1582029#) Conversely, more clandestine ways of autocratization – harassment of the opposition, subversion of horizontal accountability – are on the rise.[Footnote 23](https://doi.org/10.1080/13510347.2019.1582029#) Svolik similarly argues that the risk of military coups has declined over time in new democracies, while the risk of self-coups remains.[Footnote 24](https://doi.org/10.1080/13510347.2019.1582029#) Mechkova et al. demonstrate that between 2006 and 2016 autocratization mainly maimed aspects such as media freedom and the space for civil society leaving the institutions of multiparty elections in place.[Footnote 25](https://doi.org/10.1080/13510347.2019.1582029#) Coppedge singled out the gradual concentration of power in the executive as a key contemporary pattern of autocratization – next to what he calls the more “classical” path of intensified repression.[Footnote 26](https://doi.org/10.1080/13510347.2019.1582029#) “Executive aggrandizement” is the term Bermeo uses for this process when “elected executives weaken checks on executive power one by one, undertaking a series of institutional changes that hamper the power of opposition forces to challenge executive preferences”.[Footnote 27](https://doi.org/10.1080/13510347.2019.1582029#)
+
+While the literature thus agrees that the process of autocratization has changed, it does not yet offer a systematic way of measuring the new mode of autocratization. The contributions build on case examples,[Footnote 28](https://doi.org/10.1080/13510347.2019.1582029#) statistics on selected indicators of gradual autocratization – that is, military coups and electoral fraud,[Footnote 29](https://doi.org/10.1080/13510347.2019.1582029#) opinion polls,[Footnote 30](https://doi.org/10.1080/13510347.2019.1582029#) or on changes in quantitative measures over a set time period.[Footnote 31](https://doi.org/10.1080/13510347.2019.1582029#) Most existing studies on the causes of autocratization[Footnote 32](https://doi.org/10.1080/13510347.2019.1582029#) as well as descriptive overviews[Footnote 33](https://doi.org/10.1080/13510347.2019.1582029#) are also biased in that they include only cases of complete breakdown of democracies. Such binary approaches not only fail to capture the often protracted, gradual and opaque processes of contemporary regime change,[Footnote 34](https://doi.org/10.1080/13510347.2019.1582029#) but also exclude important variations: autocratization in democracies that have not (yet) lead to complete breakdown (for example Hungary) and reversals in electoral autocracies that never became democracies (for example Sudan).
+
+This is important because the archetype of dramatic reversals to closed autocracy is becoming rare – as are closed autocracies. About half of all countries were closed autocracies in 1980, but by 2017 they only make up 12% of regimes in the world.[Footnote 35](https://doi.org/10.1080/13510347.2019.1582029#) Contemporary autocrats have mastered the art of subverting electoral standards without breaking their democratic façade completely.[Footnote 36](https://doi.org/10.1080/13510347.2019.1582029#) Some have labelled this phenomenon “illiberal democracy”.[Footnote 37](https://doi.org/10.1080/13510347.2019.1582029#) Hence, as of 2017 a majority of countries still qualify as democracies (56%) and the most common form of dictatorship (32%) are the electoral autocracies.[Footnote 38](https://doi.org/10.1080/13510347.2019.1582029#)
+
+This dominance of multi-party electoral regimes made other analysists posit that democracy as a global norm after the end of the Cold War[Footnote 39](https://doi.org/10.1080/13510347.2019.1582029#) continues to shape expectations and behaviour even of autocrats.[Footnote 40](https://doi.org/10.1080/13510347.2019.1582029#) If that is true, it does not come as a surprise that sudden reversals to authoritarianism have grown out of fashion since they involve the abolishment of multi-party elections in a coup. Such evident violations of democratic norms carry with them high legitimacy costs.[Footnote 41](https://doi.org/10.1080/13510347.2019.1582029#) Obviously “stolen” elections have triggered mass protests leading up to the colour revolutions.[Footnote 42](https://doi.org/10.1080/13510347.2019.1582029#) Likewise, the international community tends to sanction political leaders who explicitly disrespect electoral results, and international aid is often conditioned on a country holding multi-party elections.[Footnote 43](https://doi.org/10.1080/13510347.2019.1582029#) For instance, after the Gambian elections in 2016, president Jammeh’s refusal to accept defeat was quickly met with a military intervention from neighbouring countries – forcing him into exile.[Footnote 44](https://doi.org/10.1080/13510347.2019.1582029#) The same seems to apply for military coups – which might explain the sharp drop of coups in recent decades.[Footnote 45](https://doi.org/10.1080/13510347.2019.1582029#)
+
+A gradual transition into electoral authoritarianism is more difficult to pinpoint than a clear violation of democratic standards, and provides fewer opportunities for domestic and international opposition. Electoral autocrats secure their competitive advantage through subtler tactics such as censoring and harassing the media, restricting civil society and political parties and the undermining the autonomy of election management bodies. Aspiring autocrats learn from each other[Footnote 46](https://doi.org/10.1080/13510347.2019.1582029#) and are seemingly borrowing tactics perceived to be less risky than abolishing multi-party elections altogether.
+
+Thus, the literatures on autocratization as well as on the global rise of multiparty elections suggest that the current wave of autocratization unfolds in a more clandestine and gradual fashion than its historical precedents.
+
+This leads to the next question: If autocratization occurs more gradually does this also reduce the magnitude of change? Bermeo suggests it does;[Footnote 47](https://doi.org/10.1080/13510347.2019.1582029#) others entertain more pessimism in books titled for instance “How democracies die” and “How democracy ends”.[Footnote 48](https://doi.org/10.1080/13510347.2019.1582029#) Yet, the recent literature on autocratization does not offer fine-grained, systematic empirical comparisons on this issue either.
+
+Thus, we find important contributions and emerging propositions in the extant literature on contemporary autocratization. This article seeks to fill two main gaps. First, it provides a comprehensive conceptualization of autocratization with an accompanying operationalization with high validity, which is clearly needed to make future findings comparable. Second, we lack a comprehensive empirical analysis diagnosing contemporary autocratization in historical perspective: (1) its extent and which types of regimes are mostly affected compared to previous waves; (2) the nature of how it is enacted by rulers in comparative perspective; and (3) its pace and magnitude of change.
+
+Just like with the debate about whether democratization should be understood as a difference in kind (countries moving across a qualitative threshold[Footnote 49](https://doi.org/10.1080/13510347.2019.1582029#)), or in degree (gradual moves away from pure dictatorship[Footnote 50](https://doi.org/10.1080/13510347.2019.1582029#)), there are seemingly opposed understandings of autocratization. Three different terms are commonly used for moves away from democracy: backsliding, breakdown of democracy, and autocratization.[Footnote 51](https://doi.org/10.1080/13510347.2019.1582029#)
+
+We suggest that it is preferable to conceptualize autocratization – the antipode of democratization – as a matter of degree that can occur both in democracies and autocracies. Democracies can lose democratic traits to varying degrees without fully, and long before breaking down. For instance, it is still an open question if Orbán’s model of “illiberal democracy” in Hungary will transmute into authoritarianism, and non-democratic regimes can be placed on a long spectrum ranging from closed autocracies – such as North Korea or Eritrea – to electoral autocracies with varying degrees of closeness to democracy – such as Nigeria before the 2015 elections. Thus, even most autocracies harbour some democratic regime traits to different degrees (for example somewhat competitive, but far from fully free and fair elections) and can lose them, such as the 1989 military coup in Sudan when Omar Al-Bashir replaced an electoral autocracy with one of Africa’s worst closed dictatorships.
+
+The classic literature focuses on the _breakdown_ of democracies[Footnote 52](https://doi.org/10.1080/13510347.2019.1582029#) even if some also identified gradual erosion of democracy in this earlier period.[Footnote 53](https://doi.org/10.1080/13510347.2019.1582029#) Sudden transitions dominated the moves away from democracy in the 1960s and 1970s making it a proper label for moves away from democracy at the time. However, the concept of “breakdown” is useful only for a subset of possible episodes of autocratization. First, it requires a crisp approach to the difference between democracy and dictatorship to enable the identification of the point of breakdown. That excludes studies of the protracted undermining of democratic institutions encapsulated by _autogolpe_ and unfinished degeneration of qualities in democracies, as well as the waning away of partial democratic qualities in electoral authoritarian regimes. This is particularly problematic for the contemporary period when instances of _sudden_ autocratization – coups d’état for instance – are rare.
+
+Some scholars have suggested _democratic backsliding_ to denote the diminishing of democratic traits. For example, Bermeo defines backsliding as “state-led debilitation or elimination of any of the political institutions that sustain an existing democracy.”[Footnote 54](https://doi.org/10.1080/13510347.2019.1582029#) Waldner and Lust understand backsliding as a “deterioration of entails a deterioration of qualities associated with democratic governance, within _any_ regime” (emphasis added).[Footnote 55](https://doi.org/10.1080/13510347.2019.1582029#) While we are sympathetic to Waldner and Lust’s move away from an exclusive focus on democracies, we find the use of term _backsliding_ problematic for three reasons: First, _democratic_ backsliding implies a decline “in terms of” democracy and thus a conceptual extension beyond the democratic regime spectrum would border to conceptual stretching.[Footnote 56](https://doi.org/10.1080/13510347.2019.1582029#) From our point of view, an already autocratic country cannot undergo “democratic” backsliding into a deeper dictatorship. Second, the term suggests that regimes slide “back” to where they were before whereas in reality they may develop in a new direction, to a different form of authoritarianism for example.[Footnote 57](https://doi.org/10.1080/13510347.2019.1582029#) Finally, “sliding” makes it sound like an involuntary, unconscious process, which does not do justice to conscious actions political actors take in order to change a regime. It simply invokes the wrong kind of notion about the process.
+
+Third, we suggest that the overarching, or superior in Sartori’s terms, concept is _autocratization.[Footnote 58](https://doi.org/10.1080/13510347.2019.1582029#)_ Semantically, it signals that we study the opposite of democratization, thus describing “any move away from [full] democracy”.[Footnote 59](https://doi.org/10.1080/13510347.2019.1582029#) As an overarching concept autocratization covers both sudden breakdowns of democracy _á la_ Linz and gradual processes within and outside of democratic regimes where democratic traits decline – resulting in less democratic, or more autocratic, situations (). This conceptualization enables us to study both the pace and the methods of bringing a regime closer to a closed dictatorship, while keeping the distinction between democratic recessions starting in democracies, democratic breakdowns, and further consolidation of already authoritarian regimes.
+
+Figure 1.  Autocratization as democratization in reverse.
+
+[![Image 1: Figure 1. Autocratization as democratization in reverse.](https://doi.org/cms/asset/c315e50c-d98a-4912-8e8a-8a1964508f6b/fdem_a_1582029_f0001_ob.jpg)](https://doi.org/10.1080/13510347.2019.1582029#)
+
+To provide a comprehensive definition of autocratization processes, we use the term democratic recession to denote autocratization processes taking place within democracies, democratic breakdown to capture when a democracy turns into an autocracy, and autocratic consolidation as designation for gradual declines of democratic traits in already authoritarian situations.
+
+Operationalization and data
+---------------------------
+
+Contemporary political science puts a heavy emphasis on identification of causal factors in experimental research designs. However, we cannot randomly assign either autocratization nor its potential causes to countries. Whether we like it or not, we must rely on observational data to depict, understand, and explain a phenomenon like autocratization. Taking one step back, any causal analysis is predicated on an accurate description of the outcome: how do we know an autocratization process when we see it? What are the more useful ways to decipher the dynamics and depict patterns, so as to facilitate descriptive inferences?
+
+While there is relatively satisfactory data on sudden breakdowns – for instance on military coups[Footnote 60](https://doi.org/10.1080/13510347.2019.1582029#) and dichotomous measures focusing on transitions from democracy to autocracy recorded in extant datasets[Footnote 61](https://doi.org/10.1080/13510347.2019.1582029#) – we have lacked sufficiently nuanced yet systematic cross-national, times-series data on various aspects of regimes to detail incremental autocratization processes.
+
+This article presents a novel approach identifying autocratization _episodes_ – connected periods of time with a substantial decline in democratic regime traits. We use V-Dem’s data[Footnote 62](https://doi.org/10.1080/13510347.2019.1582029#) on 182 countries from 1900 to the end of 2017, or 18,031 country-years.[Footnote 63](https://doi.org/10.1080/13510347.2019.1582029#) To identify autocratization episodes, we rely on the Electoral Democracy Index (EDI, _v2x\_polyarchy_). The EDI captures to what extend regimes achieve the core institutional requirements in Dahl’s famous conceptualization of electoral democracy as “polyarchy”: universal suffrage, officials elected in free and fair elections, alternative sources of information and freedom of speech as well as freedom of association.[Footnote 64](https://doi.org/10.1080/13510347.2019.1582029#) For present purposes, V-Dem’s EDI has four key advantages. First, V-Dem data provide vast temporal and geographical coverage with data reaching back to 1900. Second, the EDI reflects how democratic a political regime is _de-facto_ beyond the mere _de-jure_ presence of political institutions. Additionally, it has a strong theoretical foundation in regime attributes that Dahl has identified as core requirements for an electoral democracy.[Footnote 65](https://doi.org/10.1080/13510347.2019.1582029#) Finally, as a continuous index of de-facto levels of democracy it is sensitive to gradual and slow-moving autocratization processes.
+
+The EDI runs on a continuous scale from 0 to 1, with higher values indicating a more democratic dispensation. We operationalize _autocratization_ as a substantial decline on the EDI (within one year or over a connected time period). A decline is _substantial_ if it amounts to drop of 0.1 or more on the EDI. The choice of cut-off point on a continuous index is naturally arbitrary but a change of 10% seems a reasonable and intuitive choice for the following reasons. This relatively demanding cut-off point of 0.1 minimizes the risk of measurement error driving the results since it requires more of an agreement among V-Dem coders that declines occurred among the 40 components of the EDI to achieve this magnitude of difference on the EDI scale.[Footnote 66](https://doi.org/10.1080/13510347.2019.1582029#) The cut-off point should also be high enough to rule out inconsequential changes but low enough to capture substantial yet incremental changes that do not amount to a full breakdown. A typical example would be the series of declines in democratic qualities in Hungary from 2006 to 2017 adding up to drop of the EDI of 0.11. In appendix A4, we demonstrate the robustness of our main findings to a higher cut-off point.
+
+Episodes of autocratization have a start and an end. We proceed in two steps to identify such episodes. First, we identify potential autocratization episodes, which are adverse regime change of any magnitude. Second, we exclude all cases that involve only minor overall change, hence are not really cases of autocratization.
+
+First, a potential autocratization episode starts with a decline on the EDI of 0.01 points or more, from one year to the next. We chose this relatively low threshold in order to spot the very beginning of incremental autocratization episodes.[Footnote 67](https://doi.org/10.1080/13510347.2019.1582029#) Second, we follow the potential episode as long as there is a continued decline, while allowing up to four years of temporary stagnation (no further decline of 0.01 points on the EDI) in order to reflect the concept of slow-moving processes that can move in fits and starts with a careful autocrat at the helm. The potential autocratization period ends when there are no further declines on the EDI of 0.01 or more over four years, or if the EDI increases by 0.02 points or more during one of those years since the latter would indicate a potential democratization episode.[Footnote 68](https://doi.org/10.1080/13510347.2019.1582029#)
+
+Second, we calculate the total magnitude of change from the year before the start of an episode to the end, and record as manifest autocratization episodes only those which add up to a change of at least 0.1 (10% of the total 0–1 scale) on the EDI.[Footnote 69](https://doi.org/10.1080/13510347.2019.1582029#)
+
+These coding rules ensure that periods of some fits and starts in what is often a protracted and messy process, are counted as one episode while at the same time minimizing the risk that measurement error plays a role in determining when an episode starts or finishes. Appendix A.E also demonstrates that the main findings of this article are robust to modifications of these coding rules.
+
+For some analyses, one obviously needs a clear-cut distinction between democracies and autocracies. Following Lührmann et al.,[Footnote 70](https://doi.org/10.1080/13510347.2019.1582029#) we define countries as _democracies_ if they hold free and fair and de-facto multiparty elections, and achieve at least a minimal level of institutional guarantees captured by the EDI (universal suffrage, officials elected in multiparty elections, freedom of association and alternative sources of information).
+
+Diagnosing autocratization from 1900 to 2017
+--------------------------------------------
+
+Here we present the first ever comprehensive identification of the 217 autocratization episodes taking place in 109 countries from 1900 to 2017 (Table A1 in the Appendix) leaving only 69 states unaffected (Table A2 in the Appendix).[Footnote 71](https://doi.org/10.1080/13510347.2019.1582029#) This count includes 33 countries classified as autocracies in 2017 such as North Korea and Angola who seem to be caught in an “autocracy trap” and due to the “floor effect” never had much possibility to become worse. The remaining 36 “non-autocratizers” are classified as democracies in 2017. This group consists mainly of countries with a long democratic history, such as Sweden and Switzerland, or that democratized recently, such as Bhutan and Namibia. Additionally, seven countries experienced autocratization solely due to foreign invasion during the two World Wars.[Footnote 72](https://doi.org/10.1080/13510347.2019.1582029#)
+
+Roughly two-thirds the autocratization episodes (_N_ = 142, 65%) took place in already authoritarian states. Noteworthy are the many (60) episodes of autocratization in Africa, most of which occurred in electoral autocracies where autocratization dissipated initial democratic gains. For instance, three autocratization episodes in Sudan (1958–1959; 1969; 1989–1990) followed military coups disposing presidents elected in less-than perfect elections.
+
+About a third of all autocratization episodes (_N_ = 75) episodes started under a democratic dispensation. Almost all of the latter (_N_ = 60, 80%) led to the country turning into an autocracy. This should give us great pause about spectre of the current third wave of autocratization. Very few episodes of autocratization starting in democracies have ever been stopped before countries become autocracies.
+
+### The third wave of autocratization is real and endangers democracies
+
+Huntington conspicuously identified three waves of democratization and two waves of reversals.[Footnote 73](https://doi.org/10.1080/13510347.2019.1582029#) Our new measure of autocratization episodes picks up these two reverse waves and demonstrates that a third wave of autocratization is now unfolding.
+
+For the precise delineation of the reverse waves – or waves of autocratization – we deviate slightly from Huntington’s original approach in order to reflect our conceptual and methodological innovations. First, we take as our point of departure democracy in Dahl’s understanding as “polyarchy”.[Footnote 74](https://doi.org/10.1080/13510347.2019.1582029#) With its seven (later collapsed to six) institutional requirements it is much more ambitious, and demanding, than Huntington’s Schumpeterian measure focusing on competition.[Footnote 75](https://doi.org/10.1080/13510347.2019.1582029#) Second, we are concerned here with gradual moves away from democracy. Huntington focused in his 1991 book on the crisp distinctions of democratic transitions and breakdowns. He speaks of a democratization wave when the transitions to democracy as events outnumber the democratic breakdowns.[Footnote 76](https://doi.org/10.1080/13510347.2019.1582029#) Our approach better captures the empirical realities – in particular during recent decades – that regime change is typically gradual and slowly leading to hybridization into electoral authoritarianism instead of sudden, dramatic transitions. The more sensitive and fine-grained measures we have at our disposal compared to what was available to Huntington, also make it possible to pick up such dynamic processes in a greater number of countries than Huntington could capture with binary transitions. Therefore, we use the direction of these changes to delineate waves of autocratization. We define as an autocratization wave _the time period during which the number of countries undergoing democratization declines while at the same time autocratization affects more and more countries_.[Footnote 77](https://doi.org/10.1080/13510347.2019.1582029#)
+
+In the dashed grey line represents the number of countries that were affected by democratization each year.[Footnote 78](https://doi.org/10.1080/13510347.2019.1582029#) The black, thick line represents the number of countries that underwent autocratization each year. The black, thin line indicates how many of the latter started in democracies. Thus, delineates the three waves of autocratization: the first wave of autocratization occurred roughly from 1926 to 1942 and the second from 1961 to 1977. The post-cold war democratization surge already slowed down in the early 1990s and gradually reverse processes began to spread, beginning in Russia, Armenia and Belarus. Therefore, we can for the first time show that the third wave of autocratization already began in earnest in 1994. Notably, his undercurrent remained under the radar of most political scientists until Carothers declared “The End of the Transition Paradigm” in his seminal 2002 article.[Footnote 79](https://doi.org/10.1080/13510347.2019.1582029#) By 2017, the third wave of autocratization dominated with the reversals outnumbering the countries making progress. This had not occurred since 1940.
+
+Figure 2.  The three waves of autocratization.
+
+[![Image 2: Figure 2. The three waves of autocratization.](https://doi.org/cms/asset/74d4cfea-68e7-44c8-a2ea-4946271dd6a0/fdem_a_1582029_f0002_ob.jpg)](https://doi.org/10.1080/13510347.2019.1582029#)
+
+The dates for the first two reverse waves presented here are very similar to Huntington’s despite the conceptual and measurement differences (first reverse wave 1922–1942; second reverse wave to 1960–1975). There were 32 autocratization episodes in the first wave; 62 episodes during the second reversed wave; and 75 episodes occurring since the start of the third wave.[Footnote 80](https://doi.org/10.1080/13510347.2019.1582029#) A list of these episodes is found in Appendix B.
+
+One observation immediately stands out from . Whereas the first reversed wave affected both democracies and autocracies and the second reversal period almost only worsened electoral autocracies, almost all contemporary autocratization episodes affect democracies. We are the first to show also this systematic difference. It is a source of concern especially given the finding reported above that few such episodes stop short of decent into authoritarianism. At the same time, fewer autocracies are affected by autocratization, that is, transition from electoral to closed autocracy. This reflects the trend that even in the authoritarian regime spectrum multi-party elections have become the norm.[Footnote 81](https://doi.org/10.1080/13510347.2019.1582029#)
+
+Post-communist East European countries account for 16 mainly protracted, autocratization episodes in the third wave for example the gradual autocratization processes in Russia, Hungary, and Poland. The third wave of reversals may still be mounting affecting as many as 22 countries in 2017. At the same time, the share of countries in the world that are democratic remains close to its highest ever – 53%. To some extent, the latter explains the former. The more democratic countries there are, the greater the likelihood that democracies suffer setbacks.
+
+In sum, an important characteristic of the third wave of autocratization is unprecedented: It mainly affects democracies – and not electoral autocracies as the earlier period – and this occurs while the global level of democracy is close to an all-time high. Hence, for now at least, the trend is manifest, but less dramatic than some claim. This observation reiterates Brunkert, Kruse and Welzel’s finding that while the centennial democratic trend has passed its climax, the ongoing reverse process remains relatively mild.[Footnote 82](https://doi.org/10.1080/13510347.2019.1582029#)
+
+### In democracies: the third wave of autocratization has a legal facade
+
+Arguably, the loss of democratic traits in regimes that were democratic when an autocratization episode started matters more for the state of democracy in the world than further deterioration in already autocratic regimes. In this and the next section, we analyse these 75 episodes of autocratization of democracies in more depth.
+
+The case-based literature suggests that incumbents behind the current processes of autocratization are using mostly legal means and that illegal power grabs have become less frequent. We test this proposition by distinguishing between three different types of autocratization strategies based on how they abolish or undermine democratic institutions. The results are reported in . The analysis uses original data covering all autocratization episodes affecting democracies from 1900 to 2017.[Footnote 83](https://doi.org/10.1080/13510347.2019.1582029#)
+
+Figure 3.  Types of autocratization of democracies.
+
+Note: 28 episodes are included in the pre-third wave period, and 47 in the third wave.
+
+[![Image 3: Figure 3. Types of autocratization of democracies.Note: 28 episodes are included in the pre-third wave period, and 47 in the third wave.](https://doi.org/cms/asset/68777b4b-ef04-428d-8e33-29c579225755/fdem_a_1582029_f0003_ob.jpg)](https://doi.org/10.1080/13510347.2019.1582029#)
+
+The first and second waves of reversals were almost completely dominated by the “classic” form of autocratization tactics of illegal access to power, such as a _military_ coup (39% of episodes) or _foreign invasion_ (29%), and by _autogolpes_, where the chief executive comes to power by legal means but then suddenly abolishes key democratic institutions such as elections or parliaments (32%). The paradigmatic example of an autogolpe is president Fujimori’s suspension of the Peruvian constitution and parliament in 1992.[Footnote 84](https://doi.org/10.1080/13510347.2019.1582029#) Even Hitler came to power by legal means and then disposed democratic institutions with the “Ermächtigungsgesetz” (Enabling Act) in 1933.
+
+_Democratic erosion_ became the modal tactic during the third wave of autocratization. Here, incumbents legally access power and then gradually, but substantially, undermine democratic norms without abolishing key democratic institutions. Such processes account for 70% in the third reversal wave with prominent cases of such gradual deterioration in Hungary and Poland. Aspiring autocrats have clearly found a new set of tools to stay in power, and that news has spread.
+
+### In democracies: the third wave of autocratization is gradual
+
+We have developed another new metric to measure the rate of autocratization in an informative way: _maximum annual depletion rate_. This metric captures how fast democratic traits decline during an autocratization episode in terms of changes from one year to the other on the V-Dem EDI. Using the maximum allows us to distinguish between episodes where a period of gradual declines combines with a sudden decline in democratic traits; and stretches that consist of gradual declines only. The advantage of the maximum depletion rate is that a high value indicates that the episode encompassed a sudden and radical change whereas a low value indicates an autocratization process that was incremental throughout. For ease of interpretation, we report maximum depletion rate values as a percentage of 1 (the highest possible score on EDI). Thus, if the maximum change in the EDI from one year to the next during an autocratization episode was −0.1, the corresponding autocratization rate is 10%.
+
+For instance, the autocratization episode in Germany from 1930 to 1935 started with three years of gradual declines during the Weimar Republic. Yet, the main characteristic of this episode was Hitler’s accession to power in 1933 and the subsequent sudden breakdown of the democratic system. This is reflected by a high maximum depletion rate of 26%. Conversely, chapters such as Turkey’s from 2008 to 2017 and Russia’s from 1993 to 2017, involve _only_ gradual changes – reflected by relatively low depletion rates of 7% (Turkey) and 5% (Russia). Alternative measures of pace such as the average depletion rate, the annual depletion rate and the decay rate, do not fully capture the difference between these two patterns. However, we include those as robustness tests to the subsequent empirical analysis (see more detailed discussions in Appendix C and E).
+
+Figure D.1 in Appendix D shows a box plot comparing autocratization during the three reversal waves using this new metric. The median autocratization rate during the first and second waves was 31% and it dropped to 8% in the third wave. At the bottom end of the scale with a 3.8% maximum depletion rate we find with the extremely gradual autocratization process in Philippines from 2001 to 2005, followed by Vanuatu’s spell from 1988 to 1996 at 4.3%. The most sudden breakdowns occurred after the German invasion in the Czech Republic (55%) and in the Netherlands (52%) during World War II.
+
+The rate of autocratization of democracies has dropped significantly (_r_= −0.66, dashed line on ) over time. At the same time, the global share of democracies increased remarkably – to hover well-above 50% after the turn of the century (black line). The global share of democracies is negatively and statistically significantly correlated with the autocratization rate. This relationship holds even when controlling for important confounders such as GDP, time since transition, level of democracy and foreign occupation as well as the types of autocratization reported in the prior section. Based on these regression analyses (results omitted here, see Appendix C), the rate of autocratization among democracies is predicted to drop from 35% when few countries were democratic (15%; for example, in the early 1930s) to 10% in 2017 when more than half of the world’s countries were democratic. This finding is robust to alternative specifications of the autocratization rate (Appendix C) as well as of the autocratization episodes (Appendix E).
+
+Figure 4.  Global trend rate of autocratization in democracies and share of democracies.
+
+Note: The autocratization rate captures how fast the V-Dem Electoral Democracy Index declines at the peak of the autocratization episode in terms of changes from one year to the other. High values indicate sudden autocratization and low values more gradual. The x-axis of the figure shows the year where the peak of the autocratization rate occurred during the episode.
+
+[![Image 4: Figure 4. Global trend rate of autocratization in democracies and share of democracies.Note: The autocratization rate captures how fast the V-Dem Electoral Democracy Index declines at the peak of the autocratization episode in terms of changes from one year to the other. High values indicate sudden autocratization and low values more gradual. The x-axis of the figure shows the year where the peak of the autocratization rate occurred during the episode.](https://doi.org/cms/asset/638ef59b-dbaf-4749-9f71-9156146a4a35/fdem_a_1582029_f0004_ob.jpg)](https://doi.org/10.1080/13510347.2019.1582029#)
+
+However, since we have to rely on observational data and a relatively small number of cases (75), we need to acknowledge these empirical tests as tentative findings. Nevertheless – as discussed in the literature review – there are reasonable intuitions for why a global rise of democracy should be expected to have a dampening effect on the rate of autocratization.
+
+This development results in opposite expectations for the further prospects of democracy. On the one hand, autocratization has become more obscure and therefore one can suspect less likely to produce triggers for mobilization of pro-democratic forces. On the other hand, autocratization has also become less severe – at least on average in (former) democracies. illustrates how the effect of autocratization on the level of democracy has changed over time. The y-axis shows the total EDI drop during an autocratization episode and the x-axis the EDI score at the final year of autocratization. Before 1994, autocratization typically resulted in the dramatic transitions to closed autocracy with a median EDI score of 0.13 at the end of the episode. During the third wave of autocratization, the median democracy level at the end of autocratization episodes remains much higher with a score of 0.45 on the EDI. Also, the median total decline of democratic attributes during the third wave (−0.19) is less than half of the decline during the pre-third wave period (−0.50). This is mainly due to the emergence of the phenomenon of democratic erosion (33 out of 47 cases, or 70%) in the third wave, which was not discernible before.
+
+Figure 5.  The consequences of autocratization on the level of democracy.
+
+[![Image 5: Figure 5. The consequences of autocratization on the level of democracy.](https://doi.org/cms/asset/17275f9d-b464-41fb-8220-def456295b36/fdem_a_1582029_f0005_ob.jpg)](https://doi.org/10.1080/13510347.2019.1582029#)
+
+The sudden forms of autocratization – invasions, military coups, autogolpes –always result in a democratic breakdown. Even democratic erosion processes are more often than not lethal for democracy: 18 (55%) of them have resulted in democratic breakdowns; only 5 (15%) processes have stopped before democracy broke down and 10 (30%) were still ongoing in 2017.[Footnote 85](https://doi.org/10.1080/13510347.2019.1582029#)
+
+Conclusion: the third wave of autocratization
+---------------------------------------------
+
+This article presents the first systematic empirical analysis of contemporary autocratization in historical perspective. The article, first, contributes with a new method to identify not only sudden but also gradual autocratization episodes, providing a comprehensive empirical overview of adverse regime change from 1900 to today across the democracy-autocracy spectrum. This new operationalization pinpoints the start and end year of autocratization processes, which facilitates a new generation of studies for instance on the drivers of autocratization onset and sequential pathways during episodes.
+
+Second, we provide evidence that contemporary declines of democracy amount to a third wave of autocratization. A key finding is that the present reverse wave – starting after 1993 – mainly affects democracies, unlike prior waves. What is especially worrying about this trend is that historically, very few autocratization episodes starting in democracies have been stopped short of turning countries into autocracies.
+
+Furthermore, we present a series of descriptive tests corroborating key claims found in the extent literature but not tested before on systematic evidence: Contemporary autocratizers mainly use legal and gradual strategies to undermine democracies. Based on original data, we show that about 68% of all contemporary autocratization episodes starting in democracies are led by incumbents who came to power legally and typically by democratic elections. Conversely, during the pre-third wave period most autocratization episodes included an illegal power grab, such as a military coup. Whereas autocratizers before the third wave took clearly recognizable moves such as issuing a new non-democratic constitution or dissolved the legislature, most contemporary autocratizers do not change the formal rules. Thus, also the way incumbents undermine democracy has become more informal and clandestine.
+
+Finally, we devise a new metric – the autocratization rate – capturing how fast regimes lose their democratic quality from one year to the other measured as a percentage change of the highest possible value of V-Dem’s EDI. We can then show that autocratization has become much more gradual than before. Its maximum rate declined from a median of about 31% in the pre-third wave period to about 8% in the third wave. This trend is strongly correlated with the changes in the global share of democratic regimes. As democracy spread around the globe in the 1990s and 2000s, autocratization became more gradual.
+
+By now, most regimes – even autocracies – hold some form of multiparty elections. Sudden and illegal moves to autocracy tend to provoke national and international opposition. The tests we present suggest that contemporary autocratizers have learned their lesson and thus now proceed in a much slower and much less noticeable way than their historical predecessors. Thus, while democracy has undoubtedly come under threat, its normative power still seems to force aspiring autocrats to play a game of deception.
+
+Consequently, states hit by the third wave of autocratization remain much more democratic than their historical cousins. On the one hand, this gives hope that the current wave of autocratization might be milder than the first and second waves. On the other hand, the third wave may still be picking up. It has affected 22 countries in 2017 and more are on the threshold. For these countries, two scenarios are plausible: Because autocratization is more gradual, democratic actors may remain strong enough to mobilize resistance. This happened for instance in South Korea in 2017, when mass protests forced parliament to impeach the president, which reversed the prior autocratization trend.[Footnote 86](https://doi.org/10.1080/13510347.2019.1582029#) Conversely, initial small steps towards autocracy brought other countries – such as Turkey, Nicaragua, Venezuela and Russia – on a slippery slope deep into the authoritarian regime spectrum. Future research needs to investigate what distinguishes these two scenarios and how autocratization can be stopped and reversed. Yet, one conclusion is clear: As it was premature to announce the “end of history” in 1992, it is premature to proclaim the “end of democracy” now.
+
+### Acknowledgements
+
+For helpful comments, we thank Scott Gates, Kyle Marquardt, Jan Teorell, Joe Wright, three anonymous reviewers and participants of the APSA Conferences (8/2017; 8/2018), the ECPR General Conferences (9/2017; 8/2018), the V-Dem Research conference (5/2018) the post-doctoral working group at the University of Gothenburg and the HU/Princeton workshop on constitutionalism, dissent and resistance (6/2018), where earlier versions of this article were discussed. In particular, we are grateful to Rick Morgen who helped to better operationalize our idea of autocratization episodes. We also benefited immensely from Philipp Tönjes’ and Sandra Grahn’s skillful research assistance.
+
+Disclosure statement
+--------------------
+
+No potential conflict of interest was reported by the authors.
+
+_**Anna Lührmann**_ is Deputy Director of the V-Dem Institute and Assistant Professor at the Department of Political Science at the University of Gothenburg.
+
+_**Staffan I. Lindberg**_ is Professor of Political Science, Director of the V-Dem Institute at University of Gothenburg and one of six Principal Investigators for V-Dem.
+
+1 See for example Altman and Perez-Liñan, “Explaining the Erosion of Democracy”; Bermeo, “On Democratic Backsliding”; Cassini and Tomini, “Reversing Regimes and Concepts”; Coppedge, “Eroding Regimes”; Diamond, “Facing Up Democratic Recession”; Haggard and Kaufmann, _Dictators and Democrats_; Levitsky and Ziblatt, _How Democracies Die_; Lührmann et al., “State of the World”; Mounk, _The People vs. Democracy_; Runciman, _How Democracy Ends_; Snyder, _On Tyranny_; Tomini and Wagemann, “Varieties of Democratic Breakdown”; Waldner and Lust, “Unwelcome Change.”
+
+2 E.g. Bermeo, “On Democratic Backsliding”; Runciman, _How Democracy Ends._
+
+3 Linz, _Breakdown of Democratic Regimes._
+
+4 Lührmann et al., “State of the World.”
+
+5 Levitsky and Ziblatt, _How Democracies Die_; Snyder, _On Tyranny._
+
+6 Mechkova, Lührmann, and Lindberg, “How Much Backsliding?”
+
+7 Runciman, _How Democracy Ends._
+
+8 Norris, “Is Western Democracy Backsliding?”; Brunkert et al., “Culture-bound Regime Evolution.”
+
+9 Dahl, _Polyarchy_; Dahl, _On Democracy_.
+
+10 Huntington, _The Third Wave._
+
+11 Fukuyama, _The End of History._
+
+12 Svolik, _Politics of Authoritarian Rule._
+
+13 Schedler, _The Politics of Uncertainty_; Diamond, “Thinking about Hybrid Regimes.”
+
+14 Freedom House, _Freedom in the World_, 2008.
+
+15 Diamond, “The Democratic Rollback”; Freedom House, _Freedom in the World_, 2008.
+
+16 Merkel, “Are Dictatorships Returning?”; Levitsky and Way, “Myth of Democratic Recession.”
+
+17 Freedom House, _Freedom in the World_, 2018.
+
+18 Lührmann et al., “State of the World.”
+
+19 Diamond, “Facing Up Democratic Recession”; Levitsky and Ziblatt, _How Democracies Die_; Kurlantzick, _Democracy in Retreat._
+
+20 Mechkova, Lührmann, and Lindberg, “How Much Backsliding?”
+
+21 Waldner and Lust, “Unwelcome Change,” 14.
+
+22 Bermeo, “On Democratic Backsliding,” 6.
+
+23 Bermeo, “On Democratic Backsliding,” 14; Diamond, “Facing Up Democratic Recession.”
+
+24 Svolik, “Which Democracies will Last?”
+
+25 Mechkova, Lührmann, and Lindberg, “How Much Backsliding?”
+
+26 Coppedge, “Eroding Regimes.”
+
+27 Bermeo, “On Democratic Backsliding,” 10.
+
+28 Levitsky and Ziblatt, _How Democracies Die._
+
+29 Bermeo, “On Democratic Backsliding.”
+
+30 Mounk, _The People vs. Democracy._
+
+31 Diamond, _Facing Up Democratic Recession_; Lührmann et al., “State of the World.”
+
+32 E.g. Svolik , “Authoritarian Reversals and Democratic Consolidation”; Bernhard, Nordstrom, and Reenock, “Economic Performance and Democratic Survival”; Ulfelder and Lustik, “Modeling Transitions to Democracy”; Przeworski, _Democracy and Development._
+
+33 E.g. Merkel, “Are Dictatorships Returning?”; Erdmann, “Decline of Democracy”; Levitsky and Way, “Myth of Democratic Recession.”
+
+34 Lueders and Lust, “Multiple Measurements of Regime Change.”
+
+35 Closed autocracies are typically defined in the literature as regimes where the chief executive is not subjected to _de jure_ multiparty elections. Thus, this category includes monarchies, military regimes, as well as one-party states.
+
+36 Schedler, _The Politics of Uncertainty_; Levitsky and Way, _Competitive Authoritarianism._
+
+37 Zakaria, _The Future of Freedom._
+
+38 Lührmann, Tanneberg, and Lindberg, “Regimes of the World.”
+
+39 Norris, “Does the World Agree?”; Hyde, _The Pseudo-democrats’ Dilemma._
+
+40 Diamond, “Liberal Democratic Order Crisis.”
+
+41 Schedler, _The Politics of Uncertainty._
+
+42 Bunce and Wolchik, “Defeating Dictators”; Kuntz and Thompson, “More than Final Straw.”
+
+43 Kim and Kroeger, “Rewarding Introduction of Multiparty Elections.”
+
+44 See Searcey and Yaya Barry, “As Yahya Jammeh Entered Exile.”
+
+45 Bermeo, “On Democratic Backsliding.”
+
+46 Hall and Ambrosio, “Authoritarian Learning.”
+
+47 Bermeo, “On Democratic Backsliding,” 17.
+
+48 Levitsky and Ziblatt, _How Democracies Die_; Runciman, _How Democracy Ends._
+
+49 See Przeworski, _Democracy and Development._
+
+50 See Collier and Adcock, “Democracy and Dichotomies”; Lindberg, _Democracy and Elections in Africa_, 24–27.
+
+51 While these are the most commonly used terms, it is important to note that others exist as well such as “democratic erosion” (Coppedge, “Eroding Regimes”), “de-democratization” (Tilly, “Inequality, Democratization, and De-democratization”), “democratic recession” (Diamond, “Facing Up Democratic Recession”) or “closing space” (Carothers and Brechenmacher, “Closing Space”). For a more extensive list of terms used in the debate see Cassani and Tomini “Reversing Regimes and Concepts,” 4.
+
+52 E.g. Linz, _Breakdown of Democratic Regimes._
+
+53 Przeworski, _Democracy and Development._
+
+54 Bermeo, “On Democratic Backsliding,” 5.
+
+55 Waldner and Lust, “Unwelcome Change,” 5.3.
+
+56 Sartori, “Concept Misinformation in Comparative Politics.”
+
+57 Runciman, _How Democracy Ends_, 3.
+
+58 Sartori, “Concept Misinformation in Comparative Politics.”
+
+59 Lindberg, _Democratization by Elections_, 12; Cassani and Tomini (Cassani and Tomini, “Reversing Regimes and Concepts”) define autocratization _positively_ as a “process of regime change towards autocracy that makes politics increasingly exclusive and monopolistic, and political power increasingly repressive and arbitrary.” This definition differs from our approach to think about autocratization _negatively_ – as a move away from democracy. We prefer our approach for two reasons. First, it is in-line with the common understanding of autocracy as non-democracy (e.g. Schedler, _The Politics of Uncertainty_). Second, our approach allows us to understand autocratization and democratization as mutually exclusive, which allows us to operationalize them unambiguously.
+
+60 Powell and Thyne, “Global Instances of Coups.”
+
+61 E.g. Bernhard, Nordstrom, and Reenock, “Economic Performance and Democratic Survival”; Haggard and Kaufman, _Dictators and Democrats_.
+
+62 Coppedge et al., “V-Dem Dataset v8.”
+
+63 Approximately half of the indicators in the V-Dem dataset are based on factual information from official documents such as constitutions. The remainder consists of expert assessments on topics like the quality of elections and _de facto_ compliance with constitutional standards. On such issues, typically five experts provide ratings for the country, thematic area and time period for which they are specialists (Coppedge et al., “V-Dem Codebook v8”).
+
+64 Dahl, _Polyarchy_; Dahl, _On Democracy_; Teorell et al., “Measuring Polyarchy Across the Globe.”
+
+65 Lührmann et al. (Lührmann et al., “State of the World”) use V-Dem’s Liberal Democracy Index to identify democratic declines. The advantage of this alternative strategy is that it provides an early warning tool because liberal aspects of democracy often are the first to erode (see Coppedge, “Eroding Regimes”). However, the aim of this article is different. Namely, we want to provide a heuristic device, which facilitates the analysis of questions such as how liberal constraints influence the likelihood of autocratization. Therefore, we need to operationalize autocratization in a way that is parsimonious and does not include liberal aspects of democracy.
+
+66 V-Dem aggregates the expert assessments using Bayesian IRT model (Pemstein et al., “The V-Dem Measurement Model”; Marquardt and Pemstein, “IRT Models”).
+
+67 Robustness checks with different thresholds yield similar results in regression analysis (see Appendix A4).
+
+68 A lower threshold of 0.01 for ending episodes would for instance lead to the episode in Russia to be limited to the years 2011–2017, even though already the years since 1993 saw major cumulative declines (−.19).
+
+69 An alternative option would have been to use a rolling five-year average change on the EDI as for instance Coppedge (Coppedge, “Eroding Regimes”). However, our strategy gives us a start or end point of more gradual processes.
+
+70 Lührmann, Tannenberg, and Lindberg, “Regimes of the World.”
+
+71 This count includes only countries still in existence in 2017.
+
+72 Albania, Romania, Belgium, Denmark, France, Netherlands and Norway.
+
+73 Huntington, _The Third Wave_.
+
+74 Dahl, _Polyarchy_; Dahl, _Democracy and its Critics_.
+
+75 See Doorenspleet (“Reassessing the Three Waves”) for a similar point.
+
+76 Huntington, _The Third Wave_, 16.
+
+77 It is somewhat ambiguous to precisely delineate a start and end point of autocratization and democratization waves every year given that at almost any given year there are a number of countries changing in both directions. Thus, the dates we suggest here should be understood to delineate the main part of a wave. But the issue about whether a wave started in exactly this year or that is not a critical issue in a century-long perspective. We identify an autocratization wave starting when the number of democratization episodes begins to decrease at the same time as autocratization episodes increase for two years in a row. It ends when autocratization episodes decline in number and democratization episodes increase over the next four years.
+
+78 Following Doorenspleet (“Reassessing the Three Waves”) we focus our analysis on the number of countries. In Appendix D we show that the three reverse waves are also manifest when basing the graphical analysis on the share of countries. Democratization episodes are based on Lindberg et al. (“Successful and Failed Democratization”).
+
+79 Carothers, “End of the Transition Paradigm.”
+
+80 48 cases occurred in-between the waves.
+
+81 Schedler, _The Politics of Uncertainty_; Levitsky and Way, _Competitive Authoritarianism._
+
+82 Brunkert et al. base their analysis on V-Dem data, but operationalize democratic trends differently, that is, focusing on a combination of liberal, electoral and participatory aspects. Consequently, their findings in detail differ from ours. For instance, they argue that the climax of democracy has been reached in about 2000 when 21% of the world’s population was living in what they term “full democracies”. Brunkert et al., “Culture-bound Regime Evolution,” 7.
+
+83 The coding process proceeded in three steps: First, we used V-Dem data to identify whether or not the appointment of the Head of the Executive involved force (v2expathhs/v2expathhg; Coppedge et al., “V-Dem Codebook v8”). Second, taking this information into account, a research assistant coded the four sub-categories based on standard references such as Nohlen and Stöver (_Elections in Europe_), and Lentz (_Encyclopedia of Heads of states_), as well as case specific literature. Third, we verified the coding choices in particular with regards to borderline cases. Table A1 in the appendix shows the categorization of individual episodes.
+
+84 Lentz, _Heads of States 1945 Through 1992_, 633; Levitsky and Ziblatt, “How Democracies Die.”
+
+85 The following five episodes stopped before breakdown: Bolivia (2015), Ecuador (2010), Nicaragua (1999), South Korea (2014) and Vanuatu (1996). Brazil, Croatia, Dominican Republic, Ghana, Hungary, Lesotho, Moldova, Niger, Poland and Spain were ongoing in 2017.
+
+86 Shin and Moon, “South Korea after Impeachment,” 130.

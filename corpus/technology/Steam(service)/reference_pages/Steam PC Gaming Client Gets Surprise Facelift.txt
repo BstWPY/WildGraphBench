@@ -1,0 +1,351 @@
+# Steam PC Gaming Client Gets Surprise Facelift
+
+Steam PC Gaming Client Gets Surprise Facelift | PCWorld
+
+===============
+
+The Wayback Machine - http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html
+
+[Sign in](javascript:void(0); "Sign in") | [Join Us](javascript:void(0); "Register") | [Newsletters](http://www.pcworld.com/newsletters/index "Free Newsletters") | [![Image 4: RSS](http://zapp3.staticworld.net/images/shared/icons/rss.gif)](http://www.pcworld.com/resource/rss.html)
+
+[](javascript:submitSearch('srchFormToolbar'); "Search PCWorld")
+
+[![Image 5: PCWorld](http://zapp2.staticworld.net/images/shared/icons/miniHeader-logo-transparent.png)](http://www.pcworld.com/)
+
+*   [News](http://www.pcworld.com/news.html)
+*   [Reviews](http://www.pcworld.com/reviews.html)
+*   [How-To's](http://www.pcworld.com/howto.html)
+*   [Downloads](http://www.pcworld.com/downloads.html)
+*   [Shop & Compare](http://www.pcworld.com/shopping/)
+*   [Apps](http://www.pcworld.com/appguide/index.html?platform=2 "Android, iPad and iPhone Apps")
+*   [Business Center](http://www.pcworld.com/businesscenter/)
+
+Trending:[Tablets](http://www.pcworld.com/products/tablets.html)|[Phones](http://www.pcworld.com/products/phones.html)|[Laptops](http://www.pcworld.com/products/computers/laptops.html)|[HDTV](http://www.pcworld.com/products/home_theater/hdtv.html)|[Consumer Advice](http://www.pcworld.com/topics/consumer_advice.html)|[Gadgets](http://www.pcworld.com/topics/gadgets.html)|[Home Theater](http://www.pcworld.com/products/home_theater.html)|[Operating Systems](http://www.pcworld.com/products/software/operating_systems.html)|[Security](http://www.pcworld.com/topics/security.html)|[| [MORE](javascript:void(0))](http://www.pcworld.com/productsa%3E%3Cspan%20class=)
+
+[![Image 6: Subscribe to magazine](http://zapp4.staticworld.net/images/header/MagazineSubAd_Leaderboard.jpg)](http://ad.doubleclick.net/clk;241069682;28159734;q?https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PCW&cds_page_id=840 "Subscribe to magazine")
+*   MAGAZINE
+*   [Subscribe & Get a Bonus CD](http://ad.doubleclick.net/clk;241069682;28159734;q?https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PCW&cds_page_id=840 "Subscribe to magazine")
+*   [Digital Edition](http://ad.doubleclick.net/clk;241256313;28159734;f?https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=pcd&cds_page_id=99714 "PCWorld Digital Edition")
+*   [Customer Service](http://ad.doubleclick.net/clk;241069688;28159734;w?http://www.pcworld.com/resource/circ_subservices.html "Customer service & subscriptions")
+
+[Show More](javascript:void(0))
+
+![Image 7](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html)**Hi**[My Account](http://www.pcworld.com/myaccount "My Account")
+
+[Minimize](javascript:void(0))
+
+![Image 8](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html)![Image 9](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html)**Hi**[My Account](http://www.pcworld.com/myaccount "My Account") | [Newsletters](http://www.pcworld.com/myaccount/newsletters) | Add Connections
+
+Sign in with [![Image 10: A 20x20 small image, likely a logo, icon or avatar](http://zapp1.staticworld.net/images/shared/icons/pcw-logo-20.png)](javascript:void(0); "PCWorld")or [Create a New Account](javascript:void(0)).
+
+*   [PCWorld](http://www.pcworld.com/)
+*   »[Blogs](http://www.pcworld.com/blogs.html)
+*   »[Game On](http://www.pcworld.com/blogs/id,57/game_on.html)
+
+*   Recommend:
+*    
+*   [0 Comments](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html#commentsjump)
+*   [Print](http://www.pcworld.com/printable/article/id,190116/printable.html)
+
+[Game On](http://www.pcworld.com/blogs/id,57/game_on.html)
+
+Steam PC Gaming Client Gets Surprise Facelift
+=============================================
+
+By [Matt Peckham](http://www.pcworld.com/author/Matt-Peckham), [PCWorld](http://www.pcworld.com/) Feb 24, 2010 4:35 AM
+
+![Image 11: Steam Beta](http://zapp5.staticworld.net/news/graphics/190116-steam-beta-1_original.jpg)
+
+Game publisher and digital distribution vanguard [Valve](http://www.valvesoftware.com/) just popped the lid off a radically different looking version of its [Steam games client](http://store.steampowered.com/). The company says the new version includes "several major upgrades to the platform's core functionality," and that the interface has been overhauled "to enhance the way [we] already buy and play games, adding info about things that matter."
+
+Touting access as an "opt-in beta," the company said the beta was available immediately to anyone with a Steam account.
+
+I pulled it down and had a look.
+
+To grab the beta, you have to have [the current Steam client installed](http://store.steampowered.com/%29.), go into 'settings', click 'change', then choose 'UI Update'. The beta client should download automatically, install itself, then restart Steam.
+
+First thing I noticed: The Steam 'start menu' icon looks different. Same gear-crank graphic, but off-black, like it's coated in the stuff (steam, that is).
+
+You can now dictate whether the client runs online or offline from the top menu. It's the second option, in fact. Click 'go offline' and you're prompted to 'restart in offline mode'. As usual, you have to store your access credentials locally for offline mode to function, something Valve requires to prevent multiple installs in violation of its EULA. That aside, it's nice to see a previously tucked away option foregrounded. Playing offline remains a fundamental requirement. My WLAN radio died last night. Without an offline option, my review copy of Supreme Commander 2 would have been inaccessible.
+
+Switching back to online mode is just as easy: Click the 'steam' menu option, then 'go online' to restart the client.
+
+![Image 12: Steam Beta](http://zapp5.staticworld.net/news/graphics/190116-steam-beta-3_original.jpg)
+
+Menus and sort-by options look sleeker and better differentiated. Aside from the top menu bar with its customary small font, you now have four large font categories to choose from: Store, Library, News, and Community. The idea's the same, but the presentation feels cleaner. The only downside is that the category and menu options harbor redundancies. You can 'view' the forums off the top menu, or click the 'community' category. You can 'view games library' from the top menu, or simply tap the 'library' category. Better and less confusing, I think, if Valve would pick one location or the other.
+
+*   Page 1 of 2
+*   [Next »](http://www.pcworld.com/article/190116-2/steam_pc_gaming_client_gets_surprise_facelift.html)
+
+[](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html)
+
+*   See more like this:
+*   [games](http://www.pcworld.com/search?qt=games&s=d#tk.srch_art_tag),
+*   [online stores](http://www.pcworld.com/search?qt=online+stores&s=d#tk.srch_art_tag),
+*   [windows](http://www.pcworld.com/search?qt=windows&s=d#tk.srch_art_tag),
+*   [microsoft](http://www.pcworld.com/search?qt=microsoft&s=d#tk.srch_art_tag)
+
+Would you recommend this story? [_YES_](javascript:void(0);)[_NO_](javascript:void(0);)
+
+[](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html)
+
+Comments 
+
+![Image 13: A 21x22 small image, likely a logo, icon or avatar](http://images.pcworld.com/images/shared/icons/astrisk-blue.png)
+
+![Image 14](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html)
+
+[Submit Comment](javascript:void(0);)
+Once you click submit you will be asked to sign in or register an account if you are not already a member.
+
+_Posting comment ..._
+
+![Image 15: A 21x22 small image, likely a logo, icon or avatar](http://images.pcworld.com/images/shared/icons/astrisk-blue.png)
+
+Already have a PCWorld account? [Sign in](javascript:void(0);).
+
+#### Create a New Account
+
+**Sign in with these networks**
+
+or
+
+*   Username 
+*   Email 
+*   Password 
+*   Confirm 
+
+Your username will appear on any posts you make on PCWorld.com. It must be unique in our community and cannot include any spaces.
+
+**Your comment**
+
+- [x]  Please send me information about special deals, new products, and other third party offers.
+
+By signing up to become a PCWorld Member, you agree to our [terms of service](http://www.pcworld.com/resource/termsofservice.html). You can read more about how we use the information we collect in our [privacy policy](http://www.pcworld.com/resource/privacy.html).
+
+[Register and Post Comment](javascript:void(0);)
+
+Sort by:[Oldest First](javascript://)|[Newest First](javascript://)|[Most Recommended](javascript://)
+
+Resorting
+
+[Show More Comments](javascript://)
+
+**[Print 65% more pages than with refilled inks. Trust Original HP Inks. Hit Print Reliably.](http://ad.doubleclick.net/clk;219789687;13346828;f?http://ad.doubleclick.net/clk;219856710;43015593;i)**
+
+Subscribe to the Game On Weekly Newsletter - weekly
+
+[See All Newsletters »](http://www.pcworld.com/newsletters/index)
+
+Similar Articles:
+
+*   [![Image 16: A 45x25 small image, likely a logo, icon or avatar](http://zapp1.staticworld.net/images/article/2011/08/steam-5204983.jpg)](http://www.pcworld.com/article/237663/steam_digital_gaming_service_launches_trading_beta.html#tk.mod_rel) [Steam Digital Gaming Service Launches Trading Beta](http://www.pcworld.com/article/237663/steam_digital_gaming_service_launches_trading_beta.html#tk.mod_rel)
+*   [![Image 17: A 45x25 small image, likely a logo, icon or avatar](http://zapp1.staticworld.net/news/graphics/226007-steam-chart_180.jpg)](http://www.pcworld.com/article/226007/valve_wont_provide_steam_sales_data_should_we_care.html#tk.mod_rel) [Valve Won’t Provide Steam Sales Data: Should We Care?](http://www.pcworld.com/article/226007/valve_wont_provide_steam_sales_data_should_we_care.html#tk.mod_rel)
+*   [![Image 18: A 45x34 small image, likely a logo, icon or avatar](http://zapp3.staticworld.net/downloads/graphics/screenshots/105023t.jpg)](http://www.pcworld.com/article/234606/ashampoo_winoptimizer_8.html#tk.mod_rel) [Ashampoo WinOptimizer 8](http://www.pcworld.com/article/234606/ashampoo_winoptimizer_8.html#tk.mod_rel)
+*   [![Image 19: A 45x29 small image, likely a logo, icon or avatar](http://zapp1.staticworld.net/news/graphics/196157-steam-mac-1_180.jpg)](http://www.pcworld.com/article/196157/steam_for_mac_rolls_out_downloadable_now.html#tk.mod_rel) [Steam for Mac Rolls Out, Downloadable Now](http://www.pcworld.com/article/196157/steam_for_mac_rolls_out_downloadable_now.html#tk.mod_rel)
+*   [![Image 20: A 45x25 small image, likely a logo, icon or avatar](http://zapp4.staticworld.net/images/article/2011/06/steam-free-to-play-5184352.jpg)](http://www.pcworld.com/article/230340/steam_debuts_five_freetoplay_games_special_ingame_items.html#tk.mod_rel) [Steam Debuts Five Free-To-Play Games, Special In-Game Items](http://www.pcworld.com/article/230340/steam_debuts_five_freetoplay_games_special_ingame_items.html#tk.mod_rel)
+*   [![Image 21: A 45x34 small image, likely a logo, icon or avatar](http://zapp2.staticworld.net/downloads/graphics/screenshots/91997t.jpg)](http://www.pcworld.com/article/233766/duperazor_duplicate_files_removal_kit.html#tk.mod_rel) [DupeRAZOR - Duplicate Files Removal Kit](http://www.pcworld.com/article/233766/duperazor_duplicate_files_removal_kit.html#tk.mod_rel)
+
+Game On
+
+*   [**Most Recent**](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html#)
+*   [**Most Recommended**](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html#)
+
+*   [Nintendo's Miyamoto Initially Fought Mario Kart 7 Features](http://www.pcworld.com/article/244718/nintendos_miyamoto_initially_fought_mario_kart_7_features.html) Mario creator Shigeru Miyamoto admits he was initially against the game's vehicle customization features. 
+*   [New Xbox 360 Dashboard with Windows 8-like Interface Drops on December 6](http://www.pcworld.com/article/244521/new_xbox_360_dashboard_with_windows_8like_interface_drops_on_december_6.html) Microsoft confirms release date for new Metro-style Xbox 360 dashboard and a slew of feature updates. 
+*   [Skyrim Performance Review: It's Definitely a DirectX 9 Game](http://www.pcworld.com/article/244400/skyrim_performance_review_its_definitely_a_directx_9_game.html) Benchmark site puts PC version of Skyrim under the knife, concludes the game's graphics aren't up to snuff for a 2011 product. 
+*   [Hey Torchlight II, Take Your Time, We'll Wait for You](http://www.pcworld.com/article/244242/hey_torchlight_ii_take_your_time_well_wait_for_you.html) You won't see Torchlight II in 2011, as originally planned, and that's a good thing. 
+
+*   [Skyrim: Bethesda's Strange, Beguiling, Magnificent Dance with Dragons](http://www.pcworld.com/article/243513/skyrim_bethesdas_strange_beguiling_magnificent_dance_with_dragons.html) In Bethesda's exquisite Elder Scrolls roleplaying epic, you'll play a game of dragons and witness a clash of thrones. 
+*   [Modern Warfare 3 Thieves Crash Into Van Carrying 6,000 Copies](http://www.pcworld.com/article/243279/modern_warfare_3_thieves_crash_into_van_carrying_6000_copies.html) French criminals target van carrying copies of Modern Warfare 3, use tear gas to make off with over half a million dollars in product. 
+*   [What's Inside a Giant Box of Skyrim?](http://www.pcworld.com/article/242924/whats_inside_a_giant_box_of_skyrim.html) While you're waiting for Skyrim to arrive, here's what's coming in the $150 collector's edition. 
+*   [Why Do Metacritic Users Hate Modern Warfare 3?](http://www.pcworld.com/article/243378/why_do_metacritic_users_hate_modern_warfare_3.html) The latest salvo in Activision's money-printing Call of Duty franchise has launched, so why do so many users claim to despise it? 
+
+PC Games
+
+*   [Most Popular](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html#)
+*   [All Categories](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html#)
+
+*   [![Image 24: A 45x45 small image, likely a logo, icon or avatar](http://i.pgcdn.com/pi/80/86/42/808642514_75.jpg)](http://www.pcworld.com/shopping/detail/prtprdid,808642514-sortby,retailer/pricing.html "Get the latest prices on the Call of Duty: Black Ops (PC)") [Call of Duty: Black Ops (PC)](http://www.pcworld.com/shopping/detail/prtprdid,808642514-sortby,retailer/pricing.html "Get the latest prices on the Call of Duty: Black Ops (PC)")$48.88 and up [See All Prices](http://www.pcworld.com/shopping/detail/prtprdid,808642514-sortby,retailer/pricing.html "Get the latest prices on the Call of Duty: Black Ops (PC)")
+*   [![Image 25: A 45x45 small image, likely a logo, icon or avatar](http://i.pgcdn.com/pi/7/35/07/73507725_75.jpg)](http://www.pcworld.com/shopping/detail/prtprdid,73507725-sortby,retailer/pricing.html "Get the latest prices on the The Sims 3 (PC/Mac)") [The Sims 3 (PC/Mac)](http://www.pcworld.com/shopping/detail/prtprdid,73507725-sortby,retailer/pricing.html "Get the latest prices on the The Sims 3 (PC/Mac)")$19.99 and up [See All Prices](http://www.pcworld.com/shopping/detail/prtprdid,73507725-sortby,retailer/pricing.html "Get the latest prices on the The Sims 3 (PC/Mac)")
+*   [![Image 26: A 45x45 small image, likely a logo, icon or avatar](http://i.pgcdn.com/pi/88/11/00/881100178_75.jpg)](http://www.pcworld.com/shopping/detail/prtprdid,881100178-sortby,retailer/pricing.html "Get the latest prices on the Call of Duty: Modern Warfare 3 (PC)") [Call of Duty: Modern Warfare 3 (PC)](http://www.pcworld.com/shopping/detail/prtprdid,881100178-sortby,retailer/pricing.html "Get the latest prices on the Call of Duty: Modern Warfare 3 (PC)")$15.29 and up [See All Prices](http://www.pcworld.com/shopping/detail/prtprdid,881100178-sortby,retailer/pricing.html "Get the latest prices on the Call of Duty: Modern Warfare 3 (PC)")
+*   [![Image 27: A 45x45 small image, likely a logo, icon or avatar](http://i.pgcdn.com/pi/86/49/71/864971815_75.jpg)](http://www.pcworld.com/shopping/detail/prtprdid,864971815-sortby,retailer/pricing.html "Get the latest prices on the Harry Potter and the Deathly Hallows: Part 2 (Full Product, DVD-ROM, PC)") [Harry Potter and the Deathly Hallows: Part 2 (Full Product, DVD-ROM, PC)](http://www.pcworld.com/shopping/detail/prtprdid,864971815-sortby,retailer/pricing.html "Get the latest prices on the Harry Potter and the Deathly Hallows: Part 2 (Full Product, DVD-ROM, PC)")$15.99 and up [See All Prices](http://www.pcworld.com/shopping/detail/prtprdid,864971815-sortby,retailer/pricing.html "Get the latest prices on the Harry Potter and the Deathly Hallows: Part 2 (Full Product, DVD-ROM, PC)")
+
+[See all PC Games »](http://www.pcworld.com/shopping/browse/category.html?id=10528)
+
+See also: [Graphics Cards](http://www.pcworld.com/shopping/browse/category.html?id=10051), [Playstation 3](http://www.pcworld.com/shopping/browse/category.html?id=10434), [Wii](http://www.pcworld.com/shopping/browse/category.html?id=10431), [Xbox 360](http://www.pcworld.com/shopping/browse/category.html?id=10427)
+
+*   [Laptops](http://www.pcworld.com/shopping/browse/category.html?id=10010)
+*   [Under $500](http://www.pcworld.com/shopping/browse/category.html?id=10010&lo_p=0&hi_p=500)
+*   [$500 to $1000](http://www.pcworld.com/shopping/browse/category.html?id=10010&lo_p=500&hi_p=1000)
+*   [$1000 to $2000](http://www.pcworld.com/shopping/browse/category.html?id=10010&lo_p=1000&hi_p=2000)
+*   [$2000 to $3000](http://www.pcworld.com/shopping/browse/category.html?id=10010&lo_p=2000&hi_p=3000)
+*   [Over $3000](http://www.pcworld.com/shopping/browse/category.html?id=10010&lo_p=3000&hi_p=)
+
+*   [Desktops](http://www.pcworld.com/shopping/browse/category.html?id=10006)
+*   [Under $500](http://www.pcworld.com/shopping/browse/category.html?id=10006&lo_p=0&hi_p=500)
+*   [$500 to $1000](http://www.pcworld.com/shopping/browse/category.html?id=10006&lo_p=500&hi_p=1000)
+*   [$1000 to $2000](http://www.pcworld.com/shopping/browse/category.html?id=10006&lo_p=1000&hi_p=2000)
+*   [Over $2000](http://www.pcworld.com/shopping/browse/category.html?id=10006&lo_p=2000&hi_p=)
+
+*   [Printers](http://www.pcworld.com/shopping/browse/category.html?id=10061)
+*   [Inkjet](http://www.pcworld.com/shopping/browse/category.html?id=10061&filter=popup5[],101:273)
+*   [B&W Laser](http://www.pcworld.com/shopping/browse/category.html?id=10061&filter=popup5[],205:273)
+*   [Color Laser](http://www.pcworld.com/shopping/browse/category.html?id=10061&filter=popup5[],200:273)
+
+*   [Portable Audio](http://www.pcworld.com/shopping/browse/category.html?id=10131)
+*   [MP3 Players](http://www.pcworld.com/shopping/browse/category.html?id=10135)
+*   [Accessories](http://www.pcworld.com/shopping/browse/category.html?id=10138)
+
+*   [Digital Cameras](http://www.pcworld.com/shopping/browse/category.html?id=10252)
+*   [Cameras](http://www.pcworld.com/shopping/browse/category.html?id=10253)
+*   [Lenses](http://www.pcworld.com/shopping/browse/category.html?id=10254)
+*   [Accessories](http://www.pcworld.com/shopping/browse/category.html?id=10255)
+
+*   [Software](http://www.pcworld.com/shopping/browse/category.html?id=10211)
+*   [Design & Multimedia](http://www.pcworld.com/shopping/browse/category.html?id=10226)
+*   [Business Productivity](http://www.pcworld.com/shopping/browse/category.html?id=10212)
+*   [Utilities](http://www.pcworld.com/shopping/browse/category.html?id=10245)
+*   [Operating Systems](http://www.pcworld.com/shopping/browse/category.html?id=10230)
+
+*   [Monitors](http://www.pcworld.com/shopping/browse/category.html?id=10020)
+*   [18 to 19 Inches](http://www.pcworld.com/shopping/browse/category.html?id=10020&filter=popup1[],170:1039)
+*   [20 to 21 Inches](http://www.pcworld.com/shopping/browse/category.html?id=10020&filter=popup1[],160:1039)
+*   [21 Inches & Up](http://www.pcworld.com/shopping/browse/category.html?id=10020&filter=popup1[],150:1039)
+
+*   [Camcorders](http://www.pcworld.com/shopping/browse/category.html?id=11080)
+*   [Camcorders](http://www.pcworld.com/shopping/browse/category.html?id=11082)
+*   [Batteries & Power](http://www.pcworld.com/shopping/browse/category.html?id=11086)
+*   [Bags & Cases](http://www.pcworld.com/shopping/browse/category.html?id=11083)
+
+*   [Televisions](http://macworld.pricegrabber.com/home_catpage.php/catzero=19)
+*   [Plasma & LCD](http://www.pcworld.com/shopping/browse/category.html?id=10129)
+*   [Projection](http://www.pcworld.com/shopping/browse/category.html?id=10128)
+*   [TV Accessories & Mounts](http://www.pcworld.com/shopping/browse/category.html?id=10130)
+
+*   [Storage](http://www.pcworld.com/shopping/browse/category.html?id=11137)
+*   [Hard Drives](http://www.pcworld.com/shopping/browse/category.html?id=11142)
+*   [Flash Memory](http://www.pcworld.com/shopping/browse/category.html?id=10034)
+*   [DVD-ROM/DVD Writers](http://www.pcworld.com/shopping/browse/category.html?id=11139)
+
+All PCWorld Blogs
+
+*   [**Most Recent**](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html#)
+*   [**Most Recommended**](http://www.pcworld.com/article/190116/steam_pc_gaming_client_gets_surprise_facelift.html#)
+
+*   [Android: The Phone for Living Dangerously?](http://www.pcworld.com/article/244956/android_the_phone_for_living_dangerously.html) Android owners prefer living on the edge, visiting edgy websites and bypassing security software, a security firm reports. 
+*   [Banks Embrace the Tablet Revolution](http://www.pcworld.com/article/244955/banks_embrace_the_tablet_revolution.html) Cutting-edge banks can take advantage of the huge demand for tablets this holiday season to capture the tech savvy market and give customers tools for tablet-based banking. 
+*   [Black Friday Deals Remained After Early Rush](http://www.pcworld.com/article/244953/black_friday_deals_remained_after_early_rush.html) At some big box stores the heavily discounted specials remained in healthy supply after the early rush was over. 
+*   [Social Media, American Express Helping Holiday Shoppers Get Good Deals](http://www.pcworld.com/article/244951/social_media_american_express_helping_holiday_shoppers_get_good_deals.html) The credit card company is encouraging people to do their holiday shopping at small local businesses instead of big box retailers. 
+
+*   [Republic Wireless Rolls Out $19 Unlimited Voice, Data, Text Service](http://www.pcworld.com/article/243389/republic_wireless_rolls_out_19_unlimited_voice_data_text_service.html) Republic Wireless will charge users $19 a month. Its unlimited offerings are accessible on the Wi-Fi portion of its network. 
+*   [123456: The Worst Passwords of 2011](http://www.pcworld.com/article/244288/123456_the_worst_passwords_of_2011.html) If one of your passwords is "654321" or "superman" or "qazwsx" congratulations for having one of the least secure passwords of 2011. 
+*   [Should I Remove My Laptop Battery to Increase its Life?](http://www.pcworld.com/article/242799/should_i_remove_my_laptop_battery_to_increase_its_life.html) Rita Baker wants to preserve her laptop's battery. Should she remove it before running the computer on AC power? 
+*   [Kindle Fire Has a Secret Ingredient: Amazon Prime](http://www.pcworld.com/article/243767/kindle_fire_has_a_secret_ingredient_amazon_prime.html) The Amazon Kindle Fire may be an Android tablet at its core, but it has one thing that no other Android tablet has, or every will have--Amazon Prime. 
+
+Subscribe to the Game On Weekly Newsletter - weekly
+
+[See All Newsletters »](http://www.pcworld.com/newsletters/index)
+
+*   [12 Criteria for Selecting the Best ERP System Replacement](http://www.accelacomm.com/jaw/wp_module/17/50824898/) An ERP system is your information backbone and reaches into all areas of your business and value chain. Replacing it can open unlimited business opportunities. This white paper explains the 12 criteria that allow you to identify and select the solution that will meet these expectations.  
+*   [Leveraging Social Computing Technologies for ERP Applications](http://www.accelacomm.com/jaw/wp_module/17/50824876/) This white paper details how Web 2.0 technologies support business strategies by improving efficiency, productivity, and collaboration.  
+
+Today's Special Offers
+
+[![Image 28: A 1x1 image, likely be a tacker probe](http://ad.doubleclick.net/ad/pcw_textlinks/tsotracking;pos=tso;tile=5;sz=1x1;ord=[timestamp])](http://ad.doubleclick.net/jump/pcw_textlinks/tsotracking;pos=tso;tile=5;sz=1x1;ord=[timestamp])
+*   [QNAP TS-x79 Series NAS for High-end SMBs](http://ad.doubleclick.net/clk;245551419;28159734;o?http://www.qnap.com/static/landing/20110929_x79.html)The ultimate NAS solution over 1,000 MB/s read & write. Ideal for backup, sharing & virtualization. [Password Frustration Solved](http://ad.doubleclick.net/clk;246171626;28159734;n?http://mylok.ii2p.com)Weary of trying to remember so many passwords? Use MyLOK! [Back to School Deal from Fujitsu.](http://ad.doubleclick.net/clk;248830900;28159734;m?http://altfarm.mediaplex.com/ad/ck/14960-137826-1105-4?mpt=%n)Purchase a LIFEBOOK Notebook or Tablet PC for a Free 500 GB HD or Free Backpack Bundle [In here, complexity is conquered across your organization.](http://ad.doubleclick.net/clk;247045980;28159734;r?http://www.corp.att.com/enterprise/manage-protect-mobile-assets/)Get control of your company's devices, systems & applications with Mobile Device Management from AT&T [AT&T smallbusinessInSite: Get Free Expert Advice](http://ad.doubleclick.net/clk;240221179;13346828;c?http://clk.atdmt.com/009/go/312089009/direct;at.243269728_389605_1;ct.1/01/)Follow these 5 Mobile Marketing Best Practices to help maximize your investment in a mobile marketing program.  [Check out Sony's Weekly Deals!](http://ad.doubleclick.net/clk;247847434;28159734;v?http://ad.doubleclick.net/clk;245912983;71166272;o?http://store.sony.com/webapp/wcs/stores/servlet/CategoryDisplay?catalogId=10551&storeId=10151&langId=-1&identifier=S_Televisions)Click here to see the current deals on Sony Televisions. 
+*   [Adobe Captivate 5.5:](http://ad.doubleclick.net/clk;247793772;63770597;f?https://www.adobe.com/cfusion/tdrc/index.cfm?product=captivate&loc=uk&sdid=JIJPP)Transform Presentations into interactive eLearning content [Realize radical efficiencies with HP.](http://ad.doubleclick.net/clk;248897975;28159734;l?http://ad.doubleclick.net/clk;249033633;74151757;j)Get the tech dossier and unleash the true power of virtualization. [Brother printers rated #1 in reliability](http://ad.doubleclick.net/clk;247136891;28159734;t?http://www.brother-usa.com/lp/laser-printer.aspx?WT.mc_id=AWARD&WT.mc_ev=click)See why PC Mag readers gave Brother the #1 overall rating for printers. Again. [In here, complexity is conquered across your organization.](http://ad.doubleclick.net/clk;247045980;28159734;r?http://www.corp.att.com/enterprise/manage-protect-mobile-assets/)Get control of your company's devices, systems & applications with Mobile Device Management from AT&T [Samsung Green Memory](http://ad.doubleclick.net/clk;246771893;28159734;z?http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=3264316&PluID=0&ord=%n)See how Samsung green memory can reduce power cost in your data center  [QNAP TS-x79 Series NAS for High-end SMBs](http://ad.doubleclick.net/clk;245551419;28159734;o?http://www.qnap.com/static/landing/20110929_x79.html)The ultimate NAS solution over 1,000 MB/s read & write. Ideal for backup, sharing & virtualization. 
+*   [Take your computing to the next level.](http://ad.doubleclick.net/clk;247223677;28159734;s?http://altfarm.mediaplex.com/ad/ck/13906-137937-1105-5?mpt=[CACHEBUSTER])PCs by ZT Systems feature 2nd generation Intel® Core™ i7 processors. Buy now. [The NEW Android™ - powered Panasonic Toughpad™ family.](http://ad.doubleclick.net/clk;248093014;28159734;j?http://ad.doubleclick.net/clk;248400548;74125976;p?http://www.panasonic.com/business/toughpad/us/best-android-rugged-tablet.asp?cm_mmc=Sigma-_-Text-Horizontal-_-PCWorld-TSO-Toughpad-_-Text-NewToughpad)Introducing the new Panasonic Toughpad family, the fearless new business tablets that go where no tablet has ever gone before. [Master the cloud with HP.](http://ad.doubleclick.net/clk;248249327;28159734;t?http://ad.doubleclick.net/clk;248163800;73797038;p)Get a cloud assessment today and get ready for the next step in I.T. [PowerDirector10 - The World's Fastest Video Editor](http://ad.doubleclick.net/clk;247601388;28159734;r?http://www.cyberlink.com/stat/edms/english/2011/Q4/PDR10-Ads/PCWTSO.jsp)With the new rendering engine & 3D editing suite, PowerDirector is redefining digital video editing. [Adobe Captivate 5.5:](http://ad.doubleclick.net/clk;247891564;63770597;d?https://www.adobe.com/cfusion/tdrc/index.cfm?product=captivate&loc=uk&sdid=JIJPP)Transform Presentations into interactive eLearning content [In here, complexity is conquered across your organization.](http://ad.doubleclick.net/clk;247045980;28159734;r?http://www.corp.att.com/enterprise/manage-protect-mobile-assets/)Get control of your company's devices, systems & applications with Mobile Device Management from AT&T 
+
+Editors' Picks
+*   [](javascript:void(0);)
+*   [](javascript:void(0);)
+
+*   [![Image 29](http://zapp4.staticworld.net/images/article/2011/11/title-v3-5242039.png)](http://www.pcworld.com/article/244839/black_friday_reality_check_the_worst_busts_of_2011.html) [Black Friday Reality Check: The Worst Busts of 2011](http://www.pcworld.com/article/244839/black_friday_reality_check_the_worst_busts_of_2011.html)
+*   [![Image 30](http://zapp0.staticworld.net/images/article/2011/11/thumbnail-5241763.jpg)](http://www.pcworld.com/article/244731/the_10_best_xbox_360_games.html) [The 10 Best Xbox 360 Games](http://www.pcworld.com/article/244731/the_10_best_xbox_360_games.html)
+*   [![Image 31](http://zapp1.staticworld.net/images/article/2011/11/thumbndail-5241372.gif)](http://www.pcworld.com/article/244637/the_10_best_ps3_games.html) [The 10 Best PS3 Games](http://www.pcworld.com/article/244637/the_10_best_ps3_games.html)
+*   [![Image 32](http://zapp2.staticworld.net/images/article/2011/11/big-fish-games-to-download-5241961.png)](http://www.pcworld.com/article/244797/big_fish_games_to_offer_subscription_gaming_on_ipad.html) [Big Fish Games to Offer Subscription Gaming on iPad](http://www.pcworld.com/article/244797/big_fish_games_to_offer_subscription_gaming_on_ipad.html)
+*   [![Image 33](http://zapp3.staticworld.net/images/article/2011/11/111123_wtu_idg180-5241918.jpg)](http://www.pcworld.com/article/244779/holiday_gift_guide_tablets_ereaders_and_gaming.html) [Holiday Gift Guide: Tablets, e-Readers, and Gaming](http://www.pcworld.com/article/244779/holiday_gift_guide_tablets_ereaders_and_gaming.html)
+*   [![Image 34](http://zapp1.staticworld.net/images/article/2011/11/thumb-5241912.jpg)](http://www.pcworld.com/article/244734/20_awesome_black_friday_tech_deals.html) [20 Awesome Black Friday Tech Deals](http://www.pcworld.com/article/244734/20_awesome_black_friday_tech_deals.html)
+*   [![Image 35](http://zapp3.staticworld.net/images/article/2011/11/portal-led-flashlights-5241575.jpg)](http://www.pcworld.com/article/244725/the_cake_is_a_lie_fine_ill_take_these_portal_led_flashlights_instead.html) [The Cake Is a Lie? Fine, I’ll Take These Portal LED Flashlights Instead](http://www.pcworld.com/article/244725/the_cake_is_a_lie_fine_ill_take_these_portal_led_flashlights_instead.html)
+*   [![Image 36](http://zapp3.staticworld.net/images/article/2011/11/mario-kart-7-5241470.jpg)](http://www.pcworld.com/article/244718/nintendos_miyamoto_initially_fought_mario_kart_7_features.html) [Nintendo's Miyamoto Initially Fought Mario Kart 7 Features](http://www.pcworld.com/article/244718/nintendos_miyamoto_initially_fought_mario_kart_7_features.html)
+*   [![Image 37](http://zapp3.staticworld.net/images/article/2011/05/kinect_thumb-5177540.jpg)](http://www.pcworld.com/article/244687/microsoft_kinect_for_windows_its_coming.html) [Microsoft Kinect for Windows: It’s Coming](http://www.pcworld.com/article/244687/microsoft_kinect_for_windows_its_coming.html)
+*   [![Image 38](http://zapp4.staticworld.net/images/article/2011/11/xbox-windows-8-metro-ui-5240615.jpg)](http://www.pcworld.com/article/244521/new_xbox_360_dashboard_with_windows_8like_interface_drops_on_december_6.html) [New Xbox 360 Dashboard with Windows 8-like Interface Drops on December 6](http://www.pcworld.com/article/244521/new_xbox_360_dashboard_with_windows_8like_interface_drops_on_december_6.html)
+*   [![Image 39](http://zapp2.staticworld.net/images/article/2011/11/skyrim-5240061.jpg)](http://www.pcworld.com/article/244400/skyrim_performance_review_its_definitely_a_directx_9_game.html) [Skyrim Performance Review: It's Definitely a DirectX 9 Game](http://www.pcworld.com/article/244400/skyrim_performance_review_its_definitely_a_directx_9_game.html)
+*   [![Image 40](http://zapp4.staticworld.net/images/article/2011/11/mw4_mercs_180-5238280.jpg)](http://www.pcworld.com/article/244041/how_to_play_mechwarrior_4_mercenaries_on_your_windows_7_pc.html) [How to Play Mechwarrior 4: Mercenaries on Your Windows 7 PC](http://www.pcworld.com/article/244041/how_to_play_mechwarrior_4_mercenaries_on_your_windows_7_pc.html)
+
+[Home](http://www.pcworld.com/)
+
+Products
+
+*       *   [Android App Reviews](http://www.pcworld.com/appguide/index.html?platform=2 "Android App Reviews")
+    *   [iPhone App Reviews](http://www.pcworld.com/appguide/index.html?platform=1 "iPhone App Reviews")
+    *   [Business Center](http://www.pcworld.com/businesscenter/ "Business Center")
+    *   [Cameras](http://www.pcworld.com/products/cameras.html "Cameras")
+    *   [Camcorders](http://www.pcworld.com/products/cameras/camcorders.html "Camcorders")
+    *   [Cell Phones & PDAs](http://www.pcworld.com/products/phones.html "Cell Phones & PDAs")
+    *   [Consumer Advice](http://www.pcworld.com/topics/consumer_advice.html "Consumer Advice")
+
+*       *   [Desktop PCs](http://www.pcworld.com/products/computers/desktops.html "Desktop PCs")
+    *   [E-Readers](http://www.pcworld.com/products/tablets/ereaders.html "E-Readers")
+    *   [Gadgets](http://www.pcworld.com/topics/gadgets.html "Gadgets")
+    *   [Gaming](http://www.pcworld.com/topics/gaming.html "Gaming Hardware & Software")
+    *   [HDTV](http://www.pcworld.com/products/home_theater/hdtv.html "HDTV")
+    *   [Home Theater](http://www.pcworld.com/products/home_theater.html "Home Theater")
+
+*       *   [Laptops](http://www.pcworld.com/products/computers/laptops.html "Laptops")
+    *   [Macs & iPods](http://www.pcworld.com/topics/apple.html "Macs & iPods")
+    *   [Monitors](http://www.pcworld.com/products/monitors.html "Monitors")
+    *   [Printers](http://www.pcworld.com/products/printers.html "Printers")
+    *   [Software](http://www.pcworld.com/products/software.html "Software")
+    *   [Spyware & Security](http://www.pcworld.com/topics/security.html "Spyware & Security")
+
+*       *   [Storage](http://www.pcworld.com/products/storage.html "DVD & Hard Drive Storage")
+    *   [Tablets](http://www.pcworld.com/products/tablets.html "Tablets")
+    *   [Tech Industry](http://www.pcworld.com/topics/tech_industry.html "Tech Industry")
+    *   [Tech Events](http://www.pcworld.com/topics/tech_events.html "Tech Events")
+    *   [Upgrading](http://www.pcworld.com/topics/upgrading.html "Components & Upgrading")
+    *   [Windows](http://www.pcworld.com/topics/windows.html "Windows")
+
+*   Network Sites 
+    *   [PCWorld Business Center](http://www.pcworld.com/businesscenter/)
+    *   [Search for Tech Jobs](http://jobs.pcworld.com/)
+    *   [Careers at IDG](http://careers.idg.com/)
+    *   [Macworld](http://www.macworld.com/)
+    *   [MacUser](http://www.macuser.com/)
+    *   [Mac OS X Hints](http://www.osxhints.com/)
+    *   [iPhone Central](http://iphone.macworld.com/)
+
+*   About PCWorld 
+    *   [About Us](http://www.pcworldmacworld.com/)
+    *   [![Image 41: Ad Choices](http://zapp0.staticworld.net/images/shared/icons/ad_choices_icon.png)Ad Choices](http://ad.doubleclick.net/clk;238886167;13346828;x?http://www.pcworld.com/resource/privacy.html)
+    *   [Advertise](http://www.pcworldmacworld.com/contact/advertise)
+    *   [PCWorld Content Works](http://www.pcworldmacworld.com/content-works/content-works)
+    *   [Terms of Service Agreement](http://www.pcworld.com/resource/termsofservice.html)
+    *   [Privacy Policy](http://www.pcworld.com/resource/privacy.html#privacypolicy)
+    *   [Site Map](http://static.pcworld.com/sitemap/)
+
+*   Resources 
+    *   [Newsletters](http://www.pcworld.com/newsletters/index)
+    *   [FAQ](http://www.pcworld.com/resource/site_faq.html)
+    *   [Contact Us](http://www.pcworld.com/resource/contactus.html)
+    *   [![Image 42: RSS](http://zapp3.staticworld.net/images/shared/icons/rss.gif)RSS Feeds](http://www.pcworld.com/resource/rss.html)
+    *   [Magazine Customer Service](http://www.pcworld.com/resource/circ_subservices.html)
+    *   [Community Standards](http://www.pcworld.com/resource/community.html)
+
+Visit other IDG sites:
+
+© 1998-2011, PCWorld Communications, Inc.
+
+![Image 43: Try 2 risk-free issues of PCWorld](http://zapp5.staticworld.net/images/footer/PCWMagAd_Footer.png)
+Name City
+
+Address 1 State Zip
+
+Address 2 E-mail (optional)
+
+[Click Here](javascript:document.form.submit())
+
+[Canadian Residents](https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PCW&cds_page_id=11664) | [Foreign Residents](https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=PCW&cds_page_id=757) | [Gift Subscriptions](https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=PCW)
+
+[Customer Service](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=PCW) | [Privacy Policy](http://www.pcworld.com/resource/privacy.html)

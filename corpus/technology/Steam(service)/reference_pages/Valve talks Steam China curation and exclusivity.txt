@@ -1,0 +1,95 @@
+# Valve talks Steam China, curation and exclusivity
+
+Valve, alongside its business partner in China, Perfect World, has given us an update on the progress of Steam China today, after both companies had been silent on the topic for over a year.
+
+![Image 1: 1](https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-08-21-13-51/IMG_5061.JPG/EG11/resize/300x-1/quality/75/format/jpg)
+
+Perfect World prepares to deliver a presentation on Steam China in Shanghai.
+
+Eurogamer attended the brief presentation, given by Perfect World CEO Dr. Robert H. Xiao in Shanghai, where a small number of local and international press were told the companies were "one more step closer" to launching Steam China, which will be separate from the international version of Steam. A handful of launch games were revealed, including Dota 2 and Dota Underlords. There were no actual launch dates or broader windows mentioned for Steam China itself, mind, nor a look at how that storefront may shape up or any details on its features, barring the fact it'll support VR, multiplayer games, interesting games with "innovative, creative ideas," and "single-player games with abundant storylines". As far as we could tell, none of the non-Chinese launch games had official approval just yet, either.
+
+In Xiao's words, "the Steam China project is undergoing solidly and smoothly" - but what is it, exactly? As it stands, Steam is actually widely available for Chinese players already. As of right now we've tested and confirmed it's possible to buy, download and play games through the Steam store in China as usual, with no issues - and no need for a VPN. Community features, such as discussion forums, are unavailable, but otherwise the platform as it stands still acts as a huge loophole in the Chinese government's strict regulation of games. Where it might take many months of admin and applications for a game to get through the approval process - if it gets through at all - or many revisions to a game's content to ensure it meets the various Chinese standards, that same game can already be bought and played in China, unfiltered, unregistered and unchanged, on regular old Steam.
+
+That's what led Steam to see its total player numbers [skyrocket during the Chinese governemnt's freeze on the approval process](https://www.eurogamer.net/articles/2018-10-24-steam-popularity-skyrockets-in-china-as-governments-freeze-on-new-game-approvals-continues) towards the end of last year, as Chinese gamers flocked to the platform to carry on playing amid the drought. It also means many developers and publishers rely on the huge Chinese audience for a surprising amount of their playerbase, with some we spoke to saying at least 30 per cent of their players were Chinese. The suspicion, though, is regular Steam may be phased out or blocked entirely, once the rubber-stamped Steam China goes live, but even that - alongside the fate of more than 30 million Chinese user accounts, purchased games, save files, and the developers who rely on them - is unclear.
+
+In fact, Valve isn't sure itself. Eurogamer spoke to Valve's DJ Powers, who works in the company's business development team, at the event to try and get a better sense of what exactly is going on. As you'll read it's pretty clear even Valve can't explain - or maybe more accurately, can't say - what's going to happen to the international version of Steam out in China. Nor, for that matter, can the company say what'll happen to the accounts and property of tens of millions of Chinese players, who may or may not be able to access the international version of Steam once the official Chinese version goes live.
+
+It's a fairly wide-ranging chat, and Powers touches on some of the more delicate subjects surrounding Steam at large. It's worth noting Powers seemed earnest where he could be, and self-aware enough to know when he was caught in a tricky spot.
+
+**So, Steam is available as it stands in China - yesterday I was able to buy, download and play a game without a VPN - so what's behind this? Was it an internal decision?**
+
+**Powers:** So, Steam China's just gonna be a much better experience for Chinese customers. Local servers, all localised content, so it's different in that it's just a service targeted at the Chinese gamers, as opposed to right now, where Chinese gamers are coming to Steam but it's you know, it's outside of China that they're accessing.
+
+**So was it a decision on Valve's part to start Steam China?**
+
+**Powers:** I'm not sure I know the genesis of exactly how the conversation started. We've worked with Perfect World for a long time. They've published Dota and CS:GO in partnership with Valve. I think in some sense we've been working with them, for a long time, in terms of what Steam would look like in China, but I don't know the genesis.
+
+**I guess what I'm dancing around is: there are regulations in China about what's appropriate for a Chinese audience. So was that a driving force behind a Steam China that was a little bit more curated, in that sense?**
+
+**Powers:** Yeah. We want Chinese customers to have really high-quality access to Steam games, and that means getting a set of games approved through the appropriate channels, and a service that is local. The servers that are right there, they can have fast download times, features make their quality of life better obviously.
+
+![Image 2: 3](https://www.eurogamer.net/img/placeholder.jpg)
+
+Chinese gamers can currently access the international version of Steam, which has boosted the popularity of games such as Total War: Three Kingdoms.
+
+**Will there be some kind of community or forum or discussion area, as I know that's one part you can't access right now in China?**
+
+**Powers:** Yeah, I think that our long-term goal would be to have those features for the audience. We're hopeful.
+
+**And on that topic of "curation", I know that's obviously come up in the past with Steam in the rest of the world, and that's not something you seem to be to keen on. Your attitude has been essentially anything that's legal goes, so have you had a shift in attitude? Or is it that you feel China requires a different attitude to that?**
+
+**Powers:** I mean obviously it's a different market, where, there's just a process that games have to go through. The way we operate Steam worldwide, where it's really developers coming to us, they sign up, they ship their game, you just can't have that same operation here. And so we're working with the processes in place and we'll get as many games on the platform as we can, but there's just a limit, and by definition kind of has to be a little more curated.
+
+**Do you think there are some lessons you can learn from that approach that you could maybe apply in a Western environment?**
+
+**Powers:** I don't know about lessons. I think it'll be interesting to see just how a market reacts to a more curated storefront. I mean we know a lot of that, I've been at Steam a long time and I remember when Steam was very curated for a number of reasons as well, that we worked really hard to kind of eliminate over the years some of those barriers, but, yeah I think we'll just be interested in how consumers react to it, and if we do learn something that tells us we should be more open to that kind of storefront, then we'll take that data and consider it, for sure.
+
+**And there's an expectation as well that companies will sort of "self-regulate" in a way. I think Tencent is an example where it implemented time limits for younger players off its own back, before government regulation came in. Will you consider self-regulating certain things as well?**
+
+**Powers:** There's just policies and laws in place that we have to follow, so yeah, we'll adhere to all of those.
+
+**So it's more a reactive sense of "whatever the local laws are that's what we'll do"?**
+
+**Powers:** Yeah.
+
+![Image 3: 3](https://www.eurogamer.net/img/placeholder.jpg)
+
+Valve hopes to have forums and discussions available in Steam China.
+
+**Jumping back to the topic of forums again - if I wanted to find something unsavoury on the Steam forums in the rest of the world, it wouldn't take me long. Obviously, China being China, that's not going to be able to fly out here. Have you thought about how you're going to manage that yet? If you're going to have forums there'll have to be some kind of moderation?**
+
+**Powers:** I think we have a little bit, but nothing that's in place that we could talk about at this point.
+
+**Okay. You've talked about how there's going to be a different, curated version of the store - do you have an idea of how that's going to look, even visually?**
+
+**Powers:** We do, we didn't bring any of that here. And, you know, in due time and hopefully pretty soon we'll have more information about launch timing and what it's going to look like - but internally we have a bunch of designs for what that experience is going to look like, and it's great. We're all very excited about where it's headed. It really is good. The benefit of having a smaller group of games is you could really feature them in ways that it's hard to do on rest-of-world Steam. So, we're excited to tell you guys more about that stuff. It's just, I can't talk about it.
+
+**Alright. So changing subjects - a part of the negative sentiment towards one of your rivals, the Epic Games store, is based on a quite broadly anti-Chinese sentiment, with it being at least part-owned by Tencent, with things like it supposedly being a "security risk" coming up a lot, justified or not. Are you concerned at all that there might be a similar attitude for Steam, now that you're sort of rubber-stamping Steam in China and working more closely with the respective people here?**
+
+**Powers:** I really don't want to have a comment on other services, it's not really appropriate for me to talk about. We are expecting excitement from Chinese customers. Dota and CS:GO have been received very well here, and we went through a similar process to get those games through in a Chinese market. So, a lot of this is not new to us. It's a different animal - it's a bunch of third-party games and it's not all stuff that is ours but, we're really expecting the reception to be quite positive. And as you said earlier we have a lot of Chinese customers that are customers of Steam now, and we're trying as hard as we can to make it as good an experience as possible, with payment methods and download speeds and all that, and localised content. So we're just going to keep relying on that, and creating the best service we can for this customer base, and I think that'll be received well. I'm not going to get dragged into any other issues.
+
+![Image 4: 3](https://www.eurogamer.net/img/placeholder.jpg)
+
+Steam China is separate from the international version of Steam.
+
+**Are you going to have any games that are exclusive to Steam China here?**
+
+**Powers:** No, no. Our approach has always been pretty non-exclusive. We think games are best when they're available in as many places as possible, and our approach with Steam China will be just the same. If you ship a game on Steam China we're happy for you to ship it anywhere else; we would encourage you to ship it in other places.
+
+**And you mentioned as well obviously there are a large amount of players here who enjoy gaming on Steam as it stands. Let's say I'm a Chinese citizen and I want to play, I don't know, FTL, and I've played a hundred hours in FTL and I don't want to lose all my saves and everything like that - what happens when Steam China comes in? Will my saves move over? Will I lose my library? Will I keep my library?**
+
+**Powers:** Our goal is to make sure your library remains, your data, your saves remain, you're not losing anything.
+
+**What if I own a game on Steam as-is, that isn't on Steam China at launch?**
+
+**Powers:** Nothing'll change about Steam global.
+
+**So Steam global will still be available in China?**
+
+**Powers:** Nothing'll change about Steam global.
+
+**Okay, could something external prevent Steam global from being available in China?**
+
+**Powers:** I mean, anything, yeah. There's always externalities you can't control. But the direction we're headed is that Steam global remains as it is today.
+
+_Valve / Perfect World paid for flights and travel to and from the event._

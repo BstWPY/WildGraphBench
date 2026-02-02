@@ -1,0 +1,49 @@
+# Report: Steam's 30% Cut Is Actually the Industry Standard
+
+Last year the Epic Games Store swooped in and started [hoovering up game exclusives](https://www.ign.com/articles/2019/06/26/epic-exclusives-are-the-only-strategy-to-disrupt-steams-retail-status-quo) like they were Pokemon cards, offering PC publishers an alternative to Valve's 30% cut on Steam by taking just 12% from the games sold through its new platform. Since then, the cuts game retailers take and the effect it has on both players and developers alike have been a hot topic - and, as it often goes with the internet, a lot of misinformation can get mixed into those conversations.We reached out to nearly half a dozen sources within the games industry (as well as the game retailers directly) in order to get the actual numbers on what cuts most major retailers take. While many of these sources prefer to remain anonymous, they paint a picture that could be surprising to some players, one where Valve’s now infamous 30% cut isn’t actually out of the norm. In fact, it's pretty much the industry standard.
+**Here's an easy-to-read infographic breaking down how much the biggest game retailers take from the sale price of a video game**, and keep reading below to find out why it’s not quite as straightforward as these simple percentages:
+
+[](https://oyster.ignimgs.com/wordpress/stg.ign.com/2019/09/GameRetailerCuts_infographic-1.png)As you can see above, a game retailer taking a 30% cut is fairly common - that means if you buy a game for $60, the retailer generally gets $18 of it. Epic’s 12% cut is actually the major exception to this rule, while Valve’s cut gets lowers as a game passes certain sales thresholds and itch.io lets publishers themselves pick the cut it takes.
+
+Another exception is the Humble Store (which is owned by IGN’s parent company, Ziff Davis, but does not influence coverage in any way, full disclosure at the bottom of the page), which takes a 25% cut but only keeps 15% of that for itself, letting the buyer choose whether the other 10% goes to charity or back to them as store credit. Meanwhile, Humble Bundles outside of the store let the buyer set what cuts go to the publisher, Humble, and charity entirely manually.
+
+One source told IGN that there is currently tremendous pressure across the industry to lower the cut stores take.
+
+* * *
+
+“
+
+On the console side of things, the 30% baseline holds true. IGN was told this 30% also includes the licensing fees associated with publishing your game on each system. One source even explained that Nintendo used to take a 35% cut from games released as part of WiiWare, but has adjusted its policy since to be in line with its competitors.
+Additionally, physical retailers generally stick to a 30% cut too, but keep in mind that publishers often have to invest more themselves to pay for the process of manufacturing the physical media alongside other fees not present in digital distribution. For mobile gaming, the Apple App Store and Google Play Store take 30% as well, both for game sales and in-app purchases - though [developers have recently raised concerns](https://www.ign.com/articles/2019/09/24/developers-raise-alarm-over-their-cut-of-google-play-pass-subscription-money) over the "Spotify-model" that is gaining traction with the introduction of Google Play Pass and Apple Arcade.
+
+_Hear about Valve's recent response to its initial EGS comments in the video below:_ Despite the relative ubiquity of this 30:70 ratio, a source told IGN that there is currently tremendous pressure across the industry to lower the cut stores take. Ubisoft recently called Steam’s business model [“unrealistic”](https://www.ign.com/articles/2019/08/28/steam-is-unrealistic-for-developers-says-ubisoft-executive) after making the jump to the Epic Store last year, though clearly Steam isn’t the only store using this scale.
+
+Valve even [adjusted Steam’s rates](https://steamcommunity.com/groups/steamworks#announcements/detail/1697191267930157838) late last year in what seemed to be a response to the pressure from Epic, but this change is likely only impactful to major developers. After $10 million in sales through Steam, Valve’s cut drops to 25% on all new sales, and drops again to 20% on sales after $50 million. For reference, earning $10 million would mean selling just under 170k copies of a $60 game, and far more for independent games that are rarely that expensive.
+
+One source said their final takeaway from sales through a physical retailer is often between 10-15%.
+
+* * *
+
+“
+
+Not all 30% cuts are created equal either, I’m told. One source explained that although Steam only takes 30%, other fees and deductions mean they are usually collecting closer to 65% on their end, while they say console sales return much closer to the full 70% but are stingier with refunds and the like. Meanwhile, GOG.com also takes a 30% cut, but requires publishers to invoice the site manually for the sales made to actually receive payment, something one source explained was a more time-consuming process than Valve’s regular automatic payouts.
+[**Update 10/8/19**: A representative from GOG reached out to IGN after publish to clarify a few of the points above, most crucially that while a 30% cut is sometimes taken, they don't actually use a single revenue share for every game. "We have a very individual and flexible approach to every partner and game that is being released on our platform," they said, explaining that terms of a contract can depend on many different factors, including release timing with other platforms, integration with GOG Galaxy, and more. To that end, they explained that, for GOG, "the industry standard 30% revenue share is only a starting point for individual talks."
+
+Additionally, they also explained that "as a company we’re also in the process of introducing invoice-less payments to our partners. It wasn’t possible in the past due to tax regulations in Poland, where we operate, but this has changed recently.]
+
+Another source also stressed that just because a retailer takes 30% doesn’t mean the developer of the game actually gets the other 70%, saying publishers often earn between 30-70% of a sale themselves depending on the deal that has been struck. There are also engine licensing fees to consider (games that use Unreal have its 5% fee waived if they are sold on the Epic Store), taxes, and other costs not factored into what many people assume the actual creator of a game earns. One source said their takeaway from a physical retailer at the end of the day is often between just 10-15%.
+
+_Flip through the gallery below for a condensed version of the info in this article:_
+
+How Much Does Each Major Retailer Take From a Game's Sale?
+
+IGN reached out to Nintendo, Sony, and Microsoft to confirm the numbers we had found and inquire as to whether any non-standard deals were made for major publishers, similar to Valve’s reduced cut after certain sales thresholds. While Sony and Nintendo didn’t respond before publish, a Microsoft Spokesperson sent the following statement:
+
+_“We are continually evaluating the industry landscape to ensure we remain fair and competitive in our approach to offering developers a revenue share on par with what they come to expect. A number of factors contribute to the revenue share structures we have today, including the unique aspects of each individual gaming platform across console, PC and mobile.”_
+
+To be clear, none of this is meant to assuage judgment of Valve for taking 30% or praise Epic for taking far less. Instead, I hope this information simply provides a more accurate representation of what developers and publishers experience when selling games across multiple platforms in a complex industry. While percentages can be compared, the real-world impacts they have are rarely so cut and dry.
+Did these numbers surprise you? Do you think retailers should start moving lower than the 30% mark? Let us know in the comments below!
+
+_**Disclosure:**Humble Bundle is owned by Ziff Davis, the parent company of IGN. Humble Bundle and IGN operate completely independently, and no special consideration is given to Humble Bundle for coverage. A representative of the Humble Store was contacted for inquiry into its retail cut in the same fashion as the other storefronts listed._ _Tom Marks is IGN's Deputy Reviews Editor and resident pie maker. You can follow him on [Twitter](https://www.twitter.com/tomrmarks)._
+
+Was this article informative?

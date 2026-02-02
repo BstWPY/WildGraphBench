@@ -1,0 +1,954 @@
+# Impact of technology on the defeat of the U-boat September 1939 – May 1943
+
+Impact of technology on the defeat of the U-boat September 1939-May 1943 | IEE Proceedings - Science, Measurement and Technology
+
+===============
+
+![Image 1: Logo](blob:http://localhost/dd77e5d180d76e9827c854f3d340b862)
+
+###### Cookie Preferences
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+
+[Allow All](javascript:void(0) "Allow All")[Choose](javascript:void(0) "Choose")[Allow Essential](javascript:void(0) "Allow Essential")
+
+- [x] 
+
+Show Cookies In Use
+
+Close
+
+ 
+
+###### Show Cookies In Use
+
+- [x] Essential (336) 
+
+Essential cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+| Name | Provider | Purpose | Maximum Storage Duration | Type |
+| --- | --- | --- | --- | --- |
+| .te.u | 4-roads.com | Used when an administrator is impersonating another user. (Previously: Impersonator) | 30 days | HTTP Cookie |
+| enable_theme_staging | 4-roads.com | Used when staged theme changes are being previewed. | 30 days | HTTP Cookie |
+| Telligent.Evolution-MediaGallery | 4-roads.com | Used when a user with theme management permissions is previewing theme changes before making them live. | 30 days | HTTP Cookie |
+| ThemeConfigration | 4-roads.com | Used when a user with theme management permissions is previewing theme changes before making them live. | 30 days | HTTP Cookie |
+| tzid | 4-roads.com | Determines a user's time zone offset for use when creating an account. Can be disabled via widget code. (User - Login and Create) | 30 days | HTTP Cookie |
+| tzoffset | 4-roads.com | Determines a user's time zone offset for use when creating an account. Can be disabled via widget code. (User - Login and Create) | 30 days | HTTP Cookie |
+| ai_session[x53] | [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") | Preserves users states across page requests. | 1 day | HTTP Cookie |
+| ARRAffinity[x56] | acdc.theiet.org ai-systems.theiet.org americas.theiet.org antennas.theiet.org austincourt.theiet.org autonomousvehicles.theiet.org confevents.theiet.org connectedinfrastructure.theiet.org cyberconference.theiet.org cyberics.theiet.org digitaltwins.theiet.org disgen.theiet.org donate-futures.theiet.org dpsp.theiet.org eabw.theiet.org ecoc.theiet.org ecoc2023.theiet.org education.theiet.org electrical.theiet.org electricalsafety.theiet.org event-registration.theiet.org events.theiet.org hvet.theiet.org ietannualdinner.theiet.org [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") india.theiet.org innovationawards.theiet.org inspec-analytics.theiet.org inspec-direct.theiet.org microsites.theiet.org milsatcoms.theiet.org myskillsmylife.org.uk nuclear.theiet.org passiveradar.theiet.org payments-engine.theiet.org pemd.theiet.org poweringnetzero.theiet.org pra.theiet.org presidentsaddress.theiet.org quantumengineering.theiet.org radar2022.theiet.org railway.theiet.org railwayearthing.theiet.org railwayelectrification.theiet.org reach.theiet.org rscs.theiet.org safetysystems.theiet.org satcoms.theiet.org savoyplace.theiet.org sensorsandactuators.theiet.org spaceandcommunications.theiet.org venues.theiet.org why6g.theiet.org workfor.theiet.org www.theiet.org youngwomenengineer.theiet.org | Used to distribute traffic to the website on several servers in order to optimise response times. | Session | HTTP Cookie |
+| ARRAffinitySameSite[x56] | acdc.theiet.org ai-systems.theiet.org americas.theiet.org antennas.theiet.org austincourt.theiet.org autonomousvehicles.theiet.org confevents.theiet.org connectedinfrastructure.theiet.org cyberconference.theiet.org cyberics.theiet.org digitaltwins.theiet.org disgen.theiet.org donate-futures.theiet.org dpsp.theiet.org eabw.theiet.org ecoc.theiet.org ecoc2023.theiet.org education.theiet.org electrical.theiet.org electricalsafety.theiet.org event-registration.theiet.org events.theiet.org hvet.theiet.org ietannualdinner.theiet.org [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") india.theiet.org innovationawards.theiet.org inspec-analytics.theiet.org inspec-direct.theiet.org microsites.theiet.org milsatcoms.theiet.org myskillsmylife.org.uk nuclear.theiet.org passiveradar.theiet.org payments-engine.theiet.org pemd.theiet.org poweringnetzero.theiet.org pra.theiet.org presidentsaddress.theiet.org quantumengineering.theiet.org radar2022.theiet.org railway.theiet.org railwayearthing.theiet.org railwayelectrification.theiet.org reach.theiet.org rscs.theiet.org safetysystems.theiet.org satcoms.theiet.org savoyplace.theiet.org sensorsandactuators.theiet.org spaceandcommunications.theiet.org venues.theiet.org why6g.theiet.org workfor.theiet.org www.theiet.org youngwomenengineer.theiet.org | Used to distribute traffic to the website on several servers in order to optimise response times. | Session | HTTP Cookie |
+| CookieConsent[x72] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") ai-systems.theiet.org autonomousvehicles.theiet.org connectedinfrastructure.theiet.org ietdkycb2c.b2clogin.com ietdssodb2c.b2clogin.com ietsso.b2clogin.com ietukycb2c.b2clogin.com ietussob2c.b2clogin.com nuclear.theiet.org payments-engine.theiet.org rpg2025.theiet.org.cn tv.theiet.org | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
+| __cf_bm[x10] | amgistoroids.com [Bitmovin.com](https://bitmovin.com/privacy/ "Bitmovin.com's privacy policy") digital-library.theiet.org enthuse.com [Glassdoor](https://www.glassdoor.com/about/privacy.htm "Glassdoor's privacy policy") hcaptcha.com [Atypon](https://www.atypon.com/privacy-policy/ "Atypon's privacy policy") [Twitter Inc.](https://twitter.com/en/privacy "Twitter Inc.'s privacy policy") [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") w.hcaptcha.com | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
+| .AspNetCore.Antiforgery.#[x7] | austincourt.theiet.org education.theiet.org electrical.theiet.org pra.theiet.org savoyplace.theiet.org theiet.enthuse.com workfor.theiet.org | Helps prevent Cross-Site Request Forgery (CSRF) attacks. | Session | HTTP Cookie |
+| .AspNetCore.Mvc.CookieTempDataProvider[x5] | austincourt.theiet.org education.theiet.org electrical.theiet.org savoyplace.theiet.org workfor.theiet.org | Preserves the visitor's session state across page requests. | Session | HTTP Cookie |
+| _cfuvid[x5] | [Matterport](https://matterport.com/legal/privacy-policy/ "Matterport's privacy policy") [Cloudflare](https://www.cloudflare.com/privacypolicy/ "Cloudflare's privacy policy") [Glassdoor](https://www.glassdoor.com/about/privacy.htm "Glassdoor's privacy policy") [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
+| cf.turnstile.u | [Cloudflare](https://www.cloudflare.com/privacypolicy/ "Cloudflare's privacy policy") | This cookie is used to distinguish between humans and bots. | Persistent | HTML Local Storage |
+| reese84[x3] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
+| x-d-token[x3] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
+| cf_chl_rc_ni | digital-library.theiet.org | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | 1 day | HTTP Cookie |
+| JSESSIONID[x3] | digital-library.theiet.org [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") www2.theiet.org | Preserves users states across page requests. | Session | HTTP Cookie |
+| test_cookie | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to check if the user's browser supports cookies. | 1 day | HTTP Cookie |
+| AWSALB[x2] | engx.theiet.org [ResponseTap](https://www.responsetap.com/gb/privacy-policy/ "ResponseTap's privacy policy") | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 7 days | HTTP Cookie |
+| AWSALBCORS[x2] | engx.theiet.org [ResponseTap](https://www.responsetap.com/gb/privacy-policy/ "ResponseTap's privacy policy") | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 7 days | HTTP Cookie |
+| TiPMix[x2] | event-registration.theiet.org pra.theiet.org | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 1 day | HTTP Cookie |
+| x-ms-routing-name[x2] | event-registration.theiet.org pra.theiet.org | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 1 day | HTTP Cookie |
+| _GRECAPTCHA | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 180 days | HTTP Cookie |
+| rc::e | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTML Local Storage |
+| rc::h | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Persistent | HTML Local Storage |
+| rc::a | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | Persistent | HTML Local Storage |
+| rc::b | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTML Local Storage |
+| rc::c | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTML Local Storage |
+| rc::f | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Persistent | HTML Local Storage |
+| incap_ses_#[x4] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") myskillsmylife.org.uk theiet.org | Preserves users states across page requests. | Session | HTTP Cookie |
+| nlbi_#[x4] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") myskillsmylife.org.uk theiet.org | Used to ensure website security and fraud detection. | Session | HTTP Cookie |
+| nlbi_#_# | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | Pending | Session | HTTP Cookie |
+| visid_incap_#[x4] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") myskillsmylife.org.uk theiet.org | Preserves users states across page requests. | 1 year | HTTP Cookie |
+| tusSupport[x3] | ietawards.secure-platform.com ietindiaawards.secure-platform.com wiseawards.secure-platform.com | This cookie allows the user the upload files on the website. | Persistent | HTML Local Storage |
+| x-ms-cpim-trans | ietsso.b2clogin.com | Necessary for the connection authentication on the website – This ensures the website's integrity through a process called Secure Socket Layers (SSL). | Session | HTTP Cookie |
+| 1.gif | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Used to count the number of sessions to the website, necessary for optimizing CMP product delivery. | Session | Pixel Tracker |
+| AI_buffer | [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") | Used in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates. | Session | HTML Local Storage |
+| AI_sentBuffer | [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") | Used in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates. | Session | HTML Local Storage |
+| bcookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in order to detect spam and improve the website's security. | 1 year | HTTP Cookie |
+| li_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
+| m | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | Determines the device used to access the website. This allows the website to be formatted accordingly. | 400 days | HTTP Cookie |
+| _ab | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | Session | HTML Local Storage |
+| _mf | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | Session | HTML Local Storage |
+| id | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | Pending | Session | HTML Local Storage |
+| csrftoken | [Wedding Dates](https://www.weddingdates.ie/privacy/ "Wedding Dates's privacy policy") | Helps prevent Cross-Site Request Forgery (CSRF) attacks. | 1 year | HTTP Cookie |
+| SESS# | [Wedding Dates](https://www.weddingdates.ie/privacy/ "Wedding Dates's privacy policy") | Preserves users states across page requests. | 14 days | HTTP Cookie |
+| XSRF-TOKEN | pra.theiet.org | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
+| ASPSESSIONID# | rpg2025.theiet.org.cn | Preserves users states across page requests. | Session | HTTP Cookie |
+| sc_anonymous_id | [Matterport](https://matterport.com/legal/privacy-policy/ "Matterport's privacy policy") | Used in context with the 3D-view-function on the website. | Persistent | HTML Local Storage |
+| cf_clearance | [Streamdays](https://www.streamdays.com/privacy-notice "Streamdays's privacy policy") | This cookie is used to distinguish between humans and bots. | 1 year | HTTP Cookie |
+| __stripe_mid | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | 1 year | HTTP Cookie |
+| __stripe_sid | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | 1 day | HTTP Cookie |
+| __eoi | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used in order to detect spam and improve the website's security. | 180 days | HTTP Cookie |
+| ASP.NET_SessionId | tv.theiet.org | Preserves the visitor's session state across page requests. | Session | HTTP Cookie |
+| History.store | tv.theiet.org | Preserves the visitor's session state across page requests. | Session | HTML Local Storage |
+| reese84 | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | Used in context with the website's BotManager. The BotManager detects, categorizes and compiles reports on potential bots trying to access the website. | Persistent | HTML Local Storage |
+| SERVERID | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website. | Session | HTTP Cookie |
+
+- [x] Preferences (5) 
+
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+
+| Name | Provider | Purpose | Maximum Storage Duration | Type |
+| --- | --- | --- | --- | --- |
+| CookieConsentBulkSetting-#[x2] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Enables cookie consent across multiple websites | 1 year | HTML Local Storage |
+| lidc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 1 day | HTTP Cookie |
+| 1 | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is used in conjunction with the payment window - The cookie is necessary for making secure transactions on the website. | Session | HTML Local Storage |
+| CFTOKEN | theiet.org | This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted - This information is stored in the "CFID" cookie. | Session | HTTP Cookie |
+
+- [x] Statistics (109) 
+
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+| Name | Provider | Purpose | Maximum Storage Duration | Type |
+| --- | --- | --- | --- | --- |
+| ai_user[x53] | [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") | Used by Microsoft Application Insights software to collect statistical usage and telemetry information. The cookie stores a unique identifier to recognize users on returning visits over time. | 1 year | HTTP Cookie |
+| conv_variations | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. | Persistent | HTML Local Storage |
+| _conv_r | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie is used as a referral-cookie that stores the visitor’s profile – the cookie is overwritten when the visitor re-enters the website and new information on the visitor is collected and stored. | Session | HTTP Cookie |
+| _conv_s | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience. | 1 day | HTTP Cookie |
+| _conv_v | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie is used to identify the frequency of visits and how long the visitor is on the website. The cookie is also used to determine how many and which subpages the visitor visits on a website – this information can be used by the website to optimize the domain and its subpages. | 6 months | HTTP Cookie |
+| heat.aspx | [Siteimprove](https://siteimprove.com/en/privacy/ "Siteimprove's privacy policy") | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | Session | Pixel Tracker |
+| image.aspx | [Siteimprove](https://siteimprove.com/en/privacy/ "Siteimprove's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | Pixel Tracker |
+| struggle.aspx | [Siteimprove](https://siteimprove.com/en/privacy/ "Siteimprove's privacy policy") | Pending | Session | Pixel Tracker |
+| hjActiveViewportIds | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience. | Persistent | HTML Local Storage |
+| hjViewportId | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Saves the user's screen size in order to adjust the size of images on the website. | Session | HTML Local Storage |
+| guest | [JotForm](https://www.jotform.com/privacy/ "JotForm's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 30 days | HTTP Cookie |
+| _ga[x13] | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | 2 years | HTTP Cookie |
+| _ga_#[x13] | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | 2 years | HTTP Cookie |
+| flowplayerTestStorage | [Streamdays](https://www.streamdays.com/privacy-notice "Streamdays's privacy policy") | This cookie is used to store information on the Flowplayer-status of the visitor, which determines if the visitor can access media content on the website. | Persistent | HTML Local Storage |
+| __adiCookieCheck | [ResponseTap](https://www.responsetap.com/gb/privacy-policy/ "ResponseTap's privacy policy") | Used to generate statistical data on what pages the user has visited and how often an ad click leads either to a purchase or other actions on the advertiser's website. | Session | HTTP Cookie |
+| sentryReplaySession | [OmnyStudio](https://omnystudio.com/policies/privacy "OmnyStudio's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | Session | HTML Local Storage |
+| _hjSession_#[x2] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
+| _hjSessionUser_#[x2] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
+| _hjTLDTest[x2] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | HTTP Cookie |
+| _clck | [Microsoft](https://privacy.microsoft.com/en-us/privacystatement "Microsoft's privacy policy") | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | 1 year | HTTP Cookie |
+| _clsk | [Microsoft](https://privacy.microsoft.com/en-us/privacystatement "Microsoft's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | 1 day | HTTP Cookie |
+| CFID | theiet.org | This cookie is used in context with the "Cftoken" cookie. The cookie stores a specific ID for the visitor and the visitor's device and browser. | Session | HTTP Cookie |
+| nmstat | [Siteimprove](https://siteimprove.com/en/privacy/ "Siteimprove's privacy policy") | This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience. | 1000 days | HTTP Cookie |
+| _hjCookieTest | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | Session | HTTP Cookie |
+| dd_cookie_test_# | virtual.oxfordabstracts.com | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
+| __utma | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics. | 2 years | HTTP Cookie |
+| __utmb | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit. | 1 day | HTTP Cookie |
+| __utmc | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit. | Session | HTTP Cookie |
+| __utmv | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Saves user-defined tracking parameters for use in Google Analytics. | Session | HTTP Cookie |
+| __utmz | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics. | 6 months | HTTP Cookie |
+
+- [x] Marketing (102) 
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+| Name | Provider | Purpose | Maximum Storage Duration | Type |
+| --- | --- | --- | --- | --- |
+| ___utmvc[x58] | acdc.theiet.org adams.theiet.org ai-systems.theiet.org americas.theiet.org antennas.theiet.org austincourt.theiet.org autonomousvehicles.theiet.org confevents.theiet.org connectedinfrastructure.theiet.org cyberconference.theiet.org cyberics.theiet.org digitaltwins.theiet.org disgen.theiet.org donate-futures.theiet.org dpsp.theiet.org eabw.theiet.org ecoc.theiet.org ecoc2023.theiet.org education.theiet.org electrical.theiet.org electricalsafety.theiet.org engx.theiet.org event-registration.theiet.org events.theiet.org hvet.theiet.org ietannualdinner.theiet.org india.theiet.org innovationawards.theiet.org inspec-analytics.theiet.org inspec-direct.theiet.org microsites.theiet.org milsatcoms.theiet.org myskillsmylife.org.uk nuclear.theiet.org passiveradar.theiet.org pemd.theiet.org poweringnetzero.theiet.org pra.theiet.org presidentsaddress.theiet.org quantumengineering.theiet.org radar2022.theiet.org railway.theiet.org railwayearthing.theiet.org railwayelectrification.theiet.org reach.theiet.org rscs.theiet.org safetysystems.theiet.org satcoms.theiet.org savoyplace.theiet.org sensorsandactuators.theiet.org spaceandcommunications.theiet.org tv.theiet.org venues.theiet.org why6g.theiet.org workfor.theiet.org www.theiet.org www2.theiet.org youngwomenengineer.theiet.org | Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website. | 1 day | HTTP Cookie |
+| IDE | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. | 400 days | HTTP Cookie |
+| _conv_sptest | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. | Session | HTTP Cookie |
+| _gat | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | 1 day | HTTP Cookie |
+| _gcl_au[x5] | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 3 months | HTTP Cookie |
+| _gid[x3] | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | 1 day | HTTP Cookie |
+| NID | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Pending | 6 months | HTTP Cookie |
+| pagead/1p-user-list/# | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. | Session | Pixel Tracker |
+| pagead/gen_204 | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. | Session | Pixel Tracker |
+| csi | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. | Session | Pixel Tracker |
+| userReferer | [JotForm](https://www.jotform.com/privacy/ "JotForm's privacy policy") | Determines how the user accessed the website. This information is used by the website operator in order to measure the efficiency of their marketing. | 30 days | HTTP Cookie |
+| _its.# | [ResponseTap](https://www.responsetap.com/gb/privacy-policy/ "ResponseTap's privacy policy") | This cookie is necessary for the call-tracking functionality. | Persistent | HTML Local Storage |
+| bitmovin_analytics_uuid | [Bitmovin.com](https://bitmovin.com/privacy/ "Bitmovin.com's privacy policy") | Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. | 1 year | HTTP Cookie |
+| _gcl_ls | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. | Persistent | HTML Local Storage |
+| #-# | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Session | HTML Local Storage |
+| __Secure-ROLLOUT_TOKEN | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Pending | 180 days | HTTP Cookie |
+| __Secure-YEC | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTTP Cookie |
+| __Secure-YNID | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Pending | 180 days | HTTP Cookie |
+| iU5q-!O9@$ | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Session | HTML Local Storage |
+| LAST_RESULT_ENTRY_KEY | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Session | HTTP Cookie |
+| LogsDatabaseV2:V#||LogsRequestsStore | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Persistent | IndexedDB |
+| nextId | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Session | HTTP Cookie |
+| remote_sid | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Necessary for the implementation and functionality of YouTube video-content on the website. | Session | HTTP Cookie |
+| requests | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Session | HTTP Cookie |
+| ServiceWorkerLogsDatabase#SWHealthLog | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Necessary for the implementation and functionality of YouTube video-content on the website. | Persistent | IndexedDB |
+| TESTCOOKIESENABLED | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | 1 day | HTTP Cookie |
+| VISITOR_INFO1_LIVE | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Pending | 180 days | HTTP Cookie |
+| YSC | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Pending | Session | HTTP Cookie |
+| yt.innertube::nextId | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Persistent | HTML Local Storage |
+| yt.innertube::requests | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Persistent | HTML Local Storage |
+| ytidb::LAST_RESULT_ENTRY_KEY | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Persistent | HTML Local Storage |
+| YtIdbMeta#databases | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Persistent | IndexedDB |
+| yt-remote-cast-available | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-cast-installed | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-connected-devices | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
+| yt-remote-device-id | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
+| yt-remote-fast-check-period | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-session-app | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-session-name | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+
+![Image 2: Logo](blob:http://localhost/dd77e5d180d76e9827c854f3d340b862)
+
+###### Choose
+
+- [x] 
+**Essential:** Essential cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+ - [x] 
+**Preferences:** Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+
+ - [x] 
+**Statistics:** Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+ - [x] 
+**Marketing:** Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+ 
+[Allow All](javascript:void(0) "Allow All")[Allow My Selection](javascript:void(0) "Allow My Selection")
+
+- [x] 
+
+Show Cookies In Use
+
+Close
+
+ 
+
+###### Show Cookies In Use
+
+- [x] Essential (336) 
+
+Essential cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+| Name | Provider | Purpose | Maximum Storage Duration | Type |
+| --- | --- | --- | --- | --- |
+| .te.u | 4-roads.com | Used when an administrator is impersonating another user. (Previously: Impersonator) | 30 days | HTTP Cookie |
+| enable_theme_staging | 4-roads.com | Used when staged theme changes are being previewed. | 30 days | HTTP Cookie |
+| Telligent.Evolution-MediaGallery | 4-roads.com | Used when a user with theme management permissions is previewing theme changes before making them live. | 30 days | HTTP Cookie |
+| ThemeConfigration | 4-roads.com | Used when a user with theme management permissions is previewing theme changes before making them live. | 30 days | HTTP Cookie |
+| tzid | 4-roads.com | Determines a user's time zone offset for use when creating an account. Can be disabled via widget code. (User - Login and Create) | 30 days | HTTP Cookie |
+| tzoffset | 4-roads.com | Determines a user's time zone offset for use when creating an account. Can be disabled via widget code. (User - Login and Create) | 30 days | HTTP Cookie |
+| ai_session[x53] | [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") | Preserves users states across page requests. | 1 day | HTTP Cookie |
+| ARRAffinity[x56] | acdc.theiet.org ai-systems.theiet.org americas.theiet.org antennas.theiet.org austincourt.theiet.org autonomousvehicles.theiet.org confevents.theiet.org connectedinfrastructure.theiet.org cyberconference.theiet.org cyberics.theiet.org digitaltwins.theiet.org disgen.theiet.org donate-futures.theiet.org dpsp.theiet.org eabw.theiet.org ecoc.theiet.org ecoc2023.theiet.org education.theiet.org electrical.theiet.org electricalsafety.theiet.org event-registration.theiet.org events.theiet.org hvet.theiet.org ietannualdinner.theiet.org [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") india.theiet.org innovationawards.theiet.org inspec-analytics.theiet.org inspec-direct.theiet.org microsites.theiet.org milsatcoms.theiet.org myskillsmylife.org.uk nuclear.theiet.org passiveradar.theiet.org payments-engine.theiet.org pemd.theiet.org poweringnetzero.theiet.org pra.theiet.org presidentsaddress.theiet.org quantumengineering.theiet.org radar2022.theiet.org railway.theiet.org railwayearthing.theiet.org railwayelectrification.theiet.org reach.theiet.org rscs.theiet.org safetysystems.theiet.org satcoms.theiet.org savoyplace.theiet.org sensorsandactuators.theiet.org spaceandcommunications.theiet.org venues.theiet.org why6g.theiet.org workfor.theiet.org www.theiet.org youngwomenengineer.theiet.org | Used to distribute traffic to the website on several servers in order to optimise response times. | Session | HTTP Cookie |
+| ARRAffinitySameSite[x56] | acdc.theiet.org ai-systems.theiet.org americas.theiet.org antennas.theiet.org austincourt.theiet.org autonomousvehicles.theiet.org confevents.theiet.org connectedinfrastructure.theiet.org cyberconference.theiet.org cyberics.theiet.org digitaltwins.theiet.org disgen.theiet.org donate-futures.theiet.org dpsp.theiet.org eabw.theiet.org ecoc.theiet.org ecoc2023.theiet.org education.theiet.org electrical.theiet.org electricalsafety.theiet.org event-registration.theiet.org events.theiet.org hvet.theiet.org ietannualdinner.theiet.org [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") india.theiet.org innovationawards.theiet.org inspec-analytics.theiet.org inspec-direct.theiet.org microsites.theiet.org milsatcoms.theiet.org myskillsmylife.org.uk nuclear.theiet.org passiveradar.theiet.org payments-engine.theiet.org pemd.theiet.org poweringnetzero.theiet.org pra.theiet.org presidentsaddress.theiet.org quantumengineering.theiet.org radar2022.theiet.org railway.theiet.org railwayearthing.theiet.org railwayelectrification.theiet.org reach.theiet.org rscs.theiet.org safetysystems.theiet.org satcoms.theiet.org savoyplace.theiet.org sensorsandactuators.theiet.org spaceandcommunications.theiet.org venues.theiet.org why6g.theiet.org workfor.theiet.org www.theiet.org youngwomenengineer.theiet.org | Used to distribute traffic to the website on several servers in order to optimise response times. | Session | HTTP Cookie |
+| CookieConsent[x72] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") ai-systems.theiet.org autonomousvehicles.theiet.org connectedinfrastructure.theiet.org ietdkycb2c.b2clogin.com ietdssodb2c.b2clogin.com ietsso.b2clogin.com ietukycb2c.b2clogin.com ietussob2c.b2clogin.com nuclear.theiet.org payments-engine.theiet.org rpg2025.theiet.org.cn tv.theiet.org | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
+| __cf_bm[x10] | amgistoroids.com [Bitmovin.com](https://bitmovin.com/privacy/ "Bitmovin.com's privacy policy") digital-library.theiet.org enthuse.com [Glassdoor](https://www.glassdoor.com/about/privacy.htm "Glassdoor's privacy policy") hcaptcha.com [Atypon](https://www.atypon.com/privacy-policy/ "Atypon's privacy policy") [Twitter Inc.](https://twitter.com/en/privacy "Twitter Inc.'s privacy policy") [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") w.hcaptcha.com | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
+| .AspNetCore.Antiforgery.#[x7] | austincourt.theiet.org education.theiet.org electrical.theiet.org pra.theiet.org savoyplace.theiet.org theiet.enthuse.com workfor.theiet.org | Helps prevent Cross-Site Request Forgery (CSRF) attacks. | Session | HTTP Cookie |
+| .AspNetCore.Mvc.CookieTempDataProvider[x5] | austincourt.theiet.org education.theiet.org electrical.theiet.org savoyplace.theiet.org workfor.theiet.org | Preserves the visitor's session state across page requests. | Session | HTTP Cookie |
+| _cfuvid[x5] | [Matterport](https://matterport.com/legal/privacy-policy/ "Matterport's privacy policy") [Cloudflare](https://www.cloudflare.com/privacypolicy/ "Cloudflare's privacy policy") [Glassdoor](https://www.glassdoor.com/about/privacy.htm "Glassdoor's privacy policy") [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
+| cf.turnstile.u | [Cloudflare](https://www.cloudflare.com/privacypolicy/ "Cloudflare's privacy policy") | This cookie is used to distinguish between humans and bots. | Persistent | HTML Local Storage |
+| reese84[x3] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
+| x-d-token[x3] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
+| cf_chl_rc_ni | digital-library.theiet.org | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | 1 day | HTTP Cookie |
+| JSESSIONID[x3] | digital-library.theiet.org [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") www2.theiet.org | Preserves users states across page requests. | Session | HTTP Cookie |
+| test_cookie | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to check if the user's browser supports cookies. | 1 day | HTTP Cookie |
+| AWSALB[x2] | engx.theiet.org [ResponseTap](https://www.responsetap.com/gb/privacy-policy/ "ResponseTap's privacy policy") | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 7 days | HTTP Cookie |
+| AWSALBCORS[x2] | engx.theiet.org [ResponseTap](https://www.responsetap.com/gb/privacy-policy/ "ResponseTap's privacy policy") | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 7 days | HTTP Cookie |
+| TiPMix[x2] | event-registration.theiet.org pra.theiet.org | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 1 day | HTTP Cookie |
+| x-ms-routing-name[x2] | event-registration.theiet.org pra.theiet.org | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 1 day | HTTP Cookie |
+| _GRECAPTCHA | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 180 days | HTTP Cookie |
+| rc::e | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTML Local Storage |
+| rc::h | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Persistent | HTML Local Storage |
+| rc::a | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | Persistent | HTML Local Storage |
+| rc::b | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTML Local Storage |
+| rc::c | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Session | HTML Local Storage |
+| rc::f | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | This cookie is used to distinguish between humans and bots. | Persistent | HTML Local Storage |
+| incap_ses_#[x4] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") myskillsmylife.org.uk theiet.org | Preserves users states across page requests. | Session | HTTP Cookie |
+| nlbi_#[x4] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") myskillsmylife.org.uk theiet.org | Used to ensure website security and fraud detection. | Session | HTTP Cookie |
+| nlbi_#_# | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | Pending | Session | HTTP Cookie |
+| visid_incap_#[x4] | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") myskillsmylife.org.uk theiet.org | Preserves users states across page requests. | 1 year | HTTP Cookie |
+| tusSupport[x3] | ietawards.secure-platform.com ietindiaawards.secure-platform.com wiseawards.secure-platform.com | This cookie allows the user the upload files on the website. | Persistent | HTML Local Storage |
+| x-ms-cpim-trans | ietsso.b2clogin.com | Necessary for the connection authentication on the website – This ensures the website's integrity through a process called Secure Socket Layers (SSL). | Session | HTTP Cookie |
+| 1.gif | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Used to count the number of sessions to the website, necessary for optimizing CMP product delivery. | Session | Pixel Tracker |
+| AI_buffer | [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") | Used in context with the "AI_sentBuffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates. | Session | HTML Local Storage |
+| AI_sentBuffer | [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") | Used in context with the "AI_buffer" in order to limit the number of data-server-updates (Azure). This synergy also allows the website to detect any duplicate data-server-updates. | Session | HTML Local Storage |
+| bcookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in order to detect spam and improve the website's security. | 1 year | HTTP Cookie |
+| li_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
+| m | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | Determines the device used to access the website. This allows the website to be formatted accordingly. | 400 days | HTTP Cookie |
+| _ab | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | Session | HTML Local Storage |
+| _mf | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | Session | HTML Local Storage |
+| id | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | Pending | Session | HTML Local Storage |
+| csrftoken | [Wedding Dates](https://www.weddingdates.ie/privacy/ "Wedding Dates's privacy policy") | Helps prevent Cross-Site Request Forgery (CSRF) attacks. | 1 year | HTTP Cookie |
+| SESS# | [Wedding Dates](https://www.weddingdates.ie/privacy/ "Wedding Dates's privacy policy") | Preserves users states across page requests. | 14 days | HTTP Cookie |
+| XSRF-TOKEN | pra.theiet.org | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
+| ASPSESSIONID# | rpg2025.theiet.org.cn | Preserves users states across page requests. | Session | HTTP Cookie |
+| sc_anonymous_id | [Matterport](https://matterport.com/legal/privacy-policy/ "Matterport's privacy policy") | Used in context with the 3D-view-function on the website. | Persistent | HTML Local Storage |
+| cf_clearance | [Streamdays](https://www.streamdays.com/privacy-notice "Streamdays's privacy policy") | This cookie is used to distinguish between humans and bots. | 1 year | HTTP Cookie |
+| __stripe_mid | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | 1 year | HTTP Cookie |
+| __stripe_sid | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information. | 1 day | HTTP Cookie |
+| __eoi | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used in order to detect spam and improve the website's security. | 180 days | HTTP Cookie |
+| ASP.NET_SessionId | tv.theiet.org | Preserves the visitor's session state across page requests. | Session | HTTP Cookie |
+| History.store | tv.theiet.org | Preserves the visitor's session state across page requests. | Session | HTML Local Storage |
+| reese84 | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | Used in context with the website's BotManager. The BotManager detects, categorizes and compiles reports on potential bots trying to access the website. | Persistent | HTML Local Storage |
+| SERVERID | [Hertz](https://www.hertz.co.uk/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp "Hertz's privacy policy") | This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website. | Session | HTTP Cookie |
+
+- [x] Preferences (5) 
+
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+
+| Name | Provider | Purpose | Maximum Storage Duration | Type |
+| --- | --- | --- | --- | --- |
+| CookieConsentBulkSetting-#[x2] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Enables cookie consent across multiple websites | 1 year | HTML Local Storage |
+| lidc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 1 day | HTTP Cookie |
+| 1 | [Stripe](https://stripe.com/privacy "Stripe's privacy policy") | This cookie is used in conjunction with the payment window - The cookie is necessary for making secure transactions on the website. | Session | HTML Local Storage |
+| CFTOKEN | theiet.org | This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted - This information is stored in the "CFID" cookie. | Session | HTTP Cookie |
+
+- [x] Statistics (109) 
+
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+| Name | Provider | Purpose | Maximum Storage Duration | Type |
+| --- | --- | --- | --- | --- |
+| ai_user[x53] | [Azure](https://privacy.microsoft.com/en-us/PrivacyStatement "Azure's privacy policy") | Used by Microsoft Application Insights software to collect statistical usage and telemetry information. The cookie stores a unique identifier to recognize users on returning visits over time. | 1 year | HTTP Cookie |
+| conv_variations | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. | Persistent | HTML Local Storage |
+| _conv_r | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie is used as a referral-cookie that stores the visitor’s profile – the cookie is overwritten when the visitor re-enters the website and new information on the visitor is collected and stored. | Session | HTTP Cookie |
+| _conv_s | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience. | 1 day | HTTP Cookie |
+| _conv_v | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie is used to identify the frequency of visits and how long the visitor is on the website. The cookie is also used to determine how many and which subpages the visitor visits on a website – this information can be used by the website to optimize the domain and its subpages. | 6 months | HTTP Cookie |
+| heat.aspx | [Siteimprove](https://siteimprove.com/en/privacy/ "Siteimprove's privacy policy") | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | Session | Pixel Tracker |
+| image.aspx | [Siteimprove](https://siteimprove.com/en/privacy/ "Siteimprove's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | Pixel Tracker |
+| struggle.aspx | [Siteimprove](https://siteimprove.com/en/privacy/ "Siteimprove's privacy policy") | Pending | Session | Pixel Tracker |
+| hjActiveViewportIds | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience. | Persistent | HTML Local Storage |
+| hjViewportId | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Saves the user's screen size in order to adjust the size of images on the website. | Session | HTML Local Storage |
+| guest | [JotForm](https://www.jotform.com/privacy/ "JotForm's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 30 days | HTTP Cookie |
+| _ga[x13] | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | 2 years | HTTP Cookie |
+| _ga_#[x13] | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | 2 years | HTTP Cookie |
+| flowplayerTestStorage | [Streamdays](https://www.streamdays.com/privacy-notice "Streamdays's privacy policy") | This cookie is used to store information on the Flowplayer-status of the visitor, which determines if the visitor can access media content on the website. | Persistent | HTML Local Storage |
+| __adiCookieCheck | [ResponseTap](https://www.responsetap.com/gb/privacy-policy/ "ResponseTap's privacy policy") | Used to generate statistical data on what pages the user has visited and how often an ad click leads either to a purchase or other actions on the advertiser's website. | Session | HTTP Cookie |
+| sentryReplaySession | [OmnyStudio](https://omnystudio.com/policies/privacy "OmnyStudio's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | Session | HTML Local Storage |
+| _hjSession_#[x2] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
+| _hjSessionUser_#[x2] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
+| _hjTLDTest[x2] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | HTTP Cookie |
+| _clck | [Microsoft](https://privacy.microsoft.com/en-us/privacystatement "Microsoft's privacy policy") | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | 1 year | HTTP Cookie |
+| _clsk | [Microsoft](https://privacy.microsoft.com/en-us/privacystatement "Microsoft's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | 1 day | HTTP Cookie |
+| CFID | theiet.org | This cookie is used in context with the "Cftoken" cookie. The cookie stores a specific ID for the visitor and the visitor's device and browser. | Session | HTTP Cookie |
+| nmstat | [Siteimprove](https://siteimprove.com/en/privacy/ "Siteimprove's privacy policy") | This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience. | 1000 days | HTTP Cookie |
+| _hjCookieTest | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | Session | HTTP Cookie |
+| dd_cookie_test_# | virtual.oxfordabstracts.com | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
+| __utma | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics. | 2 years | HTTP Cookie |
+| __utmb | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit. | 1 day | HTTP Cookie |
+| __utmc | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit. | Session | HTTP Cookie |
+| __utmv | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Saves user-defined tracking parameters for use in Google Analytics. | Session | HTTP Cookie |
+| __utmz | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics. | 6 months | HTTP Cookie |
+
+- [x] Marketing (102) 
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+| Name | Provider | Purpose | Maximum Storage Duration | Type |
+| --- | --- | --- | --- | --- |
+| ___utmvc[x58] | acdc.theiet.org adams.theiet.org ai-systems.theiet.org americas.theiet.org antennas.theiet.org austincourt.theiet.org autonomousvehicles.theiet.org confevents.theiet.org connectedinfrastructure.theiet.org cyberconference.theiet.org cyberics.theiet.org digitaltwins.theiet.org disgen.theiet.org donate-futures.theiet.org dpsp.theiet.org eabw.theiet.org ecoc.theiet.org ecoc2023.theiet.org education.theiet.org electrical.theiet.org electricalsafety.theiet.org engx.theiet.org event-registration.theiet.org events.theiet.org hvet.theiet.org ietannualdinner.theiet.org india.theiet.org innovationawards.theiet.org inspec-analytics.theiet.org inspec-direct.theiet.org microsites.theiet.org milsatcoms.theiet.org myskillsmylife.org.uk nuclear.theiet.org passiveradar.theiet.org pemd.theiet.org poweringnetzero.theiet.org pra.theiet.org presidentsaddress.theiet.org quantumengineering.theiet.org radar2022.theiet.org railway.theiet.org railwayearthing.theiet.org railwayelectrification.theiet.org reach.theiet.org rscs.theiet.org safetysystems.theiet.org satcoms.theiet.org savoyplace.theiet.org sensorsandactuators.theiet.org spaceandcommunications.theiet.org tv.theiet.org venues.theiet.org why6g.theiet.org workfor.theiet.org www.theiet.org www2.theiet.org youngwomenengineer.theiet.org | Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website. | 1 day | HTTP Cookie |
+| IDE | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. | 400 days | HTTP Cookie |
+| _conv_sptest | [Convert Insight](https://www.convert.com/privacy-policy/ "Convert Insight's privacy policy") | This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. | Session | HTTP Cookie |
+| _gat | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | 1 day | HTTP Cookie |
+| _gcl_au[x5] | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 3 months | HTTP Cookie |
+| _gid[x3] | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | 1 day | HTTP Cookie |
+| NID | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Pending | 6 months | HTTP Cookie |
+| pagead/1p-user-list/# | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. | Session | Pixel Tracker |
+| pagead/gen_204 | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. | Session | Pixel Tracker |
+| csi | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. | Session | Pixel Tracker |
+| userReferer | [JotForm](https://www.jotform.com/privacy/ "JotForm's privacy policy") | Determines how the user accessed the website. This information is used by the website operator in order to measure the efficiency of their marketing. | 30 days | HTTP Cookie |
+| _its.# | [ResponseTap](https://www.responsetap.com/gb/privacy-policy/ "ResponseTap's privacy policy") | This cookie is necessary for the call-tracking functionality. | Persistent | HTML Local Storage |
+| bitmovin_analytics_uuid | [Bitmovin.com](https://bitmovin.com/privacy/ "Bitmovin.com's privacy policy") | Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. | 1 year | HTTP Cookie |
+| _gcl_ls | [Google](https://business.safety.google/privacy/ "Google's privacy policy") | Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. | Persistent | HTML Local Storage |
+| #-# | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Session | HTML Local Storage |
+| __Secure-ROLLOUT_TOKEN | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Pending | 180 days | HTTP Cookie |
+| __Secure-YEC | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTTP Cookie |
+| __Secure-YNID | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Pending | 180 days | HTTP Cookie |
+| iU5q-!O9@$ | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Session | HTML Local Storage |
+| LAST_RESULT_ENTRY_KEY | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Session | HTTP Cookie |
+| LogsDatabaseV2:V#||LogsRequestsStore | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Persistent | IndexedDB |
+| nextId | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Session | HTTP Cookie |
+| remote_sid | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Necessary for the implementation and functionality of YouTube video-content on the website. | Session | HTTP Cookie |
+| requests | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Session | HTTP Cookie |
+| ServiceWorkerLogsDatabase#SWHealthLog | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Necessary for the implementation and functionality of YouTube video-content on the website. | Persistent | IndexedDB |
+| TESTCOOKIESENABLED | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | 1 day | HTTP Cookie |
+| VISITOR_INFO1_LIVE | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Pending | 180 days | HTTP Cookie |
+| YSC | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Pending | Session | HTTP Cookie |
+| yt.innertube::nextId | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Persistent | HTML Local Storage |
+| yt.innertube::requests | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Persistent | HTML Local Storage |
+| ytidb::LAST_RESULT_ENTRY_KEY | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Persistent | HTML Local Storage |
+| YtIdbMeta#databases | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Persistent | IndexedDB |
+| yt-remote-cast-available | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-cast-installed | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-connected-devices | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
+| yt-remote-device-id | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
+| yt-remote-fast-check-period | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-session-app | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-session-name | [YouTube](https://business.safety.google/privacy/ "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+
+[Skip to main content](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#afterNav-w4a)
+
+[![Image 3: IET logo](https://digital-library.theiet.org/pb-assets/images/logos/IETlogo-1702451993.svg)](https://digital-library.theiet.org/)
+
+[](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Search")
+
+Search
+
+All content
+*   [All content](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#pane-headerQuickSearch0 "All content")
+*   [IET journals](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#pane-headerQuickSearch1 "IET journals")
+*   [Books](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#pane-headerQuickSearch2 "Books")
+*   [Conferences](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#pane-headerQuickSearch3 "Conferences")
+*   [Videos](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#pane-headerQuickSearch4 "Videos")
+
+Quick Search anywhere
+
+Enter words/phrases/DOI 
+
+Quick Search anywhere
+
+Enter words/phrases/DOI 
+
+Quick Search anywhere
+
+Enter words/phrases/DOI 
+
+Quick Search anywhere
+
+Enter words/phrases/DOI 
+
+Quick Search anywhere
+
+Enter words/phrases/DOI 
+
+[Advanced search](https://digital-library.theiet.org/search/advanced)[Citation search](https://digital-library.theiet.org/search/advanced#citation)
+
+[Shopping cart with 0 item](https://digital-library.theiet.org/action/showCart?FlowID=1 "Cart")
+
+[Login | Register](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Sign in or Create Account")[](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+
+*   [![Image 4: members and non-members](https://digital-library.theiet.org/specs/products/iet/releasedAssets/images/IET-icon-438731d5c0e26cb7781968706f9f5645.svg)Login](https://digital-library.theiet.org/action/oidc?redirectUri=%2Fdoi%2F10.1049%2Fip-smt%3A19949918 "members and non-members")
+*   [![Image 5: Non-member](https://digital-library.theiet.org/specs/products/iet/releasedAssets/images/non-member-fe6f007bfa2695033ad3d1cc23da0213.svg)CONNECT](https://digital-library.theiet.org/action/oidc?idpCode=connect&redirectUri=%2Fdoi%2F10.1049%2Fip-smt%3A19949918 "Non-member")
+*   [Institutional](https://digital-library.theiet.org/action/ssostart?redirectUri=%2Fdoi%2F10.1049%2Fip-smt%3A19949918)
+
+[Skip main navigation](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#afterNav-5of)_Close Drawer Menu_ _Open Drawer Menu_
+
+[Home](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+*   [Journals & magazines](https://digital-library.theiet.org/action/showPublications?pubType=journal&Active=506113)
+*   [Books](https://digital-library.theiet.org/action/showPublications?pubType=book&seriesKey=books&startPage=0&sortBy=EPubDate)
+*   [Conferences](https://digital-library.theiet.org/conferences)
+*   [Videos](https://digital-library.theiet.org/videos)
+*   [About](https://digital-library.theiet.org/about)
+
+[IET Sites](https://www.theiet.org/)
+
+[Home](https://digital-library.theiet.org/)[Journals & magazines](https://digital-library.theiet.org/action/showPublications?pubType=journal&Active=506113)[IEE Proceedings - Science, Measurement and Technology](https://digital-library.theiet.org/journal/ip-smt)[Issues](https://digital-library.theiet.org/loi/ip-smt)[Vol. 141, Iss. 5](https://digital-library.theiet.org/toc/ip-smt/141/5)[Impact of technology on the defeat of the U-boat September 1939-May 1943](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918)
+
+[![Image 6: Abstract digital network with white dots and lines against a dark blue background](https://digital-library.theiet.org/pb-assets/images/backgrounds/banner_image-1702803190.jpg)IEE Proceedings - Science, Measurement and Technology](https://digital-library.theiet.org/journal/ip-smt "IEE Proceedings - Science, Measurement and Technology homepage")
+
+[Previous article](https://digital-library.theiet.org/doi/10.1049/ip-smt%3A19941064 "Previous")[Next article](https://digital-library.theiet.org/doi/10.1049/ip-smt%3A19941076 "Next")
+
+Research Article
+
+01 September 1994
+
+Impact of technology on the defeat of the U-boat September 1939-May 1943
+========================================================================
+
+Author: [R.W.Burns](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#con)[Authors Info & Affiliations](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#tab-contributors)
+
+Publication: [IEE Proceedings - Science, Measurement and Technology](https://digital-library.theiet.org/journal/ip-smt)
+
+[Volume 141, Issue 5](https://digital-library.theiet.org/toc/ip-smt/141/5)
+
+[https://doi.org/10.1049/ip-smt:19949918](https://doi.org/10.1049/ip-smt:19949918)
+
+[2](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Metrics")
+
+### Metrics
+
+#### Total downloads 2
+
+[View all metrics](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918?doi=10.1049/ip-smt:19949918#tab-metrics-inner "Go to metrics page")
+
+[](https://digital-library.theiet.org/personalize/addFavoritePublication?doi=10.1049%2Fip-smt%3A19949918 "Add to favourites")[](https://digital-library.theiet.org/action/addCitationAlert?doi=10.1049%2Fip-smt%3A19949918 "Track citations")
+
+[](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#tab-citations "View citations")
+
+[Get access](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-purchase-access "Go to purchase options")
+
+Contents
+*   [Abstract](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#abstract)
+
+*   [Information and Authors](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-info "Information and Authors")
+*   [Metrics and Citations](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-metrics "Metrics and Citations")
+*   [Get Access](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-purchase-access "Get Access")
+*   [References](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-references "References")
+*   [Figures](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-figures "Figures")
+*   [Tables](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-tables "Tables")
+*   [Media](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-media "Media")
+*   [Share](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-share "Share")
+
+Abstract
+--------
+
+From the 3rd September 1939 to 31st May 1943 the Allies lost 11576000 tonnes of shipping. Although the great destructive power of U-boats had been demonstrated during the First World War the essential lesson to be learnt (the need for huge air and sea escort forces) was incapable of being implemented at the outbreak of the Second World War. The expectation that ASDIC (a submarine location system developed by the Admiralty during the interwar years) would prove immediately effective and prevent a repetition of the (1915-1918) U-boat offensive was not realised. There was an urgent need for technology to aid the air and sea forces in their searches for submarines. Notwithstanding the development of airborne and shipborne radars, the breaking of the German naval enigma cyphers, the utilisation of land-based and ship-based HF direction finders, HF radio telephony, Leigh lights, improved ASDICs, operational research and many other innovations the threat to the security of the United Kingdom in March 1943 was, according to the Admiralty, greater than at any other rime of the war. But in May 1943 the U-boats were withdrawn temporarily from the North Atlantic following the introduction of a new radar, ASV Mark III. The paper is based on material held in the Public Record Office and highlights the application of technology in the Battle of the Atlantic.
+
+Get full access to this article
+-------------------------------
+
+View all available purchase options and get full access to this article.
+
+[Get access](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#core-collateral-purchase-access)
+
+Already a subscriber? Sign in as an [individual](https://digital-library.theiet.org/action/showLogin?redirectUri=/doi/10.1049/ip-smt:19949918) or via your [institution](https://digital-library.theiet.org/action/ssostart?uri=/doi/10.1049/ip-smt:19949918)
+
+Information and Authors
+-----------------------
+
+Information Authors
+
+### Information
+
+#### Published in
+
+[IEE Proceedings - Science, Measurement and Technology](https://digital-library.theiet.org/journal/ip-smt)
+
+[Volume 141 • Issue 5 • 01 September 1994](https://digital-library.theiet.org/toc/ip-smt/141/5)
+
+Pages: 343 - 355
+
+#### Copyright
+
+©.
+
+#### History
+
+**Published in print**: 01 September 1994
+
+**Published online**: 31 March 2024
+
+#### Inspec keywords
+
+1.   [cryptography](https://digital-library.theiet.org/action/doSearch?AllField=cryptography&stemming=yes&publication=ip-smt)
+2.   [history](https://digital-library.theiet.org/action/doSearch?AllField=history&stemming=yes&publication=ip-smt)
+3.   [military systems](https://digital-library.theiet.org/action/doSearch?AllField=military+systems&stemming=yes&publication=ip-smt)
+4.   [radar applications](https://digital-library.theiet.org/action/doSearch?AllField=radar+applications&stemming=yes&publication=ip-smt)
+5.   [radio applications](https://digital-library.theiet.org/action/doSearch?AllField=radio+applications&stemming=yes&publication=ip-smt)
+
+#### Keywords
+
+1.   [U-boat](https://digital-library.theiet.org/action/doSearch?AllField=U-boat&stemming=yes&publication=ip-smt)
+2.   [Second World War](https://digital-library.theiet.org/action/doSearch?AllField=Second+World+War&stemming=yes&publication=ip-smt)
+3.   [submarine location system](https://digital-library.theiet.org/action/doSearch?AllField=submarine+location+system&stemming=yes&publication=ip-smt)
+4.   [Admiralty](https://digital-library.theiet.org/action/doSearch?AllField=Admiralty&stemming=yes&publication=ip-smt)
+5.   [shipborne radars](https://digital-library.theiet.org/action/doSearch?AllField=shipborne+radars&stemming=yes&publication=ip-smt)
+6.   [airborne radars](https://digital-library.theiet.org/action/doSearch?AllField=airborne+radars&stemming=yes&publication=ip-smt)
+7.   [German naval enigma cyphers](https://digital-library.theiet.org/action/doSearch?AllField=German+naval+enigma+cyphers&stemming=yes&publication=ip-smt)
+8.   [HF direction finders](https://digital-library.theiet.org/action/doSearch?AllField=HF+direction+finders&stemming=yes&publication=ip-smt)
+9.   [HF radio telephony](https://digital-library.theiet.org/action/doSearch?AllField=HF+radio+telephony&stemming=yes&publication=ip-smt)
+10.   [Leigh lights](https://digital-library.theiet.org/action/doSearch?AllField=Leigh+lights&stemming=yes&publication=ip-smt)
+11.   [ASDIC](https://digital-library.theiet.org/action/doSearch?AllField=ASDIC&stemming=yes&publication=ip-smt)
+12.   [operational research](https://digital-library.theiet.org/action/doSearch?AllField=operational+research&stemming=yes&publication=ip-smt)
+13.   [United Kingdom](https://digital-library.theiet.org/action/doSearch?AllField=United+Kingdom&stemming=yes&publication=ip-smt)
+14.   [North Atlantic](https://digital-library.theiet.org/action/doSearch?AllField=North+Atlantic&stemming=yes&publication=ip-smt)
+15.   [ASV Mark III](https://digital-library.theiet.org/action/doSearch?AllField=ASV+Mark+III&stemming=yes&publication=ip-smt)
+16.   [Public Record Office](https://digital-library.theiet.org/action/doSearch?AllField=Public+Record+Office&stemming=yes&publication=ip-smt)
+17.   [Battle of Atlantic](https://digital-library.theiet.org/action/doSearch?AllField=Battle+of+Atlantic&stemming=yes&publication=ip-smt)
+
+#### Keywords
+
+1.   [cryptography](https://digital-library.theiet.org/action/doSearch?AllField=cryptography&stemming=yes&publication=ip-smt)
+2.   [history](https://digital-library.theiet.org/action/doSearch?AllField=history&stemming=yes&publication=ip-smt)
+3.   [military systems](https://digital-library.theiet.org/action/doSearch?AllField=military+systems&stemming=yes&publication=ip-smt)
+4.   [radar applications](https://digital-library.theiet.org/action/doSearch?AllField=radar+applications&stemming=yes&publication=ip-smt)
+5.   [radio applications](https://digital-library.theiet.org/action/doSearch?AllField=radio+applications&stemming=yes&publication=ip-smt)
+6.   [U-boat](https://digital-library.theiet.org/action/doSearch?AllField=U-boat&stemming=yes&publication=ip-smt)
+7.   [Second World War](https://digital-library.theiet.org/action/doSearch?AllField=Second+World+War&stemming=yes&publication=ip-smt)
+8.   [submarine location system](https://digital-library.theiet.org/action/doSearch?AllField=submarine+location+system&stemming=yes&publication=ip-smt)
+9.   [Admiralty](https://digital-library.theiet.org/action/doSearch?AllField=Admiralty&stemming=yes&publication=ip-smt)
+10.   [shipborne radars](https://digital-library.theiet.org/action/doSearch?AllField=shipborne+radars&stemming=yes&publication=ip-smt)
+11.   [airborne radars](https://digital-library.theiet.org/action/doSearch?AllField=airborne+radars&stemming=yes&publication=ip-smt)
+12.   [German naval enigma cyphers](https://digital-library.theiet.org/action/doSearch?AllField=German+naval+enigma+cyphers&stemming=yes&publication=ip-smt)
+13.   [HF direction finders](https://digital-library.theiet.org/action/doSearch?AllField=HF+direction+finders&stemming=yes&publication=ip-smt)
+14.   [HF radio telephony](https://digital-library.theiet.org/action/doSearch?AllField=HF+radio+telephony&stemming=yes&publication=ip-smt)
+15.   [Leigh lights](https://digital-library.theiet.org/action/doSearch?AllField=Leigh+lights&stemming=yes&publication=ip-smt)
+16.   [ASDIC](https://digital-library.theiet.org/action/doSearch?AllField=ASDIC&stemming=yes&publication=ip-smt)
+17.   [operational research](https://digital-library.theiet.org/action/doSearch?AllField=operational+research&stemming=yes&publication=ip-smt)
+18.   [United Kingdom](https://digital-library.theiet.org/action/doSearch?AllField=United+Kingdom&stemming=yes&publication=ip-smt)
+19.   [North Atlantic](https://digital-library.theiet.org/action/doSearch?AllField=North+Atlantic&stemming=yes&publication=ip-smt)
+20.   [ASV Mark III](https://digital-library.theiet.org/action/doSearch?AllField=ASV+Mark+III&stemming=yes&publication=ip-smt)
+21.   [Public Record Office](https://digital-library.theiet.org/action/doSearch?AllField=Public+Record+Office&stemming=yes&publication=ip-smt)
+22.   [Battle of Atlantic](https://digital-library.theiet.org/action/doSearch?AllField=Battle+of+Atlantic&stemming=yes&publication=ip-smt)
+
+### Authors
+
+#### Affiliations Expand all
+
+##### R.W.Burns
+
+Dept. of Electron. & Electr. Eng., Sheffield Univ., UK
+
+[View all articles by this author](https://digital-library.theiet.org/authored-by/Burns/R+W)
+
+Metrics and Citations
+---------------------
+
+Metrics Citations
+
+### Metrics
+
+Article Metrics
+
+*   [Downloads](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Downloads")
+*   Citations
+
+No data available.
+
+2
+
+0
+
+*   [Total](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+
+Total number of downloads
+
+### Citations
+
+Download article citation data for:
+
+[Impact of technology on the defeat of the U-boat September 1939-May 1943](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt%3A19949918)
+
+R.W. Burns
+
+* * *
+
+If you have the appropriate software installed, you can download article citation data to the citation manager of your choice. Simply select your manager software from the list below and click Download.
+
+ Format - [x]  Direct import 
+
+Figures
+-------
+
+Tables
+------
+
+Media
+-----
+
+Share
+-----
+
+### Share
+
+#### Copy the content Link
+
+https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918
+
+Copy link
+
+Copied!
+
+Copying failed.
+
+#### Share on social media
+
+[Facebook](https://digital-library.theiet.org/#facebook "Share on Facebook")[X (formerly Twitter)](https://digital-library.theiet.org/#twitter "Share on X (formerly Twitter)")[LinkedIn](https://digital-library.theiet.org/#linkedin "Share on LinkedIn")[Email](https://digital-library.theiet.org/#email "Share on Email")
+
+Get Access
+----------
+
+### Get Access
+
+##### Access content
+
+Please select your options to get access
+
+##### Login options
+
+Check if you have access through your login credentials or your institution to get full access on this article.
+
+[![Image 7: members and non-members](https://digital-library.theiet.org/specs/products/iet/releasedAssets/images/IET-icon-438731d5c0e26cb7781968706f9f5645.svg)Login or Register](https://digital-library.theiet.org/action/oidc?redirectUri=%2Fdoi%2F10.1049%2Fip-smt%3A19949918)[Institutional](https://digital-library.theiet.org/action/ssostart?redirectUri=%2Fdoi%2F10.1049%2Fip-smt%3A19949918)
+
+##### Purchase options
+
+[Save for later](https://digital-library.theiet.org/action/saveItem?doi=10.1049/ip-smt:19949918)[Item saved, go to cart](https://digital-library.theiet.org/action/showCart?FlowID=2)
+
+###### Buy this article
+
+Impact of technology on the defeat of the U-boat September 1939-May 1943
+
+$19.99
+
+[Add to cart](https://digital-library.theiet.org/action/addToCart?id=PJPQ00IA-ELECTRONIC-USD-10.1049/IP-SMT:19949918-503677)
+
+ Buy this article [Checkout](https://digital-library.theiet.org/action/showCart?FlowID=2)
+
+###### Knowledge pack (10 download credits)
+
+Impact of technology on the defeat of the U-boat September 1939-May 1943
+
+$120.00
+
+[Add to cart](https://digital-library.theiet.org/action/addToCart?id=PIDLKP10-ELECTRONIC-USD-10.1049/IP-SMT:19949918-508786)
+
+ Knowledge pack (10 download credits) [Checkout](https://digital-library.theiet.org/action/showCart?FlowID=2)
+
+References
+----------
+
+### References
+
+[Download PDF](https://digital-library.theiet.org/doi/pdf/10.1049/ip-smt%3A19949918?download=true)
+
+Figures Tables
+
+Close figure viewer
+
+Back to article
+
+Figure title goes here
+
+Change zoom level
+
+[Go to figure location within the article](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#f1 "Go to figure location within the article")
+
+[Download figure](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Download figure")
+
+Toggle share panel
+
+Share on social media
+
+Toggle information panel
+
+All figures
+
+All tables
+
+[xrefBack.goTo](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918)
+
+xrefBack.goTo
+
+*   [](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918)
+Request permissions Expand all
+
+Collapse
+
+Expand Table
+
+Show all references
+
+SHOW ALL BOOKS
+
+[Authors Info & Affiliations](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#tab-contributors)
+
+*   [About us](https://digital-library.theiet.org/about)
+*   [Help](https://digital-library.theiet.org/help)
+*   [Contact](https://digital-library.theiet.org/contact)
+
+[Back to top](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+
+### Follow IET
+
+*   [![Image 8: facebook](https://digital-library.theiet.org/pb-assets/images/icons/social%20media/IET-facebook-1702760727833.svg)](https://www.facebook.com/TheInstitutionofEngineeringandTechnology)
+*   [![Image 9: instagram](https://digital-library.theiet.org/pb-assets/images/icons/social%20media/IET-instagram-1702761071760.svg)](https://www.instagram.com/theiet/)
+*   [![Image 10: linkedin](https://digital-library.theiet.org/pb-assets/images/icons/social%20media/IET-linked-in-1702761071753.svg)](http://www.linkedin.com/company/iet)
+*   [![Image 11: pinterest](https://digital-library.theiet.org/pb-assets/images/icons/social%20media/pinterest-1703141764217.svg)](https://uk.pinterest.com/theiet/)
+*   [![Image 12: youtube](https://digital-library.theiet.org/pb-assets/images/icons/social%20media/IET-youtube-1702760727020.svg)](https://www.youtube.com/user/theiet)
+*   [![Image 13: wechat](https://digital-library.theiet.org/pb-assets/images/icons/social%20media/wechat-1709059025163.svg)](https://www.theiet.org/iet-wechat-social-link/)
+*   [![Image 14: weibo](https://digital-library.theiet.org/pb-assets/images/icons/social%20media/sina-weibo-1709059025163.svg)](https://weibo.com/ietchina)
+*   [![Image 15: A 33x32 small image, likely a logo, icon or avatar](https://digital-library.theiet.org/pb-assets/images/icons/EngX%20logo-1746095858507.png)](https://engx.theiet.org/)
+
+*   [About the IET](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "About IET")
+
+    *   [Our history](https://www.theiet.org/about/a-brief-history/)
+    *   [Vision and Strategy](https://www.theiet.org/about/vision-and-strategy/)
+    *   [Governance](https://www.theiet.org/about/governance/)
+    *   [AGMs](https://www.theiet.org/about/governance/annual-general-meetings-and-special-general-meetings/)
+    *   [Royal Charter and Bye-laws](https://www.theiet.org/about/vision-and-strategy/our-royal-charter-and-bye-laws/)
+    *   [Our offices](https://www.theiet.org/about/our-offices/)
+    *   [Our venues](https://www.theiet.org/about/our-venues/)
+    *   [Working for the IET](https://workfor.theiet.org/)
+    *   [Adverstising and sponsorship](https://www.theiet.org/about/advertising-and-sponsorship/)
+
+*   [Membership & Registration](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Membership & Registration")
+
+    *   [Join the IET](https://www.theiet.org/membership/become-a-member/)
+    *   [Benefits of memberships](https://www.theiet.org/membership/become-a-member/membership-benefits/)
+    *   [Manage your membership](https://www.theiet.org/membership/manage-your-membership/)
+    *   [Member News](https://www.theiet.org/membership/member-news/)
+    *   [Communities](https://www.theiet.org/membership/communities/)
+    *   [Professionalism and ethics](https://www.theiet.org/membership/professionalism-and-ethics/)
+    *   [IET Library and Archives](https://www.theiet.org/membership/library-archives/)
+    *   [E+T magazine](https://eandt.theiet.org/)
+
+*   [Career & Learning](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Career & Learning")
+
+    *   [Professional registration](https://www.theiet.org/career/professional-registration/)
+    *   [Professional development](https://www.theiet.org/career/professional-development/)
+    *   [Career Manager](https://www.theiet.org/career/professional-development/career-manager/)
+    *   [Accreditation](https://www.theiet.org/career/accreditation/)
+    *   [Courses and training](https://www.theiet.org/career/courses-training/)
+    *   [IET Academy](https://www.theiet.org/help/frequently-asked-questions/iet-academy-faqs/)
+    *   [Support for employers](https://www.theiet.org/career/routes-to-engineering/apprenticeships/introducing-apprenticeships/benefits-for-employers/)
+    *   [Routes to engineering](https://www.theiet.org/career/routes-to-engineering/)
+    *   [STEM education](https://www.theiet.org/career/routes-to-engineering/stem-education/)
+    *   [Career support](https://www.theiet.org/career/career-support/)
+    *   [Engineering jobs](https://engineering-jobs.theiet.org/)
+
+*   [Intelligence & Research](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Intelligence & Research")
+
+    *   [Publishing with IET Journals](https://www.theiet.org/publishing/publishing-with-iet-journals/)
+    *   [Publishing with IET Books](https://www.theiet.org/publishing/publishing-with-iet-books/)
+    *   [Inspec](https://www.theiet.org/publishing/inspec/)
+    *   [Subscribe to our content](https://www.theiet.org/publishing/subscribe-or-buy-our-content/)
+    *   [Bookshop](https://www.theiet.org/publishing/explore-books/)
+    *   [Wiring Regulations](https://electrical.theiet.org/)
+    *   [Codes and guidance](https://www.theiet.org/publishing/iet-codes-and-guidance/)
+    *   [IET.tv - video content and production](https://www.theiet.org/publishing/iettv/)
+    *   [IET Library and Archives](https://www.theiet.org/membership/library-and-archives)
+
+*   [IET Events](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Events")
+
+    *   [Events](https://events.theiet.org/)
+    *   [Search all events](https://events.theiet.org/search/)
+
+*   [Get Involved](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Get Involved")
+
+    *   [Volunteering for IET](https://www.theiet.org/involved/volunteering-for-the-iet/)
+    *   [Young Professionals](https://www.theiet.org/involved/young-professionals/)
+    *   [Partnerships](https://www.theiet.org/involved/partnerships/)
+    *   [Collaboration](https://www.theiet.org/impact-society/thought-leadership/one-voice-on-engineering/)
+    *   [Support future generations](https://www.theiet.org/membership/library-and-archives#:~:text=Support%20future%20generations)
+    *   [Online community](https://engx.theiet.org/)
+
+*   [Impact & Society](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Impact & Society")
+
+    *   [Sectors](https://www.theiet.org/impact-society/sectors/)
+    *   [Government policy and submissions](https://www.theiet.org/impact-society/government-policy-and-submissions/)
+    *   [Thought leadership](https://www.theiet.org/impact-society/thought-leadership/)
+    *   [Our impact in Scotland](https://www.theiet.org/impact-society/sectors/scotland/)
+    *   [Our impact in Northern Ireland](https://www.theiet.org/impact-society/sectors/northern-ireland/)
+    *   [Factfiles](https://www.theiet.org/impact-society/factfiles/)
+    *   [Awards and scholarships](https://www.theiet.org/impact-society/awards-prizes-and-scholarships)
+
+*   [Media Hub](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918# "Media Hub")
+
+    *   [Campaigns](https://www.theiet.org/media/campaigns/)
+    *   [Press releases](https://www.theiet.org/media/press-releases/)
+    *   [Media support for members](https://www.theiet.org/media/media-spokespeople/)
+    *   [IET social media](https://www.theiet.org/media/social-media/)
+
+*   [Help](https://digital-library.theiet.org/help)
+*   [Cookie Preferences](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+*   [Privacy Statement](https://www.theiet.org/help/privacy)
+*   [Accessibility](https://www.theiet.org/help/accessibility)
+*   [Modern Slavery Act Statement](https://www.theiet.org/help/anti-slavery-statement)
+*   [Legal notices](https://www.theiet.org/help/legal-notices)
+
+© 2025 The Institution of Engineering and Technology
+
+All rights, including for text and data mining, AI training, and similar technologies, are reserved
+
+The Institution of Engineering and Technology is registered as a Charity in England and Wales (no 211014) and Scotland (no SC038698)
+
+Brought to you by Atypon Systems
+
+[](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+Request Username
+----------------
+
+Can't sign in? Forgot your username?
+
+Enter your email address below and we will send you your username
+
+Email 
+
+[Close](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+
+If the address matches an existing account you will receive an email with instructions to retrieve your username
+
+[](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+Create a new account
+--------------------
+
+Email 
+
+[Returning user](https://digital-library.theiet.org/action/showLogin "Sign in")
+
+[](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+
+Change Password
+---------------
+
+Old Password 
+
+New Password 
+
+Too Short Weak Medium Strong Very Strong Too Long
+
+#### Your password must have 8 characters or more and contain 3 of the following:
+
+*   a lower case character,
+*   an upper case character,
+*   a special character
+*   or a digit
+
+Too Short
+
+Password Changed Successfully
+-----------------------------
+
+Your password has been changed
+
+[](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918)
+Login to your account
+---------------------
+
+Email 
+
+Password 
+
+[Forgot password?](https://digital-library.theiet.org/action/requestResetPassword)
+
+Keep me logged in 
+
+- [x] 
+
+[New User](https://digital-library.theiet.org/action/registration)
+
+Can't sign in? Forgot your password?
+
+Enter your email address below and we will send you the reset instructions
+
+Email 
+
+[Cancel](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+
+If the address matches an existing account you will receive an email with instructions to reset your password
+
+[Close](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+
+Verify Phone
+------------
+
+Enter the verification code 
+
+[Cancel](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#)
+
+Congrats!
+---------
+
+Your Phone has been verified
+
+[close](https://digital-library.theiet.org/action/showPreferences)
+
+✓
+
+Thanks for sharing!
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918#addtoany "Show all")
+
+[Home](https://digital-library.theiet.org/)[Journals & magazines](https://digital-library.theiet.org/action/showPublications?pubType=journal&Active=506113)[IEE Proceedings - Science, Measurement and Technology](https://digital-library.theiet.org/journal/ip-smt)[Issues](https://digital-library.theiet.org/loi/ip-smt)[Vol. 141, Iss. 5](https://digital-library.theiet.org/toc/ip-smt/141/5)[Impact of technology on the defeat of the U-boat September 1939-May 1943](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918)
+
+[](https://digital-library.theiet.org/action/addCitationAlert?doi=10.1049%2Fip-smt%3A19949918 "Track citations")
+
+[](https://digital-library.theiet.org/personalize/addFavoritePublication?doi=10.1049%2Fip-smt%3A19949918 "Add to favourites")
+
+[Share](https://digital-library.theiet.org/doi/abs/10.1049/ip-smt:19949918)
+
+*   [](https://digital-library.theiet.org/#facebook "Share on Facebook")
+*   [](https://digital-library.theiet.org/#twitter "Share on X (formerly Twitter)")
+*   [](https://digital-library.theiet.org/#linkedin "Share on LinkedIn")
+*   [](https://digital-library.theiet.org/#email "Share on Email")
+
+[###### Previous article Automatic detection and elimination of periodic pulse shaped interferences in partial discharge measurements Previous](https://digital-library.theiet.org/doi/10.1049/ip-smt%3A19941064)[###### Next article Conductivity and permittivity images from an induced current electrical impedance tomography system Next](https://digital-library.theiet.org/doi/10.1049/ip-smt%3A19941076)
+
+![Image 16: Cookiebot session tracker icon loaded](https://imgsct.cookiebot.com/1.gif?dgi=32853404-389a-468c-95fb-79ebc39057ef)

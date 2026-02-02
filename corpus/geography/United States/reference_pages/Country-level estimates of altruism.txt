@@ -1,0 +1,396 @@
+# Country-level estimates of altruism
+
+Country-level estimates of altruism
+
+===============
+
+[Our World in Data](https://ourworldindata.org/)
+
+[![Image 5: Oxford Martin School logo](https://ourworldindata.org/oms-logo.svg)](https://www.oxfordmartin.ox.ac.uk/global-development)[![Image 6: University of Oxford logo](https://ourworldindata.org/oxford-logo.svg)](https://www.ox.ac.uk/)[![Image 7: Global Change Data Lab logo](https://ourworldindata.org/gcdl-logo.svg)](https://global-change-data-lab.org/)
+
+*   Browse by topic 
+*   [Data](https://ourworldindata.org/search)
+*   [Insights](https://ourworldindata.org/data-insights)
+*   Resources 
+*   About 
+
+Search for a topic, chart or article...
+
+Subscribe
+
+[Donate](https://ourworldindata.org/donate)
+
+Country-level estimates of altruism
+===================================
+
+Estimates are measured in standard deviations from the global distribution, where 0 is the average. Positive values indicate the country's average for altruism is above the world average.
+
+Table
+
+Map
+
+**Data source:** Falk, Becker, Dohmen, Enke, Huffman, and Sunde (2018) - Global Preferences Survey (GPS) – [Learn more about this data](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+**Note:** Altruism was measured using one quantitative and one qualitative question both relating to willingness to make donations. See source for more details.
+
+[OurWorldinData.org/trust](https://ourworldindata.org/trust) | [CC BY](https://creativecommons.org/licenses/by/4.0/)
+
+*    
+*    
+*    
+
+Select countries
+----------------
+
+Search for a country
+
+Sort by: Altruism (Falk et al. (2018) GPS), 2012
+
+All countries
+
+*    - [x]  United States   0.41 
+*    - [x]  Bangladesh   0.91 
+*    - [x]  Egypt   0.63 
+*    - [x]  Georgia   0.63 
+*    - [x]  Iran   0.59 
+*    - [x]  Morocco   0.56 
+*    - [x]  Sri Lanka   0.51 
+*    - [x]  China   0.5 
+*    - [x]  Brazil   0.46 
+*    - [x]  Costa Rica   0.42 
+*    - [x]  South Korea   0.39 
+*    - [x]  Philippines   0.38 
+*    - [x]  Italy   0.35 
+*    - [x]  Canada   0.23 
+*    - [x]  Moldova   0.19 
+*    - [x]  Kazakhstan   0.17 
+*    - [x]  Afghanistan   0.17 
+*    - [x]  Jordan   0.16 
+*    - [x]  Australia   0.16 
+*    - [x]  United Arab Emirates   0.15 
+*    - [x]  Cameroon   0.15 
+*    - [x]  Ghana   0.11 
+*    - [x]  Indonesia   0.1 
+*    - [x]  Colombia   0.1 
+*    - [x]  Switzerland   0.09 
+*    - [x]  Suriname   0.09 
+*    - [x]  Venezuela   0.08 
+*    - [x]  Portugal   0.05 
+*    - [x]  United Kingdom   0.03 
+*    - [x]  Argentina   0.03 
+*    - [x]  Bolivia   -0.01 
+*    - [x]  Algeria   -0.01 
+*    - [x]  Austria   -0.04 
+*    - [x]  Zimbabwe   -0.04 
+*    - [x]  Germany   -0.05 
+*    - [x]  Russia   -0.07 
+*    - [x]  Croatia   -0.07 
+*    - [x]  Malawi   -0.09 
+*    - [x]  Chile   -0.11 
+*    - [x]  Bosnia and Herzegovina   -0.12 
+*    - [x]  Ukraine   -0.12 
+*    - [x]  Spain   -0.13 
+*    - [x]  Peru   -0.13 
+*    - [x]  Guatemala   -0.13 
+*    - [x]  Rwanda   -0.14 
+*    - [x]  Botswana   -0.14 
+*    - [x]  Nigeria   -0.14 
+*    - [x]  Thailand   -0.15 
+*    - [x]  Vietnam   -0.16 
+*    - [x]  Sweden   -0.17 
+*    - [x]  Greece   -0.17 
+*    - [x]  France   -0.17 
+*    - [x]  Nicaragua   -0.18 
+*    - [x]  Netherlands   -0.19 
+*    - [x]  Cambodia   -0.22 
+*    - [x]  Iraq   -0.23 
+*    - [x]  Romania   -0.24 
+*    - [x]  Japan   -0.24 
+*    - [x]  Finland   -0.25 
+*    - [x]  India   -0.27 
+*    - [x]  Pakistan   -0.28 
+*    - [x]  Turkey   -0.28 
+*    - [x]  Uganda   -0.28 
+*    - [x]  Serbia   -0.32 
+*    - [x]  Kenya   -0.32 
+*    - [x]  South Africa   -0.32 
+*    - [x]  Israel   -0.33 
+*    - [x]  Poland   -0.37 
+*    - [x]  Saudi Arabia   -0.37 
+*    - [x]  Tanzania   -0.46 
+*    - [x]  Haiti   -0.52 
+*    - [x]  Estonia   -0.57 
+*    - [x]  Hungary   -0.59 
+*    - [x]  Lithuania   -0.73 
+*    - [x]  Mexico   -0.81 
+*    - [x]  Czechia   -0.94 
+*   - [x]  Albania   No data 
+*   - [x]  Andorra   No data 
+*   - [x]  Angola   No data 
+*   - [x]  Antigua and Barbuda   No data 
+*   - [x]  Armenia   No data 
+*   - [x]  Azerbaijan   No data 
+*   - [x]  Bahamas   No data 
+*   - [x]  Bahrain   No data 
+*   - [x]  Barbados   No data 
+*   - [x]  Belarus   No data 
+*   - [x]  Belgium   No data 
+*   - [x]  Belize   No data 
+*   - [x]  Benin   No data 
+*   - [x]  Bhutan   No data 
+*   - [x]  Brunei   No data 
+*   - [x]  Bulgaria   No data 
+*   - [x]  Burkina Faso   No data 
+*   - [x]  Burundi   No data 
+*   - [x]  Cape Verde   No data 
+*   - [x]  Central African Republic   No data 
+*   - [x]  Chad   No data 
+*   - [x]  Comoros   No data 
+*   - [x]  Congo   No data 
+*   - [x]  Cote d'Ivoire   No data 
+*   - [x]  Cuba   No data 
+*   - [x]  Cyprus   No data 
+*   - [x]  Democratic Republic of Congo   No data 
+*   - [x]  Denmark   No data 
+*   - [x]  Djibouti   No data 
+*   - [x]  Dominica   No data 
+*   - [x]  Dominican Republic   No data 
+*   - [x]  East Timor   No data 
+*   - [x]  Ecuador   No data 
+*   - [x]  El Salvador   No data 
+*   - [x]  Equatorial Guinea   No data 
+*   - [x]  Eritrea   No data 
+*   - [x]  Eswatini   No data 
+*   - [x]  Ethiopia   No data 
+*   - [x]  Fiji   No data 
+*   - [x]  French Guiana   No data 
+*   - [x]  French Southern Territories   No data 
+*   - [x]  Gabon   No data 
+*   - [x]  Gambia   No data 
+*   - [x]  Greenland   No data 
+*   - [x]  Grenada   No data 
+*   - [x]  Guinea   No data 
+*   - [x]  Guinea-Bissau   No data 
+*   - [x]  Guyana   No data 
+*   - [x]  Honduras   No data 
+*   - [x]  Iceland   No data 
+*   - [x]  Ireland   No data 
+*   - [x]  Jamaica   No data 
+*   - [x]  Kiribati   No data 
+*   - [x]  Kosovo   No data 
+*   - [x]  Kuwait   No data 
+*   - [x]  Kyrgyzstan   No data 
+*   - [x]  Laos   No data 
+*   - [x]  Latvia   No data 
+*   - [x]  Lebanon   No data 
+*   - [x]  Lesotho   No data 
+*   - [x]  Liberia   No data 
+*   - [x]  Libya   No data 
+*   - [x]  Liechtenstein   No data 
+*   - [x]  Luxembourg   No data 
+*   - [x]  Madagascar   No data 
+*   - [x]  Malaysia   No data 
+*   - [x]  Maldives   No data 
+*   - [x]  Mali   No data 
+*   - [x]  Malta   No data 
+*   - [x]  Marshall Islands   No data 
+*   - [x]  Mauritania   No data 
+*   - [x]  Mauritius   No data 
+*   - [x]  Micronesia (country)   No data 
+*   - [x]  Monaco   No data 
+*   - [x]  Mongolia   No data 
+*   - [x]  Montenegro   No data 
+*   - [x]  Mozambique   No data 
+*   - [x]  Myanmar   No data 
+*   - [x]  Namibia   No data 
+*   - [x]  Nauru   No data 
+*   - [x]  Nepal   No data 
+*   - [x]  New Caledonia   No data 
+*   - [x]  New Zealand   No data 
+*   - [x]  Niger   No data 
+*   - [x]  North Korea   No data 
+*   - [x]  North Macedonia   No data 
+*   - [x]  Norway   No data 
+*   - [x]  Oman   No data 
+*   - [x]  Palau   No data 
+*   - [x]  Palestine   No data 
+*   - [x]  Panama   No data 
+*   - [x]  Papua New Guinea   No data 
+*   - [x]  Paraguay   No data 
+*   - [x]  Puerto Rico   No data 
+*   - [x]  Qatar   No data 
+*   - [x]  Saint Kitts and Nevis   No data 
+*   - [x]  Saint Lucia   No data 
+*   - [x]  Saint Vincent and the Grenadines   No data 
+*   - [x]  Samoa   No data 
+*   - [x]  San Marino   No data 
+*   - [x]  Sao Tome and Principe   No data 
+*   - [x]  Senegal   No data 
+*   - [x]  Seychelles   No data 
+*   - [x]  Sierra Leone   No data 
+*   - [x]  Singapore   No data 
+*   - [x]  Slovakia   No data 
+*   - [x]  Slovenia   No data 
+*   - [x]  Solomon Islands   No data 
+*   - [x]  Somalia   No data 
+*   - [x]  South Sudan   No data 
+*   - [x]  Sudan   No data 
+*   - [x]  Syria   No data 
+*   - [x]  Taiwan   No data 
+*   - [x]  Tajikistan   No data 
+*   - [x]  Togo   No data 
+*   - [x]  Tonga   No data 
+*   - [x]  Trinidad and Tobago   No data 
+*   - [x]  Tunisia   No data 
+*   - [x]  Turkmenistan   No data 
+*   - [x]  Tuvalu   No data 
+*   - [x]  Uruguay   No data 
+*   - [x]  Uzbekistan   No data 
+*   - [x]  Vanuatu   No data 
+*   - [x]  Western Sahara   No data 
+*   - [x]  Yemen   No data 
+*   - [x]  Zambia   No data 
+
+![Image 8: Country-level estimates of altruism](https://ourworldindata.org/grapher/cross-country-variation-in-altruism.png)
+Interactive visualization requires JavaScript
+
+Related research and data
+-------------------------
+
+### Charts
+
+*   [Confidence in the United Nations](https://ourworldindata.org/grapher/confidence-in-un-wvs)
+*   [Countries with policy guarantees for public access to information](https://ourworldindata.org/grapher/countries-that-adopt-guarantees-for-public-access-to-information)
+*   [Country-level estimates of negative reciprocity](https://ourworldindata.org/grapher/cross-country-variation-in-negative-reciprocity)
+*   [Country-level estimates of patience](https://ourworldindata.org/grapher/cross-country-variation-in-patience)
+*   [Country-level estimates of positive reciprocity](https://ourworldindata.org/grapher/cross-country-variation-in-positive-reciprocity)
+*   [Country-level estimates of risk taking](https://ourworldindata.org/grapher/cross-country-variation-in-risk-taking)
+*   [Government transparency](https://ourworldindata.org/grapher/government-transparency)
+*   [Interpersonal trust in Europe](https://ourworldindata.org/grapher/interpersonal-trust-in-europe)
+*   [Interpersonal trust in the United States](https://ourworldindata.org/grapher/interpersonal-trust-in-the-us)
+*   [Interpersonal trust measured in different surveys](https://ourworldindata.org/grapher/interpersonal-trust-measured-in-different-surveys)
+*   [Interpersonal trust vs. GDP per capita](https://ourworldindata.org/grapher/share-agreeing-most-people-can-be-trusted-vs-gdp-per-capita)
+*   [Interpersonal trust vs. income inequality](https://ourworldindata.org/grapher/interpersonal-trust-vs-income-inequality)
+*   [Perceived trust between people](https://ourworldindata.org/grapher/perceived-trust-between-people)
+*   [Political Participation Index](https://ourworldindata.org/grapher/political-participation-index-eiu)EIU
+*   [Public trust in the United States government](https://ourworldindata.org/grapher/public-trust-in-government)
+*   [Share of people agreeing with the statement "most people can be trusted"](https://ourworldindata.org/grapher/self-reported-trust-attitudes)
+*   [Share of people that think others can be trusted vs. taken advantage of](https://ourworldindata.org/grapher/share-agreeing-most-people-can-be-trusted-vs-most-people-would-try-to-take-advantage-of-you)
+*   [Share of people who find political decision-making inclusive and responsive](https://ourworldindata.org/grapher/share-of-people-who-find-political-decision-making-inclusive-and-responsive)
+*   [Share of people who trust journalists in their country](https://ourworldindata.org/grapher/share-people-trust-journalists-country)
+*   [Share of people who trust others in their neighborhood](https://ourworldindata.org/grapher/share-people-trust-neighborhood)
+*   [Share of people who trust science](https://ourworldindata.org/grapher/share-people-trust-science)
+*   [Share of people who trust their national government](https://ourworldindata.org/grapher/share-who-trust-government)
+*   [Share of population satisfied with government services](https://ourworldindata.org/grapher/share-of-population-satisfied-with-government-services)
+*   [Share of victims who reported crime to the police](https://ourworldindata.org/grapher/share-of-victims-who-reported-crime-to-the-police)
+*   [Share that feel safe walking alone around the area they live at night](https://ourworldindata.org/grapher/safety-walking-alone)
+*   [Trust attitudes towards specific groups](https://ourworldindata.org/grapher/trust-people-by-group-wvs)
+*   [Trust in doctors and nurses vs. disagree that vaccines are safe](https://ourworldindata.org/grapher/trust-healthcare-vs-vaccine-safety)
+*   [Trust in government, OECD average](https://ourworldindata.org/grapher/oecd-average-trust-in-governments)
+*   [Trust in institutions](https://ourworldindata.org/grapher/trust-state-institutions-wvs)
+*   [Trust in organizations](https://ourworldindata.org/grapher/trust-organizations-wvs)
+*   [Trust in others vs. trust in police, Europe](https://ourworldindata.org/grapher/trust-in-others-vs-trust-in-police)
+
+#### Our World in Data is free and accessible for everyone.
+
+Help us do this work by making a donation.
+
+[Donate now](https://ourworldindata.org/donate)
+
+Our World in Data is a project of[Global Change Data Lab](https://global-change-data-lab.org/), a nonprofit based in the UK (Reg. Charity No. 1186433). Our charts, articles, and data are licensed under[CC BY](https://creativecommons.org/licenses/by/4.0/), unless stated otherwise. Tools and software we develop are open source under the[MIT license](https://github.com/owid/owid-grapher/blob/master/LICENSE.md). Third-party materials, including some charts and data, are subject to third-party licenses. See our[FAQs](https://ourworldindata.org/faqs) for more details.
+
+[![Image 9: Oxford Martin School logo](https://ourworldindata.org/oms-logo.svg)](https://www.oxfordmartin.ox.ac.uk/global-development)[![Image 10: University of Oxford logo](https://ourworldindata.org/oxford-logo.svg)](https://www.ox.ac.uk/)[![Image 11: Global Change Data Lab logo](https://ourworldindata.org/gcdl-logo.svg)](https://global-change-data-lab.org/)
+
+[![Image 12: Y Combinator logo](https://ourworldindata.org/yc-logo.svg)](https://www.ycombinator.com/)
+
+##### Explore
+
+*   [Topics](https://ourworldindata.org/#all-topics)
+*   [Data](https://ourworldindata.org/search)
+*   [Insights](https://ourworldindata.org/data-insights)
+
+##### Resources
+
+*   [Latest Articles](https://ourworldindata.org/latest)
+*   [SDG Tracker](https://ourworldindata.org/sdgs)
+*   [Teaching with OWID](https://ourworldindata.org/teaching)
+
+##### About
+
+*   [About Us](https://ourworldindata.org/about)
+*   [Organization](https://ourworldindata.org/organization)
+*   [Funding](https://ourworldindata.org/funding)
+*   [Team](https://ourworldindata.org/team)
+*   [Jobs](https://ourworldindata.org/jobs)
+*   [FAQs](https://ourworldindata.org/faqs)
+
+##### RSS Feeds
+
+*   [Research & Writing](https://ourworldindata.org/atom.xml)
+*   [Data Insights](https://ourworldindata.org/atom-data-insights.xml)
+
+##### Follow us
+
+[](https://x.com/ourworldindata)[](https://www.instagram.com/ourworldindata/)[](https://www.threads.net/@ourworldindata)[](https://facebook.com/ourworldindata)[](https://www.linkedin.com/company/ourworldindata)[](https://bsky.app/profile/ourworldindata.org)[](https://github.com/owid)
+
+*   [Privacy policy](https://ourworldindata.org/privacy-policy)
+*   [Legal disclaimer](https://ourworldindata.org/organization#legal-disclaimer)
+*   [Grapher license](https://github.com/owid/owid-grapher/blob/master/LICENSE.md)
+
+Subscribe
+
+Leave us feedback
+
+**Have a question?** You may find an answer in [**FAQs**](https://ourworldindata.org/faqs).
+
+Message 
+
+Your name 
+
+Email address Your name and email will only be used to reply to you and not for any other purpose. If you do not give a valid email, we will not be able to reply to you.
+
+Send message
+
+ Feedback
+
+We use cookies to give you the best experience on our website.
+
+By agreeing, you consent to our use of cookies and other analytics tools according to [our privacy policy](https://ourworldindata.org/privacy-policy).
+
+No thanks I agree
+
+Keyboard Shortcuts
+
+Chart
+
+f[Toggle Faceting](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+l[Toggle Y log/linear](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+w[Toggle full-screen mode](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+s[Toggle sources modal](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+d[Toggle download modal](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+Map
+
+g[Toggle globe view](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+Navigation
+
+t[Toggle tab](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+?[Toggle Help](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+shift+o[Reset to original](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+Selection
+
+a[Select None](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+Timeline
+
+p[Play](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)
+
+z[Latest/Earliest/All period](https://ourworldindata.org/grapher/cross-country-variation-in-altruism)

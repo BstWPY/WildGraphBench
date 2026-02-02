@@ -1,0 +1,65 @@
+# Extended Range Forecast for Northwest Pacific Typhoon Activity in 2012
+
+1
+
+# Extended Range Forecast for Northwest Pacific Typhoon Activity in 2012 
+
+## Issued: 13 th April 2012 
+
+by Dr Adam Lea and Professor Mark Saunders 
+
+Dept. of Space and Climate Physics, UCL (University College London), UK 
+
+Forecast Summary 
+
+TSR anticipates the 2012 Northwest Pacific typhoon season will see 
+
+activity ~10% below the 1965-2011 climate norm. 
+
+The TSR (Tropical Storm Risk) extended range forecast for Northwest Pacific typhoon activity in 2012 anticipates a season with activity slightly below-norm. Based on current and projected climate signals, Northwest Pacific typhoon activity in 2012 is forecast to be about 10% below the 1965-2011 long-term norm. The forecast spans the period from 1 st January to 31 st December 2012 (95% of typhoons occur historically after 1 st May). The forecast includes deterministic and probabilistic projections for overall basin activity, and deterministic projections for the ACE index and numbers of intense typhoons, 
+
+typhoons and tropical storms. TSR’s main predi ctors at this lead for overall activity are the February surface pressure in the central northern tropical Pacific (region 10-20 oN, 145-165 oW), and the forecast anomaly in August-September Niño 3.75 sea surface temperature (SST). Updated forecasts will be issued in early May, early July and early August. 
+
+NW Pacific ACE Index and System Numbers in 2012 
+
+ACE Intense Tropical 
+
+Index Typhoons Typhoons Storms 
+
+TSR Forecast (±FE) 2012 262 (±96) 7.3 (±2.7) 15.6 (±3.5) 25.5 (±4.6) 
+
+47yr Climate Norm (±SD) 1965-2011 295 (±106) 8.4 (±3.0) 16.3 (±3.8) 26.2 (±4.6) 
+
+Forecast Skill at this Lead 1965-2011 18% 20% 15% 2% 
+
+Key: ACE Index = Accumulated Cyclone Energy Index = Sum of the Squares of 6-hourly Maximum Sustained Wind Speeds (in units of knots) for all Systems while they are at least Tropical Storm Strength. ACE Unit = x10 4 knots 2.
+
+Intense Typhoon = 1 Minute Sustained Wind > 95Kts = Hurricane Category 3 to 5. 
+
+Typhoon = 1 Minute Sustained Wind > 63Kts = Hurricane Category 1 to 5. 
+
+Tropical Storm = 1 Minute Sustained Winds > 33Kts. 
+
+SD = Standard Deviation. 
+
+FE (Forecast Error) = Standard Deviation of Errors in Cross-Validated Hindcasts 1965-2011. 
+
+Forecast Skill = Percentage Improvement in Mean Square Error Afforded by Cross-Validated Hindcasts 1965-2011 over Hindcasts Made with the 1965-2011 Climate Norm. 
+
+Northwest Pacific = Northern Hemisphere Region West of 180 oW Including the South China Sea. Any Tropical Cyclone (Irrespective of Where it Forms) Which Reaches Tropical Storm Strength Within this Region Counts as an Event. 
+
+There is a 22% probability that the 2012 NW Pacific typhoon season ACE index will be above-average (defined as an ACE index value in the upper tercile historically (>336)), a 38% likelihood it will be near-normal (defined as an ACE index value in the middle tercile historically (235 to 336) and a 40% chance it will be below-normal (defined as an ACE index value in the lower tercile historically (<235)). The 47-year period 1965-2011 is used for climatology. 
+
+Key: Terciles = Data groupings of equal (33.3%) probability corresponding to the upper, middle and lower one-third of values historically (1965-2011). 2
+
+Predictors for 2012 
+
+The TSR predictors are as follows. Tropical storm and typhoon numbers are forecast before May using an ensemble of two models: the Niño 3 sea surface temperature (SST) from the prior September and the forecast number of intense typhoons in 2012. From May tropical storm and typhoon numbers are forecast using April surface pressure over the region 17.5 oN-35 oN, 160 oE-175 oW. 
+
+Intense typhoon numbers and the ACE index are forecast before May using an ensemble of two models: the February surface pressure in the central northern tropical Pacific region 10 oN-20 oN, 145 oW-165 oWand the forecast value for the August-September Niño 3.75 index (5 oS-5 oN, 140 oW-180 oW). From May intense typhoon numbers and the ACE index are predicted from the forecast value for the August-September Niño 3.75 index. 
+
+Above-average (below-average) Niño 3.75 SSTs are associated with weaker (stronger) trade winds over the region 2.5 oN-12.5 oN, 120 oE-180 oE. These in turn lead to enhanced (reduced) cyclonic vorticity over the Northwest Pacific region where intense typhoons form. 
+
+Further Information 
+
+Further information about TSR forecasts, verifications and hindcast skill as a function of lead time may be obtained from the TSR web site ( http://www.tropicalstormrisk.com ). The next TSR forecast update for the 2012 Northwest Pacific typhoon season will be issued on the 7 th May 2012.

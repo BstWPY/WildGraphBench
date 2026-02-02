@@ -1,0 +1,79 @@
+# Sequence A100964 (Smallest prime number that begins a prime gap of at least 2n)
+
+A100964 - OEIS
+
+===============
+
+[login](https://oeis.org/login?redirect=%2fA100964)
+
+ The OEIS is supported by [the many generous donors to the OEIS Foundation](http://oeisf.org/#DONATE). 
+
+[![Image 1: A100964 - OEIS](https://oeis.org/banner2021.jpg)](https://oeis.org/)
+
+[Hints](https://oeis.org/hints.html)
+
+ (Greetings from [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/welcome)!) 
+
+ A100964 
+
+ Smallest prime number that begins a prime gap of at least 2n. 
+
+ 4 
+
+3, 7, 23, 89, 113, 113, 113, 523, 523, 887, 1129, 1327, 1327, 1327, 1327, 1327, 1327, 9551, 15683, 15683, 15683, 15683, 19609, 19609, 19609, 19609, 31397, 31397, 31397, 31397, 31397, 31397, 31397, 31397, 31397, 31397, 155921, 155921, 155921, 155921
+
+ ([list](https://oeis.org/A100964/list); [graph](https://oeis.org/A100964/graph); [refs](https://oeis.org/search?q=A100964+-id:A100964); [listen](https://oeis.org/A100964/listen); [history](https://oeis.org/history?seq=A100964); [text](https://oeis.org/search?q=id:A100964&fmt=text); [internal format](https://oeis.org/A100964/internal)) 
+
+OFFSET
+
+1,1
+
+LINKS
+
+Amiram Eldar, [Table of n, a(n) for n = 1..775](https://oeis.org/A100964/b100964.txt)
+
+FORMULA
+
+a(n) = prime([A144309](https://oeis.org/A144309 "a(n) is the index of the smallest prime such that the gap to the next prime is not less than 2*n.")(n)). - [Michel Marcus](https://oeis.org/wiki/User:Michel_Marcus), Nov 02 2013
+
+EXAMPLE
+
+a(5) = a(6) = a(7) = 113 because there is a gap of 14 between 113 and 127.
+
+MATHEMATICA
+
+k=1; Table[While[Prime[k+1]-Prime[k] < 2n, k++ ]; Prime[k], {n, 48}]
+
+PROG
+
+(PARI) lista(pmax) = {my(k = 1, prv = 2, m = 2, kprv = 2); forprime(p = 3, pmax, k++; if(p - prv >= m, for(i = 1, (p - prv - m)/2 + 1, print1(prv, ", ")); m = p - prv + 2; kprv = k); prv = p); } \\ [Amiram Eldar](https://oeis.org/wiki/User:Amiram_Eldar), Sep 06 2024
+
+CROSSREFS
+
+Cf. [A000230](https://oeis.org/A000230 "a(0)=2; for n>=1, a(n) = smallest prime p such that there is a gap of exactly 2n between p and next prime, or -1 if no such ..."), [A002386](https://oeis.org/A002386 "Primes (lower end) with record gaps to the next consecutive prime: primes p(k) where p(k+1) - p(k) exceeds p(j+1) - p(j) for..."), [A005250](https://oeis.org/A005250 "Record gaps between primes."), [A144309](https://oeis.org/A144309 "a(n) is the index of the smallest prime such that the gap to the next prime is not less than 2*n.").
+
+Sequence in context: [A113860](https://oeis.org/A113860 "Start with the binary representation of the Catalan constant (A104338, A006752) = 0.91596559... = sum_{i=1..infinity} b(i)/2...")[A080355](https://oeis.org/A080355 "a(1)=1; thereafter, a(n+1) = a(n) + 2^(prime(n)-1).")[A366694](https://oeis.org/A366694 "G.f. satisfies A(x) = (1 + x)^2 + x*A(x)^2.") * [A080077](https://oeis.org/A080077 "Smallest prime p such that between p and the next prime for every k = 1, ..., n there is a number m_k whose smallest prime f...")[A096318](https://oeis.org/A096318 "a(n) is the prime the precedes the first occurrence of a prime gap of 2n where the product of the smallest prime factor of e...")[A373608](https://oeis.org/A373608 "Number of (binary) heaps of length n whose element set equals [k], where k is chosen so as to maximize this number.")
+
+Adjacent sequences: [A100961](https://oeis.org/A100961 "For a decimal string s, let f(s) = decimal string ijk, where i = number of even digits in s, j = number of odd digits in s, ...")[A100962](https://oeis.org/A100962 "Numbers that can neither be written as the sum nor as the product of two primes.")[A100963](https://oeis.org/A100963 "a(1)=1. a(n) = a(n-1) + sum of the triangular numbers which are among the first (n-1) terms of the sequence.") * [A100965](https://oeis.org/A100965 "Smallest prime number that ends a prime gap of at least 2n.")[A100966](https://oeis.org/A100966 "Values of k such that EulerPhi(k) < k/(exp(EulerGamma)*log(log(k))).")[A100967](https://oeis.org/A100967 "Least k such that binomial(2k + 1, k - n) >= binomial(2k, k).")
+
+KEYWORD
+
+nonn
+
+AUTHOR
+
+[T. D. Noe](https://oeis.org/wiki/User:T._D._Noe), Nov 23 2004
+
+STATUS
+
+approved
+
+[Lookup](https://oeis.org/)[Welcome](https://oeis.org/wiki/Welcome)[Wiki](https://oeis.org/wiki/Main_Page)[Register](https://oeis.org/wiki/Special:RequestAccount)[Music](https://oeis.org/play.html)[Plot 2](https://oeis.org/plot2.html)[Demos](https://oeis.org/demo1.html)[Index](https://oeis.org/wiki/Index_to_OEIS)[WebCam](https://oeis.org/webcam)[Contribute](https://oeis.org/Submit.html)[Format](https://oeis.org/eishelp2.html)[Style Sheet](https://oeis.org/wiki/Style_Sheet)[Transforms](https://oeis.org/transforms.html)[Superseeker](https://oeis.org/ol.html)[Recents](https://oeis.org/recent)
+
+[The OEIS Community](https://oeis.org/community.html)
+
+ Maintained by [The OEIS Foundation Inc.](http://oeisf.org/)
+
+Last modified December 2 08:15 EST 2025. Contains 390753 sequences.
+
+[License Agreements, Terms of Use, Privacy Policy](https://oeis.org/wiki/Legal_Documents)

@@ -1,0 +1,1278 @@
+# 1.11 The AKS primality test
+
+The AKS primality test | What's new
+
+===============
+
+The Wayback Machine - https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/
+
+[![Image 232: Text reads, Keep ancient lands, your storied pomp! Cries she with silent lips. Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore, send these, the homeless, tempest-tost to me, I lift my lamp beside the golden door](https://terrytao.files.wordpress.com/2017/01/cropped-american4.jpg)](https://terrytao.wordpress.com/ "Return to front page")
+
+[What's new](https://terrytao.wordpress.com/ "Return to front page")
+Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao
+
+*   [Home](https://terrytao.wordpress.com/ "Return to front page")
+*   [About](https://terrytao.wordpress.com/about/)
+*   [Career advice](https://terrytao.wordpress.com/career-advice/)
+*   [On writing](https://terrytao.wordpress.com/advice-on-writing-papers/)
+*   [Books](https://terrytao.wordpress.com/books/)
+*   [Applets](https://terrytao.wordpress.com/applets/)
+
+*   [Subscribe to feed](https://terrytao.wordpress.com/feed/ "Subscribe to the What's new feed")
+
+The AKS primality test
+======================
+
+11 August, 2009 in [expository](https://terrytao.wordpress.com/category/expository/), [math.NT](https://terrytao.wordpress.com/category/mathematics/mathnt/), [polymath](https://terrytao.wordpress.com/category/question/polymath/) | Tags: [AKS primality test](https://terrytao.wordpress.com/tag/aks-primality-test/), [finding primes](https://terrytao.wordpress.com/tag/finding-primes/)
+
+The [Agrawal-Kayal-Saxena (AKS) primality test](http://en.wikipedia.org/wiki/AKS_primality_test), discovered in 2002, is the first provably deterministic algorithm to determine the primality of a given number with a run time which is guaranteed to be polynomial in the number of digits, thus, given a large number ![Image 233: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), the algorithm will correctly determine whether that number is prime or not in time ![Image 234: {O(\log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7BO%28%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=000000&s=0). (Many previous primality testing algorithms existed, but they were either probabilistic in nature, had a running time slower than polynomial, or the correctness could not be guaranteed without additional hypotheses such as GRH.)
+
+The AKS test is of some relevance to the polymath project “[Finding primes](http://michaelnielsen.org/polymath1/index.php?title=Finding_primes)“, so I thought I would sketch the details of the test (and the proof that it works) here. (Of course, full details can be found in the [original paper](http://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf), which is nine pages in length and almost entirely elementary in nature.) It relies on polynomial identities that are true modulo ![Image 235: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) when ![Image 236: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is prime, but cannot hold for ![Image 237: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) non-prime as they would generate a large number of additional polynomial identities, eventually violating the [factor theorem](http://en.wikipedia.org/wiki/Factor_theorem) (which asserts that a polynomial identity of degree at most ![Image 238: {d}](https://s0.wp.com/latex.php?latex=%7Bd%7D&bg=ffffff&fg=000000&s=0) can be obeyed by at most ![Image 239: {d}](https://s0.wp.com/latex.php?latex=%7Bd%7D&bg=ffffff&fg=000000&s=0) values of the unknown).
+
+Our starting point is [Fermat’s little theorem](http://en.wikipedia.org/wiki/Fermat%27s_little_theorem), which asserts that [](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+
+[![Image 240: \displaystyle a^p = a \hbox{ mod } p \ \ \ \ \ (1)](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle++a%5Ep+%3D+a+%5Chbox%7B+mod+%7D+p+%5C+%5C+%5C+%5C+%5C+%281%29&bg=ffffff&fg=000000&s=0)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) for every prime ![Image 241: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0) and every ![Image 242: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0). This theorem suggests an obvious primality test: to test whether a number ![Image 243: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is prime, pick a few values of ![Image 244: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0) and see whether ![Image 245: {a^n = a \hbox{ mod } n}](https://s0.wp.com/latex.php?latex=%7Ba%5En+%3D+a+%5Chbox%7B+mod+%7D+n%7D&bg=ffffff&fg=000000&s=0). (Note that ![Image 246: {a^n}](https://s0.wp.com/latex.php?latex=%7Ba%5En%7D&bg=ffffff&fg=000000&s=0) can be computed in time ![Image 247: {O(\log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7BO%28%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=000000&s=0) for any fixed ![Image 248: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0) by expressing ![Image 249: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) in binary, and repeatedly squaring ![Image 250: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0).) If the statement ![Image 251: {a^n = a \hbox{ mod } n}](https://s0.wp.com/latex.php?latex=%7Ba%5En+%3D+a+%5Chbox%7B+mod+%7D+n%7D&bg=ffffff&fg=000000&s=0) fails for some ![Image 252: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0), then ![Image 253: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) would be composite. Unfortunately, the converse is not true: there exist non-prime numbers ![Image 254: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), known as [Carmichael numbers](http://en.wikipedia.org/wiki/Carmichael_number), for which ![Image 255: {a^n = a \hbox{ mod } n}](https://s0.wp.com/latex.php?latex=%7Ba%5En+%3D+a+%5Chbox%7B+mod+%7D+n%7D&bg=ffffff&fg=000000&s=0) for all ![Image 256: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0) coprime to ![Image 257: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) (![Image 258: {561}](https://s0.wp.com/latex.php?latex=%7B561%7D&bg=ffffff&fg=000000&s=0) is the first example). So Fermat’s little theorem cannot be used, by itself, to establish primality for general ![Image 259: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), because it is too weak to eliminate all non-prime numbers. (The situation improves though for more special types of ![Image 260: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), such as Mersenne numbers; see [my earlier post on the Lucas-Lehmer test](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/) for more discussion.)
+
+However, there is a stronger version of Fermat’s little theorem which does eliminate all non-prime numbers. Specifically, if ![Image 261: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0) is prime and ![Image 262: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0) is arbitrary, then one has the polynomial identity [](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+
+[![Image 263: \displaystyle (X+a)^p = X^p + a \hbox{ mod } p \ \ \ \ \ (2)](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle++%28X%2Ba%29%5Ep+%3D+X%5Ep+%2B+a+%5Chbox%7B+mod+%7D+p+%5C+%5C+%5C+%5C+%5C+%282%29&bg=ffffff&fg=000000&s=0)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) where ![Image 264: {X}](https://s0.wp.com/latex.php?latex=%7BX%7D&bg=ffffff&fg=000000&s=0) is an indeterminate variable. (More formally, we have the identity ![Image 265: {(X+a)^p=X^p+a}](https://s0.wp.com/latex.php?latex=%7B%28X%2Ba%29%5Ep%3DX%5Ep%2Ba%7D&bg=ffffff&fg=000000&s=0) in the ring ![Image 266: {F_p[X]}](https://s0.wp.com/latex.php?latex=%7BF_p%5BX%5D%7D&bg=ffffff&fg=000000&s=0) of polynomials of one variable ![Image 267: {X}](https://s0.wp.com/latex.php?latex=%7BX%7D&bg=ffffff&fg=000000&s=0) over the finite field ![Image 268: {F_p}](https://s0.wp.com/latex.php?latex=%7BF_p%7D&bg=ffffff&fg=000000&s=0) of ![Image 269: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0) elements.) This identity (a manifestation of the [Frobenius endomorphism](http://en.wikipedia.org/wiki/Frobenius_endomorphism)) clearly implies [(1)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#flt) by setting ![Image 270: {X=0}](https://s0.wp.com/latex.php?latex=%7BX%3D0%7D&bg=ffffff&fg=000000&s=0); conversely, one can easily deduce [(2)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt) from [(1)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#flt) by expanding out ![Image 271: {(X+a)^p}](https://s0.wp.com/latex.php?latex=%7B%28X%2Ba%29%5Ep%7D&bg=ffffff&fg=000000&s=0) using the [binomial theorem](http://en.wikipedia.org/wiki/Binomial_theorem) and the observation that the binomial coefficients ![Image 272: {\binom{p}{i} = \frac{p \cdot \ldots \cdot (p-i+1)}{i!}}](https://s0.wp.com/latex.php?latex=%7B%5Cbinom%7Bp%7D%7Bi%7D+%3D+%5Cfrac%7Bp+%5Ccdot+%5Cldots+%5Ccdot+%28p-i%2B1%29%7D%7Bi%21%7D%7D&bg=ffffff&fg=000000&s=0) are divisible by ![Image 273: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0) for all ![Image 274: {1 \leq i < p}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+i+%3C+p%7D&bg=ffffff&fg=000000&s=0). Conversely, if [](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+
+[![Image 275: \displaystyle (X+a)^n = X^n + a \hbox{ mod } n \ \ \ \ \ (3)](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle++%28X%2Ba%29%5En+%3D+X%5En+%2B+a+%5Chbox%7B+mod+%7D+n+%5C+%5C+%5C+%5C+%5C+%283%29&bg=ffffff&fg=000000&s=0)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) (i.e. ![Image 276: {(X+a)^n = X^n+a}](https://s0.wp.com/latex.php?latex=%7B%28X%2Ba%29%5En+%3D+X%5En%2Ba%7D&bg=ffffff&fg=000000&s=0) in ![Image 277: {({\mathbb Z}/n{\mathbb Z})[X]}](https://s0.wp.com/latex.php?latex=%7B%28%7B%5Cmathbb+Z%7D%2Fn%7B%5Cmathbb+Z%7D%29%5BX%5D%7D&bg=ffffff&fg=000000&s=0)) for some ![Image 278: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0) coprime to ![Image 279: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), then by comparing coefficients using the binomial theorem we see that ![Image 280: {\binom{n}{i}}](https://s0.wp.com/latex.php?latex=%7B%5Cbinom%7Bn%7D%7Bi%7D%7D&bg=ffffff&fg=000000&s=0) is divisible by ![Image 281: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) for all ![Image 282: {1 \leq i < n}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+i+%3C+n%7D&bg=ffffff&fg=000000&s=0). But if ![Image 283: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is divisible by some smaller prime ![Image 284: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0), then by setting ![Image 285: {i}](https://s0.wp.com/latex.php?latex=%7Bi%7D&bg=ffffff&fg=000000&s=0) equal to the largest power of ![Image 286: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0) that divides ![Image 287: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), one sees that ![Image 288: {\binom{n}{i}}](https://s0.wp.com/latex.php?latex=%7B%5Cbinom%7Bn%7D%7Bi%7D%7D&bg=ffffff&fg=000000&s=0) is not divisible by enough powers of ![Image 289: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0) to be divisible by ![Image 290: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), a contradiction. Thus one can use [(3)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt-2) (for a single value of ![Image 291: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0) coprime to ![Image 292: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0)) to decide whether ![Image 293: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is prime or not.
+
+Unfortunately, this algorithm, while deterministic, is not polynomial-time, because the polynomial ![Image 294: {(X+a)^n}](https://s0.wp.com/latex.php?latex=%7B%28X%2Ba%29%5En%7D&bg=ffffff&fg=000000&s=0) has ![Image 295: {n+1}](https://s0.wp.com/latex.php?latex=%7Bn%2B1%7D&bg=ffffff&fg=000000&s=0) coefficients and will therefore take at least ![Image 296: {O(n)}](https://s0.wp.com/latex.php?latex=%7BO%28n%29%7D&bg=ffffff&fg=000000&s=0) time to compute. However, one can speed up the process by descending to a quotient ring of ![Image 297: {({\mathbb Z}/n{\mathbb Z})[X]}](https://s0.wp.com/latex.php?latex=%7B%28%7B%5Cmathbb+Z%7D%2Fn%7B%5Cmathbb+Z%7D%29%5BX%5D%7D&bg=ffffff&fg=000000&s=0), such as ![Image 298: {{\mathbb Z}/n{\mathbb Z}[X]/(X^r-1)}](https://s0.wp.com/latex.php?latex=%7B%7B%5Cmathbb+Z%7D%2Fn%7B%5Cmathbb+Z%7D%5BX%5D%2F%28X%5Er-1%29%7D&bg=ffffff&fg=000000&s=0) for some ![Image 299: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0). Clearly, if the identity ![Image 300: {(X+a)^n=X^n+a}](https://s0.wp.com/latex.php?latex=%7B%28X%2Ba%29%5En%3DX%5En%2Ba%7D&bg=ffffff&fg=000000&s=0) holds in ![Image 301: {({\mathbb Z}/n{\mathbb Z})[X]}](https://s0.wp.com/latex.php?latex=%7B%28%7B%5Cmathbb+Z%7D%2Fn%7B%5Cmathbb+Z%7D%29%5BX%5D%7D&bg=ffffff&fg=000000&s=0), then it will also hold in ![Image 302: {({\mathbb Z}/n{\mathbb Z})[X]/(X^r-1)}](https://s0.wp.com/latex.php?latex=%7B%28%7B%5Cmathbb+Z%7D%2Fn%7B%5Cmathbb+Z%7D%29%5BX%5D%2F%28X%5Er-1%29%7D&bg=ffffff&fg=000000&s=0), thus [](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+
+[![Image 303: \displaystyle (X+a)^n = X^n + a \hbox{ mod } n, X^r-1. \ \ \ \ \ (4)](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle++%28X%2Ba%29%5En+%3D+X%5En+%2B+a+%5Chbox%7B+mod+%7D+n%2C+X%5Er-1.+%5C+%5C+%5C+%5C+%5C+%284%29&bg=ffffff&fg=000000&s=0)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) The point of doing this is that (if ![Image 304: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) is not too large) the left-hand side of [(4)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt-3) can now be computed quickly (again by expanding ![Image 305: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) in binary and performing repeated squaring), because all polynomials can be reduced to be of degree less than ![Image 306: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0), rather than being as large as ![Image 307: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0). Indeed, if ![Image 308: {r = O( \log^{O(1)} n )}](https://s0.wp.com/latex.php?latex=%7Br+%3D+O%28+%5Clog%5E%7BO%281%29%7D+n+%29%7D&bg=ffffff&fg=000000&s=0), then one can test [(4)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt-3) in time ![Image 309: {O(\log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7BO%28%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=000000&s=0).
+
+We are not done yet, because it could happen that [(4)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt-3) holds but [(3)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt-2) fails. But we have the following key theorem:
+
+> **Theorem 1 (AKS theorem)**[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) Suppose that for all ![Image 310: {1 \leq a, r \leq O( \log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+a%2C+r+%5Cleq+O%28+%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=000000&s=0), [(4)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt-3) holds, and ![Image 311: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0) is coprime to ![Image 312: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0). Then ![Image 313: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is either a prime, or a power of a prime.
+
+Of course, coprimality of ![Image 314: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0) and ![Image 315: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) can be quickly tested using the [Euclidean algorithm](http://en.wikipedia.org/wiki/Euclidean_algorithm), and if coprimality fails then ![Image 316: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is of course composite. Also, it is easy to quickly test for the property that ![Image 317: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is a power of an integer (just compute the roots ![Image 318: {n^{1/k}}](https://s0.wp.com/latex.php?latex=%7Bn%5E%7B1%2Fk%7D%7D&bg=ffffff&fg=000000&s=0) for ![Image 319: {1 \leq k \leq \log_2 n}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+k+%5Cleq+%5Clog_2+n%7D&bg=ffffff&fg=000000&s=0)), and such powers are clearly composite. From all this (and [(2)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt), one soon sees that theorem gives rise to a deterministic polynomial-time test for primality. One can optimise the powers of ![Image 320: {\log n}](https://s0.wp.com/latex.php?latex=%7B%5Clog+n%7D&bg=ffffff&fg=000000&s=0) in the bounds for ![Image 321: {a,r}](https://s0.wp.com/latex.php?latex=%7Ba%2Cr%7D&bg=ffffff&fg=000000&s=0) (as is done in the [original paper](http://www.cse.iitk.ac.in/users/manindra/algebra/primality/_v6.pdf)), but we will not do so here to keep the exposition uncluttered.
+
+Actually, we don’t need [(4)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt-3) satisfied for all that many exponents ![Image 322: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) to make the theorem work; just one well-chosen ![Image 323: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) will do. More precisely, we have
+
+> **Theorem 2 (AKS theorem, key step)**[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) Let ![Image 324: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) be coprime to ![Image 325: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), and such that ![Image 326: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) has order greater than ![Image 327: {\log^2_2 n}](https://s0.wp.com/latex.php?latex=%7B%5Clog%5E2_2+n%7D&bg=ffffff&fg=000000&s=0) in the multiplicative group ![Image 328: {({\mathbb Z}/r{\mathbb Z})^\times}](https://s0.wp.com/latex.php?latex=%7B%28%7B%5Cmathbb+Z%7D%2Fr%7B%5Cmathbb+Z%7D%29%5E%5Ctimes%7D&bg=ffffff&fg=000000&s=0) (i.e. the residues ![Image 329: {n^i \hbox{ mod } r}](https://s0.wp.com/latex.php?latex=%7Bn%5Ei+%5Chbox%7B+mod+%7D+r%7D&bg=ffffff&fg=000000&s=0) for ![Image 330: {1 \leq i \leq \log^2 n}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+i+%5Cleq+%5Clog%5E2+n%7D&bg=ffffff&fg=000000&s=0) are distinct). Suppose that for all ![Image 331: {1 \leq a \leq O( r \log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+a+%5Cleq+O%28+r+%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=000000&s=0), [(4)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt-3) holds, and ![Image 332: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0) is coprime to ![Image 333: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0). Then ![Image 334: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is either a prime, or a power of a prime.
+
+To find an ![Image 335: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) with the above properties we have
+
+> **Lemma 3 (Existence of good ![Image 336: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0))**[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) There exists ![Image 337: {r = O(\log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7Br+%3D+O%28%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=000000&s=0) coprime to ![Image 338: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), such that ![Image 339: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) has order greater than ![Image 340: {\log^2_2 n}](https://s0.wp.com/latex.php?latex=%7B%5Clog%5E2_2+n%7D&bg=ffffff&fg=000000&s=0) in ![Image 341: {({\mathbb Z}/r{\mathbb Z})^\times}](https://s0.wp.com/latex.php?latex=%7B%28%7B%5Cmathbb+Z%7D%2Fr%7B%5Cmathbb+Z%7D%29%5E%5Ctimes%7D&bg=ffffff&fg=000000&s=0).
+
+_Proof:_ For each ![Image 342: {1 \leq i \leq \log^2_2 n}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+i+%5Cleq+%5Clog%5E2_2+n%7D&bg=ffffff&fg=000000&s=0), the number ![Image 343: {n^i - 1}](https://s0.wp.com/latex.php?latex=%7Bn%5Ei+-+1%7D&bg=ffffff&fg=000000&s=0) has at most ![Image 344: {O( \log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7BO%28+%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=000000&s=0) prime divisors (by the fundamental theorem of arithmetic). If one picks ![Image 345: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) to be the first prime not equal to any of these prime divisors, one obtains the claim. (One can use a crude version of the prime number theorem to get the upper bound on ![Image 346: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0).) ![Image 347: \Box](https://s0.wp.com/latex.php?latex=%5CBox&bg=ffffff&fg=000000&s=0)
+
+It is clear that Theorem [1](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#main) follows from Theorem [2](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#key) and Lemma [3](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#good), so it suffices now to prove Theorem [2](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#key).
+
+Suppose for contradiction that Theorem [2](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#key) fails. Then ![Image 348: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is divisible by some smaller prime ![Image 349: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0), but is not a power of ![Image 350: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0). Since ![Image 351: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is coprime to all numbers of size ![Image 352: {O(\log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7BO%28%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=000000&s=0) we know that ![Image 353: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0) is not of polylogarithmic size, thus we may assume ![Image 354: {p \geq \log^C n}](https://s0.wp.com/latex.php?latex=%7Bp+%5Cgeq+%5Clog%5EC+n%7D&bg=ffffff&fg=000000&s=0) for any fixed ![Image 355: {C}](https://s0.wp.com/latex.php?latex=%7BC%7D&bg=ffffff&fg=000000&s=0). As ![Image 356: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) is coprime to ![Image 357: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0), we see that ![Image 358: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) is not a multiple of ![Image 359: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0) (indeed, one should view ![Image 360: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0) as being much larger than ![Image 361: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0)).
+
+Let ![Image 362: {F}](https://s0.wp.com/latex.php?latex=%7BF%7D&bg=ffffff&fg=000000&s=0) be a field extension of ![Image 363: {F_p}](https://s0.wp.com/latex.php?latex=%7BF_p%7D&bg=ffffff&fg=000000&s=0) by a primitive ![Image 364: {r^{th}}](https://s0.wp.com/latex.php?latex=%7Br%5E%7Bth%7D%7D&bg=ffffff&fg=000000&s=0) root of unity ![Image 365: {X}](https://s0.wp.com/latex.php?latex=%7BX%7D&bg=ffffff&fg=000000&s=0), thus ![Image 366: {F = F_p[X]/h(X)}](https://s0.wp.com/latex.php?latex=%7BF+%3D+F_p%5BX%5D%2Fh%28X%29%7D&bg=ffffff&fg=000000&s=0) for some factor ![Image 367: {h(X)}](https://s0.wp.com/latex.php?latex=%7Bh%28X%29%7D&bg=ffffff&fg=000000&s=0) (in ![Image 368: {F_p[X]}](https://s0.wp.com/latex.php?latex=%7BF_p%5BX%5D%7D&bg=ffffff&fg=000000&s=0)) of the ![Image 369: {r^{th}}](https://s0.wp.com/latex.php?latex=%7Br%5E%7Bth%7D%7D&bg=ffffff&fg=000000&s=0)[cyclotomic polynomial](http://en.wikipedia.org/wiki/Cyclotomic_polynomial)![Image 370: {\Phi_r(X)}](https://s0.wp.com/latex.php?latex=%7B%5CPhi_r%28X%29%7D&bg=ffffff&fg=000000&s=0). From the hypothesis [(4)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt-3), we see that
+
+![Image 371: \displaystyle  (X+a)^n = X^n + a](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle++%28X%2Ba%29%5En+%3D+X%5En+%2B+a&bg=ffffff&fg=000000&s=0)
+
+in ![Image 372: {F}](https://s0.wp.com/latex.php?latex=%7BF%7D&bg=ffffff&fg=000000&s=0) for all ![Image 373: {1 \leq a \leq A}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+a+%5Cleq+A%7D&bg=ffffff&fg=000000&s=0), where ![Image 374: {A = O(r \log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7BA+%3D+O%28r+%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=000000&s=0). Note that ![Image 375: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is coprime to every integer less than ![Image 376: {A}](https://s0.wp.com/latex.php?latex=%7BA%7D&bg=ffffff&fg=000000&s=0), and thus ![Image 377: {A < p}](https://s0.wp.com/latex.php?latex=%7BA+%3C+p%7D&bg=ffffff&fg=000000&s=0).
+
+Meanwhile, from [(2)](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#pflt) one has
+
+![Image 378: \displaystyle  (X+a)^p = X^p + a](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle++%28X%2Ba%29%5Ep+%3D+X%5Ep+%2B+a&bg=ffffff&fg=000000&s=0)
+
+in ![Image 379: {F}](https://s0.wp.com/latex.php?latex=%7BF%7D&bg=ffffff&fg=000000&s=0) for all such ![Image 380: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=000000&s=0). The two equations give
+
+![Image 381: \displaystyle  (X^p+a)^{n/p} = (X^p)^{n/p} + a.](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle++%28X%5Ep%2Ba%29%5E%7Bn%2Fp%7D+%3D+%28X%5Ep%29%5E%7Bn%2Fp%7D+%2B+a.&bg=ffffff&fg=000000&s=0)
+
+Note that the ![Image 382: {p^{th}}](https://s0.wp.com/latex.php?latex=%7Bp%5E%7Bth%7D%7D&bg=ffffff&fg=000000&s=0) power ![Image 383: {X^p}](https://s0.wp.com/latex.php?latex=%7BX%5Ep%7D&bg=ffffff&fg=000000&s=0) of a primitive ![Image 384: {r^{th}}](https://s0.wp.com/latex.php?latex=%7Br%5E%7Bth%7D%7D&bg=ffffff&fg=000000&s=0) root of unity ![Image 385: {X}](https://s0.wp.com/latex.php?latex=%7BX%7D&bg=ffffff&fg=000000&s=0) is again a primitive ![Image 386: {r^{th}}](https://s0.wp.com/latex.php?latex=%7Br%5E%7Bth%7D%7D&bg=ffffff&fg=000000&s=0) root of unity (and conversely, every primitive ![Image 387: {r^{th}}](https://s0.wp.com/latex.php?latex=%7Br%5E%7Bth%7D%7D&bg=ffffff&fg=000000&s=0) root arises in this fashion) and hence we also have
+
+![Image 388: \displaystyle  (X+a)^{n/p} = X^{n/p} + a](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle++%28X%2Ba%29%5E%7Bn%2Fp%7D+%3D+X%5E%7Bn%2Fp%7D+%2B+a&bg=ffffff&fg=000000&s=0)
+
+in ![Image 389: {F}](https://s0.wp.com/latex.php?latex=%7BF%7D&bg=ffffff&fg=000000&s=0) for all ![Image 390: {1 \leq a \leq A}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+a+%5Cleq+A%7D&bg=ffffff&fg=000000&s=0).
+
+Inspired by this, we define a key concept: a positive integer ![Image 391: {m}](https://s0.wp.com/latex.php?latex=%7Bm%7D&bg=ffffff&fg=000000&s=0) is said to be _introspective_ if one has
+
+![Image 392: \displaystyle  (X+a)^m = X^m + a](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle++%28X%2Ba%29%5Em+%3D+X%5Em+%2B+a&bg=ffffff&fg=000000&s=0)
+
+in ![Image 393: {F}](https://s0.wp.com/latex.php?latex=%7BF%7D&bg=ffffff&fg=000000&s=0) for all ![Image 394: {1 \leq a \leq A}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+a+%5Cleq+A%7D&bg=ffffff&fg=000000&s=0), or equivalently if ![Image 395: {(X+a)^m=\phi_m(X+a)}](https://s0.wp.com/latex.php?latex=%7B%28X%2Ba%29%5Em%3D%5Cphi_m%28X%2Ba%29%7D&bg=ffffff&fg=000000&s=0), where ![Image 396: {\phi_m: F \rightarrow F}](https://s0.wp.com/latex.php?latex=%7B%5Cphi_m%3A+F+%5Crightarrow+F%7D&bg=ffffff&fg=000000&s=0) is the ring homomorphism that sends ![Image 397: {X}](https://s0.wp.com/latex.php?latex=%7BX%7D&bg=ffffff&fg=000000&s=0) to ![Image 398: {X^m}](https://s0.wp.com/latex.php?latex=%7BX%5Em%7D&bg=ffffff&fg=000000&s=0).
+
+We have just shown that ![Image 399: {p, n, n/p}](https://s0.wp.com/latex.php?latex=%7Bp%2C+n%2C+n%2Fp%7D&bg=ffffff&fg=000000&s=0) are all introspective; ![Image 400: {1}](https://s0.wp.com/latex.php?latex=%7B1%7D&bg=ffffff&fg=000000&s=0) is also trivially introspective. Furthermore, if ![Image 401: {m}](https://s0.wp.com/latex.php?latex=%7Bm%7D&bg=ffffff&fg=000000&s=0) and ![Image 402: {m'}](https://s0.wp.com/latex.php?latex=%7Bm%27%7D&bg=ffffff&fg=000000&s=0) are introspective, it is not hard to see that ![Image 403: {mm'}](https://s0.wp.com/latex.php?latex=%7Bmm%27%7D&bg=ffffff&fg=000000&s=0) is also introspective. Thus we in fact have a lot of introspective integers: any number of the form ![Image 404: {p^i (n/p)^j}](https://s0.wp.com/latex.php?latex=%7Bp%5Ei+%28n%2Fp%29%5Ej%7D&bg=ffffff&fg=000000&s=0) for ![Image 405: {i,j \geq 0}](https://s0.wp.com/latex.php?latex=%7Bi%2Cj+%5Cgeq+0%7D&bg=ffffff&fg=000000&s=0) is introspective.
+
+It turns out in fact that it is not possible to create so many different introspective numbers, basically the presence of so many polynomial identities in the field would eventually violate the [factor theorem](http://en.wikipedia.org/wiki/Factor_theorem). To see this, let ![Image 406: {{\mathcal G} \subset F^\times}](https://s0.wp.com/latex.php?latex=%7B%7B%5Cmathcal+G%7D+%5Csubset+F%5E%5Ctimes%7D&bg=ffffff&fg=000000&s=0) be the multiplicative group generated by the quantities ![Image 407: {X+a}](https://s0.wp.com/latex.php?latex=%7BX%2Ba%7D&bg=ffffff&fg=000000&s=0) for ![Image 408: {1 \leq a \leq A}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+a+%5Cleq+A%7D&bg=ffffff&fg=000000&s=0). Observe that ![Image 409: {z^m = \phi_m(z)}](https://s0.wp.com/latex.php?latex=%7Bz%5Em+%3D+%5Cphi_m%28z%29%7D&bg=ffffff&fg=000000&s=0) for all ![Image 410: {z \in {\mathcal G}}](https://s0.wp.com/latex.php?latex=%7Bz+%5Cin+%7B%5Cmathcal+G%7D%7D&bg=ffffff&fg=000000&s=0). We now show that this places incompatible lower and upper bounds on ![Image 411: {{\mathcal G}}](https://s0.wp.com/latex.php?latex=%7B%7B%5Cmathcal+G%7D%7D&bg=ffffff&fg=000000&s=0). We begin with the lower bound:
+
+> **Proposition 4 (Lower bound on ![Image 412: {{\mathcal G}}](https://s0.wp.com/latex.php?latex=%7B%7B%5Cmathcal+G%7D%7D&bg=ffffff&fg=000000&s=0))**[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)![Image 413: {|{\mathcal G}| \geq 2^t}](https://s0.wp.com/latex.php?latex=%7B%7C%7B%5Cmathcal+G%7D%7C+%5Cgeq+2%5Et%7D&bg=ffffff&fg=000000&s=0).
+
+_Proof:_ Let ![Image 414: {P(X)}](https://s0.wp.com/latex.php?latex=%7BP%28X%29%7D&bg=ffffff&fg=000000&s=0) be a product of less than ![Image 415: {t}](https://s0.wp.com/latex.php?latex=%7Bt%7D&bg=ffffff&fg=000000&s=0) of the quantities ![Image 416: {X+1,\ldots,X+A}](https://s0.wp.com/latex.php?latex=%7BX%2B1%2C%5Cldots%2CX%2BA%7D&bg=ffffff&fg=000000&s=0) (allowing repetitions), then ![Image 417: {P(X)}](https://s0.wp.com/latex.php?latex=%7BP%28X%29%7D&bg=ffffff&fg=000000&s=0) lies in ![Image 418: {{\mathcal G}}](https://s0.wp.com/latex.php?latex=%7B%7B%5Cmathcal+G%7D%7D&bg=ffffff&fg=000000&s=0). Since ![Image 419: {A \geq 2r \geq 2t}](https://s0.wp.com/latex.php?latex=%7BA+%5Cgeq+2r+%5Cgeq+2t%7D&bg=ffffff&fg=000000&s=0), there are certainly at least ![Image 420: {2^t}](https://s0.wp.com/latex.php?latex=%7B2%5Et%7D&bg=ffffff&fg=000000&s=0) ways to pick such a product. So to establish the proposition it suffices to show that all these products are distinct.
+
+Suppose for contradiction that ![Image 421: {P(X)=Q(X)}](https://s0.wp.com/latex.php?latex=%7BP%28X%29%3DQ%28X%29%7D&bg=ffffff&fg=000000&s=0), where ![Image 422: {P,Q}](https://s0.wp.com/latex.php?latex=%7BP%2CQ%7D&bg=ffffff&fg=000000&s=0) are different products of less than ![Image 423: {t}](https://s0.wp.com/latex.php?latex=%7Bt%7D&bg=ffffff&fg=000000&s=0) of the ![Image 424: {X+1,\ldots,X+A}](https://s0.wp.com/latex.php?latex=%7BX%2B1%2C%5Cldots%2CX%2BA%7D&bg=ffffff&fg=000000&s=0). Then, for every introspective ![Image 425: {m}](https://s0.wp.com/latex.php?latex=%7Bm%7D&bg=ffffff&fg=000000&s=0), ![Image 426: {P(X^m)=Q(X^m)}](https://s0.wp.com/latex.php?latex=%7BP%28X%5Em%29%3DQ%28X%5Em%29%7D&bg=ffffff&fg=000000&s=0) as well (note that ![Image 427: {P(X^m) = \phi_m(P(X))}](https://s0.wp.com/latex.php?latex=%7BP%28X%5Em%29+%3D+%5Cphi_m%28P%28X%29%29%7D&bg=ffffff&fg=000000&s=0)). In particular, this shows that ![Image 428: {X^{m_1},\ldots,X^{m_t}}](https://s0.wp.com/latex.php?latex=%7BX%5E%7Bm_1%7D%2C%5Cldots%2CX%5E%7Bm_t%7D%7D&bg=ffffff&fg=000000&s=0) are all roots of the polynomial ![Image 429: {P-Q}](https://s0.wp.com/latex.php?latex=%7BP-Q%7D&bg=ffffff&fg=000000&s=0). But this polynomial has degree less than ![Image 430: {t}](https://s0.wp.com/latex.php?latex=%7Bt%7D&bg=ffffff&fg=000000&s=0), and the ![Image 431: {X^{m_1},\ldots,X^{m_t}}](https://s0.wp.com/latex.php?latex=%7BX%5E%7Bm_1%7D%2C%5Cldots%2CX%5E%7Bm_t%7D%7D&bg=ffffff&fg=000000&s=0) are distinct by hypothesis, and we obtain the desired contradiction by the factor theorem. ![Image 432: \Box](https://s0.wp.com/latex.php?latex=%5CBox&bg=ffffff&fg=000000&s=0)
+
+> **Proposition 5 (Upper bound on ![Image 433: {{\mathcal G}}](https://s0.wp.com/latex.php?latex=%7B%7B%5Cmathcal+G%7D%7D&bg=ffffff&fg=000000&s=0))**[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) Suppose that there are exactly ![Image 434: {t}](https://s0.wp.com/latex.php?latex=%7Bt%7D&bg=ffffff&fg=000000&s=0) residue classes modulo ![Image 435: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) of the form ![Image 436: {p^i (n/p)^j \hbox{ mod } r}](https://s0.wp.com/latex.php?latex=%7Bp%5Ei+%28n%2Fp%29%5Ej+%5Chbox%7B+mod+%7D+r%7D&bg=ffffff&fg=000000&s=0) for ![Image 437: {i,j \geq 0}](https://s0.wp.com/latex.php?latex=%7Bi%2Cj+%5Cgeq+0%7D&bg=ffffff&fg=000000&s=0). Then ![Image 438: {|{\mathcal G}| \leq n^{\sqrt{t}}}](https://s0.wp.com/latex.php?latex=%7B%7C%7B%5Cmathcal+G%7D%7C+%5Cleq+n%5E%7B%5Csqrt%7Bt%7D%7D%7D&bg=ffffff&fg=000000&s=0).
+
+_Proof:_ By the pigeonhole principle, we must have a collision
+
+![Image 439: \displaystyle p^i (n/p)^j = p^{i'} (n/p)^{j'} \hbox{ mod } r](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle+p%5Ei+%28n%2Fp%29%5Ej+%3D+p%5E%7Bi%27%7D+%28n%2Fp%29%5E%7Bj%27%7D+%5Chbox%7B+mod+%7D+r&bg=ffffff&fg=000000&s=0)
+
+for some ![Image 440: {0 \leq i,j,i',j' \leq \sqrt{t}}](https://s0.wp.com/latex.php?latex=%7B0+%5Cleq+i%2Cj%2Ci%27%2Cj%27+%5Cleq+%5Csqrt%7Bt%7D%7D&bg=ffffff&fg=000000&s=0) with ![Image 441: {(i,j) \neq (i',j')}](https://s0.wp.com/latex.php?latex=%7B%28i%2Cj%29+%5Cneq+%28i%27%2Cj%27%29%7D&bg=ffffff&fg=000000&s=0). Setting ![Image 442: {m := p^i (n/p)^j}](https://s0.wp.com/latex.php?latex=%7Bm+%3A%3D+p%5Ei+%28n%2Fp%29%5Ej%7D&bg=ffffff&fg=000000&s=0) and ![Image 443: {m' := p^{i'} (n/p)^{j'}}](https://s0.wp.com/latex.php?latex=%7Bm%27+%3A%3D+p%5E%7Bi%27%7D+%28n%2Fp%29%5E%7Bj%27%7D%7D&bg=ffffff&fg=000000&s=0), we thus see that there are two distinct introspective numbers ![Image 444: {m,m'}](https://s0.wp.com/latex.php?latex=%7Bm%2Cm%27%7D&bg=ffffff&fg=000000&s=0) of size most ![Image 445: {n^{\sqrt{t}}}](https://s0.wp.com/latex.php?latex=%7Bn%5E%7B%5Csqrt%7Bt%7D%7D%7D&bg=ffffff&fg=000000&s=0) which are equal modulo ![Image 446: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0). (To ensure that ![Image 447: {m,m'}](https://s0.wp.com/latex.php?latex=%7Bm%2Cm%27%7D&bg=ffffff&fg=000000&s=0) are distinct, we use the hypothesis that ![Image 448: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) is not a power of ![Image 449: {p}](https://s0.wp.com/latex.php?latex=%7Bp%7D&bg=ffffff&fg=000000&s=0).) This implies that ![Image 450: {\phi_m = \phi_{m'}}](https://s0.wp.com/latex.php?latex=%7B%5Cphi_m+%3D+%5Cphi_%7Bm%27%7D%7D&bg=ffffff&fg=000000&s=0), and thus ![Image 451: {z^m = z^{m'}}](https://s0.wp.com/latex.php?latex=%7Bz%5Em+%3D+z%5E%7Bm%27%7D%7D&bg=ffffff&fg=000000&s=0) for all ![Image 452: {z \in {\mathcal G}}](https://s0.wp.com/latex.php?latex=%7Bz+%5Cin+%7B%5Cmathcal+G%7D%7D&bg=ffffff&fg=000000&s=0). But the polynomial ![Image 453: {z^m - z^{m'}}](https://s0.wp.com/latex.php?latex=%7Bz%5Em+-+z%5E%7Bm%27%7D%7D&bg=ffffff&fg=000000&s=0) has degree at most ![Image 454: {n^{\sqrt{t}}}](https://s0.wp.com/latex.php?latex=%7Bn%5E%7B%5Csqrt%7Bt%7D%7D%7D&bg=ffffff&fg=000000&s=0), and the claim now follows from the factor theorem. ![Image 455: \Box](https://s0.wp.com/latex.php?latex=%5CBox&bg=ffffff&fg=000000&s=0)
+
+Since ![Image 456: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=000000&s=0) has order greater than ![Image 457: {\log^2 n}](https://s0.wp.com/latex.php?latex=%7B%5Clog%5E2+n%7D&bg=ffffff&fg=000000&s=0) in ![Image 458: {({\mathbb Z}/r{\mathbb Z})^\times}](https://s0.wp.com/latex.php?latex=%7B%28%7B%5Cmathbb+Z%7D%2Fr%7B%5Cmathbb+Z%7D%29%5E%5Ctimes%7D&bg=ffffff&fg=000000&s=0), we see that the number ![Image 459: {t}](https://s0.wp.com/latex.php?latex=%7Bt%7D&bg=ffffff&fg=000000&s=0) of residue classes ![Image 460: {r}](https://s0.wp.com/latex.php?latex=%7Br%7D&bg=ffffff&fg=000000&s=0) of the form ![Image 461: {p^i (n/p)^j}](https://s0.wp.com/latex.php?latex=%7Bp%5Ei+%28n%2Fp%29%5Ej%7D&bg=ffffff&fg=000000&s=0) is at least ![Image 462: {\log^2 n}](https://s0.wp.com/latex.php?latex=%7B%5Clog%5E2+n%7D&bg=ffffff&fg=000000&s=0). But then ![Image 463: {2^t > n^{\sqrt{t}}}](https://s0.wp.com/latex.php?latex=%7B2%5Et+%3E+n%5E%7B%5Csqrt%7Bt%7D%7D%7D&bg=ffffff&fg=000000&s=0), and so Propositions [4](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#lower), [5](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#upper) are incompatible.
+
+_Update, Aug 12_: A thorough discussion of the AKS algorithm by Andrew Granville for Bull. Amer. Math. Soc. can be found [here](http://www.dms.umontreal.ca/~andrew/PDF/Bulletin04.pdf).
+
+### Share this:
+
+*   [Print](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#print "Click to print")
+*   [Email](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?share=email&nb=1 "Click to email")
+*   [More](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#)
+
+*   [Twitter](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?share=twitter&nb=1 "Click to share on Twitter")
+*   [Facebook](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?share=facebook&nb=1 "Share on Facebook")
+
+*   [Reddit](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?share=reddit&nb=1 "Click to share on Reddit")
+*   [Google](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?share=google-plus-1&nb=1 "Click to share on Google+")
+
+*   [Pinterest](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?share=pinterest&nb=1 "Click to share on Pinterest")
+
+### Like this:
+
+Like Loading...
+
+[](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+
+### Recent Comments
+
+[![Image 464: A 32x32 small image, likely a logo, icon or avatar](https://secure.gravatar.com/blavatar/ff0d19ae625ec2c59c676536fa7001e7?s=32)](https://unikllib.wordpress.com/2018/01/19/apa-citation-style-some-examples/)[APA citation style…](https://unikllib.wordpress.com/2018/01/19/apa-citation-style-some-examples/) on [Write in your own voice](https://terrytao.wordpress.com/2010/04/21/write-in-your-own-voice/#comment-491507)
+[](https://radimentary.wordpress.com/2018/01/18/singularity-mindset/)[Singularity Mindset…](https://radimentary.wordpress.com/2018/01/18/singularity-mindset/) on [There’s more to mathematics th…](https://terrytao.wordpress.com/career-advice/there%e2%80%99s-more-to-mathematics-than-rigour-and-proofs/#comment-491499)
+[](https://noncommutativeanalysis.wordpress.com/2018/01/18/souvenirs-from-san-diego/)[Souvenirs from San D…](https://noncommutativeanalysis.wordpress.com/2018/01/18/souvenirs-from-san-diego/) on [An airport-inspired puzzle](https://terrytao.wordpress.com/2008/12/09/an-airport-inspired-puzzle/#comment-491489)
+[](https://vinceatrio.wordpress.com/2018/01/18/throw-aways-and-stow-aways/)[Throw Aways and Stow…](https://vinceatrio.wordpress.com/2018/01/18/throw-aways-and-stow-aways/) on [Write down what you’ve…](https://terrytao.wordpress.com/career-advice/write-down-what-youve-done/#comment-491486)
+![Image 465: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/2f9b73482cd4e046902861b4207d5f51?s=32&d=identicon&r=PG)Anton Rasmussen on [Stickiness, graininess, planin…](https://terrytao.wordpress.com/2014/05/07/stickiness-graininess-planiness-and-a-sum-product-approach-to-the-kakeya-problem/#comment-491470)
+[![Image 466: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/3c795880f3b73784a9b75fbff3772701?s=32&d=identicon&r=PG)](http://www.math.ucla.edu/~tao)[Terence Tao](http://www.math.ucla.edu/~tao) on [Open question: boundedness of…](https://terrytao.wordpress.com/2007/05/10/open-question-boundedness-of-the-trilinear-hilbert-transform/#comment-491466)
+[![Image 467: A 32x32 small image, likely a logo, icon or avatar](https://zzy1999.files.wordpress.com/2017/04/cropped-e4b88be8bdbd.png?w=32)](https://zzy1999.wordpress.com/2018/01/16/poisson-distribution-in-prime-number-theory/)[Poisson Distribution…](https://zzy1999.wordpress.com/2018/01/16/poisson-distribution-in-prime-number-theory/) on [254A, Supplement 4: Probabilis…](https://terrytao.wordpress.com/2015/01/04/254a-supplement-4-probabilistic-models-and-heuristics-for-the-primes-optional/#comment-491465)
+[![Image 468: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/fe9aa5ec6421be11fa7c98b2a6a98932?s=32&d=identicon&r=PG)](http://www.math.ubc.ca/~lior/)[Lior Silberman](http://www.math.ubc.ca/~lior/) on [Homogeneous length functions o…](https://terrytao.wordpress.com/2018/01/11/homogeneous-length-functions-on-groups/#comment-491462)
+[![Image 469: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/fe9aa5ec6421be11fa7c98b2a6a98932?s=32&d=identicon&r=PG)](http://www.math.ubc.ca/~lior/)[Lior Silberman](http://www.math.ubc.ca/~lior/) on [Homogeneous length functions o…](https://terrytao.wordpress.com/2018/01/11/homogeneous-length-functions-on-groups/#comment-491460)
+![Image 470: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)Anonymous on [Open question: boundedness of…](https://terrytao.wordpress.com/2007/05/10/open-question-boundedness-of-the-trilinear-hilbert-transform/#comment-491459)
+[![Image 471: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/faf30a275d2cd73e8af95cefc9266108?s=32&d=identicon&r=PG)](https://www.dpmms.cam.ac.uk/people/jb128/)[J Button](https://www.dpmms.cam.ac.uk/people/jb128/) on [Homogeneous length functions o…](https://terrytao.wordpress.com/2018/01/11/homogeneous-length-functions-on-groups/#comment-491458)
+![Image 472: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/21cceafe62a5bc0ba527cb1a461fda77?s=32&d=identicon&r=PG)Push on [A geometric proof of the impos…](https://terrytao.wordpress.com/2011/08/10/a-geometric-proof-of-the-impossibility-of-angle-trisection-by-straightedge-and-compass/#comment-491457)
+[![Image 473: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/82b17fdbe20379267bcc42be32376e08?s=32&d=identicon&r=PG)](http://personal-homepages.mis.mpg.de/fritz/)[Tobias Fritz](http://personal-homepages.mis.mpg.de/fritz/) on [Homogeneous length functions o…](https://terrytao.wordpress.com/2018/01/11/homogeneous-length-functions-on-groups/#comment-491456)
+[![Image 474: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/faf30a275d2cd73e8af95cefc9266108?s=32&d=identicon&r=PG)](https://www.dpmms.cam.ac.uk/people/jb128/)[J Button](https://www.dpmms.cam.ac.uk/people/jb128/) on [Homogeneous length functions o…](https://terrytao.wordpress.com/2018/01/11/homogeneous-length-functions-on-groups/#comment-491455)
+[![Image 475: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/3c795880f3b73784a9b75fbff3772701?s=32&d=identicon&r=PG)](http://www.math.ucla.edu/~tao)[Terence Tao](http://www.math.ucla.edu/~tao) on [Open question: boundedness of…](https://terrytao.wordpress.com/2007/05/10/open-question-boundedness-of-the-trilinear-hilbert-transform/#comment-491423)
+
+### Articles by others
+
+*   [Gene Weingarten – Pearls before breakfast](http://www.washingtonpost.com/wp-dyn/content/article/2007/04/04/AR2007040401721.html)
+*   [Isaac Asimov – The relativity of wrong](http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm)
+*   [Jonah Lehrer – Don't! – the secret of self-control](http://www.newyorker.com/reporting/2009/05/18/090518fa_fact_lehrer?currentPage=all "The marshmallow experiment")
+*   [Julianne Dalcanton – The cult of genius](http://blogs.discovermagazine.com/cosmicvariance/2007/02/25/the-cult-of-genius/)
+*   [Nassim Taleb – The fourth quadrant: a map of the limits of statistics](http://www.edge.org/3rd_culture/taleb08/taleb08_index.html)
+*   [Paul Graham – What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
+*   [Po Bronson – How not to talk to your kids](http://nymag.com/news/features/27840/)
+*   [Scott Aaronson – Ten signs a claimed mathematical proof is wrong](http://scottaaronson.com/blog/?p=304)
+*   [Timothy Gowers – Elsevier — my part in its downfall](http://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/)
+*   [Timothy Gowers – The two cultures of mathematics](http://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
+*   [William Thurston – On proof and progress in mathematics](http://arxiv.org/abs/math.HO/9404236)
+
+### Diversions
+
+*   [Abstruse Goose](http://abstrusegoose.com/)
+*   [Assembler](http://www.gamereclaim.com/2008/10/128/ "A game with real-world physics")
+*   [BoxCar2D](http://boxcar2d.com/ "Genetic Algorithm Car Evolution Using Box2D Physics")
+*   [Factcheck.org](http://www.factcheck.org/)
+*   [FiveThirtyEight](http://www.fivethirtyeight.com/ "Politics done right")
+*   [Gapminder](http://www.gapminder.org/ "A good example of the power of graphical presentation software")
+*   [Literally Unbelievable](http://literallyunbelievable.org/ "Stories from The Onion as interpreted by Facebook")
+*   [Planarity](http://www.planarity.net/ "A simple game based on planar graphs")
+*   [PolitiFact](http://politifact.com/truth-o-meter/ "Sorting out the truth in politics")
+*   [Quite Interesting](http://www.qi.com/ "An eclectic quiz show, hosted by Stephen Fry.")
+*   [snopes](http://www.snopes.com/ "Urban legends reference pages")
+*   [Strange maps](http://strangemaps.wordpress.com/)
+*   [Television tropes and idioms](http://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes "A wiki for standardised tropes in storytelling, especially in television")
+*   [The Economist](http://www.economist.com/ "Analysis of world business and current affairs")
+*   [The Onion](http://www.theonion.com/content/index "America’s finest news source")
+*   [The Straight Dope](http://www.straightdope.com/ "Fighting ignorance since 1973")
+*   [This American Life on the financial crisis I](http://www.thislife.org/Radio_Episode.aspx?episode=355 "An hour in length, but well worth it")
+*   [This American Life on the financial crisis II](http://www.thislife.org/Radio_Episode.aspx?sched=1263 "Another hour in length, but also well worth it")
+*   [What if? (xkcd)](http://what-if.xkcd.com/ "Answering your hypothetical questions with physics.  Every Tuesday.")
+*   [White whine](http://whitewhine.com/ "A collection of first-world problems, updated daily.")
+*   [xkcd](http://www.xkcd.com/ "A webcomic of romance, sarcasm, math, and language")
+
+### Mathematics
+
+*   [0xDE](https://11011110.github.io/blog/ "David Eppstein’s blog")
+*   [A Mind for Madness](http://hilbertthm90.wordpress.com/ "Musings on art, philosophy, mathematics, and physics")
+*   [A Portion of the Book](http://mzargar.wordpress.com/ "Olympiad level mathematical problems")
+*   [Absolutely useless](http://sunejakobsen.wordpress.com/)
+*   [Alex Sisto](http://alexsisto.wordpress.com/ "Alessandro Sisto’s math blog")
+*   [AMS blogs](http://blogs.ams.org/ "Blogs offered by or in cooperation with the American Mathematical Society")
+*   [AMS Graduate Student Blog](http://mathgradblog.williams.edu/ "by and for math grad students")
+*   [Analysis & PDE](http://pjm.math.berkeley.edu/apde/about/journal/about.html "A new journal in analysis & PDE (I am one of the editors), run by and for mathematicians")
+*   [Analysis & PDE Conferences](http://tosio.math.utoronto.ca/wiki/index.php/Conferences "A list of upcoming conferences in analysis & PDE")
+*   [Annoying Precision](http://qchu.wordpress.com/ "Mathematicians are annoyingly precise.")
+*   [Area 777](http://conan777.wordpress.com/ "Conan Wu’s mathematical blog")
+*   [Ars Mathematica](http://www.arsmathematica.net/ "Dedicated to the mathematical arts.")
+*   [ATLAS of Finite Group Representations](http://brauer.maths.qmul.ac.uk/Atlas/v3/)
+*   [Automorphic forum](http://automorphicforum.wordpress.com/ "Automorphic forms, number theory, representation theory, algebraic geometry, and other mathematics")
+*   [Avzel's journal](http://avzel.blogspot.com/ "Andrei Zelevinsky’s blog (in Russian)")
+*   [Blog on Math Blogs](http://blogs.ams.org/blogonmathblogs/ "Two mathematicians tour the mathematical blogosphere (hosted by the American Mathematical Society)")
+*   [Blog On Mathematical Journals](http://blog.mathunion.org/journals/?no_cache=1 "Run by the International Mathematical Union.")
+*   [blogderbeweise](https://blogderbeweise.wordpress.com/ "This one is from the book !")
+*   [Bubbles Bad; Ripples Good](http://williewong.wordpress.com/)
+*   [Cédric Villani](http://cedricvillani.org/)
+*   [Climbing Mount Bourbaki](http://amathew.wordpress.com/ "Thoughts on mathematics")
+*   [Coloquio Oleis](http://coloquiooleis.wordpress.com/ "los seguidores de Manolo (Spanish)")
+*   [Combinatorics and more](http://gilkalai.wordpress.com/ "Gil Kalai’s blog")
+*   [Compressed sensing resources](http://www.compressedsensing.com/ "Maintained by Rice university")
+*   [Computational Complexity](http://weblog.fortnow.com/ "by Lance Fortnow and Bill Gasarch")
+*   [Concrete nonsense](http://concretenonsense.wordpress.com/ "A group blog about mathematics")
+*   [David Mumford's blog](http://www.dam.brown.edu/people/mumford/blog.html)
+*   [Delta epsilons](http://deltaepsilons.wordpress.com/ "Mathematical research and problem solving")
+*   [DispersiveWiki](http://tosio.math.toronto.edu/wiki/index.php/Main_Page "A wiki for nonlinear dispersive and wave equations")
+*   [Disquisitiones Mathematicae](http://matheuscmss.wordpress.com/ "Carlos Matheus’ blog")
+*   [Embûches tissues](http://embuchestissues.wordpress.com/)
+*   [Emmanuel Kowalski’s blog](http://blogs.ethz.ch/kowalski/ "Emmanuel Kowalski’s blog")
+*   [Encyclopedia of Mathematics](http://www.encyclopediaofmath.org/index.php/Main_Page "A wiki run by Springer and the EMS")
+*   [Equatorial Mathematics](http://equatorialmaths.wordpress.com/ "Mathematics, teaching, brain meltdown")
+*   [fff](https://ffbandf.wordpress.com/ "Forking, Forcing and back&Forthing")
+*   [Floer Homology](http://floerhomology.wordpress.com/ "Michael Hutchings’ blog")
+*   [Frank Morgan’s blog](http://blogs.williams.edu/Morgan/ "Math, Teaching, and Other Items of Interest")
+*   [Gérard Besson's Blog](http://gerardbesson.wordpress.com/)
+*   [Gödel’s Lost Letter and P=NP](http://rjlipton.wordpress.com/ "http://rjlipton.wordpress.com/")
+*   [Geometric Group Theory](http://392c.wordpress.com/ "Residual finiteness and word-hyperbolic groups")
+*   [Geometry and the imagination](http://lamington.wordpress.com/ "Geometry, explored in examples; and commentary on recent developments (by Danny Calegari)")
+*   [Geometry Bulletin Board](http://burttotaro.wordpress.com/)
+*   [Girl's Angle](http://girlsangle.wordpress.com/ "A Math Club for Girls")
+*   [God Plays Dice](http://godplaysdice.blogspot.com/ "A random walk through mathematics — mostly through the random part.")
+*   [Good Math, Bad Math](http://scientopia.org/blogs/goodmath/ "Finding the fun in good math; squashing bad math and the fools who promote it")
+*   [Graduated Understanding](http://damekdavis.wordpress.com/ "Damek Davis’ blog")
+*   [Hydrobates](http://alanrendall.wordpress.com/ "Alan Rendall’s blog")
+*   [I Woke Up In A Strange Place](http://yannisparissis.wordpress.com/ "A day in the life of a mathematician. From an analysis point of view.")
+*   [Igor Pak's blog](http://igorpak.wordpress.com/ "Views on life and math")
+*   [Images des mathématiques](http://images.math.cnrs.fr/ "La recherches mathématiques en mots et en images (in French)")
+*   [In theory](http://lucatrevisan.wordpress.com/ "Luca Trevisan’s blog")
+*   [James Colliander's Blog](http://blog.math.toronto.edu/colliand/)
+*   [Jérôme Buzzi’s Mathematical Ramblings](http://jbuzzi.wordpress.com/)
+*   [Joel David Hamkins](http://jdh.hamkins.org/ "mathematics and philosophy of the infinite")
+*   [Journal of the American Mathematical Society](http://www.ams.org/jams/ "A premier journal in mathematics;I am one of the editors")
+*   [Kill Math](http://worrydream.com/#!/KillMath "Mathematical visualization applets and essays by Bret Victor")
+*   [Le Petit Chercheur Illustré](http://yetaspblog.wordpress.com/ "Yet Another Signal Processing (and Applied Math) blog")
+*   [Lemma Meringue](http://lemmameringue.wordpress.com/ "The proof is in the pudding")
+*   [Lewko's blog](http://lewko.wordpress.com/)
+*   [Libres pensées d’un mathématicien ordinaire](http://blog.djalil.chafai.net/ "WordPress weblog of Djalil Chafaï")
+*   [LMFDB – L-functions and modular forms database](http://www.lmfdb.org/ "database of L-functions, modular forms, and related objects")
+*   [LMS blogs page](http://www.lms.ac.uk/content/lms-blogs-page)
+*   [London number theory](http://londonnumbertheory.wordpress.com/ "Things for number theorists to do in London")
+*   [Low Dimensional Topology](http://ldtopology.wordpress.com/ "Recent Progress and Open Problems")
+*   [M-Phi](http://m-phi.blogspot.com/ "A blog dedicated to mathematical philosophy.")
+*   [MAA MinuteMath](http://maaminutemath.blogspot.com/ "Daily problems from the AMC")
+*   [Mark Sapir's blog](https://marksapir.wordpress.com/ "A blog about math")
+*   [Math Overflow](http://mathoverflow.net/)
+*   [Mathbabe](http://mathbabe.wordpress.com/ "Exploring and venting about quantitative issues")
+*   [Mathblogging](http://www.mathblogging.org/ "An aggregator for maths blogs")
+*   [Mathematical musings](http://matthewkahle.wordpress.com/ "Mathematical musings, a place for informal mathematical writings: expository, puzzles, art, and open problems. By Matthew Kahle.")
+*   [Mathematics Illuminated](http://www.learner.org/courses/mathilluminated/ "A thirteen-part series for adult learners and high school teachers")
+*   [Mathematics in Australia](http://austmaths.wordpress.com/ "Current issues, news, and events in Australian mathematical research and education")
+*   [Mathematics Jobs Wiki](http://notable.math.ucdavis.edu/wiki/Mathematics_Jobs_Wiki "Rumours and authoritative information about the mathematics jobs market")
+*   [Mathematics Stack Exchange](http://math.stackexchange.com/)
+*   [Mathematics under the Microscope](http://micromath.wordpress.com/ "Atomic objects, structures and concepts of mathematics")
+*   [Mathematics without apologies](https://mathematicswithoutapologies.wordpress.com/ "An unapologetic guided tour of the mathematical life, by Michael Harris")
+*   [Mathlog](http://www.scienceblogs.de/mathlog/ "Thilo Kuessner’s blog (in German)")
+*   [MathOnline](http://mathonline.andreaferretti.it/)
+*   [Mathtube](http://www.mathtube.org/)
+*   [Matt Baker's Math Blog](http://mattbakerblog.wordpress.com/ "Thoughts on number theory, graphs, dynamical systems, tropical geometry, pedagogy, puzzles, and the p-adics")
+*   [Mixedmath](http://mixedmath.wordpress.com/)
+*   [Motivic stuff](http://homotopical.wordpress.com/ "Cohomology in algebraic geometry")
+*   [Much ado about nothing](http://muchado.blogli.co.il/ "On mathematics and other animals (in Hebrew)")
+*   [Multiple Choice Quiz Wiki](http://scherk.pbwiki.com/ "A wiki for online multiple choice quizzes")
+*   [nLab](http://ncatlab.org/nlab/show/HomePage "Collaborative work on Mathematics, Physics and Philosophy")
+*   [Noncommutative geometry blog](http://noncommutativegeometry.blogspot.com/ "A group blog by several mathematicians, including Alain Connes")
+*   [Nonlocal equations wiki](http://www.ma.utexas.edu/mediawiki/index.php/Starting_page)
+*   [Nuit-blanche](http://nuit-blanche.blogspot.com/ "Focused on technical issues in compressed sensing and related topics")
+*   [Number theory web](http://www.numbertheory.org/ "Resources for number theorists")
+*   [outofprintmath](http://outofprintmath.blogspot.com/ "Bringing out-of-print math books into print – Vote for which book you would like to see come back into print")
+*   [Pattern of Ideas](https://patternsofideas.wordpress.com/)
+*   [PDE blog](http://partialdifferentialequations.wordpress.com/ "a web log discussing topics in partial differential equations as seen from the sophomoric perspective of a mathematician fresh out of grad school")
+*   [Pengfei Zhang's blog](http://pfzhang.wordpress.com/ "Discussions related to Dynamics")
+*   [Persiflage](https://galoisrepresentations.wordpress.com/ "Galois Representations and more!")
+*   [Peter Cameron's Blog](http://cameroncounts.wordpress.com/ "Counting the things that need to be counted")
+*   [Phillipe LeFloch's blog](http://philippelefloch.wordpress.com/)
+*   [ProofWiki](http://www.proofwiki.org/wiki/Main_Page " the online compendium of mathematical proofs")
+*   [Quomodocumque](http://quomodocumque.wordpress.com/ "Jordan Ellenberg’s blog")
+*   [Random Math](http://mathramble.wordpress.com/)
+*   [Reasonable Deviations](http://stochastix.wordpress.com/ "scientia potentia est")
+*   [Regularize](http://regularize.wordpress.com/ "Trying to keep track of what I stumble upon")
+*   [Rigorous Trivialities](http://rigtriv.wordpress.com/ "A group blog in mathematics")
+*   [Roots of unity](http://blogs.scientificamerican.com/roots-of-unity/ "Mathematics: learning it, doing it, celebrating it.")
+*   [Secret Blogging Seminar](http://sbseminar.wordpress.com/ "A group maths blog at Berkeley")
+*   [Selected Papers Network](https://selectedpapers.net/)
+*   [Sergei Denisov's blog](http://sdenisov.wordpress.com/)
+*   [Short, Fat Matrices](https://dustingmixon.wordpress.com/)
+*   [Shtetl-Optimized](http://www.scottaaronson.com/blog/ "Scott Aaronson’s blog")
+*   [Shuanglin's Blog](http://shaoshuanglin.wordpress.com/)
+*   [Since it is not…](http://ifwisdomwereteachable.wordpress.com/ "… we simply try to teach mathematics.")
+*   [Sketches of topology](http://sketchesoftopology.wordpress.com/ "Visualizations of low dimensional topology")
+*   [Soft questions](http://kovaquestions.blogspot.com/ "Cultural musings from a sometime mathematician.")
+*   [Stacks Project Blog](http://math.columbia.edu/~dejong/wordpress/)
+*   [SymOmega](http://symomega.wordpress.com/)
+*   [tcs math](http://tcsmath.wordpress.com/ "Some mathematics of theoretical computer science")
+*   [TeX, LaTeX, and friends](http://tex.stackexchange.com/ "A MathOverflow-like site for TeX")
+*   [The accidental mathematician](http://ilaba.wordpress.com/ "Izabella Laba’s blog")
+*   [The capacity to be alone](https://etreseul.wordpress.com/ "…cette capacité qui était leur à leur naissance, tout comme elle était mienne: la capacité d’être seul")
+*   [The Cost of Knowledge](http://thecostofknowledge.com/ "Researchers taking a stand against Elsevier.")
+*   [The Everything Seminar](http://cornellmath.wordpress.com/ "A group maths blog at Cornell")
+*   [The Geomblog](http://geomblog.blogspot.com/ "Ruminations on computational geometry, algorithms, theoretical computer science and life")
+*   [The L-function and modular forms database](http://www.lmfdb.org/ "The LMFDB is an extensive database of mathematical objects arising in Number Theory.")
+*   [The Mathematics Literature Project](http://tqft.net/mlp/wiki/The_Mathematics_Literature_Project "Indexing freely available links to published mathematical articles")
+*   [The n-Category Café](http://golem.ph.utexas.edu/category/ "A group blog on math, physics and philosophy")
+*   [The n-geometry cafe](http://www.noncommutative.org/ "A noncommutative geometry group blog")
+*   [The On-Line Blog of Integer Sequences](http://obis.tumblr.com/)
+*   [The polylogblog](http://polylogblog.wordpress.com/ "streams, sketches, samples, sensing etc.")
+*   [The polymath blog](http://polymathprojects.wordpress.com/ "A central location for proposing, planning, and running polymath projects")
+*   [The polymath wiki](http://michaelnielsen.org/polymath1/index.php?title=Main_Page "The wiki for polymath projects.")
+*   [The Tricki](http://www.tricki.org/ "A repository of mathematical know-how")
+*   [The twofold gaze](http://twofoldgaze.wordpress.com/)
+*   [The Unapologetic Mathematician](http://unapologetic.wordpress.com/ "Mathematics for the interested.")
+*   [The value of the variable](http://valuevar.wordpress.com/ "Harald Helfgott’s blog")
+*   [The World Digital Mathematical Library](http://blog.wias-berlin.de/imu-icm-panel-wdml/ "IMU blog")
+*   [Theoretical Computer Science – StackExchange](http://cstheory.stackexchange.com/ "A MathOverflow-like site for TCS")
+*   [Tim Gowers’ blog](http://gowers.wordpress.com/ "Mathematics related discussions (and the Princeton Companion to Mathematics)")
+*   [Tim Gowers’ mathematical discussions](http://www.dpmms.cam.ac.uk/~wtg10/mathsindex.html "Informal discussions of elementary (and sometimes deep) mathematics")
+*   [Todd and Vishal’s blog](http://topologicalmusings.wordpress.com/ "Just another mathematical blog")
+*   [Van Vu's blog](http://vuhavan.wordpress.com/ "In vietnamese")
+*   [Vaughn Climenhaga](http://vaughnclimenhaga.wordpress.com/)
+*   [Vieux Girondin](http://vieuxgirondin.wordpress.com/ "A lazy mathematician’s blog")
+*   [Visual Insight](http://blogs.ams.org/visualinsight/ "Mathematics made visible")
+*   [Vivatsgasse 7](http://vivatsgasse7.wordpress.com/ "A group maths blog at Bonn")
+*   [Williams College Math/Stat Blog](http://blogs.williams.edu/math/ "Mathematics and Statistics at Williams College")
+*   [Windows on Theory](http://windowsontheory.org/ "A research blog")
+*   [Wiskundemeisjes](http://www.wiskundemeisjes.nl/ "A group maths blog from U. Leiden (in Dutch)")
+*   [XOR’s hammer](http://xorshammer.wordpress.com/)
+*   [Yufei Zhao's blog](https://yufeizhao.wordpress.com/)
+*   [Zhenghe's Blog](http://zhenghezhang.wordpress.com/)
+
+### Selected articles
+
+*   [A cheap version of nonstandard analysis](https://terrytao.wordpress.com/2012/04/02/a-cheap-version-of-nonstandard-analysis/)
+*   [A review of probability theory](https://terrytao.wordpress.com/2010/01/01/254a-notes-0-a-review-of-probability-theory/)
+*   [American Academy of Arts and Sciences speech](https://terrytao.wordpress.com/2009/09/17/a-speech-for-the-american-academy-of-arts-and-sciences/)
+*   [Amplification, arbitrage, and the tensor power trick](https://terrytao.wordpress.com/2007/09/05/amplification-arbitrage-and-the-tensor-power-trick/ "A discussion of one of my favourite types of trick in analysis")
+*   [An airport-inspired puzzle](https://terrytao.wordpress.com/2008/12/09/an-airport-inspired-puzzle/)
+*   [Benford's law, Zipf's law, and the Pareto distribution](https://terrytao.wordpress.com/2009/07/03/benfords-law-zipfs-law-and-the-pareto-distribution/)
+*   [Compressed sensing and single-pixel cameras](https://terrytao.wordpress.com/2007/04/13/compressed-sensing-and-single-pixel-cameras/ "A non-technical introduction to compressed sensing")
+*   [Einstein’s derivation of E=mc^2](https://terrytao.wordpress.com/2007/12/28/einsteins-derivation-of-emc2/)
+*   [On multiple choice questions in mathematics](https://terrytao.wordpress.com/2008/12/14/on-multiple-choice-questions-in-mathematics/)
+*   [Quantum mechanics and Tomb Raider](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/ "Uses Tomb Raider to construct a world with quantum-like effects.")
+*   [Real analysis problem solving strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies)
+*   [Sailing into the wind, or faster than the wind](https://terrytao.wordpress.com/2009/03/23/sailing-into-the-wind-or-faster-than-the-wind/ "An idealised mathematical model of sailing")
+*   [Simons lectures on structure and randomness](https://terrytao.wordpress.com/2007/04/05/simons-lecture-i-structure-and-randomness-in-fourier-analysis-and-number-theory/ "A set of three lectures on structure and randomness in mathematics")
+*   [Small samples, and the margin of error](https://terrytao.wordpress.com/2008/10/10/small-samples-and-the-margin-of-error/)
+*   [Soft analysis, hard analysis, and the finite convergence principle](https://terrytao.wordpress.com/2007/05/23/soft-analysis-hard-analysis-and-the-finite-convergence-principle/ "A discussion of soft and hard analysis")
+*   [The blue-eyed islanders puzzle](https://terrytao.wordpress.com/2008/02/05/the-blue-eyed-islanders-puzzle/ "A remarkably subtle and unintuitive logic puzzle")
+*   [The cosmic distance ladder](https://terrytao.wordpress.com/2009/09/03/the-cosmic-distance-ladder-2/ "Some slides on the cosmic distance ladder in astronomy")
+*   [The federal budget, rescaled](https://terrytao.wordpress.com/2009/05/04/the-federal-budget-rescaled/)
+*   [Ultrafilters, non-standard analysis, and epsilon management](https://terrytao.wordpress.com/2007/06/25/ultrafilters-nonstandard-analysis-and-epsilon-management/ "Nonstandard analysis, from a hard analysis perspective.")
+*   [What is a gauge?](https://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/)
+*   [What is good mathematics?](http://arxiv.org/abs/math.HO/0702396 "An essay on what good mathematics is, and whether we should define it at all")
+*   [Why global regularity for Navier-Stokes is hard](https://terrytao.wordpress.com/2007/03/18/why-global-regularity-for-navier-stokes-is-hard/ "A detailed discussion of the global regularity problem for Navier-Stokes")
+
+### Software
+
+*   [Detexify](http://detexify.kirelabs.org/classify.html "Latex symbol classifier")
+*   [GmailTeX](http://alexeev.org/gmailtex.html "An easy way to render LaTeX snippets in Gmail or Gmail chat")
+*   [Inverse Symbolic Calculator](http://oldweb.cecm.sfu.ca/projects/ISC/ISCmain.html "Converts a floating point decimal into a symbolic expression")
+*   [jfig](http://tams-www.informatik.uni-hamburg.de/applets/jfig/webstart.html "A java applet for drawing xfig-like figures")
+*   [LaTeX to Wordpress](http://lucatrevisan.wordpress.com/latex-to-wordpress/ "Luca Trevisan’s python script for converting LaTeX to wordpress posts")
+*   [Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)
+*   [Sage: Open Source Mathematical Software](http://sagemath.blogspot.com/ "A blog by William Stein")
+*   [Subverting the system](http://sbseminar.wordpress.com/2008/06/18/subverting-the-system/ "A description of the version control software “Subversion”.")
+
+### The sciences
+
+*   [Academic blogs](http://wiki.henryfarrell.net/wiki/index.php/Main_Page "A wiki for academic blogs")
+*   [American Academy of Arts and Sciences](http://www.amacad.org/)
+*   [Australian Academy of Science](http://www.science.org.au/)
+*   [Bad Astronomy](http://blogs.discovermagazine.com/badastronomy/ "Phil Plait’s blog")
+*   [National Academy of Science](http://www.nasonline.org/site/PageServer)
+*   [RealClimate](http://www.realclimate.org/ "Climate science, minus (most of the) politics")
+*   [Schneier on security](http://www.schneier.com/blog/ "Bruce Schneier on security issues")
+*   [Science-Based Medicine](http://www.sciencebasedmedicine.org/ "Exploring issues and controversies in the relationship between science and medicine")
+*   [Seven warning signs of bogus science](http://chronicle.com/free/v49/i21/21b02001.htm "A Chronicle article from 2003; still timely")
+*   [The Royal Society](http://royalsociety.org/)
+*   [This week in evolution](http://blog.lib.umn.edu/denis036/thisweekinevolution/ "Recent papers in evolutionary biology")
+*   [Tree of Life Web Project](http://www.tolweb.org/tree/ "Explore the tree of life")
+
+### Top Posts
+
+*   [Heat flow and zeroes of polynomials](https://terrytao.wordpress.com/2017/10/17/heat-flow-and-zeroes-of-polynomials/)
+*   [Career advice](https://terrytao.wordpress.com/career-advice/)
+*   [The Euler-Maclaurin formula, Bernoulli numbers, the zeta function, and real-variable analytic continuation](https://terrytao.wordpress.com/2010/04/10/the-euler-maclaurin-formula-bernoulli-numbers-the-zeta-function-and-real-variable-analytic-continuation/)
+*   [Does one have to be a genius to do maths?](https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/)
+*   [Homogeneous length functions on groups](https://terrytao.wordpress.com/2018/01/11/homogeneous-length-functions-on-groups/)
+*   [There’s more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/there%e2%80%99s-more-to-mathematics-than-rigour-and-proofs/)
+*   [Open question: boundedness of the trilinear Hilbert transform](https://terrytao.wordpress.com/2007/05/10/open-question-boundedness-of-the-trilinear-hilbert-transform/)
+*   [On writing](https://terrytao.wordpress.com/advice-on-writing-papers/)
+*   [Books](https://terrytao.wordpress.com/books/)
+*   [Solving mathematical problems](https://terrytao.wordpress.com/career-advice/solving-mathematical-problems/)
+
+### Archives
+
+*   [January 2018](https://terrytao.wordpress.com/2018/01/)(1)
+*   [December 2017](https://terrytao.wordpress.com/2017/12/)(5)
+*   [November 2017](https://terrytao.wordpress.com/2017/11/)(3)
+*   [October 2017](https://terrytao.wordpress.com/2017/10/)(4)
+*   [September 2017](https://terrytao.wordpress.com/2017/09/)(4)
+*   [August 2017](https://terrytao.wordpress.com/2017/08/)(5)
+*   [July 2017](https://terrytao.wordpress.com/2017/07/)(5)
+*   [June 2017](https://terrytao.wordpress.com/2017/06/)(1)
+*   [May 2017](https://terrytao.wordpress.com/2017/05/)(3)
+*   [April 2017](https://terrytao.wordpress.com/2017/04/)(2)
+*   [March 2017](https://terrytao.wordpress.com/2017/03/)(3)
+*   [February 2017](https://terrytao.wordpress.com/2017/02/)(1)
+*   [January 2017](https://terrytao.wordpress.com/2017/01/)(2)
+*   [December 2016](https://terrytao.wordpress.com/2016/12/)(2)
+*   [November 2016](https://terrytao.wordpress.com/2016/11/)(2)
+*   [October 2016](https://terrytao.wordpress.com/2016/10/)(5)
+*   [September 2016](https://terrytao.wordpress.com/2016/09/)(4)
+*   [August 2016](https://terrytao.wordpress.com/2016/08/)(4)
+*   [July 2016](https://terrytao.wordpress.com/2016/07/)(1)
+*   [June 2016](https://terrytao.wordpress.com/2016/06/)(3)
+*   [May 2016](https://terrytao.wordpress.com/2016/05/)(5)
+*   [April 2016](https://terrytao.wordpress.com/2016/04/)(2)
+*   [March 2016](https://terrytao.wordpress.com/2016/03/)(6)
+*   [February 2016](https://terrytao.wordpress.com/2016/02/)(2)
+*   [January 2016](https://terrytao.wordpress.com/2016/01/)(1)
+*   [December 2015](https://terrytao.wordpress.com/2015/12/)(4)
+*   [November 2015](https://terrytao.wordpress.com/2015/11/)(6)
+*   [October 2015](https://terrytao.wordpress.com/2015/10/)(5)
+*   [September 2015](https://terrytao.wordpress.com/2015/09/)(5)
+*   [August 2015](https://terrytao.wordpress.com/2015/08/)(4)
+*   [July 2015](https://terrytao.wordpress.com/2015/07/)(7)
+*   [June 2015](https://terrytao.wordpress.com/2015/06/)(1)
+*   [May 2015](https://terrytao.wordpress.com/2015/05/)(5)
+*   [April 2015](https://terrytao.wordpress.com/2015/04/)(4)
+*   [March 2015](https://terrytao.wordpress.com/2015/03/)(3)
+*   [February 2015](https://terrytao.wordpress.com/2015/02/)(4)
+*   [January 2015](https://terrytao.wordpress.com/2015/01/)(4)
+*   [December 2014](https://terrytao.wordpress.com/2014/12/)(6)
+*   [November 2014](https://terrytao.wordpress.com/2014/11/)(5)
+*   [October 2014](https://terrytao.wordpress.com/2014/10/)(4)
+*   [September 2014](https://terrytao.wordpress.com/2014/09/)(3)
+*   [August 2014](https://terrytao.wordpress.com/2014/08/)(4)
+*   [July 2014](https://terrytao.wordpress.com/2014/07/)(5)
+*   [June 2014](https://terrytao.wordpress.com/2014/06/)(5)
+*   [May 2014](https://terrytao.wordpress.com/2014/05/)(5)
+*   [April 2014](https://terrytao.wordpress.com/2014/04/)(2)
+*   [March 2014](https://terrytao.wordpress.com/2014/03/)(4)
+*   [February 2014](https://terrytao.wordpress.com/2014/02/)(5)
+*   [January 2014](https://terrytao.wordpress.com/2014/01/)(4)
+*   [December 2013](https://terrytao.wordpress.com/2013/12/)(4)
+*   [November 2013](https://terrytao.wordpress.com/2013/11/)(5)
+*   [October 2013](https://terrytao.wordpress.com/2013/10/)(4)
+*   [September 2013](https://terrytao.wordpress.com/2013/09/)(5)
+*   [August 2013](https://terrytao.wordpress.com/2013/08/)(1)
+*   [July 2013](https://terrytao.wordpress.com/2013/07/)(7)
+*   [June 2013](https://terrytao.wordpress.com/2013/06/)(12)
+*   [May 2013](https://terrytao.wordpress.com/2013/05/)(4)
+*   [April 2013](https://terrytao.wordpress.com/2013/04/)(2)
+*   [March 2013](https://terrytao.wordpress.com/2013/03/)(2)
+*   [February 2013](https://terrytao.wordpress.com/2013/02/)(6)
+*   [January 2013](https://terrytao.wordpress.com/2013/01/)(1)
+*   [December 2012](https://terrytao.wordpress.com/2012/12/)(4)
+*   [November 2012](https://terrytao.wordpress.com/2012/11/)(7)
+*   [October 2012](https://terrytao.wordpress.com/2012/10/)(6)
+*   [September 2012](https://terrytao.wordpress.com/2012/09/)(4)
+*   [August 2012](https://terrytao.wordpress.com/2012/08/)(3)
+*   [July 2012](https://terrytao.wordpress.com/2012/07/)(4)
+*   [June 2012](https://terrytao.wordpress.com/2012/06/)(3)
+*   [May 2012](https://terrytao.wordpress.com/2012/05/)(3)
+*   [April 2012](https://terrytao.wordpress.com/2012/04/)(4)
+*   [March 2012](https://terrytao.wordpress.com/2012/03/)(5)
+*   [February 2012](https://terrytao.wordpress.com/2012/02/)(5)
+*   [January 2012](https://terrytao.wordpress.com/2012/01/)(4)
+*   [December 2011](https://terrytao.wordpress.com/2011/12/)(8)
+*   [November 2011](https://terrytao.wordpress.com/2011/11/)(8)
+*   [October 2011](https://terrytao.wordpress.com/2011/10/)(7)
+*   [September 2011](https://terrytao.wordpress.com/2011/09/)(6)
+*   [August 2011](https://terrytao.wordpress.com/2011/08/)(8)
+*   [July 2011](https://terrytao.wordpress.com/2011/07/)(9)
+*   [June 2011](https://terrytao.wordpress.com/2011/06/)(8)
+*   [May 2011](https://terrytao.wordpress.com/2011/05/)(11)
+*   [April 2011](https://terrytao.wordpress.com/2011/04/)(3)
+*   [March 2011](https://terrytao.wordpress.com/2011/03/)(10)
+*   [February 2011](https://terrytao.wordpress.com/2011/02/)(3)
+*   [January 2011](https://terrytao.wordpress.com/2011/01/)(5)
+*   [December 2010](https://terrytao.wordpress.com/2010/12/)(5)
+*   [November 2010](https://terrytao.wordpress.com/2010/11/)(6)
+*   [October 2010](https://terrytao.wordpress.com/2010/10/)(9)
+*   [September 2010](https://terrytao.wordpress.com/2010/09/)(9)
+*   [August 2010](https://terrytao.wordpress.com/2010/08/)(3)
+*   [July 2010](https://terrytao.wordpress.com/2010/07/)(4)
+*   [June 2010](https://terrytao.wordpress.com/2010/06/)(8)
+*   [May 2010](https://terrytao.wordpress.com/2010/05/)(8)
+*   [April 2010](https://terrytao.wordpress.com/2010/04/)(8)
+*   [March 2010](https://terrytao.wordpress.com/2010/03/)(8)
+*   [February 2010](https://terrytao.wordpress.com/2010/02/)(10)
+*   [January 2010](https://terrytao.wordpress.com/2010/01/)(12)
+*   [December 2009](https://terrytao.wordpress.com/2009/12/)(11)
+*   [November 2009](https://terrytao.wordpress.com/2009/11/)(8)
+*   [October 2009](https://terrytao.wordpress.com/2009/10/)(15)
+*   [September 2009](https://terrytao.wordpress.com/2009/09/)(6)
+*   [August 2009](https://terrytao.wordpress.com/2009/08/)(13)
+*   [July 2009](https://terrytao.wordpress.com/2009/07/)(10)
+*   [June 2009](https://terrytao.wordpress.com/2009/06/)(11)
+*   [May 2009](https://terrytao.wordpress.com/2009/05/)(9)
+*   [April 2009](https://terrytao.wordpress.com/2009/04/)(11)
+*   [March 2009](https://terrytao.wordpress.com/2009/03/)(14)
+*   [February 2009](https://terrytao.wordpress.com/2009/02/)(13)
+*   [January 2009](https://terrytao.wordpress.com/2009/01/)(18)
+*   [December 2008](https://terrytao.wordpress.com/2008/12/)(8)
+*   [November 2008](https://terrytao.wordpress.com/2008/11/)(9)
+*   [October 2008](https://terrytao.wordpress.com/2008/10/)(10)
+*   [September 2008](https://terrytao.wordpress.com/2008/09/)(5)
+*   [August 2008](https://terrytao.wordpress.com/2008/08/)(6)
+*   [July 2008](https://terrytao.wordpress.com/2008/07/)(7)
+*   [June 2008](https://terrytao.wordpress.com/2008/06/)(8)
+*   [May 2008](https://terrytao.wordpress.com/2008/05/)(11)
+*   [April 2008](https://terrytao.wordpress.com/2008/04/)(12)
+*   [March 2008](https://terrytao.wordpress.com/2008/03/)(12)
+*   [February 2008](https://terrytao.wordpress.com/2008/02/)(13)
+*   [January 2008](https://terrytao.wordpress.com/2008/01/)(17)
+*   [December 2007](https://terrytao.wordpress.com/2007/12/)(10)
+*   [November 2007](https://terrytao.wordpress.com/2007/11/)(9)
+*   [October 2007](https://terrytao.wordpress.com/2007/10/)(9)
+*   [September 2007](https://terrytao.wordpress.com/2007/09/)(7)
+*   [August 2007](https://terrytao.wordpress.com/2007/08/)(9)
+*   [July 2007](https://terrytao.wordpress.com/2007/07/)(9)
+*   [June 2007](https://terrytao.wordpress.com/2007/06/)(6)
+*   [May 2007](https://terrytao.wordpress.com/2007/05/)(10)
+*   [April 2007](https://terrytao.wordpress.com/2007/04/)(11)
+*   [March 2007](https://terrytao.wordpress.com/2007/03/)(9)
+*   [February 2007](https://terrytao.wordpress.com/2007/02/)(4)
+
+### Categories
+
+*   [expository](https://terrytao.wordpress.com/category/expository/ "Expository papers, notes, discussions, etc.") (263) 
+    *   [tricks](https://terrytao.wordpress.com/category/expository/tricks/ "Articles for the Tricks Wiki") (10) 
+
+*   [guest blog](https://terrytao.wordpress.com/category/guest-blog/ "Posts by a guest speaker") (10) 
+*   [Mathematics](https://terrytao.wordpress.com/category/mathematics/ "All posts and links of a mathematical nature") (709) 
+    *   [math.AC](https://terrytao.wordpress.com/category/mathematics/mathac/ "Commutative rings, modules, ideals, homological algebra, computational aspects, invariant theory, connections to algebraic geometry and combinatorics") (6) 
+    *   [math.AG](https://terrytao.wordpress.com/category/mathematics/mathag/ "Algebraic varieties, stacks, sheaves, schemes, moduli spaces, complex geometry, quantum cohomology
+") (37) 
+    *   [math.AP](https://terrytao.wordpress.com/category/mathematics/mathap/ "Existence and uniquness, boundary conditions, linear and non-linear operators, stability, soliton theory, integrable PDE's, conservation laws, qualitative dynamics
+") (94) 
+    *   [math.AT](https://terrytao.wordpress.com/category/mathematics/mathat/ "Homotopy theory, homological algebra, algebraic treatments of manifolds") (17) 
+    *   [math.CA](https://terrytao.wordpress.com/category/mathematics/mathca/ "Special functions, orthogonal polynomials, harmonic analysis, ODE's, differential relations, calculus of variations, approximations, expansions, asymptotics
+") (140) 
+    *   [math.CO](https://terrytao.wordpress.com/category/mathematics/mathco/ "Discrete mathematics, graph theory, enumeration, combinatorial optimization, Ramsey theory, combinatorial game theory") (164) 
+    *   [math.CT](https://terrytao.wordpress.com/category/mathematics/mathct/ "Enriched categories, topoi, abelian categories, monoidal categories, homological algebra") (6) 
+    *   [math.CV](https://terrytao.wordpress.com/category/mathematics/mathcv/ "Holomorphic functions, automorphic group actions and forms, pseudoconvexity, complex geometry, analytic spaces, analytic sheaves") (21) 
+    *   [math.DG](https://terrytao.wordpress.com/category/mathematics/mathdg/ "Complex, contact, Riemannian, pseudo-Riemannian and Finsler geometry, relativity, gauge theory, global analysis
+") (35) 
+    *   [math.DS](https://terrytao.wordpress.com/category/mathematics/mathds/ "Dynamics of differential equations and flows, mechanics, classical few-body problems, iterations, complex dynamics, delayed differential equations") (75) 
+    *   [math.FA](https://terrytao.wordpress.com/category/mathematics/mathfa/ "Banach spaces, function spaces, real functions, integral transforms, theory of distributions, measure theory") (23) 
+    *   [math.GM](https://terrytao.wordpress.com/category/mathematics/mathgm/ "Mathematical material of general interest, topics not covered elsewhere") (9) 
+    *   [math.GN](https://terrytao.wordpress.com/category/mathematics/mathgn/ "Continuum theory, point-set topology, spaces with algebraic structure, foundations, dimension theory, local and global properties
+") (21) 
+    *   [math.GR](https://terrytao.wordpress.com/category/mathematics/mathgr/ "Finite groups, topological groups, representation theory, cohomology, classification and structure
+") (83) 
+    *   [math.GT](https://terrytao.wordpress.com/category/mathematics/mathgt/ "Manifolds, orbifolds, polyhedra, cell complexes, foliations, geometric structures
+") (15) 
+    *   [math.HO](https://terrytao.wordpress.com/category/mathematics/mathho/ "Biographies, philosophy of mathematics, mathematics education, recreational mathematics, communication of mathematics
+") (10) 
+    *   [math.IT](https://terrytao.wordpress.com/category/mathematics/mathit/ "Covers theoretical and experimental aspects of information theory and coding.") (11) 
+    *   [math.LO](https://terrytao.wordpress.com/category/mathematics/mathlo/ "Logic, set theory, point-set topology, formal mathematics
+") (46) 
+    *   [math.MG](https://terrytao.wordpress.com/category/mathematics/mathmg/ "Euclidean, hyperbolic, discrete, convex, coarse geometry, comparisons in Riemannian geometry, symmetric spaces
+") (40) 
+    *   [math.MP](https://terrytao.wordpress.com/category/mathematics/mathmp/ "Mathematical methods in quantum field theory, quantum mechanics, statistical mechanics, condensed matter, nuclear and atomic physics
+") (25) 
+    *   [math.NA](https://terrytao.wordpress.com/category/mathematics/mathna/ "Numerical algorithms for problems in analysis and algebra, scientific computation
+") (13) 
+    *   [math.NT](https://terrytao.wordpress.com/category/mathematics/mathnt/ "Prime numbers, diophantine equations, analytic number theory, algebraic number theory, arithmetic geometry, Galois theory
+") (147) 
+    *   [math.OA](https://terrytao.wordpress.com/category/mathematics/mathoa/ "Algebras of operators on Hilbert space, C^*-algebras, von Neumann algebras, non-commutative geometry") (17) 
+    *   [math.PR](https://terrytao.wordpress.com/category/mathematics/mathpr/ "Theory and applications of probability and stochastic processes: e.g. central limit theorems, large deviations, stochastic differential equations, models from statistical mechanics, queuing theory") (93) 
+    *   [math.QA](https://terrytao.wordpress.com/category/mathematics/mathqa/ "Quantum groups, skein theories, operadic and diagrammatic algebra, quantum field theory") (5) 
+    *   [math.RA](https://terrytao.wordpress.com/category/mathematics/mathra/ "Non-commutative rings and algebras, non-associative algebras, universal algebra and lattice theory, linear algebra, semigroups
+") (35) 
+    *   [math.RT](https://terrytao.wordpress.com/category/mathematics/mathrt/ "Linear representations of algebras and groups, Lie theory, associative algebras, multilinear algebra") (21) 
+    *   [math.SG](https://terrytao.wordpress.com/category/mathematics/mathsg/ "Hamiltonian systems, symplectic flows, classical integrable systems") (4) 
+    *   [math.SP](https://terrytao.wordpress.com/category/mathematics/mathsp/ "Schrodinger operators, operators on manifolds, general differential operators, numerical studies, integral operators, discrete models, resonances, non-self-adjoint operators, random operators/matrices") (47) 
+    *   [math.ST](https://terrytao.wordpress.com/category/mathematics/mathst/ "Applied, computational and theoretical statistics: e.g. statistical inference, regression, time series, multivariate analysis, data analysis, Markov chain Monte Carlo, design of experiments, case studies") (6) 
+
+*   [non-technical](https://terrytao.wordpress.com/category/non-technical/ "Articles intended for a lay audience") (138) 
+    *   [admin](https://terrytao.wordpress.com/category/non-technical/admin/ "Posts relating to the structure of the blog itself") (43) 
+    *   [advertising](https://terrytao.wordpress.com/category/non-technical/advertising/) (28) 
+    *   [diversions](https://terrytao.wordpress.com/category/non-technical/diversions-non-technical/) (4) 
+    *   [media](https://terrytao.wordpress.com/category/non-technical/media/ "Posts relating to non-technical media, such as print journalism") (12) 
+        *   [journals](https://terrytao.wordpress.com/category/non-technical/media/journals/ "Academic journals and publishing") (3) 
+
+    *   [obituary](https://terrytao.wordpress.com/category/non-technical/obituary/ "Notable deaths") (10) 
+
+*   [opinion](https://terrytao.wordpress.com/category/opinion/ "Personal and subjective thoughts on various topics") (29) 
+*   [paper](https://terrytao.wordpress.com/category/paper/ "My research and survey papers") (182) 
+    *   [book](https://terrytao.wordpress.com/category/paper/book/ "Posts concerning my books") (16) 
+    *   [Companion](https://terrytao.wordpress.com/category/paper/companion/ "Articles relating to the Princeton Companion to Mathematics") (13) 
+    *   [update](https://terrytao.wordpress.com/category/paper/update/ "Updates and errata for previously announced, uploaded, or published papers or other results") (18) 
+
+*   [question](https://terrytao.wordpress.com/category/question/ "Open problems and questions") (106) 
+    *   [polymath](https://terrytao.wordpress.com/category/question/polymath/ "Massively collaborative mathematical projects") (72) 
+
+*   [talk](https://terrytao.wordpress.com/category/talk/ "Reports on talks given by myself or other speakers") (64) 
+    *   [DLS](https://terrytao.wordpress.com/category/talk/dls/ "Distinguished Lecture Series at UCLA") (19) 
+
+*   [teaching](https://terrytao.wordpress.com/category/teaching/ "Classes and other topics related to teaching") (159) 
+    *   [245A – Real analysis](https://terrytao.wordpress.com/category/teaching/245a-real-analysis/) (11) 
+    *   [245B – Real analysis](https://terrytao.wordpress.com/category/teaching/245b-real-analysis/) (21) 
+    *   [245C – Real analysis](https://terrytao.wordpress.com/category/teaching/245c-real-analysis/) (6) 
+    *   [246A – complex analysis](https://terrytao.wordpress.com/category/teaching/246a-complex-analysis/) (9) 
+    *   [254A – analytic prime number theory](https://terrytao.wordpress.com/category/teaching/254a-analytic-prime-number-theory/) (16) 
+    *   [254A – ergodic theory](https://terrytao.wordpress.com/category/teaching/254a-ergodic-theory/ "My winter 2008 class on topics in ergodic theory") (18) 
+    *   [254A – Hilbert's fifth problem](https://terrytao.wordpress.com/category/teaching/254a-hilberts-fifth-problem/) (12) 
+    *   [254A – random matrices](https://terrytao.wordpress.com/category/teaching/254a-random-matrices/) (14) 
+    *   [254B – expansion in groups](https://terrytao.wordpress.com/category/teaching/254b-expansion-in-groups/) (8) 
+    *   [254B – Higher order Fourier analysis](https://terrytao.wordpress.com/category/teaching/254b-higher-order-fourier-analysis/) (9) 
+    *   [275A – probability theory](https://terrytao.wordpress.com/category/teaching/275a-probability-theory/) (6) 
+    *   [285G – poincare conjecture](https://terrytao.wordpress.com/category/teaching/285g-poincare-conjecture/ "My Spring 2008 class on Perelman's proof of the Poincare conjecture") (20) 
+    *   [Logic reading seminar](https://terrytao.wordpress.com/category/teaching/logic-reading-seminar/) (8) 
+
+*   [travel](https://terrytao.wordpress.com/category/travel/ "Posts relating to places that I am visiting") (25) 
+*   [Uncategorized](https://terrytao.wordpress.com/category/uncategorized/) (1) 
+
+[additive combinatorics](https://terrytao.wordpress.com/tag/additive-combinatorics/)[approximate groups](https://terrytao.wordpress.com/tag/approximate-groups/)[arithmetic progressions](https://terrytao.wordpress.com/tag/arithmetic-progressions/)[Ben Green](https://terrytao.wordpress.com/tag/ben-green/)[Cauchy-Schwarz](https://terrytao.wordpress.com/tag/cauchy-schwarz/)[Cayley graphs](https://terrytao.wordpress.com/tag/cayley-graphs/)[central limit theorem](https://terrytao.wordpress.com/tag/central-limit-theorem/)[Chowla conjecture](https://terrytao.wordpress.com/tag/chowla-conjecture/)[circular law](https://terrytao.wordpress.com/tag/circular-law/)[compressed sensing](https://terrytao.wordpress.com/tag/compressed-sensing/)[concentration compactness](https://terrytao.wordpress.com/tag/concentration-compactness/)[correspondence principle](https://terrytao.wordpress.com/tag/correspondence-principle/)[divisor function](https://terrytao.wordpress.com/tag/divisor-function/)[eigenvalues](https://terrytao.wordpress.com/tag/eigenvalues/)[Elias Stein](https://terrytao.wordpress.com/tag/elias-stein/)[Emmanuel Breuillard](https://terrytao.wordpress.com/tag/emmanuel-breuillard/)[entropy](https://terrytao.wordpress.com/tag/entropy/)[equidistribution](https://terrytao.wordpress.com/tag/equidistribution/)[ergodic theory](https://terrytao.wordpress.com/tag/ergodic-theory/)[expander graphs](https://terrytao.wordpress.com/tag/expander-graphs/)[exponential sums](https://terrytao.wordpress.com/tag/exponential-sums/)[finite fields](https://terrytao.wordpress.com/tag/finite-fields/)[Fourier transform](https://terrytao.wordpress.com/tag/fourier-transform/)[Four Moment Theorem](https://terrytao.wordpress.com/tag/four-moment-theorem/)[Freiman's theorem](https://terrytao.wordpress.com/tag/freimans-theorem/)[Gowers uniformity norm](https://terrytao.wordpress.com/tag/gowers-uniformity-norm/)[Gowers uniformity norms](https://terrytao.wordpress.com/tag/gowers-uniformity-norms/)[graph theory](https://terrytao.wordpress.com/tag/graph-theory/)[Gromov's theorem](https://terrytao.wordpress.com/tag/gromovs-theorem/)[GUE](https://terrytao.wordpress.com/tag/gue/)[Hilbert's fifth problem](https://terrytao.wordpress.com/tag/hilberts-fifth-problem/)[inverse conjecture](https://terrytao.wordpress.com/tag/inverse-conjecture/)[Kakeya conjecture](https://terrytao.wordpress.com/tag/kakeya-conjecture/)[Lie algebras](https://terrytao.wordpress.com/tag/lie-algebras/)[Lie groups](https://terrytao.wordpress.com/tag/lie-groups/)[Liouville function](https://terrytao.wordpress.com/tag/liouville-function/)[Littlewood-Offord problem](https://terrytao.wordpress.com/tag/littlewood-offord-problem/)[Mobius function](https://terrytao.wordpress.com/tag/mobius-function/)[moment method](https://terrytao.wordpress.com/tag/moment-method/)[multiple recurrence](https://terrytao.wordpress.com/tag/multiple-recurrence/)[Navier-Stokes equations](https://terrytao.wordpress.com/tag/navier-stokes-equations/)[nilpotent groups](https://terrytao.wordpress.com/tag/nilpotent-groups/)[nilsequences](https://terrytao.wordpress.com/tag/nilsequences/)[nonstandard analysis](https://terrytao.wordpress.com/tag/nonstandard-analysis/)[parity problem](https://terrytao.wordpress.com/tag/parity-problem/)[politics](https://terrytao.wordpress.com/tag/politics/)[polymath1](https://terrytao.wordpress.com/tag/polymath1/)[polymath8](https://terrytao.wordpress.com/tag/polymath8/)[polynomial method](https://terrytao.wordpress.com/tag/polynomial-method/)[polynomials](https://terrytao.wordpress.com/tag/polynomials/)[prime gaps](https://terrytao.wordpress.com/tag/prime-gaps/)[prime numbers](https://terrytao.wordpress.com/tag/prime-numbers/)[prime number theorem](https://terrytao.wordpress.com/tag/prime-number-theorem/)[project heatwave](https://terrytao.wordpress.com/tag/project-heatwave/)[pseudorandomness](https://terrytao.wordpress.com/tag/pseudorandomness/)[random matrices](https://terrytao.wordpress.com/tag/random-matrices/)[randomness](https://terrytao.wordpress.com/tag/randomness/)[random walks](https://terrytao.wordpress.com/tag/random-walks/)[Ratner's theorem](https://terrytao.wordpress.com/tag/ratners-theorem/)[regularity lemma](https://terrytao.wordpress.com/tag/regularity-lemma/)[Ricci flow](https://terrytao.wordpress.com/tag/ricci-flow/)[Riemann zeta function](https://terrytao.wordpress.com/tag/riemann-zeta-function/)[Schrodinger equation](https://terrytao.wordpress.com/tag/schrodinger-equation/)[sieve theory](https://terrytao.wordpress.com/tag/sieve-theory/)[spectral theorem](https://terrytao.wordpress.com/tag/spectral-theorem/)[structure](https://terrytao.wordpress.com/tag/structure/)[Szemeredi's theorem](https://terrytao.wordpress.com/tag/szemeredis-theorem/)[Tamar Ziegler](https://terrytao.wordpress.com/tag/tamar-ziegler/)[UCLA](https://terrytao.wordpress.com/tag/ucla/)[ultrafilters](https://terrytao.wordpress.com/tag/ultrafilters/)[ultraproducts](https://terrytao.wordpress.com/tag/ultraproducts/)[universality](https://terrytao.wordpress.com/tag/universality/)[Van Vu](https://terrytao.wordpress.com/tag/van-vu/)[wave maps](https://terrytao.wordpress.com/tag/wave-maps/)[Yitang Zhang](https://terrytao.wordpress.com/tag/yitang-zhang/)
+
+### [![Image 476: RSS](https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h)](https://polymathprojects.org/feed/ "Syndicate this content")[The Polymath Blog](https://polymathprojects.org/ "Massively collaborative mathematical projects")
+
+*   [Polymath 13 – a success!](https://polymathprojects.org/2017/08/22/polymath-13-a-success/ "This post is to note that the polymath13 project has successfully settled one of the major objective. Reports on it can be found on Gower’s blog especially in this post Intransitive dice IV: first problem more or less solved? and this post Intransitive dice VI: sketch proof of the main conjecture for the balanced-sequences model.  Filed under: polymath […] […]")22 August, 2017
+*   [Non-transitive Dice over Gowers’s Blog](https://polymathprojects.org/2017/05/15/non-transitive-dice-over-gowerss-blog/ "A polymath-style project on non transitive dice (Wikipedea) is now running over Gowers blog. (Here is the link to the first post.)   Filed under: polymath proposals")15 May, 2017
+*   [Rota’s Basis Conjecture: Polymath 12, post 3](https://polymathprojects.org/2017/05/05/rotas-basis-conjecture-polymath-12-post-3/ "We haven’t quite hit the 100-comment mark on the second Polymath 12 blog post, but this seems like a good moment to take stock.  The project has lost some of its initial momentum, perhaps because other priorities have intruded into the lives of the main participants (I know that this is true of myself).  However, […]")5 May, 2017
+*   [Rota’s Basis Conjecture: Polymath 12](https://polymathprojects.org/2017/03/06/rotas-basis-conjecture-polymath-12-2/ "There has been enough interest that I think we can formally declare Rota’s Basis Conjecture to be Polymath 12. I am told that it is standard Polymath practice to start a new blog post whenever the number of comments reaches about 100, and we have reached that point, so that is one reason I am […]")6 March, 2017
+*   [Blog theme changed](https://polymathprojects.org/2017/02/28/blog-theme-changed/ "Update from Gil: I managed to retrieve rubric but the subtitle disappeared. As you may have noticed, the layout of this blog has changed.  I was trying to address a request by one of the commenters here to try to enable the links to recent comments to change colour if they were clicked on; unfortunately […]")28 February, 2017
+*   [Rota’s Basis Conjecture: Polymath 12?](https://polymathprojects.org/2017/02/23/rotas-basis-conjecture-polymath-12/ "This post tentatively kicks off Polymath 12 on Rota’s basis conjecture. I proposed Rota’s basis conjecture as a possible Polymath project on MathOverflow last year. If you have not read my proposal, I strongly recommend that you read it now, because in it, I sketched some reasons why I thought this would make a good […]")23 February, 2017
+*   [MO Polymath question: Summary of Proposals](https://polymathprojects.org/2016/08/13/mo-polymath-question-summary-of-proposals/ "Here are the Math Overflow Polymath proposals given in response to the polymath question, Summary of proposals (updated: August 10, 2016) 1) The LogRank conjecture. Proposed by Arul. 2) The circulant Hadamard matrix conjecture. Proposed by Richard Stanley. 3) Finding combinatorial models for the Kronecker coefficients. Proposed by Per Alexandersson. 4) Eight […]")13 August, 2016
+*   [Polymath 11 is Now Open](https://polymathprojects.org/2016/02/07/polymath-11-is-now-open/ "       Two great Peter Frankls Tim Gowers launched polymath 11 aimed at Peter Frankl’s conjecture asserting that for every union-closed family there is an element that belongs to at lease half the sets in the family. Here are links to Post number 0 and Post number 1. (Meanwhile polymath10 continues to run on “Combinatorics […]")7 February, 2016
+*   [Polymath Proposals on Math Overflow](https://polymathprojects.org/2016/02/07/polymath-proposals-on-math-overflow/ "  Here is the link to a mathoverflow question asking for polymath proposals. There are some very  interesting proposals. I am quite curious to see some proposals in applied mathematics, and various areas of geometry, algebra, analysis and logic.Filed under: news, polymath proposals")7 February, 2016
+*   [Explaining Polynomials Identities – Success!](https://polymathprojects.org/2016/02/07/explaining-polynomials-identities-success/ "                                               Dinesh Thakur                                                             […]")7 February, 2016
+
+26 comments
+-----------
+
+[Comments feed for this article](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/feed/)
+
+[11 August, 2009 at 12:57 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-40969 "Permalink to this comment")
+
+**Henry**
+
+![Image 477: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/c5500b441e627883910cfdaf9f61e495?s=32&d=identicon&r=PG)
+I like that this proof illustrates how fast (i.e. polynomial) computability fails to be analogous to general computability. If one has an “elementary” proof that a witness with some computably checkable property exists, the proof can generally be turned into a computation of that witness. (This can be made formal: if the proof can be formulated, even in a theory like full second order arithmetic, it can be converted to a computation of the witness.)
+
+Yet, when given a composite number, the AKS primality test gives a fairly simple demonstration, in polynomial time, that there is some factor, but no way to quickly find what that factor is. Interestingly, the test does give a witness to _something_, and it’s the task of converting that witness into a factor which cannot be carried out quickly (in polynomial time).
+
+3
+
+1
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=40969#respond)
+
+[11 August, 2009 at 1:06 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-40970 "Permalink to this comment")
+
+**windfarmmusic**
+
+![Image 478: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/0f838e4947179075a3c5c8a4e00ff41d?s=32&d=identicon&r=PG)
+In the parenthetical at the end of the first paragraph, it seems like ‘faster’ should read ‘slower’. _[Fixed, thanks – T.]_
+
+1
+
+2
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=40970#respond)
+
+[11 August, 2009 at 1:08 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-40971 "Permalink to this comment")
+
+**windfarmmusic**
+
+![Image 479: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/0f838e4947179075a3c5c8a4e00ff41d?s=32&d=identicon&r=PG)
+Never mind!
+
+2
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=40971#respond)
+
+[11 August, 2009 at 1:37 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-40975 "Permalink to this comment")
+
+**theoreticalminimum**
+
+![Image 480: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/429c6272fe6d6ac363241449366f7cf6?s=32&d=identicon&r=PG)
+Note: The url to the AKS paper has a backward slash after “primality” which has to be removed to get the correct url. _[Fixed, thanks – T.]_
+
+2
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=40975#respond)
+
+[11 August, 2009 at 10:50 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-40988 "Permalink to this comment")
+
+**[cipher3d](http://cipher3d.wordpress.com/)**
+
+![Image 481: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/d933fa278e9a975e159c2e30e3abb1bb?s=32&d=identicon&r=PG)
+Thanks for this excellent explanatory post, Terry. Why is it, though, that number theoretic algorithms complexity is always done in terms of the logarithm of the number sizes? That is, the complexity of AKS on input n is polylogarithmic in n.
+
+3
+
+2
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=40988#respond)
+
+[12 August, 2009 at 1:39 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-40993 "Permalink to this comment")
+
+**anoymous**
+
+![Image 482: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)
+I guess because you want to have a running time polynomial in the input size, i.e., the number of bits you need to write down the input. For a single number it is ![Image 483: O(\log (n))](https://s0.wp.com/latex.php?latex=O%28%5Clog+%28n%29%29&bg=ffffff&fg=545454&s=0)
+
+2
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=40993#respond)
+
+[12 August, 2009 at 6:55 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-41000 "Permalink to this comment")
+
+**Leandro**
+
+![Image 484: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)
+Just a minor typo: right after equation (1), it says:
+
+ “..pick a few values of and see..”. I think you mean:
+
+ “..pick a few values of $n$ and see..”.
+
+_[Actually, I meant ![Image 485: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) here, but thanks for the correction. -T.]_
+
+1
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=41000#respond)
+
+[12 August, 2009 at 7:29 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-41001 "Permalink to this comment")
+
+**David Speyer**
+
+![Image 486: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/104cdb2b401e6ff40d80b9f51a043130?s=32&d=identicon&r=PG)
+“Why is it, though, that number theoretic algorithms complexity is always done in terms of the logarithm of the number sizes?”
+
+Anonymous’s answer, that this is the size of the input, is good. One should also note that it is the efficiency of the “easy” operations: addition, multiplication, division with remainder, GCD and so forth. Since these are the building blocks of our algorithms, it makes sense to study those algorithms which are not much worse than the pieces they are built from.
+
+3
+
+1
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=41001#respond)
+
+[12 August, 2009 at 10:43 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-41003 "Permalink to this comment")
+
+**Anonymous**
+
+![Image 487: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)
+Dear Terry,
+
+probably, the main question that one needs to solve is the following:
+
+suppose that we have all the set of a’s that violate (4) and thus gurantee that p is a composite and not a prime power. What do you think: can we somehow use this set to obtain a factor of p?
+
+1
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=41003#respond)
+
+[12 August, 2009 at 10:02 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-41009 "Permalink to this comment")
+
+**[Kenny Easwaran](http://antimeta.wordpress.org/)**
+
+![Image 488: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/31e25d91ee1d87535215e41466ba8d23?s=32&d=identicon&r=PG)
+Very nice explanation of the results! I started to get a bit confused about half way through with the big-O notations. For instance, you state Theorem 1 as:
+
+> Theorem 1 (AKS theorem) Suppose that for all ![Image 489: {1 \leq a, r \leq O( \log^{O(1)} n)}](https://s0.wp.com/latex.php?latex=%7B1+%5Cleq+a%2C+r+%5Cleq+O%28+%5Clog%5E%7BO%281%29%7D+n%29%7D&bg=ffffff&fg=545454&s=0), (4) holds, and ![Image 490: {a}](https://s0.wp.com/latex.php?latex=%7Ba%7D&bg=ffffff&fg=545454&s=0) is coprime to ![Image 491: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=545454&s=0). Then ![Image 492: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=545454&s=0) is either a prime, or a power of a prime.
+
+The first sentence looks like it can be true for all ![Image 493: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) while of course the second isn’t. After all, there is some constant such that (4) holds for all ![Image 494: a,r](https://s0.wp.com/latex.php?latex=a%2Cr&bg=ffffff&fg=545454&s=0) less than that constant times ![Image 495: \log n](https://s0.wp.com/latex.php?latex=%5Clog+n&bg=ffffff&fg=545454&s=0), namely 0.
+
+I suppose the right way to understand this is that the big-O expressions are all taken to introduce existential quantifiers over constants somewhere early on, with scope over the entire theorem, rather than just scope over the specific equation the big-O statement is in. And you’re also supposed to understand the scope of this quantifier with respect to various other quantifiers appropriately too. Thus, the more formal statement of Theorem 1 must say
+
+> ![Image 496: \exists k\forall n \textrm{If }\forall 1\leq a, r\leq k(\log^k n)](https://s0.wp.com/latex.php?latex=%5Cexists+k%5Cforall+n+%5Ctextrm%7BIf+%7D%5Cforall+1%5Cleq+a%2C+r%5Cleq+k%28%5Clog%5Ek+n%29&bg=ffffff&fg=545454&s=0) (4) holds, then ![Image 497: {n}](https://s0.wp.com/latex.php?latex=%7Bn%7D&bg=ffffff&fg=545454&s=0) is either a prime, or a power of a prime.
+
+Switching the initial existential and universal quantifiers yields a statement that is trivially true (just choose ![Image 498: k=0](https://s0.wp.com/latex.php?latex=k%3D0&bg=ffffff&fg=545454&s=0) if ![Image 499: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is prime or a power of a prime and ![Image 500: k=n](https://s0.wp.com/latex.php?latex=k%3Dn&bg=ffffff&fg=545454&s=0) otherwise).
+
+Perhaps the fact that this existential quantifier gets widest scope is implicit in the fact that it’s called a constant, but it gets more unclear when you cross sentence boundaries. Because there are other examples with the same format as the statement of Theorem 1 here where the quantifier clearly isn’t meant to have wide scope over both sentences. For instance
+
+> Suppose one can factor ![Image 501: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) in ![Image 502: n^{O(1)}](https://s0.wp.com/latex.php?latex=n%5E%7BO%281%29%7D&bg=ffffff&fg=545454&s=0) time. Then standard cryptography is weak.
+
+This doesn’t mean that there is some exponent on the polynomial that would mean cryptography is weak – rather it means that _any_ exponent on the polynomial would work.
+
+4
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=41009#respond)
+
+[14 August, 2009 at 11:46 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-41032 "Permalink to this comment")
+
+**[Jonathan Vos Post](http://magicdragon.com/)**
+
+![Image 503: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/e645044094503484504c628314f5d660?s=32&d=identicon&r=PG)
+Thank you for the clarity in showing that PRIME is in P. Now, is SEMIPRIME in P? By definition, a semiprime is a product of exactly two primes, not necessarily distinct. They matter because of an important class of cryptosystems, in a multibillion dollar industry. The complication: there exist specific semiprimes in the literature that have been proven to be semiprimes, without any prime factorization know. We don’t know the complexity class for prime factorization. So what is the complexity class for determining if a given integer is or is not a semiprime? Several experts in number theory and quantum computing have told me that mine is an interesting question, but probably very difficult. I mention quantum computing because SEMIPRIME might be in a qc complexity class of interest. What do you think?
+
+5
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=41032#respond)
+
+[6 December, 2009 at 1:30 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-42716 "Permalink to this comment")
+
+**[Four Derandomization Problems « Combinatorics and more](http://gilkalai.wordpress.com/2009/12/06/four-derandomization-problems/)**
+
+[…] about primality certificate. and the AKS deterministic algorithm for primality is described in this post by Terry Tao (among other places). It was a beautiful combination of number theoretic ideas and derandomization […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=42716#respond)
+
+[3 November, 2010 at 7:47 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-47965 "Permalink to this comment")
+
+**[Manindra Agrawal and Carlos Gustavo (Gugu) Moreira share 2010 TWAS prize in Mathematics « Disquisitiones Mathematicae](http://matheuscmss.wordpress.com/2010/11/03/manindra-agrawal-and-carlos-gustavo-gugu-moreira-share-2010-twas-prize-in-mathematics/)**
+
+[…] algorithm to decide primality of natural numbers (for a nice exposition on this subject see this post by Terence Tao), and the works of Gugu (Annales de l’IHP, 1996), and Gugu and J.-C. Yoccoz (Annals of Math. […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=47965#respond)
+
+[22 February, 2011 at 12:18 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-50416 "Permalink to this comment")
+
+**Ricardo Menares**
+
+![Image 504: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/a7ae25d6edfa1598cd7d1a3f7099cca1?s=32&d=identicon&r=PG)
+Small typo: in the paragraph above (4) it should be (Z/NZ[x])/(X^r-1) instead of F_p[x]/(X^r-1)
+
+_[Corrected, thanks – T.]_
+
+1
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=50416#respond)
+
+[27 September, 2011 at 8:58 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-85691 "Permalink to this comment")
+
+**amateur**
+
+![Image 505: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/39651aeca3a4a082ab9c033794d77280?s=32&d=identicon&r=PG)
+Hello I think that binomial test is also suitable for factoring.
+
+binomial test – phrase used from pdf in chapter 11
+
+[http://www.scottaaronson.com/writings/prime.pdf](http://www.scottaaronson.com/writings/prime.pdf)
+
+Just see next links and you will understand:
+
+1. key : -sieve of eratosthenes connected to triangles line N, and thus giving factors for that line N, for either composite number (or prime)
+
+2-key :–sieve of eratosthenes connected to remainders of binomial coefficients in pascal triangle by modulo n. (compare triangle from video and pascal triangle in mod N)
+
+[![Image 506: A 16x16 small image, likely a logo, icon or avatar](https://i0.wp.com/img6.imagebanana.com/img/w0izp9xa/desktop1_010.png)](http://img6.imagebanana.com/img/w0izp9xa/desktop1_010.png)
+
+Finally you will see that every midterm binomial coeficients, which are not divisible by N, correlate to factor of number N by its position and its value.
+
+So bolded statement in next jpg is wrong
+
+[![Image 507: A 16x16 small image, likely a logo, icon or avatar](https://i1.wp.com/img59.imageshack.us/img59/2070/desktop1025.png)](http://img59.imageshack.us/img59/2070/desktop1025.png)
+
+1
+
+1
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=85691#respond)
+
+[30 September, 2011 at 1:20 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-86963 "Permalink to this comment")
+
+**amateur**
+
+![Image 508: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/39651aeca3a4a082ab9c033794d77280?s=32&d=identicon&r=PG)
+There is one more think that is of interest (for me). Aditional way of checking factors of explicit number N (for example 341 )is that you calculate mod 341 while building pascal triangle to line 341.
+
+You will se that numbers 11 and 31 have midterm values that are divisble by 341 so mod 341 is 0.
+
+[![Image 509: A 16x16 small image, likely a logo, icon or avatar](https://i1.wp.com/img6.imagebanana.com/img/4zidh538/desktop1_012.png)](http://img6.imagebanana.com/img/4zidh538/desktop1_012.png)
+
+Line 341 also gives interesting results
+
+[![Image 510: A 16x16 small image, likely a logo, icon or avatar](https://i2.wp.com/img6.imagebanana.com/img/gep2hw2r/desktop1_013.png)](http://img6.imagebanana.com/img/gep2hw2r/desktop1_013.png)
+
+The only problem finding factors of 341 this way is that mod 341 doesnt take its full function for smaller numbers (lines) and these factors my be “fake” for 341 (see again first picture: fake factor 2,3,5,7)
+
+1
+
+3
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=86963#respond)
+
+[3 October, 2011 at 12:45 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-88409 "Permalink to this comment")
+
+**amateur**
+
+![Image 511: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/39651aeca3a4a082ab9c033794d77280?s=32&d=identicon&r=PG)
+“You will se that numbers 11 and 31 have midterm values that are divisible by 341 so mod 341 is 0.”
+
+Wrongly put
+
+“You will se that lines 11 and 31 have midterm values that are divisible by 11 or 31 in pascal triangle mod 341.
+
+0
+
+1
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=88409#respond)
+
+[31 October, 2011 at 3:23 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-98959 "Permalink to this comment")
+
+**gabriel b**
+
+![Image 512: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/5fee623a91548a0021f3103dd4cea63d?s=32&d=identicon&r=PG)
+this is so complex that i can’t understand anything. anyway i’ve made a simple program to find prime numbers by ‘brute force dividing’ that is pretty fast and completely foolproof, it would be good to use a program based on this AKS primality test that i see so much fuss about on the internet to compare the speed difference between this approach and my simple one.
+
+ i saw some project on sourceforge about this where you could download
+
+the program and i did but i can’t see any working executable there, nor any indications, so maybe it isn’t ”the real thing”, anyway if someone knows about one executable implementation of this AKS method of discovering primes please respond to this question saying something because i’m going to be notified by e-mail.
+
+0
+
+3
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=98959#respond)
+
+[25 November, 2011 at 4:25 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-109797 "Permalink to this comment")
+
+**[Number Theory: Lecture 22 « Theorem of the week](http://theoremoftheweek.wordpress.com/2011/11/25/number-theory-lecture-22/)**
+
+[…] (The Higher Arithmetic) both have material on pseudoprimes and primality testing. Terry Tao has a blog post about the AKS primality test, with various links to further […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=109797#respond)
+
+[25 November, 2011 at 8:00 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-109830 "Permalink to this comment")
+
+**amateur bojan vasiljevic**
+
+![Image 513: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/39651aeca3a4a082ab9c033794d77280?s=32&d=identicon&r=PG)
+How to find factors of 2 almost primes?
+
+ N=a*b
+
+We know that digit sum of N = digit sum of a * digit sum of b
+
+ digit sum arithmetic: [http://www.applet-magic.com/Digitsum.htm](http://www.applet-magic.com/Digitsum.htm)
+
+example: digit sum 341 = digit sum (3+4+1) = 8
+
+ = digit sum (31) * digit sum (11) =4*2=8
+
+As it shown in the next picture if there exists such N that there is N=a*b (not including that a or b might be 1 and N) than a remainder of mod N with the respect to its position equals N
+
+see picture and last line of pascal triangle in mod 341 where cell of value 31 is showed in 11s position. 31*11=431
+
+[![Image 514: A 16x16 small image, likely a logo, icon or avatar](https://i2.wp.com/img6.imagebanana.com/img/gep2hw2r/desktop1_013.png)](http://img6.imagebanana.com/img/gep2hw2r/desktop1_013.png)
+
+so the algorithm for finding factors is very similiar to aks
+
+We have mod N. Diferrence here is that aditional mod (in aks is mod (x to the power of r) -1 ) is mod 9 (digit sum equivalence). So binomial quoeficent in mod N and then (mod N * position) mod 9
+
+And at last we check those cells with the respect of their position.
+
+Example
+
+ For 341 we check all the cells where (value*position) mod 9=8 ( because digit sum(341)=8)
+
+0
+
+1
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=109830#respond)
+
+[25 November, 2011 at 3:27 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-109922 "Permalink to this comment")
+
+**amateur bv**
+
+![Image 515: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/39651aeca3a4a082ab9c033794d77280?s=32&d=identicon&r=PG)
+Here is the case picture for number 341 where pascal triangle is in mod 341, so we look at line 341 all cells where (cell value * cell position) mod 9 = 8.
+
+[![Image 516: A 16x16 small image, likely a logo, icon or avatar](https://i2.wp.com/img6.imagebanana.com/img/l3vwotir/desktop1_026.png)](http://img6.imagebanana.com/img/l3vwotir/desktop1_026.png)
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=109922#respond)
+
+[25 November, 2011 at 5:05 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-109978 "Permalink to this comment")
+
+**bv**
+
+![Image 517: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/39651aeca3a4a082ab9c033794d77280?s=32&d=identicon&r=PG)
+Now im interested in digt sum for binomial coefficients…..
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=109978#respond)
+
+[29 February, 2012 at 2:15 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-130819 "Permalink to this comment")
+
+**amateur bv**
+
+![Image 518: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/39651aeca3a4a082ab9c033794d77280?s=32&d=identicon&r=PG)
+An Algorithm For Factoring Integers that uses method very similar to AKS.
+
+They say asymptotic computational complexity of their method is unknown!?…..
+
+[http://www.google.si/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CBsQFjAA&url=http%3A%2F%2Feprint.iacr.org%2F2012%2F097.pdf&ei=laFOT77KLIresgbXh7C7Dw&usg=AFQjCNGIlesJ5E6NVf3Bu2wyOYErxB-lAA](http://www.google.si/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CBsQFjAA&url=http%3A%2F%2Feprint.iacr.org%2F2012%2F097.pdf&ei=laFOT77KLIresgbXh7C7Dw&usg=AFQjCNGIlesJ5E6NVf3Bu2wyOYErxB-lAA)
+
+An Algorithm For Factoring Integers
+
+ Yingpu Deng and Yanbin Pan
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=130819#respond)
+
+[29 November, 2013 at 4:04 am](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-254002 "Permalink to this comment")
+
+**[Number Theory: Lecture 22 | Theorem of the week](http://theoremoftheweek.wordpress.com/2013/11/29/number-theory-lecture-22-2/)**
+
+[…] (The Higher Arithmetic) both have material on pseudoprimes and primality testing. Terry Tao has a blog post about the AKS primality test, with various links to further reading. Andrew Granville wrote an […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=254002#respond)
+
+[19 September, 2016 at 12:51 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-472428 "Permalink to this comment")
+
+**[Blog 2 – Algorithms – Site Title](https://computermathematics.wordpress.com/2016/09/19/blog-2-algorithms/)**
+
+[…] Tao, Terence. “The AKS Primality Test.” Whtats New. WordPress, 23 Feb. 2011. Web. 19 Sept. 2016. [https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=472428#respond)
+
+[14 November, 2016 at 6:23 pm](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-474374 "Permalink to this comment")
+
+**[Blog 6-Mathematics and Computer Science – Site Title](https://computermathematics.wordpress.com/2016/11/15/blog-6-mathematics-and-computer-science/)**
+
+[…] Tao, Terence. “The AKS Primality Test.” Whtats New. WordPress, 23 Feb. 2011. Web. 19 Sept. 2016. [https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/) […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/?replytocom=474374#respond)
+
+### Leave a Reply [Cancel reply](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#respond)
+
+Fill in your details below or click an icon to log in:
+
+*   [](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-form-guest "Guest")
+*   [](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-form-load-service:WordPress.com "WordPress.com")
+*   [](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-form-load-service:Twitter "Twitter")
+*   [](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#comment-form-load-service:Facebook "Facebook")
+
+[![Image 519: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)](https://gravatar.com/site/signup/)
+
+Email (Address never made public) 
+
+Name 
+
+Website 
+
+![Image 520: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)
+
+You are commenting using your WordPress.com account. ([Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );)/[Change](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#))
+
+![Image 521: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)
+
+You are commenting using your Twitter account. ([Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );)/[Change](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#))
+
+![Image 522: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)
+
+You are commenting using your Facebook account. ([Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );)/[Change](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#))
+
+![Image 523: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)
+
+You are commenting using your Google+ account. ([Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );)/[Change](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#))
+
+[Cancel](javascript:HighlanderComments.cancelExternalWindow();)
+
+Connecting to %s
+
+- [x] Notify me of new comments via email.
+
+- [x] Notify me of new posts via email.
+
+### For commenters
+
+To enter in LaTeX in comments, use $latex _<Your LaTeX code>_$ (without the < and > signs, of course; in fact, these signs should be avoided as they can cause formatting errors). See the [about page](https://terrytao.wordpress.com/about/) for details and for other commenting policy.
+
+[« Mathematics/Statistics blogs wiki page](https://terrytao.wordpress.com/2009/08/10/mathematicsstatistics-blogs-wiki-page/)
+
+[Random matrices: Universality of local eigenvalue statistics up to the edge »](https://terrytao.wordpress.com/2009/08/15/random-matrices-universality-of-local-eigenvalue-statistics-up-to-the-edge/)
+
+[Blog at WordPress.com.](https://wordpress.com/?ref=footer_blog)Ben Eastaugh and Chris Sternal-Johnson.
+
+[Subscribe to feed.](https://terrytao.wordpress.com/feed/ "Subscribe to the What's new feed")
+
+Post to 
+
+[Cancel](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#)
+
+*   [Follow](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)   
+*   
+ 
+
+    *   [![Image 524: A 50x50 small image, likely a logo, icon or avatar](https://secure.gravatar.com/blavatar/9ecc6262507441727044ba5428d2d2b7?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png) What's new](http://terrytao.wordpress.com/)
+    *   [Customize](https://terrytao.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fterrytao.wordpress.com%2F2009%2F08%2F11%2Fthe-aks-primality-test%2F)
+    *   [Follow](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+    *   [Sign up](https://wordpress.com/start/)
+    *   [Log in](https://terrytao.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fterrytao.wordpress.com%2F2009%2F08%2F11%2Fthe-aks-primality-test%2F)
+    *   [Copy shortlink](https://wp.me/p3qzP-Gb)
+    *   [Report this content](http://en.wordpress.com/abuse/)
+    *   [Manage subscriptions](https://subscribe.wordpress.com/)
+    *   [Collapse this bar](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)
+
+%d bloggers like this:
+
+Send to Email Address Your Name Your Email Address ![Image 526: loading](https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif)[Cancel](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/#cancel)
+
+ Post was not sent - check your email addresses! 
+
+ Email check failed, please try again 
+
+ Sorry, your blog cannot share posts by email. 
+
+![Image 527: :)](https://pixel.wp.com/g.gif?blog=817149&v=wpcom&tz=-8&user_id=0&post=2615&subd=terrytao&host=web.archive.org&ref=&rand=0.7623328189300411)

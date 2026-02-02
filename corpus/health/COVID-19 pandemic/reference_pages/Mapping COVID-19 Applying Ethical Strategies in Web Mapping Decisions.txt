@@ -1,0 +1,1128 @@
+# Mapping COVID-19: Applying Ethical Strategies in Web Mapping Decisions
+
+Cartographic Perspectives,  Number 105, 2025    
+
+> © by the author(s). This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives
+> 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0 .
+> DOI: 10.14714/CP105.1971
+> Mapping COVID-19 –Adams et al. | 67
+
+Aaron M. Adams  (he/him) 
+
+Marshall University 
+
+adamsaa@marshall.edu 
+
+Adam Gallahe r
+
+Cornell University 
+
+adam.gallaher@cornell.edu 
+
+Ashley Benitez Ou 
+
+University of Connecticut 
+
+ashley.benitez_ou@uconn.edu 
+
+Xiang Chen 
+
+University of Connecticut 
+
+peter.chen@uconn.edu 
+
+Weidong Li 
+
+University of Connecticut 
+
+weidong.li@uconn.edu 
+
+Chuanrong Zhang 
+
+University of Connecticut 
+
+chuanrong.zhang@uconn.edu 
+
+Richard Mrozinski 
+
+University of Connecticut 
+
+mrozinski@uconn.edu 
+
+Debarchana  (Debs)  Ghosh  (she/her) 
+
+University of Connecticut 
+
+debarchana.ghosh@uconn.edu 
+
+In December 2019, the world was introduced to a coronavirus, the likes of which have never been seen before, resulting in 
+
+the COVID-19 pandemic. During the initial months of the pandemic, academics, government agencies, and concerned 
+
+citizens, among others, raced to generate maps to help explain the geographic spread of the virus over space and time. 
+
+Maps, however, can be intentionally or unintentionally misleading; we saw this play out during the pandemic as we 
+
+rushed to make COVID-19 dashboards and online maps. While the Johns Hopkins University’s COVID-19 dashboard 
+
+served as the first authoritative resource on the pandemic, it lacked the spatial granularity required for smaller states, 
+
+such as Connecticut. Realizing this limitation, a team of geography Ph.D. students and faculty came together to develop 
+
+a dashboard better suited to serve the residents of the state and aid policymakers during a time when each decision could 
+
+have vast consequences. This case study reflects on our team’s strategies to address the ethical considerations to deliver 
+
+high-quality maps and to promote healthy skepticism among users of the COVID-19 dashboard. We first provide a 
+
+historical background of the discussion around ethics in cartography that we used to frame our arguments and strategies. 
+
+Second, we summarize our deliverables, starting with an online interactive dashboard for 169 towns suitable for both 
+
+mobile and desktop viewing. For the visualizations, we tried to balance the right amount of health information so that 
+
+they were cartographically sound, easy to understand, and not misleading. As geographers, this is one of our responsibili -
+
+ties to our communities. 
+
+K E Y W O R D S :  dashboards; ethics; map design; internet activists; Monmonier’s six strategies; online maps 
+
+# I N T R O D U C T I O N 
+
+Wake up, go downstairs to make coffee, boot 
+
+up the work computer, open ArcGIS Pro, and start a 
+
+geoprocessing function that will take a few minutes to 
+
+run. While ArcGIS Pro runs, go online to look at so -
+
+cial media for a few minutes while finishing your coffee. 
+
+During the height of the COVID-19 pandemic in 2020, 
+
+this routine became the new normal for many geograph -
+
+ic information system (GIS) professionals, and that is 
+
+where this case study in cartographic ethics begins. With 
+
+algorithm-curated social media feeds and the widespread 
+
+proliferation of open-source GIS software, COVID-19 
+
+web-based maps inevitably ended up in the social media 
+
+feeds of cartographic professionals. To the chagrin of 
+
+many, several of these maps did not follow even the most 
+
+basic cartographic conventions based on decades of re -
+
+search, such as normalizing choropleth maps, use of ap -
+
+propriate enumeration units, and appropriate use of color 
+
+(Adams et al. 2023). 
+
+# Mapping COVID-19: Applying Ethical Strategies in Web 
+
+# Mapping Decisions 
+
+# C A S E S T U DY Cartographic Perspectives,  Number 105, 2025  Mapping COVID-19  – Adams et al. | 68 
+
+Tremendous amounts of work have been done to properly 
+
+implement GIS principles, including establishing consis -
+
+tent data standards, best practices for visualizations, the 
+
+role of web maps in communication, and how to imple -
+
+ment the technology (Jenks 1953; Peng and Tsou 2003; 
+
+Zhang and Li 2005; DeMers 2009; Fu and Sun 2011; 
+
+Zhang et al. 2015; Brewer 2016; Kuria et al. 2019). Today, 
+
+in spite of this body of literature, anyone with a computer, 
+
+access to the Internet, and publicly-available data can cre -
+
+ate a web-based map without properly adhering to the best 
+
+practices of mapmaking. Since such maps can be distrib -
+
+uted widely using social media, expanding the utility of 
+
+GIS to more people (Plewe 1997; 2007; Trainor 2023) has 
+
+created scenarios where maps can be misinterpreted or can 
+
+spread misinformation. 
+
+Without any way to enforce the best practices established 
+
+over decades of research, users are under no obligation 
+
+to read instructions or follow tutorials (Peterson 2008). 
+
+Thus, unfortunately, the best thought-out cartograph -
+
+ic practices and theories often do not leave academia and 
+
+are not implemented by GIS users. While holding all 
+
+GIS users to professional standards is impossible, and 
+
+we can forgive middle-school book reports and personal 
+
+social media pages for cartographic errors, mapmaking 
+
+and GIS lack occupational licensure in the United States, 
+
+resulting in poorly made maps being published and dis -
+
+tributed by federal and state governments (Adams et al. 
+
+2020; Monmonier 1985a). Poorly made maps can mislead 
+
+the public, which is unethical, and they can lead to seri -
+
+ous negative consequences when used to inform decisions 
+
+related to public health crises, like the COVID-19 pan -
+
+demic. The democratization of cartography, i.e., making 
+
+maps easily available, while tremendously advantageous, 
+
+has opened Pandora’s box for an infodemic, spread by the 
+
+share button through screens and smartphones. Academia 
+
+and professionally trained cartographers were well aware 
+
+of these plausible problems with cartography long before 
+
+the COVID-19 pandemic (Harrison 1950; Jenks 1981; 
+
+Monmonier 1985b; 2018; Clarke 1995; Monmonier 
+
+1985a; Jenks 1953). 
+
+In his 1991 paper titled “Ethics and Map Design: Six 
+
+Strategies for Confronting the Traditional One-Map 
+
+Solution,” Mark Monmonier calls for “a conscious effort 
+
+by map authors and cartographic educators to promote 
+
+informed skepticism among map viewers.” Physicists or 
+
+statisticians, for example, exercise their disciplinary re -
+
+sponsibility by informing the general population about 
+
+the wrong applications of laws or statistical functions to 
+
+minimize misinformation and potential harm to society. 
+
+Cartographers and GIS users should not only promote 
+
+ethics and best practices of mapmaking, but also critical -
+
+ly review maps that did not follow any standards. Every 
+
+time a poorly made map comes across our feed on social 
+
+media, it is an opportunity to promote informed skepti -
+
+cism among map viewers, and it is our ethical responsi -
+
+bility as mapmakers to do so even though this may seem 
+
+an exercise in futility. A well-thought-out comment is 
+
+unlikely to gain the same attention as the map itself, and 
+
+often, well-meaning criticisms are overwhelmed by others 
+
+defending the original map. After attempting this a few 
+
+times, one can start to feel that it is easier to keep scroll -
+
+ing. But then the problem persists. During the early stages 
+
+of the COVID-19 pandemic, we witnessed a proliferation 
+
+of web-based maps depicting many different aspects of the 
+
+spread of the pandemic. In spite of cartographic educa -
+
+tors promoting informed skepticism among map viewers, 
+
+the usage of poorly made web-based maps and their dis -
+
+semination via social media led to spread of misinforma -
+
+tion on a novel virus. Some have argued that there was 
+
+a corresponding infodemic, partially spread by bad maps 
+
+(Mooney and Juhász 2020). Research has demonstrated 
+
+that these maps influenced the public’s perception of the 
+
+pandemic, specifically causing rural individuals to falsely 
+
+believe COVID-19 was mostly an urban problem (Engel 
+
+et al. 2022). Misinformation leading individuals to under -
+
+estimate their personal or community risk can have rami -
+
+fications, and research suggests it may have contributed to 
+
+political polarization on these issues (Engel et al. 2022). 
+
+The Johns Hopkins University dashboard served as the 
+
+first authoritative online, continuously updated, map-
+
+based tool on the COVID-19 pandemic, but because it 
+
+displayed county-level data for the US, it lacked the spa -
+
+tial granularity required for smaller US states, such as 
+
+Connecticut (Dong et al. 2020; Everts 2020; Mooney 
+
+and Juhász 2020). With only eight counties in a state of 
+
+about 3.5 million people (Census 2020), any information 
+
+represented at the county-level scale was not helpful when 
+
+community-based organizations (CBOs) and administra -
+
+tive services made day-to-day decisions for their towns. 
+
+Realizing this need, frustrated with rampant poor and 
+
+unhelpful maps online, and attempting to fulfill our dis -
+
+ciplinary and ethical duty to set an example and promote 
+
+map literacy and skepticism, we created the University 
+
+of Connecticut  Department of Geography’s COVID-
+
+19 Mapping Project for Connecticut  for the state’s 169 Cartographic Perspectives,  Number 105, 2025  Mapping COVID-19  – Adams et al. | 69 
+
+towns. Using towns, rather than counties like many other 
+
+states, was particularly important in hindsight, as the state 
+
+of Connecticut has now completely replaced counties with 
+
+nine planning regions that do not correspond to the previ -
+
+ous counties. 
+
+The project focused on creating various visualization ap -
+
+proaches to explore and communicate COVID-19 data 
+
+published in Connecticut. Among the outcomes of this 
+
+project, our team members published papers calling atten -
+
+tion to, and documenting, cartographic issues in official 
+
+United States federal and state COVID-19 dashboards, 
+
+such as the lack of proper normalization in choropleths 
+
+(Adams et al. 2020; Adams et al. 2023). Other papers 
+
+we published made use of the Connecticut COVID-19 
+
+datasets to model the disease using town-level data and 
+
+assess the deployment of vaccines in the state among vul -
+
+nerable populations (Chen et al. 2021; Wang et al. 2021). 
+
+Collectively, we presented our work at local, regional, 
+
+national, and international conferences, including the 
+
+UConn Center for mHealth and Social Media conference 
+
+focusing on COVID-19: Media, Misinformation, and 
+
+Science Communication. We included discussion of our 
+
+work in class material in our department, and we brought 
+
+our work to the attention of medical professionals in pre -
+
+sentations at Connecticut Children’s Hospital. Several 
+
+GIS professionals across the country took similar, or far 
+
+greater, action to try and bring attention to the bad maps 
+
+that appeared during the pandemic and set examples of 
+
+how the maps should look, fulfilling the ethical responsi -
+
+bility of cartographers proposed by individuals like Mark 
+
+Monmonier (1991) and Jeremey Crampton (1995). 
+
+# C A S E S T U D Y: U C O N N D E P A R T M E N T O F G E O G R A P H Y ’ S C O V I D -19 
+
+# M A P P I N G P R O J E C T, M A R C H 2 0 2 0 – A P R I L 2 0 2 3 
+
+This case study reflects on the work of our 
+
+team to address our responsibility to deliver high-quality 
+
+maps and information that would promote healthy skep -
+
+ticism among the users of the COVID-19 dashboard in 
+
+Connecticut. Often, cartographic theory is not incorporat -
+
+ed into practice by GIS users, so to avoid making ethical 
+
+blunders, we tried to justify every cartographic decision we 
+
+made with a citation. We were guided by the six strategies 
+
+from Monmonier’s 1991 paper, “Ethics and Map Design: 
+
+Six Strategies for Confronting the Traditional One-Map 
+
+Solution, ” and below we use them to describe select -
+
+ed ethical quandaries or dilemmas and our responses or 
+
+workarounds. Monmonier’s six strategies are: (1) dynam -
+
+ic sequencing of different cartographic views, (2) creating 
+
+experiential maps, (3) abiding by professional standards, 
+
+with a Code of Cartographic Ethics calling for present -
+
+ing alternative views, (4) disclosing experiments, (5) pro -
+
+moting informed skepticism among map viewers, and (6) 
+
+institutional structures (Monmonier 1991). During our 
+
+project, these strategies served as a framework to help 
+
+guide our decisions, workflows, and goals, while giving us 
+
+a broader justification for what we were doing, including 
+
+the use of an interactive dashboard over more traditional 
+
+static cartography. These strategies served to help us avoid 
+
+contributing to the spread of misinformation. 
+
+We addressed Monmonier’s strategies #1 and #3  by im -
+
+plementing what Monmonier called “atlas touring” using 
+
+a variety of spatial visualizations, graphs, and charts that 
+
+we adapted throughout the pandemic (Monmonier 1991). 
+
+These were divided into two products: an online COVID-
+
+19 dashboard and a policy-based visualization. Using an 
+
+Esri dashboard app, with the Johns Hopkins dashboard as 
+
+inspiration, we created a dashboard that was updated daily 
+
+for the state of Connecticut. Throughout the pandemic, 
+
+the topics of the web maps and visualizations hosted on 
+
+our dashboard varied. We created and published chorop -
+
+leth maps, proportional symbol maps, dot density maps, 
+
+pie chart maps, line graphs, bar charts, and raw number 
+
+values. Many of the maps had dynamic scales (that is, they 
+
+were zoomable) and pop-ups, allowing users to engage with 
+
+the maps and see the raw data for themselves. Notably, we 
+
+provided a town-level map of case rate (per 10,000 people) 
+
+over the previous two weeks based on the (known) incuba -
+
+tion period of the COVID-19 infection, which was unique 
+
+and was not provided by any other COVID-19 tracking 
+
+systems in the state. Later, when vaccination efforts were 
+
+underway, we created a map (Figure 1) that showed the 
+
+percentage of the population fully vaccinated by town and 
+
+placed a star symbol on the centroid of towns that had 
+
+reached 70% coverage for “herd immunity,” based on the 
+
+best information at the time (Plans-Rubió 2022). This was 
+
+later replaced with an interactive web slider (Figure 2) em -
+
+bedded in the main dashboard that facilitated comparison 
+
+of full vaccination and first dose percentages by town. To 
+
+incorporate the time variable, we used two different ani -
+
+mations: a dot density map showing total cases, and a pie 
+
+chart depicting vaccination status by town. Later, we used Cartographic Perspectives,  Number 105, 2025  Mapping COVID-19  – Adams et al. | 70 
+
+Figure 1.  Percent of population fully vaccinated. 
+
+Figure 2.  Percent of population fully vaccinated, with slider. Cartographic Perspectives,  Number 105, 2025  Mapping COVID-19  – Adams et al. | 71 
+
+a swipe tool to compare variables related to COVID-19 
+
+vaccination side by side on the map. 
+
+Realizing the importance and the potential impact of the 
+
+executive orders of Governor Ned Lamont, and other 
+
+landmark intervention and mitigation efforts at the na -
+
+tional level, such as the CDC’s mask usage guidelines and 
+
+the vaccine rollout, we developed our second product using 
+
+open-source resources like Shiny in R and JavaScript. 
+
+This was an interactive  website , “Visualizing Associations 
+
+between Policy Decision Timeline and COV ID-19 
+
+Infection for Connecticut” (Figure 3). The timeline on the 
+
+website showed the subsequent major COVID-19 related 
+
+executive orders and mitigation measures, re-openings of 
+
+schools, restaurants, and vaccination roll-out undertaken 
+
+by the state of Connecticut after the first case appeared 
+
+on March 6th, 2020, and the first executive order of “state 
+
+emergency” was declared on March 10th, 2020. 
+
+Over time we adapted our dashboard items with “expe -
+
+riential maps,” per Monmonier’s strategy #2, to meet the 
+
+changing conditions of the COVID-19 pandemic and its 
+
+mitigation efforts. Early on in the pandemic, when testing 
+
+was the number one priority, we made sure to include the 
+
+location and associated information related to testing sites 
+
+in Connecticut. When it was time to make decisions about 
+
+returning to school in the fall of 2020, we incorporated 
+
+the location of all state universities in Connecticut so that 
+
+users could readily understand the COVID-19 conditions 
+
+in the university towns. When the vaccine rollout started 
+
+in February 2021, we added a pie chart showing weekly 
+
+trends in the percentage of unvaccinated, first-dose, and 
+
+fully-vaccinated people by town. In Figure 3, the time -
+
+line depicting the governor’s executive orders and policies 
+
+is interactive and allows users to click on various orders/ 
+
+policies to see what the situation was like on the date it 
+
+was implemented. From a historical perspective, we hope 
+
+that this can give insight to the impact of health policies/ 
+
+mitigation measures on the spread and transmission of 
+
+COVID-19 cases. This could be useful for future infec -
+
+tious diseases outbreaks. 
+
+Our team attempted to proactively implement Mon -
+
+monier’s strategy #3, providing alternate views, during 
+
+weekly discussions over Zoom, during which we discussed 
+
+each visualization, proposed possible additional ones, and 
+
+tried to be as careful as possible in our cartographic deci -
+
+sion making. We also discussed issues related to COVID-
+
+19 health disparities, the lack of data by race/ethnicity 
+
+and gender, and the incident of an  alleged whistleblow -
+
+er  who was a geographer and a GIS analyst at Florida’s 
+
+Department of Public Health regarding data aggregation 
+
+and curation. These experiences and interactions, and 
+
+our teamwork, led to the overall growth and maturity of 
+
+the “cartographers” in us while we lived through a public 
+
+health crisis.      
+
+> Figure 3. Visualizing associations between policy decisions and COVID-19 infection in Connecticut. Cartographic Perspectives, Number 105, 2025 Mapping COVID-19 –Adams et al. | 72
+
+We tried to implement Monmonier’s strategy #4, “dis -
+
+closing experiments,” in several ways. We documented 
+
+our data processing decisions, and we have included a 
+
+discussion of our mapmaking decisions in the methodol -
+
+ogy section of forthcoming papers. One example of the 
+
+need to document data curation arose when the state of 
+
+Connecticut shifted from publishing daily case counts for 
+
+weekends, to publishing Saturday and Sunday added onto 
+
+Monday’s numbers. To continue logging daily counts and 
+
+remedy this problem, we divided the Monday case count 
+
+by three, and equally attributed it to Saturday, Sunday, 
+
+and Monday. While this was not ideal, because we were 
+
+forced to assume without evidence that the number of 
+
+COVID-19 cases was same on all the three days, it was 
+
+the only way to maintain daily case counts for analysis. To 
+
+our surprise, another department at UConn noticed that 
+
+Saturday, Sunday, and Monday were always equal, and 
+
+contacted us with their concerns. This decision was docu -
+
+mented, so that we could share these limitations with our 
+
+users. 
+
+As another example, daily case counts for a town could be 
+
+negative values because officials would periodically adjust 
+
+the number of previously recorded cases, thus lowering 
+
+the town’s case count. In these instances, we resorted to 
+
+changing the negative values to zeros for the daily visual -
+
+izations to mitigate the confusion associated with a daily 
+
+negative case count. However, these adjustments resulted 
+
+in massive outliers in some instances, which we needed 
+
+to either exclude from our analysis, or adjust for. These 
+
+changes had to be documented very carefully to avoid mis -
+
+understandings or accusations that we were manipulating 
+
+the data to suit a particular narrative. In hindsight, one 
+
+strategy to maintain full disclosure would have been to 
+
+capture a screenshot of the web map at regular intervals 
+
+and include it in the documentation. Because web maps 
+
+can be changed by the organization maintaining them— 
+
+removing yesterday’s mistakes and patterns that may have 
+
+inf luenced policy being implemented today—and are 
+
+also subject to link rot, this type of documentation could 
+
+have captured the changes we made and provided more 
+
+transparency. 
+
+We tried to implement Monmonier’s strategy #5, “promot -
+
+ing informed skepticism among map viewers,” in multiple 
+
+ways. First, we published papers discussing problems with 
+
+the official government dashboards, explicitly focusing 
+
+on the normalization of choropleth maps and the colors 
+
+and enumeration units used to make them. We present -
+
+ed papers and posters on these subjects at several academ -
+
+ic conferences, workshops at the Connecticut Children’s 
+
+Hospital, and courses at University of Connecticut. 
+
+Among these presentations was a YouTube video poster 
+
+prepared for the “ COVID-19: Media, Misinformation, 
+
+and Science Communication ” conference organized by the 
+
+UConn Center for mHealth and Social Media. Many of 
+
+these activities can also be seen as satisfying Monmonier’s 
+
+strategy #6, which calls for using “public forums, a journal 
+
+of cartographic criticism, or courses promoting systematic 
+
+critiques of maps, especially potentially persuasive maps” 
+
+to get feedback on map design (Monmonier 1991). During 
+
+the project, we reviewed other dashboards and web map -
+
+ping projects, and we presented issues we found with 
+
+those maps at conferences and as a write-up in the  Journal 
+
+of Maps  (Adams et al. 2023). Members of our the proj -
+
+ect group were interviewed by NBC Connecticut, during 
+
+which they discussed the potential for web maps on our 
+
+dashboard to facilitate understanding of the COVID-19 
+
+case data (Jones 2020). 
+
+Figure 4 shows data and different frames from our dash -
+
+board to support our narrative of why and how we used 
+
+Monmonier’s strategies to help us avoid contributing to 
+
+the spread of misinformation. This figure demonstrates the 
+
+impact of symbolization (choropleth vs dot density), nor -
+
+malization (rate vs total cases), and the modifiable areal 
+
+unit problem (MAUP) based on scales of geography 
+
+(towns, counties, and planning regions) on the way spatial 
+
+patterns appear on a map (Openshaw 1977; Fotheringham 
+
+1989). 
+
+# D I S C U S S I O N ( A N D A C A L L T O A C T I O N ) 
+
+The activities of the members of the COVID-
+
+19 Mapping Project for Connecticut, which is detailed in 
+
+this case study, are just a tiny snapshot of the work carried 
+
+out by geographers and cartographers across the country. 
+
+During the COVID-19 pandemic, in spite of spread of in -
+
+formation via poorly designed maps, the larger GIS com -
+
+munity tried to demonstrate our technology’s capabilities 
+
+to study and map a pandemic in near real time to inform Cartographic Perspectives,  Number 105, 2025  Mapping COVID-19  – Adams et al. | 73 
+
+policy (Dong et al. 2020; Delmelle et al. 2024). However, 
+
+at the federal and state government levels, there were 
+
+major failures to adhere to the most basic of cartograph -
+
+ic standards, including failure to use appropriate symbol -
+
+ization or enumeration units (Adams et al. 2020; Adams 
+
+et al. 2023). These failures can erode the trust that peo -
+
+ple place in maps, which can potentially cost lives when 
+
+those maps are needed to coordinate the response to di -
+
+sasters. Ultimately, all society can do now is evaluate how 
+
+GIS was used during the COVID-19 pandemic, assess the 
+
+strengths and failures of those uses, and try to take an ac -
+
+tive role in ethically implementing the technology in the 
+
+future. Moving forward, if nothing else, we can use the 
+
+examples of misinformation spread by official government 
+
+COVID-19 maps to underscore the importance of carto -
+
+graphic conventions. 
+
+Crampton (1998) calls for GIS professionals to be “Internet 
+
+activists” in spreading good content online, and set the 
+
+tone in regard to employing GIS and cartography online 
+
+(Crampton 1998; McGranaghan 1999). Perhaps those of 
+
+Mark Monmonier’s “cartographic priesthood” must take 
+
+this activism a step further and implement his strategies 
+
+for ethics in map design by engaging with the comment 
+
+section on social media as cartographic critics, insist on 
+
+adherence to cartographic standards wherever possible, 
+
+and patiently try to spread cartographic literacy and map 
+
+skepticism to educate the public. We must also ensure that 
+
+we do not contribute to the infodemic through poor carto -
+
+graphic decisions, which can only be achieved by working 
+
+ethical strategies into our workflows from the beginning 
+
+of a project.      
+
+> Figure 4. Prevalence of COVID-19 cases as of April 14, 2023, displayed with different symbolization methods and enumeration units. Cartographic Perspectives, Number 105, 2025 Mapping COVID-19 –Adams et al. | 74
+
+# R E F E R E N C E S 
+
+Adams, Aaron M., Weidong Li, Chuanrong Zhang, and 
+
+Xiang Chen. 2020. “The Disguised Pandemic: The 
+
+Importance of Data Normalization in COVID-19 
+
+Web Mapping.”  Public Health  183: 36–37.  https://doi. 
+
+org/10.1016/j.puhe.2020.04.034 .
+
+———. 2023. “Normalizing the Pandemic: Exploring the 
+
+Cartographic Issues in State Government COVID-19 
+
+Dashboards.”  Journal of Maps  19 (1): 1–9.  https://doi.or 
+
+g/10.1080/17445647.2023.2235385 .
+
+Brewer, Cynthia A. 2016.  Designing Better Maps: A Guide 
+
+for GIS Users . Second edition. Redlands, CA: Esri 
+
+Press. 
+
+Chen, Xiang, Aiyin Zhang, Hui Wang, Adam Gallaher, 
+
+and Xiaolin Zhu. 2021. “Compliance and Containment 
+
+in Social Distancing: Mathematical Modeling of 
+
+COVID-19 across Townships.”  International Journal of 
+
+Geographical Information Science  35 (3): 446–65.  https:// 
+
+doi.org/10.1080/13658816.2021.1873999 .
+
+Clarke, Keith C. 1995.  Analytical and Computer 
+
+Cartography . Second edition. Englewood Cliffs, NJ: 
+
+Prentice Hall. 
+
+Crampton, Jeremy. 1995. “The Ethics of GIS.” 
+
+Cartography and Geographic Information Systems  22 (1): 
+
+84–89.  https://doi.org/10.1559/152304095782540546 .
+
+———. 1998. “The Convergence of Spatial 
+
+Technologies.”  Cartographic Perspectives  30: 3–5. 
+
+https://doi.org/10.14714/CP30.659 .
+
+Delmelle, Eric, Nick Bearman, and X. Angela Yao. 
+
+2024. “Developing Geospatial Analytical Methods to 
+
+Explore and Communicate the Spread of COVID19.” 
+
+Cartography and Geographic Information Science  51 (2): 
+
+193–99.  https://doi.org/10.1080/15230406.2024.232 
+
+5495 .
+
+DeMers, Michael N. 2009.  Fundamentals of Geographic 
+
+Information Systems . Fourth edition. Hoboken, NJ: 
+
+John Wiley & Sons. 
+
+Dong, Ensheng, Hongru Du, and Lauren Gardner. 
+
+2020. “An Interactive Web-Based Dashboard to 
+
+Track COVID-19 in Real Time.”  The Lancet Infectious 
+
+Diseases  20 (5): 533–34.  https://doi.org/10.1016/ 
+
+S1473-3099(20)30120-1 .
+
+Engel, Claudia, Jonathan Rodden, and Marco Tabellini. 
+
+2022. “Policies to Influence Perceptions about 
+
+COVID-19 Risk: The Case of Maps.”  Science Advances 
+
+8 (11): eabm5106.  https://doi.org/10.1126/sciadv. 
+
+abm5106 .
+
+Everts, Jonathan. 2020. “The Dashboard Pandemic.” 
+
+Dialogues in Human Geography  10 (2): 260–64.  https:// 
+
+doi.org/10.1177/2043820620935355 .
+
+Fotheringham, A. Stewart. 1989. "Scale-independent 
+
+spatial analysis." In  The  Accuracy of Spatial Databases ,
+
+edited by Michael Goodchild and Sucharita Gopal, 
+
+144–150. London: Taylor and Francis. 
+
+Fu, Pinde, and Jiulin Sun. 2011.  Web GIS: Principles and 
+
+Applications . First edition. Redlands, CA: ESRI Press. 
+
+Harrison, Richard Edes. 1950. “Cartography in Art and 
+
+Advertising.”  The Professional Geographer  2 (6): 12–15. 
+
+https://doi.org/10.1111/j.0033-0124.1950.00012.x .
+
+Jenks, George F. 1953. “An Improved Curriculum 
+
+for Cartographic Training at the College and 
+
+University Level.”  Annals of the Association of 
+
+American Geographers  43 (4): 317–31.  https://doi. 
+
+org/10.1080/00045605309352158 .
+
+———. 1981. “Lines, Computers, and Human Frailties.” 
+
+Annals of the Association of American Geographers  71 
+
+(1): 1–10.  https://doi.org/10.1111/j.1467-8306.1981. 
+
+tb01336.x .
+
+Jones, Kyle. 2020. “New Haven App Adds New Way to 
+
+Submit COVID-19 Concerns.”  NBC Connecticut , April 
+
+6, 2020.  https://www.nbcconnecticut.com/news/ 
+
+local/new-haven-app-adds-new-way-to-submit-covid-
+
+19-concerns/2251194/. 
+
+Kuria, Ezekiel, Stephen Kimani, and Agnes Mindila. 
+
+2019. “A Framework for Web GIS Development: 
+
+A Review.”  International Journal of Computer 
+
+Applications  178 (16): 6–10.  https://doi.org/10.5120/ 
+
+ijca2019918863 .
+
+McGranaghan, Matthew. 1999. “The Web, Cartography 
+
+and Trust.”  Cartographic Perspectives  32: 3–5.  https:// 
+
+doi.org/10.14714/CP32.624 .Cartographic Perspectives,  Number 105, 2025  Mapping COVID-19  – Adams et al. | 75 
+
+Monmonier, Mark S. 1985a. “Former Editor Protests 
+
+Censorship.”  The American Cartographer  12 (1): 69–70. 
+
+https://doi.org/10.1559/152304085783914695 .
+
+———. 1985b.  Technological Transition in Cartography .
+
+Madison, WI: University of Wisconsin Press. 
+
+———. 1991. “Ethics and Map Design: Six Strategies 
+
+for Confronting the Traditional One-Map Solution.” 
+
+Cartographic Perspectives  10: 3–8.  https://doi. 
+
+org/10.14714/CP10.1052 .
+
+———. 2018.  How to Lie with Maps . Third edition. 
+
+Chicago: The University of Chicago Press. 
+
+Mooney, Peter, and Levente Juhász. 2020. “Mapping 
+
+COVID-19: How Web-Based Maps Contribute to 
+
+the Infodemic.”  Dialogues in Human Geography  10 (2): 
+
+265–70.  https://doi.org/10.1177/2043820620934926 .
+
+Openshaw, S. 1977. “A geographical solution to scale and 
+
+aggregation problems in region-building, partitioning 
+
+and spatial modelling.”  Transactions of the  Institute 
+
+of British Geographers  2 (4): 459—72.  https://doi. 
+
+org/10.2307/622300 .
+
+Peng, Zhong-Ren, and Ming-hsiang Tsou. 2003.  Internet 
+
+GIS: Distributed Geographic Information Services for the 
+
+Internet and Wireless Networks . Hoboken, NJ: Wiley. 
+
+Peterson, Michael P. 2008. “Trends in Internet and 
+
+Ubiquitous Cartography.”  Cartographic Perspectives  61: 
+
+36–49.  https://doi.org/10.14714/CP61.213 .
+
+Plans-Rubió, Pedro. 2022. “Percentages of Vaccination 
+
+Coverage Required to Establish Herd Immunity 
+
+against SARS-CoV-2.”  Vaccines  10 (5): 736.  https://doi. 
+
+org/10.3390/vaccines10050736 .
+
+Plewe, Brandon. 1997.  GIS Online: Information Retrieval, 
+
+Mapping, and the Internet . Santa Fe, NM: OnWord 
+
+Press. 
+
+———. 2007. “Web Cartography in the 
+
+United States.”  Cartography and Geographic 
+
+Information Science  34 (2): 133–36.  https://doi. 
+
+org/10.1559/152304007781002235 .
+
+Trainor, Tim. 2023. “Cartography Remains Critical in 
+
+the Digital Mapping Age.”  ArcNews , Winter 2023. 
+
+https://www.esri.com/about/newsroom/arcnews/ 
+
+cartography-remains-critical-in-the-digital-mapping-
+
+age/ 
+
+Wang, Hui, Ran Xu, Shijin Qu, Marlene Schwartz, 
+
+Aaron Adams, and Xiang Chen. 2021. “Health 
+
+Inequities in COVID-19 Vaccination among the 
+
+Elderly: Case of Connecticut.”  Journal of Infection 
+
+and Public Health  14 (10): 1563–65.  https://doi. 
+
+org/10.1016/j.jiph.2021.07.013 .
+
+Zhang, Chuanrong, and Weidong Li. 2005. “The 
+
+Roles of Web Feature and Web Map Services in 
+
+Real-Time Geospatial Data Sharing for Time-
+
+Critical Applications.”  Cartography and Geographic 
+
+Information Science  32 (4): 269–83.  https://doi. 
+
+org/10.1559/152304005775194728 .
+
+Zhang, Chuanrong, Tian Zhao, and Weidong Li. 
+
+2015.  Geospatial Semantic Web . Cham, Switzerland: 
+
+Springer International Publishing.  https://doi. 
+
+org/10.1007/978-3-319-17801-1 .

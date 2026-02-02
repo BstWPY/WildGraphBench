@@ -1,0 +1,506 @@
+# Quick Facts
+
+Webb FAQ
+--------
+
+Frequently Asked Questions
+
+_All of the key questions answered about Webb targeted for the general interest level._
+
+General Questions About Webb
+----------------------------
+
+*   **[What is the James Webb Space Telescope?](https://webbtelescope.org/quick-facts#h-what-is-the-james-webb-space-telescope)**
+*   **[What was the Webb called before it was named after James Webb?](https://webbtelescope.org/quick-facts#h-what-was-the-webb-called-before-it-was-named-after-james-webb)**
+*   **[Who was James E. Webb?](https://webbtelescope.org/quick-facts#h-who-was-james-e-webb)**
+*   **[How will Webb be better than the Hubble Space Telescope?](https://webbtelescope.org/quick-facts#h-how-will-webb-be-better-than-the-hubble-space-telescope)**
+*   **[When was Webb launched?](https://webbtelescope.org/quick-facts#h-when-was-webb-launched)**
+*   **[How did Webb's launch windows work?](https://webbtelescope.org/quick-facts#h-how-did-webb-s-launch-windows-work)**
+*   **[How was Webb launched?](https://webbtelescope.org/quick-facts#h-how-was-webb-launched)**
+*   **[Why was the Ariane 5 been chosen to launch Webb? Why did NASA not change to Space X?](https://webbtelescope.org/quick-facts#h-why-was-the-ariane-5-chosen-to-launch-webb-why-did-nasa-not-change-to-space-x)**
+*   **[What happened after Webb was launched?](https://webbtelescope.org/quick-facts#h-what-happened-after-webb-was-launched)**
+*   **[Was there flexibility built into the planned deployments?](https://webbtelescope.org/quick-facts#h-was-there-flexibility-built-into-the-planned-deployments)**
+*   **[Why do we have to go to space at all? Can we not get these data with large telescopes on the ground, using adaptive optics?](https://webbtelescope.org/quick-facts#h-why-do-we-have-to-go-to-space-at-all-can-we-not-get-these-data-with-large-telescopes-on-the-ground-using-adaptive-optics)**
+*   **[How long will the Webb mission last?](https://webbtelescope.org/quick-facts#h-how-long-will-the-webb-mission-last)**
+*   **[Why is Webb not serviceable like Hubble?](https://webbtelescope.org/quick-facts#h-why-is-webb-not-serviceable-like-hubble)**
+*   **[Why did we not assemble Webb in orbit?](https://webbtelescope.org/quick-facts#h-why-did-we-not-assemble-webb-in-orbit)**
+*   **[How was testing different for Hubble and Webb's mirrors? What did Hubble teach us?](https://webbtelescope.org/quick-facts#h-how-was-testing-different-for-hubble-and-webb-s-mirrors-what-did-hubble-teach-us)**
+*   **[Will Webb use gyroscopes for pointing?](https://webbtelescope.org/quick-facts#h-will-webb-use-gyroscopes-for-pointing)**
+*   **[How is Webb pointed?](https://webbtelescope.org/quick-facts#h-how-is-webb-pointed)**
+*   **[How big is Webb?](https://webbtelescope.org/quick-facts#h-how-big-is-webb)**
+*   **[Why does the sunshield have five layers rather than one thick one?](https://webbtelescope.org/quick-facts#h-why-does-the-sunshield-have-five-layers-rather-than-one-thick-one)**
+*   **[How does Webb communicate with scientists at Earth?](https://webbtelescope.org/quick-facts#h-how-does-webb-communicate-with-scientists-at-earth)**
+
+Webb's Orbit
+------------
+
+*   **[How long did it take Webb to reach its orbit?](https://webbtelescope.org/quick-facts#h-how-long-did-it-take-webb-to-reach-its-orbit)**
+*   **[Why does Webb have to go so much farther away from Earth than Hubble? What is the second Lagrange point orbit?](https://webbtelescope.org/quick-facts#h-why-does-webb-have-to-go-so-much-farther-away-from-earth-than-hubble-what-is-the-second-lagrange-point-orbit)**
+*   **[Is Webb’s view limited because of its orientation and is its sunshield blocking out part of the sky?](https://webbtelescope.org/quick-facts#h-is-webb-s-view-limited-because-of-its-orientation-and-is-its-sunshield-blocking-out-part-of-the-sky)**
+
+Webb's Mirrors
+--------------
+
+*   **[How can Webb's primary mirror be six times the size of Hubble's but be less massive?](https://webbtelescope.org/quick-facts#h-how-can-webb-s-primary-mirror-be-six-times-the-size-of-hubble-s-but-be-less-massive)**
+*   **[The primary mirror on Webb is made of beryllium. What is beryllium?](https://webbtelescope.org/quick-facts#h-the-primary-mirror-on-webb-will-be-made-of-beryllium-what-is-beryllium)**
+*   **[How did you protect Webb from the violent forces involved in the Ariane rocket launch? Isn't beryllium brittle?](https://webbtelescope.org/quick-facts#h-how-did-you-protect-webb-from-the-violent-forces-involved-in-the-ariane-rocket-launch-isn-t-beryllium-brittle)**
+*   **[Will micrometeoroids damage the beryllium mirror?](https://webbtelescope.org/quick-facts#h-will-micrometeoroids-damage-the-beryllium-mirror)**
+*   **[Why is the mirror gold-coated and how much gold is used?](https://webbtelescope.org/quick-facts#h-why-is-the-mirror-gold-coated-and-how-much-gold-is-used)**
+*   **[Why does Webb have a segmented, unfolding primary mirror?](https://webbtelescope.org/quick-facts#h-why-does-webb-have-a-segmented-unfolding-primary-mirror)**
+*   **[What is Webb's angular resolution, and how will its images compare to Hubble's? Will they be as beautiful?](https://webbtelescope.org/quick-facts#h-what-is-webb-s-angular-resolution-and-how-will-its-images-compare-to-hubble-s-will-they-be-as-beautiful)**
+
+Webb's Instruments & Technology
+-------------------------------
+
+*   **[What kind of instruments does Webb have?](https://webbtelescope.org/quick-facts#h-what-kind-of-instruments-does-webb-have)**
+*   **[What kind of detectors does Webb have?](https://webbtelescope.org/quick-facts#h-what-kind-of-detectors-does-webb-have)**
+*   **[What is the operating temperature of the telescope and the instruments?](https://webbtelescope.org/quick-facts#h-what-is-the-operating-temperature-of-the-telescope-and-the-instruments)**
+*   **[Can Webb take selfies?](https://webbtelescope.org/quick-facts#h-can-webb-take-selfies)**
+
+*   **[Why is Webb optimized for near- and mid-infrared light?](https://webbtelescope.org/quick-facts#h-why-is-webb-optimized-for-near-and-mid-infrared-light)**
+*   **[What about visible light?](https://webbtelescope.org/quick-facts#h-what-about-visible-light)**
+*   **[At which wavelengths will Webb observe?](https://webbtelescope.org/quick-facts#h-at-which-wavelengths-will-webb-observe)**
+*   **[How faint can Webb see?](https://webbtelescope.org/quick-facts#h-how-faint-can-webb-see)**
+*   **[What are the main science goals of Webb?](https://webbtelescope.org/quick-facts#h-what-are-the-main-science-goals-of-webb)**
+*   **[How far will Webb look?](https://webbtelescope.org/quick-facts#h-how-far-will-webb-look)**
+*   **[Will Webb see planets around other stars?](https://webbtelescope.org/quick-facts#h-will-webb-see-planets-around-other-stars)**
+*   **[Can Webb observe planets in our own solar system?](https://webbtelescope.org/quick-facts#h-can-webb-observe-planets-in-our-own-solar-system)**
+*   **[What will Webb's first targets be?](https://webbtelescope.org/quick-facts#h-what-will-webb-s-first-targets-be)**
+*   **[Will Webb contribute to the dark matter research?](https://webbtelescope.org/quick-facts#h-will-webb-contribute-to-the-dark-matter-research)**
+*   **[What about dark energy?](https://webbtelescope.org/quick-facts#h-what-about-dark-energy)**
+*   **[Will Webb be able to tell us more about the Big Bang?](https://webbtelescope.org/quick-facts#h-will-webb-be-able-to-tell-us-more-about-the-big-bang)**
+
+Building and Using Webb
+-----------------------
+
+*   **[Who are the partners in the Webb project?](https://webbtelescope.org/quick-facts#h-who-are-the-partners-in-the-webb-project)**
+*   **[Which states are involved?](https://webbtelescope.org/quick-facts#h-which-states-are-involved)**
+*   **[Which countries are involved?](https://webbtelescope.org/quick-facts#h-which-countries-are-involved)**
+*   **[Who will be able to use Webb and how is this decided?](https://webbtelescope.org/quick-facts#h-who-will-be-able-to-use-webb-and-how-is-this-decided)**
+
+Webb and the Public
+-------------------
+
+*   **[Will I be able to see Webb pictures?](https://webbtelescope.org/quick-facts#h-will-i-be-able-to-see-webb-pictures)**
+*   **[Will Webb images look as good as Hubble's?](https://webbtelescope.org/quick-facts#h-will-webb-images-look-as-good-as-hubble-s)**
+*   **[Where did Webb launch?](https://webbtelescope.org/quick-facts#h-where-was-webb-launched)**
+
+Basic Science
+-------------
+
+*   **[What will the first galaxies that formed after the Big Bang look like?](https://webbtelescope.org/quick-facts#h-what-will-the-first-galaxies-that-formed-after-the-big-bang-look-like)**
+*   **[What is redshift and how do you measure it?](https://webbtelescope.org/quick-facts#h-what-is-redshift-and-how-do-you-measure-it)**
+*   **[What is a light-year? And what is a parsec?](https://webbtelescope.org/quick-facts#h-what-is-a-light-year-and-what-is-a-parsec)**
+*   **[What is a micrometer? What is a micron?](https://webbtelescope.org/quick-facts#h-what-is-a-micrometer-what-is-a-micron)**
+*   **[What is an arc-minute? What is an arc-second?](https://webbtelescope.org/quick-facts#h-what-is-an-arc-minute-what-is-an-arc-second)**
+*   **[What is infrared radiation?](https://webbtelescope.org/quick-facts#h-what-is-infrared-radiation)**
+*   **[What is the electromagnetic spectrum?](https://webbtelescope.org/quick-facts#h-what-is-the-electromagnetic-spectrum)**
+*   **[How does our atmosphere block infrared radiation from space?](https://webbtelescope.org/quick-facts#h-how-does-our-atmosphere-block-infrared-radiation-from-space)**
+
+More Information
+----------------
+
+*   **[How can I find out more about Webb?](https://webbtelescope.org/quick-facts#h-how-can-i-find-out-more-about-webb)**
+*   **[Do you have anything for kids?](https://webbtelescope.org/quick-facts#h-do-you-have-anything-for-kids)**
+*   **[I'm a professional astronomer - how can I find out more about Webb?](https://webbtelescope.org/quick-facts#h-i-m-a-professional-astronomer-how-can-i-find-out-more-about-webb)**
+
+General Questions About Webb
+----------------------------
+
+### What is the James Webb Space Telescope?
+
+The James Webb Space Telescope, also called Webb or JWST, is a large, space-based observatory, optimized for infrared wavelengths, which complements and extends the discoveries of the Hubble Space Telescope. It has longer wavelength coverage and greatly improved sensitivity. The longer wavelengths enable Webb to look further back in time to find the first galaxies that formed in the early Universe, and to peer inside dust clouds where stars and planetary systems are forming today.
+
+### **What was the Webb called before it was named after James Webb?**
+
+The James Webb Space Telescope was originally called the "Next Generation Space Telescope," or NGST. It was called "Next Generation" because Webb will build on and continue the science exploration started by the Hubble Space Telescope. Discoveries by Hubble and other telescopes have caused a revolution in astronomy and have raised new questions that require a new, different, and more powerful telescope. Webb is also a "Next Generation" telescope in an engineering sense, introducing new technologies like the lightweight, deployable primary mirror that will pave the way for future missions. On 10 September 2002, the Next Generation Space Telescope was named in honor of James E. Webb, NASA's second administrator.
+
+### **Who was James E. Webb?**
+
+This space-based observatory is named after James E. Webb (1906- 1992), NASA's second administrator. Webb is best known for leading Apollo, a series of lunar exploration programs that landed the first humans on the Moon. However, he also initiated a vigorous space science program that was responsible for more than 75 launches during his tenure, including America's first interplanetary explorers. For more information, please visit[this page on our website](https://science.nasa.gov/mission/webb/who-is-james-webb/). James E. Webb's official NASA biography can be found[here](https://www.nasa.gov/people/james-e-webb/).
+
+### [](https://webbtelescope.org/quick-facts)**How will Webb be better than the Hubble Space Telescope?**
+
+Webb is designed to look deeper into space to see the earliest stars and galaxies that formed in the Universe and to look deep into nearby dust clouds to study the formation of stars and planets. In order to do this, Webb has a much larger primary mirror than Hubble (2.7 times larger in diameter, or about 6 times larger in area), giving it more light-gathering power. It also has infrared instruments with longer wavelength coverage and greatly improved sensitivity than Hubble. Finally, Webb operates much farther from Earth, maintaining its extremely cold operating temperature, stable pointing and higher observing efficiency than with the Earth-orbiting Hubble. This page contrasts [Webb vs Hubble](https://science.nasa.gov/mission/hubble/observatory/hubble-vs-webb/).
+
+### [](https://webbtelescope.org/quick-facts)**When was Webb launched?**
+
+Webb was launched on December 25th, 2021 at 7:20 AM (12:20 UTC).
+
+### **How did Webb's launch windows work?**
+
+The Webb launch windows refer to the period each day during which Webb could be launched to reach its intended L2 orbit. In space, the Webb Observatory will not reside precisely at the L2 point but will slowly rotate around it twice per year in a loop that is even bigger than the Moon’s orbit around the Earth. The geometry of this rotation varies depending on the launch time of day and the season of the year (due to the tilt of Earth’s axis). The key constraints on the launch windows include:
+
+*   Ensuring that the angle between the Sun and the Webb Observatory during its flight to L2 does not cause overheating of sensitive portions of the Observatory
+*   Avoiding near approach to the Moon during the flight to L2, to avoid the complications of correcting for the Moon’s gravity
+*   Avoiding Earth and Moon eclipses of the Sun for the flight to L2, and for the entire 10 year mission, so that Webb’s solar array is always producing electricity to keep all systems powered
+*   Avoiding L2 orbits with overly large rotations or distances from the Sun (which would make an excessive angle between the Sun, Earth, Moon and Webb), so that the telescope is never illuminated by earth-glow or moonlight, and so that communication to Earth is always at an effective angle
+
+These constraints meant that there were about 210 days per year spread throughout the year when Webb had launch windows. The duration of windows varied, with some lasting up to 90 minutes, and they generally occurred between 1145-1400 Coordinated Universal Time (UTC), which is mid- to late-morning local time at the launch site.
+
+Webb launched on December 25th, 2021 at 7:20 AM ET (12:20 UT).
+
+### [](https://webbtelescope.org/quick-facts)**How was Webb launched?**
+
+Webb was launched on an Arianespace Ariane 5 ECA rocket. The launch vehicle was part of the European contribution to the mission. Additional information may be obtained[here](https://science.nasa.gov/mission/webb/launch/).
+
+### [](https://webbtelescope.org/quick-facts)**Why was the Ariane 5 chosen to launch Webb? Why did NASA not change to Space X?**
+
+We chose Ariane in the early 2000's for a combination of reliability (it was the only launch vehicle that met NASA's requirements for launching a mission like Webb) and for the value it brought via our international partnership.
+
+By "value" we mean that the European Space Agency provided us a launch vehicle and associated services on a no exchange of funds basis. In exchange, NASA guaranteed European scientists a fraction of observing time on Webb (roughly 15%). Since architectural realities of Webb and international technology restrictions (plus industrial capabilities and strategic technology interests) meant we couldn't have a spacecraft bus or a sunshield or telescope parts from Europe, we asked for the launch vehicle, launch services and science instruments instead.
+
+Another reason not to change launch vehicles midway through a project is because each vehicle has its own environmental characteristics. Rockets are all similar to an extent, but they do have significant differences in their major vibro-acoustic modes. Designing something to encompass any/all environmental specifications is pretty tough, adds cost and mass, and reduces capability. Knowing your launch vehicle early helps you design for it. Also, launch programs (ascent profiles) are specific not only to the vehicle but are even quasi-specific to the day of the year and time of day. This means you need to know not only your launch vehicle but your launch location.
+
+### **What happened after Webb was launched?**
+
+[Webb's deployment and commissioning process can be followed in detail on this interactive](https://webb.nasa.gov/content/webbLaunch/deploymentExplorer.html#0)which includes images, videos, descriptions, blog posts and annotations from the actual deployment and commissioning process as it happened.
+
+*   **In the first hour:**
+
+_The ride to space, solar array deployment, and “free flight.”_ The Ariane 5 launch vehicle provided thrust for roughly 26 minutes after a morning liftoff from French Guiana. Moments after second stage engine cut-off, Webb separated from the Ariane, which triggered the solar array to deploy within minutes so that Webb could start making electricity from sunshine and stop draining its battery. Webb quickly established its ability to orient itself and “fly” in space.
+*   **In the first day:**
+
+_Mid-course correction to L2_. Ariane sent Webb on a direct route to L2, without first orbiting Earth. During the first day, we executed the first and most important trajectory correction maneuver using small rocket engines aboard Webb itself. We also released and deployed the high gain antenna to enable the highest available rates of data communication as early as practical.
+*   **In the first week:**
+
+_Sunshield deployment._ Shortly after we executed a second trajectory correction maneuver, we started the sequence of major deployments, beginning with the fore and aft sunshield pallets. The next step was separation of the spacecraft bus and telescope by extending the telescoping tower between them. The tower extended 1.22 meters, and it was necessary at this point in the sequence so that the rest of the sunshield deployment can proceed. Next, the sunshield membranes were unpinned and the telescoping sunshield midbooms extended – first the port side and then the starboard side – pulling the membranes out with them. The last sunshield deployment step was tensioning of the membranes. In the meantime, other things like radiators were released and deployed.
+*   **In the first month:**
+
+_Telescope deployment, cooldown, instrument turn-on, and insertion into orbit around L2_. During the second week after launch we finished deploying the telescope structures by unfolding and latching the secondary mirror tripod and rotating and latching the two primary mirror wings. Note that the telescope and scientific instruments started to cool rapidly in the shade of the sunshield, but it took several weeks for them to cool all the way down and reach stable temperatures. This cooldown was carefully controlled with strategically-placed electric heater strips so that everything shrunk carefully and so that water trapped inside parts of the observatory could escape as gas to the vacuum of space and not freeze as ice onto mirrors or detectors, which would degrade scientific performance. We unlocked all the primary mirror segments and the secondary mirror and verify that we could move them. Near the end of the first month, we executed the last mid-course maneuver to insert into the optimum orbit around L2. During this time we also powered-up the scientific instrument systems. The remaining five months of commissioning were all about aligning the optics and calibrating the scientific instruments.
+*   **In the second, third and fourth months:**
+
+_Initial optics checkouts, and telescope alignment._ Using the Fine Guidance Sensor, we pointed Webb at a single bright star and demonstrated that the observatory could acquire and lock onto targets, and we took data mainly with NIRCam. But because the primary mirror segments had yet to be aligned to work as a single mirror, there were up to 18 distorted images of the same single target star. We then embarked on the long process of aligning all the telescope optics, beginning with identifying which primary mirror segment went with which image by moving each segment one at a time, ending a few months later with all the segments aligned as one and the secondary mirror aligned optimally. Cooldown effectively ended and the cryocooler started running at its lowest temperature and MIRI started taking good data too.
+*   **In the fifth and sixth months:**
+
+_Calibration and completion of commissioning._ We meticulously calibrated all of the scientific instruments’ many modes of operation while observing representative targets, and we demonstrated the ability to track “moving” targets, which are nearby objects like asteroids, comets, moons, and planets in our own solar system. We made “Early Release Observations,” that were revealed right after commissioning was over, that showcased the capabilities of the observatory.
+*   **After six months:**
+
+_“Science operations!”_ Webb began its science mission and started to conduct routine science operations.
+
+### **Was there flexibility built into the planned deployments?**
+
+NASA's detailed plan was to deploy the Webb Space Telescope over a roughly two-week period. The process involved hundreds of individual deployments. The team monitored telemetry in real-time and paused the nominal deployment timeline as needed to assess data received. The deployment process was not an automatic hands-off sequence like the Mars rover; it was human-controlled. The first deployment, the solar array, was deployed approximately 30 minutes after launch on December 25, 2021. All major deployments were completed on January 8, 2022. Read more about the deployments on our[blog.](https://blogs.nasa.gov/webb/)
+
+### [](https://webbtelescope.org/quick-facts)**Why do we have to go to space at all? Can we not get these data with large telescopes on the ground, using adaptive optics?**
+
+The Earth's atmosphere is nearly opaque and glows brightly at most of the infrared wavelengths that Webb observes, so a cold telescope in space is required. For those wavelengths that are transmitted to the ground, the Earth's atmosphere blurs the images and causes stars to twinkle. Currently, adaptive optics systems can correct for this blurring only over small fields of view near bright stars functioning as reference beacons, allowing access to only a small fraction of the sky. Artificial light beacons created with strong lasers may provide better access to the sky, but the technology to provide a wide field of view is still far in the future. Finding the earliest galaxies will require very low foreground light levels, ultra-sharp images over large areas, and studies at many infrared wavelengths, a combination of observing conditions only available from space.
+
+### [](https://webbtelescope.org/quick-facts)**How long will the Webb mission last?**
+
+Webb was designed for a mission of at least five years, with a goal of 10 years. However, after a successful launch and the completion of telescope commissioning, the Webb team determined the observatory should have enough propellant to allow support of science operations in orbit for more than a 20-year science lifetime. Other factors may limit mission lifetime, such as the possibility that Webb's hardware will degrade over time in the harsh environment of space. However, as we've seen with missions such as the Hubble Space Telescope and the Chandra X-ray Observatory, spacecraft often continue operating years beyond their designed mission lifetime.
+
+### [](https://webbtelescope.org/quick-facts)**Why is Webb not serviceable like Hubble?**
+
+Hubble is in low-Earth orbit, located approximately 375 miles (600 km) away from the Earth, and is therefore readily accessible for servicing. Webb operates at the second Sun-Earth Lagrange point, located approximately 1 million miles (1.5 million km) away from the Earth, and will therefore be beyond the reach of any crewed vehicle currently being planned for the next decade. In the early days of the Webb project, studies were conducted to evaluate the benefits, practicality and cost of servicing Webb either by human space flight, by robotic missions, or by some combination such as retrieval to low-Earth orbit. Those studies concluded that the potential benefits of servicing do not offset the increases in mission complexity, mass and cost that would be required to make Webb serviceable, or to conduct the servicing mission itself.
+
+### [](https://webbtelescope.org/quick-facts)**Why did we not assemble Webb in orbit?**
+
+Various scenarios were studied, and assembling in orbit was determined to be unfeasible.
+
+We examined the possibility of in-orbit assembly for Webb. The International Space Station does not have the capability to assemble precision optical structures. Additionally, space debris that resides around the space station could have damaged or contaminated Webb’s optics. Webb’s deployment happened far above low Earth orbit and the debris that is found there.
+
+Finally, if the space station were used as a stopping point for the observatory, we would have needed a second rocket to launch it to its final destination at L2. The observatory would have to be designed with much more mass to withstand this “second launch,” leaving less mass for the mirrors and science instruments.
+
+### [](https://webbtelescope.org/quick-facts)**How was testing different for Hubble and Webb's mirrors? What did Hubble teach us?**
+
+First, on Webb, we used completely separate sets of measurement tools and techniques for verification than what we used to guide manufacturing. This avoids one error from the Hubble experience where the same tool used for manufacturing was later used for verification.
+
+In technical terms, specifically on Hubble, Perkin-Elmer used the same reflective null corrector to guide primary mirror final figuring and polishing that they later used to vouch for its figure. The reflective null corrector was set up wrong and furthermore was not independently checked for correct setup and thus the mirror ended up with the wrong figure. Even so, Perkin-Elmer used a separate tool--a refractive null corrector--to check focal length of the primary mirror and it could have served as an independent check of mirror figure. In fact the refractive null corrector hinted that something was wrong with mirror's figure, but this was rationalized away in favor of the reflective null corrector data because the reflective one was more precise and provided complete (albeit false) figure information, and the purpose of the focal length check was a focal length check and not a figure check.
+
+On Webb, all mirror figures have been verified individually at the mirror level, and figures were checked again after the telescope was assembled.
+
+Secondly, on Webb,[we successfully performed an end-to-end optical test on the whole telescope](https://www.nasa.gov/feature/goddard/2017/nasa-s-james-webb-space-telescope-completes-final-cryogenic-testing), which was not done on Hubble. An end-to-end check of the assembled Hubble telescope should have and probably would have revealed the figure flaw in its primary mirror.
+
+In more technical terms,[the end-to-end test on Webb's telescope involved passing light through the entire assembled telescope](https://www.nasa.gov/feature/goddard/2017/self-portrait-of-nasa-s-james-webb-space-telescope-marks-critical-test)using test point sources of light from precision-placed fiber optics and using reflecting mirrors (three auto-collimating flat test mirrors). This rechecked alignment of all the telescope optics assembled together and demonstrated that the individual primary mirror segments can be aligned to each other, and rechecked the figures of the mirrors.
+
+In summary, we used multiple independent testing and cross-checks with pre-defined success criteria that included end-to-end testing, as well as comprehensive and rigorous external independent expert review as a further check.
+
+Lee Feinberg and Paul Geithner wrote a paper (presented in 2008) on lessons learned from Hubble. (Note: You will need an SPIE account to download it.)[Lessons learned from Hubble.](http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=787716)
+
+### [](https://webbtelescope.org/quick-facts)**Will Webb use gyroscopes for pointing?**
+
+Gyroscopes are used in combination with star tracker assemblies (STAs) to estimate the orientation of the observatory. In the Webb attitude control design, this estimate is used to slew the observatory from target to target, and maintain pointing on a target prior to fine guide and science operations. Typically, at least three gyroscopes oriented in three different directions are needed to determine the orientation of the observatory (although innovative operational procedures allowed Hubble to get by with just two working gyros plus other sensors prior to its last servicing mission). Like Hubble and many other spacecraft, Webb began life with a redundant set of working gyros, so multiple gyro failures may be accommodated without loss of scientific capability, but unlike Hubble, Webb employs a very different kind of gyroscope.
+
+Hubble uses traditional mechanical gyroscopes, which measure the inertia of a small spinning flywheel to sense angular motion. Mechanical flywheels require moving parts in a fluid medium, and thus are subject to wear over time. Webb uses "Hemispherical Resonator Gyros" or HRGs. Sometimes called "wine glass gyroscopes," HRGs measure the flexing vibration of a bowl-shaped stemmed crystal to sense angular motion. HRGs operate in a vacuum and have no rotating or rubbing parts, so they suffer virtually no wear. Webb houses two HRGs, each internally contains two processors and power supply boards (2 for 1 redundancy) cross strapped to 4 gyros (4 for 3 redundancy). In the current architecture, one HRG is active receiving commands and providing telemetry, while the other HRG is in backup mode.
+
+Webb's HRGs and the Fine Guidance Sensor (FGS) instrument work with the final optic in the telescope, called the fine steering mirror (FSM), to stabilize the beam of light coming from the telescope and going into the science instruments. The FSM can tip and tilt a minute amount very quickly to compensate for small motions or "jitter" in the light beam, thus avoiding the need to point the whole observatory extremely precisely on a target. The HRG, in concert with the STAs and the reaction wheels, help stabilize roll about the optical axis.
+
+### [](https://webbtelescope.org/quick-facts)**How is Webb pointed?**
+
+To turn and point at different objects in space, Webb uses six reaction wheels to rotate the observatory. The reaction wheels are basically[flywheels](https://en.wikipedia.org/wiki/Reaction_wheel), which store angular momentum. The effect of angular momentum is familiar in bicycle riding. It is much easier to stay up on the bike when it is moving than when it is standing still, and the bicycle will tend to go straight in 'no hands' mode thanks to the angular momentum of the spinning wheels. Slowing down or speeding up one or more of the Webb's reaction wheels alters the total angular momentum of the whole observatory and consequently the observatory turns to conserve angular momentum. Hubble uses reaction wheels also to turn to point at different objects.
+
+The reaction wheels work in combination with three star trackers and six gyroscopes that provide feedback on where the observatory is pointing and how fast it is turning. This enables coarse pointing sufficient to keep the solar array pointed at the Sun and the high-gain antenna pointed at the Earth. To take images and spectra of astronomical targets (i.e., galaxy, star, planet, etc.) finer pointing is needed. Additional information for finer pointing from the Fine Guidance Sensor in Webb's integrated science instrument module (ISIM) is used to move the telescope's fine steering mirror (FSM) to steady the beam of light coming from the telescope and going into the science instruments. Webb's reaction wheels, star trackers, gyroscopes, Fine Guidance Sensor, and fine steering mirror work together in the observatory's attitude control system (ACS) to precisely point and stare at targets so that the science instruments can see them and see them clearly. The system works much the same way your body uses multiple methods of differing precision -your inner ears and eyes and nervous system and muscles - to catch a baseball in the outfield.
+
+### [](https://webbtelescope.org/quick-facts)**How big is Webb?**
+
+The most important size of a telescope is the diameter of the primary mirror, which is approximately 6.5 meter (21.3 ft)for Webb. This is about 2.75 times larger in diameter than Hubble, or about 6 times larger in area. The Webb has a mass of approximately 6,500 kg, with a weight of 14,300 lbs on Earth (in orbit, everything is weightless), a little more than half the mass of Hubble. The largest structure of Webb is its sunshade, which must be able to shield the deployed primary mirror and the tower that holds the secondary mirror. The sunshade is approximately the size of a tennis court.
+
+### [](https://webbtelescope.org/quick-facts)**Why does the sunshield have five layers rather than one thick one?**
+
+Each successive layer of the sunshield is cooler than the one below. The heat radiates out from between the layers, and the vacuum between the layers is a very good insulator. One big thick sunshield would conduct the heat from the bottom to the top more than 5 layers separated by vacuum.
+
+### **How does Webb communicate with scientists at Earth?**
+
+Webb sends science and engineering data to Earth using a high frequency radio transmitter. Large radio antennas that are part of the NASA Deep Space Network receive the signals and forward them to the Webb Science and Operation Center at the[Space Telescope Science Institute](http://www.stsci.edu/)in Baltimore, Maryland, USA.
+
+Webb's Orbit
+------------
+
+### **How long did it take Webb to reach its orbit?**
+
+Webb orbits around the[second Lagrange (L2) point](https://science.nasa.gov/mission/webb/orbit/), which is about 1 million miles (1.5 million km) away from Earth, and it took about a month to travel that distance. During the trip to L2, Webb fully deployed, cooled down to its operating temperature, and its systems began to be checked out and adjusted. These check-out procedures continued until 6 months after launch, at which point routine scientific operations began.
+
+### [](https://webbtelescope.org/quick-facts)**Why does Webb have to go so much farther away from Earth than Hubble? What is the second Lagrange point orbit?**
+
+Webb requires a distant orbit for several reasons. Webb observes primarily the infrared light from faint and very distant objects. Infrared is heat radiation, so all warm things, including telescopes, emit infrared light. To avoid swamping the very faint astronomical signals with radiation from the telescope, the telescope and its instruments must be very cold. Webb's operating temperature is less than 50 degrees above absolute zero: 50 Kelvin (-223° C or -370° F). Therefore, Webb has a large shield that blocks the light from the Sun and Earth (and the Moon), which otherwise would heat up the telescope, and interfere with the observations. Webb was placed in orbit around the Sun at a special location where its sunshield can block both the Sun and Earth (and Moon) all the time.; the[second Lagrange point (L2)](https://science.nasa.gov/mission/webb/orbit/)of the Sun-Earth system has this property. L2 is a semi-stable point in the gravitational potential around the Sun and Earth. The L2 point lies outside Earth's orbit while it is going around the Sun, keeping all three in a line at all times. The combined gravitational forces of the Sun and the Earth can almost hold a spacecraft at this point, and it takes relatively little fuel to keep the spacecraft near L2. The cold and stable temperature environment of the L2 point will allow Webb to make the very sensitive infrared observations needed.
+
+### [](https://webbtelescope.org/quick-facts)**Is Webb’s view limited because of its orientation and is its sunshield blocking out part of the sky?**
+
+Webb's "field of regard" is actually quite large. The field of regard is the region of the sky where science observations can be conducted safely at a given time. Webb can observe about 39% of the full sky on any given day and can access 100% of the sky over 6 months.
+
+In more technical terms, the observatory has to remain in the range of 85 degrees to 135 degrees with respect to the plane of the ecliptic, to keep the telescope behind the sun shield. The region Webb can observe is a large torus on the sky that moves about 1 degree per day in ecliptic longitude, following the telescope in its path around the sun.[More technical info](https://jwst-docs.stsci.edu/jwst-observatory-characteristics/jwst-observatory-coordinate-system-and-field-of-regard/jwst-target-viewing-constraints).
+
+Webb's Mirrors
+--------------
+
+### **How can Webb's primary mirror be six times the size of Hubble's but be less massive?**
+
+There has been a lot of progress in technology since Hubble was built. The best example of weight reduction is the primary mirror, which takes up a considerable fraction of the total observatory mass. The mirror has to be very accurately shaped. Any variations from the perfect shape of the mirror have to be less than a fraction of the observing wavelengths, which start at about 0.1 micrometer (in the ultraviolet) for Hubble and 0.6 micrometer (gold light) for Webb. (For comparison, the average thickness of a human hair is about 100 micrometers.) To keep the mirror in such a perfect shape, Hubble has a thick, solid glass mirror with a mass around 1000 kg (2200 lbs on Earth). Webb's mirror consists of 18 thin, lightweight beryllium mirror segments, which are kept in the right shape and place by a large number of adjustors attached to a stiff backing frame. Including the backing frame, the 18 segments of the Webb primary mirror total about 625 kg (1375 lb on Earth). These kinds of technologies, which were not available at the time Hubble was built, will be used throughout Webb.[Here](https://science.nasa.gov/wp-content/uploads/2023/09/webb-jwst-hstprimarymirrors.jpg)is a pictoral comparison of the Hubble and Webb mirrors.
+
+### [](https://webbtelescope.org/quick-facts)**The primary mirror on Webb will be made of beryllium. What is beryllium?**
+
+Beryllium (atomic symbol: Be) is a gray, brittle metal with an atomic number of 4. Beryllium has a high strength per unit weight. It tarnishes only slightly in air. The addition of beryllium to some alloys often results in products that have high heat resistance, improved corrosion resistance, greater hardness, greater insulating properties, and better casting qualities. Many parts of supersonic aircraft are made of beryllium alloys because of their lightness, stiffness, and dimensional stability. Other applications make use of the nonmagnetic and nonsparking qualities of beryllium and the ability of the metal to conduct electricity. Beryllium is toxic and no attempts should be made to work with it before becoming familiar with proper safeguards. The specific advantages to Webb are beryllium's light weight, stiffness and its stability at very cold temperatures.
+
+### [](https://webbtelescope.org/quick-facts)**How did you protect Webb from the violent forces involved in the Ariane rocket launch? Isn't beryllium brittle?**
+
+Webb was not protected from the violent forces experienced during launch, so we built the telescope to survive launch. This is a key element of the design work that goes into building the telescope. We built an engineering test mirror and demonstrated it can survive launch with no measurable degradations. Individual elements of the telescope were shaken with simulated launch forces to ensure that they can survive launch. Read more about the[environmental testing of Webb.](https://www.nasa.gov/feature/goddard/2020/nasa-s-james-webb-space-telescope-completes-environmental-testing)
+
+In regards to the beryllium primary mirror, the issue of launch forces was a consideration during selection of the material. The main concern with beryllium mirrors is that they might change their shape very slightly during launch and so we conducted a technology demonstration (involving a beryllium mirror shake test) to show that the mirror will not experience any change in shape during launch. The Webb mirror is made from a top grade of beryllium with extensive heritage in space systems.
+
+Concerns about beryllium mirrors being brittle are mainly an issue when the mirrors are machined. Glass can also be pretty fragile but it is widely used in flight mirrors so how you design, handle and support the mirrors is what matters most.
+
+### [](https://webbtelescope.org/quick-facts)**Will micrometeoroids damage the beryllium mirror?**
+
+All of Webb's systems are designed to survive micrometeoroid impacts.
+
+We tested beryllium discs for micrometeoroids using test facilities in the US and showed the micrometeoroids have negligible effects on the beryllium. Cryogenic beryllium mirrors have been flown in space exposed to micrometeoroids without problems. The Spitzer Space Telescope, launched in 2003, has a beryllium primary mirror.
+
+What was the impact from the large micrometeoroid strike in May? Webb’s mirrors are engineered to endure micrometeoroid impacts. The rates of micrometeoroids hitting the primary mirror remain consistent with the team’s prelaunch predictions. Of 21 measurable impacts (as of January 2023), all but one are consistent with error budget allocations for micrometeoroid effects over Webb’s expected prime lifetime. In May, Webb experienced a larger-than-expected strike – a higher-energy particle that hit a particularly sensitive part of the mirror and structure. However, after initial analysis, the team determined this was a statistically rare event, and the telescope is still performing at a level that exceeds all mission requirements.
+
+What steps is NASA taking to reduce the risk of micrometeoroid impacts? To ensure all parts of the observatory continue to perform at their best and to minimize future impacts of this magnitude, the team has decided that future observations will be planned to limit the amount of time facing in the direction now known as the ‘micrometeoroid avoidance zone,’ where meteoroid energies are generally high.[More information](https://blogs.nasa.gov/webb/2022/11/15/nasa-webb-micrometeoroid-mitigation-update/).
+
+### [](https://webbtelescope.org/quick-facts)**Why is the mirror gold-coated and how much gold is used?**
+
+Webb's mirrors are coated with gold to optimize them for infrared light. Why does gold reflect red radiation well? Here's a scientific explanation. First, metals reflect light because they are good conductors of electricity. Electrons are widely-shared among the atoms in metals such that they form kind of a "gas" of electrons that respond very quickly to changes. It's really hard to set up an electric field in a conductor (metal) because the electrons are free to move to make it and keep it zero. Light is an electro-magnetic wave, and when it hits metal, it induces oscillations in the electrons near the surface. The electrons move to try to make the net electric field in the metal zero, so the combination of the electric field of the moving electrons and the electric field of the light adds up to zero in the metal by the light being re-emitted or bounced away in an opposite direction. Maxwell's equations can be used to explain this. Second, each element has a unique atomic structure and a different way its electrons are "arranged" and so each responds uniquely as to how well light interacts with it light and reflects it, and it varies with the wavelength of the light. Gold just happens to reflect blue light very poorly but red and infrared light extremely well. This is why it looks the color that it does to our eyes (gold colored - it reflects red light much better than blue light).
+
+How much gold is use to coat Webb's mirrors? About a golf ball's mass. The thickness of gold coating = 100 x 10-9 meters (1000 angstroms). Surface area = 25 m 2. Using these numbers plus the density of gold at room temperature (19.3 g/cm 3), the coating is calculated to use 48.25g of gold, about equal to a golf ball. (A golf ball weighs 45.9 grams.)
+
+The gold is over-coated with a thin layer of amorphous SiO2 - i.e., glass - that protects the gold.
+
+### [](https://webbtelescope.org/quick-facts)**Why does Webb have a segmented, unfolding primary mirror?**
+
+Webb needed to have an unfolding mirror because the mirror is so large that it otherwise could not fit in the launch shroud of available rockets at the time. The mirror had to be large in order to see the faint light from the first star-forming regions and to see very small details at infrared wavelengths. Designing, building and operating a mirror that unfolds is one of the major technological developments of Webb. Unfolding mirrors will be necessary for future missions requiring even larger mirrors, and will find application in other scientific, civil and military space missions.
+
+### [](https://webbtelescope.org/quick-facts)**What is Webb's angular resolution, and how will its images compare to Hubble's? Will they be as beautiful?**
+
+Webb's angular resolution, or sharpness of vision, is the same as Hubble's, but in the near infrared. This means that Webb images appear just as sharp as Hubble's do.
+
+Webb has an angular resolution of somewhat better than 0.1 arc-seconds at a wavelength of 2 micrometers (one degree = 60 arc-minutes = 3600 arc-seconds). Seeing at a resolution of 0.1 arc-second means that Webb can see details the size of a US penny at a distance of about 24 miles (40 km), or a regulation soccer ball at a distance of 340 miles (550 km).
+
+Angular resolution is the term astronomers use to describe the "sharpness" of an image. There are two factors that affect how sharp an image is - the diameter of the mirror and the wavelength being observed. In fact they are mathematically related - resolving ability is proportional to wavelength over diameter, so the shorter the wavelength and the bigger the diameter, the sharper your images will be. Hubble sees shorter wavelengths of light than Webb can, but Webb has a mirror that is 2.75 times larger in diameter than Hubble. If you do the math, this means Hubble has about the same angular resolution at 700 nm that Webb does at 2000 nm (a.k.a. 2 microns). Hubble can see light that ranges from about 200 nm to 2.4 microns. Webb will see about 600 nm to 28 microns. (Visible light ranges about 700 - 400 nm; Webb will be able to see in the red/orange part of the visible light spectrum.)
+
+With some infrared capability, Hubble is capturing gorgeous images, like[this one of the Horsehead Nebula](https://science.nasa.gov/image-article/hubble-sees-a-horsehead-of-a-different-color/). Webb is optimized to see deeper into the infrared than Hubble, and has a much larger mirror, as well as state of the art detectors. Its imagery is and will be detailed and spectacular.
+
+This[feature](https://hubblesite.org/contents/articles/the-meaning-of-light-and-color)explains how Hubble images are created; Hubble's detectors actually produce images in shades of black and white - color is added during image processing. The colors aren't always what we'd see if we were able to visit the imaged objects in a spacecraft. Color is a tool, which can enhance an object's detail or visualize what could never been seen by the human eye. Webb image processing will be similar.
+
+Webb's Instruments & Technology
+-------------------------------
+
+### **What kind of instruments does Webb have?**
+
+The James Webb Space Telescope includes four scientific instruments: the[Near Infrared Camera (NIRCam)](https://science.nasa.gov/mission/webb/nircam/), the[Near-Infrared Spectrograph (NIRSpec)](https://science.nasa.gov/mission/webb/nirspec/), the[Mid-Infrared Instrument (MIRI)](https://science.nasa.gov/mission/webb/mid-infrared-instrument-miri/), and the[Fine Guidance Sensor/ Near InfraRed Imager and Slitless Spectrograph (FGS-NIRISS)](https://science.nasa.gov/mission/webb/fine-guidance-sensor-near-infrared-imager-and-slitless-spectrograph-fgs-niriss/).
+
+### [](https://webbtelescope.org/quick-facts)**What kind of detectors does Webb have?**
+
+Webb has two types of detector arrays (SCA): visible to near-infrared arrays with 2,048 x 2,048 pixels, and mid-infrared arrays with about 1,024 x 1,024 pixels. Several detectors were be built into mosaics to give a larger field of view. NIRCam, NIRSpec and FGS-NIRISS use Mercury Cadmium Telluride (HgCdTe) detectors made by Teledyne Scientific & Imaging. MIRI employs arsenic doped silicon (Si:As) detectors produced by Raytheon.
+
+### [](https://webbtelescope.org/quick-facts)**What is the operating temperature of the telescope and the instruments?**
+
+The large sunshade protects the telescope from heating by direct sunlight, allowing it to cool down to a temperature below 50 Kelvin (-223° C or -370° F) by passively radiating its heat into space. The definition of the Kelvin temperature scale is that 0 K is "absolute zero," the lowest possible temperature. Water freezes at 32 degree F, 0 degree C or about 273 K. The near-infrared instruments (NIRCam, NIRSpec, FGS/NIRISS) work at about 39 K (-234° C or -389° F) through a passive cooling system. The mid-infrared instrument (MIRI) will work at a temperature of 7 K (-266° C or -447° F), using a helium refrigerator, or cryocooler system.
+
+### [](https://webbtelescope.org/quick-facts)**Can Webb take selfies?**
+
+As NASA’s James Webb Space Telescope made its way out to its intended orbit, ground teams monitored its vitals using a comprehensive set of sensors located throughout the entire spacecraft. Mechanical, thermal, and electrical sensors provide a wide array of critical information on the current state and performance of Webb while it is in space.
+
+A system of surveillance cameras to watch deployments was considered for inclusion in Webb’s toolkit of diagnostics and was studied in-depth during Webb’s design phase, but ultimately this was rejected.
+
+“Adding cameras to watch an unprecedently complicated deployment of such a precious spacecraft as Webb sounds like a no-brainer, but in Webb’s case, there’s much more to it than meets the eye,” said Paul Geithner, deputy project manager – technical for the Webb telescope at NASA’s Goddard Space Flight Center. “It’s not as straightforward as adding a doorbell cam or even a rocket cam.” Read more at[our blog.](https://blogs.nasa.gov/webb/2022/01/06/why-doesnt-webb-have-deployment-cameras/)
+
+Webb Science
+------------
+
+### **Why is Webb optimized for near- and mid-infrared light?**
+
+The primary goals of Webb are to study galaxy, star and planet formation in the Universe. To see the very first stars and galaxies form in the early Universe, we have to look deep into space to look back in time (because it takes light time to travel from there to here, the farther out we look, the further we look back in time). The Universe is expanding, and therefore the farther we look, the faster objects are moving away from us, redshifting the light. Redshift means that light that is emitted as ultraviolet or visible light is shifted more and more to redder wavelengths, into the near- and mid-infrared part of the light spectrum for very high redshifts.
+
+Therefore, to study the earliest star formation in the Universe, we have to observe infrared light and use a telescope and instruments optimized for this light. Star and planet formation in the local Universe takes place in the centers of dense, dusty clouds, obscured from our eyes at normal visible wavelengths. Near-infrared light, with its longer wavelength, is less hindered by the small dust particles, allowing near-infrared light to escape from the dust clouds. By observing the emitted near-infrared light we can penetrate the dust and see the processes leading to star and planet formation. Objects of about Earth's temperature emit most of their radiation at mid-infrared wavelengths. These temperatures are also found in dusty regions forming stars and planets, so with mid-infrared radiation we can see the glow of the star and planet formation taking place. An infrared-optimized telescope allows us to penetrate dust clouds to see the birthplaces of stars and planets.
+
+### [](https://webbtelescope.org/quick-facts)**What about visible light?**
+
+The reflective surface on Webb's mirrors is gold. Although gold absorbs blue light, it reflects yellow and red visible light, and Webb's cameras will detect that visible light.
+
+### [](https://webbtelescope.org/quick-facts)**At which wavelengths will Webb observe?**
+
+Webb works from 0.6 to 28 micrometers, ranging from visible orange-colored light through the invisible mid-infrared. The short wavelength end is set by the gold coating on the primary mirror. The long wavelength cut-off is set by the sensitivity of the detectors in the Mid-Infrared Instrument.
+
+### [](https://webbtelescope.org/quick-facts)**How faint can Webb see?**
+
+Webb is designed to discover and study the first stars and galaxies that formed in the early Universe. To see these faint objects, it must be able to detect things that are ten billion times as faint as the faintest stars visible without a telescope. This is 10 to 100 times fainter than Hubble can see.
+
+### [](https://webbtelescope.org/quick-facts)**What are the main science goals of Webb?**
+
+Webb has four mission science goals:
+
+*   Search for the first galaxies or luminous objects that formed after the Big Bang.
+*   Determine how galaxies evolved from their formation until the present.
+*   Observe the formation of stars from the first stages to the formation of planetary systems. 
+*   Measure the physical and chemical properties of planetary systems and investigate the potential for life in those systems.
+
+### [](https://webbtelescope.org/quick-facts)**How far will Webb look?**
+
+One of the main goals of Webb is to detect some of the very first star formation in the Universe. This is thought to happen somewhere between redshift 15 and 30 (redshift explained in question 45). At those redshifts, the Universe was only one or two percent of its current age. The Universe is now 13.8 billion years old, and these redshifts correspond to 100 to 250 million years after the Big Bang. The light from the first galaxies has traveled for about 13.6 billion years, over a distance of 13.6 billion light-years.
+
+### [](https://webbtelescope.org/quick-facts)**Will Webb see planets around other stars?**
+
+The Webb is able to detect the presence of planetary systems around nearby stars from their infrared light (heat). It is able to see directly the reflected light of large planets - the size of Jupiter - orbiting around nearby stars. It is also possible to see very young planets in formation, while they are still hot. Webb has coronagraphic capability, which blocks out the light of the parent star of the planets. This is needed, as the parent star will be millions of times brighter than the planets orbiting it. Webb does not have the resolution to see any details on the planets; it is only be able to detect a faint light speckle next to the bright parent star.
+
+Webb will also study planets that transit across their parent star. When the planet goes between the star and Webb, the total brightness will drop slightly. The amount that the brightness drops tells us the size of the planet. Webb can even see starlight that passes through the planet's atmosphere, measure its constituent gasses and determine whether the planet has liquid water on its surface. When the planet passes behind the star, the total brightness drops, and we can again determine more of the planet's characteristics.
+
+### [](https://webbtelescope.org/quick-facts)**Can Webb observe planets in our own Solar System?**
+
+Yes. Webb can observe everything in our Solar System that is further from the Sun than the Earth is. Webb's sensitivity is most useful in studying the faint rocky and icy objects in the far outer Solar System, including the dwarf planet Pluto and other Kuiper Belt Objects. Webb's studies of these objects will test theories of how the Solar System formed. Webb will also observe the moons of the gas giant planets, comets and asteroids and the planets Mars, Jupiter, Saturn, Uranus and Neptune.
+
+### [](https://webbtelescope.org/quick-facts)**What will Webb's first targets be?**
+
+The first targets for Webb were determined through a process similar to that used for the Hubble Space Telescope and will involve NASA, ESA, CSA and scientific community participants.
+
+The first engineering target precedes the first science target and was used to align the mirror segments and focus the telescope. For the first engineering target a relatively bright star was chosen.
+
+### [](https://webbtelescope.org/quick-facts)**Will Webb contribute to the dark matter research?**
+
+Webb cannot directly see "dark matter," the unseen matter that makes up a large fraction of the mass of galaxies and clusters of galaxies, but Webb can measure its effects. One of the best ways to measure mass is through the gravitational lens effect. As described by Einstein's General Relativity theory, a light beam passing near a large mass will be slightly deflected, because space-time is disturbed by the presence of mass. By taking pictures of distant galaxies behind nearby galaxies, astronomers can calculate the total amount of mass in the foreground galaxies by measuring the disturbances in the background galaxies. Because astronomers can see how much mass is present in stars in the foreground galaxies, they can then calculate how much of the total mass is missing, which is presumed to be in the dark matter. Webb is particularly well-suited for this type of measurement, because its very sharp images allow very small disturbances to be measured, and because it can see so deep into space, giving it access to many more background galaxies to measure disturbances caused by this gravitational lensing effect. Also, Webb will observe many statistics of galaxy evolution and scientists can compare these observations to theories of the role that dark matter played in that process, leading to some understanding of the amount and nature of the dark matter in galaxies.
+
+### [](https://webbtelescope.org/quick-facts)**What about dark energy?**
+
+In 1998, observations of distant supernovae revealed that about 70% of the universe consists of mysterious dark energy which is pushing on the expansion of the universe and causing it to accelerate. Previously, astronomers thought that the expansion would decelerate due to the gravity of the dark matter. In 2003, observations of the cosmic microwave background confirmed this discovery. The 2011 Nobel Prize in Physics was awarded to Adam Riess, Brian Schmidt and Saul Perlmutter for the discovery of dark energy.
+
+The Hubble Space Telescope has also contributed to dark energy research. At about half the current age of the universe, the expansion rate, which had been decelerating, changed to acceleration as the dark energy overcame the effects of the dark matter. The deceleration in the early universe was first seen by Hubble, which confirmed that dark energy is the best explanation for the supernova results, rather than a change or evolution in the supernova themselves.
+
+As a successor to Webb, NASA is planning a wide-field infrared survey telescope, the Nancy Grace Roman Space Telescope, a space observatory designed to settle essential questions in both exoplanet and dark energy research, and which will advance topics ranging from galaxy evolution to the study of objects within our own galaxy. Roman Space Telescope will be a wide-field-of-view near-infrared space telescope that will observe hundreds or thousands of supernova and millions of galaxies. It will make the subtle statistical measurements that reveal the properties of the dark energy and could find out what the eventual future fate of the universe: collapsing into a big crunch or expanding forever in a big rip. In contrast, Webb will observe fewer supernovae, but by observing them at higher redshift, fainter levels and further into the infrared, it will provide complementary information to Roman.
+
+### [](https://webbtelescope.org/quick-facts)**Will Webb be able to tell us more about the Big Bang?**
+
+The concept of the Big Bang is both simple and easy to misunderstand. View this[Q&A for answers to some commonly asked questions about the Big Bang](https://science.nasa.gov/mission/webb/big-bang-q-and-a/), and about Webb's role in understanding the early history of the universe.
+
+Building and Using Webb
+-----------------------
+
+### **Who are the partners in the Webb project?**
+
+[NASA](https://www.nasa.gov/)is the lead partner in Webb, with significant contributions from the[European Space Agency](https://www.esa.int/)(ESA) and the[Canadian Space Agency](https://www.asc-csa.gc.ca/eng/)(CSA).[Northrop Grumman](https://www.northropgrumman.com/)was the main NASA industrial contractor, responsible for building the optical telescope, spacecraft bus, and sunshield, and for preparing the observatory for launch. NG was leading a team including two major sub-contractors:[Ball Aerospace](http://www.ballaerospace.com/page.jsp?page=1)and[Harris](http://harris.com/)(formerly ITT-Exelis). The three principal beryllium mirror subcontractors to Ball Aerospace are[Coherant](http://www.coherent.com/)(formerly Tinsley Laboratories),[General Dynamics Global Imaging Technologies](http://www.gd-imaging.com/)(formerly Axsys Technologies), and[Materion](http://materion.com/)(formerly Brush Wellman Inc.) The instrument complement was provided as follows:
+
+*   The Mid-Infrared Instrument (MIRI) was provided by a consortium of European countries and the European Space Agency (ESA) and the NASA Jet Propulsion Laboratory (JPL) with detectors from[Raytheon Vision Systems](http://www.raytheon.com/businesses/ncs/rvs/index.html).
+*   The Near-Infrared Spectrograph (NIRSpec) was provided by ESA.
+*   The Near-Infrared Camera (NIRCam) was built by the University of Arizona working with Lockheed-Martin.
+*   The Near-Infrared Imager and Slitless Spectrograph (NIRISS) were provided by the Canadian Space Agency (CSA).
+*   All of the near-infrared detectors were supplied by[Teledyne Technologies, Inc](http://www.teledyne.com/index.asp).
+
+The launch vehicle and launch services were provided by ESA. The Science and Operations Center is located at the[Space Telescope Science Institute](http://www.stsci.edu/resources/)(STScI).
+
+### [](https://webbtelescope.org/quick-facts)**Which states are involved?**
+
+The Webb project has partners or contractors in 29 states and the District of Columbia. In addition, in a program with the Girl Scouts of the USA, Webb has Education and Public Outreach activities in 41 states, the District of Columbia, Guam and a US Air Force Base in Japan.
+
+### [](https://webbtelescope.org/quick-facts)**Which countries are involved?**
+
+Fourteen countries were involved in building the James Webb Space Telescope: Austria, Belgium, Canada, Denmark, France, Germany, Ireland, Italy, the Netherlands, Spain, Sweden, Switzerland, the United Kingdom and the United States of America. The launch of Webb took place in French Guiana, an overseas department of France located in South America.
+
+### [](https://webbtelescope.org/quick-facts)**Who will be able to use Webb and how is this decided?**
+
+Webb is be a General Observatory, meaning that competitively selected proposals from around the world are used to develop the observing plans. These proposals are judged by a peer review system, in which teams of independent scientists rank the observing proposals according to scientific merit, and the highest ranked proposals are selected. The results of these studies are published in scientific journals, and the data is made available through the Internet to other scientists and the general public for further studies. This is the same system that is used to schedule the Hubble Space Telescope and many other space and ground-based observatories.
+
+Webb and the Public
+-------------------
+
+### **Will I be able to see Webb pictures?**
+
+The public has access to many of the beautiful images of the sky that Hubble has taken through the[HubbleSite](https://hubblesite.org/)website, which is maintained by the Space Telescope Science Institute (STScI). The images in the gallery and the scientific results are also packaged into products for use by museums and by teachers. Hubble's scientific discoveries are explained in press releases. Webb images and discoveries are made available to the public, to teachers and to the press in the same way. Here is a summary of[places you will find Webb Images.](https://science.nasa.gov/mission/webb/about-webb-images/)
+
+### [](https://webbtelescope.org/quick-facts)**Will Webb images look as good as Hubble's?**
+
+Yes! For a more detailed answer, see[this question](https://webbtelescope.org/quick-facts#h-what-is-webb-s-angular-resolution-and-how-will-its-images-compare-to-hubble-s-will-they-be-as-beautiful)in our FAQ.
+
+### [](https://webbtelescope.org/quick-facts)**Where was Webb launched?**
+
+Webb launched from Arianespace's ELA-3 complex at Europe's Spaceport located near Kourou, French Guiana, in South America. The launch site in Kourou, the launch vehicle, and the Ariane 5 rocket are a part of the European Space Agency (ESA) contribution to the mission.
+
+Basic Science
+-------------
+
+### **What will the first galaxies that formed after the Big Bang look like?**
+
+Current theories of galaxy formation suggest that the birth process for these vast systems of stars may be very violent events, and will be billions of times brighter than our Sun. Such events may remain visible at highly redshifted wavelengths. That is, although much of the energy produced is emitted in the ultraviolet, it will be redshifted into the infrared by the time it gets to us because of the extreme distance (in space and time) from the present.
+
+### [](https://webbtelescope.org/quick-facts)**What is redshift and how do you measure it?**
+
+Redshift is a special astronomical case of a physical phenomenon called the Doppler effect (after Christian Doppler [1803-1853]). The Doppler effect occurs when a source sending out waves (either sound or light) is moving with respect to an observer. When the source is moving toward the observer, waves arrive earlier than they would in the stationary case and the wave peaks arrive closer together (the sound is higher pitch or the light is bluer). If the source is moving away from the observer, the waves get more stretched out (the sound is lower pitch or the light is redder). The Doppler effect on sound can be clearly heard when a siren or fast train is passing by.
+
+In astronomy, most galaxies are moving away from us because the Universe is expanding, so the light from the galaxies is redshifted. The farther the galaxy is away from us, the faster it is moving, and the larger the redshift. How redshift is connected to the distance of an object depends on the expansion rate of the Universe, the geometry of the Universe and the energy content of the Universe (slowing down or accelerating the expansion). Determining these values is an important subject of investigation of current-day astronomy. Redshifts are measured by taking spectra of the electromagnetic radiation (X-rays, ultra-violet, visible and infrared light, microwaves, radio waves, etc.) of astronomical objects. Physical processes within the atoms and molecules that make up stars and galaxies cause the spectra to have certain recognizable features at very specific wavelengths. The wavelengths of these atomic and molecular absorption or emission lines can be measured very accurately. By measuring the observed wavelength of a feature in the spectrum of a galaxy, and comparing it to the known emitted wavelength, astronomers can measure the Doppler shift of the galaxy. Galaxies are said to have a redshift of 1 if their spectral features have shifted to twice as long a wavelength. If their features have shifted to 3 times longer wavelength they have redshift 2, and so on. Webb is designed to see galaxies at redshifts of 15 or more, where the ultraviolet light is redshifted into the infrared.
+
+### [](https://webbtelescope.org/quick-facts)**What is a light-year? And what is a parsec?**
+
+A light-year is the distance traveled by light in one year, about 5,880,000,000,000 miles (9,460,000,000,000 kilometers). Since it takes light as long to travel from there to here as the distance in light-years, we can say that when we look at an object that is a million light-years away, we see it now here as it was a million years ago there. Looking deep into space is looking far back into time. Astronomers generally use the unit "parsec" to measure distances. One parsec is equal to about 3.26 light-years. Distances between galaxies are measured in Megaparsecs (Mpc), or millions of parsecs.
+
+### [](https://webbtelescope.org/quick-facts)**What is a micrometer? What is a micron?**
+
+A micrometer, also called a micron, is a millionth of a meter, or a thousandth of a millimeter. As a reference, the diameter of a human hair is about 100 micrometers. Wavelengths of infrared radiation are typically expressed in micrometers. A thousandth of a micrometer is called a nanometer.
+
+### [](https://webbtelescope.org/quick-facts)**What is an arc-minute? What is an arc-second?**
+
+Arc-seconds and arc-minutes are used to measure very small angles. An arc-minute is 1/60 of a degree, and an arc-second is 1/60 of an arc-minute, or 1/3600 of a degree.
+
+### [](https://webbtelescope.org/quick-facts)**What is infrared radiation?**
+
+Infrared radiation is one of the many types of 'light' that comprise the electromagnetic spectrum. Infrared light is characterized by wavelengths that are longer than visible light (400-700 nanometers, or 0.4-0.7 micrometers; also denoted as microns). Astronomers generally divide the infrared portion of the electromagnetic spectrum into three regions: near-infrared (0.7-5 micrometers), mid-infrared (5-30 micrometers) and far infrared (30-1000 micrometers). Webb is sensitive to near-infrared and mid-infrared radiation.
+
+### [](https://webbtelescope.org/quick-facts)**What is the electromagnetic spectrum?**
+
+Much of the information we have from the universe comes from light. Sunlight (and starlight) is made up of many different colors. We can see this by holding a prism up to the sunlight. The prism separates the light into the individual colors of the rainbow - the visible light spectrum. Yet the light we can see represents only a very small portion of the electromagnetic spectrum. Just beyond the violet light is light with an even shorter wavelength called "ultraviolet", and beyond that X-ray light and gamma rays, with wavelengths millions of times shorter than those of visible light. Likewise, just beyond the red is light we call "infrared," and beyond that microwaves and radio waves having wavelengths millions of times longer than those of visible light. The wavelength is directly related to the amount of energy the waves carry per photon. A photon is a fundamental particle of electromagnetic energy. The shorter the radiation's wavelength, the higher is the energy of each photon. Although the photon energy carried by each wavelength differs, all forms of electromagnetic radiation travel at the speed of light - about 186,000 miles (300,000 km) per second in a vacuum.
+
+### [](https://webbtelescope.org/quick-facts)**How does our atmosphere block infrared radiation from space?**
+
+Only certain parts of the electromagnetic spectrum (all light ranging from gamma ray to radio waves) can make it to the Earth's surface. Our atmosphere absorbs much of this light. Visible light, radio waves and a few small ranges of infrared wavelengths do make it through. Gamma rays, X-rays and most of the ultraviolet rays and infrared rays do not. This is why infrared telescopes are placed on high, dry mountains (like Mauna Kea in Hawaii) so that they can observe more infrared radiation. The only way to study the entire range of infrared (as well as gamma ray, x-rays, ultra-violet) is to place telescopes in space well above the atmosphere. Only some (not all) of the infrared radiation between 1 and 40 micrometers makes it to the Earth's surface. Water vapor in our atmosphere absorbs most of the rest. Infrared radiation is also absorbed to a lesser degree by carbon dioxide, ozone, and oxygen molecules.
+
+More Information
+----------------
+
+### **How can I find out more about Webb?**
+
+Browse the various pages on our[website](https://nasa.gov/webb)to find out more about the James Webb Space Telescope. See also the website maintained by the[Space Telescope Science Institute](https://webbtelescope.org/).
+
+### [](https://webbtelescope.org/quick-facts)**Do you have anything for kids?**
+
+Check out our["Features"](https://science.nasa.gov/mission/webb/for-fun/)and "[For Educators](https://science.nasa.gov/mission/webb/for-educators/)" pages for products and programs suitable for kids. The[Astrophysics Science Division](https://science.gsfc.nasa.gov/660/outreach/)at NASA's Goddard Space Flight Center also has various education and outreach programs that may of interest. In addition, NASA has lots of great websites about astronomy for kids (and teachers!) Here are just a few:
+
+*   [What is the James Webb Space Telescope?](https://spaceplace.nasa.gov/james-webb-space-telescope/en/)(4th grade and up)
+*   [STEM Webb Toolkit](https://www.nasa.gov/stem/nextgenstem/webb-toolkit.html)(K-12)
+*   StarChild:[https://starchild.gsfc.nasa.gov/](https://starchild.gsfc.nasa.gov/)(grades K-8)
+*   Imagine the Universe:[https://imagine.gsfc.nasa.gov/](https://imagine.gsfc.nasa.gov/)(ages 14+)
+*   Amazing Space:[https://amazing-space.stsci.edu/](https://amazing-space.stsci.edu/)
+*   Cool Cosmos:[https://coolcosmos.ipac.caltech.edu/](https://coolcosmos.ipac.caltech.edu/)
+*   NASA education:[https://www.nasa.gov/education/](https://www.nasa.gov/education/)
+
+### [](https://webbtelescope.org/quick-facts)**I'm a professional astronomer - how can I find out more about Webb?**
+
+The science goals and planned implementation of the observatory were published by Gardner et al. 2006, Space Science Reviews, 123/4, 485-606, available by clicking[here](https://dx.doi.org/10.1007/s11214-006-8315-7).

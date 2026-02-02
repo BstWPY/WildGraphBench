@@ -1,0 +1,75 @@
+# Valve vs. Vivendi Universal dogfight heats up in US District Court
+
+Last week, news of Valve finally shipping the Half-Life 2 release candidate to publisher Vivendi Universal Games (VUG) grabbed headlines. However, behind the scenes, the two companies have been involved in a much less upbeat kind of transaction--an ongoing legal battle that has garnered little attention from gamers.
+
+On August 14, 2002, Valve served its then-publisher Sierra On-Line (now Sierra Entertainment, a Vivendi Universal Games brand) with a lawsuit in the US District Court of Washington, Western Division, alleging copyright infringement--the result of Sierra placing Valve games in Internet cafés in the US and abroad. "Sierra has in the past and continues to reproduce, use, distribute, and/or license one or more of the Valve Games with regard to 'cyber cafés,'" the complaint read. "Sierra's activities are outside the scope of Sierra's limited license...and therefore constitute copyright infringement in violation of the Copyright Act of 1976."
+
+And so it began.
+
+Since that filing, more than a dozen lawyers have left their stamp on the more than 200 documents and exhibits (the most recent filed just last week) that have crossed the desk of the honorable Thomas S. Zilly, the judge mediating the dispute.
+
+Presiding over the claims, counterclaims, motions, answers, declarations, applications, amended complaints, and other minutia of the case, Zilly is in the middle of the legal equivalent of a barroom brawl. In court filings, attorneys for Sierra/VUG allege that Gabe Newell, founder and managing director of Valve, conveyed "misleading half-truth[s]" to them, and that various ensuing conversations between Newell and Sierra/VUG executives were colored with "misrepresentations and concealment." Valve's marketing director Doug Lombardi is also described as having made "false representations" to Sierra/VUG execs.
+
+"Valve sued Vivendi for copyright infringement back in 2002 over their unauthorized distribution of our products to cyber cafés," Lombardi told GameSpot last Friday. "We later had to add breach of contract claims for, among other things, refusing to pay us royalties owed and delaying Condition Zero out of the holiday season."
+
+That lawsuit became more complex when Sierra fought back with a counterclaim. "Almost a year and a half into the lawsuit," Lombardi continued, "Vivendi responded by making a number of claims in an attempt to invalidate our agreement and be awarded the ownership of the Half-Life intellectual property. We expect to prevail in this lawsuit."
+
+Though the density of the legal documents makes for arduous reading, they yield many fascinating nuggets of information. For example, the first Half-Life, which went on to win numerous awards and reap huge profits for both developer and publisher, was delivered to Sierra after an almost laughably meager $800,000 advance--the initial payment was a mere $30,000 when Newell and Sierra On-line reps signed their first software publishing agreement on April 27, 1997.
+
+Currently, the case stands here: After Valve's initial lawsuit alleging that Sierra illegally distributed Half-Life to game cafés, and Sierra/VUG's counterclaim that accuses Valve of circumventing Sierra's retail plans by distributing Valve games via Steam, the two sides have both submitted motions for summary judgment on lesser points.
+
+"Our court date [a jury trial to address the complaint and counterclaim] isn't until March 2005," Lombardi said. "The October 8 motions relate to two legal issues. We expect those issues to be decided in our favor."
+
+For readers not familiar with the case (that is, just about everyone), the overall timeline is referenced in documents filed by VUG attorneys on Wednesday, September 15, 2004. In those documents--a second motion "to compel production of [Half-Life 2] source code"--Sierra/VUG attorneys stated their case in filings as follows:
+
+"In 1997, Valve and Sierra entered into two agreements whereby Valve undertook to develop certain computer games and Sierra undertook to manufacture, market, and distribute the games. Among other benefits, these 1997 agreements granted Sierra intellectual property rights in the games.
+
+"Beginning in 1999, following the success of its first game, Valve began to threaten Sierra that it would halt or slow development of the remaining games it was obligated to develop unless Sierra relinquished certain rights under the 1997 agreements. Sierra eventually capitulated to these demands and, relying on misrepresentations by Valve, entered into a new software publishing agreement (SPA) with Valve in 2001.
+
+"Among other concessions, Sierra agreed to relinquish intellectual property rights and to allow Valve certain rights to the online distribution of games. Valve did not disclose during the negotiations over the 2001 SPA that it was in the process of developing a new technology called Steam that would allow consumers who would normally purchase games from Sierra/VUG at retail to purchase those products online directly from Valve.
+
+"It was not until March 2002, nearly a year after the 2001 SPA was signed, that Valve announced the new Steam technology in a Game Developers' Conference in San Jose. Production of the source code in native, electronic, compliable format will allow Sierra/VUG to analyze the timing of Valve's development of Steam and the relevant Valve games.
+
+"The timing of Valve's development of the source code for Valve games, the Valve source engine, and Steam are critical to the development of several of Sierra/VUG's counterclaims, including Sierra/VUG's promissory fraud claim based on Valve's false promises that it would continuously develop games to completion; Sierra/VUG's fraud claim and claim for breach of the covenant of good faith and fair dealing based on Valve's concealment of Steam and its strategically delayed development of the Valve games to coincide with the commercial release of Steam; Sierra/VUG's unilateral mistake claim based on its mistaken belief regarding the status of development of the Valve games upon signing the 2001 SPA; Sierra/VUG's breach of contract claim based on Valve's failure to use diligent efforts to continuously develop the Valve games to completion; and Sierra/VUG's claim for declaratory relief regarding its right to reversion of the Half-Life intellectual property based on Valve's failure to continuously develop the Valve games."
+
+Perhaps not so coincidentally, Valve announced that it had delivered a Half-Life 2 release candidate to VUG the day after this motion was filed with the court. Whether that release candidate qualifies as the "source code" VUG attorneys sought is unclear, although Lombardi indicated to GameSpot the source code at issue and the release candidate are not the same.
+
+One especially significant subplot contained in Sierra's 54-page counterclaim to Valve's initial copyright infringement lawsuit revolves around the lengths Newell and others at Valve, according to Sierra/VUG filings, went to to downplay the capabilities of Steam, the Valve-developed digital distribution system now being tapped as a distribution mechanism for Half-Life 2"
+
+"During the parties' negotiations...Counterclaim Defendants [Valve] repeatedly and falsely assured Sierra and VUG that retail sales would remain "the key to [their] strategy." In September 2000, for example, Newell told Hubert Joly, then VUG's CEO, that "online is a way to nurture the retail business" and that he 'could not understand how one can make money online today.'
+
+"Sierra and VUG would later learn that these statements were flatly false...Incredibly, Counterclaim Defendant Newell also stated that he 'could not understand how one can make money online today,' plainly with the intention to falsely imply that Valve had no present or future strategy to engage in widespread online distribution of the games. This misleading half-truth was Newell's deliberate concealment of the extent to which Valve intended through the parties' negotiations to appropriate the substantial value of the distribution rights to Valve, rather than to Sierra and VUG."
+
+In court filings, Sierra/VUG says that the current distribution of Half-Life 2 via Steam exceeds the scope of the current software publishing agreement between the two parties. It is apparently seeking the court's assistance in compelling Valve not to use Steam as an avenue of distribution.
+
+On Friday, when asked if Valve was still intent on making Half-Life 2 available to gamers via Steam, regardless of what was determined on October 8, Lombardi replied, "Yes."
+
+Interestingly, and in spite of the ongoing legal dispute, Sierra/VUG still wants to work with Valve in the future and is asking the court via filings to force Valve to work with it on whatever is next in the development pipeline. It asks the court, in filings, "for a declaration that Sierra and VUG have the right to a fourth engine license pursuant to the terms of...the 2001 Agreement."
+
+According to Lombardi, "[Valve is] going to meet the obligations of [the] current agreement."
+
+So what does the future hold for the two parties? They are now in a dash to present to the court all relevant materials to support their cross-motions for summary judgment regarding "cyber-café rights and available damages," according to Sierra/VUG filings.
+
+Additionally, the two parties must meet the following milestones, according to the deputy clerk to Judge Zilly:
+
+*   All motions related to discovery must be filed by October 22, 2004.
+*   Disclosure of expert testimony [by] November 5, 2004.
+*   Discovery completed by November 18, 2004.
+*   All dispositive motions must be filed by...November 18, 2004.
+*   Settlement conference no later than January 20, 2005.
+*   Mediation held no later than February 19, 2005.
+*   All motions in limine must be filed by February 21, 2005.
+*   Agreed pretrial order due March 9, 2005.
+*   Pretrial conference to be held at 4pm on March 11, 2005.
+*   Trial briefs, proposed voir dire questions, jury instructions, and findings of fact and conclusions of law [due]...March 16, 2005.
+*   Trial date: March 21, 2005.
+
+With the next hearing date set by the court of October 8, 2004 (to hear the cross-motions of summary judgment), you can be sure the parties will have little time to check out the run-and-gun fun of Half-Life 2, but that doesn't mean they don't have their legal weapons drawn, fingers on the triggers.
+
+A VUG spokesperson declined to offer any comment for this article, saying the company was "not able to comment on pending litigation."
+
+GameSpot will keep readers posted on further developments.
+
+GameSpot may get a commission from retail offers.
+
+_Got a news tip or want to contact us directly? Email [news@gamespot.com](https://20220510013229/mailto:news@gamespot.com?subject=Hi GameSpot! I have a news tip for you!)_

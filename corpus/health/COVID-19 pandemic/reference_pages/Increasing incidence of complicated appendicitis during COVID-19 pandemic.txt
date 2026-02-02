@@ -1,0 +1,235 @@
+# Increasing incidence of complicated appendicitis during COVID-19 pandemic
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886)Abstract
+----------------------------------------------------------------
+
+### Background
+
+The novel coronavirus (COVID-19) strain has resulted in restrictions potentially impacting patients presenting with acute appendicitis and their disease burden.
+
+### Methods
+
+All acute appendicitis admissions (281 patients) between 1/1/2018-4/30/2020 were reviewed. Two groups were created: 6 weeks before (Group A) and 6 weeks after (Group B) the date elective surgeries were postponed in Massachusetts for COVID-19. Acute appendicitis incidence and disease characteristics were compared between the groups. Similar time periods from 2018 to 2019 were also compared.
+
+### Results
+
+Fifty-four appendicitis patients were categorized in Group A and thirty-seven in Group B. Those who underwent surgery were compared and revealed a 45.5% decrease (CI: 64.2,-26.7) in uncomplicated appendicitis, a 21.1% increase (CI:3.9,38.3) in perforated appendicitis and a 29% increase (CI:11.5,46.5) in gangrenous appendicitis. Significant differences in the incidence of uncomplicated and complicated appendicitis were also noted when comparing 2020 to previous years.
+
+### Conclusions
+
+The significant increase in complicated appendicitis and simultaneous significant decrease in uncomplicated appendicitis during the COVID-19 pandemic indicate that patients are not seeking appropriate, timely surgical care.
+
+**Keywords:** Acute appendicitis, Complicated appendicitis, COVID-19
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886)Introduction
+--------------------------------------------------------------------
+
+The novel coronavirus SARS-CoV-2 (COVID-19) strain resulted in a pandemic affecting China, Europe and subsequently the US. The first COVID-19 patient in the US was reported on January 20, 2020[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib1) and since then many states declared a state of emergency and eventually put in place stay-at-home advisories.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib2) Many surgical societies, including the American College of Surgeons, published guidelines in regards to the triage of elective cases, recommending the postponement of elective surgeries.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib3) Also, state and hospital officials strongly encouraged low-acuity patients to avoid Emergency Rooms (ERs) at the time of the pandemic surge in order to prioritize the care of high-acuity patients and avoid infection by and spread of the COVID-19 strain. This resulted in a decrease of up to 50% in patients seeking emergency care in the first weeks of the stay-at-home advisory. This decrease persisted in the following weeks and data suggest that a portion of high-acuity patients that could require emergent care, did not present for evaluation due to fear of COVID-19 infection.[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib4) The media has published stories of patients with severe medical problems, such as myocardial infarctions and strokes as well as surgical conditions, such as appendicitis, avoiding presenting to the ER.[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib5)
+
+The lifetime risk of appendicitis in the United States is calculated to be 1 in 15 patients[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib6) with approximately 250,000 appendectomies occurring annually.[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib7) One out of the three appendicitis patients will present with a perforated appendix and the annual healthcare cost for appendicitis related hospitalizations was calculated to be $3 billion.[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib8) We hypothesize that the introduction of restrictions due to COVID-19 has resulted in a significant impact on both the number of patients presenting to ER with signs and symptoms of acute appendicitis as well as their disease burden.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886)Materials and methods
+-----------------------------------------------------------------------------
+
+The study was a retrospective, cohort investigation of acute appendicitis at Baystate Medical Center (BMC), a 720-bed, tertiary care, regional, academic medical center currently serving a population of approximately 850,000 people in western Massachusetts. The protocol was approved by the BMC Institutional Review Board.
+
+We identified all adult and pediatric admissions from January 1, 2018 to April 30, 2020 using International Classification of Diseases (ICD-10) diagnosis codes (Appendix A) for uncomplicated and complicated (defined as perforation of the appendix, gangrenous appendicitis, and/or abscess/phlegmon) acute appendicitis. The primary outcome of the study was to identify the number of patients presenting with acute appendicitis before and after the COVID-19 related restrictions and the proportion of patients with complicated acute appendicitis disease as defined by operative diagnosis.
+
+The directive for postponement of elective surgeries in Massachusetts was announced on March 15, 2020. Two time-period groups were created: 6 weeks before (2020 Group A: February 1, 2020–March 15, 2020) and 6 weeks after (2020 Group B: March 16, 2020–April 30, 2020) that date. In order to evaluate whether any potential differences were attributed to COVID-19 and not to temporal or seasonal changes, we compared Groups A and B from 2020 to similar time-period groups from 2018 to 2019 (2018/2019 Group A and Group B). As the baseline time periods (2018 & 2019) were stable, we collapsed them, which provided more stability in our estimates and increased our power.
+
+Variables collected included patient age, gender, ethnicity, Body Mass Index (BMI), comorbidities, American Society of Anesthesiologists (ASA) score, COVID-19 status, pre-operative symptoms, imaging and labs. The type of treatment (surgery versus antibiotics), time from presentation until surgery, intraoperative time, postoperative diagnosis, hospital length of stay, postoperative complications and patient disposition after discharge from the hospital were also collected.
+
+All variables were checked for completeness and plausibility using frequencies (percentage) (categorical) and means/ranges (continuous, ordinal). Descriptive statistics were calculated for baseline time periods (2018/2019 Group A and Group B) and Groups A and B from 2020. Univariable statistics between each time-period groups and each independent variable were generated using Fisher’s exact test (categorical), one-way analysis of variance (Gaussian), or Kruskal-Wallis equality-of-populations rank test (non-Gaussian). All tests of significance were 2-sided with a critical threshold of LP) was used for all analyses. Logistic regression was used for all outcomes, including demographics and clinical characteristics, different treatment modalities (laparoscopic, open appendectomy, abdominal washout and drain placement, antibiotics) as well as different postoperative diagnoses (uncomplicated, acute appendicitis, abscess, perforated appendicitis and gangrenous appendicitis). We initially estimated absolute differences across each time period and then estimated the difference-in-difference to determine the effect of COVID-19 on our binary outcomes. We used logistic regression to model these relationships using a univariable model. Specifically, for each binary outcome we initially included binary terms for group, period (2018/2019 vs 2020) and an interaction term between these two variables in the model. We then used the Stata post estimation command -margins- to estimate the absolute differences between periods, the difference-in-difference and associated 95% confidence intervals. Data were analyzed using STATA 16 (StataCorp, College Station, TX).
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886)Results
+---------------------------------------------------------------
+
+We identified a total of 281 patients that were admitted with acute appendicitis to our institution during the study period. Our study population comprised of 180 adult patients (64.1%) and 101 pediatric patients (35.9%).
+
+In 2018/2019, Groups A and B comprised of 94 and 96 patients, whereas in 2020 Group A and B included 54 and 37 patients, respectively. Demographics and clinical characteristics for the study population are depicted in [Table 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#tbl1) . Despite the small numbers of patients included, comparison between the two groups revealed no significant difference in variables such as the age, sex, comorbidities, preoperative laboratory values and vitals. Duration of the procedure, postoperative complications and length of admission were also similar between Groups A and B between the different years. The length of admission was higher for the patients that were admitted after the implementation of the COVID-19 related restrictions but this did not reach statistical significance.
+
+### Table 1.
+
+Demographic and clinical characteristics of study population.
+
+| Variables | 2018/2019 * * * | 2018/2019 * * * | 2020 * * * | 2020 * * * | Total | P-value |
+| --- | --- | --- | --- | --- | --- | --- |
+| Group A | Group B | Group A | Group B |
+| n (%) | **94 (33.5)** | **96 (34.2)** | **54 (19.2)** | **37 (13.2)** | **281 (100.0)** |  |
+| **∗∗∗ Patient Characteristics** | **∗∗∗** | **∗∗∗** | **∗∗∗** | **∗∗∗** |  |  |
+| Age, median (iqi) | 24.5 (12.0; 42.3) | 17.5 (12.0; 42.8) | 23.0 (13.0; 48.5) | 27.0 (12.5; 53.5) | 22.0 (12; 45) | 0.61 |
+| Sex, n (%) |  |  |  |  |  |  |
+| Female, n (%) | 33 (35.1) | 44 (45.8) | 22 (40.7) | 14 (37.8) | 113 (40.2) | 0.50 |
+| Male, n (%) | 61 (64.9) | 52 (54.2) | 32 (59.3) | 23 (62.2) | 168 (59.8) |  |
+| Race, n (%) |  |  |  |  |  |  |
+| White, n (%) | 81 (86.2) | 86 (89.6) | 48 (88.9) | 34 (91.9) | 249 (88.6) | 0.27 |
+| Black, n (%) | 11 (11.7) | 9 (9.4) | 6 (11.1) | 2 (5.4) | 28 (10.0) |  |
+| Asian, n (%) | 2 (2.1) | 1 (1.0) | 0 (0.0) | 1 (2.7) | 4 (1.4) |  |
+| **∗∗∗ Comorbidities** | **∗∗∗** | **∗∗∗** | **∗∗∗** | **∗∗∗** |  |  |
+| Hypertension, n (%) | 11 (11.7) | 13 (13.5) | 9 (16.7) | 7 (18.9) | 40 (14.2) | 0.69 |
+| Arrhythmia, n (%) | 2 (2.1) | 4 (4.2) | 4 (7.4) | 4 (10.8) | 14 (5.0) | 0.17 |
+| COPD, n (%) | 1 (1.1) | 2 (2.1) | 0 (0.0) | 2 (5.4) | 5 (1.8) | 0.25 |
+| CHF, n (%) | 1 (1.1) | 0 (0.0) | 1 (1.9) | 0 (0.0) | 2 (0.7) | 0.54 |
+| Kidney Disease, n (%) | 1 (2.1) | 0 (0.0) | 1 (2.2) | 0 (0.0) | 4 (1.4) | 0.82 |
+| **∗∗∗ Preoperative Labs** | **∗∗∗** | **∗∗∗** | **∗∗∗** | **∗∗∗** |  |  |
+| WBC, mean (sd) | 14.2 (4.2) | 13.6 (4.7) | 13.6 (4.4) | 13.7 (4.8) | 13.8 (4.5) | 0.80 |
+| Hematocrit, mean (sd) | 41.1 (4.2) | 39.4 (5.7) | 39.4 (7.0) | 41.7 (4.5) | 40.3 (5.5) | 0.06 |
+| Lactate, mean (sd) | 1.4 (0.7) | 1.5 (0.7) | 1.4 (0.5) | 1.5 (0.3) | 1.4 (0.6) | 0.93 |
+| **∗∗∗ Preoperative Vitals** | **∗∗∗** | **∗∗∗** | **∗∗∗** | **∗∗∗** |  |  |
+| Temperature, mean (sd) | 98.6 (0.8) | 98.7 (1.1) | 98.6 (0.8) | 99.0 (1.2) | 98.7 (1.0) | 0.22 |
+| Heart Rate, mean (sd) | 89.4 (22.4) | 92.0 (20.0) | 84.5 (16.5) | 94.5 (20.3) | 90.0 (20.4) | 0.08 |
+| O2 saturations, mean (sd) | 98.9 (1.8) | 99.1 (1.3) | 96.9 (13.4) | 98.4 (2.2) | 98.5 (6.1) | 0.19 |
+| **∗∗∗ Perioperative Characteristics** | **∗∗∗** | **∗∗∗** | **∗∗∗** | **∗∗∗** |  |  |
+| ASA Score, mean (sd) | 1.6 (0.7) | 1.6 (0.6) | 1.8 (0.7) | 2.0 (0.8) | 1.7 (0.7) | 0.06 |
+| COVID-19 status, n (%) |  |  |  |  |  |  |
+| Positive, n (%) | 0 (0.0) | 0 (0.0) | 0 (0.0) | 3 (8.3) | 3 (1.1) |  |
+| Negative, n (%) | 0 (0.0) | 0 (0.0) | 0 (0.0) | 13 (36.1) | 13 (4.7) |  |
+| Length of symptoms prior to presenting to the ED, n (%) |  |  |  |  |  |  |
+| <12 h, n (%) | 6 (6.4) | 5 (5.2) | 1 (1.9) | 2 (5.4) | 14 (5.0) |  |
+| 12 h, n (%) | 13 (13.8) | 11 (11.5) | 5 (9.3) | 3 (8.1) | 32 (11.4) |  |
+| 24 h, n (%) | 45 (47.9) | 40 (41.7) | 22 (40.7) | 15 (40.5) | 122 (43.4) |  |
+| 48 h, n (%) | 14 (14.9) | 15 (15.6) | 9 (16.7) | 8 (21.6) | 46 (16.4) |  |
+| 72 h, n (%) | 3 (3.2) | 7 (7.3) | 6 (11.1) | 2 (5.4) | 18 (6.4) |  |
+| >72 h, n (%) | 13 (13.8) | 18 (18.8) | 11 (20.4) | 7 (18.9) | 49 (17.4) | 0.90 |
+| Time from presentation until surgery (in hours), mean (sd) | 9.9 (8.4) | 10.7 (9.9) | 10.7 (6.1) | 8.3 (7.6) | 10.1 (8.5) | 0.55 |
+| Intraoperative time (minutes), mean (sd) | 58.2 (23.2) | 61.9 (22.4) | 60.3 (34.4) | 56.5 (19.3) | 59.6 (24.8) | 0.66 |
+| Length of admission (days), mean (sd) | 1.9 (2.2) | 1.8 (1.9) | 1.6 (1.4) | 2.5 (3.1) | 1.9 (2.1) | 0.18 |
+| **∗∗∗ Postoperative complications** | **∗∗∗** | **∗∗∗** | **∗∗∗** | **∗∗∗** |  |  |
+| Return to OR, n (%) | 1 (1.1) | 0 (0.0) | 0 (0.0) | 0 (0.0) | 1 (0.4) | 0.57 |
+| Bleeding, n (%) | 1 (1.1) | 0 (0.0) | 0 (0.0) | 1 (2.9) | 2 (0.7) | 0.34 |
+| Superficial Wound Infection, n (%) | 2 (2.2) | 1 (1.1) | 0 (0.0) | 1 (2.9) | 4 (1.5) | 0.65 |
+| Intra-abdominal abscess formation requiring IR drainage, n (%) | 2 (2.2) | 3 (3.2) | 1 (2.0) | 1 (2.9) | 7 (2.6) | 0.96 |
+| Discharge Disposition, n (%) |  |  |  |  |  |  |
+| Home, n (%) | 93 (98.9) | 94 (97.9) | 52 (98.1) | 36 (97.3) | 275 (98.2) | 0.66 |
+| Rehab, n (%) | 0 (0.0) | 2 (2.1) | 1 (1.9) | 1 (2.7) | 4 (1.4) |  |
+| Other, n (%) | 1 (1.1) | 0 (0.0) | 0 (0.0) | 0 (0.0) | 1 (0.4) |  |
+
+### Analysis of the acute appendicitis treatment modalities
+
+In 2020, forty-seven patients (87%) underwent laparoscopic appendectomy and one patient (1.9%) underwent open appendectomy for Group A. The remaining patients did not undergo surgical interventions and were treated with antibiotics ([Table 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#tbl2) ). Similarly, in 2020 Group B thirty-two patients (86.5%) underwent laparoscopic appendectomy whereas two patients (5.4%) required abdominal washout and drain placement but the appendix was not visualized so appendectomy was not performed. Three patients (8.1%) were treated conservatively with antibiotics. A proportional decrease of laparoscopic appendectomies (−0.5%, CI:−14.7,13.6) as well as antibiotic treatment (−3.0%, CI:−15.1,9.1) was noted in Group B compared to Group A. However this did not reach statistical significance.
+
+#### Table 2.
+
+Comparison of treatment modalities.
+
+|  | 2018/2019 * * * | 2018/2019 * * * | Absolute Difference (95% CI) | 2020 * * * | 2020 * * * | Absolute Difference (95% CI) | Difference in Difference (95% CI) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Group A * * * | Group B * * * | Group A * * * | Group B * * * |
+| N (%) | N (%) | N (%) | N (%) |
+| **Laparoscopic Appendectomy:** | 92 (97.8) | 89 (92.7) | −5.1% [-11.1,0.8] | 47 (87.0) | 32 (86.5) | −0.5% [-14.7,13.6] | −4.6% [-20.0,10.8] |
+| **Open Appendectomy:** | 1 (1.1) | 2 (2.1) | 1.0% [-2.5,4.5] | 1 (1.9) | 0 (0.0) | – | – |
+| **Abdominal washout and drain placement:** | 0 (0.0) | 0 (0.0) | – | 0 (0.0) | 2 (5.4) | – | – |
+| **Antibiotics:** | 1 (1.1) | 5 (5.2) | 4.1% [-0.7,9.0] | 6 (11.1) | 3 (8.1) | −3.0% [-15.1,9.1] | 7.1% [-5.9,20.2] |
+
+The various treatment modalities performed during similar time-periods in 2018 and 2019 are also noted in [Table 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#tbl2). A proportional decrease of laparoscopic appendectomies was again noted between Groups A and B but was not statistically significant (−5.1%, CI:−11.1,0.8). In regards to the use of antibiotics as a single modality for the treatment of acute appendicitis, a proportional increase was noted in Group B compared to Group A (4.1%, CI:−0.7,9.0) but did not reach statistical significance.
+
+Comparison of the treatment modalities performed in 2020 versus 2018/2019 revealed proportional differences in the number of laparoscopic appendectomies (−4.6%, CI: 20.0,10.8) and conservative treatment with antibiotics (7.1%, CI:−5.9,20.2) which were not statistically significant ([Table 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#tbl2)).
+
+### Analysis of postoperative diagnosis
+
+A subgroup analysis of the disease burden, as indicated by the postoperative diagnosis, was performed between Groups A and B during our study period ([Table 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#tbl3) ).
+
+#### Table 3.
+
+Comparison of postoperative diagnosis.
+
+|  | Baseline Time Period |  | COVID Time Period |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 2018/2019 Group A | 2018/2019 Group B | Absolute Difference (95% CI) | 2020 Group A | 2020Group B | Absolute Difference (95% CI) | Difference in Difference (95% CI) |
+| N (%) | N (%) | N (%) | N (%) |
+| **Uncomplicated, acute Appendicitis:** | 75 (80.7) | 74 (81.3) | 0.6% [-10.6, 12.0] | 43 (89.6) | 15 (44.1) | −45.5% [-64.2,-26.7] | 46.1% [24.2, 68.1] |
+| **Abscess:** | 1 (1.1) | 3 (3.3) | 2.2% [-2.0, 6.4] | 1 (2.1) | 3 (8.8) | 6.7% [-3.6, 17.0] | −4.5% [-15.7, 6.6] |
+| **Perforated Appendicitis:** | 13 (14.0) | 14 (15.4) | 1.4% [-8.8, 11.6] | 4 (8.3) | 10 (29.4) | 21.1% [3.9, 38.3] | −19.7% [-39.7, 0.3] |
+| **Gangrenous Appendicitis:** | 7 (7.5) | 4 (4.4) | −3.1% [-9.9, 3.7] | 3 (6.3) | 12 (35.3) | 29.0% [11.5, 46.5] | −32.1% [-50.9,−13.4] |
+
+a Variations in number are due to patients having more than one post-operative diagnosis.
+
+Of the patients that underwent surgical intervention in 2020, forty-three patients (89.6%) were diagnosed with uncomplicated, acute appendicitis in Group A. For the same group, four patients (8.3%) had perforated appendicitis, three patients (6.3%) had gangrenous appendicitis (6.3%) and one patient (2.1%) had developed an intra-abdominal abscess. In Group B, fifteen patients (44.1%) received the postoperative diagnosis of uncomplicated, acute appendicitis, whereas ten (29.4%) and twelve (35.3%) patients were diagnosed with perforated and gangrenous appendicitis, respectively. Three patients (8.8%) had developed an intra-abdominal abscess. Comparison between Groups A and B in 2020 revealed an approximately 46% decrease (−45.5%, CI: 64.2,-26.7) in the postoperative diagnosis of uncomplicated, acute appendicitis after the implementation of the COVID-19 related restrictions. This decrease was statistically significant. Similarly, an approximately 21% increase (21.1%, CI:3.9,38.3) in the cases of perforated appendicitis and a 29% increase (29%, CI:11.5,46.5) in the number of gangrenous appendicitis was noted after comparing the two groups. Again, these differences reached statistical significance.
+
+The postoperative diagnoses during similar time-periods in 2018 and 2019 are also noted in [Table 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#tbl3). There appears to be minimal, non-statistically significant difference in the disease burden between Groups A and B with similar numbers of uncomplicated, acute appendicitis (0.6%, CI: 10.6,12), perforated appendicitis (1.4%, CI: 8.8,11.6), gangrenous appendicitis (−3.1%, CI: 9.9, 3.7) and intra-abdominal abscess formation (2.2%, CI: 2.0,6.4).
+
+When the difference in difference analysis was completed comparing the time periods before and after the COVID-19 restrictions in 2020 to similar time periods in the two prior years, a 46% decrease (46.1%, CI:24.2,68.1) in patients diagnosed with uncomplicated, acute appendicitis was identified. This decrease was statistically significant. Furthermore, a statistically significant increase was noted in the number of patients with postoperative diagnosis of perforated (−19.7%, CI: 39.7,0.3) and gangrenous (−32.1%, CI: 50.9,-13.4) appendicitis when comparing similar groups in years 2020 versus 2018/2019.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886)Discussion
+------------------------------------------------------------------
+
+To our knowledge, this is the first study that demonstrates an increase in the number of complicated acute appendicitis after the implementation of stay-at-home advisories and the postponement of elective surgeries due to COVID-19. Moreover, this investigation reveals that the number of patients that were diagnosed with acute appendicitis in our institution decreased after the application of COVID-19 related restrictions.
+
+The results of our study can be explained by various plausible reasons. First, the fear of contracting COVID-19[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib4) as well as the encouragement from authorities to avoid unnecessary presentations to the clinic and/or ER could explain the delayed presentation of patients to the hospital. In addition, it has been described that patients presenting to the hospital more than 24hrs after the onset of symptoms are at higher risk of suffering from perforated appendicitis.[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib9),[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib10) Our findings are in accordance with a recent report by Snapiri et al. In their study they describe seven pediatric patients that received late diagnosis of acute appendicitis which resulted in higher rates of complications, such as perforated appendix and/or peri-appendicular abscess formation.[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib11) The authors recognized parental concern of contracting COVID-19 in places like the ER as a potential reason for the delayed possible explanation for the decrease in the number of acute appendicitis patients noted in our study could be the decreasing incidence of acute appendicitis in Western countries and its seasonal variation. In the United States the incidence of perforated and non-perforated acute appendicitis, as well as the number of appendectomies performed has been decreasing in recent years.[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib8) Additionally, the circannual trend of acute appendicitis is well documented indicating a seasonal peak during summer months and lower numbers during colder months.[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib12),[13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib13) In our cohort, we identified a statistically significant decrease of uncomplicated appendicitis and a significant increase of complicated appendicitis when compared to the same time periods between 2020 and the previous two years. This trend indicates a rather acute change in 2020 and excludes seasonal variations as the explanation of our findings.
+
+A recent report by Tankel et al. reveals a decrease in the rate of patients presenting to the ER with acute appendicitis during the increase of COVID-19 cases. This is consistent with our findings. However, in their cohort they did not identify an increased incidence of complicated appendicitis which is in discordance with our results .[14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib14) This difference could be attributed to the fact that their cohort was divided into two groups based on the first reported case of COVID-19 in Israel. They report that as a result of selecting that date, the decreased incidence of acute appendicitis became apparent 4 weeks after the first case of COVID-19. Given the time frame of their study it might be possible that the distribution of uncomplicated versus complicated appendicitis was not captured appropriately.
+
+Moreover, it has been suggested that urgent surgery has been affected during the time of the COVID-19 crisis .[15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib15) This is supported by our results that indicate a decrease in the number of laparoscopic appendectomies in the COVID-19 era. A recent report by Collard et al. suggests that antibiotic therapy alone could be an alternative to appendectomy for acute appendicitis during the COVI-19 healthcare crisis .[16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886#bib16) In our cohort we identified less patients treated with antibiotics alone after the implementation of COVID-19 related restrictions, possibly due to the disease burden encountered.
+
+There are several limitations to our study. Our study groups were selected based on the day elective surgeries were postponed in Massachusetts which we believe represents delayed access to health care and eventually depicts a more accurate evaluation of the disease severity. However, if a different date was to be elected this might alter our findings. Also, this is a single institution, retrospective analysis that was performed utilizing ICD codes in order to identify every patient with the diagnosis of uncomplicated and complicated acute appendicitis. However, it is possible that some patients might not have been captured in our cohort. Finally, the relatively small number of patients admitted with acute appendicitis after implementation of the COVID-19 restrictions, might not accurately depict potential changes in the utilized treatment modalities.
+
+In conclusion, this study highlights the direct correlation between the application of COVID-19 related restrictions and the severity of acute appendicitis. The significant increase in the incidence of complicated appendicitis and the simultaneous decrease in the number of patients with uncomplicated appendicitis during the COVID-19 crisis could indicate that patients requiring urgent surgical intervention are not seeking timely and appropriate care. With the already high health care cost associated with appendicitis-related hospitalizations and the anticipation of a possible new COVID-19 surge, it is prudent to address patient fears and emphasize the need to seek appropriate care in a timely manner.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886)Funding
+---------------------------------------------------------------
+
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886)Appendix A. International Classification of Diseases (ICD)-10 codes for acute appendicitis
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Acute appendicitisK35->
+
+*   •
+K35 Acute appendicitis
+
+*   •K35.2 Acute appendicitis with generalized peritonitis
+
+*   ⁃
+K35.20 … … without abscess
+
+*   ⁃
+K35.21 … … with abscess
+
+*   ⁃K35.3 Acute appendicitis with localized peritonitis
+
+*   ⁃
+K35.30 … … without perforation or gangrene
+
+*   ⁃
+K35.31 … … and gangrene, without perforation
+
+*   ⁃
+K35.32 Acute appendicitis with perforation and localized peritonitis, without abscess
+
+*   ⁃
+K35.33 Acute appendicitis with perforation and localized peritonitis, with abscess
+
+*   ⁃K35.8 Other and unspecified acute appendicitis
+
+*   ⁃
+K35.80 Unspecified acute appendicitis
+
+*   ⁃
+K35.89 Other acute appendicitis
+
+*   •
+K35.890 … … without perforation or gangrene
+
+*   •
+K35.891 … … without perforation, with gangrene
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521886)References
+------------------------------------------------------------------
+
+*   1.Holshue M.L., DeBolt C., Lindquist S., Lofy K.H. First case of 2019 novel coronavirus in the United States. N Engl J Med. 2020;382(10):929–936. doi: 10.1056/NEJMoa2001191. [[DOI](https://doi.org/10.1056/NEJMoa2001191)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7092802/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32004427/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%C2%A0Engl%20J%20Med&title=First%20case%20of%202019%20novel%20coronavirus%20in%20the%20United%20States&author=M.L.%20Holshue&author=C.%20DeBolt&author=S.%20Lindquist&author=K.H.%20Lofy&volume=382&issue=10&publication_year=2020&pages=929-936&pmid=32004427&doi=10.1056/NEJMoa2001191&)]
+*   2.DPH Public Health Advisory Stay-at-Home advisory. [https://www.mass.gov/news/dph-public-health-advisory-stay-at-home-advisory](https://www.mass.gov/news/dph-public-health-advisory-stay-at-home-advisory)
+*   3.Clinical Issues and Guidance The American College of Surgeons. [https://www.facs.org/covid-19/clinical-guidance](https://www.facs.org/covid-19/clinical-guidance)
+*   4.Wong L., Hawkins J., Langness S. May 14, 2020. Where are all the patients? Addressing covid-19 fear to encourage sick patients to seek emergency care. NEJM catalyst innovations in care delivery. [[DOI](https://doi.org/10.1056/CAT.20.0193)] [[Google Scholar](https://scholar.google.com/scholar_lookup?Wong%20L.,%20Hawkins%20J.,%20Langness%20S.%20May%2014,%202020.%20Where%20are%20all%20the%20patients?%20Addressing%20covid-19%20fear%20to%20encourage%20sick%20patients%20to%20seek%20emergency%20care.%20NEJM%20catalyst%20innovations%20in%20care%20delivery.)]
+*   5.Bernstein L., Stead Sellers F. Patients with heart attacks, strokes and even appendicitis vanish from hospitals. [https://www.washingtonpost.com/health/patients-with-heart-attacks-strokes-and-even-appendicitis-vanish-fromhospitals/2020/04/19/9ca3ef24-7eb4-11ea-9040-68981f488eed_story.html](https://www.washingtonpost.com/health/patients-with-heart-attacks-strokes-and-even-appendicitis-vanish-fromhospitals/2020/04/19/9ca3ef24-7eb4-11ea-9040-68981f488eed_story.html) The Washington Post. April 19, 2020.
+*   6.Hardin D.M., Jr. Acute appendicitis: review and update. Am Fam Physician. 1999;60:2027–2034. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/10569505/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20Fam%20Physician&title=Acute%20appendicitis:%20review%20and%20update&author=D.M.%20Hardin&volume=60&publication_year=1999&pages=2027-2034&pmid=10569505&)]
+*   7.Addiss D.G., Shaffer N., Fowler B.S., Tauxe R.V. The epidemiology of appendicitis and appendectomy in the United States. Am J Epidemiol. 1990;132(5):910–925. doi: 10.1093/oxfordjournals.aje.a115734. [[DOI](https://doi.org/10.1093/oxfordjournals.aje.a115734)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/2239906/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Epidemiol&title=The%20epidemiology%20of%20appendicitis%20and%20appendectomy%20in%20the%20United%20States&author=D.G.%20Addiss&author=N.%20Shaffer&author=B.S.%20Fowler&author=R.V.%20Tauxe&volume=132&issue=5&publication_year=1990&pages=910-925&pmid=2239906&doi=10.1093/oxfordjournals.aje.a115734&)]
+*   8.Ferris M., Quan S., Kaplan B.S., Molodecky N. The global incidence of appendicitis: a systematic review of population-based studies. Ann Surg. 2017 Aug;266(2):237–241. doi: 10.1097/SLA.0000000000002188. [[DOI](https://doi.org/10.1097/SLA.0000000000002188)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28288060/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Surg&title=The%20global%20incidence%20of%20appendicitis:%20a%20systematic%20review%20of%20population-based%20studies&author=M.%20Ferris&author=S.%20Quan&author=B.S.%20Kaplan&author=N.%20Molodecky&volume=266&issue=2&publication_year=2017%20Aug&pages=237-241&pmid=28288060&doi=10.1097/SLA.0000000000002188&)]
+*   9.Williams N., Bello M. Perforation rate relates to delayed presentation in childhood acute appendicitis. J R Coll Surg Edinb. 1998;43(2):101–102. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/9621533/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%C2%A0R%20Coll%20Surg%20Edinb&title=Perforation%20rate%20relates%20to%20delayed%20presentation%20in%20childhood%20acute%20appendicitis&author=N.%20Williams&author=M.%20Bello&volume=43&issue=2&publication_year=1998&pages=101-102&pmid=9621533&)]
+*   10.Kearney D., Cahill R.A., O’Brien E., Kirwan W.O. Influence of delays on perforation risk in adults with acute appendicitis. Dis Colon Rectum. 2008;51(12):1823–1827. doi: 10.1007/s10350-008-9373-6. [[DOI](https://doi.org/10.1007/s10350-008-9373-6)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/18584252/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Dis%20Colon%20Rectum&title=Influence%20of%20delays%20on%20perforation%20risk%20in%20adults%20with%20acute%20appendicitis&author=D.%20Kearney&author=R.A.%20Cahill&author=E.%20O%E2%80%99Brien&author=W.O.%20Kirwan&volume=51&issue=12&publication_year=2008&pages=1823-1827&pmid=18584252&doi=10.1007/s10350-008-9373-6&)]
+*   11.Snapiri O., Rosenberg Danziger C., Krause I., Kravarusic D. Delayed diagnosis of paediatric appendicitis during the COVID-19 pandemic. Acta Paediatr. 2020 doi: 10.1111/apa.15376. May 27. [[DOI](https://doi.org/10.1111/apa.15376)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7283758/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32460364/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Acta%20Paediatr&title=Delayed%20diagnosis%20of%20paediatric%20appendicitis%20during%20the%20COVID-19%20pandemic&author=O.%20Snapiri&author=C.%20Rosenberg%20Danziger&author=I.%20Krause&author=D.%20Kravarusic&publication_year=2020&pmid=32460364&doi=10.1111/apa.15376&)]
+*   12.Hsu Y.J., Fu Y.W., Chin T. Seasonal variations in the occurrence of acute appendicitis and their relationship with the presence of fecaliths in children. BMC Pediatr. 2019;19:443. doi: 10.1186/s12887-019-1824-9. [[DOI](https://doi.org/10.1186/s12887-019-1824-9)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6858696/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/31731890/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMC%20Pediatr&title=Seasonal%20variations%20in%20the%20occurrence%20of%20acute%20appendicitis%20and%20their%20relationship%20with%20the%20presence%20of%20fecaliths%20in%20children&author=Y.J.%20Hsu&author=Y.W.%20Fu&author=T.%20Chin&volume=19&publication_year=2019&pages=443&pmid=31731890&doi=10.1186/s12887-019-1824-9&)]
+*   13.York T.J. Seasonal and climatic variation in the incidence of adult acute appendicitis: a seven year longitudinal analysis. BMC Emerg Med. 2020;20:24. doi: 10.1186/s12873-020-00321-2. [[DOI](https://doi.org/10.1186/s12873-020-00321-2)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7140570/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32264826/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMC%20Emerg%20Med&title=Seasonal%20and%20climatic%20variation%20in%20the%20incidence%20of%20adult%20acute%20appendicitis:%20a%20seven%20year%20longitudinal%20analysis&author=T.J.%20York&volume=20&publication_year=2020&pages=24&pmid=32264826&doi=10.1186/s12873-020-00321-2&)]
+*   14.Tankel J., Keinan A., Blich O., Koussa M. The Decreasing Incidence of Acute Appendicitis during COVID-19: A Retrospective Multi-center Study. World J Surg. 2020:1–6. doi: 10.1007/s00268-020-05599-8. May 26. [[DOI](https://doi.org/10.1007/s00268-020-05599-8)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7250252/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32458019/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=World%20J%20Surg&title=The%20Decreasing%20Incidence%20of%20Acute%20Appendicitis%20during%20COVID-19:%20A%20Retrospective%20Multi-center%20Study&author=J.%20Tankel&author=A.%20Keinan&author=O.%20Blich&author=M.%20Koussa&publication_year=2020&pages=1-6&pmid=32458019&doi=10.1007/s00268-020-05599-8&)]
+*   15.Slim K., Veziant J. Urgent digestive surgery, a collateral victim of the COVID-19 crisis? J Vis Surg. 2020;Apr 6(20):S1878–S7886. doi: 10.1016/j.jviscsurg.2020.04.001. 30099-0. [[DOI](https://doi.org/10.1016/j.jviscsurg.2020.04.001)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7135365/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32335008/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%C2%A0Vis%20Surg&title=Urgent%20digestive%20surgery,%20a%20collateral%20victim%20of%20the%20COVID-19%20crisis?&author=K.%20Slim&author=J.%20Veziant&volume=Apr%206&issue=20&publication_year=2020&pages=S1878-S7886&pmid=32335008&doi=10.1016/j.jviscsurg.2020.04.001&)]
+*   16.Collard M., Lakkis Z., Loriau J., Mege D. Antibiotics alone as an alternative to appendectomy for uncomplicated acute appendicitis in adults: changes in treatment modalities related to the COVID-19 health crisis. J Vis Surg. 2020 Apr 24;(20):S1878–S7886. doi: 10.1016/j.jviscsurg.2020.04.014. 30119-3. [[DOI](https://doi.org/10.1016/j.jviscsurg.2020.04.014)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7181971/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32362368/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%C2%A0Vis%20Surg&title=Antibiotics%20alone%20as%20an%20alternative%20to%20appendectomy%20for%20uncomplicated%20acute%20appendicitis%20in%20adults:%20changes%20in%20treatment%20modalities%20related%20to%20the%20COVID-19%20health%20crisis&author=M.%20Collard&author=Z.%20Lakkis&author=J.%20Loriau&author=D.%20Mege&issue=20&publication_year=2020%20Apr%2024&pages=S1878-S7886&pmid=32362368&doi=10.1016/j.jviscsurg.2020.04.014&)]

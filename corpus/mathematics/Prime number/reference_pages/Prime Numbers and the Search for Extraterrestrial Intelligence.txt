@@ -1,0 +1,61 @@
+# Prime Numbers and the Search for Extraterrestrial Intelligence
+
+“master” — 2004/1/28 — 13:57 — page 1 — #1 
+
+i ii i
+
+# 1
+
+# Prime Numbers and the Search for Extraterrestrial Intelligence 
+
+# Carl Pomerance 
+
+Bell Labs—Lucent Technologies 
+
+Apart from tabloid devotees, no one knows for sure if we human beings are alone in the universe as an intelligent species or if there are others, perhaps many others. Given the vast distances involved, it is reasonable to guess that if there is ever contact between humans and intelligent aliens, it will be through the radio spectrum. Fair enough, but how possibly might we actually transmit useful information to each other? English is becoming the “universal” language on our planet at this point, but it is ridiculous to assume that at first contact our alien correspondents would communicate with us in English, or any other Earth language. The problem of accurate communication even between humans is quite daunting. Our history is marked with episodes of misunderstanding often caused by words or nuances that are misinterpreted. Despite the tragic loss of languages spoken by small and isolated groups of people, one might argue that it is a good thing that we are moving towards just a few principal languages. 1We also have some experiences communicating with other species, such as our pets. A dog owner can sometimes tell from the tenor of a bark or a whimper what’s up with Fido. And sometimes Fido hears and obeys his owner’s command. We have also tried to teach apes to speak in sign language, with limited success, and we have tried to interpret the whistles and clicks of dolphins and other whales. While this research is exciting, we still have not found a Rosetta stone that allows for free communication across species. It may be that as technological beings, we just don’t have enough in common with other Earth species. Which brings us again to possible extraterrestrial civilizations. Could there possibly be a message they could send us that we would be able to understand? Could we likewise send a message that an alien recipient could decipher? In 1960, a German/Dutch mathematician and philosopher, Hans Freudenthal, suggested a language he called Lincos to use for possible extraterrestrial communication. It was sort of a pidgin of Latin and logic with short words using the roman alphabet together with logical symbols. 2 One could well argue that such a language is not transparent enough. 1 Some have argued for an adaptation of Esperanto as a more logical language that is easily learned, but it has yet to catch on in a meaningful way. 2 See http://www.geocities.com/monicavdv/informatie-hans/Lincos.html .1“master” — 2004/1/28 — 13:57 — page 2 — #2 
+
+i ii i
+
+2 Part I: General 
+
+A decade later, the American astronomer Frank Drake came up with a brilliant scheme for extraterrestrial communication involving prime numbers. To get an idea of this, say you were to receive a message of dots and dashes: 
+
+−− •−−− •−•−•−−− •−•−•−−− •−−−−−−−−−−−−−−−−−−−− •• −•• −− •−•−•
+
+and to distinguish it from noise, after a short pause, it repeats, and then again, and again, and so on. The repetitive nature would certainly be an eye opener. But what possibly could it mean? You begin analyzing. The “message” has 55 symbols. Hmmm. The number 55 can be factored into primes as 5 × 11 or 11 × 5. This suggests putting the symbols into a rectangular array. Lets try 11 × 5:
+
+− − • − − − • − • − •
+
+− − − • − • − • − − −
+
+• − − − − − − − − − −− − − − − − − − − − •• − • • − − • − • − •
+
+No, this does not seem to help, it still looks like random noise. Let’s try the other way, 5 × 11 :
+
+− − • − −− • − • −
+
+• − − − •
+
+− • − • −− − • − −− − − − −− − − − −− − − − −− − − • •
+
+− • • − −
+
+• − • − •
+
+Wait, this no longer looks so random. Clearly there is some sort of diamond shape at the top. Could the aliens be baseball fans? Probably not, it is likely just a pleasing symbol to get our attention, But what is this strange staircase design at the bottom? With just 55 pixels it is hard to communicate very much, but an inspired guess might be that the staircase design is counting in binary from 1 to 5. Think of a dot as a 1 and a dash as a 0, and read the bottoms of the 5 columns from left to right: 001 , 010 , 011 , 100 , 101 . Yes, these are the base-two representations of the numbers 1, 2, 3, 4, 5.It is easy to imagine that using a longer repetitive message, one might easily send more detailed images. Even images of photographic quality. And by then sending different pictures, it is conceivable that one could transmit a movie in this way. Which one would you send? My favorite: Attack of the Killer Tomatoes. 
+
+Well, maybe not, we don’t want to give the aliens any ideas. The key thing is that each repetitive string should have length pq where p, q are primes, so there are at most two essentially different ways of putting the string into a rectangular array. 3In the novel Contact by Carl Sagan, this is exactly the method that the aliens chose to communicate with us earthlings. Currently, SETI (Search for ExtraTerrestrial Intelligence) is systematically searching for messages from outer space, enlisting the aid of people all over the world who have spare computer time. 4They haven’t found anything too remarkable as yet, but in some sense we have only just begun our search. In the meantime, have we sent any such messages specifically for alien consumption? Yes, we have. When the Arecibo radio telescope was inaugurated in Puerto Rico, one of its first jobs was to send a repetitive message into space. 5 This message had length 1679 , which factors as 23 × 73 . Arranged the long way from 3 If p = q there is just one way, so maybe this is a better scheme for sending messages. 4 See http://setiathome.ssl.berkeley.edu/ .5 See http://ebe.allwebco.com/Science/Reaching Out/Arecibo.shtml .“master” — 2004/1/28 — 13:57 — page 3 — #3 
+
+i ii i 
+
+> POMERANCE: Prime Numbers and the Search for Extraterrestrial Intelligence
+
+3
+
+Figure 1.1. On the left: What is this? On the right: Is this the Arecibo radio telescope? top to bottom, the picture contains an amazing wealth of information: the numbers from 1 to 10 , the atomic numbers of hydrogen, carbon, nitrogen, oxygen, and phosphorous (the principal elements on which most life on Earth is based), the formulas for sugars and bases in nucleotides of DNA, the number of nucleotides in DNA, a picture of a double helix of DNA, a picture of a person, the human population on Earth, the height of a human, a schematic showing our solar system with Earth in a distinguished position, a schematic of the radiotelescope at Arecibo, and the diameter of the telescope. Measures such as the telescope diameter and the height of a person were calibrated using the wavelength of the transmission of the message, namely 12.6 centimeters. Perhaps a bit crowded to my taste, but it was merely a demonstration of an idea. The Arecibo message was beamed to the globular cluster M13 which is about 25,000 light years away. Maybe in 50,000 years we will get a reply! It is interesting that prime numbers would have an application that makes communication transparently simple. Especially so, since many cryptographic systems, designed to hide messages from unauthorized recipients, are also based on prime numbers. And it was not so long ago that prime numbers were merely the province of the curious, with no discernible applications at all. What are the chances that there is an alien species in existence close enough for us to contact? Of course this question is very difficult to answer. Those who think there are other civilizations out there point to the enormous number of stars in the universe. Even if only 1/10 of them have planetary systems, and even if only 1/10 of these have a planet such as Earth that can support life as we know it, and even if only 1/10 of these actually have spawned life, and even if only 1/10 of these have life that has evolved into intelligent creatures, that still leaves a tremendous number of intelligent aliens out there. On the minus side, we might argue that human civilization has only existed for a very brief time on a cosmic scale, and the technological aspect of our civilization only for a few hundred years at most. Moreover, there are indications that we will not be around very long! We use our technology to foul our own planet and make it less habitable, maybe even uninhabitable. Even though we have clear archaeological and historical records of earlier human civilizations that vanished because of climate changes, we continue to burn fossil fuels as if there were no “master” — 2004/1/28 — 13:57 — page 4 — #4 
+
+i ii i
+
+4 Part I: General 
+
+tomorrow, literally. And when the most advanced and richest country, which produces the most pollutants, is called on the question, its leaders claim that it would hurt our economy to significantly cut back on emissions, and this greenhouse thing really hasn’t been proved anyway. So, if one were to extrapolate to alien civilizations in outer space, one might conceivably guess that if they are at all like us, they won’t be around very long either. So, while there may have been many intelligent civilizations, the chance that one exists at the same brief time as ours, and also within shouting distance, may be very slim indeed. 6Nevertheless it is fun to contemplate such contact. And the exercise may help us to be a bit more introspective and responsible as stewards of our own lovely planet. For further reading on prime numbers: R. Crandall and C. Pomerance, Prime numbers: a computational perspective , Springer-Verlag, New York, 2001. For further reading on the liklihood of extraterrestrial civilizations, and how we might detect and commu-nicate with them: A. G. W. Cameron, Editor, Interstellar communication , Benjamin, New York, 1963. S. A. Kaplan, Editor, Extraterrestrial civilizations; problems of interstellar communication , (translated from the Russian edition of 1969), Israel Program for Scientific Translations, Jerusalem, 1971. C. Sagan and F. Drake, The search for extraterrestrial intelligence , Scientific American, May, 1975, pp. 80–89. I. S. Shklovskii and C. Sagan, Intelligent life in the universe , Emerson-Adams Press, 1998. W. Sullivan, We are not alone: the continuing search for extraterrestrial intelligence , Plume, 1994. S. Webb, If the universe is teeming with aliens . . . where is everybody? Fifty solutions to the Fermi Paradox and the problem of extraterrestrial life , Copernicus, New York, 2002. Finally, a link to the Seti Institute: http://www.seti-inst.edu/ .6 The thought of multiplying various probabilities, such as we suggested above to assess the likely number of advanced civilizations, and also to assess the longevity of a civilization, is due to Frank Drake. Drake’s equation in fact presents a formula that gives the number of advanced civilizations, once all of these probabilities are estimated. On the longevity question, Drake was led to muse “Is there intelligent life on Earth?”

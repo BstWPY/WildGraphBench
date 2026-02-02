@@ -1,0 +1,17 @@
+# You can estimate how many copies a game has sold on Steam using reviews
+
+Steam sales figures aren’t public information – normally, they’re known only to Valve and to the developer and publisher of the game in question. However, there are ways to get an idea of how many people own a particular game, and one of those is by looking at the number of user reviews.
+
+[Simon Carless](https://www.simoncarless.com/), a 20-year games industry veteran and an executive vice president of the Game Developers Conference, has written [an informative essay](https://gamediscoverability.substack.com/p/how-that-game-sold-on-steam-using) on how to get a rough idea of the number of copies a game has sold on Steam based on the number of user reviews. Using data from 237 games whose developers submitted sales and reviews data to Carless, he’s come up with what he’s calling the ‘New Boxleiter number,’ which essentially is a range of ratios comparing sales and review counts.
+
+It’s called the ‘new’ [Boxleiter number](https://www.gamasutra.com/blogs/JakeBirkett/20180504/317366/Using_Steam_reviews_to_estimate_sales.php) because Steam has updated its UI since the original methodology was established by Mike Boxleiter. Now,[Steam prompts users for a review](https://www.pcgamesn.com/steam/library-update)after they’ve played two or three hours of a game. That’s had an impact on the ratio of sales per review, and Carless’ update takes that into account.
+
+On average, Carless found that games get one review for every 63 sales, with a median of one review per 58 sales. There’s quite a range, however: some games saw extremely high review rates, while others in the data set only saw a review once every 200 sales.
+
+The age of the game has an impact on the average, too. Older games – those published prior to 2017 – tend to see fewer reviews, and in each calendar year since 2017, the average number of sales per review goes down (indicating more frequent reviews). For games launched in 2020, the ‘NB number’ is around 41 sales per review.
+
+The new prompt that asks users if they’d like to review a game has an effect, too – as you’d expect, games have [generally seen more reviews](https://www.pcgamesn.com/steam/library-user-reviews) since then, but the impact has been skewed toward newer games – also as you might expect.
+
+All this to say that you can arrive at an (admittedly, extremely rough) idea of how many copies a game has sold on Steam by multiplying the number of user reviews by the NB number. It’s very back-of-the-envelope and shouldn’t be used as the basis for working out how much money a game has made or anything, but it does provide at least some idea of how many copies have sold on Steam.
+
+It’s worth noting that this doesn’t apply to [free Steam games](https://www.pcgamesn.com/nine-best-free-play-games-steam) – these have abnormally high rates of reviews to ‘purchases’ due to being, well, free. And Carless also points out that it’s a bad idea to try to use these figures to work out how much money a developer has made from a game – you can’t take the figure you get from an NB number, multiply that by the list price of the game, and arrive at a dollar amount. There’s Steam’s cut, the number of times the game’s been on sale, how many times it’s been refunded, giveaways, and VAT all to factor in before you’re in the neighbourhood of a developer’s net income from a game.

@@ -1,0 +1,46 @@
+# Bamboo Mathematicians
+
+*   [Science](https://www.nationalgeographic.com/science)
+*   The Loom
+
+In the late 1960s, a species of bamboo called _Phyllostachys bambusoides_–commonly known as the Chinese Mainland Bamboo or Japanese Timber Bamboo–burst into flower. The species originated in China, was introduced to Japan, and later into the United States and other countries. And when I say it flowered, I mean it flowered _everywhere_. Forests of the plant burst into bloom in synchrony, despite being separated by thousands of miles. If, like me, you missed it, you will probably not live to see it happen again. The flowers released pollen into the wind, and the fertilized plants then produced seeds that fell to the ground. The magnificent bamboo plants, which can grow 72 feet tall, then all promptly died.Their seeds later sprouted and sent up new plants. The new generation is now close to fifty years old and has yet to grow a single flower. They won’t flower till about 2090.
+
+We can say this with certainty this because Chinese scholars have kept such careful records for such a long time. In 999 A.D. they recorded a flowering of Chinese Mainland Bamboo. It was probably an astonishing sight, since no one alive at the time had ever seen the species flower before. The bamboo plants died, their seeds sprouted, and the forests did not flower again till 1114. After the species was imported to Japan, the Japanese recorded flowers in the early 1700s, and then again in 1844 to 1847. The flowering in the late 1960s was just the next burst of a 120-year cycle.
+
+This remarkable cycle would be fascinating enough on its own. But it turns out a number of other species of bamboo grow flowers on cycles lasting decades, too. A species called _Bambusa bambos_ flowers every 32 years, for example. _Phyllostachys nigra f. henonis_ takes 60 years.
+
+Three biologists at Harvard got puzzled by these cycles and recently set out to find an explanation for how they evolved. In the journal _Ecology Letters_, they [offer up](http://onlinelibrary.wiley.com/doi/10.1111/ele.12442/abstract) a tantalizing hypothesis: bamboo cycles have reached their remarkable lengths through some simple arithmetic.
+
+Like all scientists, these biologists (Carl Veller, Martin Nowak, and Charles Davis) stand on the shoulders of giants. Or one giant in particular–the ecologist [Daniel Janzen](http://en.wikipedia.org/wiki/Daniel_H._Janzen), who over the years has cast off a huge number of creative, influential ideas with unsettling ease.
+
+In the mid-1970s Janzen came up with an explanation for why bamboo plants would flower in synchrony. He noted that rats, birds, pigs, and other animals devour colossal numbers of bamboo seeds. Each gobbled-up seed represents the loss of a potential offspring. If there are enough seed-predators, and they are hungry enough, they can wipe out a bamboo plant’s entire set of seeds.
+
+Bamboo plants might fare better, Janzen argued, if they flowered at the same time. They would overwhelm their enemies with food. Even if they gorged themselves to bursting, they would still leave some seeds untouched. Those surviving seeds would then have enough time to grow into plants that could defend themselves with tough fibers and bitter chemicals.
+
+Once bamboos fell into flowering lockstep, it would be hard for them to slide out. If a few bamboo plants flowered a few years too early, animals would feast on their seeds, and their out-of-sync genes would fail to make it into future generations.
+
+Other scientists have found support for Janzen’s idea. Swamping enemies with seeds really does lower the overall harm that seed-eaters cause to each individual plant. But Veller and his colleagues still had questions. How did the bamboo plants get into those beneficial flower cycles to begin with? And how did various species end up with such long–and such different–flowering rhythms?
+
+The scientists developed a mathematical model based on what’s known about bamboo biology. They started out with a bamboo forest in which almost all the plants flower annually, as some bamboo species do.
+
+But the population also contained some mutants. They had mutations in their flower-timing genes, so that they needed two years to flower instead of one. Some of the two-year mutants flowered in even years, while others flowered in odd years. Spending two years between flowering instead of one could have some advantages for bamboo plants. The plants could have more time to gather more energy from sunlight, which they could use to make more seeds, or give their seeds more defenses against predators.
+
+As more of the forest becomes two-year plants, there are fewer plants releasing their seeds every year. Eventually, Veller and his colleagues found, a year arrives when the annual bamboo plants can’t produce enough seeds to survive the onslaught of animals. In one fell swoop, they’re wiped out. If it’s an odd year, then the odd-year two-year plants can get wiped out, too. If it’s an even year, the even-yeared plants take the fall. Either way, the whole forest gets abruptly synchronized into flowering every two years.
+
+It’s also possible that the forest wouldn’t just have two-year mutants, but mutants that took three years or more to flower. Veller and his colleagues found that in their mathematical model, bamboo plants with longer flowering cycles could also take over. Exactly which cycle won out was partly a matter of chance, because how many seeds bamboo plants successfully produce in a given year can fluctuate due to the weather and other unpredictable conditions. Whichever cycle emerges as the dominant one, the whole forest then evolves to stay synchronized. Any outliers flowering out of sync get wiped out, just as Janzen had proposed.
+
+There is one exception, though: a mutant bamboo plant can evolve a new cycle that’s a _multiple_ of the original one. Imagine that a two-year bamboo turns into a four-year one. Every year it flowers, it’s protected by the two-year plants flowering at the same time. And it’s got an advantage over them: it can spend the extra time making more seeds.
+
+Even though the four-year flowers need twice as long to produce their seeds, the scientists found, under some conditions they can still become increasingly common over a few centuries. Eventually, the whole forest will lock onto the four-year cycle.
+
+But bamboo can’t evolve the other way, the scientists found. If a four-year forest produces a two-year mutant, it will flower half the time in years when it has no protection from predators. The only direction it can go is towards longer cycles. If a four-year forest produces an eight-year mutant, it can have the same advantage that the four-year plants originally had: well-protected time.
+
+Veller and his colleagues realized that they could test this model. Over millions of years, they reasoned, species should have multiplied their flowering cycles. It’s likely that they could only multiply the cycles by a small number rather than a big one. Shifting from a two-year cycle to a two-thousand-year cycle would require some drastic changes to a bamboo plant’s biology. Therefore, the years in a bamboo’s cycle should be the product of small numbers multiplied together.
+
+The mathematics of bamboo offers some promising support. _Phyllostachys bambusoides_ has a cycle of 120 years, for example, which equals 5 x 3 x 2 x 2 x 2. _Phyllostachys nigra f. henonis_ takes 60 years, which is 5 x 3 x 2 x 2. And the 32 year cycle of _Bambusa bambos_ equals 2 x 2 x 2 x 2 x 2.
+
+The scientists found more support when they looked at how bamboo species have evolved. Here’s an evolutionary tree of _Phyllostachys bambusoides_ and its close relatives. It’s possible that their common ancestor had a five-year cycle, and then the cycle multiplied by small factors along each branch of the tree.
+
+But could this just be a kind of meaningless bamboo numerology? Is it just a coincidence that these species display such elegant multiplications? Veller and his colleagues carried out a statistical test on bamboo species with well-documented flowering cycles. They found that the cycles are tightly clustered around numbers that can be factored into small prime numbers. It’s a pattern that you would not expect from chance. In fact, they argue, this test offers very strong evidence for multiplication (for stat junkies: p=0.0041).
+
+There is plenty of opportunity to put this model to the test. A lot of species of bamboo have long flowering cycles that no one has measured very carefully. Scientists could see how newly studied cycles fit into Veller’s model. If scientists find a new species of _Phyllostachys_ that’s got a 23 year cycle, for example, it would be mathematically impossible for it to have evolved from a five-year ancestor. One thing’s for sure, though. If this model requires scientists to sit around watching bamboo, waiting for it to flower, this is going to take a few generations of scientists to settle.

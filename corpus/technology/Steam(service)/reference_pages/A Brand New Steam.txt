@@ -1,0 +1,135 @@
+# A Brand New Steam
+
+A Brand New Steam — Available Now!
+----------------------------------
+
+The new Steam UI is here, which enhances the way you already buy and play games, adding more info about the things that matter — getting games, playing them with friends, and staying current in the gaming world.
+
+If you haven't already updated, you can use the "Check for Steam client updates" option on the "File" menu to automatically update Steam to the new release. If you don't have Steam installed, [download it today](http://storefront.steampowered.com/download/SteamInstall.msi/).
+
+Read on to see the changes we've made.
+
+![Image 1: A section of the game Peggle Deluxe showing a list of 12 friends who also play the game, along with a button to view all friends who play](http://media.steampowered.com/steam/store/uiupdate/friends_inline.jpg)
+
+Friends First
+-------------
+
+Since its introduction in 2003, Steam has been centered around social gaming. But Steam users have rightly come to expect more than a simple social network alongside their games. The new Steam puts far more friend-related info at your fingertips. Right from within your own game Library, you can now track which of your friends plays each game or invite them to play one with you. Before you've even bought a game, knowing whether your friends play it is one of the most useful pieces of information to have. So on the store homepage, there's a new listing of what your friends have bought or played lately. On each game's store page, see who among your friends plays it, and whether it's on anyone's wishlist.
+
+![Image 2: A screenshot of a section of the Steam game platform shows the user's games, with links to Gridrunner Revolution and The Search for Amelia Earhart as being available for product release, and Assassin's Creed 2 as being available for pre-purchase](http://media.steampowered.com/steam/store/uiupdate/news_inlineV2.jpg)
+
+All the News that's Fit to Feed
+-------------------------------
+
+Thanks to auto-updating, Steam has for a long time made it easy to keep up to date with the latest versions of your games. But it has sometimes remained tricky to stay up on the latest gaming news. The new Steam lets you know what has happened lately, either about your favorite games or in the broader world of computer gaming. A new central aggregated news page lists all available channels for easy reading, viewable as headlines only or full stories. Each game has a new dedicated news channel of its own, right inside your game library. Interested in the latest news about Modern Warfare 2? Look no further than your own game list. Game-specific news is even now accessible inside each game, via the new and improved Steam overlay. And all of this news isn't just the stuff written back at Steam headquarters — we're passing through articles written directly by authors of syndicated feeds from top computer gaming sources.
+
+Achieving Bliss
+---------------
+
+Whether you think of achievements as merit badges, or candy, or crack, the thing most of us can agree on is that we all want more of 'em. Keeping track of which ones you've got and which ones to get next shouldn't feel like a chore. With this in mind, the new Steam brings the achievements to you — listing recent accomplishments right in your game Library, and on the in-game overlay.
+
+![Image 3: Achievements: The user unlocked 32/50 (64%) with the most recent one called CLOWND and the icon representing an evil clown](http://media.steampowered.com/steam/store/uiupdate/achievements_inline.jpg)
+
+Library Wrangling
+-----------------
+
+As Steam has grown, your collection of Steam games has probably grown too. In order to help you manage that huge library, we've added a more robust game list. You can now organize your list of titles into custom categories, like "Games I should play with Emily" or "Old School" or "Super-Addictive MMOs". Also, browse your own collection visually using the all-new grid view. Last but also least (from the better-late-than-never feature department) you can even type a game's name in the list to find it immediately.
+
+![Image 4: Aion, Champions Online, and EVE Online, are listed under the show super-addictive MMOs category](http://media.steampowered.com/steam/store/uiupdate/library_inline.jpg)
+
+Odds, Ends and Extras
+---------------------
+
+What else, you say? There's a new Downloads view, to help you track current (and recent) acquisitions and updates. Fonts look better, across the platform. The games List View now includes thumbnail images. It's easier to find things on sale, in the store. You can accept or decline invites right from within your friends list. Send a hint by broadcasting your Steam wishlist to your friends via your community blotter. Better exposure of Steam Cloud status, per game. A new embedded web browser. And lots of bug fixes.
+
+![Image 5: A screenshot of a network usage display showing a download rate of 19.1 MB/s, a peak download rate of 19.4 MB/s, and a total download of 1,257.6 MB](http://media.steampowered.com/steam/store/uiupdate/downloads_inline.jpg)
+
+Reach Out and Touch Us
+----------------------
+
+Once you've tried the update, please get in touch and let us know what you think. We seriously need your feedback in order to continue making Steam as good as it can be.
+
+Everything, Always, Forever
+---------------------------
+
+For the completists out there, here's the list of everything worth mentioning about this massive update. Enjoy.
+
+Major features:
+
+*   Complete overhaul of Steam client UI design to improve discoverability of features and to better expose all the information related to games in your library
+*   Complete overhaul of in-game overlay UI design to create a richer in-game experience exposing context sensitive information related to the game you are currently playing
+*   New game details view, presenting a detailed view of all the information for a single game in your library
+*   New grid view, presenting a graphical view of your game library
+*   New news page in the store/client/overlay that aggregates Valve related news sites, official community groups, and third-party gaming news feeds
+*   New downloads view in the client, making it easier to track your progress downloading new games or game updates
+*   New Steam store design, including more integrated community features, improved recommendations, and improved video and screenshots viewing (and much more!)
+
+Store details:
+
+*   New Steam store/community integration — see what your friends have been buying and playing as you browse the store
+*   Improved store layout, genre navigation, and genre pages, including more robust navigation per category
+*   Added Wishlists for tracking what games you want, and to see what games your friends want
+*   Improved game detail pages, including quick link to demos, inline display of higher resolution game trailers, improved screenshot browser, and improved game recommendations
+*   New game-specific video page, containing all of a game's trailers in one place, now in higher resolution Flash format
+*   Improved discoverability of sales and discounts, including prominent shortcuts and consistent store-wide visual presentation for price cuts
+*   New quick-info tooltips on store home page and genre pages which allow users to read about games before navigating to detail pages
+*   New search filtering options- search for packs or DLC, easier to use filters for searching by price and metascore, and sort by release date
+
+Client feature details:
+
+*   View of your most recently achieved achievements and likely next achievements in the client game details view and in the in-game overlay
+*   View of friends currently playing a game as well as all friends who sometimes play a game in the per-game details view
+*   View of related game news in the client game details view and in the in-game overlay
+*   Clock in the in-game overlay (!)
+*   User customizable categories assignable per-game
+*   Tracking of last played time for games to show in the client library views
+*   Sort your games by last date played
+*   Library list view displays larger graphic, and a new column displaying a game's Steam Cloud state
+*   New invites section in the friends list UI allowing you to accept or decline invites directly without going to your community control panel
+*   Cloud support for many non-machine specific local settings such as favorite servers
+*   Implemented new DirectWrite based font rendering for the client and in-game overlay on Windows 7 or Vista with both SP2 and the "Platform Update" installed. This offers improved pairwise kerning for text layout as well as better anti-aliasing of text on supported platforms.
+*   Display of total played time in the client game details view and the in-game overlay
+*   Type to jump support in the games list, grid, and game details views
+*   Better Steam cloud conflict resolution support, with the ability for users to choose how to resolve conflicts between machines
+*   Improved forward/backward navigation in the client UI, acting across various different view types (e.g., games list, to community, back to games list)
+*   New style and layout system for Steam's VGUI UI toolkit, enabling much more complicated flowing layouts. Skins will need major overhauls to be compatible with the new client, but will also have much more power and flexibility available to them via the new .style and .layout files used in the new VGUI code.
+*   Backup/restore wizard
+*   Community: all official game avatars in one place, linked from your edit profile page
+*   New outer glow effect supported when rendering text in VGUI
+*   Support for alpha blending of gradients and text in VGUI
+*   Support for many new layout and placement commands in VGUI
+*   Support for native drop shadow effect on primary Steam windows on Vista and Windows 7
+*   Support for Windows 7 snapping and shaking mouse commands
+*   Added per-game disable in game properties dialog for the in-game overlay
+*   Added most recently used games launch actions to tray icon in addition to Win7 jumplist
+*   Improved maximize support for Steam dialogs and added maximize icon to top level windows
+*   New sound effects for many notifications/actions
+*   Added auto-recovery of the in-game overlay so it will restart and resume functioning if the process crashes while a game is running
+
+Bug fixes:
+
+*   Improved reliability of auto-login to store and community when used in the Steam client
+*   Improved truncation of long text strings in many places
+*   Fixed the various UI states and settings to persist across client restart more reliably
+*   Fixed being unable to reliably delete previously added non-Steam shortcuts from your games list
+*   Fixed forward/backwards navigation on Community tab getting stuck on redirects
+*   Many small performance and memory usage improvements
+*   Improved sorting consistency between views
+*   Fixed hit areas on friend panel down-arrow affordances to make clicking on them more reliable
+*   You can now remove a blocked friend without having to unblock the friend first
+*   Fixed game preload to correctly download language-specific content
+*   Fixed a case where Steam windows could draw slightly grayed out while alt-tabbed out of a game or running over RDP
+*   Fixed a case where inviting an additional user to a single user chat could force acceptance of a previous voice chat request
+*   Fixed to display correct achievement localization when Steam and game language differ
+*   Fixed the overlay occasionally not restoring input on hide to some games utilizing buffered direct input
+*   Improved link detection in chat dialogs and other RichText controls
+*   Fixed the in-game overlay being overly bright in some D3D10/11 games using sRGB backbuffers
+*   Improved reliability of steam:// url handler registration
+*   Fixed tooltips sometimes not showing up on multi-monitor setups
+
+General improvements:
+
+*   Now using a WebKit based rendering engine for the client and in-game overlay web browsing components (replacing Internet Explorer)
+*   Improved speed of in-game overlay web browser
+*   Improved search functionality on the Steam news page
+*   Web pages which use confirm() or alert() calls in javascript no longer break the in-game overlay web browser

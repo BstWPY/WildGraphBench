@@ -1,0 +1,163 @@
+# Steam games forum down amid hack fears
+
+Steam games forum down amid hack fears • The Register
+
+===============
+
+The Wayback Machine - http://www.theregister.co.uk:80/2011/11/09/steam_forum_hack/
+
+[Skip to content](http://www.theregister.co.uk/2011/11/09/steam_forum_hack/#main-content)
+
+*   [Whitepapers](http://whitepapers.theregister.co.uk/)
+*   | [Reg Hardware](http://www.reghardware.com/)
+*   | [Channel Reg](http://www.channelregister.co.uk/)
+
+[![Image 1: The Register® — Biting the hand that feeds IT](http://www.theregister.co.uk/Design/graphics/std/logo_414_80.png)](http://www.theregister.co.uk/)
+============================================================================================================================================================
+
+*   [Hardware](http://www.theregister.co.uk/hardware/ "Hardware: PCs & Chips, Servers, HPC, Storage, Data Networking, Virtualisation")
+*   [Software](http://www.theregister.co.uk/software/ "Software: Operating Systems, Applications, Developer, Microbite")
+*   [Music & Media](http://www.theregister.co.uk/music_media/ "Music and Media")
+*   [Networks](http://www.theregister.co.uk/networks/ "Networks: Wireless, Mobile, Telecoms, Hosting")
+*   [Security](http://www.theregister.co.uk/security/ "Security: Crime, Malware, Enterprise Security, Spam, Identity")
+*   [Cloud](http://www.theregister.co.uk/cloud/ "Cloud: Infrastructure, Platform, SaaS, Business")
+*   [Public Sector](http://www.theregister.co.uk/public_sector/ "Public Sector: Government, Law, Policing")
+*   [Business](http://www.theregister.co.uk/business/ "Business: Financial News, Small Biz, CIO, Tech Panel")
+*   [Science](http://www.theregister.co.uk/science/ "Science: Environment, Biology, Physics, Space, SPB, PARIS, Rise of the Machines™")
+*   [Odds & Sods](http://www.theregister.co.uk/odds/ "Odds & Sods: BOFH, Verity Stob, Bootnotes, Entertainment, Letters")
+
+[![Image 2: Feeds](http://www.theregister.co.uk/Design/graphics/std/feed-icon-28x28.png)](http://www.theregister.co.uk/Design/page/feeds.html)
+
+*   [Crime](http://www.theregister.co.uk/security/crime/ "Crime news, analysis and opinion")
+*   [Malware](http://www.theregister.co.uk/security/malware/ "Malware news, analysis and opinion")
+*   [Enterprise Security](http://www.theregister.co.uk/security/enterprise/ "Enterprise Security news, analysis and opinion")
+*   [Spam](http://www.theregister.co.uk/security/spam/ "Spam news, analysis and opinion")
+*   [ID](http://www.theregister.co.uk/security/identity/ "Identity news, analysis and opinion")
+*   [Compliance](http://www.theregister.co.uk/security/compliance/ "Security Compliance")
+
+![Image 3: Biting the hand that feeds IT](http://www.theregister.co.uk/Design/graphics/std/strap.png)
+
+Steam games forum down amid hack fears
+--------------------------------------
+
+*   [![Image 5: alert](http://www.theregister.co.uk/Design/graphics/icons/alert_button.png)](http://www.theregister.co.uk/2011/11/09/steam_forum_hack/alert.html "Get email or RSS alerts for articles like this one")
+*   [![Image 6: print](http://www.theregister.co.uk/Design/graphics/icons/print_button.png)](http://www.theregister.co.uk/2011/11/09/steam_forum_hack/print.html "View a printer-friendly version of this article")
+*   [![Image 7: comment](http://www.theregister.co.uk/Design/graphics/icons/comment_button.png)](http://forums.theregister.co.uk/forum/1/2011/11/09/steam_forum_hack/ "Join the discussion — post a comment on this article")
+*   [![Image 8: tweet](http://www.theregister.co.uk/Design/graphics/icons/tweet_button.png)](http://twitter.com/intent/tweet?text=Steam%20games%20forum%20down%20amid%20hack%20fears+http://reg.cx/1RHZ+via%20@regvulture&related=regvulture,reghardware "Tweet this on Twitter")
+
+Valve stays silent, users say they've been spammed
+
+By [John Leyden](http://forms.theregister.co.uk/mail_author/?story_url=/2011/11/09/steam_forum_hack/ "Send email to the author") • [Get more from this author](http://search.theregister.co.uk/?author=John%20Leyden "More stories on this site by John Leyden")
+
+Posted in [Security](http://www.theregister.co.uk/security/), [9th November 2011 13:22 GMT](http://www.theregister.co.uk/2011/11/09/ "More stories published on this date")
+
+[Free whitepaper – Smarter Networking for a smarter data centre](http://go.theregister.com/tl/536/-2211/-?td=wptl536)
+
+Computer games outfit Valve has suspended its Steam user forums following unconfirmed reports of a security breach.
+
+Eurogamer [claims](http://www.eurogamer.net/articles/2011-11-07-why-are-the-steam-forums-offline) that the official message board for Valve's Steam online games platform, Steampowered, was "defaced" on Monday night shortly before the site was suspended.
+
+It is believed the defacement involved inserting a prominently displayed message promoting a site called FknOwned.com, which offers video game hacks, as captured in a screenshot of the gaming site [here](http://www.1up.com/news/steam-forums-down-after-hack). This wasn't a simple case of link-spamming, but an out-of-place ostensibly promoted topic on the forum.
+
+In addition, some gamers reported the receipt of spam emails promoting fkn0wned, supposedly from Steampowered.com. This would imply that hackers may have got their hands on email addresses or at least accessed a way to send messages via the Steampowered board, but this remains unclear.
+
+The Steampowered forum remains suspended at the time of writing on Wednesday morning, with the usual discussion threads and information replaced by a holding message.
+
+> The Steam Forums are temporarily offline for maintenance. Your patience is appreciated.
+
+There's no evidence to suggest that Steam accounts have been breached. However in the absence of any official word from Valve on the incident, you can't blame gamers from being more than a tad concerned.
+
+The apparent breach of Valve's online forum is the latest in a string of security slips affecting video game developers this year, the most notorious of which led to the weeks-long suspension of Sony's [PlayStation Network](http://www.theregister.co.uk/2011/04/26/sony_playstation_network_security_breach/) following a hack attack that exposed private information on million of users back in April. ®
+
+[Free whitepaper – Centre Hospitalier d’Avignon Secures Patient Records](http://go.theregister.com/tl/536/-2175/centre-hospitalier-case-study-qcc03007-usen-00.pdf?td=wptl536)
+
+*   [![Image 10: A 17x17 small image, likely a logo, icon or avatar](http://www.theregister.co.uk/Design/graphics/std/comment.png)23 comments](http://forums.theregister.co.uk/forum/1/2011/11/09/steam_forum_hack/ "View comments on this article")[Post a comment](http://forums.theregister.co.uk/forum/1/2011/11/09/steam_forum_hack/ "Join the discussion — post a comment on this article")
+
+### Related stories
+
+*   [AMD Steam-game offer suspended after keys pilfered](http://www.theregister.co.uk/2011/09/08/amd_gaming_offer_security_snafu/ "DiRTy snatch leaves gamers worried")(8 September 2011)
+*   [Sega forums still closed a month after mystery hack](http://www.theregister.co.uk/2011/07/14/sega_forum_still_suspending/ "Digital pillage leaves lasting damage")(14 July 2011)
+*   [Security watchers unpick PlayStation hack](http://www.theregister.co.uk/2011/05/13/veracode_playstation_hack_analysis/ "How it might have been hacked")(13 May 2011)
+*   [Valve unbans 12,000 Steam 'cheaters'](http://www.reghardware.com/2010/07/27/valve_unbans_call_of_duty_steam_gamers/ "False Positive")(27 July 2010)
+*   [**Brief** Skidy in Steam account reverse sting](http://www.theregister.co.uk/2006/10/31/online_gaming_reverse_sting/ "You've been owned")(31 October 2006)
+
+### [Whitepapers](http://whitepapers.theregister.co.uk/)
+
+#### [![Image 11: A 60x60 small image, likely a logo, icon or avatar](http://regmedia.co.uk/2011/08/22/2180.png)IBM System Networking RackSwitch G8264](http://whitepapers.theregister.co.uk/paper/view/2180/tolly-report-g8264-qcl12349usen?td=related)
+
+[Tolly test report - IBM System Networking RackSwitch G8264 comparison evaluation against three competing 10GbE switches.](http://whitepapers.theregister.co.uk/paper/view/2180/tolly-report-g8264-qcl12349usen?td=related)
+
+#### [![Image 12: A 60x60 small image, likely a logo, icon or avatar](http://regmedia.co.uk/2011/11/09/2283.png)IBM’s BladeCenter foundation vs. Cisco’s unified computing system:](http://whitepapers.theregister.co.uk/paper/view/2283/clabby-bcfc-vs-cisco-whitepaper-100311?td=related)
+
+[How attention to blade systems design and choosing a better tuned blade environment can save enterprises money in acquisition and operational costs.](http://whitepapers.theregister.co.uk/paper/view/2283/clabby-bcfc-vs-cisco-whitepaper-100311?td=related)
+
+#### [![Image 13: A 60x60 small image, likely a logo, icon or avatar](http://regmedia.co.uk/2011/08/22/2177.png)IBM System Networking RackSwitch and IBM System Networking solutions](http://whitepapers.theregister.co.uk/paper/view/2177/ibm-bnt-rackswitch-and-bladecenter-solutions-qcf12345usen?td=related)
+
+[Overview on IBM System Networking RackSwitch™ and IBM System Networking® Solutions.](http://whitepapers.theregister.co.uk/paper/view/2177/ibm-bnt-rackswitch-and-bladecenter-solutions-qcf12345usen?td=related)
+
+#### [![Image 14: A 60x60 small image, likely a logo, icon or avatar](http://regmedia.co.uk/2011/08/22/2179.png)IBM System Networking RackSwitch G8124](http://whitepapers.theregister.co.uk/paper/view/2179/tolly-report-g8124-qcl12348usen?td=related)
+
+[Tolly test report containing an evaluation on System Networking RackSwitch G8124 including a comparison analysis against Cisco Nexus 5010.](http://whitepapers.theregister.co.uk/paper/view/2179/tolly-report-g8124-qcl12348usen?td=related)
+
+#### [![Image 15: A 60x60 small image, likely a logo, icon or avatar](http://regmedia.co.uk/2011/08/22/2174a.png)Centre Hospitalier d’Avignon Secures Patient Records](http://whitepapers.theregister.co.uk/paper/view/2175/centre-hospitalier-case-study-qcc03007-usen-00?td=related)
+
+[Case study on how The Centre Hospitalier d’Avignon deployed IBM System Networking technology to achieve a trouble-free approach to virtualization.](http://whitepapers.theregister.co.uk/paper/view/2175/centre-hospitalier-case-study-qcc03007-usen-00?td=related)
+
+[Search more Resources](http://whitepapers.theregister.co.uk/)
+
+### Most read
+
+1.   [Mexican drug runners torture and decapitate blogger](http://www.theregister.co.uk/2011/11/10/narco_blogger_murdered/ "El Mod of social network ritually murdered")
+2.   [Clean-up begins after biggest ever botnet takedown](http://www.theregister.co.uk/2011/11/10/botnet_take_down_clean_up/ "Ghost (Click) Busters")
+3.   [Feds shutter DNS malware scam that infected 4 million PCs](http://www.theregister.co.uk/2011/11/09/dns_malware_scam/ "$14m scheme attacked Macs as well as Windows")
+4.   [City IT manager accused of brazenly stealing mayor's email](http://www.theregister.co.uk/2011/11/10/it_manager_charges/ "Automated script made it easy, feds say")
+5.   [NHS staff rapped for gossiping about patients on Facebook](http://www.theregister.co.uk/2011/11/10/nhs_staff_facebook_abuse/ "Dozens of warnings and sackings over growing web misuse")
+
+**[Sign up, sign up for The Register's weekly IT security newsletter - click here](http://account.theregister.co.uk/register/?product=security_news)**
+
+### [Why your tech cv suuuuuuucks](http://www.theregister.co.uk/2011/11/10/your_cv/)
+
+[![Image 17: An application form with the candidate name Joe Blogggs, address as Basement Flat, 221d Baker St NW1 6XE, and skills as Programming, system analysis, IT supervision, database administration, stamped with FAIL](http://regmedia.co.uk/2011/11/10/cv_sidey2.jpg)](http://www.theregister.co.uk/2011/11/10/your_cv/)
+[And here's how we can help](http://www.theregister.co.uk/2011/11/10/your_cv/)
+
+### [Popular Whitepapers](http://whitepapers.theregister.co.uk/)
+
+*   [Cloud-ready network architecture Deployed in today’s datacenters](http://whitepapers.theregister.co.uk/paper/view/2171/cloud-ready-qcw03002usen?td=pop-right-nav)
+*   [King’s College London uses IBM System Networking RackSwitch for HPC IBM System Networking RackSwitch solution enables leading edgemedical research and analysis](http://whitepapers.theregister.co.uk/paper/view/2176/king-s-college-london-qcc03003usen?td=pop-right-nav)
+*   [VMready Virtual machine-aware networking](http://whitepapers.theregister.co.uk/paper/view/2173/vm-ready-qcw03005usen?td=pop-right-nav)
+*   [Smarter Networking for a smarter data centre Your DC's weak link?](http://whitepapers.theregister.co.uk/paper/view/2211/paper?td=pop-right-nav)
+*   [Schlumberger uses IBM System Networking RackSwitch for HPC To support high performance computing environment](http://whitepapers.theregister.co.uk/paper/view/2181/qcs03007usenschlumberger?td=pop-right-nav)
+*   [ASCI uses 10 GbE grid computing and hi-def media streaming to support a countrywide computing access network](http://whitepapers.theregister.co.uk/paper/view/2182/qcs03002usenasci?td=pop-right-nav)
+
+### [Ten high-end Android tablets](http://www.reghardware.com/2011/11/09/review_roundup_ten_high_end_android_tablets/)
+
+[![Image 18: Android tablet with the Android logo on the left side of the screen](http://regmedia.co.uk/2010/10/05/tablets_336x204.jpg)](http://www.reghardware.com/2011/11/09/review_roundup_ten_high_end_android_tablets/)
+[Premium fondleslab, anyone?](http://www.reghardware.com/2011/11/09/review_roundup_ten_high_end_android_tablets/)
+
+### Sponsored links
+
+*   [SQL Virtual Restore: relieves 8 causes of DBA pain](http://ad.doubleclick.net/clk;241688482;13533154;h?http://www.red-gate.com/products/dba/sql-virtual-restore/entrypage/painkillers?utm_source=register&utm_medium=textad&utm_term=7050&utm_content=medicine&utm_campaign=sqlvirtualrestore)
+*   [End cluster clutter with vSMP Foundation; from $8000. Contact us today](http://ad.doubleclick.net/N6978/clk;12716979;/6978/textlink)
+*   [Slow Networks Blow, Change To Chelsio Unified Wire](http://ad.doubleclick.net/clk;240205681;13533154;s?http://www.chelsio.com/2q11_tr_snb.html)
+*   [Switch your SSL Certificate to GeoTrust for FREE](http://ad.doubleclick.net/clk;231375033;13533154;r?http://ad-emea.doubleclick.net/clk;231438387;55369037;q)
+
+More from the Register
+----------------------
+
+*   [Send us News Tips](http://www.theregister.co.uk/odds/about/contact/)
+*   [Week’s Headlines](http://www.theregister.co.uk/week.html)
+*   [Reg Archive](http://www.theregister.co.uk/archive.html)
+*   [Top 20 Stories](http://www.theregister.co.uk/popular.html)
+
+*   [Channel Register](http://www.channelregister.co.uk/)
+*   [Register Hardware](http://www.reghardware.com/)
+
+[](http://www.theregister.co.uk/)
+
+[![Image 21: Facebook](http://www.theregister.co.uk/Design/graphics/icons/facebook28.png)](http://www.facebook.com/VultureCentral "Like us on Facebook")[![Image 22: Youtube](http://www.theregister.co.uk/Design/graphics/icons/youtube28.png)](http://www.youtube.com/user/TheRegisterTV "Follow us on Youtube")[![Image 23: Twitter](http://www.theregister.co.uk/Design/graphics/icons/twitter28.png)](http://twitter.com/intent/user?screen_name=regvulture "Follow us on twitter")
+
+*   [Privacy](http://www.theregister.co.uk/about/company/privacy/)
+*   [Advertise with Us](http://media.theregister.co.uk/)
+*   [Company Info](http://www.theregister.co.uk/about/company/)
+
+© Copyright 1998–2011

@@ -1,0 +1,412 @@
+# Human Height
+
+Poor nutrition and illness in childhood limit human growth. As a consequence, the average height of a population is strongly correlated with living standards in a population. This makes the study of human height relevant for historians who want to understand the history of living conditions.
+
+Because the effect of better material living standards is to make people taller, human height is used as an indirect measure for living standards. It is especially relevant for the study of living conditions in periods for which little or no other data is available – what historians refer to as the pre-statistical period.
+
+It is important to stress that height is not used as a direct measure of well-being. The variation of height _within_ a given population is largely determined by genetic factors.[1](https://ourworldindata.org/human-height#note-1)
+
+The history of human height allows us to track progress against undernourishment and disease and makes it possible to understand who started to benefit from modern advancements when.
+
+### [](https://ourworldindata.org/human-height#the-last-two-millennia)The Last Two Millennia
+
+Over the last two millennia, human height, based off of skeletal remains, has stayed fairly steady, oscillating around 170cm. With the onset of modernity, we see a massive spike in heights in the developed world. It is worth noting that using skeletal remains is subject to measurement error with respect to the estimated height and time period.
+
+###### Male heights from skeletons in Europe, 1-2000 – Clark[2](https://ourworldindata.org/human-height#note-2)
+
+![Image 1: Male heights from skeletons in Europe, (1�2000) � Clark](https://ourworldindata.org/uploads/2013/10/male-heights-from-skeletons-in-europe-1-2000-clark-645x403.png)
+
+### [](https://ourworldindata.org/human-height#increase-of-human-height-over-two-centuries)Increase of human height over two centuries
+
+The University of Tuebingen provides data on human height for men in many countries around the world from 1810 to 1980. It gives us a perspective of changes over almost two centuries. We see this data in the charts.
+
+Human height has steadily increased over the past 2 centuries across the globe. This trend is in line with general improvements in health and nutrition during this period. Historical data on heights tends to come from soldiers (conscripts), convicted criminals, slaves and servants. It is for this reason much of the historical data focuses on men. Recent data on heights uses additional sources including surveys and medical records.
+
+### [](https://ourworldindata.org/human-height#how-has-height-changed-globally)How has height changed globally?
+
+People today are taller, on average, than their ancestors 100 years ago. This is true for every country in the world. But how much have human heights changed, and how does this vary across the world?
+
+The data shown here is based on a global study, published by NCD Risk Factor Collaboration (NCD-RisC) in 2016.[3](https://ourworldindata.org/human-height#note-3) This dataset is based on both demographic and health surveys as well as academic studies. It reports mean height for adults by year of birth, from 1896 to 1996; in other words, people who had reached their eighteenth birthday from 1914 to 2014.
+
+If we compare adult men born in 1996 versus those born a century earlier – men who had reached the age of 18 in 2014 versus 1914 – we see that the global mean height for men increased from 162 to 171 centimeters (cm). We see this in the chart. For women, this increased from 151 cm to 159 cm.
+
+The average young adult today is around 8 or 9 cm, or about 5%, taller than their ancestors 100 years ago.
+
+#### [](https://ourworldindata.org/human-height#regional-variation-in-height-changes)Regional variation in height changes
+
+There are significant regional variations in change in average human heights.
+
+The following slope chart illustrates the changes in mean male height by region. Here we see that the largest gains in height were seen for European and Central Asian men; their mean height increased by 11 cm, overtaking North American men in the process. The smallest absolute gains were seen for South Asian men; mean height increased by only 5 cm.
+
+Overall, the regional variation in male heights increased over the last century. For men born in 1896, there was an eight centimetre gap in mean height between the shortest and tallest region. 100 years later, this gap had increased to 12 cm.
+
+We can also see this regional change for women, [here](https://ourworldindata.org/grapher/change-in-female-height-slope). Again, the trends are similar: heights of European and Central Asian women increased the most – gaining 11 cm and overtaking North American women. Compared to men, there was less of a divergence in female heights by region: for women born in 1896, the gap between the tallest and shortest region was 9 to 10 cm. A century later, this was almost the same – 10 to 11 cm.
+
+#### [](https://ourworldindata.org/human-height#which-countries-have-seen-the-greatest-absolute-gains-in-height)Which countries have seen the greatest absolute gains in height?
+
+Some countries have seen much larger increases in average human height than others.
+
+The chart shows the absolute change in the mean height of adult women for each country. As reflected in the regional trends above, the largest increases were typically in –but not limited to – Europe and Central Asia. The largest absolute change was seen for South Korean women, whose mean height increased by 20 cm. Compare this to Madagascar, which had the smallest gain of only 1.5 cm.
+
+In [this chart](https://ourworldindata.org/grapher/change-in-male-height), we can see the same metric for men. Iranian men saw the largest change, gaining 16.5 cm in mean height, while men from the Marshall Islands grew by only 0.5 cm.
+
+Despite variation across countries, men and women globally saw similar gains: about 8 to 9 cm.
+
+#### [](https://ourworldindata.org/human-height#which-countries-have-seen-the-greatest-relative-gains-in-height)Which countries have seen the greatest relative gains in height?
+
+Relative changes offer a different perspective on changes in average human heights, illustrated [here for men](https://ourworldindata.org/grapher/relative-change-male-height) and [here for women](https://ourworldindata.org/grapher/relative-change-in-female-height).
+
+While average height of men around the world increased by 5%, the percentage change in the height of Iranian men was double that at 10%. By contrast, Marshallese men grew by less than 0.5%. South Korean women saw the largest relative increase – 15% – while the height of Tuvalese women increased by less than 1%.
+
+#### [](https://ourworldindata.org/human-height#did-heights-across-the-world-increase-more-for-men-or-women)Did heights across the world increase more for men or women?
+
+Did men or women see the greatest increase in height over this period? It depends on the country.
+
+At the global level, the relative increase in mean height was the same for men and women: around five percent. But as we see, there is significant variation across countries. This chart shows the percentage change for men on the y-axis, and for women on the x-axis. The grey line here represents parity: where the change was the same for both sexes. Countries which lie above the grey line saw greater height increase for men than for women; for countries below the line, the opposite is true.
+
+Some countries saw very different changes for men and women. In South Korea, for example, mean height for women increased by 14% versus 9% for men. In the Philippines the opposite was true: male height increased by around 5% versus only 1% for women.
+
+[](https://ourworldindata.org/human-height#human-height-across-the-world)Human height across the world
+------------------------------------------------------------------------------------------------------
+
+In this section
+
+*   [How does human height vary across the world?](https://ourworldindata.org/human-height#how-does-human-height-vary-across-the-world)
+
+### [](https://ourworldindata.org/human-height#how-does-human-height-vary-across-the-world)How does human height vary across the world?
+
+Human height is a partly heritable trait. However, non-genetic, environmental factors during pregnancy, childhood, and adolescence – such as nutrition and health – have an impact on the population-wide distribution of height. As such, variations in height across the world [indicate](https://ourworldindata.org/human-height#what-explains-differences-in-human-height) not only genetic differences, but also general differences in living standards.
+
+Here, we examine variations in mean male and female heights by country.
+
+#### [](https://ourworldindata.org/human-height#how-tall-are-men-across-the-world)How tall are men across the world?
+
+The global mean height of adult men born in 1996 is 171 centimetres (cm), or 5 foot and 7.5 inches. There are large variations in average height between nations: the shortest being men in Timor at 160 cm, and the tallest from the Netherlands at 182 cm. This represents a range of 22 cm, or 8 inches.
+
+There are also clear distinctions between regions. On average, the shortest men can be found in South Asia, where the average height is 165 cm, while the tallest are from Europe and Central Asia, at 177 cm.
+
+#### [](https://ourworldindata.org/human-height#how-tall-are-women-across-the-world)How tall are women across the world?
+
+On average, women are almost 12 centimetres shorter than men.
+
+The global average height of adult women born in 1996 is 159 cm, or 5 foot and 3 inches. The country with the shortest women is Guatemala, where the average height is 149 cm, while Latvian women are 20 cm taller (at 169 cm).
+
+There are also regional variations in the heights of women. As with men, the tallest women are European and Central Asian, with a mean height of 164 cm, while women from South Asia tend to be the shortest, measuring 153 cm on average.
+
+### [](https://ourworldindata.org/human-height#how-much-taller-are-men-than-women)How much taller are men than women?
+
+Globally, the mean height of women is about four and a half inches, or 12 centimeters (cm), shorter than that of men. In the latest available data, the [global mean height](https://ourworldindata.org/grapher/average-height-by-year-of-birth) for men was 171 cm, versus 159 cm for women.
+
+This height disparity between the sexes is present everywhere in the world. It’s largest in North Macedonia, where men are typically 18.5 cm taller than women, and smallest in The Gambia, where the mean difference is only 4.5 cm. You can see the absolute difference in mean heights for any country in the world [here](https://ourworldindata.org/grapher/average-height-by-year-of-birth).
+
+The scatter plot illustrates the difference between the average heights of men and women around the world. It plots average male height on the y-axis, and average female height on the x-axis. The grey line shows where these heights are equal. As we can see, all countries lie above this line; this means that on average, men are taller than women in every country in the world.
+
+#### [](https://ourworldindata.org/human-height#where-are-men-much-taller-than-women)Where are men much taller than women?
+
+The following map shows the ratio of male-to-female average heights across the world. Globally, the ratio is 1.07, meaning that on average, men are about 7% taller than women.
+
+Across the world, this relative difference between the sexes can vary from only 2-3% to over 12%. Regionally, the gap in mean height between men and women is smallest across Sub-Saharan Africa: there, many countries lie below the global average difference of 7%.
+
+The global ratio – around 1.07 – has remained pretty much constant since the data began in 1896 despite large increases in absolute terms in the average heights of both men and women.
+
+Despite a relatively consistent ratio at the global level, some countries have seen significant changes. A century ago, South Korean males were on average 18 cm taller than their female counterparts; this difference has fallen to 13 cm, meaning that South Korean women have seen larger absolute gains in height than South Korean men. By contrast, in the Philippines this difference has doubled from 7 cm to 14 cm, meaning that average height of Filipino men has increased faster than that of Filipino women.
+
+### [](https://ourworldindata.org/human-height#how-do-expected-growth-trends-differ-for-boys-and-girls)How do expected growth trends differ for boys and girls?
+
+As we’ve previously explored, the average man is taller than the average woman: this holds true across all countries in the world. But when does this differentiation in heights take place? How do the growth trends for boys and girls in childhood differ?
+
+The chart presents the expected growth rates for healthy boys and girls during childhood and adolescence. It combines data from World Health Organization (WHO) growth reference standards for infants, children, and adolescents.
+
+These standards are used to assess the degree to which the health and nutritional demands for growth and development are met around the world. The studies included healthy children from a diverse set of ethnicities, in order to reduce the impact of genetic variability between populations.[4](https://ourworldindata.org/human-height#note-4)
+
+As the chart shows, boys are typically a fraction taller than girls at birth. Both sexes grow very quickly in the first six months of life, with this growth rate decreasing gradually during the following years.
+
+After three years of life, both boys and girls have approximately doubled in height since birth, but boys are still slightly taller.
+
+By the age of eight, the rate of growth for boys begins to slow, but for girls it stays high and around the age of nine, we see that the median height of girls is slightly higher than for boys.
+
+At 11 years old, girls are typically more than two centimeters taller than boys. But around this age the rate of growth of girls begins to slow and boys start to grow faster again so that around the age of 13, boys overtake again.
+
+Girls tend to stop growing a few years earlier than boys, reaching their final adult height around 16 years old. Boys peak later, at around 18 years old. At this stage, they’re 13 centimeters taller than girls on average.
+
+Of course, not all children grow at the same rate. The ribbons around the median growth lines on the chart represent two standard deviations above and below the median expected trend. Heights which fall within two standard deviations of the median are considered to be ‘healthy growth’.
+
+**Stunted growth**: A child whose height-for-age falls below this ribbon is considered to be ‘stunted’ – it is having a height too short for their age.
+
+Stunting typically occurs during the first two years of life, since this is when growth is fastest and sufficient nutrition is crucial. This means environmental factors have an important effect during this period.[5](https://ourworldindata.org/human-height#note-5) There is evidence to suggest that ‘catch-up growth’ – growth that is faster than normal for age and follows a period of growth inhibition – is possible if environmental factors improve.[6](https://ourworldindata.org/human-height#note-6)[7](https://ourworldindata.org/human-height#note-7)
+
+The expected average height of a healthy population should be 163 cm for women and 176.5 cm for men – as defined by the WHO growth reference standards. Interestingly, the global average height is 159.5 cm for women, and 171 cm for men – it’s lower than we’d expect. This disparity between the actual and expected global average height may be due to the fact that historically, and still today, a large share of children are stunted. In 1990, around 40% were stunted. It has fallen since then to around 22% in 2017, but with large variations across the world.
+
+![Image 2: Healthy20height20growth20curves](https://ourworldindata.org/uploads/2019/06/Healthy20height20growth20curves-633x550.png)
+
+[](https://ourworldindata.org/human-height#human-height-in-prehistoric-times)Human height in prehistoric times
+--------------------------------------------------------------------------------------------------------------
+
+In this section
+
+*   [Mesolithic times, middle ages, subsistence societies and modern foragers](https://ourworldindata.org/human-height#mesolithic-times-middle-ages-subsistence-societies-and-modern-foragers)
+
+### [](https://ourworldindata.org/human-height#mesolithic-times-middle-ages-subsistence-societies-and-modern-foragers)Mesolithic times, middle ages, subsistence societies and modern foragers
+
+In the last two centuries height has substantially increased in many world regions, but up until modern times the archeological record of human skeletons suggests that there was no trend towards improving living conditions.
+
+The two tables present estimates of the heights of men in foraging and subsistence societies with those from preindustrial societies. There is no clear difference between these records suggesting that preindustrial societies were just as badly off as their ancestors millennia ago – which is consistent with the ‘Malthusian Model’ of the pre-growth economy, which we discuss in [our entry on economic growth](https://ourworldindata.org/economic-growth).
+
+###### Heights of adult males in modern foraging and subsistence societies – Clark (2008)[8](https://ourworldindata.org/human-height#note-8)
+
+| Period | Group | Location | Ages | Height (centimeters) |
+| --- | --- | --- | --- | --- |
+| 1892 | Plains Indians (a) | United States | 23–49 | 172 |
+| 1970s | Anbarra (b) | Australia | Adults | 172* |
+| 1970s | Rembarranga (c) | Australia | Adults | 171* |
+| 1910 | Alaskan Inuit (d) | United States | Adults | 170* |
+| 1890 | Northern Pacific Indians (e) | United States | Adults | 167* |
+| 1944 | Sandawe (f) | Tanzania | Adults | 167* |
+| 1891 | Shoshona (g) | United States | 20–59 | 166 |
+| 1970s | Fox Basin Inuit (c) | Canada | Adults | 166* |
+| 1880s | Solomon Islanders (h) | Solomon Is. | Adults | 165* |
+| 1906 | Canadian Inuitd (d) | Canada | Adults | 164* |
+| 1969 | !Kung (i) | Bostwana | 21–40 | 163 |
+| 1980s | Ache (j) | Paraguay | Adults | 163* |
+| 1970s | Hadza (c) | Tanzania | Adults | 163* |
+| 1985 | Hiwi (j) | Venezuela | Adults | 156* |
+| 1980s | Batak (c) | Philippines | Adults | 155* |
+| 1980s | Agta (c) | Philippines | Adults | 155* |
+| 1980s | Aka (c) | Central African Republic | Adults | 155* |
+
+###### Heights from skeletal remains by period, from mesolithic times until now, globally – Clark (2008)[9](https://ourworldindata.org/human-height#note-9)
+
+| Period | Location | Observations | Height (centimeters) |
+| --- | --- | --- | --- |
+| Mesolithic (a) | Europe | 82 | 168 |
+| Neolithic (a,b) | Europe | 190 | 167 |
+|  | Denmark | 103 | 173 |
+| 1600–1800 ( c) | Holland | 143 | 167 |
+| 1700–1800 ( c) | Norway | 1956 | 165 |
+| 1700–1850 ( c) | London | 211 | 170 |
+| Pre-Dynastic (d) | Egypt | 60 | 165 |
+| Dynastic (d) | Egypt | 126 | 166 |
+| 2500 BC (e) | Turkey | 72 | 166 |
+| 1700 BC (f) | Lerna, Greece | 42 | 166 |
+| 2000–1000 BC (g) | Harappa, India | — | 169 |
+| 300 BC–AD 250 (h) | Japan (Yayoi) | 151 | 161 |
+| 1200–1600 (h) | Japan (medieval) | 20 | 159 |
+| 1603–1867 (h) | Japan (Edo) | 36 | 158 |
+| 1450 (i) | Marianas, Taumako | 70 | 174 |
+| 1650 (i) | Easter Island | 14 | 173 |
+| 1500–1750 (i) | New Zealand | 124 | 174 |
+| 1400–1800 (i) | Hawaii | — | 173 |
+
+Human height for both men and women has [increased over the past century](https://ourworldindata.org/human-height#a-century-of-human-height-how-has-adult-height-changed-over-time): this is true of every country in the world. But, over the last few decades, human height in some countries have been stagnating. This is illustrated in the following charts which show the year-on-year relative change in average male and female heights by region. Positive values here indicate an increase in average height from one year to the next; zero indicates no change; and negative indicates a decline.
+
+Here we can pull out several key points. Firstly, we see that changes in height across the world are gradual: average heights do not suddenly jump one year to the next, but instead tend to change at rates of less than 1% per year. Secondly, we see that across all regions, average human heights have experienced significant growth over the past century. But the trends also suggest that growth in average male heights have stagnated in Europe and Central Asia, while reversing in the Middle East and North Africa, East Asia and Pacific, and Sub-Saharan Africa. The story is largely the same for women, but with the addition that average female heights in North America have stagnated as well.
+
+This seems like an unexpected result. Human height is positively [correlated with standards of living](https://ourworldindata.org/human-height#what-explains-differences-in-human-height); living standards have been increasing across the world in recent decades, so why would average human heights be stagnating or even falling? This trend is particularly curious for Sub-Saharan Africa, where average height appears to be falling the most while the [region has simultaneously achieved progress](https://africaindata.org/#/title-slide) across many aspects of wellbeing.
+
+In the next section we explore why this might be the case.
+
+### [](https://ourworldindata.org/human-height#why-has-growth-in-human-height-stagnated-in-rich-countries)Why has growth in human height stagnated in rich countries?
+
+Height is partly determined by genetics. Evolution aside, the genes of a population are fixed.[10](https://ourworldindata.org/human-height#note-10)
+
+As such, it is reasonable to assume that there is an upper limit to average heights, at which nutritional and health factors are optimal. This scenario could explain the recent stagnation, especially in high income countries across Europe and Central Asia, where living standards are high.
+
+A study published in _Nature_ examined the recent stagnation of heights in the Netherlands, the tallest population in the world.[11](https://ourworldindata.org/human-height#note-11)
+
+They found similar results: that the 150 year increase in average heights in the Netherlands had came to an end in recent decades. They concluded that the reason for this is not entirely clear. They suggest that the Dutch may have reached the maximum mean height possible for the population. But they also hypothesized that recent lifestyle changes – not a genetic upper bound – may be hindering further increases in the average heights of men and women. For example, “easy access to fast food nowadays … may lead to inadequate nutrient intake, which may result in lower height”. Furthermore, “less energy expenditure due to a sedentary lifestyle leads to an increase in overweight and obesity … which, in turn, are related to lower height”.[12](https://ourworldindata.org/human-height#note-12) Additionally, “the high consumption of milk in the Netherlands, which has been linked to tallness, declined over the past decade from 63 litres per capita per year in 2000 to 60 in 2010”.[13](https://ourworldindata.org/human-height#note-13)
+
+Therefore, the positive height trend in high-income countries may return if lifestyles improve.
+
+Other studies have assessed the apparent stagnation, or slowed growth, in other high-income regions. One investigated not only the stagnation of heights in the United States, but also why they have fallen behind many countries across Europe.[14](https://ourworldindata.org/human-height#note-14)
+
+In the 19th century, [North Americans were the tallest in the world](https://ourworldindata.org/human-height#how-does-human-height-vary-across-the-world), but fell behind over the course of the 20th century. The study attributes this partly to nutrition, arguing that “there are reasons to believe that US diets are deficient to some extent as nearly a half of households’ food expenditure is spent on food outside of the home.[15](https://ourworldindata.org/human-height#note-15) This is troubling insofar as meals consumed outside of the home are less balanced than those consumed at family dinners.[16](https://ourworldindata.org/human-height#note-16) It also highlights “differences in the socio-economic and health systems of the West and Northern European welfare states and the more market-oriented economy of the USA”, arguing that “socio-economic inequality in America is much greater than in Western Europe and inequality has a negative effect on mean height.[17](https://ourworldindata.org/human-height#note-17) Furthermore, the West European welfare states, in which a subsistence income is more or less guaranteed, provide a more comprehensive social safety net including unemployment insurance and a comprehensive health-insurance coverage.”[18](https://ourworldindata.org/human-height#note-18)
+
+### [](https://ourworldindata.org/human-height#why-has-average-human-height-in-sub-saharan-africa-fallen)Why has average human height in Sub-Saharan Africa fallen?
+
+In Sub-Saharan Africa, the pattern is even more puzzling. Remarkably, the average male and female heights of the region have been falling since 1970, despite [improvements in health and nutrition](https://africaindata.org/#/title-slide). Some researchers argue that this is due to selection: the least healthy children – whose growth is stunted due to malnutrition – do not survive to adulthood, while the survivors are healthier and taller. When child mortality rates decrease, stunted children survive to adulthood, thus lowering the average adult height.[19](https://ourworldindata.org/human-height#note-19)
+
+This explanation could apply to low income regions, where socioeconomic factors are improving but still relatively weak.
+
+### [](https://ourworldindata.org/human-height#will-growth-resume-in-the-future)Will growth resume in the future?
+
+Improvements in environmental factors such as nutrition and health could result in further increases in average heights. However, the factors that influence height have an upper limit: nutrient intake, for example, likely has limits above which benefits stop. As such, it’s possible that heights – particularly in countries where living standards are still relatively low – can further increase. But for the richest and tallest countries in the world today, heights may have reached their limit.
+
+There are large differences in human height [across the world](https://ourworldindata.org/human-height#human-height-across-the-world). These differences are not just geographical: human heights have changed significantly [over our history](https://ourworldindata.org/human-height#human-height-over-time), with increases in every country over the past century.
+
+Height is determined by a combination of genetic and environmental factors. How our height might reflect our environment – today and in the past – has been a key focus area for research. Height is often seen as a proxy for ‘biological standards of living’: the World Health Organisation recommends its use “to predict health, performance, and survival”.[20](https://ourworldindata.org/human-height#note-20)
+
+A study of male heights across 105 different countries determined that that “height and the HDI [Human Development Index] seem to be largely interchangeable as indicators of human well-being”.[21](https://ourworldindata.org/human-height#note-21) This is illustrated in the following scatter plot which shows the relationship between a country’s Human Development Index and average male height by year of birth. Here we see that people are taller in countries with a higher standard of living.
+
+Why is the relationship between individuals’ heights and a country’s socioeconomic development so strong?
+
+### [](https://ourworldindata.org/human-height#how-does-nutrition-affect-health)How does nutrition affect health?
+
+Nutrition is the one of the strongest determinants of human height.[22](https://ourworldindata.org/human-height#note-22)
+
+Humans convert the chemical energy stored in the macronutrient constituents of food into energy. Dietary energy intake from food must balance energy expenditure due to metabolic functions and physical activity, plus extra energy costs such as growth during childhood.[23](https://ourworldindata.org/human-height#note-23)
+
+Humans can adapt to an enduring low dietary energy intake, or undernourishment, by reducing the rate of growth, which leads to [stunting](https://ourworldindata.org/hunger-and-undernourishment#too-little-height-for-age-stunting), and restricts adult height. Insufficient dietary energy intakes across a population therefore result in a [low](https://www-jstor-org.ezproxy.cul.columbia.edu/stable/pdf/44125943.pdf?ab_segments=0%252Fdefault-2%252Fcontrol) average adult height.[24](https://ourworldindata.org/human-height#note-24)
+
+Protein is an essential macronutrient in a healthy diet, and is necessary for a wide range of biological processes, including growth. It is made up of basic building blocks called amino acids. Some amino acids – known as the nutritionally essential amino acids – cannot be made in the body, and so must come from the diet. Diets must provide adequate quantities of the full range of amino acids for human growth and metabolism. The capacity of different protein sources to satisfy these demands, based on their amino acid profile and digestibility, is defined as ‘protein quality’.[25](https://ourworldindata.org/human-height#note-25)
+
+The table shows the protein quality of different foods. Animal source food usually contains higher quality protein than plant source food. They are also a good source of micronutrients, such as iron and zinc, which are necessary for metabolism.[26](https://ourworldindata.org/human-height#note-26) A diet that includes a large proportion of animal source food is therefore likely to provide sufficient amounts of micronutrients and essential amino acids.
+
+A study by Headey (2018) of dietary patterns in lower-income countries suggests there is a strong association between the consumption of animal sourced foods and height.[31](https://ourworldindata.org/human-height#note-31)
+
+For instance, animal proteins comprise 9.5% of energy intake in Madagascar, where the average male height is 161.5 cm; Botswanans get 12.5% of their calories from animal proteins, and the men are 10 cm taller on average. But even larger height disparities begin to arise at high levels of animal protein intake.
+
+In high-income countries, where animal protein intake is high, Grasgruber (2014) found that the strongest predictor of male height is the ratio of high-quality animal proteins – from milk products, red meat, and fish – to low-quality plant proteins – from wheat, rice and other cereals.[32](https://ourworldindata.org/human-height#note-32) This could explain why some countries with very high socioeconomic status have shorter heights than we’d expect. Consider the difference between South Korea and the Netherlands: both have a very high HDI – over 0.9 – but the Dutch are nearly 8 centimeters taller (182.5 cm versus 175 cm). What separates them is their intake of animal protein: the Netherlands’ animal:plant protein ratio is 2.16 versus only 0.69 in South Korea.
+
+Appropriate mixtures of plant source proteins – such as cereals plus legumes or oil seeds – are capable of providing the essential amino acids and micronutrients necessary for growth. However, [diets](https://ourworldindata.org/diet-compositions)in low-income countries are often dependent on a single staple food source. In Bangladesh, for example, over 75% of dietary energy comes from cereals and grains, 90% of which is rice. By contrast, cereals and grains constitute less than a quarter of dietary energy in the United States. As such, low-income countries are unlikely to exhibit enough dietary diversity.
+
+Animal proteins form an [increasingly](https://ourworldindata.org/diet-compositions#animal-based-foods-form-a-larger-part-of-our-diet-as-we-get-richer) large part of our diets as income increases. Since nutrition plays a key role in determining height, there is an obvious relationship between income and height.[33](https://ourworldindata.org/human-height#note-33)
+
+A high level of socioeconomic development therefore predicts taller average heights.
+
+###### Protein quality of common foods[27](https://ourworldindata.org/human-height#note-27)[28](https://ourworldindata.org/human-height#note-28)[29](https://ourworldindata.org/human-height#note-29)[30](https://ourworldindata.org/human-height#note-30)
+
+| Protein Source | PDCAAS Value |
+| --- | --- |
+| Egg | 1 |
+| Milk | 1 |
+| Beef | 0.92 |
+| Pea | 0.64 |
+| Lentil | 0.63 |
+| Black bean | 0.53 |
+| Peanut | 0.52 |
+| Chickpea | 0.52 |
+| Rice | 0.42 |
+| Wheat | 0.42 |
+
+[![Image 3: Share of calories from animal protein vs mean male height v8 850x600](https://ourworldindata.org/exports/share-of-calories-from-animal-protein-vs-mean-male-height_v8_850x600.svg) Click to open interactive version](https://ourworldindata.org/grapher/share-of-calories-from-animal-protein-vs-mean-male-height)
+
+### [](https://ourworldindata.org/human-height#how-does-health-affect-height)How does health affect height?
+
+Health – particularly in childhood – also influences human height. Disease during childhood can restrict growth because it reduces the availability of nutrients and raises metabolic requirements.[34](https://ourworldindata.org/human-height#note-34)
+
+Children fighting disease have higher nutritional requirements during a period when nutrients are less available. As such, high incidences of disease should lead to shorter average heights.
+
+Grasgruber (2016)found that the socioeconomic factor most strongly correlated with male height is child mortality.[35](https://ourworldindata.org/human-height#note-35)
+
+This relationship is illustrated in the scatter plot, with child mortality rate on the y-axis and mean male height on the x-axis.A low child mortality rate suggests low incidences of disease, as well as sufficient nourishment, and hence predicts a taller average height. For example, 0.2% of children in Finland die before they are 5 years old compared to 7.4% of children in Afghanistan; the average male heights in Finland is significantly taller at 180 cm versus 165 cm.
+
+The relationship between health and height is reinforced by the significant impact of healthcare expenditure. We see this reflected in Arab states where health expenditure is much lower than their income level would predict. For example, compare Oman and the Netherlands: the average male height of the Dutch is 182cm – 13 centimeters taller than the average in Oman. Both countries have high levels of [income per capita](https://ourworldindata.org/grapher/maddison-data-gdp-per-capita-in-2011us?tab=chart&time=1950..2016&country=NLD+OMN). But the Netherlands spends much more on [healthcare](https://ourworldindata.org/grapher/annual-healthcare-expenditure-per-capita?tab=chart&time=1995..2014&country=NLD+OMN): healthcare expenditure per capita in Oman is $1,442, or 3.7% of gross domestic product (GDP) versus $5,202, or 9.2% of GDP in the Netherlands.
+
+Both child mortality and healthcare expenditure impact life expectancy: we would therefore expect them to be strong determinants of the relationship between standard of living and average height.
+
+Total [fertility rate](https://ourworldindata.org/fertility-rate) (the number of children per woman) also interacts with these determinants, making it the second strongest socioeconomic correlate of height. The role of fertility in high-income countries is marginal since fertility rates are already very low. But it gains statistical significance at lower incomes, where fertility rates are relatively high. In families where there are a large number of children, expenditure and food availability for each child is often lower. We might therefore expect that in countries where the fertility rate is high, health expenditure and nutritional quality per child is low, while incidence of disease is high.
+
+### [](https://ourworldindata.org/human-height#the-effects-of-immigration-on-height)The effects of immigration on height
+
+In a pioneering study of Japanese immigrants to Hawaii published in 1939, Harry Shapiro found there to be a significant difference between the heights of Hawaiian-born Japanese and the Japanese immigrant population.[36](https://ourworldindata.org/human-height#note-36) Shapiro concluded that environmental factors, particularly diet and healthcare, play a significant role in determining height and other physical characteristics. The underlying idea here is that migration from poor countries to rich ones may lead to dramatic changes between generations. In a similar study, Marcus Goldstein (1943) found there to be differences in the heights and other characteristics of the children of Mexican immigrants and their parents, as well as with native born Mexican children.[37](https://ourworldindata.org/human-height#note-37)
+
+### [](https://ourworldindata.org/human-height#how-do-genes-affect-height)How do genes affect height?
+
+Height is partly determined by the interaction of different genes.[38](https://ourworldindata.org/human-height#note-38)
+
+Recent breakthroughs in sequencing the human genome have enabled researchers to identify 697 variants of genes that are associated with height.[39](https://ourworldindata.org/human-height#note-39)
+
+These variants have a large number of combinations; these can lead to a wide range of potential heights.
+
+Specific combinations of these variants are much more common to some populations than others. This could help to explain disparities in average heights around the world. Certain haplogroups – groups of variant clusters that are inherited from one common ancestor – have observable associations with height.
+
+For example, one haplogroup (J1-M267) is most commonly observed in populations that spread from the Zagros mountains in Iran to the Arabian peninsula, particularly Yemen.[40](https://ourworldindata.org/human-height#note-40) Another haplogroup (R1b-S116) is often found in populations from Ireland, Britain, France, and Iberia, who probably migrated from the Franco-Cantabrian region.[41](https://ourworldindata.org/human-height#note-41) These haplogroups are associated with short stature.
+
+By contrast, one haplogroup (I-M170) is most concentrated in Germanic-speaking Europe, and the Western Balkans, particularly Herzegovina.[42](https://ourworldindata.org/human-height#note-42)
+
+These regions are characterised by tallness, which strongly suggests a correlation between this haplogroup and height.
+
+### [](https://ourworldindata.org/human-height#is-height-determined-by-nature-or-nurture)Is height determined by nature or nurture?
+
+Is height determined by genetics or environment? The short answer is that it depends on the countries you are comparing. Differences in average heights could be due to different genes, different environments, or – more likely – some combination of both.
+
+For instance, the average male height in Bosnia and Herzegovina is 181 cm – far higher than the global mean of 171 cm, and even the regional mean of 177 cm. This height cannot be explained by high standards of living nor high animal protein consumption: its HDI is one of the lowest in Europe, and the ratio of animal protein to plant protein consumption is only 0.33, compared to 2.16 in the Netherlands. The cause in this case must be genetic: nature over nurture.
+
+Differences in average heights between North and South Korea tell a very different story, as told by Pak (2005).[43](https://ourworldindata.org/human-height#note-43)
+
+The two halves of the Korean Peninsula share a genetic lineage, but since the partition in 1945 there has been a great divergence in average heights. While the average height of South Korean men increased by 3.8 cm – one of the largest increases in the world – North Korean men of comparable ages grew only 0.8 cm. This disparity is much more likely to be due to differences in standards of living: nurture over nature.
+
+The equation that determines human height is made up of many components. No single factor can predict height at an individual or even a national level. But overall, average heights can offer a unique insight into the genetic makeup and standard of living of a population.
+
+We have looked in detail at [how _mean_ heights vary](https://ourworldindata.org/human-height#how-does-human-height-vary-across-the-world) across the world. But this tells us very little about the distribution of heights globally, regionally or within in a given country. How do heights vary: do most people have heights very similar to the average; or do they span a wide range?
+
+### [](https://ourworldindata.org/human-height#height-is-normally-distributed)Height is normally distributed
+
+Adult heights within a population are approximately normally distributed due to genetic and environmental variance.[44](https://ourworldindata.org/human-height#note-44)
+
+Height is partly determined by the interaction of 423 genes with 697 variants.[45](https://ourworldindata.org/human-height#note-45)
+
+One of the basic rules of probability (known as the Central Limit Theorem) says the distribution of a trait that is determined by independent random variables, like height and genes, roughly follows a bell curve. This means the range of human heights in a population fall centrally around the mean height. In statistical terms, it’s also the case that the mean and median height are the same – they fall right in the middle of the distribution.[46](https://ourworldindata.org/human-height#note-46)
+
+The normal distribution of heights allows us to make inferences about the range. Around 68% of heights will fall within one standard deviation of the mean height; 95% within two standard deviations; and 99.7% within three. If we know the mean and standard deviation of heights, we have a good understanding of how heights vary across a population.
+
+Drawing upon height data from almost 150,000 twinned pairs born between 1886 and 1994, one study investigated the variance in heights across populations through time, and tried to explain how much could be explained by genetics versus environmental differences.[47](https://ourworldindata.org/human-height#note-47)
+
+We see this distribution of heights in the chart. As an aggregate of the regions with available data – Europe, North America, Australia, and East Asia – they found the mean male height to be 178.4 centimeters (cm) in the most recent cohort (born between 1980 and 1994).[48](https://ourworldindata.org/human-height#note-48) The standard deviation was 7.59 cm. This means 68% of men were between 170.8 and 186 cm tall; 95% were between 163.2 and 193.6 cm. Women were smaller on average, with a mean height of 164.7 cm, and standard deviation of 7.07 cm. This means 68% of women were between 157.6 and 171.8 cm; and 95% between 150.6 and 178.84 cm.
+
+Regionally, the standard deviation of male heights is largest in North America and Australia, at 7.49 cm, and smallest in East Asia, at 6.37 cm. The pattern is the same for women, with 6.96 cm in North America and Australia, and 5.74 cm in East Asia. Some of the distribution of heights within a population is likely to reflect the degree of genetic variance.[49](https://ourworldindata.org/human-height#note-49)
+
+![Image 4: Distribution 1](https://ourworldindata.org/uploads/2019/06/distribution-1-775x550.png)
+
+### [](https://ourworldindata.org/human-height#how-does-environment-and-living-standards-affect-the-distribution-of-heights)How does environment and living standards affect the distribution of heights?
+
+Differences in height within a population are not only influenced by genetic variance. Greater environmental variance within a population is also reflected by a wider distribution of heights. The distribution of heights has therefore be used as one indicator of socioeconomic inequality in the past.[50](https://ourworldindata.org/human-height#note-50)
+
+In a population with perfectly equal access to nutrition and health resources, height distribution would only reflect genetic variation. Unequal access to these resources within a population means that wealthier individuals could have better health and nutrition, and therefore tend to grow taller than poorer ones; variance of heights therefore becomes larger. In other words, resource-based variance due to income inequality is added to genetic variance, widening the distribution of heights. Some empirical evidence across a range of contexts would support this hypothesis.
+
+For example, in India in the twentieth-century, an individual’s caste had a significant influence on their height. Members of the high castes – who had better access to nutrition and health resources – were 4.5 cm taller on average than members of the low castes.[51](https://ourworldindata.org/human-height#note-51)
+
+Genetic differences between caste groups are unlikely to account for this height difference, due to the population’s common genetic heritage.[52](https://ourworldindata.org/human-height#note-52)
+
+Furthermore, Ayuda (2014) identified a relationship between socioeconomic status and height among Spanish conscripts from 1850 to 1958. They found that “literate conscripts were always taller than illiterate ones (by nearly 1 cm), and agricultural workers, with fewer economic resources, were significantly shorter (by 3.6 cm) than highly qualified non-manual workers”.[53](https://ourworldindata.org/human-height#note-53)
+
+Height inequality, which is measured by the coefficient of variation (CV), is therefore positively correlated with income inequality, which is measured by the Gini coefficient.
+
+This relationship was observed in a study of Kenya during the 20th century, where the CV mirrored fluctuations in the Gini coefficient. It also compared the height distributions of Uganda and Togo, where average heights were roughly equal, but there was higher income inequality in the former than the latter. Sure enough, the distribution of heights was wider in Uganda.[54](https://ourworldindata.org/human-height#note-54)
+
+### [](https://ourworldindata.org/human-height#genetics-or-environment-which-contributes-most-to-height-variations-in-a-country)Genetics or environment: which contributes most to height variations in a country?
+
+So, both genetic and environmental factors have an impact on height variation. But which is the most important determinant? The relative contribution of genetic factors to differences in heights within populations is defined as ‘heritability’. Heritability is measured between 0 and 1; the higher the heritability, the larger the contribution of genetics. Twin and adoption studies typically estimate heritability at about 0.8.[55](https://ourworldindata.org/human-height#note-55)
+
+This means that the majority of the variation in height within a population is due to genetic variation, but environmental variation due to socioeconomic factors also has an impact.
+
+[](https://ourworldindata.org/human-height#data-quality)Data Quality
+--------------------------------------------------------------------
+
+Accurately measuring the height of an individual is a straightforward task and so we should be confident that there is relatively little measurement error in the recorded data. This is unlikely to be the case when measuring the height of skeletons. What is more, the techniques used to date skeletal remains (such as radio carbon dating) only provide a probabilistic estimate.
+
+Another factor to consider is the potential sample bias from the historical sources. Since the height data is largely composed of soldiers, criminals, salves and servants, these groups may not be representative of the wider population. This problem has been highlighted by academics researching human height.[56](https://ourworldindata.org/human-height#note-56)
+
+In fact, the observed drop in height during the industrial revolution — usually attributed to the negative health impacts of industrialisation — can be explained by the labour market conditions that existed at the time. They argue that “as economies grew, tight labour markets discouraged military enlistments by the most productive workers, with those enlisting (and being measured) increasingly over-representing the less advantaged members of society.”
+
+By comparing the heights of soldiers in the US army with countries that enforced conscription we can see the bias more clearly. In countries that had conscription, the average height of conscripts was increasing over the period, meanwhile in the US where entry was voluntary, the heights of soldiers was falling
+
+###### Mean heights of volunteer soldiers in the US and in selected countries with conscription – Vox[57](https://ourworldindata.org/human-height#note-57)
+
+![Image 5: Mean heights of volunteer soldiers in the US and in selected countries with conscription - Vox](https://ourworldindata.org/uploads/2013/10/ourworldindata_mean-heights-of-volunteer-soldiers-in-the-us-and-in-selected-countries-with-conscription-vox.png)
+
+[](https://ourworldindata.org/human-height#data-sources)Data Sources
+--------------------------------------------------------------------
+
+#### [](https://ourworldindata.org/human-height#ncd-risk-factor-collaboration-ncd-ris-c)NCD Risk Factor Collaboration (NCD-RisC)
+
+*   **Data:** Male and female heights
+*   **Geographical coverage:** Global
+*   **Time span:** Adults heights for individuals born from 1896 to 1996.
+*   **Available at:** Online at NCD-RisC [here](http://www.ncdrisc.org/).
+
+#### [](https://ourworldindata.org/human-height#tubingen-height-data-hub)Tübingen Height Data Hub
+
+*   **Data:** Many different datasets on human height
+*   **Geographical coverage:** Global
+*   **Time span:** Some of the data goes as far back as the 17th century.
+*   **Available at:** It is online at the University of Tübingen [here](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-wirtschaftswissenschaft/wirtschaftswissenschaft/lehrstuehle/volkswirtschaftslehre/wirtschaftsgeschichte/forschung/data-hub-height.html).
+*   _The authors of this data are Jörg Baten,John Komlos,John Murray et al._
+
+#### [](https://ourworldindata.org/human-height#clio-infra-project)Clio Infra project
+
+*   **Data:**Heights by birth decade and country (male height equivalent in cm)
+*   **Geographical coverage:**165 countries
+*   **Time span:** 1810-1989
+*   **Available at:** Online at Clio Infra [here](http://www.clio-infra.eu/)
+*   _The authors are Jörg Baten (University of Tuebingen) and Mathias Blum (Technical University Munich)._

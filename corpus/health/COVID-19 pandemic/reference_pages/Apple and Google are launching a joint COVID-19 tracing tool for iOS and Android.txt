@@ -1,0 +1,75 @@
+# Apple and Google are launching a joint COVID-19 tracing tool for iOS and Android
+
+Apple and Google’s engineering teams have banded together to create a decentralized contact tracing tool that will help individuals determine whether they have been exposed to someone with COVID-19.
+
+Contact tracing is a useful tool that helps public health authorities track the spread of the disease and inform the potentially exposed so that they can get tested. It does this by identifying and “following up with” people who have come into contact with a COVID-19-affected person.
+
+The first phase of the project is an API that public health agencies can integrate into their own apps. The next phase is a system-level contact tracing system that will work across iOS and Android devices on an opt-in basis.
+
+The system uses on-board radios on your device to transmit an anonymous ID over short ranges — using Bluetooth beaconing. Servers relay your last 14 days of rotating IDs to other devices, which search for a match. A match is determined based on a threshold of time spent and distance maintained between two devices.
+
+If a match is found with another user that has told the system that they have tested positive, you are notified and can take steps to be tested and to self-quarantine.
+
+Contact tracing is a well-known and debated tool, but one that has been adopted by health authorities and universities that are working on multiple projects like this. One such example is [MIT’s efforts to use Bluetooth](https://techcrunch.com/2020/04/09/mit-develops-privacy-preserving-covid-19-contact-tracing-inspired-by-apples-find-my-feature/) to create a privacy-conscious contact tracing tool that was inspired by Apple’s Find My system. The companies say that those organizations identified technical hurdles that they were unable to overcome and asked for help.
+
+Our own Jon Evans laid out the [need for a broader tracing apparatus](https://techcrunch.com/2020/03/29/test-and-trace-with-apple-and-google/) a week ago, along with the notion that you’d need buy-in from Apple and Google to make it happen.
+
+Techcrunch event
+
+San Francisco|October 13-15, 2026
+
+The project was started two weeks ago by engineers from both companies. One of the reasons the companies got involved is that there is poor interoperability between systems on various manufacturer’s devices. With contact tracing, every time you fragment a system like this between multiple apps, you limit its effectiveness greatly. You need a massive amount of adoption in one system for contact tracing to work well.
+
+At the same time, you run into technical problems like Bluetooth power suck, privacy concerns about centralized data collection and the sheer effort it takes to get enough people to install the apps to be effective.
+
+**Two-phase plan**
+
+To fix these issues, Google and Apple teamed up to create an interoperable API that should allow the largest number of users to adopt it, if they choose.
+
+The first phase, a private proximity contact detection API, will be released in mid-May by both Apple and Google for use in apps on iOS and Android. In a briefing today, Apple and Google said that the API is a simple one and should be relatively easy for existing or planned apps to integrate. The API would allow apps to ask users to opt-in to contact tracing (the entire system is opt-in only), allowing their device to broadcast the anonymous, rotating identifier to devices that the person “meets.” This would allow tracing to be done to alert those who may come in contact with COVID-19 to take further steps.
+
+The value of contact tracing should extend beyond the initial period of pandemic and into the time when self-isolation and quarantine restrictions are eased.
+
+The second phase of the project is to bring even more efficiency and adoption to the tracing tool by bringing it to the operating system level. There would be no need to download an app, users would just opt-in to the tracing right on their device. The public health apps would continue to be supported, but this would address a much larger spread of users.
+
+This phase, which is slated for the coming months, would give the contract tracing tool the ability to work at a deeper level, improving battery life, effectiveness and privacy. If its handled by the system, then every improvement in those areas — including cryptographic advances — would benefit the tool directly.
+
+**How it works**
+
+A quick example of how a system like this might work:
+
+1.   Two people happen to be near each other for a period of time, let’s say 10 minutes. Their phones exchange the anonymous identifiers (which change every 15 minutes).
+2.   Later on, one of those people is diagnosed with COVID-19 and enters it into the system via a Public Health Authority app that has integrated the API.
+3.   With an additional consent, the diagnosed user allows his anonymous identifiers for the last 14 days to be transmitted to the system.
+4.   The person they came into contact with has a Public Health app on their phone that downloads the broadcast keys of positive tests and alerts them to a match.
+5.   The app gives them more information on how to proceed from there.
+
+![Image 1: Diagram of Alice and Bob meeting for a 10-minute conversation, their phones exchanging anonymous identifier beacons which change frequently, Bob tests positive for COVID-19 and enters the test result in an app, and later Bob's phone uploads his broadcast beacons to the cloud](https://techcrunch.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-10-at-10.35.16-AM.png)![Image 2: Illustration showing how Alice continues her day, unaware she had been near a potentially contagious person and then receives a notification on her phone that she was exposed to someone who tested positive for Covid-19, then her phone downloads broadcast keys and finds a match and eventually provides additional information from the health authority app or website](https://techcrunch.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-10-at-10.35.28-AM.png)
+
+**Privacy and transparency**
+
+Both Apple and Google say that privacy and transparency are paramount in a public health effort like this one and say they are committed to shipping a system that does not compromise personal privacy in any way. This is a factor that has [been raised by the ACLU](https://www.aclu.org/report/aclu-white-paper-limits-location-tracking-epidemic?redirect=aclu-white-paper-limits-location-tracking-epidemic), which has cautioned that any use of cell phone tracking to track the spread of COVID-19 would need aggressive privacy controls.
+
+There is zero use of location data, which includes users who report positive. This tool is not about _where_ affected people are but instead _whether they have been around other people._
+
+The system works by assigning a random, rotating identifier to a person’s phone and transmitting it via Bluetooth to nearby devices. That identifier, which rotates every 15 minutes and contains no personally identifiable information, will pass through a simple relay server that can be run by health organizations worldwide.
+
+Even then, the list of identifiers you’ve been in contact with doesn’t leave your phone unless you choose to share it. Users that test positive will not be identified to other users, Apple or Google. Google and Apple can disable the broadcast system entirely when it is no longer needed.
+
+All identification of matches is done _on your device_, allowing you to see — within a 14-day window — whether your device has been near the device of a person who has self-identified as having tested positive for COVID-19.
+
+The entire system is opt-in. Users will know upfront that they are participating, whether in app or at a system level. Public health authorities are involved in notifying users that they have been in contact with an affected person.
+
+The American Civil Liberties Union appears to be cautiously optimistic.
+
+“No contact tracing app can be fully effective until there is widespread, free, and quick testing and equitable access to healthcare. These systems also can’t be effective if people don’t trust them,” said ACLU’s surveillance and cybersecurity counsel Jennifer Granick. “To their credit, Apple and Google have announced an approach that appears to mitigate the worst privacy and centralization risks, but there is still room for improvement. We will remain vigilant moving forward to make sure any contract tracing app remains voluntary and decentralized, and used only for public health purposes and only for the duration of this pandemic.”
+
+Apple and Google say that they will openly publish information about the work that they have done for others to analyze in order to bring the most transparency possible to the privacy and security aspects of the project.
+
+“All of us at Apple and Google believe there has never been a more important moment to work together to solve one of the world’s most pressing problems,” the companies said in a statement. “Through close cooperation and collaboration with developers, governments and public health providers, we hope to harness the power of technology to help countries around the world slow the spread of COVID-19 and accelerate the return of everyday life.”
+
+You can find more information about the contact tracing API on Google’s [post here](https://www.blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology/) and on Apple’s [page here including specifications.](https://www.apple.com/covid19/contacttracing)
+
+_Updated with comment from the ACLU._
+
+[![Image 3: COVID-19 Updates banner with the text Read More and an arrow icon](https://techcrunch.com/wp-content/uploads/2020/03/covid-19-footer.png)](https://techcrunch.com/pages/covid-19-updates/)

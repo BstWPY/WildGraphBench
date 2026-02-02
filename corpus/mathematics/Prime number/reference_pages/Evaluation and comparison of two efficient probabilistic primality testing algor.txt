@@ -1,0 +1,249 @@
+# Evaluation and comparison of two efficient probabilistic primality testing algorithms
+
+Evaluation and comparison of two efficient probabilistic primality testing algorithms - ScienceDirect
+
+===============
+
+[Skip to main content](https://doi.org/10.1016/0304-3975(80)90007-9#screen-reader-main-content)[Skip to article](https://doi.org/10.1016/0304-3975(80)90007-9#screen-reader-main-title)
+
+[![Image 2: Elsevier logo](https://doi.org/shared-assets/24/images/elsevier-non-solus-new-grey.svg)](https://doi.org/)
+
+*   [Journals & Books](https://doi.org/browse/journals-and-books)
+
+*      
+*   [](https://doi.org/search "Search") 
+
+[](https://doi.org/user/login?targetURL=%2Fscience%2Farticle%2Fpii%2F0304397580900079&from=globalheader "My account")
+
+[](https://doi.org/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2F0304397580900079 "Sign In")
+
+*   [View**PDF**](https://doi.org/science/article/pii/0304397580900079/pdf?md5=c843b9414a5ee2499d286cb54705b70e&pid=1-s2.0-0304397580900079-main.pdf)
+*   Download full issue
+
+Search ScienceDirect 
+
+Outline
+-------
+
+1.   [Abstract](https://doi.org/10.1016/0304-3975(80)90007-9#aep-abstract-id3 "Abstract")
+2.   [References](https://doi.org/10.1016/0304-3975(80)90007-9#aep-bibliography-id5 "References")
+
+[Cited by (62)](https://doi.org/10.1016/0304-3975(80)90007-9#section-cited-by)
+------------------------------------------------------------------------------
+
+[![Image 3: Elsevier](https://doi.org/us-east-1/prod/91e22fa6a3df8ce8c14d54428d5f81c9f7e70be2/image/elsevier-non-solus.svg)](https://doi.org/journal/theoretical-computer-science "Go to Theoretical Computer Science on ScienceDirect")
+
+[Theoretical Computer Science](https://doi.org/journal/theoretical-computer-science "Go to Theoretical Computer Science on ScienceDirect")
+------------------------------------------------------------------------------------------------------------------------------------------
+
+[Volume 12, Issue 1](https://doi.org/journal/theoretical-computer-science/vol/12/issue/1 "Go to table of contents for this volume/issue"), September 1980, Pages 97-108
+
+[![Image 4: Theoretical Computer Science](https://ars.els-cdn.com/content/image/1-s2.0-S0304397525X00323-cov150h.gif)](https://doi.org/journal/theoretical-computer-science/vol/12/issue/1)
+
+Evaluation and comparison of two efficient probabilistic primality testing algorithms
+=====================================================================================
+
+Author links open overlay panel Louis Monier
+
+Show more
+
+Outline
+
+Add to Mendeley
+
+Share
+
+Cite
+
+[https://doi.org/10.1016/0304-3975(80)90007-9](https://doi.org/10.1016/0304-3975(80)90007-9 "Persistent link using digital object identifier")[Get rights and content](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=0304397580900079&orderBeanReset=true)
+
+Under an Elsevier [user license](http://www.elsevier.com/open-access/userlicense/1.0/)
+
+Open archive
+
+Abstract
+--------
+
+We analyse two recent probabilistic primality testing algorithms; the first one is derived from Miller [6] in a formulation given by Rabin [7], and the second one is from Solovay and Strassen [9]. Both decide whether or not an odd number _n_ is prime in time _O_(_m_, _log_ _n_ _M_(_n_)) with an error probability less than α _m_, for some 0≤a<1 2. Our comparison shows that the first algorithm is always more efficient than the second, both in probabilistic and algorithmic terms.
+
+*   [Previous article in issue](https://doi.org/science/article/pii/0304397580900067)
+*   [Next article in issue](https://doi.org/science/article/pii/0304397580900080)
+
+[View PDF](https://doi.org/science/article/pii/0304397580900079/pdf?md5=c843b9414a5ee2499d286cb54705b70e&pid=1-s2.0-0304397580900079-main.pdf)
+
+Recommended articles
+
+References
+----------
+
+1.   [[1]](https://doi.org/10.1016/0304-3975(80)90007-9#bBIB1)D.M. Burton Elementary Number Theory  Allyn and Bacon, Boston, MA (1976) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Elementary%20Number%20Theory&publication_year=1976&author=D.M.%20Burton) 
+2.   [[2]](https://doi.org/10.1016/0304-3975(80)90007-9#bBIB2)R.D. Carmichael On composite numbers _p_ which satisfy the Fermat congruence _a_ _p-1_≡1[_p_]  Amer. Math. Monthly, 19 (1912), pp. 22-27 [Google Scholar](https://scholar.google.com/scholar_lookup?title=On%20composite%20numbers%20p%20which%20satisfy%20the%20Fermat%20congruence%20ap-11p&publication_year=1912&author=R.D.%20Carmichael) 
+3.   [[3]](https://doi.org/10.1016/0304-3975(80)90007-9#bBIB3)G.H. Hardy, E.M. Wright An Introduction to the Theory of Numbers   (4th ed.), Clarendon Press, Oxford (1960) [Google Scholar](https://scholar.google.com/scholar_lookup?title=An%20Introduction%20to%20the%20Theory%20of%20Numbers&publication_year=1960&author=G.H.%20Hardy&author=E.M.%20Wright) 
+4.   [[4]](https://doi.org/10.1016/0304-3975(80)90007-9#bBIB4)C. Hooley Application of Sieve Methods to the Theory of Numbers  Cambridge Univ. Press, London (1976) [Google Scholar](https://scholar.google.com/scholar_lookup?title=Application%20of%20Sieve%20Methods%20to%20the%20Theory%20of%20Numbers&publication_year=1976&author=C.%20Hooley) 
+5.   [[5]](https://doi.org/10.1016/0304-3975(80)90007-9#bBIB5)D.E. Knuth The Art of Computer Programming  Seminumerical Algorithms, Vol. 2, Addison-Wesley, Reading, MA (1973) [Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Art%20of%20Computer%20Programming&publication_year=1973&author=D.E.%20Knuth) 
+6.   [[6]](https://doi.org/10.1016/0304-3975(80)90007-9#bBIB6)G.L. Miller Riemann's hypothesis and tests for primality  Proc. 7th ACM Symposium on the Theory of Computing (1975), pp. 234-239 [Crossref](https://doi.org/10.1145/800116.803773)[View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-85015281689&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar_lookup?title=Riemanns%20hypothesis%20and%20tests%20for%20primality&publication_year=1975&author=G.L.%20Miller) 
+7.   [[7]](https://doi.org/10.1016/0304-3975(80)90007-9#bBIB7)M.O. Rabin Probabilistic Algorithms  J. Traub (Ed.), Algorithms and Complexity, New Directions and Recent Results, Academic Press, New York (1976), pp. 21-24 [Google Scholar](https://scholar.google.com/scholar_lookup?title=Probabilistic%20Algorithms&publication_year=1976&author=M.O.%20Rabin) 
+8.   [[8]](https://doi.org/10.1016/0304-3975(80)90007-9#bBIB8)A. Schönhage, V. Strassen Schnelle Multiplikation Grosser Zahlen  Computing, 7 (1971), pp. 281-292 [View in Scopus](https://www.scopus.com/inward/record.url?eid=2-s2.0-34250459760&partnerID=10&rel=R3.0.0)[Google Scholar](https://scholar.google.com/scholar_lookup?title=Schnelle%20Multiplikation%20Grosser%20Zahlen&publication_year=1971&author=A.%20Sch%C3%B6nhage&author=V.%20Strassen) 
+9.   [[9]](https://doi.org/10.1016/0304-3975(80)90007-9#bBIB9)R. Solovay, V. Strassen A fast Monte-Carlo test for primality  Siam J. Comput., 6 (1977), pp. 84-85 [Crossref](https://doi.org/10.1137/0206006)[Google Scholar](https://scholar.google.com/scholar_lookup?title=A%20fast%20Monte-Carlo%20test%20for%20primality&publication_year=1977&author=R.%20Solovay&author=V.%20Strassen) 
+
+Cited by (62)
+-------------
+
+*   ### [Modern computer algebra: Third edition](https://doi.org/10.1017/CBO9781139856065)
+
+2011, Modern Computer Algebra Third Edition     
+*   ### [Experimental mathematics in action](https://doi.org/10.1201/9781439864333)
+
+2007, Experimental Mathematics in Action     
+*   ### [Integer Factoring](https://doi.org/10.1023/a:1008397921377)
+
+2000, Designs Codes and Cryptography     
+*   ### [Handbook of applied cryptography](http://www.scopus.com/scopus/inward/record.url?partnerID=10&rel=3.0.0&view=basic&eid=2-s2.0-84944878354&md5=22448320c19d45f2f677719a47bdec1)
+
+1996, Handbook of Applied Cryptography     
+*   ### [Fast generation of prime numbers and secure public-key cryptographic parameters](https://doi.org/10.1007/BF00202269)
+
+1995, Journal of Cryptology the Journal of the International Association for Cryptologie Research Iacr     
+*   ### [Average case error estimates for the strong probable prime test](https://doi.org/10.1090/S0025-5718-1993-1189518-9)
+
+1993, Mathematics of Computation     
+
+[View all citing articles on Scopus](http://www.scopus.com/scopus/inward/citedby.url?partnerID=10&rel=3.0.0&eid=2-s2.0-85000690564&md5=17b0989f1114aae3c13486dff772fc3)
+
+Copyright © 1980 Published by Elsevier B.V.
+
+Recommended articles
+--------------------
+
+*   ### [Groups with all subgroups permutable or soluble of finite rank](https://doi.org/science/article/pii/S0021869320300028 "Groups with all subgroups permutable or soluble of finite rank")
+
+Journal of Algebra, Volume 549, 2020, pp. 195-214  M.R.Dixon, …, M.Trombetti  [View PDF](https://doi.org/science/article/pii/S0021869320300028/pdfft?md5=a8ac7e26ba1d7bb6dd5f4ceae669c096&pid=1-s2.0-S0021869320300028-main.pdf) 
+*   ### [Multiple reciprocal sums and multiple reciprocal star sums of polynomials are almost never integers](https://doi.org/science/article/pii/S0022314X18301781 "Multiple reciprocal sums and multiple reciprocal star sums of polynomials are almost never integers")
+
+Journal of Number Theory, Volume 195, 2019, pp. 269-292  Qiuyu Yin, …, Min Qiu  [View PDF](https://doi.org/science/article/pii/S0022314X18301781/pdfft?md5=b2972752ebe660a6da1c9e07d4ef3f69&pid=1-s2.0-S0022314X18301781-main.pdf) 
+*   ### [Fast computation of generic bivariate resultants](https://doi.org/science/article/pii/S0885064X2030042X "Fast computation of generic bivariate resultants")
+
+Journal of Complexity, Volume 62, 2021, Article 101499  Joris van der Hoeven, Grégoire Lecerf  [View PDF](https://doi.org/science/article/pii/S0885064X2030042X/pdfft?md5=84b9fbe77230d35e58bc1757d1490acc&pid=1-s2.0-S0885064X2030042X-main.pdf) 
+*   ### [Robust unsupervised domain adaptation for neural networks via moment alignment](https://doi.org/science/article/pii/S0020025519300301 "Robust unsupervised domain adaptation for neural networks via moment alignment")
+
+Information Sciences, Volume 483, 2019, pp. 174-191  Werner Zellinger, …, Susanne Saminger-Platz   
+*   ### [Estimates on the Markov convexity of Carnot groups and quantitative nonembeddability](https://doi.org/science/article/pii/S0022123620302408 "Estimates on the Markov convexity of Carnot groups and quantitative nonembeddability")
+
+Journal of Functional Analysis, Volume 279, Issue 8, 2020, Article 108697  Chris Gartland  [View PDF](https://doi.org/science/article/pii/S0022123620302408/pdfft?md5=71d41c5dc0be608f43a341a411ca5943&pid=1-s2.0-S0022123620302408-main.pdf) 
+*   ### [An annotated bibliography for comparative prime number theory](https://doi.org/science/article/pii/S0723086924001117 "An annotated bibliography for comparative prime number theory")
+
+Expositiones Mathematicae, Volume 43, Issue 3, 2025, Article 125644  Greg Martin, …, Chi Hoi Yip  [View PDF](https://doi.org/science/article/pii/S0723086924001117/pdfft?md5=a4e34d2f21b054580ecc22816886d21a&pid=1-s2.0-S0723086924001117-main.pdf) 
+
+Show 3 more articles
+
+Article Metrics
+---------------
+
+### Citations
+
+*   Citation Indexes 62
+
+### Captures
+
+*   Mendeley Readers 8
+
+### Mentions
+
+*   References 8
+
+![Image 5: PlumX Metrics Logo](https://cdn.plu.mx/3ba727faf225e19d2c759f6ebffc511d/plumx-logo.png)[View details](https://plu.mx/plum/a/?doi=10.1016%2F0304-3975(80)90007-9&theme=plum-sciencedirect-theme&hideUsage=true)
+
+[![Image 6: Elsevier logo with wordmark](https://doi.org/shared-assets/47/images/elsevier-non-solus-new-with-wordmark.svg)](https://www.elsevier.com/)
+
+*   [About ScienceDirect](https://www.elsevier.com/solutions/sciencedirect)
+*   [Remote access](https://doi.org/user/institution/login?targetURL=%2Fscience%2Farticle%2Fpii%2F0304397580900079)
+*   [Contact and support](https://service.elsevier.com/app/contact/supporthub/sciencedirect/)
+*   [Terms and conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)
+*   [Privacy policy](https://www.elsevier.com/legal/privacy-policy)
+*   Cookie settings
+
+All content on this site: Copyright © 2025 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+
+[![Image 7: RELX group home page](https://doi.org/shared-assets/60/images/logo-relx-tm.svg)](https://www.relx.com/)
+
+×
+
+![Image 8: Image of ScienceDirect AI search screen](https://pendo-static-5661679399600128.storage.googleapis.com/OZhpzqgF_uTANoiV3BcQ39VasLw/guide-media-c42b690f-2179-4d59-96a0-2c0e64ed56b4)
+
+**Research _faster_ with ScienceDirect AI**
+
+Ask complex questions your way and instantly find what you need from millions of peer-reviewed, full-text articles and book chapters.
+
+Try ScienceDirect AI now
+
+![Image 9: Feedback](https://pendo-static-5661679399600128.storage.googleapis.com/D_T2uHq_M1r-XQq8htU6Z3GjHfE/guide-media-75af8ddc-3c43-49fd-8836-cfc7e2c3ea60)
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. You can manage your cookie preferences using the “Cookie settings” link. For more information, see our[Cookie Policy](https://www.elsevier.com/legal/cookienotice)
+
+Cookie settings Accept all cookies
+
+![Image 10: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+
+Cookie Preference Center
+------------------------
+
+We use cookies which are necessary to make our site work. We may also use additional cookies to analyse, improve and personalise our content and your digital experience. For more information, see our [Cookie Policy](https://www.elsevier.com/legal/cookienotice) and the list of [Google Ad-Tech Vendors](https://support.google.com/admanager/answer/9012903). 
+
+ You may choose not to allow some types of cookies. However, blocking some types may impact your experience of our site and the services we are able to offer. See the different category headings below to find out more or change your settings. 
+
+ You may also be able to exercise your privacy choices ![Image 11: Cookie Settings | Your Privacy Choices](https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZWxzZXZpZXJcL2ZpbGVcL05DSmJ6RDhNV3M1dlU5QlJ1djduLnBuZyJ9:elsevier:Yp1j0Yyk-ykfbG0S8wnos_RNIKx91C44OIjUpaxPXWE?width=2400) as described in our [Privacy Policy](https://www.elsevier.com/legal/privacy-policy)
+
+Allow all
+### Manage Consent Preferences
+
+#### Strictly Necessary Cookies
+
+Always active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+
+Cookie Details List‎
+
+#### Functional Cookies
+
+- [x] Functional Cookies 
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Cookie Details List‎
+
+#### Performance Cookies
+
+- [x] Performance Cookies 
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+
+Cookie Details List‎
+
+#### Contextual Advertising Cookies
+
+- [x] Contextual Advertising Cookies 
+
+These cookies are used for properly showing banner advertisements on our site and associated functions such as limiting the number of times ads are shown to each user.
+
+Cookie Details List‎
+
+### Cookie List
+
+Clear
+
+- [x] checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Confirm my choices
+
+[![Image 12: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

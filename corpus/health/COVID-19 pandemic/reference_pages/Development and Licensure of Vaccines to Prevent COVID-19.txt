@@ -1,0 +1,563 @@
+# Development and Licensure of Vaccines to Prevent COVID-19
+
+Contains Nonbinding Recommendations 
+
+# Development and Licensure of Vaccines to Prevent COVID-19 
+
+# Guidance for Industry 
+
+U.S. Department of Health and Human Services 
+
+Food and Drug Administration Center for Biologics Evaluation and Research 
+
+October 2023 Contains Nonbinding Recommendations 
+
+# Public Comment 
+
+# Preface 
+
+This guidance is being issued to assist the Agency and sponsors in the clinical development and licensure of vaccines for the prevention of coronavirus disease 2019 (COVID-19). This guidance is being implemented without prior public comment because the Food and Drug Administration (FDA or Agency) has determined that prior public participation for this guidance is not feasible or appropriate (see section 701(h)(1)(C) of the Federal Food, Drug, and Cosmetic Act (FD&C Act) (21 U.S.C. 371(h)(1)(C)) and 21 CFR 10.115(g)(2)). This guidance document is being implemented immediately, but it remains subject to comment in accordance with the Agency’s good guidance practices. 
+
+Comments may be submitted at any time for Agency consideration. Submit written comments to the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. Submit electronic comments to  https://www.regulations.gov .
+
+All comments should be identified with the docket FDA-2020-D-1137 and complete title of the guidance in the request. 
+
+# Additional Copies 
+
+Additional copies are available from the FDA webpage titled “Search for FDA Guidance Documents,” available at  https://www.fda.gov/regulatory- information/search-fda-guidance-
+
+documents,  and the FDA webpage titled “Biologics Guidances,” available at 
+
+https://www.fda.gov/vaccines-blood-biologics/guidance-compliance- regulatory-information-
+
+biologics/biologics-guidances . You may also send an email request to  ocod@fda.hhs.gov  to 
+
+receive an additional copy of the guidance. Please include the docket number FDA-2020-D-1137 and complete title of the guidance in the request. 
+
+# Questions 
+
+For questions about this document, contact the Office of Communication, Outreach, and Development (OCOD) by email at  ocod@fda.hhs.gov  or at 800-835-4709 or 240-402-8010. Contains Nonbinding Recommendations 
+
+i
+
+# Table of Contents 
+
+I.  INTRODUCTION  .....................................................................................................................  1
+
+II. BACKGROUND ........................................................................................................................  2
+
+III. CHEMISTRY, MANUFACTURING, AND CONTROLS – KEY CONSIDERATIONS ... 3 
+
+A. General Considerations  ......................................................................................................  3
+
+B. Manufacture of Drug Substance and Drug Product ........................................................  3
+
+C. Facilities and Inspections  ...................................................................................................  5
+
+IV. NONCLINICAL DATA – KEY CONSIDERATIONS  ..........................................................  6
+
+A. General Considerations  ......................................................................................................  6
+
+B. Toxicity Studies (Refs. 9-12)  ..............................................................................................  6
+
+C. Characterization of the Immune Response in Animal Models  .......................................  7
+
+D. Studies to Address the Potential for Vaccine-associated Enhanced Respiratory 
+
+Disease  ................................................................................................................................ . 8 
+
+V. CLINICAL TRIALS – KEY CONSIDERATIONS ................................................................  9
+
+A. General Considerations  ......................................................................................................  9
+
+B. Trial Populations  ..............................................................................................................  10 
+
+C. Trial Design  .......................................................................................................................  12 
+
+D. Efficacy Considerations ....................................................................................................  13 
+
+E. Statistical Considerations  ................................................................................................ . 14 
+
+F. Safety Considerations  .......................................................................................................  15 
+
+VI. POST-LICENSURE SAFETY EVALUATION – KEY CONSIDERATIONS  ..................  16 
+
+A. General Considerations  ....................................................................................................  16 
+
+B. Pharmacovigilance Activities for COVID-19 Vaccines  .................................................  16 
+
+C. Required Postmarketing Safety Studies  .........................................................................  17 
+
+VII. DIAGNOSTIC AND SEROLOGICAL ASSAYS – KEY CONSIDERATIONS  ...............  17 
+
+VIII. ADDITIONAL CONSIDERATIONS  ....................................................................................  18 
+
+A. Additional Considerations in Demonstrating Vaccine Effectiveness  ...........................  18 
+
+B. Emergency Use Authorization  .........................................................................................  19 
+
+IX. REFERENCES  ........................................................................................................................  20 Contains Nonbinding Recommendations 
+
+1
+
+# Development and Licensure of Vaccines to Prevent COVID-19 
+
+# Guidance for Industry 
+
+I. INTRODUCTION 
+
+FDA is issuing this guidance to assist sponsors in the clinical development and licensure of vaccines for the prevention of Coronavirus Disease 2019 (COVID-19) which is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). FDA is committed to providing timely guidance to support the response to COVID-19. 
+
+The recommendations described in the guidance are expected to assist the Agency and sponsors in the clinical development and licensure of vaccines for the prevention of COVID-19 and reflect the Agency’s current thinking on this issue. 
+
+Given the need to ensure that sponsors are aware of our current recommendations to facilitate timely development of vaccines to prevent COVID-19, this guidance is being implemented without prior public comment because FDA has determined that prior public participation for this guidance is not feasible or appropriate (see section 701(h)(1)(C) of the Federal Food, Drug, and Cosmetic Act (FD&C Act), (21 U.S.C. 371(h)(1)(C)), and 21 CFR 10.115(g)(2)). This guidance document is being implemented immediately, but it remains subject to comment in accordance with the Agency’s good guidance practices. 
+
+In general, FDA’s guidance documents, including this guidance, do not establish legally enforceable responsibilities. Instead, guidances describe the Agency’s current thinking on a topic and should be viewed only as recommendations, unless specific regulatory or statutory requirements are cited. The use of the word should in Agency guidance means that something is suggested or recommended, but not required. 
+
+This guidance represents the current thinking of the Food and Drug Administration (FDA or Agency) 
+
+on this topic. It does not establish any rights for any person and is not binding on FDA or the public. You can use an alternative approach if it satisfies the requirements of the applicable statutes and regulations. To discuss an alternative approach, contact the FDA staff responsible for this guidance as listed on the title page. Contains Nonbinding Recommendations 
+
+2
+
+> 1
+> 2
+> 1
+
+II. BACKGROUND 
+
+There is currently an outbreak of respiratory disease caused by a novel coronavirus. The virus has been named “SARS-CoV-2” and the disease it causes has been named “COVID-19.” This guidance describes FDA’s current recommendations regarding the data needed to facilitate clinical development and licensure of vaccines to prevent COVID-19. At this time, the goal of new vaccine development programs to prevent COVID-19 should be to pursue traditional approval via direct evidence of vaccine safety and efficacy in protecting humans from SARS-CoV-2 infection and/or clinical disease. 
+
+This guidance provides an overview of key considerations to satisfy regulatory requirements set forth in the investigational new drug application (IND) regulations in 21 CFR Part 312 and the licensing regulations in 21 CFR Part 601 for chemistry, manufacturing, and controls (CMC) and nonclinical and clinical data through development and licensure, and for post-licensure safety evaluation of COVID-19 preventive vaccines. 1 FDA is committed to supporting all scientifically sound approaches to attenuating the clinical impact of COVID-19. 
+
+There are many candidate COVID-19 vaccines currently in development and FDA recognizes that the considerations presented here do not represent all the considerations necessary to satisfy statutory and regulatory requirements applicable to the licensure of vaccines intended to prevent COVID-19. The nature of a particular vaccine and its intended use may impact specific data needs. We encourage sponsors to contact the Center for Biologics Evaluation and Research (CBER) Office of Vaccines Research and Review (OVRR) with specific questions. 
+
+III. CHEMISTRY, MANUFACTURING, AND CONTROLS – KEY CONSIDERATIONS 
+
+A. General Considerations 
+
+• COVID-19 vaccines licensed in the United States must meet the statutory and regulatory requirements for vaccine development and approval, including for quality, development, manufacture, and control (section 351(a) of the Public Health Service Act (PHS Act), (42 U.S.C. 262)). The vaccine product must be adequately characterized and its manufacture in compliance with applicable standards including current good manufacturing practice (cGMP) (section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)) and 21 CFR Parts 210, 211, and 610). It is critical that vaccine production processes for each vaccine are well defined and appropriately controlled to ensure consistency in manufacturing. 
+
+• COVID-19 vaccine development may be accelerated based on knowledge gained from similar products manufactured with the same well-characterized platform technology, to the extent legally and scientifically permissible. Similarly, with appropriate justification, some aspects of manufacture and control may be based on the vaccine platform, and in some instances, reduce the need for product-specific data. FDA recommends that vaccine manufacturers engage in early communications with OVRR to discuss the type and extent of chemistry, manufacturing, and control  
+
+> 1Novel devices used to administer COVID-19 vaccines raise additional issues which are not addressed in this guidance.
+
+Contains Nonbinding Recommendations 
+
+3
+
+information needed for development and licensure of their COVID-19 vaccine. 
+
+B. Manufacture of Drug Substance and Drug Product 
+
+• Data should be provided to show that all source material used in manufacturing is adequately controlled, including, for example, history and qualification of cell banks, history and qualification of virus banks, and identification of all animal derived materials used for cell culture and virus growth. 
+
+• Complete details of the manufacturing process must be provided in a Biologics License Application (BLA) to support licensure of a COVID-19 vaccine (21 CFR 601.2). Accordingly, sponsors should submit data and information identifying critical process parameters, critical quality attributes, batch records, defined hold times, and the in-process testing scheme. Specifications should be established for Contains Nonbinding Recommendations 
+
+4
+
+each critical parameter. Validation data from the manufacture of platform-related products may provide useful supportive information, particularly in the identification of critical parameters. 
+
+• In-process control tests must be established that allow quality to be monitored for each lot for all stages of production (section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)) and, as applicable, 21 CFR 211.110(a)). 
+
+• Data to support the consistency of the manufacturing process should be provided, including process validation protocols and study reports, data from engineering lots, and drug substance process performance qualification. 
+
+• The manufacturing process must be adequately validated (section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)) and, as applicable, 21 CFR 211.100(a) and 211.110). Validation would typically include a sufficient number of commercial-scale batches that can be manufactured routinely, meeting predetermined in-process controls, critical process parameters, and lot release specifications. Typically, data on the manufacture of at least three commercial- scale batches are sufficient to support the validation of the manufacturing process (Ref. 1). 
+
+• A quality control system should be in place for all stages of manufacturing, including a well-defined testing program to ensure in process/intermediate product quality and product quality throughout the formulation and filling process. This system should also include a well-defined testing program to ensure drug substance quality profile and drug product quality for release. Data on the qualification/validation for all quality indicating assays should be submitted to the BLA to support licensure. 
+
+• All quality-control release tests, including key tests for vaccine purity, identity and potency, should be validated and shown to be suitable for the intended purpose. Release specifications are product specific and will be discussed with the sponsor as part of the review of a BLA. 
+
+• For vaccine licensure, the stability and expiry date of the vaccine in its final container, when maintained at the recommended storage temperature, should be demonstrated using final containers from at least three final lots made from different vaccine bulks. 
+
+• Storage conditions, including container closure integrity, must be fully validated (21 CFR 211.166). Contains Nonbinding Recommendations 
+
+5
+
+• The vaccine must have been shown to maintain its potency for a period equal to that from the date of release to the expiry date (21 CFR 601.2 and 610.10). Post marketing commitments to provide full shelf life data may be acceptable with appropriate justification. 
+
+• A product specific stability program should be established to verify that licensed product maintains quality over the defined shelf life. 
+
+C. Facilities and Inspections 
+
+• Facilities must be of suitable size and construction to facilitate operations and should be adequately designed to prevent contamination, cross-contamination and mix-ups (section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)) and, as applicable, 21 CFR 211.42(a)). All utilities (including plumbing and sanitation) must be validated, and HVAC systems must provide adequate control over air pressure, micro-organisms, dust, humidity, and temperature, and sufficient protection or containment as needed (section 501(a)(2)(B) of the FD&C Act (21 
+
+U.S.C. 351(a)(2)(B)) and, as applicable, 21 CFR 211.46(c)) (Ref. 2). Facility and equipment cleaning and maintenance processes must be developed and validated (section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)) and, as applicable, 21 CFR 211.56(c) and 211.67(b)) .
+
+• Manufacturing equipment should be qualified and sterile filtration and sterilization processes validated. Aseptic processes should be adequately validated using media simulations and personnel should be trained and qualified for their intended duties. 
+
+• A quality control unit must be established and must have the responsibility for oversight of manufacturing, and review and release of components, containers and closures, labeling, in-process material, and final products (section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)) and, as applicable, 21 CFR 211.22). The quality control unit must have the responsibility for approving validation protocols, reports, investigate deviations, and institute corrective and preventive actions (section 501(a)(2)(B) of the FD&C Act (21 U.S.C. 351(a)(2)(B)) and, as applicable, 21 CFR 211.22). 
+
+• FDA recommends that vaccine manufacturers engage in early communication with CBER’s Office of Compliance and Biologics Quality, Division of Manufacturing and Product Quality to discuss facility preparation and inspection timing.  
+
+> •
+
+Pre-license inspections of manufacturing sites are considered part of the review of a BLA and are generally conducted following the acceptance of a BLA filing (21 CFR 601.20) .
+
+IV. NONCLINICAL DATA – KEY CONSIDERATIONS Contains Nonbinding Recommendations 
+
+6
+
+A. General Considerations 
+
+• The purpose of nonclinical studies of a COVID-19 vaccine candidate is to define its immunogenicity and safety characteristics through in vitro and in vivo testing. 
+
+Nonclinical studies in animal models 2 help identify potential vaccine related safety risks and guide the selection of dose, dosing regimen, and route of administration to be used in clinical studies. The extent of nonclinical data required to support proceeding to first in human (FIH) clinical trials depends on the vaccine construct, the supportive data available for the construct and data from closely related vaccines. 
+
+• Data from studies in animal models administered certain vaccine constructs against other coronaviruses (SARS-CoV and MERS-CoV) have raised concerns of a theoretical risk for COVID-19 vaccine-associated enhanced respiratory disease (ERD). In these studies, animal models were administered vaccine constructs against other coronaviruses and subsequently challenged with the respective wild- type virus. These studies have shown evidence of immunopathologic lung reactions characteristic of a Th-2 type hypersensitivity similar to ERD described in infants and animals that were administered formalin-inactivated respiratory syncytial virus (RSV) vaccine and that were subsequently challenged with RSV virus due to natural exposure or in the laboratory, respectively (Refs. 3-8). Although clinical use of COVID-19 vaccines has not been associated with ERD, vaccine candidates should be assessed in light of these studies as described in section D, below. 
+
+• FDA recommends that vaccine manufacturers engage in early communications with FDA to discuss the type and extent of nonclinical testing required for the particular COVID-19 vaccine candidate to support proceeding to FIH clinical trials and further clinical development. 
+
+B. Toxicity Studies (Refs. 9-12) 
+
+• For a COVID-19 vaccine candidate consisting of a novel product type and for which no prior nonclinical and clinical data are available, nonclinical safety studies will be required prior to proceeding to FIH clinical trials 21 CFR 312.23(a)(8).  
+
+> 2The preclinical program for any investigational product should be individualized with respect to scope, complexity, and overall design. We support the principles of the “3Rs,” to reduce, refine, and replace animal use in testing when feasible. Proposals, with justification for any potential alternative approaches (e.g., in vitro or in silico testing), should be submitted during early communication meetings with FDA (see section VI of this document). We will consider if such an alternative method could be used in place of an animal test method.
+
+Contains Nonbinding Recommendations 
+
+7
+
+• In some cases, it may not be necessary to perform nonclinical safety studies prior to FIH clinical trials because adequate information to characterize product safety may be available from other sources. 2 1 C F R 3 1 2 . 2 3 ( a ) ( 8 ) For example, if the COVID-19 vaccine candidate is made using a platform technology that has been used to manufacture a licensed vaccine or other previously studied investigational vaccines and is sufficiently characterized, it may be possible to use toxicology data (e.g., data from repeat dose toxicity studies, biodistribution studies) and clinical data accrued with other products using the same platform to support FIH clinical trials for that COVID-19 vaccine candidate. Vaccine manufacturers should summarize the findings and provide a rationale if considering using these data in lieu of performing nonclinical safety studies. 
+
+• When needed to support proceeding to FIH clinical trials, nonclinical safety assessments including toxicity and local tolerance studies must be conducted under conditions consistent with regulations prescribing good laboratory practices for conducting nonclinical laboratory studies (GLP) (21 CFR Part 58). Such studies should be completed and analyzed prior to initiation of FIH clinical trials. When toxicology studies do not adequately characterize risk, additional safety testing should be conducted as appropriate. 
+
+• Data from toxicity studies may be submitted as unaudited final draft toxicologic reports to accelerate proceeding to FIH clinical trials with COVID-19 vaccine candidates. The final, fully quality-assured reports should be available to FDA within 120 days of the start of the FIH clinical trial. 
+
+• Use of COVID-19 preventive vaccines in pregnancy and in women of childbearing potential is an important consideration for vaccination programs. Therefore, FDA recommends that prior to enrolling pregnant women and women of childbearing potential who are not actively avoiding pregnancy in clinical trials, sponsors conduct developmental and reproductive toxicity (DART) studies with their respective COVID-19 vaccine candidate. Alternatively, sponsors may submit available data from DART studies with a similar product using comparable platform technology if, after consultation with the agency, the agency agrees those data are scientifically sufficient. 
+
+• Biodistribution studies in an animal species should be considered if the vaccine construct is novel in nature and there are no existing biodistribution data from the platform technology. These studies should be conducted if there is a likelihood of altered infectivity and tissue tropism or if a novel route of administration and formulation is to be used. 
+
+C. Characterization of the Immune Response in Animal Models 
+
+• Immunogenicity studies in animal models responsive to the selected COVID-19 vaccine antigen should be conducted to evaluate the immunologic properties of the COVID-19 vaccine candidate and to support FIH clinical trials. The aspects of Contains Nonbinding Recommendations 
+
+8
+
+immunogenicity to be measured should be appropriate for the vaccine construct and its intended mechanism of action. 
+
+• Studies should include an evaluation of humoral, cellular, and functional immune responses, as appropriate to each of the included COVID-19 antigens. Use of antigen-specific enzyme linked immunosorbent assays (ELISA) should be considered to characterize the humoral response. Evaluation of cellular responses should include the examination of CD8+ and CD4+ T cell responses using sensitive and specific assays. The functional activity of immune responses should be evaluated in vitro in neutralization assays using either wild-type or pseudovirion virus. The assays used for immunogenicity evaluation should be demonstrated to be suitable for their intended purpose. 
+
+D. Studies to Address the Potential for Vaccine-associated Enhanced Respiratory Disease 
+
+• Current knowledge and understanding of the potential risk of COVID-19 vaccine associated ERD is limited, as is understanding of the value of available animal models in predicting the likelihood of such occurrence in humans. Taking into consideration the particular candidate vaccine , studies in animal models (e.g., rodents and non-human primates) may be important to address the potential for vaccine-associated ERD. 
+
+• Post-vaccination animal challenge studies and the characterization of the type of the nonclinical and clinical immune response induced by the particular COVID-19 vaccine candidate can be used to evaluate the likelihood of the vaccine to induce vaccine-associated ERD in humans. 
+
+• To support proceeding to FIH clinical trials, sponsors should conduct studies characterizing the vaccine-induced immune response in animal models evaluating immune markers of potential ERD outcomes. These should include assessments of functional immune responses (e.g., neutralizing antibody) versus total antibody responses and Th1/Th2 balance in animals vaccinated with clinically relevant doses of the COVID-19 vaccine candidate. 
+
+• For COVID-19 vaccine candidates for which data raise increased concerns about ERD, postvaccination animal challenge data and/or animal immunopathology studies are critical to assess protection and/or ERD prior to advancing to FIH clinical trials. Contains Nonbinding Recommendations 
+
+9
+
+• The totality of data for a specific COVID-19 vaccine candidate, including data from postvaccination challenge studies in small animal models and from FIH clinical trials characterizing the type of immune responses induced by the vaccine will be considered in determining whether Phase 3 studies can proceed in the absence of postvaccination challenge data to address risk of ERD. 
+
+V. CLINICAL TRIALS – KEY CONSIDERATIONS 
+
+A. General Considerations 
+
+• Understanding of SARS-CoV-2 immunology, and specifically vaccine immune responses that might predict protection against COVID-19, is currently limited and evolving. Thus, while evaluation of immunogenicity is an important component of COVID-19 vaccine development, at this time, the goal of new vaccine development programs to prevent COVID-19 should be to pursue traditional approval via direct evidence of vaccine efficacy in protecting humans from SARS-CoV-2 infection and/or disease. 
+
+• Clinical development programs for COVID-19 vaccines might be expedited by adaptive and/or seamless clinical trial designs (described below) that allow for selection between vaccine candidates and dosing regimens and for more rapid progression through the typical phases of clinical development. 
+
+• Regardless of whether clinical development programs proceed in discrete phases with separate studies or via a more seamless approach, an adequate body of data, including data to inform the risk of vaccine-associated ERD, will be needed as clinical development progresses to support the safety of vaccinating the proposed study populations and number of participants and, for later stage development, to ensure that the study design is adequate to meet its objectives. 
+
+• FDA can provide early advice, and potentially concurrence in principle, on plans for expedited/seamless clinical development. However, sponsors should plan to submit summaries of data available at each development milestone for FDA review and concurrence prior to advancing to the next phase of development. Contains Nonbinding Recommendations 
+
+10 
+
+B. Trial Populations 
+
+• Once sufficient pre-clinical data are available, FIH and other early phase studies (which typically expose 10–100 participants to each vaccine candidate being evaluated) should first enroll healthy adult participants who are at low risk of severe COVID-19. 
+
+o As the understanding of COVID-19 pathogenesis continues to evolve, exclusion criteria should reflect the current understanding of risk factors for more severe COVID-19, such as those described by the Centers for Disease Control and Prevention (Ref. 13). 
+
+o Older adult participants (e.g., over 55 years of age) may be enrolled in FIH and other early phase studies so long as they do not have medical comorbidities associated with an increased risk of severe COVID-19. Some preliminary safety data in younger adults (e.g., 7 days after a single vaccination) should be available prior to enrolling older adult participants, especially for vaccine platforms without prior clinical experience. 
+
+• Sponsors should collect and evaluate at least preliminary clinical safety and immunogenicity data for each dose level and age group (e.g., younger versus older adults) to support progression of clinical development to include larger numbers (e.g., hundreds) of participants and participants at higher risk of severe COVID-19. 
+
+o Preliminary immunogenicity data from early phase development should include assessments of neutralizing vs. total antibody responses and Th1 vs. Th2 polarization. 
+
+o Additional data to further inform potential risk of vaccine-associated ERD and to support progression of clinical development, if available, may include preliminary evaluation of COVID-19 disease outcomes from earlier clinical development and results of non-clinical studies evaluating protection and/or histopathological markers of vaccine-associated ERD following SARS-CoV-2 challenge.  
+
+> •
+
+To generate sufficient data to meet the BLA approval standard, late phase clinical trials to demonstrate vaccine efficacy with formal hypothesis testing will likely need to enroll many thousands of participants, including many with medical comorbidities for trials seeking to assess protection against severe COVID-19. 
+
+o Initiation of late phase trials should be preceded by adequate characterization of safety and immunogenicity (e.g., in a few hundred participants for each Contains Nonbinding Recommendations 
+
+11 
+
+vaccine candidate, dose level, and age group to be evaluated) to support general safety, potential for vaccine efficacy, and low risk of vaccine-associated ERD. 
+
+o Results of non-clinical studies evaluating protection and/or histopathological markers of vaccine-associated ERD following SARS-CoV-2 challenge and COVID-19 outcomes from earlier clinical development are other potentially important sources of information to support clinical trials with thousands of participants. 
+
+• COVID-19 vaccine trials need not screen for or exclude participants with history or laboratory evidence of prior SARS-CoV-2 infection. However, individuals with acute COVID-19 (or other acute infectious illness) should be excluded from COVID-19 vaccine trials.  
+
+> •
+
+FDA encourages the inclusion of diverse populations in all phases of vaccine clinical development. This inclusion helps to ensure that vaccines are safe and effective for everyone in the indicated populations. 
+
+o FDA strongly encourages the enrollment of populations most affected by COVID-19, specifically racial and ethnic minorities. Evaluation of vaccine safety and efficacy in late phase clinical development in adults should include adequate representation of elderly individuals and individuals with medical comorbidities. 
+
+o FDA encourages vaccine developers to consider early in their development programs data that might support inclusion of pregnant women and women of childbearing potential who are not actively avoiding pregnancy in pre-licensure clinical trials (Ref. 14). 
+
+o It is important for developers of COVID-19 vaccines to plan for pediatric assessments of safety and effectiveness, given the epidemiology of COVID-19, and to help ensure compliance with the Pediatric Research Equity Act (PREA) (section 505B of the FD&C Act (21 U.S.C. 355c)) (Ref. 15). The pathogenesis of COVID-19, and the safety and effectiveness of COVID-19 vaccines, may be different in children compared with adults. Additionally, very young children are likely to be seronegative to SARS-CoV-2. To ensure compliance with 21 CFR Part 50 Subpart D (Additional safeguards for children in clinical investigations), considerations on the prospect of direct benefit and acceptable risk to support initiation of pediatric studies, and the appropriate design and endpoints for pediatric studies, should be discussed with the review division in the context of specific vaccine development programs. Contains Nonbinding Recommendations 
+
+12 
+
+C. Trial Design 
+
+• Early phase trials often aim to down-select among multiple vaccine candidates and/or dosing regimens via randomization of participants to different treatment groups. While including a placebo control and blinding are not required for early phase studies, doing so may assist in interpretation of preliminary safety data. 
+
+• Later phase trials, including efficacy trials, should be randomized, double-blinded, and placebo controlled. 
+
+o An individually randomized controlled trial with 1:1 randomization between vaccine and placebo groups is usually the most efficient study design for demonstrating vaccine efficacy. Other types of randomization, such as cluster randomization, may be acceptable but require careful consideration of potential biases that are usually avoided with individual randomization. 
+
+o An efficacy trial that evaluates multiple vaccine candidates against a single placebo group may be an acceptable approach to further increase efficiency, provided that the trial is adequately designed with appropriate statistical methods to evaluate efficacy. 
+
+o If the availability of a COVID-19 vaccine proven to be safe and effective precludes ethical inclusion of a placebo control group, that vaccine could serve as the control treatment in a study designed to evaluate efficacy with non-inferiority hypothesis testing. 
+
+• Protocols for adaptive trials should include pre-specified criteria for adding or removing vaccine candidates or dosing regimens, and protocols for seamless trials should include pre-specified criteria (e.g., safety and immunogenicity data) for advancing from one phase of the study to the next. 
+
+• Follow-up of study participants for COVID-19 outcomes (in particular, for severe COVID-19 disease manifestations) should continue as long as feasible, ideally at least one to two years, to assess duration of protection and potential for vaccine-associated ERD as vaccine induced immune responses wane. 
+
+• Efficacy trials should include plans for continued follow up and analysis of safety and effectiveness outcomes as appropriate. 
+
+• In cases where statistical equivalency testing of vaccine immune responses in humans is required to support manufacturing consistency (clinical lot-to-lot consistency trial), this testing can be incorporated into the design of an efficacy trial and does not need to be conducted in a separate study. Contains Nonbinding Recommendations 
+
+13 
+
+D. Efficacy Considerations 
+
+• Either laboratory-confirmed COVID-19 or laboratory-confirmed SARS-CoV-2 infection is an acceptable primary endpoint for a COVID-19 vaccine efficacy trial. 
+
+o Acute cases of COVID-19 should be virologically confirmed (e.g., by RT-PCR). 
+
+o SARS-CoV-2 infection, including asymptomatic infection, can be monitored for and confirmed either by virologic methods or by serologic methods evaluating antibodies to SARS-CoV-2 antigens not included in the vaccine. 
+
+• Standardization of efficacy endpoints across clinical trials may facilitate comparative evaluation of vaccines, provided that such comparisons are not confounded by differences in trial design or study populations. To this end, FDA recommends that either the primary endpoint or a secondary endpoint (with or without formal hypothesis testing) be defined as virologically confirmed SARS-CoV-2 infection with one or more of the following symptoms: 
+
+o Fever or chills 
+
+o Cough 
+
+o Shortness of breath or difficulty breathing 
+
+o Fatigue 
+
+o Muscle or body aches 
+
+o Headache 
+
+o New loss of taste or smell 
+
+o Sore throat 
+
+o Congestion or runny nose 
+
+o Nausea or vomiting 
+
+o Diarrhea 
+
+• As it is possible that a COVID-19 vaccine might be much more effective in preventing severe versus mild COVID-19, sponsors should consider powering efficacy trials for formal hypothesis testing on a severe COVID-19 endpoint. Regardless, severe COVID-19 should be evaluated as a secondary endpoint (with or without formal hypothesis testing) if not evaluated as a primary endpoint. FDA recommends that severe COVID-19 be defined as virologically confirmed SARS-CoV-2 infection with any of the following: 
+
+o Clinical signs at rest indicative of severe systemic illness (respiratory rate ≥ 30 
+
+per minute, heart rate ≥ 125 per minute, SpO2 ≤ 93% on room air at sea level 
+
+or PaO2/FiO2 < 300 mm Hg) 
+
+o Respiratory failure (defined as needing high-flow oxygen, noninvasive ventilation, mechanical ventilation or ECMO) 
+
+o Evidence of shock (SBP < 90 mm Hg, DBP < 60 mm Hg, or requiring vasopressors) 
+
+o Significant acute renal, hepatic, or neurologic dysfunction Contains Nonbinding Recommendations 
+
+14 
+
+o Admission to an ICU 
+
+o Death 
+
+• SARS-CoV-2 infection (whether or not symptomatic) should be evaluated as a secondary or exploratory endpoint, if not evaluated as a primary endpoint. 
+
+• The above diagnostic criteria may need to be modified in certain populations; for example, in pediatric patients and those with respiratory comorbidities. Sponsors should discuss their proposed case definitions with the Agency prior to initiating enrollment. 
+
+E. Statistical Considerations 
+
+• To ensure that a COVID-19 vaccine is effective, the primary efficacy endpoint point estimate for a placebo-controlled clinical disease efficacy trial and the lower bound confidence interval should be appropriately justified. 
+
+o The same statistical success criterion should be used for any interim analysis designed for early detection of efficacy. 
+
+• For non-inferiority comparison to a COVID-19 vaccine already proven to be effective, for a study evaluating clinical disease the statistical success criterion for the lower bound of the appropriately alpha-adjusted confidence interval around the primary relative efficacy point estimate should be appropriately justified. 
+
+• For each vaccine candidate, appropriate statistical methods should be used to control type 1 error for hypothesis testing on multiple endpoints and/or interim efficacy analyses. 
+
+• Late phase studies should include interim analyses to assess risk of vaccine-associated ERD (see section F) and futility. 
+
+• Study sample sizes and timing of interim analyses should be based on the statistical success criteria for primary and secondary (if applicable) efficacy analyses and realistic, data-driven estimates of vaccine efficacy and incidence of COVID-19 (or SARS-CoV-2 infection) for the populations and locales in which the trial will be conducted. Contains Nonbinding Recommendations 
+
+15 
+
+F. Safety Considerations 
+
+• The general safety evaluation of COVID-19 vaccines, including the size of the safety database to support vaccine licensure, should be no different than for other preventive vaccines for infectious diseases. Safety assessments throughout clinical development should include: 
+
+o Solicited local and systemic adverse events for at least 7 days after each study vaccination in an adequate number of study participants to characterize reactogenicity (including at least a subset of participants in late phase efficacy trials). 
+
+o Unsolicited adverse events in all study participants for at least 21–28 days after each study vaccination. 
+
+o Serious and other medically attended adverse events in all study participants for at least 6 months after completion of all study vaccinations. Longer safety monitoring may be warranted for certain vaccine platforms (e.g., those that include novel adjuvants). 
+
+o All pregnancies in study participants for which the date of conception is prior to vaccination or within 30 days after vaccination should be followed for pregnancy outcomes, including pregnancy loss, stillbirth, and congenital anomalies. 
+
+• The pre-licensure safety database for preventive vaccines for infectious diseases typically consists of at least 3,000 study participants vaccinated with the dosing regimen intended for licensure. FDA anticipates that adequately powered efficacy trials for COVID-19 vaccines will be of sufficient size to provide an acceptable safety database for each of younger adult and elderly populations, provided that no significant safety concerns arise during clinical development that would warrant further pre-licensure evaluation. 
+
+• COVID-19 vaccine trials should periodically monitor for unfavorable imbalances between vaccine and control groups in serious adverse events and other adverse events of special interest that may represent signals of a vaccine-associated serious risks. 
+
+o Studies should include pre-specified criteria for halting based on the occurrence, frequency, and severity of certain adverse events. 
+
+o FDA recommends use of an independent data safety monitoring board (DSMB) (Ref. 16) for safety signal monitoring, especially during later stage development. Contains Nonbinding Recommendations 
+
+16 
+
+VI. POST-LICENSURE SAFETY EVALUATION – KEY CONSIDERATIONS 
+
+A. General Considerations 
+
+• As with all licensed vaccines, there can be limitations in the safety database accrued from the pre-licensure clinical studies of a COVID-19 vaccine. For example: 
+
+o The number of subjects receiving a COVID-19 vaccine in pre-licensure clinical studies may not be adequate to detect some adverse reactions that may occur infrequently. 
+
+o Pre-licensure safety data in some subpopulations likely to receive a COVID-19 vaccine (e.g., pregnant individuals, or individuals with medical comorbidities) may be limited at the time of licensure. 
+
+o For some COVID-19 vaccines, the safety follow-up period to monitor for possible vaccine-associated ERD and other adverse reactions may not have been completed for all subjects enrolled in pre-licensure clinical studies before the vaccine is licensed. 
+
+• FDA recommends early planning of pharmacovigilance activities before licensure. 
+
+• To facilitate accurate recording and identification of vaccines in health records, manufacturers should consider establishment of individual Current Procedural Terminology (CPT) codes and the use of bar codes to label the immediate container. 
+
+B. Pharmacovigilance Activities for COVID-19 Vaccines 
+
+• Routine pharmacovigilance for licensed biological products includes expedited reporting of serious and unexpected adverse events as well as periodic safety reports in accordance with 21 CFR 600.80 (Postmarketing reporting of adverse experiences). 
+
+• FDA recommends that at the time of a BLA submission for a COVID-19 vaccine, applicants submit a Pharmacovigilance Plan (PVP) as described in the FDA Guidance for Industry; E2E Pharmacovigilance Planning (Ref. 17). The contents of a PVP for a COVID-19 vaccine will depend on its safety profile and will be based on data, which includes the pre-licensure clinical safety database, preclinical data, and available safety information for related vaccines, among other considerations. 
+
+• The PVP should include actions designed to address all important identified risks, important potential risks or important missing information. Pharmacoepidemiologic studies or other actions to evaluate specific safety concerns such as myocarditis and pericarditis should be considered. FDA may recommend one or more of the following as components of a PVP for a COVID-19 vaccine: Contains Nonbinding Recommendations 
+
+17 
+
+o Submission of reports of specific adverse events of special interest (AESI) in an expedited manner beyond routine required reporting; 
+
+o Submission of adverse event report summaries at more frequent intervals than specified for routine required reporting; 
+
+o A pharmacoepidemiologic study to further evaluate (an) important identified or potential risk(s) from the clinical development program, or other uncommon or delayed-onset AESI (Ref. 18) 
+
+o A pregnancy exposure registry that actively collects information on vaccination during pregnancy and associated pregnancy and infant outcomes or a pregnancy safety study using population -based data sources (Ref. 19). 
+
+C. Required Postmarketing Safety Studies 
+
+• Section 505(o)(3) of the FD&C Act (21 U.S.C. 355(o)(3)) authorizes FDA to require certain postmarketing studies or clinical trials for prescription drugs approved under section 505(b) of the FD&C Act (21 U.S.C. 355(b)) and biological products approved under section 351 of the PHS Act (42 U.S.C. 262) (Ref. 20, 21). Under section 505(o)(3), FDA can require such studies or trials at the time of approval to assess a known serious risk related to the use of the drug, to assess signals of serious risk related to the use of the drug, or to identify an unexpected serious risk when available data indicate the potential for a serious risk. Under section 505(o)(3), FDA can also require such studies or trials after approval for the reasons described above if FDA becomes aware of new safety information, which is defined at section 505-1(b)(3) of the FD&C Act (21 U.S.C. 355-1(b)(3)). 
+
+• For COVID-19 vaccines, FDA may require postmarketing studies or trials to assess known or potential serious risks when such studies or trials are warranted. 
+
+VII. DIAGNOSTIC AND SEROLOGICAL ASSAYS – KEY CONSIDERATIONS 
+
+• Diagnostic assays used to support the pivotal efficacy analysis (e.g., RT-PCR) should be sensitive and accurate for the purpose of confirming infection and should be validated before use. 
+
+• Assays used for immunogenicity evaluation should be suitable for their intended purpose of assessing relevant immune responses to vaccination and be validated before use in pivotal clinical trials. Contains Nonbinding Recommendations 
+
+18 
+
+VIII. ADDITIONAL CONSIDERATIONS 
+
+A. Additional Considerations in Demonstrating Vaccine Effectiveness 
+
+• Given the current state of knowledge about COVID-19, the most direct approach to demonstrate effectiveness for a COVID-19 vaccine candidate is based on clinical endpoint efficacy trials showing protection against disease (see section V. D. above). 
+
+• Once additional understanding of SARS-CoV-2 immunology, and specifically vaccine immune responses that might be reasonably likely to predict protection against COVID-19, is acquired, accelerated approval of a COVID-19 vaccine pursuant to section 506 of the FD&C Act (21 U.S.C. 356) and 21 CFR 601.40 may be considered if an applicant provides sufficient data and information to meet the applicable legal requirements. For a COVID-19 vaccine, it may be possible to approve a product under these provisions based on adequate and well-controlled clinical trials establishing an effect of the product on a surrogate endpoint (e.g., immune response) that is reasonably likely to predict clinical benefit. 
+
+• A potential surrogate endpoint likely would depend on the characteristics of the vaccine, such as antigen structure, mode of delivery, and antigen processing and presentation in the individual vaccinated. For example, an immune marker established for an adenovirus-based vaccine cannot be presumed applicable to a Vesicular Stomatitis Virus- based vaccine, given that the two vaccines present antigen in different ways and engender different types of protective immune responses. 
+
+• Since SARS-CoV-2 represents a novel pathogen, a surrogate endpoint reasonably likely to predict protection from COVID-19 should ideally be derived from human efficacy studies examining clinical disease endpoints. If the surrogate endpoint is derived from other data sources, sponsors should consult the FDA to reach agreement on the use of the surrogate endpoint. 
+
+• An adequate dataset evaluating the safety of the vaccine in humans would need to be provided for consideration of licensure. 
+
+• For drugs granted accelerated approval, postmarketing confirmatory trials have been required to verify and describe the predicted effect on clinical benefit. These studies should usually be underway at the time of the accelerated approval (see section 506(c)(2) of the FD&C Act (21 U.S.C. 356(c)(2)) and 21 CFR Part 601, Subpart E), and must be completed with due diligence (section 506(c)(3)(A) of the FD&C Act (21 U.S.C. 356(c)(3)(A)) and 21 CFR 601.41). 
+
+If it is no longer possible to demonstrate vaccine effectiveness by way of conducting clinical disease endpoint efficacy studies, the use of a controlled human infection model to obtain evidence to support vaccine efficacy may be considered. However, many issues, including logistical, human subject protection, ethical, and scientific issues, would need to be satisfactorily addressed. Contains Nonbinding Recommendations 
+
+19 
+
+IX. REFERENCES 
+
+1. Guidance for Industry: Process Validation: General Principles and Practices, January 2011, 
+
+https://www.fda.gov/media/71021/download. 
+
+2. Guidance for Industry: Content and Format of Chemistry, Manufacturing and Controls Information and Establishment Description Information for a Vaccine or Related Product, January 1999, https:// www.fda.gov/media/73614/download. 
+
+3. Perlman S and Dandekar AA, 2005, Immunopathogenesis of Coronavirus Infections: Implications for SARS, Nat Rev Immunol 5: 917-927,  https://doi.org/10.1038/nri1732 .
+
+4. Haagmans BL, Boudet F, Kuiken T, deLang A, et al., 2005, Protective immunity induced by the inactivated SARS coronavirus vaccine, Abstract S 12-1 Presented at the X International Nidovirus Symposium, Colorado, Springs, CO. 
+
+5. Tseng C-T, Sbrana E, Iwata-Yoshikawa N, Newman P, et al., 2012, Immunization with SARS Coronavirus Vaccines Leads to Pulmonary Immunopathology on Challenge with the SARS Virus, PloS One, 7(4): e35421, 
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035421 .
+
+6. Yasui F, Kai C, Kitabatake M, Inoue S, et al., 2008, Prior Immunization With Severe Acute Respiratory Syndrome (SARS) – associated Coronavirus (SARS-CoV) Nucleocapsid Protein Causes Severe Pneumonia in Mice Infected with SARS-CoV, J Immunol, 181(9): 6337-6348, 
+
+https://www.jimmunol.org/content/181/9/6337.long .
+
+7. Bolles M, Deming D, Long K, Agnihothram S, et al., 2011, A Double-Inactivated Severe Acute Respiratory Syndrome Coronavirus Vaccine Provides Incomplete Protection In Mice And Induces Increased Eosinophilic Proinflammatory Pulmonary Response Upon Challenge, J Virol 85(23) 12201-12215,  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3209347/ .
+
+8. Agrawal AS, Tao X, Algaissi A, Garron T, et al., 2016, Immunization With Inactivated Middle East Respiratory Syndrome Coronavirus Vaccine Leads To Lung Immunopathology On Challenge With Live Virus, Hum Vaccin Immunother, 12(9): 2351-2356, 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5027702/ .
+
+9. Guidance for Industry: Considerations For Plasmid DNA Vaccines For Infectious Disease Indications, November 2007,  https://www.fda.gov/media/73667/download .
+
+10. Guidance for Industry: Considerations For Developmental Toxicity Studies For Preventive And Therapeutic Vaccines For Infectious Disease Indications, February 2006, 
+
+https://www.fda.gov/media/73986/download. Contains Nonbinding Recommendations 
+
+20 
+
+11. World Health Organization, WHO Guidelines On Nonclinical Evaluation Of Vaccines, Annex 1, WHO Technical Report Series, 2005; 927:31-63, 
+
+https://www.who.int/biologicals/publications/trs/areas/vaccines/nonclinical_evaluation/ANN 
+
+EX%201Nonclinical.P31 -63.pdf?ua=1 .
+
+12. World Health Organization, Guidelines On The Nonclinical Evaluation Of Vaccine Adjuvants And Adjuvanted Vaccines, Annex 2, WHO Technical Report Series, TRS 987:59-100,  https://www.who.int/biologicals/areas/vaccines/TRS_987_Annex2.pdf?ua=1 .
+
+13. Centers for Disease Control and Prevention, Coronavirus Disease 2019 (COVID-19) At Risk for Severe Illness, last reviewed May 14, 2020,  https://www.cdc.gov/coronavirus/2019-
+
+ncov/need-extra-precautions/groups-at-higher-risk.html. 
+
+14. Pregnant Women: Scientific and Ethical Considerations for Inclusion in Clinical Trials; Draft Guidance for Industry, April 2018,  https://www.fda.gov/media/112195/download .* 
+
+15. Draft Guidance for Industry: How to Comply with the Pediatric Research Equity Act, September 2005,  https://www.fda.gov/media/72274/download.* 
+
+16. Guidance for Industry: Establishment and Operation of Clinical Trial Data Monitoring Committees, March 2006,  https://www.fda.gov/media/75398/download .
+
+17. Guidance for Industry: E2E Pharmacovigilance Planning, April 2005, 
+
+https://www.fda.gov/media/71238/download. 
+
+18. Guidance for Industry: Good Pharmacovigilance Practices and Pharmacoepidemiologic Assessment, March 2005, 
+
+> https://www.fda.gov/media/71546/download
+
+19. Postapproval Pregnancy Safety Studies; Draft Guidance for Industry, May 2019, 
+
+https://www.fda.gov/media/124746/download .* 
+
+20. Postmarketing Studies and Clinical Trials — Implementation of Section 505(o)(3) of the Federal Food, Drug, and Cosmetic Act, Draft Guidance for Industry: April 2011, https://www.fda.gov/media/131980/download 
+
+21. Postmarketing Studies and Clinical Trials — Implementation of Section 505(o)(3) of the Federal Food, Drug, and Cosmetic Act, Draft Guidance for Industry: October 2019, 
+
+https://www.fda.gov/media/148646/download *. 
+
+* When finalized, this guidance will represent FDA’s current thinking on this topic.

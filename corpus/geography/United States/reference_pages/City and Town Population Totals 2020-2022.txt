@@ -1,0 +1,461 @@
+# City and Town Population Totals: 2020-2022
+
+City and Town Population Totals: 2020-2024
+
+===============
+
+ United States Census Bureau | An official website of the United States Government 
+
+![Image 5: U.S. flag](https://www.census.gov/etc.clientlibs/census/clientlibs/uswds-init/resources/img/us_flag_small.png)
+
+An official website of the United States government
+
+Here’s how you know
+
+Here’s how you know
+
+![Image 6](https://www.census.gov/etc.clientlibs/census/clientlibs/uswds-init/resources/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 7](https://www.census.gov/etc.clientlibs/census/clientlibs/uswds-init/resources/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** () or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[Skip Header](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html#uscb-nav-skip-local)
+
+[![Image 8: United States Census Bureau](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/USCENSUS_IDENTITY_SOLO_BLACK_1.5in_R_no_padding.svg)](https://www.census.gov/en.html)
+
+[Partners](https://www.census.gov/partners.html)[Researchers](https://www.census.gov/topics/research.html)[Educators](https://www.census.gov/programs-surveys/sis.html)[Survey Respondents](https://www.census.gov/programs-surveys/surveyhelp.html)
+
+Explore Census.gov for...
+
+[](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html)
+
+*   [Partners](https://www.census.gov/partners.html)
+*   [Researchers](https://www.census.gov/topics/research.html)
+*   [Educators](https://www.census.gov/programs-surveys/sis.html)
+*   [Survey Respondents](https://www.census.gov/programs-surveys/surveyhelp.html)
+
+[News](https://www.census.gov/newsroom.html)[NAICS Codes](https://www.census.gov/library/reference/code-lists/naics.html)[Jobs](https://www.census.gov/about/census-careers.html)[About Us](https://www.census.gov/about.html)[Contact Us](https://www.census.gov/about/contact-us.html)[Help](https://www.census.gov/about/faqs.html)
+
+[Topics](https://www.census.gov/topics.html)
+
+[Data & Maps](https://www.census.gov/data.html)
+
+[Surveys & Programs](https://www.census.gov/programs-surveys.html)
+
+[Resource Library](https://www.census.gov/library.html)
+
+Search data, events, resources, and more
+
+Search
+
+ Search 
+
+* * *
+
+* * *
+
+Helpful Links
+
+[Advanced Data Search](https://data.census.gov/advanced)[Get Survey Help](https://www.census.gov/programs-surveys/surveyhelp.html)[International Database (IDB)](https://www.census.gov/data/data-tools/idb.html)[American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs.html)[Census Records & Genealogy](https://www.census.gov/about/history/census-records-family-history.html)
+
+* * *
+
+Helpful Links
+
+[Advanced Data Search](https://data.census.gov/advanced)[Get Survey Help](https://www.census.gov/programs-surveys/surveyhelp.html)[International Database (IDB)](https://www.census.gov/data/data-tools/idb.html)[American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs.html)[Census Records & Genealogy](https://www.census.gov/about/history/census-records-family-history.html)
+
+Search
+
+Menu
+
+* * *
+
+ Topics 
+
+ Browse our topics and subtopics to find information and data. 
+
+[View All Topics and Subtopics](https://www.census.gov/topics.html)[Index A to Z](https://www.census.gov/about/index.html)
+
+[Age and Sex](https://www.census.gov/topics/population/age-and-sex.html)[Business and Economy](https://www.census.gov/topics/business-economy.html)[Education](https://www.census.gov/topics/education.html)[Emergency Management / Disasters](https://www.census.gov/topics/preparedness.html)[Employment](https://www.census.gov/topics/employment.html)[Families and Living Arrangements](https://www.census.gov/topics/families.html)[Geography](https://www.census.gov/programs-surveys/geography.html)[Health](https://www.census.gov/topics/health.html)[Hispanic Origin](https://www.census.gov/topics/population/hispanic-origin.html)[Housing](https://www.census.gov/topics/housing.html)
+
+[Income and Poverty](https://www.census.gov/topics/income-poverty.html)[International Trade](https://www.census.gov/topics/international-trade.html)[Migration/Geographic Mobility](https://www.census.gov/topics/population/migration.html)[Population](https://www.census.gov/topics/population.html)[Population Estimates](https://www.census.gov/topics/population/population-estimates.html)[Public Sector](https://www.census.gov/topics/public-sector.html)[Race](https://www.census.gov/topics/population/race.html)[Redistricting](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html)[Research](https://www.census.gov/topics/research.html)[Voting and Registration](https://www.census.gov/topics/public-sector/voting.html)
+
+ Data & Maps 
+
+ Access demographic, economic and population data from the U.S. Census Bureau. Explore census data with visualizations and view tutorials. 
+
+[Explore data on data.census.gov](https://www.census.gov/data/data-tools/data-cedsci.html)[View all data resources](https://www.census.gov/data.html)
+
+[Census Academy](https://www.census.gov/data/academy.html)[Combining Data](https://www.census.gov/about/what/admin-data.html)[Data Tools and Apps](https://www.census.gov/data/data-tools.html)[Datasets](https://www.census.gov/data/datasets.html)[Developers](https://www.census.gov/data/developers.html)[Experimental Data Products](https://www.census.gov/data/experimental-data-products.html)[Interactive Maps](https://www.census.gov/programs-surveys/geography/data/interactive-maps.html)
+
+[Mapping Files](https://www.census.gov/geographies/mapping-files.html)[Profiles](https://www.census.gov/data/profile.html)[Related Sites](https://www.census.gov/data/related-sites.html)[Software](https://www.census.gov/data/software.html)[Tables](https://www.census.gov/data/tables.html)[Training and Workshops](https://www.census.gov/data/training-workshops.html)[Visualizations](https://www.census.gov/library/visualizations.html)
+
+ Surveys & Programs 
+
+ Our surveys provide periodic and comprehensive statistics about the nation. This data is critical for government programs, policies, and decision-making. 
+
+[Survey Help](https://www.census.gov/programs-surveys/surveyhelp.html)[View all Surveys & Programs](https://www.census.gov/programs-surveys.html)
+
+[2020 Census](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-main.html)[2026 Census Test](https://www.census.gov/programs-surveys/decennial-census/decade/2030/planning-management/plan/research-and-testing/2026-census-test.html)[2030 Census](https://www.census.gov/programs-surveys/decennial-census/decade/2030/2030-census-main.html)[American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs.html)[American Housing Survey (AHS)](https://www.census.gov/programs-surveys/ahs.html)[Annual Business Survey (ABS)](https://www.census.gov/programs-surveys/abs.html)[Annual Integrated Economic Survey (AIES)](https://www.census.gov/programs-surveys/aies.html)[County Business Patterns (CBP)](https://www.census.gov/programs-surveys/cbp.html)[Current Population Survey (CPS)](https://www.census.gov/programs-surveys/cps.html)
+
+[Economic Census](https://www.census.gov/programs-surveys/economic-census.html)[Household Pulse Survey](https://www.census.gov/programs-surveys/household-pulse-survey.html)[International Programs](https://www.census.gov/programs-surveys/international-programs.html)[Metro and Micro Areas](https://www.census.gov/programs-surveys/metro-micro.html)[Population Estimates](https://www.census.gov/programs-surveys/popest.html)[Population Projections](https://www.census.gov/programs-surveys/popproj.html)[Small Area Income and Poverty](https://www.census.gov/programs-surveys/saipe.html)[Statistics of U.S. Businesses](https://www.census.gov/programs-surveys/susb.html)[Survey of Income and Program Participation (SIPP)](https://www.census.gov/programs-surveys/sipp.html)
+
+ Resource Library 
+
+ Browse our collection of stories and more. 
+
+[View all library resources](https://www.census.gov/library.html)[Glossary](https://www.census.gov/data/data-tools/glossary.html)
+
+[America Counts: Stories](https://www.census.gov/library/stories.html)[Audio](https://www.census.gov/library/audio.html)[Blogs](https://www.census.gov/newsroom/blogs.html)[By the Numbers](https://www.census.gov/library/by-the-numbers.html)[Facts for Features](https://www.census.gov/newsroom/facts-for-features.html)[Fact Sheets](https://www.census.gov/library/fact-sheets.html)[Infographics and Visualizations](https://www.census.gov/library/visualizations.html)
+
+[Photos](https://www.census.gov/library/photos.html)[Publications](https://www.census.gov/library/publications.html)[Spotlights](https://www.census.gov/library/spotlights.html)[Stats for Stories](https://www.census.gov/newsroom/stories.html)[Training (Census Academy)](https://www.census.gov/data/academy.html)[Videos](https://www.census.gov/library/video.html)[Working Papers](https://www.census.gov/library/working-papers.html)
+
+[![Image 9: United States Census Bureau](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/USCENSUS_IDENTITY_SOLO_BLACK_1.5in_R_no_padding.svg)](https://www.census.gov/en.html)
+
+ Topics 
+
+ Data & Maps 
+
+ Surveys & Programs 
+
+ Resource Library 
+
+* * *
+
+Topics
+
+Data & Maps
+
+Surveys & Programs
+
+Resource Library
+
+* * *
+
+[Partners](https://www.census.gov/partners.html)[Researchers](https://www.census.gov/topics/research.html)[Educators](https://www.census.gov/programs-surveys/sis.html)[Survey Respondents](https://www.census.gov/programs-surveys/surveyhelp.html)
+
+* * *
+
+[News](https://www.census.gov/newsroom.html)[NAICS Codes](https://www.census.gov/library/reference/code-lists/naics.html)[Jobs](https://www.census.gov/about/census-careers.html)[About Us](https://www.census.gov/about.html)[Contact Us](https://www.census.gov/about/contact-us.html)[Help](https://www.census.gov/about/faqs.html)
+
+[View All Topics and Subtopics](https://www.census.gov/topics.html)[Index A to Z](https://www.census.gov/about/index.html)
+
+* * *
+
+[Age and Sex](https://www.census.gov/topics/population/age-and-sex.html)[Business and Economy](https://www.census.gov/topics/business-economy.html)[Education](https://www.census.gov/topics/education.html)[Emergency Management / Disasters](https://www.census.gov/topics/preparedness.html)[Employment](https://www.census.gov/topics/employment.html)[Families and Living Arrangements](https://www.census.gov/topics/families.html)[Geography](https://www.census.gov/programs-surveys/geography.html)[Health](https://www.census.gov/topics/health.html)[Hispanic Origin](https://www.census.gov/topics/population/hispanic-origin.html)[Housing](https://www.census.gov/topics/housing.html)[Income and Poverty](https://www.census.gov/topics/income-poverty.html)[International Trade](https://www.census.gov/topics/international-trade.html)[Migration/Geographic Mobility](https://www.census.gov/topics/population/migration.html)[Population](https://www.census.gov/topics/population.html)[Population Estimates](https://www.census.gov/topics/population/population-estimates.html)[Public Sector](https://www.census.gov/topics/public-sector.html)[Race](https://www.census.gov/topics/population/race.html)[Redistricting](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html)[Research](https://www.census.gov/topics/research.html)[Voting and Registration](https://www.census.gov/topics/public-sector/voting.html)
+
+[Explore data on data.census.gov](https://www.census.gov/data/data-tools/data-cedsci.html)[View all data resources](https://www.census.gov/data.html)
+
+* * *
+
+[Census Academy](https://www.census.gov/data/academy.html)[Combining Data](https://www.census.gov/about/what/admin-data.html)[Data Tools and Apps](https://www.census.gov/data/data-tools.html)[Datasets](https://www.census.gov/data/datasets.html)[Developers](https://www.census.gov/data/developers.html)[Experimental Data Products](https://www.census.gov/data/experimental-data-products.html)[Interactive Maps](https://www.census.gov/programs-surveys/geography/data/interactive-maps.html)[Mapping Files](https://www.census.gov/geographies/mapping-files.html)[Profiles](https://www.census.gov/data/profile.html)[Related Sites](https://www.census.gov/data/related-sites.html)[Software](https://www.census.gov/data/software.html)[Tables](https://www.census.gov/data/tables.html)[Training and Workshops](https://www.census.gov/data/training-workshops.html)[Visualizations](https://www.census.gov/library/visualizations.html)
+
+[Survey Help](https://www.census.gov/programs-surveys/surveyhelp.html)[View all Surveys & Programs](https://www.census.gov/programs-surveys.html)
+
+* * *
+
+[2020 Census](https://www.census.gov/programs-surveys/decennial-census/decade/2020/2020-census-main.html)[2026 Census Test](https://www.census.gov/programs-surveys/decennial-census/decade/2030/planning-management/plan/research-and-testing/2026-census-test.html)[2030 Census](https://www.census.gov/programs-surveys/decennial-census/decade/2030/2030-census-main.html)[American Community Survey (ACS)](https://www.census.gov/programs-surveys/acs.html)[American Housing Survey (AHS)](https://www.census.gov/programs-surveys/ahs.html)[Annual Business Survey (ABS)](https://www.census.gov/programs-surveys/abs.html)[Annual Integrated Economic Survey (AIES)](https://www.census.gov/programs-surveys/aies.html)[County Business Patterns (CBP)](https://www.census.gov/programs-surveys/cbp.html)[Current Population Survey (CPS)](https://www.census.gov/programs-surveys/cps.html)[Economic Census](https://www.census.gov/programs-surveys/economic-census.html)[Household Pulse Survey](https://www.census.gov/programs-surveys/household-pulse-survey.html)[International Programs](https://www.census.gov/programs-surveys/international-programs.html)[Metro and Micro Areas](https://www.census.gov/programs-surveys/metro-micro.html)[Population Estimates](https://www.census.gov/programs-surveys/popest.html)[Population Projections](https://www.census.gov/programs-surveys/popproj.html)[Small Area Income and Poverty](https://www.census.gov/programs-surveys/saipe.html)[Statistics of U.S. Businesses](https://www.census.gov/programs-surveys/susb.html)[Survey of Income and Program Participation (SIPP)](https://www.census.gov/programs-surveys/sipp.html)
+
+[View all library resources](https://www.census.gov/library.html)[Glossary](https://www.census.gov/data/data-tools/glossary.html)
+
+* * *
+
+[America Counts: Stories](https://www.census.gov/library/stories.html)[Audio](https://www.census.gov/library/audio.html)[Blogs](https://www.census.gov/newsroom/blogs.html)[By the Numbers](https://www.census.gov/library/by-the-numbers.html)[Facts for Features](https://www.census.gov/newsroom/facts-for-features.html)[Fact Sheets](https://www.census.gov/library/fact-sheets.html)[Infographics and Visualizations](https://www.census.gov/library/visualizations.html)[Photos](https://www.census.gov/library/photos.html)[Publications](https://www.census.gov/library/publications.html)[Spotlights](https://www.census.gov/library/spotlights.html)[Stats for Stories](https://www.census.gov/newsroom/stories.html)[Training (Census Academy)](https://www.census.gov/data/academy.html)[Videos](https://www.census.gov/library/video.html)[Working Papers](https://www.census.gov/library/working-papers.html)
+
+//*   [Census.gov](https://www.census.gov/en.html)/
+*   [Data](https://www.census.gov/data)/
+*   [Tables](https://www.census.gov/data/tables.html)/
+*   City and Town Population Totals: 2020-2024
+
+City and Town Population Totals: 2020-2024
+==========================================
+
+[Skip Navigation](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html#content)
+
+[Within Data](https://www.census.gov/data.html)
+
+*   [Data Tools and Apps](https://www.census.gov/data/data-tools.html)
+*   [Datasets](https://www.census.gov/data/datasets.html)
+*   [Developers](https://www.census.gov/data/developers.html)
+*   [Errata Notes](https://www.census.gov/data/errata-notes.html)
+*   [News](https://www.census.gov/data/news.html)
+*   [Related Sites](https://www.census.gov/data/related-sites.html)
+*   [Software](https://www.census.gov/data/software.html)
+*   [Tables](https://www.census.gov/data/tables.html)
+*   [Visualizations](https://www.census.gov/data/visualizations.html)
+
+Within Data
+
+[Within Data](https://www.census.gov/data.html)
+
+*   [Data Tools and Apps](https://www.census.gov/data/data-tools.html)
+*   [Datasets](https://www.census.gov/data/datasets.html)
+*   [Developers](https://www.census.gov/data/developers.html)
+*   [Errata Notes](https://www.census.gov/data/errata-notes.html)
+*   [News](https://www.census.gov/data/news.html)
+*   [Related Sites](https://www.census.gov/data/related-sites.html)
+*   [Software](https://www.census.gov/data/software.html)
+*   [Tables](https://www.census.gov/data/tables.html)
+*   [Visualizations](https://www.census.gov/data/visualizations.html)
+
+City and Town Population Totals: 2020-2024
+==========================================
+
+ May 2025 
+
+This page features files containing city and town population for years 2020 to 2024. For the most recent data available, please refer to the Vintage 2024 data. Vintage 2024 is the most recent completed vintage and consistent set of estimates.
+
+### Vintage 2024
+
+#### City and Town Population
+
+Incorporated Places and Minor Civil Divisions
+
+*   [![Image 10: pdf.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/pdf.svg) Methodology [< 1.0 MB]](https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2020-2024/2024-subco-meth.pdf)
+
+### Tables
+
+### Places of 20,000 or More
+
+*   [![Image 11: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg) Annual Estimates of the Resident Population for Incorporated Places of 20,000 or More, Ranked by July 1, 2024 Population: April 1, 2020 to July 1, 2024 (SUB-IP-EST2024-ANNRNK) [< 1.0 MB]](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-ANNRNK.xlsx "Annual Estimates of the Resident Population for Incorporated Places of 20,000 or More, Ranked by July 1, 2024 Population: April 1, 2020 to July 1, 2024 (SUB-IP-EST2024-ANNRNK)")
+*   [![Image 12: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg) Cumulative Estimates of Resident Population Change for Incorporated Places of 20,000 or More in 2020, Ranked by Percent Change: April 1, 2020 to July 1, 2024 (SUB-IP-EST2024-CUMCHG) [< 1.0 MB]](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-CUMCHG.xlsx "Cumulative Estimates of Resident Population Change for Incorporated Places of 20,000 or More in 2020, Ranked by Percent Change: April 1, 2020 to July 1, 2024 (SUB-IP-EST2024-CUMCHG)")
+*   [![Image 13: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg) Annual Estimates of Resident Population Change for Incorporated Places of 20,000 or More in 2023, Ranked by Percent Change: July 1, 2023 to July 1, 2024 (SUB-IP-EST2024-ANNCHG) [< 1.0 MB]](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-ANNCHG.xlsx "Annual Estimates of Resident Population Change for Incorporated Places of 20,000 or More in 2023, Ranked by Percent Change: July 1, 2023 to July 1, 2024 (SUB-IP-EST2024-ANNCHG)")
+
+### Incorporated Places: 2020 to 2024
+
+##### Annual Estimates of the Resident Population for Incorporated Places in the United States: April 1, 2020 to July 1, 2024 (SUB-IP-EST2024-POP)
+
+Choose a State to View.
+
+*   [United States](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP.xlsx)
+*   [Alabama](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-01.xlsx)
+*   [Alaska](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-02.xlsx)
+*   [Arizona](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-04.xlsx)
+*   [Arkansas](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-05.xlsx)
+*   [California](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-06.xlsx)
+*   [Colorado](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-08.xlsx)
+*   [Connecticut](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-09.xlsx)
+*   [Delaware](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-10.xlsx)
+*   [District of Columbia](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-11.xlsx)
+*   [Florida](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-12.xlsx)
+*   [Georgia](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-13.xlsx)
+*   [Hawaii](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-15.xlsx)
+*   [Idaho](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-16.xlsx)
+*   [Illinois](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-17.xlsx)
+*   [Indiana](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-18.xlsx)
+*   [Iowa](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-19.xlsx)
+
+*   [Kansas](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-20.xlsx)
+*   [Kentucky](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-21.xlsx)
+*   [Louisiana](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-22.xlsx)
+*   [Maine](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-23.xlsx)
+*   [Maryland](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-24.xlsx)
+*   [Massachusetts](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-25.xlsx)
+*   [Michigan](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-26.xlsx)
+*   [Minnesota](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-27.xlsx)
+*   [Mississippi](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-28.xlsx)
+*   [Missouri](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-29.xlsx)
+*   [Montana](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-30.xlsx)
+*   [Nebraska](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-31.xlsx)
+*   [Nevada](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-32.xlsx)
+*   [New Hampshire](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-33.xlsx)
+*   [New Jersey](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-34.xlsx)
+*   [New Mexico](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-35.xlsx)
+*   [New York](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-36.xlsx)
+
+*   [North Carolina](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-37.xlsx)
+*   [North Dakota](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-38.xlsx)
+*   [Ohio](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-39.xlsx)
+*   [Oklahoma](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-40.xlsx)
+*   [Oregon](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-41.xlsx)
+*   [Pennsylvania](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-42.xlsx)
+*   [Rhode Island](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-44.xlsx)
+*   [South Carolina](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-45.xlsx)
+*   [South Dakota](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-46.xlsx)
+*   [Tennessee](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-47.xlsx)
+*   [Texas](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-48.xlsx)
+*   [Utah](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-49.xlsx)
+*   [Vermont](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-50.xlsx)
+*   [Virginia](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-51.xlsx)
+*   [Washington](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-53.xlsx)
+*   [West Virginia](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-54.xlsx)
+*   [Wisconsin](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-55.xlsx)
+*   [Wyoming](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/cities/totals/SUB-IP-EST2024-POP-56.xlsx)
+
+### Minor Civil Divisions: 2020 to 2024
+
+##### Annual Estimates of the Resident Population for Minor Civil Divisions, by County: April 1, 2020 to July 1, 2024 (SUB-MCD-EST2024-POP)
+
+Choose a State to View.
+
+*   [Connecticut](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-09.xlsx)
+*   [Illinois](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-17.xlsx)
+*   [Indiana](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-18.xlsx)
+*   [Kansas](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-20.xlsx)
+*   [Maine](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-23.xlsx)
+*   [Massachusetts](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-25.xlsx)
+*   [Michigan](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-26.xlsx)
+
+*   [Minnesota](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-27.xlsx)
+*   [Missouri](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-29.xlsx)
+*   [Nebraska](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-31.xlsx)
+*   [New Hampshire](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-33.xlsx)
+*   [New Jersey](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-34.xlsx)
+*   [New York](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-36.xlsx)
+*   [North Dakota](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-38.xlsx)
+
+*   [Ohio](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-39.xlsx)
+*   [Pennsylvania](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-42.xlsx)
+*   [Rhode Island](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-44.xlsx)
+*   [South Dakota](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-46.xlsx)
+*   [Vermont](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-50.xlsx)
+*   [Wisconsin](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/mcds/totals/SUB-MCD-EST2024-POP-55.xlsx)
+
+### Datasets
+
+#### Incorporated Places and Minor Civil Divisions Datasets: Subcounty Resident Population Estimates: April 1, 2020 to July 1, 2024 (SUB-EST2024)
+
+*   [![Image 14: pdf.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/pdf.svg) File Layout [< 1.0 MB]](https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2020-2024/SUB-EST2024.pdf)
+
+##### Annual Estimates: April 1, 2020 to July 1, 2024 (SUB-EST2024)
+
+Choose a State to View.
+
+*   [United States](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024.csv)
+*   [Alabama](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_1.csv)
+*   [Alaska](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_2.csv)
+*   [Arizona](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_4.csv)
+*   [Arkansas](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_5.csv)
+*   [California](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_6.csv)
+*   [Colorado](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_8.csv)
+*   [Connecticut](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_9.csv)
+*   [Delaware](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_10.csv)
+*   [District of Columbia](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_11.csv)
+*   [Florida](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_12.csv)
+*   [Georgia](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_13.csv)
+*   [Hawaii](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_15.csv)
+*   [Idaho](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_16.csv)
+*   [Illinois](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_17.csv)
+*   [Indiana](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_18.csv)
+*   [Iowa](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_19.csv)
+
+*   [Kansas](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_20.csv)
+*   [Kentucky](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_21.csv)
+*   [Louisiana](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_22.csv)
+*   [Maine](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_23.csv)
+*   [Maryland](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_24.csv)
+*   [Massachusetts](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_25.csv)
+*   [Michigan](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_26.csv)
+*   [Minnesota](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_27.csv)
+*   [Mississippi](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_28.csv)
+*   [Missouri](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_29.csv)
+*   [Montana](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_30.csv)
+*   [Nebraska](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_31.csv)
+*   [Nevada](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_32.csv)
+*   [New Hampshire](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_33.csv)
+*   [New Jersey](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_34.csv)
+*   [New Mexico](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_35.csv)
+*   [New York](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_36.csv)
+
+*   [North Carolina](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_37.csv)
+*   [North Dakota](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_38.csv)
+*   [Ohio](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_39.csv)
+*   [Oklahoma](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_40.csv)
+*   [Oregon](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_41.csv)
+*   [Pennsylvania](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_42.csv)
+*   [Rhode Island](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_44.csv)
+*   [South Carolina](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_45.csv)
+*   [South Dakota](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_46.csv)
+*   [Tennessee](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_47.csv)
+*   [Texas](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_48.csv)
+*   [Utah](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_49.csv)
+*   [Vermont](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_50.csv)
+*   [Virginia](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_51.csv)
+*   [Washington](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_53.csv)
+*   [West Virginia](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_54.csv)
+*   [Wisconsin](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_55.csv)
+*   [Wyoming](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024_56.csv)
+
+With each new release of annual estimates, the entire time series of estimates is revised for all years back to the last census. All previously published estimates (e.g. old vintages) are superseded and archived on the FTP2 site.
+
+*   [![Image 15: ftp.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/ftp.svg) Datasets](https://www2.census.gov/programs-surveys/popest/datasets/)
+*   [![Image 16: ftp.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/ftp.svg) Tables](https://www2.census.gov/programs-surveys/popest/tables/)
+*   [![Image 17: ftp.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/ftp.svg) File Layouts and Methodology Statements](https://www2.census.gov/programs-surveys/popest/technical-documentation/)
+*   [![Image 18: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg) Searchable Index and File Descriptions for All Files on the FTP2 Site [<1.0MB]](https://www2.census.gov/programs-surveys/popest/FTP2_Key.xlsx)
+
+Share
+
+[Facebook](https://www.facebook.com/sharer/sharer.php?quote=This+page+features+city+and+town+population+estimates+totals+for+years+2020-2024.&u=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html "Facebook")[X (Twitter)](https://twitter.com/intent/tweet?url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html&text=This+page+features+city+and+town+population+estimates+totals+for+years+2020-2024. "X (Twitter)")[LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html&title=City+and+Town+Population+Totals%3A+2020-2024&text=This+page+features+city+and+town+population+estimates+totals+for+years+2020-2024.&source=U.S.+Census+Bureau "LinkedIn")
+
+Related Information
+
+* * *
+
+[![Image 19: Glossary](https://www.census.gov/programs-surveys/popest/about/glossary.articleitem.png/1550270921933/icon-glossary.png)](https://www.census.gov/programs-surveys/popest/about/glossary.html)
+
+[Glossary](https://www.census.gov/programs-surveys/popest/about/glossary.html)
+
+[![Image 20: Tables](https://www.census.gov/programs-surveys/popest/data/tables.articleitem.png/1550270932876/icon-tables.png)](https://www.census.gov/programs-surveys/popest/data/tables.html)
+
+[Population and Housing Unit Estimates Tables](https://www.census.gov/programs-surveys/popest/data/tables.html)
+
+Page Last Revised - May 28, 2025
+
+✕
+
+Is this page helpful?
+
+![Image 21: Thumbs Up Image](https://census.gov/ratingtool/images/like-hand-3122.svg)Yes![Image 22: Thumbs Down Image](https://census.gov/ratingtool/images/unlike-hand-3123.svg)No
+
+✕
+
+NO THANKS
+
+255 characters maximum![Image 23: A 20x1275 small image, likely a logo, icon or avatar](https://census.gov/ratingtool/images/exclamation-icon.png)255 characters maximum reached
+
+✕
+
+Thank you for your feedback.
+
+Comments or suggestions? ![Image 24: A blue circular button with a right arrow inside](https://census.gov/ratingtool/images/angle-circle-arrow-right.png)![Image 25: Blue circular button with a black chevron pointing to the right](https://census.gov/ratingtool/images/angle-circle-arrow-right-hover.png)
+
+Top
+
+[Back to Header](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html#uscb-nav-skip-header)
+
+Receive Updates
+
+To sign up for updates please enter your email address.
+
+Enter your email address  Subscribe 
+
+* * *
+
+Stay Current
+
+[America Counts](https://www.census.gov/library/stories.html)[Director’s Blog](https://www.census.gov/newsroom/blogs/director.html)[Deputy Director’s Blog](https://www.census.gov/newsroom/blogs/deputy-director.html)[Random Samplings](https://www.census.gov/newsroom/blogs/random-samplings.html)[Research Matters](https://www.census.gov/newsroom/blogs/research-matters.html)
+
+Stay Connected
+
+[Contact](https://www.census.gov/about/contact-us.html)[Support](https://www.census.gov/about/faqs.html)[Jobs](https://www.census.gov/about/census-careers.html)
+
+Follow
+
+[](https://www.facebook.com/uscensusbureau "Facebook")[](http://x.com/uscensusbureau "X (Twitter)")[](https://www.linkedin.com/company/us-census-bureau "Linkedln")[](https://www.youtube.com/user/uscensusbureau "YouTube")[](https://www.instagram.com/uscensusbureau "Instagram")
+
+[Information Quality](https://www.census.gov/about/policies/quality.html)|[Data Linkage Infrastructure](https://www.census.gov/about/adrm/linkage.html)|[Data Protection and Privacy Policy](https://www.census.gov/about/policies/privacy.html)|[Accessibility](https://www.census.gov/about/policies/section-508.html)|[FOIA](https://www.census.gov/about/policies/foia.html)|[Inspector General](https://www.oig.doc.gov/)|[No FEAR Act](https://www.commerce.gov/cr/reports-and-resources/no-fear-act)|[U.S. Department of Commerce](https://www.commerce.gov/)|[USA.gov](https://www.usa.gov/)
+
+* * *
+
+Measuring America's People and Economy
+
+loading
+
+[](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html "Close")[](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html "Next")[](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html "Play")[](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html "Pause")[](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html "Previous")

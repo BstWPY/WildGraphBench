@@ -1,0 +1,120 @@
+# World Map of Köppen–Geiger Climate Classification
+
+−160 −140 −120 −100 −80 −60 −40 −20 0 20 40 60 80 100 120 140 160 180 −160 −140 −120 −100 −80 −60 −40 −20 0 20 40 60 80 100 120 140 160 180 −80 −70 −60 −50 −40 −30 −20 −10 010 20 30 40 50 60 70 80 −90 −80 −70 −60 −50 −40 −30 −20 −10 010 20 30 40 50 60 70 80 90 
+
+Af Am As Aw BWk BWh BSk BSh Cfa Cfb Cfc Csa Csb Csc Cwa 
+
+Cwb Cwc Dfa Dfb Dfc Dfd Dsa Dsb Dsc Dsd Dwa Dwb Dwc Dwd EF ET 
+
+# World Map of Köppen−Geiger Climate Classification 
+
+updated with CRU TS 2.1 temperature and VASClimO v1.1 precipitation data 1951 to 2000 
+
+Main climates 
+
+A: equatorial B: arid C: warm temperate D: snow E: polar 
+
+Precipitation 
+
+W: desert S: steppe f: fully humid s: summer dry w: winter dry m: monsoonal 
+
+Temperature 
+
+a: hot summer b: warm summer c: cool summer d: extremely continental h: hot arid k: cold arid F: polar frost T: polar tundra 
+
+http://gpcc.dwd.de http://koeppen-geiger.vu-wien.ac.at Resolution: 0.5 deg lat/lon Version of April 2006 Kottek, M., J. Grieser, C. Beck, B. Rudolf, and F. Rubel, 2006: World Map of Köppen-Geiger Climate Classification updated. Meteorol. Z. , 15 , 259-263. 
+
+EF EF ET Dfc 
+
+Dfb Dfa Cfa Cfb 
+
+> Dsc
+
+Csb  
+
+> BSk BWh BSh
+
+Aw 
+
+Af Am Aw 
+
+> As
+
+Cfa 
+
+> Cfb BSk Af
+
+ET 
+
+> Cfb Csb
+> Cfc
+> Cwa
+> BSh
+
+BWk 
+
+> BWh
+> Aw Aw Af Am
+
+Csa Csb 
+
+Cfb Dfb 
+
+Dfc 
+
+> Csa
+
+ET ET 
+
+> Dfa
+
+Dfd 
+
+> Dwd
+
+Dwc 
+
+> Dwb BWk BSk
+> Dwa
+
+Cfa  
+
+> Cwa
+> Cwb
+> Dfc
+> Cwa BSh Csa
+> BWh
+
+Aw Aw Am 
+
+> Am
+
+Af 
+
+Aw Cfa 
+
+> Csb
+> Csa
+
+BWh BSh 
+
+> BSk
+
+Aw  
+
+> Aw Af Cfa Cfb
+> Cwa BSh BWk BWh Csb
+
+Am 
+
+Af 
+
+Aw Am BWh  
+
+> BSh Cwb Cwb
+
+Cfb 
+
+Af 
+
+BWh

@@ -1,0 +1,273 @@
+# It's true Steam Machines aren't exactly flying off the shelves
+
+"It's true Steam Machines aren't exactly flying off the shelves" • Eurogamer.net
+
+===============
+
+The Wayback Machine - https://www.eurogamer.net/articles/2018-04-04-its-true-steam-machines-arent-exactly-flying-off-the-shelves
+
+[![Image 2: Eurogamer.net](https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-Logo-net.png/EG11/resize/-1x92/format/png/logo.png?v20181206102929)](https://www.eurogamer.net/)
+
+Sign in[Create an account](https://www.eurogamer.net/register)
+
+[PC](https://www.eurogamer.net/pc)[PlayStation 4](https://www.eurogamer.net/ps4)[Xbox One](https://www.eurogamer.net/xboxone)[Switch](https://www.eurogamer.net/switch)[Digital Foundry](https://www.eurogamer.net/digitalfoundry)[News](https://www.eurogamer.net/news)[Reviews](https://www.eurogamer.net/reviews)[Videos](https://www.eurogamer.net/videos)[Features](https://www.eurogamer.net/features)[Guides](https://www.eurogamer.net/guides)
+
+Highlights[Deals](https://www.eurogamer.net/deals)[Forum](https://www.eurogamer.net/forum)[GameDB](https://www.eurogamer.net/games)[Game release dates](https://www.eurogamer.net/release-dates)[Fortnite forbidden locations](https://www.eurogamer.net/articles/2018-12-06-fortnite-forbidden-dance-locations-5795?utm_source=eurogamer&utm_medium=header-promo&utm_campaign=Fortnite+forbidden+locations)[Fortnite season 7 skins and emotes](https://www.eurogamer.net/articles/2018-12-05-fortnite-season-7-skins-emotes-battle-pass-rewards-5795?utm_source=eurogamer&utm_medium=header-promo&utm_campaign=Fortnite+season+7+skins+and+emotes)[Best MicroSD cards for Nintendo Switch](https://www.jelly.deals/2018/11/15/best-nintendo-switch-micro-sd-cards-expand-storage-space-2/?utm_source=eurogamer&utm_medium=header-promo&utm_campaign=Best+MicroSD+cards+for+Nintendo+Switch)
+
+*   [Home](https://www.eurogamer.net/)
+*   [News](https://www.eurogamer.net/archive/news)
+
+[](https://www.facebook.com/sharer.php?u=https://www.eurogamer.net/articles/2018-04-04-its-true-steam-machines-arent-exactly-flying-off-the-shelves)[](https://twitter.com/intent/tweet?text=%22It%27s%20true%20Steam%20Machines%20aren%27t%20exactly%20flying%20off%20the%20shelves%22+https://www.eurogamer.net/articles/2018-04-04-its-true-steam-machines-arent-exactly-flying-off-the-shelves)[](https://www.reddit.com/submit?url=https://www.eurogamer.net/articles/2018-04-04-its-true-steam-machines-arent-exactly-flying-off-the-shelves&title=%22It%27s%20true%20Steam%20Machines%20aren%27t%20exactly%20flying%20off%20the%20shelves%22)
+
+04/04/2018
+
+News
+
+[PC](https://www.eurogamer.net/pc)
+
+"It's true Steam Machines aren't exactly flying off the shelves"
+================================================================
+
+Valve responds to reports of the hardware range's demise.
+
+[](https://www.eurogamer.net/authors/639)
+[Tom Phillips](https://www.eurogamer.net/authors/639)
+
+News Editor
+
+[@tomphillipsEG](https://www.twitter.com/tomphillipsEG)
+Valve has published an update on its range of Steam Machine branded third-party PCs, prompted by recent reports the initiative was dead in the water.
+
+To be fair, these reports were prompted by Valve itself - specifically, by the company's recent, quiet removal of its Steam Machine category from Steam's front page.
+
+Steam users [were slow](https://www.gamingonlinux.com/articles/valve-has-removed-the-steam-machine-section-from-steam.11505) to [notice the change](https://arstechnica.com/gaming/2018/04/poorly-selling-steam-machines-finally-removed-from-steam-store-front-page/) - symptomatic perhaps, of the reason why the range was delisted. But after reports gathered pace in recent days, Valve has now responded.
+
+In short, yes the range was removed from the homepage because of lack of interest - and yes the range has failed to sell, although [statistics to that effect are old news](https://arstechnica.com/gaming/2016/06/its-time-to-declare-valves-steam-machines-doa/).
+
+Here is Valve's statement in full:
+
+"We've noticed that what started out as a routine cleanup of the Steam Store navigation turned into a story about the delisting of Steam Machines," Valve's Pierre-Loup wrote via a Steam [blog post](http://steamcommunity.com/app/221410/discussions/0/1696043806550421224/). "That section of the Steam Store is still available, but was removed from the main navigation bar based on user traffic. Given that this change has sparked a lot of interest, we thought it'd make sense to address some of the points we've seen people take away from it.
+
+"While it's true Steam Machines aren't exactly flying off the shelves, our reasons for striving towards a competitive and open gaming platform haven't significantly changed. We're still working hard on making Linux operating systems a great place for gaming and applications. We think it will ultimately result in a better experience for developers and customers alike, including those not on Steam.
+
+"Through the Steam Machine initiative, we've learned quite a bit about the state of the Linux ecosystem for real-world game developers out there. We've taken a lot of feedback and have been heads-down on addressing the shortcomings we observed. We think an important part of that effort is our ongoing investment in making Vulkan a competitive and well-supported graphics API, as well as making sure it has first-class support on Linux platforms.
+
+![Image 3: 1](https://d2skuhm0vrry40.cloudfront.net/2018/articles/2018-04-04-14-07/steam_machine_and_controller_625x352.jpg/EG11/resize/625x-1/quality/75/format/jpg)
+
+Remember that techno owl controller?
+
+"Recently we announced Vulkan availability for macOS and iOS, adding to its existing availability for Windows and Linux. We also rolled out Steam Shader Pre-Caching, which will let users of Vulkan-based applications skip shader compilation on their local machine, significantly improving initial load times and reducing overall runtime stuttering in comparison with other APIs. We'll be talking more about Shader Pre-Caching in the coming months as the system matures.
+
+"At the same time, we're continuing to invest significant resources in supporting the Vulkan ecosystem, tooling and driver efforts. We also have other Linux initiatives in the pipe that we're not quite ready to talk about yet; SteamOS will continue to be our medium to deliver these improvements to our customers, and we think they will ultimately benefit the Linux ecosystem at large."
+
+There's no suggestion Valve is working revive the Steam Machine brand anytime soon, then - although we're intrigued to find out what those other initiatives it has in the pipeline.
+
+_Sometimes we include links to online retail stores. If you click on one and make a purchase we may receive a small commission. For more information, go [here](http://www.eurogamer.net/policies.php?view=how-we-work#advertisingpolicy)._
+
+[Jump to comments (89)](https://www.eurogamer.net/articles/2018-04-04-its-true-steam-machines-arent-exactly-flying-off-the-shelves#comments)
+
+About the author
+
+![Image 4: Tom Phillips](https://d2skuhm0vrry40.cloudfront.net/2018/eurogamer/illustrations/tom-phillips.jpg/EG11/thumbnail/192x192/quality/75/format/jpg)
+
+[Tom Phillips](https://www.eurogamer.net/authors/639)
+
+News Editor
+
+Tom is Eurogamer's news editor. He writes lots of news, some of the puns and all the stealth Destiny articles.
+
+[More articles by Tom Phillips](https://www.eurogamer.net/authors/639)
+
+Comments (89)
+
+Comments for this article are now closed, but please feel free to continue chatting [on the forum](https://www.eurogamer.net/forum)!
+
+Hide low-scoring comments Yes No
+
+Order Newest Oldest Best Worst
+
+Threading Expand all Collapse all
+
+Advertisement
+
+Related
+
+[](https://www.eurogamer.net/articles/2018-12-07-devil-may-cry-5-multiplayer-lets-players-make-guest-appearances-in-each-others-games)
+
+[Devil May Cry 5 multiplayer lets players make guest appearances in each other's games](https://www.eurogamer.net/articles/2018-12-07-devil-may-cry-5-multiplayer-lets-players-make-guest-appearances-in-each-others-games)
+
+Friends with benefits.
+
+[8](https://www.eurogamer.net/articles/2018-12-07-devil-may-cry-5-multiplayer-lets-players-make-guest-appearances-in-each-others-games#comments)
+
+[](https://www.eurogamer.net/articles/2018-12-07-activision-is-selling-a-cheaper-version-of-call-of-duty-black-ops-4-on-pc-without-zombies)
+
+[Activision is selling a cheaper version of Call of Duty: Black Ops 4 on PC without Zombies](https://www.eurogamer.net/articles/2018-12-07-activision-is-selling-a-cheaper-version-of-call-of-duty-black-ops-4-on-pc-without-zombies)
+
+Blackout-only next?
+
+[12](https://www.eurogamer.net/articles/2018-12-07-activision-is-selling-a-cheaper-version-of-call-of-duty-black-ops-4-on-pc-without-zombies#comments)
+
+[](https://www.eurogamer.net/articles/2018-12-07-far-cry-new-dawn-is-a-post-apocalyptic-spin-on-the-series)
+
+[Feature Far Cry New Dawn is a post-apocalyptic spin on the series](https://www.eurogamer.net/articles/2018-12-07-far-cry-new-dawn-is-a-post-apocalyptic-spin-on-the-series)
+
+More details and new footage.
+
+[24](https://www.eurogamer.net/articles/2018-12-07-far-cry-new-dawn-is-a-post-apocalyptic-spin-on-the-series#comments)
+
+[](https://www.eurogamer.net/articles/2018-12-07-ark-developer-wildcard-unveils-new-multiplayer-pirate-adventure-atlas)
+
+[Ark developer Wildcard unveils new multiplayer pirate adventure Atlas](https://www.eurogamer.net/articles/2018-12-07-ark-developer-wildcard-unveils-new-multiplayer-pirate-adventure-atlas)
+
+Out next week on Steam, Xbox One in 2019.
+
+[11](https://www.eurogamer.net/articles/2018-12-07-ark-developer-wildcard-unveils-new-multiplayer-pirate-adventure-atlas#comments)
+
+[](https://www.eurogamer.net/articles/2018-12-07-pubgs-new-snow-map-the-big-interview)
+
+[Feature PUBG's new snow map: the big interview](https://www.eurogamer.net/articles/2018-12-07-pubgs-new-snow-map-the-big-interview)
+
+"The tracks will fade."
+
+[5](https://www.eurogamer.net/articles/2018-12-07-pubgs-new-snow-map-the-big-interview#comments)
+
+Latest
+
+[](https://www.eurogamer.net/articles/2018-12-07-devil-may-cry-5-multiplayer-lets-players-make-guest-appearances-in-each-others-games)
+
+[Devil May Cry 5 multiplayer lets players make guest appearances in each other's games](https://www.eurogamer.net/articles/2018-12-07-devil-may-cry-5-multiplayer-lets-players-make-guest-appearances-in-each-others-games)
+
+Friends with benefits.
+
+[8](https://www.eurogamer.net/articles/2018-12-07-devil-may-cry-5-multiplayer-lets-players-make-guest-appearances-in-each-others-games#comments)
+
+[](https://www.eurogamer.net/articles/2018-12-07-activision-is-selling-a-cheaper-version-of-call-of-duty-black-ops-4-on-pc-without-zombies)
+
+[Activision is selling a cheaper version of Call of Duty: Black Ops 4 on PC without Zombies](https://www.eurogamer.net/articles/2018-12-07-activision-is-selling-a-cheaper-version-of-call-of-duty-black-ops-4-on-pc-without-zombies)
+
+Blackout-only next?
+
+[12](https://www.eurogamer.net/articles/2018-12-07-activision-is-selling-a-cheaper-version-of-call-of-duty-black-ops-4-on-pc-without-zombies#comments)
+
+[](https://www.eurogamer.net/articles/2018-12-07-far-cry-new-dawn-is-a-post-apocalyptic-spin-on-the-series)
+
+[Feature Far Cry New Dawn is a post-apocalyptic spin on the series](https://www.eurogamer.net/articles/2018-12-07-far-cry-new-dawn-is-a-post-apocalyptic-spin-on-the-series)
+
+More details and new footage.
+
+[24](https://www.eurogamer.net/articles/2018-12-07-far-cry-new-dawn-is-a-post-apocalyptic-spin-on-the-series#comments)
+
+[](https://www.eurogamer.net/articles/2018-12-07-ark-developer-wildcard-unveils-new-multiplayer-pirate-adventure-atlas)
+
+[Ark developer Wildcard unveils new multiplayer pirate adventure Atlas](https://www.eurogamer.net/articles/2018-12-07-ark-developer-wildcard-unveils-new-multiplayer-pirate-adventure-atlas)
+
+Out next week on Steam, Xbox One in 2019.
+
+[11](https://www.eurogamer.net/articles/2018-12-07-ark-developer-wildcard-unveils-new-multiplayer-pirate-adventure-atlas#comments)
+
+[](https://www.eurogamer.net/articles/2018-12-07-pubgs-new-snow-map-the-big-interview)
+
+[Feature PUBG's new snow map: the big interview](https://www.eurogamer.net/articles/2018-12-07-pubgs-new-snow-map-the-big-interview)
+
+"The tracks will fade."
+
+[5](https://www.eurogamer.net/articles/2018-12-07-pubgs-new-snow-map-the-big-interview#comments)
+
+Advertisement
+
+Subscribe to The Eurogamer.net Daily
+
+The 10 most popular stories of the day, delivered at 5pm UK time. Never miss a thing.
+
+Subscribe
+
+[![Image 5: Eurogamer.net](https://d2skuhm0vrry40.cloudfront.net/2018/eg12/EG-LogoReversed-net.png/EG11/resize/-1x36/format/png/logo.png?v20181206102929)](https://www.eurogamer.net/)
+Bad puns and video games since 1999.
+
+This site © 2018 Gamer Network. All Rights Reserved. No part of this site or its content may be reproduced without the permission of the copyright holder.
+
+Site version 
+
+Mobile Portable Desktop
+
+Explore
+
+*   [All topics](https://www.eurogamer.net/tags/a)
+*   [Authors](https://www.eurogamer.net/authors)
+*   [PC](https://www.eurogamer.net/pc)
+*   [PlayStation 4](https://www.eurogamer.net/ps4)
+*   [Xbox One](https://www.eurogamer.net/xboxone)
+*   [Switch](https://www.eurogamer.net/switch)
+*   [Digital Foundry](https://www.eurogamer.net/digitalfoundry)
+*   [News](https://www.eurogamer.net/news)
+*   [Reviews](https://www.eurogamer.net/reviews)
+*   [Videos](https://www.eurogamer.net/videos)
+*   [Features](https://www.eurogamer.net/features)
+*   [Guides](https://www.eurogamer.net/guides)
+
+Helpful links
+
+*   [Staff](https://www.eurogamer.net/articles/the-eurogamer-staff)
+*   [Contact us](https://www.eurogamer.net/contact)
+*   [Forum](https://www.eurogamer.net/forum)
+*   [Cookies](https://www.eurogamer.net/cookies)
+*   [Corporate site](https://www.gamer-network.net/)
+*   [Policy centre](https://www.eurogamer.net/policies)
+*   [Twitter](https://www.twitter.com/eurogamer)
+*   [Facebook](https://www.facebook.com/Eurogamer)
+*   [Careers](https://www.gamer-network.net/jobs)
+*   [Discord](https://discord.gg/hQ966jq)
+*   [Latest comments](https://www.eurogamer.net/comments)
+*   [RSS](https://www.eurogamer.net/rss)
+
+Across Europe
+
+*   [Eurogamer.cz](https://www.eurogamer.cz/)
+*   [Eurogamer.de](https://www.eurogamer.de/)
+*   [Eurogamer.es](https://www.eurogamer.es/)
+*   [Eurogamer.it](https://www.eurogamer.it/)
+*   [Eurogamer.net](https://www.eurogamer.net/)
+*   [Eurogamer.nl](https://www.eurogamer.nl/)
+*   [Eurogamer.pl](https://www.eurogamer.pl/)
+*   [Eurogamer.pt](https://www.eurogamer.pt/)
+*   [RockPaperShotgun.de](https://www.rockpapershotgun.de/)
+
+Gamer Network
+
+*   [GamesIndustry.biz](https://www.gamesindustry.biz/)
+*   [Gamer's Edition](https://www.gamersedition.com/)
+*   [Jelly Deals](https://www.jelly.deals/)
+*   [Metabomb](https://www.metabomb.net/)
+*   [Nintendo Life](http://www.nintendolife.com/)
+*   [Push Square](http://www.pushsquare.com/)
+*   [Rock, Paper, Shotgun](https://www.rockpapershotgun.com/)
+*   [USgamer](https://www.usgamer.net/)
+*   [VG247](https://www.vg247.com/)
+
+Events
+
+*   [EGX](https://www.egx.net/egx)
+*   [EGX Berlin](https://www.egx.net/berlin)
+*   [EGX Rezzed](https://www.egx.net/rezzed)
+*   [MCM Comic-Con](https://www.mcmcomiccon.com/)
+*   [PAX](http://www.paxsite.com/)
+*   [Star Wars Celebration](http://www.starwarscelebration.com/)
+
+Sign in
+
+Username Password Sign in
+
+* * *
+
+Connect with Facebook
+
+* * *
+
+New in town?
+
+[Create an account](https://www.eurogamer.net/register)
+
+* * *
+
+[Forgotten your details?](https://www.eurogamer.net/login)

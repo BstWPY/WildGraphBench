@@ -1,0 +1,73 @@
+# Annual and cumulative estimates of residential population change for the United States, regions, states, District of Columbia, Puerto Rico
+
+### News Release
+
+*   [![Image 1: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Net International Migration Drives Highest U.S. Population Growth in Decades The U.S. population grew by nearly 1.0% between 2023 and 2024, according to the new Vintage 2024 population estimates released today by the U.S. Census Bureau.](https://www.census.gov/newsroom/press-releases/2024/population-estimates-international-migration.html)
+
+### News Graphics
+
+*   [![Image 2: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Percent Change in State Population This graphic shows the percent change in state population from July 1, 2023 to July 1, 2024.](https://www.census.gov/library/visualizations/2024/comm/percent-change-in-state-population.html)
+*   [![Image 3: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Population Change by Region This graphic shows the population change by region from July 1, 2023 to July 1, 2024.](https://www.census.gov/library/visualizations/2024/comm/population-change-by-region.html)
+*   [![Image 4: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)United States and World Child Populations This graphic shows the lowest and highest child population percentages by countries and areas, states and state equivalents for July 1, 2024.](https://www.census.gov/library/visualizations/2024/comm/united-states-and-world-child-populations.html)
+
+### America Counts
+
+*   [![Image 5: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)U.S. Population Grows at Fastest Pace in More Than Two Decades The nation’s population grew by about 1% from 2023 to 2024, outpacing average annual growth since 2000 and signaling an end to tepid growth.](https://www.census.gov/library/stories/2024/12/population-estimates.html)
+
+### Blog
+
+*   [![Image 6: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Census Bureau Improves Methodology to Better Estimate Increase in Net International Migration Census Bureau researchers combined administrative data from other federal agencies with data from the American Community Survey to make the net international migration estimates more responsive to short-term fluctuations in immigration.](https://www.census.gov/newsroom/blogs/random-samplings/2024/12/international-migration-population-estimates.html)
+
+### Tables
+
+*   [![Image 7: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg)Monthly Population Estimates for the United States: April 1, 2020 to December 1, 2025 (NA-EST2024-POP)](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/national/totals/NA-EST2024-POP.xlsx)
+*   [![Image 8: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg)Annual Estimates of the Resident Population for the United States, Regions, States, District of Columbia, and Puerto Rico: April 1, 2020 to July 1, 2024 (NST-EST2024-POP)](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/state/totals/NST-EST2024-POP.xlsx)
+*   [![Image 9: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg)Annual and Cumulative Estimates of Resident Population Change for the United States, Regions, States, District of Columbia, and Puerto Rico and Region and State Rankings: April 1, 2020 to July 1, 2024 (NST-EST2024-CHG)](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/state/totals/NST-EST2024-CHG.xlsx)
+*   [![Image 10: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg)Annual and Cumulative Estimates of the Components of Resident Population Change for the United States, Regions, States, District of Columbia, and Puerto Rico: April 1, 2020 to July 1, 2024 (NST-EST2024-COMP)](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/state/totals/NST-EST2024-COMP.xlsx)
+*   [![Image 11: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg)Estimates of the Total Resident Population and Resident Population Age 18 Years and Older for the United States, States, District of Columbia, and Puerto Rico: July 1, 2024 (SCPRC-EST2024-18+POP)](https://www2.census.gov/programs-surveys/popest/tables/2020-2024/state/detail/SCPRC-EST2024-18+POP.xlsx)
+
+### Downloadables
+
+*   [![Image 12: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg)Annual Population Estimates, Estimated Components of Resident Population Change, and Rates of the Components of Resident Population Change for the United States, States, District of Columbia, and Puerto Rico: April 1, 2020 to July 1, 2024 (NST-EST2024-ALLDATA)](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/state/totals/NST-EST2024-ALLDATA.csv)
+*   [![Image 13: pdf.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/pdf.svg)File Layout (NST-EST2024-ALLDATA) [<1.0 MB]](https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2020-2024/NST-EST2024-ALLDATA.pdf)
+
+*   [![Image 14: xls.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/xls.svg)Annual Estimates of Resident Population Change for the United States, States, District of Columbia, and Puerto Rico and State Rankings: April 1, 2020 to July 1, 2024 (NST-EST2024-POPCHG2020-2024)](https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/state/totals/NST-EST2024-POPCHG2020-2024.csv)
+*   [![Image 15: pdf.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/pdf.svg)File Layout (NST-EST2024-POPCHG2020-2024)](https://www2.census.gov/programs-surveys/popest/technical-documentation/file-layouts/2020-2024/NST-EST2024-POPCHG2020-2024.pdf)
+
+### Webinar
+
+*   [![Image 16: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Methodology Updates for the Vintage 2024 Estimates](https://www.census.gov/data/academy/webinars/2024/methodology-updates-for-the-vintage-2024-estimates.html)
+
+### Methodology
+
+*   [![Image 17: pdf.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/pdf.svg)Methodology](https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2020-2024/methods-statement-v2024.pdf)
+*   [![Image 18: pdf.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/pdf.svg)Release Notes](https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2020-2024/2024-est-relnotes.pdf)
+*   [![Image 19: pdf.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/pdf.svg)Benchmark Database Sources](https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2020-2024/2024-benchmark-data-sources.pdf)
+
+### Data Tools
+
+*   [![Image 20: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)QuickFacts Vintage 2024 estimates will be available on QuickFacts.](https://www.census.gov/quickfacts)
+*   [![Image 21: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Pop Clock The Pop Clock will be updated to reflect Vintage 2024 U.S. estimates and new world data from the International Database.](https://www.census.gov/popclock)
+*   [![Image 22: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)International Database Find demographic indicators, population pyramids, mapping, and source information for countries and areas of the world with a population of 5000 or more.](https://www.census.gov/data-tools/demo/idb/#/dashboard?dashboard_page=country&COUNTRY_YR_ANIM=2024)
+
+### Background Information
+
+*   [![Image 23: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Post-Pandemic Challenges and Opportunities for Population Estimates](https://www.census.gov/library/stories/2023/06/blended-base-methodology.html)
+*   [![Image 24: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Population and Housing Units Estimates site](https://www.census.gov/programs-surveys/popest.html)
+*   [![Image 25: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Population Estimates Release Notes and Methodology](https://www.census.gov/programs-surveys/popest/technical-documentation/methodology.html)
+*   [![Image 26: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Population and Housing Units Estimates Release Schedule](https://www.census.gov/programs-surveys/popest/about/schedule.html)
+
+### Archived Newsroom Products
+
+*   [![Image 27: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Press Kit: Vintage 2023 National and State Population Estimates](https://www.census.gov/newsroom/press-kits/2023/national-state-population-estimates.html)
+*   [![Image 28: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Random Samplings Blog: Population Estimates at the Start of the Decade](https://www.census.gov/newsroom/blogs/random-samplings/2021/12/population-estimates-start-of-the-decade.html)
+*   [![Image 29: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Data Visualization: Creating the “Blended” Base](https://www.census.gov/library/visualizations/2022/comm/creating-the-vintage-2021-blended-base.html)
+*   [![Image 30: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)News Release: Three Blogs to Help You Understand Population Estimates](https://www.census.gov/newsroom/press-releases/2017/blogs-population-estimates.html)
+*   [![Image 31: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Random Samplings Blog: The Federal-State Cooperative for Population Estimates: A Partnership in Population Expertise](https://www.census.gov/newsroom/blogs/random-samplings/2017/12/the_federal-stateco.html)
+
+### Outside Contacts
+
+*   [![Image 32: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)The Federal-State Cooperative for Population Estimates](https://www.census.gov/programs-surveys/popest/about/fscpe.html)
+*   [![Image 33: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)Federal-State Cooperative for Population Estimates Contacts](https://www.census.gov/programs-surveys/popest/about/fscpe/contacts.html)
+*   [![Image 34: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)State Data Center (SDC) Program](https://www.census.gov/about/partners/sdc.html)
+*   [![Image 35: external-link.svg](https://www.census.gov/etc.clientlibs/census/clientlibs/census-pattern-library/resources/images/external-link.svg)State Data Center Member Networks](https://www.census.gov/about/partners/sdc/member-network.html)

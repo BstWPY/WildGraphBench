@@ -1,0 +1,1264 @@
+# The World Health Organization fetal growth charts: concept, findings, interpretation, and application
+
+Abstract
+--------
+
+Ultrasound biometry is an important clinical tool for the identification, monitoring, and management of fetal growth restriction and development of macrosomia. This is even truer in populations in which perinatal morbidity and mortality rates are high, which is a reason that much effort is put onto making the technique available everywhere, including low-income societies. Until recently, however, commonly used reference ranges were based on single populations largely from industrialized countries. Thus, the World Health Organization prioritized the establishment of fetal growth charts for international use. New fetal growth charts for common fetal measurements and estimated fetal weight were based on a longitudinal study of 1387 low-risk pregnant women from 10 countries (Argentina, Brazil, Democratic Republic of Congo, Denmark, Egypt, France, Germany, India, Norway, and Thailand) that provided 8203 sets of ultrasound measurements. The participants were characterized by median age 28 years, 58% nulliparous, normal body mass index, with no socioeconomic or nutritional constraints (median caloric intake, 1840 calories/day), and had the ability to attend the ultrasound sessions, thus essentially representing urban populations. Median gestational age at birth was 39 weeks, and birthweight was 3300 g, both with significant differences among countries. Quantile regression was used to establish the fetal growth charts, which also made it possible to demonstrate a number of features of fetal growth that previously were not well appreciated or unknown: (1) There was an asymmetric distribution of estimated fetal weight in the population. During early second trimester, the distribution was wider among fetuses <50th percentile compared with those above. The pattern was reversed in the third trimester, with a notably wider variation >50th percentile. (2) Although fetal sex, maternal factors (height, weight, age, and parity), and country had significant influence on fetal weight (1–4.5% each), their effect was graded across the percentiles. For example, the positive effect of maternal height on fetal weight was strongest on the lowest percentiles and smallest on the highest percentiles for estimated fetal weight. (3) When adjustment was made for maternal covariates, there was still a significant effect of country as covariate that indicated that ethnic, cultural, and geographic variation play a role. (4) Variation between populations was not restricted to fetal size because there were also differences in growth trajectories. (5) The wide physiologic ranges, as illustrated by the 5th–95th percentile for estimated fetal weight being 2205–3538 g at 37 weeks gestation, signify that human fetal growth under optimized maternal conditions is not uniform. Rather, it has a remarkable variation that largely is unexplained by commonly known factors. We suggest this variation could be part of our common biologic strategy that makes human evolution extremely successful. The World Health Organization fetal growth charts are intended to be used internationally based on low-risk pregnancies from populations in Africa, Asia, Europe, and South America. We consider it prudent to test and monitor whether the growth charts’ performance meets the local needs, because refinements are possible by a change in cut-offs or customization for fetal sex, maternal factors, and populations. In the same line, the study finding of variations emphasizes the need for carefully adjusted growth charts that reflect optimal local growth when public health issues are addressed.
+
+Key words
+---------
+
+1.   [birthweight](https://www.ajog.org/action/doSearch?AllField=%22birthweight%22&journalCode=ymob)
+2.   [estimated fetal weight](https://www.ajog.org/action/doSearch?AllField=%22estimated+fetal+weight%22&journalCode=ymob)
+3.   [fetal development](https://www.ajog.org/action/doSearch?AllField=%22fetal+development%22&journalCode=ymob)
+4.   [fetal growth](https://www.ajog.org/action/doSearch?AllField=%22fetal+growth%22&journalCode=ymob)
+5.   [fetus](https://www.ajog.org/action/doSearch?AllField=%22fetus%22&journalCode=ymob)
+6.   [growth standard](https://www.ajog.org/action/doSearch?AllField=%22growth+standard%22&journalCode=ymob)
+7.   [maternal characteristic](https://www.ajog.org/action/doSearch?AllField=%22maternal+characteristic%22&journalCode=ymob)
+8.   [multicenter](https://www.ajog.org/action/doSearch?AllField=%22multicenter%22&journalCode=ymob)
+9.   [population variation](https://www.ajog.org/action/doSearch?AllField=%22population+variation%22&journalCode=ymob)
+10.   [reference range](https://www.ajog.org/action/doSearch?AllField=%22reference+range%22&journalCode=ymob)
+11.   [ultrasound](https://www.ajog.org/action/doSearch?AllField=%22ultrasound%22&journalCode=ymob)
+
+Birthweight that reflects intrauterine growth is an important determinant for perinatal morbidity and death[1,2](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+1.
+
+Lawn, J.E. ∙ Cousens, S. ∙ Zupan, J.
+
+**4 Million neonatal deaths: when? where? why?**
+
+_Lancet._ 2005; **365**:891-900
+
+2.
+
+Katz, J. ∙ Lee, A.C. ∙ Kozuki, N. ...
+
+**Mortality risk in preterm and small-for-gestational-age infants in low-income and middle-income countries: a pooled country analysis**
+
+_Lancet._ 2013; **382**:417-425
+
+ and, in recent years, has been shown to be a marker of postnatal life-course health risks.[3](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+3.
+
+Hanson, M.A. ∙ Gluckman, P.D.
+
+**Early developmental conditioning of later health and disease: physiology or pathophysiology?**
+
+_Physiol Rev._ 2014; **94**:1027-1076
+
+ Correspondingly, ultrasound biometry has become the cornerstone of diagnosis and management of fetal growth deviation,[4,5](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+4.
+
+National Collaborating Centre for Women and Children’s Health: National Institute for Health and Clinical Excellence: Guidance
+
+**Antenatal care: routine care for the healthy pregnant woman**
+
+RCOG Press, London, 2008
+
+5.
+
+Zhang, J. ∙ Merialdi, M. ∙ Platt, L.D. ...
+
+**Defining normal and abnormal fetal growth: promises and challenges**
+
+_Am J Obstet Gynecol._ 2010; **202**:522-528
+
+ but it is also used for the study of fetal growth dynamics underlying postnatal health development[6-10](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+6.
+
+Blake, K.V. ∙ Gurrin, L.C. ∙ Beilin, L.J. ...
+
+**Prenatal ultrasound biometry related to subsequent blood pressure in childhood**
+
+_J Epidemiol Community Health._ 2002; **56**:713-718
+
+7.
+
+Kessler, J. ∙ Rasmussen, S. ∙ Godfrey, K. ...
+
+**Venous liver blood flow and regulation of human fetal growth: evidence from macrosomic fetuses**
+
+_Am J Obstet Gynecol._ 2011; **204**:429.e1-429.e7
+
+8.
+
+Godfrey, K.M. ∙ Haugen, G. ∙ Kiserud, T. ...
+
+**Fetal liver blood flow distribution: role in human developmental strategy to prioritize fat deposition versus brain development**
+
+_PLoS One._ 2012; **7**:e41759
+
+9.
+
+Barker, D.J. ∙ Godfrey, K.M. ∙ Osmond, C. ...
+
+**The relation of fetal length, ponderal index and head circumference to blood pressure and the risk of hypertension in adult life**
+
+_Paediatr Perinat Epidemiol._ 1992; **6**:35-44
+
+10.
+
+Pike, K.C. ∙ Crozier, S.R. ∙ Lucas, J.S. ...
+
+**Patterns of fetal and infant growth are related to atopy and wheezing disorders at age 3 years**
+
+_Thorax._ 2010; **65**:1099-1106
+
+; the ultimate aim is to develop lifestyle strategies for adolescent and pregnant women and to improve off-spring life-course health.[11](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+11.
+
+Hanson, M.A. ∙ Bardsley, A. ∙ De-Regil, L.M. ...
+
+**The International Federation of Gynecology and Obstetrics (FIGO) recommendations on adolescent, preconception, and maternal nutrition: “Think Nutrition First.”**
+
+_Int J Gynaecol Obstet._ 2015; **131**:S213-S253
+
+Perinatal mortality rates are particularly high in the large populations of middle- and low-income countries where 98% of the world’s neonatal deaths occur,[12](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+12.
+
+World Health Organization
+
+**Global Health Observatory (GOH) data: neonatal mortality**
+
+World Health Organization, Geneva, 2016
+
+ which is a reason that there are international efforts to make ultrasound technology available to those societies. However, it is of concern that available reference ranges for fetal ultrasound biometry are derived largely from single populations in industrialized societies with uncertain applicability in a world of ethnic variation.[5](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+5.
+
+Zhang, J. ∙ Merialdi, M. ∙ Platt, L.D. ...
+
+**Defining normal and abnormal fetal growth: promises and challenges**
+
+_Am J Obstet Gynecol._ 2010; **202**:522-528
+
+ Based on a review of the literature on birthweight as a health outcome, an expert panel convened by the World Health Organization (WHO) documented a need for fetal and child growth charts for international use.[13](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+13.
+
+Aboderin, I. ∙ Ben-Shlomo, Y. ∙ Lynch, J. ...
+
+**Life course perpectives on coronary heart disease, stroke and diabetes: the evidenceand implications for policy and research**
+
+World Health organization, Geneva, 2002
+
+ Accordingly, the WHO published a child growth standard based on a multicenter study in 2006[14](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+14.
+
+World Health Organization
+
+**Child Growth Standards based on length/height, weight and age**
+
+_Acta Paediatr Suppl._ 2006; **450**:76-85
+
+ and followed up with the study on fetal growth to be discussed here.[15,16](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+15.
+
+Merialdi, M. ∙ Widmer, M. ∙ Gulmezoglu, A.M. ...
+
+**WHO multicentre study for the development of growth standards from fetal life to childhood: the fetal component**
+
+_BMC Pregnancy Childbirth._ 2014; **14**:157
+
+16.
+
+Kiserud, T. ∙ Piaggio, G. ∙ Carroli, G. ...
+
+**The World Health Organization fetal growth charts: a multinational longitudinal study of ultrasound biometric measurements and estimated fetal weight**
+
+_PLoS Med._ 2017; **14**:e1002220
+
+In the mean-time a couple of large studies appeared. First, the multicenter Fetal Growth Longitudinal Study of the INTERGROWTH-21st Project (hereafter called Intergrowth-21st) was published and presented fetal biometrical standards[17](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+17.
+
+Papageorghiou, A.T. ∙ Ohuma, E.O. ∙ Altman, D.G. ...
+
+**International standards for fetal growth based on serial ultrasound measurements: the Fetal Growth Longitudinal Study of the INTERGROWTH-21st Project**
+
+_Lancet._ 2014; **384**:869-879
+
+ followed by an article on estimated fetal weight (EFW).[18](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+18.
+
+Stirnemann, J. ∙ Villar, J. ∙ Salomon, L.J. ...
+
+**International estimated fetal weight standards of the INTERGROWTH-21st Project**
+
+_Ultrasound Obstet Gynecol._ 2017; **49**:478-486
+
+ Second, another relevant large study appeared from the United States, the National Institute of Child Health and Human Development (NICHD) Fetal Growth Studies.[19](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+19.
+
+Buck Louis, G.M. ∙ Grewal, J. ∙ Albert, P.S. ...
+
+**Racial/ethnic standards for fetal growth: the NICHD Fetal Growth Studies**
+
+_Am J Obstet Gynecol._ 2015; **213**:449.e1-449.e41
+
+ Together with the WHO study, they form the main basis for a renewed discussion on reference ranges.
+
+Extract of the Study Methods
+----------------------------
+
+The WHO fetal growth charts are based on a prospective longitudinal observational study that was conducted from 2009–2014 and was carried out at 10 ultrasound centers in Argentina, Brazil, Democratic Republic of Congo, Denmark, Egypt, France, Germany, India, Norway, and Thailand.[16](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+16.
+
+Kiserud, T. ∙ Piaggio, G. ∙ Carroli, G. ...
+
+**The World Health Organization fetal growth charts: a multinational longitudinal study of ultrasound biometric measurements and estimated fetal weight**
+
+_PLoS Med._ 2017; **14**:e1002220
+
+ Totally, 1439 women provided written consent; each woman had a singleton pregnancy between gestational week 8+0 and 12+6 according to a regular and reliable last menstrual period that was corroborated by the crown-rump length within ±7 days as assessed by ultrasound imaging.[20](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+20.
+
+Robinson, H.P. ∙ Fleming, J.E.E.
+
+**A critical evaluation of sonar “crown-rump length” measurements**
+
+_BJOG._ 1975; **82**:702-710
+
+ Requirements were prescriptive (ie, age, 18–40 years; body mass index, 18-30 kg/m 2; and no known health, environmental, nutritional, or socioeconomic constraints). In addition to anthropometric and nutritional assessment, the participants attended 7 ultrasound sessions to measure fetal head circumference, biparietal diameter, abdominal circumference and femur length, and EFW was calculated with the use of formula III from Hadlock et al.[21](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+21.
+
+Hadlock, F.P. ∙ Harrist, R.B. ∙ Sharman, R.S. ...
+
+**Estimation of fetal weight with the use of head, body, and femur measurements: a prospective study**
+
+_Am J Obstet Gynecol._ 1985; **151**:333-337
+
+ After withdrawals, lost to follow up, miscarriages, medical abortions, and intrauterine deaths, 1387 participants had data that entered the statistical analysis that applied quantile regression to establish growth chart percentiles.
+
+Quantile Regression
+-------------------
+
+Because quantile regression, which is a nonparametric method that was used in the present study, is less familiar to many colleagues, we here point out a few features that were decisive for our choice of method. (1) It is a well-established statistical method,[22-24](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+22.
+
+Wei, Y. ∙ Pere, A. ∙ Koenker, R. ...
+
+**Quantile regression methods for reference growth charts**
+
+_Stat Med._ 2006; **25**:1369-1382
+
+23.
+
+Koenker, R. ∙ Bassett, G.
+
+**Regression quantiles**
+
+_Econometrica._ 1978; **46**:33-50
+
+24.
+
+Koenker, R.
+
+**Quantile regression**
+
+Cambridge University Press, Cambridge, UK, 2005 342
+
+ increasingly used, with important applications in different fields that includes fetal growth curves.[25](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+25.
+
+Daniel-Spiegel, E. ∙ Weiner, E. ∙ Yarom, I. ...
+
+**Establishment of fetal biometric charts using quantile regression analysis**
+
+_J Ultrasound Med._ 2013; **32**:23-33
+
+ Its use has become accessible with the development of computer power that can handle intensive computations. It has the advantage of being independent of any distributional assumption or transformation to normality because it estimates distributions directly determining the quantiles (in our study: percentiles), thus being a more direct method of representing the observations and their distributional differences. (2) The method is more robust against outliers. (3) It is easy to incorporate covariates in a model and use well-known statistics to assess their effect on a dependent variable. (4) There is relevant goodness of fit techniques available to assess the appropriateness of a model.
+
+Because the mean and standard deviation (SD) are statistics that are informative in the case of normal distributions, they are not suited for use with quantile regression because, with this approach, quantile estimates are obtained directly without going through procedures that convert a distribution (after many steps) to a normal distribution to obtain Z-scores. With our procedure, the user can obtain a quantile instead of a Z score to assess the location of a fetus of a particular gestational age in relation to the reference population. (Example: A fetus of gestational age 30 weeks with EFW 1288 g would be between the 5th [1247 g] and 10th percentile [1313 g] according to the WHO fetal growth chart.By interpolation, a more specific percentile can be calculated:
+
+That is, the fetus is at the 8th percentile).
+
+Population Characteristics: What We May Infer
+---------------------------------------------
+
+The participating women had no socioeconomic constraints, had median caloric intake of 1848 calories/day (interquartile range [IQR], 1487–2222), age 28 years (IQR, 25–31), height 163 cm (IQR, 157–168), weight 61 kg (IQR, 55–68), body mass index (BMI), 23.1 kg/m 2 (IQR, 21.0–25.4); 58% of the women were nulliparous. Overall, the cesarean rate was 32%, but with substantial variation: Brazil, 70%; Egypt, 50%; India, 36%; Thailand, 49%; Democratic Republic of Congo, 6%; and Norway, 9%. The overall median of 67% spontaneous onset of labor and substantial country variation ranged from 29% in Brazil to 91% in Norway, reduced the number of observations near term, and constituted an increasing risk of selection bias, particularly for the estimation of percentiles for 39 weeks gestation and beyond ([Figure 1](https://doi.org/10.1016/j.ajog.2017.12.010#fig1)).
+
+[![Image 1](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/b1b30b27-49c7-42e7-8340-c5c49257147c/main.assets/gr1.jpg)](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/651bf8d9-2e78-49f2-9a5b-b46628eae88d/main.assets/gr1_lrg.jpg "View full size image in a new tab")
+
+Figure 1 World Health Organization fetal growth chart: estimated fetal weight percentiles
+
+Although the study was not designed primarily to discern ethnic differences, data on self-reported ethnicity were collected. However, because it was greatly confounded with country, this design variable (instead of ethnicity) was used for modeling EFW changes with gestational age. We acknowledge the limitation of self-reported ethnicity and relation between ethnicity, social and cultural traditions, and the geographic influences on individual lives that contribute to differences among populations (eg, participants who lived ≥1500 meters above sea level were not included in the WHO study).
+
+Although the number and worldwide distribution of populations that were included in the WHO study make the growth charts more generally applicable, we acknowledge that the selected populations for the study represent a very restricted fraction of the genetic, ethnic, cultural, and geographic variation around the world; Democratic Republic of Congo and Egypt represent the African continent, which contains a larger genetic diversity than the entire rest of the world[26](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+26.
+
+Campbell, M.C. ∙ Tishkoff, S.A.
+
+**African genetic diversity: implications for human demographic history, modern human origins, and complex disease mapping**
+
+_Annu rev genomics hum genet._ 2008; **9**:403-433
+
+; and participants from India and Thailand, who represent the varied populations of Asia, are also small samples of their own countries’ ethnic diversities.
+
+Pregnancy Outcomes
+------------------
+
+The median gestational age at birth was 39 weeks 3 days (IQR, 38wk+3d–40wk+2d), with significant differences between countries (_P_<.001); the lowest was in India (38wk+4d), and the highest was in Norway (40wk+3d). Preterm births (<37 weeks gestation) were 7.5%; the lowest was in Germany (3.6%), and the highest was in Egypt (14.7%; _P_=.03 for differences among countries).
+
+Neonatal sex distribution showed 47% were female. Median birthweight was 3300 g (IQR, 2980–3615). Highest median birthweight (3575 g) was found in Norway, although it was 100 g less in Denmark and Germany; 200 g less in Argentina, Brazil, and France; 400 g less in Democratic Republic of Congo, Egypt, and Thailand; and 500 g less in India (_P_<.001). The differences were still significant for all birthweight percentiles when adjusted for gestational age at birth: _P_=.0018 for the 5th percentile; _P_<.001 for the 10th, 25th, 50th, 75th, 90th, and 95th percentile.
+
+Apgar score <7 at 5 minutes occurred in 0.8% and was distributed equally among the countries.
+
+Maternal, Fetal, and Neonatal Complications: Exclude or Not
+-----------------------------------------------------------
+
+Maternal complications occurred in 137 pregnancies (9.9%), some having >1 condition: preeclampsia (22 pregnancies) hypertension (16 pregnancies), gestational diabetes mellitus (32 pregnancies), malaria (42 pregnancies), anemia (19 pregnancies), and others (16 pregnancies).
+
+During pregnancy, there were 29 miscarriages, 2 medical abortions, and 3 intrauterine deaths, for a total of 34 events (2.4%) that ranged from 0% in Germany to 6.4% in Democratic Republic of Congo. The numbers of miscarriages may seem low, and the reason may be that the population that was included had no known risks. All women had first trimester scans, and participants were not included if abnormalities were diagnosed at this stage. The numbers corroborate recent Danish data.[27](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+27.
+
+Wulff, C.B. ∙ Gerds, T.A. ∙ Rode, L. ...
+
+**Risk of fetal loss associated with invasive testing following combined first-trimester screening for Down syndrome: a national cohort of 147,987 singleton pregnancies**
+
+_Ultrasound Obstet Gynecol._ 2016; **47**:38-44
+
+ Eight fetal malformations were identified during pregnancy (including 1 at birth). In 4 pregnancies, growth restriction had been suspected clinically; 2 women underwent Doppler examination that revealed no abnormality, and all 4 pregnancies were completed uneventfully.
+
+Totally 83 neonates (6%) were transferred to the neonatal intensive care unit, commonly because of prematurity, respiratory distress syndrome, infections, or jaundice. There were 3 neonatal deaths; in addition to the 3 intrauterine deaths, they constitute a perinatal mortality rate of 0.4%.
+
+The WHO study recruited and included participants in a prescriptive fashion with the intention of conditioning for optimal fetal growth. Even in a low-risk population complications can develop during the pregnancy. Some researchers would exclude these cases from the analysis, arguing that complications in pregnancy are associated with increased risk of growth deviations (eg, preeclampsia and gestational diabetes mellitus) and that the reference charts no longer represent normal growth.[28](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+28.
+
+Ioannou, C. ∙ Talbot, K. ∙ Ohuma, E. ...
+
+**Systematic review of methodology used in ultrasound studies aimed at creating charts of fetal size**
+
+_BJOG._ 2012; **119**:1425-1439
+
+ Other investigators would keep them in, arguing that such complications are part of being a low-risk (not a nonrisk) population.[29](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+29.
+
+Johnsen, S.L. ∙ Rasmussen, S. ∙ Wilsgaard, T. ...
+
+**Longitudinal reference ranges for estimated fetal weight**
+
+_Acta Obstet Gynecol Scand._ 2006; **85**:286-297
+
+ They would also argue that these exclusions would introduce skewness in the distribution and shift the growth charts towards being even more “super-normal” than the population that the charts are meant to serve. Many epidemiologists would support the view that reference ranges and cut-offs should reflect the population for which they are intended. Both views have their merits. We expand on this issue under the section later. For the WHO study, we made the decision to keep these participants in the study and analyze the effect of removing or keeping them in. We ran the model for each EFW percentile with or without these cases, and there was no change in the percentiles. That may be due to low number of cases or that the conditions were mild with minimal or no effect on growth. As for the fetal conditions, they were too few to have any statistical impact anyway.
+
+Growth Charts Features
+----------------------
+
+The WHO fetal growth study established growth charts for head circumference, biparietal diameter (outer-inner), abdominal circumference, femur length, humerus length, and EFW ([Figure 1](https://doi.org/10.1016/j.ajog.2017.12.010#fig1)). The ratios femur length/head circumference and femur length/biparietal diameter were added to provide screening tools when fetal body proportions are suspected to be out of range in clinical settings ([Figure 2](https://doi.org/10.1016/j.ajog.2017.12.010#fig2)). We focused on EFW being the cornerstone of obstetric ultrasound biometry. Having recruited prescriptively to provide optimal fetal growth, one could argue that would lead to a uniform growth of the fetal population reaching their “genetic potential,” provided there are no differences in ethnic background or genetic or epigenetic regulation. [Figure 1](https://doi.org/10.1016/j.ajog.2017.12.010#fig1) shows otherwise; the dispersion of individual human fetal growth demonstrated here is remarkable. At 39 weeks gestation, 95% of the fetuses spread from 2612–4247 g. Such a variation, despite of uniformly optimized maternal condition, makes us speculate that it could be the result of an advantageous evolutionary strategy; variation increases collective capacity to adapt to the varied challenges on earth.
+
+[![Image 2](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/b6cab57a-8b46-4814-b9a7-ef556115af76/main.assets/gr2.jpg)](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/85637932-09c1-45cf-8561-32463f48becf/main.assets/gr2_lrg.jpg "View full size image in a new tab")
+
+Figure 2 World Health Organization fetal femur length/head circumference and femur length/biparietal outer-inner diameter ratios
+
+The distribution is not symmetric ([Figure 1](https://doi.org/10.1016/j.ajog.2017.12.010#fig1)). Although there is a slightly wider dispersion at <50th percentile in the early weeks of the second trimester (Bowley’s coefficient of asymmetry, –0.016),[30](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+30.
+
+Thomson, A.M. ∙ Billewicz, W.Z. ∙ Hytten, F.E.
+
+**The assessment of fetal growth**
+
+_J Obstet Gynaecol Br Commonw._ 1968; **75**:903-916
+
+ the pattern inverts during the second half of pregnancy with a noticeably wider spread at >50th percentile (Bowley’s coefficient,+0.111). A possible biologic explanation for this would be that abundance in resources allows expansion in size, which is reflected in the dispersion of higher percentiles; on the other extreme, relatively limited resources do not permit such variation, and the percentiles remain denser.
+
+Fetal and Maternal Factors Have Graded Influence on Growth
+----------------------------------------------------------
+
+Fetal sex difference and maternal characteristic are known to influence growth[31,32](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+31.
+
+Bowley, A.L.
+
+**Elements of statistics**
+
+P. S. King & Son, London, 1901
+
+32.
+
+Mongelli, M. ∙ Gardosi, J.
+
+**Longitudinal study of fetal growth in subgroups of a low-risk population**
+
+_Ultrasound Obstet Gynecol._ 1995; **6**:340-344
+
+ and does so in this multicenter study also. Because quantile regression was applied to establish the reference ranges, each percentile was estimated separately, which provided the possibility of testing the effect of fetal sex difference on each of them. The magnitude of the effect (3.5–4.5%) justified the construction of customized reference ranges for female and male fetuses ([Figure 3](https://doi.org/10.1016/j.ajog.2017.12.010#fig3)); the stronger effect was on the higher percentiles ([Figure 4](https://doi.org/10.1016/j.ajog.2017.12.010#fig4)).
+
+[![Image 3](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/ace6ce21-d0ba-4e3e-aed1-c5abd65e34ec/main.assets/gr3.jpg)](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/b1cca575-1404-4ee4-b149-f3d6459fb5b5/main.assets/gr3_lrg.jpg "View full size image in a new tab")
+
+Figure 3 World Health Organization sex-specific growth percentiles for estimated fetal weight
+
+[![Image 4](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/9df26093-266d-4753-ba52-497512e49e22/main.assets/gr4.jpg)](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/44c622cd-b6c6-40fe-9992-38c9e4629b29/main.assets/gr4_lrg.jpg "View full size image in a new tab")
+
+Figure 4 Factors that influence fetal growth
+
+Maternal age influenced fetal size positively (2–3% per 10 years); the effect was strongest on the lower percentiles ([Figure 4](https://doi.org/10.1016/j.ajog.2017.12.010#fig4)).
+
+Parity (≥1 vs 0) also had a positive effect (1–3%) but graded across the percentiles and strongest for the smaller fetuses ([Figure 4](https://doi.org/10.1016/j.ajog.2017.12.010#fig4)). Being aware of the known relation between maternal age and parity, we controlled for this during the analysis to present their separate effects.
+
+Maternal weight had a small but positive effect on EFW (1–1.5% per 10 kg); bear in mind that 1 of the inclusion criteria to the study was BMI 18-30 kg/m 2 (ie, no extreme weights). The effect of maternal weight was graded across the fetal population: the highest effect on highest percentiles ([Figure 4](https://doi.org/10.1016/j.ajog.2017.12.010#fig4)).
+
+Maternal height, which also had a positive effect (1–2% per 10 cm), had an opposite trend of the effect on the percentiles: the highest effect on the smallest fetuses ([Figure 4](https://doi.org/10.1016/j.ajog.2017.12.010#fig4)).
+
+BMI was also considered by running the models after having substituted weight and height by BMI. BMI’s effect on EFW was lower than for height and weight: 0.1% for each unit of BMI. The result might have been expected because BMI is a measure of body proportion rather than absolute resources, and the effect may be more pronounced for extreme values of BMI[33](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+33.
+
+Bhattacharya, S. ∙ Campbell, D.M. ∙ Liston, W.A. ...
+
+**Effect of body mass index on pregnancy outcomes in nulliparous women delivering singleton babies**
+
+_BMC Public Health._ 2007; **7**:168
+
+; the study participants all had BMI, 18–30 kg/m 2.
+
+These covariates, maternal and fetal, have been examined previously.[34-36](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+34.
+
+Abrams, B.F. ∙ Laros, Jr., R.K.
+
+**Prepregnancy weight, weight gain, and birth weight**
+
+_Am J Obstet Gynecol._ 1986; **154**:503-509
+
+35.
+
+Amini, S.B. ∙ Catalano, P.M. ∙ Hirsch, V. ...
+
+**An analysis of birth weight by gestational age using a computerized perinatal data base, 1975-1992**
+
+_Obstet Gynecol._ 1994; **83**:342-352
+
+36.
+
+Brenner, W.E. ∙ Edelman, D.A. ∙ Hendricks, C.H.
+
+**A standard of fetal growth for the United States of America**
+
+_Am J Obstet Gynecol._ 1976; **126**:555-564
+
+ The WHO study, however, has shown that the effects are not large and are not exerted equally among different EFW percentiles but may add up to be of clinical relevance. It makes any customization for individual use more complex, but statistical development, growing computer power, and more data accrual should handle it.
+
+Country Variation
+-----------------
+
+In the WHO study, ethnic and cultural differences were represented by the classification “country.” Country influenced fetal growth significantly ([Figure 5](https://doi.org/10.1016/j.ajog.2017.12.010#fig5)), and the variation in growth pattern is specifically visualized for the 10th, 50th and 90th percentiles in [Figure 6](https://doi.org/10.1016/j.ajog.2017.12.010#fig6). The variation in EFW corroborated the significant country differences in birthweight. For example, India with the lowest birthweight also had the lowest course of the 10th, 50th, and 90th percentile for EFW; maternal characteristics could explain only part of the country variation. On the other hand, other populations followed other and steeper trajectories, at times even crossing others (eg, the Norwegian; [Figure 6](https://doi.org/10.1016/j.ajog.2017.12.010#fig6)) and signifying variations in growth trajectories. The results indicate that populations, even under optimal nutritional conditions and environment, vary and that fetal growth varies and should be considered when the WHO fetal growth charts or any growth references are applied. It is also prudent to acknowledge particularly 2 aspects of limitation: first, that the populations (or ethnic groups) that were selected for the study were urban in a world in which major groups still live in rural areas and, second, that the 10 included populations represent an extremely small proportion of the global genetic and ethnic variation. The study recruited 1 group in Egypt and another in Democratic Republic of Congo; Africa is known for a genetic diversity that exceeds the rest of the world,[26](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+26.
+
+Campbell, M.C. ∙ Tishkoff, S.A.
+
+**African genetic diversity: implications for human demographic history, modern human origins, and complex disease mapping**
+
+_Annu rev genomics hum genet._ 2008; **9**:403-433
+
+ and their anthropometric variation is substantial.
+
+[![Image 5](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/dd30e3a9-ecbd-4ff2-82af-7282463754c1/main.assets/gr5.jpg)](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/fa536ae5-9a7f-482e-a1d4-fff0a29b7929/main.assets/gr5_lrg.jpg "View full size image in a new tab")
+
+Figure 5 World Health Organization estimated fetal weight percentiles: country variation
+
+[![Image 6](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/bd028d8a-5eb9-4380-aef9-4a6cc07ae54a/main.assets/gr6.jpg)](https://www.ajog.org/cms/10.1016/j.ajog.2017.12.010/asset/b9ff3322-84bd-4536-8911-05f1dcf869e8/main.assets/gr6_lrg.jpg "View full size image in a new tab")
+
+Figure 6 Country-wise development of estimated fetal weight in the World Health Organization study
+
+Relating to Other Studies
+-------------------------
+
+To appreciate the practical consequences of the WHO and Intergrowth-21st percentiles for international use, their 10th and 90th percentiles for selected gestational ages have been compiled in the[Table](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1), which also includes the results of the NICHD and a Nordic single-population study.[29](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+29.
+
+Johnsen, S.L. ∙ Rasmussen, S. ∙ Wilsgaard, T. ...
+
+**Longitudinal reference ranges for estimated fetal weight**
+
+_Acta Obstet Gynecol Scand._ 2006; **85**:286-297
+
+ Although not statistically tested, 10th percentile is numerically lower in the Intergrowth-21st compared with the WHO study for 28, 32, and 36 weeks gestation (–75, –164, and –208 g) and for the 90th percentile (–92, –98, and –68 g).
+
+| Variable | Gestational week |
+| --- | --- |
+| 20 | 24 | 28 | 32 | 36 |
+| 10th Percentile of estimated fetal weight (g) |  |  |  |  |  |
+| United States: white[a](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fna) | 289 | 583 | 1045 | 1686 | 2432 |
+| Democratic Republic of Congo[b](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fnb) | 288 | 576 | 1023 | 1624 | 2310 |
+| World Health Organization[c](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fnc) | 286 | 576 | 1026 | 1635 | 2352 |
+| United States: black[a](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fna) | 286 | 559 | 985 | 1579 | 2264 |
+| Norway[d](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fnd) | 283 | 610 | 1102 | 1730 | 2411 |
+| United States: Hispanic[a](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fna) | 279 | 555 | 987 | 1595 | 2298 |
+| United States: Asian[a](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fna) | 275 | 546 | 978 | 1574 | 2262 |
+| Intergrowth-21st[e](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fne) |  | 602 | 951 | 1473 | 2144 |
+| 90th Percentile of estimated fetal weight (g) |  |  |  |  |  |
+| Norway[d](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fnd) | 408 | 833 | 1472 | 2304 | 3230 |
+| United States: white[a](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fna) | 381 | 771 | 1391 | 2276 | 3368 |
+| World Health Organization[c](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fnc) | 380 | 765 | 1368 | 2187 | 3153 |
+| United States: Hispanic[a](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fna) | 379 | 755 | 1353 | 2209 | 3245 |
+| United States: black[a](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fna) | 376 | 742 | 1317 | 2135 | 3115 |
+| United States: Asian[a](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fna) | 373 | 737 | 1318 | 2129 | 3111 |
+| Democratic Republic of Congo[b](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fnb) | 345 | 700 | 1277 | 2083 | 3032 |
+| Intergrowth-21st[e](https://doi.org/10.1016/j.ajog.2017.12.010#tbl1fne) |  | 751 | 1276 | 2089 | 3089 |
+
+Table
+
+Estimated fetal weight from relevant studies presented with 10th and 90th percentiles for selected gestational stages
+
+_Kiserud. WHO fetal growth charts. Am J Obstet Gynecol 2018_.
+
+a
+
+Buck Louis et al[19](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+19.
+
+Buck Louis, G.M. ∙ Grewal, J. ∙ Albert, P.S. ...
+
+**Racial/ethnic standards for fetal growth: the NICHD Fetal Growth Studies**
+
+_Am J Obstet Gynecol._ 2015; **213**:449.e1-449.e41
+
+b
+
+Landis et al[59](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+59.
+
+Landis, S.H. ∙ Ananth, C.V. ∙ Lokomba, V. ...
+
+**Ultrasound-derived fetal size nomogram for a sub-Saharan African population: a longitudinal study**
+
+_Ultrasound Obstet Gynecol._ 2009; **34**:379-386
+
+c
+
+Kiserud et al[16](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+16.
+
+Kiserud, T. ∙ Piaggio, G. ∙ Carroli, G. ...
+
+**The World Health Organization fetal growth charts: a multinational longitudinal study of ultrasound biometric measurements and estimated fetal weight**
+
+_PLoS Med._ 2017; **14**:e1002220
+
+d
+
+Johnsen et al[29](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+29.
+
+Johnsen, S.L. ∙ Rasmussen, S. ∙ Wilsgaard, T. ...
+
+**Longitudinal reference ranges for estimated fetal weight**
+
+_Acta Obstet Gynecol Scand._ 2006; **85**:286-297
+
+e
+
+Stirnemann et al.[18](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+18.
+
+Stirnemann, J. ∙ Villar, J. ∙ Salomon, L.J. ...
+
+**International estimated fetal weight standards of the INTERGROWTH-21st Project**
+
+_Ultrasound Obstet Gynecol._ 2017; **49**:478-486
+
+ The World Health Organization study, the National Institute of Child Health and Human Development study from United States, the Intergrowth-21st study, a study from the Democratic Republic of Congo, and another from Norway are listed according to descending values at 20 weeks but are not formally compared or ranked. Modified from Kiserud T, Piaggio G, Carroli G, et al. The World Health Organization fetal growth charts: a multinational longitudinal study of ultrasound biometric measurements and estimated fetal weight. PLoS Med 2017;14:e1002220. With permission.
+
+*   [Open table in a new tab](https://www.ajog.org/action/showFullTableHTML?isHtml=true&tableId=tbl1&pii=S0002-9378%2817%2932485-7)
+
+In Intergrowth-21st, the values of the biometric measurements were not revealed on the screen during the study, the idea being that the ultrasound operator could be biased to produce measurements that are less extreme. The WHO study exposed these measurements, and the question arises whether this could lead to skewness in the WHO study. In the WHO study, the midwives/sonographers had a long experience in clinical assessments and research. According to the protocol and ethical code, the project was committed to reveal to the woman any finding of importance to clinical treatment, and ensure that she was followed clinically. This was also in line with the routine that these midwives otherwise followed in their clinical practice, where missing a diagnosis was not a wanted outcome of the scan session, thus conditioning a professional attitude to their measurements.
+
+Intergrowth-21st studies introduced standards for fetal growth and birthweight, with a similar design to the previous WHO child growth standards,[37](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+37.
+
+**Enrolment and baseline characteristics in the WHO Multicentre Growth Reference Study**
+
+_Acta Paediatr Suppl._ 2006; **450**:7-15
+
+ but their concept of 1 size fits all has met with critics repeatedly.[38-41](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+38.
+
+Hanson, M. ∙ Kiserud, T. ∙ Visser, G.H. ...
+
+**Optimal fetal growth: a misconception?**
+
+_Am J Obstet Gynecol._ 2015; **213**:332.e1-332.e4
+
+39.
+
+Natale, V. ∙ Rajagopalan, A.
+
+**Worldwide variation in human growth and the World Health Organization growth standards: a systematic review**
+
+_BMJ Open._ 2014; **4**:e003735
+
+40.
+
+Amare, E.B. ∙ Idsoe, M. ∙ Wiksnes, M. ...
+
+**Reference ranges for head circumference in Ethiopian children 0–2 years of age**
+
+_World Neurosurg._ 2015; **84**:1566-1571.e1-2
+
+41.
+
+Milani, S. ∙ Buckler, J.M. ∙ Kelnar, C.J. ...
+
+**The use of local reference growth charts for clinical use or a universal standard: a balanced appraisal**
+
+_J Endocrinol Investig._ 2012; **35**:224-226
+
+ The NICHD fetal growth study also used the expression “standard” but acknowledged variation and established ethnic-specific curves.[19](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+19.
+
+Buck Louis, G.M. ∙ Grewal, J. ∙ Albert, P.S. ...
+
+**Racial/ethnic standards for fetal growth: the NICHD Fetal Growth Studies**
+
+_Am J Obstet Gynecol._ 2015; **213**:449.e1-449.e41
+
+ During the WHO fetal growth study, these terms were discussed, and we ended with the more neutral WHO fetal growth charts acknowledging that, although these are charts that are intended for international use, variation across populations exists and has to be kept in mind when applied.
+
+There are good reasons for a careful consideration before labeling a fetal growth chart as a standard, because it implicitly conveys a concept and a principle that this is how normal children should develop worldwide,[42](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+42.
+
+Lee, A.C. ∙ Kozuki, N. ∙ Cousens, S. ...
+
+**Estimates of burden and consequences of infants born small for gestational age in low and middle income countries with INTERGROWTH-21st standard: analysis of CHERG datasets**
+
+_BMJ._ 2017; **358**:j3677
+
+ which is not evidenced. Also, it may stigmatize and render normal pregnancies abnormal, with consequences for management strategies.
+
+Different Underlying Concepts, Different Conclusions
+----------------------------------------------------
+
+To understand how 2 similar multinational fetal growth studies (the WHO study and Intergrowth-21st) have reached different results and conclusions, it is worthwhile to look at their underlying concepts. Intergrowth-21st had the concept that optimal fetal growth would be the same across various populations, provided maternal nutrition and condition were optimal. Thus, they designed their study to establish a single growth standard by pooling growth data from different populations. To assess degrees of likeness, they used the quotient “site-specific deviation±0.5 SD” (ie, [site mean–all sites mean]/SD of all sites, expressed in SD units).[43](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+43.
+
+Villar, J. ∙ Ismail, L.C. ∙ Victoria, C.G. ...
+
+**International standards for newborn weight, length, and head circumference by gestational age and sex: Newborn Cross-Sectional Study of the INTERGROWTH-21st PROJECT**
+
+_Lancet._ 2014; **384**:857-868
+
+ Whether there was any significant population difference was not addressed. Their graphs, however, showed that Indian fetal head circumference was outside the –0.5 SD site-specific deviation; on the other extreme, Italy had+0.5 SD at 34–40 weeks gestation. Further, at birth ≥37 weeks gestation, Indian neonates were 0.6 kg lighter than neonates in the United Kingdom. However, formal testing for differences was not published because it probably had not been a research aim.
+
+The WHO study was not only designed similarly (ie, prescriptive inclusion criteria to make a single overall growth curve) but also made it an aim to test for factors that influence growth, including population differences. Thus, this study showed that significant differences existed between populations and that maternal factors influenced fetal growth.
+
+The WHO study corroborates the NICHD study that first had tested whether there were ethnic differences and then established ethnic-specific growth curves for these populations in the United States.[19](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+19.
+
+Buck Louis, G.M. ∙ Grewal, J. ∙ Albert, P.S. ...
+
+**Racial/ethnic standards for fetal growth: the NICHD Fetal Growth Studies**
+
+_Am J Obstet Gynecol._ 2015; **213**:449.e1-449.e41
+
+ This all shows how important research questions and aims are to the design and analyses and, in the end, to the results that are used for the conclusions. Based on the statistical power of Intergrowth-21st and what is exposed in graphs and tables, it is quite likely that an analysis would have shown significant population differences, thus bringing the 3 studies to similar conclusions, that population variation exists and is reproducible.
+
+Ethnicity and Variation
+-----------------------
+
+Ethnicity, and particularly self-reported ethnicity, is not a straight-forward characteristic of a person or population. It is more than just genetic differences because it commonly is associated with social inheritance, such as cultural and nutritional traditions, and geographic and environmental differences, all of which influence epigenetic settings, even to some extent conveyed in a transgenerational fashion.
+
+The question of optimal growth and optimal size also needs answers to where and for what. These large studies have recruited participants that, to a large extent, reflect conditions and lifestyle of western urbanized women and when living in other societies of the world. However, are these conditions and the predominant sedentary lifestyle conducted in these societies models for optimal health development? The ongoing and growing epidemic of noncommunicable diseases tells a different story.[3](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+3.
+
+Hanson, M.A. ∙ Gluckman, P.D.
+
+**Early developmental conditioning of later health and disease: physiology or pathophysiology?**
+
+_Physiol Rev._ 2014; **94**:1027-1076
+
+What is apparent from all 3 studies[16,17,19](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+16.
+
+Kiserud, T. ∙ Piaggio, G. ∙ Carroli, G. ...
+
+**The World Health Organization fetal growth charts: a multinational longitudinal study of ultrasound biometric measurements and estimated fetal weight**
+
+_PLoS Med._ 2017; **14**:e1002220
+
+17.
+
+Papageorghiou, A.T. ∙ Ohuma, E.O. ∙ Altman, D.G. ...
+
+**International standards for fetal growth based on serial ultrasound measurements: the Fetal Growth Longitudinal Study of the INTERGROWTH-21st Project**
+
+_Lancet._ 2014; **384**:869-879
+
+19.
+
+Buck Louis, G.M. ∙ Grewal, J. ∙ Albert, P.S. ...
+
+**Racial/ethnic standards for fetal growth: the NICHD Fetal Growth Studies**
+
+_Am J Obstet Gynecol._ 2015; **213**:449.e1-449.e41
+
+ and previous studies[29,44-46](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+29.
+
+Johnsen, S.L. ∙ Rasmussen, S. ∙ Wilsgaard, T. ...
+
+**Longitudinal reference ranges for estimated fetal weight**
+
+_Acta Obstet Gynecol Scand._ 2006; **85**:286-297
+
+44.
+
+Chitty, L.S. ∙ Altman, D.G. ∙ Henderson, A. ...
+
+**Charts of fetal size: 3, abdominal measurements**
+
+_BJOG._ 1994; **101**:125-131
+
+45.
+
+Mikolajczyk, R.T. ∙ Zhang, J. ∙ Betran, A.P. ...
+
+**A global reference for fetal-weight and birthweight percentiles**
+
+_Lancet._ 2011; **377**:1855-1861
+
+46.
+
+Marsál, K. ∙ Persson, P.-H. ∙ Larsen, T. ...
+
+**Intrauterine growth curves based on ultrasound estimated foetal weights**
+
+_Acta Paediatr._ 1996; **85**:843-848
+
+ is the strikingly wide variation of human fetal growth and birthweight even when conditions are optimized.
+
+One, it does not support the concept that equal conditions will produce equal fetal size. Rather, it creates an impression that, under favorable nutritional and environmental conditions, the human species can afford ample variation, which is a strategy that has proved efficient in evolutionary terms, because the human species dominates on all continents. The WHO study could explain but a fraction of such variation by maternal characteristics, fetal sex, and population variation.
+
+Two, optimal conditions and size may not be the same for an optimal life course in Alaska as in South India or Rift Valley or rural and urban area. Probably more important, the optimal underlying profiles of metabolism and physiology will also differ. In short, this means that we need to adapt our clinical tools and assessment strategies to fit the various populations of the world optimally. One good attempt to do so is the construction of generic growth charts that are adaptable to local populations.[45](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+45.
+
+Mikolajczyk, R.T. ∙ Zhang, J. ∙ Betran, A.P. ...
+
+**A global reference for fetal-weight and birthweight percentiles**
+
+_Lancet._ 2011; **377**:1855-1861
+
+Third, many societies have seen substantial development, changing environment and lifestyle, and secular changes in population anthropometrics. For example, during the period 1967–1998, birthweight at 40 weeks gestation increased by 100 g in Norway,[47](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+47.
+
+Skjaerven, R. ∙ Gjessing, H.K. ∙ Bakketeig, L.S.
+
+**Birthweight by gestational age in Norway**
+
+_Acta Obstet Gynecol Scand._ 2000; **79**:440-449
+
+ which indicates that reference ranges for fetal growth and birthweight need updating at intervals.
+
+Four, in addition to the need for the adjustment of reference charts to local needs,[45,48](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+45.
+
+Mikolajczyk, R.T. ∙ Zhang, J. ∙ Betran, A.P. ...
+
+**A global reference for fetal-weight and birthweight percentiles**
+
+_Lancet._ 2011; **377**:1855-1861
+
+48.
+
+Gardosi, J. ∙ Mongelli, M. ∙ Wilcox, M. ...
+
+**An adjustable fetal weight standard**
+
+_Ultrasound Obstet Gynecol._ 1995; **6**:168-174
+
+ the wide variation of fetal growth within populations calls for more individualized assessment strategies[49](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+49.
+
+Deter, R.L. ∙ Lee, W. ∙ Kingdom, J.C.P. ...
+
+**Fetal growth pathology score: a novel ultrasound parameter for individualized assessment of third trimester growth abnormalities**
+
+_J Matern Fetal Neonat Med._ 2017; 1-11
+
+ (ie, taking into account more of the information commonly available but not systematically used [eg, birthweight of siblings, maternal and paternal birthweights,[50,51](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+50.
+
+Skjaerven, R. ∙ Gjessing, H.K. ∙ Bakketeig, L.S.
+
+**New standards for birth weight by gestational age using family data**
+
+_Am J Obstet Gynecol._ 2000; **183**:689-696
+
+51.
+
+Lie, R.T. ∙ Wilcox, A.J. ∙ Skjaerven, R.
+
+**Maternal and paternal influences on length of pregnancy**
+
+_Obstet Gynecol._ 2006; **107**:880-885
+
+ and growth velocities and individual growth trajectories, concepts that have been addressed in different ways]).[52-55](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+52.
+
+Owen, P. ∙ Donnet, M.L. ∙ Ogston, S.A. ...
+
+**Standards for ultrasound fetal growth velocity**
+
+_BJOG._ 1996; **103**:60-69
+
+53.
+
+Owen, P. ∙ Ogston, S.
+
+**Conditional centiles for the quantification of fetal growth**
+
+_Ultrasound Obstet Gynecol._ 1998; **11**:110-117
+
+54.
+
+Deter, R.L. ∙ Rossavik, I.K.
+
+**A simplified method for determining individual growth curve standards**
+
+_Obstet Gynecol._ 1987; **70**:801-806
+
+55.
+
+Sovio, U. ∙ White, I.R. ∙ Dacey, A. ...
+
+**Screening for fetal growth restriction with universal third trimester ultrasonography in nulliparous women in the Pregnancy Outcome Prediction (POP) study: a prospective cohort study**
+
+_Lancet._ 2015; **386**:2089-2097
+
+ The acceptance of individual variation extends also to proportions, possibly increasing predictive capacity by adding 3-dimensional measurements of various body sections.[56](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+56.
+
+Mack, L.M. ∙ Kim, S.Y. ∙ Lee, S. ...
+
+**Automated fractional limb volume measurements improve the precision of birth weight predictions in late third-trimester fetuses**
+
+_J Ultrasound Med._ 2017; **36**:1649-1655
+
+Applying Fetal Growth Charts
+----------------------------
+
+The recent fetal growth charts that are based on multiple populations should be, by design, the first choice for an area where no population-specific references exist rather than previously used charts that are based on single populations from high-income societies. Further, what emanates from the recent studies and the discussion that follows them is that there is no clear indication that 1 fetal growth standard is equally applicable for all pregnancies of the world, not for clinical use and not for public health issues that include life course and health risks in adult life.
+
+When the need comes for the improvement of clinical testing in a population, it is possible to adjust cut-off levels (level of percentile), to customize the percentiles according to fetal sex, and to take into account maternal factors. Because the presently available multinational studies represent very limited selections of the world’s population variation, it is also quite possible that population-specific growth charts may be the solution (eg, populations adapted to high altitudes or other extreme conditions).
+
+The need for fetal growth and birthweight reference values in the growing initiative of combating noncommunicable diseases is obvious, particularly because WHO emphasizes prevention as the best strategy.[57](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+57.
+
+World Health Organization
+
+**Global action plan for the prevention and control of noncommunicable diseases 2013-2020**
+
+WHO Press, Geneva, 2013
+
+ Thus, periconception health, pregnancy development, fetal development, birth, and early infant development come into focus containing major determinants for life course and later health risks. In such a perspective, there is merit in monitoring growth beyond birth.[58](https://doi.org/10.1016/j.ajog.2017.12.010#)
+
+58.
+
+Villar, J. ∙ Papageorghiou, A.T. ∙ Pang, R. ...
+
+**Monitoring human growth and development: a continuum from the womb to the classroom**
+
+_Am J Obstet Gynecol._ 2015; **213**:494-499
+
+ However, the recent results indicate that references for size must vary according to location and population for an optimized assessment. The use of 1 overall standard carries a risk of misclassification and stigmatization.
+
+References
+----------
+
+Lawn, J.E. ∙ Cousens, S. ∙ Zupan, J.
+
+**4 Million neonatal deaths: when? where? why?**
+
+_Lancet._ 2005; **365**:891-900
+
+Katz, J. ∙ Lee, A.C. ∙ Kozuki, N. ...
+
+**Mortality risk in preterm and small-for-gestational-age infants in low-income and middle-income countries: a pooled country analysis**
+
+_Lancet._ 2013; **382**:417-425
+
+Hanson, M.A. ∙ Gluckman, P.D.
+
+**Early developmental conditioning of later health and disease: physiology or pathophysiology?**
+
+_Physiol Rev._ 2014; **94**:1027-1076
+
+National Collaborating Centre for Women and Children’s Health: National Institute for Health and Clinical Excellence: Guidance
+
+**Antenatal care: routine care for the healthy pregnant woman**
+
+RCOG Press, London, 2008
+
+Zhang, J. ∙ Merialdi, M. ∙ Platt, L.D. ...
+
+**Defining normal and abnormal fetal growth: promises and challenges**
+
+_Am J Obstet Gynecol._ 2010; **202**:522-528
+
+Blake, K.V. ∙ Gurrin, L.C. ∙ Beilin, L.J. ...
+
+**Prenatal ultrasound biometry related to subsequent blood pressure in childhood**
+
+_J Epidemiol Community Health._ 2002; **56**:713-718
+
+Kessler, J. ∙ Rasmussen, S. ∙ Godfrey, K. ...
+
+**Venous liver blood flow and regulation of human fetal growth: evidence from macrosomic fetuses**
+
+_Am J Obstet Gynecol._ 2011; **204**:429.e1-429.e7
+
+Godfrey, K.M. ∙ Haugen, G. ∙ Kiserud, T. ...
+
+**Fetal liver blood flow distribution: role in human developmental strategy to prioritize fat deposition versus brain development**
+
+_PLoS One._ 2012; **7**:e41759
+
+Barker, D.J. ∙ Godfrey, K.M. ∙ Osmond, C. ...
+
+**The relation of fetal length, ponderal index and head circumference to blood pressure and the risk of hypertension in adult life**
+
+_Paediatr Perinat Epidemiol._ 1992; **6**:35-44
+
+Pike, K.C. ∙ Crozier, S.R. ∙ Lucas, J.S. ...
+
+**Patterns of fetal and infant growth are related to atopy and wheezing disorders at age 3 years**
+
+_Thorax._ 2010; **65**:1099-1106
+
+Hanson, M.A. ∙ Bardsley, A. ∙ De-Regil, L.M. ...
+
+**The International Federation of Gynecology and Obstetrics (FIGO) recommendations on adolescent, preconception, and maternal nutrition: “Think Nutrition First.”**
+
+_Int J Gynaecol Obstet._ 2015; **131**:S213-S253
+
+World Health Organization
+
+**Global Health Observatory (GOH) data: neonatal mortality**
+
+World Health Organization, Geneva, 2016
+
+Aboderin, I. ∙ Ben-Shlomo, Y. ∙ Lynch, J. ...
+
+**Life course perpectives on coronary heart disease, stroke and diabetes: the evidenceand implications for policy and research**
+
+World Health organization, Geneva, 2002
+
+World Health Organization
+
+**Child Growth Standards based on length/height, weight and age**
+
+_Acta Paediatr Suppl._ 2006; **450**:76-85
+
+Merialdi, M. ∙ Widmer, M. ∙ Gulmezoglu, A.M. ...
+
+**WHO multicentre study for the development of growth standards from fetal life to childhood: the fetal component**
+
+_BMC Pregnancy Childbirth._ 2014; **14**:157
+
+Kiserud, T. ∙ Piaggio, G. ∙ Carroli, G. ...
+
+**The World Health Organization fetal growth charts: a multinational longitudinal study of ultrasound biometric measurements and estimated fetal weight**
+
+_PLoS Med._ 2017; **14**:e1002220
+
+Papageorghiou, A.T. ∙ Ohuma, E.O. ∙ Altman, D.G. ...
+
+**International standards for fetal growth based on serial ultrasound measurements: the Fetal Growth Longitudinal Study of the INTERGROWTH-21st Project**
+
+_Lancet._ 2014; **384**:869-879
+
+Stirnemann, J. ∙ Villar, J. ∙ Salomon, L.J. ...
+
+**International estimated fetal weight standards of the INTERGROWTH-21st Project**
+
+_Ultrasound Obstet Gynecol._ 2017; **49**:478-486
+
+Buck Louis, G.M. ∙ Grewal, J. ∙ Albert, P.S. ...
+
+**Racial/ethnic standards for fetal growth: the NICHD Fetal Growth Studies**
+
+_Am J Obstet Gynecol._ 2015; **213**:449.e1-449.e41
+
+Robinson, H.P. ∙ Fleming, J.E.E.
+
+**A critical evaluation of sonar “crown-rump length” measurements**
+
+_BJOG._ 1975; **82**:702-710
+
+Hadlock, F.P. ∙ Harrist, R.B. ∙ Sharman, R.S. ...
+
+**Estimation of fetal weight with the use of head, body, and femur measurements: a prospective study**
+
+_Am J Obstet Gynecol._ 1985; **151**:333-337
+
+Wei, Y. ∙ Pere, A. ∙ Koenker, R. ...
+
+**Quantile regression methods for reference growth charts**
+
+_Stat Med._ 2006; **25**:1369-1382
+
+Koenker, R. ∙ Bassett, G.
+
+**Regression quantiles**
+
+_Econometrica._ 1978; **46**:33-50
+
+Koenker, R.
+
+**Quantile regression**
+
+Cambridge University Press, Cambridge, UK, 2005 342
+
+Daniel-Spiegel, E. ∙ Weiner, E. ∙ Yarom, I. ...
+
+**Establishment of fetal biometric charts using quantile regression analysis**
+
+_J Ultrasound Med._ 2013; **32**:23-33
+
+Campbell, M.C. ∙ Tishkoff, S.A.
+
+**African genetic diversity: implications for human demographic history, modern human origins, and complex disease mapping**
+
+_Annu rev genomics hum genet._ 2008; **9**:403-433
+
+Wulff, C.B. ∙ Gerds, T.A. ∙ Rode, L. ...
+
+**Risk of fetal loss associated with invasive testing following combined first-trimester screening for Down syndrome: a national cohort of 147,987 singleton pregnancies**
+
+_Ultrasound Obstet Gynecol._ 2016; **47**:38-44
+
+Ioannou, C. ∙ Talbot, K. ∙ Ohuma, E. ...
+
+**Systematic review of methodology used in ultrasound studies aimed at creating charts of fetal size**
+
+_BJOG._ 2012; **119**:1425-1439
+
+Johnsen, S.L. ∙ Rasmussen, S. ∙ Wilsgaard, T. ...
+
+**Longitudinal reference ranges for estimated fetal weight**
+
+_Acta Obstet Gynecol Scand._ 2006; **85**:286-297
+
+Thomson, A.M. ∙ Billewicz, W.Z. ∙ Hytten, F.E.
+
+**The assessment of fetal growth**
+
+_J Obstet Gynaecol Br Commonw._ 1968; **75**:903-916
+
+Bowley, A.L.
+
+**Elements of statistics**
+
+P. S. King & Son, London, 1901
+
+Mongelli, M. ∙ Gardosi, J.
+
+**Longitudinal study of fetal growth in subgroups of a low-risk population**
+
+_Ultrasound Obstet Gynecol._ 1995; **6**:340-344
+
+Bhattacharya, S. ∙ Campbell, D.M. ∙ Liston, W.A. ...
+
+**Effect of body mass index on pregnancy outcomes in nulliparous women delivering singleton babies**
+
+_BMC Public Health._ 2007; **7**:168
+
+Abrams, B.F. ∙ Laros, Jr., R.K.
+
+**Prepregnancy weight, weight gain, and birth weight**
+
+_Am J Obstet Gynecol._ 1986; **154**:503-509
+
+Amini, S.B. ∙ Catalano, P.M. ∙ Hirsch, V. ...
+
+**An analysis of birth weight by gestational age using a computerized perinatal data base, 1975-1992**
+
+_Obstet Gynecol._ 1994; **83**:342-352
+
+Brenner, W.E. ∙ Edelman, D.A. ∙ Hendricks, C.H.
+
+**A standard of fetal growth for the United States of America**
+
+_Am J Obstet Gynecol._ 1976; **126**:555-564
+
+**Enrolment and baseline characteristics in the WHO Multicentre Growth Reference Study**
+
+_Acta Paediatr Suppl._ 2006; **450**:7-15
+
+Hanson, M. ∙ Kiserud, T. ∙ Visser, G.H. ...
+
+**Optimal fetal growth: a misconception?**
+
+_Am J Obstet Gynecol._ 2015; **213**:332.e1-332.e4
+
+Natale, V. ∙ Rajagopalan, A.
+
+**Worldwide variation in human growth and the World Health Organization growth standards: a systematic review**
+
+_BMJ Open._ 2014; **4**:e003735
+
+Amare, E.B. ∙ Idsoe, M. ∙ Wiksnes, M. ...
+
+**Reference ranges for head circumference in Ethiopian children 0–2 years of age**
+
+_World Neurosurg._ 2015; **84**:1566-1571.e1-2
+
+Milani, S. ∙ Buckler, J.M. ∙ Kelnar, C.J. ...
+
+**The use of local reference growth charts for clinical use or a universal standard: a balanced appraisal**
+
+_J Endocrinol Investig._ 2012; **35**:224-226
+
+Lee, A.C. ∙ Kozuki, N. ∙ Cousens, S. ...
+
+**Estimates of burden and consequences of infants born small for gestational age in low and middle income countries with INTERGROWTH-21st standard: analysis of CHERG datasets**
+
+_BMJ._ 2017; **358**:j3677
+
+Villar, J. ∙ Ismail, L.C. ∙ Victoria, C.G. ...
+
+**International standards for newborn weight, length, and head circumference by gestational age and sex: Newborn Cross-Sectional Study of the INTERGROWTH-21st PROJECT**
+
+_Lancet._ 2014; **384**:857-868
+
+Chitty, L.S. ∙ Altman, D.G. ∙ Henderson, A. ...
+
+**Charts of fetal size: 3, abdominal measurements**
+
+_BJOG._ 1994; **101**:125-131
+
+Mikolajczyk, R.T. ∙ Zhang, J. ∙ Betran, A.P. ...
+
+**A global reference for fetal-weight and birthweight percentiles**
+
+_Lancet._ 2011; **377**:1855-1861
+
+Marsál, K. ∙ Persson, P.-H. ∙ Larsen, T. ...
+
+**Intrauterine growth curves based on ultrasound estimated foetal weights**
+
+_Acta Paediatr._ 1996; **85**:843-848
+
+Skjaerven, R. ∙ Gjessing, H.K. ∙ Bakketeig, L.S.
+
+**Birthweight by gestational age in Norway**
+
+_Acta Obstet Gynecol Scand._ 2000; **79**:440-449
+
+Gardosi, J. ∙ Mongelli, M. ∙ Wilcox, M. ...
+
+**An adjustable fetal weight standard**
+
+_Ultrasound Obstet Gynecol._ 1995; **6**:168-174
+
+Deter, R.L. ∙ Lee, W. ∙ Kingdom, J.C.P. ...
+
+**Fetal growth pathology score: a novel ultrasound parameter for individualized assessment of third trimester growth abnormalities**
+
+_J Matern Fetal Neonat Med._ 2017; 1-11
+
+Skjaerven, R. ∙ Gjessing, H.K. ∙ Bakketeig, L.S.
+
+**New standards for birth weight by gestational age using family data**
+
+_Am J Obstet Gynecol._ 2000; **183**:689-696
+
+Lie, R.T. ∙ Wilcox, A.J. ∙ Skjaerven, R.
+
+**Maternal and paternal influences on length of pregnancy**
+
+_Obstet Gynecol._ 2006; **107**:880-885
+
+Owen, P. ∙ Donnet, M.L. ∙ Ogston, S.A. ...
+
+**Standards for ultrasound fetal growth velocity**
+
+_BJOG._ 1996; **103**:60-69
+
+Owen, P. ∙ Ogston, S.
+
+**Conditional centiles for the quantification of fetal growth**
+
+_Ultrasound Obstet Gynecol._ 1998; **11**:110-117
+
+Deter, R.L. ∙ Rossavik, I.K.
+
+**A simplified method for determining individual growth curve standards**
+
+_Obstet Gynecol._ 1987; **70**:801-806
+
+Sovio, U. ∙ White, I.R. ∙ Dacey, A. ...
+
+**Screening for fetal growth restriction with universal third trimester ultrasonography in nulliparous women in the Pregnancy Outcome Prediction (POP) study: a prospective cohort study**
+
+_Lancet._ 2015; **386**:2089-2097
+
+Mack, L.M. ∙ Kim, S.Y. ∙ Lee, S. ...
+
+**Automated fractional limb volume measurements improve the precision of birth weight predictions in late third-trimester fetuses**
+
+_J Ultrasound Med._ 2017; **36**:1649-1655
+
+World Health Organization
+
+**Global action plan for the prevention and control of noncommunicable diseases 2013-2020**
+
+WHO Press, Geneva, 2013
+
+Villar, J. ∙ Papageorghiou, A.T. ∙ Pang, R. ...
+
+**Monitoring human growth and development: a continuum from the womb to the classroom**
+
+_Am J Obstet Gynecol._ 2015; **213**:494-499
+
+Landis, S.H. ∙ Ananth, C.V. ∙ Lokomba, V. ...
+
+**Ultrasound-derived fetal size nomogram for a sub-Saharan African population: a longitudinal study**
+
+_Ultrasound Obstet Gynecol._ 2009; **34**:379-386

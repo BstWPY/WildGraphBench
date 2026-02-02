@@ -1,0 +1,249 @@
+# COVID-19 mortality risk for older men and women
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Abstract
+----------------------------------------------------------------
+
+### Background
+
+Case-fatality from COVID-19 has been reported to be relatively high in patients age 65 years or older. We sought to determine the age-specific rates of COVID-19 mortality at the population level.
+
+### Methods
+
+We obtained information regarding the total number of COVID-19 reported deaths for six consecutive weeks beginning at the 50th recorded death, among 16 countries that reported a relatively high number of COVID-19 cases as of April 12, 2020. We performed an ecological study to model COVID-19 mortality rates per week by age group (54 years or younger, 55–64 years, and 65 years or older) and sex using a Poisson mixed effects regression model.
+
+### Results
+
+Over the six-week period of data, there were 178,568 COVID-19 deaths from a total population of approximately 2.4 billion people. Age and sex were associated with COVID-19 mortality. Compared with individuals ages 54 years or younger, the incident rate ratio (IRR) was 8.1, indicating that the mortality rate of COVID-19 was 8.1 times higher (95%CI = 7.7, 8.5) among those 55 to 64 years, and more than 62 times higher (IRR = 62.1; 95%CI = 59.7, 64.7) among those ages 65 or older. Mortality rates from COVID-19 were 77% higher in men than in women (IRR = 1.77, 95%CI = 1.74, 1.79).
+
+### Conclusions
+
+In the 16 countries examined, persons age 65 years or older had strikingly higher COVID-19 mortality rates compared to younger individuals, and men had a higher risk of COVID-19 death than women.
+
+**Keywords:** Age; Severe acute respiratory syndrome-CoronaVirus-2, epidemiology; Pandemic; Population health
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Background
+------------------------------------------------------------------
+
+After the emergence of a novel coronavirus (Severe Acute Respiratory Syndrome-CoronaVirus-2 [SARS-CoV-2]) in China, a pandemic has spread worldwide [[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR1)]. Clinical manifestations of SARS-CoV-2 infection have been designated as COVID-19. The epidemic that originated in the Hubei province in China spread to over 60 countries, with western Europe and the US being particularly severely affected by COVID-19.
+
+Data from China and Italy suggest a case-fatality of 2.3% in patients with COVID-19, with more than 50% of the fatalities occurring in patients 50 years of age or older [[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR2)]. In the largest reported series from Northern Italy, case-fatality in patients 64 years or older was 36% compared with 15% in younger patients [[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR3)].
+
+The mortality rate from COVID-19 in any age category is determined not only by the case-fatality among recognized incident cases, but by the age-specific incidence itself. Using age-specific mortality data, we sought to determine the relative risk of death across age categories in 16 countries that have had a high reported incidence of COVID-19 .
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Methods
+---------------------------------------------------------------
+
+Tabulations of COVID-19 deaths were obtained from the 21 countries with the highest recorded number of cases of COVID-19 as of April 12, 2020. Our data source for COVID-19 cases and deaths was the Johns Hopkins University, Center for Systems Science and Engineering Coronavirus Resource Center (CSSE). CSSE provides numbers of deaths and confirmed cases for each country across the globe [[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR4)]. The countries in our sample were (in alphabetical order): Austria, Belgium, Brazil, Canada, China, France, Germany, India, Iran, Israel, Italy, Netherlands, Portugal, Russia, South Korea, Spain, Sweden, Switzerland, Turkey, the United Kingdom, and the United States. We collected the total number of deaths each country over 6 weeks starting the day of a country’s fiftieth recorded COVID-19 death. On May 8, 2020, complete 6-weeks of data were available for 19 of the 21 countries. Age and sex distributions for COVID-19 deaths were procured for 16 of the 19 countries, predominantly from government ministries of public health. We estimated the number of COVID-19 deaths for each age and sex group for the 6-week totals of COVID-19 deaths for each country. COVID-19 mortality rates were determined using age and sex specific population sizes for each country using 2020 population estimates from the Central Intelligence Agency (CIA) World Factbook [[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR5)]. Table[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#Tab1) provides variable definitions, all publicly available data sources, their provenance, and weblinks where these data can be extracted.
+
+### Table 1.
+
+Data Sources
+
+| Variables | Source | Data |
+| --- | --- | --- |
+| COVID-19 Deaths | Johns Hopkins University the Center for Systems Science and Engineering (CSSE) Coronavirus Resource Center [coronavirus.jhu.edu](http://coronavirus.jhu.edu/) | Country level COVID-19 deaths up to May 8, 2020. |
+| Age groups, sex, population sizes by age and sex | CIA World Factbook[cia.gov/library/publications/the-world-factbook](http://cia.gov/library/publications/the-world-factbook) | Country-level population sizes (2020 est.) and demographic factors. |
+| COVID-19 deaths by age and sex | [info.gesundheitsministerium.at](http://info.gesundheitsministerium.at/) (AUT) info-coronavirus.be (BEL) [covid.saude.gov.br](http://covid.saude.gov.br/) (BRA) [wikipedia.org/wiki/COVID-19_pandemic_in_Canada](http://wikipedia.org/wiki/COVID-19_pandemic_in_Canada) (CAN) [qbitai.com/2020/02/11611.html](http://qbitai.com/2020/02/11611.html) (CHN) [statista.com/statistics/1110092/coronavirus-covid-19-deaths-age-group-switzerland](http://statista.com/statistics/1110092/coronavirus-covid-19-deaths-age-group-switzerland)/ (CH) Robert Koch Institute (DEU) [mscbs.gob.es](http://mscbs.gob.es/)/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_96_COVID-19.pdf (ESP) [santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/documents/bulletin-national/covid-19-point-epidemiologique-du-15-mars-2020](http://santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/documents/bulletin-national/covid-19-point-epidemiologique-du-15-mars-2020) (FRA) [statista.com/statistics/1105061/coronavirus-deaths-by-region-in-italy](http://statista.com/statistics/1105061/coronavirus-deaths-by-region-in-italy) (ITA) [ncov.mohw.go.kr](http://ncov.mohw.go.kr/) (KOR) rivm.nl/coronavirus-covid-19/grafieken (NLD) [wikipedia.org/wiki/COVID-19_pandemic_in_Portugal](http://wikipedia.org/wiki/COVID-19_pandemic_in_Portugal) (POR) [statista.com/statistics/1107913/number-of-coronavirus-deaths-in-sweden-by-age-groups](http://statista.com/statistics/1107913/number-of-coronavirus-deaths-in-sweden-by-age-groups) (SWE) [www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending17april2020](http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending17april2020) (UK) [www.cdc.gov/nchs/nvss/vsrr/covid_weekly](http://www.cdc.gov/nchs/nvss/vsrr/covid_weekly) (USA) | Joint distributions for BEL, ESP, DEU, KOR, NLD, POR, UK; marginal distributions for others. |
+
+### Statistical methods
+
+We performed an ecological study to model the association between COVID-19 mortality as the outcome versus age and sex using a multilevel mixed-effects Poisson regression model. The predictor of particular interest, age, was categorized as: 0 to 54, 55 to 64 and 65 or older years. We modeled COVID-19 deaths (Deaths) as.
+
+where _E[Death_ _ijk_ _| Age, Sex]_ denotes the mean number of COVID-19 deaths by age (Age) and sex (Sex) groups. We incorporated a normal, mean zero country-level random effect, _b_ _i_; to account for correlated data at the country level. The model indices denote the country (_i_= 1,2,…,16), age groups (_j_= 1 ages [≤ 54 years], 2 ages [55–64 years], 3 ages [≥ 65 years]) and sex (_k_= 1 for female, _k_= 0 for male); the country population sizes by age and gender groups, _N_ _ijk_, were modeled as an offset. The exponentiated regression coefficients are interpreted as incidence rate ratios (IRR’s) of COVID-19 mortality. Six-week total COVID-19 deaths were disaggregated for each country using their respective estimated age and sex distributions of COVID-19 deaths. Our analyses accounted for this source of variation using a non-parametric bootstrap procedure. We selected 10,000 bootstrap samples from the estimated age and sex distributions of COVID-19 deaths to generate 10,000 disaggregated estimates of the COVID-19 death totals by age and sex for each country. Bootstrap standard errors were used in testing whether there were differences in the COVID-19 mortality rates between age groups and for sex. Specifically, Wald statistics were used to test for associations between the age groups and for sex. We provide 95% bootstrapped confidence intervals using the tolerance interval method on the 10,000 bootstrap estimates. Analyses were conducted using the Stata statistical package (StataCorp. 2019. Stata Statistical Software: Release 16. College Station, TX: StataCorp LP).
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Results
+---------------------------------------------------------------
+
+Of the 178,568 COVID-19 deaths reported in our six-week sample from a total population of approximately 2.4 billion people, 153,923 deaths (86.2%) were in persons age 65 years or older. Table[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#Tab2) presents the cumulative number of COVID-19 deaths and COVID-19 mortality rates (per week per million persons) for the six specified age and sex categories. Figure[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#Fig1) displays actual and estimated weekly number of COVID-19 deaths. The United States had the highest number of COVID-19 deaths per week, followed by several of the western European countries initially affected by COVID-19. Figure[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#Fig2) shows actual and model estimated weekly averaged COVID-19 mortality rates for the three age groups, stratified by sex. We observed that eight of the 11 western European countries in our sample had the highest mortality rates, followed by the three countries in the Americas (US, Canada, Brazil) and then German and Austria. China and South Korea had the lowest COVID-19 mortality rates among the countries in our sample. By age groups, we see that the mortality rates and model estimates clearly show COVID-19 mortality rates have been higher in the older age categories.
+
+### Table 2.
+
+Total deaths and death rates per week per million stratified by age and sex
+
+| Country | Overall | Women | Men |
+| --- | --- | --- | --- |
+| 0–54 | 55–64 | 65+ | 0–54 | 55–64 | 65+ |
+| Austria |
+| _Population (mil.)_ | 8.9 | 2.9 | 0.6 | 1.0 | 2.9 | 0.6 | 0.8 |
+| _Total deaths_ | 551 | 4 | 9 | 230 | 5 | 11 | 292 |
+| _Death rate_ | 10.4 | 0.2 | 2.5 | 38.3 | 0.3 | 3.1 | 60.8 |
+| Belgium |
+| _Population (mil.)_ | 11.7 | 3.9 | 0.8 | 1.3 | 4.0 | 0.8 | 1.0 |
+| _Total deaths_ | 7636 | 17 | 154 | 3453 | 15 | 348 | 3649 |
+| _Death rate_ | 108.8 | 0.7 | 32.1 | 442.7 | 0.6 | 72.5 | 608.2 |
+| Brazil |
+| _Population (mil.)_ | 212.0 | 85.4 | 10.9 | 11.2 | 86.1 | 9.8 | 8.3 |
+| _Total deaths_ | 7879 | 375 | 441 | 2336 | 562 | 661 | 3504 |
+| _Death rate_ | 6.2 | 0.7 | 6.7 | 34.8 | 1.1 | 11.2 | 70.4 |
+| Canada |
+| _Population (mil.)_ | 37.7 | 12.4 | 2.7 | 3.9 | 12.8 | 2.6 | 3.3 |
+| _Total deaths_ | 4487 | 25 | 53 | 1916 | 32 | 66 | 2395 |
+| _Death rate_ | 19.8 | 0.3 | 3.3 | 81.9 | 0.4 | 4.2 | 121.0 |
+| China |
+| _Population (mil.)_ | 1390 | 504.4 | 83.6 | 90.5 | 549.2 | 84.8 | 81.6 |
+| _Total deaths_ | 3016 | 137 | 233 | 716 | 243 | 414 | 1273 |
+| _Death rate_ | 0.4 | 0.0 | 0.5 | 1.3 | 0.1 | 0.8 | 2.6 |
+| France |
+| _Population (mil.)_ | 67.8 | 22.4 | 4.4 | 7.9 | 23.1 | 4.1 | 6.0 |
+| _Total deaths_ | 21,746 | 391 | 304 | 8003 | 587 | 457 | 12,004 |
+| _Death rate_ | 53.5 | 2.9 | 11.5 | 168.8 | 4.2 | 18.6 | 333.4 |
+| Germany |
+| _Population (mil.)_ | 80.2 | 24.3 | 6.3 | 10.3 | 24.9 | 6.3 | 8.1 |
+| _Total deaths_ | 6556 | 45 | 99 | 2719 | 132 | 302 | 3259 |
+| _Death rate_ | 13.6 | 0.3 | 2.6 | 44.0 | 0.9 | 8.0 | 67.1 |
+| Italy |
+| _Population (mil.)_ | 62.4 | 20.0 | 4.5 | 7.8 | 19.9 | 4.2 | 5.9 |
+| _Total deaths_ | 19,847 | 208 | 513 | 6225 | 386 | 953 | 11,562 |
+| _Death rate_ | 53.0 | 1.7 | 19.0 | 133.0 | 3.2 | 37.8 | 326.6 |
+| Korea, South |
+| _Population (mil.)_ | 51.8 | 17.1 | 4.1 | 4.7 | 18.5 | 3.9 | 3.6 |
+| _Total deaths_ | 182 | 4 | 9 | 73 | 5 | 10 | 82 |
+| _Death rate_ | 0.6 | 0.0 | 0.4 | 2.6 | 0.0 | 0.4 | 3.8 |
+| Netherlands |
+| _Population (mil.)_ | 17.3 | 5.7 | 1.2 | 1.9 | 5.8 | 1.2 | 1.6 |
+| _Total deaths_ | 4508 | 27 | 60 | 1867 | 37 | 140 | 2377 |
+| _Death rate_ | 43.4 | 0.8 | 8.3 | 163.8 | 1.1 | 19.4 | 247.6 |
+| Portugal |
+| _Population (mil.)_ | 10.3 | 3.4 | 0.7 | 1.3 | 3.4 | 0.6 | 0.9 |
+| _Total deaths_ | 1029 | 10 | 21 | 493 | 17 | 40 | 449 |
+| _Death rate_ | 16.7 | 0.5 | 5.0 | 63.2 | 0.8 | 11.1 | 83.1 |
+| Spain |
+| _Population (mil.)_ | 50.0 | 16.7 | 3.3 | 5.3 | 17.6 | 3.2 | 4.0 |
+| _Total deaths_ | 21,228 | 224 | 372 | 8215 | 449 | 890 | 11,078 |
+| _Death rate_ | 70.8 | 2.2 | 18.8 | 258.3 | 4.3 | 46.4 | 461.6 |
+| Sweden |
+| _Population (mil.)_ | 10.2 | 3.4 | 0.6 | 1.1 | 3.5 | 0.6 | 1.0 |
+| _Total deaths_ | 2792 | 39 | 66 | 1096 | 52 | 87 | 1453 |
+| _Death rate_ | 45.6 | 1.9 | 18.3 | 166.1 | 2.5 | 24.2 | 242.2 |
+| Switzerland |
+| _Population (mil.)_ | 8.4 | 2.8 | 0.6 | 0.9 | 2.9 | 0.6 | 0.7 |
+| _Total deaths_ | 1683 | 10 | 33 | 664 | 14 | 45 | 917 |
+| _Death rate_ | 33.4 | 0.6 | 9.2 | 123.0 | 0.8 | 12.5 | 218.3 |
+| United Kingdom |
+| _Population (mil.)_ | 65.8 | 22.1 | 4.2 | 6.7 | 23 | 4.1 | 5.5 |
+| _Total deaths_ | 23,990 | 592 | 477 | 8605 | 1071 | 899 | 12,345 |
+| _Death rate_ | 60.8 | 4.5 | 18.9 | 214.1 | 7.7 | 36.5 | 374.1 |
+| United States |
+| _Population (mil.)_ | 333.0 | 115.6 | 22.1 | 31.0 | 118.2 | 20.7 | 25.0 |
+| _Total deaths_ | 51,435 | 1783 | 2765 | 17,186 | 2436 | 3779 | 23,487 |
+| _Death rate_ | 25.7 | 2.6 | 20.9 | 92.4 | 3.4 | 30.4 | 156.6 |
+
+### Fig. 1.
+
+[![Image 1: Fig. 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b15e/7678097/3d0210186f31/12889_2020_9826_Fig1_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7678097_12889_2020_9826_Fig1_HTML.jpg)
+
+COVID-19 actual and estimated average number of weekly deaths for six consecutive weeks beginning with the 50th recorded death, among 16 countries that reported a relatively high number of COVID-19 cases as of April 12, 2020. Part A women, Part B men
+
+### Fig. 2.
+
+[![Image 2: Fig. 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b15e/7678097/70d9ccbf874a/12889_2020_9826_Fig2_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7678097_12889_2020_9826_Fig2_HTML.jpg)
+
+COVID-19 actual and estimated weekly death rates for six consecutive weeks beginning with the 50th recorded death, among 16 countries that reported a relatively high number of COVID-19 cases as of April 12, 2020. Part A women, Part B men
+
+We observed COVID-19 mortality rates for women in Fig.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#Fig2) (a) to be uniformly lower compared to the rates for men, Fig. [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#Fig2) (b).
+
+Estimates for our formal analysis compared COVID-19 mortality rates by age group and sex. We observed that individuals ages 55 to 64 years had 8.1 times higher COVID-19 mortality rate than individuals younger than 55 years of age (IRR = 8.1, 95% CI = 7.7, 8.5), and that those age 65 or older had a 62 times higher rate compared to the youngest group (IRR = 62.1, 95%CI = 59.7, 64.7). Persons age 65 or older had 7.7 times higher COVID-19 death rates than those between the ages of 55 and 64 years (IRR = 7.7, 95%CI = 7.4, 7.9). Finally, we observed that men had 1.77 times higher COVID-19 mortality rates than did women (IRR = 1.77, 95% CI = 1.74, 1.79).
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Discussion
+------------------------------------------------------------------
+
+In this study of COVID-19 in 16 countries, we found that COVID-19 mortality rates were strongly associated with older age and (to a lesser extent) with sex, with men having 77% higher mortality. Estimated IRRs were highest in the elderly. These observations suggest that the previously observed high COVID-19 case-fatality among older persons translates into a similarly high mortality rate at the population level.
+
+Although case fatality rates have been initially reported to be similar across countries [[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR2)], they have been subsequently found to vary significantly among countries. Several factors may contribute to these differences including type of healthcare systems, patient characteristics, or prevalence of diagnostic testing [[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR6)]. Patient comorbidities such as hypertension, diabetes, and obesity have been shown to be associated with higher COVID-19 mortality [[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR7)]. Since the number of comorbid conditions steadily increases with age, this could be another logical explanation of the observed increased mortality in older patients. While disease mortality is higher in the elderly in other conditions like cardiovascular disease, changes associated with immunsenscence might explain the increased vulnerability to infection and the disproportionately high mortality due to COVID-19 in older patients [[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR6)].
+
+Consistent with our findings, in a recent meta-analysis of all-cause mortality from four countries (China, Italy, Spain, United Kingdom), and New York State, the percentage of octogenarians was found to be different across the regions with the lowest cohort being in China and the highest in New York State. Similarly, the lowest mortality was observed in China (3.1%) and the highest in New York State (21%) [[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR8)]. The largest increase in mortality risk was observed in patients aged 60 to 69 years. Therefore, it is important to report age-specific rates of COVID-19 mortality that account for these sources of variability in the population.
+
+While determining the incidence of COVID-19 in a given population depends in part on the prevalence and quality of testing for the presence of this infection, reporting of mortality should be less affected by these factors. Nonetheless, COVID-19 deaths will have been underreported to the extent that persons may die without being identified as positive for SARS CoV-2. To the extent that this underascertainment of COVID-19 mortality is relatively greater in the elderly, we would have underestimated the magnitude of the relative mortality rate among persons in this age group. However, we recognize that the major limitations of this study is related to the possible differences in reporting of attributable deaths across countries, which would affect the rates reported by each country. Another limitation is the lack of available data on confounding factors e.g. ethnicity and patient co-morbidities known to be risk factors for COVID-19 mortality [[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR9)–[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR11)].
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Conclusions
+-------------------------------------------------------------------
+
+As policy-makers prepare to make decisions on how to curb the outbreak, while reducing the pressures on the healthcare system and reopening the economy, it will be important that future choices be tailored to account for the demographics of the population and specifically consider the prevalence of people ager 65 or older in the population in specific regions [[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR12)], or communities in which nursing homes are located [[13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR13), [14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR14)]. Within countries, mapping of regional age distribution potentially could help identify areas at particularly high risk of being affected [[15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#CR15)]. At a more granular level, tracking older population dynamics and interactions may provide further guidance on how to protect the more vulnerable older population.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Acknowledgements
+------------------------------------------------------------------------
+
+The authors have none to declare.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Abbreviations
+---------------------------------------------------------------------
+
+SARS-CoV-2
+Severe Acute Respiratory Syndrome-CoronaVirus-2
+
+IRR
+Incidence Rate Ratio
+
+CI
+Confidence Interval
+
+CSSE
+Center for Systems Science and Engineering
+
+CIA
+Central Intelligence Agency
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Authors’ contributions
+------------------------------------------------------------------------------
+
+NDY: Conception, design of the work; data collection; data analysis and interpretation; drafting the article; critical revisions of the article. NSW: design of the work; drafting the article; critical revisions of the article. JAR: critical revisions of the article. MMT: Conception, design of the work; drafting the article; critical revisions of the article. All authors read and gave final approval of the manuscript version submitted for publication.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Funding
+---------------------------------------------------------------
+
+The authors have no funding sources to declare.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Availability of data and materials
+------------------------------------------------------------------------------------------
+
+Datasets compiled for this study are publicly available. Specific data sources are detailed in the Methods section and Table [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#Tab1) of the manuscript.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Ethics approval and consent to participate
+--------------------------------------------------------------------------------------------------
+
+All data analyzed for this study were anonymous and publicly available in aggregate form. The Institutional Review Board at Yale University deems the use of publicly available de-identified data as not human subjects research**.**
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Consent for publication
+-------------------------------------------------------------------------------
+
+Not applicable.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Competing interests
+---------------------------------------------------------------------------
+
+The authors declare they have no competing interests.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Footnotes
+-----------------------------------------------------------------
+
+**Publisher’s Note**
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)References
+------------------------------------------------------------------
+
+*   1.Organization WH . World Health Organization Coronavirus Disease (COVID-2019) Situation Report - 91. Coronavirus disease (COVID-2019) situation reports Web site. 2020.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=World%20Health%20Organization%20Coronavirus%20Disease%20(COVID-2019)%20Situation%20Report%20-%2091.%20Coronavirus%20disease%20(COVID-2019)%20situation%20reports%20Web%20site&publication_year=2020&)]
+*   2.Porcheddu R, Serra C, Kelvin D, Kelvin N, Rubino S. Similarity in case fatality rates (CFR) of COVID-19/SARS-COV-2 in Italy and China. J Infect Dev Ctries. 2020;14(2):125–128. doi: 10.3855/jidc.12600. [[DOI](https://doi.org/10.3855/jidc.12600)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32146445/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Infect%20Dev%20Ctries&title=Similarity%20in%20case%20fatality%20rates%20(CFR)%20of%20COVID-19/SARS-COV-2%20in%20Italy%20and%20China&author=R%20Porcheddu&author=C%20Serra&author=D%20Kelvin&author=N%20Kelvin&author=S%20Rubino&volume=14&issue=2&publication_year=2020&pages=125-128&pmid=32146445&doi=10.3855/jidc.12600&)]
+*   3.Grasselli G, Zangrillo A, Zanella A, Antonelli M, Cabrini L, Castelli A, Cereda D, Coluccello A, Foti G, Fumagalli R, Iotti G, Latronico N, Lorini L, Merler S, Natalini G, Piatti A, Ranieri MV, Scandroglio AM, Storti E, Cecconi M, Pesenti A. COVID-19 Lombardy ICU Network. Baseline characteristics and outcomes of 1591 patients infected with SARS-CoV-2 admitted to ICUs of the Lombardy region, Italy. JAMA. 2020;323(16):1574–81. 10.1001/jama.2020.5394. [[DOI](https://doi.org/10.1001/jama.2020.5394)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7136855/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32250385/)]
+*   4.Univeristy JH. Center for Systems Science and Engineering Coronavirus Resource Center. 2020.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Center%20for%20Systems%20Science%20and%20Engineering%20Coronavirus%20Resource%20Center&author=JH%20Univeristy&publication_year=2020&)]
+*   5.CIA . The World Factbook. 2020.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20World%20Factbook&publication_year=2020&)]
+*   6.Kang SJ, Jung SI. Age-related morbidity and mortality among patients with COVID-19. Infect Chemother. 2020;52(2):154–164. doi: 10.3947/ic.2020.52.2.154. [[DOI](https://doi.org/10.3947/ic.2020.52.2.154)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7335648/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32537961/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Infect%20Chemother&title=Age-related%20morbidity%20and%20mortality%20among%20patients%20with%20COVID-19&author=SJ%20Kang&author=SI%20Jung&volume=52&issue=2&publication_year=2020&pages=154-164&pmid=32537961&doi=10.3947/ic.2020.52.2.154&)]
+*   7.Imam Z, Odish F, Gill I, O'Connor D, Armstrong J, Vanood A, Ibironke O, Hanna A, Ranski A, Halalau A. Older age and comorbidity are independent mortality predictors in a large cohort of 1305 COVID-19 patients in Michigan, United States. J Intern Med. 2020;288(4):469–76. 10.1111/joim.13119. [[DOI](https://doi.org/10.1111/joim.13119)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7300881/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32498135/)]
+*   8.Bonanad C, Garcia-Blas S, Tarazona-Santabalbina F, et al. The effect of age on mortality in patients with COVID-19: a meta-analysis with 611,583 subjects. J Am Med Dir Assoc. 2020;21(7):915–918. doi: 10.1016/j.jamda.2020.05.045. [[DOI](https://doi.org/10.1016/j.jamda.2020.05.045)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7247470/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32674819/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Dir%20Assoc&title=The%20effect%20of%20age%20on%20mortality%20in%20patients%20with%20COVID-19:%20a%20meta-analysis%20with%20611,583%20subjects&author=C%20Bonanad&author=S%20Garcia-Blas&author=F%20Tarazona-Santabalbina&volume=21&issue=7&publication_year=2020&pages=915-918&pmid=32674819&doi=10.1016/j.jamda.2020.05.045&)]
+*   9.Richardson S, Hirsch JS, Narasimhan M, et al. Presenting characteristics, comorbidities, and outcomes among 5700 patients hospitalized with COVID-19 in the New York City area. JAMA. 2020;323(20):2052–2059. doi: 10.1001/jama.2020.6775. [[DOI](https://doi.org/10.1001/jama.2020.6775)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7177629/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32320003/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA.&title=Presenting%20characteristics,%20comorbidities,%20and%20outcomes%20among%205700%20patients%20hospitalized%20with%20COVID-19%20in%20the%20New%20York%20City%20area&author=S%20Richardson&author=JS%20Hirsch&author=M%20Narasimhan&volume=323&issue=20&publication_year=2020&pages=2052-2059&pmid=32320003&doi=10.1001/jama.2020.6775&)]
+*   10.Guan WJ, Liang WH, Zhao Y, Liang HR, Chen ZS, Li YM, Liu XQ, Chen RC, Tang CL, Wang T, Ou CQ, Li L, Chen PY, Sang L, Wang W, Li JF, Li CC, Ou LM, Cheng B, Xiong S, Ni ZY, Xiang J, Hu Y, Liu L, Shan H, Lei CL, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Cheng LL, Ye F, Li SY, Zheng JP, Zhang NF, Zhong NS, He JX. China Medical Treatment Expert Group for COVID-19. Comorbidity and its impact on 1590 patients with COVID-19 in China: a nationwide analysis. Eur Respir J. 2020;55(5):2000547. 10.1183/13993003.00547-2020. [[DOI](https://doi.org/10.1183/13993003.00547-2020)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7098485/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32217650/)]
+*   11.Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020;395(10229):1054–1062. doi: 10.1016/S0140-6736(20)30566-3. [[DOI](https://doi.org/10.1016/S0140-6736(20)30566-3)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7270627/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32171076/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet.&title=Clinical%20course%20and%20risk%20factors%20for%20mortality%20of%20adult%20inpatients%20with%20COVID-19%20in%20Wuhan,%20China:%20a%20retrospective%20cohort%20study&author=F%20Zhou&author=T%20Yu&author=R%20Du&volume=395&issue=10229&publication_year=2020&pages=1054-1062&pmid=32171076&doi=10.1016/S0140-6736(20)30566-3&)]
+*   12.Boccia S, Ricciardi W, Ioannidis JPA. What other countries can learn from Italy during the COVID-19 pandemic. JAMA Intern Med. 2020;180(7):927–8. 10.1001/jamainternmed.2020.1447. [[DOI](https://doi.org/10.1001/jamainternmed.2020.1447)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32259190/)]
+*   13.McMichael TM, Currie DW, Clark S, Pogosjans S, Kay M, Schwartz NG, Lewis J, Baer A, Kawakami V, Lukoff MD, Ferro J, Brostrom-Smith C, Rea TD, Sayre MR, Riedo FX, Russell D, Hiatt B, Montgomery P, Rao AK, Chow EJ, Tobolowsky F, Hughes MJ, Bardossy AC, Oakley LP, Jacobs JR, Stone ND, Reddy SC, Jernigan JA, Honein MA, Clark TA, Duchin JS. Public Health–Seattle and King County, EvergreenHealth, and CDC COVID-19 Investigation Team. Epidemiology of Covid-19 in a long-term Care Facility in King County, Washington. N Engl J Med. 2020;382(21):2005–11. 10.1056/NEJMoa2005412. [[DOI](https://doi.org/10.1056/NEJMoa2005412)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7121761/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32220208/)]
+*   14.Richardson SJ, Carroll CB, Close J, Gordon AL, O'Brien J, Quinn TJ, Rochester L, Sayer AA, Shenkin SD, van der Velde N, Woo J, Witham MD. Research with older people in a world with COVID-19: identification of current and future priorities, challenges and opportunities. Age Ageing. 2020;49(6):901–6. 10.1093/ageing/afaa149. [[DOI](https://doi.org/10.1093/ageing/afaa149)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7454250/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32584954/)]
+*   15.Team CC-R. Geographic differences in COVID-19 cases, deaths, and incidence - United States, February 12-April 7, 2020. MMWR Morb Mortal Wkly Rep. 2020;69(15):465–471. doi: 10.15585/mmwr.mm6915e4. [[DOI](https://doi.org/10.15585/mmwr.mm6915e4)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7755058/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32298250/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&title=Geographic%20differences%20in%20COVID-19%20cases,%20deaths,%20and%20incidence%20-%20United%20States,%20February%2012-April%207,%202020&author=CC-R%20Team&volume=69&issue=15&publication_year=2020&pages=465-471&pmid=32298250&doi=10.15585/mmwr.mm6915e4&)]
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386)Associated Data
+-----------------------------------------------------------------------
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Data Availability Statement
+
+Datasets compiled for this study are publicly available. Specific data sources are detailed in the Methods section and Table [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7675386#Tab1) of the manuscript.

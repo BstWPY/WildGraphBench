@@ -1,0 +1,26 @@
+# Valve bans developer after employees leave fake user reviews
+
+![Image 1: Lucy is an action role-playing game character that attacks and defends](https://cdn.arstechnica.net/wp-content/uploads/2018/02/wildbuster-800x450.jpg)
+
+[Enlarge](https://cdn.arstechnica.net/wp-content/uploads/2018/02/wildbuster.jpg)/ Insel's _Wild Buster_ is one of the games that has been removed from Steam after evidence of user review faking was found.
+
+Insel Games, a Maltese developer of online multiplayer titles, has been banned from Steam and had all its titles removed from Valve's storefront after evidence surfaced that it was encouraging employees to manipulate user review scores on the service.
+
+Yesterday, redditor nuttinbutruth posted [a purported leaked email from Insel Games' CEO](https://www.reddit.com/r/Steam/comments/7x5p94/insel_games_ceo_threatened_employees_to_force/) encouraging employees to buy reimbursed copies of the game in order to leave a Steam review. "Of course I cannot force you to write a review (let alone tell you what to write)—but I should not have to," the email reads. "Neglecting the importance of reviews will ultimately cost jobs. If [_Wild Busters_] fails, Insel fails... and then we will all have no jobs next year."
+
+In [a message later in the day](https://steamcommunity.com/games/681860/announcements/detail/1680276769864923201), Valve said it had investigated the claims in the Reddit post and "identified unacceptable behavior involving multiple Steam accounts controlled by the publisher of this game. The publisher appears to have used multiple Steam accounts to post positive reviews for their own games. This is a clear violation of our review policy and something we take very seriously."
+
+While Valve has ended its business relationship with Insel Games, users who previously purchased the company's games on Steam will still be able to use them.
+
+Refining the system
+-------------------
+
+Insel Games is a relatively minor publisher in the grand scheme of the Steam market, with only three titles and top sales measured in the tens of thousands, [according to Steam Spy estimates](http://steamspy.com/dev/Insel+Games+Ltd.). Still, the company's Steam ban reflects on Valve's continuing efforts to clean up the highly manipulable world of user reviews.
+
+Back in September of 2016, Valve [started filtering out user reviews from players who didn't buy the game directly through Valve's storefront](https://arstechnica.com/gaming/2016/09/valve-steam-cheating-review-scores-devs/). That stopped unscrupulous developers from giving away lots of free game keys in exchange for good reviews but had an adverse impact on developers that rely on reviews from crowdfunding patrons or bundle sales.
+
+"These are your most loyal fans and so you’re cutting them away from the sampling pool," Larian Studios' Swen Vincke told Rock Paper Shotgun in the wake of that change. "That doesn’t really feel fair. We have 42K backers whose opinion will be hidden behind a filter and not be accounted for in the score."
+
+Valve made [further user review tweaks late last year](https://arstechnica.com/gaming/2017/09/steam-has-a-review-bomb-problem-but-will-todays-new-feature-fix-it/) to try to limit the effects of "review bombs," where an organized horde of users leaves a coordinated burst of negative reviews (often for [silly reasons](https://arstechnica.com/gaming/2017/08/steam-reviewers-bomb-dota-2-over-lack-of-half-life-3/?comments=1&post=33885371)). That change comes amid [ongoing updates to "discoverability" algorithms](https://arstechnica.com/gaming/2017/04/valve-taps-wisdom-of-crowds-to-help-filter-steam-games/) that seek to direct users to games they're likely to enjoy.
+
+User reviews can have a serious impact on Steam developers' bottom line, as evidenced by [one developer who sued customers for bad reviews](https://arstechnica.com/gaming/2016/09/valve-bans-developer-steam-lawsuit-customers-bad-reviews-2/) and was banned for the practice in 2016. As long as that financial impact is there, Valve will be fighting off ever more clever attempts to game the system and manufacture fake buzz where none actually exists.

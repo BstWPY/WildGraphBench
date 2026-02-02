@@ -1,0 +1,93 @@
+# www.census.gov/popclock
+
+Components of Population Change
+
+| Rates | Visualization |
+| --- | --- |
+|  | 09:10:40 UTC |
+| One birth every **9 seconds** |  |
+| One death every **10 seconds** |  |
+| One international migrant (net) every **23 seconds** |  |
+| Net gain of one person every **19 seconds** |  |
+
+[TOP 10 MOST POPULOUS COUNTRIES (July 1, 2025)](https://www.census.gov/popclock/world "International Programs - Country Rank")
+
+| [TOP 10 MOST POPULOUS COUNTRIES (July 1, 2025)](https://www.census.gov/popclock/world "International Programs - Country Rank") |
+| --- |
+| Rank. Country | Population | Rank. Country. Population | NaN |
+| 1. India | 1,419,316,933 | 6. Nigeria | 242,794,751 |
+| 2. China | 1,407,181,209 | 7. Brazil | 221,359,387 |
+| 3. United States | 342,034,432 | 8. Bangladesh | 170,183,916 |
+| 4. Indonesia | 283,587,097 | 9. Russia | 140,134,279 |
+| 5. Pakistan | 257,047,044 | 10. Mexico | 131,741,347 |
+
+[select date](https://www.census.gov/popclock/#dateselect)
+
+The United States population on December 1, 2025 was: 342,912,518
+
+[select date](https://www.census.gov/popclock/#dateselect)
+
+Annual Population Estimates
+---------------------------
+
+#### Regional Populations
+
+Northeast Midwest West South
+
+[play/pause](https://www.census.gov/popclock/)
+
+[States](https://www.census.gov/popclock/#populous-states)[Counties](https://www.census.gov/popclock/#populous-counties)[Cities](https://www.census.gov/popclock/#populous-cities)
+
+#### States
+
+| State | Population, 2024 | Pop. per sq. mi., 2024 |
+| --- | --- | --- |
+| [California](https://www.census.gov/quickfacts/fact/table/CA/PST045224) | 39,431,263 | 253.0 |
+| [Texas](https://www.census.gov/quickfacts/fact/table/TX/PST045224) | 31,290,831 | 119.8 |
+| [Florida](https://www.census.gov/quickfacts/fact/table/FL/PST045224) | 23,372,215 | 435.6 |
+| [New York](https://www.census.gov/quickfacts/fact/table/NY/PST045224) | 19,867,248 | 421.6 |
+| [Pennsylvania](https://www.census.gov/quickfacts/fact/table/PA/PST045224) | 13,078,751 | 292.3 |
+| [Illinois](https://www.census.gov/quickfacts/fact/table/IL/PST045224) | 12,710,158 | 229.0 |
+| [Ohio](https://www.census.gov/quickfacts/fact/table/OH/PST045224) | 11,883,304 | 290.8 |
+| [Georgia](https://www.census.gov/quickfacts/fact/table/GA/PST045224) | 11,180,878 | 193.7 |
+| [North Carolina](https://www.census.gov/quickfacts/fact/table/NC/PST045224) | 11,046,024 | 227.2 |
+| [Michigan](https://www.census.gov/quickfacts/fact/table/MI/PST045224) | 10,140,459 | 179.1 |
+
+#### Counties
+
+#### Cities
+
+[States](https://www.census.gov/popclock/#density-states)[Counties](https://www.census.gov/popclock/#density-counties)[Cities](https://www.census.gov/popclock/#density-cities)
+
+#### States
+
+| State | Population, 2024 | Pop. per sq. mi., 2024 |
+| --- | --- | --- |
+| [District of Columbia](https://www.census.gov/quickfacts/fact/table/DC/PST045224) | 702,250 | 11,488.5 |
+| [New Jersey](https://www.census.gov/quickfacts/fact/table/NJ/PST045224) | 9,500,851 | 1,291.8 |
+| [Rhode Island](https://www.census.gov/quickfacts/fact/table/RI/PST045224) | 1,112,308 | 1,075.9 |
+| [Massachusetts](https://www.census.gov/quickfacts/fact/table/MA/PST045224) | 7,136,171 | 914.8 |
+| [Connecticut](https://www.census.gov/quickfacts/fact/table/CT/PST045224) | 3,675,069 | 758.9 |
+| [Maryland](https://www.census.gov/quickfacts/fact/table/MD/PST045224) | 6,263,220 | 645.0 |
+| [Delaware](https://www.census.gov/quickfacts/fact/table/DE/PST045224) | 1,051,917 | 539.9 |
+| [Florida](https://www.census.gov/quickfacts/fact/table/FL/PST045224) | 23,372,215 | 435.6 |
+| [New York](https://www.census.gov/quickfacts/fact/table/NY/PST045224) | 19,867,248 | 421.6 |
+| [Pennsylvania](https://www.census.gov/quickfacts/fact/table/PA/PST045224) | 13,078,751 | 292.3 |
+
+#### Counties
+
+#### Cities
+
+### About the Population Clock and Population Estimates
+
+#### U.S. Population
+
+The U.S. population clock is based on a series of short-term projections for the resident population of the United States. This includes people whose usual residence is in the 50 states and the District of Columbia. These projections do not include members of the Armed Forces overseas, their dependents, or other U.S. citizens residing outside the United States.
+
+The projections are based on a monthly series of population estimates starting with the April 1, 2020 resident population from the 2020 Census.
+
+At the end of each year, a revised series of population estimates from the census date forward is used to update the short-term projections for the population clock. Once the updated series of monthly projections is completed, the daily population clock values are derived by interpolation. Within each calendar month, the daily numerical population change is assumed to be constant, subject to negligible differences caused by rounding.
+
+Population estimates produced by the U.S. Census Bureau for the United States, states, metropolitan and micropolitan statistical areas, counties, cities, towns, as well as for Puerto Rico and its municipios can be found on the [Population Estimates](https://www.census.gov/programs-surveys/popest.html) web page. Projections of the future population for the United States can be found on the [Population Projections](https://www.census.gov/programs-surveys/popproj.html) web page.
+
+Cities featured on the Most Populous and Highest Density lists feature populations of 5,000 or more on July 1, 2023.

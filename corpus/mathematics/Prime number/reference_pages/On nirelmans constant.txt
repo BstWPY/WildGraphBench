@@ -1,0 +1,41 @@
+# On Šnirel'man's constant
+
+[1] J. Chen - T. Wang, On the odd Goldbach problem, Acta Math. Sinica 32 (1989), 702-718. | [MR 1046491](https://mathscinet.ams.org/mathscinet-getitem?mr=1046491) | [Zbl 0695.10041](https://zbmath.org/?q=an:0695.10041)
+
+[2] A. Granville - J. Van De Lune - H.J.J. Te Riele, "Checking the Golbach conjecture on a vector computer". Collection: Number theory and applications (Banff, Alberta, 1988), 423-433. Nato Adv. Sci. Inst. Ser. C Math. Phys. Sci. 265 ed. R.A. Mollin Publ. Kluwer Acad. Publ., Dordrecht (1989). | [MR 1123087](https://mathscinet.ams.org/mathscinet-getitem?mr=1123087) | [Zbl 0679.10002](https://zbmath.org/?q=an:0679.10002)
+
+[3] H. Halberstam - H.-E. Richert, Sieves methods, Academic Press, London, 1974.
+
+[4] H. Halberstam - K.F. Roth, Sequences, Clarendon Press, Oxford (1966). | [MR 210679](https://mathscinet.ams.org/mathscinet-getitem?mr=210679) | [Zbl 0141.04405](https://zbmath.org/?q=an:0141.04405)
+
+[5] C. Hooley, Applications of sieves methods to the theory of numbers, Cambridge University Press70, Cambridge, 1976. | [MR 404173](https://mathscinet.ams.org/mathscinet-getitem?mr=404173) | [Zbl 0327.10044](https://zbmath.org/?q=an:0327.10044)
+
+[6] Yu. V. Linnik, The Dispersion Method in Binary Additive Problems, Translations of Mathematical Monographs 4, Amer. Math. Soc., Providence RI, 1963. | [MR 168543](https://mathscinet.ams.org/mathscinet-getitem?mr=168543) | [Zbl 0112.27402](https://zbmath.org/?q=an:0112.27402)
+
+[7] H. Montgomery - R.C. Vaughan, The large sieve, Mathematika 20 (1973), 119-133. | [MR 374060](https://mathscinet.ams.org/mathscinet-getitem?mr=374060) | [Zbl 0296.10023](https://zbmath.org/?q=an:0296.10023)
+
+[8] E. Preissmann, Sur une inégalité de Montgomery et Vaughan, Enseign. Math.30 (1984), 95-113. | [MR 743672](https://mathscinet.ams.org/mathscinet-getitem?mr=743672) | [Zbl 0548.10031](https://zbmath.org/?q=an:0548.10031)
+
+[9] O. Ramaré, Short effective intervals containing primes, submitted to J. Number Theory.
+
+[10] O. Ramaré - R. Rumely, Primes in arithmetic progressions, Math. Comp. (to appear). | [MR 1320898](https://mathscinet.ams.org/mathscinet-getitem?mr=1320898) | [Zbl 0856.11042](https://zbmath.org/?q=an:0856.11042)
+
+[11] H. Riesel - R.C. Vaughan, On sums of primes, Ark. Mat.21 (1983), 45-74. | [MR 706639](https://mathscinet.ams.org/mathscinet-getitem?mr=706639) | [Zbl 0516.10044](https://zbmath.org/?q=an:0516.10044)
+
+[12] J.B. Rosser, Explicit bounds for some functions of prime numbers, Amer. J. Math.63 (1941), 211-232. | [JFM 67.0129.03](https://zbmath.org/?q=an:67.0129.03) | [MR 3018](https://mathscinet.ams.org/mathscinet-getitem?mr=3018) | [Zbl 0024.25004](https://zbmath.org/?q=an:0024.25004)
+
+[13] J.B. Rosser - L. Schoenfeld, Approximate formulas for some functions of prime numbers, Illinois J. Math.6 (1962), 64-94. | [MR 137689](https://mathscinet.ams.org/mathscinet-getitem?mr=137689) | [Zbl 0122.05001](https://zbmath.org/?q=an:0122.05001)
+
+[14] J.B. Rosser - L. Schoenfeld, Sharper bounds for the Chebyshev functions ψ and θ. I, Math. Comp.29 (1975), 243-269. | [Zbl 0295.10036](https://zbmath.org/?q=an:0295.10036)
+
+[15] R. Rumely, Numerical Computations Concerning the ERH, Math. Comp.61 (1993), 415-440. | [MR 1195435](https://mathscinet.ams.org/mathscinet-getitem?mr=1195435) | [Zbl 0792.11034](https://zbmath.org/?q=an:0792.11034)
+
+[16] I.Z. Ruzsa, An additive property of squares and primes, Acta Arith.49 (1987), 281-289. | [MR 932527](https://mathscinet.ams.org/mathscinet-getitem?mr=932527) | [Zbl 0636.10042](https://zbmath.org/?q=an:0636.10042)
+
+[17] H.N. Shapiro - J. Warga, On the representation of large integers as sums of primes, Comm. Pure Appl. Math.3 (1950), 153-176. | [MR 37323](https://mathscinet.ams.org/mathscinet-getitem?mr=37323) | [Zbl 0038.18602](https://zbmath.org/?q=an:0038.18602)
+
+[18] L. Schoenfeld, Sharper bounds for the Chebyshev functions ψ and θ. II, Math. Comp.30 (1976), 337-360. | [Zbl 0326.10037](https://zbmath.org/?q=an:0326.10037)
+
+[19] R.C. Vaughan, A note on Šnirel'man's approach to Goldbach's problem, Bull. London Math. Soc.8 (1976), 245-250. | [MR 424736](https://mathscinet.ams.org/mathscinet-getitem?mr=424736) | [Zbl 0336.10046](https://zbmath.org/?q=an:0336.10046)
+
+[20] R.C. Vaughan, On the estimation of Schnirelman's constant, J. Reine Angew. Math.290 (1977), 93-108. | [MR 437478](https://mathscinet.ams.org/mathscinet-getitem?mr=437478) | [Zbl 0344.10028](https://zbmath.org/?q=an:0344.10028)

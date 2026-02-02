@@ -1,0 +1,297 @@
+# Technological Change and the Evolution of the U.S. "National Innovation System", 1880-1990
+
+Technological change has played a central role in US economic growth since the 19th century. The pioneering work of Solow (1957) and Abramovitz (1956) both suggested that expansion in labor and capital accounted for no more than 15% of total growth in US output per head between the middle of the 19th century and the 1950s. The remaining 85%, labeled the “residual,” is widely interpreted as a measure of the economic effects of technological change, although Abramovitz famously referred to it as a “measure of our ignorance”. This essay explores the changing characteristics of innovation and the relationship between innovation and US economic growth during this lengthy period.
+
+The transition from the 19th to the 20th centuries was accompanied by a shift in the sources of US economic growth from exploitation of a rich domestic endowment of natural resources to the exploitation of “created” resources based on knowledge and trained scientists and engineers. Advances in technology and knowledge aided the exploitation of the US resource endowment during the 19th century, enabling the United States to overtake the global economic leader of the time, Great Britain. Beginning in the late 19th century, however, the United States embarked on a prolonged transition from resource-led to knowledge-led economic growth.
+
+Institutional innovation was an indispensable complement to technological innovation during and after this period in US economic development. Public and private investments in new organizational structures for the support of knowledge creation, innovation and education were essential to the changing trajectory of US economic growth in the 19th and 20th centuries. State and federal government investments supported the creation of a higher education infrastructure that eventually proved to be an important source of scientific and engineering knowledge and personnel (Goldin and Katz, 2009). Industrial investment in the development of new technologies also made important contributions during the 20th century. And the 1945-89 period, dominated by geopolitical tensions that sparked massive investment of public funds in defense and related missions by the federal government, witnessed a further transformation of this complex mix of public and private institutions devoted to supporting innovation.
+
+This essay surveys the development of the US “national innovation system” from the late 19th to the late 20th centuries. The “national innovation system” framework for analyzing innovative performance and policy is the subject of a substantial body of scholarship that has flourished since the first articulation of the concept in Freeman (1987; see also Lundvall, 1992 and Nelson, 1993). “National” innovation systems typically include the institutions, policies, actors, and processes that affect the creation of knowledge, the innovation processes that translate research into applications (either for commercial sale or deployment in such “nonmarket” contexts as national defense), and the processes that influence the adoption of innovations.
+
+Accordingly, the US national innovation system includes not just the institutions performing R&D and the level and sources of funding for such R&D, but policies—such as antitrust policy, intellectual property rights, and regulatory policy—that affect technology development, the training of scientists and engineers, and technology adoption. Institutional elements, such as national systems of higher education and corporate finance and governance, represent other important components of national innovation systems. The structure of a nation’s innovation system is the result of complex historical processes of institutional development that are affected by public policy and other influences. Moreover, the performance of these systems depends in part on the actions and decisions of private enterprises that can reinforce or offset the effects of government policies.
+
+Overview of US economic “catch-up,” 1800–1910
+---------------------------------------------
+
+US economic growth during the 19th century has been characterized by Abramovitz and David (2000), David and Wright (1997), and Wright (2007) as more capital- and natural resource-intensive than Western European growth during the same period. The capital-intensive trajectory of US economic growth during the 19th century reflected the high rates of investment and significant innovation in the transportation and communications infrastructure (canals, railways, the telegraph and telephone) that contributed to the development of another major factor in 19th-century US economic growth—the large, unified domestic market that manufacturers in particular exploited in the wake of the Civil War. Through much of the 19th century, this domestic market was characterized by relatively low levels of income inequality, by comparison with Great Britain and other European economies, resulting in a large, homogeneous profile of consumer demand. Reliable all-weather inland transportation also facilitated the export of the produce of the abundant and relatively fertile expanse of farmland within the United States.
+
+During the last two decades of the 19th century, the US economy began a prolonged transition from the extensive growth trajectory that relied on expanding capital, resource, and labor inputs to a more knowledge-intensive growth trajectory that was associated with higher rates of total factor productivity growth (Abramovitz and David, 2002). One of the most dramatic illustrations of this gradual shift was the increased exploitation of scientific and technical knowledge in US resource extraction industries that began in the late 19th century (David and Wright, 1997). As David and Wright pointed out, the United States pioneered in the development of new institutions for research and education in mining engineering, geology and related fields that supported expansion in US output of minerals and related raw materials during this period. Based in part on a growing endowment of economically relevant natural resources, US firms had moved to the technological frontier in mass-production manufacturing, particularly in metalworking and machinery industries, by the late 19th century (Nelson and Wright, 1994: 135).1
+
+Many of the first academic institutions specializing in these fields of research and education were publicly funded, illustrating another important characteristic of the post-1870 period of economic catch-up. The 1862 Morrill Act established a foundation for publicly funded higher education, and (along with the 1887 Hatch Act) expanded federal and state government funding for research and extension activities in agriculture. The development of mass higher education in the United States occurred in parallel with the emergence of the first US “research university” (Johns Hopkins University, founded in 1876), which was based on the German research university structure that had proven to be effective in supporting scientific research and collaboration with industry. Although decades (and billions in public funding) were required to bring US universities to positions of global scientific leadership, even before their attainment of research excellence these institutions played a crucial role in training generations of scientists, engineers, and managers, and developed networks of collaboration in scientific and technical research with US industry that contributed to US economic growth in the late 19th and 20th centuries.
+
+Much of the technological innovation that drove US economic development during the 19th century was “pre-scientific,” relying as much on trial-and-error experimentation by skilled practitioners as on activities that might be described as “R&D”. The reliance of 19th century innovation on “tinkering” declined in the final decades of the century, with the growth of new areas of industrial production and innovation that relied on more complex technologies that were linked to the frontiers of scientific and engineering knowledge. Their reliance on more formalized knowledge meant that the growth of the “new industries” of the Second Industrial Revolution, particularly chemicals and electrical machinery, was associated with investments in R&D within the firm, an activity with little precedent in most US firms.
+
+The pioneers in this organizational innovation were the large German chemicals firms of the last quarter of the 19th century, whose growth was based on innovations in dyestuffs. But by the early 20th century, a number of large US firms had also established in-house R&D organizations. The growth of these laboratories almost certainly could not have occurred without complementary changes in institutions external to the firm, ranging from the development of US universities to the growth of new mechanisms for industrial finance. Nonetheless, the rise of the industrial R&D laboratory represented a fundamental shift in the structure of the US national innovation system.
+
+The Growth of US Industrial Research in the “Second Industrial Revolution,” 1890-1945
+-------------------------------------------------------------------------------------
+
+By the first decade of the 20th century, a number of large US manufacturing firms had established in-house industrial research laboratories as part of a broader restructuring that transformed their scale, management structures, product lines, and global reach. Many of the earliest US corporate investors in industrial R&D, such as General Electric and Alcoa, were founded on product or process innovations that drew on advances in physics and chemistry. The corporate R&D laboratory brought more of the process of developing and improving industrial technology into the boundaries of US manufacturing firms, reducing the technological and economic importance of the independent inventor (Schmookler, 1957).
+
+But the in-house research facilities of large US firms were not concerned exclusively with the creation of new technologies. Like the laboratories of the German dyestuff firms, these US industrial laboratories also monitored technological developments outside the firm and advised corporate managers on the acquisition of externally developed technologies. Many of Du Pont’s major product and process innovations during this period, for example, were obtained from sources external to the firm, and Du Pont further developed and commercialized them (Mueller, 1962; Hounshell and Smith, 1988; Hounshell, 1995).2 In-house R&D in US firms developed in parallel with independent R&D laboratories that performed research on a contract basis (see also Mowery, 1983a). But over the course of the 20th century, contract-research firms’ share of industrial research employment declined.
+
+The evolution of industrial research in the United States was influenced by another factor that was absent in Germany during the late 19th and early 20th centuries — competition policy. By the late 19th century, judicial interpretations of the Sherman Antitrust Act had made agreements among firms for the control of prices and output targets of civil prosecution. The 1895-1904 merger wave in the United States, particularly the surge in mergers after 1898, was one response to this new legal environment. Since informal and formal price-fixing and market-sharing agreements had been declared illegal in a growing number of cases, firms resorted to horizontal mergers to control prices and markets.3
+
+The Sherman Act’s encouragement of horizontal mergers ended with the Supreme Court’s 1904 Northern Securities decision, but many large US firms responded to the new antitrust environment by pursuing strategies of diversification that relied on in-house R&D to support the commercialization of new technologies that were developed internally or purchased from external sources. George Eastman saw industrial research as a means of supporting the diversification and growth of Eastman Kodak (Sturchio, 1988, p. 8). The Du Pont Company used industrial research to diversify out of the black and smokeless powder businesses even before the 1913 antitrust decision that forced the divestiture of much of the firm’s black powder and dynamite businesses (Hounshell and Smith, 1988: 57).
+
+Although it discouraged horizontal mergers among large firms in the same lines of business, US antitrust policy through much of the pre-1940 period had little effect on efforts by these firms to acquire new technologies from external sources. The development of industrial research, as well as the creation of a market for the acquisition and sale of industrial technologies, also benefited from reforms in US patent policy between 1890 and 1910 that strengthened patent-holder rights (See Mowery, 1995).4 Judicial tolerance for restrictive patent licensing policies further increased the value of patents in corporate research strategies. Although the search for new patents provided an incentive to pursue industrial research, the impending expiration of these patents created another important impetus for the establishment of industrial research laboratories. Both American Telephone and Telegraph and General Electric, for example, established or expanded their in-house laboratories in response to the intensified competitive pressure that resulted from the expiration of key patents (Reich, 1985; Millard, 1990: 156). Intensive efforts to improve and protect corporate technological assets complemented the acquisition of patents in related technologies from other firms and independent inventors.
+
+Many of the elements of the “Open Innovation” model, defined by its leading proponent as a new model for managing corporate innovation in which “firms can and should use external ideas as well as internal ideas” (Chesbrough, 2003), were present in the early development of US industrial R&D. The in-house R&D facilities of leading industrial firms served as monitors of external technological developments that supported the purchase by their parent firms of important innovations from independent inventors and other firms.
+
+Another area in which the pre-1940 era in the development of industrial research resembles that of the past two decades is the evidence of collaborative linkages between industrial and academic research. Furman and MacGarvie (2005) show that pharmaceuticals industry R&D facilities founded during 1927– 46 in the United States tended to locate near leading research universities, and provide other evidence of university-industry collaboration in pharmaceuticals during this period. Other scholars (Mowery et al., 2004; Rosenberg, 1998) have emphasized the importance of university-industry collaboration during this period, not least in the development of such important fields of university research as chemical engineering.
+
+Training by public universities of scientists and engineers for employment in industrial research also linked US universities and industry during the first decades of the 20th century. The Ph.D.s trained in public universities were important participants in the expansion of industrial research employment during this period (Thackray, 1982: 211).5 The size of this trained manpower pool was as important as its quality; although the situation was improving in the decade before 1940, Cohen (1976) noted that virtually all “serious” US scientists completed their studies at European universities. Thackray et al. (1985) argue that American chemistry research during this period attracted attention (in the form of citations in other scientific papers) as much for its quantity as its quality.
+
+Federal expenditure for R&D throughout the 1930s constituted 12-20% of total US R&D expenditure, and industry accounted for about two-thirds of the total. The remainder came from universities, state governments, private foundations, and research institutes. One estimate suggests that state funds may have accounted for as much as 14% of university research funding during 1935-36 (National Resources Planning Board, 1942: 178). Moreover, the contribution of state governments to non-agricultural university research appears from these data to have exceeded the federal contribution, in sharp contrast to the postwar period. The modest role of the federal government in financing US R&D during the 1930s changed radically as a result of the political events of the next 20 years.
+
+The transformation of the US innovation system, 1945-1989
+---------------------------------------------------------
+
+The global conflict of 1939-1945 transformed the structure of R&D throughout the industrial economies. In few if any other industrial economies, however, was this transformation as dramatic as in the United States. The structure of the pre-1940 US R&D system resembled those of other leading industrial economies of the era, such as the United Kingdom, Germany, and France: industry was a significant funder and performer of R&D, and central government funding of R&D was modest. But the postwar US R&D system differed from those of other industrial economies in at least three aspects: 1. US antitrust policy during the postwar period was unusually stringent; 2. small, new firms played an important role in the commercialization of new technologies, especially in information technology;6 and 3. defense-related R&D funding and procurement exercised a pervasive influence in the high-technology sectors of the US economy.
+
+A central characteristic of the institutional transformation of the US national innovation system during this period was increased federal support for R&D, most of which was defense-related. Defense-related R&D spending accounted for more than 80% of total federal R&D spending for much of the 1950s, and rarely has dropped below 50% of federal R&D expenditure during the entire 1949-2005 period (figure 1; data from US Office of Management and Budget, 2005). Since federal R&D spending accounted for more than 50% of total national R&D spending during 1953-78 (data for overall national R&D investment are available only after 1952), and only dropped below 40% in 1991 (its postwar low point of 25% appeared in 2000, as Figure 2 shows; data from National Science Board, 2006), the significance of the federal government’s defense-related R&D investment is obvious—in some years during the postwar period (e.g., the late 1950s and early 1960s), public defense-related R&D investment accounted for nearly one-half of total national R&D spending.
+
+###### **Figure 1.** Federal and Nonfederally funded R&D, 1953-2002
+
+![Image 1: BBVA-OpenMind-Figure 1-david-mowery](https://web.archive.org/web/20220127224449im_/https://www.bbvaopenmind.com/wp-content/uploads/2011/02/BBVA-OpenMind-Figure-1-david-mowery.jpg)
+
+###### **Figure 2.** Defense & Nondefense share of total federal gov’t R&D outlays, 1949-2005
+
+![Image 2: BBVA-OpenMind-Figure 2-david-mowery](https://web.archive.org/web/20220127224449im_/https://www.bbvaopenmind.com/wp-content/uploads/2011/02/BBVA-OpenMind-Figure-2-david-mowery.jpg)
+
+Defense-related R&D programs affected innovation throughout the postwar US economy. Much of the “R&D infrastructure” of the postwar economy, including large research facilities in industry, government, or academia, was built with funding from defense-related R&D programs. In addition, defense-related funding for academic research in fields ranging from computer science to oceanography supported the training of thousands of scientists and engineers. A second important channel of influence was associated with technological “spinoffs” — technological advances developed for defense-related applications that found large markets in the civilian economy. Such spinoffs proved to be particularly significant in aerospace and information technology.6
+
+A third important channel through which defense-related spending on new technologies advanced civilian technological applications, aiding the exploitation of technological “spinoffs”, was procurement. Postwar defense-related R&D programs typically were complemented by substantial purchases of new technologies. The US military services, whose procurement requirements typically emphasized performance above all other characteristics (including cost), played a particularly important role during the post-1945 period as a “lead purchaser,” placing large orders for early versions of new technologies. These procurement orders enabled suppliers of products such as transistors or integrated circuits to reduce the prices of their products and improve their reliability and functionality.7 Government procurement allowed innovators to benefit from production-related learning and cost reductions by expanding output of early versions of a new technology. Reductions in production costs led to lower prices for the technologies, by opening up civilian markets, which typically are more price-sensitive.
+
+Examples of technological “spinoffs” from defense-related R&D spending in the postwar United States include the jet engine and swept-wing airframe that transformed the postwar US commercial aircraft industry. Major advances in computer networking and computer memory technologies, which found rapid applications in civilian as well as military programs, also trace their origins to defense-supported R&D programs. Defense-related procurement was particularly important in the postwar US information technology industry. In other areas, however, such as numerically controlled machine tools, defense-related demand for applications of novel technologies had detrimental effects on the commercial fortunes of US machine tool firms (Mazzoleni, 1999; Stowsky, 1992). And the light-water nuclear reactor technologies that were first developed for military applications proved to be poorly adapted to the civilian sector (Cowan, 1990).
+
+The “spinoff” and “procurement” channels of interaction were most significant when defense and civilian requirements for new technologies overlapped significantly and/or when defense-related demand accounted for a large share of total demand for a new technology. In both aerospace and information technology, the economic and technological significance of military-civilian spinoffs appear to have declined as a result of growing divergence in the technological requirements of military and civilian products, as well as the growth of civilian markets for these products. Moreover, in some cases, such as information technology, the influence of defense applications on the overall direction of technical development not only declined by the 1990s; defense technologies in some areas lagged behind those in the civilian sector, reflecting the reduced influence of defense-related demand and R&D investment on the innovative activities of private firms.
+
+Although defense-related R&D programs typically are dominated by spending on “development,” rather than “research, the sheer size of the overall investment of public funds meant that government defense-related R&D supported academic research in a diverse array of disciplines in the physical sciences and engineering. But federal R&D funding in the bio-medical sciences, which was allocated largely to research, also grew substantially during the post-1945 period. Although the primary federal funder of biomedical research, the National Institute of Health (NIH), was established in 1930, its extramural research program received significant support only after the founding in 1937 of the National Cancer Institute, the first of 28 research institutes within the NIH (Swain, 1962) and during the late 1940s, NIH’s extramural research programs began to grow more rapidly.8 By 1970, NIH funding of academic research amounted to $2 billion (in 2000 dollars), which had grown to more than $13 billion by 2009.
+
+Rapid growth in the NIH budget, along with slower growth in defense-related R&D after 1970, shifted the disciplinary composition of federally funded research away from the physical sciences and engineering and toward biomedical research. Growth in federally funded biomedical R&D has been more than matched by growth in privately funded R&D investment in the US pharmaceuticals industry since 1990. By the early 21st century, federally funded R&D spending accounted for less than 40% of overall R&D spending in this sector.9 The NIH now supports half of all federal non-defense R&D and over 60% of federally funded research in American universities.10
+
+NIH support of academic research contributed to the scientific advances in molecular biology and related fields that gave rise to the biotechnology industry during the 1970s and 1980s. Scientific advances at such universities as Columbia, Stanford, and the University of California at San Francisco held out considerable potential for applications in pharmaceuticals and related industries. All three of these universities, as well as others, became important “incubators” for new firms, and increasingly patented faculty discoveries. Even before the passage of the Bayh-Dole Act of 1980, important patents had been filed on behalf of these three universities, and university licensing in biomedical fields grew rapidly during the 1980s and 1990s (See Mowery et al., 2004).
+
+In contrast to federal investments in IT, federal R&D policy in the biomedical sector did not combine federal procurement-related “demand-pull” with its large investments in research. But the dominance of third-party payment (from both public and private sources) for the majority of US healthcare meant that patients and doctors alike were more responsive to performance than to price. As a result, new technologies tended to command a higher price premium in the United States biomedical market than in other industrial economies, where public insurance systems often limited prices and margins. These incentives to adopt and apply new technologies quickly may well have influenced the commercial exploitation by US pharmaceutical, medical device, and biotechnology firms of the knowledge and techniques produced by NIH R&D investments.
+
+As I noted earlier, an internationally unique characteristic of the US national innovation system that dates back to the late 19th century has been the unusually stringent character of US antitrust policy, which exerted great influence on the early R&D strategies of many leading US industrial firms. Antitrust policy continued to affect the development of industrial R&D during the postwar period. US antitrust policy during the 1950s and 1960s made it more difficult for large US firms to acquire firms in “related” technologies or industries, and increased their reliance on intra-firm sources for new technologies (see Fligstein, 1990). In the case of Du Pont, the use of the central laboratory and Development Department to seek technologies from external sources was ruled out by senior management as a result of perceived antitrust restrictions on acquisitions in related industries. As a result, internal discovery (rather than development) of new products became paramount (Hounshell and Smith, 1988 emphasize the firm’s postwar expansion in R&D and its search for “new nylons”11), in contrast to the firm’s R&D strategy before World War II. The inward focus of Du Pont research appears to have impaired the firm’s postwar innovative performance, even as its central corporate research laboratory gained a sterling reputation within the global scientific community.
+
+In other US firms, senior managers sought to maintain growth through the acquisition of firms in unrelated lines of business, creating conglomerate firms with few if any technological links among products and processes. Chandler (1990) and others (e.g., Ravenscraft and Scherer, 1987; Fligstein, 1990) argue that diversification weakened senior management understanding of and commitment to the development of the technologies that historically had been essential to the competitive success, eroding the quality and consistency of decision-making on technology-related issues.12
+
+Another novel characteristic of the US national innovation system during the 1945-90 period — one that contrasted with the pre-1940 period –was the prominence of new firms in commercializing new technologies. In industries that effectively did not exist before 1940, such as computers, semiconductors, and biotechnology, new firms played important roles in the commercialization of innovations. These postwar US industries differed from their counterparts in Japan and most Western European economies, where established electronics and pharmaceuticals firms retained dominant roles in the commercialization of these technologies.
+
+Several factors contributed to the importance of new firms in the postwar US innovation system. The large basic research establishments in universities, government, and a number of private firms served as “incubators” for the development of innovations that “walked out the door” with individuals who established firms to commercialize them. Although Klepper (2009) argues that a similar pattern of entrepreneurial exit and establishment of new firms within the same geographic region also characterized the US automobile industry in the early 20th century, the evolution of the postwar US biotechnology, microelectronics and computer industries was heavily affected by such new-firm “spinoffs” from established firms. Indeed, high levels of labor mobility within regional agglomerations of high-technology firms served as an important channel for technology diffusion and as a magnet for other firms in related industries to locate in these areas. Such labor mobility also aided in the transfer of knowledge and know-how within many of these nascent high-technology industries.13 The importance of new firms in commercializing postwar innovations in these new industries in the postwar US economy also relied on the extension to much smaller firms of the equity-based system of industrial finance that distinguished the US economy from those of Germany and Japan.
+
+Conclusion
+----------
+
+Along with other industrial economies, the United States shifted from an economy whose performance was based on the exploitation of domestic natural resources, including agricultural resources, to a “knowledge-based economy” during the 20th century. This transition took decades, but it also was characterized by a number of phenomena widely cited as hallmarks of 21st-century innovation. “Open innovation,” for example, in which large corporations utilize intra-firm capabilities to scan the technological horizon for potential acquisitions of new technologies, accurately describes the strategies of many of the large US corporate pioneers of in-house R&D during the early 20th century. Their acquisitions of technologies from external sources also relied on the operation of a market for intellectual property that was widespread during the early decades of the 20th century, although its importance was subsequently supplanted by the in-house technology development activities of large firms.
+
+This brief survey also highlights the close interaction among technological, policy, and institutional influences within the evolution of the US national innovation system. The discussion underscores the linkages between the processes of technological innovation and adoption that are essential to economic growth in all industrial economies. Much of the economic influence of post-1945 federal R&D spending, for example, flowed from the effects of public policy on both support for the development of new technologies and support for their rapid adoption. Moreover, in fields such as information technology, the widespread adoption by US users of such innovations as desktop computers and computer networking created a vast domestic platform that supported user-led innovation. For this “general purpose technology” in particular, innovation and adoption interacted and accelerated one another. Public policies to address future technological challenges such as global climate change or public health must take into account the importance of consistency and support for both technological innovation and adoption.
+
+Bibliography
+------------
+
+Abramovitz, M. (1956), “Resource and Output Trends in the United States since 1870”, American Economic Review 46, pp. 5-23.
+
+Abramovitz, M., and P. A. David (2000), “American Macroeconomic Growth in the Era of Knowledge-Based Progress”, in S. L. Engerman and R. E. Gallman (eds.), The Cambridge Economic History of the United States, vol. III., New York: Cambridge University Press.
+
+American Association for the Advancement of Science (2005), Research and Development in the FY2006 Budget, Washington, D.C.: American Association for the Advancement of Science.
+
+Bok, D. (1982), Beyond the Ivory Tower, Cambridge, MA: Harvard University Press.
+
+Braun, E., and S. MacDonald (1978), Revolution in Miniature, New York: Cambridge University Press.
+
+Bromberg, L. (1991), The Laser in America, 1950-1970, Cambridge, MA: The MIT Press.
+
+Bush, V. (1945), Science: The Endless Frontier, Washington, D.C.: U.S. Government Printing Office.
+
+Chandler, A. D., Jr. (1977), The Visible Hand, Cambridge, MA: Harvard University Press.
+
+Chandler, A. D., Jr. (1990), Scale and Scope, Cambridge: MA: Harvard University Press.
+
+Chandler, A. D., Jr. (2001), Inventing the Electronic Century, New York: Free Press.
+
+Chandler, A. D., Jr., and T. Hikino (1997), “The large industrial enterprise and the dynamics of modern economic growth”, in A. D. Chandler, Jr., F. Amatori and T. Hikino (eds.), Big Business and the Wealth of Nations, Cambridge, UK: Cambridge University Press.
+
+Chesbrough, H. (2003), Open Innovation: The New Imperative for Creating and Profiting from Technology, Boston, MA: Harvard Business School Press.
+
+Chesbrough, H. (2006), “Open Innovation: A New Paradigm for Understanding Industrial Innovation” in H. Chesbrough, W. Vanhaverbeke and J. West (eds.), Open Innovation: Researching a New Paradigm, New York: Oxford University Press.
+
+Cohen, I. B. (1976), “Science and the Growth of the American Republic”, Review of Politics, 38, pp. 359-398.
+
+Cohen, W., R. Florida and R. Goe (1994), “University-Industry Research Centers in the United States”, Technical Report, Center for Economic Development, Carnegie-Mellon University.
+
+Cohen, W., R. Florida, L. Randazzese and J. Walsh (1998), “Industry and the Academy: Uneasy Partners in the Cause of Technological Advance”, in R. Noll, ed., Challenges to the Research University, Washington, D.C.: Brookings Institution.
+
+Cowan, R. (1990), “Nuclear Power Reactors: A Study in Technological Lock-In”, Journal of Economic History 50, pp. 541-567.
+
+David, P. A., and G. Wright (1997), “Increasing Returns and the Genesis of American Resource Abundance”, Industrial and Corporate Change, 6, pp. 203-245.
+
+Davis, L. A., and R. J. Cull (2000), “International Capital Movements, Domestic Capital Markets, and American Economic Growth, 1820-1914”, in S. L. Engerman and R. E. Gallman (eds.), The Cambridge Economic History of the United States, vol. II, New York: Cambridge University Press.
+
+Edquist, C. (2004), “Systems of Innovation: Perspectives and Challenges”, in J. Fagerberg, D. C. Mowery and R. R. Nelson (eds.), Oxford Handbook of Innovation and Policy, Oxford, UK: Oxford University Press.
+
+Fligstein, N. (1990), The Transformation of Corporate Control, Cambridge, MA: Harvard University Press.
+
+Freeman, C. (1987), Technology Policy and Economic Performance: Lessons from Japan, London: Pinter.
+
+Freeman, C. (1995), “The ‘National System of Innovation’ in Historical Perspective”, Cambridge Journal of Economics, 19, pp. 5-24.
+
+Furman, J., and M. MacGarvie (2005), “Early Academic Science and the Birth of Industrial Research Laboratories in the U.S. Pharmaceutical Industry”, National Bureau of Economic Research working paper #11470.
+
+Galambos, L., and J. L. Sturchio (1998), “Pharmaceutical firms and the Transition to Biotechnology: A Study in Strategic Innovation”, Business History Review 72, pp. 250-278.
+
+Gallman, R. E. (2000), “Economic Growth and Structural Change in the Long Nineteenth Century”, in S. L. Engerman and R. E. Gallman (eds.), The Cambridge Economic History of the United States, vol. II, New York: Cambridge University Press.
+
+Gerschenkron, A. (1962), Economic Backwardness in Historical Perspective Cambridge, MA: Harvard University Press.
+
+Gibb, G.S., and E. H. Knowlton (1956), The Resurgent Years: History of Standard Oil Company (New Jersey), 1911-1927, New York: Harper & Row.
+
+Goldin, and Katz (2009), The Race Between Education and Technology, Cambridge, MA: Harvard University Press.
+
+Graham, M. B. W. (1986), RCA and the Videodisc: The Business of Research, New York: Cambridge University PressGraham, M. B. W., and H. G. Pruitt (1990), R&D for Industry: A Century of Technical Innovation at Alcoa, New York: Cambridge University Press.
+
+Haines, M. R. (2000), “The Population of the United States, 1790-1920” in S. L. Engerman and R. E. Gallman (eds.), The Cambridge Economic History of the United States, vol. II, New York: Cambridge University Press.
+
+Hounshell, D. A. (1995), “Du Pont and the Management of Large-Scale Research and Development”, in P. Gallison and B. Hevly, Big Science: The Growth of Large-Scale Research, Stanford, CA: Stanford University Press.
+
+Hounshell, D. A. (2000), “The Medium is the Message, or How Context Matters: The RAND Corporation Builds an Economics of Innovation, 1946-62”, in T. P. Hughes and A. Hughes (eds.), Systems, Experts, and Computers, Cambridge, MA: MIT Press.
+
+Hounshell, D. A., and J. K. Smith (1998), Science and Corporate Strategy: Du Pont R&D, 1902-1980, New York: Cambridge University Press.
+
+Klepper, S. (2009), “Silicon Valley—A Chip off the old Detroit Bloc” in Z. Acs, B. Audretsch and R. Strom (eds.), Entrepreneurship, Growth, and Public Policy, New York: Cambridge University Press.
+
+Lamoreaux, N. R., and K. L. Sokoloff (1999), ìInventors, Firms, and the Market for Technology in the Late Nineteenth and Early Twentieth Centuriesî, in N. R. Lamoreaux, D. M. G. Raff and P. Temin (eds.), Learning by Doing in Markets, Firms, and Countries, Chicago: University of Chicago Press.
+
+Lamoreaux, N. R., and K. L. Sokoloff (2005), “The Decline of the Independent Inventor: A Schumpeterian Story”, National Bureau of Economic Research Working Paper #11654.
+
+Langlois, R. (2003), “The Vanishing Hand: The Changing Dynamics of Industrial Capitalism”, Industrial and Corporate Change, pp. 12, 351-385.
+
+Langlois, R. N., and D. C. Mowery (1996), “The Federal Government Role in the Development of the U.S. Software Industry” in D. C. Mowery (ed.), The International Computer Software Industry: A Comparative Study of Industry Evolution and Structure, New York: Oxford University Press.
+
+Leslie, S. W. (1993), The Cold War and American Science, New York: Columbia University Press.
+
+Levin, Richard C. (1982), “The Semiconductor Industry”, in R. R. Nelson ed., Government and Technical Progress: A Cross-Industry Analysis, New York: Pergamon Press.
+
+Lundvall, B. -Å. (1992), National Systems of Innovation: Towards a Theory of Innovation and Interactive Learning, London: Pinter.
+
+Maddison, A. (1994), “Explaining the Economic Performance of Nations, 1820-1989”, in W. J. Baumol, R. R. Nelson and E. N. Wolff (eds.), Convergence of Productivity, New York: Oxford University Press.
+
+Marr, W.L., and D. G. Paterson (1980), Canada: An Economic History, Toronto: Macmillan.
+
+Mazzoleni, R. (1999), “Innovation in the Machine Tool Industry: A Historical Perspective on the Dynamics of Comparative Advantage”, in D. C. Mowery and R. R. Nelson (eds.), The Sources of Industrial Leadership, New York: Cambridge University Press.
+
+McMillan, G. S., F. Narin and D. S. Deeds (2000), “An Analysis of the Critical Role of Public Science in Innovation: The Case of Biotechnology”, Research Policy 29, pp.1-8.
+
+Millard, A. (1990), Edison and the Business of Invention, Baltimore, MD: Johns Hopkins University Press.
+
+Mowery, D. C.(1983a), “Industrial Research, Firm Size, Growth, and Survival, 1921-1946”, Journal of Economic History, 43, pp. 953-980.
+
+Mowery, D. C. (1983b), “The Relationship between the Contractual and In-House Forms of Industrial Research in American Manufacturing, 1900-1940”, Explorations in Economic History, 20, pp. 351-374.
+
+Mowery, D. C. (1995), “The Boundaries of the U.S. Firm in R&D”, in N. R. Lamoreaux and D. M. G. Raff (eds.), Coordination and Information: Historical Perspectives on the Organization of Enterprise, Chicago: University of Chicago Press for NBER.
+
+Mowery, D. C. (2005), “National Security and National Innovation Systems”, presented at the PRIME/PREST workshop on “Reevaluating the Role of Defence and Security R&D in the Innovation System”, University of Manchester, September 19-21.
+
+Mowery, D. C., R. R. Nelson, B. Sampat and A. Ziedonis (2004), Ivory Tower and Industrial Innovation, Stanford, CA: Stanford University Press.
+
+Mowery, D. C., and N. Rosenberg (1999), Paths of Innovation, New York: Cambridge University Press.
+
+Mowery, D. C., and B. N. Sampat ( 2004), “The Bayh-Dole Act of 1980 and University-Industry Technology Transfer: A Model for Other OECD Governments?” Journal of Technology Transfer, 30, pp. 115-127.
+
+Mowery, D. C., and T. Simcoe (2002), “The History and Evolution of the Internet” in B. Steil, R. Nelson and D. Victor (eds.), Technological Innovation and Economic Performance, Princeton, NJ: Princeton University Press.
+
+Mowery, D. C., and A. Ziedonis (2002), “Academic Patent Quality and Quantity Before and After the Bayh-Dole Act in the United States”, Research Policy, 31, pp. 399-418.
+
+Mueller, W. F. (1962), “The Origins of the Basic Inventions Underlying DuPont’s Major Product and Process Innovations, 1920 to 1950” in The Rate and Direction of Inventive Activity, Princeton: Princeton University Press.
+
+National Research Council (1999), Funding a Revolution: Government Support for Computing Research, National Academies Press.
+
+National Research Council (2004), A Patent System for the 21st Century, Washington, D.C.: National Academies Press.
+
+National Resources Planning Board, Research—A National Resource, Washington, D.C.: U.S. Government Printing Office.
+
+National Science Board (2006), Science and Engineering Indicators: 2006, Washington, D.C.: U.S. Government Printing Office.
+
+National Science Foundation, Directorate for Social, Behavioral, and Economic Sciences (1995a), “1993 Spending Falls for U.S. Industrial R&D, Nonmanufacturing Share Increases”, http://www.nsf.gov/statistics/databrf/sdb95325.pdf.
+
+National Science Foundation, Science Resources Division (1995b), “Research and Development in Industry, 1992”, http://www.nsf.gov/statistics/nsf96333/appa.pdf.
+
+National Science Foundation, Science Resources Division (2005), Academic Research and Development Expenditures: Fiscal Year 2003, Washington D.C.: National Science Foundation.
+
+Neal, A. D., and D. G. Goyder (1980), The Antitrust Laws of the United States, Cambridge, UK: Cambridge University Press.
+
+Nelson, R. R. (ed.) (1993), National Innovation Systems: A Comparative Analysis, New York: Oxford University Press.
+
+Nelson, R. R., and G. Wright (1992), “The Rise and Fall of American Technological Leadership”, Journal of Economic Literature 30(4), December, pp. 1931-1964.
+
+Patit, J. M., S. P. Raj, and D. Wilemon (2006), “Integrating Internal and External R&D: What Can We Learn from the History of Industrial R&D?”, presented at the meetings of the Academy of Management, Atlanta, GA, August 4-6.
+
+Pharmaceutical Manufacturers Association (2003), Industry Profile 2003, http://www.phrma.org/publications/profile02.
+
+Ravenscraft, D., and F. M. Scherer (1987), Mergers, Sell-Offs, and Economic Efficiency, Washington, D.C.: Brookings Institution.
+
+Reich, L. S. (1985), The Making of American Industrial Research, New York: Cambridge University Press.
+
+Rosenberg, N. (1998), “Technological Change in Chemicals: The Role of University-Industry Relations” in A. Arora, R. Landau, and N. Rosenberg, eds., Chemicals and Long-Term Economic Growth, New York: John Wiley.
+
+Schmookler, J. (1957), “Inventors Past and Present”, Review of Economics and Statistics, 39, pp. 321-333.
+
+Schumpeter, J. A. (1943), Capitalism, Socialism, and Democracy, New York: Harper & Row.
+
+Solow, R. M. (1957), “Technical Change and the Aggregate Production Function”, Review of Economics and Statistics, 39, pp. 312-320.
+
+Stigler, G. J. (1968), “Monopoly and Oligopoly by Merger”, in G. J. Stigler (ed.), The Organization of Industry, Homewood, IL, Irwin.
+
+Stowsky, J. (1992), “From Spin-off to Spin-on: Redefining the Military’s Role in American Technology Development”, in W. Sandholtz, M. Borrus, J. Zysman, K. Conca, J. Stowsky, S. Vogel, and S. Weber, The Highest Stakes, New York: Oxford University Press.
+
+Sturchio, J. L. (1988), “Experimenting with Research: Kenneth Mees, Eastman Kodak, and the Challenges of Diversification”, presented at “The R&D Pioneers”, Hagley Museum and Library, October 7.
+
+Swann, J. P. (1988), Academic Scientists and the Pharmaceutical Industry, Baltimore, MD, Johns Hopkins University Press.
+
+Thackray, A. (1982), “University-Industry Connections and Chemical Research: An Historical Perspective”, in University-Industry Research Relationships, Washington, D.C., National Science Board.
+
+Thackray, A., J. L. Sturchio, P.T. Carroll and R. Bud (1985), Chemistry in America, 1876-1976: Historical Indicators, Dordrecht: Reidel.
+
+Thorelli, H.B. (1954), Federal Antitrust Policy, Baltimore, MD: Johns Hopkins University Press.
+
+Trow, M. (1979), “Aspects of Diversity in American Higher Education”, in H. Gans, On the Making of Americans, Philadelphia: University of Pennsylvania Press.
+
+Trow, M. (1991), “American Higher Education: ‘Exceptional’ or Just Different?” in B. E. Shafer (ed.), Is America Different? A New Look at American Exceptionalism, New York: Oxford University Press.
+
+U.S. Office of Management and Budget (2005), Budget of the U.S. Government, Fiscal Year 2006: Historical Tables, Washington, D.C.: U.S. Government Printing Office.
+
+Wildes, K.L., and N. A. Lindgren (1985), A Century of Electrical Engineering and Computer Science at MIT, 1882-1982 Cambridge, MA: MIT Press.
+
+Wright, G. (2007), “Historical Origins of the New American Economy”, unpublished MS, Stanford University.
+
+Notes
+-----
+
+1 “These new turn-of-the-century achievements may be thought of as the confluence of two technological streams: the ongoing advance of mechanical and metalworking skills and performance, focused on the high-volume production of standardized commodities; and the process of exploring, developing, and utilizing the mineral resource base of the national economy.
+
+2 The research facilities of AT&T were instrumental in the procurement of the “triode” from independent inventor Lee de Forest, and advised senior corporate management on their decision to obtain loading-coil technology from Pupin (Reich, 1985). General Electric’s research operations monitored foreign technological advances in lamp filaments and the inventive activities of outside firms or individuals, and pursued patent rights to innovations developed all over the world (Reich, 1985: 61). The Standard Oil Company of New Jersey established its Development Department precisely to carry out development of technologies obtained from other sources, rather than for original research (Gibb and Knowlton, 1956: 525). Alcoa’s R&D operations also closely monitored and frequently purchased process innovations from external sources (Graham and Pruitt, 1990: 145-147).
+
+3 See Stigler (1968). The Supreme Court ruled in the Trans Missouri Association case in 1898 and the Addyston Pipe case in 1899 that the Sherman Act outlawed all agreements among firms on prices or market sharing. Data in Thorelli (1954) and Lamoreaux (1985) indicate an increase in merger activity between the 1895-1898 and 1899-1902 periods. Lamoreaux (1985) argues that other factors, including the increasing capital-intensity of production technologies and the resulting rise in fixed costs, were more important influences on the US merger wave, but her account (p. 109) also acknowledges the importance of the Sherman Act in the peak of the merger wave. Lamoreaux also emphasizes the incentives created by tighter Sherman Act enforcement after 1904 for firms to pursue alternatives to merger or cartelization as strategies for attaining or preserving market power.
+
+4 These technology-acquisition strategies built on a domestic market for intellectual property that grew substantially during the 1880-1920 period. According to Lamoreaux and Sokoloff (1999), the development of a national market for intellectual property enabled independent inventors to specialize and thereby enhanced their productivity and the overall innovative performance of the US economy during this period. By the early 20th century, however, the increased costs of inventive activity and greater demand for formal scientific and engineering training led to the supplanting of independent by corporate inventors (Lamoreaux and Sokoloff, 2005).
+
+5 Hounshell and Smith (1988: 298) report that 46 of the 176 Ph.D.s overseen by Carl Marvel, longtime professor in the University of Illinois chemistry department, went to work for one firm, Du Pont. According to Thackray (1982: 221), 65% of the 184 Ph.D.s overseen by Professor Roger Adams of the University of Illinois during 1918-58 went directly into industrial employment. In 1940, 30 of the 46 Ph.D.s produced by the University of Illinois chemistry department were first employed in industry.
+
+6 Chandler and Hikino (1997) argue that established firms dominated the commercialization of new technologies in most sectors of the postwar US economy, with the significant exception of “…electronic data-processing technologies, based on the transistor and integrated circuit…” (p. 33).
+
+7 New technologies undergo a prolonged period of “debugging”, performance and reliability improvement, cost reduction, and learning on the part of users and producers about applications and maintenance (Mowery and Rosenberg, 1999). The pace and pattern of such progressive improvement affect the rate of adoption, and the rate of adoption in turn affects the development of these innovations.
+
+8 A substantial majority (80%) of the annual research budget of the NIH supports research conducted in laboratories at universities, generally in medical schools.
+
+9 The US Pharmaceutical Manufacturers Association estimated that foreign and US pharmaceuticals firms invested more than $26 billion in R&D in the United States in 2002, substantially above the $16 billion R&D investment by the National Institute of Health in the same year (See Pharmaceutical Manufacturers Association, 2003, for both estimates).
+
+10 National Science Foundation/Division of Science Resources Statistics, Survey of Research and Development Expenditures at Universities and Colleges, FY 2006. http://www.nsf.gov/statistics/nsf08300/pdf/nsf08300.pdf
+
+11 Hounshell and Smith (1988) and Mueller (1962) both argue that discovery and development of nylon, one of Du Pont’s most commercially successful innovations, was in fact atypical of the firm’s pre-1940 R&D strategy, which bore more than a passing resemblance to “open innovation.” Rather than being developed to the point of commercialization following its acquisition by Du Pont, nylon was based on the basic research of Carothers within Du Pont’s central corporate research facilities. The successful development of nylon from basic research through to commercialization nevertheless exerted a strong influence on Du Pont’s postwar R&D strategy, not least because of the fact that many senior Du Pont executives had direct experience with the nylon project. Hounshell (1992) argues that Du Pont had far less success in employing the “lessons of nylon” to manage such costly postwar synthetic fiber innovations as Delrin.
+
+12 Graham’s discussion (1986) of the failure of RCA to commercialize its videodisk technology in the face of the firm’s extensive diversification into such unrelated industries as automobile rental agencies and frozen food is an illustrative analysis of the failures of technology management that accompanied the conglomerate-diversification strategies of many US firms in the 1960s and 1970s.
+
+13 Discussing the development of laser technology, Bromberg (1991) highlights the importance of linkages among research funders and performers within the United States during the 1950s and 1960s that in turn were based on researcher mobility: “Academic scientists were linked to industrial scientists through the consultancies that university professors held in large and small firms, through the industrial sponsorship of university fellowships, and through the placement of university graduates and postdoctoral fellows in industry. They were linked by joint projects, of which a major example here is the Townes-Schawlow paper of [sic] optical masers, and through sabbaticals that academics took in industry and industrial scientists took in universities. Academic scientists were linked with the Department of Defense R&D groups, and with other government agencies through tours of duty in research organizations such as the Institute for Defense Analyses, through work at DoD-funded laboratories such as the Columbia Radiation Laboratory or the MIT Research laboratory for Electronics, and through government study groups and consultancies. They were also linked by the fact that so much of their research was supported by the Department of Defense and NASA.” (Bromberg, 1991: 224).

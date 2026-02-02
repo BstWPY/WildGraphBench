@@ -1,0 +1,53 @@
+# The Top Twenty: Largest Known Primes
+
+The Wayback Machine - http://primes.utm.edu/top20/page.php?id=3
+
+*   [Home](http://primes.utm.edu/top20/home.php)
+*   [Index](http://primes.utm.edu/top20/index.php)
+*   [Search](http://primes.utm.edu/top20/search.php)
+*   [Sizes](http://primes.utm.edu/top20/sizes.php)
+*   [Trends](http://primes.utm.edu/top20/trends.php)
+*   [id=3](http://primes.utm.edu/top20/)
+
+[](http://primes.utm.edu/top20/page.php?id=3)The Prime Pages keeps a list of the 5000 largest known primes, plus a few each of certain selected archivable forms and classes. These forms are defined in this collection's home page. This page is about one of those forms. Comments and suggestions [requested](http://20120716181435/mailto:caldwell@utm.edu).[](http://primes.utm.edu/top20/page.php?id=3)
+### [![Image 1: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=3#top) Definitions and Notes
+
+At this site we maintain a list of the 5000 largest known [primes](http://primes.utm.edu/glossary/xpage/Prime.html) (plus selected smller primes). It is [easy to show](http://primes.utm.edu/notes/proofs/) that there are infinitely many primes (in fact there are approximately _x_/ln(_x_) primes less than _x_, see "[How Many](http://primes.utm.edu/howmany.shtml)"). This means that each of the primes below are probably separated by many millions of other (curently unkown) primes.
+
+[](http://primes.utm.edu/top20/page.php?id=3)
+### [![Image 2: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=3#top) Record Primes of this Type
+
+> | rank | prime | digits | who | when | comment |
+> | --- | --- | --- | --- | --- | --- |
+> | [1](http://primes.utm.edu/primes/page.php?id=85527) | **2 43112609 - 1** | 12978189 | [G10](http://primes.utm.edu/bios/code.php?code=G10) | Aug 2008 | Mersenne 47?? |
+> | [2](http://primes.utm.edu/primes/page.php?id=88847) | **2 42643801 - 1** | 12837064 | [G12](http://primes.utm.edu/bios/code.php?code=G12) | Jun 2009 | Mersenne 46?? |
+> | [3](http://primes.utm.edu/primes/page.php?id=85528) | **2 37156667 - 1** | 11185272 | [G11](http://primes.utm.edu/bios/code.php?code=G11) | Sep 2008 | Mersenne 45? |
+> | [4](http://primes.utm.edu/primes/page.php?id=78470) | **2 32582657 - 1** | 9808358 | [G9](http://primes.utm.edu/bios/code.php?code=G9) | Sep 2006 | Mersenne 44? |
+> | [5](http://primes.utm.edu/primes/page.php?id=76545) | **2 30402457 - 1** | 9152052 | [G9](http://primes.utm.edu/bios/code.php?code=G9) | Dec 2005 | Mersenne 43? |
+> | [6](http://primes.utm.edu/primes/page.php?id=73550) | **2 25964951 - 1** | 7816230 | [G8](http://primes.utm.edu/bios/code.php?code=G8) | Feb 2005 | Mersenne 42? |
+> | [7](http://primes.utm.edu/primes/page.php?id=70545) | **2 24036583 - 1** | 7235733 | [G7](http://primes.utm.edu/bios/code.php?code=G7) | May 2004 | Mersenne 41 |
+> | [8](http://primes.utm.edu/primes/page.php?id=67522) | **2 20996011 - 1** | 6320430 | [G6](http://primes.utm.edu/bios/code.php?code=G6) | Nov 2003 | Mersenne 40 |
+> | [9](http://primes.utm.edu/primes/page.php?id=1) | **2 13466917 - 1** | 4053946 | [G5](http://primes.utm.edu/bios/code.php?code=G5) | Dec 2001 | Mersenne 39 |
+> | [10](http://primes.utm.edu/primes/page.php?id=80385) | **19249 · 2 13018586 + 1** | 3918990 | [SB10](http://primes.utm.edu/bios/code.php?code=SB10) | May 2007 |  |
+> | [11](http://primes.utm.edu/primes/page.php?id=107930) | **341112 524288 + 1** | 2900832 | [L3184](http://primes.utm.edu/bios/code.php?code=L3184) | Jun 2012 | Generalized Fermat |
+> | [12](http://primes.utm.edu/primes/page.php?id=74836) | **27653 · 2 9167433 + 1** | 2759677 | [SB8](http://primes.utm.edu/bios/code.php?code=SB8) | Jun 2005 |  |
+> | [13](http://primes.utm.edu/primes/page.php?id=93373) | **90527 · 2 9162167 + 1** | 2758093 | [L1460](http://primes.utm.edu/bios/code.php?code=L1460) | Jun 2010 |  |
+> | [14](http://primes.utm.edu/primes/page.php?id=103235) | **75898 524288 + 1** | 2558647 | [p334](http://primes.utm.edu/bios/code.php?code=p334) | Nov 2011 | Generalized Fermat |
+> | [15](http://primes.utm.edu/primes/page.php?id=73145) | **28433 · 2 7830457 + 1** | 2357207 | [SB7](http://primes.utm.edu/bios/code.php?code=SB7) | Dec 2004 |  |
+> | [16](http://primes.utm.edu/primes/page.php?id=98959) | **3 · 2 7033641 + 1** | 2117338 | [L2233](http://primes.utm.edu/bios/code.php?code=L2233) | Feb 2011 | Divides GF(7033639, 3) |
+> | [17](http://primes.utm.edu/primes/page.php?id=82804) | **33661 · 2 7031232 + 1** | 2116617 | [SB11](http://primes.utm.edu/bios/code.php?code=SB11) | Oct 2007 |  |
+> | [18](http://primes.utm.edu/primes/page.php?id=2) | **2 6972593 - 1** | 2098960 | [G4](http://primes.utm.edu/bios/code.php?code=G4) | Jun 1999 | Mersenne 38 |
+> | [19](http://primes.utm.edu/primes/page.php?id=89536) | **6679881 · 2 6679881 + 1** | 2010852 | [L917](http://primes.utm.edu/bios/code.php?code=L917) | Aug 2009 | Cullen |
+> | [20](http://primes.utm.edu/primes/page.php?id=87775) | **1582137 · 2 6328550 + 1** | 1905090 | [L801](http://primes.utm.edu/bios/code.php?code=L801) | Apr 2009 | Cullen |
+
+[](http://primes.utm.edu/top20/page.php?id=3)
+### [![Image 3: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=3#top) Related Pages
+
+*   [The Largest Known Primes](http://primes.utm.edu/largest.html)
+*   [Largest Known Prime by Year](http://primes.utm.edu/notes/by_year.html)
+*   [The chronology of prime number records](http://perso.wanadoo.fr/yves.gallot/primes/chrrcds.html)
+
+[](http://primes.utm.edu/top20/page.php?id=3)
+### [![Image 4: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=3#top) References
+
+> Ribenboim95**P. Ribenboim**, _The new book of prime number records_, 3rd edition, Springer-Verlag, New York, NY, 1995. pp. xxiv+541, ISBN 0-387-94457-5. **[MR 96k:11112](http://www.ams.org/mathscinet-getitem?mr=96k:11112)**[An excellent resource for those with some college mathematics. Basically a Guinness Book of World Records for primes with much of the relevant mathematics. The extensive bibliography is seventy-five pages.]Riesel94**H. Riesel**, _Prime numbers and computer methods for factorization_, Progress in Mathematics Vol, 126, Birkhäuser Boston, Boston, MA, 1994. ISBN 0-8176-3743-5. **[MR 95h:11142](http://www.ams.org/mathscinet-getitem?mr=95h:11142)**[An excellent reference for those who want to start to program some of these algorithms. Code is provided in Pascal. Previous edition was vol. 57, 1985.]

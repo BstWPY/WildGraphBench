@@ -1,0 +1,235 @@
+# Clinical characteristics of COVID-19
+
+**Last reviewed/updated:** 30 May 2023
+
+_**Disclaimer:**The information contained in this factsheet is intended for the purpose of general information and should not substitute individual expert advice or judgement of healthcare professionals._
+
+Case definition
+---------------
+
+COVID-19 is a disease under surveillance in the European Union (EU) and must be reported by all Member States. For EU surveillance purposes, a confirmed case is any person meeting at least one of the following laboratory criteria:
+
+*   detection of SARS-CoV-2 nucleic acid;
+*   identification of SARS-CoV-2 r antigen in a clinical specimen (excluding self-tests performed outside healthcare settings);
+*   or isolation of SARS-CoV-2 in a clinical specimen [1]
+
+Surveillance of COVID-19
+------------------------
+
+Well-designed, representative sentinel surveillance systems in primary and secondary care remain the core surveillance method for acute viral respiratory infections. These can provide robust data for monitoring the spread and intensity of respiratory virus activity and circulating variant viruses. Data from other non-sentinel sources or registry-based systems provide complementary information including molecular information on circulating variant viruses. Surveillance informs public health measures, hospital capacities, the impact of vaccination programmes, and other control measures.
+
+The ECDC and WHO Regional Office for Europe issued surveillance objectives and operational considerations for the integrated surveillance of influenza, COVID-19, and other respiratory virus infections in Europe to support the continuity of national surveillance systems and public health laboratories for epidemiological and virological surveillance for influenza, SARS-CoV-2, and other potential respiratory viruses [2].
+
+To increase the samples available for sequencing to identify SARS-CoV-2 variant viruses, additional specimens from other non-sentinel surveillance systems could be included. Targeted surveillance including molecular surveillance of either specific populations or related to selected settings are approaches which could provide relevant data.
+
+The pathogen SARS-COV-2
+-----------------------
+
+COVID-19 disease is caused by a virus of the coronavirus family, SARS-CoV-2, in the order of nidovirales. Like SARS-COV-1, SARS-CoV-2 belongs to the betacoronavirus genus and sarbecovirus sub-genus [3].
+
+To date, there are seven different types of human coronaviruses, four of which cause mild to moderate respiratory diseases, such as common colds. The other three cause more severe and occasionally fatal diseases. These are:
+
+*   SARS-CoV-1, responsible for the severe acute respiratory syndrome (SARS);
+*   MERS-CoV, responsible for the Middle East respiratory syndrome (MERS); and
+*   SARS-CoV-2, responsible for COVID-19.
+
+Like all viruses, SARS-CoV-2 evolves and adapts itself through mutation. While most emerging mutations have no significant impact on the spread of the virus, some mutations or combinations of mutations provide the virus with a selective advantage, e.g. increased transmissibility or the ability to evade the host immune response. In such cases, these mutations or combinations of mutations (also called variations) can increase the risk to human health, and the virus strains (or variants) that carry those mutations are classified as variants of concern (VOCs) [4].
+
+ECDC continuously assesses new evidence on the emergence and circulation of VOCs in the EU and [reports its findings on the evolution of SARS-COV-2](https://www.ecdc.europa.eu/en/covid-19/variants-concern "SARS-CoV-2 variants of concern as of 28 June 2024").
+
+Clinical features and sequelae
+------------------------------
+
+### Clinical features
+
+The most common symptoms of COVID-19 are:
+
+*   Cough;
+*   Fatigue;
+*   Fever;
+*   Headache;
+*   Myalgia;
+*   Loss of smell;
+*   Nasal obstruction;
+*   Asthenia;
+*   Rhinorrhoea; and
+*   Sore throat [5-9]. 
+
+Symptoms may vary, both in frequency and severity, depending on the SARS-CoV-2 variant causing the disease episode [10]. Most cases of COVID-19 are mild or moderate and do not require hospitalisation or advanced medical care [10].
+
+Severe disease usually manifests as pneumonia with shortness of breath and pulmonary infiltrates on chest imaging. Pneumonia can be complicated by respiratory failure requiring oxygen supplementation and mechanical ventilation [11]. Other severe complications include thromboembolism (such as pulmonary embolism and stroke), circulatory shock, myocardial damage, arrhythmias, and encephalopathy [11-13]. Severe illness usually develops approximately one week after the onset of symptoms.
+
+People who received a full course of vaccination may still experience flu-like symptoms but are less likely to suffer from severe disease and require hospitalisation.
+
+### COVID-19 in children
+
+Children usually experience mild symptoms (mainly fever and cough), if any, and have a very low risk of hospitalisation or death [14] . However, some children may develop severe disease after infection with COVID-19, defined as multi-system inflammatory syndrome in children (MIS-C). This rare syndrome shares common clinical features with other paediatric inflammatory syndromes such as Kawasaki disease, toxic shock syndrome, and macrophage activation syndrome [15,16].
+
+### Risk groups for severe disease
+
+The risk of very severe disease increases with advancing age and the presence of comorbidities, and is slightly higher among males than females.
+
+A range of conditions have been linked to severe clinical outcomes in terms of hospital admission, ICU admission, and mortality. These include hypertension, diabetes, chronic kidney disease, coronary heart disease, chronic obstructive pulmonary disease (COPD), cerebrovascular disease and chronic liver disease, use of immunosuppressive medications, arrythmia, ischemic heart disease, heart failure, cancer, and obesity [17-19]. Smoking has also been linked with a higher risk of severe outcomes [20].
+
+Some migrant and ethnic minority groups have been found to be at an increased risk of severe illness and hospitalisation due to COVID-19. This is likely associated with social and economic factors, such as occupation (with face-to-face exposure), housing situation (with crowded and/or intergenerational housing), and barriers in access to healthcare [21].
+
+### Post-COVID-19 condition
+
+Some patients may experience long-term symptoms with unclear aetiology, referred to as Post-COVID-19 condition (and sometimes as ‘Long COVID’). This has been defined as ‘the condition that occurs in individuals with a history of probable or confirmed SARS-CoV-2 infection, usually three months from the onset of COVID-19, with symptoms that last for at least two months and cannot be explained by an alternative diagnosis’[22].
+
+The presentation is often episodic and affects multiple organ systems. This could include:
+
+*   Respiratory manifestations, e.g. shortness of breath, cough, and sore throat. Decreased diffusing capacity and abnormalities in lung imaging are commonly observed [13].
+*   Neuropsychiatric and cognitive symptoms, such as chronic fatigue (most commonly), headaches and loss of smell, difficulty concentrating, sleep disturbances, and depression [16].
+*   Cardiovascular presentations, e.g. chest pain and arrhythmias (e.g. atrial fibrillation presenting as palpitations or tachycardia), as well as heart failure and thromboembolic events [13].
+*   Manifestations from other organ systems, such as endocrine, gastrointestinal, renal, and skin, are reported less frequently [23].
+
+Patients with co-morbidities, obese individuals, older adults (>50 years and, particularly, those >85 years), women, and hospitalised patients are more likely to report prolonged symptoms [24] .
+
+Post-COVID-19 condition has been also reported in cohorts of children from several countries [25].
+
+Epidemiology of COVID-19
+------------------------
+
+On 31 December 2019, the Municipal Health Commission in Wuhan City, mainland China, issued a report on a cluster of pneumonia cases of unknown aetiology with a link to a wholesale fish and live animal market. The first European case was reported on 24 January 2020. On 30 January 2020, the World Health Organization (WHO) declared this outbreak of novel coronavirus a ‘public health emergency of international concern’ and on 11 March 2020 declared it officially as a global pandemic. On 5 May 2023, WHO stated that ’COVID-19 is now an established and ongoing health issue which no longer constitutes a public health emergency of international concern’ [26-28].
+
+ECDC still publishes a weekly overview of the COVID-19 epidemiological situation by country in the EU and the European Economic Area (EEA) and, jointly with the WHO Regional Office for Europe, the WHO European Region including the Western Balkans [29]. These overviews include age-specific COVID-19 case notification rates, test positivity, hospitalisation, intensive care admission and occupancy, death rates, virus variants, and vaccine uptake.
+
+Transmission of COVID-19
+------------------------
+
+A person can become infected through the inhalation of respiratory droplets from an infected individual (including aerosols generated through sneezing, coughing, speaking, singing, or breathing) or through direct contact with infected droplets through the eyes, mouth, or nose.
+
+Transmissibility, incubation period, and infectivity varies depending on the virus variants and the dividual immunity.
+
+The incubation period of COVID-19 ranges from two to 14 days, with an average of five to six days for earlier strains. Some variants, like Omicron, have a shorter incubation period (three to four days) [30].
+
+An individual is infectious if carrying and shedding viable infectious SARS-CoV-2, regardless of whether they have symptoms [31]. The infectivity period is the period during which people can transmit SARS-CoV-2 to others. An infected person can transmit the virus up to two days before they experience symptoms, indicating that the pre-symptomatic phase of COVID-19 is highly infectious [32]. The infectivity period may also be affected by disease severity, pre-existing immunity through vaccination, or prior infection [33-35]. The presence of SARS-CoV-2-RNA detected through RT-PCR in a patient (i.e. viral RNA shedding) does not necessarily indicate the presence of infectious SARS-CoV-2 and viable viral shedding.
+
+Case management and treatment of COVID-19
+-----------------------------------------
+
+Most SARS-CoV-2 infections do not require hospitalisation or medical treatment and can be managed at home or in outpatient settings.
+
+Medical treatment of COVID-19 is mostly supportive, including oxygen for severely ill patients and patients at risk of developing severe disease, and ventilation for critically ill patients. For patients with mild or moderate COVID-19 disease and increased risk for progression (e.g. due to advanced age and/or comorbidities), early medical treatment may be indicated.
+
+A SARS-CoV-2 infection and mild to moderate COVID-19 disease in adults does usually not require specific treatment. Antivirals and antiviral monoclonal antibodies can be considered in consultation with respective clinical specialists and available guidelines for adults and adolescents at risk of developing severe disease such as moderately to severely immunocompromised patients that may have an inadequate immune response to COVID-19 vaccination.
+
+WHO maintains regularly updated guidelines on case management of COVID-19 patients as well as information on COVID-19 therapeutics and drugs to prevent [COVID-19](https://www.ecdc.europa.eu/en/covid-19/latest-evidence/clinical)[40].
+
+WHO strongly recommends the use of systemic corticosteroids, interleukin-6 (IL-6) receptor blockers such as tocilizumab, or baricitinib as an alternative to IL-6 receptor blockers for severe or critical COVID-19 disease, in combination with corticosteroids [40].
+
+WHO has issued a strong recommendation against the use of the antimalarial hydroxychloroquine and the antiretrovirals lopinavir-ritonavir for COVID-19, regardless of disease severity, and a recommendation against the antiparasitic ivermectin, except in the context of clinical trials. Convalescent plasma should not be used for non-severe COVID-19 disease, and only for severe disease in the context of clinical trials [40].
+
+The evidence base is continuously evolving. Clinicians and public health practitioners are advised to consult treatment guidelines on a regular basis and follow local standards of care.
+
+Medicines
+---------
+
+Several medicinal products are authorised for use in the EU for the treatment of COVID-19 [41].
+
+In the early stages of infection for people at risk of developing severe disease that do not require supplemental oxygen, the following treatments are available:
+
+*   a combination of the **oral antiviral** nirmatrelvir and the **protease inhibitor** ritonavir;
+*   **antiviral monoclonal antibodies** (e.g. sotrovimab, a combination of the two monoclonal antibodies tixagevimab and cilgavimab, regdanvimab, or a combination of the two monoclonal antibodies casirivimab and imdevimab).
+
+For hospitalised patients requiring oxygen, the following treatments are available:
+
+*   the **antiviral** remdesivir;
+*   **immunomodulators**such as tocilizumab, anakinra, or baricitinib.
+
+Recommendations on the use of monoclonal antibodies change due to the emergence of variants that are less sensitive to existing therapies. Clinical trials of therapeutic interventions for COVID-19 have focused on adult and adolescent patients, and data on the treatment of COVID-19 in children are still limited.
+
+The evidence base is continuously evolving. Clinicians are advised to consult treatment guidelines on a regular basis and follow local standards of care.
+
+Public health control measures for COVID-19
+-------------------------------------------
+
+Public health authorities can take several measures to mitigate the negative effects of COVID-19 at individual and community or population level.
+
+Key public health measures and their main aims are:
+
+*   Vaccination to reduce the risk of severe COVID-19 disease.
+*   Surveillance (including sequencing) to obtain an overview of the epidemiological situation and circulating variants, as well as identify new variants of potential concern [4].
+*   Non-pharmaceutical interventions to reduce the risk of SARS-CoV-2 transmission.
+
+### Vaccination
+
+The single most effective measure to reduce the risk of severe COVID-19 disease is vaccination. Reducing severe COVID-19 disease prevents not only deaths but also reduces hospital admissions, which subsequently decreases the burden on healthcare personnel, supplies, and facilities, and reduces the impact of COVID-19 on other diseases.
+
+As of March 2023, the COVID-19 vaccines authorised for use in the EU include:
+
+*   Comirnaty Original; Comirnaty bivalent Original/Omicron BA.1 and Comirnaty bivalent Original/Omicron BA.4-5 (BioNTech and Pfizer);
+*   Spikevax Original; Spikevax bivalent Original/Omicron BA.1 and Spikevax bivalent Original/Omicron BA.4-5 (Moderna);
+*   Valneva;
+*   Nuvaxovid (Novavax);
+*   Vaxzevria (AstraZeneca);
+*   Jcovden (Janssen); and
+*   VidPrevtyn Beta (Sanofi Pasteur)[42].
+
+The evidence base is continuously evolving with ongoing studies, including studies with adapted vaccines and newly emerging virus variants. Clinicians and public health practitioners should consult updates provided by regulatory and public health authorities on a regular basis and follow local vaccination strategies [43,44].
+
+Several institutions and initiatives monitor vaccine effectiveness and/or maintain living systematic reviews summarising the evidence of the vaccine effectiveness of COVID-19 vaccines and the duration of protection following vaccination [43,45,46].
+
+### Vaccine effectiveness
+
+Vaccines reduce the risk of becoming severely ill with COVID-19. Despite varying vaccine effectiveness (VE) depending on the circulating variant and a gradual decrease in effectiveness observed in studies with a follow-up period of three to six months after the first booster dose, vaccines continue to be protective against severe COVID-19 and hospitalisations [47].
+
+Studies have shown that COVID-19 vaccines provide some short-lived reduction in the risk of transmission of SARS-CoV-2 from one person to another due to a shorter infectious period and lower virus titres in vaccinated people [48]. However, COVID-19 vaccines do not stop transmission entirely. Vaccinated individuals can therefore still become infected and transmit the virus to others.
+
+### Vaccine safety
+
+The EU/EEA-authorised COVID-19 vaccines all showed a very good safety profile in clinical trials before receiving recommendations for approval from the European Medicines Agency EMA.
+
+Experience since licensing show that most vaccine side effects are transient and mild, and severe adverse events are extremely rare [49,50]. The Pharmacovigilance Risk Assessment Committee (PRAC) of EMA has reviewed several safety events and adapted product information accordingly [50]). One example is the update of the Summary of Product Characteristics following reports of myocarditis and pericarditis in association with COVID-19 mRNA vaccines in 2021.
+
+The overall benefits of authorised COVID-19 vaccines in preventing COVID-19 outweigh the risks of side effects [49,50].
+
+### Duration of immunity
+
+The best current predictor of protective immunity in previously infected or vaccinated individuals is the presence of SARS-CoV-2 neutralising antibodies in serum. As time elapses following vaccination, protection against infection wanes as serum antibody titres gradually decline. However, it can be restored by administering booster vaccine doses.
+
+Natural infections induce antibody levels that are lower when compared to vaccination. However prior SARS-CoV-2 infection reduces the risk of SARS-CoV-2 reinfection [51,52].
+
+As COVID-19 continues to evolve, more individuals globally are acquiring what is known as ‘hybrid immunity’ (immunity conferred by a combination of vaccination and at least one prior infection). Individuals with hybrid immunity show the highest level and duration of protection against re-infection, hospital admission, and severe disease [52].
+
+Non-pharmaceutical interventions
+--------------------------------
+
+Individuals, communities, and institutions can apply non-pharmaceutical interventions (NPIs) to further reduce the impact of SARS-CoV-2.
+
+NPIs primarily aim to slow the spread of the virus through infection protection and physical distancing measures:
+
+*   **Individual NPIs** include standard hygiene precautions such as hand-washing and respiratory etiquette, as well as avoiding contact and staying at home when feeling unwell or experiencing respiratory symptoms.
+*   **Community NPIs** are recommendations or mandates for testing, isolation and quarantine, [mask use in public spaces and transport](https://www.ecdc.europa.eu/en/covid-19/latest-evidence/clinical) for source control and personal protection, social distancing measures to limit mass gatherings and congregations, as well as temporary closures and stay-at-home orders.
+
+The use of medical face masks for source control and personal protection can be indicated, particularly during periods of high community transmission and where physical distancing is difficult or impossible.
+
+Decisions on when to implement non-pharmaceutical public health and social measures, in addition to offering vaccination, depend on the epidemiological and healthcare situation, and require a balanced assessment of risks and benefits including their potential mid- and long-term socio-economic impact, as well as appropriate risk communication and community engagement [53].
+
+Infection prevention and control in healthcare settings (COVID-19)
+------------------------------------------------------------------
+
+Standard measures of infection control in healthcare facilities include:
+
+*   administrative measures such as triage, testing and isolation/placement of patients;
+*   hygiene precautions and source control measures such as hand washing, respiratory hygiene, and face masks;
+*   environmental measures such as ventilation, cleaning, disinfection, and safe waste management; and
+*   transmission-based precautions and personal protective equipment (PPE).
+
+Infection prevention and control (IPC) measures aim at mitigating the spread of pathogens in healthcare settings, decreasing the risk of outbreaks, and further reducing the burden on personnel and resources.
+
+Universal screening of all patients for SARS-CoV-2 on admission to hospital irrespective of symptoms appears to have only limited additional benefit, but may be considered when there is high community transmission of SARS-CoV-2 or emerging variants with high impact.
+
+The assessment of patients with respiratory symptoms should preferably be carried out in a separate area of the emergency or entry area, including testing with rapid antigen detection tests (RADTs) or point-of-care/near-patient tests to support decisions on further clinical management, such as isolation or early initiation on antiviral treatment.
+
+Patients with confirmed respiratory viral infection or probable respiratory viral infection with testing results pending should be placed in a single room and wear a medical mask when not in the room. If single room placement is not possible, several patients with the same viral infection can be placed in the same room (cohorting).
+
+Medical and non-medical staff, patients, and visitors need to be informed about standard precautions, and have access to adequate resources, e.g. easy access to hand hygiene.
+
+Decisions on the implementation of stricter additional IPC measures, such as universal masking or restriction of visitors, will depend on an assessment of the risk considering the situation in the community and healthcare facility and balancing expected benefits, as well as the burden on resources, staff, patients, and visitors [54].
+
+References
+----------
+
+Page last updated 30 May 2023

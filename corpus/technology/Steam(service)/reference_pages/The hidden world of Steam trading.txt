@@ -1,0 +1,342 @@
+# The hidden world of Steam trading
+
+The hidden world of Steam trading
+
+===============
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+Menu 
+
+[![Image 10: Polygon logo](https://static0.polygonimages.com/assets/images/poly-logo-full-colored-light.svg?v=3.1)](https://www.polygon.com/)
+
+Sign in now
+
+- [x] 
+
+[Guides](https://www.polygon.com/guides/)
+
+[Gaming](https://www.polygon.com/gaming/)
+
+[Entertainment](https://www.polygon.com/entertainment/)
+
+- [x] 
+
+Close 
+
+*       *   [What To Play](https://www.polygon.com/what-to-play/)
+    *   [What to Watch](https://www.polygon.com/what-to-watch/)
+
+*       *   - [x] Guides Submenu 
+        *   [All Guides](https://www.polygon.com/guides/)
+        *   [All Maps](https://www.polygon.com/map/)
+        *   [Pokémon Go](https://www.polygon.com/pokemon-go-guide/)
+        *   [Donkey Kong Bananza](https://www.polygon.com/donkey-kong-bananza-guides/)
+        *   [Clair Obscur: Expedition 33](https://www.polygon.com/clair-obscur-expedition-33-guides/)
+
+    *   - [x] Games Submenu 
+        *   [All Gaming](https://www.polygon.com/gaming/)
+        *   [Tabletop](https://www.polygon.com/tabletop-games/)
+
+    *   - [x] Entertainment Submenu 
+        *   [All Entertainment](https://www.polygon.com/entertainment/)
+        *   [Anime](https://www.polygon.com/anime/)
+        *   [Horror](https://www.polygon.com/horror/)
+        *   [Sci-Fi](https://www.polygon.com/sci-fi/)
+        *   [Fantasy](https://www.polygon.com/fantasy/)
+
+    *   [Videos](https://www.polygon.com/videos/)
+
+*   [Sign in](https://www.polygon.com/features/2014/5/22/5590070/steam-valve-item-trading#)
+*   [Newsletter](https://www.polygon.com/page/newsletter/)
+
+- [x] 
+*   [](https://www.youtube.com/user/polygon)
+*   [](https://www.facebook.com/polygon)
+*   [](https://www.instagram.com/polygondotcom/)
+*   [](https://x.com/polygon)
+*   [](https://news.google.com/publications/CAAqJQgKIh9DQklTRVFnTWFnMEtDM0J2YkhsbmIyNHVZMjl0S0FBUAE)
+*   [](https://www.polygon.com/feed/)
+
+Menu [![Image 11: Polygon logo](https://static0.polygonimages.com/assets/images/poly-logo-icon-colored-light.svg?v=3.1)](https://www.polygon.com/)
+
+ Follow 
+
+ Followed 
+
+Like
+
+More Action
+
+Sign in now
+
+- [x] 
+
+Close 
+
+ Follow 
+
+ Followed 
+
+Like
+
+Link copied to clipboard
+
+![Image 12: 3](https://static0.polygonimages.com/assets/images/default-user.png)
+
+By[Mitch Bowman](https://www.polygon.com/author/mitch-bowman/)
+
+Published May 22, 2014
+
+The hidden world of Steam trading
+=================================
+
+![Image 13: N/A](https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13069211/lockandkey.0.1487780814.png?&fit=crop&w=1600&h=900)
+
+In February 2014, Roberto Ranieri lost a small fortune in hats.
+
+Ranieri was trading hats in the popular game Team Fortress 2. It was his second time trading in-game items for real-world money. He connected with a buyer, set the terms and thought he was going to get rich. Five rare hats, accumulated over years of playing the online shooter — easy money, or so he thought. It was not meant to be. Instead of cashing in, Ranieri got hoodwinked. He lost over $1,000 in the blink of an eye. He's all but given up hope of ever seeing the hats — or the money — ever again. Ranieri is not alone. He's one of many who have plunged into the deep end of Steam's item trading since it debuted in September 2011 only to lose big. Polygon sought out a few of those who've dabbled in trading — a forum detective, a scammer and a goods hustler — to learn more about how it works and what can go wrong. Some of the names in this story have been changed, but not all of those mentioned are innocent.
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+The 'bud mob
+------------
+
+In December 2012, a Canadian economics student named Samuel Louie discovered that a small circle of organized traders had caused a massive spike in both the volume and price of one of TF2's most valuable and oft-traded items. The size of the operation was so big that it had some speculating about Russian mafia involvement in the TF2 trading community, and it brought into question the system's potential for organized fraud. In a [forum post](http://forums.steamrep.com/threads/today-i-discovered-that-there-are-tons-of-keys-with-doubtful-origin-injecting-into-the-market.14096/) on the Steam scam reporting site SteamRep, Louie, aka "base64," brought the issue to the trading community's attention. "It was a bright Sunday morning when I stumbled across an extremely abnormal behavior," Louie's account of his discovery began. Louie discovered a massive spike in the trading volume of Earbuds, a pricey TF2 item used in some trades as a de facto currency. The number of units being sold had quadrupled overnight. "I began investigating who sold such 'buds, at what prices, and at what time[s]. It turns out that there were dozens of unique traders successfully selling 'buds at 28, 29 and 30 [Crate Keys] each," wrote Louie. Mann Co. Supply Crate Keys are flat-rate items available in unlimited quantities from Valve at a price of $2.49 each; at the time, the usual value of Earbuds was closer to 25 keys. For large quantities of them to sell for up to 30 keys each meant someone was willing to pay $10 worth of keys more than the usual trading price that day — and was unwilling to deal with cash trades, even though Earbuds are often available for around $35 directly from cash sellers. Asked for details by Polygon on how he discovered this purchasing trend in the first place, Louie points to the [Steam API](https://steamcommunity.com/dev). "The API allows Steam users to download other users' item inventories in a computer readable format for free," Louie says. "After gathering the data, you can rearrange the rows and columns to find meaningful statistics." Louie's analysis of this API data suggested the suspicious-looking Earbud purchases were coming from a small group of relatively new Steam accounts, all of which appeared to be of Russian origin. The owners of these accounts were buying huge amounts of keys from Valve, then buying the Earbuds for the inflated price of 28-30 keys, and finally selling the Earbuds to someone else for real money. When they sold the items they had purchased for real money, they were only selling them for around 700 Russian rubles, which is the equivalent of about $22. So why were they investing up to $75 per item only to turn around and sell them for just $22? The explanation varies depending on who you ask. Many in the Steam forum community believed the Earbud bubble had something to do with money laundering, pointing to the Russian IP addresses for proof. Louie disagrees. He believes there's simply not enough people buying and selling items for real-world cash to launder any serious quantity of money that way. "Given the number of 'grey market' cash trades on Steam, there is no way such trade volume can support a [money laundering] organization," says Louie. "The market for the PayPal-to-Steam item trade is limited. The number of buyers who check the cash trading forums each day is low, and after converting dirty [Crate Keys] to clean Earbuds, they only have a couple of hours to sell all the clean items for cash before Steam tracks them down." Instead, Louie believes the answer to the riddle of the Earbuds is something a bit more mundane: credit card fraud. Louie believes someone came into possession of some stolen credit card numbers, used them to purchase as many Crate Keys as they could before the cards were deactivated and then traded those keys for items they could sell via PayPal for clean money. Despite losing over two-thirds of the money they charged to the stolen credit cards, they still came out with a pile of nearly untraceable cash. It is also possible that neither theory is correct. One of the curious side effects of the all-digital economy is that the interplay between Steam's marketplace, Paypal and the various internet service providers that connect users to each service and to one another are all private entities and, compared to proper banks, relatively unregulated. The Earbud buyers may not even have been Russian but merely spoofing Russian IPs from anywhere in the world. The unfortunate truth is that we will likely never know who they were or what game they were playing with all those 'buds. But the fact remains: Someone manipulated the economy — albeit in a circuitous and nonsensical manner — for profit. If it happened once, it will likely happen again.
+
+![Image 14: The hidden world of Steam trading](https://static0.polygonimages.com/wordpress/wp-content/uploads/ssets.sbnation.com.s3.amazonaws.com/polygon/features/steameconomy/SteamSketches-07.png?q=50&fit=crop&w=750&dpr=1.5)
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+The fake middle man disappeared without a trace, and Ranieri was left without any way to get his items back.
+
+The shark
+---------
+
+You get a message from an online trader. They're interested in one of your items. You've only been playing for a few hours. You feel lucky to have earned something so quickly that someone else wants. You sell it, glad for the easy cash, only to discover later that the price you were offered — and accepted — was a fraction of what the item is worth. Congratulations, you've been sharked. A former shark, who wishes to remain anonymous (we'll call him "James"), agreed to give us the rundown on how he pulled off his sharking endeavors. "There were two tools I used," James says. "The first one ... how it works is you get into a server, open up the console in the game, and you enter the 'status' command. This gives you the Steam IDs of all the players that are in the game with you right now. You copy that, you paste it into [the tool], and it gives you a nice list of their hours played, their inventory links and their most valuable items." By doing this, James was able to spot the players with valuable goods but who spent very little time playing. Due to their inexperience, these are the people he found to be the easiest to talk into bad trades. James used another tool, called an inventory scanner, to browse the complete inventories and friends lists of any given player or group. "By doing this you could do stuff like scan groups of people who were Sam and Max fans, because [Max's Severed Head] is an item that's worth like 2.7 Earbuds [close to $100], and it was given to people who pre-ordered Sam and Max on Steam. Or you could scan for people who were Mac users, because Earbuds were given to every Mac user who played TF2 at the time it was released for Mac." Once these sought-after users were discovered, a shark could simply send them trade requests or friend invites and suss out who among them were unaware of the value of their items. Then, they could talk them into trading away their valuable items in exchange for items worth much less. Over the course of his sharking career, James managed to obtain hundreds of dollars in valuable items with these methods before finally giving it up.
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+![Image 15: The hidden world of Steam trading](https://static0.polygonimages.com/wordpress/wp-content/uploads/ssets.sbnation.com.s3.amazonaws.com/polygon/features/steameconomy/SteamSketches-02.png?q=50&fit=crop&w=750&dpr=1.5)
+
+![Image 16: The hidden world of Steam trading](https://static0.polygonimages.com/wordpress/wp-content/uploads/ssets.sbnation.com.s3.amazonaws.com/polygon/features/steameconomy/SteamSketches-05.png?q=50&fit=crop&w=825&dpr=1.5)
+
+"I stopped sharking," he says. "I just felt quite bad, and it got me in trouble once." James tells a story of a time when he nearly got banned from his largest source of buyers for his sharked wares, TF2 Outpost. Unlike most trading sites, TF2 Outpost considers sharking a bannable offense, and a stern warning from one of the site's moderators after a sharking victim complained was instrumental in convincing James to hang up his sharking hat. Most traders interviewed for this story agree that sharking is morally dubious, but they almost unanimously say that it's not, in fact, the same thing as being scammed. "Sharking is something that, ethically, you could say is kind of understandable," says James. "It's like when a salesman sells some overpriced PC to, let's say, my grandfather. He doesn't know crap about PCs, but he still buys it, because the salesman just told him 'Hey you want this!' and he needed a PC. It's something we have to deal with in real life as well, and you still make the person happy about the transaction." Like many topics in the still-forming culture of the Steam economy, the ethical implications of sharking are still open to debate. "The value of an item is different for everyone," says Louie. "There is no moral issue when something is purchased at less than 'market value.' "But I hold an unpopular opinion."
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+The hustler
+-----------
+
+Over the course of a single weekend, Lukas "Rtb123" Lee managed to make a stupendous amount of money off of Steam items, all thanks to a clever bit of item trading during Valve's annual Dota 2 tournament called The International. Lee's moneymaking endeavor started when his friends bailed on the vacation plans they made together. He had already saved up a bunch of money to travel from his home country of Singapore to Taiwan, so when his friends backed out, he was left with some savings and an urge to travel overseas. "Being a Dota fan, I just thought that [going to] The International 3 was a good idea, so I started hunting for tickets online," Lee says. "Finally I found one for around 500 USD, so I bought it." Without informing his parents, Lukas booked the cheapest flight to Seattle he could find. A week later, he let them know what his plans were, much to their surprise. "Prior to that I'd been to the states a few times, but with my family or with my school," explains Lee. "This was the first time I went anywhere out of my country alone." Once the week of The International arrived, Lee took a 31-hour, meandering flight across the Pacific and arrived in Seattle just ahead of The International 3's inaugural day of competition. He got to the venue hours before it opened on the first day and prepared to make his move. As soon as the doors opened, he made a beeline for Valve's merchandise counter. "I ran all the way to the counter, and luckily enough I was the third one at the counter or so," Lee says. "I looked and I mentally calculated how much money I had to spend. I was trying to convert my currency to USD to figure out how much I had to spend, and I was like, OK, I have like, just slightly above $10,000." Lee proceeded to spend almost all of his savings on every form of Dota 2 merch he could get his hands on. From gaming headsets to plushies to t-shirts, he bought up huge quantities of anything that came with codes for in-game items.
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+![Image 17: The hidden world of Steam trading](https://static0.polygonimages.com/wordpress/wp-content/uploads/ssets.sbnation.com.s3.amazonaws.com/polygon/features/steameconomy/SteamSketches-08.png?q=50&fit=crop&w=825&dpr=1.5)
+
+![Image 18: The hidden world of Steam trading](https://static0.polygonimages.com/wordpress/wp-content/uploads/ssets.sbnation.com.s3.amazonaws.com/polygon/features/steameconomy/SteamSketches-09.png?q=50&fit=crop&w=825&dpr=1.5)
+
+"When they started packing my order, I realized how huge my order was. Once they took out my stuff, they were like 'Uhhh ... do you have anyone to carry it for you?' and I was like 'No, I'm here alone.'" The staff members offered Lee the push cart they used to stock the merchandise booth. He accepted. "I ended up with a push cart that was so huge. Then, they asked 'OK, did you book a cab?' and I was like 'Uhhhh nope.'" Eventually Lee found a cab and made it back to the hostel where he was staying. As soon as he managed to unpack his mountain of loot, he began the process of making his money back. He posted his wares everywhere he could find: Steam community forums, third-party sites like Dota 2 Lounge and even reddit. He was the first attendee to get any of the special International 3 loot up for sale, and he had no problem finding buyers for his gear. He spent 20 straight hours selling before finally passing out at four in the morning the next day. When he woke up, he started again. Lee's total profit for the weekend was around $40,000. When asked whether he planned to attend The International again this year, Lee says, "Yeah for sure. With more money this time of course."
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+Valve's position
+----------------
+
+![Image 19: The hidden world of Steam trading](https://static0.polygonimages.com/wordpress/wp-content/uploads/ssets.sbnation.com.s3.amazonaws.com/polygon/features/steameconomy/SteamSketches-01.png?q=50&fit=crop&w=825&dpr=1.5)
+
+In December of 2012, Valve launched the Steam Community Market, which allows players to buy and sell their items within the relative security of an official, Valve-regulated economy. In many ways, it's safer than traditional cash trading, thanks to protection offered by Valve. But Valve also keeps the proceeds of Steam marketplace sales in players' Steam Wallets, preventing that money from ever leaving Valve's closed system. Steam Wallet money can only be used to buy things on Steam, which means you either reinvest it in new items or use it to buy Steam games. Because of that limitation, people who want real-world cash for their items still have to resort to third-party trading sites, so those sites — and all the problems associated with them — still exist. Despite this shortcoming, business is booming on the official marketplace. Items have been implemented in games beyond TF2, like Dota 2 and Counter-Strike: Global Offensive, and their respective economies are also thriving. Meanwhile, more and more players are also flocking to the unofficial marketplaces, and the list of outliers continues to grow. Valve has remained enigmatic about how it deals with scams and other unusual events in its marketplace. A representative declined to comment for this story. Some traders and developers we talked to have had their own run-ins with the powers that be, however, giving a partial sense of Valve's outlook on item trading. Shortly after Ranieri lost his items, he contacted Valve to see if it could help him out. "They just said fuck off," he says. "They just said 'You confirmed the trade multiple times, there's nothing we can do about it. If we are gonna apply any suspension to the user who scammed you, we're not gonna tell you.'" The frustration in Ranieri's voice is apparent as he continues: "I provided them with [approximately] 20 screen shots; even my grandmother could understand what I told them ... but they said 'No, you confirmed the trade, we can't undo it.' It just disappointed me so much. Valve has, on occasion in the past, been direct in its dealings with the trading community. In 2009, when a bug appeared that allowed TF2 items to be farmed while idling in a server, Valve patched the exploit out and awarded everyone who had not taken advantage of the bug an exclusive hat. It's called the Cheater's Lament and, when worn, looks like an angel's halo above the player's head. Many traders still own this item and feature it on their Steam profiles like a badge of honor. For the future, Valve is keeping quiet about most of its plans for the marketplace, including how it plans to tackle fraud. As it currently stands, the selection of Steam-tradable items for non-Valve games is slim. There's the odd cosmetic item for games such as Path of Exile and Warframe, but none of them have the dispensation and storage of in-game inventories tied directly to Steam the way that Valve's own games do. According to developers interviewed for this story, however, that's about to change. Valve is currently testing a set of APIs that will enable external developers to offer in-game items via Steam, with the earliest of those games coming sometime in 2014.
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+The middle man
+--------------
+
+In spite of his inexperience with real-money trading, Roberto Ranieri is no rookie to the Steam economy. Which is what makes his story all the more outrageous. Ranieri had been trading TF2 items the old-fashioned way, with no money involved, since shortly after Valve introduced item trading. But in February 2014, he finally decided to make his first foray into selling his digital wares for real money. Cash trading has become a popular way of doing business in the Steam economy. Players sell items for real-world currency that they send via PayPal or Bitcoin instead of trading for other in-game loot via Steam's official channels. A network of third-party sites like TF2 Outpost and backpack.tf has formed to facilitate these unofficial trading arrangements. It was in just such a cash deal that Ranieri lost it all. Says Ranieri: "Basically what we did is we engaged a middle man." In real-money trading, a "middle man" is like a broker. They're a trusted third party who receives the item from the seller and the money from the buyer and then gives each person their due once the deal is concluded. Simple and — just as in the real world — only effective if the third party is actually trustworthy. And only if the third party is who he or she claims to be. Ranieri's middle man wasn't. "The problem is, the actual middle man, the trusted guy, wasn't actually trading with me," Ranieri says. Ranieri was duped by someone who was already on his friends list, who had changed his image and identity to appear as if he was the middle man brokering Ranieri's transaction. "[He] changed his name and picture to [that of] the guy who was gonna middle-man the trade, and I gave him the [hats]." Because the scammer was already on Ranieri's friend list, right where he expected the real middle man to be, Ranieri didn't even think to check the profile of the user before sending the items. And that's how he lost everything. "I didn't even realize until [later]," he says. "I thought 'Yeah, they're in the hands of my trusted trader, there's no way he's not gonna give me back my [hats] again [if anything goes wrong].'
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+![Image 20: The hidden world of Steam trading](https://static0.polygonimages.com/wordpress/wp-content/uploads/ssets.sbnation.com.s3.amazonaws.com/polygon/features/steameconomy/SteamSketches-03.png?q=50&fit=crop&w=750&dpr=1.5)
+
+"To be honest, I was a fool. I was a complete dumbass. You always check, especially in those trades, but the thing that really got me was that he was already in my friends list. How could I ever possibly know that two guys with the same name were already in my friends list?" The fake middle man disappeared without a trace, and Ranieri was left without any way to get his items back. Valve declined to help because he agreed to the trade, and while Ranieri reported the Steam IDs of the crooks to TF2 Outpost (the largest of the third-party trading sites), it turned out that the scammers' accounts had been hijacked from legitimate users. The proper owners of those accounts will go unpunished, and the true identities of the scammers will remain unknown. As for how the scammer managed to get on his friends list without him knowing, Ranieri speculates, "He probably added me like, let's say one week ago, traded with me, and then maybe asked me to keep him in the friends list or something. So it was all organized." If the scammer had sent Ranieri a new invite at the time of the trade, Ranieri believes he would have caught on. But his middle man was already in his friend list. Ranieri was caught with his guard down. "I didn't even think that such a thing could happen," Ranieri says. "The ironic part ... is that I always bragged to one of my friends who got scammed, like 'How could you ever possibly get scammed, just check the things before trading. You're a fool.' "But no ... those people are actually smart, and it can happen to anybody."
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+![Image 21: Babykayak](https://static0.polygonimages.com/wordpress/wp-content/uploads/ssets.sbnation.com/assets/1622767/babykayak.png?q=50&fit=crop&w=15&dpr=1.5)
+
+Illustrations: Tyson Whiting
+
+ Layout: Ally Palanzi
+
+[](https://www.google.com/preferences/source?q=polygon.com)
+**Google is changing how it surfaces content.** Prioritize our high-quality guides and industry-leading coverage in search results by [setting Polygon.com as a preferred source](https://www.google.com/preferences/source?q=polygon.com).
+===========================================================================================================================================================================================================================================
+
+*   [Feature](https://www.polygon.com/features/ "Feature")
+*   [PC](https://www.polygon.com/pc/ "PC")
+*   [![Image 22: Dota 2](https://static0.polygonimages.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-05-dec-2024-07-19-pm-977.jpg?q=50&fit=crop&w=32&h=32&dpr=1.5) Dota 2](https://www.polygon.com/game/dota-2/2243/ "Dota 2")
+
+ Follow 
+
+ Followed 
+
+Like
+
+Share
+
+[Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.polygon.com%2Ffeatures%2F2014%2F5%2F22%2F5590070%2Fsteam-valve-item-trading%2F%2F&src=sdkpreparse)[X](https://twitter.com/intent/tweet?text=The%20hidden%20world%20of%20Steam%20trading&url=https%3A%2F%2Fwww.polygon.com%2Ffeatures%2F2014%2F5%2F22%2F5590070%2Fsteam-valve-item-trading%2F)[WhatsApp](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.polygon.com%2Ffeatures%2F2014%2F5%2F22%2F5590070%2Fsteam-valve-item-trading%2F)[Threads](https://www.threads.net/intent/post?text=The%20hidden%20world%20of%20Steam%20trading%20https%3A%2F%2Fwww.polygon.com%2Ffeatures%2F2014%2F5%2F22%2F5590070%2Fsteam-valve-item-trading%2F)[Bluesky](https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.polygon.com%2Ffeatures%2F2014%2F5%2F22%2F5590070%2Fsteam-valve-item-trading%2F)[LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.polygon.com%2Ffeatures%2F2014%2F5%2F22%2F5590070%2Fsteam-valve-item-trading%2F&title=The%20hidden%20world%20of%20Steam%20trading&source=www.polygon.com&summary=)[Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.polygon.com%2Ffeatures%2F2014%2F5%2F22%2F5590070%2Fsteam-valve-item-trading%2F)[Flipboard](http://share.flipboard.com/bookmarklet/popout?v=2&title=The%20hidden%20world%20of%20Steam%20trading&url=https%3A%2F%2Fwww.polygon.com%2Ffeatures%2F2014%2F5%2F22%2F5590070%2Fsteam-valve-item-trading%2F&utm_campaign=tools&utm_medium=article-share&utm_source=www.polygon.com)[Copy link](javascript:;)[Email](mailto:?Subject=The%20hidden%20world%20of%20Steam%20trading&Body=Check%20this%20out%21%0Ahttps://www.polygon.com/features/2014/5/22/5590070/steam-valve-item-trading/)
+
+Close
+
+Recommended
+
+[![Image 23: switch_joycon_grip](https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/switch_joycon_grip.jpg?q=49&fit=crop&w=266&h=350&dpr=2)](https://www.polygon.com/best-switch-accessory-joy-con-grip/)
+
+5 days ago
+
+### [The best Switch accessory was the cheap plastic one everyone hated](https://www.polygon.com/best-switch-accessory-joy-con-grip/ "The best Switch accessory was the cheap plastic one everyone hated")
+
+[![Image 24: The vampire Strahd on the cover of the original Ravenloft module I6 and of Curse of Strahd](https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/strahd-featured-image.jpg?q=49&fit=crop&w=256&h=337&dpr=2)](https://www.polygon.com/dnd-dungeons-dragons-vampire-strahd-von-zarovich-ravenloft-success/)
+
+4 days ago
+
+### [D&D's most famous vampire is also the secret behind the game's success](https://www.polygon.com/dnd-dungeons-dragons-vampire-strahd-von-zarovich-ravenloft-success/ "D&D's most famous vampire is also the secret behind the game's success")
+
+[![Image 25: Dracula (Gary Oldman) stands uncomfortably close to Jonathan Harker (Keanu Reeves), smiling, in Bram Stoker's Dracula](https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/bramstokerdrac.jpeg?q=49&fit=crop&w=266&h=350&dpr=2)](https://www.polygon.com/vampire-queer-metaphor-ve-schwab-interview-bestselling-2025-sapphic-novel/)
+
+2 days ago
+
+### [Vampires are inherently queer, says the author of 2025's best queer vampire novel](https://www.polygon.com/vampire-queer-metaphor-ve-schwab-interview-bestselling-2025-sapphic-novel/ "Vampires are inherently queer, says the author of 2025's best queer vampire novel")
+
+[![Image 26: Bill Skarsgard as Pennywise in It: Welcome to Derry](https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/bill-skarsgard-welcome-to-derry.jpeg?q=49&fit=crop&w=266&h=350&dpr=2)](https://www.polygon.com/it-welcome-to-derry-pennywise-origin-mrs-kersh-episode-6/)
+
+1 day ago
+
+### [It: Welcome to Derry just gave us an excellent Pennywise lore dump](https://www.polygon.com/it-welcome-to-derry-pennywise-origin-mrs-kersh-episode-6/ "It: Welcome to Derry just gave us an excellent Pennywise lore dump")
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+*   ### Most Popular
+
+##### [Escape from Tarkov streamer becomes first player to escape from Tarkov](https://www.polygon.com/escape-from-tarkov-streamer-tigz-first-person-to-escape/ "Escape from Tarkov streamer becomes first player to escape from Tarkov")
+
+##### [Balatro stan Ben Starr loves Raccoin, and you will too](https://www.polygon.com/raccoin-demo-balatro-roguelike-ben-starr/ "Balatro stan Ben Starr loves Raccoin, and you will too")
+
+##### [Lego will let you build Stranger Things' murder house](https://www.polygon.com/lego-stranger-things-set-creel-house-price-release-date-netflix/ "Lego will let you build Stranger Things' murder house")
+
+##### [Valve's Steam Machine has one big advantage over the old Steam Box](https://www.polygon.com/valve-steam-machine-differences-steam-box-steamos-linux-proton/ "Valve's Steam Machine has one big advantage over the old Steam Box")
+
+##### [Game Pass adds MK1, Marvel Cosmic Invasion, and more in December 2025](https://www.polygon.com/xbox-game-pass-december-2025-games/ "Game Pass adds MK1, Marvel Cosmic Invasion, and more in December 2025")
+
+##### [Rush Hour 2 united audiences, but Rush Hour 4 might do the opposite](https://www.polygon.com/rush-hour-4-donald-trump-brett-ratner/ "Rush Hour 2 united audiences, but Rush Hour 4 might do the opposite")
+
+[See More](https://www.polygon.com/most-popular/)
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+Trending Now
+
+[![Image 27: Key art for Yojo Senki Saga of Tanya the Evil in a room thats on fire as she plays the piano](https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/yojo-senki-saga-of-tanya-the-evil.jpg?q=49&fit=crop&w=120&h=80&dpr=2)](https://www.polygon.com/saga-of-tanya-the-evil-season-2-announcement-trailer/)
+
+##### [Isekai gem Saga of Tanya the Evil is resurrected after 9-year hiatus](https://www.polygon.com/saga-of-tanya-the-evil-season-2-announcement-trailer/ "Isekai gem Saga of Tanya the Evil is resurrected after 9-year hiatus")
+
+[![Image 28: Look Back anime - two girls huddling up](https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/lookb_still_01.png?q=49&fit=crop&w=120&h=80&dpr=2)](https://www.polygon.com/one-of-our-greatest-living-movie-directors-is-tackling-one-of-the-greatest-recent-manga/)
+
+##### [One of our greatest living movie directors is tackling one of the greatest recent manga](https://www.polygon.com/one-of-our-greatest-living-movie-directors-is-tackling-one-of-the-greatest-recent-manga/ "One of our greatest living movie directors is tackling one of the greatest recent manga")
+
+[0:28 ![Image 29: Vox in Hazbin Hotel season 2, looking natty in a white suit](https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/vox-populi-hazbin-hotel-season-2-prime-video-mp4-00_01_59_07-still001.jpg?q=49&fit=crop&w=120&h=80&dpr=2)](https://www.polygon.com/video/vox-hazbin-hotel-season-2-vivziepop-favorite-character/)
+
+##### [Why Vox became a favorite character for Hazbin Hotel's creator](https://www.polygon.com/video/vox-hazbin-hotel-season-2-vivziepop-favorite-character/ "Why Vox became a favorite character for Hazbin Hotel's creator")
+
+[✕ Remove Ads](https://www.polygon.com/premium/?ref=ad_removal)
+
+[![Image 30: Polygon logo](https://static0.polygonimages.com/assets/images/poly-logo-symbol-white.svg?v=2.4)](https://www.polygon.com/)
+
+*   [Join Our Team](https://www.polygon.com/work-with-us/)
+*   [About Us](https://www.polygon.com/page/about/)
+*   [Editorial Ethics and Guidelines](https://www.polygon.com/page/editorial-ethics-and-guidelines/)
+*   [Community Guidelines](https://www.polygon.com/page/community-guidelines/)
+*   [Media Coverage](https://www.polygon.com/page/media/)
+*   [Contact Us](https://www.polygon.com/contact/)
+
+*   Follow Us
+*   [](https://www.youtube.com/user/polygon)
+*   [](https://www.facebook.com/polygon)
+*   [](https://www.instagram.com/polygondotcom/)
+*   [](https://x.com/polygon)
+*   [](https://news.google.com/publications/CAAqJQgKIh9DQklTRVFnTWFnMEtDM0J2YkhsbmIyNHVZMjl0S0FBUAE)
+*   [](https://www.polygon.com/feed/)
+
+[![Image 31: Valnet Logo](https://static0.polygonimages.com/assets/images/valnet-logo-icon-white.svg?v=2.4)](https://www.valnetinc.com/en/)
+
+*   [Advertising](https://www.valnetinc.com/en/advertising)
+*   [Careers](https://www.valnetinc.com/en/careers)
+*   [Terms](https://www.valnetinc.com/en/terms-of-use)
+*   [Privacy](https://www.valnetinc.com/en/privacy-policy)
+*   [Policies](https://www.valnetinc.com/en/editorial-integrity)
+
+[Polygon](https://www.polygon.com/) is part of the [Valnet Publishing Group](https://www.valnetinc.com/en/)
+
+ Copyright © 2025 Valnet Inc. 
+
+✕
+
+[](https://www.polygon.com/features/2014/5/22/5590070/steam-valve-item-trading#)[Visit](https://www.polygon.com/features/2014/5/22/5590070/steam-valve-item-trading#)
+
+Now Playing
+
+WATCH
+
+NEXT
+
+Video Player is loading.
+
+Play Video
+
+Play
+
+Unmute
+
+Current Time 0:00
+
+/
+
+Duration-:-
+
+Loaded: 0%
+
+Stream Type LIVE
+
+Seek to live, currently behind live LIVE
+
+Remaining Time-0:00
+
+1x
+
+Playback Rate
+
+Chapters
+
+*   Chapters
+
+Descriptions
+
+*   descriptions off, selected
+
+Captions
+
+*   captions off, selected
+
+Audio Track
+
+Picture-in-Picture Fullscreen
+
+This is a modal window.
+
+Advertisement
+
+Skip Ad
+
+5
+
+![Image 32: A 1x1 image, likely be a tacker probe](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001764698748-RE3EKZ8W-A1CE)![Image 33: A 1x1 image, likely be a tacker probe](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001764698748-RE3EKZ8W-A1CE&adnxs_id=$UID&gdpr=0)![Image 34: A 1x1 image, likely be a tacker probe](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001764698748-RE3EKZ8W-A1CE%26auid%3DAU1D-0100-001764698748-RE3EKZ8W-A1CE&gdpr=0)![Image 35: A 1x1 image, likely be a tacker probe](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001764698748-RE3EKZ8W-A1CE&gdpr=0)![Image 36: A 1x1 image, likely be a tacker probe](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001764698748-RE3EKZ8W-A1CE&gdpr=0)![Image 37: A 1x1 image, likely be a tacker probe](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001764698748-RE3EKZ8W-A1CE&gdpr=0)![Image 38: A 1x1 image, likely be a tacker probe](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001764698748-RE3EKZ8W-A1CE&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001764698748-RE3EKZ8W-A1CE%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 39: A 1x1 image, likely be a tacker probe](https://cm.g.doubleclick.net/pixel?google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc2NDY5ODc0OC1SRTNFS1o4Vy1BMUNF&google_redir=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fg_match&id=AU1D-0100-001764698748-RE3EKZ8W-A1CE&gdpr=0)![Image 40: A 1x1 image, likely be a tacker probe](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001764698748-RE3EKZ8W-A1CE)![Image 41: A 1x1 image, likely be a tacker probe](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001764698748-RE3EKZ8W-A1CE&uid=[UID]&gdpr=0)![Image 42: A 1x1 image, likely be a tacker probe](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001764698748-RE3EKZ8W-A1CE%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)

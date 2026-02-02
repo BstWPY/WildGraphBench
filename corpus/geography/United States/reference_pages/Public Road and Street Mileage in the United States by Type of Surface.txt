@@ -1,0 +1,212 @@
+# Public Road and Street Mileage in the United States by Type of Surface
+
+Table 1-4: Public Road and Street Mileage in the United States by Type of Surface(a) (Thousands of miles) | Bureau of Transportation Statistics
+
+===============
+
+The Wayback Machine - http://www.rita.dot.gov:80/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/html/table_01_04.html
+
+[Skip to main content](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/html/table_01_04.html#main-content)
+
+[![Image 1: U.S. Department of Transportation (US DOT)](https://www.rita.dot.gov/sites/all/themes/danland/images/dot_logo_top.gif)](http://www.dot.gov/)
+
+[About DOT](http://www.dot.gov/about)|[Briefing Room](http://www.dot.gov/briefingroom)|[Our Activities](http://www.dot.gov/our-activities)
+
+[![Image 2: Bureau of Transportation Statistics](http://www.rita.dot.gov/bts/sites/all/themes/danland/bts_logo.png)](https://www.rita.dot.gov/bts/ "Bureau of Transportation Statistics")
+
+[Bureau of Transportation Statistics](https://www.rita.dot.gov/bts/ "Bureau of Transportation Statistics")
+----------------------------------------------------------------------------------------------------------
+
+![Image 3: Office of the Assistant Secretary for Research and Technology](https://www.rita.dot.gov/sites/default/files/images/rita_home_link.gif)[About OST-R](https://www.rita.dot.gov/about_rita) | [Press Room](https://www.rita.dot.gov/press_room) | [Programs](https://www.rita.dot.gov/offices) | [OST-R Publications](https://www.rita.dot.gov/publications) | [Library](http://ntl.bts.gov/) | [Contact Us](https://www.rita.dot.gov/contacts)
+
+Search form
+-----------
+
+Search  
+
+Main menu
+---------
+
+*   [Data and Statistics »](https://www.rita.dot.gov/bts/data_and_statistics/index.html)
+    *   [Intermodal Transportation Database](https://www.rita.dot.gov/bts/data_and_statistics/intermodal_transportation_database.html)
+    *   [By Mode » »](https://www.rita.dot.gov/bts/data_and_statistics/by_mode/index.html)
+        *   [Airlines and Airports](https://www.rita.dot.gov/bts/data_and_statistics/by_mode/airline_and_airports/index.html)
+        *   [Highway](https://www.rita.dot.gov/bts/data_and_statistics/by_mode/highway/index.html)
+        *   [Maritime](https://www.rita.dot.gov/bts/data_and_statistics/by_mode/maritime.html)
+        *   [Multimodal Sources](https://www.rita.dot.gov/bts/data_and_statistics/by_mode/multimodal.html)
+        *   [Pipeline and Hazardous Materials](https://www.rita.dot.gov/bts/data_and_statistics/by_mode/pipeline_and_hazmat.html)
+        *   [Rail](https://www.rita.dot.gov/bts/data_and_statistics/by_mode/rail.html)
+        *   [Transit](https://www.rita.dot.gov/bts/data_and_statistics/by_mode/transit.html)
+
+    *   [By Region » »](https://www.rita.dot.gov/bts/data_and_statistics/by_region/index.html)
+        *   [International](https://www.rita.dot.gov/bts/data_and_statistics/by_region/international.html)
+        *   [National](https://www.rita.dot.gov/bts/data_and_statistics/by_region/national/index.html)
+        *   [State and Local](https://www.rita.dot.gov/bts/data_and_statistics/by_region/state_and_local/index.html)
+
+    *   [By Subject » »](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/index.html)
+        *   [Economy and Finance](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/economy_and_financials.html)
+        *   [Energy and Environment](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/energy_and_environment.html)
+        *   [Freight](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/freight.html)
+        *   [Geospatial](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/geospatial.html)
+        *   [Infrastructure](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/infrastructure.html)
+        *   [Passenger](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/passenger.html)
+        *   [Safety](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/safety.html)
+        *   [Vehicles](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/vehicles.html)
+
+    *   [Dictionary](http://www.rita.dot.gov/bts/dictionary/index.xml)
+    *   [Geospatial Information](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/geographic_information_services/index.html)
+    *   [Search Public Datasets](http://ntlsearch.bts.gov/repository/ntlc/btsdd/index.shtm)
+    *   [Databases](https://www.rita.dot.gov/bts/data_and_statistics/databases)
+    *   [Help with Data](https://www.rita.dot.gov/bts/help_with_data.html)
+
+*   [Subject Areas »](https://www.rita.dot.gov/bts/subject_areas)
+    *   [Airlines and Airports](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/airline_information/index.html "Airlines and Airports")
+    *   [Congestion](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/congestion/index.html "Congestion")
+    *   [Connectivity](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/connectivity/index.html "Connectivity")
+    *   [Economics and Finance](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/economics_and_finance/index.html "Economics and Finance")
+    *   [Energy and Environment](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/energy_and_environment/index.html "Energy and Environment")
+    *   [Freight Data and Statistics](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/freight_transportation/index.html "Freight Data and Statistics")
+    *   [General](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/general.html)
+    *   [Geospatial Information](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/geographic_information_services/index.html "Geospatial Information")
+    *   [International](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/international/index.html "International")
+    *   [Livability](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/livability/index.html "Livability")
+    *   [Maritime Program](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/maritime_program/index.html "Maritime Program")
+    *   [Passenger Travel](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/passenger_travel/index.html "Passenger Travel")
+    *   [Safety](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/safety/index.html "Safety")
+    *   [Survey Results](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/survey_results/index.html "Survey Results")
+    *   [Trending and Forecasting](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/trending_and_forecasting/index.html "Trending and Forecasting")
+
+*   [Library »](http://ntl.bts.gov/)
+    *   [Search the Collections](https://www.rita.dot.gov/bts/data_and_statistics/search_the_collections.html)
+    *   [FAQs](https://ntl.custhelp.com/app/answers/list)
+    *   [Ask a Librarian](https://ntl.custhelp.com/app/ask)
+    *   [BTS Publications](https://www.rita.dot.gov/bts/bts_publications)
+    *   [BTS Bookstore](https://2bts.rita.dot.gov/pdc/index.xml)
+    *   [External Links](https://www.rita.dot.gov/bts/external_links)
+
+*   [News »](https://www.rita.dot.gov/bts/press_room)
+    *   [Events](http://www.rita.dot.gov/events)
+    *   [What's New](https://www.rita.dot.gov/bts/whatsnew)
+    *   [Upcoming Press Releases](https://www.rita.dot.gov/bts/upcoming_data_releases)
+
+*   [Policies and Methods »](https://www.rita.dot.gov/bts/policies_and_methods)
+    *   [Confidentiality Policy](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/confidentiality_policy/index.html "Confidentiality Policy")
+    *   [Laws and Regulations](https://www.rita.dot.gov/bts/laws_and_regulations)
+    *   [Scientific Integrity](https://www.rita.dot.gov/bts/scientific_integrity.html)
+    *   [Statistical Policy & Research](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/statistical_policy_and_research/index.html)
+
+*   [About BTS »](https://www.rita.dot.gov/bts/about)
+    *   [Advisory Council](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/advisory_council_on_transportation_statistics/index.html "Advisory Council on Transportation Statistics")
+    *   [Jobs and Internships](https://www.rita.dot.gov/bts/about/bts_jobs_and_internships.html)
+    *   [Organizational Chart](https://www.rita.dot.gov/bts/about/org_chart.html)
+    *   [BTS Programs](https://www.rita.dot.gov/bts/about/bts_programs.html)
+
+*   [Contact Us](https://www.rita.dot.gov/bts/contacts)
+
+[](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/html/table_01_04.html)
+
+[Home](https://www.rita.dot.gov/bts) » [BTS Publications](https://www.rita.dot.gov/bts/publications) » [National Transportation Statistics](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/index.html)
+
+Table 1-4: Public Road and Street Mileage in the United States by Type of Surface(a) (Thousands of miles)
+---------------------------------------------------------------------------------------------------------
+
+[Excel](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/table_01_04_0.xlsx) | [CSV](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/table_01_04_0.csv)
+
+|  | 1960 | 1965 | 1970 | 1975 | 1980 | 1985 | 1990 | 1991 | 1992 | 1993 | 1994 | 1995 | 1996 | 1997 | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **TOTAL paved and unpaved** | **3,546** | **3,690** | **3,730** | **3,838** | **3,860** | **3,864** | **3,867** | **3,884** | **3,901** | **3,905** | **3,907** | **3,912** | **3,934** | **3,958** | **3,949** | **3,930** | **3,950** | **3,962** | **3,981** | **3,988** | **3,995** | **4,010** | **4,031** | **4,047** | **4,058** | U | U | **3,981** | **4,064** |
+| **Paved b, total** | **1,230** | **1,455** | **1,658** | **1,855** | **2,073** | **2,114** | **2,255** | **2,280** | **2,303** | **2,278** | **2,342** | **2,378** | **2,381** | **2,410** | **2,420** | **2,451** | **2,504** | **2,523** | **2,578** | **2,612** | **2,578** | **2,601** | **2,630** | **2,635** | **2,734** | U | U | **2,605** | **2,646** |
+| Low and intermediate type c | 672 | 758 | 897 | 967 | 1,041 | 1,015 | 1,025 | 1,030 | 1,026 | 1,010 | 1,043 | 1,062 | 1,066 | N | N | N | N | N | N | N | N | N | N | N | N | U | U | N | N |
+| High-type c | 558 | 696 | 762 | 888 | 1,032 | 1,099 | 1,230 | 1,250 | 1,277 | 1,268 | 1,299 | 1,316 | 1,314 | N | N | N | N | N | N | N | N | N | N | N | N | U | U | N | N |
+| **Unpaved d, total** | **2,315** | **2,235** | **2,072** | **1,983** | **1,787** | **1,750** | **1,612** | **1,604** | **1,598** | **1,628** | **1,564** | **1,534** | **1,554** | **1,548** | **1,529** | **1,479** | **1,446** | **1,439** | **1,403** | **1,376** | **1,418** | **1,409** | **1,402** | **1,412** | **1,324** | **U** | **U** | **1,375** | **1,418** |
+
+**KEY:**N = data do not exist; U = unavailable.
+
+a 1960-95 data include the 50 states and the District of Columbia; 1996-2008 data include the 50 states, District of Columbia, and Puerto Rico.
+
+b Paved mileage includes the following categories: low type (an earth, gravel, or stone roadway that has a bituminous surface course less than 1" thick); intermediate type (a mixed bituminous or bituminous penetration roadway on a flexible base having a combined surface and base thickness of less than 7"); high-type flexible (a mixed bituminous or bituminous penetration roadway on a flexible base having a combined surface and base thickness of 7" or more; high-type composite (a mixed bituminous or bituminous penetration roadway of more than 1" compacted material on a rigid base with a combined surface and base thickness of 7" or more; high-type rigid (Portland cement concrete roadway with or without a bituminous wearing surface of less than 1").
+
+c Beginning in 1997,data no longer available for paved minor collectors and local public roads.
+
+d Unpaved mileage includes the following categories: unimproved roadways using the natural surface and maintained to permit passability; graded and drained roadways of natural earth aligned and graded to permit reasonably convenient use by motor vehicles, and that have adequate drainage to prevent serious impairment of the road by normal surface water–surface may be stabilized; and soil, gravel, or stone roadways drained and graded with a surface of mixed soil, gravel, crushed stone, slag, shell, etc.–surface may be stabilized. The percentage of unpaved roads that are nonsurfaced dropped from approximately 42% in the 1960s to about 37% in the first half of the 1970s, to about 32% in 1980 and has held at about 22% since 1985.
+
+**NOTES**
+
+A public road is any road under the jurisdiction of and maintained by a public authority (federal, state, county, town or township, local government or instrumentality thereof) and open to public travel. No consistent data on private road mileage are available (although prior to 1980 some nonpublic roadway mileage are included). Most data are provided by the states to the US DOT Federal Highway Administration (FHWA). Some years contain FHWA estimates for some states.
+
+Numbers may not add to totals due to rounding.
+
+**SOURCES**
+
+1960-95: U.S. Department of Transportation, Federal Highway Administration, _Highway Statistics Summary to 1995_(Washington, DC), table HM-212, available at [http://www.fhwa.dot.gov/policy/ohpi/hss/hsspubs.cfm](http://www.fhwa.dot.gov/policy/ohpi/hss/hsspubs.cfm) as of Jan. 7, 2010.
+
+1996-2008: U.S. Department of Transportation, Federal Highway Administration, _Highway Statistics_ (Washington, DC: Annual issues), table HM-12, available at [http://www.fhwa.dot.gov/policy/ohpi/hss/hsspubs.cfm](http://www.fhwa.dot.gov/policy/ohpi/hss/hsspubs.cfm) as of Jan. 7, 2010.
+
+2009-2010: Currently unavailable, U.S. Department of Transportation, Federal Highway Administration hopes to produce the data later of 2013.
+
+2011-12: U.S. Department of Transportation, Federal Highway Administration, Highway Statistics (Washington, DC: Annual issues), table HM-12, available at [http://www.fhwa.dot.gov/policy/ohpi/hss/hsspubs.cfm](http://www.fhwa.dot.gov/policy/ohpi/hss/hsspubs.cfm) as of Jun. 2, 2014.
+
+*   [Data and Statistics](https://www.rita.dot.gov/bts/data_and_statistics/index.html)
+    *   [Intermodal Transportation Database](https://www.rita.dot.gov/bts/data_and_statistics/intermodal_transportation_database.html)
+    *   [By Mode](https://www.rita.dot.gov/bts/data_and_statistics/by_mode/index.html)
+    *   [By Region](https://www.rita.dot.gov/bts/data_and_statistics/by_region/index.html)
+    *   [By Subject](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/index.html)
+    *   [Dictionary](http://www.rita.dot.gov/bts/dictionary/index.xml)
+    *   [Geospatial Information](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/geographic_information_services/index.html)
+    *   [Search Public Datasets](http://ntlsearch.bts.gov/repository/ntlc/btsdd/index.shtm)
+    *   [Databases](https://www.rita.dot.gov/bts/data_and_statistics/databases)
+    *   [Help with Data](https://www.rita.dot.gov/bts/help_with_data.html)
+
+*   [Subject Areas](https://www.rita.dot.gov/bts/subject_areas)
+    *   [Airlines and Airports](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/airline_information/index.html "Airlines and Airports")
+    *   [Congestion](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/congestion/index.html "Congestion")
+    *   [Connectivity](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/connectivity/index.html "Connectivity")
+    *   [Economics and Finance](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/economics_and_finance/index.html "Economics and Finance")
+    *   [Energy and Environment](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/energy_and_environment/index.html "Energy and Environment")
+    *   [Freight Data and Statistics](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/freight_transportation/index.html "Freight Data and Statistics")
+    *   [General](https://www.rita.dot.gov/bts/data_and_statistics/by_subject/general.html)
+    *   [Geospatial Information](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/geographic_information_services/index.html "Geospatial Information")
+    *   [International](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/international/index.html "International")
+    *   [Livability](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/livability/index.html "Livability")
+    *   [Maritime Program](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/maritime_program/index.html "Maritime Program")
+    *   [Passenger Travel](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/passenger_travel/index.html "Passenger Travel")
+    *   [Safety](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/safety/index.html "Safety")
+    *   [Survey Results](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/survey_results/index.html "Survey Results")
+    *   [Trending and Forecasting](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/trending_and_forecasting/index.html "Trending and Forecasting")
+
+*   [Library](http://ntl.bts.gov/)
+    *   [Search the Collections](https://www.rita.dot.gov/bts/data_and_statistics/search_the_collections.html)
+    *   [FAQs](https://ntl.custhelp.com/app/answers/list)
+    *   [Ask a Librarian](https://ntl.custhelp.com/app/ask)
+    *   [BTS Publications](https://www.rita.dot.gov/bts/bts_publications)
+    *   [BTS Bookstore](https://2bts.rita.dot.gov/pdc/index.xml)
+    *   [External Links](https://www.rita.dot.gov/bts/external_links)
+
+*   [News](https://www.rita.dot.gov/bts/press_room)
+    *   [Events](http://www.rita.dot.gov/events)
+    *   [What's New](https://www.rita.dot.gov/bts/whatsnew)
+    *   [Upcoming Press Releases](https://www.rita.dot.gov/bts/upcoming_data_releases)
+
+*   [Policies and Methods](https://www.rita.dot.gov/bts/policies_and_methods)
+    *   [Confidentiality Policy](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/confidentiality_policy/index.html "Confidentiality Policy")
+    *   [Laws and Regulations](https://www.rita.dot.gov/bts/laws_and_regulations)
+    *   [Scientific Integrity](https://www.rita.dot.gov/bts/scientific_integrity.html)
+    *   [Statistical Policy & Research](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/statistical_policy_and_research/index.html)
+
+*   [About BTS](https://www.rita.dot.gov/bts/about)
+    *   [Advisory Council](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/advisory_council_on_transportation_statistics/index.html "Advisory Council on Transportation Statistics")
+    *   [Jobs and Internships](https://www.rita.dot.gov/bts/about/bts_jobs_and_internships.html)
+    *   [Organizational Chart](https://www.rita.dot.gov/bts/about/org_chart.html)
+    *   [BTS Programs](https://www.rita.dot.gov/bts/about/bts_programs.html)
+
+*   [Contact Us](https://www.rita.dot.gov/bts/contacts)
+
+[Office of the Assistant Secretary for Research and Technology (OST-R)](https://www.rita.dot.gov/) • [U.S. Department of Transportation (US DOT)](http://www.dot.gov/)
+
+ 1200 New Jersey Avenue, SE • Washington, DC 20590 • 800.853.1351 • [E-mail OST-R](https://ntl.custhelp.com/app/ask)
+
+[Accessibility](https://www.rita.dot.gov/accessibility.html) | [Disclaimer](https://www.rita.dot.gov/disclaimer.html) | [Fast Lane](http://fastlane.dot.gov/) | [FedStats](http://fedstats.sites.usa.gov/) | [Freedom of Information Act](https://www.rita.dot.gov/freedom_of_information_act/) | [No FEAR Act](https://www.civilrights.dot.gov/civil-rights-awareness-enforcement/employment-related/affirmative-employment/no-fear-act) | [OIG Hotline](http://www.oig.dot.gov/Hotline) | [Privacy Policy](https://www.rita.dot.gov/privacy.html) | [USA.gov](http://www.usa.gov/ "You are leaving DOT") | [White House](http://www.whitehouse.gov/ "You are leaving DOT")
+
+ Plug-ins: [PDF Reader](http://www.adobe.com/products/acrobat/readstep2_allversions.html "You are leaving DOT") | [Flash Player](http://www.macromedia.com/shockwave/download/alternates/ "You are leaving DOT") | [Excel Viewer](http://www.microsoft.com/downloads/details.aspx?FamilyID=1cd6acf9-ce06-4e1c-8dcf-f33f669dbc3a&DisplayLang=en "You are leaving DOT") | [PowerPoint Viewer](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485 "You are leaving DOT") | [Word Viewer](http://www.microsoft.com/downloads/details.aspx?FamilyID=3657CE88-7CFA-457A-9AEC-F4F827F20CAC&DisplayLang=en "You are leaving DOT") | [WinZip](http://www.winzip.com/prodpagewz.htm "You are leaving DOT")
+
+ OST-R's privacy policies and procedures do not necessarily apply to external web sites. We suggest contacting these sites directly for information on their data collection and distribution policies.

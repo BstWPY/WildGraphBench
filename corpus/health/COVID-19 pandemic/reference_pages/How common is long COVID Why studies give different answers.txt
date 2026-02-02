@@ -1,0 +1,81 @@
+# How common is long COVID? Why studies give different answers
+
+![Image 1: A recovered Coronavirus patient sits in an exercise chair whilst being monitored by healthcare professionals](https://media.nature.com/lw767/magazine-assets/d41586-022-01702-2/d41586-022-01702-2_23171160.jpg)
+
+Health-care workers monitor a woman in a COVID-19 recovery gym in Genoa, Italy.Credit: Marco Di Lauro/Getty
+
+Clinical epidemiologist Ziyad Al-Aly has access to a treasure trove that many researchers can only dream of: millions of sets of electronic medical records from the US Department of Veterans Affairs (VA), which provides health care for the country’s military veterans.
+
+With this data in hand, Al-Aly, who is based at the VA St. Louis Healthcare System in Missouri, and his colleagues have delved into the long-term effects of COVID-19, from [cardiovascular illness](https://www.nature.com/articles/d41586-022-00403-0)[1](https://www.nature.com/articles/d41586-022-01702-2#ref-CR1) to [diabetes](https://www.nature.com/articles/d41586-022-00912-y)[2](https://www.nature.com/articles/d41586-022-01702-2#ref-CR2). They have also undertaken the challenge of studying long COVID — a condition in which people experience symptoms months after an acute SARS-CoV-2 infection seems to have resolved — and recently published findings[3](https://www.nature.com/articles/d41586-022-01702-2#ref-CR3) that surprised some researchers. The team found that previous vaccination only [reduces the risk of developing long COVID after infection by about 15%,](https://www.nature.com/articles/d41586-022-01453-0)which is [substantially less than some other estimates](https://www.nature.com/articles/d41586-021-03495-2)[4](https://www.nature.com/articles/d41586-022-01702-2#ref-CR4), which suggested that vaccines halved the risk.
+
+[![Image 2: Woman with patterned mask sits at table covered with many medicine bottles, pills and medical devices](https://media.nature.com/w400/magazine-assets/d41586-022-01702-2/d41586-022-01702-2_22170282.jpg) The pandemic’s true health cost: how much of our lives has COVID stolen?](https://www.nature.com/articles/d41586-022-01341-7)
+It is the kind of whiplash result that people following long-COVID research have become accustomed to seeing, as data from various studies report discordant results. Differences in how the syndrome is defined, the kinds of data used to study it and how those data are analysed have left both the public and policymakers grappling with disparate answers to basic questions. How frequent is long COVID? And how does vaccination or reinfection or the latest SARS-CoV-2 variant affect the risk of developing the condition?
+
+The answers to those questions can be used to develop COVID-19 policies, but the steady drip–drip of seesawing studies can also cause confusion, says Al-Aly. Having so much uncertainty doesn’t engender a lot of trust, Al-Aly adds: “The public does not react very well to saying ‘between 15% and 50%’.”
+
+Slippery definition
+-------------------
+
+Part of the problem is the definition of long COVID, which has been linked to more than 200 symptoms, the severity of which can vary from inconvenient to debilitating. The syndrome can last for months or years, and has a distressing tendency to reappear, sometimes months after an apparent recovery.
+
+So far, there is no agreement on how to define and diagnose long COVID. The World Health Organization’s attempt at a [consensus, published in 2021](https://www.who.int/publications/i/item/WHO-2019-nCoV-Post_COVID-19_condition-Clinical_case_definition-2021.1), has not proved popular with patient advocates or researchers, and studies continue to use a range of criteria to define the condition. Estimates of its prevalence can range from 5–50%.
+
+A study of such a complex condition needs to be sufficiently large to reflect the range of symptoms and the possible impact of characteristics such as age and the severity of the acute SARS-CoV-2 infection. This is where analyses like Al-Aly’s offer a host of advantages: data from large health-care networks can provide enormous sample sizes. Al-Aly’s study of long COVID after a ‘breakthrough’ infection — one that follows vaccination — included records from more than 13 million people. Although 90% of those people were men, that still left 1.3 million women in the analysis, Al-Aly notes, more than many other studies can muster.
+
+Big-number benefits
+-------------------
+
+These large numbers, as well as the types of data available in some health records, allow researchers to perform complicated statistical analyses to carefully match the demographics of people infected with coronavirus to an uninfected control group, says Theo Vos, an epidemiologist at the Institute for Health Metrics and Evaluation at the University of Washington in Seattle, who has worked with a variety of data sources to study long COVID.
+
+But there are also drawbacks. “People mistake the size of the study with its quality and its validity,” says Walid Gellad, a physician who studies health policy at the University of Pittsburgh in Pennsylvania.
+
+[![Image 3: A woman wearing a hijab and a face mask receives a vaccine in her arm from a gloved medical professional wearing a face mask and a hijab](https://media.nature.com/w400/magazine-assets/d41586-022-01702-2/d41586-022-01702-2_23176104.jpg) Long COVID risk falls only slightly after vaccination, huge study shows](https://www.nature.com/articles/d41586-022-01453-0#:~:text=25%20May%202022-,Long%20COVID%20risk%20falls%20only%20slightly%20after%20vaccination%2C%20huge%20study,against%20lingering%20symptoms%20than%20expected.)
+In particular, Gellad worries that studies that rely on electronic health records will be muddied by behavioural differences. For example, compared with someone who does not seek medical care for acute COVID-19, someone who does might be more likely to report long-COVID symptoms, he says.
+
+Moreover, medical records and health insurance claims might not reflect a demographically diverse population, says computational epidemiologist Maimuna Majumder at Harvard Medical School in Boston, Massachusetts. This is particularly likely in the United States, she says, where health insurance coverage varies widely. “The number of data points considered is often so large that we mistakenly assume that these data must be representative,” she says. “But this isn’t necessarily the case.”
+
+Majumder also wonders whether studying claims data could lead researchers to undercount the number of people with long COVID, because many people might not seek medical care for their condition.
+
+Coding lessons
+--------------
+
+Another issue is how symptoms are recorded in the claims and electronic medical records. Doctors often record codes for several symptoms and conditions, but they rarely list a code for every symptom a patient is experiencing, says Vos, and the choice of codes for a given condition might vary from one doctor to the next. This could lead to differences in whether and how long COVID is reported. “Electronic health records have useful information in them, without a doubt,” says Gellad, who says that the VA study was particularly well designed. “But for answering the question of how common something is, they may not be the best.”
+
+Other methods also have their pitfalls. Some studies rely on self-reporting, such as the COVID Symptom Study app developed by King’s College London and the data-science company ZOE, also in London. Data from the app showed that vaccination reduced people’s risk of experiencing long COVID 28 days or more after an acute infection by about half[4](https://www.nature.com/articles/d41586-022-01702-2#ref-CR4). But studies in which people voluntarily self-report their symptoms can be biased, because people who have symptoms are more likely to participate, says Gellad. And studies that rely on smartphone apps might not fully capture data from disadvantaged communities.
+
+[![Image 4: An older woman with glasses and a breathing tube holds a black and white photo of herself as a young nurse](https://media.nature.com/w400/magazine-assets/d41586-022-01702-2/d41586-022-01702-2_20140412.jpg) Pandemics disable people — the history lesson that policymakers ignore](https://www.nature.com/articles/d41586-022-00414-x)
+One particularly useful source of data has been the UK Office for National Statistics (ONS), says Nisreen Alwan, a public-health researcher at the University of Southampton, UK. In May, the ONS reported that [the variant of SARS-CoV-2 that people are infected with can affect their risk of developing long COVID](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/selfreportedlongcovidafterinfectionwiththeomicronvariant/6may2022). Among double-vaccinated participants, those thought to have COVID-19 caused by the Omicron BA.1 variant were roughly 50% less likely to develop long COVID symptoms four to eight weeks after infection than were participants whose infections were probably caused by the Delta variant. This finding is in line with the results of an 18 June paper[5](https://www.nature.com/articles/d41586-022-01702-2#ref-CR5) based on ZOE data.
+
+Seeking a common thread
+-----------------------
+
+Alwan, who has long COVID and has advocated for the collection of data on the condition, praises the ONS study design, which involved enrolling a group of people with careful attention to representing the UK population, and then following up with them to ask about their infection status and symptoms.
+
+Other aspects of study design, such as whether a control group is used, can strongly affect results, says Alwan. But accounting for disparate methods and definitions need not stall research. “That’s not something new,” she says. “It’s something that we had before COVID, for other conditions.”
+
+For Al-Aly, the discrepancies among study results are not surprising, nor are they damning. Epidemiologists often weave together evidence from multiple sources of data and methods of analysis, he says. Even if it is difficult to precisely quantify vaccination’s effect on long-COVID risk, for example, researchers can look for trends. “You search for the common thread,” Al-Aly says. “The common thread here is that vaccines are better than no vaccines.”
+
+References
+----------
+
+1.   Xie, Y., Xu, E., Bowe, B. & Al-Aly, Z. _Nature Med_. **28**, 583–590 (2022).
+
+[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=35132265)[Article](https://doi.org/10.1038%2Fs41591-022-01689-3)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Nature%20Med&doi=10.1038%2Fs41591-022-01689-3&volume=28&pages=583-590&publication_year=2022&author=Xie%2CY.&author=Xu%2CE.&author=Bowe%2CB.&author=Al-Aly%2CZ.)
+
+2.   Xie, Y. & Al-Aly, Z. _Lancet Diabetes Endocrinol._ https://doi.org/10.1016/S2213-8587(22)00044-4 (2022).
+
+[Article](https://doi.org/10.1016%2FS2213-8587%2822%2900044-4%20)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Lancet%20Diabetes%20Endocrinol.&doi=10.1016%2FS2213-8587%2822%2900044-4&publication_year=2022&author=Xie%2CY.&author=Al-Aly%2CZ.)
+
+3.   Al-Aly, Z., Bowe, B. & Xie, Y. _Nature Med_. https://doi.org/10.1038/s41591-022-01840-0 (2022).
+
+[Article](https://doi.org/10.1038%2Fs41591-022-01840-0)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Nature%20Med&doi=10.1038%2Fs41591-022-01840-0&publication_year=2022&author=Al-Aly%2CZ.&author=Bowe%2CB.&author=Xie%2CY.)
+
+4.   Antonelli, M. _et al._ _Lancet Infect. Dis._**22**, 43–55 (2022).
+
+[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=34480857)[Article](https://doi.org/10.1016%2FS1473-3099%2821%2900460-6)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Lancet%20Infect.%20Dis.&doi=10.1016%2FS1473-3099%2821%2900460-6&volume=22&pages=43-55&publication_year=2022&author=Antonelli%2CM.)
+
+5.   Antonelli, M., Pujol, J.C., Spector, T. D., Ourselin, S. & Steves, C. J. _Lancet_**399**, 2263–2264 (2022).
+
+[Article](https://doi.org/10.1016%2FS0140-6736%2822%2900941-2)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Lancet&doi=10.1016%2FS0140-6736%2822%2900941-2&volume=399&pages=2263-2264&publication_year=2022&author=Antonelli%2CM.&author=Pujol%2CJ.C.&author=Spector%2CT.%20D.&author=Ourselin%2CS.&author=Steves%2CC.%20J.)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1038/d41586-022-01702-2?format=refman&flavour=references)

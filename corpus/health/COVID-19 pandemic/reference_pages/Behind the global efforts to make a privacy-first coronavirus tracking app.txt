@@ -1,0 +1,118 @@
+# Behind the global efforts to make a privacy-first coronavirus tracking app
+
+In a Google Doc that now stretches beyond 20 pages, software engineers and health experts are working out what they hope can be a way for the world to soon return to something resembling normal life.
+
+"What's the minimum duration of contact that we should consider important?" an engineer asked.
+
+It's one of many crucial questions from engineers who believe smartphone technology could be the key to creating a way to anonymously track the spread of the coronavirus — and by doing so help save lives and get people back to their jobs and social lives.
+
+"There are people who have been waiting their entire lives for a problem that can be solved by exactly the right algorithm," said Peter Eckersley, an artificial intelligence researcher who convened an informal group of like-minded experts called [stop-covid.tech](https://stop-covid.tech/). "And those people are springing to work."
+
+Versions of coronavirus tracking apps already exist in China, Singapore, Israel and elsewhere, but the lack of privacy protections worries many technologists in the U.S. and Europe, who are looking to build their own.
+
+Eckersley, based in Australia, is helping to coordinate the far-flung efforts through the Google Doc. More than a dozen clusters of experts, scattered in cities including Seattle, London and Lausanne, Switzerland, are working on some form of voluntary smartphone-based tracking technology to provide app notifications to people who may have been exposed to the virus and need to isolate themselves.
+
+The projects to trace contacts have names like [COVID Watch](https://covid-watch.org/), [NextTrace](https://nexttrace.org/team/) and [Corona Trace](https://www.coronatrace.org/), and they're conferring with one another and with epidemiologists online over Google Docs, Slack and the software repository GitHub.
+
+_**[Full coverage of the coronavirus outbreak](https://www.nbcnews.com/health/coronavirus)**_
+
+The semi-coordinated efforts come as there are some signs in Europe and the U.S. that social distancing has helped turn the tide against the coronavirus — but also evidence in parts of Asia that a [second wave of the virus](https://www.nbcnews.com/news/world/south-korea-s-return-normal-interrupted-uptick-coronavirus-cases-n1176021) remains a risk.
+
+The hope is that smartphone tracking — combined with widespread testing — can help create a framework for cities to let people resume their lives while keeping a close watch on a resurgence of the coronavirus. The White House and the Centers for Disease Control and Prevention have already expressed interest [in using smartphone location data](https://www.nbcnews.com/tech/tech-news/u-s-wants-smartphone-location-data-fight-coronavirus-privacy-advocates-n1162821) to track interactions and possible coronavirus spread.
+
+![Image 1: Three figures in full hazmat suits and masks stand around a vehicle near the back of a white car](https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/MSNBC/Components/Video/202004/NY-NN-20200406_SNOW_NURSING_HOMES_FOR_WEB_UPDATE_MIXDOWN_frame_45.jpg)
+
+02:14
+
+The efforts are also the subject of growing scrutiny from privacy advocates and some health care experts who question the efficacy of such systems. To be effective, an app would need to be downloaded by a significant percentage of the population.
+
+But tech experts remain optimistic about putting a new tool in the hands of everyday phone users with a voluntary app that would silently and anonymously use Bluetooth technology to ping phones nearby — without sharing personal data with the government or other third parties.
+
+They say the progress of technology in recent decades could culminate in a tool that could help society avoid some of the worst health and economic impacts of the coronavirus while helping people get back to their lives in a way that still ensures privacy.
+
+How it could work
+-----------------
+
+The goals of most of the technologists volunteering their time are similar: create an app that would help trace where the virus is going while protecting the privacy of users and not creating a permanent surveillance tool for authorities.
+
+The eventual aim is to answer a simple question that requires massive amounts of data to answer.
+
+"You'd like to be able to ask: Am I in a good situation or a bad situation?" said Alex Pentland, a computer scientist at the Massachusetts Institute of Technology who's helping to lead one of the research efforts, called [Safe Paths](https://covidsafepaths.org/).
+
+Pentland said that public health authorities have a growing number of software tools to track how the virus is spreading and that a voluntary smartphone app would give people more information if they want it.
+
+Other apps and websites from tech companies such as [Verily](https://www.projectbaseline.com/study/covid-19/) and engineers at [Pinterest](https://www.howwefeel.org/) have so far been more limited, relying on people to enter symptoms and demographic information. Facebook CEO Mark Zuckerberg [said Monday](https://www.facebook.com/zuck/posts/10111766711577471) that the social network would begin showing a voluntary symptoms tracker run by Carnegie Mellon University.
+
+The science behind many of the apps isn't new. An app could remember which other phones have been nearby. If someone you had coffee with two days ago tests positive for the coronavirus, you would get a notification along the lines of "you may have recently been exposed" — and advising temporary isolation. Passing someone on the sidewalk wouldn't be enough to trigger a notification, but sitting next to each other for 10 or 15 minutes might.
+
+There is some disagreement on key details. Should a smartphone app use Bluetooth technology, which senses the proximity of nearby phones, or cellular network and GPS data?
+
+What they do agree on is that it should be a voluntary app — something that people willingly agree to. In Israel and China, a technological approach to fighting COVID-19 has meant [surveillance by the government](https://www.nytimes.com/2020/03/16/world/middleeast/israel-coronavirus-cellphone-tracking.html) and the central collection of [mass amounts](https://www.nytimes.com/2020/03/01/business/china-coronavirus-surveillance.html) of personal location data.
+
+The projects surveyed by NBC News would avoid that by making sure any data would stay on users' phones. The data would be encrypted, and no government could access it at a later point.
+
+"Our one and only goal was to build a system where the server knows absolutely nothing," said Carmela Troncoso, a professor at the Swiss Federal Institute of Technology who is designing an [app](https://github.com/DP-3T) that would use Bluetooth proximity data.
+
+Eckersley compared the idea to Apple's Find My iPhone software, which uses [anonymous, encrypted Bluetooth](https://www.wired.com/story/apple-find-my-cryptography-bluetooth/) technology.
+
+"That could happen without revealing the identity of any of the parties involved," he said. "Your phone talks to my phone."
+
+It isn't clear how federal health authorities will respond. App developers said they haven't gotten clear guidance from the CDC or elsewhere. The CDC didn't respond to a request for comment.
+
+'A better way'
+--------------
+
+Versions of coronavirus tracking apps already exist in parts of Asia.
+
+Singapore has [launched](https://www.reuters.com/article/us-health-coronavirus-singapore-technolo/singapore-launches-contact-tracing-mobile-app-to-track-coronavirus-infections-idUSKBN2171ZQ) a contact tracing mobile app, called [TraceTogether](https://www.tracetogether.gov.sg/), and said it would [provide](https://www.cnbc.com/2020/03/25/coronavirus-singapore-to-make-contact-tracing-tech-open-source.html) the computer code openly to others, although U.S. researchers said that Singapore hadn't yet published the underlying code and that the app wasn't designed to minimize data collection.
+
+"Their privacy model doesn't fit with the way we would like things to be done, and I would hope things would be done in the U.S. in a better way," said Tina White, a doctoral candidate researching machine learning at Stanford University, who has helped organize COVID Watch.
+
+In Israel, around 1.5 million people had signed up by last week for an app called HaMagen — [Hebrew for "The Shield."](https://www.reuters.com/article/us-health-coronavirus-israel-apps/1-5-million-israelis-using-voluntary-coronavirus-monitoring-app-idUSKBN21J5L5) Personal data doesn't leave the phone, developers say, but the government [publishes the movements](https://www.haaretz.com/israel-news/israel-unveils-app-that-uses-tracking-to-tell-users-if-they-were-near-virus-cases-1.8702055) of people diagnosed with the coronavirus using information from a counterterrorism database.
+
+Surveillance in China is even more extreme, with the government using Alipay, a payments app, to [provide people with a QR code](https://www.scmp.com/tech/apps-social/article/3064574/beijing-rolls-out-colour-coded-qr-system-coronavirus-tracking) that's green, yellow or red depending on their status: green meaning healthy and free to move about, or yellow and red for different levels of quarantine restrictions.
+
+In the United Kingdom, the National Health Service, the country's health care provider, is developing its own app with input from academics, corporations and officials.
+
+The effort has already drawn a response from dozens of British academics and privacy advocates who have warned [in an open letter](https://medium.com/@rachelcoldicutt/open-letter-contract-tracking-and-nhsx-e503325b2703) that "far reaching data-gathering powers" from mobile phones, combined with newly expanded police power to detain people, could be used as a "means of social control."
+
+Waiting for launch
+------------------
+
+There are skeptics who think that the entire idea won't work and that software can't solve what's primarily a medical emergency.
+
+"There's really never been a time in history where a clever app means the difference between widespread calamity and people being able to go about their lives," said Ryan Calo, a University of Washington law professor who studies privacy. "It's just not plausible. This is a serious emergency we're in."
+
+Calo said an app could fail in multiple ways even if it's designed well. For example, could a prankster visit several grocery stores and then sign up for the app as a false positive to cause trouble, sparking unnecessary panic?
+
+Developers said they've anticipated such abuse and can prevent it — by allowing only hospital staff members to authorize someone to identify on the app as having tested positive — but Calo said there are too many other ways an app could go wrong.
+
+"People will be reassured when they shouldn't be, and they will panic when they shouldn't panic," Calo said.
+
+In general, the use of proximity or location data has alarmed human rights advocates. Amnesty International and more than 100 other organizations have [issued a statement](https://www.amnestyusa.org/wp-content/uploads/2020/04/FULL-STATEMENT.pdf) calling for limits on how governments use surveillance, including mobile phone location data, to fight the coronavirus.
+
+There's no official launch date for an American app. Some developers said that one could, in theory, be ready for deployment in a couple of weeks, especially if health authorities signaled their support, but that the whole project depends on the widespread availability of cheap and easy testing — which isn't available yet in the U.S. or many other countries.
+
+_**Download the [NBC News app](https://apps.nbcnews.com/mobile/) for full coverage and alerts about the coronavirus outbreak**_
+
+Even app developers believe their tools would need to be widely used to be truly useful. Eckersley said 20 percent might be a viable threshold depending on how an app is designed, but getting 1 in 5 smartphone users to download an app voluntarily is still a tall order.
+
+Apple and Google, which together run the operating systems for the vast majority of smartphones in the U.S., could push people to adopt an app in the interest of public health, and 75 tech experts have asked in [an open letter](https://techcrunch.com/2020/03/29/test-and-trace-with-apple-and-google/) for the two companies to get involved.
+
+Neither company responded to requests for comment, although they are taking [other](https://www.apple.com/newsroom/2020/03/apple-releases-new-covid-19-app-and-website-based-on-CDC-guidance/)[steps](https://blog.google/technology/health/covid-19-community-mobility-reports/) to respond to the pandemic.
+
+Michael Veale, a lecturer in digital rights and regulation at University College London, said the work being done shows it's possible to use smartphones to slow the spread of the virus without giving more data to tech companies or the government.
+
+"This needs to be an effort where there's public buy-in, public trust, where people feel like they need to do this for the population, but also it's safe for them to do this," he said.
+
+David Ingram is a tech reporter for NBC News.
+
+Jacob Ward
+
+Jacob Ward, a technology correspondent for NBC News, is a 2018-19 Berggruen Fellow at Stanford University’s Center for Advanced Study in the Behavioral Sciences, where he is writing a book about how artificial intelligence will shape human behavior.
+
+Willem Marx
+
+contributed
+
+.

@@ -1,0 +1,148 @@
+# Hydroxychloroquine: how an unproven drug became Trump's coronavirus 'miracle cure'
+
+T his weekend, Donald Trump used his daily White House coronavirus briefings to again urge Americans to take [hydroxychloroquine](https://www.theguardian.com/world/2020/apr/04/coronavirus-us-ventilators-new-york-trump-touts-unproven-cure-malaria-drug), an anti-malaria drug that has not been shown to be safe or effective against Covid-19.
+
+“What do you have to lose? Take it,” the president said on Saturday as he boasted that the US had amassed 29m doses of the drug. On Sunday, facing questions from the press about his aggressive promotion of an unproven treatment, he argued against waiting for the completion of clinical trials. “In France, they had a very good test,” he said. “But we don’t have time to go and say, ‘Gee, let’s take a couple of years and test it out, and let’s go and test with the test tubes and the laboratories.’”
+
+Meanwhile, Dr Anthony Fauci, the country’s top infectious disease doctor, has [repeatedly warned](https://www.theguardian.com/world/2020/apr/04/coronavirus-us-ventilators-new-york-trump-touts-unproven-cure-malaria-drug) that there is no conclusive evidence to support using the drug. Asked whether it should be considered a treatment for Covid-19, he said on 24 March: “The answer is no.”
+
+Trump grilled over continued promotion of hydroxychloroquine to treat coronavirus – video
+
+The story of how hydroxychloroquine was anointed the Trump administration’s miracle drug for the coronavirus pandemic is a distinctly modern tale of misinformation within a global information ecosystem beset by widespread uncertainty, fear, media fragmentation and hyper-partisanship. Belief in the drug’s potential to cure patients infected with the virus followed an extraordinary trajectory from a small study conducted in France (Trump’s “very good test”) to Silicon Valley social media influencers, Fox News and the largest bully pulpit: the White House.
+
+But it’s also a story as old as medicine itself. When an epidemic killed thousands in ancient Rome, said Aaron Shakow, a research associate at Harvard Medical School and historian of medicine, the chief physician of the emperor Nero circulated a recipe for an old miracle cure.
+
+“It was an attempt by Nero to sustain his legitimacy in the midst of this catastrophic event,” Shakow said. “Epidemics are dangerous to rulers.”
+
+**A deeply flawed study**
+-------------------------
+
+In early March, as the coronavirus pandemic accelerated its spread around the globe, a group of scientists in Marseille, France, launched an experiment to see whether hydroxychloroquine, a well-known old malaria drug, could be what everyone was searching for: a cure.
+
+Most small scientific studies live and die within the rarified domain of academic journals, but the French trial had a much more auspicious debut. Before the study was even [published](https://www.sciencedirect.com/science/article/pii/S0924857920300996#bib0012), in the International Journal of Antimicrobial Agents (IJAA), a lawyer falsely claiming an affiliation with Stanford University appeared on Fox News’s [Tucker Carlson Tonight](https://www.mediamatters.org/media/3860681) to declare the results: a “100% cure rate against coronavirus”. From Fox News, it was only a matter of time (hours, in fact) before the drug was being hailed as a “game changer” by the president of the United States.
+
+Trump made his first endorsement of hydroxychloroquine on 19 March. [Export controls](https://www.theguardian.com/science/2020/mar/25/can-chloroquine-really-help-treat-coronavirus-patients), [shortages](https://www.theguardian.com/world/2020/mar/27/vital-drug-people-lupus-coronavirus-covid-19-link-hydroxychloroquine), [overdoses](https://www.theguardian.com/world/2020/mar/24/coronavirus-cure-kills-man-after-trump-touts-chloroquine-phosphate) and [scientific recriminations](https://www.sciencemag.org/news/2020/03/insane-many-scientists-lament-trump-s-embrace-risky-malaria-drugs-coronavirus) rapidly ensued, but the controversy could not extinguish the power of presidentially endorsed hope. Across the globe and throughout diverse communities on the internet, hydroxychloroquine had been anointed the miracle cure for Covid-19.
+
+The only problem? The study that all this fervid hope is based on doesn’t show what its authors claim it does.
+
+The gold standard for a clinical trial is a double-blinded, randomized controlled trial (RCT). What this means in plain English is that the study has been designed to reduce biases that would render its results meaningless. Neither the physician nor the patients knows whether they received the drug (“double-blinded”), a safeguard that reduces the possibility that the doctor will treat the two groups differently. The researchers also do not get to choose which patients go into which group (“randomized”) and the makeup of the two groups is roughly equivalent (“controlled”).
+
+![Image 1: Donald Trump at a White House press briefing on Monday.](https://i.guim.co.uk/img/media/c95599ea2c0b5dae6272361950eb3cdc01c1b1ff/0_0_4000_2666/master/4000..jpg?width=445&dpr=1&s=none&crop=none)
+
+Donald Trump at a White House press briefing on Monday. Photograph: REX/Shutterstock
+
+The French hydroxychloroquine study did not follow any of these rules.
+
+The treatment group and the control group were drawn from separate populations: the treatment group were all patients at the institution where the researchers worked, the Méditerranée Infection University Hospital Institute in Marseille, while the control patients came from other hospitals in the south of France. The treatment group (mean age 51.2) was significantly older than the control group (mean age 37.3), introducing another variable that could undermine the meaning of the results. The study was “open label”, meaning the physicians and patients knew which treatment they were receiving. The French researchers also treated some but not all of the treatment group patients with azithromycin, a common antibiotic, another complicating factor that was not randomized.
+
+But even more important than these shortcomings in the design of the study is how the researchers chose to measure and report their results. Forty-two patients were initially included in the study. Three were transferred to the intensive care unit; one died, one left the hospital, and one stopped taking the treatment due to nausea. The other 36 eventually recovered, and those who received the drug cleared the virus from the system faster than those who did not.
+
+If you had only heard about this study from the Fox News assertion of a “100% cure rate”, you might assume that the four patients with poor clinical outcomes (the three ICU visits and one death) had been unlucky enough to be in the group that did not receive the “cure”.
+
+And yet, those four patients, as well as the patient with nausea and the one who left the hospital early, were all part of the treatment group. They were excluded from the topline results of the study because of the way that the researchers chose to measure and report the results: strictly based on the measurable presence of viruses in nasal swabs taken each day of the study. Since the patients were in the ICU or dead, their samples could not be taken and they were left out of the final analysis. Based on the nasal swabs of just the 36 patients who completed the study, those who received the drug cleared the virus from their systems faster than those who did not.
+
+This is how an experiment in which 15% of the treatment group and 0% of the control had poor clinical outcomes could end up being reported as showing a “100% cure rate”.
+
+![Image 2: Didier Raoult, corresponding author for the French study.](https://i.guim.co.uk/img/media/6daee2422b4580ffef4e3864e9ec27a2d84b5a74/0_124_6335_3803/master/6335..jpg?width=445&dpr=1&s=none&crop=none)
+
+Didier Raoult, corresponding author for the French study. Photograph: Gérard Julien/AFP via Getty Images
+
+On 3 April, two weeks after the study was first published online, the International Society of Antimicrobial Chemotherapy, which publishes the IJAA, said in a [statement](https://www.isac.world/news-and-publications/official-isac-statement) that the group’s board “believes the article does not meet the Society’s expected standard, especially relating to the lack of better explanations of the inclusion criteria and the triage of patients to ensure patient safety”.
+
+Didier Raoult, the corresponding author for the French study, did not respond to questions from the Guardian.
+
+Andrew Noymer, a professor of public health at the University of California, Irvine, described the results of the French study as “meaningless”. “They should have done an RCT,” he said.
+
+“This idea that we’re all manning the lifeboats and there’s no time for that is just absurd,” Noymer added. “They could have already done it. They could have had the answer by now … Doctors have always gone with their guts and saved many lives, but I don’t know. If they had done RCTs on [Thalidomide](https://www.theguardian.com/society/2009/jul/29/thalidomide-birth-defects-asbestos-drugs)” – a drug that caused birth defects – “they would have figured out its dangers a lot sooner.”
+
+**From Silicon Valley to Fox News**
+-----------------------------------
+
+So how did one interesting but flawed study out of the south of France make its way to Fox News’s prime time and the White House?
+
+It was not surprising that scientists were interested in testing hydroxychloroquine (and its close relative, chloroquine), a well-known and understood drug, as a potential treatment against Covid-19. It is one of a number of possible treatments that scientists in China and South Korea looked at in the early stages of the coronavirus outbreak, including in vitro (ie lab-based) experiments that showed [promising (though not conclusive) results](https://www.nature.com/articles/s41422-020-0282-0?fbclid=IwAR3c5iy9h65X1cnkrL6i6fJcWwi0ygN1LtI67SkcgREM4DyxxAcPauRuf5w). The drug was also selected as one of four that the [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/solidarity-clinical-trial-for-covid-19-treatments) included in its large-scale international clinical trial.
+
+But while hydroxychloroquine was garnering some interest in the early days of the pandemic, other possible treatments, such as Gilead’s antiviral Remdesivir, were drawing more. Google trends [data](https://trends.google.com/trends/explore?date=2020-01-15%202020-03-14&q=remdesivir,chloroquine,hydroxychloroquine) shows that people were searching for Remdesivir more than hydroxychloroquine throughout most of February.
+
+What Remdesivir lacked that hydroxychloroquine had, however, was a team of dedicated hype men who appeared more interested in publicizing the drug as a cure than they were in discovering whether the drug was effective.
+
+Among these is Raoult, the French physician who co-authored the hydroxychloroquine study in Marseille. Before Raoult had even begun his clinical trial, in late February, he appeared in the press to promote the idea of chloroquine as a treatment, researchers with First Draft News found. A [video](https://www.facebook.com/laprovence/videos/vb.119213845538/617612412395872/?type=2&theater) of the appearance received more than a quarter-million views on Facebook.
+
+![Image 3: The Fox News host Tucker Carlson hosted a lawyer falsely described as an ‘adviser’ to Stanford Medical School.](https://i.guim.co.uk/img/media/5439dc97ebbe4ccdea2f292495e111d5a2148aef/0_0_3922_2354/master/3922..jpg?width=445&dpr=1&s=none&crop=none)
+
+The Fox News host Tucker Carlson hosted a lawyer falsely described as an ‘adviser’ to Stanford medical school. Photograph: Richard Drew/AP
+
+Raoult also found a dedicated and effective English-language publicist in Gregory Rigano, the lawyer who appeared on Fox News with a chyron that falsely labeled him an “adviser” to Stanford medical school. Rigano wrote a Google document promoting the use of chloroquine with James Todaro, a blockchain investor who received a medical degree from Columbia University but does not appear to practice. (The document initially listed a third co-author, a retired biochemist who disclaimed any knowledge of it when contacted by [Wired](https://www.wired.com/story/an-old-malaria-drug-may-fight-covid-19-and-silicon-valleys-into-it/).)
+
+The Google document, which was formatted in a way that made it appear to be a scientific paper, found an audience among Silicon Valley’s elite. It was shared on Twitter by a number of influential investors before it hit the virality motherlode: on 16 March, the billionaire entrepreneur Elon Musk tweeted the link to the document to his nearly 33 million followers.
+
+“When someone who is newsworthy or notable that has an enormous network on social media tweets about something that could be as path-breaking as a medicine that could treat coronavirus, everyone is going to pay attention no matter if that person has expertise or not,” said Joan Donovan, director of the technology and social change research project at Harvard’s Shorenstein Center. “Elon Musk elevating and giving voice to this Google doc does act as a validating mechanism. Elon Musk is a tech entrepreneur best known as a car salesman, but nevertheless people look to him for what’s new, what’s next.”
+
+Musk’s tweet received more than 13,000 retweets. (He did not respond to questions from the Guardian about his promotion of the document.) Search interest in chloroquine soared. Mainstream media outlets [covered](https://www.bloomberg.com/news/articles/2020-03-16/elon-musk-thinks-malaria-medicine-could-help-treat-coronavirus) his apparent endorsement of the drug. An 85-year-old medication was well on its way to becoming a Covid-19 meme.
+
+**America’s right wing piles on**
+---------------------------------
+
+Once Trump declared himself a proponent of hydroxychloroquine, the scientific debate over the drug was drowned out by a decidedly partisan one.
+
+Rightwing media outlets have followed Fox News’s lead (an [analysis by Media Matters](https://www.mediamatters.org/fox-news/over-three-days-week-fox-news-promoted-antimalarial-drug-treatment-coronavirus-over-100) found that the cable news channel promoted using the drug 109 times between 23 and 25 March) to become staunch proponents of the drug, from digital outrage factories such as the Daily Caller and the Daily Wire to the opinion pages of the Wall Street Journal.
+
+“[These drugs are helping our coronavirus patients](https://www.wsj.com/articles/these-drugs-are-helping-our-coronavirus-patients-11584899438),” declared the headline of the Journal op-ed, which was written by two physicians from Kansas, Jeff Colyer and Daniel Hinthorn. The pair wrote that they had been treating patients with hydroxychloroquine and azithromycin, and encouraged others to do so too “as a matter of clinical practice” once a patient tests positive. They also recommended using the drug prophylactically for healthcare workers.
+
+The doctors did not provide any data from their own patients, but referenced the French study, writing: “Researchers in France treated a small number of patients with both hydroxychloroquine and a Z-Pak, and 100% of them were cured by day six of treatment.”
+
+Hinthorn, the director of the division of infectious diseases at the University of Kansas medical center, responded to queries from the Guardian about the op-ed’s mischaracterization of the French study: “You are correct. Any patient left out of any analysis makes us suspicious. But what this study told us was that this was a combination that might merit further evaluation.”
+
+He acknowledged that it is unknown whether the drug is beneficial or harmful for Covid-19 patients, but said that since no drug has as yet been proven effective, “if there is any medication that might give hope, we prefer to try it” as long as it is safe. “We should know in the next few weeks whether such a regimen was a wise decision or not.”
+
+Hinthorn did not respond to a follow-up question about whether the op-ed should be corrected to more accurately reflect the degree of uncertainty around hydroxychloroquine. Colyer, the former governor of Kansas and a plastic surgeon, did not respond to requests for comment. He has since written a [second op-ed](https://www.wsj.com/articles/an-update-on-the-coronavirus-treatment-11585509827?mod=e2two) for the Journal, also promoting hydroxychloroquine.
+
+![Image 4: Researchers at the University of Minnesota Genomics Center investigate the drug.](https://i.guim.co.uk/img/media/6cca4705e05e76d4d522b115db94bedbb9ec3cd1/0_0_3500_2368/master/3500..jpg?width=445&dpr=1&s=none&crop=none)
+
+Researchers at the University of Minnesota genomics center investigate the drug. Photograph: Craig Lassig/Reuters
+
+The idea that hydroxychloroquine is “the cure” has taken off within certain online communities, including among anti-vaxxers and followers of [QAnon](https://www.theguardian.com/technology/2018/jul/30/qanon-4chan-rightwing-conspiracy-theory-explained-trump), a rightwing conspiracy theory. The drug has also found support from the Association of American Physicians and Surgeons, a small, ultra-conservative organization that advocates against government involvement in medicine. The group launched a texting campaign to bombard physicians with demands to sign a petition against “red tape” that might prevent them from prescribing the drug, [Reuters](https://www.reuters.com/article/us-health-coronavirus-text-messages-idUSKBN21E367) reported.
+
+**Calls for further research**
+------------------------------
+
+Away from the rancor of the partisan media, scientists and physicians continue to study the effects of the drug. In some states, [including the hard-hit New York](https://www.washingtonpost.com/business/2020/03/26/trump-keeps-touting-an-unproven-coronavirus-treatment-its-now-being-tested-thousands-new-york/), hospitals are following Hinthorn’s rationale and using the drug since no proven therapy exists.
+
+A group of French researchers published a [refutation](https://www.sciencedirect.com/science/article/pii/S0399077X20300858) of the Raoult study in Médecine et Maladies Infectieuses on 30 March. The researchers, at Saint Louis hospital in France, followed the same regimen of hydroxychloroquine for 11 patients, and did not have similar results. “We found no evidence of a strong antiviral activity or clinical benefit of the combination of hydroxychloroquine and azithromycin for the treatment of our hospitalized patients with severe Covid-19,” they wrote. “Ongoing randomized clinical trials with hydroxychloroquine should provide a definitive answer regarding the alleged efficacy of this combination and will assess its safety.”
+
+But [another study](https://www.medrxiv.org/content/10.1101/2020.03.22.20040758v2) – this time a randomized controlled trial – out of Wuhan, China, has sparked hope since it was circulated ahead of publication on 31 March. The trial of 62 patients found that patients with mild cases of Covid-19 who were treated with hydroxychloroquine recovered faster than those who did not – and none of them progressed to “severe” illness. The study has not yet been peer-reviewed.
+
+The authors of the study urged further research and large-scale clinical trials to better understand how the drug operates and how best to use it.
+
+**The danger of presidential misinformation**
+---------------------------------------------
+
+The hype around hydroxychloroquine has not been without casualties.
+
+Heightened demand for the drug has left longtime patients – including [lupus patients](https://www.propublica.org/article/lupus-patients-cant-get-crucial-medication-after-president-trump-pushes-unproven-coronavirus-treatment) who have long used it as an anti-inflammatory – forced to go without. Overdoses have also been reported in the [US](https://www.cnn.com/2020/03/23/health/arizona-coronavirus-chloroquine-death/index.html) and [Nigeria](https://www.cnn.com/2020/03/23/africa/chloroquine-trump-nigeria-intl/index.html) as frightened individuals attempt to self-medicate.
+
+Social media companies, who have been proactive about policing misinformation about coronavirus, have taken some steps to counter the spread of false claims. Google took down the Google document by Rigano , though the company has not responded to numerous requests for an explanation. Twitter has also [deleted tweets](https://www.buzzfeednews.com/article/ryanhatesthis/twitter-deleted-tweets-brazil-president-coronavirus) by the Brazilian president, Jair Bolsonaro, Trump attorney [Rudy Giuliani](https://www.huffpost.com/entry/rudy-giuliani-covid-19-drugs-twitter-delete_n_5e801cafc5b661492268e789), and the Fox News personality Laura Ingraham that touted the efficacy of hydroxychloroquine.
+
+But it’s hard to see how these small enforcement actions by internet platforms can have much of an impact when the president of the United States continues to use his platform to promote the drug, as he did during his daily briefings on Saturday and again on Sunday.
+
+Trump’s promotion of the drug has raised questions about his motivation, and on Monday the [New York Times](https://www.nytimes.com/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html?action=click&module=Spotlight&pgtype=Homepage) reported that the president holds “a small personal financial interest” in Sanofi, the company that makes a brandname version of hydroxychloroquine. (The drug’s patent has expired so other pharmaceutical companies can manufacture generic versions.)
+
+As a piece of viral misinformation, the hydroxychloroquine meme has amassed an extraordinary list of validators, starting with its placement in a respectable peer-reviewed journal. (Though misinformation stemming from academia is not without precedent; the paper that touched off the false belief in a link between autism and the measles vaccine was published in one of the most respected publications in medicine, and only retracted 12 years later.) It’s also very difficult to refute, because none of the hydroxychloroquine narrative’s critics can or will say anything definitive about its efficacy. Uncertainty and a call to await further study is a weak sword to bring to a fight against an overly confident propagandist.
+
+Trump’s unscientific embrace of hydroxychloroquine is not common, but there are historical examples of heads of state spreading misinformation during pandemics. One recent, tragic example is the HIV-denialism of the South African president Thabo Mbeki, who rejected the use of antiretroviral drugs for his country’s citizens and instead promoted nutritional remedies such as [beetroot juice and garlic](https://www.theguardian.com/world/2009/dec/16/dr-beetroot-dies-south-africa). Researchers at the Harvard school of public health ultimately placed the [death toll](https://www.theguardian.com/world/2008/nov/27/south-africa-aids-mbeki) of Mbeki’s policies at approximately 330,000.
+
+![Image 5: President Gerald Ford receives a swine flu inoculation from his White House physician, Dr William Lukash.](https://i.guim.co.uk/img/media/af3e3a161fceb4436eecaea71dda99027ad003f7/0_0_5996_3665/master/5996..jpg?width=445&dpr=1&s=none&crop=none)
+
+President Gerald Ford receives a swine flu inoculation from his White House physician, Dr William Lukash. Photograph: David Hume Kennerly/Courtesy Gerald R Ford Library
+
+Noymer, the UC Irvine epidemiologist, said that the two situations were not quite analogous, since hydroxychloroquine has a “plausible mechanism” to combat the coronavirus, while beetroot juice never did.
+
+Still, Noymer said that the influence that a president can have over a population’s attitude toward a medicine or drug is significant. He recalled President Gerald Ford publicly receiving a flu shot in 1976, amid fear that a new swine flu could lead to a pandemic.
+
+“There was a photograph of him rolling up a sleeve and getting a shot, and the uptake on the flu shot was enormous,” Noymer said. “When the president of the United States does something, it’s quite the endorsement.”
+
+As for Trump, it does not appear likely that he will stop hyping the drug anytime soon, nor that he will take responsibility if anything goes wrong.
+
+“What do you have to lose?” he said on Sunday. “They say, take it. I’m not looking at it one way or the other … If it does work, it would be a shame if we didn’t do it early. I’ve seen things that I sort of like, so what do I know?
+
+“I’m not a doctor.”

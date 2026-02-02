@@ -1,0 +1,110 @@
+# Monthly Reports – World Federation of Exchanges
+
+*   [![Image 1: Focus logo in white](https://cdn.world-exchanges.org/images/wfe_focus_logo_white.png)](https://focus.world-exchanges.org/ "Focus Magazine")
+*   [Member Portal](https://members.world-exchanges.org/ "WFE Member Portal")
+*   [Statistics Portal](https://statistics.world-exchanges.org/ "WFE Member Portal")
+
+We publish over 350 market data indicators, ranging from statistics on exchange traded products such as equities, derivatives and ETFs to granular data on IPOs, and the WFE’s Median Simple Spread liquidity indicator.
+
+Statistics Portal
+-----------------
+
+The WFE Statistics Database provides registered users with access to a wide range of market indicators. The data is collected on a monthly and annual basis from WFE members, affiliates and non-members. More information on the WFE statistics can be found in the [WFE Statistics Definitions Manual 2024 May](https://wfe-live.lon1.digitaloceanspaces.com/org_focus/storage/media/statistics/WFE%20Statistics%20Definitions%20Manual%202024%20May.pdf) . You can find here a list of [WFE monthly and annual indicators.pdf](https://wfe-live.lon1.digitaloceanspaces.com/org_focus/storage/media/statistics/monthly%20and%20annual%20indicators%20updated%2015%20Nov%202024.pdf).
+
+### Features:
+
+*   Ability to extract time series data across exchanges and indicators
+*   Graphical presentation of data
+*   Ability to download data in various formats
+*   Consolidation of all WFE data in one place
+
+We invite you to access the Statistics Portal using the link below and the WFE’s monthly and annual reports as below.
+
+[Access Statistics Portal](https://statistics.world-exchanges.org/ "Statistics Portal")
+
+* * *
+
+*   ![Image 2: A computer screen displays stock market charts with various lines and colors](https://wfe-live.lon1.cdn.digitaloceanspaces.com/org_focus/storage/resources/resize/900_0_0_0_crop/img_0ac1048c78f5ebac18dbf8e9d4e21244.jpg)
+
+Stock Exchanges Factsheets
+--------------------------
+
+A compilation of the main structural elements observed across markets, including market hours, volatility control mechanisms, and trading rules can be found in the Exchanges Factsheets. You can access the Exchanges Factsheets through the interactive page (link below) or you can download them here [Exchanges Factsheets](https://wfe-live.lon1.digitaloceanspaces.com/org_focus/storage/media/WFE%20Exchange%20Factsheets%20updated%202%20Jan%202025.xlsx) (updated: Jan 2025).
+
+[Access Exchange Factsheets](https://www.world-exchanges.org/our-work/statistics/exchange-factsheets)
+
+* * *
+
+*   ![Image 3: Crystal globe is set in a forest floor with ferns and sunlight in the background](https://wfe-live.lon1.cdn.digitaloceanspaces.com/org_focus/storage/resources/resize/900_0_0_0_crop/img_c93dac96b0d229d2167f7f4dd0760824.jpg)
+
+Exchanges ESG Factsheets
+------------------------
+
+A compilation of exchanges’ ESG involvement, including participation in ESG initiatives, products offered, standards and definitions adopted and reporting formats and standards can be found in the Exchanges' ESG Factsheets. You can download them here [Exchanges ESG Factsheets](https://wfe-live.lon1.digitaloceanspaces.com/org_focus/storage/media/ESG%20Factsheets%20updated%202%20Jan%202025.xlsx) (updated: Jan 2025).
+
+* * *
+
+*   ![Image 4: A woman with an apron holding an 'OPEN' sign on a shop window](https://wfe-live.lon1.cdn.digitaloceanspaces.com/org_focus/storage/resources/resize/900_0_0_0_crop/img_4ad375b64719c0a60dd075ae424caecc.jpg)
+
+Exchanges SME Factsheets
+------------------------
+
+A compilation of the main characteristics of the SME market segments implemented by exchanges, including the type of market targeted, the SME definition adopted, or the main listing rules, can be found in the Exchanges' SME Factsheets. You can download them here [Exchanges SME Factsheets](https://wfe-live.lon1.cdn.digitaloceanspaces.com/org_focus/storage/media/statistics/SME%20Factsheets%2019%20Mar%202025.pdf) (updated: March 2025).
+
+**Disclaimer:**
+
+While the World Federation of Exchanges (WFE) makes every effort to check that the data is accurate and complete, it does not accept liability for any errors or omissions. The WFE shall not be liable for any claims or losses of any nature arising directly or indirectly from use of the data. In order to explain some breaks in the time series or other statistical issues, please note the Disclaimers on the last page of the report downloaded from the Statistics Portal. The statistics definitions are publicly available on the WFE website and in the Help & Contact section of the Statistics Portal. For reproduction, citation, distribution and transmission of any data please contact the Secretariat. It is otherwise strictly prohibited. The WFE will always have to be quoted when the statistics are used by a third party. Access to the database is confirmation that you have understood and accepted these terms of usage.
+
+Access our Statistics Portal
+----------------------------
+
+The portal is free to access, but please create an account first via the button below. Thank you.
+
+Recommended Long Reads
+----------------------
+
+![Image 5: Interior view of the Oculus in New York City, with numerous people walking through the white building](https://wfe-live.lon1.cdn.digitaloceanspaces.com/org_focus/storage/resources/resize/800_500_0_0_crop/img_a409056cbc09c088c43899be99b4b0c9.jpg)
+
+Published by:The WFE Regulatory Affairs Team
+
+#### Response to the European Commission’s Call for Evidence and Targeted Consultation on Savings and Investment Union (SIU)
+
+Published:05 Jun 2025
+
+[Read more](https://www.world-exchanges.org/our-work/articles/response-european-commissions-call-evidence-and-targeted-consultation-savings-and-investment-union-siu)
+
+Published by:The WFE Research Team
+
+#### Attracting new listings: What shapes IPO activity across markets
+
+Published:26 Nov 2025
+
+[Read more](https://www.world-exchanges.org/our-work/articles/attracting-new-listings-what-shapes-ipo-activity-across-markets)
+
+Published by:The WFE Research Team
+
+#### Research Working Paper: The WFE’s 11th Sustainability Survey
+
+Published:02 Jul 2025
+
+[Read more](https://wfe-live.lon1.cdn.digitaloceanspaces.com/org_focus/storage/media/Cally%20Billimore/WFE%20Annual%20Sustainability%20Survey%202025%20-%20final%20%20.pdf)
+
+Published by:The WFE Regulatory Affairs Team
+
+#### Industry Guidance on Managing Transitions to T+1
+
+Published:16 Jun 2025
+
+[Read more](https://www.world-exchanges.org/our-work/articles/industry-guidance-managing-transitions-t1)
+
+Our Statistics Team
+-------------------
+
+Our Statistics team includes experts in statistics and database management.
+
+*   ![Image 6: Dr. Pedro Gurrola-Perez](https://wfe-live.lon1.cdn.digitaloceanspaces.com/org_focus/storage/resources/resize/400_400_0_0_crop/img_f13597a7e4ee571e8fc5d436ace5afea.jpg)#### Dr. Pedro Gurrola-Perez
+
+Head of Research  
+*   ![Image 7: Mihaela Croitoru](https://wfe-live.lon1.cdn.digitaloceanspaces.com/org_focus/storage/resources/resize/400_400_0_0_crop/img_3a7edd6c7be15de9a6144a488edb4806.jpg)#### Mihaela Croitoru
+
+Manager, WFE Database

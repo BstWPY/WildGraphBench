@@ -1,0 +1,190 @@
+# Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution
+
+Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution - University of Edinburgh Research Explorer
+
+===============
+
+*   [Skip to main navigation](https://www.research.ed.ac.uk/en/publications/35151870-c7b5-477e-aca8-2c75c8382002#main-navigation)
+*   [Skip to search](https://www.research.ed.ac.uk/en/publications/35151870-c7b5-477e-aca8-2c75c8382002#main-search)
+*   [Skip to main content](https://www.research.ed.ac.uk/en/publications/35151870-c7b5-477e-aca8-2c75c8382002#main-content)
+
+[University of Edinburgh Research Explorer Home![Image 1: University of Edinburgh Research Explorer Logo](https://www.research.ed.ac.uk/skin/headerImage/)](https://www.research.ed.ac.uk/en/)
+*   [Help & FAQ](https://www.ed.ac.uk/information-services/research-support/research-information-management/pure)
+
+*   [Home](https://www.research.ed.ac.uk/en/)
+*   [Research output](https://www.research.ed.ac.uk/en/publications/)
+*   [Profiles](https://www.research.ed.ac.uk/en/persons/)
+*   [Research units](https://www.research.ed.ac.uk/en/organisations/)
+*   [Projects](https://www.research.ed.ac.uk/en/projects/)
+*   [Datasets](https://www.research.ed.ac.uk/en/datasets/)
+*   _0_ More
+
+    *   [Prizes](https://www.research.ed.ac.uk/en/prizes/)
+    *   [Activities](https://www.research.ed.ac.uk/en/activities/)
+    *   [Press/Media](https://www.research.ed.ac.uk/en/clippings/)
+    *   [Equipment](https://www.research.ed.ac.uk/en/equipments/)
+
+Search by expertise, name or affiliation 
+
+Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution
+===================================================================================================================
+
+Hans P. Püschel, [Ornella C. Bertrand](https://www.research.ed.ac.uk/en/persons/ornella-bertrand-2/), Joseph E. O’reilly, René Bobe, Thomas A. Püschel
+
+*   [School of Geosciences](https://www.research.ed.ac.uk/en/organisations/httpswwwedacukgeosciences/)
+
+Research output: Contribution to journal › Article › peer-review
+
+*   [Overview](https://www.research.ed.ac.uk/en/publications/divergence-time-estimates-for-hominins-provide-insight-into-encep/)
+*   [Fingerprint](https://www.research.ed.ac.uk/en/publications/divergence-time-estimates-for-hominins-provide-insight-into-encep/fingerprints/)
+*   [Datasets(1)](https://www.research.ed.ac.uk/en/publications/divergence-time-estimates-for-hominins-provide-insight-into-encep/datasets/)
+
+Abstract
+--------
+
+Quantifying speciation times during human evolution is fundamental as it provides a timescale to test for the correlation between key evolutionary transitions and extrinsic factors such as climatic or environmental change. Here, we applied a total evidence dating approach to a hominin phylogeny to estimate divergence times under different topological hypotheses. The time-scaled phylogenies were subsequently used to perform ancestral state reconstructions of body mass and phylogenetic encephalization quotient (PEQ). Our divergence-time estimates are consistent with other recent studies that analysed extant species. We show that the origin of the genus Homo probably occurred between 4.30 and 2.56 million years ago. The ancestral state reconstructions show a general trend towards a smaller body mass before the emergence of Homo, followed by a trend towards a greater body mass. PEQ estimations display a general trend of gradual but accelerating encephalization evolution. The obtained results provide a rigorous temporal framework for human evolution.
+
+| Original language | English |
+| --- |
+| Journal | [Nature Ecology & Evolution](https://www.research.ed.ac.uk/en/publications/35151870-c7b5-477e-aca8-2c75c8382002#) |
+| DOIs | * [https://doi.org/10.1038/s41559-021-01431-1](https://doi.org/10.1038/s41559-021-01431-1) |
+| Publication status | Published - 1 Apr 2021 |
+
+Access to Document
+------------------
+
+*   [10.1038/s41559-021-01431-1](https://doi.org/10.1038/s41559-021-01431-1)Licence: [Other](http://www.springer.com/tdm) 
+
+*   [189. Puschel](https://www.research.ed.ac.uk/files/204054232/189._Puschel.pdf)Accepted author manuscript, 540 KB 
+
+*   [http://www.nature.com/articles/s41559-021-01431-1](http://www.nature.com/articles/s41559-021-01431-1) 
+
+Fingerprint
+-----------
+
+ Dive into the research topics of 'Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution'. Together they form a unique fingerprint. 
+
+*   Hominin Biochemistry, Genetics and Molecular Biology 100% 
+*   Body Mass Biochemistry, Genetics and Molecular Biology 100% 
+*   Reconstruction Biochemistry, Genetics and Molecular Biology 50% 
+*   Species Differentiation Biochemistry, Genetics and Molecular Biology 25% 
+*   Extant Species Biochemistry, Genetics and Molecular Biology 25% 
+*   Cladistics Biochemistry, Genetics and Molecular Biology 25% 
+*   Cyanocobalamin Biochemistry, Genetics and Molecular Biology 25% 
+
+[View full fingerprint](https://www.research.ed.ac.uk/en/publications/divergence-time-estimates-for-hominins-provide-insight-into-encep/fingerprints/)
+
+Datasets
+--------
+
+*   ### [Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution: Data and Code](https://www.research.ed.ac.uk/en/datasets/divergence-time-estimates-for-hominins-provide-insight-into-encep/)
+
+Püschel, H. P. (Creator), [Bertrand, O. C.](https://www.research.ed.ac.uk/en/persons/ornella-bertrand-2/) (Creator), O'Reilly, J. E. (Creator), Bobe, R. (Creator) & Püschel, T. A. (Creator), Zenodo, 12 Feb 2021
+
+DOI: [10.5281/zenodo.4537445](https://doi.org/10.5281/zenodo.4537445), [https://github.com/HansPueschel/Hominin-div-time-evolution/tree/v1.0](https://github.com/HansPueschel/Hominin-div-time-evolution/tree/v1.0)
+
+Dataset   
+
+Cite this
+---------
+
+*    APA 
+*    Author 
+*    BIBTEX 
+*    Harvard 
+*    Standard 
+*    RIS 
+*    Vancouver 
+
+Püschel, H. P., Bertrand, O. C., O’reilly, J. E., Bobe, R., & Püschel, T. A. (2021). Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution. _Nature Ecology & Evolution_. https://doi.org/10.1038/s41559-021-01431-1
+
+Püschel, Hans P.  ; Bertrand, Ornella C. ; O’reilly, Joseph E. et al. / **Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution**. In: Nature Ecology & Evolution. 2021.
+
+@article{35151870c7b5477eaca82c75c8382002,
+
+ title = "Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution",
+
+ abstract = "Quantifying speciation times during human evolution is fundamental as it provides a timescale to test for the correlation between key evolutionary transitions and extrinsic factors such as climatic or environmental change. Here, we applied a total evidence dating approach to a hominin phylogeny to estimate divergence times under different topological hypotheses. The time-scaled phylogenies were subsequently used to perform ancestral state reconstructions of body mass and phylogenetic encephalization quotient (PEQ). Our divergence-time estimates are consistent with other recent studies that analysed extant species. We show that the origin of the genus Homo probably occurred between 4.30 and 2.56 million years ago. The ancestral state reconstructions show a general trend towards a smaller body mass before the emergence of Homo, followed by a trend towards a greater body mass. PEQ estimations display a general trend of gradual but accelerating encephalization evolution. The obtained results provide a rigorous temporal framework for human evolution.",
+
+ author = "P{\"u}schel, \{Hans P.\} and Bertrand, \{Ornella C.\} and O{\textquoteright}reilly, \{Joseph E.\} and Ren{\'e} Bobe and P{\"u}schel, \{Thomas A.\}",
+
+ year = "2021",
+
+ month = apr,
+
+ day = "1",
+
+ doi = "10.1038/s41559-021-01431-1",
+
+ language = "English",
+
+ journal = "Nature Ecology \& Evolution",
+
+ issn = "2397-334X",
+
+ publisher = "Nature Publishing Group",
+
+}
+
+Püschel, HP, Bertrand, OC, O’reilly, JE, Bobe, R & Püschel, TA 2021, 'Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution', _Nature Ecology & Evolution_. https://doi.org/10.1038/s41559-021-01431-1
+
+**Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution.** / Püschel, Hans P.; Bertrand, Ornella C.; O’reilly, Joseph E. et al. 
+
+In: Nature Ecology & Evolution, 01.04.2021.
+Research output: Contribution to journal › Article › peer-review
+
+TY - JOUR
+
+T1 - Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution
+
+AU - Püschel, Hans P.
+
+AU - Bertrand, Ornella C.
+
+AU - O’reilly, Joseph E.
+
+AU - Bobe, René
+
+AU - Püschel, Thomas A.
+
+PY - 2021/4/1
+
+Y1 - 2021/4/1
+
+N2 - Quantifying speciation times during human evolution is fundamental as it provides a timescale to test for the correlation between key evolutionary transitions and extrinsic factors such as climatic or environmental change. Here, we applied a total evidence dating approach to a hominin phylogeny to estimate divergence times under different topological hypotheses. The time-scaled phylogenies were subsequently used to perform ancestral state reconstructions of body mass and phylogenetic encephalization quotient (PEQ). Our divergence-time estimates are consistent with other recent studies that analysed extant species. We show that the origin of the genus Homo probably occurred between 4.30 and 2.56 million years ago. The ancestral state reconstructions show a general trend towards a smaller body mass before the emergence of Homo, followed by a trend towards a greater body mass. PEQ estimations display a general trend of gradual but accelerating encephalization evolution. The obtained results provide a rigorous temporal framework for human evolution.
+
+AB - Quantifying speciation times during human evolution is fundamental as it provides a timescale to test for the correlation between key evolutionary transitions and extrinsic factors such as climatic or environmental change. Here, we applied a total evidence dating approach to a hominin phylogeny to estimate divergence times under different topological hypotheses. The time-scaled phylogenies were subsequently used to perform ancestral state reconstructions of body mass and phylogenetic encephalization quotient (PEQ). Our divergence-time estimates are consistent with other recent studies that analysed extant species. We show that the origin of the genus Homo probably occurred between 4.30 and 2.56 million years ago. The ancestral state reconstructions show a general trend towards a smaller body mass before the emergence of Homo, followed by a trend towards a greater body mass. PEQ estimations display a general trend of gradual but accelerating encephalization evolution. The obtained results provide a rigorous temporal framework for human evolution.
+
+U2 - 10.1038/s41559-021-01431-1
+
+DO - 10.1038/s41559-021-01431-1
+
+M3 - Article
+
+SN - 2397-334X
+
+JO - Nature Ecology & Evolution
+
+JF - Nature Ecology & Evolution
+
+ER -
+
+Püschel HP, Bertrand OC, O’reilly JE, Bobe R, Püschel TA. Divergence-time estimates for hominins provide insight into encephalization and body mass trends in human evolution. Nature Ecology & Evolution. 2021 Apr 1. doi: 10.1038/s41559-021-01431-1
+
+![Image 2: University of Edinburgh Research Explorer Logo](https://www.research.ed.ac.uk/skin/footerIcon/)
+
+Powered by [Pure](http://www.elsevier.com/online-tools/research-intelligence/products-and-services/pure), [Scopus](http://www.scopus.com/)&[Elsevier Fingerprint Engine™](https://www.elsevier.com/products/elsevier-fingerprint-engine)
+
+All content on this site: Copyright © 2025 University of Edinburgh Research Explorer, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply
+
+We use cookies to help provide and enhance our service and tailor content. By continuing you agree to the [use of cookies](https://www.research.ed.ac.uk/en/about/cookies/)
+
+[University of Edinburgh Research Explorer data protection policy](https://www.ed.ac.uk/about/website/privacy)
+
+[About web accessibility](https://library.ed.ac.uk/accessibility-statements/university-of-edinburgh-research-explorer-website)
+
+[Report vulnerability](https://elsevier.responsibledisclosure.com/hc/en-us/requests/new)
+
+[Contact us](https://www.research.ed.ac.uk/en/contact/index/)
+
+[](https://www.research.ed.ac.uk/en/publications/35151870-c7b5-477e-aca8-2c75c8382002#)

@@ -1,0 +1,77 @@
+# Can We Really Know What Animals Are Thinking?
+
+Sarah, “[the world’s smartest chimp](https://www.nytimes.com/2019/08/09/opinion/chimpanzee-sarah.html),” [died in July 2019](https://chimphaven.org/chimp-blog/sarah-anne/), just before her 60th birthday. For the majority of her life she served as a research subject, providing scientists with a window into the thoughts of homo sapiens’ nearest living relative.
+
+[![Image 1: Drawing of a monkey with a large nose and close-set eyes, titled MONKEYS, with the text Case V. in the top left corner and the number 141 in the top right corner](https://images.theconversation.com/files/290746/original/file-20190903-175700-xg3tyb.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=237&fit=clip)](https://images.theconversation.com/files/290746/original/file-20190903-175700-xg3tyb.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip)
+
+Illustration (by T. W. Wood) of a chimpanzee, disappointed and sulky, from Charles Darwin’s _The Expression of the Emotions in Man and Animals_ (1872).
+
+[Wellcome Collection](https://wellcomecollection.org/works/hbjgkjnj)
+
+Sarah’s death provides an opportunity to reflect on a foundational question: can we _really_ know what non-human animals are thinking? Drawing on my background as a philosopher, I argue that the answer is no. There are principled limitations to our ability to understand animal thought.
+
+Animal thought
+--------------
+
+There is little doubt that animals think. Their behaviour is too sophisticated to suppose otherwise. But it is awfully difficult to say precisely what animals think. Our human language seems unsuited to express their thoughts.
+
+Sarah exemplified this puzzle. In one famous study, she reliably [chose the correct item to complete a sequence of actions](https://doi.org/10.1017/S0140525X00076512). When shown a person struggling to reach some bananas, she chose a stick rather than a key. When shown a person stuck in a cage, she chose the key over the stick.
+
+This led the study’s researchers to conclude that Sarah had a “theory of mind,” complete with the concepts intention, belief and knowledge. But other researchers immediately objected. They doubted that our human concepts accurately captured Sarah’s perspective. Although hundreds of additional studies have been conducted in the intervening decades, [disagreement still reigns about how to properly characterize chimpanzees’ mental concepts](https://doi.org/10.1111/phc3.12394).
+
+The difficulty characterizing animals’ thoughts does not stem from their inability to use language. After [Sarah was taught a rudimentary language](https://www.abebooks.com/MIND-APE-Premack-David-Ann-James/21359095186/bd), [the puzzle of what she was thinking simply transformed into the puzzle of what her words meant](https://doi.org/10.1080/09515089.2012.670922).
+
+BBC Earth: Compiling a chimpanzee dictionary.
+
+Words and meanings
+------------------
+
+As it turns out, the problem of assigning meanings to words was [the guiding obsession of philosophy in the 20th century](https://www.britannica.com/topic/philosophy-of-language). Among others, it occupied W.V.O. Quine, arguably [the most influential philosopher of that century’s second half](https://plato.stanford.edu/entries/quine/).
+
+A Harvard professor, Quine is famous for imagining what it would take to translate a foreign language — a project he called [radical translation](http://doi.org/10.4324/9780415249126-U046-1). Ultimately, Quine concluded that there would always be multiple equally good translations. As a result, we could never precisely characterize the meaning of the language’s words. But Quine also noted that radical translation was constrained by the structure of language.
+
+Quine imagined a foreign language completely unrelated to any human language, but here, I’ll use German for illustration. Suppose a speaker of the foreign language utters the sentence: “_Schnee ist weiss_.” Her friends smile and nod, accepting the sentence as true. Unfortunately, that doesn’t tell you very much about what the sentence means. There are lots of truths and the sentence could refer to any one of them.
+
+But suppose there are other sentences that the foreign speakers accept (“_Schnee ist kalt_,” “_Milch ist weiss_,” etc.) and reject (“_Schnee ist nicht weiss_,” “_Schnee ist rot_,” etc.), sometimes depending on the circumstances (for example, they accept “_Schnee_!” only when snow is present). Because you now have more evidence and the same words pop up in different sentences, your hypotheses will be more tightly constrained. You can make an educated guess about what “_Schnee ist weiss_” means.
+
+This suggests a general lesson: insofar as we can translate the sentences of one language into the sentences of another, that is largely because we can translate the words of one language into the words of another.
+
+But now imagine a language with a structure fundamentally unlike that of any human language. How would we translate it? If translating sentences requires translating words, but its “words” don’t map onto our words, we wouldn’t be able to map its sentences onto our own. We wouldn’t know what its sentences mean.
+
+Unknown grammars
+----------------
+
+The thoughts of animals are like the sentences of an unfamiliar language. They are composed from parts in a way that is completely unlike the way that our language is composed from words. As a result, there are no elements in the thoughts of animals that match our words and so there is no precise way to translate their thoughts into our sentences.
+
+An analogy can make this argument more concrete.
+
+What is the correct translation of the Mona Lisa? If your response is that this is an ill-posed question because the Mona Lisa is a painting and paintings can’t be translated into sentences, well… that’s exactly my point. Paintings are composed of colours on a canvas, not from words. So if Quine is right that any halfway decent translation requires matching words to words, we shouldn’t expect paintings to translate into sentences.
+
+But does the Mona Lisa really resist translation? We might try a coarse description such as, “The painting depicts a woman, [Lisa del Giocondo](https://www.britannica.com/topic/Mona-Lisa-painting), smirking slyly.” The problem is that there are ever so many ways to smirk slyly, and the Mona Lisa has just one of them. To capture her smile, we’ll need more detail.
+
+[![Image 2: The Mona Lisa is depicted in a pixelated, grid-like style](https://images.theconversation.com/files/290740/original/file-20190903-175663-115ifo4.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=237&fit=clip)](https://images.theconversation.com/files/290740/original/file-20190903-175663-115ifo4.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip)
+
+Breaking down Leonardo da Vinci’s Mona Lisa into pixels leads to a reproduction, but not a translation.
+
+Shutterstock
+
+So, we might try breaking the painting down into thousands of coloured pixels and creating a micro description such as “red at location 1; blue at location 2; ….” But that approach confuses instructions for reproduction with a translation.
+
+By comparison, I could provide instructions for reproducing the content on the front page of today’s _New York Times_: “First press the T key, then the H key, then the E key, … .” But these instructions would say something very different from the content of the page. They would be about what buttons should be pressed, not about income inequality, Trump’s latest tweets or how to secure your preschooler’s admission into one of Manhattan’s elite kindergartens. Likewise, the Mona Lisa depicts a smiling woman, not a collection of coloured pixels. So the micro description doesn’t yield a translation.
+
+Nature of thought
+-----------------
+
+My suggestion, then, is that trying to characterize animal thought is like trying to describe the Mona Lisa. Approximations are possible, but precision is not.
+
+The analogy to the Mona Lisa shouldn’t be taken literally. The idea is not that animals “think in pictures,” but simply that they do not think in human-like sentences. After all, even those animals, such as Sarah, who manage to laboriously learn rudimentary languages never grasp the rich recursive syntax that three-year-old humans effortlessly master.
+
+Despite having considerable evidence that Sarah and other animals think, we are in the awkward position of being unable to say precisely what they think. Their thoughts are structured too differently from our language.
+
+* * *
+
+![Image 3: The Conversation](https://counter.theconversation.com/content/122678/count.gif?distributor=republish-lightbox-basic)
+
+[Jacob Beck](https://theconversation.com/profiles/jacob-beck-817381), Associate Professor, Department of Philosophy, _[York University, Canada](http://theconversation.com/institutions/york-university-canada-1610)_
+
+This article is republished from [The Conversation](http://theconversation.com/) under a Creative Commons license. Read the [original article](https://theconversation.com/can-we-really-know-what-animals-are-thinking-122678).

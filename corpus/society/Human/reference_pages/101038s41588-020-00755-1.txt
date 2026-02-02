@@ -1,0 +1,279 @@
+# 10.1038/s41588-020-00755-1
+
+Data availability
+-----------------
+
+Access to these data is controlled; the sequence data cannot be made publicly available because Icelandic law and the regulations of the Icelandic Data Protection Authority prohibit the release of individual-level and personally identifying data. Data access can be granted only at the facilities of deCODE genetics in Iceland, subject to Icelandic law regarding data usage. Anyone wanting to gain access to the data should contact Kári Stefánsson (kstefans@decode.is). Data access consists of the lists of mutations identified in monozygotic twins with numbered proband identifiers. The lists of mutations are provided in Supplementary Data [1](https://www.nature.com/articles/s41588-020-00755-1#MOESM4)–[3](https://www.nature.com/articles/s41588-020-00755-1#MOESM6).
+
+Code availability
+-----------------
+
+The major components in our sequence data processing pipeline consist of publicly available software, notably Burrows–Wheeler Aligner-MEM for the alignment ([https://github.com/lh3/bwa](https://github.com/lh3/bwa)), Samtools for the processing of BAM files ([http://samtools.github.io/](http://samtools.github.io/)), Picard for PCR duplication marking ([https://broadinstitute.github.io/picard/](https://broadinstitute.github.io/picard/)) and GraphTyper for sequence variant calling ([https://github.com/DecodeGenetics/graphtyper](https://github.com/DecodeGenetics/graphtyper)). The implementation of the phasing and imputation of sequence variants is described in the data descriptor[32](https://www.nature.com/articles/s41588-020-00755-1#ref-CR32 "Jónsson, H. et al. Whole genome characterization of sequence diversity of 15,220 Icelanders. Sci. Data 4, 170115 (2017).").
+
+References
+----------
+
+1.   Van Dongen, J., Slagboom, P. E., Draisma, H. H. M., Martin, N. G. & Boomsma, D. I. The continuing value of twin studies in the omics era. _Nat. Rev. Genet._**13**, 640–653 (2012).
+
+[Article](https://doi.org/10.1038%2Fnrg3243)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhtFWms7vK)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20continuing%20value%20of%20twin%20studies%20in%20the%20omics%20era&journal=Nat.%20Rev.%20Genet.&doi=10.1038%2Fnrg3243&volume=13&pages=640-653&publication_year=2012&author=Van%20Dongen%2CJ&author=Slagboom%2CPE&author=Draisma%2CHHM&author=Martin%2CNG&author=Boomsma%2CDI)
+
+2.   Vadlamudi, L. et al. Timing of de novo mutagenesis: a twin study of sodium-channel mutations. _N. Engl. J. Med._**363**, 1335–1340 (2010).
+
+[Article](https://doi.org/10.1056%2FNEJMoa0910752)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXht1Wqt7%2FJ)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Timing%20of%20de%20novo%20mutagenesis%3A%20a%20twin%20study%20of%20sodium-channel%20mutations&journal=N.%20Engl.%20J.%20Med.&doi=10.1056%2FNEJMoa0910752&volume=363&pages=1335-1340&publication_year=2010&author=Vadlamudi%2CL)
+
+3.   Ehli, E. A. et al. De novo and inherited CNVs in MZ twin pairs selected for discordance and concordance on attention problems. _Eur. J. Hum. Genet._**20**, 1037–1043 (2012).
+
+[Article](https://doi.org/10.1038%2Fejhg.2012.49)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38Xhtl2hs7jI)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=De%20novo%20and%20inherited%20CNVs%20in%20MZ%20twin%20pairs%20selected%20for%20discordance%20and%20concordance%20on%20attention%20problems&journal=Eur.%20J.%20Hum.%20Genet.&doi=10.1038%2Fejhg.2012.49&volume=20&pages=1037-1043&publication_year=2012&author=Ehli%2CEA)
+
+4.   Baranzini, S. E. et al. Genome, epigenome and RNA sequences of monozygotic twins discordant for multiple sclerosis. _Nature_**464**, 1351–1356 (2010).
+
+[Article](https://doi.org/10.1038%2Fnature08990)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3cXltl2ltLw%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Genome%2C%20epigenome%20and%20RNA%20sequences%20of%20monozygotic%20twins%20discordant%20for%20multiple%20sclerosis&journal=Nature&doi=10.1038%2Fnature08990&volume=464&pages=1351-1356&publication_year=2010&author=Baranzini%2CSE)
+
+5.   Dal, G. M. et al. Early postzygotic mutations contribute to de novo variation in a healthy monozygotic twin pair. _J. Med. Genet._**51**, 455–459 (2014).
+
+[Article](https://doi.org/10.1136%2Fjmedgenet-2013-102197)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXhsValtrfE)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Early%20postzygotic%20mutations%20contribute%20to%20de%20novo%20variation%20in%20a%20healthy%20monozygotic%20twin%20pair&journal=J.%20Med.%20Genet.&doi=10.1136%2Fjmedgenet-2013-102197&volume=51&pages=455-459&publication_year=2014&author=Dal%2CGM)
+
+6.   Zink, F. Clonal hematopoiesis, with and without candidate driver mutations, is common in the elderly._Blood_**130**, 742–752 (2017).
+
+[Article](https://doi.org/10.1182%2Fblood-2017-02-769869)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXitVSku73I)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Clonal%20hematopoiesis%2C%20with%20and%20without%20candidate%20driver%20mutations%2C%20is%20common%20in%20the%20elderly.&journal=Blood&doi=10.1182%2Fblood-2017-02-769869&volume=130&pages=742-752&publication_year=2017&author=Zink%2CF)
+
+7.   Hall, J. G. Twinning. _Lancet_**362**, 735–743 (2003).
+
+[Article](https://doi.org/10.1016%2FS0140-6736%2803%2914237-7)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Twinning&journal=Lancet&doi=10.1016%2FS0140-6736%2803%2914237-7&volume=362&pages=735-743&publication_year=2003&author=Hall%2CJG)
+
+8.   Herranz, G. The timing of monozygotic twinning: a criticism of the common model. _Zygote_**23**, 27–40 (2015).
+
+[Article](https://doi.org/10.1017%2FS0967199413000257)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20timing%20of%20monozygotic%20twinning%3A%20a%20criticism%20of%20the%20common%20model&journal=Zygote&doi=10.1017%2FS0967199413000257&volume=23&pages=27-40&publication_year=2015&author=Herranz%2CG)
+
+9.   McNamara, H. C., Kane, S. C., Craig, J. M., Short, R. V. & Umstad, M. P. A review of the mechanisms and evidence for typical and atypical twinning. _Am. J. Obstet. Gynecol._**214**, 172–191 (2016).
+
+[Article](https://doi.org/10.1016%2Fj.ajog.2015.10.930)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20review%20of%20the%20mechanisms%20and%20evidence%20for%20typical%20and%20atypical%20twinning&journal=Am.%20J.%20Obstet.%20Gynecol.&doi=10.1016%2Fj.ajog.2015.10.930&volume=214&pages=172-191&publication_year=2016&author=McNamara%2CHC&author=Kane%2CSC&author=Craig%2CJM&author=Short%2CRV&author=Umstad%2CMP)
+
+10.   Tang, W. W. C., Kobayashi, T., Irie, N., Dietmann, S. & Surani, M. A. Specification and epigenetic programming of the human germ line. _Nat. Rev. Genet._**17**, 585–600 (2016).
+
+[Article](https://doi.org/10.1038%2Fnrg.2016.88)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhsVels73P)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Specification%20and%20epigenetic%20programming%20of%20the%20human%20germ%20line&journal=Nat.%20Rev.%20Genet.&doi=10.1038%2Fnrg.2016.88&volume=17&pages=585-600&publication_year=2016&author=Tang%2CWWC&author=Kobayashi%2CT&author=Irie%2CN&author=Dietmann%2CS&author=Surani%2CMA)
+
+11.   D’Gama, A. M. & Walsh, C. A. Somatic mosaicism and neurodevelopmental disease. _Nat. Neurosci._**21**, 1504–1514 (2018).
+
+[Article](https://doi.org/10.1038%2Fs41593-018-0257-3)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Somatic%20mosaicism%20and%20neurodevelopmental%20disease&journal=Nat.%20Neurosci.&doi=10.1038%2Fs41593-018-0257-3&volume=21&pages=1504-1514&publication_year=2018&author=D%E2%80%99Gama%2CAM&author=Walsh%2CCA)
+
+12.   Dou, Y., Gold, H. D., Luquette, L. J. & Park, P. J. Detecting somatic mutations in normal cells. _Trends Genet._**34**, 545–557 (2018).
+
+[Article](https://doi.org/10.1016%2Fj.tig.2018.04.003)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXotFKmurc%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Detecting%20somatic%20mutations%20in%20normal%20cells&journal=Trends%20Genet.&doi=10.1016%2Fj.tig.2018.04.003&volume=34&pages=545-557&publication_year=2018&author=Dou%2CY&author=Gold%2CHD&author=Luquette%2CLJ&author=Park%2CPJ)
+
+13.   Sasani, T. A. et al. Large, three-generation families reveal post-zygotic mosaicism and variability in germline mutation accumulation. _elife_**8**, e46922 (2019).
+
+[Article](https://doi.org/10.7554%2FeLife.46922)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Large%2C%20three-generation%20families%20reveal%20post-zygotic%20mosaicism%20and%20variability%20in%20germline%20mutation%20accumulation&journal=elife&doi=10.7554%2FeLife.46922&volume=8&publication_year=2019&author=Sasani%2CTA)
+
+14.   Campbell, I. M. et al. Parental somatic mosaicism is underrecognized and influences recurrence risk of genomic disorders. _Am. J. Hum. Genet._**95**, 173–182 (2014).
+
+[Article](https://doi.org/10.1016%2Fj.ajhg.2014.07.003)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXht1Oqs7jO)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Parental%20somatic%20mosaicism%20is%20underrecognized%20and%20influences%20recurrence%20risk%20of%20genomic%20disorders&journal=Am.%20J.%20Hum.%20Genet.&doi=10.1016%2Fj.ajhg.2014.07.003&volume=95&pages=173-182&publication_year=2014&author=Campbell%2CIM)
+
+15.   Rahbari, R. et al. Timing, rates and spectra of human germline mutation. _Nat. Genet._**48**, 126–133 (2016).
+
+[Article](https://doi.org/10.1038%2Fng.3469)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXitVWqtrrF)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Timing%2C%20rates%20and%20spectra%20of%20human%20germline%20mutation&journal=Nat.%20Genet.&doi=10.1038%2Fng.3469&volume=48&pages=126-133&publication_year=2016&author=Rahbari%2CR)
+
+16.   Scally, A. Mutation rates and the evolution of germline structure. _Philos. Trans. R. Soc. Lond. B Biol. Sci._**371**, 20150137 (2016).
+
+[Article](https://doi.org/10.1098%2Frstb.2015.0137)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Mutation%20rates%20and%20the%20evolution%20of%20germline%20structure&journal=Philos.%20Trans.%20R.%20Soc.%20Lond.%20B%20Biol.%20Sci.&doi=10.1098%2Frstb.2015.0137&volume=371&publication_year=2016&author=Scally%2CA)
+
+17.   Jónsson, H. et al. Multiple transmissions of de novo mutations in families. _Nat. Genet._**50**, 1674–1680 (2018).
+
+[Article](https://doi.org/10.1038%2Fs41588-018-0259-9)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Multiple%20transmissions%20of%20de%20novo%20mutations%20in%20families&journal=Nat.%20Genet.&doi=10.1038%2Fs41588-018-0259-9&volume=50&pages=1674-1680&publication_year=2018&author=J%C3%B3nsson%2CH)
+
+18.   Lindsay, S. J., Rahbari, R., Kaplanis, J., Keane, T. & Hurles, M. E. Similarities and differences in patterns of germline mutation between mice and humans._Nat. Commun._**10**, 4053 (2019).
+
+[Article](https://doi.org/10.1038%2Fs41467-019-12023-w)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Similarities%20and%20differences%20in%20patterns%20of%20germline%20mutation%20between%20mice%20and%20humans.&journal=Nat.%20Commun.&doi=10.1038%2Fs41467-019-12023-w&volume=10&publication_year=2019&author=Lindsay%2CSJ&author=Rahbari%2CR&author=Kaplanis%2CJ&author=Keane%2CT&author=Hurles%2CME)
+
+19.   Harland, C. et al. Frequency of mosaicism points towards mutation-prone early cleavage cell divisions in cattle. Preprint at _bioRxiv_[https://doi.org/10.1101/079863](https://doi.org/10.1101/079863) (2016).
+
+20.   Alexandrov, L. B. et al. Signatures of mutational processes in human cancer. _Nature_**500**, 415–421 (2013).
+
+[Article](https://doi.org/10.1038%2Fnature12477)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC3sXhtlWjur7M)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Signatures%20of%20mutational%20processes%20in%20human%20cancer&journal=Nature&doi=10.1038%2Fnature12477&volume=500&pages=415-421&publication_year=2013&author=Alexandrov%2CLB)
+
+21.   Seplyarskiy, V. B. et al. Population sequencing data reveal a compendium of mutational processes in human germline. Preprint at _bioRxiv_[https://doi.org/10.1101/2020.01.10.893024](https://doi.org/10.1101/2020.01.10.893024) (2020).
+
+22.   Xia, B. et al. Widespread transcriptional scanning in the testis modulates gene evolution rates. _Cell_**180**, 248–262.e21 (2020).
+
+[Article](https://doi.org/10.1016%2Fj.cell.2019.12.015)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXnvFeltL8%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Widespread%20transcriptional%20scanning%20in%20the%20testis%20modulates%20gene%20evolution%20rates&journal=Cell&doi=10.1016%2Fj.cell.2019.12.015&volume=180&pages=248-262.e21&publication_year=2020&author=Xia%2CB)
+
+23.   Moorjani, P., Amorim, C. E. G., Arndt, P. F. & Przeworski, M. Variation in the molecular clock of primates. _Proc. Natl Acad. Sci. USA_**113**, 10607–10612 (2016).
+
+[Article](https://doi.org/10.1073%2Fpnas.1600374113)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XhsVKhsb%2FN)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Variation%20in%20the%20molecular%20clock%20of%20primates&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&doi=10.1073%2Fpnas.1600374113&volume=113&pages=10607-10612&publication_year=2016&author=Moorjani%2CP&author=Amorim%2CCEG&author=Arndt%2CPF&author=Przeworski%2CM)
+
+24.   Gao, Z. et al. Overlooked roles of DNA damage and maternal age in generating human germline mutations. _Proc. Natl Acad. Sci. USA_**116**, 9491–9500 (2019).
+
+[Article](https://doi.org/10.1073%2Fpnas.1901259116)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXovFGltr8%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Overlooked%20roles%20of%20DNA%20damage%20and%20maternal%20age%20in%20generating%20human%20germline%20mutations&journal=Proc.%20Natl%20Acad.%20Sci.%20USA&doi=10.1073%2Fpnas.1901259116&volume=116&pages=9491-9500&publication_year=2019&author=Gao%2CZ)
+
+25.   Guo, H. et al. The DNA methylation landscape of human early embryos. _Nature_**511**, 606–610 (2014).
+
+[Article](https://doi.org/10.1038%2Fnature13544)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2cXht1ChurbK)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20DNA%20methylation%20landscape%20of%20human%20early%20embryos&journal=Nature&doi=10.1038%2Fnature13544&volume=511&pages=606-610&publication_year=2014&author=Guo%2CH)
+
+26.   Greenberg, M. V. C. & Bourc’his, D. The diverse roles of DNA methylation in mammalian development and disease. _Nat. Rev. Mol. Cell Biol._**20**, 590–607 (2019).
+
+[Article](https://doi.org/10.1038%2Fs41580-019-0159-6)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhsFGjtbfO)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20diverse%20roles%20of%20DNA%20methylation%20in%20mammalian%20development%20and%20disease&journal=Nat.%20Rev.%20Mol.%20Cell%20Biol.&doi=10.1038%2Fs41580-019-0159-6&volume=20&pages=590-607&publication_year=2019&author=Greenberg%2CMVC&author=Bourc%E2%80%99his%2CD)
+
+27.   Reik, W., Dean, W. & Walter, J. Epigenetic reprogramming in mammalian development. _Science_**293**, 1089–1093 (2001).
+
+[Article](https://doi.org/10.1126%2Fscience.1063443)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BD3MXmtVWltL8%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Epigenetic%20reprogramming%20in%20mammalian%20development&journal=Science&doi=10.1126%2Fscience.1063443&volume=293&pages=1089-1093&publication_year=2001&author=Reik%2CW&author=Dean%2CW&author=Walter%2CJ)
+
+28.   Coe, B. P. et al. Neurodevelopmental disease genes implicated by de novo mutation and copy number variation morbidity. _Nat. Genet._**51**, 106–116 (2019).
+
+[Article](https://doi.org/10.1038%2Fs41588-018-0288-4)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXisFCitbjI)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Neurodevelopmental%20disease%20genes%20implicated%20by%20de%20novo%20mutation%20and%20copy%20number%20variation%20morbidity&journal=Nat.%20Genet.&doi=10.1038%2Fs41588-018-0288-4&volume=51&pages=106-116&publication_year=2019&author=Coe%2CBP)
+
+29.   Hardy, K., Handyside, A. H. & Winston, R. M. The human blastocyst: cell number, death and allocation during late preimplantation development in vitro. _Development_**107**, 597–604 (1989).
+
+[CAS](https://www.nature.com/articles/cas-redirect/1:STN:280:DyaK3c7is1eruw%3D%3D)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=2612378)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20human%20blastocyst%3A%20cell%20number%2C%20death%20and%20allocation%20during%20late%20preimplantation%20development%20in%20vitro&journal=Development&volume=107&pages=597-604&publication_year=1989&author=Hardy%2CK&author=Handyside%2CAH&author=Winston%2CRM)
+
+30.   Tabansky, I. et al. Developmental bias in cleavage-stage mouse blastomeres. _Curr. Biol._**23**, 21–31 (2013).
+
+[Article](https://doi.org/10.1016%2Fj.cub.2012.10.054)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XhsleitrfO)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Developmental%20bias%20in%20cleavage-stage%20mouse%20blastomeres&journal=Curr.%20Biol.&doi=10.1016%2Fj.cub.2012.10.054&volume=23&pages=21-31&publication_year=2013&author=Tabansky%2CI)
+
+31.   Ju, Y. S. et al. Somatic mutations reveal asymmetric cellular dynamics in the early human embryo. _Nature_**543**, 714–718 (2017).
+
+[Article](https://doi.org/10.1038%2Fnature21703)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXltVWnu7w%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Somatic%20mutations%20reveal%20asymmetric%20cellular%20dynamics%20in%20the%20early%20human%20embryo&journal=Nature&doi=10.1038%2Fnature21703&volume=543&pages=714-718&publication_year=2017&author=Ju%2CYS)
+
+32.   Jónsson, H. et al. Whole genome characterization of sequence diversity of 15,220 Icelanders. _Sci. Data_**4**, 170115 (2017).
+
+[Article](https://doi.org/10.1038%2Fsdata.2017.115)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Whole%20genome%20characterization%20of%20sequence%20diversity%20of%2015%2C220%20Icelanders&journal=Sci.%20Data&doi=10.1038%2Fsdata.2017.115&volume=4&publication_year=2017&author=J%C3%B3nsson%2CH)
+
+33.   Kim, S. et al. Strelka2: fast and accurate calling of germline and somatic variants. _Nat. Methods_**15**, 591–594 (2018).
+
+[Article](https://doi.org/10.1038%2Fs41592-018-0051-x)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXhtlCmt7%2FF)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Strelka2%3A%20fast%20and%20accurate%20calling%20of%20germline%20and%20somatic%20variants&journal=Nat.%20Methods&doi=10.1038%2Fs41592-018-0051-x&volume=15&pages=591-594&publication_year=2018&author=Kim%2CS)
+
+34.   Eggertsson, H. P. et al. Graphtyper enables population-scale genotyping using pangenome graphs. _Nat. Genet._**49**, 1654–1660 (2017).
+
+[Article](https://doi.org/10.1038%2Fng.3964)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2sXhsFCqt7vI)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Graphtyper%20enables%20population-scale%20genotyping%20using%20pangenome%20graphs&journal=Nat.%20Genet.&doi=10.1038%2Fng.3964&volume=49&pages=1654-1660&publication_year=2017&author=Eggertsson%2CHP)
+
+35.   Halldorsson, B. V. et al. Characterizing mutagenic effects of recombinations through a sequence level genetic map. _Science_**363**, eaau1043 (2019).
+
+[Article](https://doi.org/10.1126%2Fscience.aau1043)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1MXhs1amsrY%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Characterizing%20mutagenic%20effects%20of%20recombinations%20through%20a%20sequence%20level%20genetic%20map&journal=Science&doi=10.1126%2Fscience.aau1043&volume=363&publication_year=2019&author=Halldorsson%2CBV)
+
+36.   Busing, F. M. T. A., Meijer, E. & Van Der Leeden, R. Delete-m jackknife for unequal m. _Stat. Comput._**9**, 3–8 (1999).
+
+[Article](https://doi.org/10.1023%2FA%3A1008800423698)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Delete-m%20jackknife%20for%20unequal%20m&journal=Stat.%20Comput.&doi=10.1023%2FA%3A1008800423698&volume=9&pages=3-8&publication_year=1999&author=Busing%2CFMTA&author=Meijer%2CE&author=Van%20Der%20Leeden%2CR)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1038/s41588-020-00755-1?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+We thank everyone who participated in our studies.
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1.   deCODE genetics/Amgen, Reykjavik, Iceland
+
+Hakon Jonsson,Hannes P. Eggertsson,Olafur A. Stefansson,Gudny A. Arnadottir,Ogmundur Eiriksson,Florian Zink,Einar A. Helgason,Ingileif Jonsdottir,Arnaldur Gylfason,Adalbjorg Jonasdottir,Aslaug Jonasdottir,Doruk Beyter,Gudmundur L. Norddahl,Olafur Th. Magnusson,Gisli Masson,Bjarni V. Halldorsson,Unnur Thorsteinsdottir,Agnar Helgason,Patrick Sulem,Daniel F. Gudbjartsson&Kari Stefansson
+
+2.   Faculty of Medicine, School of Health Sciences, University of Iceland, Reykjavik, Iceland
+
+Erna Magnusdottir,Thora Steingrimsdottir,Unnur Thorsteinsdottir&Kari Stefansson
+
+3.   School of Science and Engineering, Reykjavik University, Reykjavik, Iceland
+
+Bjarni V. Halldorsson
+
+4.   Department of Anthropology, University of Iceland, Reykjavik, Iceland
+
+Agnar Helgason
+
+5.   School of Engineering and Natural Sciences, University of Iceland, Reykjavik, Iceland
+
+Daniel F. Gudbjartsson
+
+Authors
+
+1.   Hakon Jonsson
+2.   Erna Magnusdottir
+3.   Hannes P. Eggertsson
+4.   Olafur A. Stefansson
+5.   Gudny A. Arnadottir
+6.   Ogmundur Eiriksson
+7.   Florian Zink
+8.   Einar A. Helgason
+9.   Ingileif Jonsdottir
+10.   Arnaldur Gylfason
+11.   Adalbjorg Jonasdottir
+12.   Aslaug Jonasdottir
+13.   Doruk Beyter
+14.   Thora Steingrimsdottir
+15.   Gudmundur L. Norddahl
+16.   Olafur Th. Magnusson
+17.   Gisli Masson
+18.   Unnur Thorsteinsdottir
+19.   Agnar Helgason
+20.   Patrick Sulem
+21.   Daniel F. Gudbjartsson
+22.   Kari Stefansson
+
+### Contributions
+
+H.J., U.T., D.F.G. and K.S. wrote the manuscript with input from E.M., T.S., H.P.E., O.A.S., O.E., G.A.A., F.Z., E.A.H., I.J., A.G., Adalbjorg Jonasdottir, Aslaug Jonasdottir, D.B., G.L.N., O.T.M., G.M., B.V.H., A.H. and P.S. H.J., O.E. and E.A.H. analyzed the data. H.J., H.P.E., O.E., F.Z., E.A.H., A.G., G.M. and P.S. developed the methods. H.J., Adalbjorg Jonasdottir, Aslaug Jonasdottir, O.T.M. and G.L.N. performed the experiments. G.A.A. and I.J. provided samples and information. H.J., P.S., D.F.G. and K.S. designed the study.
+
+### Corresponding authors
+
+Correspondence to [Hakon Jonsson](mailto:hakon.jonsson@decode.is), [Daniel F. Gudbjartsson](mailto:daniel.gudbjartsson@decode.is) or [Kari Stefansson](mailto:kari.stefansson@decode.is).
+
+Ethics declarations
+-------------------
+
+### Competing interests
+
+H.J., H.P.E., O.A.S., O.E., G.A.A., F.Z., E.A.H., I.J., A.G., Adalbjorg Jonasdottir, Aslaug Jonasdottir, D.B., G.L.N., O.T.M., G.M., B.V.H., U.T., A.H., P.S., D.F.G. and K.S. are employed by deCODE genetics/Amgen.
+
+Additional information
+----------------------
+
+**Peer review information**_Nature Genetics_ thanks Jeffrey Beck, Dorret Boomsma, Ziyue Gao, Brandon Johnson, and Amy Williams for their contribution to the peer review of this work.
+
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Extended data
+-------------
+
+### [Extended Data Fig. 1 Histogram of the genome-wide sequence coverage of the twins.](https://www.nature.com/articles/s41588-020-00755-1/figures/8)
+
+Histogram of the genome-wide sequence, coverage of the twins. Note that the sequence coverage for the monoyzygotic twins was aggregated across several sequencing runs, and the aggregated sequence data were used for the subsequent analysis.
+
+### [Extended Data Fig. 2 The genome-wide sequence coverage of the probands’ family members.](https://www.nature.com/articles/s41588-020-00755-1/figures/9)
+
+The genome-wide sequence coverage of the, probands’ family members. The family members of the probands were used to detect pre-PGCS mutations. Note, that if both twins of a pair have sequenced children then they will appear as ‘Proband’ and as ‘Twin’.
+
+### [Extended Data Fig. 3 Number of children with a pre-PGCS mutation.](https://www.nature.com/articles/s41588-020-00755-1/figures/10)
+
+Number of children with a pre-PGCS mutation. a, We counted how many children have a pre-PGCS mutation with VAF higher than a cutoff. b, We restricted to children where at least one pre-PGCS mutation was detected.
+
+### [Extended Data Fig. 4 The maximum VAF of pre-PGCS mutations per proband/mate pair.](https://www.nature.com/articles/s41588-020-00755-1/figures/11)
+
+The maximum VAF of pre-PGCS mutations per proband/mate pair. a, The maximum VAF of pre-PGCS mutations per proband/mate pair. b, The standard deviation of the maximum VAF per proband/mate pair against the average of the maximum VAF.
+
+### [Extended Data Fig. 5 Alternative calculations of the slopes from the three-generation approach.](https://www.nature.com/articles/s41588-020-00755-1/figures/12)
+
+Alternative calculations of the slopes from the three-generation approach. a, Histogram of the slopes as Fig. [5e](https://www.nature.com/articles/s41588-020-00755-1#Fig5), except the slopes are transformed with atan. b, The slopes in three generation approach with swapped roles. Note that the reciprocal slopes are not defined for near constitutional probands due to zero sample variance.
+
+About this article
+------------------
+
+[![Image 1: Check for updates. Verify currency and authenticity via CrossMark](blob:http://localhost/df43c82f6cb6dcd2a87db38f317bf9f2)](https://crossmark.crossref.org/dialog/?doi=10.1038/s41588-020-00755-1)
+
+### Cite this article
+
+Jonsson, H., Magnusdottir, E., Eggertsson, H.P. _et al._ Differences between germline genomes of monozygotic twins. _Nat Genet_**53**, 27–34 (2021). https://doi.org/10.1038/s41588-020-00755-1
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41588-020-00755-1?format=refman&flavour=citation)
+
+*   Received: 07 October 2019
+
+*   Accepted: 20 November 2020
+
+*   Published: 07 January 2021
+
+*   Version of record: 07 January 2021
+
+*   Issue date: January 2021
+
+*   DOI: https://doi.org/10.1038/s41588-020-00755-1

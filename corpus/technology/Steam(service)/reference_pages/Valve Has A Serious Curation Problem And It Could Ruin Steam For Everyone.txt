@@ -1,0 +1,57 @@
+# Valve Has A Serious Curation Problem, And It Could Ruin Steam For Everyone
+
+![Image 1](https://i.kinja-img.com/gawker-media/image/upload/s--NqJbjpGo--/c_scale,f_auto,fl_progressive,q_80,w_800/fsrjmr8ijtunjizgxwtj.jpg)
+
+Steam, Valve’s PC games distribution platform, was created in 2002 to sell Valve products while streamlining the process to make it more convenient for gamers. Today, Steam leads a large part of the industry, controlling the majority of PC sales and influencing gaming as a whole. Sixteen years later, Steam is starting to suffer from some serious design flaws.
+
+At the heart of Steam’s problem is the platform’s lack of content curation. In 2017 alone, 7,696 games were released on Steam, which made up 39% of the store’s catalog. That sounds like a lot, but sadly, a lot of that is shovelware: games that exist to make a quick buck without the quality or effort of a real product.[_Achievement Hunter: Witch_](http://store.steampowered.com/app/823060/Achievement_Hunter_Witch/), for example, is a recently released game which doesn’t advertise that it features groundbreaking gameplay or awe-inspiring graphics, but that it has “5000 achievements and comes with minimum allowable price,” according to the game’s store page.
+
+This isn’t an issue of a few bad games slipping through the cracks. Achievement Hunter: Witch is the 13th entry in a [series](http://store.steampowered.com/bundle/6900/157000_ACHIEVEMENTS/)of shovelware games which go back as far as June 2017. Beyond just making the user experience frustrating and time-consuming, shovelware is having a negative impact on smaller creators.
+
+Unfortunately, shovelware, unfinished games, and even [abandoned games](https://kotaku.com/unfinished-steam-game-abandoned-after-thousands-bought-1572931721) are drowning out legitimate and quality titles that might otherwise be a success. Back in the Summer of 2017, a company called Silicon Echoes infamously had[173 shovelware titles](https://www.youtube.com/watch?v=AB36aNoZuVA) published on Steam, reportedly making up 10% of all game releases in June and July respectively.
+
+When a legitimate indie title is packed into the new releases, surrounded by shovelware, it makes them look worse. If you see shovelware after shovelware on the Steam store, you’re going to gloss over plenty of indie titles. Nobody’s going to take your game seriously when it shows up between [_Boobs on Island_](http://store.steampowered.com/app/818450/BOOBS_ON_ISLAND/)and [_America’s Retribution_](http://store.steampowered.com/app/835110/Americas_Retribution/).Thankfully Silicon Echoes and all its games were eventually removed from Steam, but the damage was already done, and companies smaller than Silicon Echoes get away with publishing games like _Achievement Hunter: Witch_ for much longer. Steam is currently putting smaller companies and their games at a disadvantage in the market. You would imagine that on Steam, quality products get the success they deserve, but that’s not necessarily true.
+
+Other platforms are seeing comparatively higher software sales for the same game, which is just more reason to worry. SteamWorld Dig 2, for example,[sold over](https://waypoint.vice.com/en_us/article/kzgq7y/steamworld-dig-2-sales-switch) 430,000 copies on the Nintendo Switch as opposed to 43,000[on Steam](http://steamspy.com/app/571310) despite both versions releasing at the same time. And the Zelda-like indie Blossom Tales managed to sell[double](https://twitter.com/FDG_Games/status/944139722091368449?tfw_creator=NE_Brian&tfw_site=NinEverything&ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Fnintendoeverything.com%2Fblossom-tales-sells-double-the-amount-of-units-on-switch-launch-day-vs-lifetime-sales-on-steam%2F) the game’s lifetime sales on PC on just it’s Switch launch day.
+
+![Image 2](https://i.kinja-img.com/gawker-media/image/upload/s--45G1J_eI--/c_scale)
+
+SteamWorld Dig 2
+
+Screenshot: Image & Form Games
+
+The Switch is a becoming a more popular platform for indies because of how well Nintendo markets and presents them, and the fact that its user-base is hungry for more content. Even if Valve could maintain that same image and marketing, the lack of curation makes the success games receive on the Switch impossible on Steam. Games just aren’t being noticed in the way they should be, and it’s time things were cleaned up.
+
+Steam shows all the popular, often AAA games in the “Popular New Releases” tab, which highlights interesting new games. At first glance, that sounds great! Here’s a big list of new games worth looking at! The problem is that only sixteen games ever display at one time on that list, and most of them stay there for weeks before being swapped out for newer releases. Even just finding other games requires the user to jump through hoops, navigating page after page to locate games that Steam doesn’t consider popular. That all adds up to a lot of indie games nobody gets to see.
+
+Additionally, according to a yearly[Medium post](https://galyonk.in/steam-in-2017-129c0e6be260) by Sergey Galyonkin, the creator of SteamSpy - recently[shut down](https://arstechnica.com/gaming/2018/04/steam-spy-announces-its-shutting-down-blames-valves-new-privacy-settings/) by Steam -, the median ownership of all games on steam went from 32,00 to just 9,500, which is ridiculously low. If median sales have gone down, that means there are many more games being released with low sales than high sales. With the median price of indie games released in 2017 becoming $2.99, indie games are making a lot less money. Indie devs lower the prices of their games to combat low sales, but this information from Galyonkin shows it’s having little to no success.
+
+Even worse, a select few games on Steam have begun to make up a majority of sales on the platform, so Steam’s sales are “skewed to the top with just 100 games (0.5% of all) accounting for 50% of total revenue” according to Galyonkin. While a few heavy hitters may be making bank, the majority of new PC games are failing, and hard.
+
+It’s easy to see how this over-saturation could affect the platform, with quality games becoming harder and harder to find for Steam’s constantly rising user base. New users are going to buy less and less as smaller games become more and more invisible on the platform.
+
+![Image 3](https://i.kinja-img.com/gawker-media/image/upload/s--yehdgtoL--/c_scale)
+
+Graphic: Sergey Galyonkin
+
+What this may do is drive Indie devs away from PC to consoles like the Switch, where data says they would be much more successful. This is bad for Steam, but it’s much worse for gamers. There may be tons of games which won’t come to PC because the devs are afraid of low sales on Steam, so tons of PC gamers who would have played that otherwise probably won’t be able to, and there’s nothing worse for a PC gamer than finding out they don’t have the hardware to play a game they’re interested in. Even if the games did come to Steam, the people who would like to play it may never know because there’s no way for them to know with Steam’s curation.
+
+At first, Valve has no real reason to deal with this issue considering their profits just keep going up each year. In 2017, Valve’s total revenue from paid games alone was $4.3 billion as opposed to $3.5 billion in 2016. That massive increase in profits probably tells Valve it’s better to stay the course, but if indie games on PC are the bubble it appears to be, letting it pop could mean massive losses for Valve. Remember, 99.5% of games on Steam make up 50% of its sales, which means losing out on the majority of that 99.5%’s successful games could mean billions lost for Valve.
+
+The solution to this isn’t a cheap or easy one either. Valve is a company made up of some of PC gaming’s best coders, which might be why they love relying on algorithms to curate Steam. Valve needs to understand a[team of trained staff](https://www.rockpapershotgun.com/2017/02/14/steam-curation-user-reviews-fixes/) is going to be much more efficient in curating the platform than even the most advanced algorithm. Yes, paying a couple dozen people to vet every game being submitted to Steam is very expensive, but it might be the best solution here. A single employee vetting one game an hour, eight hours a day, five days a week, can vet over two thousand games a year. That’s over a quarter the total number of games released on steam in 2017, so imagine what a dozen employees could do.
+
+A cleaner storefront means more sales for smaller titles. The fewer games there are on Steam, the easier it will be for new users to surf the store looking for new games they may be interested in.
+
+Alternatively, Valve can write a basic algorithm marking games’ store pages with keywords like “achievement,” or “cheap” which those employees can then vet. This could effectively work towards cleaning out the shovelware already on Steam as opposed to preventing more of it.
+
+Yes, removing tons of games will inevitably warrant some irate devs who abuse Steam to file who knows how many lawsuits, but considering Valve put themselves in this problematic position, they should expect legal discourse.
+
+For smaller studios, bringing about these changes sooner rather than later is surely imperative, especially with SteamSpy now shut down. There’s just no way to effectively monitor the ownership and player base of games which means the platform misses out on a lot of its important data. This is a problem because it acted as an important tool for indie devs testing the platform for a genre’s potential success. Vlambeer’s Rami Ismail summed up the debate behind SteamSpy’s end in a[tweet](https://twitter.com/tha_rami/status/984020484944809984), saying “The biggest issue after SteamSpy will be a lack of semi-dependable context for developers researching or negotiating with others. The biggest advantage is that no one will have to explain to devs and users alike that no, these numbers might look accurate, does not mean they are.”
+
+Steam is a mess, but Valve can fix it. While the curation issues might not be affecting the company’s bottom line now, the continued prosperity of the service might well depend on a major overhaul. More to the point, changes to the storefront are going to make for a better experience for both user and developer.
+
+* * *
+
+_You’re reading_[TAY](http://tay.kinja.com/)_, Kotaku’s community-run blog. TAY is written by and for Kotaku readers like you. We write about games, art, culture and everything in between. Want to write with us? Check out our tutorial_[here](http://tay.kotaku.com/the-new-taytorial-1659855583#_ga=1.84687001.1499159381.1417137827)_and join in. Follow us on Twitter [@KoTAYku](https://twitter.com/kotayku) and Like Us on[Facebook](https://www.facebook.com/koTAYku/)._
+
+_Have a story you want told? See a game you want to know more about? Contact the author of this post via his e-mail at babrishamchian@gmail.com or tweet him [@Geo\_star10](https://twitter.com/Geo\_Star101)1_

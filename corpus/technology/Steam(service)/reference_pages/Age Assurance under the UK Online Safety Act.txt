@@ -1,0 +1,66 @@
+# Age Assurance under the UK Online Safety Act
+
+### Note: This information is for UK Users only.
+
+Introduction
+------------
+
+This document details how age assurance is used on Steam for UK users as required by the UK Online Safety Act (“OSA”).
+
+In order to access Steam store pages for mature content games as well as their associated community hubs, you need to be logged into an active user account and explicitly opt-in through the account settings page.
+
+For UK users, this opt-in process requires age verification. Your UK Steam user account is considered age verified for as long as a valid credit card is stored on the account.
+
+User process
+------------
+
+1.    Log into your Steam user account.
+
+2.    Visit the [Account Details page](https://store.steampowered.com/account/?snr=100601___) and click the button labeled "Add a Payment method to this account".
+
+3.    You will be redirected to a form where you are asked to enter your credit card details.
+
+Required inputs:
+
+    *   Credit Card type
+
+    *   Credit card number
+
+    *   CVV
+
+    *   Expiry date
+
+    *   Name and billing address
+
+4.   Click “Continue” to trigger an authorization check. For some cards this will show as a £1 test charge that Steam will not collect and will be returned to your account per your bank's policy regarding uncollected charges.
+
+5.   You will be presented with a challenge that is determined by your card issuing bank's policies, e.g. via one-time-password (OTP) or via app.
+
+6.   If the process is successful, you can now choose to add previously unavailable mature content types on the [Store Preferences page](https://store.steampowered.com/account/preferences/?snr=100601___).
+
+Why we use this process
+-----------------------
+
+In the UK, Ofcom is the independent regulator for online safety. Ofcom’s guidance on the OSA states that one highly effective age assurance measure is credit card checks.
+
+This is because, in the UK, an individual must be at least 18 years of age to obtain a credit card, therefore credit card issuers are obliged to verify the age of an applicant before providing them with a credit card.
+
+Unfortunately, debit cards do not qualify for age assurance purposes as these can be issued to minors.
+
+Having the credit card stored as a payment method acts as an additional deterrent against circumventing age verification by sharing a single Steam user account among multiple persons.
+
+Privacy and security
+--------------------
+
+Among all age assurance mechanisms reviewed by Valve, this process preserves the maximum degree of user privacy.
+
+The data processed in the verification process is identical to that of the millions of other Steam users who make purchases or store their payment details for convenience. The verification process therefore provides no information about a user's content preferences to payment providers or other third parties.
+
+Valve handles the verification process using its own internal payment processing system, which is independently certified under the PCI-DSS standard.
+
+To find out more about our privacy practices, please see our [privacy policy](https://store.steampowered.com/privacy_agreement/?snr=100601___)
+
+Contesting an incorrect age assurance status
+--------------------------------------------
+
+Should you be unable to register your credit card on Steam, please contact your local bank. Our data minimal approach means that we typically do not have insight into reasons why a given credit card use fails. However, should you not be able to resolve such an issue with your bank, please open a [Steam Support ticket](https://help.steampowered.com/).

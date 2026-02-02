@@ -1,0 +1,219 @@
+# Steam: A Monopoly In the Making
+
+| | The Escapist
+
+===============
+
+The Wayback Machine - http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making
+
+[](http://www.escapistmagazine.com/)
+
+|[MY ESCAPIST](http://www.escapistmagazine.com/profiles/)|[FORUMS](http://www.escapistmagazine.com/forums/)|[STORE](http://www.splitreason.com/theescapist/)
+
+[](http://www.escapistmagazine.com/rss/)[](https://plus.google.com/107986607068593398845)[](http://pinterest.com/theescapistmag/)[](http://twitter.com/TheEscapistMag)[](http://www.facebook.com/EscapistMag)[](http://www.youtube.com/user/TheEscapistMagazine)[](http://www.twitch.tv/escapistmagazine)
+
+[LATEST](http://www.escapistmagazine.com/)[FEATURES](http://www.escapistmagazine.com/articles/)[VIDEOS](http://www.escapistmagazine.com/videos/)[REVIEWS](http://www.escapistmagazine.com/reviews/)[NEWS](http://www.escapistmagazine.com/news/)
+
+[LATEST](http://www.escapistmagazine.com/)
+
+[JOIN](http://www.escapistmagazine.com/registration/register.php)
+
+|
+
+[SIGN IN](http://www.escapistmagazine.com/registration/login.php)
+
+![Image 3: A 16x17 small image, likely a logo, icon or avatar](http://cdn.themis-media.com/media/global/images/library/deriv/93/93420.png)
+
+background color
+
+*   [white (default)](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making# "White (default)")
+*   [5% grey](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making# "Light Grey")
+*   [10% grey](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making# "Medium Grey")
+*   [natural](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making# "Natural")
+
+reading font
+
+*   [Lato (default)](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making#)
+*   [Alt Sans Serif](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making#)
+*   [Roman](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making#)
+
+reading size
+
+*   [Aa (default)](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making# "Small (default)")
+*   [Aa](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making# "Medium")
+*   [Aa](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making# "Large")
+
+[![Image 4: Editor's Choice](http://cdn.escapistmagazine.com/media/global/images/articles/folder_icons/1.png)](http://www.escapistmagazine.com/articles/view/issues/issue_245)
+
+[Editor's Choice](http://www.escapistmagazine.com/articles/view/issues/issue_245)
+
+Steam: A Monopoly In the Making
+==================================================================================================================
+
+[M.S. Smith](http://www.escapistmagazine.com/profiles/articles/M.S.%20Smith) | 16 March 2010 12:27 pm 
+
+[Editor's Choice - RSS 2.0](http://www.escapistmagazine.com/rss/articles/issues/issue_245 "Editor's Choice - RSS 2.0")
+
+[1](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making)[2](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making.2)[3](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making.3)
+
+[Next](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making.2)
+
+[150](http://www.escapistmagazine.com/forums/read/6.181273-245-Steam-A-Monopoly-In-the-Making "Comment on Steam: A Monopoly In the Making")
+
+I love [Steam](http://store.steampowered.com/). How could I not? Browsing Steam for games often feels like browsing a buffet full of my favorite dishes, all made especially for me and ready to eat at a moment's notice. Almost anything I could ever want is right there, and all I need to do for another spoonful of gaming goodness is click a few buttons. Of course, that's only the half of it. The most recent Steam Holiday Sale bordered on unreal. Just imagine if Steam's pricing applied to everything else: You could buy an HDTV for $50 or a McDonald's Double Cheeseburger for $0.25.
+
+![Image 5: image](http://cdn.escapistmagazine.com/media/global/images/articles/article/7285/Smith_i245-pull1.png)
+
+This absurd pricing, among other things, has made Steam hugely successful. When Steam was released in September of 2003 alongside _Half-Life 2_, no one was even sure if there was a market for digital distribution. Since then, Steam has come to dominate the rapidly growing digital distribution market, achieving an active user base of around 25 million. Steam is positioned to have considerable influence on the future of gaming, and at first glance the future seems bright.
+
+Yet there is a niggle in the back of my mind, a suspicion growing too large to ignore: Is Steam becoming a monopoly?
+
+**Risky Business**
+
+I can hear some readers crying out, "Blasphemy!" Surely Valve would never allow Steam to take actions like those of Microsoft, a company which was prosecuted for its anti-competitive practices with varying degrees of success in countries across the globe. But, in fact, Valve has already taken steps down this dark and dangerous road, and the dim lantern lighting the way is [Steamworks](http://www.steampowered.com/steamworks/).
+
+Steamworks is an application programming interface (API) offered by Valve which allows third-party publishers to integrate their games into Steam. For publishers, this idea is the bee's knees: Using Steamworks grants access to Steam's authentication services, Steam's community features and Steam's ability to rapidly deliver patches and DLC. These are all features that publishers would ideally provide anyway, but Steam has them built and ready to go for the low price of absolutely free. As a result, such popular titles as _Modern Warfare 2_ and _Dawn of War 2_ have jumped on the Steamworks bandwagon.
+
+There's a catch, however: Once a publisher elects to use Steamworks in one of its titles, its customers must use Steam to play it - no exceptions. Publishers don't mind this, because it's easier for customers to purchase a publisher's **other** titles when the Steam client is installed and ready to go by default. But for competitors to Steam, like Direct2Drive and Impulse, Steamworks is the end of days. Brad Wardell commented on Steamworks in the [2009 Stardock Customer Report](http://www.escapistmagazine.com/news/view/96259-Steam-Is-70-of-PC-Digital-Distribution-Market), saying "Once a game requires Steamworks, it is effectively cut off from us, which limits our content." These words, however, are like honey compared to those of Direct2Drive. When Direct2Drive decided not to carry the blockbuster _Modern Warfare 2_, Gamasutra asked the company for comment. In reply, [Direct2Drive stated](http://www.gamasutra.com/view/news/25944/Direct2Drive_Tussles_With_Valve_By_Declining_To_Sell_SteamworksPowered_MW2.php), "We don't believe games should force the user to install a Trojan Horse."
+
+Related to: 
+
+[m.s. smith](http://www.escapistmagazine.com/profiles/articles/M.S.%20Smith)[digital distribution](http://www.escapistmagazine.com/news/tag/digital+distribution)[issue_245](http://www.escapistmagazine.com/news/tag/issue_245)[monopoly](http://www.escapistmagazine.com/news/tag/monopoly)[steam](http://www.escapistmagazine.com/news/tag/steam)[steamworks](http://www.escapistmagazine.com/news/tag/steamworks)
+
+[1](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making)[2](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making.2)[3](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making.3)
+
+[Next](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making.2)
+
+[Comments [150]](http://www.escapistmagazine.com/forums/read/6.181273-245-Steam-A-Monopoly-In-the-Making "Comment on Steam: A Monopoly In the Making")
+
+[](https://plus.google.com/0?rel=author)
+
+[](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making)
+
+[150](http://www.escapistmagazine.com/forums/read/6.181273-245-Steam-A-Monopoly-In-the-Making)
+
+[0 Tweet](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making)
+
+[0 Share](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making)
+
+[](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making)
+
+[0 Share](http://www.escapistmagazine.com/articles/view/issues/issue_245/7285-Steam-A-Monopoly-In-the-Making)
+
+RELATED CONTENT
+
+[FEATURES](http://www.escapistmagazine.com/articles/)
+
+[34![Image 6: A 14x10 small image, likely a logo, icon or avatar](http://cdn.themis-media.com/themes/escapistmagazine/default/images/comment-icon.png)](http://www.escapistmagazine.com/forums/read/6.203894-259-Gunners-and-Gamers "Comments")
+
+[![Image 7](http://cdn.escapistmagazine.com/media/global/images/library/deriv/19/19000.png)](http://www.escapistmagazine.com/articles/view/issues/issue_259/7704-Gunners-and-Gamers)
+
+[Gunners and Gamers](http://www.escapistmagazine.com/articles/view/issues/issue_259/7704-Gunners-and-Gamers)
+
+RUSS PITTS|Jun 22
+
+[PREVIEW](http://www.escapistmagazine.com/articles/view/editorials/reviews/previews/)
+
+[110![Image 8: A 14x10 small image, likely a logo, icon or avatar](http://cdn.themis-media.com/themes/escapistmagazine/default/images/comment-icon.png)](http://www.escapistmagazine.com/forums/read/6.231549-Preview-Civilization-V "Comments")
+
+[![Image 9](http://cdn.themis-media.com/media/global/images/library/deriv/76/76999.png)](http://www.escapistmagazine.com/articles/view/editorials/reviews/previews/8100-Preview-Civilization-V)
+
+[Preview: Civilization V](http://www.escapistmagazine.com/articles/view/editorials/reviews/previews/8100-Preview-Civilization-V)
+
+GREG TITO|Sep 10
+
+[FEATURES](http://www.escapistmagazine.com/articles/)
+
+[124![Image 10: A 14x10 small image, likely a logo, icon or avatar](http://cdn.themis-media.com/themes/escapistmagazine/default/images/comment-icon.png)](http://www.escapistmagazine.com/forums/read/6.170205-I-Have-Seen-The-Future-And-it-is-Annoying "Comments")
+
+[![Image 11](http://cdn.escapistmagazine.com/media/global/images/library/deriv/426/426605.png)](http://www.escapistmagazine.com/articles/view/columns/experienced-points/7058-I-Have-Seen-The-Future-And-it-is-Annoying)
+
+[I Have Seen The Future, And it is Annoying](http://www.escapistmagazine.com/articles/view/columns/experienced-points/7058-I-Have-Seen-The-Future-And-it-is-Annoying)
+
+SHAMUS YOUNG|Jan 22
+
+[COMIC](http://www.escapistmagazine.com/articles/view/comics/)
+
+[30![Image 12: A 14x10 small image, likely a logo, icon or avatar](http://cdn.themis-media.com/themes/escapistmagazine/default/images/comment-icon.png)](http://www.escapistmagazine.com/forums/read/6.352685-Patch-Notes "Comments")
+
+[![Image 13](http://cdn.escapistmagazine.com/media/global/images/library/deriv/76/76395.png)](http://www.escapistmagazine.com/articles/view/comics/namegame/9447-Patch-Notes)
+
+[Name Game: Patch Notes](http://www.escapistmagazine.com/articles/view/comics/namegame/9447-Patch-Notes)
+
+ELISA "LEELEE" SCALDAFERRI |Mar 01
+
+[FEATURES](http://www.escapistmagazine.com/articles/)
+
+[11![Image 14: A 14x10 small image, likely a logo, icon or avatar](http://cdn.themis-media.com/themes/escapistmagazine/default/images/comment-icon.png)](http://www.escapistmagazine.com/forums/read/6.43835-Wal-Mart-Rules "Comments")
+
+[![Image 15](http://cdn.themis-media.com/media/global/images/library/deriv/76/76999.png)](http://www.escapistmagazine.com/articles/view/issues/issue_40/241-Wal-Mart-Rules)
+
+[Wal-Mart Rules](http://www.escapistmagazine.com/articles/view/issues/issue_40/241-Wal-Mart-Rules)
+
+ALLEN VARNEY|Apr 11
+
+[VIDEO](http://www.escapistmagazine.com/videos/)
+
+[173![Image 16: A 14x10 small image, likely a logo, icon or avatar](http://cdn.themis-media.com/themes/escapistmagazine/default/images/comment-icon.png)](http://www.escapistmagazine.com/forums/read/6.169211-Escapist-News-Network-On-Punctuation "Comments")
+
+[![Image 17](http://cdn.escapistmagazine.com/media/global/images/library/deriv/30/30278.png)](http://www.escapistmagazine.com/videos/view/escapist-news-network/1407-On-Punctuation)
+
+[Escapist News Network: On Punctuation](http://www.escapistmagazine.com/videos/view/escapist-news-network/1407-On-Punctuation)
+
+GRAHAM STARK|Jan 20
+
+Comments on
+
+**CONTACT**
+
+[Submissions](http://www.escapistmagazine.com/content/contact)
+
+[Tip Us](http://www.escapistmagazine.com/contact/subject/news)
+
+[Help](http://www.escapistmagazine.com/contact/subject/tech)
+
+[Contact](http://www.escapistmagazine.com/contact/)
+
+**CONTENT**
+
+[News](http://www.escapistmagazine.com/news/)
+
+[Features](http://www.escapistmagazine.com/articles/)
+
+[Reviews](http://www.escapistmagazine.com/reviews/)
+
+[Videos](http://www.escapistmagazine.com/videos/)
+
+[Comics](http://www.escapistmagazine.com/articles/view/comics)
+
+**FIND US**
+
+[Facebook](http://www.facebook.com/EscapistMag)
+
+[Twitter](http://twitter.com/TheEscapistMag)
+
+[YouTube](http://www.youtube.com/user/TheEscapistMagazine)
+
+[Pinterest](http://pinterest.com/theescapistmag/)
+
+[RSS](http://www.escapistmagazine.com/rss/)
+
+[IRC](http://www.escapistmagazine.com/chat/)
+
+**MORE INFO**
+
+[About Us](http://www.escapistmagazine.com/content/about)
+
+[Press Releases](http://www.escapistmagazine.com/articles/view/press)
+
+[Terms of Use](http://www.escapistmagazine.com/content/termsofuse)
+
+[Privacy Policy](http://www.escapistmagazine.com/content/privacy)
+
+[CA Privacy Policy](http://www.escapistmagazine.com/content/privacy_ca)
+
+[](http://www.escapistmagazine.com/subscription/)
+
+[](http://www.escapistmagazine.com/)
+
+ © 2005-2013 Alloy Digital, LLC

@@ -1,0 +1,42 @@
+# Universal Screening for SARS-CoV-2 in Women Admitted for Delivery
+
+* * *
+
+_To the Editor:_ In recent weeks, Covid-19 has rapidly spread throughout New York City. The obstetrical population presents a unique challenge during this pandemic, since these patients have multiple interactions with the health care system and eventually most are admitted to the hospital for delivery. We first diagnosed a case of Covid-19 in an obstetrical patient on March 13, 2020, and we previously reported our early experience with Covid-19 in pregnant women, including two initially asymptomatic women in whom symptoms developed and who tested positive for SARS-CoV-2, the virus that causes Covid-19, after delivery.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175422#r1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175422#r2) After these two cases were identified, we implemented universal testing with nasopharyngeal swabs and a quantitative polymerase-chain-reaction test to detect SARS-CoV-2 infection in women who were admitted for delivery.
+
+Between March 22 and April 4, 2020, a total of 215 pregnant women delivered infants at the New York–Presbyterian Allen Hospital and Columbia University Irving Medical Center . All the women were screened on admission for symptoms of Covid-19. Four women (1.9%) had fever or other symptoms of Covid-19 on admission, and all 4 women tested positive for SARS-CoV-2 ([Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175422#f1)). Of the 211 women without symptoms, all were afebrile on admission. Nasopharyngeal swabs were obtained from 210 of the 211 women (99.5%) who did not have symptoms of Covid-19; of these women, 29 (13.7%) were positive for SARS-CoV-2. Thus, 29 of the 33 patients who were positive for SARS-CoV-2 at admission (87.9%) had no symptoms of Covid-19 at presentation.
+
+Figure 1. Symptom Status and SARS-CoV-2 Test Results among 215 Obstetrical Patients Presenting for Delivery.
+------------------------------------------------------------------------------------------------------------
+
+[![Image 1: Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/26ec/7175422/a60d308e67e4/NEJMc2009316_f1.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7175422_NEJMc2009316_f1.jpg)
+
+Of the 29 women who had been asymptomatic but who were positive for SARS-CoV-2 on admission, fever developed in 3 (10%) before postpartum discharge (median length of stay, 2 days). Two of these patients received antibiotics for presumed endomyometritis (although 1 patient did not have localizing symptoms), and 1 patient was presumed to be febrile due to Covid-19 and received supportive care. One patient with a swab that was negative for SARS-CoV-2 on admission became symptomatic postpartum; repeat SARS-CoV-2 testing 3 days after the initial test was positive.
+
+Our use of universal SARS-CoV-2 testing in all pregnant patients presenting for delivery revealed that at this point in the pandemic in New York City, most of the patients who were positive for SARS-CoV-2 at delivery were asymptomatic, and more than one of eight asymptomatic patients who were admitted to the labor and delivery unit were positive for SARS-CoV-2. Although this prevalence has limited generalizability to geographic regions with lower rates of infection, it underscores the risk of Covid-19 among asymptomatic obstetrical patients. Moreover, the true prevalence of infection may be underreported because of false negative results of tests to detect SARS-CoV-2.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175422#r3)
+
+The potential benefits of a universal testing approach include the ability to use Covid-19 status to determine hospital isolation practices and bed assignments, inform neonatal care, and guide the use of personal protective equipment. Access to such clinical data provides an important opportunity to protect mothers, babies, and health care teams during these challenging times.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175422)Disclosure Forms
+------------------------------------------------------------------------
+
+This letter was published on April 13, 2020, at NEJM.org.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175422)Footnotes
+-----------------------------------------------------------------
+
+[Disclosure forms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175422#ap1) provided by the authors are available with the full text of this letter at NEJM.org.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175422)References
+------------------------------------------------------------------
+
+*   1.Breslin N, Baptiste C, Miller R, et al. COVID-19 in pregnancy: early lessons. Am J Obstet Gynecol MFM (in press). [[DOI](https://doi.org/10.1016/j.ajogmf.2020.100111)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7271091/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32518902/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Obstet%20Gynecol%20MFM&title=COVID-19%20in%20pregnancy:%20early%20lessons.&author=N%20Breslin&author=C%20Baptiste&author=R%20Miller&pmid=32518902&doi=10.1016/j.ajogmf.2020.100111&)]
+*   2.Breslin N, Baptiste C, Gyamfi-Bannerman C, et al. COVID-19 infection among asymptomatic and symptomatic pregnant women: two weeks of confirmed presentations to an affiliated pair of New York City hospitals. Am J Obstet Gynecol MFM (in press). [[DOI](https://doi.org/10.1016/j.ajogmf.2020.100118)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7144599/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32292903/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Obstet%20Gynecol%20MFM&title=COVID-19%20infection%20among%20asymptomatic%20and%20symptomatic%20pregnant%20women:%20two%20weeks%20of%20confirmed%20presentations%20to%20an%20affiliated%20pair%20of%20New%20York%20City%20hospitals.&author=N%20Breslin&author=C%20Baptiste&author=C%20Gyamfi-Bannerman&pmid=32292903&doi=10.1016/j.ajogmf.2020.100118&)]
+*   3.Ai T, Yang Z, Hou H, et al. Correlation of chest CT and RT-PCR testing in coronavirus disease 2019 (COVID-19) in China: a report of 1014 cases. Radiology 2020. February 26 (Epub ahead of print). [[DOI](https://doi.org/10.1148/radiol.2020200642)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7233399/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32101510/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Radiology&title=Correlation%20of%20chest%20CT%20and%20RT-PCR%20testing%20in%20coronavirus%20disease%202019%20(COVID-19)%20in%20China:%20a%20report%20of%201014%20cases.&author=T%20Ai&author=Z%20Yang&author=H%20Hou&publication_year=2020&pmid=32101510&doi=10.1148/radiol.2020200642&)]
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175422)Associated Data
+-----------------------------------------------------------------------
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials

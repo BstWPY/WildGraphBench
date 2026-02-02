@@ -1,0 +1,99 @@
+# The pandemic's true death toll
+
+Updated on January 25th
+
+H ow many people have died because of the covid-19 pandemic? The answer depends both on the data available, and on how you define “because”. Many people who die while infected with SARS-CoV-2 are never tested for it, and do not enter the official totals. Conversely, some people whose deaths have been attributed to covid-19 had other ailments that might have ended their lives on a similar timeframe anyway. And what about people who died of preventable causes during the pandemic, because hospitals full of covid-19 patients could not treat them? If such cases count, they must be offset by deaths that did not occur but would have in normal times, such as those caused by [flu](https://www.economist.com/graphic-detail/2020/09/12/the-southern-hemisphere-skipped-flu-season-in-2020) or [air pollution](https://www.economist.com/graphic-detail/2020/09/05/air-pollution-is-returning-to-pre-covid-levels).
+
+Rather than trying to distinguish between types of deaths, _The Economist_’s approach is to count all of them. The standard method of tracking changes in total mortality is “excess deaths”. This number is the gap between how many people died in a given region during a given time period, regardless of cause, and how many deaths would have been expected if a particular circumstance (such as a natural disaster or disease outbreak) had not occurred. Although the official number of deaths caused by covid-19 is now , our single best estimate is that the actual toll is people. We find that there is a 95% chance that the true value lies between and additional deaths.
+
+The reason that we can provide only a rough estimate, with a wide range of surrounding uncertainty, is that calculating excess deaths for the entire world is complex and imprecise. Including statistics released by sub-national units like provinces or cities, among the world’s 156 countries with at least 1m people we managed to obtain data on total mortality from just 84. Some of these places update their figures regularly; others have published them only once.
+
+To fill in these voids in our understanding of the pandemic, _The Economist_ has built a machine-learning model, which estimates excess deaths for every country on every day since the pandemic began. It is based both on official excess-mortality data and on more than 100 other statistical indicators. Our final tallies use governments’ official excess-death numbers whenever and wherever they are available, and the model’s estimates in all other cases. You can read our methodology [here](https://www.economist.com/graphic-detail/2021/05/13/how-we-estimated-the-true-death-toll-of-the-pandemic), and inspect all our code, data, and models [here](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model).
+
+In the chart above, you can explore our numbers either for the world as a whole or broken down by region. Our model provides a range (the coloured interval) and a central estimate (the line). The less data that are available in a given country, the less certain we can be about how many excess deaths have actually occurred there, and thus the wider our confidence interval becomes. The most recent cumulative totals are also available below, in table format.
+
+The regional estimates above are aggregations of our figures for individual countries. Differences between countries in the scale and frequency of testing for SARS-CoV-2—which, along with the severity of the pandemic, determine the official covid-19 death toll—can be vast. Excess-deaths data are essential in order to make comparisons between countries on an apples-to-apples basis. In cases where death rates fell below their pre-pandemic norms—because covid-19 claimed relatively few victims, while lifestyle changes lowered the toll from other causes such as flu—this number is negative.
+
+The interactive chart above lets you compare excess mortality over time in any pair of countries. You can also look up the cumulative total for individual countries in the subsequent table. Although we provide an estimated excess-deaths figure for every day since the pandemic began, official covid-19 death statistics are displayed only up to the most recent data release, and are missing afterwards.
+
+These data make clear that covid-19 has led to the deaths of far more people than official statistics suggest (see our [briefing](https://www.economist.com/briefing/2021/05/15/there-have-been-7m-13m-excess-deaths-worldwide-during-the-pandemic)). Measured by excess deaths as a share of population, many of the world’s hardest-hit countries are in Latin America. Although Russia’s official death tally suggests that it has protected its citizens tolerably well, its numbers on total mortality imply that it has in fact been hit quite hard by covid-19. Similarly, we estimate that India’s death toll is actually in the millions, rather than the hundreds of thousands. At the other end of the table, a handful of countries have actually had fewer people die during the pandemic than in previous years.
+
+Although excess-deaths statistics are the most comprehensive measure of the human cost of covid-19, they are only loosely tied to the number of people who have been infected with SARS-CoV-2. Because the virus is so much deadlier for older people than it is among the young, death tolls are heavily influenced by the age structure of a country’s population. Holding other factors constant, it takes a smaller number of infections to produce a given number of excess deaths in places where lots of people are aged over 65 than in those where relatively few people are vulnerable. As a result, excess-death data can only be used as a good indicator of the spread of covid-19 if you also account for demography.
+
+The two maps above display some of the implications of this relationship. The first shows excess deaths as a share of each country’s population aged at least 65, a very simple guide to how widely covid-19 is likely to have spread. The second depicts an estimate of the share of people in each country who have been infected. To calculate it, we divide a country’s total excess deaths by a context-adjusted infection-fatality risk: the chance that a person selected from the country’s population at random would die after catching covid-19, assuming medical treatment at rich-world standards. The younger a country’s population is, the lower this probability becomes.
+
+This estimate is extremely rough. It accounts neither for variation between countries in the propensity of members of particular demographic groups to get infected, nor for differences in the prevalence of underlying medical conditions that increase vulnerability to covid-19. Because good medical treatment is harder to come by in poor countries, it overestimates the number of cases in such places. In some countries, this yields an estimate of total infections that exceeds a country’s population—a scenario that is theoretically possible, since reinfections do occur, but is probably quite unlikely.
+
+This method also does not incorporate data on vaccinations, which have sharply lowered the infection-fatality rate in 2021 in many countries. And it lacks information about the prevalence of new variants of SARS-CoV-2 such as Alpha and Delta, which may have a different degree of virulence from the original strain. Despite all of these caveats, this approach at least provides a starting point for estimating how many people have caught the virus that does not depend on the vagaries of testing programmes. You can explore both of these sets of numbers for each country in the table below.
+
+There are two main ways that our excess-death tallies could misrepresent reality. The first is that they rely on the assumption that officially published excess-mortality numbers are accurate. Given the disruption that covid-19 has caused, it is plausible that some governments may have changed how they compile data on total deaths during the pandemic. This might lead us to publish incorrect figures for the countries in question. It could also introduce errors into the estimates that our model produces for all other countries.
+
+Second, because most countries that report excess deaths are rich or middle-income, the bulk of the data used to train our model comes from such places. The patterns that the model detects in these areas could thus be an inaccurate guide to the dynamics of the pandemic in poor countries. A similar caveat applies to our estimates for countries that have suffered lots of excess deaths for reasons other than the pandemic, such as war or natural disasters.
+
+Our excess-deaths tally will be updated every day on this page. We hope readers return to it regularly to enrich their understanding of the path of the pandemic, around the world and over time. We will also continue trying to improve our model. Below, you can see a record of all the changes we have made to it so far.■
+
+Non-reporting countries
+-----------------------
+
+_Turkmenistan has not reported any covid-19 figures since the start of the pandemic. It also has not published all-cause mortality data. Estimates for this country are therefore especially uncertain._
+
+Model changelog
+---------------
+
+_Read our methodology [here](https://www.economist.com/graphic-detail/2021/05/13/how-we-estimated-the-true-death-toll-of-the-pandemic), and inspect all our code, data, and models on [GitHub](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)._
+
+Feb 7th 2022
+------------
+
+*   Retrained all models based on greatly expanded data: now 107 countries and 6 subnational regions (from 82 countries and 6 subnational units). Note that added countries tend to be small in population, giving them a smaller impact than their raw number would imply.
+*   Made models now automatically retrain: Every update run, one new model is trained, replacing one randomly selected old model. This means that not only do estimates update daily in light of the latest data, as previously, but that the models used to interpret these data also continually improve.
+*   Central estimate made based on medians of ensemble of 10 models with different starting seeds. This increases number of models to 210 including those used to construct uncertainty ranges.
+*   Improved imputation of leading zeros for cumulative series, which now only impute zero if non-zero observations are eventually observed (matters for small number of series with no observations).
+*   Distance-based seroprevalence estimates made to be non-decreasing, like their country-level countryparts.
+*   Added 31 seroprevalence studies from 16 different countries.
+*   Added population density estimates to subnational data.
+
+Sep 2nd 2021
+------------
+
+*   Changed all data sources to update daily where applicable.
+*   Tweaked dimensionality reduction of missingness indicators, removing possibility of the column order and dimensionality changing between training and prediction steps as a result of previously complete data ceasing to be so.
+*   Greatly expanded serosurveys featured, added split to last two months of seroprevalence estimates to account for sero-survey to publication lag. Added 295 new seroprevalence estimates, expanding the sample to 420 surveys in 51 countries (previously 32). 
+*   Added cumulative regional and national seroprevalence indicators.
+*   Greatly expanded subnational data, adding in all areas with reported total mortality figures for the last 3 years, and populations over 1m present in the Local Mortality dataset as of July 2021. These were all manually matched to subnational figures on covid deaths, cases, figures, mobility data, and geography.
+*   Added mean elevation, percent of population in the tropics and other geographical country-level variables (Source: John L. Gallup; Andrew D. Mellinger; Jeffrey D. Sachs, 2010, "Geography Datasets").
+*   Added tuberculosis, HIV/AIDS, malaria, and projected total death burden data (Source: WHO).
+*   Added temperature data based on population-weighted average by month and country 2015-2019 (Source: Copernicus Climate Service; Oikalabs).
+*   Set distance-weighted averages to be log-population-weighted.
+*   Adjusted Chinese reported excess deaths for mortality increases over time based on UN pre-pandemic projections.
+*   Manually inspected all excess deaths series for reporting lag-driven declines in mortality, censoring as applicable based on reporting source (this meant removing very recent American excess deaths data from the model fitting stage, based on CDC estimates of likely reporting lags). All excess deaths data remain reported and part of estimates, this only affected the model-fitting stage.
+*   Removed countries (e.g. Peru) who have back-ward adjusted their covid-19 death figures to match excess mortality estimates from the model-fitting stage (as current covid deaths there are not based on excess deaths). Also removed these countries covid-19 death tallies from relevant regional and distance-weighted averages.
+*   Feature-engineering to include covid deaths interacted with vaccination data and population over 65 to facilitate model learning. Also added two-week lagged variables of vaccination indicators to account for time-lag in their effectiveness. 
+*   Adjusted bootstrapping step to sample strata then observations within them, rather than drawing one strata then observations within it iteratively until sample size approached original data. Increased bootstrap iterations to 200.
+
+Sources
+-------
+
+Excess deaths: _The Economist_; Human Mortality Database; World Mortality Dataset; Registro Civil (Bolivia); Vital Strategies; Office for National Statistics; Northern Ireland Statistics and Research Agency; National Records of Scotland; Registro Civil (Chile); Registro Civil (Ecuador); Institut National de la Statistique et des Études Économiques; Santé Publique France; Istituto Nazionale di Statistica; Dipartimento della Protezione Civile; Secretaría de Salud (Mexico); Ministerio de Salud (Peru); Data Science Research Peru; Departamento Administrativo Nacional de Estadística (Colombia); South African Medical Research Council; Instituto de Salud Carlos III; Ministerio de Sanidad (Spain); Datadista; Liu et al (2021)
+
+Excess deaths (subnational): Local Mortality Dataset; Rukmini S (2021); Sumitra Debroy (2021); Thejesh GN (2021); Srinivasan Ramani and Vignesh Radhakrishnan (2021); Jakarta Open Data
+
+Covid-19 data (deaths, cases, testing, and vaccinations): Our World In Data; Johns Hopkins University, CSSE; Covid19India.org; Jakarta covid-19 response team
+
+Prevalence of covid-19 antibodies: [SeroTracker.com](https://serotracker.com/en/Explore)
+
+Demography and urbanization rates: Our World in Data; World Bank; United Nations; World Health Organization; World Population Review
+
+Demography-adjusted infection fatality rate: _The Economist_, based on Brazeau et al. (2020) and UN population figures
+
+Health outcomes and healthcare quality: Our World in Data; World Bank; WHO
+
+Political regime and media freedom data: V-Dem Institute; PolityIV Project; Freedom House; Boix et al (2015)
+
+Economy and connectivity: World Bank; Our World in Data; World Tourism Organization
+
+Mobility: COVID-19 Community Mobility Reports (Google)
+
+Geography: Natural Earth; Decker et al (“maps” R package); Mayer T et al (2011); Gallup et al (2010)
+
+Government policy responses to Covid-19: OxCGRT (University of Oxford)

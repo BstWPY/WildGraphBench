@@ -1,0 +1,64 @@
+# Record 12-Million-Digit Prime Number Nets $100,000 Prize
+
+October 14th, 2009
+
+Mersenne.org Wins EFF's Cooperative Computing Award
+---------------------------------------------------
+
+San Francisco - A worldwide volunteer computing project called the Great Internet Mersenne Prime Search (GIMPS) has discovered a 12-million-digit prime number, netting $100,000 and a Cooperative Computing Award from the Electronic Frontier Foundation (EFF) for discovering a prime number of over 10 million digits.
+
+The GIMPS PrimeNet network made the discovery on a computer at the University of California, Los Angeles (UCLA) Mathematics Department. Computing manager Edson Smith installed and maintained the GIMPS software at UCLA, and thousands of other volunteers also participated in the search process. The discovery was hailed by Time magazine as the 29th top invention of 2008.
+
+"Thousands of people and organizations all over the world are part of GIMPS, and discovering this prime number shows how just powerful cooperative computing can be," said PrimeNet's creator, Scott Kurowski.
+
+"We're grateful to the UCLA Mathematics Department for providing its computational resources to the project," said GIMPS founder George Woltman.
+
+The $100,000 prize will be awarded during EFF's Pioneer Awards ceremony on October 22nd at the Westin San Francisco in conjunction with the Web 2.0 Summit, co-produced by O'Reilly and TechWeb.
+
+The winning number is the 45th known Mersenne prime, written shorthand as 2 to the power of 43,112,609, minus 1. A Mersenne number is a positive integer that is one less than a power of two. The GIMPS discovery was announced in the Fibonacci Quarterly journal in August of this year; it is the largest prime number ever discovered.
+
+"Computers sit idle much of the time, waiting for their users do something," said Landon Curt Noll, a mathematician, astronomer, and Cisco employee who serves as the Chair of the EFF Cooperative Computing Award advisory panel. "With EFF's Cooperative Computing Awards, we aim to encourage researchers to pool their computing over the Internet and work together to share resources to solve important problems, fostering new technologies and opportunities for everyone."
+
+GIMPS says it will give $50,000 of the award to the UCLA Mathematics Department and donate $25,000 to charity. The remainder will fund its ongoing research and awards for participants discovering new Mersenne primes.
+
+EFF's first Cooperative Computing Award, given for a prime number of at least a million digits, was awarded nearly 10 years ago, also to a GIMPS participant. Two Cooperative Computing Awards are still up for grabs: EFF will award $150,000 to the first individual or group who discovers a prime with at least 100 million digits, and $250,000 for a prime with at least a billion digits. Prize money comes from a special donation from an individual EFF supporter, earmarked specifically for the project.
+
+Tickets to the Pioneer Awards ceremony are $60 through Friday, October 16, and $80 afterwards. Advance tickets are available at [http://action.eff.org/pioneerfundraiser](http://action.eff.org/pioneerfundraiser "http://action.eff.org/pioneerfundraiser"). Members of the media interested in attending should email [press@eff.org](http://20110805043609/mailto:press@eff.org).
+
+For more on the Cooperative Computing Awards:
+
+[http://www.eff.org/awards/coop](http://www.eff.org/awards/coop "http://www.eff.org/awards/coop")
+
+For more on the Pioneer Awards:
+
+[http://www.eff.org/awards/pioneer](http://www.eff.org/awards/pioneer "http://www.eff.org/awards/pioneer")
+
+For more on the Great Internet Mersenne Prime Search:
+
+[http://www.mersenne.org/](http://www.mersenne.org/ "http://www.mersenne.org/")
+
+Contacts:
+
+Seth Schoen
+
+ Staff Technologist
+
+ Electronic Frontier Foundation
+
+[seth@eff.org](http://20110805043609/mailto:seth@eff.org)
+
+Landon Curt Noll
+
+ Chair
+
+ EFF Cooperative Computing Awards Advisory Panel
+
+[coop-chair@asthe.com](http://20110805043609/mailto:coop-chair@asthe.com)
+
+Scott Kurowski
+
+ Great Internet Mersenne Prime Search
+
+[primenet@mersenne.org](http://20110805043609/mailto:primenet@mersenne.org)
+
+[[Permalink](http://www.eff.org/press/archives/2009/10/14-0)]

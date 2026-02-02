@@ -1,0 +1,59 @@
+# Steam Support– Valve Anti-Cheat System (VAC)
+
+### Important:
+
+**All VAC bans are permanent** - Valve has a zero-tolerance policy for cheating and will not lift VAC bans under any circumstances.
+
+#### What is VAC?
+
+The Valve Anti-Cheat system is enabled for servers displaying the **Secured** shield logo. If a user connects to a VAC-Secured server from a computer with identifiable cheats installed, the VAC system will ban the user from playing on VAC-Secured servers in the future.
+
+While server admins may choose to ban specific players, server admins cannot VAC ban players. The VAC system is automated - **contacting Steam Support to report cheaters is not necessary, nor will Steam Support act on any information provided.**
+
+The VAC system reliably detects cheats using their cheat signatures. Any third-party modification to a game designed to give one player an advantage over another is classified as a cheat or hack and will trigger a VAC ban. This includes modifications to a game's core executable files and dynamic link libraries.
+
+##### The following will not trigger a VAC ban:
+
+*   Using chat programs like X-Fire
+*   Playing multi-player mods which do not modify core .EXE and .DLL files
+*   System hardware configurations
+*   Updated system drivers, such as video card drivers
+*   Using custom skins, sounds or maps
+
+Use only trusted machines to play on VAC-Secured servers - if you are not sure whether or not the machine you are using to connect to Steam may have cheats installed, do not play on VAC-Secured servers.
+
+Use caution when installing any game modifications, such as scripts or custom skins. Only download custom content from trusted sources. Hackers sometimes maliciously disguise their cheats to cause others to get banned.
+
+For more information on how you can protect yourself, please refer to this FAQ:
+
+[Account Security Recommendations](https://support.steampowered.com/kb_article.php?ref=1266-OAFV-8478)
+
+For more information on Valve's policies, please see the Steam Subscriber Agreement and the Rules of Steam Online Conduct.
+
+##### Steam Subscriber Agreement
+
+[Steam Subscriber Agreement](http://www.steampowered.com/v/index.php?area=subscriber_agreement "Steam Subscriber Agreement")
+
+##### Rules of Steam Online Conduct
+
+[Rules of Steam Online Conduct](http://www.steampowered.com/v/index.php?area=online_conduct "Rules of Steam Online Conduct")
+
+#### VAC Bans versus Server Bans
+
+The best indicator that your account has been banned by VAC is if you receive this message when attempting to access a VAC-secure server:
+
+_"Your connection to this secure server has been rejected. Because of past cheating violations, you have been banned from playing on all secure servers"_
+
+If you receive an error message stating _"STEAMID IS BANNED"_(or other similar messages) when attempting to connect to a server, your account is not banned by VAC - server administrators may ban you from a particular server (we cannot prevent this - whoever runs the server can ban players for any reason they desire).
+
+If you find that you are banned from a large number of servers but your VAC status is in good standing, you have likely been banned by a third-party ban tool, such as **Steambans** or **Punkbuster**. These third-party tools are used by a large number of servers sharing a common database of banned ID's. These tools are unrelated to Steam and we cannot assist you in resolving this issue.
+
+You will not be banned by the VAC system unless you login to a VAC-secure server with a cheat installed on your computer.
+
+#### Reporting Cheaters
+
+If you know of a new cheat, especially private cheats (ones that aren't on a public website), and can provide the links or the actual binaries, please visit the [SteamPowered Forums](http://www.steampowered.com/index.php?area=forums) and PM (private mail) a moderator there and it will be reported to the VAC team.
+
+#### VAC Enabled Games
+
+Please see the [Steam Store Valve Anti Cheat Enabled search term](http://store.steampowered.com/search/?term=Valve+Anti-Cheat+enabled).

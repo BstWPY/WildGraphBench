@@ -1,0 +1,87 @@
+# Why Steam Spy has to close, from the creator himself
+
+Yesterday, [Steam's privacy settings were updated](https://steamcommunity.com/games/593110/announcements/detail/1667896941884942467) to make things a little clearer when deciding who can see your Steam profile and what exactly they can see. This means that you can now hide the games you've purchased or wishlisted, along with any achievements and playtime you may have associated with them.
+
+At first glance, this appears to be Valve's initial response to the huge privacy scandal surrounding Facebook's relationship with British political consulting firm, Cambridge Analytica. (We've asked Valve for comment.)
+
+![Image 1: me1](https://d2skuhm0vrry40.cloudfront.net/2018/articles/2018-04-11-16-42/me1.jpg/EG11/resize/300x-1/quality/75/format/jpg)
+
+Sergey Galyonkin, creator of Steam Spy and Director of Publishing Strategy at Epic Games.
+
+However, these changes have also led to a potentially unexpected side effect: the imminent closure of the largest Steam stats service on the Internet, [Steam Spy](https://steamspy.com/).
+
+This site ran as a side project by Sergey Galyonkin, the Director of Publishing Strategy at Epic Games, and relies entirely on data gathered from Steam user profiles to estimate sales figures and current trends within the PC gaming space. This has proven popular with players and developers alike.
+
+Galyonkin announced yesterday that Steam Spy ["won't be able to operate anymore"](https://twitter.com/Steam_Spy/status/983879694658437120), as a result of these changes. We spoke to him to find out more.
+
+**How's it all going on your end?**
+
+**Sergey Galyonkin:** Well, I'm trying to figure out what would be my next best step. It seems like I have several options, relying on different methods of gathering information. But the margin of error would be so high that I don't think they make a lot of sense.
+
+**So what happened yesterday, from your perspective? Did you know this update was coming?**
+
+**Sergey Galyonkin:** No, I did not. I just found out about it when a person messaged me on Twitter. Valve never informs anyone of any changes, so it's not surprising really. What they did was post it in their blog post, while rolling out their privacy changes. They made users' game libraries hidden by default and that's what makes Steam Spy operate. Steam Spy uses user libraries to understand what users have and then extrapolate data based on that. I don't know why they did it.
+
+**Do you get the feeling that this change has happened because of Steam Spy?**
+
+**Sergey Galyonkin:** I really don't know. For a moment I was thinking that it was related to GDPR (General Data Protection Regulation) laws going live in Europe in May, but if they wanted to be compliant with those laws they should have hidden all profile information. Right now they have sensitive information exposed by default and only the game libraries are hidden. It doesn't really make sense.
+
+**What kind of sensitive information?**
+
+**Sergey Galyonkin:** The user's real name, twitter handles and all this stuff. It's all exposed by default.
+
+![Image 2: 3](https://www.eurogamer.net/img/placeholder.jpg)
+**So does that suggest this update was, in fact, targeting Steam Spy?**
+
+**Sergey Galyonkin:** I mean, there are easier ways to block Steam Spy. If I understand correctly, what they did also broke the ability for players to join their friends in games, because they can't see who owns what. I think if they wanted to just shut down Steam Spy, they would have taken an easier route.
+
+**And I'm guessing you've had no correspondence with Valve?**
+
+**Sergey Galyonkin:** No. My previous experience with Valve is that they don't answer any emails.
+
+**Have you got any kind of relationship with them? Before this point, have you talked to them about Steam Spy at all?**
+
+**Sergey Galyonkin:** Before launching Steam Spy, I used to work with Valve because I worked for a company that released a couple of game on Steam. Back then, it was way before Greenlight started, they were quick to answer. But after Greenlight happened, they stopped replying.
+
+When I launched Steam Spy, I was met with complete silence. I've only received one email related to Steam Spy from them.
+
+**What was that email?**
+
+**Sergey Galyonkin:** It was when I asked them if I could make Steam Spy a commercial enterprise. They said I would be fine on Patreon, but not with anything else.
+
+**As of right now, where are you at? Are you really shutting Steam Spy down?**
+
+**Sergey Galyonkin:** I will probably [shut down the Patreon](https://www.patreon.com/steamspy), because I feel it's unfair to charge people for access to past information, without new information going in. I have an option to continue with other methods of extrapolation. They will be less precise. So if I do it, I will just keep that information to myself, I guess. I've seen information with account-level precision being misused, I don't want information with less precision being misused as well. So I will just use it myself.
+
+![Image 3: 3](https://www.eurogamer.net/img/placeholder.jpg)
+**What kind of margin of error is acceptable for you, when looking at alternatives?**
+
+**Sergey Galyonkin:** It depends, you know. It's different for me and for other people. Myself, I usually look at trends. Other people, I see use Steam Spy quite differently, they search particular games. The margin of error for particular games would be kind of bad.
+
+**So as of right now, unless another method presents itself, the public face of Steam Spy is done?**
+
+**Sergey Galyonkin:** Yeah, pretty much. I will keep the archive online.
+
+**As well as doing Steam Spy, you work at Epic Games. So this isn't the be all and end all for you?**
+
+**Sergey Galyonkin:** No, no. Steam Spy was a nice side source of income, but I was not doing it for the money. I'm good.
+
+**How does Epic feel about Steam Spy? Have they ever had any issues with it?**
+
+**Sergey Galyonkin:** Not really. I had a clause in my contract that allows me to run a couple of side projects: one of them is Steam Spy and the other is a game developers podcast I run. Epic was cool about it and we use Steam Spy ourselves a lot. It has been a good source of information for us.
+
+**So what's next? Will you move onto another side project?**
+
+**Sergey Galyonkin:** I will probably continue with the version of Steam Spy that I intend to use myself, but I will probably not make it public.
+
+**So that's something you'll just use to inform your own role at Epic?**
+
+**Sergey Galyonkin:** Yeah. I also have something called Twitch Spy, which is pretty much a database with no front end. It allows me to check on people's streaming, the games that are being streamed, who's rising and who's not. How subscriber counts and follower counts are influenced by the games they play. It's actually rather interesting. You can see that sometimes a person will be jumping from game to game to game and certain games will perform extremely well for them. And sometimes different people, trying to stream the exact same game, will see a decrease in followers. It's fascinating to watch, but right now it's just a database with no front end. I might do that, if I have time.
+
+**And finally, what do you make of the argument that this change is actually good for Steam users in terms of privacy?**
+
+**Sergey Galyonkin:** Giving users a small amount of control over their privacy settings is a step in the right direction. Making all of interface changes they've done is a good step. But the fact that they made only partial information from user profiles, rather than hiding all sensitive information is obviously weird. I don't understand why they'd do that. But I mean, it's Valve...
+
+**Thanks for your time Sergey. You seem remarkably calm given the last 24 hours.**
+
+**Sergey Galyonkin:** I knew it was going to happen at some point. It wasn't exactly a big surprise. And I still have a small side project called Fortnite to think about anyway.

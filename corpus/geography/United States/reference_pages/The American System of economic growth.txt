@@ -1,0 +1,1132 @@
+# The American System of economic growth
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Abstract
+----------------------------------------------------------------
+
+The early history of industrialization in the United States—famously known as “The American System of Manufactures”—exhibited four key features: the substitution of specialized intermediate inputs for skilled work in assembling final goods, the freedom with which knowledge has long been shared in the United States, a learning technology that leverages existing mechanical know-how in human capital accumulation, and increasing returns to intermediate inputs in processing final goods. Our endogenous growth model embodies these components and utilizes historical time series data on labor force “operatives” and the Census of Manufactures to calibrate the model’s parameters. Our simulation closely matches the 1.88% average per capita product growth in the United States from 1860 to date. The simulation predicts that growth will peak in 1980 and ultimately converge to 1.31%—a growth slowdown rooted from the beginning in the economization of skilled labor inherent in the American System. By 2000, simulated per capita product is 2.21 times larger than a counterfactual in which the American System of manufactures never existed.
+
+**Keywords:** Economic growth, American System of manufactures, Human capital, Increasing returns to scale
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Introduction
+--------------------------------------------------------------------
+
+Modern economic growth took off in Great Britain after the Industrial Revolution that began in the eighteenth century. In this paper we explore the idea that it accelerated in the nineteenth century with the development of the “American System of Manufactures”, the use of standardized, interchangeable parts in production. This shift, we believe, conferred a temporary growth advantage to the US economy, but as it diffused around the world by the twentieth century, the US advantage disappeared. Still, the American System itself has had long lasting effects on world growth and human capital accumulation. We focus our discussion on the US and show that our model can account for the relative stability of growth[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn1) since 1860 in spite of major structural change.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn2) It can also account for a growth slowdown like the one we have witnessed since about 1980.
+
+The American System of Manufactures was the name given to the novel method of production in the United States that used interchangeable parts as a way to economize on the craft skill necessary to “fit” components into final goods. To assist this “assembling” that replaced the more time-consuming and skill-intensive “fitting” also required the invention and diffusion of specialized machines. The usefulness of knowledge and skill moved over time from finishing tasks in the later stages of production to the creation of intermediate, specialized machines in the early stages of production. In our model, this can result in a net economization of knowledge and a reduction in the rate at which it is rational to accumulate human capital. Growth might slow.
+
+Another, less emphasized, feature of American industrial history was the sharing of technical information within and across industries. Compared to Great Britain and Continental Europe, according to some historians, the flow of technical knowledge in the United States was appreciably freer in the nineteenth century and contributed greatly to the development of the system of standardization and reduction in reliance on craft skill.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn3)
+
+The model has two final goods that are perfect substitutes in consumption. We refer to the final goods as “conventional” or “advanced” depending on how intermediate inputs are combined—or _processed_—into final goods. Human capital enhances the productivity of labor in the processing of conventional intermediates into final goods—this is the _fitting_—but does _not_ raise labor productivity in the processing—or _assembling_—of advanced intermediates. Unskilled labor is just as productive as skilled labor in processing intermediates using the advanced technology. Katz and Margo ([2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR38)) call such workers “operatives”—workers with limited skill that assembled intermediate inputs into final goods.
+
+Early in the history of the American System, human capital was naturally predominantly occupied in industries using conventional techniques. It was this stock of knowledge—which was accustomed to the difficulties of fitting custom intermediates into final goods—that was used to adapt and create specialized machine tools designed to substitute for craft skill in the fitting stage of final-good production. Our view is that this reservoir of knowledge in conventional technologies _spilled over_ to reduce the cost and increase the productivity of the new machine tools, which we identify with advanced intermediate goods. This important feature of the model provides an explanation for why the advanced technology could begin at small scale. Conventional intermediate inputs, on the other hand, were limited in terms of potential productivity. These limitations are spelled out in Sect.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec2), where we briefly review the evolution of industry in the United States in the nineteenth century.
+
+Individuals in the model accumulate new knowledge by allocating time to learning as in the work of Lucas ([1988](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR41)). The productivity of learning time depends on the individual’s human capital, and is enhanced by a learning externality based on the variety of intermediate goods (Goodfriend and McDermott [1995](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR31), [1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR32)). As population grows and individuals accumulate human capital, more firms find it profitable to enter intermediate-good production whose fixed costs can be spread over a larger volume of output. In this way, the model exhibits increasing returns as in the models of Romer ([1987](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR45), [1990](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR46)). This scale effect lifts output and real wages. As human capital increases, intermediate firms take advantage of knowledge spillovers to introduce machine tools that save on skilled effort, raising the wage in advanced processing more than in conventional processing. Labor moves from conventional to advanced production technology. This result—that advanced processing gradually replaces conventional processing—diminishes the incentive to accumulate knowledge because the advanced technology economizes on human capital in the processing stage.
+
+The model is motivated by manufacturing, but the phenomenon appears to extend to services, retail, and even agricultural production. Computers and the internet, for example, allow people with little medical or financial knowledge to self-diagnose and invest in complex financial instruments. Bar codes and scanners allow retail outlets to hire people who may possess very limited skill with numbers. The internet has allowed the simultaneous production and consumption of many kinds of entertainment, service, and education. This is why we simulate the model to analyze both transitional and steady-state growth from 1860 to the present and beyond.
+
+The American System model succeeds well in reconciling the growth facts mentioned at the outset. The baseline model simulation closely matches the average 1.88% per capita product growth rate since 1860 in the United States. The simulation predicts that long-run per capita product growth peaked in 1980 at 1.914% and will eventually fall to 1.31%, as the share of unskilled work rises to 50%.
+
+Our simulated American System model offers an alternative perspective on recent growth and its slowdown documented in Fernald ([2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR25)) and highlighted in much recent work. Some of this literature emphasizes innovations in information technology in the late twentieth century whose diffusion caused a rise then decline in growth (Fernald [2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR25); Aghion et al. [2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR3)), perhaps related to shifts in the ability to create tasks that utilize the new technologies (Acemoglu and Restrepo [2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR1)). Other work emphasizes the onset of secular stagnation, perhaps due to the financial overhang following the Great Recession (Summers [2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR53)). Another strand focuses on the assumption that by the middle of the twentieth century, all of the most important inventions had already been discovered (Cowen [2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR19); Gordon [2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR33)). The argument in Jones ([2002](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR36)) and Fernald and Jones ([2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR27)) is compatible with a story in which investment in resources and education cannot sustain the near-constant, high growth that characterized the twentieth century. A more optimistic strand finds that long lags and costly implementation are responsible for the current slowdown, but that there is much reason for optimism as AI technologies finally kick in (Brynjolfsson et al. [2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR15)). Yet another branch locates the slowdown in the decline in the ability to educate our young people (Goldin and Katz [2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR30)). Our model shares some features of many of these papers, but foresees a permanent growth slowdown rooted from the beginning in the economization of skilled labor inherent in the American System of Manufactures.
+
+Our model is rooted in the product variety approach to growth that originated with Romer ([1987](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR45), [1990](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR46)), but it is related to the Schumpeterian view that arose around the same time with the work of Aghion and Howitt ([1992](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR4), [1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR5)). That approach locates the source of growth in investment in research time, similar to our learning, which affects the arrival rate of new inventions that replace old ones and destroy existing firms. In our model, firms never disappear, even in the conventional sector that loses labor. Both approaches feature economies of scale through specialization, and temporary monopoly profit, but the dynamics of the growth process are different. Our creative destruction happens in a relative sense, as the advanced sector becomes increasingly large relative to the conventional sector, but the latter never completely disappears.[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn4)
+
+In Sect.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec2), we present a historical account of the revolutionary nature of the American System of Manufactures, drawing on the insights of historians of technology. We also marshal historical evidence to support our assumptions about the importance of knowledge diffusion in the American economy, especially compared to that of Great Britain and Europe at the time.
+
+In Sect.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec3) we introduce the conventional and advanced goods-producing technologies. The learning technology is presented in Sect.[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec4). Section[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec5) derives the equilibria in the conventional and advanced processing sectors, separately. Section [6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec6) links the conventional and advanced sectors by imposing wage equality, and examines the overall momentary equilibrium allocation of work effort. In Sect.[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec7) we analyze the conditions for a maximum to the household’s intertemporal problem and characterize the transitional dynamics of the endogenous growth model.
+
+In Sect.[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec8) we calibrate the model’s six parameters using value-added data taken from the _Census of Manufacture_ s in the nineteenth century, and a time series of the share of operatives in the total work force reported in the _Historical Statistics of the United States_ (Carter et al. [2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR17)). In Sect. [9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec9), we simulate our model of the American System from 1860 forward through the twentieth century and beyond. We discuss the implications for learning in our model in Sect.[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec10). Sensitivity analysis is undertaken in Sect.[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec11) and, in Sect.[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec12), we point out that the latest incarnation of the American System of advanced processing technology facilitates the self-processing of goods and services by individuals alone. Section[13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec13) concludes the paper.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)The American System and knowledge sharing
+-------------------------------------------------------------------------------------------------
+
+The “American System of Manufactures” was so named by the British after the technology was exhibited at the Crystal Palace Exhibition in London in 1851. The American display of interchangeable parts, in particular in the manufacture of firearms, was recognized to greatly simplify not only their assembly but also their maintenance and repair in battle.[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn5) Soon after, the British organized parliamentary representatives to visit the United States to observe the new manufacturing techniques. Their reports entitled _The American System of Manufactures: the Reports of the Committee on Machinery of the United States 1855, and the Special Reports of George Wallis and Joseph Whitworth 1854_ “clearly and emphatically called attention to certain unique technical developments in the United States and urged their adoption in Great Britain...”[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn6) In what follows, we motivate the foundations of our model by reviewing historical accounts of the American System.
+
+As Rosenberg ([1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR49)) put it: “A major feature of the new American technology may...be simply stated: it eliminated or at least substantially reduced the very costly fitting activities which were an inseparable aspect of the older handicraft system. The new machines were labor-saving in that they simply eliminated the need for the highly labor-intensive stage of fitting. A crucial difference between the old and new techniques is the difference between fitting and assembling. The parliamentary committee [mentioned above] was so amazed at this feature that it enclosed the word “assemble” in quotation marks whenever the word was used throughout the report.”[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn7)
+
+Rosenberg continued: “Interchangeable components, the elimination of dependence upon handicraft skills, and the abolition of extensive fitting operations were, in turn, all aspects of a system whose central characteristic was the design and utilization of highly specialized machinery....Interchangeability, it should be understood, is critical not only because it permits assembly without fitting, but because it makes possible a much higher degree of specialization than would otherwise be possible...”[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn8)
+
+In his Introduction to the _Report_, Rosenberg pointed out: “What must be recorded, however, is that after the system had been planted in Great Britain it failed to flourish as it had in the United States. Its adoption was halting and fitful. Handicraft methods showed a remarkable capacity to survive, methods to assure precision workmanship—such as the use of limit gauges—were adopted very slowly, and in engineering workshops the shift from general purpose machinery to more specialized machines was not nearly as rapid or as extensive as in the United States.”[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn9)
+
+Rosenberg explained the resistance to the adoption of the American System of manufactures abroad: “...The Birmingham metal trades were capable of producing any of a wide range of articles which could be produced by highly skilled and ingenious craftsmen working only with tools and the simplest machinery ... New products could be introduced with relative ease so long as they involved only relatively small departures from known craft skills and exploited the considerable virtuosity of these skills... In an important sense such craft skills are dead ends, for several reasons. They generated attitudes and traditions characterized by a preoccupation with qualitative aspects of the final product which were at best irrelevant and at worst hostile to the solution of problems associated with raising resource productivity. The accumulated skills and traditions constituted an obstacle to the learning process which is a prerequisite to the acquisition of new and radically different techniques...”[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn10)
+
+“The Birmingham metal trades”, Rosenberg continued, “were superbly successful in exploiting human skills. They lacked the capacity, however, for incorporating these skills in machinery. Moreover, the highly self-contained nature of the organization of these trades tended to cut them off from contact with other industries—particularly the producers of capital goods—from whom they might have learned and borrowed. These trades, by the middle of the nineteenth century, had gone about as far as possible given their reliance upon the speed, strength, precision and dexterity of the human hand. Further technical progress involved a recourse to completely different techniques for ways of achieving form and precision in the shaping of materials. But Birmingham’s industrial history had left it ill-prepared in the novel engineering techniques and broader range of mechanical skills upon which further technical progress depended.”[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn11)
+
+Scale economies were important to the early applications of interchangeable parts in firearms, lock-making, and clocks. However, it was far from clear that the precision, standardization, and specialization of machinery at the heart of the American System could be so improved over time to be used ever more widely in the production of goods and services.[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn12) Hence, historians have identified other prominent factors unique to the United States that help account for the emergence of the American System of manufactures and its ultimate spreading throughout the economy.
+
+Ferguson ([1962](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR23)) understood the crucial role that British and European inventors and craftsmen played in the American System of Manufactures: “First, the information that came from Europe was essential, and it was used freely and without prejudice...Second, the stream of travelers going to Europe to obtain mechanical and engineering information was important...Third...geography, unlimited natural resources, economy and political climate of the new country all had a powerful influence upon mechanical developments...Fourth, the intelligence, ability and self-reliance of mechanics...was certainly an important factor in the development of the tradition of ‘know-how’ ... . A final ingredient, found in the United States but not in Europe, was the freedom with which knowledge was shared and exchanged. Closed shops and mills seem to have been few and far between in the United States...”[13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn13) Thomson ([2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR54)) points to a diversity of industry networks that shared knowledge about technical problems. Although they developed separately, after about 1840 the technical knowledge spillovers crossed industry barriers as machine tools became at once more precise and more capable of working at the early stages of different industrial processes.[14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn14)
+
+It is an interesting puzzle why the technical knowledge that arose in Great Britain and other parts of Europe found a way to flourish in the United States in ways that it could not at home. No doubt, both cultural and institutional factors played a role. One important institutional difference was the patent system. The differences between the US and British patent systems—especially in terms of their implications for innovation and growth—have been explored in depth by B. Zorina Khan and Kenneth Sokoloff. In the US, patents could be acquired at a far lower cost; they were of shorter duration; they were smaller scale; they could be owned collectively by several people; they had to pass a novelty test (but not a value test); and the the government published the technical specifications of each invention. The latter contributed not only to the spillover that we emphasize, but also to a market in licenses for patents. Thomson ([2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR54)) emphasizes that the US patent system allowed much greater diffusion of technical knowledge after developments of patenting agencies in the 1850s that helped organize the knowledge base so inventors could build on a stock of knowledge and avoid duplicating known inventions. Although it was not perfect in this regard, it appears to have been better that its counterparts abroad.[15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn15). Such a market was much less developed in Great Britain, where patents were more often issued for much larger inventions, or were granted as favors to the wealthy and well connected. According to Khan and Sokoloff ([2001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR40),pp. 134–135) not only did “...U.S. institutions perform well in stimulating inventive activity. Not only did they enhance the material incentive to inventors of even humble devices with grants of monopoly privileges for limited duration, but they also encouraged a market for technology and the diffusion of technological knowledge.”[16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn16)
+
+Evidence from patent records indicates that practical know-how was widely distributed in the early United States, perhaps because small-scale, specialized machines could be patented by citizens of modest means and no political connections. “Most of the skills and knowledge needed for patentable invention appear to have been either of general applicability or easily acquired...”[17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn17) According to Khan and Sokoloff ([2001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR40)): “... America’s distinctive patent laws were especially favorable to invention, and it was no coincidence that Britain, after nearly a quarter century of study by a series of parliamentary committees, approved a major overhaul of its patent system in 1852 to make it more like that of its competitor across the Atlantic (Dutton [1984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR22))”.[18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn18) Compared to the US system, however, the British Patent system remained far less conducive to knowledge transmission and innovation until after the First World War.[19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn19)
+
+Productivity differences between the US and Great Britain were still apparent in the 1950s. Referencing Sawyer ([1954](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR51)), who emphasized cultural and social characteristics of workers engaged in the American System, Ferguson ([1979](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR24)) notes that “...The American workman’s traits of initiative, drive, and originality, eager resort to machinery, a ‘go-ahead’ spirit, and a striving for efficiency so often noted in the nineteenth century were observed also in the twentieth century by post-World War II ‘productivity teams’ from Europe that visited the United States to learn the secret of America’s astounding war record of industrial production.”[20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn20)
+
+Another factor that contributed to the shift to specialized machines and standardized parts was the lack of craft skill in the population. Boorstin ([1965](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR14)) discusses the emergence of the new system in such terms: “The purpose of the Interchangeable System, Eli Whitney himself explained, was ‘to substitute correct and effective operations of machinery for that skill of the artist which is acquired only by long practice and experience; a species of skill which is not possessed in this country to any considerable extent. The unheralded Know-how Revolution produced a new way, not only of making things, but of making the machines that make things. It was a simple but far-reaching change, not feasible in a Europe rich in traditions, institutions, and vested skills...’ [T]he scarcity of craft skills set the stage for a new nearly craftless way of making things.”[21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn21) It is not that craft skill did not exist; as Thomson ([2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR54)) notes, it was critical early on in the design, improvement, and production of machine tools that were precise enough to handle the tasks necessary for American System production. It was not widespread, however, and depended at first on immigrants from England, Ireland and Germany.[22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn22)
+
+Another result of the American System was that the _nature_ of education changed. Boorstin ([1965](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR14)) provides an explanation of the different types of education necessary for successful production on either side of the Atlantic: “The new ‘Uniformity System’ broke down the manufacture of a gun or of any other complicated machine to the separate manufacture of each of its component pieces. Each piece could then be made independently and in large quantities, by workers who lacked the skill to make a whole machine...What Whitney had to offer, he well knew, was not skill but know-how: a general organizing competence to make anything...Specialized machinery was required for an unspecialized people.”[23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn23) Such a system created “... a premium on general intelligence. In the old world, to say a worker was unskilled was to say he was unspecialized, which meant his work had little value. _In America, the new system of manufacturing destroyed the antithesis between skilled and unskilled_. Lack of artisan skill no longer prevented a man from making complex products. Old crafts became obsolete. In America, too, a ‘liberal’—that is an unspecialized— education...was useful to all ...”[24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn24)(Emphasis added.) In their important book on technology and education, Goldin and Katz ([2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR30)) make a similar point: not only was education more general, it was more formal, and much more widespread than in Great Britain (see their Table 1.1). The American emphasis on liberal, general schooling is compatible with our view that specific skills became less valuable in the final, assembling stage of production.
+
+Katz and Margo ([2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR38)) describe the advent of “operatives” in much the same terms as the historians above: “Although special purpose, sequentially implemented machinery displaced artisans from certain tasks in production, the machines could not run on their own—they required ‘operatives.’ Operatives were less skilled than the artisans they displaced in the sense that an artisan could fashion a product from start to finish, while the operative could perform a smaller set of tasks aided by machinery...But operatives were not without skills—rather, it is more accurate to say that the skills they acquired were those necessary to operate productively the machinery to which they were assigned (Bessen [2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR12)). Further, skilled workers (engineers and mechanics) were still needed to install and maintain the equipment, as well as design it (and assist in its manufacture) in the first place (Goldin and Katz [1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR29)).”[25](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn25)
+
+Atack et al. ([2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR9)) are in the process of investigating the exhaustive _Hand and Machine Labor Study_ commissioned by the US Department of Labor in 1894 and completed in 1899.[26](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn26) This study made detailed comparisons of tasks and productivity that followed the conversion from hand-fitting methods to machine-assisted assembling methods. Like Rosenberg ([1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR49)) referenced above, they find that the new methods allowed much greater specialization of workers.
+
+In what follows, we construct a model that captures the revolutionary nature of the switch in industrial technology described in this section.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Production technology
+-----------------------------------------------------------------------------
+
+Final good output in the model consists of two non-storable, perfectly substitutable consumption goods, produced by distinct technologies, which we call _conventional_ and _advanced_. Both technologies combine inputs produced in an earlier stage with work effort in the _processing_ stage. The key difference is that the advanced technology economizes on human capital at both stages.[27](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn27)
+
+Figure[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig1) illustrates how the representative individual allocates one unit of time among all activities. In the top tier, the agent splits time between learning () and working (): . In the second tier, work is split between production with the conventional () and advanced () technologies: . The third and final tier shows how work effort using each technology is split between intermediate input production and final-good processing. In the conventional sector, , where  is the work devoted to producing inputs and  is the work used for processing the inputs into the final good. In the advanced sector, , where  is work used to produce inputs and  is the work in the processing stage.
+
+### Fig. 1.
+
+![Image 1: Fig. 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/95617256013c/10887_2021_9186_Fig1_HTML.jpg)
+
+Effort allocation as a percentage of the fixed total
+
+The conventional technology is given by:
+
+1
+
+where  is total output and . The quantity of each intermediate input _i_ is . These inputs are processed into the final good with _effective labor_, , where _N_ is the number of workers,  is average human capital per worker[28](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn28), and  is the effort devoted to the _skilled task_ of conventional processing. The limit in the integral  refers to the range of different intermediate goods that are used with this technology.
+
+We think of the intermediate goods  as machines or capital goods that produce inputs, but depreciate after use and must be replaced continuously. Each of the distinct inputs is produced by a different monopolistically competitive firm using only effective labor. Each firm faces the same cost function for producing the quantity  of its unique input good:
+
+2
+
+Here,  is the cost in units of effective labor and  and  are constants. The fixed cost  is necessary to establish an equilibrium, as we show below.[29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn29)
+
+Production using the advanced technology is given by:
+
+3
+
+4
+
+where the  refer to specialized machines or inputs—of which the range is —to be processed with labor  into the final good . The function  gives the effective-labor cost of producing  units of the intermediate input. The function  is explained below.
+
+The advanced technology is similar to the conventional technology, but there are two differences. First, human capital _h_ does _not_ increase the productivity of labor  in _assembling_ the inputs into final goods [Eq. ([3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ3))]. Second, it is cheaper to produce advanced inputs  compared to their conventional counterparts. Because , it takes a smaller amount of effective labor to produce a unit of any specialized machine input [Eq. ([4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ4))]. Human capital is highly productive in the first stage of the advanced sector. As we noted in the Introduction, human capital was necessary to perfect, design, produce, and maintain the new machinery, even though the assembling of standardized parts into final goods by operatives required less skill (Goldin and Katz [1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR29)).
+
+The specification of the _S_ function is guided by two considerations: history and equilibrium.
+
+First, we want the _S_ function to reflect a key feature of the American System that we highlighted in Sect.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec2): the free flow of knowledge across industries. To make this operational, we assume that _S_ in ([4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ4)) is a function of relative human capital employed in the _conventional_ economy:
+
+5
+
+Not only is the cost of producing advanced machine inputs lower, it benefits from a _knowledge spillover_ from conventional processing. This spillover is more effective the larger is the ratio . We locate the source of the external effect in work performed using the conventional technology  because the skilled tasks there occur in _both_ the input stage and the processing stage. This experience helps workers learn how to create _advanced_ inputs—specialized machine tools—because they are familiar with the difficulty of skilled fitting and the nature of the assembling that must be done. As noted in Sect.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec2), workers using the conventional technology perform _all_ the tasks, from start to finish, which gives them the necessary insight to innovate at low cost to replace skill with machines. Thomson ([2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR54)) emphasizes how important craft skill was in the development of machine tools that were precise enough to allow the method of interchangeable parts to advance.[30](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn30) Ferguson ([1962](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR23)) notes that, early on, much of this kind of technical knowledge came with skilled immigrants from Great Britain and other parts of Europe. We also documented in Sect.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec2) that the _sharing_ of technological know-how across markets was a key feature of American industrial culture. The unpriced spillover raises the productivity of human capital in producing intermediate goods for advanced processing.[31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn31)
+
+The spillover is asymmetric: it affects the cost of new, advanced inputs, but not the cost of conventional inputs. This relative advantage arises precisely because we assume, consistent with the historical narratives in Sect.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec2), that the conventional technology is subject to technological limits that are overcome by the advanced technology.
+
+The second consideration for _S_ is that it establish a stable equilibrium within a system with two increasing returns production sectors. To do so in a tractable manner, we specify the _S_ function as follows:
+
+6
+
+where:
+
+7
+
+with . The _S_ function in ([6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ6)) exceeds unity for all relevant values of effort and human capital. The form of the expressions in ([6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ6)) and ([7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ7)) are chosen to facilitate the analysis of momentary and dynamic equilibrium. The important features of the _S_ function are that it exceeds 1 and rises when human capital _h_ rises; but falls as labor in advanced processing  increases. Below, in Sect.[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec6), we will have more to say about this function, the stability of equilibrium, and the interpretation of the constant .
+
+The two final goods are perfect substitutes in consumption and output is non-storable, so aggregate consumption is . Population and the number of workers are the same, so per capita consumption and output are given by: .
+
+We refer to the sum of the effort engaged in tasks that benefit from human capital—and highlighted in the third tier in Fig.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig1)—as _skilled work effort_: . Firms producing inputs for conventional processing ( goods) are different from those producing inputs for advanced processing ( goods)—and, once produced, the intermediate quantities  and  are not interchangeable.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Learning technology
+---------------------------------------------------------------------------
+
+Individuals devote time to learning  to accumulate human capital. We assume the following accumulation technology:
+
+8
+
+where  and  is the population growth rate. Population growth  enters ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ8)) because we assume that it is necessary to spend learning time to educate the newly born. The variable _L_ is defined as:
+
+9
+
+where . The productivity of learning time  is enhanced by one’s own human capital _h_ and a positive _specialization spillover_ represented by  that captures the degree of economic specialization as in Goodfriend and McDermott ([1995](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR31), [1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR32)). We assume decreasing returns with respect to one’s own human capital because limited human capabilities make it increasingly difficult for an individual to increase own specialized knowledge. Economic development, however, raises the degree of specialization and offsets the decreasing returns to accumulation, making constant growth possible.
+
+The parameter  weights the degree that learning productivity is enhanced by intermediate inputs designed for advanced processing  relative to intermediate inputs designed for conventional processing . The parameter  controls the strength of the specialization spillover  relative to own human capital. Finally, the weighted range of specialized inputs is deflated by aggregate hours worked  to reflect the negative effect of congestion on the learning externality.[32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn32)
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Sectoral equilibrium
+----------------------------------------------------------------------------
+
+We solve for the static equilibrium in stages, beginning with the sector that uses the conventional technology. We take  in Fig.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig1) as given, along with the stocks _h_ and _N_, and explain how to find  and , as well as factor prices and output levels. Then we do the same for the sector that uses the advanced production technology.
+
+Final-good firms hire labor  on a competitive market and purchase the  distinct intermediate inputs, each from a different monopolistically competitive firm. The intermediate firms compete for labor from the same pool as the final firms, and produce the input in quantity  to maximize their profit, taking the wage as given.
+
+The labor market is competitive so the wage of a unit of _effective_ labor —which we call the _base wage_—will be equal to the marginal product of effective labor. Using the production function ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ1)) and the symmetry of intermediate firms, this yields:
+
+10
+
+Here,  stands for the quantity of each of the intermediate inputs. The base wage rises with  because labor processes all of the different inputs into the final good. The actual wage of a worker  is the product the base wage  and that worker’s human capital, _h_: . We call this the _skilled wage_ of a worker with human capital _h_.
+
+Final firms also demand the input . They are willing to pay , which reflects the marginal product of each :
+
+11
+
+Intermediate firms exploit this demand for their goods and produce the quantity  to maximize their profit——taking the base wage  as given. Substitute ([2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ2)) and ([11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ11)) into the profit expression, then take the derivative with respect to , and set to zero, to see that the price is a mark-up over marginal cost .
+
+12
+
+We can solve for the equilibrium values of , , and the allocation of work time between the two activities,  and , as functions of the effective labor supply  and the number of intermediate firms . We leave the details to Appendix[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec14). If, however, intermediate-good firm profits are positive, new firms will enter to produce a new input and extend ; or, if profit is negative, existing firms will exit, reducing . In the final equilibrium, intermediate firms’ profit is zero. This is the equilibrium we use in the rest of the paper. In that equilibrium (see Appendix[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec14)) every input is produced in the same fixed quantity:
+
+13
+
+and labor is allocated proportionally to the two stages of production:
+
+14
+
+15
+
+Free entry of intermediate firms means that the number of such firms is endogenous. As explained in Appendix[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec14), in equilibrium  is:
+
+16
+
+Scale in the form of the total amount of e _ffective labor_ increases the degree of specialization  and the base wage in ([10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ10)). To find the equilibrium base wage, take ([10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ10)) and substitute the equilibrium values for _x_, , and  found in this section to yield:
+
+17
+
+so the skilled wage is:
+
+18
+
+where:
+
+19
+
+The base wage ([17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ17))_rises_ with an increase in  or _N_—after we endogenize —unlike the effect in ([10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ10)), where  is held fixed. Since  rises when scale increases—as new intermediate firms enter the market—the net effect on the base wage is positive. The effect of _h_ on _skilled_ wages  in ([18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ18)) is even stronger, since there is a proportional productivity effect that must be added to the scale effect.[33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn33)
+
+The equilibrium of the sector that uses the advanced technology is similar to that of the conventional sector. As above, the demand for  and  by final-good firms is based on equalizing the factor price and the marginal product. Using ([3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ3)) we have:
+
+20
+
+21
+
+where  is the wage of those the performing the processing—or _assembling_—task that does not require skill and  is the price of advanced inputs.
+
+Workers that perform tasks that do require skill—that is, the production of intermediate inputs—earn the skilled wage, which is the product of the _advanced base wage_ and one’s own human capital _h_. That is, the skilled wage here is . All workers possess the same amount of human capital and can perform all tasks equally well, so they must earn the same wage if both kinds of tasks are done:
+
+22
+
+The base wage—the compensation for a unit of skilled effort —for the advanced technology is therefore . Intermediate firms in advanced processing take the base wage  as given and choose the price  to maximize profits . Using ([4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ4)) and ([21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ21)), this yields:
+
+23
+
+The mark-up for advanced intermediate producers is smaller than for the conventional producers because .
+
+As with conventional firms, in the zero-profit equilibrium, all firms produce  given in ([13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ13)). Likewise, the allocation of work effort is split proportionally:
+
+24
+
+25
+
+The equilibrium range of advanced inputs (see the development in Appendix [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec14)) depends on scale, but also on the knowledge spillover:
+
+26
+
+Since , for the same scale as measured by effective labor, the advanced sector would have a greater variety of inputs. This increased degree of specialization from the new system was emphasized by Rosenberg ([1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR49)) and later noted by Atack et al. ([2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR9)) as a conclusion of the _Hand and Machine Labor_ study of 1899.
+
+The equilibrium wage for labor in the advanced sector is found by using the equilibrium values for , , and  in ([20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ20)):
+
+27
+
+where _B_ is given by ([19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ19)). Human capital _h_ raises the unskilled wage proportionally since employers of final-good assemblers must compete with intermediate firms who are hiring the same workers into skilled positions. The knowledge spillover _S_ also raises the wage proportionally because it reduces the cost of intermediates, increasing input variety  and labor productivity.
+
+In keeping with the historical narrative of US growth (Ferguson [1962](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR23); Romer [1987](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR45), [1996b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR47); Rosenberg [1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR49), [1981](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR50)), our production structure demonstrates increasing returns to scale for both technologies. There are, however, two key differences, also in keeping with our reading of history. First, the assembling stage of the advanced technology does not benefit from human capital in the form of skill; human capital is critical for producing the specialized machine inputs, but not the final good. Second, human capital employed in the _conventional_ sector increases the productivity of specialized machinery (intermediate inputs) in the advanced sector through . Craft skill, both indigenous and European, was critical for getting the new technology underway. This spillover plays a key role in determining the momentary equilibrium that we describe next.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Momentary equilibrium
+-----------------------------------------------------------------------------
+
+In the previous section, we derived the equilibrium in each sector in isolation, as if the other sector did not exist. In this section, we bring the two together to consider the general static equilibrium by allowing labor to move between sectors to equalize wages. In terms of Fig.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig1), the amount of work  is still considered exogenous, but wage equalization now determines the sectoral allocations  and . We also continue to consider _h_ and _N_ to be exogenous, but will be able to analyze the effects of secular increases in both state variables on the allocation of labor and the magnitude of per capita output.
+
+Figure[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig2) illustrates the momentary equilibrium. The locus labeled  shows the conventional skilled wage as a function of work effort in the _advanced_ sector . It is derived from ([18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ18)) after substituting  for , yielding:
+
+28
+
+where _B_ is given in ([19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ19)). The  locus is downward sloping and concave to the origin; as work effort leaves the conventional technology and moves to the advanced technology, the conventional wage falls because of increasing returns to scale.
+
+### Fig. 2.
+
+![Image 2: Fig. 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/ed7b8401071c/10887_2021_9186_Fig2_HTML.jpg)
+
+Momentary equilibrium in the labor market
+
+The locus labeled  shows the wage of workers performing the operative task of assembling in the advanced sector. It is graphed as a function of  as well, and is derived from ([27](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ27)) after substituting  for  and  from ([24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ24)) into the definitions of _S_ and  in ([6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ6)) and ([7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ7)). This results in:
+
+29
+
+The  locus is also _downward sloping_ and concave to the origin. The reason for this is crucial to the working of the model in equilibrium. It is true that the advanced sector demonstrates increasing returns to scale _for a given value of_ _S_, but as  expands,  falls because of the decline in  that must occur as labor reallocates away from conventional production and towards the advanced technology. As  falls, the cost advantage _S_ of producers of intermediates for the advanced technology falls, reducing the demand for labor.
+
+The momentary equilibrium is Point E in Fig.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig2). Equations ([28](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ28)) and ([29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ29)) can be used to show that  where they cross, which means that the loci can only cross once. This also means that the equilibrium at E is stable with respect to shocks to .[34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn34)
+
+Rising human capital is the major driver of economic progress. When _h_ rises, the advanced sector expands at the expense of the conventional sector, and wages rise in both sectors. To see this, note that the ratio of wages, for a given  ratio, can be expressed as:[35](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn35)
+
+30
+
+The second equality reveals that at the original labor allocation, an increase in _h_ raises the  curve more than the  curve, so the new equilibrium lies to the northeast of Point E in Fig.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig2). It does so because the externality means that _h_ has a stronger effect on the productivity of labor in the advanced sector compared to its direct effect in the conventional sector. In the new equilibrium, wages are higher and the share of advanced output  rises. The locus labeled “EP” shows the series of equilibria that result from a continuous increase in _h_.[36](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn36)
+
+The ratio of wages when  depends only on : . When  is small—and  is large—there is a wage advantage in favor of firms utilizing advanced processing because the relatively large value of _S_ keeps input costs low. In this way, the American System could be introduced initially at small scale, even though the advanced technology would benefit over time from increasing returns to scale and specialization through _h_ and _N_.
+
+In equilibrium, . Set ([30](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ30)) to 1 to see that _in equilibrium_ the ratio of work effort in the advanced sector relative to the conventional sector is:
+
+31
+
+where  stands for the value of the _f_ function in static equilibrium. In equilibrium, the ratio  is proportional to _h_, where the factor of proportionality is the constant . That is, labor allocations  and  adjust to clear the market in such a way that the spillover function  always returns to the constant . Because of this, we can think of  as the equilibrium value of factor productivity in the advanced sector .
+
+In what follows, we only consider positions of momentary equilibrium.
+
+It turns out that in equilibrium almost all of the variables we are interested in, like labor allocations, depend on the ratio , and not on _h_ and  separately. The ratio ([31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ31)) and the constraint  mean that sectoral effort  and  are proportional to total effort  where the factor of proportionality depends only on _q_:
+
+32
+
+33
+
+From ([14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ14)), ([15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ15)), ([24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ24)), and ([25](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ25)) we see that within each sector effort allocations are also proportional to . For example, ([25](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ25)) and ([33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ33)) give us:
+
+34
+
+There are similar expressions for , , and . Other key ratios also depend only on _q_ and parameters:
+
+35
+
+36
+
+37
+
+As noted from Fig.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig1), we define  to be the labor engaged in skilled tasks. We define the function  because it appears in the dynamic analysis. Note that as the ratio  rises, the advanced technology increases its share of output; the variety of advanced intermediate inputs increases relative to conventional inputs; and skilled labor declines as a share of the total.
+
+In equilibrium, per capita output is derived by imposing symmetry of inputs on ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ1)) and ([3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ3)):
+
+38
+
+This can be written more compactly as:[37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn37)
+
+39
+
+where _B_ is given in ([19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ19)). Expression ([39](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ39)) shows that per capita output _y_ benefits from increasing returns to , _h_, and _N_, separately, all working through scale via increasingly specialized intermediate goods.[38](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn38) We note that _y_ depends on _h_ as well as .
+
+In this section we have characterized the static equilibrium of the economy, which demonstrates increasing returns to scale. Population raises output per capita, but does not disturb the allocation of labor or relative size of the advanced sector. An increase in human capital, however, not only raises output per capita but also causes labor to move out of conventional industries into those using the advanced technology. The knowledge spillover is instrumental for this result and the system’s stability. The demand for skilled tasks declines as the advanced sector grows, even though skill and human capital are critical in the first stage of advanced-sector production, where inputs are designed and produced. They are much less useful, however, in the second, assembling stage of production where operative tasks require labor with less skill.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Dynamic equilibrium and growth
+--------------------------------------------------------------------------------------
+
+The last stage in the solution process is to derive the dynamic equilibrium based on household optimization. The infinitely-lived representative household maximizes:
+
+40
+
+by choosing per capita consumption _c_, the four work effort allocations , , , and , and learning time , where  is instantaneous utility,  is the subjective rate of discount, and exogenous population growth is . We normalize initial population  and household size to unity. Individuals consider base wages— and —to be given along with the wage for unskilled tasks . Accumulating _h_ allows them to increase their actual wages  and  in a manner that appears to be proportional, but in equilibrium is actually more-than-proportional because base wages are affected positively by aggregate effort.
+
+The first-order conditions for the optimization problem are set out in Appendix[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec15). In the dynamic system, there are two differential equations. First, the learning technology, ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ8)) and ([9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ9)), governs the change in _h_ over time. Second, the shadow utility price  of human capital must change constantly to equate the cost and benefit of accumulating human capital: , where  is the Hamiltonian equation for the optimization problem. Finally, we require the transversality condition:
+
+41
+
+which assures that the utility value of the stock is zero by the end of time. The representative household takes economy-wide averages  and  as given. We impose aggregate consistency, after the maximization, so that in the dynamic equilibrium the representative household’s choices match economy-wide averages:  and .
+
+We combine the first-order conditions in Appendix[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec15) with the conditions of momentary equilibrium to determine the equilibrium allocation of time between work and learning. This split depends on the state of the economy described by per capita human capital _h_ and its shadow price . It is a bit easier to work out the dynamics in terms of two related state variables:  and . We shall refer to _q_ as “human capital” (since  is a constant) and to _z_ as the “value of human capital” ( is the price).
+
+We can write the accumulation equation in ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ8)) as
+
+42
+
+Here, the _learning productivity_ can be expressed as:
+
+43
+
+where:[39](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn39)
+
+44
+
+45
+
+and
+
+46
+
+is a constant. The composite parameter _k_ is the product of the weight () given to  in the specialization spillover ([9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ9)) and the equilibrium productivity in the advanced sector (). The sign of the derivative  as .
+
+Equilibrium work effort  and learning  depend on the learning productivity and the shadow value in a straightforward way:[40](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn40)
+
+47
+
+48
+
+This allows us to express the dynamic system compactly as follows:
+
+49
+
+50
+
+where  is given by ([37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ37)). The  equation is found by placing ([43](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ43)) and ([48](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ48)) into ([42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ42)). We leave the details of finding  to Appendix[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec15).
+
+To achieve a maximum, the representative household must select an initial  for a given initial , then follow the  system of first-order differential equations ([49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ49)) and ([50](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ50)) thereafter, and satisfy transversality ([41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ41)) at infinity. The choice of  is generally unique—there is only one that will satisfy transversality.
+
+We use the _q_ and _z_ motion equations to derive two stationary loci in  space. Figure[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig3) illustrates. The HH locus, where , is found by setting ([49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ49)) to zero and solving for _z_:
+
+51
+
+The motion of _q_ relative to this locus is _unstable_: if _q_ is above the locus, it keeps increasing; if _q_ is below the HH locus, it falls. The ZZ locus, where , is found by setting ([50](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ50)) to zero:
+
+52
+
+The motion of _z_ relative to the ZZ locus is also unstable. Both of these loci become horizontal as  because, from the definitions ([45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ45)) and ([37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ37)), we know that  and . Using these limiting values, we see that the ZZ locus ([52](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ52)) becomes horizontal at:
+
+53
+
+as _q_ tends to infinity.
+
+### Fig. 3.
+
+[![Image 3: Fig. 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/5ce5d15fd155/10887_2021_9186_Fig3_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7902180_10887_2021_9186_Fig3_HTML.jpg)
+
+Perpetual growth in _h_
+
+Different growth regimes are possible, depending on the values of the parameters and the initial value of human capital, . We focus on the regime that guarantees perpetual growth in per capita human capital because, as we show in Appendix[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec16), it is the only growth regime consistent with the historical record. Figure[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig3) shows that the ZZ stationary locus (dashed) lies above the HH stationary locus for all _q_. This is necessary for perpetual growth. Between the two loci, _z_ is falling and _q_ is rising. The initial  must be chosen so that the optimal path—labeled PP—navigates between these two loci forever, but it gets arbitrarily close to the ZZ locus as _q_ gets large. If it did not, the  pair would go to either infinity or zero (in finite time), violating transversality ([41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ41)). As long as ZZ lies above HH for all values of , there exists a path along which _z_ approaches the constant  and _q_ grows forever.
+
+In the long run, _z_ is constant and the growth rate of _q_—and of _h_—converges to a constant rate from above. To find the growth rate to which _q_ converges, substitute ([53](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ53)) into ([49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ49)), and use the limiting values of  and  to get:
+
+54
+
+Substitute the same limit values into ([47](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ47)) to see that total work effort converges to the constant:
+
+55
+
+The growth of conventional output  in the long run is due only to population growth  via increasing returns to specialization:[41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn41)
+
+56
+
+The growth of advanced output converges to:[42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn42)
+
+57
+
+Advanced sector growth exceeds that of the conventional sector and eventually absorbs all of the growth of human capital, and even though output produced conventionally never stops growing, it becomes an ever smaller share of total output.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Calibration
+-------------------------------------------------------------------
+
+To simulate the model, we need four primary parameters—, ,  and —and two composite parameters, _A_ and _k_.
+
+We set US population growth to its historical average , and the rate of utility time preference to , a standard value.
+
+To set —the share of output paid to intermediate specialized machinery—we are guided by the data from the nineteenth century _Census of Manufactures_ collected by Jeremy Atack and Fred Bateman (see Atack and Bateman [1999](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR8)). This data was taken from a random sample of establishments collected in the Census years of 1850, 1860, 1870 and 1880. It has data on the value of output, the value of raw materials, and the wage bill. We assume that payments to specialized capital can be roughly measured by the value added minus the wage bill—where value added is output value less the value of raw materials. This is probably an overestimate, since it would also contain profit and rent. In any case, by this measure, the share of intermediate payments in value added is fairly steady over the period, but does rise from .46 to .57. Therefore, we set our baseline value at  but consider lower and higher values later.[43](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn43)
+
+The parameter  in ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ8)) controls the strength of the positive specialization spillover in ([9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ9)). We calibrate  in an indirect way: it is chosen to eliminate the effect of population growth on per capita output growth (the “weak scale effect”) in a predominantly conventional economy. There are three parts to this strategy. First, consider Table[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab1), which shows the _operative share_ data taken from the _Historical Statistics of the United States_, Millennial Edition.[44](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn44) As described earlier, operatives were a new class of worker that emerged in the American System—a worker with limited skill that assembled intermediate inputs into final goods. We take the share of operatives in the data to correspond to the ratio of unskilled to total work in our model: . From 1860 to 1900 this share was about 13%. This fact, combined with ([35](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ35)) and ([34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ34)), means that the conventional economy was still large in that period, about 74% of the total GDP.[45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn45) Second, there appears to be no effect of population growth  on  in this period. A simple regression of  on  and its lagged value show a small, insignificant coefficient. Third, in Appendix[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec18) we derive the expression ([94](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ94)) for the growth rate in a purely conventional economy. Differentiate that expression with respect to  and set to zero to reveal that . Given our baseline calibration for , the baseline value for  as well. We will also consider lower and higher values of  in the sensitivity analysis.[46](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn46)
+
+### Table 1.
+
+Operatives in the total work force
+
+| Year | Workers | Operatives | Operative share |
+| --- | --- | --- | --- |
+| 1860 | 8,160,752 | 975,641 | 0.120 |
+| 1870 | 12,004,238 | 1,527,567 | 0.127 |
+| 1880 | 16,478,927 | 2,273,682 | 0.138 |
+| 1890 | NA | NA | NA |
+| 1900 | 27,554,085 | 3,824,089 | 0.139 |
+| 1910 | 36,236,003 | 5,809,146 | 0.160 |
+| 1920 | 40,113,274 | 6,352,824 | 0.158 |
+| 1930 | NA | NA | NA |
+| 1940 | 47,584,238 | 8,586,887 | 0.180 |
+| 1950 | 56,973,749 | 11,489,205 | 0.202 |
+| 1960 | 63,870,595 | 11,843,724 | 0.185 |
+| 1970 | 76,270,515 | 13,601,511 | 0.178 |
+| 1980 | 97,378,407 | 14,334,201 | 0.147 |
+| 1990 | 115,083,094 | 13,373,392 | 0.116 |
+| Source: Historical Statistics of the United States |
+| Millennial Edition (2006, Table Ba1033–1046,Vol. 2, page 2–133) |
+
+The last parameters are the two composite parameters, _A_ and _k_ that appear in ([44](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ44)) and ([45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ45)). Our objective is to find the  pair that best matches _simulated_ operative shares to _historical_ operative shares in Table[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab1). To calibrate  we work with the dynamic system in _q_ and _z_ in ([49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ49)) and ([50](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ50)). The initial _q_ itself depends on the historical operative share, which we can see by dividing ([34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ34)) by  and solving for _q_:
+
+58
+
+We restrict the operative share data in Table[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab1) to the _eight observations before 1960_. As noted in the Introduction, operative work was concentrated for decades in manufacturing. Operatives with limited skills were identified clearly as working to assemble final goods with interchangeable parts and specialized machines. The reported operative share data therefore probably corresponds fairly closely to the model’s ratio of unskilled processing labor to total work into the first part of the twentieth century. Later, however, our theoretical model regards operative work more broadly—to encompass also the portion of unskilled work outside of manufacturing where individuals make use of sophisticated intermediate good technology (such as communication devices, computers, and artificial intelligence). From our broader theoretical perspective, as American System technology diffused and became more sophisticated, operative shares as typically reported in Table[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab1) increasingly underestimate the theoretical ratio of unskilled processing work to total work. For this reason, we only use the data in Table[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab1) through 1950.
+
+We use a pairwise method to find the  pair that best matches simulated and actual operative shares. First, we find the region in  space that guarantees that the economy will grow forever, as in Fig.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig3). Within that region, we set up a fine grid over which to search. The details of the region and grid are explained in Appendix[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec16).
+
+There are 8 yearly observations on the operative share, which gives us  unique _pairs_ of yearly observations; for example 1860/1880. For each pair, let the earlier year be the “base year” and the later year be the “target year”. We find an  parameter set for each of the 28 paired observations with the following sequential method: (1) select the base year, say, 1860 and the target year, say, 1910; (2) determine the initial condition on the state  by substituting the base-year historical operative share from Table[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab1) into ([58](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ58)); (3) pick an arbitrary  pair in the grid and simulate the model;[47](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn47) (4) measure the squared deviation of the simulated target-year operative share from the historical target-year operative share; (5) repeat for each of the  points in the grid; (6) choose the  value that provides the lowest squared deviation for that base/target pair. Take another base year and target year; repeat until we have 28 different calibrated  values.
+
+Once we have the 28 different  calibrations[48](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn48), we aggregate them by taking the median and average values of _A_ and _k_ separately. For the median the values are  and ; for the average the values are  and . We use the _median values_ in the simulations of growth rates and labor allocations in the next section.
+
+It is worth emphasizing that our methodology for calibrating the six model parameters—, , , , _A_, and _k_—only uses data from the late nineteenth century from the _Census of Manufactures_ and the data on operative shares from the _Historical Statistics of the United States_ from 1860 to 1950.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Simulating transitional growth
+--------------------------------------------------------------------------------------
+
+The paths of the log of per capita product for the US and Great Britain are shown in Fig.[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig4). Trend growth in the US appears to be much the same over any historical period, in spite of considerable short-term fluctuation. Growth in Great Britain, on the other hand, seems to have two distinct trends, one before 1950 and the other after that. Trend growth in the first period was much lower, even though Britain was a richer country than the US until the early twentieth century. One interpretation is that the new production methods in America allowed faster growth, at least at first, before the American System spread to Europe and then to the world.[49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn49)
+
+### Fig. 4.
+
+[![Image 4: Fig. 4](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/aa62bff93946/10887_2021_9186_Fig4_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7902180_10887_2021_9186_Fig4_HTML.jpg)
+
+Per capita GDP in the US and Great Britain, 1860–2016 (Natural Logarithm)
+
+There is no closed-form expression for per capita output growth during the transition, so we utilize the numerical method described in Appendix [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec17) to simulate growth to compare it to actual growth. The parameters of our baseline calibration are displayed in the first three rows of Table[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab2). The lower portion of Table[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab2) presents the baseline simulated growth rates and effort allocations periodically from 1860 to 2200 and in the limit of time. Figure[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig5) shows the simulated baseline path of per capita output growth drawn against various historical benchmarks: the whole period of 1860–2016 (the Grand Mean), the period before the Great Depression (1860–1930), and the period after the Second World War (1950–2016), where the last two periods are subdivided into equal-length sub-periods.
+
+### Table 2.
+
+_G\_med_ baseline parameters and simulated paths
+
+|  |  | _Calibrated values_ |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | 0.5 |  |  | .50 |  |  |  |
+|  |  | 0.013 |  |  | 0.053 |  |  |  |
+|  |  | 0.03 |  |  | 3.090 |  |  |  |
+
+|  |  | _Simulations_ |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | 1860 | 1900 | 1950 | 2000 | 2100 | 2200 |  |
+| (1) |  | 1.78 | 1.85 | 1.90 | 1.91 | 1.76 | 1.57 | 1.31 |
+| (2) |  | 2.39 | 2.45 | 2.45 | 2.37 | 2.00 | 1.67 | 1.31 |
+| (3) |  | 1.59 | 1.58 | 1.53 | 1.40 | 1.07 | 0.84 | 0.65 |
+| (4) |  | 0.80 | 0.86 | 0.93 | 0.96 | 0.93 | 0.83 | 0.66 |
+| (5) |  | 0.24 | 0.30 | 0.41 | 0.52 | 0.74 | 0.87 | 1.00 |
+| (6) |  | 0.12 | 0.15 | 0.20 | 0.26 | 0.37 | 0.44 | 0.50 |
+| (7) |  | 0.88 | 0.85 | 0.80 | 0.74 | 0.63 | 0.56 | 0.50 |
+| (8) |  | 0.68 | 0.68 | 0.69 | 0.71 | 0.74 | 0.76 | 0.79 |
+| (9) |  | 0.32 | 0.32 | 0.31 | 0.29 | 0.26 | 0.24 | 0.21 |
+| (10) |  | 0.08 | 0.10 | 0.14 | 0.18 | 0.27 | 0.33 | 0.39 |
+| (11) |  | 0.26 | 0.24 | 0.21 | 0.17 | 0.10 | 0.05 | 0.00 |
+| (12) |  | 0.60 | 0.58 | 0.55 | 0.52 | 0.46 | 0.43 | 0.39 |
+
+Rates in Rows (1)–(4) are continuous multiplied by 100
+
+### Fig. 5.
+
+[![Image 5: Fig. 5](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/6d8fd0e28a77/10887_2021_9186_Fig5_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7902180_10887_2021_9186_Fig5_HTML.jpg)
+
+U.S. growth rates and the simulated growth path
+
+The average value of the simulated growth path  shown in Fig. [5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig5) is 1.875% from 1860 to 2016[50](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn50). Over the same period, the time trend based on realized per capita product in the United States was slightly higher at 1.88%.
+
+Growth over the long transition in our simulated model is driven by the growth in human capital, which directly raises the standard of living, but also causes the advanced technology to expand at the expense of the conventional technology. These forces result in _nearly_ constant growth—but our model duplicates the historical pattern of rising, then falling, growth.[51](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn51)
+
+The growth rate of human capital can be expressed as , where  is the reduced form of the learning productivity  in ([8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ8)).[52](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn52) Over time—see Fig.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig3)—_q_ is rising, which drives learning productivity  higher by ([45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ45)), since in our calibration , but the value of human capital _z_ is falling, which tends to reduce . In our simulated path, the productivity effect dominates at first, but eventually the decline in  takes over. Human capital growth peaks in the early twenty-first century, then declines after that—see Row (4) of Table[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab2)—ending up lower than it began.
+
+As scale rises, from both population and human capital accumulation, specialization increases. The rise[53](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn53) in  and  increases per capita output immediately, but it also increases the return to learning because of our assumption that more complex economies are able to produce human capital more efficiently. It is the latter effect that shows up in . Moreover, a rising _q_ raises  [see ([36](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ36))], so that if , as seems likely with our calibration[54](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn54), then there is an even bigger boost to the productivity of learning time. However, there is steady realignment of labor: skilled-task work falls and work assigned to unskilled tasks rises. The shift in work from higher-skilled tasks to lower-skill ones is evident from the top curve in Fig.[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig6).[55](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn55) Skilled tasks  decline as unskilled tasks  rise. Workers accustomed to performing skilled tasks will increasingly find themselves doing tasks that require less skill. There may be an emotional cost to this transition. In the real economy, it is possible that workers leave the labor force because of what is perceived as a lessening of job status or losing identification with a vocation.[56](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn56) This process, we conjecture, lessens the incentive for individuals to accumulate human capital, which eventually, in spite of the greater learning productivity, leads to a fall in its rate of growth.
+
+### Fig. 6.
+
+[![Image 6: Fig. 6](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/8e8753087087/10887_2021_9186_Fig6_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7902180_10887_2021_9186_Fig6_HTML.jpg)
+
+Simulated effort allocations
+
+The simulated growth rate of per capita output , shown in Fig.[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig5), also rises then falls. Historical growth was more variable, especially after 1950, but there is an unmistakable decline in the actual rate of growth after 1983. Consider the simulated growth results shown in Row (1) of Table[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab2). Simulated growth is 1.78% in 1860, peaks at 1.91% in 2000 (the true simulated peak occurs around 1980), falls back to 1.57% by 2200, and ultimately falls _below_ its starting point to 1.31% in the limit. The hump shape seems to be due partly to the shape of the growth path of _h_ and partly to the shift of resources toward the advanced sector. In particular, work in both stages of the advanced sector () grows at the expense of work in the conventional sector ().[57](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn57) Figure[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig7) shows that the advanced sector grows fast early on, when _q_ (that is, _h_) is small and the transition out of conventional techniques is strongest. Equation ([35](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ35)) means that advanced assembling is a very small part of the economy when _q_ is small. As _q_ rises, advanced firms raise wages and attract work effort away from conventional processing. We see in Fig.[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig7) the net effect of this first growth phase is to increase the growth rate of aggregate per capita output.
+
+### Fig. 7.
+
+![Image 7: Fig. 7](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/cb091aaf9121/10887_2021_9186_Fig7_HTML.jpg)
+
+Simulated growth of conventional and advanced sector per capita product
+
+The shift from conventional to advanced processing, however, eventually slows the growth of per capita product by reducing aggregate returns to human capital. That is, taking into account the proportional effect of _h_ on  and , ([38](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ38)) shows that conventional processing exhibits increasing returns to human capital of degree  while advanced processing shows only constant returns. The ongoing shift from conventional to advanced processing reduces aggregate increasing returns to human capital: returns to human capital converge from above to constant returns, which can be inferred from ([39](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ39)), letting . As the share of advanced processing in aggregate output continues to expand, growth in per capita product peaks and begins to fall.
+
+Learning time  falls slowly through the whole period, but stabilizes in the very long run at .21. That means that human capital growth, which is increasing over the twentieth century in the simulation, does so because of the rise of productivity from the specialization spillover . We discuss the fraction of time spent learning in the next section.
+
+Finally, we employ our model to compare the actual path of output to a counterfactual history in which advanced processing technology had never been adopted in the United States. Appendix[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec18) solves for an economy in which only the conventional technology is in use. In such an economy, per capita output growth is given by , where  is the growth in human capital and is given by .[58](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn58)
+
+We assume that the calibrations for , , , , and _A_ are unchanged; and _k_ becomes irrelevant in the counterfactual since  does not exist. In particular, we assume that the fixed cost of producing intermediates, represented by _A_, and the effect of specialization on knowledge creation represented by , would have been the same if the American System had never been introduced. There are no transitional dynamics in the counterfactual, conventional-processing-only economy. Using our parameter values in the expressions above gives constant perpetual growth of per capita product of  or 1.30% per annum from 1860 forward.
+
+Figure[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig8) compares the log of per capita product from the simulation of the American System model (labeled ) to that of the counterfactual conventional-processing only economy (labeled ). These paths are constrained to begin at the historical trend value of the log of per capita output in 1860 and are run to the year 2150. Figure[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig8) also displays the actual historical path of the log of _y_ until the present and the 1.88% trend line (labeled ) taken from Fig.[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig4), but extended to 2200. Over the period shown, the counterfactual path falls farther and farther behind the simulated path, which tracks the historical record well. We know, however, that eventually the simulated path based on our model will eventually grow at virtually the same rate as the counterfactual path, although the level difference will remain. By 2000, per capita product of the simulated American System is 2.21 time _s_ as large as the counterfactual conventional-processing-only economy, and by 2100 it is more than 3 times as large.
+
+### Fig. 8.
+
+[![Image 8: Fig. 8](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/068ef2d0d20c/10887_2021_9186_Fig8_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7902180_10887_2021_9186_Fig8_HTML.jpg)
+
+Simulated, history, and counterfactual
+
+We saw earlier that Great Britain, despite its lead in manufacturing and real output per capita, was not quick to adopt the innovations of the American System in the second half of the nineteenth century. To date, its growth has averaged 1.32%. However, if we only measure growth between 1860 and 1913, the growth rate was even lower than our counterfactual at .089%. Over that period, the US grew at 1.67%. After 1950, the growth rate in the US averaged 2.00% and in Great Britain 1.98%, in keeping with our claim that the American System of Manufactures spread to Europe and beyond by mid-century.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Learning
+----------------------------------------------------------------
+
+The simulated path of —which declines steadily over time—may appear to be at odds with recent trends in labor and education, which show that the share of the labor force with a college education has increased over the last 40 years. It is also true that many jobs that used to require only a high-school diploma now require a college degree. One way to interpret these trends is that the average job now requires more skill than before, which goes against our result.
+
+We have two replies to this line of argument.
+
+The first is that human capital plays a critical role in our model by raising the productivity of labor in the production of intermediate specialized machines and electronic inputs. While the fraction of skilled work falls, it still remains at 50% of all tasks. There remains lots of work for those with skill—and in a richer model, one with two kinds of worker, we might well see an increase in the skill level of those performing skilled tasks, while those who perform unskilled tasks become even less skilled over time. That is, the decline in  in this model might occur only for some workers in a model with two kinds of labor. There is, moreover, evidence that time spent learning is actually falling relative to its highs of a few years ago. The fraction of 18–24 year olds enrolled in college—and the fraction of high-school students starting college—is slightly lower today than in 2010.[59](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn59)
+
+Second, it is also possible, that the _quality_ of education has fallen at all levels: high school and college educations may not be as rigorous for the average student as they were in the last century. If so, a college degree now may be necessary to perform tasks that do not require a lot of skill and could have been done by those with only a high-school education in the past.[60](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn60) This is one way to interpret the phenomenon known as “credential inflation” or “degree inflation”: the growing trend of requiring a university degree to even apply for a job that once required only a high-school education. The pool of college graduates, in other words, may conceal a fair number of unskilled operatives. It is interesting that _within_ the group of college-educated workers, since 2000 the fraction of high-skill occupations has fallen while the fraction of low-skill (and middle-skill) occupations has increased.[61](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fn61)
+
+Goldin and Katz ([2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR30)) document the decline in the quantity and overall quality of education in the US since about 1960, but note that it is still among the best in the world at the leading institutions.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Sensitivity
+-------------------------------------------------------------------
+
+In this section, we consider different calibrations for the three elementary parameters, , , and . Figure[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig9) shows paths of the growth rate and learning effort with these changes.
+
+### Fig. 9.
+
+[![Image 9: Fig. 9](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/0b209dda5e77/10887_2021_9186_Fig9_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7902180_10887_2021_9186_Fig9_HTML.jpg)
+
+Alternate calibrations
+
+The baseline values are , , and . The curves labeled “b” (red and dashed) correspond to these baseline values, and are the same as those shown in earlier graphs. The vertical scale is different, however, more compressed, so the movement appears greater here than in Figs.[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig7) and[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig6). Here, we change each parameter one at a time, leaving the others at their baseline values, and use our algorithm to re-calibrate _A_ and _k_ (we do not change ). The labels for the growth paths in Fig.[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig9)a are positioned at the date of the peak rate of growth.
+
+The first change is to set , to explore the sensitivity of our model to lower subjective time preference. The curve labeled “1” is drawn for the lower  (and new values of _A_ and _k_). This change, as might be expected, raises learning effort significantly and the rate of growth to some degree, but does not change the overall aspect of either path: growth rises and falls as before; learning declines throughout.
+
+We noted earlier that, based on the _Census of Manufactures_ data,  might lie anywhere from about .46 to .57, instead of our baseline value of .50. Cases “2” and “3”, respectively, set  and , while maintaining the baseline  and —that is, we maintain the constraint . Again, the overall shape of both curves (blue, dashed) are the same, but the lower  (and higher ) has a decidedly positive effect on growth except at the very beginning (path “2”). The higher  (and lower ) has a far weaker effect: growth slows a bit and the growth path flattens out (path “3”). Learning, however, is affected more positively with the higher  than it is reduced by the lower .
+
+To isolate the effect of , the exponent in the learning externality, we look at two values, one lower and one higher. Path “4” is drawn for , keeping  and . Path “5” is drawn for , again keeping  and  at the baseline. Learning is not much affected, although the higher  does reduce learning somewhat, presumably because the own return  is lower. Growth, however, rises a lot. The learning externality means that rising specialization contributes significantly to the accumulation of human capital.
+
+Different parameters do not change the basic shape of the growth path or the learning path, but they do alter both peak growth, the peak date, and asymptotic growth. Peak growth ranges from 1.78% (Path “4”) to 2.24% (“5”); the date of the peak ranges from 1963 (“1”) to 2024 (“5”); and asymptotic growth goes from a low of 1.19% (“4”) to a high of 1.80% (“5”). For comparison, note that US peak growth was 2.22% from 1950 to 1983, and average growth was 1.88% over our whole sample. All of the calibrations lead to a slowdown from the US average in the very long run.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Self-assembling and the Internet
+----------------------------------------------------------------------------------------
+
+The Internet—and the devices that have sprung up to enable its use—can be thought of as a more direct form of the advanced sector of our model. Production and consumption take place nearly simultaneously. The new information technology facilitates the _self-assembling_ of goods and especially services such as health and financial services, and entertainment, by individuals alone with little special skill. A worker buys advanced intermediate inputs, like access to the Internet and associated applications, with income earned from skilled work producing advanced inputs. Then, she pays herself an implicit wage—in direct utility—for the unskilled time spent processing goods for self consumption.
+
+To the extent that self-assembling becomes more common, we would expect to see a decline of the measured labor market participation as individuals shift work from the market to the home. Likewise, measured output would fall short of actual output (and consumption) and the short-fall would grow over time, as the processing of intermediate-Internet goods moved out of the market. This could be the beginning of a historic reversal in the age-old shift of work from home to market production. As emphasized in Goodfriend and McDermott ([1995](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR31)) pre-industrial urbanization allowed increasing returns to scale in cities and efficiency gains via outsourcing portions of the production of consumer goods. Industrialization enabled more efficiency gains, and labor market participation rates rose as household services were increasingly produced and purchased outside the home. In the future as output and consumption increasingly take the form of intangible services that can be delivered electronically, it is not hard to imagine that some production will return to the home. We have already begun to observe the emergence of these trends. As noted by Fernald et al. ([2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR26)), aside from demographics, the most important determinant of the decline in labor force participation in the last 10 years has been leisure time, which ”includes a large amount of TV watching and other video-based entertainment”. Aguiar et al. ([2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR6)) make a similar point. Nevertheless, the events surrounding the covid-19 epidemic of 2020 show that there are still strong forces pushing people together for both work and leisure.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Conclusion
+------------------------------------------------------------------
+
+The nineteenth century saw a major transformation of American manufacturing. The use of craft skill, a key form of technical human capital, migrated from producing and fitting custom pieces, to the design and production of specialized machine tools that produced simpler inputs for assembly. This development was sufficiently different and so productive that it came to be known as the American System of Manufacturing. The system appeared in America before other countries, we believe, because of structural, institutional, and cultural reasons. A relative scarcity of craft skill, combined with large scale, favorable institutions, and a culture that promoted the diffusion of ideas meant that new techniques spread rapidly—first within, then across, different industries. We incorporated these elements into a two-sector model—one sector that utilized traditional, or _conventional_, craft skill and one that used the new _advanced_ processes that economized on skill—to show that it was possible that growth would naturally slow as the need for human capital fell over time. This result relied on an important, positive knowledge spillover from the conventional sector to the advanced sector, both to get advanced production under way and to guarantee that over time the advanced sector would come to dominate not only manufacturing, but other areas of economic activity.
+
+The historical narratives of the evolution of American production that we examined emphasize the free flow of technological knowledge. Although it was helped by institutional arrangements, like a pro-growth patent system and a federal Armory network, much of it was cultural, perhaps due to the democratic ideals embedded in the nature of the society. Some historians draw an explicit contrast to Europe, in terms of the greater freedom with which technical knowledge diffused in America, but for others such a contrast remains implicit. None, however, dispute that the knowledge that made it possible arrived in the Colonies from the United Kingdom and Europe, and that immigrants from the United Kingdom and Europe played a key role in the genesis and evolution of the American System of Manufactures.
+
+Our simulated model using the baseline calibration—which relies on historical statistics on lower-skill workers operating machine tools, as well as data on value added and payments to intermediate goods—generates an average growth rate that is very close to the historical average in the United States from 1860 to 2016. The fact that the US growth rate has stayed close to it’s trend masks the fact that it rose until the 1980s and has fallen since. Our model also produces this pattern, regardless of the calibration that we use. Our explanation for the growth profile relies on the growth-enhancing effects of the compositional change toward the advanced sector followed by the growth-slowing effects of the economization of human capital. Relative to a counter-factual, and the experience of the United Kingdom, it appears that the American System has had a large positive influence on growth since 1860.
+
+The model was motivated by the historical transformation of manufacturing. We believe that the American System also penetrated into other sectors: agriculture, retail, and services, especially information and entertainment. The internet may be thought of as enabling simultaneous production and consumption of many kinds of services using sophisticated intermediate inputs combined with relatively low skill. We think our historically-grounded American System model of economic growth—with its emphasis on skill-saving intermediate goods, the widespread sharing of know-how, specialization spillovers in learning, and increasing returns to scale—can provide a useful framework to think about economic change.
+
+### Appendix 1: Zero-profit equilibrium in the conventional sector
+
+Here we provide more details of the production equilibrium for the conventional sector alone. The first step is to find the value  that each intermediate firm produces for sale to final-good firms, when  is given (along with , _h_, and _N_). To do so, we first observe that : the supply of effective labor to the intermediate firms  must equal the economy-wide demand for those inputs by all intermediate firms . Solve for :
+
+59
+
+To find , first use ([11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ11)) and ([10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ10)) to substitute for  and  in the markup condition ([12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ12)); then substitute  in the result. Finally, use ([59](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ59)) to substitute for , and solve for :
+
+60
+
+We call the function that represents intermediate output . The  function allows us to find  [using ([59](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ59))] and  as functions of  and . Because  is given at this point, we can then find  and  separately, which allows us to find , , and  using the structural equations. The value of  as a function of  is represented by the EQ locus in Fig.[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig10).
+
+#### Fig. 10.
+
+![Image 10: Fig. 10](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/6c96720c3b91/10887_2021_9186_Fig10_HTML.jpg)
+
+Monopolistically competitive equilibrium
+
+We are not going to spend time analyzing the equilibrium for a given , because when profit is positive new firms will enter the intermediate-good market and increase the number of specialized inputs. That is,  is endogenous.
+
+Given , _h_, and _N_, the ZP locus in Fig.[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig10) shows the momentary zero-profit combinations  and  in the conventional intermediate-good sector. To derive the ZP locus set profit  to zero, and substitute for , , , and  as above to yield:
+
+61
+
+The ZP locus is also downward sloping.
+
+The ZP locus crosses the EQ locus once from above. Conventional intermediate firm’s profits are positive _below_ the ZP locus, and negative above. Hence, the free-entry, zero-profit monopolistically competitive equilibrium in the conventional sector is unique and stable at point A in Fig.[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig10). Equate ([60](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ60)) and ([61](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ61)) to see that the equilibrium number of firms (range of specialization) is given by , which appears as Eq. ([16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ16)) in the text. Substitute  back into either ([60](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ60)) or ([61](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ61)) to get , which is ([13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ13)) in the text. Another way to find  is to substitute ([2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ2)) and ([12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ12)) into the profit expression  and set the result to zero.
+
+To find the equilibrium allocation of effort to intermediate production, we use ([59](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ59)) after substituting the expressions for  and . This yields  from which it follows that . These appear as ([15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ15)) and ([14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ14)) in the text. Finally, to obtain the equilibrium wage  in ([17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ17)) in the text, we use ([10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ10)) and then substitute in the equilibrium values for , , and  that we have found in this appendix.
+
+Using the corresponding equations from Sects.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec3) and[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec5), we can show that the momentary equilibrium in the advanced intermediate sector is also unique and stable. The equilibrium values are derived in the same way as above and appear in the text.
+
+### Appendix 2: Intertemporal optimization
+
+The representative household maximizes ([40](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ40)) in the text subject to two constraints, a time constraint:
+
+62
+
+and a resource budget constraint:
+
+63
+
+Individuals consider base wages— and —to be given along with the wage for unskilled tasks , even though these wages depend on aggregate effort. Accumulating _h_ allows them to increase their actual wages  and  in a manner that they perceive to be proportional.
+
+The Hamiltonian for the problem is:
+
+where  is the co-state, shadow price of _h_, we attach the constraints ([62](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ62)) and ([63](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ63)) with Lagrangian multipliers  and , and utility is assumed to be logarithmic: .
+
+The static FOC’s are as follows.
+
+64
+
+65
+
+66
+
+67
+
+68
+
+69
+
+In addition, the shadow utility price  of human capital must change constantly to equate the cost and benefit of accumulating human capital:
+
+70
+
+Finally, we require the transversality condition ([41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ41)) in the text.
+
+The representative household takes _L_ and the economy-wide averages  and  as given when undertaking the maximization. After that, we impose aggregate consistency so that the representative household’s choices match economy-wide averages:  and .
+
+As noted in the text, the solution involves two differential equations, one for  and one for . We derived ([49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ49)), the equation for , in the text. Here we show how to find ([50](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ50)), the expression for .
+
+To derive ([50](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ50)), use ([70](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ70)), along with ([64](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ64)), ([43](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ43)), and wage equalization, to get:
+
+71
+
+where  is effort in skilled tasks: . Multiply and divide the last term by _h_ and use ([63](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ63)) for _c_ to get:
+
+72
+
+The last term can be expressed as  , which can be seen from ([37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ37)) in the text. Since , we know that  . So, we add ([72](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ72)) to ([49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ49)) to obtain:
+
+73
+
+From here, we use ([48](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ48)) and simplify to get ([50](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ50)) in the text.
+
+### Appendix 3: Restricting  to support perpetual growth
+
+Two conditions on the _A_ and _k_ parameters are necessary to ensure perpetual growth. _PG_ 1 guarantees that for the _initial_ value of human capital  the ZZ locus lies above the HH locus in Fig.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig3). _PG_ 2 makes sure that the _endpoint_ of ZZ, as , lies above the endpoint of HH. If these two conditions are satisfied, then the ZZ lies above HH for _all_. We prove this informally after we discuss the region defined by these two conditions.
+
+To find _PG_ 1, set , equate ([51](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ51)) to ([52](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ52)) and solve for _k_ to get:
+
+74
+
+where  is defined in ([37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ37)). _PG1_ requires that  in ([74](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ74)).
+
+To find _PG_ 2, note that as _q_ tends to infinity, the HH locus ([51](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ51)) becomes horizontal at:
+
+75
+
+Equate ([75](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ75)) and ([53](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ53)) in the text and solve for _k_ to get:
+
+76
+
+_PG_ 2 requires that  in ([76](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ76)).
+
+Figure[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig11) shows the two boundary loci, PG1 and PG2, defined by, respectively, ([74](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ74)) and ([76](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ76)). These loci bound the perpetual growth region on the left and bottom. The figure also shows the grid within the region over which the baseline search is conducted (4233 points), as well as the calibrations for each base/target pair (small dots), and the aggregate calibrations, labeled “G_med” and “G_ave” (large red dots). Each base/target pair is well within the region—with two exceptions, those for 1860/1920 and 1870/1920. Those two dots (labeled) are right on the PG2-border of the region and the grid. Even so, the two calibrations corresponding to those points fit the model well in the sense that the _loss_ used by the algorithm is very low. That is, define the loss as:
+
+77
+
+where  is the simulated operative share using base year _b_ and target year _T_, and  is the actual operative share in target year _T_. The losses for these two points are 0.1 and 0.0, which are as small, or smaller, than the losses for the other points in Fig.[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig11). We did, however, exclude two other calibrations on the border based on losses that exceeded the norm for interior calibrations. These were for 1880/1900 (loss = 525) and 1910/1920 (loss = 11,744). All other losses were less than 1.5. Figure[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig11) only shows the 26 calibration points that were used to calculate the median and average values for _A_ and _k_.
+
+#### Fig. 11.
+
+[![Image 11: Fig. 11](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/6f4341e54112/10887_2021_9186_Fig11_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7902180_10887_2021_9186_Fig11_HTML.jpg)
+
+Region and grid (Color figure online)
+
+The remainder of this appendix explains why all calibrations that satisfy PG1 and PG2 are such that for _all_ _q_ the ZZ locus lies above the HH locus, ensuring perpetual growth.
+
+The _PG_ 1 and _PG_ 2 loci are also shown in Fig. [12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig12), where we write  as an explicit function of _q_. Only for calibrations above _and_ _PG_ 2—which we say reside in “Region P” in Fig. [12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig12)—does ZZ lie above HH for both  and as .
+
+#### Fig. 12.
+
+[![Image 12: Fig. 12](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8915/7902180/08deadc172cb/10887_2021_9186_Fig12_HTML.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7902180_10887_2021_9186_Fig12_HTML.jpg)
+
+Growth regimes in  space
+
+The above statements are sufficient to establish the proposition—that perpetual growth only occurs for values of _A_ and _k_ in Region P—since we can prove that ZZ and HH _never cross for_ _for_ _calibrations in Region P_.
+
+To show this, begin with an  calibration like Point Q or Point S and an initial . We know that ZZ is greater than HH for either calibration at  so . As _q_ rises, use ([74](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ74)), and the limiting values of  and , to show that  rotates _counterclockwise,_ as its intercept with _PG_ 2 moves _left_, in such a way that as ,  becomes indistinguishable from _PG_ 2. The arrows show the movement in  as _q_ rises. Therefore, for all , there is no  locus that passes through either Q or S, so there is no  for which ZZ and HH intersect. This is true for all calibrations in Region P when .
+
+We can make this argument for _any_ initial . The reason is that for , the  locus coincides with the vertical line labeled _CA_ in Fig.[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig12). The equation of _CA_ is , which is derived by solving ([74](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ74)) for _A_ and noting that . It follows that for any initial , no matter how small, there is a Region P for which the argument above works. If , Region P becomes bounded by _CA_ on the left and _PG_ 2 below. If , Region P is bounded below, effectively, by _PG_ 2 alone.
+
+The above observations imply that for calibrations in Region P per capita human capital growth will converge from above to a positive perpetual rate of growth. Hence, we search for  pairs in Region P in Fig.[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig12) because model simulations using these calibrations have the potential to track historical per capita product growth.
+
+There is one other region in  space in Fig.[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig12) with the potential for the simulation to hit the historical per capita product growth path. This region is to the right of _CA_ and  and to the left of _PG_ 2. Points like R support saddle-point growth of _q_. That is, Point R is in the region where (see above) ZZ is _above_ HH at  but ends up _below_ HH as . That is, ZZ cuts HH from above for the calibration given by R, establishing a saddle-point equilibrium for a value . It follows that at ,  as _q_ converges to ; but  as : human capital growth converges asymptotically from above to zero.
+
+Recall that the  locus moves leftward and rotates counterclockwise as _q_ grows. But _q_ growth slows as _q_ approaches the saddle-point equilibrium , so  asymptotically approaches but never reaches Point R. In other words, per capita human capital growth is falling toward zero in this saddle-point regime. And if R is very close to _PG_ 2, falling per capita human capital growth might be imperceptible, with the potential for the model simulation to track the nearly constant historic per capita product growth rate reasonably well.
+
+To check this possibility, we searched for  pairs that mimic perpetual growth in the region around points like R. Using the methodology from Sect.[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec8), every calibration we tried between  and _PG_ 2 (26 primary and 3 aggregated calibrations) resulted in growth in per capita product that _fell_ unmistakably over the twentieth century. In addition to this declining trend—which is not in the historical record—simulations based on these calibrations also show average growth that is between 1.6% and 1.7%, far below the actual historical average of 1.88%. We discard the saddle-point calibration because the simulated growth rates decline monotonically from 1860 to date and average only 1.65%, failing to track the historical record.
+
+Finally, consider Point T. Since T is below _and_ _PG_ 2, it must be true that . It is also true that _q_ falls forever since  can never go through Point T. This follows from our observation above that, as , the  locus moves rightward and clockwise until it coincides with the CA vertical line.
+
+There is a region of Fig.[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig12)—centered southwest of Point E but close to _PG_ 2 and CA—where a single calibration of  supports _two_ equilibria of the dynamic system. One of these is unstable and one is saddle-point stable. This must be true because, as we vary _q_, we can trace out a region in which the  loci so generated cross one another. That is, there is a region where  for . That region is confined to a relatively small area beneath _PG_ 2 and to the left of CA. In the phase plane, it corresponds to calibrations for which ZZ intersects HH twice, which is conceivable given their downward slope and convex curvature.
+
+For these reasons, we confine our  calibrations to the region supporting perpetual growth of per capita human capital in Fig.[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig12).
+
+### Appendix 4: Simulation method
+
+Here we show how, for an arbitrary  pair, we eliminate time, and find the _policy function_ that corresponds to the PP path in the phase plane of Fig.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig3). We pointed out in Sect.[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec7) that the optimal path PP gets arbitrarily close to ZZ where it is horizontal at  in ([53](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ53)) as _q_ gets large. We construct the policy function numerically by working backwards from the point  where  is an arbitrarily large value. To eliminate time, we take the ratio of ([50](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ50)) and ([49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ49)), to get . The differential equation _dz_/_dq_ allows us to work backwards from the point  to trace out the optimal PP path. We solve for this path numerically to obtain the policy function .
+
+Then, we substitute the policy function  for _z_ in ([49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ49)), which yields a differential equation in  that depends only on _q_, the six model parameters, and the initial value . We get  from ([58](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ58)) using operative share data from Table[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab1). This allows us to find the time path  using numerical methods. The time path of _z_ is obtained by substitution as . With the state and co-state as functions of time, we can find all effort allocations, output levels, and growth rates—contingent on our arbitrary choice of .
+
+We use the following steps to simulate the growth rate over time. Take the growth rate of _y_ in ([39](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ39)):
+
+78
+
+where  and  is the growth rate of _h_.
+
+To find a workable expression for ([78](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ78)), begin with . For this, we use ([49](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ49)) and the policy function . This yields:
+
+79
+
+where  is given by ([45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ45)). The policy function, recall, depends on the six calibrated parameters. From the definition of _Q_ above, we have:
+
+80
+
+where we substitute  from ([79](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ79)).
+
+To find  in ([78](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ78)), we begin with ([47](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ47)). This yields:
+
+81
+
+Use ([50](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ50)) to see that:
+
+82
+
+where  is given by ([37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ37)). The last term in ([81](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ81)) can be found by differentiating the expression for  in ([45](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ45)). This yields:
+
+83
+
+Putting all these pieces into ([78](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ78)) gives us an expression for  as a function of _q_—and of all the parameters. Call this function:
+
+84
+
+where _P_ stands for the vector of parameters. Above, we showed how to find _q_ as a function of time: . Substituting that into the  function gives us:
+
+85
+
+We use ([85](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ85)) to simulate the paths of .
+
+### Appendix 5: Counterfactual conventional-only economy
+
+If the advanced sector did not exist, the time constraint would be  and the budget constraint would be:
+
+86
+
+The learning technology ([9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ9)) becomes:
+
+87
+
+where
+
+88
+
+since . Learning productivity is still enhanced by the specialization spillover . Substitute ([16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ16)) into ([88](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ88)) to see that  is a constant. Then define . First order condition ([69](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ69)) is replaced by , but we retain ([64](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ64)) and ([65](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ65)). The first-order conditions and the constraint ([86](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ86)) yield:
+
+89
+
+It follows that:  so that the accumulation equation ([87](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ87)) is:
+
+90
+
+assuming that . The arbitrage condition ([70](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ70)) is replaced with:
+
+91
+
+where  is the Hamiltonian in this case of no advanced technology.
+
+To get the motion equation for _z_, recall that . Using the first-order conditions, along with ([90](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ90)) and ([91](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ91)), allows us to express the motion of _z_ as follows:
+
+where we assume that .
+
+The optimal policy for the representative household that satisfies the first-order conditions and transversality condition ([41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ41)) is to set  to the following constant:
+
+92
+
+There are no transitional dynamics in the conventional-only economy. Substituting  from ([92](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ92)) into ([90](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ90)) shows that the growth of per capita human capital _h_ is constant in this dynamic equilibrium:
+
+93
+
+Output per capita is given by . Substitute ([92](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ92)) into ([89](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ89)) to see that  is constant, so equilibrium growth in  and  is identical and may be inferred from ([18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ18)) as:
+
+94
+
+where  is given in ([93](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ93)).
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)Footnotes
+-----------------------------------------------------------------
+
+1
+
+See Fig.[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Fig4) in Sect.[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec9). Jones ([1995](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR35), [2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR37)) notes the steady nature of US growth, but see Gordon ([2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR33),p. 16), who notes that the growth rate was highest over the period 1870 to 1940.
+
+2
+
+Hounshell ([1984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR34)), Rosenberg ([1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR49)) and Mayr and Post ([1981](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR42)).
+
+3
+
+In Europe between 1500 and 1700, fundamental scientific, philosophical, and technical knowledge was created and widely shared through an informal institution called the _Republic of Letters_. This was an elite institution, however, small in number of participants, yet of critical importance to the onset of the Industrial Revolution that arrived later. By the nineteenth century, technical information in the form of know-how flowed much more freely in America, as we document below. See Mokyr ([2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR44),Chapter 12.)
+
+4
+
+See Aghion et al. ([2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR2)) for a summary of the recent work in this area.
+
+5
+
+The precision manufacturing process for guns using interchangeable parts was first put into operation by Honoré Blanc’s French system in 1785. The revolution in France prevented its adoption. However, Thomas Jefferson, then United States Minister to France, observed the idea and encouraged American gunsmiths to adopt the new system. See Winchester ([2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR56),pp. 86–92, and Chapters 3 and 4).
+
+6
+
+Rosenberg ([1969](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR48), ed., p. 1), and Hounshell ([1984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR34),Chapter 1, pp. 15–65) and Appendix 1: “The Evolution of the Expression the American System of Manufactures,” pp. 331–336.
+
+7
+
+Rosenberg ([1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR49),p. 94).
+
+8
+
+Rosenberg ([1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR49),pp. 95–96).
+
+9
+
+Rosenberg ([1969](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR48),p. 72), Burke ([1978](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR16),pp. 146–151), Mokyr ([2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR43),pp. 38–44), and Thomson ([2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR54),p. 322).
+
+10
+
+Rosenberg ([1969](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR48),pp. 78–79).
+
+11
+
+Rosenberg ([1969](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR48),p. 79).
+
+12
+
+Rosenberg ([1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR49)), Hounshell ([1984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR34)), Romer ([1996b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR47)), and Winchester ([2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR56)).
+
+13
+
+Ferguson ([1962](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR23),p. 15).
+
+14
+
+See Thomson ([2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR54), especially Chapter 3, and p. 260).
+
+15
+
+See Thomson ([2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR54),Chapter 7, especially pp. 209–214).
+
+16
+
+In a similar vein, David ([2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR20),p. 13) notes that in Europe: “Before the seventeenth century, the typical objective of the grant of an industrial “patent” was not to stimulate “invention” in modern sense of the term; rather it was to elicit the migration of foreign artisans into the grantor’s dominion, and establish therein a craft that was already known elsewhere.”
+
+17
+
+Sokoloff and Khan ([1990](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR52),p. 372).
+
+18
+
+Khan and Sokoloff ([2001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR40) p. 234). Also see Khan ([2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR39),Chapter 2).
+
+19
+
+See Khan ([2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR39),p. 38).
+
+20
+
+Ferguson ([1979](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR24),p. 11).
+
+21
+
+Boorstin ([1965](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR14),p. 3 and Chapter 5).
+
+22
+
+See Thomson ([2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR54), especially Chapter 2, and p. 322).
+
+23
+
+See Boorstin ([1965](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR14),pp. 31–33).
+
+24
+
+See Boorstin ([1965](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR14),pp. 33–34).
+
+25
+
+Katz and Margo ([2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR38),p. 17).
+
+26
+
+See US Department of Labor ([1899](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR55)).
+
+27
+
+See Zeira ([1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR57)) for a different model in which the same good is produced with two distinct technologies.
+
+28
+
+Although this is a representative agent model, we make a distinction between the economy’s average human capital —which the individual does not regard as something she can influence over time—and the individual’s own human capital _h_, which she believes she can influence by her own learning effort. This distinction is maintained through the optimization problem.
+
+29
+
+We used a similar structure in our work on early development; see Goodfriend and McDermott ([1995](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR31)).
+
+30
+
+See Thomson ([2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR54),Chapter 1, as well as pp. 152–157, 267).
+
+31
+
+Interestingly, we could put _S_ under the integral in ([3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ3)), and not in the cost function ([4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ4)), and end up with the same result. That is, we could replace ([3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ3)) with  and ([4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ4)) with  without changing anything important. More productive inputs are equivalent to cheaper inputs.
+
+32
+
+For a recent example of negative congestion externalities, which operate on utility from local amenities, see Desmet et al. ([2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR21)).
+
+33
+
+Note that a positive fixed cost  is necessary for equilibrium. To see why, take a simpler model in which , labor is not in the final-good production function, and there is no fixed cost of producing intermediate goods. Output is  and the cost constraint is , where _N_ is the total of inelastically supplied labor. For a fixed _N_, you can always increase _Y_ by raising _M_ and reducing _x_ in the same proportion. This is reflected in ([13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ13)) and ([16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ16)) by letting . See Romer ([1987](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR45)).
+
+34
+
+If  were a constant, the  locus would be upward sloping and the equilibrium at E would not be stable. There would instead be two corner equilibria, one for each technology used exclusively.
+
+35
+
+The first equality comes from using ([18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ18)) and ([27](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ27)) along with the definition of  in ([5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ5)). The second equality uses ([29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ29)) and ([28](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ28)).
+
+36
+
+The equation of the EP locus is: . This “expansion path” is drawn for a given value of . In general, however,  will change as _h_ rises.
+
+37
+
+Substitute ([16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ16)) and ([26](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ26)) for  and , ([34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ34)) for —and the analog for —and set _S_ in ([4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ4)) to .
+
+38
+
+Wage income must add up to the value of output: . Aggregate product is found by multiplying per capita output _y_ in ([39](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ39)) by _N_ resulting in the first equality above. Aggregate wage income is found by adding wages paid to skilled work  and wages paid to unskilled work , where  in equilibrium and . These imply that aggregate wage income is . Substituting for the wage with ([18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ18)), and using ([32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ32)) yields the second equality above.
+
+39
+
+To derive ([43](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ43)), express ([9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ9)) as . Then use ([16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ16)) for , ([32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ32)) for , and ([36](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ36)) for the ratio .
+
+40
+
+To derive  in ([47](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ47)), we use the first-order conditions in Appendix[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec15). Combine ([69](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ69)) and ([43](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ43)) to see that . Then note that  by ([64](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ64)) and ([65](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ65)). Finally,  by wage equalization in momentary equilibrium coupled with the constraint ([63](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ63)). Use  to get ([48](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ48)).
+
+41
+
+To see this, note that  by ([18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ18)). By ([31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ31)), however, we can write this as . In the limit as ,  becomes constant at  by ([33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ33)) so growth in  is due only to _N_ via specialization.
+
+42
+
+Use , substituting from ([27](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ27)) and noting from ([33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ33)) that  converges to the constant work effort in ([55](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ55)).
+
+43
+
+The data, as made clear by Atack and Bateman ([1999](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR8)), are not perfect. We took out all observations for which the value of output, raw materials, or wages were non-positive. Then, we removed observations for which value added was non-positive. Finally we removed observations for which the wage bill exceeded value added. This left samples of size 4428, 4505, 3771, and 7100 in the four census collections. We are grateful to an anonymous referee for pointing us to this data.
+
+44
+
+See Carter et al. ([2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR17)), Table Ba1033-1046, on page 133. Occupations in the table from which the operative data are taken are classified into 13 groups: professionals, farmers, proprietors, managers and officials, clerical workers, sales workers, craft workers, operatives, domestic service workers, other service workers, farm laborers, laborers, and unclassified.
+
+45
+
+That is, if , as we assume, then by ([35](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ35)) and ([34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ34)) we see that .
+
+46
+
+If the economy were only advanced, the value  would eliminate the weak scale effect. We could use a weighted average of  and , where the weights reflect the contribution of the conventional and advanced sectors in the late nineteenth century. This results in a higher value of , when we use the value in Table[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab1) for  in 1860.
+
+47
+
+The simulation method is explained in Appendix[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec17).
+
+48
+
+We discarded two of the 28 calibration pairs because they did not meet the criterion for the loss defined in Appendix[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec16).
+
+49
+
+The data is from The Maddison Project Database 2018 (see Bolt et al. [2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR13)). The growth rates reported in this section are , where  is estimated from the OLS regression . The levels of _y_ may not be comparable across countries, especially before 1950, because of differences in systems of national accounts. Growth rates, however, should be more comparable.
+
+50
+
+The average of the numerical continuous function  is .
+
+51
+
+Jones ([2002](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR36)) conjectures that steady-state growth in the US is lower than the historical nearly-constant growth over the last century. He explains the high and steady growth in terms of investment in research and rising educational achievement—working through a worldwide externality of ideas—that he does not think is sustainable. Hence, he predicts a future slowdown, as do we.
+
+52
+
+This is derived in connection with ([43](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ43)) in Sect.[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec7).
+
+53
+
+Although  falls as _h_ rises, we can use ([32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ32)) to see that  rises with _h_. This means that  rises with _h_ by ([16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ16)).
+
+54
+
+By definition, . Our calibrated  implies that  if . Our reasoning for  is as follows. By ([23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ23)), the gross markup in the advanced sector is . If the markup is about 4/3 and , then it follows that  .
+
+55
+
+The source of the decline comes from ([34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ34)) and ([37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ37)). The simulated values are in rows (6) and (7) of Table[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Tab2).
+
+56
+
+Case and Deaton ([2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR18)) document this phenomenon for a certain segment of the work force.
+
+57
+
+The allocations are the same only because our calibrated .
+
+58
+
+See Eqs.([94](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ94)) and ([93](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Equ93)) in Appendix[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#Sec18).
+
+61
+
+See Autor ([2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR10)), specifically Figs. 5 and 8A, and adjoining discussion. Also see Beaudry et al. ([2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR11)) on the reversal in demand for cognitive skill; and Fuller et al. ([2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180#CR28)) on the extent of ”degree inflation” across industries in the US.
+
+Marvin Goodfriend died on December 5, 2019, after a long illness.
+
+We would like to thank Jan Bass, Kin Blackburn, Bentley Coffey, Jason DeBacker, Baris Kaymak, Lenard Lieb, Karsten Mau, Felipe Saenz, Guillaume Sublet and seminar participants at the Université de Montréal, the University of Maastricht, and the University of South Carolina for helpful comments.
+
+**Publisher's Note**
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7902180)References
+------------------------------------------------------------------
+
+1.   Acemoglu D, Restrepo P. Artificial intelligence, automation, and work, Chap. 8. In: Agarwal A, Goldfarb A, Gans J, editors. The economics of artificial intelligence: An agenda. Cambridge: National Bureau of Economic Research Inc; 2018.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20economics%20of%20artificial%20intelligence:%20An%20agenda&author=D%20Acemoglu&author=P%20Restrepo&publication_year=2018&)]
+2.   Aghion P, Akcigit U, Howitt P. The Schumpeterian growth paradigm. Annual Review of Economics. 2015;7(1):557–575. doi: 10.1146/annurev-economics-080614-115412. [[DOI](https://doi.org/10.1146/annurev-economics-080614-115412)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Annual%20Review%20of%20Economics&title=The%20Schumpeterian%20growth%20paradigm&author=P%20Aghion&author=U%20Akcigit&author=P%20Howitt&volume=7&issue=1&publication_year=2015&pages=557-575&doi=10.1146/annurev-economics-080614-115412&)]
+3.   Aghion, P., Bergeaud, A., Boppart, T., Klenow, P. J., & Li, H. (2019). _A theory of falling growth and rising rents_. NBER working papers 26448. National Bureau of Economic Research, Inc.
+4.   Aghion P, Howitt P. A model of growth through creative destruction. Econometrica. 1992;60(2):323–351. doi: 10.2307/2951599. [[DOI](https://doi.org/10.2307/2951599)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Econometrica&title=A%20model%20of%20growth%20through%20creative%20destruction&author=P%20Aghion&author=P%20Howitt&volume=60&issue=2&publication_year=1992&pages=323-351&doi=10.2307/2951599&)]
+5.   Aghion P, Howitt P. Endogenous growth theory. Cambridge, MA: MIT Press; 1998.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Endogenous%20growth%20theory&author=P%20Aghion&author=P%20Howitt&publication_year=1998&)]
+6.   Aguiar, M., Bils, M., Charles, K. K., & Hurst, E. (2017). _Leisure luxuries and the labor supply of young men_. Working paper 23552, National Bureau of Economic Research.
+7.   Arum R, Roksa J. Academically adrift: Limited learning on college campuses. Chicago, IL: University of Chicago Press; 2011.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Academically%20adrift:%20Limited%20learning%20on%20college%20campuses&author=R%20Arum&author=J%20Roksa&publication_year=2011&)]
+8.   Atack J, Bateman F. Nineteenth-century U.S. industrial development through the eyes of the census of manufactures a new resource for historical research. Historical Methods. 1999;32:177–188. doi: 10.1080/01615449909598939. [[DOI](https://doi.org/10.1080/01615449909598939)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Historical%20Methods&title=Nineteenth-century%20U.S.%20industrial%20development%20through%20the%20eyes%20of%20the%20census%20of%20manufactures%20a%20new%20resource%20for%20historical%20research&author=J%20Atack&author=F%20Bateman&volume=32&publication_year=1999&pages=177-188&doi=10.1080/01615449909598939&)]
+9.   Atack J, Margo RA, Rhode PW. “Automation” of manufacturing in the late nineteenth century: The hand and machine labor study. Journal of Economic Perspectives. 2019;33(2):51–70. doi: 10.1257/jep.33.2.51. [[DOI](https://doi.org/10.1257/jep.33.2.51)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Economic%20Perspectives&title=%E2%80%9CAutomation%E2%80%9D%20of%20manufacturing%20in%20the%20late%20nineteenth%20century:%20The%20hand%20and%20machine%20labor%20study&author=J%20Atack&author=RA%20Margo&author=PW%20Rhode&volume=33&issue=2&publication_year=2019&pages=51-70&doi=10.1257/jep.33.2.51&)]
+10.   Autor DH. Work of the past, work of the future. AEA Papers and Proceedings. 2019;109:1–32. doi: 10.1257/pandp.20191110. [[DOI](https://doi.org/10.1257/pandp.20191110)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=AEA%20Papers%20and%20Proceedings&title=Work%20of%20the%20past,%20work%20of%20the%20future&author=DH%20Autor&volume=109&publication_year=2019&pages=1-32&doi=10.1257/pandp.20191110&)]
+11.   Beaudry P, Green DA, Sand BM. The great reversal in the demand for skill and cognitive tasks. Journal of Labor Economics. 2016;34(S1):S199–S247. doi: 10.1086/682347. [[DOI](https://doi.org/10.1086/682347)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Labor%20Economics&title=The%20great%20reversal%20in%20the%20demand%20for%20skill%20and%20cognitive%20tasks&author=P%20Beaudry&author=DA%20Green&author=BM%20Sand&volume=34&issue=S1&publication_year=2016&pages=S199-S247&doi=10.1086/682347&)]
+12.   Bessen J. More machines, better machines... or better workers? The Journal of Economic History. 2012;72(1):44–74. doi: 10.1017/S0022050711002439. [[DOI](https://doi.org/10.1017/S0022050711002439)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Journal%20of%20Economic%20History&title=More%20machines,%20better%20machines...%20or%20better%20workers?&author=J%20Bessen&volume=72&issue=1&publication_year=2012&pages=44-74&doi=10.1017/S0022050711002439&)]
+13.   Bolt, J., Inklaar, R., de Jong, H., & van Zanden, J. L. (2018). _Rebasing ‘Maddison’: new income comparisons and the shape of long-run economic development_, July 2008, Working Paper No. 10; Maddison Project Database, version 2018.
+14.   Boorstin DJ. The Americans: The national experience. New York: Random House; 1965.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Americans:%20The%20national%20experience&author=DJ%20Boorstin&publication_year=1965&)]
+15.   Brynjolfsson E, Rock D, Syverson C. Artificial intelligence and the modern productivity paradox: A Clash of expectations and statistics, Chap. 1. In: Agarwal A, Goldfarb A, Gans J, editors. The economics of artificial intelligence: An agenda. Cambridge: National Bureau of Economic Research Inc; 2018.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20economics%20of%20artificial%20intelligence:%20An%20agenda&author=E%20Brynjolfsson&author=D%20Rock&author=C%20Syverson&publication_year=2018&)]
+16.   Burke J. Connections. Boston: Little, Brown, and Company; 1978.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Connections&author=J%20Burke&publication_year=1978&)]
+17.   Carter SB, Gartner SS, Haines M, Olmstead A, Sutch R, Wright G, editors. The historical statistics of the United States, earliest times to the present: Millennial edition. New York: Cambridge University Press; 2006.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20historical%20statistics%20of%20the%20United%20States,%20earliest%20times%20to%20the%20present:%20Millennial%20edition&publication_year=2006&)]
+18.   Case A, Deaton A. Deaths of despair and the future of capitalism. Princeton, NJ: Princeton University Press; 2020.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Deaths%20of%20despair%20and%20the%20future%20of%20capitalism&author=A%20Case&author=A%20Deaton&publication_year=2020&)]
+19.   Cowen T. The Great Stagnation: How America ate all the low-hanging fruit of modern history, got sick, and will (eventually) feel better. New York: Dutton; 2011.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20Great%20Stagnation:%20How%20America%20ate%20all%20the%20low-hanging%20fruit%20of%20modern%20history,%20got%20sick,%20and%20will%20(eventually)%20feel%20better&author=T%20Cowen&publication_year=2011&)]
+20.   David PA. The historical origins of ’Open Science’: An essay on patronage, reputation and common agency contracting in the scientific revolution. Capitalism and Society. 2008;3(2):1–106. doi: 10.2202/1932-0213.1040. [[DOI](https://doi.org/10.2202/1932-0213.1040)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Capitalism%20and%20Society&title=The%20historical%20origins%20of%20%E2%80%99Open%20Science%E2%80%99:%20An%20essay%20on%20patronage,%20reputation%20and%20common%20agency%20contracting%20in%20the%20scientific%20revolution&author=PA%20David&volume=3&issue=2&publication_year=2008&pages=1-106&doi=10.2202/1932-0213.1040&)]
+21.   Desmet K, Nagy DK, Rossi-Hansberg E. The geography of development. Journal of Political Economy. 2018;126(3):903–983. doi: 10.1086/697084. [[DOI](https://doi.org/10.1086/697084)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Political%20Economy&title=The%20geography%20of%20development&author=K%20Desmet&author=DK%20Nagy&author=E%20Rossi-Hansberg&volume=126&issue=3&publication_year=2018&pages=903-983&doi=10.1086/697084&)]
+22.   Dutton HI. The patent system and inventive activity: During the industrial revolution 1750–1852. Manchester: Manchester University Press; 1984.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20patent%20system%20and%20inventive%20activity:%20During%20the%20industrial%20revolution%201750%E2%80%931852&author=HI%20Dutton&publication_year=1984&)]
+23.   Ferguson ES. On the origin and development of American mechanical “Know-How”. Mid-America Studies Association. 1962;3(2):2–16. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mid-America%20Studies%20Association&title=On%20the%20origin%20and%20development%20of%20American%20mechanical%20%E2%80%9CKnow-How%E2%80%9D&author=ES%20Ferguson&volume=3&issue=2&publication_year=1962&pages=2-16&)]
+24.   Ferguson ES. The American-ness of American technology. Technology and Culture. 1979;20(1):3–24. doi: 10.2307/3103109. [[DOI](https://doi.org/10.2307/3103109)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Technology%20and%20Culture&title=The%20American-ness%20of%20American%20technology&author=ES%20Ferguson&volume=20&issue=1&publication_year=1979&pages=3-24&doi=10.2307/3103109&)]
+25.   Fernald, J. G. (2015). Productivity and Potential Output before, during, and after the Great Recession. In _NBER macroeconomics annual_ (Vol. 29, pp. 1–51). National Bureau of Economic Research, Inc.
+26.   Fernald JG, Hall RE, Stock JH, Watson MW. The disappointing recovery of output after 2009. Brookings Papers on Economic Activity. 2017;48(1 (Spring)):1–81. doi: 10.1353/eca.2017.0000. [[DOI](https://doi.org/10.1353/eca.2017.0000)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Brookings%20Papers%20on%20Economic%20Activity&title=The%20disappointing%20recovery%20of%20output%20after%202009&author=JG%20Fernald&author=RE%20Hall&author=JH%20Stock&author=MW%20Watson&volume=48&issue=1%20(Spring)&publication_year=2017&pages=1-81&doi=10.1353/eca.2017.0000&)]
+27.   Fernald JG, Jones CI. The future of US economic growth. The American Economic Review. 2014;104(5):44–49. doi: 10.1257/aer.104.5.44. [[DOI](https://doi.org/10.1257/aer.104.5.44)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20American%20Economic%20Review&title=The%20future%20of%20US%20economic%20growth&author=JG%20Fernald&author=CI%20Jones&volume=104&issue=5&publication_year=2014&pages=44-49&doi=10.1257/aer.104.5.44&)]
+28.   Fuller, J., Raman, M., et al. (2017). _Dismissed by degrees_. Technical report. Harvard Business School.
+29.   Goldin C, Katz LF. The origins of technology-skill complementarity. The Quarterly Journal of Economics. 1998;113(3):693–732. doi: 10.1162/003355398555720. [[DOI](https://doi.org/10.1162/003355398555720)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Quarterly%20Journal%20of%20Economics&title=The%20origins%20of%20technology-skill%20complementarity&author=C%20Goldin&author=LF%20Katz&volume=113&issue=3&publication_year=1998&pages=693-732&doi=10.1162/003355398555720&)]
+30.   Goldin C, Katz L. The race between education and technology. Cambridge: Belknap Press for Harvard University Press; 2008.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20race%20between%20education%20and%20technology&author=C%20Goldin&author=L%20Katz&publication_year=2008&)]
+31.   Goodfriend M, McDermott J. Early development. American Economic Review. 1995;85(2):116–133. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=American%20Economic%20Review&title=Early%20development&author=M%20Goodfriend&author=J%20McDermott&volume=85&issue=2&publication_year=1995&pages=116-133&)]
+32.   Goodfriend M, McDermott J. Industrial development and the convergence question. American Economic Review. 1998;88(5):1277–89. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=American%20Economic%20Review&title=Industrial%20development%20and%20the%20convergence%20question&author=M%20Goodfriend&author=J%20McDermott&volume=88&issue=5&publication_year=1998&pages=1277-89&)]
+33.   Gordon RJ. The rise and fall of American growth: The U.S. standard of living since the civil war. Princeton: The Princeton Economic History of the Western World, Princeton University Press; 2016.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20rise%20and%20fall%20of%20American%20growth:%20The%20U.S.%20standard%20of%20living%20since%20the%20civil%20war&author=RJ%20Gordon&publication_year=2016&)]
+34.   Hounshell DA. From the American System to mass production, 1800–1932: The development of manufacturing technology in the United States. Baltimore: Johns Hopkins University Press; 1984.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=From%20the%20American%20System%20to%20mass%20production,%201800%E2%80%931932:%20The%20development%20of%20manufacturing%20technology%20in%20the%20United%20States&author=DA%20Hounshell&publication_year=1984&)]
+35.   Jones CI. Time series tests of endogenous growth models. The Quarterly Journal of Economics. 1995;110(2):495–525. doi: 10.2307/2118448. [[DOI](https://doi.org/10.2307/2118448)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Quarterly%20Journal%20of%20Economics&title=Time%20series%20tests%20of%20endogenous%20growth%20models&author=CI%20Jones&volume=110&issue=2&publication_year=1995&pages=495-525&doi=10.2307/2118448&)]
+36.   Jones CI. Sources of U.S. economic growth in a world of ideas. American Economic Review. 2002;92(1):220–239. doi: 10.1257/000282802760015685. [[DOI](https://doi.org/10.1257/000282802760015685)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=American%20Economic%20Review&title=Sources%20of%20U.S.%20economic%20growth%20in%20a%20world%20of%20ideas&author=CI%20Jones&volume=92&issue=1&publication_year=2002&pages=220-239&doi=10.1257/000282802760015685&)]
+37.   Jones CI. Growth and ideas, Chap. 16. In: Aghion P, Durlauf S, editors. Handbook of economic growth. Amsterdam: Elsevier; 2005. pp. 1063–1111. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Handbook%20of%20economic%20growth&author=CI%20Jones&publication_year=2005&)]
+38.   Katz, L. F., & Margo, R. A. (2014). Technical change and the relative demand for skilled labor: The United States in historical perspective, Chap. 1. In L. P. Boustan, C. Frydman, & R. A. Margo (Eds.), _Human capital in history: The American record_ (pp. 15–57). NBER Chapters, National Bureau of Economic Research, Inc.
+39.   Khan, B. Z. (2005). The patent system in Europe and America, Chap. 2. In _Democratization of invention: Patents and copyrights in American economic development, 1790–1920. NBER series on long-term factors in economic development_. Cambridge University Press.
+40.   Khan BZ, Sokoloff KL. History lessons: The early development of intellectual property institutions in the United States. The Journal of Economic Perspectives. 2001;15(3):233–246. doi: 10.1257/jep.15.3.233. [[DOI](https://doi.org/10.1257/jep.15.3.233)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Journal%20of%20Economic%20Perspectives&title=History%20lessons:%20The%20early%20development%20of%20intellectual%20property%20institutions%20in%20the%20United%20States&author=BZ%20Khan&author=KL%20Sokoloff&volume=15&issue=3&publication_year=2001&pages=233-246&doi=10.1257/jep.15.3.233&)]
+41.   Lucas RE., Jr On the mechanics of economic development. Journal of Monetary Economics. 1988;22(1):3–42. doi: 10.1016/0304-3932(88)90168-7. [[DOI](https://doi.org/10.1016/0304-3932(88)90168-7)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Monetary%20Economics&title=On%20the%20mechanics%20of%20economic%20development&author=RE%20Lucas&volume=22&issue=1&publication_year=1988&pages=3-42&doi=10.1016/0304-3932(88)90168-7&)]
+42.   Mayr O, Post RC, editors. Yankee enterprise, the rise of the American system of manufactures: A symposium. Washington, DC: Smithsonian Institution Press; 1981.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Yankee%20enterprise,%20the%20rise%20of%20the%20American%20system%20of%20manufactures:%20A%20symposium&publication_year=1981&)]
+43.   Mokyr J. The contribution of economic history to the study of innovation and technical change, Chap. 2. In: Hall B, Rosenberg N, editors. Handbook of the economics of innovation. 1. Amsterdam: Elsevier; 2010. pp. 11–50. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Handbook%20of%20the%20economics%20of%20innovation&author=J%20Mokyr&publication_year=2010&)]
+44.   Mokyr J. A culture of growth: The origins of the modern economy. Princeton, NJ: Princeton University Press; 2016.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=A%20culture%20of%20growth:%20The%20origins%20of%20the%20modern%20economy&author=J%20Mokyr&publication_year=2016&)]
+45.   Romer PM. Growth based on increasing returns to specialization. American Economic Review. 1987;98(3):56–62. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=American%20Economic%20Review&title=Growth%20based%20on%20increasing%20returns%20to%20specialization&author=PM%20Romer&volume=98&issue=3&publication_year=1987&pages=56-62&)]
+46.   Romer PM. Endogenous technological change. Journal of Political Economy. 1990;98(5):S71–102. doi: 10.1086/261725. [[DOI](https://doi.org/10.1086/261725)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Journal%20of%20Political%20Economy&title=Endogenous%20technological%20change&author=PM%20Romer&volume=98&issue=5&publication_year=1990&pages=S71-102&doi=10.1086/261725&)]
+47.   Romer PM. Why, indeed, in America? Theory, history, and the origins of modern economic growth. The American Economic Review. 1996;86(2):202–206. [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20American%20Economic%20Review&title=Why,%20indeed,%20in%20America?%20Theory,%20history,%20and%20the%20origins%20of%20modern%20economic%20growth&author=PM%20Romer&volume=86&issue=2&publication_year=1996&pages=202-206&)]
+48.   Rosenberg, N. (1969). Introduction, Chap. 1. In N. Rosenberg (Ed.), _The American system of manufactures: The report of the committee on the machinery of the United States 1855, and the special reports of George Wallis and Joseph Whitworth 1854_. University of Edinburgh Press.
+49.   Rosenberg N. Technology and American economic growth. The Academy library. New York: Harper & Row; 1972.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Technology%20and%20American%20economic%20growth.%20The%20Academy%20library&author=N%20Rosenberg&publication_year=1972&)]
+50.   Rosenberg, N. (1981). Why in America?, Chap. 4. In O. Mayr & R. C. Post (Eds.), _Yankee enterprise, the rise of the American system of manufactures: A symposium_ (pp. 49–61). Washington, DC: Smithsonian Institution Press.
+51.   Sawyer JE. The social basis of the american system of manufacturing. The Journal of Economic History. 1954;14(4):361–379. doi: 10.1017/S0022050700077007. [[DOI](https://doi.org/10.1017/S0022050700077007)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Journal%20of%20Economic%20History&title=The%20social%20basis%20of%20the%20american%20system%20of%20manufacturing&author=JE%20Sawyer&volume=14&issue=4&publication_year=1954&pages=361-379&doi=10.1017/S0022050700077007&)]
+52.   Sokoloff KL, Khan BZ. The democratization of invention during early industrialization: Evidence from the United States, 1790–1846. The Journal of Economic History. 1990;50(2):363–378. doi: 10.1017/S0022050700036494. [[DOI](https://doi.org/10.1017/S0022050700036494)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Journal%20of%20Economic%20History&title=The%20democratization%20of%20invention%20during%20early%20industrialization:%20Evidence%20from%20the%20United%20States,%201790%E2%80%931846&author=KL%20Sokoloff&author=BZ%20Khan&volume=50&issue=2&publication_year=1990&pages=363-378&doi=10.1017/S0022050700036494&)]
+53.   Summers LH. Secular stagnation and macroeconomic policy. IMF Economic Review. 2018;66(2):226–250. doi: 10.1057/s41308-018-0056-6. [[DOI](https://doi.org/10.1057/s41308-018-0056-6)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=IMF%20Economic%20Review&title=Secular%20stagnation%20and%20macroeconomic%20policy&author=LH%20Summers&volume=66&issue=2&publication_year=2018&pages=226-250&doi=10.1057/s41308-018-0056-6&)]
+54.   Thomson R. Structures of change in the mechanical age. Baltimore: Johns Hopkins University Press; 2009.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Structures%20of%20change%20in%20the%20mechanical%20age&author=R%20Thomson&publication_year=2009&)]
+55.   US Department of Labor. (1899). _Thirteenth annual report of the Commissioner of Labor, 1898: Hand and machine labor_. US Government.
+56.   Winchester S. The perfectionists: How precision engineers created the modern world. New York: Harper Collins; 2018.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The%20perfectionists:%20How%20precision%20engineers%20created%20the%20modern%20world&author=S%20Winchester&publication_year=2018&)]
+57.   Zeira J. Workers, machines, and economic growth. The Quarterly Journal of Economics. 1998;113(4):1091–1117. doi: 10.1162/003355398555847. [[DOI](https://doi.org/10.1162/003355398555847)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=The%20Quarterly%20Journal%20of%20Economics&title=Workers,%20machines,%20and%20economic%20growth&author=J%20Zeira&volume=113&issue=4&publication_year=1998&pages=1091-1117&doi=10.1162/003355398555847&)]

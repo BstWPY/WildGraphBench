@@ -1,0 +1,645 @@
+# Supported Currencies (Steamworks Documentation)
+
+Supported Currencies (Steamworks Documentation)
+
+===============
+
+[![Image 1: Steamworks](https://partner.steamgames.com/public/javascript/partnermenu/Z3GUEOCA.svg)](https://partner.steamgames.com/)
+*   Documentation
+    *   [Home](https://partner.steamgames.com/doc)
+    *   [Getting Started](https://partner.steamgames.com/doc/gettingstarted)
+    *   [Store Presence](https://partner.steamgames.com/doc/store)
+    *   [Features](https://partner.steamgames.com/doc/features)
+    *   [Finance](https://partner.steamgames.com/doc/finance)
+    *   [Sales & Marketing](https://partner.steamgames.com/doc/marketing)
+    *   [Steamworks SDK](https://partner.steamgames.com/doc/sdk)
+    *   [Steam VR](https://partner.steamgames.com/doc/features/steamvr/info)
+
+*   Resources
+    *   [Steam VR](https://partner.steamgames.com/vrlicensing)
+    *   [Steam PC Café Program](https://partner.steamgames.com/pccafe)
+    *   
+* * *
+
+    *   [Steamworks Discussions](https://steamcommunity.com/groups/steamworks/discussions)
+    *   [Steamworks Video Tutorials](https://www.youtube.com/user/SteamworksDev)
+
+*   News & Updates
+    *   [Steamworks Blog](https://store.steampowered.com/news/group/4145017)
+    *   [Steam Blog](https://store.steampowered.com/news/app/593110)
+    *   [Steam VR Blog](https://store.steampowered.com/news/app/250820)
+    *   [Steam Deck Blog](https://store.steampowered.com/news/app/1675200)
+
+*   [Support](https://help.steampowered.com/wizard/HelpWithPublishing?issueid=923)
+
+language
+
+[简体中文 (Simplified Chinese)](https://partner.steamgames.com/doc/store/pricing/currencies?l=schinese)[繁體中文 (Traditional Chinese)](https://partner.steamgames.com/doc/store/pricing/currencies?l=tchinese)[日本語 (Japanese)](https://partner.steamgames.com/doc/store/pricing/currencies?l=japanese)[한국어 (Korean)](https://partner.steamgames.com/doc/store/pricing/currencies?l=koreana)[ไทย (Thai)](https://partner.steamgames.com/doc/store/pricing/currencies?l=thai)[العربية (Arabic)](https://partner.steamgames.com/doc/store/pricing/currencies?l=arabic)[Български (Bulgarian)](https://partner.steamgames.com/doc/store/pricing/currencies?l=bulgarian)[Čeština (Czech)](https://partner.steamgames.com/doc/store/pricing/currencies?l=czech)[Dansk (Danish)](https://partner.steamgames.com/doc/store/pricing/currencies?l=danish)[Deutsch (German)](https://partner.steamgames.com/doc/store/pricing/currencies?l=german)[English](https://partner.steamgames.com/doc/store/pricing/currencies?l=english)[Español - España (Spanish - Spain)](https://partner.steamgames.com/doc/store/pricing/currencies?l=spanish)[Español - Latinoamérica (Spanish - Latin America)](https://partner.steamgames.com/doc/store/pricing/currencies?l=latam)[Ελληνικά (Greek)](https://partner.steamgames.com/doc/store/pricing/currencies?l=greek)[Français (French)](https://partner.steamgames.com/doc/store/pricing/currencies?l=french)[Italiano (Italian)](https://partner.steamgames.com/doc/store/pricing/currencies?l=italian)[Bahasa Indonesia (Indonesian)](https://partner.steamgames.com/doc/store/pricing/currencies?l=indonesian)[Magyar (Hungarian)](https://partner.steamgames.com/doc/store/pricing/currencies?l=hungarian)[Nederlands (Dutch)](https://partner.steamgames.com/doc/store/pricing/currencies?l=dutch)[Norsk (Norwegian)](https://partner.steamgames.com/doc/store/pricing/currencies?l=norwegian)[Polski (Polish)](https://partner.steamgames.com/doc/store/pricing/currencies?l=polish)[Português - Portugal (Portuguese - Portugal)](https://partner.steamgames.com/doc/store/pricing/currencies?l=portuguese)[Português - Brasil (Portuguese - Brazil)](https://partner.steamgames.com/doc/store/pricing/currencies?l=brazilian)[Română (Romanian)](https://partner.steamgames.com/doc/store/pricing/currencies?l=romanian)[Русский (Russian)](https://partner.steamgames.com/doc/store/pricing/currencies?l=russian)[Suomi (Finnish)](https://partner.steamgames.com/doc/store/pricing/currencies?l=finnish)[Svenska (Swedish)](https://partner.steamgames.com/doc/store/pricing/currencies?l=swedish)[Türkçe (Turkish)](https://partner.steamgames.com/doc/store/pricing/currencies?l=turkish)[Tiếng Việt (Vietnamese)](https://partner.steamgames.com/doc/store/pricing/currencies?l=vietnamese)[Українська (Ukrainian)](https://partner.steamgames.com/doc/store/pricing/currencies?l=ukrainian)
+
+[Sign in](https://partner.steamgames.com/)
+
+![Image 2: Navigation](https://partner.steamgames.com/public/javascript/partnermenu/X3MIBOBA.png)[![Image 3: Steamworks](https://partner.steamgames.com/public/javascript/partnermenu/Z3GUEOCA.svg)](https://partner.steamgames.com/)
+
+*   [Dashboard](https://partner.steamgames.com/dashboard)
+
+[Sign in](https://partner.steamgames.com/)
+
+Documentation 
+
+[Home](https://partner.steamgames.com/doc)[Getting Started](https://partner.steamgames.com/doc/gettingstarted)[Store Presence](https://partner.steamgames.com/doc/store)[Features](https://partner.steamgames.com/doc/features)[Finance](https://partner.steamgames.com/doc/finance)[Sales & Marketing](https://partner.steamgames.com/doc/marketing)[Steamworks SDK](https://partner.steamgames.com/doc/sdk)[Steam VR](https://partner.steamgames.com/doc/features/steamvr/info)
+
+Resources 
+
+[Steam VR](https://partner.steamgames.com/vrlicensing)[Steam PC Café Program](https://partner.steamgames.com/pccafe)
+
+* * *
+
+[Steamworks Discussions](https://steamcommunity.com/groups/steamworks/discussions)[Steamworks Video Tutorials](https://www.youtube.com/user/SteamworksDev)
+
+News & Updates 
+
+[Steamworks Blog](https://store.steampowered.com/news/group/4145017)[Steam Blog](https://store.steampowered.com/news/app/593110)[Steam VR Blog](https://store.steampowered.com/news/app/250820)[Steam Deck Blog](https://store.steampowered.com/news/app/1675200)
+
+[Support](https://help.steampowered.com/wizard/HelpWithPublishing?issueid=923)
+
+Change language
+
+* * *
+
+ Steamworks Documentation 
+
+*   [Documentation Home Page](https://partner.steamgames.com/doc/home)
+*   [Getting Started](https://partner.steamgames.com/doc/gettingstarted)
+    *   [Onboarding](https://partner.steamgames.com/doc/gettingstarted/onboarding)
+    *   [Steam Direct Fee](https://partner.steamgames.com/doc/gettingstarted/appfee)
+    *   [Managing Your Steamworks Account](https://partner.steamgames.com/doc/gettingstarted/managing_users)
+        *   [User Permission: Receive Steamworks Communication](https://partner.steamgames.com/doc/gettingstarted/managing_users/communication)
+
+    *   [Managing Applications](https://partner.steamgames.com/doc/gettingstarted/managing_apps)
+        *   [Application Management Sharing](https://partner.steamgames.com/doc/gettingstarted/managing_apps/sharing)
+        *   [Transferring Applications](https://partner.steamgames.com/doc/gettingstarted/managing_apps/transfer)
+
+    *   [Bringing Mobile Games to Steam](https://partner.steamgames.com/doc/gettingstarted/mobile)
+    *   [Content Survey](https://partner.steamgames.com/doc/gettingstarted/contentsurvey)
+        *   [Age Ratings Mandatory in Germany](https://partner.steamgames.com/doc/gettingstarted/contentsurvey/germany)
+
+    *   [Frequently Asked Questions](https://partner.steamgames.com/doc/gettingstarted/faq)
+
+*   [Store Presence](https://partner.steamgames.com/doc/store)
+    *   [Applications](https://partner.steamgames.com/doc/store/application)
+        *   [Branches (Betas)](https://partner.steamgames.com/doc/store/application/branches)
+        *   [Builds](https://partner.steamgames.com/doc/store/application/builds)
+        *   [Bundles](https://partner.steamgames.com/doc/store/application/bundles)
+            *   [Creating Bundles Across Multiple Developers/Publishers](https://partner.steamgames.com/doc/store/application/bundles/collaborative)
+
+        *   [Demos](https://partner.steamgames.com/doc/store/application/demos)
+        *   [Depots](https://partner.steamgames.com/doc/store/application/depots)
+        *   [Downloadable Content (DLC)](https://partner.steamgames.com/doc/store/application/dlc)
+            *   [DLC Visibility](https://partner.steamgames.com/doc/store/application/dlc/browse)
+
+        *   [Game Soundtracks on Steam](https://partner.steamgames.com/doc/store/application/soundtrackapp)
+        *   [Packages](https://partner.steamgames.com/doc/store/application/packages)
+            *   [Autogrant Packages](https://partner.steamgames.com/doc/store/application/packages/autogrants)
+            *   [Creating and Configuring Deluxe Packs](https://partner.steamgames.com/doc/store/application/packages/deluxe)
+
+        *   [Platforms](https://partner.steamgames.com/doc/store/application/platforms)
+            *   [Developing for SteamOS and Linux](https://partner.steamgames.com/doc/store/application/platforms/linux)
+
+    *   [Coming Soon](https://partner.steamgames.com/doc/store/coming_soon)
+    *   [Developer And Publisher Homepages](https://partner.steamgames.com/doc/store/creator_homepage)
+        *   [Homepage Example](https://partner.steamgames.com/doc/store/creator_homepage/example)
+
+    *   [Early Access](https://partner.steamgames.com/doc/store/earlyaccess)
+    *   [Explain Your Editions](https://partner.steamgames.com/doc/store/manageeditions)
+    *   [Franchise Pages](https://partner.steamgames.com/doc/store/franchise_pages)
+    *   [Free To Play Games](https://partner.steamgames.com/doc/store/freetoplay)
+    *   [Graphical Assets - Overview](https://partner.steamgames.com/doc/store/assets)
+        *   [Artwork Overrides](https://partner.steamgames.com/doc/store/assets/overrides)
+        *   [Community and Client Icons](https://partner.steamgames.com/doc/store/assets/community)
+        *   [Event Graphical Assets](https://partner.steamgames.com/doc/store/assets/eventassets)
+        *   [Graphical Asset Rules](https://partner.steamgames.com/doc/store/assets/rules)
+        *   [Library Assets](https://partner.steamgames.com/doc/store/assets/libraryassets)
+        *   [Store Graphical Assets](https://partner.steamgames.com/doc/store/assets/standard)
+
+    *   [Livestreaming](https://partner.steamgames.com/doc/store/broadcast)
+        *   [Setting Up A Stream](https://partner.steamgames.com/doc/store/broadcast/setting_up)
+        *   [Frequently Asked Questions](https://partner.steamgames.com/doc/store/broadcast/faq)
+        *   [Broadcast Moderation and Adding Moderators](https://partner.steamgames.com/doc/store/broadcast/moderation)
+        *   [Broadcast Viewership Statistics](https://partner.steamgames.com/doc/store/broadcast/stats)
+        *   [Livestreaming a Game Demo to the Steam Store](https://partner.steamgames.com/doc/store/broadcast/demo)
+
+    *   [Localization and Languages](https://partner.steamgames.com/doc/store/localization)
+        *   [Languages Supported on Steam](https://partner.steamgames.com/doc/store/localization/languages)
+
+    *   [Pre-Purchasing on Steam](https://partner.steamgames.com/doc/store/prepurchase)
+    *   [Pricing](https://partner.steamgames.com/doc/store/pricing)
+        *   [Adding A New Currency](https://partner.steamgames.com/doc/store/pricing/new_currency)
+        *   [Package Pricing CSV Import/Export](https://partner.steamgames.com/doc/store/pricing/csv)
+        *   [Recurring Subscriptions](https://partner.steamgames.com/doc/store/pricing/subscriptions)
+
+        *   [Supported Currencies](https://partner.steamgames.com/doc/store/pricing/currencies)
+            *   [Appendix A: ECurrency Values](https://partner.steamgames.com/doc/store/pricing/currencies#ecurrency_values)
+
+    *   [Promo Event Tools, Rules, and Guidelines](https://partner.steamgames.com/doc/store/promo)
+        *   [Participating in Third-Party Sales Events](https://partner.steamgames.com/doc/store/promo/thirdpartyevents)
+        *   [Hosting Third-Party Sales Events](https://partner.steamgames.com/doc/store/promo/organizers)
+
+    *   [Release Dates](https://partner.steamgames.com/doc/store/release_dates)
+    *   [Release Options](https://partner.steamgames.com/doc/store/types)
+    *   [Release Process](https://partner.steamgames.com/doc/store/releasing)
+    *   [Removing a product from Steam](https://partner.steamgames.com/doc/store/retire_app)
+    *   [Review Process](https://partner.steamgames.com/doc/store/review_process)
+    *   [Season Passes](https://partner.steamgames.com/doc/store/seasonpass)
+    *   [Steam China](https://partner.steamgames.com/doc/store/china)
+
+    *   [Steam Tags](https://partner.steamgames.com/doc/store/tags)
+    *   [Store Page, Building and Editing](https://partner.steamgames.com/doc/store/page)
+        *   [Store Page Accolades](https://partner.steamgames.com/doc/store/page/accolades)
+        *   [Store Page Extra Asset Management](https://partner.steamgames.com/doc/store/page/assets)
+        *   [Store Page Written Description](https://partner.steamgames.com/doc/store/page/description)
+
+    *   [Testing On Steam](https://partner.steamgames.com/doc/store/testing)
+    *   [Top Sellers Lists](https://partner.steamgames.com/doc/store/top_sellers)
+    *   [Trailers](https://partner.steamgames.com/doc/store/trailer)
+    *   [Updating Your Game - Best Practices](https://partner.steamgames.com/doc/store/updates)
+    *   [User Reviews](https://partner.steamgames.com/doc/store/reviews)
+
+*   [Features](https://partner.steamgames.com/doc/features)
+    *   [Anti-cheat and Game Bans](https://partner.steamgames.com/doc/features/anticheat)
+        *   [Anti-Cheat Integration](https://partner.steamgames.com/doc/features/anticheat/vac_integration)
+
+    *   [Common Redistributables](https://partner.steamgames.com/doc/features/common_redist)
+    *   [Enhanced Rich Presence](https://partner.steamgames.com/doc/features/enhancedrichpresence)
+    *   [Game Notifications](https://partner.steamgames.com/doc/features/game_notifications)
+    *   [Microtransactions (In-Game Purchases)](https://partner.steamgames.com/doc/features/microtransactions)
+        *   [Microtransactions Implementation Guide](https://partner.steamgames.com/doc/features/microtransactions/implementation)
+        *   [Recurring In-Game Billing](https://partner.steamgames.com/doc/features/microtransactions/recurring_billing)
+
+    *   [Multiplayer](https://partner.steamgames.com/doc/features/multiplayer)
+        *   [Game Servers](https://partner.steamgames.com/doc/features/multiplayer/game_servers)
+        *   [Steam Datagram Relay](https://partner.steamgames.com/doc/features/multiplayer/steamdatagramrelay)
+        *   [Steam Matchmaking & Lobbies](https://partner.steamgames.com/doc/features/multiplayer/matchmaking)
+            *   [Matchmaking based on skill](https://partner.steamgames.com/doc/features/multiplayer/matchmaking/skill)
+
+        *   [Steam Networking](https://partner.steamgames.com/doc/features/multiplayer/networking)
+
+    *   [Stats and Achievements](https://partner.steamgames.com/doc/features/achievements)
+        *   [Step by Step: Achievements](https://partner.steamgames.com/doc/features/achievements/ach_guide)
+        *   [Step by Step: Stats](https://partner.steamgames.com/doc/features/achievements/stats_guide)
+
+    *   [Steam Audio](https://partner.steamgames.com/doc/features/steam_audio)
+    *   [Steam Cloud](https://partner.steamgames.com/doc/features/cloud)
+    *   [Steam Cloud Play (Beta)](https://partner.steamgames.com/doc/features/cloudgaming)
+    *   [Steam Community](https://partner.steamgames.com/doc/features/community)
+    *   [Steam DRM](https://partner.steamgames.com/doc/features/drm)
+    *   [Steam Error Reporting](https://partner.steamgames.com/doc/features/error_reporting)
+    *   [Steam Families](https://partner.steamgames.com/doc/features/families)
+    *   [Steam HTML Surface](https://partner.steamgames.com/doc/features/html_surface)
+    *   [Steam Input](https://partner.steamgames.com/doc/features/steam_controller)
+        *   [Action Manifest Files](https://partner.steamgames.com/doc/features/steam_controller/action_manifest_file)
+        *   [Action Set Layers](https://partner.steamgames.com/doc/features/steam_controller/action_set_layers)
+        *   [Activators](https://partner.steamgames.com/doc/features/steam_controller/activators)
+        *   [Browsing Configurations](https://partner.steamgames.com/doc/features/steam_controller/browse_configs)
+        *   [General Concepts](https://partner.steamgames.com/doc/features/steam_controller/concepts)
+        *   [Getting Started for Developers](https://partner.steamgames.com/doc/features/steam_controller/getting_started_for_devs)
+        *   [Getting Started for Players](https://partner.steamgames.com/doc/features/steam_controller/getting_started_for_players)
+        *   [In-Game Actions File](https://partner.steamgames.com/doc/features/steam_controller/iga_file)
+        *   [Input Source Modes](https://partner.steamgames.com/doc/features/steam_controller/input_source_modes)
+        *   [Input Sources](https://partner.steamgames.com/doc/features/steam_controller/input_source)
+        *   [Legacy Mode Bindings](https://partner.steamgames.com/doc/features/steam_controller/legacy_mode)
+        *   [Mode Shifting](https://partner.steamgames.com/doc/features/steam_controller/mode_shifting)
+        *   [Mouse Regions](https://partner.steamgames.com/doc/features/steam_controller/mouse_regions)
+        *   [Radial Menus](https://partner.steamgames.com/doc/features/steam_controller/radial_menus)
+        *   [Steam Input Devices](https://partner.steamgames.com/doc/features/steam_controller/device)
+            *   [Microsoft Xbox 360 Controller](https://partner.steamgames.com/doc/features/steam_controller/device/x360_controller)
+            *   [Microsoft Xbox One Controller](https://partner.steamgames.com/doc/features/steam_controller/device/xb1_controller)
+            *   [Sony PlayStation 4 Controller](https://partner.steamgames.com/doc/features/steam_controller/device/ps4_controller)
+            *   [Steam Controller](https://partner.steamgames.com/doc/features/steam_controller/device/steam_controller)
+
+        *   [Steam Input Gamepad Emulation - Best Practices](https://partner.steamgames.com/doc/features/steam_controller/steam_input_gamepad_emulation_bestpractices)
+        *   [Templates for In-Game Actions Files](https://partner.steamgames.com/doc/features/steam_controller/iga_examples)
+        *   [Touch Menus](https://partner.steamgames.com/doc/features/steam_controller/touch_menus)
+        *   [Uploading Steam Input Configs to Steam Workshop](https://partner.steamgames.com/doc/features/steam_controller/workshop_uploaded_configs)
+
+    *   [Steam Inventory Service](https://partner.steamgames.com/doc/features/inventory)
+        *   [Steam Inventory Item Accessories](https://partner.steamgames.com/doc/features/inventory/accessories)
+        *   [Steam Inventory Item Dynamic Properties](https://partner.steamgames.com/doc/features/inventory/dynamicproperties)
+        *   [Steam Inventory Item Store](https://partner.steamgames.com/doc/features/inventory/itemstore)
+        *   [Steam Inventory Item Tags](https://partner.steamgames.com/doc/features/inventory/itemtags)
+        *   [Steam Inventory Item Tools](https://partner.steamgames.com/doc/features/inventory/tools)
+        *   [Steam Inventory Schema](https://partner.steamgames.com/doc/features/inventory/schema)
+        *   [Steam Inventory Web Functions](https://partner.steamgames.com/doc/features/inventory/webfunctions)
+
+    *   [Steam Keys](https://partner.steamgames.com/doc/features/keys)
+    *   [Steam Leaderboards](https://partner.steamgames.com/doc/features/leaderboards)
+        *   [Step by Step: Leaderboards](https://partner.steamgames.com/doc/features/leaderboards/guide)
+
+    *   [Steam Overlay](https://partner.steamgames.com/doc/features/overlay)
+    *   [Steam Playtest](https://partner.steamgames.com/doc/features/playtest)
+    *   [Steam Remote Play](https://partner.steamgames.com/doc/features/remoteplay)
+    *   [Steam Screenshots](https://partner.steamgames.com/doc/features/screenshots)
+    *   [Steam Timelines](https://partner.steamgames.com/doc/features/timeline)
+    *   [Steam Voice](https://partner.steamgames.com/doc/features/voice)
+    *   [Steam Workshop](https://partner.steamgames.com/doc/features/workshop)
+        *   [Steam Workshop Implementation Guide](https://partner.steamgames.com/doc/features/workshop/implementation)
+        *   [Steam Workshop Item Tags](https://partner.steamgames.com/doc/features/workshop/tags)
+
+    *   [User Authentication and Ownership](https://partner.steamgames.com/doc/features/auth)
+    *   [Virtual Reality](https://partner.steamgames.com/doc/features/steamvr)
+        *   [SteamVR](https://partner.steamgames.com/doc/features/steamvr/info)
+        *   [Application Settings for Virtual Reality](https://partner.steamgames.com/doc/features/steamvr/settings)
+        *   [SteamVR Input](https://partner.steamgames.com/doc/features/steamvr/input)
+        *   [OpenVR](https://partner.steamgames.com/doc/features/steamvr/openvr)
+        *   [SteamVR for Enterprise / Government Use](https://partner.steamgames.com/doc/features/steamvr/enterprise)
+
+*   [Finance](https://partner.steamgames.com/doc/finance)
+    *   [Developer Refund Reporting](https://partner.steamgames.com/doc/finance/refunds)
+    *   [Reporting and Payments](https://partner.steamgames.com/doc/finance/payments_salesreporting)
+        *   [Reporting and Payments FAQ](https://partner.steamgames.com/doc/finance/payments_salesreporting/faq)
+
+    *   [Taxes FAQ](https://partner.steamgames.com/doc/finance/taxfaq)
+
+*   [Sales and Marketing](https://partner.steamgames.com/doc/marketing)
+    *   [Advertising on Steam](https://partner.steamgames.com/doc/marketing/advertising)
+    *   [Best Practices, Marketing](https://partner.steamgames.com/doc/marketing/bestpractices)
+    *   [Community Moderation](https://partner.steamgames.com/doc/marketing/community_moderation)
+        *   [Adding Community Moderators](https://partner.steamgames.com/doc/marketing/community_moderation/adding_moderators)
+
+    *   [Curators and Curator Connect](https://partner.steamgames.com/doc/marketing/curators)
+    *   [Discounting](https://partner.steamgames.com/doc/marketing/discounts)
+        *   [Daily Deals](https://partner.steamgames.com/doc/marketing/discounts/dailydeal)
+        *   [Free Weekends](https://partner.steamgames.com/doc/marketing/discounts/freeweekends)
+        *   [Seasonal Sales](https://partner.steamgames.com/doc/marketing/discounts/seasonalsales)
+
+    *   [Events and Announcements Tools](https://partner.steamgames.com/doc/marketing/event_tools)
+        *   [Events and Announcements Examples](https://partner.steamgames.com/doc/marketing/event_tools/event_examples)
+        *   [Embeddable Widgets](https://partner.steamgames.com/doc/marketing/event_tools/embed)
+        *   [Events and Announcements Review Step](https://partner.steamgames.com/doc/marketing/event_tools/moderation)
+        *   [Events and Announcements Visibility](https://partner.steamgames.com/doc/marketing/event_tools/visibility)
+        *   [Events and Announcements Visibility Stats Reporting](https://partner.steamgames.com/doc/marketing/event_tools/stats)
+        *   [Event Type: Major Update](https://partner.steamgames.com/doc/marketing/event_tools/type_majorupdate)
+        *   [Event Type: Small Update / Patch Notes](https://partner.steamgames.com/doc/marketing/event_tools/type_patchnotes)
+        *   [Importing HTML](https://partner.steamgames.com/doc/marketing/event_tools/import)
+        *   [Sale Page Tools](https://partner.steamgames.com/doc/marketing/event_tools/sales)
+            *   [Sale Page Tools -- Information for Partners](https://partner.steamgames.com/doc/marketing/event_tools/sales/tools)
+            *   [Sale Page Tools - Background Groupings](https://partner.steamgames.com/doc/marketing/event_tools/sales/groups)
+            *   [Sale Page Tools - Livestreaming (Broadcasting)](https://partner.steamgames.com/doc/marketing/event_tools/sales/livestream)
+            *   [Sale Page Tools - Minimum Requirements](https://partner.steamgames.com/doc/marketing/event_tools/sales/minimum)
+            *   [Sale Page Tools - Section Types](https://partner.steamgames.com/doc/marketing/event_tools/sales/sections)
+                *   [Sale Page Section: Apps And Bundles](https://partner.steamgames.com/doc/marketing/event_tools/sales/sections/apps)
+
+    *   [Features And Tools, Marketing](https://partner.steamgames.com/doc/marketing/tools)
+    *   [Followers](https://partner.steamgames.com/doc/marketing/followers)
+    *   [Google Analytics](https://partner.steamgames.com/doc/marketing/google_analytics)
+    *   [Points Shop Items](https://partner.steamgames.com/doc/marketing/pointsshopitems)
+    *   [Profile Features](https://partner.steamgames.com/doc/marketing/profile)
+    *   [Steam Branding Guidelines](https://partner.steamgames.com/doc/marketing/branding)
+    *   [Steam Community Items](https://partner.steamgames.com/doc/marketing/tradingcards)
+    *   [Store and Platform Traffic Reporting](https://partner.steamgames.com/doc/marketing/traffic_reporting)
+    *   [Store Widget](https://partner.steamgames.com/doc/marketing/widget)
+    *   [Upcoming Steam Events](https://partner.steamgames.com/doc/marketing/upcoming_events)
+        *   [Steam Next Fest](https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest)
+            *   [Steam Next Fest - Tips](https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/tips)
+            *   [Steam Next Fest: February 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest/2026february)
+
+        *   [Steam Themed Sale Events](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales)
+            *   [Steam Animal Fest 2025](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/animal_2025)
+            *   [Steam Board Game Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/board_game_2026)
+            *   [Steam Deckbuilders Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/deckbuilders_2026)
+            *   [Steam Detective Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/detective_2026)
+            *   [Steam Hidden Object Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/hidden_object_2026)
+            *   [Steam Horse Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/horse_2026)
+            *   [Steam House & Home Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/fhouse_home_2026)
+            *   [Steam Medieval Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/medieval_2026)
+            *   [Steam Ocean Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/ocean_2026)
+            *   [Steam PvP Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/pvp_2026)
+            *   [Steam Sports Fest 2025](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/sports_2025)
+            *   [Steam Tower Defense Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/tower_defense_2026)
+            *   [Steam Typing Fest 2026](https://partner.steamgames.com/doc/marketing/upcoming_events/themed_sales/typing_2026)
+
+        *   [Steam Winter Sale 2025](https://partner.steamgames.com/doc/marketing/upcoming_events/2025_winter_sale)
+
+    *   [UTM Analytics](https://partner.steamgames.com/doc/marketing/utm_analytics)
+    *   [Visibility on Steam](https://partner.steamgames.com/doc/marketing/visibility)
+        *   [Update Visibility Rounds](https://partner.steamgames.com/doc/marketing/visibility/update_rounds)
+
+    *   [Wishlists](https://partner.steamgames.com/doc/marketing/wishlist)
+        *   [Wishlist Reporting](https://partner.steamgames.com/doc/marketing/wishlist/reporting)
+
+*   [Steamworks SDK](https://partner.steamgames.com/doc/sdk)
+    *   [Creating and using InstallScripts](https://partner.steamgames.com/doc/sdk/installscripts)
+    *   [Creating a retail and &quot;Gold Master&quot; disk](https://partner.steamgames.com/doc/sdk/goldmaster)
+    *   [Steamworks API Overview](https://partner.steamgames.com/doc/sdk/api)
+        *   [Debugging the Steamworks API](https://partner.steamgames.com/doc/sdk/api/debugging)
+        *   [Steamworks API Example Application (SpaceWar)](https://partner.steamgames.com/doc/sdk/api/example)
+
+    *   [Updating Game Build](https://partner.steamgames.com/doc/sdk/updating)
+        *   [Partial Depot Update Instructions](https://partner.steamgames.com/doc/sdk/updating/partial_depot)
+        *   [Tip - Renaming a live exe](https://partner.steamgames.com/doc/sdk/updating/rename_exe)
+
+    *   [Uploading to Steam](https://partner.steamgames.com/doc/sdk/uploading)
+        *   [Distributing Open Source Applications on Steam](https://partner.steamgames.com/doc/sdk/uploading/distributing_opensource)
+        *   [Distributing Source Engine Games / Mods](https://partner.steamgames.com/doc/sdk/uploading/distributing_source_engine)
+        *   [Distributing Your Dedicated Game Server](https://partner.steamgames.com/doc/sdk/uploading/distributing_gs)
+        *   [SteamPipe Local Content Server](https://partner.steamgames.com/doc/sdk/uploading/local_content_server)
+
+*   [Web API Overview](https://partner.steamgames.com/doc/webapi_overview)
+    *   [Authentication using Web API Keys](https://partner.steamgames.com/doc/webapi_overview/auth)
+    *   [Error Codes &amp;amp; Responses](https://partner.steamgames.com/doc/webapi_overview/responses)
+    *   [OAuth](https://partner.steamgames.com/doc/webapi_overview/oauth)
+
+*   [Accessibility Features](https://partner.steamgames.com/doc/accessibility_features)
+*   [Steam Deck](https://partner.steamgames.com/doc/steamdeck)
+    *   [Getting your game ready for Steam Deck](https://partner.steamgames.com/doc/steamdeck/recommendations)
+    *   [How to debug Windows games on Steam Deck](https://partner.steamgames.com/doc/steamdeck/debugging)
+    *   [How to load and run games on Steam Deck](https://partner.steamgames.com/doc/steamdeck/loadgames)
+    *   [Social Media Templates](https://partner.steamgames.com/doc/steamdeck/templates)
+    *   [Steam Deck and Proton](https://partner.steamgames.com/doc/steamdeck/proton)
+    *   [Steam Deck Brand Guidelines and Logos](https://partner.steamgames.com/doc/steamdeck/brandguidelines)
+    *   [Steam Deck Compatibility Review Process](https://partner.steamgames.com/doc/steamdeck/compat)
+        *   [Steam Deck Verified Landing Pages](https://partner.steamgames.com/doc/steamdeck/compat/verified)
+
+    *   [Steam Deck Developer Kits](https://partner.steamgames.com/doc/steamdeck/devkits)
+    *   [Steam Deck FAQ](https://partner.steamgames.com/doc/steamdeck/faq)
+    *   [Steam Deck SVG Line Art](https://partner.steamgames.com/doc/steamdeck/svg)
+    *   [Steamworks Virtual Conference: Steam Deck - Nov 12th 2021](https://partner.steamgames.com/doc/steamdeck/virtualconference)
+
+*   [Steam PC Café Program](https://partner.steamgames.com/doc/sitelicense)
+    *   [Licensees](https://partner.steamgames.com/doc/sitelicense/licensees)
+        *   [PC Café Requirements and Sign Up Instructions](https://partner.steamgames.com/doc/sitelicense/licensees/signup)
+        *   [Getting Started](https://partner.steamgames.com/doc/sitelicense/licensees/gettingstarted)
+            *   [Setup instructions for the PC Café model (incl. PC Café Server and Content Cache)](https://partner.steamgames.com/doc/sitelicense/licensees/gettingstarted/licensemodelpc)
+            *   [Setup instructions for the VR arcade model](https://partner.steamgames.com/doc/sitelicense/licensees/gettingstarted/licensemodelvr)
+
+        *   [Frequently Asked Questions](https://partner.steamgames.com/doc/sitelicense/licensees/faq)
+
+    *   [Publishers](https://partner.steamgames.com/doc/sitelicense/publisher)
+
+*   [Steamworks API Reference](https://partner.steamgames.com/doc/api)
+    *   [ISteamApps Interface](https://partner.steamgames.com/doc/api/ISteamApps)
+    *   [ISteamClient Interface](https://partner.steamgames.com/doc/api/ISteamClient)
+    *   [ISteamController Interface (Deprecated)](https://partner.steamgames.com/doc/api/ISteamController)
+    *   [ISteamFriends Interface](https://partner.steamgames.com/doc/api/ISteamFriends)
+    *   [ISteamGameCoordinator Interface](https://partner.steamgames.com/doc/api/ISteamGameCoordinator)
+    *   [ISteamGameServer Interface](https://partner.steamgames.com/doc/api/ISteamGameServer)
+    *   [ISteamGameServerStats Interface](https://partner.steamgames.com/doc/api/ISteamGameServerStats)
+    *   [ISteamHTMLSurface Interface](https://partner.steamgames.com/doc/api/ISteamHTMLSurface)
+    *   [ISteamHTTP Interface](https://partner.steamgames.com/doc/api/ISteamHTTP)
+    *   [ISteamInput Interface](https://partner.steamgames.com/doc/api/isteaminput)
+    *   [ISteamInventory Interface](https://partner.steamgames.com/doc/api/ISteamInventory)
+    *   [ISteamMatchmaking Interface](https://partner.steamgames.com/doc/api/ISteamMatchmaking)
+    *   [ISteamMatchmakingServers Interface](https://partner.steamgames.com/doc/api/ISteamMatchmakingServers)
+    *   [ISteamMusic Interface](https://partner.steamgames.com/doc/api/ISteamMusic)
+    *   [ISteamNetworking Interface](https://partner.steamgames.com/doc/api/ISteamNetworking)
+    *   [ISteamNetworkingMessages Interface](https://partner.steamgames.com/doc/api/ISteamNetworkingMessages)
+    *   [ISteamNetworkingSockets Interface](https://partner.steamgames.com/doc/api/ISteamNetworkingSockets)
+    *   [ISteamNetworkingUtils Interface](https://partner.steamgames.com/doc/api/ISteamNetworkingUtils)
+    *   [ISteamParties Interface](https://partner.steamgames.com/doc/api/isteamparties)
+    *   [ISteamRemotePlay Interface](https://partner.steamgames.com/doc/api/ISteamRemotePlay)
+    *   [ISteamRemoteStorage Interface](https://partner.steamgames.com/doc/api/ISteamRemoteStorage)
+    *   [ISteamScreenshots Interface](https://partner.steamgames.com/doc/api/ISteamScreenshots)
+    *   [ISteamTimeline](https://partner.steamgames.com/doc/api/ISteamTimeline)
+    *   [ISteamUGC Interface](https://partner.steamgames.com/doc/api/ISteamUGC)
+    *   [ISteamUser Interface](https://partner.steamgames.com/doc/api/ISteamUser)
+    *   [ISteamUserStats Interface](https://partner.steamgames.com/doc/api/ISteamUserStats)
+    *   [ISteamUtils Interface](https://partner.steamgames.com/doc/api/ISteamUtils)
+    *   [ISteamVideo Interface](https://partner.steamgames.com/doc/api/ISteamVideo)
+    *   [SteamEncryptedAppTicket](https://partner.steamgames.com/doc/api/SteamEncryptedAppTicket)
+    *   [steamnetworkingtypes.h](https://partner.steamgames.com/doc/api/steamnetworkingtypes)
+    *   [steam_api.h](https://partner.steamgames.com/doc/api/steam_api)
+    *   [steam_gameserver.h](https://partner.steamgames.com/doc/api/steam_gameserver)
+
+*   [Steamworks Web API Reference](https://partner.steamgames.com/doc/webapi)
+    *   [IBroadcastService Interface](https://partner.steamgames.com/doc/webapi/IBroadcastService)
+    *   [ICheatReportingService Interface](https://partner.steamgames.com/doc/webapi/ICheatReportingService)
+    *   [ICloudService Interface](https://partner.steamgames.com/doc/webapi/icloudservice)
+    *   [IEconMarketService Interface](https://partner.steamgames.com/doc/webapi/IEconMarketService)
+    *   [IEconService Interface](https://partner.steamgames.com/doc/webapi/IEconService)
+    *   [IGameInventory Interface](https://partner.steamgames.com/doc/webapi/IGameInventory)
+    *   [IGameNotificationsService Interface](https://partner.steamgames.com/doc/webapi/IGameNotificationsService)
+    *   [IGameServersService Interface](https://partner.steamgames.com/doc/webapi/IGameServersService)
+    *   [IInventoryService Interface](https://partner.steamgames.com/doc/webapi/IInventoryService)
+    *   [ILobbyMatchmakingService Interface](https://partner.steamgames.com/doc/webapi/ILobbyMatchmakingService)
+    *   [IPartnerFinancialsService Interface](https://partner.steamgames.com/doc/webapi/IPartnerFinancialsService)
+    *   [IPlayerService Interface](https://partner.steamgames.com/doc/webapi/IPlayerService)
+    *   [IPublishedFileService Interface](https://partner.steamgames.com/doc/webapi/IPublishedFileService)
+    *   [ISiteLicenseService Interface](https://partner.steamgames.com/doc/webapi/isitelicenseservice)
+    *   [ISteamApps Interface](https://partner.steamgames.com/doc/webapi/ISteamApps)
+    *   [ISteamCommunity Interface](https://partner.steamgames.com/doc/webapi/ISteamCommunity)
+    *   [ISteamEconomy Interface](https://partner.steamgames.com/doc/webapi/ISteamEconomy)
+    *   [ISteamGameServerStats Interface](https://partner.steamgames.com/doc/webapi/ISteamGameServerStats)
+    *   [ISteamLeaderboards Interface](https://partner.steamgames.com/doc/webapi/ISteamLeaderboards)
+    *   [ISteamMicroTxn Interface](https://partner.steamgames.com/doc/webapi/ISteamMicroTxn)
+    *   [ISteamMicroTxnSandbox Interface](https://partner.steamgames.com/doc/webapi/ISteamMicroTxnSandbox)
+    *   [ISteamNews Interface](https://partner.steamgames.com/doc/webapi/ISteamNews)
+    *   [ISteamPublishedItemSearch Interface](https://partner.steamgames.com/doc/webapi/ISteamPublishedItemSearch)
+    *   [ISteamPublishedItemVoting Interface](https://partner.steamgames.com/doc/webapi/ISteamPublishedItemVoting)
+    *   [ISteamRemoteStorage Interface](https://partner.steamgames.com/doc/webapi/ISteamRemoteStorage)
+    *   [ISteamUserAuth Interface](https://partner.steamgames.com/doc/webapi/ISteamUserAuth)
+    *   [ISteamUser Interface](https://partner.steamgames.com/doc/webapi/ISteamUser)
+    *   [ISteamUserStats Interface](https://partner.steamgames.com/doc/webapi/ISteamUserStats)
+    *   [ISteamWebAPIUtil Interface](https://partner.steamgames.com/doc/webapi/ISteamWebAPIUtil)
+    *   [IStoreService Interface](https://partner.steamgames.com/doc/webapi/IStoreService)
+    *   [IWorkshopService Interface](https://partner.steamgames.com/doc/webapi/IWorkshopService)
+
+Supported Currencies
+
+[Steamworks Documentation](https://partner.steamgames.com/doc/)>[Store Presence](https://partner.steamgames.com/doc/store)>[Pricing](https://partner.steamgames.com/doc/store/pricing)>[Supported Currencies](https://partner.steamgames.com/doc/store/pricing/currencies)
+
+The currencies listed as "live" below are currently available to customers on Steam. Currencies listed without being Live are ones where we collect prices and plan to release at some point in the future. Only live currencies will be used on the store and may be used for microtransactions.
+
+In countries where we don't have the native currency available, prices are presented and charged in US dollars, except for countries geographically located within Europe where the Euro is used instead.
+[](https://partner.steamgames.com/doc/store/pricing/currencies)Discounted USD Pricing where we don't have local pricing:
+------------------------------------------------------------------------------------------------------------------------
+
+**USD_CIS**
+
+We recommend a discounted USD price in the Commonwealth of Independent States and affiliated countries where we don't have local pricing. This is presented as "USD_CIS" in the pricing tools. These countries are: Armenia, Azerbaijan, Belarus, Georgia, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, and Uzbekistan.
+
+**USD_LATAM**
+
+We also recommend a discounted USD price for several LATAM countries where we don't have local pricing. This is presented as "USD_LATAM" in the pricing tools. These countries are: Belize, El Salvador, Guatemala, Honduras, Nicaragua, Panama, Argentina, Bolivia, Ecuador, Guyana, Paraguay, Suriname, and Venezuela.
+
+**USD_MENA**
+
+We also recommend a discounted USD price for several Middle East and North Africa countries and territories where we don't have local pricing. This is presented as "USD_MENA" in the pricing tools. These countries are: Bahrain, Egypt, Iraq, Jordan, Lebanon, Oman, Palestine, Turkey, Yemen, Algeria, Libya, Morocco, Tunisia, and Sudan.
+
+**USD_SASIA**
+
+We also recommend a discounted USD price for several South Asian countries where we don't have local pricing. This is presented as "USD_SASIA" in the pricing tools. These countries are: Bangladesh, Bhutan, Nepal, Pakistan, and Sri Lanka.
+
+Unless otherwise noted:
+
+*    Amount can result in a partial "dollar" value (e.g. 150 cents for $1.50).
+
+*    Amount entered into the partner site or sent to the [ISteamMicroTxn/InitTxn](https://partner.steamgames.com/doc/webapi/ISteamMicroTxn#InitTxn) API must be expressed using the hundredths value ("cents", "pence", etc.) of the selected currency ("dollar", "pound", etc.).
+
+| Currency | Live | Description |
+| --- | --- | --- |
+| AED | Yes | United Arab Emirates Dirham, reported in fils |
+| AUD | Yes | Australian Dollars, reported in cents |
+| BRL | Yes | Brazilian Reals, reported in centavos |
+| CAD | Yes | Canadian Dollars, reported in cents |
+| CHF | Yes | Swiss Francs, reported in centime |
+| CLP | Yes | Chilean Peso, reported in centavos. Must be charged in increments of 100 centavos (e.g. 1000, not 1050). |
+| CNY | Yes | Chinese Renminbi (yuan), reported in fēn |
+| COP | Yes | Colombian Peso, reported in centavos. Must be charged in increments of 100 centavos (e.g. 1000, not 1050). |
+| CRC | Yes | Costa Rican Colón, reported in céntimos. Must be charged in increments of 500 céntimos (e.g. 1000, not 1050 or 700). |
+| EUR | Yes | European Union Euro, reported in eurocents |
+| GBP | Yes | United Kingdom Pound, reported in pence |
+| HKD | Yes | Hong Kong Dollar, reported in sin |
+| ILS | Yes | Israeli New Shekel, reported in agorot |
+| IDR | Yes | Indonesian Rupiah, reported in sen. Must be charged in increments of 100 sen (e.g. 1000, not 1050). |
+| INR | Yes | Indian Rupee, reported in paise. Must be charged in increments of 100 paise (e.g. 1000, not 1050). |
+| JPY | Yes | Japanese Yen, reported in sen. Must be charged in increments of 100 sen (e.g. 1000, not 1050). |
+| KRW | Yes | South Korean Won, reported in jeon. Must be charged in increments of 1000 jeon (e.g. 2000, not 1599 or 1600). |
+| KWD | Yes | Kuwaiti Dinar, reported in hundredths of a Dinar |
+| KZT | Yes | Kazakhstani Tenge, reported in tïın. Must be charged in increments of 100 tïın (e.g. 1000, not 1050). |
+| MXN | Yes | Mexican Peso, reported in centavos |
+| MYR | Yes | Malaysian Ringgit, reported in sen |
+| NOK | Yes | Norwegian Krone, reported in Øre |
+| NZD | Yes | New Zealand Dollar, reported in cents |
+| PEN | Yes | Peruvian Sol, reported in céntimos |
+| PHP | Yes | Philippine Peso, reported in centavos |
+| PLN | Yes | Polish Złoty, reported in grosz |
+| QAR | Yes | Qatari Riyal, reported in dirham |
+| RUB | Yes | Russian Rouble, reported in kopeks |
+| SAR | Yes | Saudi Riyal, reported in halalah |
+| SGD | Yes | Singapore Dollar, reported in cents |
+| THB | Yes | Thai Baht, reported in satang |
+| TWD | Yes | New Taiwan Dollar, reported in fēn. Must be charged in increments of 100 fēn (e.g. 1000, not 1050). |
+| UAH | Yes | Ukrainian Hryvnia, reported in kopiykas. Must be charged in increments of 100 kopiykas (e.g. 1000, not 1050). |
+| USD | Yes | United States Dollar, reported in cents |
+| UYU | Yes | Uruguayan Peso, reported in centesimos. Must be charged in increments of 100 centesimos (e.g. 1000, not 1050) |
+| VND | Yes | Vietnamese Dong, reported in xu. Must be charged in increments of 50000 xu (e.g. 50000, not 45000 or 50050). |
+| ZAR | Yes | South African Rand, reported in cents |
+
+[](https://partner.steamgames.com/doc/store/pricing/currencies)Appendix A: ECurrency Values
+-------------------------------------------------------------------------------------------
+
+These are the currency values that can be provided to methods in the [IInventoryService](https://partner.steamgames.com/doc/webapi/IInventoryService) and [IEconMarketService](https://partner.steamgames.com/doc/webapi/IEconMarketService)Web APIs. Legacy values that are no longer supported are indicated with a strikethrough.
+
+*   `1` - USD / United States Dollar
+
+*   `2` - GBP / United Kingdom Pound
+
+*   `3` - EUR / European Union Euro
+
+*   `4` - CHF / Swiss Francs
+
+*   `5` - RUB / Russian Rouble
+
+*   `6` - PLN / Polish Złoty
+
+*   `7` - BRL / Brazilian Reals
+
+*   `8` - JPY / Japanese Yen
+
+*   `9` - NOK / Norwegian Krone
+
+*   `10` - IDR / Indonesian Rupiah
+
+*   `11` - MYR / Malaysian Ringgit
+
+*   `12` - PHP / Philippine Peso
+
+*   `13` - SGD / Singapore Dollar
+
+*   `14` - THB / Thai Baht
+
+*   `15` - VND / Vietnamese Dong
+
+*   `16` - KRW / South Korean Won
+
+*   `17` - TRY / Turkish Lira
+
+*   `18` - UAH / Ukrainian Hryvnia
+
+*   `19` - MXN / Mexican Peso
+
+*   `20` - CAD / Canadian Dollars
+
+*   `21` - AUD / Australian Dollars
+
+*   `22` - NZD / New Zealand Dollar
+
+*   `23` - CNY / Chinese Renminbi (yuan)
+
+*   `24` - INR / Indian Rupee
+
+*   `25` - CLP / Chilean Peso
+
+*   `26` - PEN / Peruvian Sol
+
+*   `27` - COP / Colombian Peso
+
+*   `28` - ZAR / South African Rand
+
+*   `29` - HKD / Hong Kong Dollar
+
+*   `30` - TWD / New Taiwan Dollar
+
+*   `31` - SAR / Saudi Riyal
+
+*   `32` - AED / United Arab Emirates Dirham
+
+*   `33` - SEK / Swedish Krona
+
+*   `34` - ARS / Argentine Peso
+
+*   `35` - ILS / Israeli New Shekel
+
+*   `36` - BYN / Belarusian Ruble
+
+*   `37` - KZT / Kazakhstani Tenge
+
+*   `38` - KWD / Kuwaiti Dinar
+
+*   `39` - QAR / Qatari Riyal
+
+*   `40` - CRC / Costa Rican Colón
+
+*   `41` - UYU / Uruguayan Peso
+
+*   `42` - BGN / Bulgarian Lev
+
+*   `43` - HRK / Croatian Kuna
+
+*   `44` - CZK / Czech Koruna
+
+*   `45` - DKK / Danish Krone
+
+*   `46` - HUF / Hungarian Forint
+
+*   `47` - RON / Romanian Leu
+
+![Image 4: A 140x29 small image, likely a logo, icon or avatar](https://partner.steamgames.com/public/images/steamworks_logo_white.png)
+
+Steamworks is the set of tools and services built by [Valve](https://www.valvesoftware.com/) that help you configure, manage, and operate your game on [Steam](https://store.steampowered.com/).
+
+[![Image 5: A 55x16 small image, likely a logo, icon or avatar](https://partner.steamgames.com/public/images/valve_logo_white_small.png)](http://www.valvesoftware.com/)[![Image 6: A 55x16 small image, likely a logo, icon or avatar](https://partner.steamgames.com/public/images/steam_logo_white_small.png)](https://store.steampowered.com/)
+
+*   _Documentation_
+*   [Home](https://partner.steamgames.com/doc/)
+*   [Getting Started](https://partner.steamgames.com/doc/gettingstarted)
+*   [Store Presence](https://partner.steamgames.com/doc/store)
+*   [Features](https://partner.steamgames.com/doc/features)
+*   [Finance](https://partner.steamgames.com/doc/finance)
+*   [Sales & Marketing](https://partner.steamgames.com/doc/marketing)
+*   [Steamworks SDK](https://partner.steamgames.com/doc/sdk)
+*   [Café Licensing](https://partner.steamgames.com/pccafe)
+*   [Steam VR](https://partner.steamgames.com/doc/features/steamvr/info)
+
+*   _Resources_
+*   [Steam VR](https://partner.steamgames.com/vrlicensing)
+*   [Steam PC Café Program](https://partner.steamgames.com/pccafe)
+*   [Steamworks Discussions](https://steamcommunity.com/groups/steamworks/discussions)
+*   [Steamworks Video Tutorials](https://www.youtube.com/user/SteamworksDev)
+*   [![Image 7: X: @Steamworks](https://store.fastly.steamstatic.com//public/shared/images/ico/ico_twitter.png)](http://twitter.com/Steamworks)|[![Image 8: Bluesky: Steamworks](https://store.fastly.steamstatic.com//public/shared/images/ico/ico_bsky.png)](https://bsky.app/profile/partner.steamgames.com)
+*   [Contact Support](https://help.steampowered.com/en/wizard/HelpWithPublishing)
+
+*   _News & Updates_
+*   [Steamworks Blog](https://store.steampowered.com/news/group/4145017)
+*   [Steam Blog](https://store.steampowered.com/news/app/593110)
+*   [Steam VR Blog](https://store.steampowered.com/news/app/250820)
+*   [Steam Deck Blog](https://store.steampowered.com/news/app/1675200)

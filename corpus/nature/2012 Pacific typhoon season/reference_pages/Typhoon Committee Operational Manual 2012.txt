@@ -1,0 +1,1605 @@
+# Typhoon Committee Operational Manual 2012
+
+W O R L D M E T E O R O L O G I C A L O R G A N I Z A T I O N T E C H N I C A L D O C U M E N T 
+
+WMO/TD-No. 196 
+
+TROPICAL CYCLONE PROGRAMME 
+
+Report No. TCP-23 
+
+# TYPHOON COMMITTEE OPERATIONAL MANUAL METEOROLOGICAL COMPONENT 
+
+# 2012 Edition 
+
+SECRETARIAT OF THE WORLD METEOROLOGICAL ORGANIZATION GENEVA SWITZERLAND © World Meteorological Organization 2012 N O T E The designations employed and the presentation of material in this document do not imply the expression of any opinion whatsoever on the part of the Secretariat of the World Meteorological Organization concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. i2012 Edition 
+
+CONTENTS 
+
+Page 
+
+CHAPTER 1 - GENERAL 11.1 Introduction 11.2 Terminology used in the region 21.2.1 General 21.2.2 Classification of tropical cyclones 21.2.3 Tropical cyclone characteristics 21.2.4 Terms related to the warning and warning system 31.3 Meaning of terms used for regional exchange 31.4 Units used for regional exchange 51.5 Identification of tropical cyclones 61.6 Acronyms 6CHAPTER 2 - OBSERVING SYSTEM AND OBSERVING PROGRAMME 72.1 Networks of synoptic land stations 72.1.1 Surface observations 72.1.2 Upper-air synoptic observations 72.2 Ship and buoy observations 82.3 Radar observations 82.4 Meteorological satellite observations 82.4.1 Satellite imagery data and related products 82.4.2 SAREP reports 92.5 Aircraft observations 92.6 Tropical cyclone passage report 9CHAPTER 3 - TROPICAL CYCLONE ANALYSIS AND FORECAST 10 3.1 Analysis at RSMC Tokyo - Typhoon Center 10 3.2 Forecast at RSMC Tokyo - Typhoon Center 16 3.3 Operational analysis and forecast at centres of Typhoon Committee Members 16 CHAPTER 4 - TROPICAL CYCLONE WARNINGS AND ADVISORIES 17 4.1 General 17 4.2 Classification of tropical cyclones 17 4.3 Tropical cyclone advisories 17 4.4 Tropical cyclone warnings for the high seas 18 4.5 Warnings and advisories for aviation 18 CHAPTER 5 - TELECOMMUNICATIONS 19 5.1 General 19 5.2 Dissemination of data and products 19 5.3 Schedule for exchange of cyclone advisories 19 5.4 Meteorological telecommunication network for the Typhoon Committee region 20 5.5 Addresses, telex/cable and telephone numbers of the tropical cyclone warning centres 22 5.6 Abbreviated headings of tropical cyclone advisories and warnings 22 5.7 Exchange of information related to tropical cyclones 23 ii 2012 Edition 
+
+Page 
+
+CHAPTER 6 - MONITORING AND QUALITY CONTROL OF DATA 24 6.1 Quality control of observational data 24 6.2 Monitoring of exchange of information 24 6.3 Verification 24 CHAPTER 7 - ARCHIVAL OF DATA 26 7.1 Data to be archived by Typhoon Committee Members 26 7.2 Data to be archived by RSMC Tokyo - Typhoon Center 26 7.3 Exchange of archived data 26 ________________ iii 2012 Edition 
+
+APPENDICES 
+
+1-A Guidelines for converting between various wind averaging periods in tropical cyclone conditions 1-B Classifications of Tropical Cyclones in the western North Pacific internally used by Members 1-C Revised list of names for tropical cyclones adopted by the Typhoon Committee for the western North Pacific Ocean and the South China Sea 1-D List of acronyms used in the Operational Manual - Meteorological Component -2-A List of stations from which enhanced surface observations are available 2-B List of stations from which enhanced upper-air observations are available 2-C Distribution of the radar stations of Typhoon Committee Members 2-D Technical specifications of radars of Typhoon Committee Members 2-E Schedule of MTSAT observation and dissemination 2-F Satellite imagery receiving facilities at Typhoon Committee Members 2-G Tropical cyclone passage report form 3-A Outline of RSMC Tokyo - tropical cyclone prediction models 3-B Operational typhoon track forecast methods used by Typhoon Committee Members 3-C Samples of the operational procedures and methods for the tropical cyclone analysis and forecasting 3-D Outline of KMA - Typhoon Dynamic Models 3-E Outline of HKO - Non-Hydrostatic Model (NHM) 4-A Examples of advisories issued from RSMC Tokyo - Typhoon Center 4-B Weather forecast areas 4-C Stations broadcasting cyclone warnings for ships on the high seas 5-A List of addresses, telex/cable and telephone numbers of the Tropical Cyclone Warning Centers in the region 5-B Abbreviated headings for the tropical cyclone warnings 5-C Collection and distribution of information related to tropical cyclones 5-D Table of abbreviated headings (TTAAii CCCC) 6-A Examples of the message format for inquiry on doubtful and garbled reports iv 2012 Edition 6-B Procedures of regular monitoring at RSMC Tokyo - Typhoon Center 6-C Example of best track report 6-D Standard procedures for the verification of typhoon analysis and forecast at national Meteorological Centres 6-E Verification sheet for positioning of the centre, prediction of movement, and analysis and forecast of intensity of tropical cyclones 7-A List of data archived by RSMC Tokyo - Typhoon Center 7-B Global tropical cyclone track and intensity data set - report format 12012 Edition 
+
+# CHAPTER 1 GENERAL 
+
+1.1 Introduction Typhoons have always been a major threat to the Typhoon Committee region. As a result, they are a common target for meteorological services in the region to monitor, analyse, forecast and warn against. Under the spirit of international co-operation, a regional programme to mitigate the damage due to tropical cyclones was launched by the Typhoon Committee which was established in 1968. Since its establishment under the auspices of ESCAP in co-operation with WMO, the Typhoon Committee has developed its area of activities to consist of three components, i.e., meteorological, hydrological and disaster prevention and preparedness. Of these components, the meteorological component aims at improving and upgrading the analysis and forecast used for the routine operation. For this purpose, the Typhoon Committee has arranged a variety of co-operation efforts. One of the epoch-making events in the history of the Committee was the Typhoon Operational Experiment (TOPEX), which was organized for all three components. (The third component was specifically organized as Warning Dissemination and Information Exchange Component). The Meteorological Component of TOPEX had a co-operation programme where concerted efforts were exerted to analyze and forecast specified typhoons using common technical procedures. The procedures were described in the TOPEX Operational Manual which had been utilized in meteorological services in the Typhoon Committee region during the operational phase of TOPEX. Activities of the Meteorological Component of the Typhoon Committee – including execution of the meteorological component of TOPEX for three years – had been planned and organized under the Tropical Cyclone Programme (TCP) of the World Meteorological Organization (WMO). The main long-term objective of the TCP is to assist Members in upgrading the capabilities of NMHSs to provide better tropical cyclone, related flood and storm surge forecasts and more effective warnings through regionally coordinated systems, and to encourage Members to establish national disaster prevention and preparedness measures. As a result of international cooperation and coordination, and with the aid of meteorology and modern technology, such as satellites, weather radars and computers, all tropical cyclones around the globe are now being monitored from their early stages of formation and throughout their lifetime. Six centres designated by WMO as Regional Specialized Meteorological Centres (RSMCs) located in Honolulu, La Reunion, Miami, Nadi (Fiji), New Delhi and Tokyo, as well as other centres of national Meteorological Services carry out these activities. These centres also provide forecasts on the behaviour of tropical cyclones, their movement and changes in intensity and on associated phenomena –principally storm surges and flash floods. The responsibility of the RSMC Tokyo - Typhoon Center is the provision of information on tropical cyclones for Members of the Typhoon Committee. Information should include formation, movement and development of tropical cyclones and associated 2
+
+> 2012 Edition
+
+meteorological phenomena. In addition, synoptic scale atmospheric situation which affects the behaviour of tropical cyclones should also be prepared by the RSMC Tokyo - Typhoon Center and disseminated to NMCs in the appropriate format for operational processing. The RSMC Tokyo - Typhoon Center should be operational throughout the year and be manned round the clock when a tropical cyclone exists over the region concerned. The RSMC Tokyo - Typhoon Center should also carry out non-operational functions such as training. In order to implement the RSMC Tokyo - Typhoon Center in the Typhoon Committee region, the Regional Co-operation Programme was discussed and adopted by the Typhoon Committee at its Extraordinary Session (Manila, March 1986). At the same time, the Committee approved a draft of the Typhoon Committee Operational Manual which specifies in more detail the extent and type of activity of the RSMC Tokyo - Typhoon Center and shows the direction of realizing the regional co-operation between Members. The Operational Manual consists of the text and the appendices. Items included in the text relate to the Typhoon Committee agreement, in particular, basic information for executing meteorological operation, whilst the appendices contain national practices and procedures (it is felt that the Member concerned should have the right to be able to change without having to get prior formal agreement of the Typhoon Committee) together with detailed and technical information for meteorological operation. Information described in WMO official publications such as Manuals is only referred to and not included in this Manual. Since March 1986, the draft of the Operational Manual has been revised and is still subject to further refinement and revision through experience gained in the use of the Operational Manual. It is also intended that the text of the Manual be updated or revised from time to time by the Typhoon Committee and that each item of information given in the appendices relating to the Manual be kept up to date by the Members concerned. 1.2 Terminology used in the region 1.2.1 General Typhoon Committee Members 1.2.2 Classification of tropical cyclones *, ** (i) Low pressure area (L) (ii) Depression or tropical depression (TD) (iii) Tropical storm (TS) (iv) Severe tropical storm (STS) (v) Typhoon (TY) 1.2.3 Tropical cyclone characteristics (i) position of centre (ii) confidence in the centre position (iii) size and shape of eye, if any (iv) central pressure (v) direction of movement (vi) speed of movement   
+
+> *"Tropical cyclone" is a generic term that includes tropical depression, tropical storm, severe tropical storm and typhoon.
+> ** Classifications internally used by Members are shown in Appendix 1-B. 3
+> 2012 Edition
+
+(vii) maximum sustained wind (viii) gusts (ix) storm radius (x) gale radius (xi) storm surge potential for a particular coastal location (xii) storm tide potential for a particular coastal location 1.2.4 Terms related to the warning and warning system (i) typhoon season (ii) tropical cyclone advisory (iii) tropical cyclone information bulletin (iv) gale warning (v) storm warning (vi) typhoon warning (vii) visual storm signals (viii) high sea bulletin (ix) coastal weather bulletin (x) bulletin or cyclone warning bulletin 1.3 Meaning of terms used for regional exchange Average wind speed: Speed of the wind averaged over the previous 10 minutes (mean surface wind) as read from the anemogram or the 3 minutes mean determined with the non-recording anemometer or wind averaged over the previous 1 minute (mean surface wind) at 10 meter height or estimated wind at sea by mariners using the Beaufort scale. Bulletin: Cyclone warning bulletin Central pressure of a tropical cyclone: Surface pressure at the centre of the tropical cyclone as measured or estimated. Centre fix of the tropical cyclone: The estimated location of the centre of a tropical cyclone. Centre of the tropical cyclone: The centre of the cloud eye, or if not discernible, of the wind/pressure centre. Confidence in the centre position: Degree of confidence in the centre position of a tropical cyclone expressed as the radius of the smallest circle within which the centre may be located by the analysis. "Position good" implies a radius of 30 nautical miles (55 kilometres) or less. "Position fair", a radius of 30 to 60 nautical miles (55 to 110 km) and "Position poor", a radius of greater than 60 nautical miles (110 km). Cyclone: Tropical cyclone Cyclone warning bulletin: A priority message for exchange of tropical cyclone information and advisories. Direction of movement of the tropical cyclone: The direction towards which the centre of the tropical cyclone is moving. Extra-tropical cyclone: Low-pressure system which develops in latitudes outside the tropics. 4
+
+> 2012 Edition
+
+Eye of the tropical cyclone: The relatively clear and calm area inside the circular wall of convective clouds, the geometric centre of which is the centre of the tropical cyclone. Gale force wind: Average surface wind speed of 34 to 47 knots. Gale warning: Meteorological message intended to warn those concerned of the occurrence or expected occurrence of average wind speed in the range of 34 to 47 knots, or wind force 8 or 9 in the Beaufort scale. Gust: Instantaneous peak value of surface wind speed. Low pressure area: Region of the atmosphere in which the pressures are lower than those of the surrounding region at the same level. (On the weather map, the low pressure area is denoted with the capital L within the innermost isobar without showing the centre position.) Maximum sustained wind * : Maximum value of the average wind speed at the surface. Mean wind speed: Average wind speed. Reconnaissance aircraft centre fix of the tropical cyclone, vortex fix: The location of the centre of a tropical cyclone obtained by reconnaissance aircraft penetration. Severe tropical storm: A tropical cyclone with the maximum sustained winds of 48 knots (24.5 m/s, 89 km/h) to 63 knots (32.6 m/s, 117 km/h) near the centre. Speed of movement of the tropical cyclone: Speed of movement of the centre of the tropical cyclone. Storm force wind: Average surface wind speed of 48 to 63 knots. Storm surge: The difference between the actual water level under the influence of a meteorological disturbance (storm tide) and the level which would have been attained in the absence of the meteorological disturbance (i.e. astronomical tide). (Storm surge results mainly from the shoreward movement of water under the action of wind stress. A minor contribution is also made by the hydrostatic rise of water resulting from the lowered barometric pressure.) Storm tide: The actual sea level as influenced by a weather disturbance. The storm tide consists of the normal astronomical tide and the storm surge. Storm warning: Meteorological message intended to warn those concerned of the occurrence or expected occurrence of average wind speeds in the range of 48 to 63 knots or wind force 10 or 11 in the Beaufort scale. Sub-tropical cyclone: A low pressure system, developing over sub-tropical waters which initially contains few tropical characteristics. With time the sub-tropical cyclone can become tropical. Sustained wind speed: Average wind speed. Average period of one, three or ten minutes is depending upon the regional practices.  
+
+> *For converting the wind speeds of different averaging periods such as 1-min, 2-min, 3-min and 10-min, Tropical Cyclone Programme of WMO recommends to follow the guidelines as shown in the Appendix 1-B. 5
+> 2012 Edition
+
+Tropical cyclone: Generic term for a non-frontal synoptic scale cyclone originating over tropical or sub-tropical waters with organized convection and definite cyclonic surface wind circulation. (The term is also used for a storm in the South-West Indian Ocean in which the maximum of the sustained wind speed* is estimated to be in the range of 64 to 90 knots and in the South Pacific and South-East Indian Ocean with the maximum of the sustained over 33 knots.) Tropical cyclone advisory: A priority message for exchanging information, internationally, on tropical cyclones. Tropical depression: A tropical cyclone with the maximum sustained winds of 33 knots (17.1 m/s, 61 km/h) or less near the centre. Tropical disturbance: A non-frontal synoptic scale cyclone originating in the tropics or sub-tropics with enhanced convection and light surface winds. Tropical storm: A tropical cyclone with the maximum sustained winds of 34 knots (17.2 m/s, 62 km/h) to 47 knots (24.4 m/s, 88 km/h) near the centre. Tropical wave: A trough or cyclonic curvature maximum in the trade wind easterlies or equatorial westerlies. The wave may reach maximum amplitude in the lower middle troposphere, or may be the reflection of an upper-troposphere cold low or equatorial extension of a mid-latitude trough. Typhoon: A tropical cyclone with the maximum sustained winds of 64 knots (32.7 m/s, 118 km/h) or more near the centre. Typhoon force wind: Average surface wind speed of 64 knots or more. Typhoon warning: Meteorological message intended to warn those concerned of the occurrence or expected occurrence of the mean wind speed of 64 knots (32.7 m/s, 118 km/h) or higher, or wind force 12 in the Beaufort scale. Visual storm signals: Visual signals displayed at coastal points to warn ships of squally winds, gales and tropical cyclones. Weather warning: Meteorological message issued to provide appropriate warnings or hazardous weather conditions. Zone of disturbed weather: A zone in which the pressure is low relative to the surrounding region and there are convective cloud masses which are not organized. 1.4 Units used for regional exchange (a) The following units/indicators are used for marine purposes: (i) Distance in nautical miles, the unit (nm) being stated; (ii) Location (position) by degrees and where possible tenths of degrees of latitude and longitude preferably expressed by words; (iii) Direction to the nearest sixteen points of the compass or in degree to the nearest ten, given in words; 6
+
+> 2012 Edition
+
+(iv) Speed (wind speed and speed of movement of tropical cyclones) in knots, the unit (kt) being stated; (v) Confidence in the centre position in nautical miles (nm) or in position good, fair or poor; (b) The following units/indicators are used in non-coded segments of exchanges, other than marine bulletins: (i) Distance in kilometres (km) or nautical miles (nm); (ii) Location (position) by degrees and tenths of degrees in figures of latitude and longitude and/or bearing on the sixteen point compass and distance from well-known fixed place(s); (iii) Direction in sixteen points of compass given in figures; (iv) Speed (wind speed and speed of movement of system) in knots (kt), metres per second (m/s) or kilometres per hour (km/h); (v) Confidence in the centre position in kilometres (km), nautical miles (nm) or in position good, fair or poor. 1.5 Identification of tropical cyclones As soon as the wind speed in a tropical cyclone in the responsible area of the RSMC Tokyo - Typhoon Center (between 0°N and 60°N and between 100°E and 180°E) attains 34 knots, it will be given an identification name with a 4-digit number by the RSMC Tokyo - Typhoon Center. Each tropical cyclone should be identified by one of the names in Appendix 1-C, followed by the 4-digit number in brackets, whose number will consist of a year identification and a serial number identification (in two digits each). For example, the first tropical cyclone attaining the 34 knots threshold value in 2000 in the responsible area of the RSMC Tokyo-Typhoon Center will be identified as Damrey (0001). If the life of a tropical cyclone spans two calendar years, it will be accounted for in the year in which it has intensified to the stage where the wind speed has attained the 34 knots threshold value. 1.6 Acronyms A list of acronyms used in this Operational Manual is shown in Appendix 1-D. _______________ 7
+
+> 2012 Edition
+
+# CHAPTER 2 OBSERVING SYSTEM AND OBSERVING PROGRAMME 
+
+2.1 Networks of synoptic land stations The surface and upper-air stations in the regional basic synoptic network are those of the Typhoon Committee Members and are registered in Weather Reporting Volume A -Observing stations (WMO Publication No. 9). The RSMC Tokyo - Typhoon Center and all Typhoon Committee Members should initiate enhanced observation programmes for their stations in the area within 300 km of the centre of a tropical cyclone of TS intensity or higher. All the observations should be made available to the RSMC Tokyo - Typhoon Center and all Members. Enhanced observations should include: (i) surface observations - hourly; (ii) buoy observations - hourly; (iii) radar observations - hourly; (iv) upper-air observations - 6-hourly. 2.1.1 Surface observations All surface stations included in the regional basic synoptic network should make surface observations at the four main standard times of observation, i.e., 0000, 0600, 1200 and 1800 UTC, and at the four intermediate standard times of observation, i.e., 0300, 0900, 1500 and 2100 UTC. Any surface station that cannot carry out the full observational programme should give priority to carrying out the observations at the main standard times. Additional surface observations at hourly intervals may be requested by any Member, whenever a tropical cyclone becomes an imminent threat to the Member, from the stations shown in Appendix 2-A. 2.1.2 Upper-air synoptic observations All the upper-air stations included in the regional basic synoptic network should carry out radiosonde and radiowind observations at 0000 and 1200 UTC, and radiowind observations at 0600 and 1800 UTC. The radiosonde/radiowind observations carried out at 0000 and 1200 UTC should reach the 30 hPa level for more than 50 per cent of the ascents. The carrying out of the radiosonde/radiowind observations at 0000 and 1200 UTC should receive priority over the radiowind observations at 0600 and 1800 UTC. Upper-air stations in the areas affected by tropical cyclones of TS intensity or higher should also make radiowind observations at 0600 and 1800 UTC which should aim at reaching the 70 hPa level. Enhanced upper-air observations given in Appendix 2-B will be made as appropriate whenever a tropical cyclone of TS intensity or higher is centred within 300 km of the station. The minimum required is two observations per day, but for a better understanding of the ambient wind field three or even four ascents per day on some days should be made when possible. All data of these enhanced upper-air observations will be distributed among the Members. 8
+
+> 2012 Edition
+
+In addition to the upper-air synoptic observations, newly developed observations such as wind profiler observations should be carried out when possible and the data should be made available to the Members. 2.2 Ship and buoy observations Hourly marine meteorological observations are made by the JMA research vessels (call signs of them are: JPBN and JGQH) in the seas adjacent to Japan and in the western North Pacific. Upper-air observations are usually made twice a day (00, 12 UTC) on board the JMA research vessel JGQH. Enhanced upper-air observations are carried out six-hourly when these ships are in the vicinity of a tropical cyclone of TS intensity or higher. Marine meteorological observations are made by the Voluntary Observing Ships which are recruited by the Members in accordance with the WMO Voluntary Observing Ship's Scheme. These are generally carried out every six hours and transmitted over the GTS. Marine meteorological observations, namely air pressure, sea surface temperature, significant wave height and period, are also made by the JMA drifting ocean data buoys every 3 hours in the western North Pacific. When waves are higher than thresholds set beforehand, the buoy changes into the hourly observation mode automatically. All reports are coded in the BUOY code (FM18), and immediately put onto the GTS with the header “SSVB01-19 RJTD”. 2.3 Radar observations It is essential that radar observations continue as long as a tropical cyclone of TS intensity or higher remains within the detection range of the radar. All meteorological centres should co-operate to ensure that the radar observations are transmitted through the GTS to the RSMC Tokyo - Typhoon Center and all Members. Reports will be coded in the BUFR code (FM-94) with RADOB Template (TM316050) and/or the RADOB code (FM 20-VIII). In case the report is in plain language, the full range of information available at the radar station should be given. The message will therefore include, where available, the confirmation of the determination of the centre, the shape, definition, size and character tendency of the eye, the distance between the end of the outermost band and the centre of the cyclone and the direction and speed of movement with a statement of the interval of time over which the movement was calculated. Distribution of the radar stations and detailed information on the radar equipment of the Typhoon Committee Members are given in Appendices 2-C and 2-D. 2.4 Meteorological satellite observations 
+
+2.4.1 Satellite imagery data and related products The meteorological satellite information obtained by MTSAT and related products are operated as follows: (i) full disk data are obtained hourly; (ii) half disk data in the northern hemisphere are obtained hourly in addition to the full disk data; 9
+
+> 2012 Edition
+
+(iii) additional half disk data in the northern and southern hemispheres for Atmospheric Motion Vector (AMV) extraction are obtained six-hourly; (iv) AMV data are derived hourly; (v) Clear Sky Radiance (CSR) data are derived hourly from the full disk data. Detailed information is given in Appendix 2-E. A list of satellite imagery receiving facilities at meteorological centres of the Typhoon Committee Members is given in Appendix 2-F. 2.4.2 SAREP reports SAREP reports (Part A) are disseminated eight times a day in the following cases from the RSMC Tokyo - Typhoon Center to Typhoon Committee Members through the GTS under the heading of IUCC10 RJTD in the BUFR code (FM 94): (i) when a tropical cyclone of TS intensity or higher is located in the responsible area of the RSMC Tokyo - Typhoon Center; (ii) when a tropical depression existing in the responsible area is forecasted to have an intensity of TS or higher within 24 hours; or (iii) when an area of wind speed of 34 knots or higher caused by a tropical cyclone is forecasted to be in the responsible area within 24 hours. 2.5 Aircraft observations Reports from aircraft in flight (AIREPs) in Asia and neighbouring areas are collected and exchanged according to the Regional OPMET Bulletin Exchange (ROBEX) scheme. AIREPs are collected by the centres in the Typhoon Committee Members areas and transmitted to the ROBEX centres at Bangkok, Beijing, Hong Kong, Kuala Lumpur and Tokyo. AIREPs in the north-east Pacific area are also collected by the centres at Honolulu, Washington, etc., and relayed to Tokyo. AMDAR (Aircraft Meteorological Data Relay) reports are collected by the centre at Tokyo. All reports will be disseminated in real-time to the RSMC Tokyo - Typhoon Center and to other Members through GTS and AFTN circuits. 2.6 Tropical cyclone passage report Each Member’s tropical cyclone forecast center should compile reliable passage, landfall, near-buoy passage and near-ship passage data, tabulate that data and send it to the Typhoon Committee Secretariat (TCS) within a week after cyclone passage for distribution to other Members. The task is assigned to the focal point for the meteorological component of each Member. A proposed tropical cyclone passage report form is shown in Appendix 2-G. _______________ 10 
+
+> 2012 Edition
+
+# CHAPTER 3 TROPICAL CYCLONE ANALYSIS AND FORECAST 
+
+3.1 Analysis at RSMC Tokyo - Typhoon Center The RSMC Tokyo - Typhoon Center should produce analyses of various meteorological parameters in chart form and/or in grid point value depending on the facilities of NMCs to process these products. These analyses should include pressure distribution at the sea level and temperature, geo-potential height, humidity and wind at selected pressure levels. The streamline analysis is indispensable over the tropical region for forecasting tropical cyclones. The RSMC Tokyo - Typhoon Center should produce streamline analyses of the upper and lower atmospheric levels utilizing cloud motion wind, aircraft reports, as well as upper-air observations. Furthermore, the RSMC Tokyo - Typhoon Center should issue analyses of ocean wave and sea surface temperature for the western North Pacific. A list of products provided by the RSMC Tokyo - Typhoon Center is given in Tables 3.1 to 3.3. The RSMC Tokyo - Typhoon Center should produce additional analyses of the tropical cyclone when it is in the responsible area, based on the enhanced observations. Such analyses should be disseminated in the form of additional bulletins consisting of information on: (i) position of the tropical cyclone; (ii) direction and speed of movement; (iii) central pressure; (iv) maximum wind and wind distribution. Various analyses based on MTSAT data other than cloud imagery itself should be produced by the RSMC Tokyo - Typhoon Center. Analysis of sea-surface temperature combining satellite data and in-situ measurements should be prepared every five days. These analyses are useful for the better understanding of the tropical atmosphere and medium-range assessment of forecasting tropical cyclones. 11 
+
+2012 Edition 
+
+Table 3.1 Chart-form output products transmitted by RSMC Tokyo - Typhoon Center for regional purposes 
+
+Model Area Contents and Level Forecast hours Initial time Availability Global Analysis/ Forecast Models A’ (Far East) 500hPa (Z, ζ) Analysis 00, 12UTC GTS 24, 36 00, 12UTC GTS, JMH 500hPa (T), 700hPa (D) 24, 36 00, 12UTC GTS, JMH 700hPa ( ω), 850hPa (T, A) Analysis 00, 12UTC GTS 24, 36 00, 12UTC GTS, JMH Surface (P, R, A) 24, 36 00, 12UTC GTS, JMH C (East Asia) 300hPa (Z, T, W, A) Analysis 00UTC GTS 500hPa (Z, T, A) Analysis 00, 12UTC GTS, JMH 500hPa (Z, ζ) 48, 72 00, 12UTC GTS 700hPa (Z, T, D, A) Analysis 00, 12UTC GTS 700hPa ( ω), 850hPa (T, A) 48, 72 12UTC GTS 850hPa (Z, T, D, A) Analysis 00, 12UTC GTS, JMH Surface (P, R) 24, 48, 72 00, 12UTC GTS, JMH 96, 120 12UTC JMH O (Asia) 500hPa (Z, ζ) 96, 120, 144, 168, 192 12UTC GTS 850hPa (T), Surface (P) Q(Asia Pacific) 200hPa (Z, T, W), Tropopause (Z) Analysis 00, 12UTC GTS 250hPa (Z, T, W) Analysis, 24 00, 12UTC 500hPa (Z, T, W) 00, 12UTC D (N.H.) 500hPa (Z, T) Analysis 12UTC GTS W(NW Pacific) 200hPa (streamline) Analysis, 24, 48 00, 12UTC GTS 850hPa (streamline) 00, 12UTC JCDAS D’ (N.H.) 100hPa (Z, Z anomaly to climatology) 5-day average of analysis 00UTC GTS 500hPa (Z, Z anomaly to climatology) Ocean Wave C’’ (NW Pacific) Surface (height, period and direction) 12, 24, 48, 72 00, 12UTC GTS, JMH Notes: (a) Area A’, C, O, Q, D, W, D’ and C’’ are illustrated in Figure 3.1. (b) Contents Z: geopotential height ζ: vorticityT: temperature D: dewpoint depression ω: vertical velocity W: wind speed by isotach A: wind arrowsP: sea level pressure R: rainfall 12 
+
+2012 Edition 
+
+Figure 3.1 Output areas for facsimile charts transmitted through GTS and radio facsimile JMH 13 
+
+2012 Edition 
+
+Table 3.2 NWP products (GSM and EPS) provided by RSMC Tokyo - Typhoon Center 
+
+(Available at http://www.wis-jma.go.jp/cms/) Model GSM GSM GSM Area and resolution Whole globe, 1.25°×1.25° 20°S–60°N, 60°E–160°W 1.25°×1.25° Whole globe, 2.5°×2.5° Levels and elements 10 hPa: Z, U, V, T 20 hPa: Z, U, V, T 30 hPa: Z, U, V, T 50 hPa: Z, U, V, T 70 hPa: Z, U, V, T 100 hPa: Z, U, V, T 150 hPa: Z, U, V, T 200 hPa: Z, U, V, T, ψ, χ
+
+250 hPa: Z, U, V, T 300 hPa: Z, U, V, T, H, ω
+
+400 hPa: Z, U, V, T, H, ω
+
+500 hPa: Z, U, V, T, H, ω, ζ
+
+600 hPa: Z, U, V, T, H, ω
+
+700 hPa: Z, U, V, T, H, ω
+
+850 hPa: Z, U, V, T, H, ω, ψ, χ
+
+925 hPa: Z, U, V, T, H, ω
+
+1000 hPa: Z, U, V, T, H, ω
+
+Surface: P, U, V, T, H, R† 10 hPa: Z, U, V, T 20 hPa: Z, U, V, T 30 hPa: Z, U, V, T 50 hPa: Z, U, V, T 70 hPa: Z, U, V, T 100 hPa: Z, U, V, T 150 hPa: Z, U, V, T 200 hPa: Z § , U § , V §, T § , ψ, χ
+
+250 hPa: Z, U, V, T 300 hPa: Z, U, V, T, D 400 hPa: Z, U, V, T, D 500 hPa: Z § , U § , V §, T § , D §, ζ
+
+700 hPa: Z § , U § , V §, T § , D §, ω
+
+850 hPa: Z § , U § , V §, T § , D §, ω, ψ, χ
+
+925 hPa: Z, U, V, T, D, ω
+
+1000 hPa: Z, U, V, T, D Surface: P ¶ , U ¶, V ¶ , T ¶ , D ¶ , R ¶10 hPa: Z*, U*, V*, T* 20 hPa: Z*, U*, V*, T* 30 hPa: Z°, U°, V°, T° 50 hPa: Z°, U°, V°, T° 70 hPa: Z°, U°, V°, T° 100 hPa: Z°, U°, V°, T° 150 hPa: Z*, U*, V*, T* 200 hPa: Z, U, V, T 250 hPa: Z°, U°, V°, T° 300 hPa: Z, U, V, T, D*‡ 400 hPa: Z*, U*, V*, T*, D*‡ 500 hPa: Z, U, V, T, D*‡ 700 hPa: Z, U, V, T, D 850 hPa: Z, U, V, T, D 1000 hPa: Z, U*, V*, T*, D*‡ Surface: P, U, V, T, D‡, R† Forecast hours 0–84 every 6 hours and 96–192 every 12 hours † Except analysis 0–84 (every 6 hours) § 96–192 (every 24 hours) for 12UTC initial ¶ 90–192 (every 6 hours) for 12UTC initial 0–72 every 24 hours and 96–192 every 24 hours for 12UTC ° 0–120 for 12UTC † Except analysis * Analysis only Initial times 00, 06, 12, 18UTC 00, 06, 12, 18UTC 00UTC and 12UTC ‡ 00UTC only Model GSM Mid-range EPS Area and resolution 20°S–60°N, 80°E–200°E 2.5°×2.5° (to be terminated in March 2012) Whole globe, 2.5°×2.5° Levels and elements 100 hPa: Z, U, V, T 150 hPa: Z, U, V, T 200 hPa: Z, U, V, T 250 hPa: Z, U, V, T 300 hPa: Z, U, V, T 500 hPa: Z, U, V, T, D, ζ
+
+700 hPa: Z, U, V, T, D, ω
+
+850 hPa: Z, U, V, T, D, ω
+
+Surface: P, U, V, T, D, R 250 hPa: μU, σU, μV, σV500 hPa: μZ, σZ850 hPa: μU, σU, μV, σV, μT, σT1000 hPa: μZ, σZSurface: μP, σPForecast hours 0–36 every 6 hours, 48, 60, and 72 0–192 every 12 hours Initial times 00UTC and 12UTC 12UTC 14 
+
+2012 Edition Model GSM GSM Area and resolution 5S-90N and 30E-165W, Whole globe 0.25° × 0.25° 5S-90N and 30E-165W, Whole globe 0.5° × 0.5° Levels and elements Surface: U, V, T, H, P, Ps, R, Cla, Clh, Clm, Cll 10 hPa: Z, U, V, T, H, ω
+
+20 hPa: Z, U, V, T, H, ω
+
+30 hPa: Z, U, V, T, H, ω
+
+50 hPa: Z, U, V, T, H, ω
+
+70 hPa: Z, U, V, T, H, ω
+
+100 hPa: Z, U, V, T, H, ω
+
+150 hPa: Z, U, V, T, H, ω
+
+200 hPa: Z, U, V, T, H, ω, ψ, χ
+
+250 hPa: Z, U, V, T, H, ω
+
+300 hPa: Z, U, V, T, H, ω
+
+400 hPa: Z, U, V, T, H, ω
+
+500 hPa: Z, U, V, T, H, ω, ζ
+
+600 hPa: Z, U, V, T, H, ω
+
+700 hPa: Z, U, V, T, H, ω
+
+800 hPa: Z, U, V, T, H, ω
+
+850 hPa: Z, U, V, T, H, ω, ψ, χ
+
+900 hPa: Z, U, V, T, H, ω
+
+925 hPa: Z, U, V, T, H, ω
+
+950 hPa: Z, U, V, T, H, ω
+
+975 hPa: Z, U, V, T, H, ω
+
+1000 hPa: Z, U, V, T, H, ω
+
+Surface: U, V, T, H, P, Ps, R, Cla, Clh, Clm, Cll Forecast hours 0– 84 (every 6 hours) and 90–216 (every 24 hours) are also available for 12 UTC 
+
+Initial time. 0– 84 (every 6 hours) and 90–216 (every 24 hours) are also available for 12 UTC 
+
+Initial time. Initial times 00, 06, 12, 18 UTC 00, 06, 12, 18 UTC Notes: Z: geopotential height U: eastward wind V: northward wind T: temperature D: dewpoint depression H: relative humidity 
+
+ω: vertical velocity ζ: vorticity ψ: stream function 
+
+χ: velocity potential P: sea level pressure Ps: pressure R: rainfall Cla: total cloudiness Clh: cloudiness (upper layer) Clm: cloudiness (middle layer) Cll: cloudiness (lower layer) The prefixes μ and σ represent the average and standard deviation of ensemble prediction results respectively. The symbols °, *, ¶, §, ‡ and † indicate limitations on forecast hours or initial time as shown in the tables. 15 
+
+2012 Edition 
+
+Table 3.3 List of other products provided by RSMC Tokyo - Typhoon Center 
+
+(Available at http://www.wis-jma.go.jp/cms/) 
+
+Data Contents / frequency (initial time) 
+
+Satellite products 
+
+High density atmospheric motion vectors (BUFR) (a) MTSAT-2 (VIS, IR, WV), 60S-60N, 90E-170W VIS: every hour (00-09, 21-23 UTC), IR and WV: every hour (b) METEOSAT-7 (VIS, IR, WV) VIS: every 1.5 hours between 0130 and 1500 UTC IR and WV: every 1.5 hours Clear Sky Radiance (CSR) data (BUFR) MTSAT-2 (IR, WV) radiances and brightness temperatures averaged over cloud-free pixels: every hour Tropical cyclone Information 
+
+Tropical cyclone related information (BUFR) • tropical cyclone analysis data (00, 06, 12 and 18 UTC) Wave data 
+
+Global Wave Model (GRIB2) • significant wave height • prevailing wave period • wave direction Forecast hours: 0–84 every 6 hours (00, 06 and 18UTC) 0–84 every 6 hours and 96-192 every 12 hours (12 UTC) Observational data (a) Surface data (TAC/TDCF) SYNOP, SHIP, BUOY: Mostly 4 times a day (b) Upper-air data (TAC/TDCF) TEMP (parts A-D), PILOT (parts A-D): Mostly twice a day Storm surge 
+
+Storm surge model for Asian area (map image) • storm surge distribution Forecast hours: 0–72 every 3 hours (00, 06 12, and 18UTC) Only in the case of a tropical cyclone being in the forecast time (Available at https://tynwp-web.kishou.go.jp/) 16 
+
+> 2012 Edition
+
+3.2 Forecast at RSMC Tokyo - Typhoon Center The RSMC Tokyo - Typhoon Center should prepare the products for numerical weather prediction shown in Appendix 3-A. These products should be made available to Members in real-time, and should include the following: (i) deterministic forecast products of a high resolution global model to predict the change in large-scale atmospheric circulation patterns as well as the tropical cyclone movement and intensity (ii) ensemble forecast products using a lower resolution version of the global model to enable estimation of uncertainties in tropical cyclone movement and intensity as well as to reduce forecast errors by using statistical methods such as ensemble mean. The RSMC Tokyo - Typhoon Center should also prepare several statistical models for predicting the track of the tropical cyclone and apply the Dvorak method for the prediction of the intensity change of the tropical cyclone. Other relevant synoptic methods should also be applied for predicting the tropical cyclone. The RSMC Tokyo - Typhoon Center should summarize in a consolidated form all available information and prepare the final forecasts of the tropical cyclone when it exists in the responsible area. These forecasts should include: (i) 24, 48 and 72-hour forecast position; (ii) forecast intensity and wind distribution; (iii) prognostic reasoning; (iv) tendency assessment if possible. Furthermore, the RSMC Tokyo - Typhoon Center should prepare a 24-hour ocean wave forecast once a day for the western North Pacific. Storm surge products suitable for the Typhoon Committee region should be provided by the RSMC Tokyo - Typhoon Center. A list of forecast products of the RSMC Tokyo - Typhoon Center, other than alphanumeric form, is shown in Tables 3.1, 3.2 and 3.3. 3.3 Operational analysis and forecast at centres of Typhoon Committee Members The national meteorological services of Typhoon Committee Members are using various kinds of operational forecast methods for typhoon track. The ones currently used are shown in Appendix 3-B. The final responsibility for analysis and forecasting development and movement of tropical cyclones in the region will be with the national meteorological services of each of the Members. In order to promote uniformity in the adoption of proven techniques, a sample of such techniques currently used by Members is given in Appendix 3-C. _______________ 17 
+
+2012 Edition 
+
+# CHAPTER 4 TROPICAL CYCLONE WARNINGS AND ADVISORIES 
+
+4.1 General The responsibility for warning the human settlements on land which are threatened by a tropical cyclone rests in all cases with the National Meteorological Services (NMS). These national responsibilities are not subject to regional agreement. Therefore, only the cyclone warning systems intended for international users and exchanges among the Typhoon Committee Members are described in this chapter. 4.2 Classification of tropical cyclones *, ** Classifications of tropical cyclones for the exchange of messages among the Typhoon Committee Members are given below: (i) Low pressure area (L) Central position cannot be accurately assessed (ii) Tropical depression (TD) Central position can be identified, but the maximum sustained wind is 33 kt or less. (iii) Tropical storm (TS) Maximum sustained wind is between 34 and 47 kt. (iv) Severe tropical (STS) Maximum sustained wind is between 48 and 63 kt. storm (v) Typhoon (TY) Maximum sustained wind is 64 kt or more. 4.3 Tropical cyclone advisories The RSMC Tokyo - Typhoon Center should disseminate six to three-hourly analyses and forecasts of tropical cyclones in the form of bulletins (tropical cyclone advisories - see examples in Appendix 4-A): (i) analysis of the central position, intensity and wind distribution; (ii) 24, 48 and 72-hour forecasts of the central position; (iii) forecasts of intensity and wind distribution; (iv) prognostic reasoning; (v) tendency assessment if possible.   
+
+> *"Tropical cyclone" is a generic term that includes tropical depression, tropical storm, severe tropical storm and typhoon.
+> ** Classifications internally used by Members are shown in Appendix 1-B. 18
+> 2012 Edition
+
+4.4 Tropical cyclone warnings for the high seas The World Meteorological Organization (WMO) in its Manual on Marine Meteorological Services sets out the issue of weather and sea bulletins for the high seas in six parts. The first part relates to storm warnings in plain language. Areas of responsibility of each nation for issuing the storm warnings are pre-assigned. The pre-assigned forecast areas of Typhoon Committee Members were agreed upon by Regional Associations II and V (Res. 17 (IV-RA II) and Res.10 (IV-RA V)). Weather forecast areas fixed nationally by individual Typhoon Committee Members are shown in Appendix 4-B. The radio stations broadcasting tropical cyclone forecasts and warnings for the benefit of the ships on the high seas in the Typhoon Committee Members are listed in Appendix 4-C, where are shown the names of coastal radio stations with their call signs and the area covered by their bulletins. The details are shown in the Manual on Weather Reporting Volume D - Information for Shipping (WMO Publication No. 9). 4.5 Warnings and advisories for aviation In accordance with the International Civil Aviation Organization (ICAO) Annex 3 -
+
+Meteorological Service for International Air Navigation / WMO Technical Regulations (C.3.1), tropical cyclone warnings, required for the international air navigation, are issued by designated meteorological watch offices (MWO) as SIGMET messages. SIGMET messages give a concise description in abbreviated plain language concerning the occurrence and/or expected occurrence of specified en-route weather phenomena, which may affect the safety of aircraft operations, and of the development of those phenomena in time and space. Each MWO provides information for one or more specified flight information regions (FIRs) or upper information regions (UIRs). The boundaries of the FIRs/UIRs are defined in ICAO Air Navigation Plan - Asia and Pacific Region (Doc 9673). The content and order of elements in a SIGMET message for tropical cyclone shall be in accordance with ICAO Annex 3/WMO Technical Regulations (C.3.1). The data type designator to be used in the WMO abbreviated heading of such messages shall be T1T2 = WC (WMO - No. 386, Manual on GTS refers). The designated Tropical Cyclone Advisory Centre (TCAC) Tokyo shall monitor the development of tropical cyclones in its area of responsibility, as determined in the ICAO Air Navigation Plan - Asia and Pacific Region (Doc 9673) and issue advisory information concerning the position of the cyclone centre, its direction and speed of movement, central pressure and maximum surface wind near the centre. The tropical cyclone advisories shall be disseminated to the MWOs by TCAC Tokyo in its area of responsibility. In addition, the tropical cyclone advisories shall be disseminated to other TCACs, whose areas of responsibility may be affected, to the World Area Forecast Centres (WAFC) London and Washington, international OPMET data banks, and centres operating the ICAO satellite distribution systems (SADIS and ISCS). The format of the tropical cyclone advisories shall be in accordance with the ICAO Annex 3/WMO Technical Regulations (C.3.1). The data type designator to be used in the WMO abbreviated heading of such messages shall be T1T2 = FK (WMO-No. 386, Manual on GTS, refers). TCAC Tokyo shall issue updated advisory information for its area of responsibility, for each tropical cyclone, as necessary, but at least every six hours. ____________ 19 
+
+> 2012 Edition
+
+# CHAPTER 5 TELECOMMUNICATIONS 
+
+5.1 General The basic meteorological telecommunication network for the exchange of forecasts, warnings and observational data will be the Global Telecommunication System (GTS). 5.2 Dissemination of data and products The RSMC Tokyo - Typhoon Center should have adequate telecommunication facilities for the real-time collection and dissemination of data and products. A large amount of grid point data produced at the RSMC Tokyo - Typhoon Center should be exchanged between the RSMC Tokyo - Typhoon Center and NMCs where adequate circuits for this purpose exist, such as GTS and Internet. Conventional radio facsimile broadcasts are widely used in the region, though they have some disadvantages, i.e., it takes a long time to transmit a number of charts and received charts are sometimes distorted due to noises. Nevertheless, facsimile broadcasts and reception facilities shall be retained in full operation until telecommunications via satellite is introduced to transmit products both in chart and grid point value form. 5.3 Schedule for exchange of cyclone advisories Tropical cyclone advisories issued by the RSMC Tokyo - Typhoon Center shall be transmitted at intervals of six to three hours. These messages shall be given high priority. 20 
+
+> 2012 Edition
+
+5.4 Meteorological telecommunication network for the Typhoon Committee region The network is shown in Figure 5.1 and its present status is summarized in Table 5.1. Circuits of Main Telecommunication Network RTH Main regional circuits Regional circuits NMC Inter-regional circuits 
+
+> Figure 5.1 Meteorological telecommunication network for the Typhoon Committee
+
+Washington Pyongyang Kuala Lumpur Hong Kong Macao Manila Singapore Hanoi Vientiane Offenbach Phnom Penh Bangkok Seoul Beijing Tokyo 21 
+
+> 2012 Edition
+
+Table 5.1: Present operational status of the meteorological telecommunication 
+
+network for the Typhoon Committee region 
+
+1. Main Telecommunication Present Operational Status Network Beijing - Tokyo Cable (MPLS), TCP/IP Beijing 3 Mbps/Tokyo 10 Mbps Beijing - Offenbach Cable (FR), 48 kbps (CIR) TCP/IP Washington - Tokyo Cable (MPLS), TCP/IP Washington 1 Mbps/Tokyo 10 Mbps 2. Main regional circuit Tokyo - Bangkok Cable (MPLS), TCP/IP Tokyo 2 Mbps/Bangkok 128 kbps 3. Regional circuits Bangkok - Beijing Cable (IPLC), 64 kbps, FTP protocol Bangkok - Hanoi Cable (IPLC), 64 kbps, FTP protocol Bangkok - Phnom Penh Internet (VPN) Bangkok - Vientiane Cable (DDN), 64 kbps, FTP protocol Beijing - Hanoi Cable, 75 bauds PC VSAT (Satellite broadcast) Beijing - Hong Kong Cable (SDH), 4 Mbps TCP/IP Beijing - Macao 64 kbps leased line Beijing - Pyongyang Cable, 75 bauds; PC VSAT (Satellite broadcast) Beijing - Seoul Cable (FR), 32 kbps (CIR) TCP/IP Hong Kong - Macao ISDN, 128 kbps, TCP/IP Tokyo - Hong Kong Cable (MPLS), TCP/IP Tokyo 2 Mbps/Hong Kong 1 Mbps Tokyo - Seoul Cable, 128 kbps, TCP/IP 22 
+
+> 2012 Edition
+
+4. Inter-regional circuits Bangkok - Kuala Lumpur Cable (IP-VPN), 64 kbps, socket Bangkok - Singapore Cable (IP-VPN), 64 kbps, socket Tokyo - Manila Cable (MPLS), TCP/IP Tokyo 2 Mbps/Manila 64 kbps 5. RTH radio broadcast Bangkok 1 FAX Beijing 1 FAX (Shanghai) Tokyo 1 FAX 6. Satellite broadcast Operated by China: Asiasat-2 (100.5°E) Operational data, fax and image distribution Operated by Japan: MTSAT (140°E) Operational satellite image distribution 5.5 Addresses, telex/cable and telephone numbers of the tropical cyclone warning centres A list of addresses of the tropical cyclone warning centres of the Typhoon Committee Members, together with their telex/cable and telephone numbers and e-mail addresses, is given in Appendix 5-A. 5.6 Abbreviated headings of tropical cyclone advisories and warnings The abbreviated headings of meteorological messages containing tropical cyclone advisories issued by the RSMC Tokyo - Typhoon Center shall be: (i) analysis and forecast - WTPQ20 RJTD through WTPQ25 RJTD; (ii) prognostic reasoning - WTPQ30 RJTD through WTPQ35 RJTD; (iii) five-day track forecast - WTPQ50 RJTD through WTPQ55 RJTD; (iv) numerical prediction - FXPQ20 RJTD through FXPQ25 RJTD. The abbreviated headings of meteorological bulletins used for the exchange of tropical cyclone warnings by the Typhoon Committee Members are given in Appendix 5-B. 23 
+
+> 2012 Edition
+
+5.7 Exchange of information related to tropical cyclones Collection and dissemination of observational and processed data plus warnings related to tropical cyclones at Regional Telecommunication Hubs (RTHs) and National Meteorological Centres (NMCs) are summarized in Appendix 5-C. The meanings of the symbols used in abbreviated headings in the meteorological messages transmitted to the GTS are listed in Appendix 5-D. The details are described in the Manual on the Global Telecommunication System (WMO Publication No. 386) and Weather Reporting Volume C - Transmissions, Chapter I Catalogue of Meteorological Bulletins (WMO Publication No. 9). ______________ 24 
+
+> 2012 Edition
+
+# CHAPTER 6 MONITORING AND QUALITY CONTROL OF DATA 
+
+6.1 Quality control of observational data National Meteorological Centres will make additional efforts to ensure that all observational data disseminated during periods of cyclone threat to the area are specifically free from errors. Wherever appropriate, verification of reports or of elements of reports will be requested of the observing station and communication channels will be kept open to facilitate this, particularly in cases where an enhanced observing programme is being carried out. In the exchange of data during periods of cyclone threat, queries concerning reports on which there is doubt should be addressed to the relevant National Meteorological Centre. Examples of message format for inquiry on doubtful and garbled reports are shown in Appendix 6-A. 6.2 Monitoring of exchange of information Monitoring will be carried out by the RSMC Tokyo - Typhoon Center and all Typhoon Committee Members in accordance with their standard procedures. Special attention will be given to identification of deficiencies during the cyclone season in the flow of observational data and processed information relating to cyclone analysis and forecast with a view to appropriate remedial action. The Members will inform the RSMC Tokyo - Typhoon Center of any shortcomings in the flow of data (raw and processed) and also indicate any requirements over and above those already agreed upon for tropical cyclone warning purposes. Regular monitoring at the RSMC Tokyo - Typhoon Center should be made twice a year for appropriate periods when enhanced observations are carried out. Special monitoring may be made depending on the situation. The procedure of regular monitoring is shown in Appendix 6-B. 6.3 Verification Immediately after the dissipation of a tropical cyclone of TS grade or stronger, the RSMC Tokyo - Typhoon Center should disseminate a report on the tropical cyclone in the form of bulletins to provide Members with data needed for verification, such as position and intensity of the tropical cyclone (see the example in Appendix 6-C): After the end of each typhoon season, each Member will conduct the verification for its analyses and forecasts and send the report to the RSMC Tokyo - Typhoon Center in accordance with the standard procedure as shown in Appendix 6-D. Verification sheets for positioning of the centre, prediction of movement, and analysis and forecast of intensity of a tropical cyclone are shown in Appendix 6-E. The RSMC Tokyo - Typhoon Center should summarize the reports issued in a year and the results of verification conducted by Members. It should publish an annual report with respect to tropical cyclones and activities of the RSMC Tokyo - Typhoon Center 25 
+
+> 2012 Edition
+
+and Members. The report should also identify specific areas where further co-operative research needs to be carried out by Members. _______________ 26 
+
+> 2012 Edition
+
+# CHAPTER 7 ARCHIVAL OF DATA 
+
+7.1 Data to be archived by Typhoon Committee Members Members should establish tropical cyclone data files and information services nationally, archiving all appropriate available data. 7.2 Data to be archived by RSMC Tokyo - Typhoon Center The RSMC Tokyo - Typhoon Center should archive as far as possible tropical cyclone related data received at the centre. The data set should be produced during the period when tropical cyclone(s) is (are) in the range of 1,000 km around Typhoon Committee Members. Except for satellite imagery data, all data should be recorded by the RSMC Tokyo - Typhoon Center preferably on electronic media. A proposed list of data to be archived by the RSMC Tokyo - Typhoon Center is shown in Appendix 7-A. 7.3 Exchange of archived data Whenever possible Members should supply the RSMC Tokyo - Typhoon Center with all additional data requested by the RSMC Tokyo - Typhoon Center. The RSMC Tokyo - Typhoon Center should make available the archived data to Members on request for use in research, studies, investigations and training. As to distribution, similar arrangements should be made as for the TOPEX data sets which were provided by the Japan Meteorological Agency to Typhoon Committee Members (one set each) with financial assistance from UNDP. The detailed arrangements for exchange of data should be agreed upon bilaterally. Request for data sets by non-Typhoon Committee Members should be made through the WMO Secretariat upon payment of net cost (for electronic media, copying, handling, postal fees, etc.) by the requesting WMO Members. In accordance with the directive of the WMO Executive Council (EC-XLV), (Geneva, June 1993) an international format for the archiving of tropical cyclone data is to be used by all RSMCs with activity specialization in tropical cyclones. Complete historical data using the international format given in Appendix 7-B will be made available for research applications. RSMC Tokyo - Typhoon Center will provide such data to the Director of the National Climatic Data Center (NCDC), USA. The Tropical Cyclone Programme (TCP) Division of the WMO Secretariat has the responsibility for the maintenance of the format, including assignment of the source codes to appropriate organizations, and authorizing additions and changes. _______________ 27 
+
+2012 Edition APPENDIX 1-A 
+
+GUIDELINES FOR CONVERTING BETWEEN VARIOUS WIND AVERAGING PERIODS IN TROPICAL CYCLONE CONDITIONS 
+
+This note is based on recommendations from Harper et al. (2010) and extracts from Knaff and Harper (2010), providing advice on why, when and how “wind averaging conversions” can be made. a) Why Convert Wind Speeds? From the observational perspective, the aim is to process measurements of the wind so as to extract an estimate of the mean wind at any time and its turbulence properties. From the forecasting viewpoint, the aim is, given a specific wind speed metric derived from a process or product, to usefully predict other metrics of the wind. Typically these needs revolve around the concept of the mean wind speed and an associated peak gust wind speed; such that the statistical properties of the expected level of wind turbulence under different exposures can be used to permit useful conversions 
+
+between peak gust wind speed estimates. b) When to Convert Wind Speeds? Wind speed conversions to account for varying averaging periods only apply in the context of a maximum (peak gust) wind speed of a given duration observed within some longer interval. Simply measuring the wind for a shorter period of time at random will not ensure that it is always higher than the mean wind (given that there are both lulls and gusts). It is important that all wind speed values be correctly identified as an estimate of the mean wind or an estimate of a peak gust .Once the mean wind is reliably estimated, the random effects of turbulence in producing higher but shorter-acting wind gusts, typically of greater significance for causing damage, can be estimated using a “gust factor”. In order for a gust factor to be representative, certain conditions must be met, many of which may not be exactly satisfied during a specific weather event or at a specific location: 
+
+Wind flow is turbulent with a steady mean wind speed ( statistically stationary ); 
+
+Constant surface features exist within the period of measurement, such that the boundary layer is in equilibrium with the underlying surface roughness ( exposure ); 
+
+The conversion assumes the mean wind speed and the peak gust wind speed are at the same 
+
+height (e.g. the WMO standard observation height +10 m) above the surface. c) How to Convert Individual Point-Specific Wind Speeds Firstly, the mean wind speed estimate V should be explicitly identified by its averaging period To in seconds, described here as VTo , e.g. 
+
+V600 is a 10-min averaged mean wind estimate; 
+
+V60 is a 1-min averaged mean wind estimate; 
+
+V3is a 3-sec averaged mean wind estimate. Next, a peak gust wind speed should be additionally prefixed by the gust averaging period 
+
+ , and the time period over which it is observed (also termed the reference period ), described here as V 
+
+> ,To
+
+, e.g. 
+
+V60,600 is the highest 1-min mean (peak 1-min gust) within a 10-min observation period; 
+
+V3,60 is the highest 3-sec mean (peak 3-sec gust) within a 1-min observation period. The “gust factor” G 
+
+> ,To
+
+then relates as follows to the mean and the peak gust: 
+
+VGV To To ,, 
+
+> 
+
+ ,where the (true) mean wind V is estimated on the basis of a suitable sample, e.g. V600 or V3600 .
+
+On this basis, Table 1 provides the recommended near-surface (+10 m) conversion factors G
+
+> ,To
+
+between typical peak gust wind averaging periods, which are a strong function of the exposure class because the turbulence level varies depending on the surface roughness. Table 1 only provides a range of indicative exposures for typical forecasting environments and Harper et al. (2010) or WMO (2008) should be consulted for more specific advice regarding particular types of exposures -especially if it is intended to calibrate specific measurement sites to “standard exposure”. 28 
+
+2012 Edition Table 1 Wind speed conversion factors for tropical cyclone conditions (after Harper et al. 2010). Exposure at +10 m Reference Gust Factor G
+
+> ,To
+
+Class Description Period Gust Duration 
+
+ (s) 
+
+To (s) 3 60 120 180 600 In-Land Roughly open terrain 3600 1.75 1.28 1.19 1.15 1.08 600 1.66 1.21 1.12 1.09 1.00 180 1.58 1.15 1.07 1.00 120 1.55 1.13 1.00 60 1.49 1.00 
+
+Off-Land 
+
+Offshore winds at a coastline 
+
+3600 1.60 1.22 1.15 1.12 1.06 600 1.52 1.16 1.09 1.06 1.00 180 1.44 1.10 1.04 1.00 120 1.42 1.08 1.00 60 1.36 1.00 
+
+Off-Sea 
+
+Onshore winds at a coastline 3600 1.45 1.17 1.11 1.09 1.05 600 1.38 1.11 1.05 1.03 1.00 180 1.31 1.05 1.00 1.00 120 1.28 1.03 1.00 60 1.23 1.00 
+
+At-Sea > 20 km offshore 3600 1.30 1.11 1.07 1.06 1.03 600 1.23 1.05 1.02 1.00 1.00 180 1.17 1.00 1.00 1.00 120 1.15 1.00 1.00 60 1.11 1.00 Some example applications of the above recommendations are: 
+
+ To estimate the expected “off-land” 3-sec peak gust in a 1-min period, multiply the estimated “off-land” mean wind speed by 1.36 
+
+ To estimate the expected “off-sea” 3-sec peak gust in a 10-min period, multiply the estimated “off-sea” mean wind speed by 1.38 
+
+ To estimate an “at-sea” 1-min peak gust in a 10-min period, multiply the estimated “at-sea” mean wind speed by 1.05 Note that it is not possible to convert from a peak gust wind speed back to a specific time-averaged mean wind – only to the estimated true mean speed. Hence to estimate the “off-sea” mean wind speed given only a peak observed gust of 1-min duration ( 
+
+ = 60 s) measured in a 10-min period ( To =600 s), multiply the observed 1-min peak gust by (1/1.11) = 0.90. This does not guarantee that the estimated mean wind will be the same as the 10-min averaged wind at that time but, because the 10-min average is normally a reliable estimate of the true mean wind, it will likely be similar. In all cases, measurement systems should aim to reliably measure the mean wind speed and the standard deviation using a sample duration of not less than 10-min (WMO 2008), i.e. V600 . Additional shorter averaging periods and the retaining of peak information should then be targeted at operational needs. d) Converting Between Agency Estimates of Storm Maximum Wind Speed Vmax 
+
+This is a slightly different situation from converting a point specific wind estimate because the concept of a storm-wide maximum wind speed Vmax is a metric with an associated spatial context (i.e. anywhere within or associated with the storm) as well as a temporal fix context (at this moment in time or during a specific period of time). While it may be expressed in terms of any wind averaging period it remains important that it be unambiguous in terms of representing a mean wind or a peak gust. Agencies that apply the WMO standard 10-min averaged Vmax wind have always applied a wind-averaging conversion to reduce the maximum “sustained” 1-min wind value (a 1-min peak gust) that has been traditionally associated with the Dvorak method (Dvorak 1984, Atkinson and Holliday 1977)2. As noted in the previous section, it is technically not possible to convert from a peak gust back to a specific time-averaged mean wind – only to the estimated true mean wind speed. However, in Harper et al. (2010) a practical argument is made for nominal conversion between Vmax 60 and Vmax 600 
+
+> 2 As detailed in Harper et al. (2010), this traditional assumption is without a firm basis.
+
+29 
+
+2012 Edition values via an hourly mean wind speed reference, and the recommendations are summarised in Table 2. It can be noted that the recommended conversion for at-sea exposure is about 5% higher than the “traditional” value of 0.88 (WMO 1993), which is more appropriate to an off-land exposure. This has special implications for the Dvorak method because “at sea” is the typical exposure of interest where such conversions have been traditionally applied. 
+
+Table 2 Conversion factors between agency estimates of maximum 1-min and maximum 10-min averaged tropical cyclone wind speed Vmax . (after Harper et al. 2010). 
+
+Vmax 600 =K Vmax 60 At-Sea Off-Sea Off-land In-Land 
+
+K 0.93 0.90 0.87 0.84 e) References Atkinson, G.D., and C. R. Holliday, 1977: Tropical cyclone minimum sea level pressure/maximum sustained wind relationship for the Western North Pacific. Mon. Wea. Rev., 105 , 421-427. Dvorak, V.F., 1984: Tropical cyclone intensity analysis using satellite data. NOAA Tech. Rep. NESDIS 11, National Oceanic and Atmospheric Administration , Washington, DC, 47 pp. Knaff, J.A. and B.A. Harper, 2010: Tropical cyclone surface wind structure and wind-pressure relationships. In: Proc. WMO IWTC-VII, World Meteorological Organization , Keynote 1,La Reunion, Nov. Harper, B.A.,, J. D. Kepert, and J. D. Ginger, 2010: Guidelines for converting between various wind averaging periods in tropical cyclone conditions. World Meteorological Organization , TCP Sub-Project Report, WMO/TD-No. 1555. WMO 1993: Global guide to tropical cyclone forecasting. Tropical Cyclone Programme Report No. TCP-31, World Meteorological Organization , WMO/TD – No. 560, Geneva. WMO 2008: Guide to meteorological instruments and methods of observation. World Meteorological Organization , WMO-No. 8, 7th Ed, 681pp. 30 
+
+2012 Edition APPENDIX 1-B 
+
+CLASSIFICATIONS OF TROPICAL CYCLONES IN THE WESTERN NORTH PACIFIC INTERNALLY USED BY MEMBERS 
+
+Maximum sustained winds (knots) 34 - 47 48 - 63 64 -Typhoon Committee 10 min Tropical Storm (TS) Severe Tropical Storm (STS) Typhoon (TY) China 2 min TS STS 64 - 80 TY 81 - 99 Severe Typhoon (ST) 100 -Super Typhoon (Super TY) Hong Kong /China 10 min TS STS 64 – 80 TY 81 - 99 Severe Typhoon (ST) 100 -Super Typhoon (Super T) Japan 10 min TS STS 64 - 84 TY 85 -Very Strong TY 105 -Violent TY U.S. 1 min TS 64 - 129 TY 130 -Super TY 31 
+
+2012 Edition APPENDIX 1-C 
+
+LIST OF NAMES FOR TROPICAL CYCLONES ADOPTED BY THE TYPHOON COMMITTEE FOR THE WESTERN NORTH PACIFIC OCEAN AND THE SOUTH CHINA SEA 
+
+(Valid as of 2012) Contributed by I II III IV V
+
+Name Name Name Name Name Cambodia Damrey Kong-rey Nakri Krovanh Sarika China Haikui Yutu Fengshen Dujuan Haima DPR Korea Kirogi Toraji Kalmaegi Mujigae Meari Hong Kong, China Kai-tak Man-yi Fung-wong Choi-wan Ma-on Japan Tembin Usagi Kammuri Koppu Tokage Lao PDR Bolaven Pabuk Phanfone Champi Nock-ten Macao, China Sanba Wutip Vongfong In-fa Muifa Malaysia Jelawat Sepat Nuri Melor Merbok Micronesia Ewiniar Fitow Sinlaku Nepartak Nanmadol Philippines Maliksi Danas Hagupit Lupit Talas RO Korea Gaemi Nari Jangmi Mirinae Noru Thailand Prapiroon Wipha Mekkhala Nida Kulap U.S.A. Maria Francisco Higos Omais Roke Viet Nam Son-Tinh Lekima Bavi Conson Sonca Cambodia Bopha Krosa Maysak Chanthu Nesat China Wukong Haiyan Haishen Dianmu Haitang DPR Korea Sonamu Podul Noul Mindulle Nalgae Hong Kong, China Shanshan Lingling Dolphin Lionrock Banyan Japan Yagi Kajiki Kujira Kompasu Washi Lao PDR Leepi Faxai Chan-hom Namtheun Pakhar Macao, China Bebinca Peipah Linfa Malou Sanvu Malaysia Rumbia Tapah Nangka Meranti Mawar Micronesia Soulik Mitag Soudelor Rai Guchol Philippines Cimaron Hagibis Molave Malakas Talim RO Korea Jebi Neoguri Goni Megi Doksuri Thailand Mangkhut Rammasun Atsani Chaba Khanun U.S.A. Utor Matmo Etau Aere Vicente Viet Nam Trami Halong Vamco Songda Saola                                                                                           
+
+> Replaced names Corrected spelling
+> Aere for Kodo (2002) Maliksi for Bilis (2008) Megkhla to Mekkhala (2002) Morakot for Hanuman (2002) SonTinh for Saomai (2008) Kularb to Kulap (2002) Matmo for Chataan (2004) Leepi for Xangsane (2008) Ramasoon to Rammasun (2002) Nuri for Rusa (2004) Mangkhut for Durian (2008) Vipa to Wipha (2002) Peipah for Vamei (2004) Atsani for Morakot (2011) Kaemi to Gaemi (2008) Molave for Imbudo (2004) Champi for Ketsana (2011) Chebi to Jebi (2008) Noul for Pongsona (2006) In-fa for Parma (2011) Noguri to Neoguri (2008) Dolphin for Yanyan (2006) Rai for Fanapi (2012) Changmi to Jangmi (2008) Mujigae for Maemi (2006) Koni to Goni (2008) Mirinae for Sudal (2006) SonTinh to Son-Tinh (2008) Lionrock for Tingting (2006) Fanapi for Rananim (2006) Pakhar for Matsa (2007) Doksuri for Nabi (2007) Haikui for Longwang (2007) Sanba for Chanchu (2008) 32
+> 2012 Edition APPENDIX 1-C, p. 2
+
+OPERATIONAL PROCEDURES FOR THE ASSIGNMENT OF NAMES OF TROPICAL CYCLONES 
+
+(a) RSMC Tokyo – Typhoon Center will assign a name each time a 4-digit identification number is to be assigned. That is, names on the Typhoon Committee list will only be given to tropical cyclones of tropical storm strength or above. Each tropical cyclone should be identified by its name followed by the 4-digit number in brackets. The same names and numbers should also be used in bulletins issued by the Tokyo Tropical Cyclone Advisory Centre under the umbrella of the International Civil Aviation Organization (ICAO) as well as in bulletins for Meteorological Area (METAREA)-XI of the Global Maritime Distress and Safety System (GMDSS) issued by both China and Japan. This would contribute to the standardization of the usage of names of tropical cyclones as was desired by the Typhoon Committee. (b) The exchange of observational data should be promoted as much as possible in addition to what is already exchanged among the warning centres and the meteorological services in the region, to ensure that RSMC Tokyo – Typhoon Center would benefit from the best possible data and information needed for it to carry out its work. (c) On the operation of the name list, the names will be assigned following the pre-determined order. The name would remain unchanged throughout the life history of the tropical cyclone. To avoid confusion, tropical cyclones given a name before crossing the Date Line and entering the western North Pacific should be assigned a number by RSMC Tokyo – Typhoon Center but should not be assigned a new name in the Typhoon Committee list. RSMC Honolulu Hurricane Center will continue the use of the tropical cyclone names assigned by RSMC Tokyo – Typhoon Center when tropical cyclones cross the Date Line from west to east. (d) The names and numbers assigned by RSMC Tokyo – Typhoon Center will be used by all Typhoon Committee Members when issuing warning bulletins intended for the international community including the press, aviation and shipping. (e) The Typhoon Committee, as the authority to maintain the list, shall review the list of names and its operation regularly at its annual sessions as the need arises. (f) Members may request the retirement of a name from the list particularly in case of tropical cyclones causing extensive destruction or for other reasons. Such notification shall be made preferably within a year of the event. The decision to retire names should be made at the regular review at annual sessions of the Typhoon Committee. 33 
+
+> 2012 Edition APPENDIX 1-D
+
+LIST OF ACRONYMS USED IN THE OPERATIONAL MANUAL - METEOROLOGICAL COMPONENT -
+
+AFTN Aeronautical Fixed Telecommunication Network AIREP Aircraft En-route Report APT Automatic Picture Transmission ASDAR Aircraft to Satellite Data Relay DPSK Differential Phase-Shift Keying EIR Enhanced Infrared ESCAP Economic and Social Commission for Asia and the Pacific FAX Facsimile GMS Geostationary Meteorological Satellite GOES Geostationary Operational Environmental Satellite GTS Global Telecommunication System HRPT High Resolution Picture Transmission IR Infrared JMA Japan Meteorological Agency JTWC Joint Typhoon Warning Centre LTP Long Term Plan MANAM Manual Amendment MDUS Medium Scale Data Utilization Station MOS Model Output Statistics MSL Mean Sea Level MTI Moving Target Indicator MTSAT Multi-functional Transport Satellite NESDIS National Environmental Satellite, Data and Information Service NMC National Meteorological Centre NMS National Meteorological Service NOAA National Oceanic and Atmospheric Administration NWP Numerical Weather Prediction OPMET Operational Meteorological Data RADOB Report of ground radar weather observation RMC Regional Meteorological Centre ROBEX Regional OPMET Bulletin Exchange RSMC Regional/Specialized Meteorological Centre RTH Regional Telecommunication Hub SDUS Small Scale Data Utilization Station S.VISSR Stretched VISSR SAREP Report of synoptic interpretation of cloud data obtained by a meteorological satellite SST Sea Surface Temperature TC Typhoon Committee TCP Tropical Cyclone Programme TEMP Upper-level pressure, temperature, humidity and wind report from a land station TOPEX Typhoon Operational Experiment UNDP United Nations Development Programme UTC Universal Time Coordinated VIS Visible VISSR Visible and Infrared Spin Scan Radiometer WMC World Meteorological Centre WMO World Meteorological Organization WWW World Weather Watch 34 
+
+> 2012 Edition APPENDIX 2-A
+
+LIST OF STATIONS FROM WHICH ENHANCED SURFACE OBSERVATIONS ARE AVAILABLE 
+
+The following stations will make hourly surface observations when they are within 300 km of the centre of a tropical cyclone of TS intensity or higher: 
+
+Cambodia China 
+
+(54): 662, 753, 776, 836, 843, 857, 863, 929, 945 (58): 040, 150, 238, 251, 265, 345, 362, 457, 472, 477 543, 556, 569, 646, 659, 660, 666, 754, 834, 847, 911, 921, 927, 944 (59): 096, 117, 134, 278, 287, 293, 316, 431, 456, 493, 501, 632, 644, 658, 663, 673, 758, 838, 845, 855, 948, 981 
+
+Democratic People's Republic of Korea 
+
+(47): 003, 005, 008, 014, 016, 020, 022, 025, 028, 031, 035, 037, 039, 041, 045, 050, 052, 055, 058, 060, 061, 065, 067, 068, 069 
+
+Hong Kong, China 
+
+(45): 007 
+
+Japan 
+
+(47): 401, 407, 409, 412, 418, 420, 421, 426, 430, 570, 575, 582, 584, 590, 600, 604, 605, 610, 624, 629, 636, 648, 651, 655, 662, 675, 678, 740, 741, 746, 750, 765, 772, 778, 800, 807, 815, 817, 827, 830, 843, 887, 891, 893, 895, 909, 918, 927, 936, 945, 971, 991 
+
+Lao People's Democratic Republic Macao, China 
+
+(45): 011 
+
+Malaysia 
+
+(48): 601, 615, 620, 647, 650, 657, 665 (96): 413, 421, 441, 449, 465, 471, 481, 491 35 
+
+2012 Edition APPENDIX 2-A, p. 2 
+
+Philippines 
+
+(98): 132, 133, 135, 222, 232, 233, 324, 325, 328, 329, 330, 333, 336, 425, 427, 428, 429, 430, 431, 432, 434, 435, 437, 440, 444, 446, 447, 526, 531, 536, 538, 543, 546, 548, 550, 555, 558, 618, 630, 637, 642, 644, 646, 648, 653, 741, 746, 747, 748, 751, 752, 753, 755, 836, 851 
+
+Republic of Korea 
+
+(47): 090, 095, 098, 099, 100, 101, 102, 105, 106, 108, 112, 114, 115, 119, 121, 127, 129, 130, 131, 133, 135, 136, 137, 138, 140, 143, 146, 152, 155, 156, 159, 162, 165, 168, 169, 170, 175, 184, 185, 189, 192 
+
+Thailand 
+
+(48): 300, 303, 327, 328, 331, 353, 354, 356, 375, 378, 379, 381, 400, 407, 431, 432, 453, 456, 462, 465, 477, 480, 500, 517, 532, 551, 565, 567, 568, 569, 583 
+
+USA 
+
+(91): 203, 212, 258, 317, 324, 334, 339, 348, 353, 356, 366, 367, 369, 371, 376, 378, 408, 413, 425, 434 
+
+Viet Nam 
+
+(48): 820, 826, 839, 845, 848, 855, 870, 877, 900, 914, 917, 918, 920              
+
+> Note: Name, latitude, longitude and elevation of these stations are included in Weather Reporting, Volume A - Observing Stations (WMO Publication No. 9). 36
+> 2012 Edition APPENDIX 2-B
+
+LIST OF STATIONS FROM WHICH ENHANCED UPPER-AIR OBSERVATIONS ARE AVAILABLE 
+
+The following stations will make 6-hourly upper-air observations when they are within 300 km of the centre of a tropical cyclone of TS intensity or higher: 
+
+Cambodia China 
+
+(54): 857 (57): 083, 494, 972 (58): 150, 457, 847 (59): 316, 758, 981 
+
+Democratic People's Republic of Korea 
+
+(47): 041, 058 
+
+Hong Kong, China 
+
+(45): 004 # radiosonde observations supplemented by wind profiler observations at 06 and 18 UTC when necessary 
+
+Japan 
+
+(47): 401, 412, 418, 582, 600, 646, 678, 741, 778, 807, 827, 909, 918, 945, 971*, 991* * except 18 UTC 
+
+Lao People's Democratic Republic Macao, China 
+
+Malaysia 
+
+(48): 601, 615, 650, 657 (96): 413, 441, 471, 481 
+
+Philippines 
+
+(98): 223, 433, 444, 618, 646, 573 
+
+Republic of Korea 
+
+(47): 090, 102, 122, 138, 158, 169, 185 
+
+Thailand 
+
+(48): 327, 407, 453, 480, 500, 551, 565, 568 37 
+
+2012 Edition APPENDIX 2-B, p. 2 
+
+USA 
+
+(91): 212, 334, 348, 366, 376, 408, 413 
+
+Viet Nam 
+
+(48): 820, 855, 900 
+
+Note: Name, latitude, longitude and elevation of these stations are included in Weather Reporting, Volume A - Observing Stations (WMO Publication No. 9). 38 
+
+> 2012 Edition
+> APPENDIX 2-C
+
+DISTRIBUTION OF THE RADAR STATIONS OF TYPHOON COMMITTEE MEMBERS 39 
+
+2012 Edition APPENDIX 2-D, p.1 
+
+TECHNICAL SPECIFICATIONS OF RADARS OF TYPHOON COMMITTEE MEMBERS 
+
+Name of the Member China 
+
+NAME OF STATION Shanghai Wenzhou Fuzhou Shantou Xishadao SPECIFICATIONS Unit Index number 58367 58659 58941 59316 59981 Location of station 31° 02´ N 27° 51´ N 25° 59´ N 23° 17´ N 16° 50´ N 121° 57´ E 120° 49´ E 119° 32´ E 116° 44´E 112° 20´ E Antenna elevation m 68 294 652.5 196.7 8.5 Wave length cm 10.6 10.6 10.4 10.4 10.6 Peak power of transmitter kW 500 500 500 500 500 Pulse length μ s 1 3.0 1.0 1 3Sensitivity minimum of receiver dBm -110 -110 -109 -109 -110 Beam width (Width of over -3dB deg 2.0 2.0 2.0 1.2 2.0 antenna gain of maximum) Detection range km 600 600 600 600 600 Scan mode in observation 1.Fixed elevation 1 1 1 12.CAPPI 2 2 2 2 23.Manually controlled 3 3 3 3DATA PROCESSING MTI processing 2 2 2 2 21.Yes, 2.No Doppler processing 2 2 1 1 21.Yes, 2.No Display 1 1 1 1 21.Digital, 2.Analog OPERATION MODE (When tropical cyclone is within range of detection) 1.Hourly 1 1 1 1 12.3-hourly 3.Others PRESENT STATUS 1.Operational 1 1 1 1 12.Not operational(for research etc.) 40 
+
+2012 Edition APPENDIX 2-D, p.2 Name of the Member Democratic People's Republic of Korea 
+
+NAME OF STATION Pyongyang SPECIFICATIONS Unit Index number 47058 Location of station 39° 02´ N 125° 47´ E Antenna elevation m 90 Wave length cm 3.2 Peak power of transmitter kW 150 Pulse length μ s 1, 2 Sensitivity minimum of receiver dBm -132 Beam width (Width of over -3dB deg 44 antenna gain of maximum) Detection range km 300 Scan mode in observation 1.Fixed elevation 12.CAPPI 23.Manually controlled 3DATA PROCESSING MTI processing 21.Yes, 2.No Doppler processing 21.Yes, 2.No Display 11.Digital, 2.Analog OPERATION MODE (When tropical cyclone is within range of detection) 1.Hourly 2.3-hourly 13.Others PRESENT STATUS 1.Operational 12.Not operational(for research etc.) 41 
+
+2012 Edition APPENDIX 2-D, p.3 Name of the Member Hong Kong, China 
+
+NAME OF STATION Tai Mo Shan Tate's Cairn SPECIFICATIONS Unit Index number 45009 45010 Location of station 22° 25´ N 22° 22´ N 114° 07´ E 114° 13´ E Antenna elevation m 968 583 Wave length cm 10.6 10.3 Peak power of transmitter kW 650 500 Pulse length μ s 1.0/1.8 0.8/2.0 Sensitivity minimum of receiver dBm -117 -110 Beam width 0.9(H) (Width of over -3dB deg 0.9(V) 1.8 antenna gain of maximum) Detection range km 500 500 Scan mode in observation 1.Fixed elevation 2.CAPPI 2 23.Manually controlled DATA PROCESSING MTI processing 2 21.Yes, 2.No Doppler processing 1 11.Yes, 2.No Display 1 11.Digital, 2.Analog OPERATION MODE (When tropical cyclone is within range of detection) 1.Hourly 2.3-hourly 3 33.Others (continuous) (continuous) PRESENT STATUS 1.Operational 1 12.Not operational(for research etc.) 42 
+
+2012 Edition APPENDIX 2-D, p.4 Name of the Member Japan - 1 
+
+NAME OF STATION Sapporo /Kenashiyama Kushiro /Kombumori Hakodate /Yokotsudake Sendai Akita SPECIFICATIONS Unit Index number 47415 47419 47432 47590 47582 Location of station 43° 08´ N 42° 58´ N 41° 56´ N 38° 16´ N 39° 43´ N 141° 01´ E 144° 31´ E 140° 47´ E 140° 54´ E 140° 06´E Antenna elevation m 749.0 121.5 1141.7 98.2 55.3 Wave length cm 5.61 5.61 5.59 5.61 5.64 Peak power of transmitter kW 250 250 250 250 250 Pulse length μ s 1.1/2.6 1.1/2.6 1.1/2.6 1.0/2.6 2.6 Sensitivity minimum of receiver -109/-112 -110/-113 -108/-111 -108/-111 -112 dBm Beam width (Width of over -3dB antenna gain of maximum) 1.1(H) 1.1(V) 1.1(H) 1.0(V) 1.0(H) 1.0(V) 1.0(H) 1.0(V) 1.1(H) 1.1(V) deg Detection range km 400 400 400 400 400 Scan mode in observation 2 2 2 2 21.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 1 1 1 1 11.Yes, 2.No Doppler processing 1 1 1 1 21.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 1 1 1 1 1cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational (for research etc.) 43 
+
+2012 Edition APPENDIX 2-D, p.5 Name of the Member Japan - 2 
+
+NAME OF STATION Tokyo /Kashiwa Niigata /Yahikoyama Fukui /Tojimbo Nagano /Kurumayama Shizuoka /Makinohara SPECIFICATIONS Unit Index number 47695 47572 47705 47611 47659 Location of station 35° 52´ N 37° 43´ N 36° 14´ N 36° 06´ N 34° 45´ N 139° 58´ E 138° 49´ E 136° 09´ E 138° 12´ E 138° 08´E Antenna elevation m 74.0 645.0 107.0 1937.1 186.0 Wave length cm 5.59 5.61 5.59 5.64 5.66 Peak power of transmitter kW 250 250 250 250 250 Pulse length μ s 1.1/2.6 1.0/2.6 1.1/2.7 2.6 2.6 Sensitivity minimum of receiver -109/-113 -109/-113 -109/-113 -114 -113 dBm Beam width (Width of over -3dB antenna gain of maximum) 1.0(H) 1.0(V) 1.0(H) 1.0(V) 1.1(H) 1.0(V) 1.1(H) 1.1(V) 1.0(H) 1.1(V) deg Detection range km 400 400 400 400 400 Scan mode in observation 2 2 2 2 21.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 1 1 1 1 11.Yes, 2.No Doppler processing 1 1 1 2 21.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 1 1 1 1 1cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational (for research etc.) 44 
+
+2012 Edition APPENDIX 2-D, p.6 Name of the Member Japan - 3 
+
+NAME OF STATION Nagoya Osaka /Takayasuyama Matsue /Misakayama Hiroshima /Haigamine Murotomisaki SPECIFICATIONS Unit Index number 47636 47773 47791 47792 47899 Location of station 35° 10´ N 34° 37´ N 35° 33´ N 34° 16´ N 33° 15´ N 136° 58´ E 135° 39´ E 133° 06´ E 132° 36´ E 134° 11´E Antenna elevation m 73.1 497.6 553.0 746.9 198.9 Wave length cm 5.59 5.61 5.61 5.59 5.60 Peak power of transmitter kW 250 250 250 250 250 Pulse length μ s 1.1/2.6 1.0/2.6 1.1/2.6 1.1/2.7 1.1/2.6 Sensitivity minimum of receiver -108/-112 -108/-112 -109/-112 -109/-111 -109/-113 dBm Beam width (Width of over -3dB antenna gain of maximum) 1.0(H) 1.0(V) 1.1(H) 1.1(V) 1.0(H) 1.1(V) 1.1(H) 1.0(V) 1.0(H) 1.0(V) deg Detection range km 400 400 400 400 400 Scan mode in observation 2 2 2 2 21.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 1 1 1 1 11.Yes, 2.No Doppler processing 1 1 1 1 11.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 1 1 1 1 1cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational(for research etc.) 45 
+
+2012 Edition APPENDIX 2-D, p.7 Name of the Member Japan - 4 
+
+NAME OF STATION Fukuoka /Sefurisan Tanegashima /Nakatane Naze /Funchatoge Naha /Itokazu Ishigakijima /Omotodake SPECIFICATIONS Unit Index number 47806 47869 47909 47937 47920 Location of station 33° 26´ N 30° 38´ N 28° 24´ N 26° 09´ N 24° 26´ N 130° 21´ E 130° 59´ E 129° 33´ E 127° 46´ E 124° 11´E Antenna elevation m 982.7 290.5 315.7 208.2 535.5 Wave length cm 5.60 5.60 5.66 5.60 5.61 Peak power of transmitter kW 250 250 250 250 250 Pulse length μ s 1.1/2.7 1.1/2.7 2.6 1.0/2.5 1.1/2.7 Sensitivity minimum of receiver -109/-112 -108/-112 -113 -109/-113 -107/-111 dBm Beam width (Width of over -3dB antenna gain of maximum) 1.0(H) 1.0(V) 1.1(H) 1.0(V) 1.1(H) 1.0(V) 1.0(H) 1.0(V) 1.1(H) 1.1(V) deg Detection range km 400 400 400 400 400 Scan mode in observation 2 2 2 2 21.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 1 1 1 1 11.Yes, 2.No Doppler processing 1 1 2 1 11.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 1 1 1 1 1cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational(for research etc.) 46 
+
+2012 Edition APPENDIX 2-D, p.8 Name of the Member Macao, China 
+
+NAME OF STATION TAIPA GRANDE SPECIFICATIONS Unit Index number 45011 Location of station 22.1599N 113.5624E Antenna elevation m 183 Wave length cm 3.4 Peak power of transmitter kW 200 Pulse length μ s 0.4, 0.8, 1.0, 2.0 Sensitivity minimum of receiver -113 dBm Beam width (Width of over -3dB antenna gain of maximum) 1° deg Detection range km 128 Scan mode in observation 31. Fixed elevation 2. CAPPI 3. Manually controlled DATA PROCESSING MTI processing 21.Yes, 2.No Doppler processing 11.Yes, 2.No Display 11.Digital, 2.Analog OPERATION MODE (When tropical 3cyclone is within range of detection) 1. Hourly 2. 3-hourly 3. Others PRESENT STATUS 21.Operational 2.Not operational (for research etc.) 47 
+
+2012 Edition APPENDIX 2-D, p.9 
+
+Name of the Member Malaysia - 1 
+
+NAME OF STATION Alor Star Kota Bharu Kuala Lumpur (Sepang) Kuala Lumpur (Subang) Kluang SPECIFICATIONS Index number 48603 48615 48650 48647 48672 Location of station 6° 11´ N 6° 10´ N 2° 51´ N 3° 07´ N 2° 01´ N 100° 24´ E 102° 17´ E 101° 40´ E 103° 13´ E 103° 19´E Antenna elevation m 24 33 25 32 113 Wave length cm 10 10 10 10 10 Peak power of transmitter kW 650 650 750 650 650 Pulse length μ s 0.8 and 2 2 1 and 3 2 0.8 and 2 Sensitivity minimum of receiver -110 (.8 s) -113 (2 s) -113 -110 (.8 s) -115 (3 s) -113 -110 (.8 s) -113 (2 s) dBm Beam width (Width of over -3dB antenna gain of maximum) 2 2 1 2 2deg Detection range km 400 400 400 400 400 Scan mode in observation 2 2 2 2 21.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 2 2 2 2 21.Yes, 2.No Doppler processing 2 2 1 2 21.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 3(every 10 mins) 3(every 10 mins) 3(every 5 mins) 3(every 10 mins) 
+
+3(every 10 mins) 
+
+> cyclone is within range of detection)
+
+1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1(from May 2005) 1 1 11(from Apr 2005) 1.Operational 2.Not operational(for research etc.) 48 
+
+2012 Edition APPENDIX 2-D, p.10 
+
+Name of the Member Malaysia - 2 
+
+NAME OF STATION Kuantan Butterworth Kuching Bintulu Kota Kinabalu SPECIFICATIONS Index number 48657 48602 96413 96441 96471 Location of station 3° 47´ N 5° 28´ N 1° 29´ N 3° 13´ N 5° 56´ N 103° 13´ E 100° 23´ E 110° 20´ E 113° 04´ E 116° 03´E Antenna elevation m 32 20 57 151 27 Wave length cm 10 10 5 5 5Peak power of transmitter kW 650 650 250 250 250 Pulse length μ s 2 2 2 2 2Sensitivity minimum of receiver -113 -113 -113 -113 -113 dBm Beam width (Width of over -3dB antenna gain of maximum) 2 2 1.6 1.6 1.6 deg Detection range km 400 400 250 250 250 Scan mode in observation 2 2 2 2 21.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 2 2 2 2 21.Yes, 2.No Doppler processing 2 2 2 2 21.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 3(every 10 mins) 3(every 10 mins) 3(every 10 mins) 
+
+3(every 10 mins) 
+
+3(every 10 mins) 
+
+> cyclone is within range of detection)
+
+1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational(for research etc.) 49 
+
+2012 Edition APPENDIX 2-D, p.11 
+
+Name of the Member Malaysia - 3 
+
+NAME OF STATION Sandakan SPECIFICATIONS Index number 96491 Location of station 5° 54´ N 118° 04´ E Antenna elevation m 28 Wave length cm 5Peak power of transmitter kW 250 Pulse length μ s 2Sensitivity minimum of receiver -113 dBm Beam width (Width of over -3dB antenna gain of maximum) 1.6 deg Detection range km 250 Scan mode in observation 21.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 21.Yes, 2.No Doppler processing 21.Yes, 2.No Display 11.Digital, 2.Analog OPERATION MODE (When tropical 3(every 10 mins) 
+
+> cyclone is within range of detection)
+
+1.Hourly 2.3-hourly 3.Others PRESENT STATUS 11.Operational 2.Not operational(for research etc.) 50 
+
+2012 Edition APPENDIX 2-D, p.12 Name of the Member Philippines - 1 
+
+NAME OF STATION Aparri Baguio Virac Tanay Daet SPECIFICATIONS Unit Index number 98231 98321 98447 98433 98440 Location of station 18° 22´ N 16° 20´ N 13° 38´ N 14° 34´ N 14° 08´ N 121° 37´ E 120° 34´ E 124° 19´ E 121° 21´ E 122° 59´ E Antenna elevation m 16 2256 248 650.36 12.5 Wave length cm 5.65 10.5 10.5 10.5 10.5 Peak power of transmitter kW 250 500 500 500 500 Pulse length μ s 2 4/ 0.5 3 3 3Sensitivity minimum of receiver dBm Beam width (Width of over -3dB deg 1.5 2.2 2.2 2.2 2.2 antenna gain of maximum) Detection range km 400 400 400 400 400 Scan mode in observation Automatic Automatic Automatic Automatic Automatic 1.Fixed elevation Azimuth scan Azimuth scan Azimuth scan Azimuth scan Azimuth scan 2.CAPPI and and and and and 3.Manually controlled mode 3 elv mode 3 elv mode 3 elv mode 3 elv mode 3 elv DATA PROCESSING MTI processing 2 2 2 2 21.Yes, 2.No Doppler processing 2 2 2 2 21.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical cyclone is within range of detection) 1 1 1 1 11.Hourly occasionally occasionally occasionally occasionally occasionally 2.3-hourly every every every every every 3.Others 30 minutes 30 minutes 30 minutes 30 minutes 30 minutes PRESENT STATUS 1.Operational 1 1 1 1 12.Not operational(for research etc.) 51 
+
+2012 Edition APPENDIX 2-D, p.13 Name of the Member Philippines - 2 
+
+NAME OF STATION Mactan Guiuan SPECIFICATIONS Unit Index number 98646 98558 Location of station 10° 18´ N 11° 02´ N 123° 58´ E 128° 44´ E Antenna elevation m 33 66 Wave length cm 10.5 10.5 Peak power of transmitter kW 500 500 Pulse length μ s 3 3Sensitivity minimum of receiver dBm Beam width (Width of over -3dB deg 2.2 2.2 antenna gain of maximum) Detection range km 400 400 Scan mode in observation Automatic Automatic 1.Fixed elevation Azimuth scan Azimuth scan 2.CAPPI and and 3.Manually controlled mode 3 elv mode 3 elv DATA PROCESSING MTI processing 2 21.Yes, 2.No Doppler processing 2 21.Yes, 2.No Display 1 11.Digital, 2.Analog OPERATION MODE (When tropical cyclone is within range of detection) 1 11.Hourly occasionally occasionally 2.3-hourly every every 3.Others 30 minutes 30 minutes PRESENT STATUS 1.Operational 1 12.Not operational(for research etc.) 52 
+
+2012 Edition APPENDIX 2-D, p.14 
+
+Name of the Member Republic of Korea - 1 
+
+NAME OF STATION Gosan Seongsan Gangneung Oseongsan Baengnyeong-do SPECIFICATIONS Unit Index number 47185 47188 47105 47144 47102 Location of station 33° 17´ N 33° 23´ N 37° 49´ N 36° 00´ N 37° 58´ N 126° 09´ E 126° 52´ E 128° 51´ E 126° 47´ E 124° 37´ E Antenna elevation m 101 68 99 231 188 Wave length Cm 10.9 10.8 10.5 10.9 5.3 Peak power of transmitter kW 750 750 750 750 250 Pulse length μ s 1.0; 4.5 1.0; 4.5 1.0; 4.5 1.0; 4.5 1.0; 2.0 Sensitivity minimum of receiver -112 -112 -112 -112 -108 dBm Beam width (Width of over -3dB antenna gain of maximum) 1.0 1.0 1.0 1.0 1.0 deg Detection range km 250 (volume) 500 (lowest tilt) 250, 500 280, 500 240, 480 256, 480 Scan mode in observation 1, 2 1, 2 1, 2 1, 2 1, 2 1. Fixed elevation 2. CAPPI 3. Manually controlled DATA PROCESSING MTI processing 2 2 2 2 21.Yes, 2.No Doppler processing 1 1 1 1 11.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 3(continuous) 3(continuous) 3(continuous) 3(continuous) 3(continuous) cyclone is within range of detection) 1. Hourly 2. 3-hourly 3. Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational(for research etc.) 53 
+
+2012 Edition APPENDIX 2-D, p.15 
+
+Name of the Member Republic of Korea - 2 
+
+NAME OF STATION Jindo Gwangdeok -san Myeonbong -san Gwanaksan Gudeoksan SPECIFICATIONS Unit Index number 47175 47094 47148 47116 47160 Location of station 34° 28´ N 38° 07´ N 36° 10´ N 37° 26´ N 35° 07´ N 126° 19´ E 127° 26´ E 128° 59´ E 126° 57´ E 128° 59´ E Antenna elevation m 497 1064 1127 640 547 Wave length cm 10.3 10.3 5.3 11 11 Peak power of transmitter kW 750 750 250 850 850 Pulse length μ s 1.0; 2.5 1.0; 4.5 0.83; 2.5 1.0; 4.5 1.0; 4.5 Sensitivity minimum of receiver -112 -112 -112 -114 -114 dBm Beam width (Width of over -3dB antenna gain of maximum) 1.0 1.0 1.0 1.0 1.0 deg Detection range km 240, 480 250, 500 200 240, 480 240, 480 Scan mode in observation 1, 2 1, 2 1, 2 1, 2 1, 2 1. Fixed elevation 2. CAPPI 3. Manually controlled DATA PROCESSING MTI processing 2 2 2 2 21.Yes, 2.No Doppler processing 1 1 1 1 11.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 3(continuous) 3(continuous) 3(continuous) 3(continuous) 3(continuous) cyclone is within range of detection) 1. Hourly 2. 3-hourly 3. Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational(for research etc.) 54 
+
+2012 Edition APPENDIX 2-D, p.16 Name of the Member Republic of Korea - 3 
+
+NAME OF STATION Korean Aviation Meteorological Agency SPECIFICATIONS Unit Index number 47113 Location of station 37° 28´ N 126° 21´ E Antenna elevation m 145 Wave length cm 5.32 Peak power of transmitter kW 250 Pulse length μ s 1.0; 2.0 Sensitivity minimum of receiver -110 dBm Beam width (Width of over -3dB antenna gain of maximum) 0.53 deg Detection range km 30, 480 Scan mode in observation 1, 2 1. Fixed elevation 2. CAPPI 3. Manually controlled DATA PROCESSING MTI processing 21.Yes, 2.No Doppler processing 11.Yes, 2.No Display 11.Digital, 2.Analog OPERATION MODE (When tropical 3(continuous) cyclone is within range of detection) 1. Hourly 2. 3-hourly 3. Others PRESENT STATUS 11.Operational 2.Not operational(for research etc.) 55 
+
+2012 Edition APPENDIX 2-D, p.17 Name of the Member Singapore 
+
+NAME OF STATION Changi SPECIFICATIONS Unit Index number 48698 Location of station 1° 22´ N 103° 59´ E Antenna elevation m 35 Wave length cm 10 Peak power of transmitter kW 750 Pulse length μ s 1 or 3 Sensitivity minimum of receiver dBm -110 Beam width (Width of over -3dB deg < 1 antenna gain of maximum) Detection range km 480 Scan mode in observation 1.Fixed elevation 2.CAPPI 3.Manually controlled 2DATA PROCESSING MTI processing 11.Yes, 2.No Doppler processing 11.Yes, 2.No Display 11.Digital, 2.Analog OPERATION MODE (When tropical cyclone is within range of detection) 1.Hourly 32.3-hourly (continuous) 3.Others PRESENT STATUS 1.Operational 12.Not operational(for research etc.) 56 
+
+2012 Edition APPENDIX 2-D, p.18 Name of the Member Thailand - 1 
+
+NAME OF STATION Mahong Son Chiang Rai Chiang Mai Sakol Nakon Phitsanulok SPECIFICATIONS Unit Index number 48300 48303 48327 48356 48378 Location of station 19° 18´ N 19° 55´ N 18° 47´ N 17° 09´ N 16° 46´ N 97° 50´ E 99° 50´ E 98° 59´ E 104° 08´ E 100° 16´ E Antenna elevation m 292 440 337 198 56 Wave length cm 3 5 5 5 5Peak power of transmitter kW 200 250 250 250 25 Pulse length μ s 0.5&1 0.8&2 0.8&2 0.8&2 0.8&2 Sensitivity minimum of receiver -108 -108 -106 -108 -106 dBm Beam width (Width of over -3dB antenna gain of maximum) 2 1.1 1.1 1.1 1.1 deg Detection range km 120 240 240 240 240 Scan mode in observation 2, 3 2, 3 2, 3 2,3 2, 3 1.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 1 1 1 1 11.Yes, 2.No Doppler processing 1 1 1 1 11.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 1, 3 1, 3 1, 3 1, 3 1, 3 cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational(for research etc.) 57 
+
+2012 Edition APPENDIX 2-D, p.19 
+
+Name of the Member Thailand - 2 
+
+NAME OF STATION Khon Khaen Ubol Surin Bangkok Donmuang SPECIFICATIONS Unit Index number 48381 48407 48432 48455 48456 Location of station 16° 27´ N 15° 14´ N 14° 53´ N 13° 23´ N 13° 55´ N 102° 47´ E 105° 01´ E 103° 29´ E 100° 36´ E 100° 36´ E Antenna elevation m 215 155 175 60 45 Wave length cm 10 5 10 3 10 Peak power of transmitter kW 500 250 500 25 500 Pulse length μ s 0.8&2 0.8&2 0.8&2 0.5&1 0.8&2 Sensitivity minimum of receiver -106 -108 -106 -108 -106 dBm Beam width (Width of over -3dB antenna gain of maximum) 2.2 1.1 2.1 2.5 1.2 deg Detection range km 240 240 240 60 240 Scan mode in observation 2, 3 2, 3 2, 3 2, 3 2, 3 1.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 1 1 1 1 11.Yes, 2.No Doppler processing 1 1 1 1 11.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 1, 3 1, 3 1, 3 1, 3 1, 3 cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational(for research etc.) 58 
+
+2012 Edition APPENDIX 2-D, p.20 Name of the Member Thailand - 3 
+
+NAME OF STATION Hua Hin Rayong Chumporn Ranong Surat Thani SPECIFICATIONS Unit Index number 48475 48478 48517 48532 48551 Location of station 12° 35´ N 12° 38´ N 10° 29´ N 9° 47´ N 9° 08´ N 99° 57´ E 101° 21´ E 99° 11´ E 98° 36´ E 99° 09´ E Antenna elevation m 30 32 28 45 33 Wave length cm 10 5 5 3 10 Peak power of transmitter kW 500 500 250 200 500 Pulse length μ s 0.8&2 0.882 0.8&2 0.5&1 0.8&2 Sensitivity minimum of receiver -106 -106 -108 -108 -106 dBm Beam width (Width of over -3dB antenna gain of maximum) 2.1 1.1 1.1 2 2.2 deg Detection range km 240 240 240 120 240 Scan mode in observation 2, 3 2, 3 2, 3 2, 3 2, 3 1.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 1 1 1 1 11.Yes, 2.No Doppler processing 1 1 1 1 11.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 1, 3 1, 3 1, 3 1, 3 1, 3 cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 2 11.Operational 2.Not operational(for research etc.) 59 
+
+2012 Edition APPENDIX 2-D, p.21 
+
+Name of the Member Thailand - 4 
+
+NAME OF STATION Phuket Trang Sathing Pra (Songkla) Narathiwat SPECIFICATIONS Unit Index number 48565 48567 48568 48583 Location of station 8° 08´ N 7° 31´ N 7° 26´ N 6° 25´ N 99° 19´ E 99° 37´ E 100° 27´ E 101° 49´ E Antenna elevation m 281 40 30 29 Wave length cm 5 3 5 3Peak power of transmitter kW 250 200 250 200 Pulse length μ s 0.852 0.5&1 0.8&2 0.5&1 Sensitivity minimum of receiver -106 -108 -106 -108 dBm Beam width (Width of over -3dB antenna gain of maximum) 1.1 2 1.1 2deg Detection range km 240 120 240 120 Scan mode in observation 2, 3 2, 3 2, 3 2, 3 1.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 1 1 1 11.Yes, 2.No Doppler processing 1 1 1 11.Yes, 2.No Display 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 1, 3 1, 3 1, 3 1, 3 cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 11.Operational 2.Not operational(for research etc.) 60 
+
+2012 Edition APPENDIX 2-D, p.22 Name of the Member USA 
+
+NAME OF STATION Guam Kwajalein SPECIFICATIONS Unit Index number 91217 91366 Location of station 13° 33´ N 8° 44´ N 144° 50´ E 167° 44´ E Antenna elevation m 110 30 Wave length cm 10.6 10.0 Peak power of transmitter kW 750 500 Pulse length μ s 1.57/ 4.5 0.8 Sensitivity minimum of receiver dBm -113 -107 Beam width (Width of over -3dB deg 0.96 1.0 antenna gain of maximum) Detection range km 399 250 Scan mode in observation 1.Fixed elevation 2.CAPPI 2 23.Manually controlled DATA PROCESSING MTI processing 1 21.Yes, 2.No Doppler processing 1 11.Yes, 2.No Display 1 11.Digital, 2.Analog OPERATION MODE (When tropical cyclone is within range of detection) 1.Hourly 3 32.3-hourly 6-minute 3.Others continuous continuous PRESENT STATUS 1.Operational 1 12.Not operational(for research etc.) 61 
+
+2012 Edition APPENDIX 2-D, p.23 
+
+Name of the Member Viet Nam – 1 
+
+NAME OF STATION Phu Lien Viet Tri Vinh Tam Ky Nha Trang SPECIFICATIONS Unit Index number 48826 48813 48845 48833 48877 Location of station 20.48 °N 21.18 °N 18.40 °N 15.34 °N 12.13 °N 106.38 °E 105.25 °E 105.41 °E 108.28 °E 109.12 °E Antenna elevation m 140 56 27 40 52 Wave length cm 5.3 5.3 5.3 5.6 5.6 Peak power of transmitter kW 250 250 250 250 250 Pulse length μ s 2 2 2 0.8;2.0 0.8;2.0 Sensitivity minimum of receiver -110 -110 -110 -113 -113 dBm Beam width (Width of over -3dB antenna gain of maximum) 1.1 1.1 1.1 1 1deg Detection range km 384 384 384 480 480 Scan mode in observation 1,3 1,3 1,3 1,2,3 1,2,3 1.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 1 1 1 1 11.Yes, 2.No Doppler processing 2 2 2 1 11.Yes, 2.No Display 1 1 1 1 11.Digital, 2.Analog OPERATION MODE (When tropical 1, 3 1, 3 1, 3 1, 3 1, 3 cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 1 1 1 1 11.Operational 2.Not operational(for research etc.) 62 
+
+2012 Edition APPENDIX 2-D, p.24 
+
+Name of the Member Vietnam - 2 
+
+NAME OF STATION Nha Be SPECIFICATIONS Unit Index number Location of station 10° 49´ N 106° 43´ E Antenna elevation m 25 Wave length cm 5.6 Peak power of transmitter kW 250 Pulse length μ s 0.4; 0.8; 2.0 Sensitivity minimum of receiver -122 dBm Beam width (Width of over -3dB antenna gain of maximum) 1deg Detection range km 480 Scan mode in observation 1, 2, 3 1.Fixed elevation 2.CAPPI 3.Manually controlled DATA PROCESSING MTI processing 11.Yes, 2.No Doppler processing 11.Yes, 2.No Display 11.Digital, 2.Analog OPERATION MODE (When tropical 1, 3 cyclone is within range of detection) 1.Hourly 2.3-hourly 3.Others PRESENT STATUS 11.Operational 2.Not operational(for research etc.) 63 
+
+> 2012 Edition APPENDIX 2-E, p. 1
+
+SCHEDULE OF MTSAT OBSERVATIONS AND DISSEMINATIONS 
+
+1. IMAGER observations 
+
+IMAGER observations are as follows: (a) full-disk observations are made hourly; (b) half-disk observations of northern hemisphere are made hourly in addition to the full-disk observations; (c) additional half disk data in the northern and southern hemispheres for Atmospheric Motion Vector (AMV) extraction are made six-hourly. 
+
+2. Dissemination Services for Medium-scale Data Utilization Station (MDUS) Users 
+
+High Rate Information Transmission (HRIT) is available as dissemination service for MDUS users. Technical specifications of HRIT are given in JMA HRIT Mission Specification Implementation (Issue 1.2, 1 Jan. 2003) (http://www.jma.go.jp/jma/jma-eng/satellite/mtsat1r/4.2HRIT_1.pdf) 
+
+3. Dissemination Services for Small-scale Data Utilization Stations (SDUS) Users 
+
+Low Rate Information Transmission (LRIT) is available as dissemination service for SDUS users. Visible imagery of full earth’s disk of normalized geostationary projection has been disseminated via LRIT since 1 July, 2010. Technical specification of LRIT is given in JMA LRIT Mission Specification Implementation (Issue 7, 1 Jul. 2010). (http://www.jma.go.jp/jma/jma-eng/satellite/mtsat1r/4.3LRIT.pdf) 
+
+4. Internet Service for National Meteorological and Hydrological Services (NMHSs) 
+
+Besides the direct broadcasting, JMA provides satellite imagery through the Internet FTP for NMHSs. Detailed information of this service is shown in the following webpage: http://www.jma.go.jp/jma/jma-eng/satellite/ds.html [JMA real-time satellite imagery webpage] http://www.jma.go.jp/en/gms/ [MSC real-time satellite imagery webpage] http://mscweb.kishou.go.jp/sat_dat/index.htm [MSC real-time satellite imagery webpage (for selected areas)] http://mscweb.kishou.go.jp/sat_dat/img/reg/sat_img.htm [SATAID (Satellite Animation and Interactive Diagnosis) Service] http://www.wis-jma.go.jp/cms/sataid/ 64 
+
+> 2012 Edition APPENDIX 2-E, p.2
+
+Figure 2-E.1 Time Table for Operation of MTSAT-2 (1/5) 65 
+
+> 2012 Edition APPENDIX 2-E, p.3
+
+Figure 2-E.1 Time Table for Operation of MTSAT-2 (2/5) 66 
+
+> 2012 Edition APPENDIX 2-E, p.4
+
+A. Notes - This timetable is effective from 0230 UTC on 1 July 2010. - For updated information on the dissemination timetable, please refer to MANAM, which is disseminated via MTSAT-1R and is also available on our web site. Via MTSAT-1R HRIT: MANAM is sent along with imagery of N02 and N08 (shown as “N02” or “N08” on a sky-blue ground in the timetable) LRIT: MANAM is sent along with imagery of PS-N02 and PS-N08 (shown as “PS-N02” or “PS-N08” on a green ground in the timetable) Website: URL: http://mscweb.kishou.go.jp/operation/index.htm 
+
+Fig 2-E.1 Time Table for Operation of MTSAT-2 (3/5) 67 
+
+2012 Edition APPENDIX 2-E, p.5 
+
+B. Legend Observation (full disk/half disk) HRIT LRIT C. Symbols hh: hours in UTC 1. Observation 2. HRIT Dissemination 3. LRIT Dissemination Fhh D1: Full-Disk imagery, Infrared-ch1; F: hourly Full-disk observation PS-Fhh D1-Fhh D3-Fhh Full disk Hourly full disk N: hourly Northern-hemisphere observation Nhh NhhW W: Wind extraction; S: Southern-hemisphere observation. Every 6 hours (00, 06, 12, 18 UTC), two Northern-hemisphere and two Southern-hemisphere observations will be performed before and after the full-disk observation respectively. As an example, observations for wind extraction around 12 UTC are N11, N11W, F12, S12 and S12W. Explanation of symbol F: hourly Full-disk observation Special observations for wind extraction Observation Hourly full disk Hourly Northern Hemisphere Symbol Fhh Observation Symbol Shh ShhW Nhh NhhW Explanation of symbol Hourly Northern Hemisphere Symbol Shh ShhW Observation Special observations for wind extraction PS-Nhh F: hourly Full-disk observation Explanation of symbol W: Wind extraction; S: Southern-hemisphere observation. Every 6 hours (00, 06, 12, 18 UTC), two Northern-hemisphere and two Southern-hemisphere observations will be performed before and after the full-disk observation respectively. As an example, observations for wind extraction around 12 UTC are N11, N11W, F12, S12 and S12W. PS: Polar-Stereographic imagery; F: hourly Full-disk observation; N: hourly Northern-hemisphere observation. There are three different sets of polar-stereographic imagery covering East Asia, northeast Japan and southwest Japan. D3: Full-Disk imagery, Infrared-ch3; F: hourly Full-disk observation Northern Hemisphere N: hourly Northern-hemisphere observation 
+
+Figure 2-E.1 Time Table for Operation of MTSAT-2 (4/5) 68 
+
+2012 Edition APPENDIX 2-E, p.6 
+
+D. Data disseminated in LRIT F00 D D D D D D DF01 D D D D D DN01 D D D D DF02 D D D D D DN02 D D D D DF03 D D D D D DN03 D D D D DF04 D D D D D DN04 D D D D DF05 D D D D D DN05 D D D D DF06 D D D D D D DF07 D D D D D DN07 D D D D DF08 （D） D D （D） （D） （D） DN08 （D） D D （D） （D） （D）
+
+F09 （D） D D （D） （D） （D） DN09 （D） D D （D） （D） （D）
+
+F10 D D D DN10 D D DF11 D D D DN11 D D DF12 D D D D DF13 D D D DN13 D D DF14 D D D DN14 D D DF15 D D D DN15 D D DF16 D D D DN16 D D DF17 D D D DN17 D D DF18 D D D D DF19 D D D DN19 D D DF20 D D D DN20 D D DF21 （D） D D （D） （D） （D） DN21 （D） D D （D） （D） （D）
+
+F22 （D） D D （D） （D） （D） DN22 （D） D D （D） （D） （D）
+
+F23 D D D D D DN23 D D D D DLegend D: Dissemination (D): Visible images are disseminated when the days are long enough, while infrared-ch4 images are disseminated when days are shorter. See MANAM for the latest information. E. Observation channels of the MTSAT-1R imager Infrared-ch1 ch2 ch3 ch4 Visible 6.5-7.0 μmVisible Northeast Japan Infrared -ch3 Infrared -ch4 Visible 11.5-12.5 μmSouthwest Japan Infrared-ch3 
+
+（D3-Fhh ）
+
+Full disk East Asia Polar-stereographic projection （PS-Fhh / PS-Nhh ）
+
+3.5-4.0 μm0.55-0.90 μmChannel Wavelength 10.3-11.3 μmVisible Infrared -ch1 Infrared-ch1 
+
+（D1-Fhh ）
+
+Imagery Observation 
+
+Figure 2-E.1 Time Table for Operation of MTSAT-2 (5/5) 69 
+
+> 2012 Edition APPENDIX 2-E, p.7
+
+Figure 2-E. 2 LRIT Images 
+
+Full earth's Disk of normalized geostationary projection Polar-stereographic projection covering East Asia Polar-stereographic projection covering the north-east of Japan Polar-stereographic projection covering the south-west of Japan 70 
+
+2012 Edition APPENDIX 2-F, p.1 
+
+SATELLITE IMAGERY RECEIVING FACILITIES AT TYPHOON COMMITTEE MEMBERS 
+
+Member Station MTSAT 1. M-DUS 2. S-DUS NOAA 1. HRPT 2. APT Meteosat 1. P-DUS 
+
+Cambodia China Beijing Shanghai Shenyan Guangzhou Cheng-chou Cheng-tu Lan-chou Kunming Changsha Nanjing Harbin (39.9°N, 116.4°E) (31.1°N, 121.4°E) (41.8°N, 123.6°E) (23.1°N, 113.3°E) (34.7°N, 113.7°E) (31.2°N, 114.0°E) (36.1°N, 103.9°E) (25.0°N, 102.7°E) (28.2°N, 113.1°E) (32.0°N, 118.8°E) (45.8°N, 126.8°E) 1, 2 1, 2 1, 2 1, 2 1, 2 1, 2 1, 2 1, 2 1, 2 121, 2 2Democratic People's Republic of Korea Pyongyang (39.0°N, 125.8°E) 1,2 1Hong Kong, China* Kowloon (22.3°N, 114.2°E) 1, 2 1Japan Minamitorishima Osaka (24.3°N, 154.0°E) (34.7°N, 135.5°E) 21, 2 *Hong Kong, China receives AQUA (MODIS), FY-1 (CHRPT), FY-2 (S-VISSR), and TERRA (MODIS). 71 
+
+2012 Edition APPENDIX 2-F, p.2 
+
+Member Station MTSAT 1. MDUS 2. SDUS 3. Movie NOAA 1. HRPT 2. APT Meteosat 1. P-DUS 
+
+Lao People's Democratic Republic Macao, China* Macao (22.2°N, 113.5°E) 1 1Malaysia Petaling Jaya (3.1°N, 101.7°E) 1, 2 1Philippines Quezon City Cagayan de Oro City Pasay City Cebu (14.7°N, 121.0°E) (8.5°N, 124.6°E) (14.5°N, 121.0°E) (10.3°N, 124.0°E) 1, 2 2221Republic of Korea* Seoul Incheon Int. Airport Munsan Seosan Pusan Pusan Kimhae Air Kwangju Taejon Kangnung Cheju Taegu Taegu/Air Traffic Chonju Chongju Ullung-Do Mokpo Chunchon Masan Tongyong Inchon Huksando Suwon Sokcho Pohang Kunsan Baengnyeong-do (37.6°N, 127.0°E) (37.3°N, 126.3°E) (37.9°N, 126.8°E) (36.8°N, 126.5°E) (35.1°N, 129.0°E) (35.2°N, 126.9°E) (35.2°N, 126.9°E) (36.4°N, 127.4°E) (37.5°N, 130.9°E) (33.5°N, 126.5°E) (35.9°N, 128.6°E) (35.9°N, 128.7°E) (35.8°N, 127.2°E) (36.6°N, 127.4°E) (37.5°N, 130.9°E) (34.8°N, 126.4°E) (37.9°N, 127.7°E) (35.2°N, 128.6°E) (34.9°N, 128.4°E) (37.5°N, 126.6°E) (34.7°N, 125.5°E) (37.3°N, 127.0°E) (38.3°N, 128.6°E) (36.0°N, 129.4°E) (36.0°N, 126.7°E) (37.9°N, 124.6°E) 1, 2 2, 3 2, 3 2, 3 22, 3 2, 3 2, 3 2, 3 2, 3 2, 3 2, 3 2, 3 333332, 3 33333111Singapore* Changi Airport (1.4°N, 104.0°E) 1 1 1Thailand Bangkok (13.7°N, 100.6°E) 1, 2 1USA Guam (13.4°N, 144.6°E) 1, 2 1Viet Nam Hanoi Ho Chi Ming City (21.0°N, 105.5°E) (10.5°N, 106.4°E) 1, 2 22* Macao, China receives AQUA (MODIS), FY-1D (CHRPT), FY-2 (S-VISSR) and TERRA (MODIS). * Republic of Korea receives AQUA (MODIS, AIRS, AMSU, AMSR-E), FY-1 (CHRPT) and TERRA (MODIS). * Singapore receives AQUA (MODIS), FY2B (S-VISSR), FY-1 (CHRPT) and TERRA (MODIS). 72 
+
+2012 Edition APPENDIX 2-G 
+
+TROPICAL CYCLONE PASSAGE REPORT FORM 
+
+TROPICAL CYCLONE PASSAGE REPORT FORM 
+
+TC Name (RSMC No.) 0 0
+
+Station/ buoy/ship Number Minimum Sea Level Pressure Maximum Sustained Wind Peak Gust Rainfall Time Observed (10-min ave.) Time Observed Time Observed Amount Date hPa (UTC) m/sec (UTC) m/sec (UTC) mm Observed 73 
+
+> 2012 Edition APPENDIX 3-A, p1
+
+OUTLINE OF RSMC TOKYO - TROPICAL CYCLONE PREDICTION MODELS (a) Global Spectral Model (GSM-1110) Data Assimilation: 
+
+- Four-dimensional variational (4D-Var) data assimilation method with 6-hours assimilation window using 3 to 9-hours forecast by GSM as first-guess field - Data cut-off at 2.3 hours from synoptic time for prediction model, at 5.6 ~ 11.6 hours from synoptic time for assimilation cycle - Dynamic quality control considering temporal and spatial variabilities - Reduced Gaussian grid, roughly equivalent to 0.1875° x 0.1875° in latitude and longitude - Model p-sigma hybrid levels (60) + surface (1) 
+
+(bogusing of tropical cyclones) 
+
+- Axis-symmetric structure based on Frank’s (1977) empirical formula with parameters prescribed on forecasters’ analysis mainly applying the Dvorak method to MTSAT imagery - Asymmetric structure derived from first-guess field (prediction using GSM) - Bogus structure is given as pseudo-observation data to the analysis for the prediction model 
+
+Operation: (schedule) 
+
+Four times a day (0000, 0600, 1200 and 1800 UTC) 
+
+(integration time) 
+
+84 hours from 0000, 0600 and 1800 UTC, and 216 hours from 1200 UTC 
+
+Prediction model: (dynamics) 
+
+- Hydrostatic, primitive, semi-Lagrangian-form equations - Semi-implicit time integration - TL959 spectral discretization in the horizontal direction - Reduced Gaussian grid, roughly equivalent to 0.1875° x 0.1875° in latitude and longitude (~20km grid - Finite differencing on 60 p-sigma hybrid levels in the vertical direction - Horizontal diffusion by linear second-order Laplacian 
+
+(physics) 
+
+- Arakawa-Schubert (1974) cumulus parameterization with modifications by Moorthi and Suarez (1992), Randall and Pan (1993) and Kuma and Cho (1994) - Prognostic cloud water scheme by Smith (1990) - Bulk formulae for surface fluxes with similarity functions by Louis (1982) - Vertical diffusion with the level-2 closure model by Mellor and Yamada (1974) with moist effect included - Gravity wave drag by Palmer et al. (1986) and Iwasaki et al. (1989) - Simple Biosphere Model (SiB) by Sellers et al. (1986) and Sato et al. (1989a,b) 
+
+Boundary conditions: (SST) 
+
+0.25° x 0.25° daily analysis with climatic seasonal trend 74 
+
+> 2012 Edition APPENDIX 3-A, p2
+
+(b) Typhoon Ensemble Prediction System (TEPS) Initial condition: 
+
+Interpolation of the initial condition for GSM plus ensemble perturbations 
+
+Methods to make ensemble perturbations: 
+
+- Singular vector (SV) method to generate initial perturbations - Linearized model and its adjoint version based on those adopted in 4-D variational calculus, which consist of full dynamics of Eulerian integrations and full physical processes containing representations of surface fluxes, vertical diffusion, gravity wave drag, large-scale condensation, long-wave radiation and deep cumulus convection - T63 (~180 km grid) spectral discretization in the horizontal direction - Finite differencing on 40 p-sigma hybrid levels in the vertical direction - A stochastic physics scheme to represent model uncertainties - Perturbed parameterized tendencies of u, v, T and q 
+
+Ensemble size: 
+
+11 
+
+Operation: (schedule) 
+
+Four times a day (0000, 0600, 1200 and 1800 UTC) 
+
+(tropical cyclone conditions that can trigger model prediction) 
+
+- a tropical cyclone of TS intensity or higher exists in the area of responsibility (0°N - 60°N, 100°E - 180°E) - a tropical cyclone is expected to reach TS intensity or higher in the area within the next 24 hours - a tropical cyclone of TS intensity or higher is expected to move into the area within the next 24 hours 
+
+(maximum number of predictions) 
+
+Three for each synoptic time (0000, 0600, 1200 and 1800 UTC) 
+
+(integration time) 
+
+132 hours 
+
+(domain) 
+
+globe 
+
+(Prediction model) 
+
+- Lower-resolution version of the GSM - TL319 spectral discretization in the horizontal direction - Reduced Gaussian grid, roughly equivalent to 0.5625° x 0.5625° in latitude and longitude (~55km grid) - Finite differencing on 60 p-sigma hybrid levels in the vertical direction 75 
+
+2012 Edition APPENDIX 3-B, p.1 
+
+OPERATIONAL TYPHOON TRACK FORECAST METHODS USED BY TYPHOON COMMITTEE MEMBERS 
+
+Name of the Member China 
+
+Item Method Type of output Name of the method Global Numerical Model of Typhoon Track Prediction (GMTTP) Track position up to 120h, interval is 6h Description of the method a) Forecast domain of GMTTP: Global b) Vertical resolution: 31L c) Horizontal resolution: T213 d) Time integration: Semi-Lagrangian e) Physical processes: Short wave radiation: morcrette,1991 Long wave radiation: Fouquart and Bonnel,1988 Turbulence diffusion: Louis et al.,1982 cumulus convection: mass flux scheme(tiedtke,1989) cloud physics: prognostic cloud scheme (Tiedtke;1993) Surface physical processes: 4 level model (Viterbo and Beljaars, 1995) 76 
+
+2012 Edition APPENDIX 3-B, p.2 Name of the Member China 
+
+Item Method Type of output Name of the method Statistical dynamic method (SD-90) 12,24,36,48,60 and 72-hr forecast positions Description of the method a. Basic equations: 
+
+> 1
+
+Ffv dt du 
+
+> 2
+
+Ffu dt dv 
+
+Where u and v are velocity components of typhoon center; F1,F 2 represent the mean effects of the pressure gradient and some other forces in the vortex area, given out by:  
+
+> 2)1(3)1(2)1(11
+
+tbtbbF  , 
+
+> 2)2(3)2(2)2(12
+
+tbtbbF  ,Here b i(j) (i=1,2,3; j=1,2) represents 6 random variables, which are statistically obtained from samples over 30-year period (1961-1990). The 24-hr numerical forecast height values at 500 hPa are used as predictors. b. Domain: West of the Northwest Pacific area from 15°N-40°N, 115°E-140°E c. Frequency of forecast: Twice a day 06Z, 18Z up to 72-hr 77 
+
+2012 Edition APPENDIX 3-B, p.3 Name of the Member China 
+
+Item Method Type of output Name of the method Consensus forecast method using the canonical correlation 12,24,36,48,60 and 72-hr forecast positions Description of the method a. Basic equations: 
+
+#  ii xaaX 0
+
+#  ii ybbY 0
+
+Where X and Y are longitude and latitude of forecast typhoon position, respectively. xi and yi (i=1,2,3,4) are forecast longitude and latitude obtained by four sub-models: Japanese numerical model, SD-85 method, CLIPER method and Shanghai Composite Statistical method. a i and b i (i=1,2,3,4) are regression coefficients obtained by canonical correlation method. b. Domain: West of the Northwest Pacific area from 15°N-40°N, 115°E-140°E c. Frequency of forecast: Twice a day 06Z, 18Z up to 72-hr 78 
+
+2012 Edition APPENDIX 3-B, p.4 Name of the Member Democratic People’s Republic of Korea 
+
+Item Method Type of output Name of the method Northern Hemisphere Model of Typhoon Track Prediction (NHMTTP) Every 3 hours up to 168 hours Description of the method Governing equation: primitive equations Forecast domain of NHMTTP: Northern Hemisphere Resolution: T63L14 Time integration scheme: Semi-implicit Integration method: nudging of ECMWF prediction data 24 hourly. Physical processes: 
+
+- radiation considering short and long wave 
+
+- Kuo-type cumulus convection 
+
+- Large scale condensation 
+
+- Surface physical processes 
+
+- PBL by K model 
+
+- Fourth order diffusion Frequency of forecast: twice a day (00 and 12 UTC) Objective analysis: 3DVAR Initialization: digital filter 79 
+
+2012 Edition APPENDIX 3-B, p.5 Name of the Member Hong Kong, China 
+
+Item Method Type of output Name of the method Description of the method Name of the method Description of the method Name of the method Description of the method 
+
+Regression method 
+
+The mean 24-hr movement of each tropical cyclone centered in each 5-degrees square is correlated with that 24 hours ago to derive regression equations for forecasting. Independent variables: Present and past 24-hour positions Domain : 5° - 25°N, 105° - 145°E Frequency of forecast: 4 times a day 
+
+The space mean method 
+
+The space mean technique is based on the concept of steering. Space mean charts are prepared by the computer to depict the smoothed basic flows at various upper levels with the circulation of the tropical cyclone and other small-scale eddies removed. Input: Surface, 700, 500 and 300 hPa data covering the area 0° - 65°N, 65° - 165°E 
+
+The Multi-Model Ensemble Technique 
+
+An unweighted position and motion vector consensus of the tropical cyclone forecast tracks given by the global models of the UKMO (EGRR), Japan Meteorological Agency (JMA), National Centers for Environmental Prediction (NCEP) and European Centre for Medium-Range Weather Forecasts (ECMWF). Frequency of forecast: 2 times a day References: [1] James S. Goerss, 2000: Tropical Cyclone Track Forecasts Using an Ensemble of Dynamical Models, Monthly Weather Review, Vol. 128, p.1187-1193. [2] Russell L. Elsberry, James R. Hughes, and Mark A. Boothe, 2008: Weighted Position and Motion Vector Consensus of Tropical Cyclone Track Prediction in the Western North Pacific, Monthly Weather Review, Vol. 136, p.2478-2487. 24, 48, 72 and 96-hr movement forecasts Space mean charts and 24-hour movement forecast 24, 48, and 72-hr forecast positions 80 
+
+2012 Edition APPENDIX 3-B, p.6 Name of the Member Hong Kong, China 
+
+Item Method Type of output Name of the method Non-Hydrostatic Model (NHM) Tropical cyclone position forecasts, surface and upper level prognoses up to 72 hours from the 10-km NHM, and up to 15 hours from the 2-km NHM. Tropical cyclone forecast guidance bulletins based on the 10-km NHM will be disseminated through the GTS when a tropical cyclone is within 10N to 30N and 105E to 125E. Description of the method See Appendix 3-E 81 
+
+> 2012 Edition APPENDIX 3-B, p.7
+
+Name of the Member Hong Kong, China 82 
+
+2012 Edition APPENDIX 3-B, p.8 Name of the Member Japan 83 
+
+2012 Edition APPENDIX 3-B, p.9 Name of the Member Japan 
+
+Item Method Type of output Name of the method The global spectral model (GSM) Description of the method Name of the method Description of the method See Appendix 3-A (a) Typhoon Ensemble Prediction System (TEPS) See Appendix 3-A (b) 84 
+
+2012 Edition APPENDIX 3-B, p.10 Name of the Member Philippines 85 
+
+2012 Edition APPENDIX 3-B, p.11 Name of the Member Philippines 86 
+
+2012 Edition APPENDIX 3-B, p.12 Name of the Member Philippines 87 
+
+2012 Edition APPENDIX 3-B, p.13 Name of the Member Philippines 88 
+
+2012 Edition APPENDIX 3-B, p.14 Name of the Member Philippines 89 
+
+2012 Edition APPENDIX 3-B, p.15 Name of the Member Philippines 90 
+
+> 2012 Edition APPENDIX 3-B, p.16
+
+Name of the Member Republic of Korea 
+
+Item Method Type of output Name of the method 
+
+Global Data Assimilation and Prediction System (GDAPS) 
+
+TC positions up to 252 hours at 00/12 UTC and 72 hrs at 06/18 UTC Description of the method Governing equations: Non-hydrostatic Vertical resolution: 70 levels in hybrid coordinate. Model top 80 km Horizontal representation: Spherical latitude-longitude. Resolution 0.234° latitude and 0.352° longitude. Initialization: 4DVAR (See Appendix 3-D (1)) 
+
+Name of the method 
+
+Regional Data Assimilation and Prediction System (RDAPS) 
+
+TC positions up to 72 hours at 00/06/12/18 UTC Description of the method Governing equations: Non-hydrostatic Vertical resolution: 70 levels in hybrid coordinate. Model top 80 km Horizontal resolution: Spherical rotated latitude-longitude. Resolution 0.11°. Initialization: 4DVAR Boundary condition: Specified from GDAPS with 3-hr interval (See Appendix 3-D (2)) 
+
+Name of the method 
+
+Double Fourier-series BAROtropic typhoon model (DBAR) 
+
+6 hourly TC position up to 72 hours at 00/06/12/18 UTC Description of the method Governing equation: Shallow water equations Domain: Global Resolution: 0.3515° Initial field: global analysis from GDAPS 4DVAR (See Appendix 3-D (3)) 91 
+
+2012 Edition APPENDIX 3-B, p.17 Name of the Member USA 92 
+
+2012 Edition APPENDIX 3-B, p.18 Name of the Member USA 93 
+
+2012 Edition APPENDIX 3-B, p.19 
+
+Name of the Member USA 94 
+
+2012 Edition APPENDIX 3-B, p.20 Name of the Member USA 95 
+
+2012 Edition APPENDIX 3-B, p.21 Name of the Member USA 96 
+
+2012 Edition APPENDIX 3-B, p.22 Name of the Member USA 97 
+
+> 2012 Edition APPENDIX 3-B, p.23
+
+Name of the Member Viet Nam 
+
+Item Method Type of output Name of the method Description of the method Barotropic Model Governing equations: Three primitive equations formulated on a discrete grid in geographical coordinates. Dependent variables: geopotential height H (m), zonal U
+
+(m/s) and meridional V (m/s) components of wind. Domain: Two nested domains. The outermost forecasting domain is fixed and extends from 20 S to 60 N, 60 E to 180 E with horizontal resolution 1.25 
+
+(121 x 81 grid points). The inner domain is vortex -centered, movable consisting of 20 x 20 grid points with resolution of 0.25 degrees. Approximation schemes: centered finite difference for spatial approximation, Adams-Bashforth for time integration. Boundary conditions are fixed. Initial global fields H, U, V are obtained from global analysis of Japan Meteorological Agency (JMA). 
+
+Vortex initialisation scheme: bogus vortex is constructed based on the assumption that the storm motion is equal to the vector sum of the large scale environmental flow plus the vortex asymmetry (Smith and Ulrich, 1990; Smith, 1991; Smith and Weber, 1993; Weber and Smith, 1995; Davidson and Weber, 2000). A number of modifications had been done to this scheme for better representing characteristics of tropical cyclone motion near Viet Nam. 
+
+Frequency of forecast: twice a day (for base times 00 UTC and 12 UTC) when a tropical storm is acting in the South China Sea. Tropical cyclone positions (latitude, longitude) for +12h, +24h, +36h and +48h ahead 98 
+
+> 2012 Edition APPENDIX 3-B, p.24
+
+Name of the Member Viet Nam 
+
+Item 
+
+Method Type of Output Name of the method Description of the method Barotropic model (referred to as WBAR model) with vortex initialization scheme 
+
+Governing Equations : a set of shallow water equations that formulated in a geographical coordinate system 
+
+Data Domain : Area of 161 x 101 grid points from 60 0E to 180 0E and from -5 0S to 55 0N with spatial resolution of 0.75 0 x0.75 0 in lat-long 
+
+Initial Conditions : predifined 850-200mb DLM wind and height operational objective analyses and forecasts of Global Spectral Model (GSM) of Japan. Geopotential height is provided in the form of deviation from a mean distribution. 
+
+Boundary Conditions : time-dependent boundary 
+
+Integration Scheme : An Euler forward step and a third-order Adams-Bashforth step are used for the first two time steps, while all other time steps are Adams-Bashforth steps of third-order. 
+
+Integration Step : the model time steps are variable and determined automatically by evaluation of the Courant-Friedrich-Levy criterion using the current wind and height fields. 
+
+Integration Domain : is storm-relative circular domain and movable . 
+
+Vortex initialization scheme : consists of a post-analysis of the predifined 850-200mb DLM wind components of the operational objective analyses and forecasts of GSM model and the construction of synthetic vortex using the information provided that by the operational TC advisories. The analysis procedure is based on the methodology of Weber and Smith (1995) and is similar to the operational vortex enhancement scheme used in TC-LAPS model. 
+
+Frequency of forecast : Twice times a day when existing any tropical cyclone over the East Sea 12h, 24h, 36h and 48h forecast position of tropical cyclone 99 
+
+> 2012 Edition APPENDIX 3-C, p.1
+
+SAMPLES OF THE OPERATIONAL PROCEDURES AND METHODS FOR THE TROPICAL CYCLONE ANALYSIS AND FORECASTING 
+
+1. The methods of tropical cyclone analysis and forecasting 
+
+1.1 Judgement on tropical cyclone formation 
+
+1.1.1 Satellite analysis See Appendix 3-C, p.15 (Sec. 2.2) 1.1.2 Radar analysis See Appendix 3-C, p.14 (Sec. 2.1) 1.1.3 Upper air analysis The following conditions may be assessed on an operational basis by means of upper air and streamline analyses (at the 850, 500 and/or 300 hPa levels). If the replies to the following questions are “yes” in at least one of the following cases, formation of a storm is expected. 1. Does the synoptic scale upper divergence exist over the tropical disturbance? The upper divergence favours the development of disturbance into storm. 2. Are the high level anticyclone and the warm core starting to be established or have they developed over the disturbance? These indications show a storm formation empirically. 3 Are the convergence of the moist air and the definite organized circulation observed (say, at the 850 hPa level) over the disturbance? These features show a storm formation empirically. 1.1.4 Synoptic surface analysis The following conditions may be assessed on an operational basis in the vicinity of the disturbance by means of the surface analysis. 1. Existence of a region of the surface pressure less than 1,000 hPa? 2. Existence of a region of the surface pressure fall more than 5 hPa per 24 hours. 3. Existence of a region of the surface mean wind more than 10 m/sec. Any existence of the region mentioned above may favour a storm formation. 1.1.5 Sea surface temperature (SST) analysis A large area of SST greater than or equal to 26 °C in the vicinity of the disturbance is necessary for the formation and development of the typhoon. 100 
+
+> 2012 Edition APPENDIX 3-C, p.2
+
+1.2 Identification of tropical cyclone / typhoon position 
+
+1.2.1 Determination of typhoon position by means of extrapolation Central position of the typhoon can be estimated by extrapolation. This extrapolation is based on the persistence of typhoon movement in the past. 1.2.2 Radar data analysis See Appendix 3-C, p.14 (Sec.2.1) 1.2.3 Satellite analysis See Appendix 3-C, p.15 (Sec. 2.2) 1.2.4 Surface map analysis (1) The distance intersection method (with pressure profile) We assume that the strength, scale and pressure profile of the typhoon remains unchanged. 
+
+Procedure 
+
+Step 1. Read the surface pressure at point A and measure the distance from point A to the typhoon center in the pressure profile chart (Fig. 3-C.1) prepared at the previous map time. Draw the arc with the distance obtained (Fig.3-C.4). Step 2. Same work for several points. Step 3. The arcs do not always intersect at one point. The typhoon center must be obtained as the average of the intersecting points. Remarks: a. This method is not used in case of rapid development or weakening of the typhoon, or when the typhoon has come near to land because the pressure profile will change. b. When the isobar of the typhoon is not circular, this method will produce some error. 101 
+
+2012 Edition APPENDIX 3-C, p.3 102 
+
+2012 Edition APPENDIX 3-C, p.4 103 
+
+2012 Edition APPENDIX 3-C, p.5 104 
+
+2012 Edition APPENDIX 3-C, p.6 105 
+
+2012 Edition APPENDIX 3-C, p.7 106 
+
+2012 Edition APPENDIX 3-C, p.8 107 
+
+2012 Edition APPENDIX 3-C, p.9 108 
+
+2012 Edition APPENDIX 3-C, p.10 1.5.5 Radar observation See Appendix 3-C, p.14 (Sec. 2.1). 1.5.6 Numerical weather prediction High-resolution NWP global models, including EPS systems, are generally becoming more reliable with skills comparable to the subjective forecasts issued by the forecasters. They can provide useful guidance material for estimating intensity category and trend. 1.5.7 Model output statistics (MOS) method The NWP intensity predictions can be further improved using MOS methods by establishing the statistical relationship between the analyzed intensity and forecast intensity output by the models. For example, based on the regression of model forecast central pressure against the best-track data in past years, a set of best-estimated parameters can be derived to correct the real-time NWP forecasts. Deterministic forecasts of tropical cyclone intensity derived from EPS data can also be calibrated using an artificial neural network. 
+
+1.6 Prediction of rainfall 
+
+Rainfall related with the typhoon are roughly divided into the following four categories; 1) vortical rain near the typhoon center, 2) orographic rainfall, 3) rainfall caused by the outer-band, and 4) rainfall caused by front in the higher latitude region. 1.6.1 Numerical weather prediction Rainfall are predicted by the primitive equation model including cumulus parameterization scheme. The predicted precipitation is, in general, smaller than the observed one, though the predicted rainfall area generally agrees well with the observed rainfall area. It should be noted that the model sometimes yields the erroneous small-scale (two grid noise) concentration of heavy rainfalls. 1.6.2 MOS method: Model Output Statistics The MOS method is based on the statistical relations between the rainfall amount and the predictors obtained from the NWP products at the grid points. Notes: Life cycle of the typhoon a. Formation stage The rate of the pressure change may fluctuate and the wind distribution may be asymmetric. b. Development stage The amount of pressure fall increases with respect to time. The intensification of the maximum wind is more remarkable than the expansion of the strong wind zone. c. Mature stage A typhoon acquires a quasi-steady state with only random fluctuations in the central pressure and maximum wind speed. However, the strong wind zone still expands. d. Decay stage Asymmetry in the pressure and wind field becomes more pronounced. 109 
+
+2012 Edition APPENDIX 3-C, p.11 110 
+
+> 2012 Edition APPENDIX 3-C, p.12
+
+1.6.6 Very-short range prediction of rainfall by satellite observation Qualitative analysis of rainfall area can be done using satellite picture. For the quantitative analysis techniques of rainfall area and amount, digital image data must be used. The guides for detection of rainfall area is summarized as follows: 1. Identification of convective cloud area and the thickest and/or coldest “point” area of deep convective clouds a. Draw the outlines of convective clouds. Try to discriminate cirrus anvil from convective cloud. Cirrus anvils of deep convective clouds are seen at the 200 hPa downwind areas of the clouds. b. Detect the “point” maximum rainfall area by examining the highest and/or coldest area in IR picture and shadows of overshooting Cb tops in VIS picture. In the case of Cb with cirrus anvil, the “point” area is usually near the upwind sharp end of the Cb cloud. 2. Analysis of movement and evolution of convective cloud and Cb cluster Life times of Cb’s with size of 50 – 100 km including anvil are 3 – 6 hours and those of Cb clusters are about 12 hours. Note that convective clouds in IR picture tend to continue to appear cold (white) even a few hours after convective activity and rainfall reached the peak. 3. Comparison of satellite analysis with radar analysis Analyze rainfall area out of radar detection range by referring to the relation between satellite and radar analyses within the radar detection range. 4. Microwave sensors from satellites Rainfall amount and probability of precipitation can be predicted using microwave sensors from satellites. 
+
+1.7 Prediction of wind 
+
+1.7.1 Synoptic method 1. The distribution of wind within the typhoon area is resultant of gradient wind and isallobaric wind in the first approximation. However, calculation of the isallobaric wind is not easy in operational basis, therefore it is obtained approximately by adding the velocity of typhoon movement to the gradient wind. 2. The maximum wind near the moving typhoon center is usually observed in the right hand side of the direction of movement. The distribution of wind speed accompanying the typhoon may be expressed as follows: Vmax in the right semicircle = Vmax in the left semicircle x K, where K is 1.2 to 1.4. 111 
+
+2012 Edition APPENDIX 3-C, p.13 112 
+
+2012 Edition APPENDIX 3-C, p.14 113 
+
+2012 Edition APPENDIX 3-C, p.15 114 
+
+2012 Edition APPENDIX 3-C, p.16 115 
+
+> 2012 Edition APPENDIX 3-C, Annex, p.1
+
+THE TROPICAL CYCLONE ANALYSIS AND FORECASTING TECHNIQUE USING SATELLITE DATA 
+
+This is extracted from NOAA Technical Report NESDIS 11 described by Vernon F. Dvorak in September 1984. Figure 1-4 shows diagrams outlining the steps used for analyzing both EIR pictures (Figures 1 and 2) and VIS pictures (Figures 3 and 4). Figure 5 is a worksheet to be used for the analysis. The figures are followed by detailed instructions for each step of the technique. These instructions include the techniques for the analysis of the formation, central position and intensity of the tropical cyclone as well as for the prediction of its intensity. 116 
+
+> 2012 Edition APPENDIX 3-C, Annex, p.2
+
+Figure 1. EIR Analysis Diagram, Part 1. 117 
+
+> 2012 Edition APPENDIX 3-C, Annex, p.3
+
+Figure 2. EIR Analysis Diagram, Part 2. 118 
+
+2012 Edition APPENDIX 3-C, Annex, p.4 Figure 3 VIS Analysis Diagram, Part 1. 119 
+
+> 2012 Edition APPENDIX 3-C, Annex, p.5
+
+Figure 4. VIS Analysis Diagram, Part 2. 120 
+
+2012 Edition APPENDIX 3-C, Annex, p.6 121 
+
+2012 Edition APPENDIX 3-C, Annex, p.7 
+
+INTENSITY ANALYSIS PROCEDURES AND RULES 122 
+
+2012 Edition APPENDIX 3-C, Annex, p.8 123 
+
+2012 Edition APPENDIX 3-C, Annex, p.9 124 
+
+2012 Edition APPENDIX 3-C, Annex, p.10 125 
+
+2012 Edition APPENDIX 3-C, Annex, p.11 126 
+
+2012 Edition APPENDIX 3-C, Annex, p.12 127 
+
+2012 Edition APPENDIX 3-C, Annex, p.13 128 
+
+2012 Edition APPENDIX 3-C, Annex, p.14 129 
+
+2012 Edition APPENDIX 3-C, Annex, p.15 130 
+
+2012 Edition APPENDIX 3-C, Annex, p.16 131 
+
+2012 Edition APPENDIX 3-C, Annex, p.17 132 
+
+2012 Edition APPENDIX 3-C, Annex, p.18 133 
+
+2012 Edition APPENDIX 3-C, Annex, p.19 134 
+
+2012 Edition APPENDIX 3-C, Annex, p.20 135 
+
+2012 Edition APPENDIX 3-D, p. 1 
+
+OUTLINE OF KMA - Typhoon Dynamic MODELS 
+
+(1) < Global Data Assimilation and Prediction System (GDAPS) > 
+
+Initial field: (analysis) 
+
+4DVAR (Resolution: 0.833° latitude and 1.25° longitude) 
+
+(bogusing) 
+
+winds and sea level pressure generated by empirical formulas and observations 
+
+(initialization) 4DVAR 
+
+Operation: (schedule) 
+
+four times (00, 06, 12, 18UTC) a day 
+
+(integration time) 
+
+252 hours at 00, 12UTC and 72 hours at 06, 18 UTC 
+
+Prediction model: (dynamics) 
+
+Non-hydrostatic 
+
+(vertical resolution) 
+
+70 levels in hybrid coordinate 
+
+(horizontal resolution) 
+
+Spherical latitude-longitude with 0.234° latitude and 0.352° resolution 
+
+Time integration: 
+
+Two time-level semi-Lagrangian advection with a pressure correction semi-implicit time stepping method using a Helmoltz solver to include non-hydrostatic terms. 
+
+Physics: (diffusion) 
+
+2 nd -order horizontal diffusion of surface winds, specific humidity and potential temperature 2 nd -order vertical diffusion of winds only between 500 and 150 hPa in the tropics 
+
+(surface flux and boundary layer) 
+
+Met Office Surface Exchange Scheme (MOSES II; Cox et al., 2001) Non-local boundary layer scheme (Lock et al., 2000) 
+
+(cumulus convection) 
+
+Mass flux convection with CAPE closure, momentum transports and convective anvils 
+
+(microphysics) 
+
+Mixed phase precipitation (Wilson and Ballard, 1999) 
+
+(radiation) 
+
+Edwards-Slingo (1996) radiation scheme with non-spherical ice spectral files 
+
+Products: 
+
+location (lat./lon.), central pressure, maximum tangential winds, every 6 hr up to 252 hours 136 
+
+2012 Edition APPENDIX 3-D, p. 2 
+
+(2) < Regional Data Assimilation and Prediction System (RDAPS) > 
+
+Data assimilation: (objective analysis) 
+
+4DVAR 
+
+(bogusing of tropical cyclones) 
+
+winds and sea level pressure generated by empirical formulas and observations 
+
+Dynamics: (basic equations) 
+
+non-hydrostatic 
+
+(domain) 
+
+East Asia region 
+
+(vertical levels) 
+
+70 levels and 80km top 
+
+Physics: (diffusion) 
+
+none 
+
+(surface flux and boundary layer) 
+
+Met Office Surface Exchange Scheme (MOSES II; Cox et al., 2001) Non-local boundary layer scheme (Lock et al., 2000) 
+
+(cumulus convection) 
+
+Mass flux convection with CAPE closure, momentum transports and convective anvils 
+
+(microphysics) 
+
+Mixed phase precipitation (Wilson and Ballard, 1999) 
+
+(radiation) 
+
+Edwards-Slingo (1996) radiation scheme with non-spherical ice spectral files 
+
+Initial conditions: 
+
+4DVAR 
+
+Boundary conditions: 
+
+specified from GDAPS with the previous time 
+
+Frequency of forecast: 
+
+four times a day (00, 06, 12, 18 UTC) 
+
+Products: 
+
+location (lat./lon.), central pressure, and maximum tangential winds every 6 hr up to 72 hours 137 
+
+2012 Edition APPENDIX 3-D, p. 3 
+
+(3) < Double Fourier-series BARotropic typhoon model (DBAR) > 
+
+Initial field: 
+
+Analysis from a GDAPS (4DVAR) Height field obtained by solving the balance equation 
+
+Operation: (schedule) 
+
+Four times (00, 06, 12, and 18 UTC) a day 
+
+(Integration time) 
+
+72 hours from 00, 06, 12, and 18 UTC 
+
+Prediction model: (dynamics) 
+
+shallow water equations 
+
+(horizontal resolution) 
+
+grid (lat*lon): 512*1024, ~0.3515  x 0.3515  spacing 
+
+(vertical level) 
+
+1 level 
+
+(spectral transform method) 
+
+double Fourier series 
+
+Products: 
+
+6-hourly TC location (lat./lon.) in the western North Pacific up to 72 hours 138 
+
+2012 Edition APPENDIX 3-E, p.1 
+
+Outline of HKO – Non-Hydrostatic Model (NHM) 
+
+Name of the method: 
+
+Non-Hydrostatic Model (NHM) 
+
+Description of the method: 
+
+HKO operates the NHM system based on JMA-NHM (Saito et al. 2006) with horizontal resolution at 10-km and 2-km to provide forecasts up to 72 hours and 15 hours ahead respectively (Wong 2010). In NHM, a 3-dimensional variational data assimilation (3DVAR) system is used to generate the initial condition on model levels using the following meteorological observations: (A) GTS SYNOP, SHIP and BUOY synoptic stations, ship and buoy data TEMP and PILOT radiosonde and pilot data AMDAR and AIREP aircraft data AMV atmospheric motion vectors from MTSAT-2 ATOVS retrieved temperature profiles from NOAA (B) Internet (i) NCEP global high resolution daily sea surface temperature analysis at 0.083 degree resolution (ii) Retrieved total precipitable water over ocean surface from SSM/I and AMSR-E (C) Regional data exchange Data from automatic weather stations over the south China coastal areas (D) Local data (i) Tropical cyclone bogus data from forecasters’ analysis during TC situations (ii) Automatic weather station data (iii) Wind profiler data (iv) Doppler weather radar data (v) Radar retrieved wind data (u and v) on 1-5 km levels based on multiple weather radars in Hong Kong and the Pearl River Delta region, China (vi) GPS total precipitable water vapour The 3DVAR analysis for 10-km NHM is produced eight times a day at 00, 03, 06, 09, 12, 15, 18, and 21 UTC. Hourly analysis is performed for the 2-km NHM. Specifications of the forecast model are given in the following table: Basic equations Fully compressible non-hydrostatic governing equations Vertical coordinates Terrain following height coordinates system Forecast parameters wind (u,v,w), 3-dimensional pressure, potential temperature, specific humidity of water vapour, cloud water, cloud ice, rain water, hail/graupel and snow Map projection Mercator Number of grid points 10-km NHM: 585x405, 50 levels 2-km NHM: 305x305, 60 levels Forecast range 10-km NHM: 72 hours 2-km NHM: 15 hours Initial condition Analysis from NHM 3DVAR on model levels 139 
+
+2012 Edition 
+
+APPENDIX 3-E, p.2 
+
+Boundary condition For 10-km NHM, 3-hourly interval boundary data including horizontal wind, temperature, relative humidity, geopotential height and surface pressure from JMA Global Spectral Model forecast at horizontal resolution of 0.5 degree in latitude/longitude and on 21 pressure levels (1000, 975, 950, 925, 900, 850, 800, 700, 600, 500, 400, 300, 250, 200, 150, 100, 70, 50, 30, 20, and 10 hPa) For 2-km NHM, hourly interval boundary data provided from 10-km NHM forecasts Nesting configuration One-way nesting Topography and land-use USGS GTOPO30 (30 second data smoothed to 1.5 times of horizontal resolution) USGS Global Land Cover Characterization (GLCC) 30 second data Dynamics Non-hydrostatic governing equations solved by time-splitting horizontal-explicit-vertical-implicit (HEVI) scheme using 4-order centred finite difference in flux form Moisture process Kain-Fritsch convective parameterization (JMA-NHM version) Three ice bulk microphysics scheme Surface process Flux and bulk coefficients: Beljaars and Holtslag (1991) Stomatal resistance and temporal change of wetness included 4-layer soil model to predict ground temperature and surface heat flux. Turbulence closure model and planetary boundary layer process Mellor-Yamada-Nakanishi-Niino Level 3 (MYNN-3) (Nakanishi and Niino, 2004) with partial condensation scheme (PCS) and implicit vertical turbulent solver. Height of PBL calculated from virtual potential temperature profile. Radiation Long wave radiation process follows Kitagawa (2000) Short wave radiation process using Yabu and Kitagawa (2005) Prognostic surface temperature included; Cloud fraction determined from PCS.                                   
+
+> Reference
+> Beljaars, A. C. M., and A. A. M. Holtslag, 1991: Flux parameterization and land surfaces in atmospheric models. J. Appl. Meteor. ,30 , 327-341. Kitagawa, H., 2000: Radiation process. NPD Report No. 46 , Numerical Prediction Division, JMA, 16-31. (in Japanese) Nakanishi, M. and H. Niino, 2004: Improvement of the Mellor-Yamada level 3 model with condensation physics: Its de-sign and verification. Bound.-Layer Meteor. ,112 , 1-31. Saito, K., T. Fujita, Y. Yamada, J. Ishida, Y. Kumagai, K. Aranami, S. Ohmori, R. Nagasawa, S. Kumagai, C. Muroi, T. Kato, H. Eito, and Y. Yamazaki, 2006: The Operational JMA Nonhydrostatic Mesoscale Model. Mon. Wea. Rev. ,134 , 1266-1298. Wong, W.K., 2010: Development of Operational Rapid Update Non-hydrostatic NWP and Data Assimilation Systems in the Hong Kong Observatory, 3rd International Workshop on Prevention and Mitigation of Meteorological Disasters in Southeast Asia ,1-4 March 2010, Beppu, Japan. [Reprint available at http://www.hko.gov.hk/publica/reprint/r882.pdf] Yabu, S., S. Murai, and H. Kitagawa, 2005: Clear-sky radiation scheme. NPD Report No. 51 , Numerical Prediction Division, JMA, 53-64. (in Japanese)
+
+140 
+
+2012 Edition APPENDIX 4-A, p.1 
+
+EXAMPLES OF ADVISORIES ISSUED FROM RSMC TOKYO - TYPHOON CENTER 
+
+RSMC Tropical Cyclone Advisory 
+
+WTPQ20 RJTD 271200 RSMC TROPICAL CYCLONE ADVISORY NAMETY 0815 JANGMI (0815) ANALYSIS PSTN271200UTC 21.3N 124.4E GOOD MOVENW 13KT PRES910HPA MXWD115KT GUST165KT 50KT120NM 30KT240NM FORECAST 24HF281200UTC 24.7N 121.1E 75NM 70% MOVENW 12KT PRES950HPA MXWD080KT GUST115KT 48HF291200UTC 27.3N 121.3E 160NM 70% MOVEN 07KT PRES980HPA MXWD060KT GUST085KT 72HF301200UTC 29.3N 124.9E 220NM 70% MOVEENE 09KT PRES994HPA MXWD035KT GUST050KT = 
+
+RSMC Guidance for Forecast 
+
+D20080927152930 FXPQ20 RJTD 271200 RSMC GUIDANCE FOR FORECAST NAME TY 0815 JANGMI (0815) PSTN 271200UTC 21.3N 124.4E PRES 910HPA MXWD 115KT FORECAST BY GLOBAL MODEL TIME PSTN PRES MXWD (CHANGE FROM T=0) T=06 22.0N 124.0E -002HPA +001KT T=12 23.0N 123.4E 000HPA +004KT T=18 24.5N 122.7E -003HPA +013KT T=24 25.0N 121.3E +009HPA -005KT ::T=72 29.5N 125.8E +040HPA -039KT T=78 29.5N 127.6E +039HPA -040KT T=84 29.7N 129.7E +039HPA -039KT T=90 ///// ////// /////// //////= 141 
+
+2012 Edition APPENDIX 4-A, p.2 
+
+RSMC Prognostic Reasoning 
+
+WTPQ30 RJTD 250600 RSMC TROPICAL CYCLONE PROGNOSTIC REASONING REASONING NO. 4 FOR STS 0815 JANGMI (0815) 1.GENERAL COMMENTS REASONING OF PROGNOSIS THIS TIME IS SIMILAR TO PREVIOUS ONE. POSITION FORECAST IS MsAINLY BASED ON NWP AND PERSISTENCY. 2.SYNOPTIC SITUATION NOTHING PARTICULAR TO EXPLAIN. 3.MOTION FORECAST POSITION ACCURACY AT 250600 UTC IS FAIR. STS WILL DECELERATE FOR THE NEXT 24 HOURS. STS WILL MOVE NORTHWEST FOR THE NEXT 48 HOURS THEN MOVE GRADUALLY TO WEST-NORTHWEST. 4.INTENSITY FORECAST STS WILL BE GRADED UP TO TY WITHIN 24 HOURS. STS WILL DEVELOP BECAUSE SPIRAL CLOUD BANDS HAVE BECOME WELL ORGANIZED AND CYCLONE WILL STAY IN HIGH SST AR EA. FI-NUMBER WILL BE 4.5 AFTER 24 HOURS.= 
+
+RSMC Tropical Cyclone Advisory for Five-day Track Forecast 
+
+WTPQ50 RJTD 190000 RSMC TROPICAL CYCLONE ADVISORY NAME TY 0910 VAMCO (0910) UPGRADED FROM STS ANALYSIS PSTN 190000UTC 17.3N 157.5E GOOD MOVE E SLOWLY PRES 970HPA MXWD 065KT GUST 095KT 50KT 40NM 30KT 180NM NORTHEAST 120NM SOUTHWEST FORECAST 24HF 200000UTC 18.0N 156.9E 70NM 70% MOVE ALMOST STATIONARY PRES 960HPA MXWD 075KT GUST 105KT 48HF 210000UTC 18.7N 156.5E 110NM 70% MOVE ALMOST STATIONARY PRES 950HPA MXWD 080KT GUST 115KT 72HF 220000UTC 21.2N 155.9E 160NM 70% MOVE N 06KT PRES 950HPA MXWD 080KT GUST 115KT 96HF 230000UTC 24.5N 154.4E 240NM 70% MOVE NNW 09KT 120HF 240000UTC 29.2N 153.5E 375NM 70% MOVE N 12KT = 142 
+
+2012 Edition APPENDIX 4-B, p.1 
+
+WEATHER FORECAST AREAS CHINA 143 
+
+> 2012 Edition APPENDIX 4-B, p.2
+
+CHINA WEATHER FORECAST AREAS (DALIAN) 144 
+
+> 2012 Edition APPENDIX 4-B, p.3
+
+CHINA WEATHER FORECAST AREAS (GUANGZHOU) 145 
+
+> 2012 Edition APPENDIX 4-B, p.4
+
+CHINA WEATHER FORECAST AREAS (SHANGHAI) 146 
+
+2012 Edition APPENDIX 4-B, p.5 
+
+HONG KONG, CHINA WEATHER FORECAST AREAS 
+
+NOTE: The pecked line enclose the area for which the Hong Kong Observatory issues warnings of tropical cyclones. 147 
+
+2012 Edition APPENDIX 4-B, p.6 
+
+JAPAN WEATHER FORECAST AREAS 148 
+
+2012 Edition APPENDIX 4-B, p.7 
+
+MALAYSIA WEATHER FORECAST AREAS 149 
+
+2012 Edition APPENDIX 4-B, p.8 
+
+PHILIPPINES WEATHER FORECAST AREAS 
+
+NOTE: INLAND area includes Sibuyan, Samar, Visayan and Camotes Seas. Boundary of area covered by storm warnings issued by the Philippines Weather Bureau. 150 
+
+2012 Edition APPENDIX 4-B, p.9 
+
+REPUBLIC OF KOREA WEATHER FORECAST AREAS 151 
+
+> 2012 Edition APPENDIX 4-B, p.10
+
+THAILAND WEATHER FORECAST AREAS 
+
+Note : Division of forecasting areas: Area 1 : Gulf of Thailand East coast to latitude 5°N and longitude 107°E Area 2 : Gulf of Thailand West coast to latitude 5°N Area 3 : West coast of Southern Burma below latitude 14°N and West coast of Southern Thailand to latitude 5°N Area 4 : East coast of the Malay Peninsula from latitude 5°N to the Equator Area 5 : The Strait of Malacca 152 
+
+> 2012 Edition APPENDIX 4-B, p.11
+
+NATIONAL WEATHER SERVICE OFFICE, GUAM, USA AREA OF RESPONSIBILITY 
+
+Note: Within this Area of Responsibility tropical cyclone watch and warning products, based on tropical cyclone forecasts issued by the Joint Typhoon Warning Center, are provided by National Weather Service Office, Guam. 153 
+
+2012 Edition APPENDIX 4-B, p.12 
+
+VIET NAM WEATHER FORECAST AREAS 154 
+
+> 2012 Edition APPENDIX 4-C
+
+STATIONS BROADCASTING CYCLONE WARNINGS FOR SHIPS ON THE HIGH SEAS 
+
+Station Call sign of coastal radio station Area covered Member Station China Shanghai XSG Bohai Sea, Huanghai Sea, Donghai Sea, Shanghai Port, Taiwan Straits and sea around Taiwan province Dalian XSZ North and Central Huanghai Sea and Bohai Sea Guangzhou XSQ Taiwan Straits, Bashi Channel, Nanhai Sea and Beibu Wan Gulf Hong Kong, China Hong Kong Broadcast via NAVTEX on 518 kHz* Waters inside the boundary line: 30N 105E to 30N 125E to 10N 125E, to 10N 105E, to 30N 105E Japan Hokkaido JNL Hokkaido area Shiogama JNN Sendai area Yokohama JGC Tokyo area Nagoya JNT Nagoya area Kobe JGD Kobe area Hiroshima JNE Hiroshima area Niigata JNV Niigata area Maizuru JNC Maizuru area Moji JNR Fukuoka area Kagoshima JNJ Kagoshima area Okinawa JNB Okinawa area Malaysia Port Penang Labuan Miri LY 3010 OA 3010 OE 3010 Strait of Malacca* South China Sea* South China Sea* *within 300nm from station Philippines Manila DZR, DZG, DSP, DZD, DZF, DFH, DZO, DZN, DZS Pacific waters inside the boundary line: 25N 120E to 25N 135E, to 5N 135E, to 5N 115E, to 15N 115E, to 21N 120E, to 20N 120E San Miguel NPO North Pacific waters east of 160E; Philippine Sea, Japan Sea, Yellow Sea, East China Sea, South China Sea Republic of Korea Seoul HLL East Sea, Yellow Sea, Jeju, Chusan, Nagasaki, and Kagoshima areas Thailand Bangkok HSA, HSJ Gulf of Thailand, West coast of Southern Thailand, Strait of Malacca and South China Sea U.S.A. Honolulu, Hawaii KMV-99 Pacific Ocean Viet Nam Dannang XVT 1-2 Basco Gulf, Blendong Sea and Gulf of Thailand Halphong XVG 5, 9 ditto 
+
+Ho Chi Minh Ville XVS 1, 3, 8 ditto 
+
+Nha Trang XVN 1, 2 ditto 
+
+*Coast station VRX closed on 1 October 2006. 155 
+
+2012 Edition APPENDIX 5-A, p.1 
+
+LIST OF ADDRESSES, TELEX/CABLE AND TELEPHONE NUMBERS OF THE TROPICAL CYCLONE WARNING CENTERS IN THE REGION 
+
+Centre Mailing address Telex/cable, Telephone, fax numbers Cambodia 
+
+Attn. Mr Ly Chana Deputy Director Norodom Boulevard Tel.: (+855) 15 913081 Department of Agricultural Fax: (+855) 23 26345 Hydraulics and Hydrometeorology Attn. Mr Hun Kim Hak Pochentong Tel/Fax:(+855) 23 66193 Chief of Cambodian National 66192 NMC 66191 Airport 
+
+China 
+
+National Meteorological Center No. 46 Zhongguancun Tel.: (+86) (10) 6840 6169 China Meteorological Adm. Nandajie, Beijing 100081 Cable: 2894 (Director: Jiao Meiyan) Fax: (+86) (10) 6217 5928 E-mail: jiaomy@cma.gov.cn 
+
+Democratic People's Republic of Korea 
+
+Mr Ko Sang Bok Oesong-dong Telex: 38022 TCT KP Director Central District Tel.: (+850) (2) 321 4539 Central Forecast Research Insitute Fax: (+850) (2) 381 4410 State Hydrometeorological Adm. 
+
+Hong Kong, China 
+
+Central Forecasting Office 134A Nathan Road Telex: 54777 GEOPH HX Hong Kong Observatory Tsim Sha Tsui Tel.: (+852) 2926 8371 (Attn. Mr. K.C. Tsui) Kowloon (Office hours) Hong Kong, China (+852) 2368 1944 (24 hours) Fax: (+852) 2721 5034 (24 hours) E-mail: kctsui@hko.gov.hk 
+
+Japan 
+
+Forecast Division 1-3-4 Otemachi Telex: 2228080 METTOKJ Forecast Department Chiyoda-ku (24 hours) Japan Meteorological Agency Tokyo 100-8122 Tel.: (+81) (3)3211 8303 (Director: A. Muranaka) (00 - 09 UTC on weekdays) (+81) (3) 3211 7617 (24 hours) Fax: (+81) (3) 3211 8303 156 
+
+2012 Edition APPENDIX 5-A, p.2 
+
+Lao People's Democratic Republic 
+
+Ministry of Agriculture P.O. Box 811 Telex: 4306 ONU VTELS and Forestry, Department of Vientiane Cable: UNDEVPRO VIENTIANE Meteorology and Hydrology 
+
+Macao, China 
+
+Meteorological and P.O. Box 93 Tel.: (+853) 88986273 Geophysical Bureau Macao, China Fax: (+853) 28850773 (Director: Fong Soi Kun) E-mail: meteo@smg.gov.mo 
+
+Malaysia 
+
+Malaysian Meteorological Dep. Jalan Sultan Tel.: (+60) (3) 7967 8116 (Central Forecast Office, 46667 Petaling Jaya (+60) (3) 7967 8119 Director: Mr. Saw Bun Liong) Selangor Fax: (+60) (3) 7955 0964 Malaysia E-mail: cfo@met.gov.my 
+
+Philippines 
+
+Weather Branch Asia TrustBank Bldg. Telex: 66682 WXMLA PN PAGASA 1424 Quezon Avenue Tel.: (+63) (2) 922 1996 (Weather Services Chief: Quezon City 3008 Cable: 66682 WX MLA Ellaquim A. Adug) Fax: (+63) (2) 922 5287 (24 hours) 
+
+T C S 
+
+Secretary: Olavo Rasquinho Avenida de 5 de Outubro Tel: (853) 8 8010531 Coloane, Macau Fax: (853) 8 8010530 E-mail: olavo@typhooncommittee.org 
+
+Republic of Korea 
+
+National Typhoon Center Korea Meteorological Adm. (Chief Executive: Tae Ryong Kim) 1662-1 Hannam-ri, Namwon-eup, Seogwipo, Tel.: (+82) (64) 801-0200 Jeju, 699-942, Republic of Korea Fax: (+82) (64) 805-0366 157 
+
+2012 Edition APPENDIX 5-A, p.3 
+
+Thailand 
+
+Thai Meteorological Department 4353 Sukhumvit Road Telex: 72004 DEPMETE TH Bangkok 10260 Tel.: (+66) (2) 399 1425 (Director-General: Mr. Suparerk Tansriratanawong) Tel.: (+66) (2) 399 1426 E-mail: suparerk@metnet.tmd.go.th Weather Forecast Bureau 4353 Sukhumvit Road Telex: 72004 DEPMETE TH Thai Meteorological Department Bangkok 10260 Tel.: (+66)(2) 398 9801 (Director: Mr. Somchai Baimoung) Fax: (+66)(2) 398 9836 Tel&Fax:(+66)(2) 399 4012-4 E-mail: somchaib@metnet.tmd.go.th Meteorological Telecommunication 4353 Sukhumvit Road Tel.: (+66)(2) 399 4555 and Information Division Bangkok 10260 Fax: (+66)(2) 398 9861 Thai Meteorological Department (+66)(2) 399 4597 (Director: Kumpol Luengpetngam) (+66)(2) 399 4598 E-mail: kumpol@metnet.tmd.go.th 
+
+USA 
+
+National Weather Service 3232 Hueneme Road Tel.: (+1-671) 472 0944 (Genevieve Miller, Meteorologist Barrigada Fax: (+1-671) 472 7405 in charge) Guam 96913 
+
+RSMC Honolulu 2525 Correa Road Suite Tel.: (+1-808) 973-5272 (Director: Jim Weyman) 250 Honolulu, HI 96822 Fax: (+1-808) 973-5271 
+
+Viet Nam 
+
+Forecast Division 4 Dan Thai Than Tel.: (+84) (4) 264020 Forecast Department Hanoi Fax: (+84) (4) 254278 Hydro-Meteorological Service (Director: Nguyan Cong Thanh) 158 
+
+> 2012 Edition APPENDIX 5-B
+
+ABBREAVIATED HEADINGS FOR THE TROPICAL CYCLONE WARNINGS 
+
+Member Abbreviated WMO Communication Headings 
+
+Cambodia China WTPQ20 BABJ 
+
+Democratic People's Republic of Korea Hong Kong, China WTPQ20 VHHH, WTSS20 VHHH 
+
+Japan WTPQ20 RJTD, WTPQ21 RJTD, WTPQ22 RJTD, WTPQ23 RJTD, WTPQ24 RJTD, WTPQ25 RJTD 
+
+Lao People's Democratic Republic Macao, China For domestic dissemination only and WTMU40 VMMC 
+
+Malaysia For domestic dissemination only 
+
+Philippines WTPH20 RPMM, WTPH21 RPMM 
+
+Republic of Korea WTKO20 RKSL 
+
+Singapore WTSR20 WSSS 
+
+Thailand WTTH20 VTBB 
+
+USA WTPQ31 - 35 PGUM 
+
+Viet Nam WTVS20 VNNN 159 
+
+2012 Edition APPENDIX 5-C, p.1 
+
+COLLECTION AND DISTRIIBUTION OF INFORMATION 
+
+RELATED TO TROPICAL CYCLONES 
+
+Receiving station Type of Data Heading TD BJ BB HH MM SL NN KK IV PP MC Enhanced SNCI30 BABJ BJ O BJ BJ TD TD BJ BB BB BB surface SNHK20 VHHH HH HH BJ O TD BB BB BB BB observation SNJP20 RJTD O TD TD TD TD BB BB BB BB SNKO20 RKSL SL TD TD TD O BB BB BB BB SNLA20 VLIV BB BB IV BB BB O BB SNMS20 WMKK BB BB KK BJ BB O BB BB SNMU40 VMMC MC BJ BJ TD BB BB BB BB OSNPH20 RPMM MM TD TD TD O TD BB BB BB BB SNTH20 VTBB BB TD O TD TD BB BB BB BB SNVS20 VNNN BB NN BJ O BB BB BB Enhanced USCI01 BABJ BJ O BJ BJ TD TD BJ BB BB BB upper-air USCI03 BABJ BJ O BJ BJ TD TD BJ BB BB BB observation USCI05 BABJ BJ O BJ BJ TD TD BJ BB BB BB USCI07 BABJ BJ O BJ BJ TD TD BJ BB BB BB USCI09 BABJ BJ O BJ BJ TD TD BJ BB BB BB UKCI01 BABJ BJ O BJ BJ TD BJ BB BB BB ULCI01 BABJ BJ O BJ BJ TD BB BB BB BB ULCI03 BABJ BJ O BJ BJ TD BB BB BB BB ULCI05 BABJ BJ O BJ BJ TD BB BB BB BB ULCI07 BABJ BJ O BJ BJ TD BB BB BB BB ULCI09 BABJ BJ O BJ BJ TD BJ BB BB BB UECI01 BABJ BJ O BJ BJ TD BB BB BB BB USHK01 VHHH HH HH BJ O TD TD BB BB BB BB UKHK01 VHHH HH HH BJ O TD BB BB BB BB ULHK01 VHHH HH HH BJ O TD BB BB BB BB UEHK01 VHHH HH HH BJ O TD BB BB BB BB USJP01 RJTD O TD TD TD TD TD BB BB BB BB UKJP01 RJTD O TD TD TD TD BB BB BB BB ULJP01 RJTD O TD TD TD TD BB BB BB BB UEJP01 RJTD O TD TD TD TD BB BB BB BB USKO01 RKSL SL TD TD TD TD O BB BB BB BB UKKO01 RKSL SL TD TD TD O BB BB BB BB ULKO01 RKSL SL TD TD TD O BB BB BB BB UEKO01 RKSL SL TD TD TD O BB BB BB BB USMS01 WMKK BB TD KK TD TD TD BB O BB BB UKMS01 WMKK BB TD KK TD TD TD BB O BB BB ULMS01 WMKK BB TD KK TD TD TD BB O BB BB UEMS01 WMKK BB TD KK TD TD TD BB O BB BB USPH01 RPMM MM TD TD TD O TD BB BB BB UKPH01 RPMM MM TD TD TD O TD BB BB BB ULPH01 RPMM MM TD TD TD O TD BB BB BB  
+
+> Continued to
+
+UEPH01 RPMM MM TD TD TD O TD BB BB BB  
+
+> the next page
+
+USTH01 VTBB BB TD O TD TD TD BB BB BB BB 160 
+
+2012 Edition APPENDIX 5-C, p.2 Receiving station Type of Data Heading TD BJ BB HH MM SL NN KK IV PP MC Enhanced UKTH01 VTBB BB TD O TD TD BB BB BB BB Upper-air ULTH01 VTBB BB TD O TD TD BB BB BB BB observation UETH01 VTBB BB TD O TD TD BB BB BB BB USVS01 VNNN BB TD NN TD TD TD O BB BB BB UKVS01 VNNN BB TD NN TD TD O BB BB BB ULVS01 VNNN BB TD NN TD TD TD O BB BB BB UEVS01 VNNN BB TD NN TD TD TD O BB BB BB URPA10 PGTW * TD TD TD TD TD BB BB BB BB URPA11 PGTW * TD TD TD TD TD BB BB BB BB URPA12 PGTW * TD TD TD TD TD BB BB BB BB URPA14 PGTW * TD TD TD TD TD BB BB BB BB URPN10 PGTW * TD TD TD TD TD BB BB BB BB UZPA13 PGTW * TD TD TD TD TD BB BB BB BB UZPN13 KNHC * TD TD TD BB BB BB BB UZPN13 KWBC * TD TD TD TD BB BB BB BB UZPN13 PGTW * TD TD TD TD BB BB BB BB Enhanced SNVB20 VTBB O BB BB BB BB ship SNVB20 RJTD O TD TD TD TD TD BB BB BB BB observation SNVD20 RJTD O TD TD TD TD TD BB BB BB BB SNVE20 RJTD O TD TD TD TD TD BB BB BB BB SNVX20 RJTD O TD TD TD TD TD BB BB BB BB SNVB21 RJTD O TD TD TD TD TD BB BB BB BB SNVD21 RJTD O TD TD TD TD TD BB BB BB BB SNVE21 RJTD O TD TD TD TD TD BB BB BB BB SNVX21 RJTD O TD TD TD TD TD BB BB BB BB SNVX20 RPMM MM TD TD TD O TD BB BB BB SNVX20 VHHH HH HH BJ O TD TD BB BB BB BB SNVX20 VNNN BB TD NN TD TD O BB BB BB Enhanced SBCI30 BABJ BJ O BJ TD TD TD BJ BB BB BB radar SCCI30 BABJ O BJ BJ BB BB BB BB observation SBCI60 BCGZ O BJ BJ BB BB BB SCCI60 BCGZ HH O BJ BB BB BB BB SBHK20 VHHH HH HH BJ O TD BB BB BB BB ISBC01 VHHH HH O TD TD BB BB BB ISBC01 RJTD O TD TD TD TD TD BB BB BB SDKO20 RKSL OSDMS20 WMKK BB TD KK TD BB O BB BB SDPH20 RPMM MM TD TD O TD BB BB BB SDTH20 VTBB BB TD O TD BB BB BB BB SDVS20 VNNN BB TD NN TD TD O BB BB BB 161 
+
+2012 Edition APPENDIX 5-C, p.3 Receiving station Type of Data Heading TD BJ BB HH MM SL NN KK IV PP MC *Satellite TPPN10 PGTW TD TD BB BB BB BB guidance TPPN10 PGUA * TD TD BB BB BB BB TPPA1 RJTY * TD TD TD TD BB BB BB BB TPPA1 RODN * TD TD TD TD BB BB BB BB IUCC10 RJTD O TD TD TD TD TD BB BB BB Tropical FXPQ01 VHHH HH HH BJ O BB BB BB BB Cyclone FXPQ02 VHHH HH HH BJ O BB BB BB BB Forecast FXPQ03 VHHH HH HH BJ O BB BB BB BB FXPQ20 VHHH HH HH BJ O TD TD BB BB BB BB FXPQ20 RJTD O TD TD TD TD TD BB BB BB BB FXPQ21 RJTD O TD TD TD TD TD BB BB BB BB FXPQ22 RJTD O TD TD TD TD TD BB BB BB BB FXPQ23 RJTD O TD TD TD TD TD BB BB BB BB FXPQ24 RJTD O TD TD TD TD TD BB BB BB BB FXPQ25 RJTD O TD TD TD TD TD BB BB BB BB FXPQ29 VTBB OFXPH20 RPMM MM TD TD TD O TD BB BB BB BB FXSS01 VHHH HH HH BJ O BB BB BB BB FXSS02 VHHH HH HH BJ O BB BB BB BB FXSS03 VHHH HH HH BJ O BB BB BB BB FXSS20 VHHH HH HH BJ O TD TD BB BB BB BB Warning WDPN31 PGTW * TD TD TD TD TD BB BB BB BB WDPN32 PGTW * TD TD TD TD TD BB BB BB BB WHCI28 BCGZ BJ BJ BJ BB BB BB WHCI40 BABJ BJ O BJ BJ BJ BB BB BB WSPH RPMM * TD TD TD O TD BB BB BB BB WTMU40 VMMC BJ MC BJ BJ BB BB BB BB OWTPN21 PGTW * TD TD TD TD TD BB BB BB BB WTPN31 PGTW * TD TD TD TD TD BB BB BB BB WTPN32 PGTW * TD TD TD TD TD BB BB BB BB WTPH20 RPMM MM TD TD TD O BB BB BB WTPH21 RPMM TD O BB BB BB WTPQ20 VHHH HH HH BJ O TD BB BB BB BB WTSS20 VHHH HH HH BJ O BB BB BB BB WTTH20 VTBB BB TD O TD BB BB BB BB WTVS20 VNNN NN BJ O BB BB BB WTPQ20 RJTD O TD TD TD TD TD BB BB BB BB WTPQ21 RJTD O TD TD TD TD TD BB BB BB BB WTPQ22 RJTD O TD TD TD TD TD BB BB BB BB  
+
+> Continued to
+
+WTPQ23 RJTD O TD TD TD TD TD BB BB BB BB  
+
+> the next page
+
+WTPQ24 RJTD O TD TD TD TD TD BB BB BB BB 162 
+
+2012 Edition APPENDIX 5-C, p.4 
+
+Receiving station Type of Data Heading TD BJ BB HH MM SL NN KK IV PP MC Warning WTPQ25 RJTD O TD TD TD TD TD BB BB BB BB WTKO20 RKSL SL TD TD TD O BB BB BB BB Prognostic WTPQ30 RJTD O TD TD TD TD TD BB BB BB BB Reasoning WTPQ31 RJTD O TD TD TD TD TD BB BB BB BB WTPQ32 RJTD O TD TD TD TD TD BB BB BB BB WTPQ33 RJTD O TD TD TD TD TD BB BB BB BB WTPQ34 RJTD O TD TD TD TD TD BB BB BB BB WTPQ35 RJTD O TD TD TD TD TD BB BB BB BB Five-day WTPQ50 RJTD O TD TD TD TD TD BB BB BB BB track WTPQ51 RJTD O TD TD TD TD TD BB BB BB BB forecast WTPQ52 RJTD O TD TD TD TD TD BB BB BB BB WTPQ53 RJTD O TD TD TD TD TD BB BB BB BB WTPQ54 RJTD O TD TD TD TD TD BB BB BB BB WTPQ55 RJTD O TD TD TD TD TD BB BB BB BB Others Best track AXPQ20 RJTD O TD TD TD TD TD BB BB BB BB 163 
+
+> 2012 Edition APPENDIX 5-C, p.5
+
+Note: Meaning of abbreviation O : Data originating centre TD : Data transmitting centre - Tokyo BJ : - Beijing BB : - Bangkok HH : - Hong Kong MM : - Manila SL : - Seoul NN : - Hanoi KK : - Kuala Lumpur IV : - Vientiane PP : - Phnom Penh MC : - Macao * : Places other than described above 164 
+
+> 2012 Edition APPENDIX 5-D
+
+TABLE of Abbreviated headings (TTAAii CCCC) 
+
+TT Data designator AA Geographic designator FX Miscellaneous forecasts CI China SB Radar reports PART A HK Hong Kong SC Radar reports PART B JP Japan SD Radar reports KO Republic of Korea (PART A and PART B) KP Cambodia SN Synoptic reports LA Lao People’s Democratic Republic (non-standard hours) MS Malaysia TP Satellite guidance MU Macao UA Aircraft reports (AIREP) PA Pacific UE Upper-level observation, PART D PH Philippines UK Upper-level observation, PART B PN North Pacific area UL Upper-level observation, PART C PQ Western North Pacific US Upper-level observation, PART A PW Western Pacific area WD Prognostic reasoning for typhoon SS South China Sea area WH Hurricane warnings TH Thailand WO Other warnings VS Viet Nam WS SIGMET WT Tropical cyclone warnings WW Warning and weather summary CCCC Location indicator BABJ Beijing BCGZ Guangzhou ii Data distribution area KWBC Washington 01-19 Global PGFA Guam (F.W.C) 20-39 Regional PGTW Guam (JTWC) 40-89 National PGUM Guam (Agana) RJTD Tokyo RJTY Yokota TABLE of Abbreviated Headings RKSL Seoul (TTAAii CCCC) for BUFR RKSO Osan RODN Okinawa / Kadena AB TTAAii CCCC Data type RPMK Clark AB ISBC01 VHHH Radar reports RPMM Manila / Intl. ISBC01 RJTD Radar reports VDPP Phnom Penh IUCC10 RJTD SAREP reports VHHH Hong Kong VLIV Vientiane VMMC Macao VNNN Hanoi VTBB Bangkok WMKK Kuala Lumpur 165 
+
+> 2012 Edition APPENDIX 6-A
+
+EXAMPLE OF THE MESSAGE FORMAT FOR INQUIRY ON DOUBTFUL AND GARBLED REPORTS 
+
+Example 1. Inquiry on a doubtful report 
+
+BMBB01 VTBB 220245 RJTD PLEASE CHECK THE FOLLOWING REPORT BULLETIN SNTH20 VTBB DATE AND TIME 210200 LOCATION 48300 CONTENT SECTION 1, 2ND GROUP: 80540 REGARDS RSMC TOKYO = 
+
+Example 2. Inquiry on a garbled report 
+
+BMRR01 RPMM 210425 RJTD AHD SNPH20 RPMM 210400 = 166 
+
+> 2012 Edition APPENDIX 6-B, p.1
+
+PROCEDURES OF REGULAR MONITORING AT RSMC TOKYO - TYPHOON CENTER 
+
+1. Monitoring period 
+
+The two appropriate periods are selected from the one year starting on 1st November and ending on 31st October of the subsequent year. Each period will be up to five consecutive days. 
+
+2. Items of monitoring 
+
+The reception time of reports at RSMC Tokyo should be monitored. The types of reports to be monitored are: (i) hourly surface observations (SYNOP code), (ii) hourly ship and buoy observations (SHIP and BUOY codes), (iii) 6-hourly upper-air observations (TEMP and PILOT codes), (iv) hourly radar observations (BUFR and/or RADOB codes). 
+
+3. Format of monitoring results 
+
+Samples of format of monitoring results are shown in Fig. 6-B.1 to Fig 6-B.4. 
+
+4. Distribution of monitoring results 
+
+The monitoring results should be distributed once a year by RSMC Tokyo - Typhoon Center to Typhoon Committee Secretariat and its Members by the end of every year. A copy will be forwarded to WMO Secretariat. Members can also retrieve the data from the Internet server of JMA (ddb.kishou.go.jp) by using FTP. A password to connect the FTP server by using anonymous FTP is issued to Members in consultation with JMA. 167 
+
+2012 Edition APPENDIX 6-B, p.2 RECEPTION TIME OF SYNOP REPORTS Fig. 6-B.1 Format of monitoring results for SYNOP RECEPTION TIME OF SHIP/BUOY REPORTS Fig. 6-B.2 Format of monitoring results for SHIP and BUOY 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 Location UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTCQUTCUTC UTC UTC UTC UTC UTC UTC UTC UTC 45007 0006 0307 0608 0909 1208 1507 1806 2111 45011 0026 0646 1236 1833 2114 47090 0012 0312 0612 0912 1212 1512 1812 2110 47095 0012 0312 0612 0912 1212 1512 1812 2107 47100 0012 0312 0612 0912 1212 1512 1812 47101 0012 0312 0612 0912 1212 1512 1812 47105 0012 0312 0612 0912 1212 1512 1812 47108 0012 0312 0612 0912 1212 1512 1812 47112 0012 0312 0612 0912 1212 1512 1812 2140 47114 0012 0312 0612 0912 1212 1512 1812 ::PAGE : 1 NOV. 07 2001 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 Location UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTCQUTCUTC UTC UTC UTC UTC UTC UTC UTC UTC JPBN JCCX 0008 0105 0310 0404 0504 0609 0704 0804 0909 1005 1211 1307 1404 1516 JDWX JFDG JGQH 0004 0101 0201 0304 0401 0501 0606 0701 0801 0904 1001 1101 1204 1301 1401 1505 1601 1701 JIVB 21002 21004 22001 ::NOV. 11 2001 PAGE : 5 168 
+
+2012 Edition APPENDIX 6-B, p.3 RECEPTION TIME OF UPPER-AIR REPORTS Fig. 6-B.3 Format of monitoring results for TEMP and PILOT RECEPTION TIME OF RADAR REPORTS Fig. 6-B.4 Format of monitoring results for Radar reports 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 Location UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTC UTCQUTCUTC UTC UTC UTC UTC UTC UTC UTC UTC 45009 45010 47106 47116 47144 47160 47185 47415 47418 47419 ::NOV. 07 2001 PAGE : 1 NOV. 00 UTC 06 UTC 12 UTC 18 UTC Location PART A B C D PART A B C D PART A B C D PART A B C DJPBN JPBN JCCX JCCX JDWX JDWX JGQH JGQH JIVB JIVB 45004 T0044 T0044 T0044 T0044 T1238 T1238 T1238 T1238 45004 P0044 P0044 P0044 P0044 P0710 P0710 P0710 P0710 P1238 P1238 P1238 P1238 P1850 P1850 47122 T0127 T0127 T0127 T0127 T0727 T0727 T0734 T0734 T1327 T1327 T1327 T1327 T1927 T1927 T1927 T1927 47122 47138 T0127 T0127 T0127 T0127 T1327 T1327 T1327 T1327 47138 47158 T0127 T0127 T0127 T0127 T1327 T1327 T1327 T1327 47158 47185 T0127 T0127 T0127 T0127 T1327 T1327 T1327 T1327 47185 47401 T0024 T0025 T0057 T0059 T1233 T1235 T1259 T1259 47401 P0616 P0618 P1814 P1815 47412 T0027 T0029 T0104 T0106 T1237 T1239 T1253 T1254 47412 P0618 P0618 P1824 P1826 ::07 2001 T: TEMP/TEMP SHIP P: PILOT/PILOT SHIP 169 
+
+> 2012 Edition APPENDIX 6-C
+
+EXAMPLE OF BEST TRACK REPORT 170 
+
+> 2012 Edition APPENDIX 6-D
+
+STANDARD PROCEDURES FOR THE VERIFICATION OF TYPHOON ANALYSIS AND FORECAST AT NATIONAL METEOROLOGICAL CENTRES 
+
+1. General 
+
+Each Member will verify each typhoon which affects it and summarize the verification made in a year 
+
+2. Basis for verification 
+
+The best initial typhoon position, central pressure and maximum sustained wind as determined from a post-analysis conducted by the RSMC. 
+
+3. Points for verification 
+
+(1) Error statistics in each method (bias and standard deviation) by using common work sheets as shown in Appendix 6-E. Statistical computations involve positioning of the centre, prediction of movement, and analysis and forecast of intensity of a tropical cyclone. (2) Discussion of following points; (i) relative merits of each technique, (ii) effects of inaccuracies on the forecast, (iii) effects of meagreness of available relevant real-time observations, (iv) variation from one geographical area to another, (v) climatological factors in climatological and/or statistical method, (vi) large-scale circulation pattern for giving rise to extremely poor prediction performance. 171 
+
+> 2012 Edition APPENDIX 6-E, p.1
+
+Verification sheet for positioning of the centre, prediction of movement, and analysis and forecast of intensity of tropical cyclones 172 
+
+> 2012 Edition APPENDIX 6-E, p.2
+
+Verification sheet for positioning of the centre, prediction of movement, and analysis and forecast of intensity of tropical cyclones 173 
+
+> 2012 Edition APPENDIX 6-E, p.3
+
+Verification sheet for positioning of the centre, prediction of movement, and analysis and forecast of intensity of tropical cyclones 174 
+
+> 2012 Edition APPENDIX 7-A, p.1
+
+LIST OF DATA ARCHIVED BY RSMC TOKYO - TYPHOON CENTER (a) Level II-b Kinds of data: Surface, ship, buoy, upper-air, RADOB, aircraft, ASDAR, advisory warning, SAREP, SATEM, SATOB, TBB grid value and cloud amount (GMS); 
+
+Area coverage: SATEM : 90°E ~ 180°E and 0° ~ 45°N 
+
+SATOB, TBB grid value and cloud amount : area covered by MTSAT Other data : within the area of 80°E ~ 160°W and 20°S ~ 60°N 
+
+(b) MTSAT imagery data 
+
+High Rate Information Transmission (HRIT) Data :
+
+Kind of data: MTSAT high resolution digital imagery data 
+
+Data format: “JMA HRIT Mission Specification Implementation”, Issue 1.2, 1 Jan. 2003 (http://www.jma.go.jp/jma/jma-eng/satellite/mtsat1r/4.2HRIT_1.pdf) 
+
+Resolution: 1 km (VIS) and 4 km (IR) at the sub-satellite point 
+
+Channel and wavelength (micrometers): 
+
+VIS: 0.55 - 0.90 IR1: 10.3 - 11.3 IR2: 11.5 - 12.5 IR3: 6.5 - 7.0 IR4: 3.5 - 4.0 
+
+Brightness level: 10 bits (1,024 gradations) 
+
+Meteorological Satellite Center Monthly Report (CD-ROM): 
+
+Kinds of data: MTSAT images of SATAID and PNG formats. (http://mscweb.kishou.go.jp/product/library/report/index.htm) 
+
+Area coverage: 
+
+SATAID: 115°E ~ 150°E and 15°N ~ 50°N 
+
+PNG: Full earth disk as seen from 140°E 
+
+(c) Level III-a Kinds of data: Grid point data of the objective analysis obtained by the global objective analysis system in RSMC. 
+
+Area coverage: Global area covered by 1.25 X 1.25 latitude-longitude grid system. 175 
+
+> 2012 Edition APPENDIX 7-A, p.2
+
+Time of analysis: 00, 06, 12 and 18 UTC 
+
+Element and layer: 
+
+Surface: Sea surface pressure (P s ), temperature (T s ), dew point depression (T s - T ds ), wind (U s , V s ); Specific pressure levels (1000 - 10 hPa): Geopotential height (Z), temperature (T), wind (U, V); Specific pressure levels (1000 - 300 hPa): Dew point depression (T-T d ). 176 
+
+> 2012 Edition APPENDIX 7-B, p.1
+
+GLOBAL TROPICAL CYCLONE TRACK AND INTENSITY DATA SET - REPORT FORMAT 177 
+
+2012 Edition APPENDIX 7-B, p.2 178 
+
+2012 Edition APPENDIX 7-B, p.3

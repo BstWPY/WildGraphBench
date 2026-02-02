@@ -1,0 +1,373 @@
+# Predicting Infectious Severe Acute Respiratory Syndrome Coronavirus 2 From Diagnostic Samples
+
+Predicting infectious SARS-CoV-2 from diagnostic samples - PMC 
+
+===============
+[Skip to main content](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314198#main-content)
+
+![Image 1](https://www.ncbi.nlm.nih.gov/static/img/us_flag.svg)
+
+An official website of the United States government
+
+Here's how you know
+
+Here's how you know
+
+![Image 2](https://www.ncbi.nlm.nih.gov/static/img/icon-dot-gov.svg)
+
+**Official websites use .gov**
+
+ A **.gov** website belongs to an official government organization in the United States.
+
+![Image 3](https://www.ncbi.nlm.nih.gov/static/img/icon-https.svg)
+
+**Secure .gov websites use HTTPS**
+
+ A **lock** ( ) or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+[![Image 4: NCBI home page](https://www.ncbi.nlm.nih.gov/static/img/ncbi-logos/nih-nlm-ncbi--white.svg)](https://www.ncbi.nlm.nih.gov/)
+
+ Search 
+
+Log in
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+*    Log out 
+
+ Search…   Search NCBI 
+
+Primary site navigation
+
+![Image 5: Close](https://www.ncbi.nlm.nih.gov/static/img/usa-icons/close.svg) Search  ![Image 6: Search](blob:http://localhost/d03881a649d411fb287ca34fa7ea6fc4)
+
+Logged in as:
+
+*   [Dashboard](https://www.ncbi.nlm.nih.gov/myncbi/)
+*   [Publications](https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/)
+*   [Account settings](https://www.ncbi.nlm.nih.gov/account/settings/)
+
+Log in
+
+[](https://www.ncbi.nlm.nih.gov/ "Home")
+
+Search PMC Full-Text Archive 
+
+Search in PMC![Image 7: Search](https://www.ncbi.nlm.nih.gov/static/img/usa-icons-bg/search--white.svg)
+
+*   [Journal List](https://www.ncbi.nlm.nih.gov/journals/)
+*   [User Guide](https://www.ncbi.nlm.nih.gov/about/userguide/)
+
+*   [](https://doi.org/10.1093/cid/ciaa638)View on publisher site
+*   [](https://www.ncbi.nlm.nih.gov/pmc/articles/pdf/ciaa638.pdf)Download PDF
+*   Add to Collections
+*   Cite
+*   Permalink PERMALINK
+---------
+
+Copy   
+
+ As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.
+
+ Learn more: [PMC Disclaimer](https://www.ncbi.nlm.nih.gov/about/disclaimer/) | [PMC Copyright Notice](https://www.ncbi.nlm.nih.gov/about/copyright/)
+
+![Image 8: Oxford University Press - PMC COVID-19 Collection logo](https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-pheoup.png)
+
+Clin Infect Dis
+
+. 2020 May 22:ciaa638. doi: [10.1093/cid/ciaa638](https://doi.org/10.1093/cid/ciaa638)
+
+*   [Search in PMC](https://pmc.ncbi.nlm.nih.gov/search/?term=%22Clin%20Infect%20Dis%22%5Bjour%5D)
+*   [Search in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=%22Clin%20Infect%20Dis%22%5Bjour%5D)
+*   [View in NLM Catalog](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=%22Clin%20Infect%20Dis%22%5BTitle%20Abbreviation%5D)
+*   [Add to search](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314198?term=%22Clin%20Infect%20Dis%22%5Bjour%5D)
+
+Predicting infectious SARS-CoV-2 from diagnostic samples
+========================================================
+
+[Jared Bullard](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bullard%20J%22%5BAuthor%5D)
+
+### Jared Bullard, MD
+
+1 Cadham Provincial Laboratory, Manitoba Health, Winnipeg, Manitoba, Canada
+
+2 Department of Pediatrics & Child Health, University of Manitoba, Winnipeg, Manitoba, Canada
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+Find articles by [Jared Bullard](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bullard%20J%22%5BAuthor%5D)
+
+1,2,3,✉, [Kerry Dust](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dust%20K%22%5BAuthor%5D)
+
+### Kerry Dust, PhD
+
+1 Cadham Provincial Laboratory, Manitoba Health, Winnipeg, Manitoba, Canada
+
+Find articles by [Kerry Dust](https://pubmed.ncbi.nlm.nih.gov/?term=%22Dust%20K%22%5BAuthor%5D)
+
+1, [Duane Funk](https://pubmed.ncbi.nlm.nih.gov/?term=%22Funk%20D%22%5BAuthor%5D)
+
+### Duane Funk, MD
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+5 Departments of Anaesthesiology and Medicine, Section of Critical Care, University of Manitoba, Winnipeg, Manitoba, Canada
+
+Find articles by [Duane Funk](https://pubmed.ncbi.nlm.nih.gov/?term=%22Funk%20D%22%5BAuthor%5D)
+
+4,5, [James E Strong](https://pubmed.ncbi.nlm.nih.gov/?term=%22Strong%20JE%22%5BAuthor%5D)
+
+### James E Strong, MD, PhD
+
+2 Department of Pediatrics & Child Health, University of Manitoba, Winnipeg, Manitoba, Canada
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+Find articles by [James E Strong](https://pubmed.ncbi.nlm.nih.gov/?term=%22Strong%20JE%22%5BAuthor%5D)
+
+2,3,4, [David Alexander](https://pubmed.ncbi.nlm.nih.gov/?term=%22Alexander%20D%22%5BAuthor%5D)
+
+### David Alexander, PhD
+
+1 Cadham Provincial Laboratory, Manitoba Health, Winnipeg, Manitoba, Canada
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+Find articles by [David Alexander](https://pubmed.ncbi.nlm.nih.gov/?term=%22Alexander%20D%22%5BAuthor%5D)
+
+1,3, [Lauren Garnett](https://pubmed.ncbi.nlm.nih.gov/?term=%22Garnett%20L%22%5BAuthor%5D)
+
+### Lauren Garnett, BSc
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+Find articles by [Lauren Garnett](https://pubmed.ncbi.nlm.nih.gov/?term=%22Garnett%20L%22%5BAuthor%5D)
+
+3,4, [Carl Boodman](https://pubmed.ncbi.nlm.nih.gov/?term=%22Boodman%20C%22%5BAuthor%5D)
+
+### Carl Boodman, MD
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+Find articles by [Carl Boodman](https://pubmed.ncbi.nlm.nih.gov/?term=%22Boodman%20C%22%5BAuthor%5D)
+
+3, [Alexander Bello](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bello%20A%22%5BAuthor%5D)
+
+### Alexander Bello, PhD
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+Find articles by [Alexander Bello](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bello%20A%22%5BAuthor%5D)
+
+3,4, [Adam Hedley](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hedley%20A%22%5BAuthor%5D)
+
+### Adam Hedley, BSc
+
+1 Cadham Provincial Laboratory, Manitoba Health, Winnipeg, Manitoba, Canada
+
+Find articles by [Adam Hedley](https://pubmed.ncbi.nlm.nih.gov/?term=%22Hedley%20A%22%5BAuthor%5D)
+
+1, [Zachary Schiffman](https://pubmed.ncbi.nlm.nih.gov/?term=%22Schiffman%20Z%22%5BAuthor%5D)
+
+### Zachary Schiffman, BSc
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+Find articles by [Zachary Schiffman](https://pubmed.ncbi.nlm.nih.gov/?term=%22Schiffman%20Z%22%5BAuthor%5D)
+
+3,4, [Kaylie Doan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Doan%20K%22%5BAuthor%5D)
+
+### Kaylie Doan, BSc
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+Find articles by [Kaylie Doan](https://pubmed.ncbi.nlm.nih.gov/?term=%22Doan%20K%22%5BAuthor%5D)
+
+4, [Nathalie Bastien](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bastien%20N%22%5BAuthor%5D)
+
+### Nathalie Bastien, PhD
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+Find articles by [Nathalie Bastien](https://pubmed.ncbi.nlm.nih.gov/?term=%22Bastien%20N%22%5BAuthor%5D)
+
+3,4, [Yan Li](https://pubmed.ncbi.nlm.nih.gov/?term=%22Li%20Y%22%5BAuthor%5D)
+
+### Yan Li, PhD
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+Find articles by [Yan Li](https://pubmed.ncbi.nlm.nih.gov/?term=%22Li%20Y%22%5BAuthor%5D)
+
+3,4, [Paul G Van Caeseele](https://pubmed.ncbi.nlm.nih.gov/?term=%22Van%20Caeseele%20PG%22%5BAuthor%5D)
+
+### Paul G Van Caeseele, MD
+
+1 Cadham Provincial Laboratory, Manitoba Health, Winnipeg, Manitoba, Canada
+
+2 Department of Pediatrics & Child Health, University of Manitoba, Winnipeg, Manitoba, Canada
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+Find articles by [Paul G Van Caeseele](https://pubmed.ncbi.nlm.nih.gov/?term=%22Van%20Caeseele%20PG%22%5BAuthor%5D)
+
+1,2,3, [Guillaume Poliquin](https://pubmed.ncbi.nlm.nih.gov/?term=%22Poliquin%20G%22%5BAuthor%5D)
+
+### Guillaume Poliquin, MD, PhD
+
+2 Department of Pediatrics & Child Health, University of Manitoba, Winnipeg, Manitoba, Canada
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+Find articles by [Guillaume Poliquin](https://pubmed.ncbi.nlm.nih.gov/?term=%22Poliquin%20G%22%5BAuthor%5D)
+
+2,3,4
+
+*   Author information
+*   Article notes
+*   Copyright and License information
+
+1 Cadham Provincial Laboratory, Manitoba Health, Winnipeg, Manitoba, Canada
+
+2 Department of Pediatrics & Child Health, University of Manitoba, Winnipeg, Manitoba, Canada
+
+3 Department of Medical Microbiology & Infectious Diseases, University of Manitoba, Winnipeg, Manitoba, Canada
+
+4 National Microbiology Laboratory, Public Health Agency of Canada, Winnipeg, Manitoba, Canada
+
+5 Departments of Anaesthesiology and Medicine, Section of Critical Care, University of Manitoba, Winnipeg, Manitoba, Canada
+
+✉
+**Corresponding Author:** Jared Bullard, 750 William Avenue, Winnipeg, Manitoba, Canada, R3C 3Y1, Email: jared.bullard@gov.mb.ca, Phone: (204)945-1306 Fax: (204)786-4770
+
+Received 2020 May 7.
+
+© The Author(s) 2020. Published by Oxford University Press for the Infectious Diseases Society of America. All rights reserved. For permissions, e-mail: journals.permissions@oup.com.
+
+This article is published and distributed under the terms of the Oxford University Press, Standard Journals Publication Model ([https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model](https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model))
+
+This article is made available via the PMC Open Access Subset for unrestricted re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for the duration of the COVID-19 pandemic or until permissions are revoked in writing. Upon expiration of these permissions, PMC is granted a perpetual license to make this article available via PMC and Europe PMC, consistent with existing copyright protections.
+
+[PMC Copyright notice](https://www.ncbi.nlm.nih.gov/about/copyright/)
+
+PMCID: PMC7314198 PMID: [32442256](https://pubmed.ncbi.nlm.nih.gov/32442256/)
+
+See the article "[Can the SARS-CoV-2 PCR Cycle Threshold Value and Time from Symptom Onset to Testing Predict Infectivity?](https://www.ncbi.nlm.nih.gov/articles/PMC7314221/)", ciaa735.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314198)Abstract
+----------------------------------------------------------------
+
+### Background
+
+RT-PCR has become the primary method to diagnose viral diseases, including SARS-CoV-2. RT-PCR detects RNA, not infectious virus, thus its ability to determine duration of infectivity of patients is limited. Infectivity is a critical determinant in informing public health guidelines/interventions. Our goal was to determine the relationship between E gene SARS-CoV-2 RT-PCR cycle threshold (Ct) values from respiratory samples, symptom onset to test (STT) and infectivity in cell culture.
+
+### Methods
+
+In this retrospective cross-sectional study, we took SARS-CoV-2 RT-PCR confirmed positive samples and determined their ability to infect Vero cell lines.
+
+### Results
+
+Ninety RT-PCR SARS-CoV-2 positive samples were incubated on Vero cells. Twenty-six samples (28.9%) demonstrated viral growth. Median TCID50/ml was 1780 (282-8511). There was no growth in samples with a Ct > 24 or STT > 8 days. Multivariate logistic regression using positive viral culture as a binary predictor variable, STT and Ct demonstrated an odds ratio for positive viral culture of 0.64 (95% CI 0.49-0.84, p<0.001) for every one unit increase in Ct. Area under the receiver operating characteristic curve for Ct vs. positive culture was OR 0.91 (95% CI 0.85-0.97, p<0.001), with 97% specificity obtained at a Ct of >24.
+
+### Conclusions
+
+SARS-CoV-2 Vero cell infectivity was only observed for RT-PCR Ct < 24 and STT < 8 days. Infectivity of patients with Ct >24 and duration of symptoms >8 days may be low. This information can inform public health policy and guide clinical, infection control and occupational health decisions. Further studies of larger size are needed.
+
+**Keywords:** SARS-COV-2, COVID-19, RT-PCR, infectivity, public health
+
+* * *
+
+Articles from Clinical Infectious Diseases: An Official Publication of the Infectious Diseases Society of America are provided here courtesy of **Oxford University Press**
+
+![Image 9: Close](https://www.ncbi.nlm.nih.gov/static/img/usa-icons/close.svg)
+
+ACTIONS
+-------
+
+*   [View on publisher site](https://doi.org/10.1093/cid/ciaa638)
+*   [PDF (546.7 KB)](https://www.ncbi.nlm.nih.gov/pmc/articles/pdf/ciaa638.pdf)
+*   Cite
+*   Collections
+*   Permalink PERMALINK
+---------
+
+Copy   
+
+RESOURCES
+---------
+
+### Similar articles
+
+### Cited by other articles
+
+### Links to NCBI Databases
+
+On this page
+------------
+
+*   [Abstract](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314198#abstract1)
+
+Cite
+----
+
+*   Copy
+*   [Download .nbib.nbib](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314198# "Download a file for external citation management software")
+*   Format:  
+
+Add to Collections
+------------------
+
+Create a new collection 
+
+Add to an existing collection 
+
+ Name your collection * 
+
+ Choose a collection  
+
+ Unable to load your collection due to an error
+
+[Please try again](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7314198#)
+
+ Add  Cancel 
+
+ Follow NCBI 
+
+[NCBI on X (formerly known as Twitter)](https://twitter.com/ncbi)[NCBI on Facebook](https://www.facebook.com/ncbi.nlm)[NCBI on LinkedIn](https://www.linkedin.com/company/ncbinlm)[NCBI on GitHub](https://github.com/ncbi)[NCBI RSS feed](https://ncbiinsights.ncbi.nlm.nih.gov/)
+
+Connect with NLM
+
+[NLM on X (formerly known as Twitter)](https://twitter.com/nlm_nih)[NLM on Facebook](https://www.facebook.com/nationallibraryofmedicine)[NLM on YouTube](https://www.youtube.com/user/NLMNIH)
+
+[National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894](https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,%20%20%20%20%20%20%20%20%20%20%20%20-77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!%20%20%20%20%20%20%20%20%20%20%20%204d-77.0988323)
+
+*   [Web Policies](https://www.nlm.nih.gov/web_policies.html)
+*   [FOIA](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office)
+*   [HHS Vulnerability Disclosure](https://www.hhs.gov/vulnerability-disclosure-policy/index.html)
+
+*   [Help](https://support.nlm.nih.gov/?pagename=cloudpmc-viewer%3Apmc%3Aarticle%3Ajournal)
+*   [Accessibility](https://www.nlm.nih.gov/accessibility.html)
+*   [Careers](https://www.nlm.nih.gov/careers/careers.html)
+
+*   [NLM](https://www.nlm.nih.gov/)
+*   [NIH](https://www.nih.gov/)
+*   [HHS](https://www.hhs.gov/)
+*   [USA.gov](https://www.usa.gov/)
+
+Back to Top 
+
+![Image 10: Tell us what you think!](https://iad1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_3xWqwNkIHc7cA0S)

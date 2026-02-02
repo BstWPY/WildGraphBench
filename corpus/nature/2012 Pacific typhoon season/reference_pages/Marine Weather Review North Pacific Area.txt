@@ -1,0 +1,2367 @@
+# Marine Weather Review – North Pacific Area
+
+Volume 57, Number 1 April 2013 Volume 57, Number 1 April 2013 From the editor 
+
+Paula Rychtar 
+
+On the cover: 
+
+Cover photo taken by: Judith Lynn Plotz Brannigan Taken from the Ship HORIZON SPIRIT, Leaving the Los Angeles Harbor on July 13, 2012 heading back to Hawaii. 
+
+MARINERS WEATHER LOG 
+
+ISSN 0025-3367 U.S. Department of Commerce Dr. Kathryn D. Sullivan Under Secretary of Commerce for Oceans & Atmosphere & NOAA Administrator Acting Administrator 
+
+N ATIONAL WEATHER S ERVICE 
+
+Dr. Louis Uccellini NOAA Assistant Administrator for Weather Services 
+
+EDITORIAL S UPERVISOR 
+
+Paula M. Rychtar 
+
+LAYOUT AND D ESIGN 
+
+Leigh Ellis • www.EllisGS.com 
+
+A RTICLES , P HOTOGRAPHS , AND LETTERS SHOULD BE SENT TO :
+
+Ms. Paula M. Rychtar, Editorial Supervisor Mariners Weather Log NDBC (W/OPS 51) Bldg. 3203 Stennis Space Center, MS 39529-6000 Phone: (228) 688-1818 Fax: (228) 688-3923 E-Mail: paula.rychtar@noaa.gov 
+
+S OME IMPORTANT WEB P AGE ADDRESSES :
+
+NOAA http://www.noaa.gov National Weather Service http://www.weather.gov National Data Buoy Center http://www.ndbc.noaa.gov AMVER Program http://www.amver.com VOS Program http://www.vos.noaa.gov SEAS Program http://seas.amverseas.noaa.gov/ seas/seasmain.html Mariners Weather Log http://www.vos.noaa.gov/mwl.shtml Marine Dissemination http://www.nws.noaa.gov/om/marine/home.htm U.S. Coast Guard Navigation Center http://www.navcen.uscg.gov/marcomms/ 
+
+S EE THESE WEB PAGES FOR FURTHER LINKS .
+
+Hello again and welcome to the April issue of the Mariners Weather Log. April showers bring 
+
+May fl owers as well as a lot of stormy conditions out at sea….so please remember; only YOU 
+
+know the weather! We have a great article on the Horizon Line Ships, the RELIANCE and SPIRIT. Funny how things start out, this article evolved over a single photograph. I always request photos and stories of interest for the MWL and Judy Plotz decided to send in a beautiful photo, which happens to 
+
+be our cover story, the Pineapple Run. I hope you fi nd it interesting and enjoyable as well as 
+
+learning a bit about all the science that takes place out on the open water. In addition to the Pineapple Run, one of our international colleagues, Sarah North sent a wonderful article on what I believe to be the oldest UK VOS ship, with 50 years of service! I 
+
+think this is just incredible, this ship contributed so much over the years. 
+
+I would like to report that in recent days, VOS Management, here at the National Data Buoy Center had a discussion among our PMO’s on a program called VOSClim. This is a worthy program which requires minimal extra effort on the ship’s part. To be a part of this elite team of ships you must have 
+
+compliant software and input just a few extra parameters. I will mention that the software you would 
+
+need to use at this time is TURBOWIN, which was developed by the Netherlands. This software is very intuitive and the PMO’s are as familiar with it as they are with SEAS. (In time our AMVER/ SEAS will have the necessary archive format needed to use with the VOSClim ships.) When using TURBOWIN, it is only a matter of adding a couple of parameters for each observation-the only 
+
+signifi cant one being the distance from the waterline to the summer load line. TURBOWIN does the 
+
+rest, so it only adds a few seconds for the observers to do the observations. So if you are interested, please contact you’re PMO and they can get you set up. Most of the work would be for your PMO, as they will need to collect metadata, take photos of your instrumentation used in taking observations, a photo of your ship and a schematic of the ship in PDF format. If your ship is mobile, equipped with 
+
+sufficient certified meteorological instruments for making marine weather observations, transmits 
+
+regular and timely reports, has compliant software (Turbowin) and your ship has at least a barometer, a thermometer to measure SST, a psychrometer for measuring air temperature, a barograph and 
+
+possibly an anemometer, you could participate in our elite class of ships. I hope you will consider 
+
+joining the VOSClim ships program! 
+
+I want to report that our on-line format of the Mariners Weather Log has gained popularity. With this format it is possible to reach out to so many more people of varied interests and backgrounds where it was not possible before. In addition, it is a “green” way to do things and we all need to do our best to be environmentally friendly. NOAA, after all, needs to take the lead. However, I do want to insure that our readers out at sea can obtain our issues. If you are having trouble obtaining our 
+
+online MWL, contact your PMO, or me….we will work with you. With this format, you can share 
+
+these issues with your family and friends, giving them a great perspective of all the things you do. As always, I encourage you to send me photos and articles. Lastly, I am sad to have to include yet another tribute in our MWL. Julie Fletcher, a friend, colleague and a person whom I looked to for guidance in all things VOS, has passed. I miss her and think of her every day. Paula April 2013 ~ Mariners Weather Log 
+
+3The “Pineapple” Run . . . . . . . . . . . . . . .4 
+
+Record Breaker: 50 Years of Discovery 
+
+and Volunteer Observations . . . . . . . . . . . .9 NOAA Marine Debris Program . . . . . . . . . 12 
+
+Storm Surge in New York Harbor 
+
+During Hurricane Sandy in 2012 . . . . . . . . 13 North American Ice Service Iceberg Information and Services . . . . . . . . 20 SHIPWRECK: Meaford . . . . . . . . . . . . . 24 MAERSK MISSOURI: A Picture is Worth a Thousand Words . . . . . . . . . . . 26 Tribute: Julie Fletcher . . . . . . . . . . . . . . 27 
+
+# Departments: 
+
+Marine Weather Review 
+
+Mean Circulation Highlights and Climate Anomalies – September through December 2012 . . . . . . . 28 
+
+Tropical Atlantic and Tropical East Pacific Areas 
+
+September through December 2012 . . . . . . . 30 North Atlantic Review: July through October 2012. . . . . . . . . . . . 4 1
+
+North Pacifi c Review: 
+
+July through October 2012. . . . . . . . . . . . 4 6
+
+VOS Program 
+
+VOS Program Awards . . . . . . . . . . . . . . 5 0
+
+VOS Program New Recruits: October 1, 2012 through February 13, 2013. . . 5 1
+
+VOS Cooperative Ship Report. . . . . . . . . . 5 1
+
+Points of Contact . . . . . . . . . . . . . . . 5 2
+
+Page 9 Page 24 April 2013 ~ Mariners Weather Log 
+
+4
+
+# The “Pineapple Run” 
+
+> by Paula Rychtar
+
+Judy Plotz Brannigan sent me a beautiful photo of a sunset over the port of Long Beach, California (cover photo). I always encourage photos and articles of interest that hold a mariner’s twist and so with that, I contacted Judy on the details of her photo so that I might include it in a future MWL. After a few back and forth emails, it turns out that Judy is the National Director for the U.S. Navy League and the Vice President of the local chapter in Honolulu, Hawaii. In addition to that, she happens to be a very accomplished amateur photographer. Her 
+
+husband, Kevin Brannigan, is a retired Commander Master Chief Petty Officer of the U.S. Navy (32 years). 
+
+Kevin now actively works with emergency management, military and civilian teams in Honolulu, Hawaii. As 
+
+luck would find it, while they were attending a USCG Foundation Dinner, Judy and Kevin won a silent auction 
+
+to sail, round trip, from Honolulu to Long Beach California(known to mariners as the Pineapple Run) on the Horizon Line ships (Trip details ). On the first leg from Honolulu to Long Beach they rode upon the HORIZON 
+
+RELIANCE under the watchful eye of Captain Costanzi and on return, HORIZON SPIRIT was charged with Captain Crawford at the helm. With the knowledge of the ships that were involved in providing Judy and Kevin 
+
+transportation, giving Judy the opportunity to take such a great photo, the article just blooms from there. As it 
+
+would happen, the Horizon ships RELIANCE and SPIRIT are active participants in the U.S. Voluntary Observing Ship Program (VOS), providing meteorological and oceanographic observations for NOAA’s National Weather 
+
+Service; both of these ships are regular recipients of U.S. VOS awards for their superior quality and dedication 
+
+to our program. In addition to the VOS Program, the Horizon Line ships, HORIZON SPIRIT AND HORIZON HAWK to be exact, are participants in other data collection programs. This article will attempt to highlight those 
+
+programs and projects with emphasis on the HORIZON SPIRIT. 
+
+> The “Pineapple” Run April 2013 ~ Mariners Weather Log
+
+5In today’s world, it is a fact that there are many concerns pertaining to climate change as well as the conservation and sustainability of our world’s natural recourses. NOAA heads the effort by compelling those within the agency as well as outside of the agency to become “stewards” of our planet. For that effort to be successful, it   
+
+> Left to Right: 3rd Mate Jack Walker, Chief Mate Steve Itson, Captain Barry Costanzi, 2 nd Mate Paul Greppo of the HORIZON RELIANCE. Photo: Courtesy of Judy Plotz Judy and Kevin leaving Hawaii on the HORIZON RELIANCE. Photo courtesy of Judy Plotz
+> The “Pineapple” Run April 2013 ~ Mariners Weather Log
+
+6is necessary for various in-depth climate studies to be performed to better gauge the health and well being of our planet. NOAA promotes interagency cooperation as well as collaboration from private sectors and universities. The HORIZON SPIRIT is a perfect example of that effort. Not only does this ship take marine weather observations on a regular basis for U.S. VOS, which is an international program, the SPIRIT works with Scripps Institution of Oceanography http://sio.ucsd.edu/ as one of the many vessels that participate in another international program, Ship of Opportunity Program (SOOP) http:// 
+
+www.jcommops.org/soopip/ . In the SOOP program, ships such as the SPIRIT launch high resolution expendable Bathythermograph probes at prescribed intervals on know cruise tracks giving 
+
+a temperature/depth profile. http://www-hrx.ucsd. edu/intro.html These data points are collected using a windows based software AMVERSEAS developed by NOAA’s Atlantic Oceanographic and Meteorological Laborator y (AOM L) http://www.aoml.noaa.gov/ and the Sippican data acquisition system. In my correspondence with Judy, it was mentioned to me that there was a scientist on the ship who she noticed using the equipment on the stern of the ship and she believed that she worked with NOAA, so I further investigated. I contacted Glenn Pezzoli, Manager of SOOP, and Scripps Institution of Oceanography, 
+
+to find out the identity of the scientist and with 
+
+his help I was able to identify Jessica Raymond, a Marine Technician from Scripps Institution, who has done 6 of the last 10 transects aboard the SPIRIT. Others that I would like to mention from Scripps who have done this particular transect include Lucian Parry, Natalia Ribeiro Santos, Gino Passalacqua, Corina Marks 
+
+and Lindsey Loughrey. These “riders” are necessary to accomplish these projects and their dedication is to be 
+
+acknowledged. There are many transects and with that, many other ship riders assisting with XBT data collection that I have not mentioned in this article. Repeat high resolution expendable Bathythermograph (XBT) transects 
+
+have been collected along a number of commercial shipping routes spanning the Pacific Ocean, the Drake 
+
+Passage, and Tasmania to Dumont d’Urville. On each of the transects, generally four surveys are conducted per year. Temperature data are usually collected by a scientist on board the vessel using an automatic XBT launcher designed at Scripps Institution of Oceanography (SIO). The launcher holds 6 XBT probes which 
+
+are pre-programmed to drop at specific locations (using GPS) or times. I encourage and invite all of you reading this article to visit the Scripps website on XBT transects to get a good grasp on the field of operation. 
+
+http://www-hrx.ucsd.edu/ The data that is collected is used for the basis for climatological analysis and variability 
+
+in Pacific Ocean circulation and heat transport. ( http://www-hrx.ucsd.edu/ra.html) 
+
+> Jessica Raymond loading the XBT Launch. Photo: courtesy of Scripps
+> The “Pineapple” Run April 2013 ~ Mariners Weather Log
+
+7
+
+## “MAGIC Cloud” Project 
+
+While collecting information on the HORIZON SPIRIT so that I could write this article, I corresponded with the Captain, Tom McCarthy. In one of the emails that I received from Captain McCarthy, he informed me of another 
+
+project that they were involved in; this program is called 
+
+“MAGIC”. MAGIC stands for: Marine ARM (Atmospheric Radiation Measurement) GPCI Investigations of Clouds. (http://www.bnl.gov/envsci/ARM/MAGIC/). The principle 
+
+investor for this project is Brookhaven National Laboratory 
+
+with the Atmospheric Scientist Ernie R. Lewis as the lead 
+
+investigator. In this program the primary objective is to 
+
+improve the representation of the stratocumulus to cumulus transition, an ever present phenomenon along this particular 
+
+transect in climate models. So for the first time ever, a cloud 
+
+monitoring system will be placed on a ship (SPIRIT) and will be gathering data at sea. Instruments will be operated continuously and will be accompanied by two full time technicians. This mobile facility is called the AMF2 and it 
+
+consists of three 20-foot modified sea containers which will 
+
+include radars and other instruments to measure properties of clouds and precipitation, aerosols, and radiation along with other meteorological and oceanographic conditions. Several modeling groups are interested in the data that will 
+
+result from MAGIC. GPCI, the GCSS Pacific Cross-section Intercomparison (GCSS: GEWEX Cloud Systems Study; 
+
+GEWEX: Global Energy and Water Cycle Experiment, a 
+
+core project of the World Climate Research Programme) 
+
+has long used a transect near the route taken by the S PIRIT .EUCLIPSE, the European Union Cloud Intercomparison, 
+
+Process Study & Evaluation Project, a collaborative effort of 
+
+12 institutes in Europe, also uses the GPCI transect. CGILS, the CFMIP - GCSS Intercomparison of Large Eddy Models 
+
+and Single Column Models, a joint project of the GCSS and 
+
+the World Climate Research Programme Working Group on Coupled Modeling Cloud Feedback Model Intercomparison 
+
+Project (CFMIP), compares results at specific locations along 
+
+the GPCI transect. MAGIC got off the ground in September 
+
+> HORIZON SPIRIT First Mate Eric Sinkevich launching balloon. Photo: courtesy of Ernie R. Lewis, Lead investigator of MAGIC AMF2 technicians Pat Dowell and Brett Bersche launching balloon. Photo: courtesy of Ernie R. Lewis, Lead investigator of MAGIC Unknown dock worker aligning radar being loaded on radar van on HORIZON SPIRIT. Photo: courtesy of Ernie R. Lewis, Lead investigator of MAGIC AMF2 technicians: (L to R) Mark Smith, Tom Flannery, Brett Bersche, and Pat Dowell. Photo: courtesy of Ernie R. Lewis, Lead investigator of MAGIC
+> Brett Bersche (AMF2 technician) launching balloon. Photo: courtesy of Ernie R. Lewis, Lead investigator of MAGIC
+> The “Pineapple” Run April 2013 ~ Mariners Weather Log
+
+8
+
+> Photo: Courtesy of Judy Plotz Photo: Courtesy of Judy Plotz
+
+of 2012 with prospects of operating from October 2012 until September 2013. Short updates on MAGIC and topics related to it are written for non-scientists and scientists alike. These updates cover news relating to the MAGIC deployment, instruments involved in MAGIC and the science behind them, and other items relating to clouds, climate, and atmospheric sciences. Anyone wishing to be added to the distribution list should contact Ernie Lewis (elewis@bnl.gov) or go to: http://www.bnl.gov/envsci/ARM/MAGIC/updates.php. 
+
+## Tsunami Marine Debris 
+
+While corresponding with Judy and looking at all her photos she took while documenting her trip on the HORIZON RELIANCE, I noticed she had photos of marine debris that may have come from the Japan tsunami. Judy mentioned 
+
+that the crew diligently marked the position, notified the 
+
+USCG and radioed in the sighting with the position to warn other ships in the vicinity. One of the programs that VOS assists with is the NOAA’s Marine Debris Program http://marinedebris.noaa.gov/tsunamidebris/. Since VOS works with ships worldwide, we are able to get the word out to our mariners on the need for reporting any marine debris sightings. Please send reports to: disasterdebris@ noaa.gov. The Marine Debris program collects and 
+
+monitors fields of debris and using the climatology and 
+
+the current observations from various methods (ships, satellites, buoys) analyzing ocean currents and storm force driven seas to detect the flow and movement of 
+
+debris fields generated by the Japan Tsunami. The area 
+
+where the SPIRIT and RELIANCE transects is a prime area where marine debris is found and their observations provide vital data for establishing a timeline for this debris to wash ashore. NOAA expects a portion of the tsunami debris to reach the U.S. and Canadian shores over the next several years. For the latest updates on observed Japan tsunami marine debris you can go to: http://marinedebris.noaa.gov/tsunamidebris/updates.html. 
+
+> Gunnar Senum, scientist from Brookhaven National Laboratory. Photo: courtesy of Ernie R. Lewis, Lead investigator of MAGIC Ernie R. Lewis, Atmospheric Scientist, Lead investigator of MAGIC. Photo: Courtesy of Brookhaven National Laboratory
+> HORIZON SPIRIT showing the radar van (with two radars on top) on the left and the ops van on the right. Photo: courtesy of Ernie R. Lewis, Lead investigator of MAGIC
+> The “Pineapple” Run April 2013 ~ Mariners Weather Log
+
+9
+
+# Record Breaker — 50 Years of Discovery and Voluntary Observations 
+
+Sarah North, Marine Networks Manager, UK 
+
+In December 2012 the Royal Research Ship DISCOVERY, the oldest UK Voluntary Observing Ship, was withdrawn from service and sailed from Southampton on its final voyage. This brought to an end a period of 50 years participation in the International VOS Scheme – a record for the UK observing fleet, and possibly a world record? RRS DISCOVERY’s long and distinguished observing career began on 16 January 1963 when she was formally recruited to the VOS Scheme. During the next half-century its officers, scientists and crew have contributed more 
+
+than 34,000 highly valued weather observations. 
+
+RRS Discovery leaves Southampton for the final time (image courtesy of Barry Marsh). 
+
+> Record Breaker — 50 Years of Discovery and Voluntary Observations April 2013 ~ Mariners Weather Log
+
+10 
+
+When RRS DISCOVERY was built in Aberdeen in 
+
+1962 there was no satellite navigation, man had yet to step foot on the moon, and John F Kennedy was the US President. Until 2006, she was the largest general purpose oceanographic research vessel in use in the 
+
+UK, measuring 90 metres in length, and fitted with 
+
+a wide range of oceanographic equipment. The ship takes its name from the 1901 ship, RRS 
+
+DISCOVERY, the three-masted sailing ship 
+
+designed for Antarctic research, and famous for being commanded by iconic British hero and explorer Captain Robert Falcon Scott on his ill- fated 
+
+expedition to be the first to reach the South Pole. Scott 
+
+now immortalised as ‘Scott of the Antarctic’ led an expedition which reached the Pole on 17 January 
+
+1912, only to find he had just been beaten to the post 
+
+by Roald Amundsen’s Norwegian rival expedition. 
+
+On their return journey, Scott and his comrades all 
+
+died from a combination of exhaustion, starvation and extreme cold. 
+
+The illustrious DISCOVERY name will however 
+
+continue in the future as a new, state-of-the-art Royal 
+
+Research Ship, also to be called DISCOVERY, is 
+
+currently being built in Spain and will be delivered 
+
+later this year. The UK Met Office are already in 
+
+discussions with the UK’s National Oceanography Centre (NOC), who will operate the ship on behalf of the Natural Environment Research Council, to recruit this latest namesake to the VOS Scheme and to install one of its new Autonomous Marine Observing Systems (AMOS) on board. 
+
+To formally recognise RRS DISCOVERY’s 
+
+remarkable 50 year contribution a commemorate plaque was presented to its Master, Captain Peter 
+
+Sarjeant by Sarah North, Ship Observations Manager at the Met Office. In due course the plaque will be mounted on a bulkhead on the new DISCOVERY as 
+
+an ongoing reminder of its predecessor’s outstanding 
+
+observing record. In return Captain Sarjeant kindly presented a plaque of the DISCOVERY to the Met Office. 
+
+The opportunity was also taken to present Captain Sergeant with a marine barograph in recognition of his personal contribution and long service to the UK observing fleet, which began in the mid 
+
+1970’s. Captain Sarjeant remarked that during his 
+
+time at sea “there had been a continuous evolution 
+
+> Captain Sarjeant and Sarah North exchange plaques Lalinda Namalarachchi, Southampton Port Meteorological
+> Officer, presents Captain Sarjeant with a marine barograph
+> Record Breaker — 50 Years of Discovery and Voluntary Observations April 2013 ~ Mariners Weather Log
+
+11 and development of navigational aids and systems, but undoubtedly the most enduring and symbolic instrument has been the barograph”. He added that “a glance at the barograph trace gives that quiet nudge, that reminder, as to the weather’s ‘state of play ‘ and to what is in store”. 
+
+During his visit to the Met Office Headquarters in Exeter Captain Sarjeant was also invited to view some 
+
+of the historic hardcopy logbooks which are stored in the Meteorological Archive. Many of these logbooks 
+
+were submitted during his service as an officer, and later as Master, of the RRS DISCOVERY. He was 
+
+also invited to view other famous and historical ships logs that are held in the archive, including the original logs of the HMS Beagle, famous for being the ship which under the command of Vice-Admiral FitzRoy took Charles Darwin on his voyages of scientific 
+
+DISCOVERY and which led to him formulating 
+
+his controversial (at the time) theory on the origin of species. The log containing Admiral Sir Francis Beaufort’s original wind scale was also displayed and was examined with great interest by Captain 
+
+Sarjeant. 
+
+Besides its notable contribution to the field of 
+
+meteorology, RRS DISCOVERY has undertaken 
+
+hundreds of missions to push the boundaries of ocean science. During its many voyages around the globe 
+
+it has surveyed the ocean floor, measured the ocean 
+
+currents, monitored climate change and discovered 
+
+new biological species. Her final cruise investigated 
+
+changes to the Atlantic Ocean currents collecting data from an array of moorings between the Canaries and the Bahamas. It is therefore with a little sadness but with great gratitude that we wave farewell to the UK’s oldest research vessel, and longest serving voluntary observing ship. 
+
+> Captain Sarjeant examines one of the first logbooks
+> submitted during his seagoing career
+> Record Breaker — 50 Years of Discovery and Voluntary Observations April 2013 ~ Mariners Weather Log
+
+12 
+
+# NOAA Marine Debris Program 
+
+> Anna Manyak, NOAA Offi ce of Response and Restoration
+
+# A Call to All Mariners for Video Clips of Sea State!!! 
+
+The NOAA Marine Debris Program continues to request reports of at-sea and shoreline sightings of suspected Japan tsunami marine debris to DisasterDebris@noaa.gov. All reports are catalogued by Marine Debris Program 
+
+staff, with significant sightings being shared with the proper response agency. From October through December 2012, the Marine Debris Program received 107 total reports, 12 of which were reports of items floating at sea. 
+
+Would you like to help out the National Weather Service marine forecasters learn more about the sea state that 
+
+you experience and how the sea state your experiencing actually looks? Now is your chance! I am looking for 
+
+submissions of any and all sea states that you catch on small video clips. As you know, our forecasters provide guidance and marine forecasts for the wide open oceans as well as the Great Lakes. Anything that we can do 
+
+to help them gain more expertise on that in order to provide better forecasts for you is what we strive for…but 
+
+as always we need your help. So, if you would like to send in your video clips for this new interactive sea state matrix that is under development, send them to: vos@noaa.gov subject line: sea state video clip. In the body of the email, please indicate the sea state and all pertinent information in regards to your video clip. By sending in your video clip, you give us permission to use this in our sea state tool. Also, once this tool is available online, I will put a hyperlink on the Mariners Weather Log so that you can view this sea state tool for your use as well. Cheers! 
+
+> Photo caption: Confirmed
+> tsunami debris: Floating dock observed off the coast of Washington in December 2012. The dock later ran aground along the coast of Olympic National Park, where the response is currently underway.
+> Marine Debris Program April 2013 ~ Mariners Weather Log
+
+13 
+
+# Storm Surge in New York harbor during hurricane Sandy in 2012 
+
+> Professor S. A. Hsu, Coastal Studies Institute, LSU, Baton Rouge. LA. Email: sahsu@lsu.edu
+> Figure 1. Met-ocean stations in the study area during Hurricane Sandy in 2012 (see www.ndbc.noaa.gov).
+
+Abstract: In October 2012 Hurricane Sandy caused extensive damages in New York and New Jersey region including massive flooding in the New York Harbor. Characteristics of meteorology, wave height and direction, 
+
+storm surges and storm tides are presented. By applying the physics of wind-wave interaction for the storm surge, 
+
+it is found that during Sandy, S = 0.253 Hs where S is the storm surge in feet in New York Harbor and Hs is the significant wave height in feet at the entrance of the Harbor. Since the formula can explain 93% of the total storm 
+
+surge, it is recommended for operational applications. A comparative study is also made during Hurricane Gustav in 2008 to further verify this operational formula. 
+
+1. Introduction 
+
+According to Wikipedia (www.wikipedia.org), the effects of Hurricane Sandy in New York in 2012 were severe, 
+
+particularly in New York City , its suburbs, and Long Island . Sandy’s impacts included the flooding of the New York 
+
+City Subway system, many suburban communities, all road tunnels entering Manhattan except the Lincoln Tunnel, and the closure of the New York Stock Exchange for two consecutive days. Numerous infrastructures related to the 
+
+New York Harbor were affected by Sandy. For the storm track of Sandy, see www.nhc.noaa.gov. The purposes of this study are to delineate the meteorological characteristics during Sandy, to depict the wave 
+
+direction, to describe storm surge and storm tide, and finally to provide an operational formula to estimate the storm surge in New York Harbor from the significant wave height at the entrance of the Harbor. 
+
+2. Meteorological Characteristics 
+
+All met-ocean stations operated by the National Data Buoy Center (NDBC) and the National Ocean Service (NOS) as shown in Fig. 1 are employed in this study. 
+
+> Storm Surge in New York Harbor During Hurricane Sandy in 2012 April 2013 ~ Mariners Weather Log
+
+14 In order to delineate meteorological characteristics for Sandy, measurements at Robbins Reef, NJ (see ROBN4 in Fig. 1) are provided in Figures 2 and 3 for the barometric pressure and wind speed and direction and wind gust, respectively. It is shown that the minimum sea-level pressure was approximately 962mb whereas maximum sustained wind speed and peak gust reached 54 and 78 knots, respectively. 
+
+> Figure 3. Measurements of wind speed and direction and wind gust at Robbins Reef, NJ during Sandy. Figure 2. Measurement of sea-level pressure at Robbins Reef, NJ during Hurricane Sandy.
+> Storm Surge in New York Harbor During Hurricane Sandy in 2012 April 2013 ~ Mariners Weather Log
+
+15 
+
+3. Dominant Wave Direction 
+
+In order to flood the New York Harbor the water-level setup by the wind stress and waves must come from offshore. 
+
+This is indeed the case since the dominant wave direction was from 80 to 180 degrees as depicted in Figure 4. Note that, beginning at 00 UTC on Oct.28, 2012, we had 95 hour long duration when the wave direction was from 
+
+the southeast. As shown in Fig.1, the entrance of New York Harbor is bordered north by Long Island and west by New Jersey. Therefore, the funneling effects of these southeasterly waves can enhance the massive flooding in New York Harbor. 
+
+> Figure 4. Timeline of the dominant wave direction as measured at NDBC 44065.
+> Storm Surge in New York Harbor During Hurricane Sandy in 2012 April 2013 ~ Mariners Weather Log
+
+16 
+
+> Figure 6. Water-level measurements at Sandy Hook, NJ, before it was damaged by Sandy.
+> Figure 5. Water-level measurements at Kings Point, NY during Sandy. Storm surge is in green, storm tide is in red, and astronomical tide is in blue.
+> Storm Surge in New York Harbor During Hurricane Sandy in 2012
+
+4. Storm Surge and Storm Tide 
+
+Characteristics of storm surge and storm tide are shown in Figs. 5 through 8. At Kings Point, NY, peak storm surge 
+
+and storm tide were approximately 13 and 14 ft, respectively. At Sandy Hook, NJ, they were 8.8 and 13.5 ft before the station was damaged. In the upper reaches of the Harbor they were 9.5 and 14 ft at the Battery, and 9.8 and 14.5 at Bergen Point, respctively. Note that, according to the National Hurricane Center (see www.nhc.noaa.gov), storm surge is water height above normal astronomical tide level and storm tide is referenced above North American Vertical Datum of 1988 (NAVD88). April 2013 ~ Mariners Weather Log 17 
+
+> Figure 8. Water-level measurement at Bergen Point, NY during Sandy.
+> Figure 7. Water-level measurements at the Battery, NY during Sandy.
+> Storm Surge in New York Harbor During Hurricane Sandy in 2012
+
+Since the hydrographs related to the storm surges at upper reaches of the New York Harbor at the Battery and Bergen 
+
+Point shown in Figs.7 and 8 are similar, the spatial variation is provided in Fig. 9. It indicates that the magnitudes of the storm surge at these two locations are indeed nearly the same. April 2013 ~ Mariners Weather Log 
+
+18 
+
+5. Operational Formula for Storm Surge Estimates 
+
+On the basis of the applied physics of wind and wave interaction, Hsu (2004) has developed an operational formula to estimate the storm surge along the right-hand side of the hurricane track such that, S = A*Hs (1) 
+
+Where S is the storm surge and Hs is the significant wave height. Note that the units for S and Hs are the same. Note also that the dimensionless coefficient, A, is related to other factors such as normalized friction velocity and 
+
+shoaling depth. 
+
+Eq. (1) has been verified during Hurricane Georges in 1998, which affected Mississippi Gulf coast that (see Hsu, 
+
+2004), S = 0.285 Hs (2) Fig.10 shows our results that during Hurricane Sandy, we have S = 0.253 Hs (3) With R^2 = 0.93 Or R = 0.96 
+
+Where R^2 is the coefficient of determination and R is the correlation coefficient. Since R^2 = 0.93, this means that 93 % of the total variation in storm surge in New York Harbor can be explained 
+
+by the wave forcing from offshore. 
+
+> Figure 10. Relationship between storm surge at Bergen Point and
+> significant wave height at NY
+> Harbor Entrance (NDBC Buoy 44065) during Sandy.
+> Figure 9. Relationship between storm surges at Bergen Point and the Battery.
+> Storm Surge in New York Harbor During Hurricane Sandy in 2012 April 2013 ~ Mariners Weather Log
+
+19 
+
+> Figure 11. Relationship between storm surge at Shell Beach, LA and Buoy 42007 in the Gulf of Mexico during Hurricane Gustav in 2012 from 08/31/00UTC to 09/01/11UTC.
+
+In order to further verify Eq. (1) a comparative study is provided in Fig. (11). During Hurricane Gustav in 2008, 
+
+simultaneous measurements of storm surge at Shell Beach, LA (SHBL1) and significant wave height at NDBC 
+
+Buoy 42007 in the Gulf of Mexico were available for the investigation. For storm track and station locations (see www.ndbc.noaa.gov). Figure (11) shows that S = 0.244 Hs (4) With R^2 = 0.93 Or, R = 0.96 
+
+Again, since 93% of the total storm surge at Shell Beach, LA can be explained by the offshore wave forcing at Buoy 42007 and since the difference between Equations (3) and (4) is only 3.6%, Eq. (3) is recommended for operational 
+
+use. 
+
+6. Conclusions 
+
+On the basis of aforementioned analysis, it is concluded that 93% of the total variation of the storm surge in New York Harbor during Hurricane Sandy in 2012 was caused by the funneling of offshore waves into Harbor. An operational formula, Equation (3), is recommended for practical application. This formula is also verified during 
+
+Hurricane Gustav in 2008, which affected Louisiana and Mississippi Gulf Coast. 
+
+Acknowledgements 
+
+Many thanks go to NDBC and NOS for providing essential data needed for this study. 
+
+Reference 
+
+Hsu, S. A., 2004: A wind-wave interaction explanation for Jelesnianski’s open-ocean storm surge estimation using Hurricane Georges’ (1998) measurements. National Weather Digest, vol. 28, 25-31, December, 2004. 
+
+> Storm Surge in New York Harbor During Hurricane Sandy in 2012 April 2013 ~ Mariners Weather Log
+
+20 
+
+The North American Ice Service (NAIS), a partnership comprised of the International Ice Patrol (IIP), the 
+
+Canadian Ice Service (CIS), and the U.S. National Ice Center (NIC), provides year-round maritime safety information on iceberg and sea ice conditions in the vicinity of the Grand Banks of Newfoundland and the east coast of Labrador, Canada. The daily NAIS Iceberg Limit, valid at 0000Z, along with the daily Sea Ice Limit, valid for 1100 EST the previous day, will be distributed as a NAVAREA IV warning in the format of a text Iceberg Bulletin and as a graphic Iceberg Chart in accordance with Table 1. The purpose of the NAIS Iceberg Bulletin and Chart is to advise mariners of the estimated iceberg extent within the region. On the Chart, numbers within each grid sector inside the Iceberg Limit are intended to provide mariners an awareness of the relative density of icebergs. For more information on the Iceberg Bulletin and Iceberg Chart visit http://www.navcen.uscg.gov/iipCharts. NAIS reconnaissance is focused near the Grand Banks of Newfoundland and the east coast of Labrador, ice conditions south of Greenland are not monitored by NAIS. (For iceberg conditions south of Greenland visit the Danish Meteorological Institute’s website at http://www.dmi.dk/dmi/en/gronland/iskort.htm.) While NAIS strives to be as accurate as possible in reporting the presence of icebergs to mariners, it is not possible to ensure that all icebergs are detected and reported. There is no substitute for due vigilance and prudent seamanship, especially when operating near sea ice and icebergs. Reports of icebergs in the North Atlantic originate from various sources, including passing ships, reconnaissance flights, and spaceborne reconnaissance. Once position, time, size, and shape of icebergs sighted are received, the data is entered into a computer model that predicts iceberg drift and deterioration. As the time after sighting increases, so does the uncertainty in estimated positions. This uncertainty is taken into account when the Iceberg Limit is determined. If an iceberg or radar target is detected and reported outside the published NAIS Iceberg Limit, a Notice to Shipping (NOTSHIP) will be sent by the Canadian Coast Guard Marine Co urgent NAV via the (NGA) as tremain in revised sh or by 1400 Ships are icebergs icebergs tor through charge whe informatio Observing weather arespective weather aAtmospheri vos@noaa.g When makin 
+
+CALL SIGN ,
+
+COURSE , S
+
+(Specify efrom ship 
+
+DETECTION 
+
+SHAPE OF 
+
+INFORMATIO 
+
+In 
+
+Ca 
+
+# NORTH AMERICAN ICE SERVICE ICEBERG I 
+
+The North American Ice Service (NAIS), a partnership comprised of the International Ice Patrol (IIP), the Canadian Ice Service (CIS), and the U.S. National Ice Center (NIC), provides year-round maritime safety information on iceberg and sea ice conditions in the vicinity of the Grand Banks of Newfoundland and the east coast of Labrador, Canada. The daily NAIS Iceberg Limit, valid at 0000Z, along with the daily Sea Ice Limit, valid for 1100 EST the previous day, will be distributed as a NAVAREA IV warning in the format of a text Iceberg Bulletin and as a graphic Iceberg Chart in accordance with Table 1. The purpose of the NAIS Iceberg Bulletin and Chart is to advise mariners of the estimated iceberg extent within the region. On the Chart, numbers within each grid sector inside the Iceberg Limit are intended to provide mariners an awareness of the relative density of icebergs. For more information on the Iceberg Bulletin and Iceberg Chart visit http://www.navcen.uscg.gov/iipCharts. NAIS reconnaissance is focused near the Grand Banks of Newfoundland and the east coast of Labrador, ice conditions south of Greenland are not monitored by NAIS. (For iceberg conditions south of Greenland visit the Danish Meteorological Institute’s website at http://www.dmi.dk/dmi/en/gronland/iskort.htm.) While NAIS strives to be as accurate as possible in reporting the presence of icebergs to mariners, it is not possible to ensure that all icebergs are detected and reported. There is no substitute for due vigilance and prudent seamanship, especially when operating near sea ice and icebergs. Reports of icebergs in the North Atlantic originate from various sources, including passing ships, reconnaissance flights, and spaceborne reconnaissance. Once position, time, size, and shape of icebergs sighted are received, the data is entered into a computer model that predicts iceberg drift and deterioration. As the time after sighting increases, so does the uncertainty in estimated positions. This uncertainty is taken into account when the Iceberg Limit is determined. If an iceberg or radar target is detected and reported outside the published NAIS Iceberg Limit, a Notice to Shipping (NOTSHIP) will be sent by the Canadian Coast Guard Marine Communic urgent NAVAREA Ivia the U.S. (NGA) as the NAV remain in effec revised shortly or by 1400Z if r Ships are encou icebergs or sta icebergs to the or through INMAR charge when usin information. Observing Ship weather and srespective prog weather and SS Atmospheric Adm vos@noaa.gov or When making ice 
+
+CALL SIGN , ZULU 
+
+COURSE , SPEED ,
+
+(Specify either from ship’s pos 
+
+DETECTION (Visu 
+
+SHAPE OF ICEBE 
+
+INFORMATION .
+
+Internati 
+
+Phone: Toll f Fax: Email: Web: Office 
+
+Canadian 
+
+Phone: Fax: Email: Web: Office 
+
+# NORTH AMERICAN ICE SERVICE ICEBERG INFOR 
+
+# North American Ice Service Iceberg Information and Services 
+
+> North American Ice Service Iceberg Information and Services April 2013 ~ Mariners Weather Log
+
+21 
+
+ership , the Center on on Grand rador, along T the ing in raphic is to in the inside rs an more visit nce is east re not h of tute’s .htm.) le in s not d and e and a ice from ssance ition, d, the ceberg ghting tions. ceberg ported ce to Guard 
+
+Marine Communications and Traffic Service (MCTS) and an urgent NAVAREA IV message will be distributed on SafetyNET via the U.S. National Geospatial-Intelligence Agency (NGA) as the NAVAREA IV Coordinator. These warnings will remain in effect for 24 hours. Iceberg products will be revised shortly after notification between 1200Z and 0000Z or by 1400Z if reported between 0000Z and 1200Z. Ships are encouraged to immediately report sightings of icebergs or stationary radar targets that may likely be icebergs to the nearest Canadian Coast Guard MCTS Station or through INMARSAT using Service Code 42, as there is no charge when using this code. See Table 2 for MCTS contact information. Vessels participating in a Voluntary Observing Ship (VOS) program should continue to report weather and sea surface temperature (SST) to their respective programs. Vessels interested in providing weather and SST reports to U.S. National Oceanic and Atmospheric Administration’s VOS program can contact vos@noaa.gov or visit www.vos.noaa.gov for guidance. When making iceberg reports, please include SHIP NAME and 
+
+CALL SIGN , ZULU TIME , SHIP POSITION (latitude, longitude), 
+
+COURSE , SPEED , VISIBILITY , ICEBERG/RADAR TARGETS POSITION 
+
+(Specify either the geographic coordinates or range/bearing from ship’s position), ZULU TIME OF SIGHTING , METHOD OF DETECTION (Visual, Radar, or Both), LENGTH (in meters), 
+
+SHAPE OF ICEBERG (See Table 3), and VESSEL CONTACT 
+
+INFORMATION .
+
+International Ice Patrol in New London, CT Phone: (860) 271-2626 Toll free: (877) 423-7287 Fax: (860) 271-2773 Email: iipcomms@uscg.mil Web: http//www.navcen.uscg.gov/IIP Office hours: 1200Z – 0000Z 
+
+Canadian Ice Service in Ottawa, ON Phone: (877) 789-7733 Fax: (560) 451-6010 Email: cis-scg.client@ec.gc.ca Web: http//www.ice-glaces.ec.gc.ca Office Hours: 0730 – 1730 EST 
+
+# CE ICEBERG INFORMATION AND SERVICES 
+
+> North American Ice Service Iceberg Information and Services April 2013 ~ Mariners Weather Log
+
+22 
+
+## NORTH AMERICAN ICE SERVICE (NAIS) – ICEBERG BULLETIN INFORMATION SHEET 
+
+The North American Ice Service (NAIS), a partnership that includes the Canadian Ice Service (CIS), the International Ice Patr ol (IIP), 
+
+and the U.S. National Ice Center (NIC), distributes a joint iceberg bulletin to define the extent of the iceberg danger for the waters in the vicinity of the Grand Banks of Newfoundland and along the east coast of Labrador. The bulletin will be updated each day by 0000Z and when changing ice conditions require a revision. A brief description of the bulletin’s features is provided below. For additional ice 
+
+information or more information regarding products and services, please visit IIP at http://www.navcen.uscg.gov/iip or CIS at http://ice-glaces.ec.gc.ca. For iceberg conditions south of Greenland, visit the Danish Meteorological Institute at http://www.dmi.dk/dmi/en/gronland/iskort.htm. 
+
+Daily Bulletin: 
+
+NAVAREA IV NORTH AMERICAN ICE SERVICE (NAIS) ICEBERG BULLETIN 1. DDTTTTZ MMM ICEBERG LIMIT: XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW. 2. WESTERN ICEBERG LIMIT: XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW. 3. RADAR TARGETS OUTSIDE ICEBERG LIMIT: XX-XXN XX-XXW, XX-XXN XX-XXW. 4. SEA ICE LIMIT: A. XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW. B. XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW. 5. NOTE THE SIGNIFICANT (EXPANSION OR REDUCTION) OF THE ICEBERG LIMIT SINCE DD0000Z MMM BULLETIN DUE TO (RECENT ICE SIGHTING/RECENT RECONNAISSANCE/PREDICTED DETERIORATION). 6. REPORT POSITION AND TIME OF ANY ICEBERGS OR STATIONARY RADAR TARGETS THAT MAY LIKELY BE ICEBERGS TO THE NEAREST CANADIAN COAST GUARD MARINE COMMUNICATIONS AND TRAFFIC SERVICE STATION OR USING INMARSAT CODE 42. 7. CANCEL THIS MESSAGE DD0000Z MMM YY. 
+
+Revised Bulletin :
+
+NAVAREA IV REVISION-nn NORTH AMERICAN ICE SERVICE (NAIS) ICEBERG BULLETIN 1. DDTTTTZ MMM ICEBERG LIMIT: XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW. 2. WESTERN ICEBERG LIMIT: XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW. 3. RADAR TARGETS OUTSIDE ICEBERG LIMIT: XX-XXN XX-XXW, XX-XXN XX-XXW. 4. SEA ICE LIMIT: A. XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW. B. XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW, XX-XXN XX-XXW. 5. NOTE THE SIGNIFICANT (EXPANSION OR REDUCTION) OF THE ICEBERG LIMIT SINCE DD0000Z MMM BULLETIN DUE TO (RECENT ICE SIGHTING/RECENT RECONNAISSANCE/PREDICTED DETERIORATION). 6. REPORT POSITION AND TIME OF ANY ICEBERGS SEA ICE OR STATIONARY RADAR TARGETS THAT MAY LIKELY BE ICE TO THE NEAREST CANADIAN COAST GUARD MARINE COMMUNICATIONS AND TRAFFIC SERVICE STATION OR USING INMARSAT CODE 42. 7. CANCEL NAVAREA IV nnn/YY. 8. CANCEL THIS MESSAGE DD0000Z MMM YY. 
+
+NAIS Iceberg Bulletin is valid for 24 hours or u ntil 
+
+revised due to reports of i cebergs outside limit. 
+
+Iceberg Limit identifies the estimated exte nt of the 
+
+iceberg population based on recent reconnaissance and 
+
+computer simulated iceberg drift. Drifted iceberg positions have an area of uncertainty that is fully encompassed by the Iceberg Limit. Ships are encouraged to immediately report sightings of icebergs or stationary radar targets that may likely be icebergs to the nearest Canadian Coast Guard MCTS Center or through INMARSAT using Service Code 42, as there is no charge when using this code. 
+
+Western Iceberg Limit identifies the w estern boundary 
+
+of iceberg danger. Used only when the iceberg 
+
+population extends south of the Strait of Belle Isle. 
+
+Stationary Radar Targets will not be used to establish 
+
+the Iceberg Limit but still represent a potential hazard to the mariner. When a stationary radar target’s 
+
+estimated position is outside the Iceberg Limit, it’s 
+
+estimated position will be listed here .
+
+Sea Ice Limit represents the estimated extent of at least 
+
+1/10 sea ice coverage and is valid for 1100 EST on the 
+
+day prior to the date on the bulletin. More recent and 
+
+detailed sea ice info rmation is available from CIS. 
+
+Significant Expansion or Reduction will be noted 
+
+when the Iceberg Limit changes by one degree (of 
+
+latitude or longitude) or g reater from the previous day’s 
+
+Iceberg Limit. The significant change will be noted here. 
+
+If an iceberg is detected and reported outside the published NAIS Iceberg Limit , a Notice to Shipping 
+
+(NOTSHIP) will be sent by the Canadian Coast Guard Marine Communications and Traffic Service (MCTS) and an urgent NAVAREA IV message will be distributed on SafetyNET by the U.S. National Geospatial-Intelligence Agency (NGA) as the NAVAREA IV Coordinator. These warnings will remain in effect for 24 hours. Iceberg products will be revised shortly after notification between 1200Z and 0000Z or by 1400Z the following day if reported between 0000Z and 1200Z. 
+
+NAIS reconnaissance is focused near the Grand Banks of Newfoundland and the east coast of Labrador. Ice conditions south of Greenland are not monitored by NAIS. Icebergs in this area are not included in this bulletin. 
+
+Revised 31 JAN12 
+
+> North American Ice Service — Iceberg Bulletin Information Sheet April 2013 ~ Mariners Weather Log
+
+23 
+
+## NORTH AMERICAN ICE SERVICE (NAIS) – ICEBERG CHART INFORMATION SHEET 
+
+The North American Ice Service (NAIS), a partnership that includes the International Ice Patrol (IIP), the National Ice Cente r (NIC) and 
+
+the Canadia n Ice Service (CIS), distributes a joint iceberg chart to define the extent of the iceberg danger for the waters in the vicin ity of the Grand Banks of Newfoundland and along the East Coast of Labrador. The chart will be updated each day by 0000 UTC and when 
+
+changing ice conditions require a revision. A brief description of the chart’s features is provided below. For additional i ce information or more information regarding products and services, please visit IIP at http://www.navcen.uscg.gov/iip or CIS at http://ice-glaces.ec.gc.ca. For iceberg conditions south of Greenland, visit the Danish Meteorological Institute at http://www.dmi.dk/dmi/en/gronland/iskort.htm. 
+
+Iceberg Limit is d enoted by 
+
+the solid line and represents 
+
+the estimated extent of 
+
+iceberg population based on recent reconnaissance and computer simulated iceberg drift. Drifted iceberg positions have an area of uncertainty that is fully encompassed by the Iceberg Limit. These letters are for NAIS internal use only 
+
+Sea Ice Limit is d enoted by 
+
+the dashed line and 
+
+represents the estimated 
+
+extent of at least 1/10 sea ice coverage. The Sea Ice Limit is valid for 1100 EST on the day prior to the date on the chart. More recent and detailed sea ice info is available from CIS. The NOTE / NOTER block 
+
+will be used to indicate if a 
+
+special situation applies to the chart. Examples include a chart revision (when information is received that affects the accuracy of the chart), a significant (defined as at least one degree of change from the previous Iceberg Limit) expansion or a significant reduction of the Iceberg Limit. 
+
+NAIS reconnaissance is focused near the Grand Banks of Newfoundland and the east coast of Labrador. Ice conditions south of Greenland are not monitored by NAIS. Icebergs in this area are not included in this bulletin. 
+
+“REVISED ICEBERG ANALYSIS AT XXXX UTC” “SIGNIFICANT EXPANSION OF ICEBERG LIMIT” “SIGNIFICANT REDUCTION OF ICEBERG LIMIT” 
+
+Numbers on the chart represent the total number of icebergs 
+
+including; growlers, bergy bits, and radar targets, whose 
+
+estimated position is within the respective area bounded by one 
+
+degree of latitude and one degree of longitude. 
+
+Stationary RADAR Targets will not be 
+
+used to establish the 
+
+Iceberg Limit but still represent a potential hazard to the Mariner. When astationary RADAR target’s estimated 
+
+position is outside the Iceberg Limit, the RADAR target symbol will be used in the estimated position to represent the potential hazard. 
+
+If an iceberg is detected and reported outside the published NAIS Iceberg Limit , a Notice to Shipping (NOTSHIP) will be sent by the Canadian Coast Guard Marine Communications and Traffic Service (MCTS) and an urgent NAVAREA IV message will be 
+
+The estimated iceberg population density 
+
+provided within the area bounded by the Iceberg Limit is for information purposes only and is not intended for navigation. 
+
+distributed on SafetyNET via the National Geospatial -
+
+Intelligence Agency (NGA) as the NAVAREA IV 
+
+Coordinator. These warnings will remain in effect for 24 hours. Iceberg products will be revised shortly after notification between 1200 UTC and 0000 UTC or by 1400 UTC the following day if reported between 0000Z and 1200Z. No updates to the Iceberg Chart will be made between 0000Z and 1200Z 
+
+Revised 19JAN12 
+
+> North American Ice Service — Iceberg Chart Informaton Sheet April 2013 ~ Mariners Weather Log
+
+24 
+
+# Sh IP wReCk: Meaford 
+
+> By Skip Gillham
+
+This fall marks the 100th Anniversary of “The Great Storm” that swept through the Great Lakes region in November 1913. The solitary ship to survive down bound passage on Lake Huron during the three days of wild weather was the J.H. SHEADLE. All others disappeared or stranded. Not only did J.H. SHEADLE survive the storm, it carried on for another 66 years, under several different names, until a grounding spelled the end of active service in 1979. The storm, which developed in the Midwest, swept through the Great Lakes region on November 7 – 10, 1913. It was the prolonged high winds that whipped the lakes into a fury and resulted in the loss of so many ships. Twelve vessels were lost with all hands and a total of close to 250 sailors died. Other lakers came ashore and were badly damaged. Captain S.A. Lyon of the J.H. SHEADLE had loaded a cargo of grain at Fort William, Ontario, and departed 
+
+on November 6. After going to anchor in Whitefish bay, due to fog, the vessel went through the Soo Locks on November 8. The ship ahead was the JAMES CARRUTHERS and the one behind was the HYDRUS. Both 
+
+disappeared with all hands on Lake Huron. Only a miracle saved the J.H. SHEADLE as it took on water through broken windows and the skylight above the engine room. Out on the lake, Capt. Lyon battled a blizzard, mountainous waves and, at time, zero visibility. When his soundings led him to believe they were near the southern end of Lake Huron and the St. Clair River, he was able to get his ship turned around, through the deadly trough, and head back up the lake and into the storm. The ship, the engine and the steering gear all held during the ordeal and when conditions calmed down, the vessel was able to reach safety. 
+
+> MEAFORD inbound for the Welland Canal at Port Colborne, Ontario, in 1967 – Skip Gillham
+> SHIPWRECK: Meaford April 2013 ~ Mariners Weather Log
+
+25 The 552 foot long by 56.2 foot wide J.H. SHEADLE was built by the Great Lakes Engineering Works and launched 
+
+at Ecorse, Michigan, in September 29, 1906. It entered service in October and was part of the Cleveland-Cliffs fleet. 
+
+The steering gear failed while backing from the ore dock at Marquette, Michigan, on November 20, 1920, and the ship was run on the rocks by the current. The rudder was lost, the ship’s hull was punctured and it settled on the 
+
+bottom. While refloated on November 29, it spent the winter at Marquette and had wait until spring to receive the 
+
+much needed repairs. 
+
+Cliffs sold the vessel to the Forest City Steamship Co. in 1925 and it was renamed F.A. BAILEY. A grounding in 
+
+the Detroit River on November 13, 1925, due to low water levels, required some grain to be lightered before the 
+
+ship could float free. It was taken to Buffalo for repairs. 
+
+In 1930, this ship was repossessed by Cleveland-Cliffs and returned to work in their colors as LASALLE. It 
+
+made the news as the first ship of the season into Buffalo on March 24, 1937, arriving with a cargo of coal. But an 
+
+additional grounding, this on a reef outside Port Arthur, Ontario, on November 11, 1940, required another visit to a shipyard for repairs. The original triple expansion engine generated 1665 horsepower and it was replaced in 1951 with a 3,300 horsepower 
+
+DeLaval steam turbine engine that improved speed and efficiency. Two new water tube boilers were installed 
+
+instead of the original scotch boilers. 
+
+LASALLE was idle in 1962-1963 and then joined Upper Lakes Shipping, a Toronto, Ontario, based company, in 1966. While unloading its first cargo at Toronto in April, the name was changed to MEAFORD. It operated in 
+
+the ore, grain and coal trades for the company and expanded its service east to take advantage of the St. Lawrence Seaway system that had opened in 1959. MEAFORD operated for U.L.S. to the end of 1978 and when it finally fitted out in August 1979, the vessel was part of the Soo River Company and sailed under the name of PIERSON INDEPENDENT. Unfortunately, the service was brief. The ship was carrying corn from Toledo for the St. Lawrence when it hit bottom on the St. Lawrence near Brockville on October 28, 1979, and had to be beached. Temporary repairs allowed the ship to be refloated and carry on to Trois Rivieres to unload. A subsequent inspection at Port Weller Dry Docks in St. Catharines showed the ship to be a total loss. After a tow to Hamilton, the PIERSON INDEPENDENT was laid up pending a sale for scrap. The hull was 
+
+purchased by Spanish shipbreakers for dismantling overseas. Renamed COMPANY for the transatlantic tow, the 
+
+ship arrived at Santander, Spain, on June 11, 1980, for recycling. Some of the ships lost in the violent storm of a century ago have been found on the bottom of Lake Huron. But others are still missing and have eluded shipwreck hunters and their sophisticated equipment. In time, I suspect they will all be located but while they were cheated out of a long and successful sailing career, they are not forgotten. 
+
+> PIERSON INDEPENDENT up bound in the Welland Canal in 1979 – Skip Gillham
+> SHIPWRECK: Meaford April 2013 ~ Mariners Weather Log
+
+26 
+
+# MA eRS k MISSOURI… a picture is worth a thousand words… 
+
+> By Paula Rychtar
+
+An interesting barogram was sent in from the Maersk Missouri in route from the Suez Canal to Newark NJ. PMO Jim Luciani said that the Chief Mate on this run logged that the anemometer topped out at 110 knot relative (as high as it would read, topping out!). So a very windy winter in the North Atlantic. Thanks to Jim and the crew of the Maersk Missouri for sending this in! 
+
+> MAERSK MISSOURI...a picture is worth a thousand words... April 2013 ~ Mariners Weather Log
+
+27 
+
+# A Tribute to a Dear Friend and Colleague: Julie Fletcher 
+
+> Tribute: Julie Fletcher
+
+I suppose I could go on and on about Julie and all her accomplishments work related. That her dedication to the VOS program was steadfast and her commitment to data quality was unwavering. Julie had such a strong posture in regards to her complete dedication in any and all of her tasks and always ready to assist and provide good advice towards that goal. Julie Fletcher was the manager of Marine Operations for the Meteorological Service of New Zealand. She was a dedicated leader and wore many hats being intricately involved in the many programs collecting valuable marine and atmospheric data. Those of us who knew 
+
+Julie through work, knew that she was 100% dedicated to her cause… which was basically…improving the many ways of collecting data, 
+
+making sure that data was reliable and accurate, providing avenues and opportunity for others who were new to the world of data collection and most of all being patient to those who took a little time “getting up to speed”. As much as I would like to list all the very many positions that Julie held, I choose to celebrate something else, her role in life. From what I could tell from my all too short friendship with Julie and how she 
+
+choose to spend the last little bit of time she had on this fine earth… 
+
+she really valued the beauty of the world around her. She decided to surround herself with those things she valued the most, her partner, her 
+
+beautiful roses and flowers that she took such great care tending too, her 
+
+dear friends and family. Like everything else, she choose quality over 
+
+quantity…what else can you say about that? That is how Julie lived her 
+
+entire life. All of us who knew her will miss her. I still think about emailing her from time to time and have to close my door and regroup. 
+
+“The Dash” 
+
+The “dash” represents the time that Julie spent alive here on earth. And now only those who loved her know what that little dash is worth. For it matters not how much we own, the cars, the house, the cash. What matters is how we live and love and how we spend our “dash”. So think 
+
+about this long and hard, are there things you’d like to change? For you 
+
+never know the time that’s left, there’s time to re-arrange. If we could 
+
+just slow down enough to consider what’s true and real. And always try 
+
+to understand the way other people feel. And be less quick to anger and show appreciation more, and love the people in our lives like we’ve never loved before. If we treat each other with respect and more often wear a smile, remembering that this special “dash” might only last a while. So when your eulogy is read with your life’s actions to rehash. Would you 
+
+be pleased with the things they say about how you spent your “dash”? April 2013 ~ Mariners Weather Log 28 
+
+All anomalies reflect departures from the 1981-2010 base period. 
+
+September-October 2012 
+
+September 500 hPa heights were above average over portions of western North America, the central North Atlantic, 
+
+southeastern Europe, central Siberia, and the high latitudes of the western North Pacific. Below average heights were 
+
+observed over the Bering Sea, Alaska, the Great Lakes region, and the high latitudes of the eastern North Atlantic (Figure 1). The sea level pressure (SLP) pattern mirrored the 500 hPa pattern (Figure 2). October 500 hPa heights were above average over the polar region and below average over the middle latitudes (Figure 3). The SLP pattern largely mirrored the 500 hPa pattern (Figure 4). The above average heights across the high latitudes of both the North Pacific and North Atlantic Oceans indicates a disappearance of both the Aleutian and Icelandic Lows during this period. The 2012 Atlantic Hurricane Season was unusually active (Reference 1), and will be remembered for many years to come by residents across the Northeast and Mid-Atlantic States. The most damaging hurricane of the season, Sandy, was in the process of transitioning to an extra tropical system off the East Coast in late October, when it came onshore in southern New Jersey (Reference 2). The most devastating impacts from Sandy included storm surge flooding and hurricane force wind gusts across western Long Island, the Rockaway’s in southern Queens, 
+
+Figure 1 
+
+Figure 3 
+
+Figure 2 
+
+Figure 4 
+
+# Mean Circulation  highlights and Climate Anomalies September through December 2012 
+
+> Anthony Artusa, Meteorologist, Operations Branch, Climate Prediction Center NCEP/NWS/NOAZ
+> Mean Circulation April 2013 ~ Mariners Weather Log
+
+29 
+
+Staten Island, the New York City subway system, and Seaside Heights, NJ. In this last area, Seaside Heights, an 
+
+iconic roller coaster from an amusement pier was dragged out into the nearby surf, where it remains partially submerged (Reference 3). 
+
+The Tropics 
+
+Slightly warmer than average sea surface temperatures (SST) were observed across the central and east central 
+
+equatorial Pacific. The latest monthly Nino index values for the Nino 3.4 region were +0.5C (Sep) and +0.3C (Oct). 
+
+The depth of the oceanic thermocline (measured by the depth of the 20C isotherm) remained near to slightly above 
+
+average in the east central equatorial Pacific. Equatorial low level easterly trade winds remained close to long term averages across the east central and western equatorial Pacific. Enhanced convection was seen across the western equatorial Pacific and near the Date Line. Collectively, these oceanic and atmospheric anomalies reflect borderline 
+
+ENSO-neutral/weak El Nino conditions. 
+
+November-December 2012 
+
+The 500-hPa circulation pattern during November 2012 featured below-average heights over the Gulf of Alaska, the southeastern US, the 
+
+eastern North Atlantic, central Asia, and the western North Pacific. 
+
+Above-average heights were observed over the high latitudes of the 
+
+North Pacific Ocean, the west-central contiguous United States, and 
+
+southwestern Russia (Figure 5). The sea-level pressure and anomaly map (Figure 6) mirrored the height anomaly pattern fairly well. The month of December was characterized by above average heights near the Aleutian Islands, eastern Canada, Greenland, and Scandinavia. Below average heights were observed over western North America, across the east central North Atlantic and Europe, and over the middle latitudes of central and eastern Asia (Figure 7). The SLP and anomaly 
+
+field (Figure 8) largely mirrored the middle tropospheric circulation 
+
+pattern.  
+
+> Figure 7 Figure 8
+> Figure 5
+> Figure 6
+> Mean Circulation April 2013 ~ Mariners Weather Log
+
+30 An early season nor’easter (November 7-8) brought wind, snow, rain, and storm surge to the Northeast states on the heels of Hurricane Sandy (Reference 4). Some inland areas received over 30cm of snow and more than twenty 
+
+snowfall records were set, in some cases for the first time, at sites from Maryland up to Maine. For instance, Kennedy Airport in New York City reported nearly 11cm of snow, which was unusually early in the season for significant snowfall. High winds, with gusts to 50kt, downed already vulnerable trees and power lines. 
+
+According to the National Climatic Data Center (NCDC), arctic sea ice extent was 12.2 percent below the 1979-2000 average in November, and 8.7 percent below average in December. Antarctic sea ice extent was 2.4 percent above the 1979-2000 average in November, and 1.5 percent above average in December (Reference 5). 
+
+The Tropics 
+
+During November and December 2012, SSTs remained near to slightly above average across the central and east 
+
+central equatorial Pacific, and colder than average over the far eastern equatorial Pacific. The latest monthly Nino indices for the Nino 3.4 region was +0.4C (November) and -0.1C (December). The depth of the oceanic thermocline remained near to slightly above average across the central and east central equatorial Pacific. Equatorial low level easterly trade winds remained slightly enhanced over the west central equatorial Pacific and near average across the east central equatorial Pacific. Enhanced thunderstorm activity and deep convective cloudiness was seen over the western equatorial Pacific in November. During December, convection was suppressed over the western and central equatorial Pacific. Collectively, these oceanic and atmospheric anomalies reflect ENSO-neutral conditions. 
+
+References 
+
+http://www.nhc.noaa.gov/text/MIATWSAT.shmtl http://www.erh.noaa.gov/okx/StormEvents/storm10292012.html http://www.examiner.com/article/historic-roller-coaster-now-lying-atlantic-ocean-destroyed-by-hurricane-sandy http://www.ncdc.noaa.gov/sotc/national/2012/11 http://www.ncdc.noaa.gov/sotc/global/2012/11(12) Much of the information used in this article originates from the Climate Diagnostics Bulletin archive: (http:// www.cpc.ncep.noaa.gov/products/CDB/CDB_Archive_html/CDB_archive.shtml) 
+
+> Figures 1,3,5,7 Northern Hemisphere mean and anomalous 500 hPa geopotential height (CDAS/Reanalysis). Mean heights are denoted by solid contours drawn at an interval of 6 dam. Anomaly contour interval is indicated by shading. Anomalies are calculated as departures from the 1981-2010 base period monthly means. Caption for Sea-Level Pressure and Anomaly: Figures 2,4,6,8 Northern Hemisphere mean and anomalous sea level pressure (CDAS/Reanalysis). Mean values are denoted by solid contours drawn at an interval of 4 hPa. Anomaly contour interval is indicated by shading. Anomalies are calculated as departures from the 1981-2010 base period monthly means.
+> Mean Circulation April 2013 ~ Mariners Weather Log
+
+31 
+
+## North Atlantic Ocean to 31N and  eastward to 35 w, including the Caribbean Sea and the Gulf of Mexico 
+
+Table 1 below shows the non-tropical warning events that occurred across the Tropical Atlantic, Gulf of Mexico, and Caribbean during the period September through December 2012. 
+
+Table 1. Non-tropical Warnings issued for the Atlantic Basin between 01 Sept 2012 and 31 Dec 2012. 
+
+Onset Region Peak Wind Speed Duration Forcing 
+
+1800 UTC 27 Oct Gulf of Mexico 35 kts 12 hr Cold front 0000 UTC 02 Dec Central Atlc 35 kts 36 hr Low pressure 0000 UTC 06 Dec Central Atlc 50 kts 12 hr Low pressure and cold front 1500 UTC 10 Dec Gulf of Mexico 35 kts 15 hr Cold front 1800 UTC 19 Dec SW N Atlc 35 kts 48 hr Cold front 1200 UTC 20 Dec Gulf of Mexico 40 kts 30 hr Cold front 0600 UTC 21 Dec SW N Atlc and Central Altc 35 kts 24 hr Cold front 1800 UTC 26 Dec SW N Atlc 35 kts 09 hr Cold front 0000 UTC 31 Dec SW N Atlc and Central Altc 40 kts 24 hr Cold front 
+
+## Atlantic  highlights 
+
+The Atlantic Basin was very active with tropical cyclones during August of 2012, with three systems persisting into 
+
+the first week of September (Isaac, Kirk, and Leslie). However Atlantic tropical cyclone activity became considerably 
+
+less frequent during September, the peak month of the Atlantic hurricane season, with only two tropical cyclones 
+
+developing during the month, major Hurricane Michael, and Hurricane Nadine, a long lived system. http://www. nhc.noaa.gov/2012atlan.shtml A middle to upper level trough prevailed across the eastern U.S. and Great Lakes region throughout much of the month of September, which limited intrusion of frontal systems deep into the Gulf 
+
+of Mexico or into the tropical North Atlantic. Although the first cold front of the season entered the Gulf of Mexico 
+
+on 9 Sept, no non-tropical warning events occurred across the TAFB Area of Responsibility (AOR) during the 
+
+month. In fact, the first gale event of the season did not occur until 27 October. 
+
+## 27 October Gulf of Mexico Gale 
+
+The first gale warning of the season was issued for the western Gulf of Mexico at 1800 UTC 27 Oct. While most 
+
+weather observers were focused on Hurricane Sandy moving northeastward out of the Caribbean and across the SW N Atlantic, a deep layered trough moved across the western then central U.S. and dragged a slow moving cold front that had been drifting across northwest Gulf quickly southeastward, stalling from the Florida Big Bend to the western Bay of Campeche by late afternoon on 27 Oct. A cold and reinforcing surge of northerly winds behind the 
+
+# Tropical Atlantic and Tropical  east Pacific Areas September through December 2012 
+
+> Scott Stripling and Michael Formosa
+> Tropical Analysis and Forecast Branch,
+> National Hurricane Center, Miami, Florida
+> NOAA National Centers for Environmental Prediction
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+32 front resulted in gales west of 95W and between 22N and 26N from 1800 UTC 27 Oct through 0600 UTC 28 Oct., before the upper trough shifted eastward and began to interact with Sandy. Strong northerly gales were reported from the early morning throughout the afternoon hours of 27 Oct by Shell Oil platform Perdido Host (42390), located across the Texas coastal waters. However, it wasn’t until early afternoon that scatterometer passes showed a broad area of 30-35 kt surface winds that a gale warning was issued at 1800 UTC. 
+
+## Brief comments on hurricane Sandy 
+
+A very comprehensive summary of Sandy can be found at: http://www.nhc.noaa.gov/data/tcr/AL172012_Sandy.pdf 
+
+During Sandy’s passage across the western Atlantic, and prior to landfall and historic flooding across New Jersey and New York, Sandy generated an enormous area of high seas 20 ft and greater that are rarely seen with Atlantic 
+
+hurricanes. The interaction of Sandy with an upper level low to its west, from 25 Oct through 27 Oct, led to an 
+
+expansion of the wind field of Sandy, a hybrid thermodynamic structure, and created a wind and wave distribution 
+
+surrounding Sandy that was extremely atypical of Atlantic hurricanes. 
+
+Wave growth theory indicates that waves are more efficiently created when wind and waves are moving in the same 
+
+direction. Thus, for the Atlantic Basin, maximum wave heights are usually found in the right hand semicircle of tropical cyclones, relative to storm motion. This typically places maximum seas of an Atlantic tropical cyclone in the east or northeast semicircle, and relatively near the center within the zone maximum winds. However, this was not the case as Sandy moved across the SW North Atlantic. Figure 1 below shows a screen capture of data used in real time by TAFB forecasters to evaluate sea state on 28 Oct. The 0655 UTC GOES-E IR satellite image is overlain with NOAA WWIII SWH contours every 3 ft. in white. Also shown, are Jason-1/-2 altimeter data, extending in a narrow path from northeast to southwest, displaying SWH in feet, as well as buoy observations of wave heights, in yellow numerals. Despite the fact that Sandy was only a category one hurricane moving in a northeast direction near 12 kt, maximum seas were not located on the right or eastern side, but instead wrapped around the west and south semicircles and well removed from the center. A 1200 UTC sea state analysis, not shown, revealed that the 30 ft. contour was well removed from the center of Sandy and wrapped from the northwest quadrant, off the North Carolina coast, cyclonically around the south semicircle to almost due east of the center. Maximum seas of 38 ft. were found within this band across the southeast quadrant, while seas to 34 ft were analyzed across the northwest quadrant, and were likely much higher in the Gulf Stream. Sandy proved to be a tremendous wave maker, and not only produced this enormous area of very high seas, but also affected the entire east coast of North America, the 
+
+Bahamas, and the Atlantic coasts of the Caribbean Islands for several days with very large surf, coastal flooding, 
+
+and beach erosion. Sandy will long be remembered throughout the entire region as an historic storm. The unusual  
+
+> Figure 1. GOES-E 0655 UTC IR images, showing Category 1 Hurricane Sandy. NOAA WWIII SWH forecast valid 0600 UTC overlaid, in white (every 3 feet). 0600 UTC ship and NDBC buoy observations of wave heights indicated in yellow numerals (in feet). 0655 UTC Jason-1/-2 altimeter data in bright colors (in feet). Note 30 ft SWH contour extending from west through south semicircles, and NDBC buoy 41047 reporting 29 ft nearly 300 nm to southeast of center of Sandy.
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+33 
+
+structure and resultant wind and wave fields should also serve as an example to all mariners that all hurricanes are 
+
+not created equal. 
+
+## 2 December Atlantic Gale 
+
+In the wake of Hurricane Sandy, marine conditions across the TAFB AOR were considerably less energetic, with no non-tropical warnings issued during the entire month of November. A trough-ridge-trough upper level pattern prevailed across the Atlantic throughout November, with middle to upper level troughs extending into tropical 
+
+waters between 10N and 20N on both sides of the Atlantic. A split upper jet flow pattern became established from 
+
+the eastern U.S. seaboard into the western Atlantic during the last several days of the month, with the southern 
+
+stream flow eventually reenergizing the eastern Atlantic upper trough 30 Nov through 2 Dec. This led to two 
+
+warning events across northeast portions of the AOR in early December. 
+
+On 1 and 2 Dec, a southern stream jet max moved through the base of the eastern Atlantic trough centered between 
+
+20W and 40W, and generated a deep layered cyclone that resulted in a surface low. A lower tropospheric weakness, or inverted trough, that had persisted across this area for several days between 40W and 55W provided the genesis region for the surface cyclogenisis. By late morning of 1 Dec, satellite imagery and scatterometer data indicated that a 1009 hPa surface low had developed near 26.5N42W. A broad zone of fresh to strong south to southeast winds occurring east of the low level trough axis in the previous days was initiating numerous convection across this region, and combined with warm ocean waters to provide a moist and unstable environment for this surface low to strengthen. As the low deepened and become better organized late on 1 Dec, it began to drift north within the middle level trough. Freshening winds across the north and northeast semicircles of this low strengthened quickly during this time, and a gale warning was issued for the north semicircle by 0000 UTC 2 Dec, which had been indicated by global model guidance for several days. A 0012 UTC 2 Dec ASCAT pass, followed by a 0232 UTC OSCAT pass both revealed minimal gale force winds across the north semicircle of the low. Figure 2 shows successive OSCAT passes across the area on 2 Dec, and reveals strong winds across the north semicircle during the overnight hours wrapping cyclonically around the western quadrant by the second 1433 UTC pass. The low continued to shift NNE and out of the area with gales ending by 1200 UTC 3 Dec.  
+
+> Figure 2. NESDIS OSCAT winds from 2 Dec across region of gale center, with 0233 UTC pass on left, and 1433 UTC pass on
+> right. Note area of 20-30 kt winds across north semicircle on left nearly encircling the low center at right, confirming deepening of
+> low center and improved organization.
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+34 
+
+## 6 December Atlantic Storm 
+
+This 2 Dec gale center gradually lifted N-NE into the north Atlantic 3 Dec through 5 Dec and intensified to a deep 984 hPa storm system, and briefly produced hurricane force winds. A frontal zone and low level trough remained 
+
+across this original genesis area, extending through 31N49W to 18N51W by the morning of 5 Dec. The overall middle to upper level synoptic pattern remained unchanged from previous days, and a second speed maximum 
+
+in the southern stream jet moved through the base of the lingering middle level trough, and generated a 1011 hPa 
+
+surface low near 28N45W by 1200 UTC 5 Dec. Deterministic computer model guidance had suggested for several days leading up to the onset of the event that gale force winds would occur in both the northeast and northwest 
+
+quadrants of the low. However, probabilistic model guidance suggested only a minimal chance (<=20%) of gales 
+
+occurring in the cold air in the northwest quadrant of this low, and also well removed from the low center, in the 
+
+warm southerly flow across the eastern semicircle of the low. 
+
+A gale warning was advertised to begin at 0000 UTC 6 Dec, but was upgraded prior to issuance, as several data sources revealed storm force winds occurring in the northwest quadrant of this low. Figure 3 shows a 0045 UTC GOES-E IR image of the low with ASCAT scatterometer winds overlaid. Gale force winds forecast across this northwestern quadrant of the low appear to be enhanced by the burst 
+
+of convection just to the north, with 
+
+the ASCAT wind vectors revealing 
+
+a significant area of 35-45 kt winds 
+
+and a few embedded 50 kt vectors. A later 0234 UTC OSCAT pass also confirmed the existence of storm force winds in the western semicircle. 
+
+Ongoing research and verification by 
+
+the NOAA/NESDIS Ocean Surface Winds Team has shown that ASCAT winds have a slight low bias beginning at wind velocities around 30 kt, and thus this system likely had winds near 60 kt. An opportune overpass by Jason-1/-2 provided altimeter wave heights measurements across the zone of maximum southerly winds occurring east of the low, and 
+
+revealed a significant area of seas 15 
+
+ft and greater with a max of 17 ft. (Figure 4) . Although moderate NW swell was present, gale force winds across this region were necessary to generate these 15-17 ft seas, and thus 
+
+gales were also confirmed across the 
+
+east semicircle of the low. This 996 hPa low center and associated gales lifted quickly north and out of the area by 1200 UTC 6 Dec, and became absorbed in a larger gale across the north Atlantic.   
+
+> Figure 3. GOES-E 0045 UTC IR image with low and frontal positions. 0028 UTC
+> ASCAT winds across the low reveal significant area of 35-45 kt winds across west semicircle (blue and purple barbs, with yellow 50 kt wind flag embedded within this
+> area.
+> Figure 4. NOAA WWIII SWH forecast for 0000 UTC 6 Dec across region of storm center, with Jason-1/-2 altimeter data overlaid. Note area of 15-17 ft values nearly 240 nm long occurring across east semicircle of low, with highest values to 17 ft in green.
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+35 
+
+## 10 December Gulf of Mexico Gale 
+
+The next non-tropical warning event of the season commenced at 1500 UTC 10 Dec behind a cold front dropping into the western Gulf of Mexico. This cold front moved off the Texas coast shortly before 1200 UTC, supported by a sharp upper level trough moving across the Great Plains and into the Great Lakes region. A brief blast of continental artic air forced the front southeastward during the day, with the front reaching from the extreme western Florida Panhandle to near Veracruz, Mexico by 0000 UTC 11 Dec. Northerly winds of 30-35 kt were observed immediately behind the front as it pushed through the Texas and Louisiana coastal waters, where the tanker British Ensign (MMER9) reported northerly gales to 35 kt near 28.9N94.5W at 1800 UTC. Gale force winds became more widespread across the Mexican coastal waters as the front shifted southward during the afternoon, as revealed by an 1803 UTC OSCAT pass. Upper level support began to lift northeast and away from the region after 0000 UTC, and without continued strong cold air advection, the gales behind the front ended by 0600 UTC 11 Dec. 
+
+## 19-21 December Gales 
+
+Three successive gale events occurred during this 3 day period as a series of cold fronts swept quickly across the AOR. Two southwesterly gale events were realized ahead of cold fronts moving across the Atlantic, while one northerly gale occurred in the Gulf of Mexico behind a cold front. On 19 Dec, a 994 hPa low center shifted southeastward off of New England and into the open northwest Atlantic, and deepened to a 984 mb low by 1800 UTC, with southwest gales commencing north of 30N ahead of the associated front stretched across the central Atlantic. As the low and associated front shifted eastward, gales developed by 1200 UTC 20 Dec in narrow zones on both sides of the front north of 29N. Upper level support for the low eventually lifted out across the northeast Atlantic, and gales ended ahead of the front by 0000 UTC 21 Dec, and then ended behind the front by 1800 UTC 21 Dec. Meanwhile, a cold front dropped into the northwest Gulf of Mexico after 0900 UTC 20 Dec, and gales commenced shortly after the front moved southeast and offshore, by 1200 UTC. By 1800 UTC, this front stretched from the Florida Panhandle to near Tuxpan, Mexico, with several observations of gales throughout the afternoon. The Discoverer Spirit (V7HC8) reported 39 kt near 27.3N90.8W at 1800 UTC, while Shell platform Auger - Garden Banks 426 (42361) reported 35 kt gales from 1630 to 1930 UTC and Perdido Host (42390) reported a peak wind of 43 kt at 1830 UTC. A 1627 UTC ASCAT pass, Figure 5, showed a large area of 30-40 kt winds behind the front and west of 94W, with peak winds offshore of Tampico, Mexico, of 40 to 45 kt. Given  
+
+> Figure 5. NESDIS ASCAT winds from 1627 UTC 20 Dec pass showing gales behind cold front in the Gulf of Mexico. Documented low bias of ASCAT at higher velocities suggests that winds could have been near 50 kt off Mexican coast near Tampico, in area of purple wind vectors.
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+36 the known low bias of ASCAT at these wind speeds, storm force winds likely occurred there. By 1200 UTC 21 Dec 
+
+the front had reached from the Florida Keys to the Yucatan Peninsula, with minimal gales still occurring across 
+
+the western Bay of Campeche, before gales ended by 1800 UTC. At 0600 UTC 21 Dec, minimal gales began north of 30N on both sides of this same frontal boundary, as it shifted eastward off of north Florida and into the Atlantic, and were captured later that morning by a 1425 UTC ASCAT pass. As the front continued to shift eastward, minimal gales continued in a narrow 90 nm zone north of 29N and east of the front through 1800 UTC, and north of 30N west of the front. Northwest gales of 35 kt 
+
+were confirmed behind the front at 1800 UTC by the Livorno Express (ZCDV9) near 30N79.5W, before the gales shifted north of the area at 0600 UTC 22 Dec. 
+
+## 26 December Atlantic Gale 
+
+A short-lived gale event occurred across northwest portions of the TAFB Atlantic AOR as a 1000 hPa low center moved eastward across Texas, Louisiana and Mississippi on 25 Dec, and then moved northeastward across the southeast U.S. and to the North Carolina coast, deepening to a 993 hPa storm center. This system was spawned 
+
+from a broad upper level trough across the central U.S. shifting northeastward, with a strong southern stream jet 
+
+moving through the base of the trough, and across the northern Gulf, acting to gradually intensify the surface low. An associated cold front dragged across the Gulf of Mexico and then across Florida and into the SW North Atlantic during this period. South to southwest gales were observed ahead of the front by 1800 UTC on 26 Dec, as the front began to emerge off of NE Florida, with gales shifting northeast and out of the area within 9 hours. 
+
+## 31 December Atlantic Gale 
+
+The 31 December gale developed under a very similar synoptic pattern as the 26 December system. The surface low responsible for the 26 Dec gale continued to shift northeastward along the coast of the New England states, embedded within the base of the upper trough. This deep layered low pressure system then shifted northeastward into the Canadian Maritimes, became stationary and weakened 27 through 29 Dec. Left in its wake was another upper trough across the central U.S. However, in contrast to the previous gale development, the associated 
+
+subtropical jet was located farther north across the Gulf coast states. Another surface low developed over Texas 
+
+on 28 Dec. and shifted northeastward, reaching the South Carolina coast by 1200 UTC 29 Dec., then continued to shift northeastward and became absorbed in a 964 mb low along the coast of Nova Scotia by 1200 UTC 30 
+
+Dec. The associated cold front then extended from the low to just southeast of Bermuda to the far northwest 
+
+Caribbean at that time. Minimal gales developed north of 30N on both sides of the front by 0000 UTC 31 Dec 
+
+and increased briefly northwest of the front to 40 kt by 0600 UTC. The low over Nova Scotia remained relatively 
+
+stationary and began to occlude by 1200 UTC, with the cold front moving eastward, from 31N53W to the Windward Passage. Gales east of the front shifted north of the area at that time, but continued north of 29.5N west of the front until shifting north of the area by 0000 UTC 1 Jan. Seas behind the front had built to 20 to 24 ft in northwest swell by this time. 
+
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+37 
+
+## eastern North Pacific Ocean to 30N and  east of 140 w
+
+The fall and winter months are an active time for gale and storm events in this portion of the Eastern Pacific. The majority of the events typically occur in the Gulf of Tehuantepec. True to form this 2012 season produced 11 Gulf of Tehuantepec gale and storm events, and one other Eastern Pacific gale event near 13N 133W. Table 2 provides details on these events. Ship reports are a vital source of data in verifying gale and storm events. A few choice ship reports that directly 
+
+verified some of this season’s gales are enumerated in Table 3 . Some wind speeds are not measured at the standard ten meter level and thus may be high. 
+
+Table 2. Non-tropical cyclone Warnings issued for the East Pacific Basin between 01 Sep 2012 and 31 Dec 
+
+2012. 
+
+Onset Region Peak Wind Speed GALE/ STORM Duration 
+
+1200 UTC 03 Oct Gulf of Tehuantepec 40 kts 12 hr 0600 UTC 07 Nov Gulf of Tehuantepec 40 kts 66 hr 1200 UTC 12 Nov Eastern Pacific 35 kts 24 hr 0600 UTC 13 Nov Gulf of Tehuantepec 35 kts 114 hr 1200 UTC 18 Nov Gulf of Tehuantepec 35 kts 06 hr 0000 UTC 19 Nov Gulf of Tehuantepec 35 kts 84 hr 1200 UTC 24 Nov Gulf of Tehuantepec 40 kts 36 hr 0600 UTC 28 Nov Gulf of Tehuantepec 45 kts 42 hr 0600 UTC 13 Dec Gulf of Tehuantepec 35 kts 18 hr 1200 UTC 21 Dec Gulf of Tehuantepec 50 kts 18 hr / 36 hr 0600 UTC 27 Dec Gulf of Tehuantepec 35 kts 12 hr 0000 UTC 30 Dec Gulf of Tehuantepec 50 kts 42 hr / 6 hr 
+
+Table 3. Ship reports that verified gale events over the Gulf of Tehuantepec between 01 Sep 2012 and 
+
+31 Dec 2012. 
+
+TIME/DATE SHIP LOCATION WIND SPEED and SEAS 
+
+0300 UTC 03 Oct Statendam (PHSG) 15.3N 94.8W 40 kts 12ft 1900 UTC 03 Oct Island Princess (ZCDG4) 14.5N 95.7W 45 kts 9 ft 0200 UTC 04 Oct Norwegian Pearl (C6VG7) 15.3N 94.9W 45 kts 18 ft 0300 UTC 09 Nov Westerdam (PINX) 15.3N 95.1W 50 kts 3 ft 0200 UTC 14 Nov Spruce Arrow (C6SD9) 15.6N 95.4W 51 kts 6 ft 1200 UTC 17 Nov Hoechst Express (DHER) 14.1N 95.4W 44 kts 12 ft 1200 UTC 19 Nov Conti Salome (A8LL8) 13.5N 95.5W 40 kts 6 ft 0800 UTC 22 Nov Island Princess (ZCDG4) 14.9N 95.8W 50 kts 9 ft 1800 UTC 24 Nov Elektra (9V8798) 14.3N 96.4W 35 kts 6 ft 2100 UTC 27 Nov Celebrity Infinity (9HJD9) 14.8N 94.8W 40 kts 6 ft 1800 UTC 21 Dec Clan Tribune (ELXU2) 14.9N 95.5W 51 kts 21 ft 1200 UTC 30 Dec Ever Diadem (9V7955) 14.8N 95.0W 35 kts 20 ft 2300 UTC 30 Dec Saga Future (VRKX8) 14.3N 96.0W 37 kts 15 ft 
+
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+38 The Gulf of Tehuantepec wind events are usually driven by mid-latitude cold frontal passages through the narrow Chivela Pass in the Isthmus of Tehuantepec. The northerly frontal winds from the southwest Gulf of Mexico produces gap wind events through the pass delivering stronger winds into the Gulf of Tehuantepec. The events are of various duration with the longer events associated with reinforcing secondary fronts in the Gulf of Mexico. The events are usually void of precipitation in the Gulf of Tehuantepec, thus scatterometer 
+
+imagery does not have rain contamination problems. The gale events in October, November, and the first half of December 2012 were influenced by weaker frontal passages in the Gulf of Mexico that did not reach 
+
+the Bay of Campeche. The frontal passages in the second half of December 2012 reached the Isthmus of 
+
+Tehuantepec and produced storm-force wind events. A discussion of the most significant gale and storm 
+
+events follows below. 
+
+## 21 December Gulf of Tehuantepec Storm  event 
+
+A gale event in the Gulf of Mexico behind a cold front on 21 Dec 2012 produced a storm event in the Gulf of Tehuantepec (Figure 6) . Note that the 1033 hPa High over south Texas significantly increased the surface pressure gradient over the Gulf of Mexico and southern Mexico. An Indian Oceansat-2 Scattereometer (OSCAT) pass captured the event in both the Bay of Campeche and the Gulf of Tehuantepec. A 50 kts wind barb was noted in the Gulf of Tehuantepec (Figure 7) . This event lasted a little more than two days. Stor m conditions abated to gale conditions on the second day.  
+
+> Figure 6. National Weather Service Unified Surface Analysis (USA) valid
+> 1800 UTC 21 December 2012.
+> Figure 7.
+> Indian Oceansat-2 Scatterometer (OSCAT) pass valid at 1855 UTC 21 December 2012. Note the 50 kts wind barb near the Gulf of Tehuantepec.
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+39 
+
+## 30 December Gulf of Tehuantepec Storm  event 
+
+A cold front exited the Gulf of Mexico on 30 Dec 2012 (Figure 8) . This time a 1034 hPa High was farther north over Mississippi. The surface pressure gradient was not strong enough to produce a gale over the Gulf of Mexico, however, another Gulf of Tehuantepec gale/storm event started on 30 Dec 2012 and lasted two days. Storm conditions were experienced for a six hour period at the onset of the event. An OSCAT pass and a European Advanced Scatterometer (ASCAT) pass captured the event ( Figures 9 and 10 ).    
+
+> Figure 8. National Weather Service USA valid 1200 UTC 30 December 2012.
+> Figure 9. OSCAT pass valid at 0550 UTC 30 December 2012.
+> Figure 10. European Advanced Scatterometer (ASCAT) pass valid at 1623 UTC 30 December 2012.
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+40 
+
+## 12 November  east Pacific Gale  event 
+
+A gale event occu r red nor th of the i n t e r t r o p i c a l c o n v e r g e n c e z o n e n e a r 13N 133W o n 12 N o v 2 012 
+
+(Figure 11). A high amplitude trough extended from 15N 132W to 09N 136W moving west at 5 to 10 kts. 35 kts gale force winds were within 240 nm northwest of the trough. Winds east of the trough were only 10 kts. An area of very active convection was also over the trough. An OSCAT pass and an ASCAT pass captured the event, which lasted for about 24 hours (Figures 12 and 13).    
+
+> Figure 12. OSCAT pass valid at 0906 UTC 12 November 2012. Note the 35 kts winds along and to the west of the surface trough.
+> Figure 11. National Weather Service USA valid 1800 UTC 12 November 2012.
+> Figure 13. ASCAT pass valid at 1758 UTC 12 November 2012. Note the area of 25-30 kts winds along and to the northwest of the surface trough.
+
+## Acknowledgements 
+
+The authors would like to extend their sincere thanks for the outstanding graphical and editing support 
+
+provided by NHC Scientific Illustrator, Joan David. 
+
+## References 
+
+Soisuvarn, S.; Jelenak, Z.; Chang, P.S.; Qi Zhu 
+
+“A revised geophysical model function for the advanced scatterometer (ASCAT) at NOAA/NESDIS”, Geoscience and Remote Sensing Symposium (IGARSS), 2010 IEEE International 
+
+> Tropical Atlantic and Tropical East Pacific Areas April 2013 ~ Mariners Weather Log
+
+41 
+
+Introduction 
+
+The pattern over the North Atlantic during this period was generally progressive with developing cyclones tracking northeast toward the area east of Greenland to the vicinity of Iceland. Several of these developed storm force winds while passing over northern waters especially in the late summer period of August and Septe hPaer, and in October. 
+
+The first hurricane force lows of non tropical origin formed in the Labrador Sea south of Greenland in the second 
+
+week of October and included the two deepest cyclones of the period. After a quiet July in which no tropical cyclones formed, the August to October period was quite active with eight tropical systems crossing 31N into OPC’s area of marine responsibility. This nu hPaer does not include those storms that affected only areas to the south of OPC’s area. Six were hurricanes and two were tropical storms, generally moving north and then northeast into the Westerlies. An exception was Hurricane Sandy which made an unusual turn toward the west and made landfall on the mid Atlantic coast of the U.S., and Nadine spent more than two weeks on a looping path in the subtropics before entering the Westerlies becoming a post tropical low. Rafael and Sandy 
+
+briefly developed hurricane force strength while transitioning into post tropical (extratropical) lows. More detailed 
+
+information on tropical cyclones may be found in NHC’s post season summaries (Reference 2). 
+
+Tropical Activity 
+
+Hurricane Gordon: Tropical Storm Gordon entered OPC’s marine area near 31N 55W on the night of August 15 with maximum sustained winds of 35 kt. Early on the 18 th Gordon became a 65 kt hurricane near 34N 41W with the peak intensity occurring on the evening of the 18 th when Gordon developed top sustained winds of 95 kt while passing near 
+
+35N 34W. This was a strong Category 2 on the Saffir Simpson scale ( Reference 3 ). Gordon then began to weaken while tracking northeast with its winds dropping to tropical storm strength on the afternoon of the 20 th , and transition to a post tropical gale followed in the following evening as the center passed near 39N 20W. The remains of Gordon then turned toward the southeast and dissipated off Portugal late on August 21. Hurricane Kirk: Hurricane Kirk passed near 51N 51W with maximum sustained winds 90 kt while accelerating northeast and beginning to weaken on the afternoon of August 31. Kirk weakened to a minimal hurricane (65 kt) the following night and to a 50 kt tropical storm on the evening of September1 st while passing near 41N 42W. Figure 8 shows Tropical Storm Kirk at 1200 UTC September2nd twelve hours before becoming absorbed by an approaching cold front trailing from a rapidly developing low near Greenland. Tropical Storm Leslie: Leslie, a hurricane well south of Bermuda on September 6 th , moved north and passed just 
+
+east of Bermuda on the afternoon of the 9 th as a tropical storm with maximum sustained winds of 50 kt. The winds strengthened to 60 kt late on the 10 th as the cyclone accelerated northeast toward the island of Newfoundland. The Canadian buoy 44139 (44.2N 57.1W) reported an east wind of 47 kt with gusts to 60 kt and 5.5 meter seas (18 feet) at 0500 UTC on the 11 th , a pressure of 971.5 hPa two hours later and maximum significant wave heights of 10.0 meters 
+
+(33 feet) at 0900 UTC September 11th. The Phoenix Light (HPHV) near 37N 57.5W reported southeast winds of 55 kt and 12.8 meter seas (42 feet) at 1800 UTC on the 10 th . A Jason radar altimeter pass six hours later detected seas of 
+
+# Marine  weather Review – North Atlantic Area July to October 2012 
+
+> By George P . Bancroft NOAA/ National Center for Environmental Prediction/ Ocean Prediction Center College Park, MD
+> North Atlantic Area April 2013 ~ Mariners Weather Log
+
+42 41 feet north of that location near 41N 57W. The Norwegian Gem (C6VG8) encountered northwest winds of 55 kt and 7.9 meter seas (26 feet) near 46N 59.5W at 0700 UTC on the 11 th . Figure 1 depicts Tropical Storm Leslie crossing the island of Newfoundland during transition to a post tropical storm. St. John’s, Newfoundland reported south winds of 51 kt with gusts to 71 kt at 1300 UTC on the 11 th . Hibernia Platform (46.7N 48.7W) reported south winds of 58 kt at an anemometer height of 139 meters at 1200 UTC on the 11 th , and GSF Grand Banks (YJUF7, 46.7N 48.0W) 
+
+encountered south winds of 53 kt three hours later, at a height of 82 meters. Leslie became a post tropical storm force low while passing northeast of Newfoundland at 1800 UTC September11. The second part of Figure 1 shows Post tropical Leslie passing east of Greenland with its lowest central pressure of 966 hPa at 1200 UTC on the 12th. The cyclone then passed near Iceland the next day and then became a large gale northeast of Iceland on the 14 th .Hurricane Michael: Michael approached from south of the area near 30N 41W late on September 6th with maximum 
+
+sustained winds of 100 kt with gusts to 120 kt and was the only major hurricane of the season (Category 3 or higher on the Saffir Simpson scale). Michael drifted northwest over the subtropical waters well southwest of the Azores Islands 
+
+with sustained winds of 85 to 90 kt on the 7 th and 8 th , before turning west near 34N 43W on the 9 th with sustained winds of 80 kt. Michael then began to accelerate north ahead of an approaching cold front on September10th and its winds weakened to tropical storm strength the following night. Figure 1 shows Michael as a tropical storm southeast of the larger Leslie becoming a post tropical low on the front the next day. The remains of Michael then merged with post tropical Leslie to become the large gale northeast of Iceland mentioned above. Hurricane Nadine: Figure 1 shows the beginnings of Nadine well south of OPC’s marine area. Nadine became a long lived cyclone, spending the period from September 15th to October 4 th in OPC’s area. It became a hurricane on two separate occasions, on September 15 th and later again on the 28 th . The cyclone after initially moving east along 31N on the 15 th and 16 th , headed northeast toward the Azores Islands on the 17 th and 18 th and then made three loops over the subtropical waters to the southwest and south of the Azores from the 19 th to October 2nd. During this time Nadine was a medium strength tropical storm and for a period from late on 21 st through the 22 nd was subtropical or post tropical before regaining tropical characteristics south of the Azores near 31N. After regaining hurricane strength near 33N 36W on the afternoon of the 29 th , Nadine moved northwest and made a final loop while attaining a maximum intensity 
+
+of 80 kt on the 30 th . A weakening trend set in thereafter as the cyclone made a turn toward the east and then northeast on October 1 st and 2 nd , weakening to a tropical storm on the afternoon of the 1 st and finally becoming a post tropical 
+
+gale while passing north of the Azores on the 4 th . The remains of Nadine merged with a larger low to the southwest by the 6 th over the central North Atlantic. At 2100 UTC September20th the Maersk Utah (WKAB) reported northeast winds of 40 kt and 4.3 meter seas (14 feet) near 41N 28W. The Berge Nantong (VRBU6) near 33N 39W encountered west winds of 35 kt and 9.0 meter seas (30 feet) at 2000 UTC October 1st. Hurricane Rafael: Rafael moved north northeast into OPC’s marine area as a 75 kt hurricane late on October 16 th ahead of an approaching cold front (Figure 2) and became a post tropical hurricane force low with a 972 hPa center near 40N 56.5W at 2100 UTC October 17 th , when the National Hurricane Center issued the last advisory on Rafael. The second part of Figure 2 and an infrared satellite image (Figure 3) show Rafael three hours later with frontal features found in a non tropical low but still retaining a partial circular central dense overcast found in tropical cyclones. The Sea Land Meteor (WDB9951) near 41N 44W reported south winds of 45 kt and 4.9 meter seas (16 feet) nine hours later. Hibernia Platform (VEP717, 46.7N 48.7W) reported north winds of 59 kt at 1200 UTC on the 18 th , while Terra Nova FPSO (VCXF, 46.4N 48.4W) encountered north winds of 48 kt and 4.0 meter seas (13 feet). Buoy 44011 (39.9N 61.4W) reported north winds 35 kt with gusts to 45 kt at 1500 UTC on the 17 th , and highest seas 6.5 meters (21 feet) seven hours later. Extratropical Rafael then moved out over the North Atlantic and absorbed the storm in the Labrador Sea (Figure 2) by 0000 UTC October 20 near 56N 35W, when it developed its lowest central pressure of 966 hPa. The merged system then moved southeast and began to weaken with the winds decreasing to gale force on the morning of the 21 st , near 49N 30W. The weakening center then drifted east along 41N from the 23 rd through the 25 th and passed inland over Portugal and Spain on October 26th. 
+
+> North Atlantic Area April 2013 ~ Mariners Weather Log
+
+43     
+
+> OBSERVATION POSITION DATE/TIME (UTC) WIND SEA(m/f)
+
+Sea Land Mercury (WKAW) 32N 78 w
+
+33.5N 76 w
+
+35N 75 w
+
+> 27/1800 28/1500 29/0300 N 72 N 60 N 60 14.3/47
+
+Saimaagracht (PHCQ) 32.5N 79.3W 27/1800 N 55 
+
+Maersk Kentucky (WKPY) 41N 67W 29/1800 SE 45 10.7/35 Buoy 41048 32.0N 69.5W 28/2300 29/0000 29/0200 SW 45 G56 Peak gust 60 Maximum 11.5/34 12.0/39 Buoy 41002 31.9N 74.8W 28/1800 28/2000 NW 47 G60 Maximum 8.5/28 9.0/30 Buoy 41001 34.6N 72.6W 29/0700 29/1400 NW 52 G66 Peak gust 74 Maximum 10.0/33 Buoy 44014 36.6N 74.8W 29/0700 Maximum 8.5/28 Buoy 44009 38.5N 74.7W 9/2100 29/1100 29/2100 W 45 G58 Peak gust 66 Maximum Pressure 956.4 6.0/20 7.5/25 Buoy 44025 40.2N 73.2W 29/1900 29/2300 NE 49 G64 Maximum 8.0/26 9.5/31 Buoy 44008 40.5N 69.2W 29/1600 29/1700 29/2100 E 43 G56 Peak gust 58 Maximum 9.5/31 11.0/36 Buoy 44005 43.2N 69.1W 29/2000 30/0500 E 35 G45 Maximum 7.0/23 8.5/28 
+
+Cape Lookout (CLKN7) 34.6N 76.4W 28/1100 N 39 G48 
+
+Matinicus Rock (MISM1) 43.8N 68.7W 30/0600 E48 G54 Peak gust 58  
+
+> Table 1. Selected ship, buoy and C/MAN platform observations taken during passage of Hurricane Sandy.
+
+Hurricane Sandy: Sandy, like other tropical cyclones during this period originated south of OPC’s marine area, but followed a track northward closer to the U.S. east coast and made the unusual westward turn to hit the heavily populated mid-Atlantic and northeast U.S. coast (Figure 4). The second part of Figure 4 shows Sandy when it was most intense off the U.S. coast with sustained 80 kt winds and a lowest central pressure of 940 hPa a few hours before landfall. The infrared satellite image of Sandy taken close to the 29/2100 UTC advisory time (Figure 5) reveals frontal features and an extensive cloud shield extending well inland as Sandy was becoming extratropical. Marine observations taken during Sandy listed in Table 1 include numerous reports of winds above 50 kt and seas higher than 9 meters (30 feet). At 0000 UTC October 30th Sandy was onshore near 39.5N 75W as a post tropical hurricane force low. The cyclone then weakened inland over the mid-Atlantic states and its top winds diminished to gale force the next morning. Post tropical Sandy then drifted northwest and then north over the following two days and moved into Canada by November 1st. Tropical Storm Tony: Tony was a short lived cyclone entering OPC’s marine area near 31N 36W on the morning of October 25th as a minimal tropical storm with maximum sustained winds of 35 kt. Tony moved east northeast and weakened to a post tropical 1004 hPa low near 32N 33W the following evening. The remains of Tony then drifted east over the following three days and dissipated late on the 28 th while Hurricane Sandy was still off the U.S. east coast. 
+
+> North Atlantic Area April 2013 ~ Mariners Weather Log
+
+44 
+
+Other Significant  events of the Period 
+
+North Atlantic Storm, July 20 22: An unseasonably deep low developed over the far northern Atlantic waters in late July with storm force winds, a time of year when the North Atlantic is least active. It originated as a frontal wave of low pressure over the western Gulf of St. Lawrence early on July 18th and tracked northeast off the southern Labrador coast by early on the 19 th . Figure 6 depicts the development of this system over the following two and one half days, with the second part of Figure 6 showing the cyclone at maximum intensity. An ASCAT image at 2153 UTC on the 21 st revealed remotely sensed winds to 45 kt on the northwest side. Due to the low bias of ASCAT, actual winds were likely at least 50 kt. The Maasdam (PFRO) near 58N 42W reported east winds of 45 kt at 2200 UTC on the 19 th , followed by a report of east winds 40 kt and 6.0 meter seas (20 feet) near 58N 41W two hours later. The 
+
+Jenny N (A8PQ7) near 51N 35W encountered southwest winds of 35 kt and 9.0 meter seas (30 feet) at 1200 UTC on the 21 st . The cyclone subsequently weakened to a large gale southwest of Iceland on the 22 nd before passing northeast of Iceland on July 24 th .
+
+Northeastern Atlantic Storm, August 14-16: A storm developed just southwest of the British Isles in mid-August 
+
+from a merging of several low pressure areas over the eastern North Atlantic (Figure 7) over a twenty four hour period. The second part of Figure 7 shows the cyclone at maximum intensity in terms of central pressure. At 1000 UTC, August 15th the Yorktown Express (WDD6127) near 49N 14W reported northwest winds of 52 kt. The ship BATFR54 encountered southwest winds of 43 kt at 1200 UTC on the 15 th . Buoy 62023 (51.4N 7.9W) reported southeast winds of 48 kt with gusts to 58 kt and 5.5 meter seas (18 feet) at 1400 UTC on the 15 th , and a peak gust 60 kt one hour later. The same buoy reported highest seas of 7.5 meters (25 feet) at 1600 UTC on the 15 th . Buoy 62163 (47.5N 8.4W) at 0700 UTC on the 15 th reported southwest winds 35 kt and 5.0 meter seas (16 feet), followed by a report of 7.0 meter seas (23 feet) four hours later. The cyclone subsequently made a counterclockwise loop west of the British Isles over the next three days with its winds dropping to gale force by the 16 th . The cyclone then turned north and stalled for several days between Scotland and Iceland while weakening, and then dissipated off the coast of southern Norway by the 25 th .
+
+North Atlantic Storm, August 29-31: A new low formed near the southern Labrador coast with a 991 hPa center at 0600 UTC August 29th and moved northeast to 58N 46W over the following twenty four hours where it developed a lowest central pressure of 982 hPa. The center drifted northwest with a new center forming east of Greenland on the 30 th and moving northeast. OPC analyzed this system as a storm force low from 0600 UTC on the 30 th until 1200 UTC on the 31 st . The cyclone then weakened and re-formed north of Iceland late on the 31 st . The Atlantic Cartier 
+
+(SCKB) reported southwest winds of 40 kt and 6.5 meter seas (21 feet) near 50N 39W at 1200 UTC on the 30 th and the Jaeger Arrow (C6RM7) encountered similar conditions near 53N 26W) at 0800 UTC on the 31 st .
+
+Northeastern Atlantic Storm, September2-4: An open wave of low pressure off the southern coast of Greenland rapidly developed over the thirty six hour period ending at 0000 UTC September 4th while absorbing Tropical Storm Kirk (Figure 8). The central pressure fell 28 hPa in the twenty four hour period ending at 0000 UTC on the 4 th resulting 
+
+in a 962 hPa low just northeast of Iceland near 65N 13W in the second part of Figure 8, the deepest cyclone of the 
+
+period up to this time. This rate of intensification qualifies this development as a meteorological “bomb” (Sanders 
+
+and Gyakum, 1980). The Stena Carron (2BKQ8) reported southwest winds of 45 kt and 7.9 meter seas (26 feet) near 61N 3W at 0900 UTC on the 4 th . The West Navigator (3ERR2) near 63N 5E encountered southwest winds of 45 kt at 1200 UTC on the 4 th and, nine hours later, seas of 8.5 meters (28 feet). Buoy 64045 (59.1N 11.7W) reported west winds of 36 kt and 8.5 meter seas (28 feet) at 0900 UTC on the 4 th , followed three hours later by a report of 9.5 meters (31 feet). The cyclone moved northeast from Iceland and weakened by the 5 th .
+
+North Atlantic Storm, September3-8: Originating as a low pressure wave over the southwestern waters near 37N 62W at 1800 UTC September 2nd, this cyclone passed 350 nm south of the island of Newfoundland late on the 3 rd 
+
+where it briefly developed storm force winds. The Atlantis (KAQP) near 41N 55W reported northeast winds of 45 kt at 2100 UTC on the 3 rd . The cyclone then moved northeast out over the North Atlantic where it again became a storm, 
+
+> North Atlantic Area April 2013 ~ Mariners Weather Log
+
+45 passing near 51N 37W with a 992 hPa central pressure at 1200 UTC on the 7 th . The ship VRY03 reported east winds of 50 kt and 4.0 meter seas (13 feet) near 54N 41W six hours later. The cyclone then tracked northeast and weakened to a gale the next day and then passed northeast of Iceland on the 9 th .Northwestern Atlantic Storms, October 11-16: Two intense cyclones developed in close succession over the northwestern 
+
+waters in mid- October and became the first hurricane force lows of the period of non tropical origin. The first low 
+
+originated near the mid-Atlantic coast on the morning of the 10 th with the central pressure falling 36 hPa as it tracked from New Brunswick to 56N 58W in the twenty four hour period ending at 0600 UTC on the 12 th , when it developed a lowest central pressure of 960 hPa. The cyclone drifted north in the following twelve hours and developed hurricane force winds off the southwest Greenland coast. The cyclone then drifted west and then southeast from the 12 th into the 13th while new development occurred east of Newfoundland (Figure 9). The rapidly intensifying new low absorbed the old low and developed a lowest central pressure of 958 hPa off southern Greenland, the deepest in the North Atlantic in the four month period. The central pressure fell 41 hPa in the twenty four hour period ending at 1200 UTC on the 14 th . The ASCAT imagery in Figure 10 reveals winds to 60 kt between the center and the southwest Greenland coast, and the retrieved winds have a low bias. The cyclone then drifted southeast over the following two days with winds weakening to gale force, before becoming absorbed by another low passing to the southeast late on the 16 th .
+
+Northeastern Atlantic Storm, October 30 th -November 2nd: The initial developing of this system into a 963 hPa storm near the Faroe Islands is depicted in Figure 11. The cyclone was at maximum intensity at that time. Secondary development occurred on the front over southern England early on November 1st and moved rapidly north, developing a lowest central pressure of 964 hPa near 63N 9W at 0600 UTC November 2nd and replacing the old low. The Aleksandr Suvorov (UCAD) near 59N 4E reported south winds of 60 kt at 1200 UTC on the 1 st . Six hours later the Mikhail Strekalovsky (UCKA) encountered southeast winds of 68 kt near59.5N 4E. Buoy 64045 (59.1N 11.7W) reported north winds of 35 kt and 7.5 meter seas (25 feet) at 0200 UTC on the 2 nd , and 8.0 meter seas (26 feet) one hour prior. A 25 km ASCAT image at 1941 UTC on the 1 st revealed north winds to 55 kt just east of Iceland. The cyclone then drifted 
+
+to the southwest and then southeast and weakened over the British Isles on the 3 rd and 4 th .
+
+## References 
+
+Sanders, Frederick and Gyakum, John R., Synoptic Dynamic Climatology of the “Bomb”, Monthly Weather Review, October 1980. Tropical Cyclone Reports, 2012 Atlantic Hurricane Season, National Hurricane Center http://www.nhc.noaa.gov/2012atlan.shtml 
+
+Saffir Simpson Scale of Hurricane Intensity, http://www.nhc.noaa.gov/aboutsshws.php http://manati.star.nesdis.noaa.gov/products.php 
+
+> North Atlantic Area April 2013 ~ Mariners Weather Log
+
+46 
+
+Introduction 
+
+The weather pattern over the North Pacific started with a pattern more typical of midsummer with low pressure systems passing northeast across the northern waters of the Pacific toward the Aleutian Island, Bering Sea and Alaska. The 
+
+weather in September and October became more active with the stronger cyclones developing storm or even hurricane force winds, with some of the strong systems tracking more toward the Gulf of Alaska as the season progressed into fall. 
+
+Tropical cyclones in the northwestern Pacific were most active from August to October and some of these became strong 
+
+post tropical lows while re-curving northeast into the Westerlies especially in late September and October. Two of these developed hurricane force winds as post tropical (or extratropical) lows. 
+
+Tropical Activity 
+
+Tropical Storm Khanun: Tropical Depression 08W formed from a stationary non tropical low near 23N 139E south of Japan at 1800 UTC July 15th and moved west northwest, becoming Tropical Storm Khanun near 25N 134E at 1200 UTC on the 16 th with sustained winds of 35 kt. The cyclone developed winds to 40 kt as it moved west of 130E by the 17 th .
+
+OPC’s oceanic radio facsimile chart area extends to 136E but the National Weather Service’s Unified Analysis ( http:// www.opc.ncep.noaa.gov) extends to 130E. 
+
+Typhoon Bolaven: Tropical Storm Bolaven moved northwest and was well south of Tokyo near 17N 141E moving northwest and intensifying at 0600 UTC July 20th. Bolaven passed near 18N 140E as a 65 kt typhoon early on the 21 st 
+
+and continued to strengthen, attaining major typhoon status by 1800 UTC on the 23 rd near 20N 133E with maximum sustained winds 105 kt with gusts to 135 kt. Bolaven passed west of the area shortly thereafter. 
+
+Typhoon Damrey: Damrey developed from a non-tropical low near 26N 147E southeast of Japan at 1200 UTC on July 28th when it became a tropical storm with sustained winds 40 kt. Damrey drifted west and varied in intensity, not exceeding 45 kt for sustained winds until early on the 30 th when Damrey began to strengthen in earnest. Damrey became a 65 kt typhoon near 30N 131E late on July 31st and moved west of the area shortly thereafter. 
+
+Tropical Storm Haikui: A non-tropical gale force low developed near 23N 146E early on August 1st and remained nearly stationary, becoming Tropical Depression 12W on the afternoon of the 2 nd and Tropical Storm Haikui 24N 140E six hours later, when it developed 35 kt sustained winds and began west northwest motion. Haikui strengthened and developed 45 kt sustained winds early on the 4 th near 26N 131E as it passed west of the area. The Green Ridge (WZZF) near 34N 138E reported east winds 35 kt and 4.0 meter seas (13 feet) at 0600 UTC August 4th. 
+
+Tropical Storm Kirogi: A non-tropical low formed near 21N 157E early on August 1st and drifted east, developing gale force winds late on the 2 nd near 24N 160E. The low became Tropical Depression 13W near 24N 162E at 1800 UTC on the 4 th and a tropical storm twelve hours later near 24N 162E with sustained winds 35 kt. The cyclone took a turn toward the north and then northwest with intensity varying between 35 kt and 45 kt until early on the 8 th . The cyclone developed a peak intensity of 45 kt for sustained winds while passing near 29N 162E at 0000 UTC August 7th before weakening to a 35 or 40 kt tropical storm from the 7 th to early on the 9 th and was named Kirogi at 0600 UTC on the 8 th while passing near 32N 158E. Kirogi underwent extratropical transition on the 9 th while continuing to gain latitude and 
+
+# Marine Weather Review – North Pacific Area 
+
+## July to October 2012 
+
+> George P . Bancroft NOAA National Center for Environmental Prediction/ Ocean Prediction Center College Park, MD
+> North Pacific Area April 2013 ~ Mariners Weather Log
+
+47 became a post tropical gale near 41N 149E with a 1000 hPa central pressure by 0000 UTC on the 10 th . The Star Hidra 
+
+(LAVW4) reported east winds 35 kt and 4.3 meter seas (14 feet) near 44N 149E six hours later. Post tropical Kirogi then passed north and then northeast through the Sea of Okhotsk as a gale force low on the 10 th and 11 th , developing a central pressure as low as 987 hPa at 1800 UTC on the 11 th before moving inland over Russia late on the 11 th .
+
+Tropical Storm Ewiniar: Tropical Depression 19W formed from a non tropical low near 16N 140E late on September 23rd and moved north, becoming Tropical Storm Ewiniar with 35 kt sustained winds near 21N 139E at 1200 UTC on the 24 th . Ewiniar developed a maximum intensity of 55 kt for sustained winds while passing southeast of Japan near 32N 142E and turning toward the northeast at 1800 UTC on the 27 th . The cyclone then began to weaken and became a post tropical gale east of Japan near 40N 151E with a 1001 hPa central pressure at 1800 UTC on the 29 th . The remains 
+
+of Ewiniar then passed east over the central North Pacific early in October before becoming absorbed on the 8 th by the remains of another tropical cyclone Maliksi, to be described below. 
+
+Typhoon Jelawat: Typhoon Jelawat passed near 28N 130E late on September 28th with maximum sustained winds of 85 kt while moving northeast and weakening. A vessel with the call sign SHIP reported north winds of 50 kt and 5.2 meter seas (17 feet) at 0900 UTC on the 29 th . Jelawat then weakened to a tropical storm while passing over southern Japan early on the 30 th and to a post tropical gale force low near 42N 144E with a 994 hPa central pressure late on September 30th. The Skaubryn (3FZK3) encountered southwest winds of 47 kt near 35N 140E at 1500 UTC on the 30 th . Post tropical Jelawat then re-intensified into a storm force low while passing just east of the central Kurile Islands early on October 1st and briefly developed hurricane force winds and a 980 hPa central pressure while passing south of 
+
+the central Aleutian Islands near 49N 180W at 1800 UTC October 2nd. The Ever Diamond (3FQS8) near 44N 178W reported northwest winds of 55 kt and 3.0 meter seas (10 feet) at 0500 UTC on the 3 rd . The ship DCCM2 near 46N 177E, encountered southwest winds 45 kt and 7.3 meter seas (24 feet) at 1800 UTC October 2nd. Post tropical Jelawat then crossed the central Aleutians early on the 3 rd and moved north through the Bering Sea with winds of storm force at times, developing a lowest central pressure of 972 hPa in the central Bering Sea early on the 4 th . Figure 1 shows the post tropical cyclone passing north through the Bering Sea while the next development, Maliksi, occurs well to the southwest. Buoy 46035 (57.1N 177.8W) reported northwest winds of 35 kt with gusts to 47 kt at 0000 UTC on the 5 th . The cyclone then weakened in the northern Bering Sea on the 5 th and passed north of the Bering Strait on the 6 th .
+
+Tropical Storm Maliksi: Tropical Depression 20W moved northwest near 16N 149E early on September 30th and became a tropical storm near 19N 146E early on October 1st with sustained winds of 35 kt. The cyclone turned toward the north and was named Maliksi at 1800 UTC on the 2 nd while passing near 23N 141E, with sustained winds up to 45 kt. Maliksi developed a maximum intensity of 50 kt for sustained winds as a tropical storm while passing near 35N 144E at 0000 UTC October 4th. The APL Thailand (WCX8882) reported north winds of 35 kt and 9.8 meter seas (32 feet) near 35N 141E at that time. Figure 1 shows Tropical Storm Maliksi merging with the front to the north and becoming an intense post tropical hurricane force low during the following thirty-six hours while re-curving northeast and then east into the mid latitude Westerlies. The cyclone developed a lowest central pressure of 964 hPa at 1800 UTC on the 5th . A vessel with the SHIP call sign reported southwest winds of 55 kt at that time, and a report of 8.5 meter seas (28 feet) three hours later. OPC analyzed this cyclone as a hurricane force low from 0000 UTC on the 5 th through 0600 UTC on the 6 th , when the center passed near 45N 171E with a 980 hPa central pressure. An ASCAT pass from late on the 5 th returned winds up to 50 to 55 kt in the area of data coverage on the west side of the cyclone. The cyclone reformed as a new center to the north near the central Aleutian Islands on the 6 th and moved southeast, passing near 39N 165W as a gale force low at 0000 UTC on the 9 th . The remains of Maliksi then turned toward the northeast and dissipated near the Alaska Peninsula on the 11 th .
+
+Typhoon Prapiroon: A non tropical low near 19N 138E with a 1000 hPa center at 0000 UTC October 7th moved west and became Tropical Storm Prapiroon twenty four hours later near 18N 135E with sustained winds of 45 kt, and a 65 kt typhoon near 18N 133E 0000 UTC on the 9 th . Its winds increased to 90 kt as it passed west of 130E early on the 10 th .Prapiroon later returned on a northeastward track as a weakening typhoon, drifting northeast near 22N 131E at 1200 UTC October 13th with maximum sustained winds of 75 kt. The cyclone passed near 27N 132E as a 40 kt tropical storm at 1200 UTC on the 18 th . The APL India (A8JX7) reported north winds of 55 kt and 7.9 meter seas (26 feet) near 31N 
+
+> North Pacific Area April 2013 ~ Mariners Weather Log
+
+48 132E at 0600 UTC on the 18 th . Prapiroon became post tropical near 33N 146E at 0600 UTC on the 19 th as a 996 hPa storm force low before weakening to a gale later that day. The remains of Prapiroon dissipated near 30N 171E on the 22 nd .
+
+Tropical Storm Maria: Tropical Storm Maria formed from a non-tropical low that was near 20N 147E at 0600 UTC October 12th. It drifted southwest over the following two days and became a tropical storm near 18N 143E at 1200 UTC on the 14 th with maximum sustained winds of 40 kt. Maria turned northwest that day and on the 15 th before turning northeast on the 16 th . The cyclone developed a maximum strength of 55 kt for sustained winds while passing near 27N 141E at 0600 UTC October 16th. Maria weakened and turned toward the southeast on the 17 th , becoming a depression late on the 18 th and finally dissipating as a post tropical low near 30N 171E on the 22 nd .
+
+Other Significant  events 
+
+Bering Sea Storms, September 2-4: The initial development was from a gale moving across the Sea of Okhotsk on August 30th and then reforming as a new center in the western Bering Sea on the 31 st . The gale force low then moved 
+
+east near 55N to the southeast Bering Sea and briefly developed storm force winds there as a 980 hPa cyclone late on 
+
+September 2nd before turning north up the west coast of Alaska and weakening on the 3 rd . Figure 3 shows the cyclone in the eastern Bering Sea, moving almost out of the picture in the second part of Figure 3 as a stronger storm system approached. The stronger cyclone, shown at maximum intensity, originated as a wave of low pressure near the southern Kamchatka Peninsula at 1800 UTC September 2nd which deepened rapidly, by 31 hPa during the following twenty four hours. The WindSAT image of remotely sensed winds in Figure 4 reveals winds to 50 kt at least around the area of data coverage around the west side of the storm. The Zim Ontario (DFZB2) reported west winds of 45 kt and 6.0 meter seas (20 feet) near 46N 178E at 0000 UTC on the 4 th . Buoy 46071 (51.1N 179.1E) reported west winds of 39 kt with gusts to 49 kt and a peak gust 52 kt, along with seas of 7.0 meters (23 feet) at 0500 UTC on the 4 th . Seas reached 9.0 meters (30 feet) two hours later at that buoy. The cyclone turned northeast and then north later on the 4 th and its winds diminished to gale force, and followed the previous low up the west coast of Alaska on the 5 th .
+
+Northeast Pacific and Bering Sea Storm, September 15-16: The first hurricane force low of the fall season developed from the merging of four lows in the northeastern Pacific and southeast Bering Sea as depicted in Figure 5. The second part of Figure 5 shows the cyclone at maximum intensity before it moved inland and weakened rapidly. Table 1 lists some notable observations taken in the storm.     
+
+> North Pacific Area
+> OBSERVATION POSITION DATE/TIME (UTC) WIND SEA(m/f)
+
+S/r American Progress (KAWM) 60N 146.6W 16/1800 SE 65 10.7/35 
+
+Amsterdam (PBAD) 58N 143W 16/1000 S 50 3.7/12 
+
+Hamburg Express (DGXS) 54N 163W 16/1200 W 55 
+
+OUUY2 54N 164W 16/1200 NW 50 
+
+Attentive (WCZ7337) 60.3N 146.6W 16/1300 SE 55 8.5/28 Buoy 46075 53.9N 160.8W 16/1400 16/1500 W 35 G47 Maximum 6.0/20 7.0/23 Buoy 46060 60.6N 146.8W 16/2000 16/2300 SE 41 G51 Peak gust 56 3.0/10 Buoy 46082 59.7N 143.4W 16/2000 17/0000 SE 37 G47 Maximum 7.0/23 8.0/26  
+
+> Table 1. Ship and buoy observations taken during the passage of a North Pacific and Bering Sea storm,
+> September 15-16, 2012. April 2013 ~ Mariners Weather Log
+
+49 
+
+Northeastern Pacific Storm, September 25-27: The next significant event was even stronger, developing from 
+
+an open wave of low pressure south of the eastern Aleutians and absorbing another low in the southeastern Bering Sea within twenty four hours (Figure 6). The central pressure fell at an impressive rate of 44 hPa in a twenty four hour period ending at 1200 UTC on the 26 th . This explosive development would qualify as a meteorological “bomb” (Sanders and Gyakum, 1980). The Polar Resolution (WDJK) near 55N 144W reported south winds of 55 kt and 6.5 meter seas (21 feet) at 1900 UTC on the 26 th . The Amsterdam (PBAD) encountered northwest winds of 50 kt near 53N 165W at 1000 UTC on the 26 th . Buoy 46001 (56.3N 147.9W) reported southeast winds of 41 kt with gusts to 51 kt and 6.0 meter seas (20 feet) at 1900 UTC on the 26 th and highest seas 10.0 meters (33 feet) eight hours later. Buoy 46077 (57.9N 154.3W) reported northeast winds of 49 kt with gusts to 64 kt and 5.5 meter seas (18 feet) at 0200 UTC on the 27 th . East Amatuli Island Light (AMAA2) 58.9N 151.9W reported northeast winds of 60 kt with gusts to 70 kt at the same time, and a peak gust 74 kt one hour prior. The cyclone subsequently weakened to a gale force low in the northern Gulf of Alaska on the 27 th before dissipating over southern Alaska on the 29 th .
+
+North Pacific Storm, October 10-12: A relatively compact hurricane force low developed over the north central Pacific 
+
+in early October from an open wave of low pressure near 35N 161E during a thirty six hour period as depicted in Figure 7. The strongest pressure fall was 26 hPa in the twenty four hour period ending at 1800 UTC October 10th. A high resolution ASCAT pass from 2236 UTC on the 10 th (Figure 8) returned winds 50 to 60 kt in a small area of the southwest semicircle, and with the low bias of the imagery especially at higher wind speeds, the image indicates hurricane force winds. The lowest central pressure (968 hPa) occurred later, at 1800 UTC on the 11 th as the top winds decreased to storm force. The system weakened to a gale while passing south of the eastern Aleutians on the 12 th and became absorbed by 
+
+a developing eastern North Pacific cyclone the next day. 
+
+Eastern North Pacific Storm, October 31st-November 2nd: The final event described, the first of two that occurred in 
+
+early November, began in late October as a weak low over northern Japan early on October 25th and crossed the western 
+
+and central waters between 38N and 42N, briefly strengthening into a storm early on the 29 th near 40N 171E. Figure 9 
+
+shows the final development of this cyclone into a hurricane force low at maximum intensity. The central pressure fell 
+
+31 hPa from 0000 UTC November 1st to 0000 UTC November 2nd. ASCAT imagery showing a partial view of the circulation (Figure 10) reveals a swath of winds 50 to 55 kt on the southeast side of the cyclone but may not necessarily cover the strongest area of winds. The ship DEHZ (51N 141W) encountered southwest winds of 40 kt and 8.5 meter seas (28 feet) at 1700 UTC November 2nd. Buoy 46077 (57.9N 154.3W) reported northeast winds of 43 kt with gusts to 54 kt and 4.0 meter seas (13 feet) at 0600 UTC on the 2 nd , a peak gust 58 kt at 1100 UTC on the 2 nd and highest seas 5.0 meters seven hours later. The cyclone moved to the northern Gulf of Alaska on the 3 rd and the 4 th with winds weakening to below gale force, and dissipated by the 5 th .
+
+> North Pacific Area April 2013 ~ Mariners Weather Log
+
+50 
+
+# VOS Program Awards 
+
+Chief Mate George Darley accepts the 2011 Annual award on behalf of Masters and crews of Horizon Trader. Photo from the Deepwater Champion: From Left to right: Nicky Simpson Sr DPO Barry Hughes Sr DPO David Plazeski Sr DPO Paul Scott DPO 
+
+Not pictured: Doug Banfield, Captain 
+
+> VOS Program Awards April 2013 ~ Mariners Weather Log
+
+51 
+
+# The Cooperative Ship Reports can now be found online by 
+
+# clicking here .
+
+Ship Name Call Sign 
+
+Algoma Mariner CFN5517 Algorail VYNG Algoway VDFP Alliance Richmond  wLM k
+
+APL  Shanghai A8SN5 Bansui 3FMI5 Carnival Breeze 3FZO8 Celebrity Reflection 9hA3047 Columbine Maersk OU hC2 Deepwater Champion YJVM9 
+
+eagle Beaumont S6JO 
+
+eagle  kangar 9V8472 
+
+eagle  kinabalu 9V8779 
+
+eagle  kinarut 9V8908 
+
+eagle  klang 9V8640 
+
+eagle  kuantan 9V8376 
+
+eagle Tampa S6N k6
+
+eagle Torrance 9VMG5 
+
+eagle Tucson S6N k5
+
+eagle Turin 9VMG6 
+
+Ship Name Call Sign 
+
+eships Falcon A8VG7 
+
+ever  envoy VSQL9 
+
+ever Strong 3eJG3 Federal Yukina VR hN7 Ferdinand R.  hassler  wTek 
+
+Green Point  wCY4148 
+
+harvey Spirit  wDD4830 
+
+horizon Consumer  wChFLee A. Tregurtha  wUR8857 Mol Presence 9V8990 NYk Joanna 9VFC4 Ocean  wave  wDG3180 Overseas Santorini  wOSI Sally Maersk OZ hS2 Star Lima LAP e7USCG  Alder NGML Zim Chicago A8SI9 
+
+> VOS Program New Recruits
+
+# National Weather Service VOS Program New Recruits: 
+
+## October 1, 2012 through February 13, 2013 April 2013 ~ Mariners Weather Log 52 
+
+HEAD qUARTERS 
+
+John Wasserman 
+
+Voluntary Observing Ship Program Manager National Data Buoy Center Building 3203 Stennis Space Center, MS 39529-6000 Tel: 228-688-1818 Fax: 228-688-3923 
+
+e-mail: john.wasserman@noaa.gov 
+
+Paula Rychtar 
+
+Voluntary Observing Ship Operations Manager National Data Buoy Center Building 3203 Stennis Space Center, MS 39529-6000 Tel: 228-688-1457 Fax: 228-688-3923 
+
+e-mail: paula.rychtar@noaa.gov 
+
+ATlANTIC  PORTS 
+
+David Dellinger, PMO 
+
+National  weather Service, NOAA Post Office Address for Small Packages and USPS Mail: P.O. Box 350067 Fort Lauderdale, FL 33335-0067 FeDeX/UPS/D hL Package delivery address and physical address: 2550  eisenhower Blvd, Suite 312 Port  everglades, FL 33316 Tel: 954-463-4271 Fax: 954-462-8963 
+
+e-mail: david.dellinger@noaa.gov 
+
+Robert Niemeyer, PMO 
+
+National  weather Service, NOAA 13701 Fang Road Jacksonville, FL 32218-7933 Tel: 904-607-3219 Fax: 904-741-0078 
+
+e-mail: rob.niemeyer@noaa.gov 
+
+Tim Kenefick, PMO 
+
+NOAA Coastal Services Center 2234 South  hobson Avenue Charleston, SC 29405-2413 Tel: 843-709-0102 Fax: 843-740-1224 
+
+e-mail: timothy.kenefick@noaa.gov 
+
+Peter Gibino, PMO 
+
+National  weather Service, NOAA P. O. Box 1492 Grafton, VA 23692 Tel: 757-617-0897 
+
+e-mail: peter.gibino@noaa.gov 
+
+lori Evans, PMO 
+
+National  weather Service, NOAA P. O. Box 3667 Frederick, MD 21705-3667 For UPS/F eDeX delivery: 1306 Baker Pl  e
+
+Apt 11 Frederick, MD 21702 Tel: 443-642-0760 Fax: 410-633-4713 
+
+e-mail: lori.evans@noaa.gov 
+
+Jim  luciani, PMO 
+
+New York/New Jersey National  weather Service, NOAA P. O. Box 366 Flemington, NJ 08822 Tel: 908-217-3477 
+
+e-mail: james.luciani@noaa.gov 
+
+GREAT  lAKES  PORTS 
+
+Ron Williams, PMO 
+
+National  weather Service, NOAA 5027 Miller Trunk  highway Duluth, MN 55811-1442 Tel 218-729-0651 Fax 218-729-0690 
+
+e-mail: ronald.williams@noaa.gov 
+
+> Points of Contact
+
+# Points of Contact 
+
+## U.S. Port Meteorological Officers April 2013 ~ Mariners Weather Log 53 
+
+GUlf  Of M ExICO  PORTS 
+
+VACANT 
+
+PMO New Orleans 62300 Airport Rd. Slidell, LA 70460-5243 Tel: Fax: 
+
+e-mail: 
+
+Chris  fakes, PMO 
+
+National  weather Service, NOAA 1353 FM 646  w
+
+Suite 202 Dickinson, TX 77539 Tel: 281-534-2640 Cell: 281-703-8113 Fax: 281-534-4308 
+
+e-mail: chris.fakes@noaa.gov 
+
+PACI fIC  PORTS 
+
+Derek  lee loy, PMO 
+
+Ocean Services Program Coordinator National  weather Service Pacific Region  hQGrosvenor Center, Mauka Tower 737 Bishop Street, Suite 2200 
+
+honolulu,  hI 96813-3201 Tel: 808-532-6439 Fax: 808-532-5569 
+
+e-mail: derek.leeloy@noaa.gov 
+
+Brian Holmes, PMO 
+
+National  weather Service, NOAA 501  west Ocean Blvd., Room 4480 Long Beach, CA 90802-4213 Tel: 562-980-4090 Fax: 562-436-1550 
+
+e-mail: brian.holmes@noaa.gov 
+
+VACANT 
+
+National  weather Service, NOAA 1301 Clay Street, Suite 1190N Oakland, CA 94612-5217 Tel: 510-637-2960 Fax: 510-637-2961 
+
+e-mail: 
+
+Matt Thompson, PMO 
+
+National  weather Service, NOAA 7600 Sand Point  way, N. e., BIN C15700 Seattle,  wA 98115-6349 Tel: 206-526-6100 Fax: 206-526-6904 
+
+e-mail: matthew.thompson@noaa.gov 
+
+Richard Courtney, PMO 
+
+National  weather Service, NOAA 600 Sandy  hook Street, Suite 1 
+
+kodiak, A k 99615-6814 Tel: 907-487-2102 Fax: 907-487-9730 
+
+e-mail: richard.courtney@noaa.gov 
+
+larry Hubble, PMO 
+
+National  weather Service Alaska Region 222  west 7th Avenue #23 Anchorage, A k 99513-7575 Tel: 907-271-5135 Fax: 907-271-3711 
+
+e-mail: larry.hubble@noaa.gov 
+
+> Points of Contact April 2013 ~ Mariners Weather Log
+
+54 
+
+# U.S. Coast Guard AMVER Center Ben Strong 
+
+AMV eR Maritime Relations Officer, United States Coast Guard Battery Park Building New York, NY 10004 Tel: 212-668-7762 Fax: 212-668-7684 
+
+e-mail: bmstrong@batteryny.uscg.mil 
+
+# SEAS  field Representatives AOM l SEAS P RAOGRAM  MANAGER 
+
+Dr. Gustavo Goni 
+
+AOML 4301 Rickenbacker Causeway Miami, FL 33149-1026 Tel: 305-361-4339 Fax: 305-361-4412 
+
+e-mail: gustavo.goni@noaa.gov 
+
+DRI fTER  PROGRAM  MANAGER 
+
+Dr. Rick  lumpkin 
+
+AOML/P hOD 4301 Rickenbacker Causeway Miami, FL 33149-1026 Tel: 305-361-4513 Fax: 305-361-4412 
+
+e-mail: rick.lumpkin@noaa.gov 
+
+ARGO P ROGRAM  MANAGER 
+
+Dr. Claudia Schmid 
+
+AOML/P hOD 4301 Rickenbacker Causeway Miami, FL 33149-1026 Tel: 305-361-4313 Fax: 305-361-4412 
+
+e-mail: claudia.schmid@noaa.gov 
+
+Gl OBA l D RI fTER  PROGRAM 
+
+Shaun Dolk 
+
+AOML/P hOD 4301 Rickenbacker Causeway Miami, FL 33149-1026 Tel: 305-361-4446 Fax: 305-361-4366 
+
+e-mail: shaun.dolk@noaa.gov 
+
+NORTHEAST  ATlANTIC  SEAS R EP .Jim  farrington 
+
+SeAS Logistics/AMC 439  west York Street Norfolk, VA 23510 Tel: 757-441-3062 Fax: 757-441-6495 
+
+e-mail: james.w.farrington@noaa.gov 
+
+SOUTHWEST  PACI fIC  SEAS R EP .Carrie Wolfe 
+
+Southern California Marine Institute 820 S. Seaside Avenue San Pedro, Ca 90731-7330 Tel: 310-519-3181 Fax: 310-519-1054 
+
+e-mail: cwolfe@csulb.edu 
+
+SOUTHEAST  ATlANTIC  SEAS R EP .
+
+francis Bringas 
+
+AOML/GOOS Center 4301 Rickenbacker Causeway Miami, FL 33149-1026 Tel: 305-361-4332 Fax: 305-361-4412 
+
+e-mail: francis.bringas@noaa.gov 
+
+PACI fIC  NORTHWEST  SEAS R EP .Steve Noah 
+
+SeAS Logistics/PMC Olympic Computer Services, Inc. Tel: 360-385-2400 Cell: 425-238-6501 
+
+e-mail: snoah@olycomp.com or karsteno@aol.com 
+
+# Other Port Meteorological Officers ARGENTINA 
+
+Mario J. Garcia 
+
+Jefe del Dto. Redes Servicio Meteorlógico Nacional 25 de Mayo 658 (C1002ABN) Buenos Aires Argentina Tel: +54-11 4514 1525 Fax: +54-11 5167 6709 
+
+e-mail: garcia@meteofa.mil.ar 
+
+AUSTRA lIA 
+
+Head Office 
+
+Graeme Ball, Mgr. 
+
+PMO Coordinator Marine Operations Group Bureau of Meteorology GPO Box 1289 Melbourne, VIC 3001, Australia Tel: +61-3 9669 4203 Fax: +61 3 9669 4168 
+
+e-mail: smmo@bom.gov.au Group  e-mail: marine_obs@bom. gov.au 
+
+Fremantle 
+
+Craig  foster, PMA 
+
+Port Meteorological Officer Fremantle, Bureau of Meteorology PO Box 1370 Perth,  wA 6872, Australia Tel: +61-8 9263 2292 Fax: +61 8 9263 2297 
+
+e-mail: pma.fremantle@bom.gov.au 
+
+Melbourne 
+
+Brendan Casey, PMA 
+
+c/o Bureau of Meteorology Port Meteorological Officer Melbourne, Bureau of Meteorology, GPO Box 1289 Melbourne, VIC 3001, Australia Tel: +61-3 9669 4236 Fax: +61-3 9669 4168 
+
+e-mail: pma.melbourne@bom.gov.au 
+
+> Points of Contact April 2013 ~ Mariners Weather Log
+
+55 
+
+Sydney 
+
+Matt Dunn, PMO 
+
+c/o Bureau of Meteorology Port Meteorological Officer Sydney Bureau of Meteorology GPO Box 413 Darlinghurst, NS w 1300 Australia Tel: +61 2 9296 1553 Fax: +61 2 9296 1648 
+
+e-mail: pma.sydney@bom.gov.au 
+
+CANADA 
+
+Canadian Headquarters 
+
+Gerie  lynn  lavigne,  life Cycle Manager 
+
+Marine Networks,  environment Canada Surface  weather, Climate and Marine Networks 4905 Dufferin Street Toronto, Ontario Canada M3 h 5T4 Tel: +1-416 739 4561 Fax: +1-416 739 4261 
+
+e-mail: gerielynn.lavigne@ec.gc.ca 
+
+British Columbia 
+
+Bruce  lohnes, Monitoring Manager 
+
+environment Canada Meteorological Service of Canada 140-13160 Vanier Place Richmond, British Columbia V6V 2J2 Canada Tel: +1-604-664-9188 Fax: +1604-664-4094 
+
+e-mail: _bruce.lohnes@ec.gc.ca 
+
+Newfoundland 
+
+Andrew Dwyer, PMO 
+
+environment Canada 6 Bruce Street St John’s, Newfoundland A1N 4T3 Canada Tel: +1-709-772-4798 Fax: +1-709-772-5097 
+
+e-mail: andre.dwyer@ec.gc.ca 
+
+Nova Scotia 
+
+Martin Mac lellan 
+
+A/Superintendent Port Meteorology & Data Buoy Program 
+
+environment Canada 275 Rocky Lake Rd, Unit 8B Bedford, NS B4A 2T3 Office: (902) 426-6616 Cell: (902) 483-3723 Fax: (902) 426-6404 
+
+Ontario 
+
+Tony Hilton, Supervisor PMO; Rick Shukster, PMO & Roland Kleer, PMO 
+
+environment Canada Meteorological Service of Canada 100  east Port Blvd. 
+
+hamilton, Ontario L8 h 7S4 Canada Tel: +1-905 312 0900 Fax: +1-905 312 0730 
+
+e-mail: tony.hilton@ec.gc.ca 
+
+roland.kleer@ec.gc.ca rick.shukster@ec.gc.ca 
+
+Quebec 
+
+Erich Gola, PMO 
+
+Meteorological Service of Canada Quebec Region Service météorologique du Canada 
+
+environnement Canada 800 rue de la Gauchetière Ouest, bureau 7810 Montréal (Québec)  h5A 1L9 Canada Tel: +1-514 283-1644 Cel: +1-514 386-8269 Fax: +1-514 496-1867 
+
+e-mail: erich.gola@ec.gc.ca 
+
+CHINA 
+
+YU Zhaoguo 
+
+Shanghai Meteorological Bureau 166 Puxi Road Shanghai, China 
+
+> Points of Contact April 2013 ~ Mariners Weather Log
+
+56 
+
+CROATIA 
+
+Port of Split 
+
+Captain Zeljko Sore 
+
+Marine Meteorological Office-Split P.O. Box 370 Glagoljaska 11 
+
+hR-21000 Split Croatia Tel: +385-21 589 378 Fax: +385-21 591 033 (24 hours) 
+
+e-mail: sore@cirus.dhz.hr 
+
+Port of Rijeka 
+
+Smiljan Viskovic 
+
+Marine Meteorological Office-Rijeka Riva 20 
+
+hR-51000 Rijeka Croatia Tel: +385-51 215 548 Fax: +385-51 215 574 
+
+DENMARK 
+
+Cmdr Roi Jespersen, PMO & Cmdr Harald R. Joensen, PMO 
+
+Danish Meteorological Inst., Observation Dept Surface and Upper Air Observations Division Lyngbyvej 100 Dk-2100 Copenhagen Denmark Tel: +45 3915 7337 Fax: +45 3915 7390 
+
+e-mail: rj@dmi.dk hrj@dmi.dk 
+
+fA lKlANDS 
+
+Captain R. Gorbutt, Marine Officer 
+
+Fishery Protection Office Port Stanley Falklands Tel: +500 27260 Fax: +500 27265 Telex: 2426 FIS hDIR F k
+
+fRANCE 
+
+Headquarters 
+
+André Péries, PMO Supervisor 
+
+Météo-France DSO/R eSO/PMO 42, Avenue Gustave Coriolis 31057 Toulouse Cédex France Tel: +33-5 61 07 98 54 Fax: +33-5 61 07 98 69 
+
+e-mail: andre.peries@meteo.fr 
+
+Boulogne-sur-mer 
+
+Gérard Doligez 
+
+Météo-France DDM62 17, boulevard Sainte-Beuve 62200 Boulogne-sur-mer France Tel: +33-3 21 10 85 10 Fax: +33-2 21 33 33 12 
+
+e-mail: gerard.doligez@meteo.fr 
+
+Brest 
+
+louis Stéphan, Station Météorologique 
+
+16, quai de la douane29200 Brest France Tel: +33-2 98 44 60 21 Fax: +33-2 98 44 60 21 
+
+La Réunion 
+
+Yves Morville, Station Météorologique 
+
+Port Réunion France Fax: +262 262 921 147 Telex: 916797R e
+
+e-mail: dirre@meteo.fr meteo.france.leport@wanadoo.fr 
+
+Le Havre 
+
+Andre Devatine, Station Météorologique 
+
+Nouveau Sémaphore Quai des Abeilles 76600 Le  havre France Tel: +33-2 32 74 03 65 Fax: +33 2 32 74 03 61 
+
+e-mail: andre.devatine@meteo.fr 
+
+> Points of Contact April 2013 ~ Mariners Weather Log
+
+57 
+
+Marseille 
+
+Michel Perini, PMO 
+
+Météo-France / CDM 13 2A BD du Château-Double 13098 Aix en Provence Cédex 02 France Tel: +00 33 (0)4 42 95 25 42 Fax: +00 33 (0)4 42 95 25 49 
+
+e-mail: michel.perini@meteo.fr 
+
+Montoir de Bretagne 
+
+Jean Beaujard, Station Météorologique 
+
+Aérodome de Saint-Nazaire-Montoir 44550 Montoir de Bretagne France Tel: +33-2 40 17 13 17 Fax: +33-2 40 90 39 37 
+
+New Caledonia 
+
+Henri  lévèque, Station Météorologique 
+
+BP 151 98845 Noumea Port New Caledonia France Tel: +687 27 30 04 Fax: +687 27 42 95 
+
+GERMANY 
+
+Headquarters 
+
+Volker Weidner, PMO Advisor 
+
+Deutscher  wetterdienst Bernhard-Nocht-Strasse 76 D-20359  hamburg Germany Tel: +49-40 6690 1410 Fax: +49-40 6690 1496 
+
+e-mail: pmo@dwd.de 
+
+Bremerhaven 
+
+Henning Hesse, PMO 
+
+Deutscher  wetterdienst An der Neuen Schleuse 10b D-27570 Bremerhaven Germany Tel: +49-471 70040-18 Fax: +49-471 70040-17 
+
+e-mail: pmo@dwd.de 
+
+Hamburg 
+
+Horst von Bargen, PMO Matthias Hoigt Susanne Ripke 
+
+Deutscher  wetterdienst Met.  hafendienst Bernhard-Nocht-Str. 76 D - 20359  hamburg Tel: +49 40 6690 1412/1411/1421 Fax: +49 40 6690 1496 
+
+e-mail: pmo@dwd.de 
+
+Rostock 
+
+Christel Heidner, PMO 
+
+Deutscher  wetterdienst Seestr. 15a D - 18119 Rostock Tel: +49 381 5438830 Fax: +49 381 5438863 
+
+e-mail: pmo@dwd.de 
+
+Gilbraltar 
+
+Principal Meteorological Officer 
+
+Meteorological Office RAF Gilbraltar BFPO 52 Gilbraltar Tel: +350 53419 Fax: +350 53474 
+
+GREECE 
+
+Michael Myrsilidis 
+
+Marine Meteorology Section 
+
+hellenic National Meteorological Service ( hNMS) 
+
+el, Venizelou 14 16777  hellinikon Athens Greece Tel: +30-10 9699013 Fax: +30-10 9628952, 9649646 
+
+e-mail: mmirsi@hnms.gr 
+
+HONG  KONG , C HINA 
+
+Wing Tak Wong, Senior Scientific Officer 
+
+hong  kong Observatory 134A Nathan Road 
+
+kowloon 
+
+hong  kong, China Tel: +852 2926 8430 Fax: +852 2311 9448 
+
+e-mail: wtwong@hko.gov.hk 
+
+> Points of Contact April 2013 ~ Mariners Weather Log
+
+58 
+
+ICE lAND 
+
+Hreinn Hjartarson, Icelandic Met. Office 
+
+Bústadavegur 9 IS-150 Reykjavik Iceland Tel: +354 522 6000 Fax: +354 522 6001 
+
+e-mail: hreinn@vedur.is 
+
+INDIA 
+
+Calcutta 
+
+Port Meteorological Office 
+
+Alibnagar, Malkhana Building N.S. Dock Gate No. 3 Calcutta 700 043 India Tel: +91-33 4793167 
+
+Chennai 
+
+Port Meteorological Office 
+
+10th Floor, Centenary Building Chennai Port Trust, Rajaji Road Chennai 600 001 India Tel: +91-44 560187 
+
+Fort Mumbai 
+
+Port Meteorological Office 
+
+3rd Floor, New Labour  hamallage Building Yellow Gate, Indira Doct Fort Mumbai 400 001 India Tel: +91-2613733 
+
+Goa 
+
+PMO, Port Meteorological  liaison Office 
+
+Sada, P.O.,  head Land Sada Goa 403 804 India Tel: +91-832 520012 
+
+Kochi 
+
+Port Meteorological Office 
+
+Cochin  harbour, North  end,  wellington Island 
+
+kochi 682 009 India Tel: +91-484 667042 
+
+Visakhapatnam 
+
+Port Meteorological Office 
+
+c/o The Director, Cyclone  warning Centre Chinna  waltair Visakhapatnam 530 017.Andra Pradesh India Tel: +91-891 746506 
+
+INDONESIA 
+
+Belawan 
+
+Stasiun Meteorologi Maritim Belawan 
+
+Jl. Raya Pelabuhan III Belawan - 20414 Indonesia Tel: +62-21 6941851 Fax: +62-21 6941851 
+
+Bitung 
+
+Stasiun Meteorologi Maritim Bitung 
+
+Jl.  kartini No. 1 Bitung - 95524 Indonesia Tel: +62-438 30989 Fax: +62-438 21710 
+
+Jakarta 
+
+Mochamad Rifangi 
+
+Meteorological and Geophysical Agency Jl. Angkasa I No. 2  kemayoran Jakarta - 10720 Indonesia Tel: +62-21 4246321 Fax: +62-21 4246703 
+
+Stasiun Meteorologi Maritim Tanjung Priok 
+
+Jl. Padamarang Pelabuhan Tanjung Priok Jakarta - 14310 Indonesia Tel: +62-21 4351366 Fax: +62-21 490339 
+
+Makassar 
+
+Stasiun Meteorologi Maritim Makassar 
+
+Jl. Sabutung I No. 20 Paotere Makassar Indonesia Tel: +62-411 319242 Fax: +62-411 328235 
+
+> Points of Contact April 2013 ~ Mariners Weather Log
+
+59 
+
+Semarang 
+
+Stasiun Meteorologi Maritim Semarang 
+
+Jl. Deli Pelabuhan Semarang - 50174 Indonesia Tel: +62-24 3549050 Fax: +62-24 3559194 
+
+Surabaya 
+
+Stasiun Meteorologi Maritim Surabaya 
+
+Jl.  kalimas baru No. 97B Surabaya - 60165 Indonesia Tel: +62-31 3291439 Fax: +62-31 3291439 
+
+IRE lAND 
+
+Cork 
+
+Brian Doyle, PMO 
+
+Met  eireann Cork Airport Cork Ireland Tel: +353-21 4917753 Fax: +353-21 4317405 
+
+Dublin 
+
+Columba Creamer, Marine Unit 
+
+Met  eireann Glasnevin  hill Dublin 9 Ireland Tel: +353 1 8064228 Fax: +353 1 8064247 
+
+e-mail: columbia.creamer@met.ie 
+
+ISRAE l
+
+Ashdod 
+
+Aharon Ofir, PMO 
+
+Marine Department Ashdod Port Tel: 972 8 8524956 
+
+Haifa 
+
+Hani Arbel, PMO 
+
+haifa Port Tel: 972 4 8664427 
+
+JAPAN 
+
+Headquarters 
+
+Dr. Kazuhiko Hayashi, Scientific Officer 
+
+Marine Div., Climate and Marine Dept. Japan Meteorological Agency 1-3-4 Otemachi, Chiyoda-ku Tokyo, 100-8122 Japan Tel: +81-3 3212 8341 ext. 5144 Fax: +81-3 3211 6908 
+
+email: hayashik@met.kishou.go.jp VOS@climar.kishou.go.jp 
+
+Kobe 
+
+Port Meteorological Officer 
+
+kobe Marine Observatory 1-4-3,  wakinohamakaigan-dori, Chuo-ku 
+
+kobe 651-0073 Japan Tel: +81-78 222 8918 Fax: +81-78 222 8946 
+
+Nagoya 
+
+Port Meteorological Officer 
+
+Nagoya Local Meteorological Observatory 2-18,  hiyori-ho, Chigusa-ku Nagoya, 464-0039 Japan Tel: +81-52 752 6364 Fax: +81-52 762-1242 
+
+Yokohama 
+
+Port Meteorological Officer 
+
+Yokohama Local Meteorological Observatory 99 Yamate-cho, Naka-ku Yokohama, 231-0862 Japan Tel: +81-45 621 1991 Fax: +81-45 622 3520 Telex: 2222163 
+
+KENYA 
+
+Ali Juma Mafimbo, PMO 
+
+PO Box 98512 Mombasa 
+
+kenya Tel: +254-11 225687 / 433689 Fax: +254-11 433689 
+
+e-mail: mafimbo@lion.meteo.go.ke 
+
+> Points of Contact April 2013 ~ Mariners Weather Log
+
+60 
+
+MAlAYSIA 
+
+Port Bintulu 
+
+Paul Chong Ah Poh, PMO 
+
+Bintulu Meteorological Station P.O. Box 285 97007 Bintulu Sarawak Malaysia Fax: +60-86 314 386 
+
+Port Klang 
+
+Mohd Shah Ani, PMO 
+
+Malaysian Meteorological Service Jalan Sultan 46667 Petaling Jaya Selangor Malaysia Fax: +60-3 7957 8046 
+
+Port Kinabalu 
+
+Mohd Sha Ebung, PMO 
+
+Malaysian Meteorological Service 7th Floor,  wisma Dang Bandang P.O. Box 54 88995  kota  kinabalu Sabah Malaysia Fax: +60-88 211 019 
+
+MAURITUIS 
+
+Port Louis 
+
+Meteorological Services 
+
+St. Paul Road Vacoas Mauritius Tel: +230 686 1031/32 Fax: +230 686 1033 
+
+e-mail: meteo@intnet.mu 
+
+NETHER lANDS 
+
+Bert de Vries, PMO & René Rozeboom, PMO 
+
+kNMI, PMO-Office 
+
+wilhelminalaan 10 Postbus 201 3730 Ae de Bilt Netherlands Tel: +31-30 2206391 Fax: +31-30 2210849 
+
+e-mail: pmo-office@knmi.nl 
+
+NEW  ZEA lAND 
+
+Manager Marine Operations 
+
+Meteorological Service New Zealand Ltd. P.O. Box 722 
+
+wellington New Zealand Tel: +64-4 4700 789 Fax: +64-4 4700 772 
+
+NORWAY 
+
+Tor Inge Mathiesen, PMO 
+
+Norwegian Meteorological Institute Allégaten 70 N-5007 Bergen, Norway Tel: +47-55 236600 Fax: +47-55 236703 Telex: 40427/42239 
+
+PAKISTAN 
+
+Hazrat Mir, Senior Meteorologist 
+
+Pakistan Meteorological Department Meteorological Office Jinnah International Airport 
+
+karachi, Pakistan Tel:+ 92-21 45791300, 45791322 Fax: +92-21 9248282 
+
+e-mail: pmdmokar@khi.paknet.com.pk 
+
+PHI lIPPINES 
+
+Cagayan de Oro City 
+
+leo Rodriguez 
+
+Pagasa Complex Station Cagayan de Oro City 9000, Misamis Occidental Philippines Tel: +63-8822 722 760 
+
+Davao City 
+
+Edwin  flores 
+
+Pagasa Complex Station, Bangoy Airport Davao City 8000 Philippines Tel: +63-82 234 08 90 
+
+Dumaguete City 
+
+Edsin Culi 
+
+Pagasa Complex Station Dumaguete City Airport Dumaguete City, Negros Oriental 6200 Philippines Tel: +63-35 225 28 04 
+
+> Points of Contact April 2013 ~ Mariners Weather Log
+
+61 
+
+Legaspi City 
+
+Orthello Estareja 
+
+Pagasa Complex Station Legaspi City, 4500 Philippines Tel: +63-5221 245 5241 
+
+Iloilo City 
+
+Constancio Arpon, Jr. 
+
+Pagasa Complex Station Iloilo City 5000 Philippines Tel: +63-33 321 07 78 
+
+Mactan City 
+
+Roberto Entrada 
+
+Pagasa Complex Station, Mactan Airport Mactan City, C eBU 6016 Philippines Tel: +63-32 495 48 44 
+
+Manila 
+
+Dr. Juan D. Cordeta & Benjamin Tado, Jr 
+
+Pagasa Port Meteorological Office PPATC Building, Gate 4 South  harbor Manila 1018 Philippines 1100 Tel: +63-22 527 03 16 
+
+POlAND 
+
+Józef Kowalewski, PMO 
+
+Gdynia and Gdansk Institute of Meteorology and  water Management 
+
+waszyngton 42 PL-81-342 Gdynia Poland Tel: +48-58 6204572 Fax: +48-58 6207101 Telex: 054216 
+
+e-mail: kowalews@stratus.imgw.gdynia.pl 
+
+SCOT lAND 
+
+Tony Eastham, PMO 
+
+Met Office Saughton  house, Broomhouse Drive 
+
+edinburgh  eh 11 3XQ United  kingdom Tel: +44-131 528 7305 Fax: +44-131 528 7345 
+
+e-mail: pmoedinburgh@metoffice.gov.uk 
+
+Ian J. Hendry, Offshore Adviser 
+
+Met Office Davidson  house Campus 1 Aberdeen Science & Technology Park Bridge of Don Aberdeen AB22 8GT United  kingdom Tel: +44-1224 407 557 Fax: +44-1224 407 568 
+
+e-mail: ihendry@metoffice.gov.uk 
+
+REPUB lIC  Of K OREA 
+
+Inchon 
+
+Inchon Meteorological Station 
+
+25 Chon-dong, Chung-gu Inchon Republic of  korea Tel: +82-32 7610365 Fax: +82-32 7630365 
+
+Pusan 
+
+Pusan Meteorological Station 
+
+1-9 Taechong-dong, Chung-gu Pusan Republic of  korea Tel: +82-51 4697008 Fax: +82-51 4697012 
+
+RUSSIAN  fEDERATION 
+
+Ravil S.  fakhrutdinov 
+
+Roshydromet 12, Novovagan’kovsky Street Moscow 123242 Russian Federation Tel:+7-095 255 23 88 Fax: +7-095 255 20 90 Telex: 411117 RUMS RF 
+
+e-mail: marine@mcc.mecom.ru fakhrutdinov@rhmc. mecom.ru 
+
+SAUDI  ARABIA 
+
+Mahmoud M. Rajkhan, PMO 
+
+Meteorology and  environmental Protection Administration (M ePA) P.O. Box 1358 Jeddah 21431 Saudi Arabia Tel: +966-2 6512312  ext. 2252 or 2564 
+
+> Points of Contact April 2013 ~ Mariners Weather Log
+
+62 Points of Contact  SINGAPORE 
+
+Amran bin Osman, PMS 
+
+Meteorological Service PO Box 8 Singapore Changi Airport Singapore 9181 Tel: 5457198 Fax: +65 5457192 Telex: RS50345 M eTSIN 
+
+SOUTH  Af RICA 
+
+Headquarters 
+
+Johan Stander 
+
+Regional Manager:  western Cape Antarctica and Islands South African  weather Service P O Box 21 Cape Town International Airport 7525 South Africa Tel: +27 (0) 21 934 0450 Fax: +27 (0) 21 934 4590 Cell: +27 (0) 82 281 0993 
+
+weatherline: 082 162 
+
+e-mail: johan.stander@weathersa.co.za 
+
+Cape Town 
+
+C. Sydney Marais, PMO 
+
+Cape Town Regional  weather Office Cape Town International Airport Cape Town 7525 South Africa Tel: +27-21 934 0836 Fax: +27-21 934 3296 
+
+e-mail: maritime@weathersa.co.za 
+
+Durban 
+
+Gus McKay, PMO 
+
+Durban Regional  weather Office Durban International Airpot Durban 4029 South Africa Tel: +27-31 408 1446 Fax: +27-31 408 1445 
+
+e-mail: mckay@weathersa.co.za 
+
+SWEDEN 
+
+Johan Svalmark 
+
+SM hISe-601 75 NORR kÖPING Sweden Tel: + 46 11 4958000 
+
+e-mail: johan.svalmark@smhi.se 
+
+TANZANIA , U NITED  REPUB lIC  OfH. Charles Mwakitosi, PMO 
+
+P.O. Box 3056 Dar es Salaam United Republic of Tanzania 
+
+THAI lAND 
+
+Kesrin Hanprasert, Meteorologist 
+
+Marine and Upper Air Observation Section Meteorological Observation Division Thai Meteorological Department 4353 Sukhumvit Road, Bangna Bangkok 10260 Thailand Tel: +66-2 399 4561 Fax: +66-2 398 9838 
+
+e-mail: wattana@fc.nrct.go.th 
+
+UNITED  KINGDOM 
+
+Headquarters 
+
+Sarah C. North, Marine Networks Manager Met Office 
+
+Observations Supply - Marine Networks FitzRoy Road 
+
+exeter Devon 
+
+eX1 3PB United  kingdom Tel: +44-1392 855 617 Fax: +44-870 900 5050 
+
+e-mail: sarah.north@metoffice.gov.uk Group  e-mail: obsmar@metoffice.gov.uk 
+
+North England 
+
+Emma Steventon 
+
+Port Meteorological Officer Met Office Saughton  house Broomhouse Drive 
+
+eDINBURG h eh 11 3XQ United  kingdom Telephone: +44 (0)131 528 7318 Mobile : +44 (0) 7753880209 
+
+e-mail: emma.steventon@metoffice.gov.uk —or— 
+
+e-mail: pmoscotland@metoffice.gov.uk April 2013 ~ Mariners Weather Log 63 
+
+NOAA W EATHER  RADIO  NETWORK 
+
+(1) 162.550 m hz(2) 162.400 m hz(3) 162.475 m hz(4) 162.425 m hz(5) 162.450 m hz(6) 162.500 m hz(7) 162.525 m hzChannel numbers, e.g. ( wX1,  wX2) etc. have no special significance but are often designated this way in consumer equipment. Other channel numbering schemes are also prevalent. The NOAA  weather Radio network provides voice broadcasts of local and coastal marine forecasts on a continuous cycle. The forecasts are produced by local National  weather Service Forecast Offices. Coastal stations also broadcast predicted tides and real time observations from buoys and coastal meteorological stations operated by NOAA’s National Data Buoy Center. Based on user demand, and where feasible, Offshore and Open Lake forecasts are broadcast as well. The NOAA  weather Radio network provides near continuous coverage of the coastal U.S, Great Lakes,  hawaii, and populated Alaska coastline. Typical coverage is 25 nautical miles offshore, but may extend much further in certain areas. 
+
+U.S. Department of Commerce National Oceanic and Atmospheric Administration National Data Buoy Center Stennis Space Center 1007 Balch Blvd Bay St  lo uis, MS 39520 -9903 
+
+> Points of Contact
+
+South England – PMO London 
+
+Joe Maguire 
+
+Port Meteorological Officer Met Office Trident  house 21 Berth Tilbury Dock Tilbury,  essex RM18 7 hLUnited  kingdom Telephone: +44-1375 859 970 Telefax: +44- (0)870 900 5050 
+
+e-mail: pmolondon@metoffice.go 
+
+PMO Southampton 
+
+lalinda Namalarachchi, PMO 
+
+Met Office c/o Room 231/19 National Oceanography Centre, Southampton University of Southampton, 
+
+waterfront Campus 
+
+european  way Southampton SO14 3Z h
+
+United  kingdom Telephone:  +44 -2380638339 Telefax: +44-870 900 5050 
+
+e-mail: pmosouthampton@metoffice.gov.

@@ -1,0 +1,93 @@
+# Valve's advice for making your game thrive after launch
+
+_Our GamesIndustry.biz Academy guides to Steam tackle every aspect of publishing on Valve's platform, from pre-launch to later periods of your release cycle. [You can read them all on this page](https://www.gamesindustry.biz/articles/2020-05-18-a-developers-guide-to-releasing-a-game-on-steam)._
+
+Earlier this week, we summarised [five of Valve's key insights](https://www.gamesindustry.biz/articles/2020-04-22-valves-top-tips-for-launching-a-game-on-steam) for preparing to launch a game on Steam. However, while the period leading up to launch day is essential to stand any chance of success, there is still more that can be done to influence a game's fortunes.
+
+In the second of two talks on navigating Steam at Melbourne International Games Week last year, Valve's Sophie Mackey picked up where her colleague, Molly Carroll, left off.
+
+"So you're ready to launch, and everything you've done up until this point matters," she said. "You've put up a coming soon page, you've built your wishlists, you've applied the right tags."
+
+You can read [Carroll's tips for getting ready to launch a game on Steam here](https://www.gamesindustry.biz/articles/2020-04-22-valves-top-tips-for-launching-a-game-on-steam), but the launch itself and the period afterwards holds just as many opportunities to find, engage, and serve your audience -- some within your direct control, and some built into the Steam platform itself.
+
+There is no perfect time to launch -- just make sure you're ready
+-----------------------------------------------------------------
+
+A great deal of time and effort is expended by developers hunting for the [perfect moment to launch their game](https://www.gamesindustry.biz/articles/2019-03-01-when-to-release-your-video-game). According to Mackey, though, beyond avoiding an obvious mismatch -- "you don't launch your indie RPG at the same time as the next Final Fantasy" -- the most important factors are more personal than objective.
+
+> "My recommendation is to launch... when you are available and energetic enough to monitor and react to any possible day one issues"
+
+"My recommendation to you is to launch at a time that works for you and your team," she said. "When you are available and energetic enough to monitor and react to any possible day one issues.
+
+"The context you've already created for your launch is the most important thing, not the hour or the day of the release... The big green button is yours, and it's up to you to launch at a time that you're ready."
+
+Allow time for Valve's final build review
+-----------------------------------------
+
+The days immediately before launch can be a frantic period, as the final tweaks, fixes and layers of polish are applied to the game. To help developers better prepare for the big moment, Valve sends a reminder email two weeks before the selected release date.
+
+In addition to advice on matters like finalising local and regional pricing, Mackey said, the reminder email also draws attention to a process that many developers forget in the run up to release.
+
+"One important component of the release reminder email is to encourage you to make sure you leave three to five business days for a 'build review.' Unlike a true certification, this is a free service that we provide for our developers -- a lightweight check on the basics, to ensure that users will be able to download, install and launch the game on release day."
+
+Use updates to gain more visibility
+-----------------------------------
+
+Every game that launches on Steam receives what Mackey described as a "launch visibility round" -- a period where it is pushed to different areas of the store, including lists for new releases, trending games, specific genres, and if it's popular enough, the front page of Steam itself.
+
+> "We're open to proposals for sales from groups of developers with games that share similar themes and mechanic"
+
+"It will also start appearing in individual users' discovery queues, which will drive traffic to your store page," Mackey said. "These discovery queues, like much of the store, is personalised for each user, and it's influenced by that user's preferences and habits. Users are served 15 new titles a day, and games are shown only once per discovery queue, and never repeated."
+
+While every game receives this visibility push at launch, you can qualify for up to five more by updating your game. Updates have organic benefits in terms of attracting new players and keeping an existing audience engaged, Mackey said, but they are also looked upon favourably by Steam, triggering "update visibility rounds."
+
+"[These] are primarily designed for major content updates. You may continually update your game throughout its life... but it's worth keeping in mind the significance of each update and what your update plan is before triggering one of these rounds."
+
+[![Image 1: Valve takes suggestions for niche sales from its developer community](https://cdn.gamer-network.net/2020/articles/2020-04-24-14-39/ac1037b141807b069c65608e26bc3819f18cf4ae.png/EG11/resize/646x-1/quality/80/format/jpg)](https://cdn.gamer-network.net/2020/articles/2020-04-24-14-39/ac1037b141807b069c65608e26bc3819f18cf4ae.png)
+Valve takes suggestions for niche sales from its developer community
+
+Use Steam sales to improve your visibility
+------------------------------------------
+
+Periodically dropping the price of your game can help to reach interested customers on constrained budgets, or entirely new players looking to make an impulse purchase. Valve has invested a great deal of time and energy into its famous sales, creating tools that allow developers to participate in ways that best suit their products.
+
+Being part of a sale has perks related to visibility, which are amplified by Steam automatically sending an email to every user that wishlisted your product when its price drops by 20% or more.
+
+"When a game is on sale it will show up in more places organically," Mackey said. "Such as the [Specials hub](https://store.steampowered.com/specials), personalised genre recommendations, the front page, and in price-specific lists like 'Games under $10.'
+
+"It's worth mentioning here that discounting works really well in conjunction with an update. When the two are combined it provides a compelling reason for a user who previously showed interest in your game to pick it up and try it out."
+
+> "Steam Labs lets us put up work that isn't polished, isn't scalable, and isn't a final product"
+
+Steam has a handful of big sales every year, but there are smaller sales for games in specific niches and around common themes. These are often based on suggestions sent to Valve by developers -- Mackey said that a nature-themed sale to coincide with World Environment Day and a space exploration sale on the 50th anniversary of the Apollo 11 mission both came directly from the community.
+
+"We're open to proposals for themed sales from groups of developers with games that share similar themes and mechanics," Mackey said. "If you have an idea for a sale and you know other developers who might be interested, please bring us your ideas and we'd love to work together with you on a custom sales event."
+
+You can read more about Steam sales in this [dedicated article](https://www.gamesindustry.biz/articles/2020-06-10-how-to-price-your-game-and-thrive-during-steam-sales).
+
+Live streaming from your store page can boost sales
+---------------------------------------------------
+
+Even in its beta test, the positive impact of hosting livestreams on a store page were clear. Rockfish CEO Michael Schade told us in 2018 that Everspace had its [single biggest day for revenue](https://www.gamesindustry.biz/articles/2018-07-20-rockfish-steam-store-page-broadcasting-is-a-game-changer-for-indie-marketing) as a result of the new feature -- and it is now available to everyone.
+
+More importantly, it is better suited to games that have already been released, as a way to demonstrate the full breadth of the experience, but also as a marketing tool during sales, events, and updates.
+
+"Streams are a way of maintaining interest, and showcasing DLC, updates and events," said Mackey. "It's also a great opportunity to show people what it's like to actually play your game, which is something that trailers aren't always capable of doing."
+
+[![Image 2: Steam Labs offers some transparency on the ideas Valve is testing for the store](https://cdn.gamer-network.net/2020/articles/2020-04-24-14-37/deepdive_social.jpg/EG11/resize/646x-1/quality/80/format/jpg)](https://cdn.gamer-network.net/2020/articles/2020-04-24-14-37/deepdive_social.jpg)
+Steam Labs offers some transparency on the ideas Valve is testing for the store
+
+Keep an eye on Steam Labs
+-------------------------
+
+All of the features listed in both this article and [the previous one](https://www.gamesindustry.biz/articles/2020-04-22-valves-top-tips-for-launching-a-game-on-steam) were the result of experimentation and testing, which used to happen behind closed doors. Steam Labs, which launched in July 2019, is an attempt to let developers see what's coming, and influence the way new features are shaped.
+
+"You can think of this as Early Access for Steam features," Mackey said. "Steam Labs lets us put up work that isn't polished, isn't scalable, and isn't a final product, but it allows us to gather feedback and reaction to things that we think are potentially interesting, so that we can learn more and think about how to better integrate them into the wider storefront."
+
+Mackey offered [Micro Trailers](https://store.steampowered.com/labs/microtrailers) as one example, which compress longer videos into clips of a few seconds that play when the mouse cursor hovers over a game. Another is [Deep Dive](https://store.steampowered.com/labs/divingbell), which replicates tumbling down a Wikipedia rabbit hole by asking the user to pick a single game, and then following a chain of related options.
+
+"So far, most of our experiments have revolved around discovery, and we're trying out various tools to make it easier for customers to find the game that they want right now," Mackey said.
+
+"But discovery isn't the only thing we're experimenting with, and we're constantly thinking of ways to improve the store and new experiments we can work on."
+
+Our GamesIndustry.biz Academy guides to Steam tackle every aspect of publishing on Valve's platform, from pre-launch to later periods of your release cycle. [You can read them all on this page](https://www.gamesindustry.biz/articles/2020-05-18-a-developers-guide-to-releasing-a-game-on-steam).

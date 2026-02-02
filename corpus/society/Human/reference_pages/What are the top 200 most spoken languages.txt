@@ -1,0 +1,270 @@
+# What are the top 200 most spoken languages?
+
+Summary by language size
+------------------------
+
+A striking fact shown in [table 1](http://www.ethnologue.org/ethno_docs/distribution.asp?by=area#1) is that there is a huge disparity between the mean size of languages and the median size. It turns out that 389 (or nearly 6%) of the world’s languages have at least one million speakers and account for 94% of the world’s population. By contrast, the remaining 94% of languages are spoken by only 6% of the world’s people.
+
+[Table 2](http://www.ethnologue.org/ethno_docs/distribution.asp?by=size#2) summarizes the distribution of languages by size. The _Count_ columns give the actual number of languages within the specified population range and the total number of first-language speakers of those languages. The _Percent_ columns give the share of the count for that population range as a percentage of the total number listed at the bottom of the Count column. Note that there are still a few hundred languages for which the _Ethnologue_ does not have a population estimate; the calculation of percentages for speakers is therefore not able to take those languages into account. The _Cumulative_ columns give the cumulative sums of the percentages going from top to bottom in the column.
+
+[Table 3](http://www.ethnologue.org/ethno_docs/distribution.asp?by=size#3) lists the largest languages of the world in descending order of population of first-language speakers. The _Primary Country_ column names the country in which the primary entry for the language is given in Part 1 of the book. The _Total Countries_ column gives the number of countries in which the language is listed either with a full entry or as an immigrant language in the country header. The _Speakers_ column gives the number of first-language speakers in millions. The table rows in italic type represent macrolanguages (see [_Introduction: Macrolanguages_](http://www.ethnologue.org/ethno_docs/introduction.asp#Macro)); in these cases the _Total Countries_ and _Speakers_ columns are totals for all the individual languages listed in the macrolanguage entry as members of the macrolanguage. Individual languages that are members of a macrolanguage are not counted in the ranking, but are listed as indented entries below the macrolanguage. Note that the indented listing of individual languages does not include all member languages; it includes only those over the threshold size given in the table caption.
+
+#### [](http://www.ethnologue.org/ethno_docs/distribution.asp?by=size)Table 2. Distribution of languages by number of first-language speakers
+
+| Population range | Living languages | Number of speakers |
+| --- | --- | --- |
+|  | _Count_ | _Percent_ | _Cumulative_ | _Count_ | _Percent_ | _Cumulative_ |
+| 100,000,000 to 999,999,999 | 8 | 0.1 | 0.1% | 2,308,548,848 | 38.73721 | 38.73721% |
+| 10,000,000 to 99,999,999 | 77 | 1.1 | 1.2% | 2,346,900,757 | 39.38076 | 78.11797% |
+| 1,000,000 to 9,999,999 | 304 | 4.4 | 5.6% | 951,916,458 | 15.97306 | 94.09103% |
+| 100,000 to 999,999 | 895 | 13.0 | 18.6% | 283,116,716 | 4.75067 | 98.84170% |
+| 10,000 to 99,999 | 1,824 | 26.4 | 45.0% | 60,780,797 | 1.01990 | 99.86160% |
+| 1,000 to 9,999 | 2,014 | 29.2 | 74.1% | 7,773,810 | 0.13044 | 99.99204% |
+| 100 to 999 | 1,038 | 15.0 | 89.2% | 461,250 | 0.00774 | 99.99978% |
+| 10 to 99 | 339 | 4.9 | 94.1% | 12,560 | 0.00021 | 99.99999% |
+| 1 to 9 | 133 | 1.9 | 96.0% | 521 | 0.00001 | 100.00000% |
+| Unknown | 277 | 4.0 | 100.0% |  |  |  |
+| _Totals_ | 6,909 | 100.0 |  | 5,959,511,717 | 100.00000 |  |
+
+#### [](http://www.ethnologue.org/ethno_docs/distribution.asp?by=size)Table 3. Languages with at least 3 million first-language speakers
+
+| Rank | Language | Primary Country | Total Countries | Speakers (millions) |
+| --- | --- | --- | --- | --- |
+| _1_ | _Chinese [[zho](http://www.ethnologue.org/show\_language.asp?code=zho)]_ | _China_ | _31_ | _1,213_ |
+|  | Chinese, Gan [[gan](http://www.ethnologue.org/show_language.asp?code=gan)] | China | 1 | 20.6 |
+|  | Chinese, Hakka [[hak](http://www.ethnologue.org/show_language.asp?code=hak)] | China | 17 | 30.0 |
+|  | Chinese, Huizhou [[czh](http://www.ethnologue.org/show_language.asp?code=czh)] | China | 1 | 4.6 |
+|  | Chinese, Jinyu [[cjy](http://www.ethnologue.org/show_language.asp?code=cjy)] | China | 1 | 45.0 |
+|  | Chinese, Mandarin [[cmn](http://www.ethnologue.org/show_language.asp?code=cmn)] | China | 20 | 845 |
+|  | Chinese, Min Bei [[mnp](http://www.ethnologue.org/show_language.asp?code=mnp)] | China | 2 | 10.3 |
+|  | Chinese, Min Dong [[cdo](http://www.ethnologue.org/show_language.asp?code=cdo)] | China | 7 | 9.1 |
+|  | Chinese, Min Nan [[nan](http://www.ethnologue.org/show_language.asp?code=nan)] | China | 10 | 47.3 |
+|  | Chinese, Min Zhong [[czo](http://www.ethnologue.org/show_language.asp?code=czo)] | China | 1 | 3.1 |
+|  | Chinese, Wu [[wuu](http://www.ethnologue.org/show_language.asp?code=wuu)] | China | 2 | 77.2 |
+|  | Chinese, Xiang [[hsn](http://www.ethnologue.org/show_language.asp?code=hsn)] | China | 2 | 36.0 |
+|  | Chinese, Yue [[yue](http://www.ethnologue.org/show_language.asp?code=yue)] | China | 20 | 55.5 |
+| 2 | Spanish [[spa](http://www.ethnologue.org/show_language.asp?code=spa)] | Spain | 44 | 329 |
+| 3 | English [[eng](http://www.ethnologue.org/show_language.asp?code=eng)] | United Kingdom | 112 | 328 |
+| _4_ | _Arabic [[ara](http://www.ethnologue.org/show\_language.asp?code=ara)]_ | _Saudi Arabia_ | _57_ | _221_ |
+|  | Arabic, Algerian Spoken [[arq](http://www.ethnologue.org/show_language.asp?code=arq)] | Algeria | 6 | 22.4 |
+|  | Arabic, Egyptian Spoken [[arz](http://www.ethnologue.org/show_language.asp?code=arz)] | Egypt | 10 | 54.0 |
+|  | Arabic, Gulf Spoken [[afb](http://www.ethnologue.org/show_language.asp?code=afb)] | Iraq | 10 | 3.6 |
+|  | Arabic, Hijazi Spoken [[acw](http://www.ethnologue.org/show_language.asp?code=acw)] | Saudi Arabia | 2 | 6.0 |
+|  | Arabic, Libyan Spoken [[ayl](http://www.ethnologue.org/show_language.asp?code=ayl)] | Libya | 3 | 4.3 |
+|  | Arabic, Mesopotamian Spoken [[acm](http://www.ethnologue.org/show_language.asp?code=acm)] | Iraq | 5 | 15.1 |
+|  | Arabic, Moroccan Spoken [[ary](http://www.ethnologue.org/show_language.asp?code=ary)] | Morocco | 10 | 21.0 |
+|  | Arabic, Najdi Spoken [[ars](http://www.ethnologue.org/show_language.asp?code=ars)] | Saudi Arabia | 7 | 10.0 |
+|  | Arabic, North Levantine Spoken [[apc](http://www.ethnologue.org/show_language.asp?code=apc)] | Syria | 16 | 14.4 |
+|  | Arabic, North Mesopotamian Spoken [[ayp](http://www.ethnologue.org/show_language.asp?code=ayp)] | Iraq | 4 | 6.3 |
+|  | Arabic, Sa'idi Spoken [[aec](http://www.ethnologue.org/show_language.asp?code=aec)] | Egypt | 1 | 19.0 |
+|  | Arabic, Sanaani Spoken [[ayn](http://www.ethnologue.org/show_language.asp?code=ayn)] | Yemen | 1 | 7.6 |
+|  | Arabic, South Levantine Spoken [[ajp](http://www.ethnologue.org/show_language.asp?code=ajp)] | Jordan | 9 | 6.2 |
+|  | Arabic, Sudanese Spoken [[apd](http://www.ethnologue.org/show_language.asp?code=apd)] | Sudan | 6 | 16.8 |
+|  | Arabic, Ta'izzi-Adeni Spoken [[acq](http://www.ethnologue.org/show_language.asp?code=acq)] | Yemen | 8 | 7.1 |
+|  | Arabic, Tunisian Spoken [[aeb](http://www.ethnologue.org/show_language.asp?code=aeb)] | Tunisia | 5 | 9.4 |
+| 5 | Hindi [[hin](http://www.ethnologue.org/show_language.asp?code=hin)] | India | 20 | 182 |
+| 6 | Bengali [[ben](http://www.ethnologue.org/show_language.asp?code=ben)] | Bangladesh | 10 | 181 |
+| 7 | Portuguese [[por](http://www.ethnologue.org/show_language.asp?code=por)] | Portugal | 37 | 178 |
+| 8 | Russian [[rus](http://www.ethnologue.org/show_language.asp?code=rus)] | Russian Federation | 33 | 144 |
+| 9 | Japanese [[jpn](http://www.ethnologue.org/show_language.asp?code=jpn)] | Japan | 25 | 122 |
+| 10 | German, Standard [[deu](http://www.ethnologue.org/show_language.asp?code=deu)] | Germany | 43 | 90.3 |
+| 11 | Javanese [[jav](http://www.ethnologue.org/show_language.asp?code=jav)] | Indonesia | 5 | 84.6 |
+| _12_ | _Lahnda [[lah](http://www.ethnologue.org/show\_language.asp?code=lah)]_ | _Pakistan_ | _8_ | _78.3_ |
+|  | Panjabi, Western [[pnb](http://www.ethnologue.org/show_language.asp?code=pnb)] | Pakistan | 7 | 62.6 |
+|  | Seraiki [[skr](http://www.ethnologue.org/show_language.asp?code=skr)] | Pakistan | 3 | 13.8 |
+| 13 | Telugu [[tel](http://www.ethnologue.org/show_language.asp?code=tel)] | India | 10 | 69.8 |
+| 14 | Vietnamese [[vie](http://www.ethnologue.org/show_language.asp?code=vie)] | Viet Nam | 23 | 68.6 |
+| 15 | Marathi [[mar](http://www.ethnologue.org/show_language.asp?code=mar)] | India | 5 | 68.1 |
+| 16 | French [[fra](http://www.ethnologue.org/show_language.asp?code=fra)] | France | 60 | 67.8 |
+| 17 | Korean [[kor](http://www.ethnologue.org/show_language.asp?code=kor)] | Korea, South | 33 | 66.3 |
+| 18 | Tamil [[tam](http://www.ethnologue.org/show_language.asp?code=tam)] | India | 17 | 65.7 |
+| 19 | Italian [[ita](http://www.ethnologue.org/show_language.asp?code=ita)] | Italy | 34 | 61.7 |
+| 20 | Urdu [[urd](http://www.ethnologue.org/show_language.asp?code=urd)] | Pakistan | 23 | 60.6 |
+| 21 | Turkish [[tur](http://www.ethnologue.org/show_language.asp?code=tur)] | Turkey | 36 | 50.8 |
+| 22 | Gujarati [[guj](http://www.ethnologue.org/show_language.asp?code=guj)] | India | 20 | 46.5 |
+| 23 | Polish [[pol](http://www.ethnologue.org/show_language.asp?code=pol)] | Poland | 23 | 40.0 |
+| _24_ | _Malay [[msa](http://www.ethnologue.org/show\_language.asp?code=msa)]_ | _Malaysia_ | _14_ | _39.1_ |
+|  | Malay [[zlm](http://www.ethnologue.org/show_language.asp?code=zlm)] | Malaysia | 7 | 10.3 |
+| 25 | Bhojpuri [[bho](http://www.ethnologue.org/show_language.asp?code=bho)] | India | 3 | 38.5 |
+| 26 | Awadhi [[awa](http://www.ethnologue.org/show_language.asp?code=awa)] | India | 2 | 38.3 |
+| 27 | Ukrainian [[ukr](http://www.ethnologue.org/show_language.asp?code=ukr)] | Ukraine | 27 | 37.0 |
+| 28 | Malayalam [[mal](http://www.ethnologue.org/show_language.asp?code=mal)] | India | 11 | 35.9 |
+| 29 | Kannada [[kan](http://www.ethnologue.org/show_language.asp?code=kan)] | India | 3 | 35.3 |
+| 30 | Maithili [[mai](http://www.ethnologue.org/show_language.asp?code=mai)] | India | 2 | 34.7 |
+| 31 | Sunda [[sun](http://www.ethnologue.org/show_language.asp?code=sun)] | Indonesia | 1 | 34.0 |
+| 32 | Burmese [[mya](http://www.ethnologue.org/show_language.asp?code=mya)] | Myanmar | 5 | 32.3 |
+| 33 | Oriya [[ori](http://www.ethnologue.org/show_language.asp?code=ori)] | India | 2 | 31.7 |
+| _34_ | _Persian [[fas](http://www.ethnologue.org/show\_language.asp?code=fas)]_ | _Iran_ | _29_ | _31.4_ |
+|  | Farsi, Eastern [[prs](http://www.ethnologue.org/show_language.asp?code=prs)] | Afghanistan | 3 | 7.6 |
+|  | Farsi, Western [[pes](http://www.ethnologue.org/show_language.asp?code=pes)] | Iran | 27 | 23.9 |
+| _35_ | _Marwari [[mwr](http://www.ethnologue.org/show\_language.asp?code=mwr)]_ | _India_ | _3_ | _31.1_ |
+|  | Dhundari [[dhd](http://www.ethnologue.org/show_language.asp?code=dhd)] | India | 1 | 9.0 |
+|  | Marwari [[rwr](http://www.ethnologue.org/show_language.asp?code=rwr)] | India | 3 | 5.6 |
+|  | Merwari [[wry](http://www.ethnologue.org/show_language.asp?code=wry)] | India | 1 | 3.9 |
+|  | Shekhawati [[swv](http://www.ethnologue.org/show_language.asp?code=swv)] | India | 1 | 3.0 |
+| 36 | Panjabi, Eastern [[pan](http://www.ethnologue.org/show_language.asp?code=pan)] | India | 12 | 28.2 |
+| 37 | Filipino [[fil](http://www.ethnologue.org/show_language.asp?code=fil)] | Philippines | 1 | 25.0 |
+| 38 | Hausa [[hau](http://www.ethnologue.org/show_language.asp?code=hau)] | Nigeria | 13 | 25.0 |
+| 39 | Tagalog [[tgl](http://www.ethnologue.org/show_language.asp?code=tgl)] | Philippines | 8 | 23.9 |
+| 40 | Romanian [[ron](http://www.ethnologue.org/show_language.asp?code=ron)] | Romania | 20 | 23.4 |
+| 41 | Indonesian [[ind](http://www.ethnologue.org/show_language.asp?code=ind)] | Indonesia | 6 | 23.2 |
+| 42 | Dutch [[nld](http://www.ethnologue.org/show_language.asp?code=nld)] | Netherlands | 12 | 21.7 |
+| 43 | Sindhi [[snd](http://www.ethnologue.org/show_language.asp?code=snd)] | Pakistan | 8 | 21.4 |
+| 44 | Thai [[tha](http://www.ethnologue.org/show_language.asp?code=tha)] | Thailand | 5 | 20.4 |
+| _45_ | _Pushto [[pus](http://www.ethnologue.org/show\_language.asp?code=pus)]_ | _Pakistan_ | _9_ | _20.3_ |
+|  | Pashto, Central [[pst](http://www.ethnologue.org/show_language.asp?code=pst)] | Pakistan | 1 | 7.9 |
+|  | Pashto, Northern [[pbu](http://www.ethnologue.org/show_language.asp?code=pbu)] | Pakistan | 7 | 9.7 |
+| _46_ | _Uzbek [[uzb](http://www.ethnologue.org/show\_language.asp?code=uzb)]_ | _Uzbekistan_ | _14_ | _20.3_ |
+|  | Uzbek, Northern [[uzn](http://www.ethnologue.org/show_language.asp?code=uzn)] | Uzbekistan | 12 | 18.8 |
+| _47_ | _Rajasthani [[raj](http://www.ethnologue.org/show\_language.asp?code=raj)]_ | _India_ | _3_ | _20.0_ |
+|  | Hadothi [[hoj](http://www.ethnologue.org/show_language.asp?code=hoj)] | India | 1 | 4.7 |
+|  | Malvi [[mup](http://www.ethnologue.org/show_language.asp?code=mup)] | India | 1 | 10.4 |
+| 48 | Yoruba [[yor](http://www.ethnologue.org/show_language.asp?code=yor)] | Nigeria | 6 | 19.4 |
+| _49_ | _Azerbaijani [[aze](http://www.ethnologue.org/show\_language.asp?code=aze)]_ | _Iran_ | _17_ | _19.1_ |
+|  | Azerbaijani, North [[azj](http://www.ethnologue.org/show_language.asp?code=azj)] | Azerbaijan | 10 | 7.5 |
+|  | Azerbaijani, South [[azb](http://www.ethnologue.org/show_language.asp?code=azb)] | Iran | 8 | 12.6 |
+| 50 | Igbo [[ibo](http://www.ethnologue.org/show_language.asp?code=ibo)] | Nigeria | 1 | 18.0 |
+| 51 | Amharic [[amh](http://www.ethnologue.org/show_language.asp?code=amh)] | Ethiopia | 6 | 17.5 |
+| 52 | Chhattisgarhi [[hne](http://www.ethnologue.org/show_language.asp?code=hne)] | India | 1 | 17.5 |
+| _53_ | _Oromo [[orm](http://www.ethnologue.org/show\_language.asp?code=orm)]_ | _Ethiopia_ | _4_ | _17.3_ |
+|  | Oromo, Borana-Arsi-Guji [[gax](http://www.ethnologue.org/show_language.asp?code=gax)] | Ethiopia | 3 | 3.8 |
+|  | Oromo, Eastern [[hae](http://www.ethnologue.org/show_language.asp?code=hae)] | Ethiopia | 1 | 4.5 |
+|  | Oromo, West Central [[gaz](http://www.ethnologue.org/show_language.asp?code=gaz)] | Ethiopia | 2 | 8.9 |
+| 54 | Assamese [[asm](http://www.ethnologue.org/show_language.asp?code=asm)] | India | 4 | 16.8 |
+| _55_ | _Serbo-Croatian [[hbs](http://www.ethnologue.org/show\_language.asp?code=hbs)]_ | _Serbia_ | _28_ | _16.4_ |
+|  | Croatian [[hrv](http://www.ethnologue.org/show_language.asp?code=hrv)] | Croatia | 14 | 5.5 |
+|  | Serbian [[srp](http://www.ethnologue.org/show_language.asp?code=srp)] | Serbia | 22 | 7.0 |
+| _56_ | _Kurdish [[kur](http://www.ethnologue.org/show\_language.asp?code=kur)]_ | _Iraq_ | _32_ | _16.0_ |
+|  | Kurdish, Central [[ckb](http://www.ethnologue.org/show_language.asp?code=ckb)] | Iraq | 2 | 3.7 |
+|  | Kurdish, Northern [[kmr](http://www.ethnologue.org/show_language.asp?code=kmr)] | Turkey | 32 | 9.3 |
+|  | Kurdish, Southern [[sdh](http://www.ethnologue.org/show_language.asp?code=sdh)] | Iran | 2 | 3.0 |
+| 57 | Cebuano [[ceb](http://www.ethnologue.org/show_language.asp?code=ceb)] | Philippines | 2 | 15.8 |
+| 58 | Sinhala [[sin](http://www.ethnologue.org/show_language.asp?code=sin)] | Sri Lanka | 8 | 15.6 |
+| 59 | Rangpuri [[rkt](http://www.ethnologue.org/show_language.asp?code=rkt)] | Bangladesh | 2 | 15.0 |
+| 60 | Thai, Northeastern [[tts](http://www.ethnologue.org/show_language.asp?code=tts)] | Thailand | 1 | 15.0 |
+| _61_ | _Zhuang [[zha](http://www.ethnologue.org/show\_language.asp?code=zha)]_ | _China_ | _2_ | _14.9_ |
+| _62_ | _Malagasy [[mlg](http://www.ethnologue.org/show\_language.asp?code=mlg)]_ | _Madagascar_ | _4_ | _14.7_ |
+|  | Malagasy, Plateau [[plt](http://www.ethnologue.org/show_language.asp?code=plt)] | Madagascar | 4 | 7.5 |
+| 63 | Nepali [[nep](http://www.ethnologue.org/show_language.asp?code=nep)] | Nepal | 5 | 13.9 |
+| 64 | Somali [[som](http://www.ethnologue.org/show_language.asp?code=som)] | Somalia | 13 | 13.9 |
+| 65 | Khmer, Central [[khm](http://www.ethnologue.org/show_language.asp?code=khm)] | Cambodia | 7 | 13.6 |
+| 66 | Madura [[mad](http://www.ethnologue.org/show_language.asp?code=mad)] | Indonesia | 2 | 13.6 |
+| 67 | Bavarian [[bar](http://www.ethnologue.org/show_language.asp?code=bar)] | Austria | 4 | 13.3 |
+| 68 | Greek [[ell](http://www.ethnologue.org/show_language.asp?code=ell)] | Greece | 38 | 13.1 |
+| 69 | Chittagonian [[ctg](http://www.ethnologue.org/show_language.asp?code=ctg)] | Bangladesh | 1 | 13.0 |
+| 70 | Haryanvi [[bgc](http://www.ethnologue.org/show_language.asp?code=bgc)] | India | 1 | 13.0 |
+| 71 | Magahi [[mag](http://www.ethnologue.org/show_language.asp?code=mag)] | India | 1 | 13.0 |
+| 72 | Deccan [[dcc](http://www.ethnologue.org/show_language.asp?code=dcc)] | India | 1 | 12.8 |
+| 73 | Hungarian [[hun](http://www.ethnologue.org/show_language.asp?code=hun)] | Hungary | 14 | 12.5 |
+| _74_ | _Fulah [[ful](http://www.ethnologue.org/show\_language.asp?code=ful)]_ | _Senegal_ | _19_ | _12.3_ |
+|  | Pulaar [[fuc](http://www.ethnologue.org/show_language.asp?code=fuc)] | Senegal | 6 | 3.7 |
+| 75 | Catalan-Valencian-Balear [[cat](http://www.ethnologue.org/show_language.asp?code=cat)] | Spain | 18 | 11.5 |
+| 76 | Shona [[sna](http://www.ethnologue.org/show_language.asp?code=sna)] | Zimbabwe | 5 | 10.8 |
+| 77 | Zulu [[zul](http://www.ethnologue.org/show_language.asp?code=zul)] | South Africa | 6 | 10.3 |
+| 78 | Sylheti [[syl](http://www.ethnologue.org/show_language.asp?code=syl)] | Bangladesh | 10 | 10.3 |
+| _79_ | _Quechua [[que](http://www.ethnologue.org/show\_language.asp?code=que)]_ | _Peru_ | _6_ | _10.1_ |
+|  | Quechua, South Bolivian [[quh](http://www.ethnologue.org/show_language.asp?code=quh)] | Bolivia | 2 | 3.6 |
+| 80 | Kanauji [[bjj](http://www.ethnologue.org/show_language.asp?code=bjj)] | India | 1 | 9.5 |
+| 81 | Czech [[ces](http://www.ethnologue.org/show_language.asp?code=ces)] | Czech Republic | 12 | 9.5 |
+| 82 | Lombard [[lmo](http://www.ethnologue.org/show_language.asp?code=lmo)] | Italy | 3 | 9.1 |
+| 83 | Bulgarian [[bul](http://www.ethnologue.org/show_language.asp?code=bul)] | Bulgaria | 16 | 9.1 |
+| 84 | Uyghur [[uig](http://www.ethnologue.org/show_language.asp?code=uig)] | China | 15 | 8.8 |
+| 85 | Nyanja [[nya](http://www.ethnologue.org/show_language.asp?code=nya)] | Malawi | 6 | 8.7 |
+| 86 | Belarusan [[bel](http://www.ethnologue.org/show_language.asp?code=bel)] | Belarus | 16 | 8.6 |
+| 87 | Kazakh [[kaz](http://www.ethnologue.org/show_language.asp?code=kaz)] | Kazakhstan | 14 | 8.3 |
+| 88 | Swedish [[swe](http://www.ethnologue.org/show_language.asp?code=swe)] | Sweden | 8 | 8.3 |
+| 89 | Akan [[aka](http://www.ethnologue.org/show_language.asp?code=aka)] | Ghana | 1 | 8.3 |
+| 90 | Xhosa [[xho](http://www.ethnologue.org/show_language.asp?code=xho)] | South Africa | 3 | 7.8 |
+| 91 | Bagheli [[bfy](http://www.ethnologue.org/show_language.asp?code=bfy)] | India | 2 | 7.8 |
+| 92 | Haitian [[hat](http://www.ethnologue.org/show_language.asp?code=hat)] | Haiti | 10 | 7.7 |
+| _93_ | _Konkani [[kok](http://www.ethnologue.org/show\_language.asp?code=kok)]_ | _India_ | _4_ | _7.6_ |
+|  | Konkani [[knn](http://www.ethnologue.org/show_language.asp?code=knn)] | India | 2 | 4.0 |
+|  | Konkani, Goan [[gom](http://www.ethnologue.org/show_language.asp?code=gom)] | India | 3 | 3.6 |
+| 94 | Rwanda [[kin](http://www.ethnologue.org/show_language.asp?code=kin)] | Rwanda | 4 | 7.5 |
+| 95 | Gikuyu [[kik](http://www.ethnologue.org/show_language.asp?code=kik)] | Kenya | 1 | 7.2 |
+| 96 | Napoletano-Calabrese [[nap](http://www.ethnologue.org/show_language.asp?code=nap)] | Italy | 1 | 7.0 |
+| _97_ | _Baluchi [[bal](http://www.ethnologue.org/show\_language.asp?code=bal)]_ | _Pakistan_ | _8_ | _7.0_ |
+|  | Balochi, Southern [[bcc](http://www.ethnologue.org/show_language.asp?code=bcc)] | Pakistan | 4 | 3.4 |
+| 98 | Ilocano [[ilo](http://www.ethnologue.org/show_language.asp?code=ilo)] | Philippines | 2 | 7.0 |
+| 99 | Varhadi-Nagpuri [[vah](http://www.ethnologue.org/show_language.asp?code=vah)] | India | 1 | 7.0 |
+| 100 | Turkmen [[tuk](http://www.ethnologue.org/show_language.asp?code=tuk)] | Turkmenistan | 14 | 6.6 |
+| 101 | Tatar [[tat](http://www.ethnologue.org/show_language.asp?code=tat)] | Russian Federation | 19 | 6.5 |
+| 102 | German, Swiss [[gsw](http://www.ethnologue.org/show_language.asp?code=gsw)] | Switzerland | 5 | 6.5 |
+| _103_ | _Hmong [[hmn](http://www.ethnologue.org/show\_language.asp?code=hmn)]_ | _China_ | _10_ | _6.5_ |
+| 104 | Armenian [[hye](http://www.ethnologue.org/show_language.asp?code=hye)] | Armenia | 30 | 6.4 |
+| 105 | Luba-Kasai [[lua](http://www.ethnologue.org/show_language.asp?code=lua)] | Democratic Republic of the Congo | 1 | 6.3 |
+| 106 | Venetian [[vec](http://www.ethnologue.org/show_language.asp?code=vec)] | Italy | 4 | 6.2 |
+| 107 | Santali [[sat](http://www.ethnologue.org/show_language.asp?code=sat)] | India | 4 | 6.2 |
+| 108 | Vlaams [[vls](http://www.ethnologue.org/show_language.asp?code=vls)] | Belgium | 5 | 6.1 |
+| 109 | Sotho, Southern [[sot](http://www.ethnologue.org/show_language.asp?code=sot)] | Lesotho | 4 | 6.0 |
+| 110 | Thai, Northern [[nod](http://www.ethnologue.org/show_language.asp?code=nod)] | Thailand | 2 | 6.0 |
+| 111 | Lambadi [[lmn](http://www.ethnologue.org/show_language.asp?code=lmn)] | India | 1 | 6.0 |
+| _112_ | _Kongo [[kon](http://www.ethnologue.org/show\_language.asp?code=kon)]_ | _Democratic Republic of the Congo_ | _3_ | _6.0_ |
+|  | Koongo [[kng](http://www.ethnologue.org/show_language.asp?code=kng)] | Democratic Republic of the Congo | 3 | 5.0 |
+| _113_ | _Albanian [[sqi](http://www.ethnologue.org/show\_language.asp?code=sqi)]_ | _Albania_ | _18_ | _5.8_ |
+|  | Albanian, Gheg [[aln](http://www.ethnologue.org/show_language.asp?code=aln)] | Serbia | 9 | 4.2 |
+|  | Albanian, Tosk [[als](http://www.ethnologue.org/show_language.asp?code=als)] | Albania | 10 | 3.0 |
+| 114 | Tigrigna [[tir](http://www.ethnologue.org/show_language.asp?code=tir)] | Ethiopia | 6 | 5.8 |
+| 115 | Hiligaynon [[hil](http://www.ethnologue.org/show_language.asp?code=hil)] | Philippines | 2 | 5.8 |
+| _116_ | _Mongolian [[mon](http://www.ethnologue.org/show\_language.asp?code=mon)]_ | _Mongolia_ | _6_ | _5.7_ |
+|  | Mongolian, Peripheral [[mvf](http://www.ethnologue.org/show_language.asp?code=mvf)] | China | 2 | 3.4 |
+| 117 | Kashmiri [[kas](http://www.ethnologue.org/show_language.asp?code=kas)] | India | 4 | 5.6 |
+| 118 | Danish [[dan](http://www.ethnologue.org/show_language.asp?code=dan)] | Denmark | 8 | 5.6 |
+| 119 | Minangkabau [[min](http://www.ethnologue.org/show_language.asp?code=min)] | Indonesia | 1 | 5.5 |
+| 120 | Sukuma [[suk](http://www.ethnologue.org/show_language.asp?code=suk)] | Tanzania | 1 | 5.4 |
+| 121 | Hebrew [[heb](http://www.ethnologue.org/show_language.asp?code=heb)] | Israel | 8 | 5.3 |
+| 122 | Mòoré [[mos](http://www.ethnologue.org/show_language.asp?code=mos)] | Burkina Faso | 7 | 5.1 |
+| 123 | Slovak [[slk](http://www.ethnologue.org/show_language.asp?code=slk)] | Slovakia | 12 | 5.0 |
+| 124 | Finnish [[fin](http://www.ethnologue.org/show_language.asp?code=fin)] | Finland | 7 | 5.0 |
+| 125 | Mewati [[wtm](http://www.ethnologue.org/show_language.asp?code=wtm)] | India | 1 | 5.0 |
+| 126 | Afrikaans [[afr](http://www.ethnologue.org/show_language.asp?code=afr)] | South Africa | 12 | 4.9 |
+| _127_ | _Guarani [[grn](http://www.ethnologue.org/show\_language.asp?code=grn)]_ | _Paraguay_ | _5_ | _4.9_ |
+|  | Guaraní, Paraguayan [[gug](http://www.ethnologue.org/show_language.asp?code=gug)] | Paraguay | 2 | 4.8 |
+| 128 | Mainfränkisch [[vmf](http://www.ethnologue.org/show_language.asp?code=vmf)] | Germany | 1 | 4.9 |
+| 129 | Rundi [[run](http://www.ethnologue.org/show_language.asp?code=run)] | Burundi | 4 | 4.9 |
+| _130_ | _Bikol [[bik](http://www.ethnologue.org/show\_language.asp?code=bik)]_ | _Philippines_ | _1_ | _4.8_ |
+| 131 | Sicilian [[scn](http://www.ethnologue.org/show_language.asp?code=scn)] | Italy | 1 | 4.8 |
+| 132 | Norwegian [[nor](http://www.ethnologue.org/show_language.asp?code=nor)] | Norway | 1 | 4.6 |
+| _133_ | _Mandingo [[man](http://www.ethnologue.org/show\_language.asp?code=man)]_ | _Guinea_ | _8_ | _4.5_ |
+| 134 | Tswana [[tsn](http://www.ethnologue.org/show_language.asp?code=tsn)] | Botswana | 4 | 4.5 |
+| 135 | Thai, Southern [[sou](http://www.ethnologue.org/show_language.asp?code=sou)] | Thailand | 1 | 4.5 |
+| 136 | Tajiki [[tgk](http://www.ethnologue.org/show_language.asp?code=tgk)] | Tajikistan | 8 | 4.5 |
+| 137 | Dholuo [[luo](http://www.ethnologue.org/show_language.asp?code=luo)] | Kenya | 2 | 4.4 |
+| 138 | Georgian [[kat](http://www.ethnologue.org/show_language.asp?code=kat)] | Georgia | 13 | 4.3 |
+| 139 | Kituba [[ktu](http://www.ethnologue.org/show_language.asp?code=ktu)] | Democratic Republic of the Congo | 1 | 4.2 |
+| 140 | Ganda [[lug](http://www.ethnologue.org/show_language.asp?code=lug)] | Uganda | 1 | 4.1 |
+| 141 | Sotho, Northern [[nso](http://www.ethnologue.org/show_language.asp?code=nso)] | South Africa | 2 | 4.1 |
+| 142 | Umbundu [[umb](http://www.ethnologue.org/show_language.asp?code=umb)] | Angola | 2 | 4.0 |
+| 143 | Wolof [[wol](http://www.ethnologue.org/show_language.asp?code=wol)] | Senegal | 6 | 4.0 |
+| 144 | Kamba [[kam](http://www.ethnologue.org/show_language.asp?code=kam)] | Kenya | 1 | 4.0 |
+| _145_ | _Kanuri [[kau](http://www.ethnologue.org/show\_language.asp?code=kau)]_ | _Nigeria_ | _6_ | _4.0_ |
+|  | Kanuri, Central [[knc](http://www.ethnologue.org/show_language.asp?code=knc)] | Nigeria | 6 | 3.2 |
+| 146 | Domari [[rmt](http://www.ethnologue.org/show_language.asp?code=rmt)] | Iran | 14 | 4.0 |
+| 147 | Musi [[mui](http://www.ethnologue.org/show_language.asp?code=mui)] | Indonesia | 1 | 3.9 |
+| _148_ | _Dogri [[doi](http://www.ethnologue.org/show\_language.asp?code=doi)]_ | _India_ | _1_ | _3.8_ |
+| 149 | Mina [[myi](http://www.ethnologue.org/show_language.asp?code=myi)] | India | 1 | 3.8 |
+| 150 | Tsonga [[tso](http://www.ethnologue.org/show_language.asp?code=tso)] | South Africa | 4 | 3.7 |
+| 151 | Bemba [[bem](http://www.ethnologue.org/show_language.asp?code=bem)] | Zambia | 4 | 3.6 |
+| 152 | Banjar [[bjn](http://www.ethnologue.org/show_language.asp?code=bjn)] | Indonesia | 2 | 3.5 |
+| 153 | Aceh [[ace](http://www.ethnologue.org/show_language.asp?code=ace)] | Indonesia | 1 | 3.5 |
+| 154 | Bugis [[bug](http://www.ethnologue.org/show_language.asp?code=bug)] | Indonesia | 2 | 3.5 |
+| 155 | Bali [[ban](http://www.ethnologue.org/show_language.asp?code=ban)] | Indonesia | 1 | 3.3 |
+| 156 | Shan [[shn](http://www.ethnologue.org/show_language.asp?code=shn)] | Myanmar | 3 | 3.3 |
+| 157 | Gilaki [[glk](http://www.ethnologue.org/show_language.asp?code=glk)] | Iran | 1 | 3.3 |
+| 158 | Mazanderani [[mzn](http://www.ethnologue.org/show_language.asp?code=mzn)] | Iran | 1 | 3.3 |
+| 159 | Jamaican Creole English [[jam](http://www.ethnologue.org/show_language.asp?code=jam)] | Jamaica | 7 | 3.2 |
+| 160 | Galician [[glg](http://www.ethnologue.org/show_language.asp?code=glg)] | Spain | 2 | 3.2 |
+| 161 | Lao [[lao](http://www.ethnologue.org/show_language.asp?code=lao)] | Laos | 7 | 3.2 |
+| 162 | Lithuanian [[lit](http://www.ethnologue.org/show_language.asp?code=lit)] | Lithuania | 19 | 3.2 |
+| 163 | Tamazight, Central Atlas [[tzm](http://www.ethnologue.org/show_language.asp?code=tzm)] | Morocco | 3 | 3.2 |
+| 164 | Kabyle [[kab](http://www.ethnologue.org/show_language.asp?code=kab)] | Algeria | 3 | 3.1 |
+| 165 | Hassaniyya [[mey](http://www.ethnologue.org/show_language.asp?code=mey)] | Mauritania | 8 | 3.1 |
+| 166 | Éwé [[ewe](http://www.ethnologue.org/show_language.asp?code=ewe)] | Ghana | 2 | 3.1 |
+| 167 | Piemontese [[pms](http://www.ethnologue.org/show_language.asp?code=pms)] | Italy | 3 | 3.1 |
+| 168 | Makhuwa [[vmw](http://www.ethnologue.org/show_language.asp?code=vmw)] | Mozambique | 1 | 3.1 |
+| 169 | Godwari [[gdx](http://www.ethnologue.org/show_language.asp?code=gdx)] | India | 1 | 3.0 |
+| 170 | Hunsrik [[hrx](http://www.ethnologue.org/show_language.asp?code=hrx)] | Brazil | 5 | 3.0 |
+| 171 | Kimbundu [[kmb](http://www.ethnologue.org/show_language.asp?code=kmb)] | Angola | 1 | 3.0 |
+| 172 | Tachelhit [[shi](http://www.ethnologue.org/show_language.asp?code=shi)] | Morocco | 3 | 3.0 |
+
+[Next](http://www.ethnologue.org/ethno_docs/distribution.asp?by=family)

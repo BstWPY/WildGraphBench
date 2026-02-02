@@ -1,0 +1,3320 @@
+# Steam Hardware & Software Survey
+
+Steam Hardware & Software Survey
+
+===============
+
+[![Image 1: Link to the Steam Homepage](https://store.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016)](https://store.steampowered.com/?snr=1_hwsurvey_4__global-header)
+
+[STORE](https://store.steampowered.com/?snr=1_hwsurvey_4__global-header)
+
+[Home](https://store.steampowered.com/?snr=1_hwsurvey_4__global-header)[Discovery Queue](https://store.steampowered.com/explore/?snr=1_hwsurvey_4__global-header)[Wishlist](https://steamcommunity.com/my/wishlist/)[Points Shop](https://store.steampowered.com/points/shop/?snr=1_hwsurvey_4__global-header)[News](https://store.steampowered.com/news/?snr=1_hwsurvey_4__global-header)[Stats](https://store.steampowered.com/stats/?snr=1_hwsurvey_4__global-header)
+
+[COMMUNITY](https://steamcommunity.com/)
+
+[Home](https://steamcommunity.com/)[Discussions](https://steamcommunity.com/discussions/)[Workshop](https://steamcommunity.com/workshop/)[Market](https://steamcommunity.com/market/)[Broadcasts](https://steamcommunity.com/?subsection=broadcasts)
+
+[About](https://store.steampowered.com/about/?snr=1_hwsurvey_4__global-header)[SUPPORT](https://help.steampowered.com/en/)
+
+[Install Steam](https://store.steampowered.com/about/?snr=1_hwsurvey_4__global-header)[login](https://store.steampowered.com/login/?redir=hwsurvey%2F&redir_ssl=1&snr=1_hwsurvey_4__global-header)|language
+
+[简体中文 (Simplified Chinese)](https://store.steampowered.com/hwsurvey/?l=schinese)[繁體中文 (Traditional Chinese)](https://store.steampowered.com/hwsurvey/?l=tchinese)[日本語 (Japanese)](https://store.steampowered.com/hwsurvey/?l=japanese)[한국어 (Korean)](https://store.steampowered.com/hwsurvey/?l=koreana)[ไทย (Thai)](https://store.steampowered.com/hwsurvey/?l=thai)[Български (Bulgarian)](https://store.steampowered.com/hwsurvey/?l=bulgarian)[Čeština (Czech)](https://store.steampowered.com/hwsurvey/?l=czech)[Dansk (Danish)](https://store.steampowered.com/hwsurvey/?l=danish)[Deutsch (German)](https://store.steampowered.com/hwsurvey/?l=german)[Español - España (Spanish - Spain)](https://store.steampowered.com/hwsurvey/?l=spanish)[Español - Latinoamérica (Spanish - Latin America)](https://store.steampowered.com/hwsurvey/?l=latam)[Ελληνικά (Greek)](https://store.steampowered.com/hwsurvey/?l=greek)[Français (French)](https://store.steampowered.com/hwsurvey/?l=french)[Italiano (Italian)](https://store.steampowered.com/hwsurvey/?l=italian)[Bahasa Indonesia (Indonesian)](https://store.steampowered.com/hwsurvey/?l=indonesian)[Magyar (Hungarian)](https://store.steampowered.com/hwsurvey/?l=hungarian)[Nederlands (Dutch)](https://store.steampowered.com/hwsurvey/?l=dutch)[Norsk (Norwegian)](https://store.steampowered.com/hwsurvey/?l=norwegian)[Polski (Polish)](https://store.steampowered.com/hwsurvey/?l=polish)[Português (Portuguese - Portugal)](https://store.steampowered.com/hwsurvey/?l=portuguese)[Português - Brasil (Portuguese - Brazil)](https://store.steampowered.com/hwsurvey/?l=brazilian)[Română (Romanian)](https://store.steampowered.com/hwsurvey/?l=romanian)[Русский (Russian)](https://store.steampowered.com/hwsurvey/?l=russian)[Suomi (Finnish)](https://store.steampowered.com/hwsurvey/?l=finnish)[Svenska (Swedish)](https://store.steampowered.com/hwsurvey/?l=swedish)[Türkçe (Turkish)](https://store.steampowered.com/hwsurvey/?l=turkish)[Tiếng Việt (Vietnamese)](https://store.steampowered.com/hwsurvey/?l=vietnamese)[Українська (Ukrainian)](https://store.steampowered.com/hwsurvey/?l=ukrainian)[Report a translation problem](https://www.valvesoftware.com/en/contact?contact-person=Translation%20Team%20Feedback)
+
+Steam Hardware & Software Survey: November 2025
+===============================================
+
+Steam conducts a monthly survey to collect data about what kinds of computer hardware and software our customers are using. Participation in the survey is optional, and anonymous. The information gathered is incredibly helpful to us as we make decisions about what kinds of technology investments to make and products to offer.
+
+[](https://store.steampowered.com/hwsurvey/)
+
+PC Video card usage by mfg
+
+June 2024 - November 2025
+
+0.38%
+7.74%
+18.05%
+73.83%
+
+OTHER
+
+INTEL
+
+AMD
+
+NVIDIA
+
+[CLICK FOR MORE INFO](https://store.steampowered.com/hwsurvey/videocard/)
+
+DX10/11/12 Systems
+
+June 2024 - November 2025
+
+60.80%
+30.11%
+3.07%
+2.09%
+0.94%
+2.99%
+
+DX12GPU & WIN10
+
+DX12GPU & Pre-WIN10
+
+DX11GPU & Vista+
+
+DX10GPU & Vista+
+
+DX10/11/12GPU & XP
+
+OTHER
+
+[CLICK FOR MORE INFO](https://store.steampowered.com/hwsurvey/directx/)
+
+PC Processor usage by manufacturer
+
+June 2024 - November 2025
+
+43.56%
+56.44%
+
+AMD
+
+INTEL
+
+[CLICK FOR MORE INFO](https://store.steampowered.com/hwsurvey/processormfg/)
+
+PC Number of CPUs per computer
+
+June 2024 - November 2025
+
+27.61%
+26.30%
+28.34%
+14.38%
+3.36%
+
+other CPUS
+
+8 CPUS
+
+6 CPUS
+
+4 CPUS
+
+2 CPUS
+
+[CLICK FOR MORE INFO](https://store.steampowered.com/hwsurvey/cpus/)
+
+Mac Hardware ownership
+
+June 2024 - November 2025
+
+0.14%
+0.22%
+1.42%
+3.56%
+15.03%
+21.93%
+
+MACBOOK
+
+MACPRO
+
+MACMINI
+
+IMAC
+
+MACBOOKAIR
+
+MACBOOKPRO
+
+VR Headsets
+
+June 2024 - November 2025
+
+11.87%
+2.43%
+2.92%
+4.21%
+4.70%
+8.65%
+13.40%
+24.69%
+27.13%
+
+Other
+
+Windows Mixed Reality
+
+HTC Vive
+
+Pico 4
+
+Oculus Rift S
+
+Meta Quest 3S
+
+Valve Index HMD
+
+Oculus Quest 2
+
+Meta Quest 3
+
+[##### ![Image 2: A 19x22 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_icon_linux.png)![Image 3: A 16x15 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_icon_pc.gif)![Image 4: A 16x15 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_icon_mac.gif) Combined](https://store.steampowered.com/hwsurvey/?platform=combined)[##### ![Image 5: A 16x15 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_icon_pc.gif) Windows Only](https://store.steampowered.com/hwsurvey/?platform=pc)[##### ![Image 6: A 16x15 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_icon_mac.gif) Mac Only](https://store.steampowered.com/hwsurvey/?platform=mac)[##### ![Image 7: A 19x22 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_icon_linux.png) Linux Only](https://store.steampowered.com/hwsurvey/?platform=linux)
+
+![Image 8: A 19x22 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_icon_linux.png)![Image 9: A 16x15 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_icon_pc.gif)![Image 10: A 16x15 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_icon_mac.gif) Windows, Mac and Linux Use the dropdown to filter by platform or view combined stats. 
+
+ November 2025 (click line item to see more detail)
+
+ITEM
+
+MOST POPULAR
+
+PERCENTAGE
+
+CHANGE
+
+[](https://store.steampowered.com/hwsurvey/)
+
+OS Version
+
+Windows 11 64 bit
+
+65.59%
+
++2.02%
+
+Windows
+
+94.79%
+
+-0.05%
+
+![Image 11: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Windows 11 64 bit
+
+65.59%
+
++2.02%
+
+![Image 12: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Windows 10 64 bit
+
+29.06%
+
+-2.08%
+
+![Image 13: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Windows 7 64 bit
+
+0.08%
+
+-0.01%
+
+OSX
+
+2.02%
+
+-0.09%
+
+![Image 14: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+MacOS 15.6.1 64 bit
+
+0.38%
+
+-0.13%
+
+![Image 15: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+MacOS 26.0.1 64 bit
+
+0.37%
+
+-0.13%
+
+![Image 16: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+MacOS 26.1.0 64 bit
+
+0.36%
+
++0.31%
+
+![Image 17: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+MacOS 15.5.0 64 bit
+
+0.12%
+
+-0.03%
+
+![Image 18: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+MacOS 15.6.0 64 bit
+
+0.08%
+
+0.00%
+
+![Image 19: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+MacOS 15.7.1 64 bit
+
+0.08%
+
+0.00%
+
+Linux
+
+3.20%
+
++0.15%
+
+![Image 20: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+"Arch Linux" 64 bit
+
+0.32%
+
++0.01%
+
+![Image 21: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Linux Mint 22.2 64 bit
+
+0.24%
+
++0.04%
+
+![Image 22: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Ubuntu Core 22 64 bit
+
+0.14%
+
+0.00%
+
+![Image 23: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Ubuntu 24.04.3 LTS 64 bit
+
+0.12%
+
++0.01%
+
+![Image 24: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+"EndeavourOS Linux" 64 bit
+
+0.07%
+
+0.00%
+
+![Image 25: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Linux Mint 22.1 64 bit
+
+0.06%
+
+-0.02%
+
+![Image 26: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+"Manjaro Linux" 64 bit
+
+0.06%
+
+0.00%
+
+![Image 27: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Debian GNU/Linux 13 (trixie) 64 bit
+
+0.05%
+
++0.05%
+
+![Image 28: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+System RAM
+
+16 GB
+
+40.94%
+
+-0.55%
+
+![Image 29: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Less than 4 GB
+
+0.02%
+
+0.00%
+
+![Image 30: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4 GB
+
+1.50%
+
+-0.12%
+
+![Image 31: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+8 GB
+
+7.93%
+
+-0.45%
+
+![Image 32: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+12 GB
+
+2.53%
+
+-0.08%
+
+![Image 33: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**16 GB**
+
+**40.94%**
+
+-0.55%
+
+![Image 34: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+24 GB
+
+1.85%
+
+0.00%
+
+![Image 35: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+28 GB
+
+0.54%
+
+0.00%
+
+![Image 36: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+32 GB
+
+36.96%
+
++1.03%
+
+![Image 37: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+48 GB
+
+1.18%
+
++0.09%
+
+![Image 38: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+60 GB
+
+0.86%
+
++0.06%
+
+![Image 39: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+64 GB
+
+4.42%
+
++0.07%
+
+![Image 40: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+More than 64 GB
+
+0.63%
+
++0.01%
+
+![Image 41: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Other
+
+0.65%
+
+-0.02%
+
+![Image 42: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+Intel CPU Speeds
+
+2.3 Ghz to 2.69 Ghz
+
+20.71%
+
+-0.23%
+
+![Image 43: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Unspecified
+
+0.02%
+
+0.00%
+
+![Image 44: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Below 1.4 Ghz
+
+0.73%
+
+-0.05%
+
+![Image 45: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1.4 Ghz to 1.49 Ghz
+
+0.15%
+
+-0.01%
+
+![Image 46: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1.5 Ghz to 1.69 Ghz
+
+0.19%
+
+0.00%
+
+![Image 47: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1.7 Ghz to 1.99 Ghz
+
+1.05%
+
+-0.04%
+
+![Image 48: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2.0 Ghz to 2.29 Ghz
+
+3.23%
+
++0.02%
+
+![Image 49: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**2.3 Ghz to 2.69 Ghz**
+
+**20.71%**
+
+-0.23%
+
+![Image 50: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2.7 Ghz to 2.99 Ghz
+
+9.06%
+
+-0.05%
+
+![Image 51: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3.0 Ghz to 3.29 Ghz
+
+5.00%
+
+-0.10%
+
+![Image 52: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3.3 Ghz to 3.69 Ghz
+
+12.94%
+
+-0.06%
+
+![Image 53: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3.7 Ghz and above
+
+2.58%
+
++0.03%
+
+![Image 54: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+Physical CPUs
+
+6 cpus
+
+28.44%
+
+-0.25%
+
+![Image 55: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Unspecified
+
+0.00%
+
+0.00%
+
+![Image 56: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1 cpu
+
+0.02%
+
+-0.01%
+
+![Image 57: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2 cpus
+
+3.21%
+
+-0.24%
+
+![Image 58: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3 cpus
+
+0.11%
+
+-0.02%
+
+![Image 59: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4 cpus
+
+13.99%
+
+-0.59%
+
+![Image 60: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5 cpus
+
+0.14%
+
++0.01%
+
+![Image 61: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**6 cpus**
+
+**28.44%**
+
+-0.25%
+
+![Image 62: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+7 cpus
+
+0.01%
+
+0.00%
+
+![Image 63: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+8 cpus
+
+26.23%
+
++0.42%
+
+![Image 64: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+9 cpus
+
+0.00%
+
+0.00%
+
+![Image 65: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+10 cpus
+
+7.04%
+
++0.14%
+
+![Image 66: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+11 cpus
+
+0.04%
+
+-0.01%
+
+![Image 67: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+12 cpus
+
+5.42%
+
+-0.06%
+
+![Image 68: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+13 cpus
+
+0.00%
+
+0.00%
+
+![Image 69: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+14 cpus
+
+5.04%
+
++0.16%
+
+![Image 70: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+15 cpus
+
+0.00%
+
+0.00%
+
+![Image 71: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+16 cpus
+
+5.61%
+
++0.18%
+
+![Image 72: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+17 cpus
+
+0.00%
+
+0.00%
+
+![Image 73: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+18 cpus
+
+0.05%
+
+-0.01%
+
+![Image 74: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+19 cpus
+
+0.00%
+
+0.00%
+
+![Image 75: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+20 cpus
+
+1.87%
+
++0.15%
+
+![Image 76: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+21 cpus
+
+0.00%
+
+0.00%
+
+![Image 77: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+22 cpus
+
+0.00%
+
+0.00%
+
+![Image 78: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+23 cpus
+
+0.00%
+
+0.00%
+
+![Image 79: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+24 cpus
+
+2.74%
+
++0.14%
+
+![Image 80: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+26 cpus
+
+0.00%
+
+0.00%
+
+![Image 81: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+28 cpus
+
+0.01%
+
+0.00%
+
+![Image 82: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+29 cpus
+
+0.00%
+
+0.00%
+
+![Image 83: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+30 cpus
+
+0.00%
+
+0.00%
+
+![Image 84: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+32 cpus
+
+0.01%
+
+0.00%
+
+![Image 85: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+34 cpus
+
+0.00%
+
+0.00%
+
+![Image 86: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+36 cpus
+
+0.00%
+
+-0.01%
+
+![Image 87: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+40 cpus
+
+0.00%
+
+0.00%
+
+![Image 88: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+44 cpus
+
+0.00%
+
+0.00%
+
+![Image 89: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+48 cpus
+
+0.00%
+
+0.00%
+
+![Image 90: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+52 cpus
+
+0.00%
+
+0.00%
+
+![Image 91: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+56 cpus
+
+0.00%
+
+0.00%
+
+![Image 92: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+60 cpus
+
+0.00%
+
+0.00%
+
+![Image 93: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+64 cpus
+
+0.00%
+
+0.00%
+
+![Image 94: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+86 cpus
+
+0.00%
+
+0.00%
+
+![Image 95: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+88 cpus
+
+0.00%
+
+0.00%
+
+![Image 96: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+96 cpus
+
+0.00%
+
+0.00%
+
+![Image 97: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+120 cpus
+
+0.00%
+
+0.00%
+
+![Image 98: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+128 cpus
+
+0.00%
+
+0.00%
+
+![Image 99: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+192 cpus
+
+0.00%
+
+0.00%
+
+![Image 100: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+Video Card Description
+
+![Image 101: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4060 Laptop GPU
+
+4.22%
+
++0.12%
+
+![Image 102: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 103: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 6700 XT
+
+0.59%
+
+-0.02%
+
+![Image 104: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 105: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 570
+
+0.39%
+
+-0.01%
+
+![Image 106: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 107: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 5090
+
+0.34%
+
++0.03%
+
+![Image 108: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 109: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 5600 XT
+
+0.15%
+
+-0.01%
+
+![Image 110: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 111: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon 780M Graphics
+
+0.32%
+
+0.00%
+
+![Image 112: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 113: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GT 1030
+
+0.24%
+
+-0.01%
+
+![Image 114: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 115: Intel logo is written in blue on a black background](https://store.fastly.steamstatic.com/public/images/hws_intel.png)Intel HD Graphics 520
+
+0.22%
+
+-0.02%
+
+![Image 116: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 117: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4070 SUPER
+
+1.63%
+
+0.00%
+
+![Image 118: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 119: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3060 Ti
+
+2.39%
+
+-0.08%
+
+![Image 120: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 121: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4070
+
+2.07%
+
++0.04%
+
+![Image 122: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1.77%
+
+-0.06%
+
+![Image 123: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 124: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 5070
+
+2.12%
+
++0.33%
+
+![Image 125: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 126: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4060 Ti
+
+2.63%
+
+-0.04%
+
+![Image 127: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**![Image 128: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4060 Laptop GPU**
+
+**4.22%**
+
++0.12%
+
+![Image 129: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 130: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 2080 SUPER
+
+0.31%
+
+-0.02%
+
+![Image 131: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 132: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3050
+
+2.96%
+
+0.00%
+
+![Image 133: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 134: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3050 6GB Laptop GPU
+
+0.47%
+
++0.02%
+
+![Image 135: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 136: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1660 SUPER
+
+1.58%
+
+-0.04%
+
+![Image 137: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 138: Intel logo is written in blue on a black background](https://store.fastly.steamstatic.com/public/images/hws_intel.png)Intel(R) UHD Graphics
+
+1.72%
+
+-0.07%
+
+![Image 139: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 140: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 5060
+
+1.54%
+
++0.30%
+
+![Image 141: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 142: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 2080
+
+0.27%
+
+0.00%
+
+![Image 143: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 144: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3060 Laptop GPU
+
+2.15%
+
++0.03%
+
+![Image 145: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 146: Intel logo is written in blue on a black background](https://store.fastly.steamstatic.com/public/images/hws_intel.png)Intel HD Graphics 4600
+
+0.18%
+
+-0.01%
+
+![Image 147: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 148: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3070
+
+2.24%
+
+-0.06%
+
+![Image 149: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 150: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3060
+
+4.16%
+
+-0.14%
+
+![Image 151: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 152: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 5060 Ti
+
+1.14%
+
++0.19%
+
+![Image 153: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 154: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 2050
+
+0.45%
+
+-0.01%
+
+![Image 155: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 156: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1050 Ti
+
+1.38%
+
+-0.06%
+
+![Image 157: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 158: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3070 Laptop GPU
+
+0.50%
+
+-0.01%
+
+![Image 159: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 160: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 5070 Ti
+
+1.09%
+
++0.19%
+
+![Image 161: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 162: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 2070
+
+0.54%
+
+0.00%
+
+![Image 163: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 164: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3070 Ti
+
+1.07%
+
++0.02%
+
+![Image 165: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 166: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 6750 XT
+
+0.33%
+
+-0.02%
+
+![Image 167: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 168: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4070 Ti
+
+1.01%
+
++0.02%
+
+![Image 169: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 170: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3050 Laptop GPU
+
+0.42%
+
+-0.01%
+
+![Image 171: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 172: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 2060
+
+1.96%
+
+-0.08%
+
+![Image 173: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 174: Intel logo is written in blue on a black background](https://store.fastly.steamstatic.com/public/images/hws_intel.png)Intel UHD Graphics 620
+
+0.46%
+
+-0.02%
+
+![Image 175: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 176: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 5080
+
+0.96%
+
++0.14%
+
+![Image 177: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 178: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 960
+
+0.20%
+
+-0.02%
+
+![Image 179: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 180: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1060
+
+1.80%
+
+-0.08%
+
+![Image 181: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 182: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 6500 XT
+
+0.18%
+
+-0.01%
+
+![Image 183: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 184: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 5060 Laptop GPU
+
+0.87%
+
++0.01%
+
+![Image 185: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 186: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3070 Ti Laptop GPU
+
+0.26%
+
++0.01%
+
+![Image 187: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 188: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 6600
+
+0.84%
+
+-0.03%
+
+![Image 189: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 190: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 6900 XT
+
+0.18%
+
+0.00%
+
+![Image 191: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 192: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 2060 SUPER
+
+0.86%
+
+-0.06%
+
+![Image 193: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 194: Intel logo is written in blue on a black background](https://store.fastly.steamstatic.com/public/images/hws_intel.png)Intel UHD Graphics 630
+
+0.29%
+
+0.00%
+
+![Image 195: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 196: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 7800 XT
+
+0.84%
+
++0.13%
+
+![Image 197: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 198: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon Vega 3 Graphics
+
+0.20%
+
+-0.01%
+
+![Image 199: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 200: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4090
+
+0.82%
+
+0.00%
+
+![Image 201: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 202: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1650 Ti
+
+0.43%
+
+-0.02%
+
+![Image 203: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 204: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4050 Laptop GPU
+
+1.47%
+
++0.06%
+
+![Image 205: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 206: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon Graphics
+
+1.89%
+
+-0.11%
+
+![Image 207: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 208: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1650
+
+2.80%
+
+-0.12%
+
+![Image 209: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 210: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1080 Ti
+
+0.37%
+
+-0.02%
+
+![Image 211: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 212: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 2070 SUPER
+
+0.82%
+
+-0.01%
+
+![Image 213: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 214: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 7600 XT
+
+0.44%
+
++0.06%
+
+![Image 215: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 216: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3080
+
+1.59%
+
+-0.03%
+
+![Image 217: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 218: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1650 SUPER
+
+0.31%
+
+-0.01%
+
+![Image 219: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 220: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4080 SUPER
+
+0.70%
+
++0.01%
+
+![Image 221: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 222: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1050
+
+0.65%
+
+-0.05%
+
+![Image 223: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 224: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4070 Ti SUPER
+
+0.81%
+
++0.03%
+
+![Image 225: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 226: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 6600 XT
+
+0.34%
+
+-0.01%
+
+![Image 227: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 228: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3050 Ti Laptop GPU
+
+0.70%
+
+-0.02%
+
+![Image 229: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 230: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 6650 XT
+
+0.28%
+
+-0.01%
+
+![Image 231: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 232: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1070
+
+0.76%
+
+-0.02%
+
+![Image 233: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 234: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 6800 XT
+
+0.27%
+
++0.01%
+
+![Image 235: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 236: Intel logo is written in blue on a black background](https://store.fastly.steamstatic.com/public/images/hws_intel.png)Intel Iris Xe Graphics
+
+1.76%
+
+-0.09%
+
+![Image 237: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 238: Intel logo is written in blue on a black background](https://store.fastly.steamstatic.com/public/images/hws_intel.png)Intel(R) Arc(TM) Graphics
+
+0.26%
+
+-0.02%
+
+![Image 239: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 240: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4070 Laptop GPU
+
+1.07%
+
++0.05%
+
+![Image 241: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 242: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 7700 XT
+
+0.24%
+
+-0.01%
+
+![Image 243: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 244: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 580
+
+0.63%
+
+-0.02%
+
+![Image 245: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 246: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1070 Ti
+
+0.24%
+
+-0.01%
+
+![Image 247: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 248: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3080 Ti
+
+0.62%
+
+0.00%
+
+![Image 249: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 250: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 970
+
+0.24%
+
+-0.01%
+
+![Image 251: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 252: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1660 Ti
+
+1.04%
+
+-0.01%
+
+![Image 253: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 254: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 2080 Ti
+
+0.27%
+
+0.00%
+
+![Image 255: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 256: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4080
+
+0.70%
+
++0.02%
+
+![Image 257: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 258: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 750 Ti
+
+0.20%
+
+-0.01%
+
+![Image 259: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 260: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon(TM) Graphics
+
+2.12%
+
+0.00%
+
+![Image 261: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 262: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 550
+
+0.22%
+
+-0.02%
+
+![Image 263: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 264: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 580 2048SP
+
+0.58%
+
+-0.02%
+
+![Image 265: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 266: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 6800
+
+0.22%
+
+0.00%
+
+![Image 267: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 268: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1660
+
+0.54%
+
+-0.02%
+
+![Image 269: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 270: Intel logo is written in blue on a black background](https://store.fastly.steamstatic.com/public/images/hws_intel.png)Intel HD Graphics 620
+
+0.21%
+
+-0.01%
+
+![Image 271: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 272: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA Graphics Device
+
+1.10%
+
++0.11%
+
+![Image 273: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 274: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon Vega 8 Graphics
+
+0.35%
+
+-0.03%
+
+![Image 275: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 276: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 7900 XTX
+
+0.52%
+
++0.02%
+
+![Image 277: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 278: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4080 Laptop GPU
+
+0.21%
+
++0.01%
+
+![Image 279: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 280: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GTX 1080
+
+0.49%
+
+-0.01%
+
+![Image 281: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 282: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 5070 Ti Laptop GPU
+
+0.24%
+
++0.05%
+
+![Image 283: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 284: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD AMD Custom GPU 0405
+
+0.43%
+
+0.00%
+
+![Image 285: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 286: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon (TM) Graphics
+
+0.36%
+
++0.01%
+
+![Image 287: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 288: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon RX 5700 XT
+
+0.60%
+
+-0.01%
+
+![Image 289: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 290: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce GT 730
+
+0.16%
+
+-0.01%
+
+![Image 291: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 292: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 3090
+
+0.43%
+
+-0.01%
+
+![Image 293: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 294: Intel logo is written in blue on a black background](https://store.fastly.steamstatic.com/public/images/hws_intel.png)Intel(R) Graphics
+
+0.24%
+
+0.00%
+
+![Image 295: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 296: AMD logo, with a green square in the center and green arrows pointing inwards on each side](https://store.fastly.steamstatic.com/public/images/hws_amd.png)AMD Radeon Graphics (RADV VANGOGH)
+
+0.40%
+
++0.01%
+
+![Image 297: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 298: A 16x16 small image, likely a logo, icon or avatar](https://store.fastly.steamstatic.com/public/images/hws_nvidia.png)NVIDIA GeForce RTX 4060
+
+3.96%
+
+-0.02%
+
+![Image 299: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Other
+
+9.42%
+
+-0.08%
+
+![Image 300: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+VRAM
+
+8 GB
+
+33.36%
+
+-0.10%
+
+![Image 301: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+512 MB
+
+7.31%
+
++0.24%
+
+![Image 302: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1 GB
+
+3.30%
+
+-0.19%
+
+![Image 303: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2 GB
+
+4.76%
+
+-0.10%
+
+![Image 304: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3 GB
+
+0.89%
+
+-0.06%
+
+![Image 305: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4 GB
+
+5.98%
+
+-0.30%
+
+![Image 306: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+6 GB
+
+10.20%
+
+-0.30%
+
+![Image 307: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**8 GB**
+
+**33.36%**
+
+-0.10%
+
+![Image 308: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+10 GB
+
+2.37%
+
+-0.05%
+
+![Image 309: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+11 GB
+
+1.10%
+
+-0.05%
+
+![Image 310: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+12 GB
+
+19.22%
+
++0.25%
+
+![Image 311: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+16 GB
+
+8.13%
+
++0.65%
+
+![Image 312: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+24 GB
+
+2.20%
+
+-0.04%
+
+![Image 313: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+32 GB
+
+0.59%
+
++0.05%
+
+![Image 314: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Other
+
+0.58%
+
+-0.01%
+
+![Image 315: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+Primary Display Resolution
+
+1920 x 1080
+
+52.83%
+
+-0.64%
+
+![Image 316: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+800 x 1280
+
+0.58%
+
++0.02%
+
+![Image 317: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1280 x 800
+
+0.32%
+
+-0.01%
+
+![Image 318: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1280 x 1024
+
+0.23%
+
+-0.01%
+
+![Image 319: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1280 x 720
+
+0.20%
+
+-0.03%
+
+![Image 320: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1360 x 768
+
+0.46%
+
+-0.03%
+
+![Image 321: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1366 x 768
+
+2.40%
+
+-0.17%
+
+![Image 322: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1440 x 900
+
+0.81%
+
+-0.06%
+
+![Image 323: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1470 x 956
+
+0.36%
+
+-0.01%
+
+![Image 324: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1512 x 982
+
+0.28%
+
+0.00%
+
+![Image 325: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1600 x 900
+
+0.73%
+
+-0.03%
+
+![Image 326: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1680 x 1050
+
+0.47%
+
+-0.02%
+
+![Image 327: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1920 x 1200
+
+2.07%
+
++0.03%
+
+![Image 328: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**1920 x 1080**
+
+**52.83%**
+
+-0.64%
+
+![Image 329: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2560 x 1080
+
+0.78%
+
+-0.02%
+
+![Image 330: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2560 x 1440
+
+20.79%
+
++0.86%
+
+![Image 331: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2560 x 1600
+
+5.20%
+
+-0.02%
+
+![Image 332: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2880 x 1800
+
+0.47%
+
+-0.01%
+
+![Image 333: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3440 x 1440
+
+3.06%
+
++0.07%
+
+![Image 334: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3840 x 2160
+
+4.83%
+
++0.18%
+
+![Image 335: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5120 x 1440
+
+0.40%
+
+0.00%
+
+![Image 336: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Other
+
+2.74%
+
+-0.08%
+
+![Image 337: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+Multi-Monitor Desktop Resolution
+
+3840 x 1080
+
+50.90%
+
+-0.52%
+
+![Image 338: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1920 x 2160
+
+1.60%
+
+-0.02%
+
+![Image 339: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2560 x 2520
+
+1.06%
+
+-0.02%
+
+![Image 340: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3000 x 1920
+
+5.28%
+
+-0.06%
+
+![Image 341: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3200 x 1080
+
+1.76%
+
++0.02%
+
+![Image 342: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3280 x 1080
+
+1.08%
+
+-0.06%
+
+![Image 343: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3286 x 1080
+
+2.30%
+
+-0.02%
+
+![Image 344: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3360 x 1080
+
+1.12%
+
+-0.04%
+
+![Image 345: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3440 x 2520
+
+0.60%
+
+-0.04%
+
+![Image 346: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3440 x 2880
+
+0.42%
+
+-0.02%
+
+![Image 347: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3520 x 1080
+
+1.50%
+
+-0.02%
+
+![Image 348: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3600 x 1080
+
+1.00%
+
+-0.04%
+
+![Image 349: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3640 x 1920
+
+4.10%
+
++0.02%
+
+![Image 350: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**3840 x 1080**
+
+**50.90%**
+
+-0.52%
+
+![Image 351: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3840 x 1081
+
+1.10%
+
++0.04%
+
+![Image 352: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3840 x 1082
+
+0.62%
+
+-0.02%
+
+![Image 353: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3840 x 1083
+
+0.94%
+
+-0.02%
+
+![Image 354: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3840 x 1084
+
+0.74%
+
++0.02%
+
+![Image 355: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3840 x 1085
+
+0.66%
+
++0.02%
+
+![Image 356: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3840 x 1086
+
+0.58%
+
+-0.02%
+
+![Image 357: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3840 x 1200
+
+1.72%
+
+-0.02%
+
+![Image 358: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3840 x 2160
+
+0.96%
+
+-0.04%
+
+![Image 359: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4000 x 2560
+
+1.58%
+
++0.08%
+
+![Image 360: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4480 x 1080
+
+1.40%
+
+-0.04%
+
+![Image 361: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4480 x 1440
+
+26.54%
+
++0.16%
+
+![Image 362: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4480 x 1445
+
+0.42%
+
+0.00%
+
+![Image 363: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4480 x 1600
+
+1.22%
+
++0.16%
+
+![Image 364: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4520 x 1920
+
+0.86%
+
++0.04%
+
+![Image 365: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4880 x 2560
+
+0.50%
+
++0.04%
+
+![Image 366: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4920 x 1920
+
+0.80%
+
++0.02%
+
+![Image 367: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+4920 x 2160
+
+0.58%
+
++0.02%
+
+![Image 368: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5120 x 1440
+
+10.10%
+
++0.14%
+
+![Image 369: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5120 x 1600
+
+0.84%
+
++0.14%
+
+![Image 370: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5120 x 2880
+
+0.60%
+
+-0.02%
+
+![Image 371: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5280 x 2560
+
+0.50%
+
++0.04%
+
+![Image 372: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5360 x 1440
+
+3.34%
+
++0.02%
+
+![Image 373: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5560 x 1920
+
+0.62%
+
+0.00%
+
+![Image 374: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5760 x 1080
+
+2.60%
+
+-0.14%
+
+![Image 375: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+5760 x 2160
+
+4.94%
+
++0.12%
+
+![Image 376: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+6000 x 1440
+
+1.54%
+
++0.06%
+
+![Image 377: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+6400 x 1440
+
+1.76%
+
+0.00%
+
+![Image 378: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+6400 x 2160
+
+3.42%
+
++0.10%
+
+![Image 379: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+7040 x 1440
+
+0.64%
+
++0.02%
+
+![Image 380: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+7280 x 2160
+
+0.48%
+
++0.02%
+
+![Image 381: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+7680 x 1440
+
+0.78%
+
+-0.02%
+
+![Image 382: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+7680 x 2160
+
+2.74%
+
++0.14%
+
+![Image 383: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Other
+
+51.16%
+
+-0.28%
+
+![Image 384: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+Language
+
+English
+
+37.37%
+
+-0.59%
+
+![Image 385: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Simplified Chinese
+
+24.93%
+
++0.92%
+
+![Image 386: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Norwegian
+
+0.12%
+
+-0.01%
+
+![Image 387: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Bulgarian
+
+0.05%
+
+0.00%
+
+![Image 388: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Vietnamese
+
+0.21%
+
++0.03%
+
+![Image 389: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Indonesian
+
+0.14%
+
++0.01%
+
+![Image 390: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Portuguese - Portugal
+
+0.37%
+
+-0.01%
+
+![Image 391: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Swedish
+
+0.27%
+
+-0.01%
+
+![Image 392: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+French
+
+2.44%
+
+-0.01%
+
+![Image 393: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Polish
+
+1.68%
+
+-0.04%
+
+![Image 394: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+German
+
+3.02%
+
+-0.05%
+
+![Image 395: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Japanese
+
+2.58%
+
+0.00%
+
+![Image 396: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Portuguese-Brazil
+
+3.87%
+
+-0.37%
+
+![Image 397: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Spanish - Spain
+
+4.22%
+
+-0.21%
+
+![Image 398: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Russian
+
+9.88%
+
++0.22%
+
+![Image 399: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Czech
+
+0.57%
+
+-0.02%
+
+![Image 400: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Korean
+
+1.47%
+
++0.06%
+
+![Image 401: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Hungarian
+
+0.39%
+
+-0.01%
+
+![Image 402: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Traditional Chinese
+
+1.34%
+
++0.04%
+
+![Image 403: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Dutch
+
+0.27%
+
+-0.01%
+
+![Image 404: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Turkish
+
+1.30%
+
++0.05%
+
+![Image 405: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Danish
+
+0.24%
+
+0.00%
+
+![Image 406: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Thai
+
+0.87%
+
++0.04%
+
+![Image 407: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Finnish
+
+0.17%
+
++0.01%
+
+![Image 408: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Ukrainian
+
+0.72%
+
++0.01%
+
+![Image 409: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Romanian
+
+0.13%
+
+-0.01%
+
+![Image 410: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Spanish - Latin America
+
+0.68%
+
+-0.04%
+
+![Image 411: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Greek
+
+0.06%
+
+0.00%
+
+![Image 412: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Italian
+
+0.64%
+
+0.00%
+
+![Image 413: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Arabic
+
+0.00%
+
+0.00%
+
+![Image 414: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**English**
+
+**37.37%**
+
+-0.59%
+
+![Image 415: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+Free Hard Drive Space
+
+250 GB to 499 GB
+
+22.59%
+
+-0.20%
+
+![Image 416: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Unspecified
+
+0.00%
+
+0.00%
+
+![Image 417: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Less than 10 GB
+
+0.84%
+
+-0.05%
+
+![Image 418: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+10 GB to 99 GB
+
+14.96%
+
++0.11%
+
+![Image 419: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+100 GB to 249 GB
+
+22.57%
+
++0.11%
+
+![Image 420: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**250 GB to 499 GB**
+
+**22.59%**
+
+-0.20%
+
+![Image 421: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+500 GB to 749 GB
+
+11.52%
+
+-0.20%
+
+![Image 422: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+750 GB to 999 GB
+
+9.40%
+
+-0.16%
+
+![Image 423: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+1 TB to 2 TB
+
+10.07%
+
+-0.02%
+
+![Image 424: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+2 TB to 3 TB
+
+2.32%
+
+-0.05%
+
+![Image 425: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+3 TB to 4 TB
+
+1.88%
+
++0.07%
+
+![Image 426: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Above 4 TB
+
+3.85%
+
++0.41%
+
+![Image 427: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+Total Hard Drive Space
+
+Above 1 TB
+
+52.07%
+
++0.73%
+
+![Image 428: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Unspecified
+
+0.00%
+
+0.00%
+
+![Image 429: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Less than 10 GB
+
+0.00%
+
+0.00%
+
+![Image 430: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+10 GB to 99 GB
+
+0.21%
+
+-0.01%
+
+![Image 431: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+100 GB to 249 GB
+
+5.34%
+
+-0.21%
+
+![Image 432: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+250 GB to 499 GB
+
+16.95%
+
+-0.51%
+
+![Image 433: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+500 GB to 749 GB
+
+2.43%
+
+-0.06%
+
+![Image 434: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+750 GB to 999 GB
+
+22.99%
+
++0.06%
+
+![Image 435: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**Above 1 TB**
+
+**52.07%**
+
++0.73%
+
+![Image 436: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+VR Headsets
+
+Meta Quest 3
+
+27.13%
+
++0.65%
+
+![Image 437: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**Meta Quest 3**
+
+**27.13%**
+
++0.65%
+
+![Image 438: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Oculus Quest 2
+
+24.69%
+
+-0.55%
+
+![Image 439: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Valve Index HMD
+
+13.40%
+
+-1.20%
+
+![Image 440: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Meta Quest 3S
+
+8.65%
+
++0.55%
+
+![Image 441: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Oculus Rift S
+
+4.70%
+
+-0.16%
+
+![Image 442: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Pico 4
+
+4.21%
+
++0.81%
+
+![Image 443: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+HTC Vive
+
+2.92%
+
++0.09%
+
+![Image 444: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Windows Mixed Reality
+
+2.43%
+
+-0.14%
+
+![Image 445: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Oculus Rift
+
+2.37%
+
+-0.20%
+
+![Image 446: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Sony PS VR2
+
+1.73%
+
+-0.16%
+
+![Image 447: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Meta Quest Pro
+
+1.45%
+
++0.07%
+
+![Image 448: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+HTC Vive Pro
+
+0.84%
+
++0.04%
+
+![Image 449: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+HTC Vive Pro 2
+
+0.72%
+
++0.05%
+
+![Image 450: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Bigscreen Beyond
+
+0.70%
+
+-0.16%
+
+![Image 451: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Pico Neo 3
+
+0.61%
+
++0.18%
+
+![Image 452: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Oculus Quest
+
+0.60%
+
+-0.01%
+
+![Image 453: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Pimax HMD
+
+0.58%
+
+-0.08%
+
+![Image 454: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+iVRy
+
+0.34%
+
+-0.00%
+
+![Image 455: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+HTC VIVE XR Elite
+
+0.30%
+
++0.04%
+
+![Image 456: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+HTC Vive Focus Vision
+
+0.25%
+
++0.02%
+
+![Image 457: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Riftcat Vridge
+
+0.19%
+
+-0.00%
+
+![Image 458: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+HTC Vive Cosmos
+
+0.18%
+
++0.01%
+
+![Image 459: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Varjo Aero
+
+0.08%
+
+-0.00%
+
+![Image 460: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Sony PlayStation VR
+
+0.04%
+
+-0.00%
+
+![Image 461: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Oculus Rift DK2
+
+0.02%
+
+-0.00%
+
+![Image 462: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Pico Neo 2
+
+0.01%
+
++0.01%
+
+![Image 463: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Iriun VR
+
+0.01%
+
+-0.02%
+
+![Image 464: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+Other
+
+0.85%
+
++0.19%
+
+![Image 465: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**Steam users with VR Headsets**
+
+**1.56%**
+
++0.03%
+
+![Image 466: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+[](https://store.steampowered.com/hwsurvey/)
+
+Other Settings
+
+CMPXCHG16B
+
+99.67%
+
+-0.27%
+
+![Image 467: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+AVX512VNNI
+
+20.68%
+
++0.77%
+
+![Image 468: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+SHA
+
+76.48%
+
++1.03%
+
+![Image 469: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+FMA
+
+95.14%
+
++0.33%
+
+![Image 470: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+SSE2
+
+99.67%
+
+-0.27%
+
+![Image 471: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+NTFS
+
+94.69%
+
+-0.06%
+
+![Image 472: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+BMI2
+
+94.84%
+
++0.35%
+
+![Image 473: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+AVX
+
+97.14%
+
++0.15%
+
+![Image 474: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+LAHF / SAHF
+
+99.66%
+
+-0.27%
+
+![Image 475: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+SSE4.2
+
+99.50%
+
+-0.26%
+
+![Image 476: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+SSE4a
+
+42.51%
+
++0.55%
+
+![Image 477: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+SSE4.1
+
+99.55%
+
+-0.26%
+
+![Image 478: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+SSSE3
+
+99.59%
+
+-0.25%
+
+![Image 479: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+SSE3
+
+99.67%
+
+-0.27%
+
+![Image 480: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+AES
+
+98.70%
+
+-0.21%
+
+![Image 481: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+AVX2
+
+94.98%
+
++0.29%
+
+![Image 482: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+**CMPXCHG16B**
+
+**99.67%**
+
+-0.27%
+
+![Image 483: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+AVX512F
+
+20.66%
+
++0.76%
+
+![Image 484: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+PrefetchW
+
+0.00%
+
+0.00%
+
+![Image 485: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+AVX512PF
+
+0.00%
+
+0.00%
+
+![Image 486: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+BMI1
+
+95.18%
+
++0.33%
+
+![Image 487: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+AVX512ER
+
+0.00%
+
+0.00%
+
+![Image 488: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+F16C
+
+96.32%
+
++0.27%
+
+![Image 489: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+AVX512CD
+
+20.66%
+
++0.76%
+
+![Image 490: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+HyperThreading
+
+88.75%
+
++0.10%
+
+![Image 491: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+FCMOV
+
+97.56%
+
+-0.33%
+
+![Image 492: A 1x1 image, likely be a tacker probe](https://store.fastly.steamstatic.com/public/images/trans.gif)
+
+![Image 493: Valve Software](https://store.fastly.steamstatic.com/public/images/v6/logo_steam_footer.png)
+
+[![Image 494: Valve Software](https://store.fastly.steamstatic.com/public/images/footerLogo_valve_new.png)](http://www.valvesoftware.com/)
+
+© 2025 Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.
+
+VAT included in all prices where applicable.[Privacy Policy](https://store.steampowered.com/privacy_agreement/?snr=1_44_44_)|[Legal](https://store.steampowered.com/legal/?snr=1_44_44_)|[Accessibility](https://help.steampowered.com/faqs/view/10BB-D27A-6378-4436?snr=1_44_44_)|[Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/?snr=1_44_44_)|[Refunds](https://store.steampowered.com/steam_refunds/?snr=1_44_44_)|[Cookies](https://store.steampowered.com/account/cookiepreferences/?snr=1_44_44_)
+
+View mobile website
+
+[About Valve](http://www.valvesoftware.com/about)|[Jobs](http://www.valvesoftware.com/)|[Steamworks](http://www.steampowered.com/steamworks/)|[Steam Distribution](https://partner.steamgames.com/steamdirect)|[Support](https://help.steampowered.com/en/?snr=1_44_44_)|[Recycling](https://store.steampowered.com/hardware_recycling/?snr=1_44_44_)|[Gift Cards](https://store.steampowered.com/digitalgiftcards/?snr=1_44_44_)|[![Image 495: Facebook: Steam](https://store.fastly.steamstatic.com/public/images/ico/ico_facebook.png)](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.facebook.com%2FSteam)|[![Image 496: X: @Steam](https://store.fastly.steamstatic.com/public/images/ico/ico_twitter.png)](http://twitter.com/steam)|[![Image 497: Bluesky: Steampowered](https://store.fastly.steamstatic.com/public/images/ico/ico_bsky.png)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fbsky.app%2Fprofile%2Fsteampowered.com)

@@ -1,0 +1,1600 @@
+# Coronavirus Pandemic (COVID-19)
+
+COVID-19 Pandemic - Our World in Data
+
+===============
+
+[Our World in Data](https://ourworldindata.org/)
+
+[![Image 26: Oxford Martin School logo](https://ourworldindata.org/oms-logo.svg)](https://www.oxfordmartin.ox.ac.uk/global-development)[![Image 27: University of Oxford logo](https://ourworldindata.org/oxford-logo.svg)](https://www.ox.ac.uk/)[![Image 28: Global Change Data Lab logo](https://ourworldindata.org/gcdl-logo.svg)](https://global-change-data-lab.org/)
+
+*   Browse by topic 
+*   [Data](https://ourworldindata.org/search)
+*   [Insights](https://ourworldindata.org/data-insights)
+*   Resources 
+*   About 
+
+Search for a topic, chart or article...
+
+Subscribe
+
+[Donate](https://ourworldindata.org/donate)
+
+[Gdoc](https://ourworldindata.org/coronavirus#)/[Admin](https://ourworldindata.org/coronavirus#)
+
+COVID-19 Pandemic
+=================
+
+The COVID-19 pandemic has had a profound impact on the world. Explore global data and research to understand its impact, spread, and global response.
+
+By: [Edouard Mathieu](https://ourworldindata.org/team/edouard-mathieu), [Hannah Ritchie](https://ourworldindata.org/team/hannah-ritchie), [Lucas Rodés-Guirao](https://ourworldindata.org/team/lucas-rodes-guirao), [Cameron Appel](https://ourworldindata.org/team/), [Daniel Gavrilov](https://ourworldindata.org/team/), [Charlie Giattino](https://ourworldindata.org/team/charlie-giattino), [Joe Hasell](https://ourworldindata.org/team/joe-hasell), [Bobbie Macdonald](https://ourworldindata.org/team/), [Saloni Dattani](https://ourworldindata.org/team/saloni-dattani), [Diana Beltekian](https://ourworldindata.org/team/), [Esteban Ortiz-Ospina](https://ourworldindata.org/team/esteban-ortiz-ospina),  and [Max Roser](https://ourworldindata.org/team/max-roser)
+
+[Cite this work](https://ourworldindata.org/coronavirus#article-citation)[Reuse this work](https://ourworldindata.org/coronavirus#article-licence)
+
+*   [Introduction](https://ourworldindata.org/coronavirus#introduction)
+*   [Data Explorer](https://ourworldindata.org/coronavirus#explore-our-data-on-covid-19)
+*   [Research & Writing](https://ourworldindata.org/coronavirus#research-writing)
+*   [Charts](https://ourworldindata.org/coronavirus#all-charts)
+
+The COVID-19 pandemic has had a profound impact on the world, causing [tens of millions of deaths](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity), overwhelming healthcare systems, and disrupting societies and economies.
+
+The rapid spread of the coronavirus led to many scientific developments and policies — from rapid [testing](https://ourworldindata.org/coronavirus-testing) and [vaccines](https://ourworldindata.org/covid-vaccinations) to [social distancing](https://ourworldindata.org/grapher/countries-with-restrictions-on-public-gatherings) and financial support — but an uneven global response, with significant disparities in healthcare access, economic responses, and outcomes.
+
+[Reliable data](https://ourworldindata.org/key-lessons-from-our-work-on-the-covid-19-pandemic-are-now-published-in-lancet-public-health) has been crucial to effectively track and respond to the pandemic and guide public health efforts, research, and policies.
+
+For several years during the pandemic, our team at Our World in Data published daily updates on a range of crucial indicators and developed two global datasets on [testing](https://ourworldindata.org/our-world-in-data-covid-19-testing-dataset-published-by-nature) and [vaccination](https://ourworldindata.org/covid-vaccinations-nature). Our COVID-19 Data Explorer became a go-to source for people to understand the extent and spread of the disease.
+
+On this page, you will find our wide-ranging catalog of data and research on the COVID-19 pandemic.
+
+#### Related topics
+
+*   [Pandemics](https://ourworldindata.org/pandemics)
+*   [Global Health](https://ourworldindata.org/health-meta)
+*   [Vaccination](https://ourworldindata.org/vaccination)
+*   [Influenza](https://ourworldindata.org/influenza)
+
+Explore our data on COVID-19[](https://ourworldindata.org/coronavirus#explore-our-data-on-covid-19)
+===================================================================================================
+
+COVID-19 Data Explorer
+
+Explore global data on COVID-19.
+
+[Download this dataset](https://docs.owid.io/projects/etl/api/covid/)
+
+Metric
+
+Excess mortality (estimates)
+
+Interval
+
+Cumulative
+
+Relative to population
+
+- [x]  Relative to population 
+
+Sort by 
+
+Relevance
+
+- [x] 
+
+United States
+
+ 
+
+- [x] 
+
+North America
+
+ 
+
+- [x] 
+
+High-income countries
+
+ 
+
+- [x] 
+
+Afghanistan
+
+ 
+
+- [x] 
+
+Africa
+
+ 
+
+- [x] 
+
+Albania
+
+ 
+
+- [x] 
+
+Algeria
+
+ 
+
+- [x] 
+
+Andorra
+
+ 
+
+- [x] 
+
+Angola
+
+ 
+
+- [x] 
+
+Antigua and Barbuda
+
+ 
+
+- [x] 
+
+Argentina
+
+ 
+
+- [x] 
+
+Armenia
+
+ 
+
+- [x] 
+
+Asia
+
+ 
+
+- [x] 
+
+Australia
+
+ 
+
+- [x] 
+
+Austria
+
+ 
+
+- [x] 
+
+Azerbaijan
+
+ 
+
+- [x] 
+
+Bahamas
+
+ 
+
+- [x] 
+
+Bahrain
+
+ 
+
+- [x] 
+
+Bangladesh
+
+ 
+
+- [x] 
+
+Barbados
+
+ 
+
+- [x] 
+
+Belarus
+
+ 
+
+- [x] 
+
+Belgium
+
+ 
+
+- [x] 
+
+Belize
+
+ 
+
+- [x] 
+
+Benin
+
+ 
+
+- [x] 
+
+Bhutan
+
+ 
+
+- [x] 
+
+Bolivia
+
+ 
+
+- [x] 
+
+Bosnia and Herzegovina
+
+ 
+
+- [x] 
+
+Botswana
+
+ 
+
+- [x] 
+
+Brazil
+
+ 
+
+- [x] 
+
+Brunei
+
+ 
+
+- [x] 
+
+Bulgaria
+
+ 
+
+- [x] 
+
+Burkina Faso
+
+ 
+
+- [x] 
+
+Burundi
+
+ 
+
+- [x] 
+
+Cambodia
+
+ 
+
+- [x] 
+
+Cameroon
+
+ 
+
+- [x] 
+
+Canada
+
+ 
+
+- [x] 
+
+Cape Verde
+
+ 
+
+- [x] 
+
+Central African Republic
+
+ 
+
+- [x] 
+
+Chad
+
+ 
+
+- [x] 
+
+Chile
+
+ 
+
+- [x] 
+
+China
+
+ 
+
+- [x] 
+
+Colombia
+
+ 
+
+- [x] 
+
+Comoros
+
+ 
+
+- [x] 
+
+Congo
+
+ 
+
+- [x] 
+
+Costa Rica
+
+ 
+
+- [x] 
+
+Cote d'Ivoire
+
+ 
+
+- [x] 
+
+Croatia
+
+ 
+
+- [x] 
+
+Cuba
+
+ 
+
+- [x] 
+
+Cyprus
+
+ 
+
+- [x] 
+
+Czechia
+
+ 
+
+- [x] 
+
+Democratic Republic of Congo
+
+ 
+
+- [x] 
+
+Denmark
+
+ 
+
+- [x] 
+
+Djibouti
+
+ 
+
+- [x] 
+
+Dominica
+
+ 
+
+- [x] 
+
+Dominican Republic
+
+ 
+
+- [x] 
+
+East Timor
+
+ 
+
+- [x] 
+
+Ecuador
+
+ 
+
+- [x] 
+
+Egypt
+
+ 
+
+- [x] 
+
+El Salvador
+
+ 
+
+- [x] 
+
+Equatorial Guinea
+
+ 
+
+- [x] 
+
+Eritrea
+
+ 
+
+- [x] 
+
+Estonia
+
+ 
+
+- [x] 
+
+Eswatini
+
+ 
+
+- [x] 
+
+Ethiopia
+
+ 
+
+- [x] 
+
+Europe
+
+ 
+
+- [x] 
+
+European Union (27)
+
+ 
+
+- [x] 
+
+Fiji
+
+ 
+
+- [x] 
+
+Finland
+
+ 
+
+- [x] 
+
+France
+
+ 
+
+- [x] 
+
+French Guiana
+
+ 
+
+- [x] 
+
+French Southern Territories
+
+ 
+
+- [x] 
+
+Gabon
+
+ 
+
+- [x] 
+
+Gambia
+
+ 
+
+- [x] 
+
+Georgia
+
+ 
+
+- [x] 
+
+Germany
+
+ 
+
+- [x] 
+
+Ghana
+
+ 
+
+- [x] 
+
+Greece
+
+ 
+
+- [x] 
+
+Greenland
+
+ 
+
+- [x] 
+
+Grenada
+
+ 
+
+- [x] 
+
+Guatemala
+
+ 
+
+- [x] 
+
+Guinea
+
+ 
+
+- [x] 
+
+Guinea-Bissau
+
+ 
+
+- [x] 
+
+Guyana
+
+ 
+
+- [x] 
+
+Haiti
+
+ 
+
+- [x] 
+
+Honduras
+
+ 
+
+- [x] 
+
+Hungary
+
+ 
+
+- [x] 
+
+Iceland
+
+ 
+
+- [x] 
+
+India
+
+ 
+
+- [x] 
+
+Indonesia
+
+ 
+
+- [x] 
+
+Iran
+
+ 
+
+- [x] 
+
+Iraq
+
+ 
+
+- [x] 
+
+Ireland
+
+ 
+
+- [x] 
+
+Israel
+
+ 
+
+- [x] 
+
+Italy
+
+ 
+
+- [x] 
+
+Jamaica
+
+ 
+
+- [x] 
+
+Japan
+
+ 
+
+- [x] 
+
+Jordan
+
+ 
+
+- [x] 
+
+Kazakhstan
+
+ 
+
+- [x] 
+
+Kenya
+
+ 
+
+- [x] 
+
+Kiribati
+
+ 
+
+- [x] 
+
+Kosovo
+
+ 
+
+- [x] 
+
+Kuwait
+
+ 
+
+- [x] 
+
+Kyrgyzstan
+
+ 
+
+- [x] 
+
+Laos
+
+ 
+
+- [x] 
+
+Latvia
+
+ 
+
+- [x] 
+
+Lebanon
+
+ 
+
+- [x] 
+
+Lesotho
+
+ 
+
+- [x] 
+
+Liberia
+
+ 
+
+- [x] 
+
+Libya
+
+ 
+
+- [x] 
+
+Liechtenstein
+
+ 
+
+- [x] 
+
+Lithuania
+
+ 
+
+- [x] 
+
+Low-income countries
+
+ 
+
+- [x] 
+
+Lower-middle-income countries
+
+ 
+
+- [x] 
+
+Luxembourg
+
+ 
+
+- [x] 
+
+Madagascar
+
+ 
+
+- [x] 
+
+Malawi
+
+ 
+
+- [x] 
+
+Malaysia
+
+ 
+
+- [x] 
+
+Maldives
+
+ 
+
+- [x] 
+
+Mali
+
+ 
+
+- [x] 
+
+Malta
+
+ 
+
+- [x] 
+
+Marshall Islands
+
+ 
+
+- [x] 
+
+Mauritania
+
+ 
+
+- [x] 
+
+Mauritius
+
+ 
+
+- [x] 
+
+Mexico
+
+ 
+
+- [x] 
+
+Micronesia (country)
+
+ 
+
+- [x] 
+
+Moldova
+
+ 
+
+- [x] 
+
+Monaco
+
+ 
+
+- [x] 
+
+Mongolia
+
+ 
+
+- [x] 
+
+Montenegro
+
+ 
+
+- [x] 
+
+Morocco
+
+ 
+
+- [x] 
+
+Mozambique
+
+ 
+
+- [x] 
+
+Myanmar
+
+ 
+
+- [x] 
+
+Namibia
+
+ 
+
+- [x] 
+
+Nauru
+
+ 
+
+- [x] 
+
+Nepal
+
+ 
+
+- [x] 
+
+Netherlands
+
+ 
+
+- [x] 
+
+New Caledonia
+
+ 
+
+- [x] 
+
+New Zealand
+
+ 
+
+- [x] 
+
+Nicaragua
+
+ 
+
+- [x] 
+
+Niger
+
+ 
+
+- [x] 
+
+Nigeria
+
+ 
+
+- [x] 
+
+North Korea
+
+ 
+
+- [x] 
+
+North Macedonia
+
+ 
+
+- [x] 
+
+Norway
+
+ 
+
+- [x] 
+
+Oceania
+
+ 
+
+- [x] 
+
+Oman
+
+ 
+
+- [x] 
+
+Pakistan
+
+ 
+
+- [x] 
+
+Palau
+
+ 
+
+- [x] 
+
+Palestine
+
+ 
+
+- [x] 
+
+Panama
+
+ 
+
+- [x] 
+
+Papua New Guinea
+
+ 
+
+- [x] 
+
+Paraguay
+
+ 
+
+- [x] 
+
+Peru
+
+ 
+
+- [x] 
+
+Philippines
+
+ 
+
+- [x] 
+
+Poland
+
+ 
+
+- [x] 
+
+Portugal
+
+ 
+
+- [x] 
+
+Puerto Rico
+
+ 
+
+- [x] 
+
+Qatar
+
+ 
+
+- [x] 
+
+Romania
+
+ 
+
+- [x] 
+
+Russia
+
+ 
+
+- [x] 
+
+Rwanda
+
+ 
+
+- [x] 
+
+Saint Kitts and Nevis
+
+ 
+
+- [x] 
+
+Saint Lucia
+
+ 
+
+- [x] 
+
+Saint Vincent and the Grenadines
+
+ 
+
+- [x] 
+
+Samoa
+
+ 
+
+- [x] 
+
+San Marino
+
+ 
+
+- [x] 
+
+Sao Tome and Principe
+
+ 
+
+- [x] 
+
+Saudi Arabia
+
+ 
+
+- [x] 
+
+Senegal
+
+ 
+
+- [x] 
+
+Serbia
+
+ 
+
+- [x] 
+
+Seychelles
+
+ 
+
+- [x] 
+
+Sierra Leone
+
+ 
+
+- [x] 
+
+Singapore
+
+ 
+
+- [x] 
+
+Slovakia
+
+ 
+
+- [x] 
+
+Slovenia
+
+ 
+
+- [x] 
+
+Solomon Islands
+
+ 
+
+- [x] 
+
+Somalia
+
+ 
+
+- [x] 
+
+South Africa
+
+ 
+
+- [x] 
+
+South America
+
+ 
+
+- [x] 
+
+South Korea
+
+ 
+
+- [x] 
+
+South Sudan
+
+ 
+
+- [x] 
+
+Spain
+
+ 
+
+- [x] 
+
+Sri Lanka
+
+ 
+
+- [x] 
+
+Sudan
+
+ 
+
+- [x] 
+
+Suriname
+
+ 
+
+- [x] 
+
+Sweden
+
+ 
+
+- [x] 
+
+Switzerland
+
+ 
+
+- [x] 
+
+Syria
+
+ 
+
+- [x] 
+
+Taiwan
+
+ 
+
+- [x] 
+
+Tajikistan
+
+ 
+
+- [x] 
+
+Tanzania
+
+ 
+
+- [x] 
+
+Thailand
+
+ 
+
+- [x] 
+
+Togo
+
+ 
+
+- [x] 
+
+Tonga
+
+ 
+
+- [x] 
+
+Trinidad and Tobago
+
+ 
+
+- [x] 
+
+Tunisia
+
+ 
+
+- [x] 
+
+Turkey
+
+ 
+
+- [x] 
+
+Turkmenistan
+
+ 
+
+- [x] 
+
+Tuvalu
+
+ 
+
+- [x] 
+
+Uganda
+
+ 
+
+- [x] 
+
+Ukraine
+
+ 
+
+- [x] 
+
+United Arab Emirates
+
+ 
+
+- [x] 
+
+United Kingdom
+
+ 
+
+- [x] 
+
+Upper-middle-income countries
+
+ 
+
+- [x] 
+
+Uruguay
+
+ 
+
+- [x] 
+
+Uzbekistan
+
+ 
+
+- [x] 
+
+Vanuatu
+
+ 
+
+- [x] 
+
+Venezuela
+
+ 
+
+- [x] 
+
+Vietnam
+
+ 
+
+- [x] 
+
+Western Sahara
+
+ 
+
+- [x] 
+
+Yemen
+
+ 
+
+- [x] 
+
+Zambia
+
+ 
+
+- [x] 
+
+Zimbabwe
+
+ 
+
+ Clear selection
+
+Research & Writing[](https://ourworldindata.org/coronavirus#research-writing)
+=============================================================================
+
+[![Image 29: Thumbnail for article '17 key charts to understand the COVID-19 pandemic'](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/fb81bdaf-70c8-4a8a-7140-05c61ebe7d00/w=1817) November 18, 2024 ### 17 key charts to understand the COVID-19 pandemic The pandemic has resulted in over twenty million deaths. In this article, we review the key insights from global data on COVID-19. Saloni Dattani and Lucas Rodés-Guirao](https://ourworldindata.org/key-charts-understand-covid-pandemic)[![Image 30: Thumbnail for article How our team at Our World in Data became a global data source on COVID-19](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/d22609d0-d3ac-445e-6b38-f6016d38a400/w=10521) November 18, 2024 ### How our team at Our World in Data became a global data source on COVID-19 Our small team made COVID-19 data clear, reliable, and accessible to a global audience. This is how it happened. Saloni Dattani, Edouard Mathieu, and Lucas Rodés-Guirao](https://ourworldindata.org/owid-covid-history)
+
+Key data on the COVID-19 pandemic
+---------------------------------
+
+[![Image 31: Line graph on a dark blue background representing Cases in yellow and different coloured lines representing different data trends](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/7241320e-cce1-4a0f-cb36-5010ef57f000/w=1200) May 02, 2020 ### Coronavirus (COVID-19) Cases Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser](https://ourworldindata.org/covid-cases)[![Image 32: Graph that shows the number of hospitalizations over time, with a large peak in blue and smaller peaks in other colors](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/1d81e44e-16a9-4bb2-999c-5512fe2f5a00/w=1200) November 01, 2020 ### Coronavirus (COVID-19) Hospitalizations Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser](https://ourworldindata.org/covid-hospitalizations)[![Image 33: Graph showing the numbers of deaths with the word Deaths in golden letters in the center, with the vertical and horizontal lines representing the x and y axis](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/488d6615-bcfe-46e7-0cac-e7832acbc400/w=1200) May 01, 2020 ### Coronavirus (COVID-19) Deaths Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser](https://ourworldindata.org/covid-deaths)[![Image 34: Featured image](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/5d7d5d62-54d3-473b-bf64-9a79fd28cb00/w=1200) May 05, 2020 ### Mortality Risk of COVID-19 Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser](https://ourworldindata.org/mortality-risk-covid)[![Image 35: Vaccinations text with bar chart showing varying degree](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/b2f27266-c206-492a-0aba-b65212dbb300/w=1200) December 16, 2020 ### Coronavirus (COVID-19) Vaccinations Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser](https://ourworldindata.org/covid-vaccinations)[![Image 36: The words “Our World in Data - Archive -” superimposed on a blue stylized world map](https://ourworldindata.org/archived-thumbnail.jpg) May 07, 2020 ### Coronavirus (COVID-19) Testing Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser](https://ourworldindata.org/coronavirus-testing)[![Image 37: A dark blue graph shows multiple lines trending downwards before a recent upward trend, a single orange line spikes up and down](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/8a009ec0-6a8b-4e17-d492-3d1403358200/w=1200) May 22, 2020 ### Excess mortality during the Coronavirus pandemic (COVID-19) Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser](https://ourworldindata.org/excess-mortality-covid)
+
+More articles on the COVID-19 pandemic
+--------------------------------------
+
+[![Image 38: Rows of purple dots alternating with rows of skulls-and-crossbones in orange and green, on a cream background](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/fa151b88-edbd-4348-845c-d6be4af96e00/w=1200) November 23, 2021 ### How do death rates from COVID-19 differ between people who are vaccinated and those who are not? Edouard Mathieu and Max Roser](https://ourworldindata.org/covid-deaths-by-vaccination)[![Image 39: Thumbnail for article battle against microbes](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/d02b11e0-53cb-4c3d-95c0-0898df985c00/w=1200) July 20, 2020 ### Our history is a battle against the microbes: we lost terribly before science, public health, and vaccines allowed us to protect ourselves Max Roser](https://ourworldindata.org/microbes-battle-science-vaccines)[![Image 40: Thumbnail image for article on historical pandemics](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/393b0c62-2c91-49bb-9464-35edf31ecc00/w=5505) December 07, 2023 ### What were the death tolls from pandemics in history? Saloni Dattani](https://ourworldindata.org/historical-pandemics)[![Image 41: Featured image for the article advertising our article in Lancet Public Health. A stylized image of a checklist and a pen.](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/63d1061d-0b3f-4457-b14a-660a709f6b00/w=1200) May 01, 2024 ### Key lessons from our work on the COVID-19 pandemic are now published in Lancet Public Health Bastian Herre, Lucas Rodés-Guirao, Edouard Mathieu, Hannah Ritchie, Charlie Giattino, Joe Hasell, Saloni Dattani, Esteban Ortiz-Ospina, and Max Roser](https://ourworldindata.org/key-lessons-from-our-work-on-the-covid-19-pandemic-are-now-published-in-lancet-public-health)[![Image 42: Thumbnail for article countries economies](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/69729df8-93d2-44e5-2f0b-4f0fbb4aa000/w=5609) September 01, 2020 ### Which countries have protected both health and the economy in the pandemic? Joe Hasell](https://ourworldindata.org/covid-health-economy)[![Image 43: Cartoon man wearing a mask with coronavirus illustration](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/105245ad-7c39-417f-d14c-38f960d80d00/w=680) March 23, 2020 ### We teamed up with Kurzgesagt to make a video about the COVID-19 pandemic Max Roser and Hannah Ritchie](https://ourworldindata.org/kurzgesagt-coronavirus-video)
+
+Explainers on COVID-19 data
+---------------------------
+
+[![Image 44: The words “Our World in Data - Archive -” superimposed on a blue stylized world map](https://ourworldindata.org/archived-thumbnail.jpg) August 24, 2020 ### How epidemiological models of COVID-19 help us estimate the true number of infections Charlie Giattino](https://ourworldindata.org/covid-models)[![Image 45: Thumbnail for article pandemic primer](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/cb7b9286-f4a7-47ca-90f5-8e81ae7a1000/w=5609) June 29, 2020 ### A pandemic primer on excess mortality statistics and their comparability across countries Janine Aron, John Muellbauer, Charlie Giattino, and Hannah Ritchie](https://ourworldindata.org/covid-excess-mortality)[![Image 46: Thumbnail for article on government data sharing](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/1ddd9063-db44-4446-53a9-e03d1fe50d00/w=5609) June 03, 2020 ### Best practices for governments reporting COVID-19 testing data Joe Hasell, Edouard Mathieu, Esteban Ortiz-Ospina, and Max Roser](https://ourworldindata.org/covid-testing-data-guidelines)[![Image 47: Featured image for article on Sweden's death reporting, showing two diverging lines](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/de15d708-2a99-4025-0f4d-ab9451e75e00/w=5000) November 13, 2020 ### Why do COVID-19 deaths in Sweden's official data always appear to decrease? Edouard Mathieu](https://ourworldindata.org/covid-sweden-death-reporting)[![Image 48: The graph illustrates confirmed Covid-19 cases from Our World In Data, dated April 15, comparing trajectories in different countries, including the USA, Spain, Italy, China, South Korea, and Japan](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/0f687920-3325-4edf-7c27-fa4d08cf6b00/w=1280) May 14, 2020 ### How to read the famous coronavirus trajectory chart — video explainer Hannah Ritchie](https://ourworldindata.org/how-to-read-the-famous-coronavirus-trajectory-chart-video-explainer)
+
+Our World in Data’s COVID-19 data updates
+-----------------------------------------
+
+[![Image 49: Thumbnail for article on future covid data updates](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/d6f26de4-c3ef-43bb-af5a-29f7f4b0db00/w=5505) November 15, 2024 ### Future updates of our data on COVID-19 Saloni Dattani and Lucas Rodés-Guirao](https://ourworldindata.org/future-updates-data-covid)[![Image 50: Thumbnail for article on updating data source](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/9d063b0a-68ac-4ab3-fe49-7a2146c55c00/w=5609) February 28, 2023 ### Our World in Data will rely on data from the WHO to track confirmed COVID-19 cases and deaths Edouard Mathieu and Lucas Rodés-Guirao](https://ourworldindata.org/covid-jhu-who)[![Image 51: A text logo for the academic journal Nature Human Behaviour, in white lettering against a dark blue background](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/c5c4a11a-789c-46c9-1bb2-6d0a128eb100/w=1200) May 10, 2021 ### The Our World in Data COVID-19 vaccination dataset has been published in the academic journal, Nature Human Behaviour Hannah Ritchie](https://ourworldindata.org/covid-vaccinations-nature)[![Image 52: A scientific paper titled A cross-country database of COVID-19 testing by Joe Hasell et al., published in Scientific Data](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/3d907886-5156-4791-0b92-c048d78cf900/w=868) October 09, 2020 ### The Our World in Data COVID-19 Testing dataset has been published in the academic journal, Nature Scientific Data Joe Hasell](https://ourworldindata.org/our-world-in-data-covid-19-testing-dataset-published-by-nature)[![Image 53: World map with “Coronavirus Vaccinations by Our World in Data” text overlaid](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/5b67d0d8-c685-4c1d-392c-87f904119500/w=1200) January 08, 2021 ### Our World in Data is now tracking Coronavirus (COVID-19) vaccinations across the world Edouard Mathieu, Hannah Ritchie, and Max Roser](https://ourworldindata.org/covid-vaccination-dataset)[![Image 54: The image shows the Coronavirus Pandemic [COVID-19] testing dataset from Our World in Data, displayed over a world map](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/6653854a-5e18-4837-efeb-c09d94543900/w=1200) May 31, 2022 ### Ending our COVID-19 testing data updates Edouard Mathieu, Cameron Appel, and Lucas Rodés-Guirao](https://ourworldindata.org/covid-testing-data-archived)
+
+Key Charts on COVID-19[](https://ourworldindata.org/coronavirus#all-charts)
+===========================================================================
+
+[See all charts on this topic](https://ourworldindata.org/data?topics=COVID-19)
+
+*   [![Image 55: A thumbnail of the "Excess mortality: Raw number of deaths from all causes compared to projection based on previous years" chart](https://ourworldindata.org/grapher/excess-mortality-raw-death-count-single-series.png)Excess mortality: Raw number of deaths from all causes compared to projection based on previous years](https://ourworldindata.org/grapher/excess-mortality-raw-death-count-single-series)Raw death counts, extended series
+*   [![Image 56: A thumbnail of the "Excess mortality: Deaths from all causes compared to projection based on previous years, by age" chart](https://ourworldindata.org/grapher/excess-mortality-p-scores-projected-baseline-by-age.png)Excess mortality: Deaths from all causes compared to projection based on previous years, by age](https://ourworldindata.org/grapher/excess-mortality-p-scores-projected-baseline-by-age)P-scores, projected baseline
+*   [![Image 57: A thumbnail of the "Estimated cumulative excess deaths during COVID-19" chart](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity.png)Estimated cumulative excess deaths during COVID-19](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity)Non-Explorer, single-entity version
+*   [![Image 58: A thumbnail of the "SARS-CoV-2 variants in analyzed sequences" chart](https://ourworldindata.org/grapher/covid-variants-area.png)SARS-CoV-2 variants in analyzed sequences](https://ourworldindata.org/grapher/covid-variants-area)
+*   [![Image 59: A thumbnail of the "Share of people who completed the initial COVID-19 vaccination protocol" chart](https://ourworldindata.org/grapher/share-people-fully-vaccinated-covid.png)Share of people who completed the initial COVID-19 vaccination protocol](https://ourworldindata.org/grapher/share-people-fully-vaccinated-covid)
+*   [![Image 60: A thumbnail of the "Daily share of the population receiving a COVID-19 vaccine dose" chart](https://ourworldindata.org/grapher/daily-covid-vaccination-doses-per-capita.png)Daily share of the population receiving a COVID-19 vaccine dose](https://ourworldindata.org/grapher/daily-covid-vaccination-doses-per-capita)
+*   [![Image 61: A thumbnail of the "Daily confirmed COVID-19 cases by world region" chart](https://ourworldindata.org/grapher/daily-cases-covid-region.png)Daily confirmed COVID-19 cases by world region](https://ourworldindata.org/grapher/daily-cases-covid-region)Stacked area chart – by world region
+*   [![Image 62: A thumbnail of the "Daily new estimated infections of COVID-19" chart](https://ourworldindata.org/grapher/daily-new-estimated-infections-of-covid-19.png)Daily new estimated infections of COVID-19](https://ourworldindata.org/grapher/daily-new-estimated-infections-of-covid-19)
+*   [![Image 63: A thumbnail of the "Weekly new hospital admissions for COVID-19 per million" chart](https://ourworldindata.org/grapher/weekly-hospital-admissions-covid-per-million.png)Weekly new hospital admissions for COVID-19 per million](https://ourworldindata.org/grapher/weekly-hospital-admissions-covid-per-million)
+*   [![Image 64: A thumbnail of the "Daily confirmed COVID-19 deaths by world region" chart](https://ourworldindata.org/grapher/daily-covid-deaths-region.png)Daily confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/daily-covid-deaths-region)
+*   [![Image 65: A thumbnail of the "Are children eligible for COVID-19 vaccination?" chart](https://ourworldindata.org/grapher/covid-vaccine-age.png)Are children eligible for COVID-19 vaccination?](https://ourworldindata.org/grapher/covid-vaccine-age)
+*   [![Image 66: A thumbnail of the "Biweekly change in confirmed COVID-19 cases" chart](https://ourworldindata.org/grapher/biweekly-growth-covid-cases.png)Biweekly change in confirmed COVID-19 cases](https://ourworldindata.org/grapher/biweekly-growth-covid-cases)
+*   [![Image 67: A thumbnail of the "Biweekly change in confirmed COVID-19 deaths" chart](https://ourworldindata.org/grapher/biweekly-change-covid-deaths.png)Biweekly change in confirmed COVID-19 deaths](https://ourworldindata.org/grapher/biweekly-change-covid-deaths)
+*   [![Image 68: A thumbnail of the "Biweekly confirmed COVID-19 cases" chart](https://ourworldindata.org/grapher/biweekly-confirmed-covid-19-cases.png)Biweekly confirmed COVID-19 cases](https://ourworldindata.org/grapher/biweekly-confirmed-covid-19-cases)
+*   [![Image 69: A thumbnail of the "Biweekly confirmed COVID-19 cases per million people" chart](https://ourworldindata.org/grapher/biweekly-covid-cases-per-million-people.png)Biweekly confirmed COVID-19 cases per million people](https://ourworldindata.org/grapher/biweekly-covid-cases-per-million-people)
+*   [![Image 70: A thumbnail of the "Biweekly confirmed COVID-19 deaths" chart](https://ourworldindata.org/grapher/biweekly-covid-deaths.png)Biweekly confirmed COVID-19 deaths](https://ourworldindata.org/grapher/biweekly-covid-deaths)
+*   [![Image 71: A thumbnail of the "Biweekly confirmed COVID-19 deaths per million people" chart](https://ourworldindata.org/grapher/biweekly-covid-deaths-per-million-people.png)Biweekly confirmed COVID-19 deaths per million people](https://ourworldindata.org/grapher/biweekly-covid-deaths-per-million-people)
+*   [![Image 72: A thumbnail of the "COVID-19 Containment and Health Index" chart](https://ourworldindata.org/grapher/covid-containment-and-health-index.png)COVID-19 Containment and Health Index](https://ourworldindata.org/grapher/covid-containment-and-health-index)
+*   [![Image 73: A thumbnail of the "COVID-19 testing policies" chart](https://ourworldindata.org/grapher/covid-19-testing-policy.png)COVID-19 testing policies](https://ourworldindata.org/grapher/covid-19-testing-policy)
+*   [![Image 74: A thumbnail of the "COVID-19 vaccination policy" chart](https://ourworldindata.org/grapher/covid-vaccination-policy.png)COVID-19 vaccination policy](https://ourworldindata.org/grapher/covid-vaccination-policy)
+*   [![Image 75: A thumbnail of the "COVID-19 vaccine boosters administered" chart](https://ourworldindata.org/grapher/cumulative-covid-vaccine-booster-doses.png)COVID-19 vaccine boosters administered](https://ourworldindata.org/grapher/cumulative-covid-vaccine-booster-doses)
+*   [![Image 76: A thumbnail of the "COVID-19 vaccine boosters administered per 100 people" chart](https://ourworldindata.org/grapher/covid-vaccine-booster-doses-per-capita.png)COVID-19 vaccine boosters administered per 100 people](https://ourworldindata.org/grapher/covid-vaccine-booster-doses-per-capita)
+*   [![Image 77: A thumbnail of the "COVID-19 vaccine doses administered by manufacturer" chart](https://ourworldindata.org/grapher/covid-vaccine-doses-by-manufacturer.png)COVID-19 vaccine doses administered by manufacturer](https://ourworldindata.org/grapher/covid-vaccine-doses-by-manufacturer)
+*   [![Image 78: A thumbnail of the "COVID-19: Countries restricting gatherings of a given number of people" chart](https://ourworldindata.org/grapher/countries-with-restrictions-on-public-gatherings.png)COVID-19: Countries restricting gatherings of a given number of people](https://ourworldindata.org/grapher/countries-with-restrictions-on-public-gatherings)
+*   [![Image 79: A thumbnail of the "COVID-19: Countries with requirements for face coverings" chart](https://ourworldindata.org/grapher/countries-with-requirements-for-face-coverings.png)COVID-19: Countries with requirements for face coverings](https://ourworldindata.org/grapher/countries-with-requirements-for-face-coverings)
+*   [![Image 80: A thumbnail of the "COVID-19: Countries with restrictions on international travels" chart](https://ourworldindata.org/grapher/countries-with-restrictions-on-international-travels.png)COVID-19: Countries with restrictions on international travels](https://ourworldindata.org/grapher/countries-with-restrictions-on-international-travels)
+*   [![Image 81: A thumbnail of the "COVID-19: Daily tests vs. daily new confirmed cases" chart](https://ourworldindata.org/grapher/covid-19-daily-tests-vs-daily-new-confirmed-cases.png)COVID-19: Daily tests vs. daily new confirmed cases](https://ourworldindata.org/grapher/covid-19-daily-tests-vs-daily-new-confirmed-cases)
+*   [![Image 82: A thumbnail of the "COVID-19: Daily tests vs. daily new confirmed cases per million" chart](https://ourworldindata.org/grapher/covid-19-daily-tests-vs-daily-new-confirmed-cases-per-million.png)COVID-19: Daily tests vs. daily new confirmed cases per million](https://ourworldindata.org/grapher/covid-19-daily-tests-vs-daily-new-confirmed-cases-per-million)
+*   [![Image 83: A thumbnail of the "Cancellation of public events during COVID-19 pandemic" chart](https://ourworldindata.org/grapher/public-events-covid.png)Cancellation of public events during COVID-19 pandemic](https://ourworldindata.org/grapher/public-events-covid)
+*   [![Image 84: A thumbnail of the "Chile: COVID-19 weekly death rate by vaccination status" chart](https://ourworldindata.org/grapher/chile-covid-19-mortality-rate-by-vaccination-status.png)Chile: COVID-19 weekly death rate by vaccination status](https://ourworldindata.org/grapher/chile-covid-19-mortality-rate-by-vaccination-status)
+*   [![Image 85: A thumbnail of the "Cumulative confirmed COVID-19 cases and deaths" chart](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19.png)Cumulative confirmed COVID-19 cases and deaths](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19)
+*   [![Image 86: A thumbnail of the "Cumulative confirmed COVID-19 cases by world region" chart](https://ourworldindata.org/grapher/cumulative-covid-cases-region.png)Cumulative confirmed COVID-19 cases by world region](https://ourworldindata.org/grapher/cumulative-covid-cases-region)By Region
+*   [![Image 87: A thumbnail of the "Cumulative confirmed COVID-19 deaths by world region" chart](https://ourworldindata.org/grapher/cumulative-covid-deaths-region.png)Cumulative confirmed COVID-19 deaths by world region](https://ourworldindata.org/grapher/cumulative-covid-deaths-region)
+*   [![Image 88: A thumbnail of the "Cumulative confirmed COVID-19 deaths vs. cases" chart](https://ourworldindata.org/grapher/covid-19-cumulative-confirmed-cases-vs-confirmed-deaths.png)Cumulative confirmed COVID-19 deaths vs. cases](https://ourworldindata.org/grapher/covid-19-cumulative-confirmed-cases-vs-confirmed-deaths)
+*   [![Image 89: A thumbnail of the "Daily COVID-19 tests" chart](https://ourworldindata.org/grapher/daily-covid-19-tests-smoothed-7-day.png)Daily COVID-19 tests](https://ourworldindata.org/grapher/daily-covid-19-tests-smoothed-7-day)
+*   [![Image 90: A thumbnail of the "Daily COVID-19 tests per 1,000 people" chart](https://ourworldindata.org/grapher/daily-tests-per-thousand-people-smoothed-7-day.png)Daily COVID-19 tests per 1,000 people](https://ourworldindata.org/grapher/daily-tests-per-thousand-people-smoothed-7-day)Rolling 7-day average
+*   [![Image 91: A thumbnail of the "Daily COVID-19 vaccine doses administered" chart](https://ourworldindata.org/grapher/daily-covid-19-vaccination-doses.png)Daily COVID-19 vaccine doses administered](https://ourworldindata.org/grapher/daily-covid-19-vaccination-doses)
+*   [![Image 92: A thumbnail of the "Daily and total confirmed COVID-19 deaths" chart](https://ourworldindata.org/grapher/total-daily-covid-deaths.png)Daily and total confirmed COVID-19 deaths](https://ourworldindata.org/grapher/total-daily-covid-deaths)
+*   [![Image 93: A thumbnail of the "Daily new confirmed COVID-19 cases and deaths" chart](https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra.png)Daily new confirmed COVID-19 cases and deaths](https://ourworldindata.org/grapher/daily-covid-cases-deaths-7-day-ra)
+*   [![Image 94: A thumbnail of the "Daily new estimated COVID-19 infections from the ICL model" chart](https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-icl-model.png)Daily new estimated COVID-19 infections from the ICL model](https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-icl-model)
+*   [![Image 95: A thumbnail of the "Daily new estimated COVID-19 infections from the IHME model" chart](https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-ihme-model.png)Daily new estimated COVID-19 infections from the IHME model](https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-ihme-model)
+*   [![Image 96: A thumbnail of the "Daily new estimated COVID-19 infections from the LSHTM model" chart](https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-lshtm-model.png)Daily new estimated COVID-19 infections from the LSHTM model](https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-lshtm-model)
+*   [![Image 97: A thumbnail of the "Daily new estimated COVID-19 infections from the YYG model" chart](https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-yyg-model.png)Daily new estimated COVID-19 infections from the YYG model](https://ourworldindata.org/grapher/daily-new-estimated-covid-19-infections-yyg-model)
+*   [![Image 98: A thumbnail of the "Daily vs. total confirmed COVID-19 cases per million people" chart](https://ourworldindata.org/grapher/covid-daily-vs-total-cases-per-million.png)Daily vs. total confirmed COVID-19 cases per million people](https://ourworldindata.org/grapher/covid-daily-vs-total-cases-per-million)
+*   [![Image 99: A thumbnail of the "Debt or contract relief during the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/debt-relief-covid.png)Debt or contract relief during the COVID-19 pandemic](https://ourworldindata.org/grapher/debt-relief-covid)
+*   [![Image 100: A thumbnail of the "Estimated cumulative excess deaths during COVID" chart](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist.png)Estimated cumulative excess deaths during COVID](https://ourworldindata.org/grapher/excess-deaths-cumulative-economist)Faceted Explorer version
+*   [![Image 101: A thumbnail of the "Estimated cumulative excess deaths per 100,000 people during COVID, from The Economist" chart](https://ourworldindata.org/grapher/excess-deaths-cumulative-per-100k-economist.png)Estimated cumulative excess deaths per 100,000 people during COVID, from The Economist](https://ourworldindata.org/grapher/excess-deaths-cumulative-per-100k-economist)
+*   [![Image 102: A thumbnail of the "Estimated daily excess deaths during COVID" chart](https://ourworldindata.org/grapher/excess-deaths-daily-economist.png)Estimated daily excess deaths during COVID](https://ourworldindata.org/grapher/excess-deaths-daily-economist)Faceted Explorer version
+*   [![Image 103: A thumbnail of the "Estimated daily excess deaths per 100,000 people during COVID, from The Economist" chart](https://ourworldindata.org/grapher/excess-deaths-daily-per-100k-economist.png)Estimated daily excess deaths per 100,000 people during COVID, from The Economist](https://ourworldindata.org/grapher/excess-deaths-daily-per-100k-economist)
+*   [![Image 104: A thumbnail of the "Excess mortality: Cumulative deaths from all causes compared to projection based on previous years" chart](https://ourworldindata.org/grapher/cumulative-excess-deaths-covid.png)Excess mortality: Cumulative deaths from all causes compared to projection based on previous years](https://ourworldindata.org/grapher/cumulative-excess-deaths-covid)Absolute deaths
+*   [![Image 105: A thumbnail of the "Excess mortality: Cumulative deaths from all causes compared to projection based on previous years" chart](https://ourworldindata.org/grapher/cumulative-excess-mortality-p-scores-projected-baseline.png)Excess mortality: Cumulative deaths from all causes compared to projection based on previous years](https://ourworldindata.org/grapher/cumulative-excess-mortality-p-scores-projected-baseline)Percentage
+*   [![Image 106: A thumbnail of the "Excess mortality: Cumulative deaths from all causes compared to projection based on previous years, per million people" chart](https://ourworldindata.org/grapher/cumulative-excess-deaths-per-million-covid.png)Excess mortality: Cumulative deaths from all causes compared to projection based on previous years, per million people](https://ourworldindata.org/grapher/cumulative-excess-deaths-per-million-covid)
+*   [![Image 107: A thumbnail of the "Excess mortality: Deaths from all causes compared to average over previous years" chart](https://ourworldindata.org/grapher/excess-mortality-p-scores-average-baseline.png)Excess mortality: Deaths from all causes compared to average over previous years](https://ourworldindata.org/grapher/excess-mortality-p-scores-average-baseline)P-scores, average baseline
+*   [![Image 108: A thumbnail of the "Excess mortality: Deaths from all causes compared to average over previous years, by age" chart](https://ourworldindata.org/grapher/excess-mortality-p-scores-average-baseline-by-age.png)Excess mortality: Deaths from all causes compared to average over previous years, by age](https://ourworldindata.org/grapher/excess-mortality-p-scores-average-baseline-by-age)P-scores, average baseline
+*   [![Image 109: A thumbnail of the "Excess mortality: Deaths from all causes compared to projection" chart](https://ourworldindata.org/grapher/excess-mortality-p-scores-projected-baseline.png)Excess mortality: Deaths from all causes compared to projection](https://ourworldindata.org/grapher/excess-mortality-p-scores-projected-baseline)P-scores, projected baseline
+*   [![Image 110: A thumbnail of the "Excess mortality: Raw number of deaths from all causes compared to projection based on previous years" chart](https://ourworldindata.org/grapher/excess-mortality-raw-death-count.png)Excess mortality: Raw number of deaths from all causes compared to projection based on previous years](https://ourworldindata.org/grapher/excess-mortality-raw-death-count)Raw death counts, stacked years
+*   [![Image 111: A thumbnail of the "Face covering policies during the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/face-covering-policies-covid.png)Face covering policies during the COVID-19 pandemic](https://ourworldindata.org/grapher/face-covering-policies-covid)
+*   [![Image 112: A thumbnail of the "Grocery and pharmacy stores: How did the number of visitors change relative to before the pandemic?" chart](https://ourworldindata.org/grapher/change-visitors-grocery-stores.png)Grocery and pharmacy stores: How did the number of visitors change relative to before the pandemic?](https://ourworldindata.org/grapher/change-visitors-grocery-stores)
+*   [![Image 113: A thumbnail of the "How did the number of visitors change since the beginning of the pandemic?" chart](https://ourworldindata.org/grapher/changes-visitors-covid.png)How did the number of visitors change since the beginning of the pandemic?](https://ourworldindata.org/grapher/changes-visitors-covid)
+*   [![Image 114: A thumbnail of the "Income support during the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/income-support-covid.png)Income support during the COVID-19 pandemic](https://ourworldindata.org/grapher/income-support-covid)
+*   [![Image 115: A thumbnail of the "International travel controls during the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/international-travel-covid.png)International travel controls during the COVID-19 pandemic](https://ourworldindata.org/grapher/international-travel-covid)
+*   [![Image 116: A thumbnail of the "Number of COVID-19 patients in ICU per million" chart](https://ourworldindata.org/grapher/covid-icu-patients-per-million.png)Number of COVID-19 patients in ICU per million](https://ourworldindata.org/grapher/covid-icu-patients-per-million)
+*   [![Image 117: A thumbnail of the "Number of COVID-19 patients in hospital" chart](https://ourworldindata.org/grapher/current-covid-patients-hospital.png)Number of COVID-19 patients in hospital](https://ourworldindata.org/grapher/current-covid-patients-hospital)
+*   [![Image 118: A thumbnail of the "Number of COVID-19 patients in hospital per million" chart](https://ourworldindata.org/grapher/current-covid-hospitalizations-per-million.png)Number of COVID-19 patients in hospital per million](https://ourworldindata.org/grapher/current-covid-hospitalizations-per-million)
+*   [![Image 119: A thumbnail of the "Number of COVID-19 patients in intensive care (ICU)" chart](https://ourworldindata.org/grapher/current-covid-patients-icu.png)Number of COVID-19 patients in intensive care (ICU)](https://ourworldindata.org/grapher/current-covid-patients-icu)
+*   [![Image 120: A thumbnail of the "Number of people who completed the initial COVID-19 vaccination protocol" chart](https://ourworldindata.org/grapher/people-fully-vaccinated-covid.png)Number of people who completed the initial COVID-19 vaccination protocol](https://ourworldindata.org/grapher/people-fully-vaccinated-covid)
+*   [![Image 121: A thumbnail of the "Parks and outdoor spaces: How did the number of visitors change relative to before the pandemic?" chart](https://ourworldindata.org/grapher/change-visitors-parks-covid.png)Parks and outdoor spaces: How did the number of visitors change relative to before the pandemic?](https://ourworldindata.org/grapher/change-visitors-parks-covid)
+*   [![Image 122: A thumbnail of the "Public information campaigns on the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/public-campaigns-covid.png)Public information campaigns on the COVID-19 pandemic](https://ourworldindata.org/grapher/public-campaigns-covid)
+*   [![Image 123: A thumbnail of the "Public transport closures during the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/public-transport-covid.png)Public transport closures during the COVID-19 pandemic](https://ourworldindata.org/grapher/public-transport-covid)
+*   [![Image 124: A thumbnail of the "Residential areas: How did the time spent at home change relative to before the pandemic?" chart](https://ourworldindata.org/grapher/changes-residential-duration-covid.png)Residential areas: How did the time spent at home change relative to before the pandemic?](https://ourworldindata.org/grapher/changes-residential-duration-covid)
+*   [![Image 125: A thumbnail of the "Restrictions on internal movement during the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/internal-movement-covid.png)Restrictions on internal movement during the COVID-19 pandemic](https://ourworldindata.org/grapher/internal-movement-covid)
+*   [![Image 126: A thumbnail of the "Restrictions on public gatherings in the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/public-gathering-rules-covid.png)Restrictions on public gatherings in the COVID-19 pandemic](https://ourworldindata.org/grapher/public-gathering-rules-covid)
+*   [![Image 127: A thumbnail of the "Retail and recreation: How did the number of visitors change relative to before the pandemic?" chart](https://ourworldindata.org/grapher/change-visitors-retail-recreation.png)Retail and recreation: How did the number of visitors change relative to before the pandemic?](https://ourworldindata.org/grapher/change-visitors-retail-recreation)
+*   [![Image 128: A thumbnail of the "SARS-CoV-2 sequences by variant" chart](https://ourworldindata.org/grapher/covid-variants-bar.png)SARS-CoV-2 sequences by variant](https://ourworldindata.org/grapher/covid-variants-bar)
+*   [![Image 129: A thumbnail of the "School closures during the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/school-closures-covid.png)School closures during the COVID-19 pandemic](https://ourworldindata.org/grapher/school-closures-covid)
+*   [![Image 130: A thumbnail of the "Share of people who completed the initial COVID-19 vaccination protocol by age" chart](https://ourworldindata.org/grapher/covid-fully-vaccinated-by-age.png)Share of people who completed the initial COVID-19 vaccination protocol by age](https://ourworldindata.org/grapher/covid-fully-vaccinated-by-age)
+*   [![Image 131: A thumbnail of the "Share of people who received at least one dose of COVID-19 vaccine" chart](https://ourworldindata.org/grapher/share-people-vaccinated-covid.png)Share of people who received at least one dose of COVID-19 vaccine](https://ourworldindata.org/grapher/share-people-vaccinated-covid)
+*   [![Image 132: A thumbnail of the "Share of people with a COVID-19 booster dose by age" chart](https://ourworldindata.org/grapher/covid-booster-vaccinated-by-age.png)Share of people with a COVID-19 booster dose by age](https://ourworldindata.org/grapher/covid-booster-vaccinated-by-age)
+*   [![Image 133: A thumbnail of the "Share of people with at least one dose of COVID-19 vaccine by age" chart](https://ourworldindata.org/grapher/covid-vaccine-by-age.png)Share of people with at least one dose of COVID-19 vaccine by age](https://ourworldindata.org/grapher/covid-vaccine-by-age)
+*   [![Image 134: A thumbnail of the "Share of total COVID-19 tests that were positive" chart](https://ourworldindata.org/grapher/covid-19-positive-rate-bar.png)Share of total COVID-19 tests that were positive](https://ourworldindata.org/grapher/covid-19-positive-rate-bar)
+*   [![Image 135: A thumbnail of the "Stay-at-home requirements during the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/stay-at-home-covid.png)Stay-at-home requirements during the COVID-19 pandemic](https://ourworldindata.org/grapher/stay-at-home-covid)
+*   [![Image 136: A thumbnail of the "Switzerland: COVID-19 weekly death rate by vaccination status" chart](https://ourworldindata.org/grapher/switzerland-covid-19-weekly-death-rate-by-vaccination-status.png)Switzerland: COVID-19 weekly death rate by vaccination status](https://ourworldindata.org/grapher/switzerland-covid-19-weekly-death-rate-by-vaccination-status)
+*   [![Image 137: A thumbnail of the "Tests conducted per new confirmed case of COVID-19" chart](https://ourworldindata.org/grapher/tests-per-confirmed-case-daily-smoothed.png)Tests conducted per new confirmed case of COVID-19](https://ourworldindata.org/grapher/tests-per-confirmed-case-daily-smoothed)
+*   [![Image 138: A thumbnail of the "The share of COVID-19 tests that are positive" chart](https://ourworldindata.org/grapher/positive-rate-daily-smoothed.png)The share of COVID-19 tests that are positive](https://ourworldindata.org/grapher/positive-rate-daily-smoothed)
+*   [![Image 139: A thumbnail of the "Total COVID-19 tests" chart](https://ourworldindata.org/grapher/full-list-total-tests-for-covid-19.png)Total COVID-19 tests](https://ourworldindata.org/grapher/full-list-total-tests-for-covid-19)Line chart
+*   [![Image 140: A thumbnail of the "Total COVID-19 tests conducted vs. confirmed cases" chart](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-tests-conducted.png)Total COVID-19 tests conducted vs. confirmed cases](https://ourworldindata.org/grapher/covid-19-total-confirmed-cases-vs-total-tests-conducted)
+*   [![Image 141: A thumbnail of the "Total COVID-19 tests conducted vs. confirmed cases per million" chart](https://ourworldindata.org/grapher/covid-19-tests-cases-scatter-with-comparisons.png)Total COVID-19 tests conducted vs. confirmed cases per million](https://ourworldindata.org/grapher/covid-19-tests-cases-scatter-with-comparisons)
+*   [![Image 142: A thumbnail of the "Total COVID-19 tests per 1,000 people" chart](https://ourworldindata.org/grapher/full-list-cumulative-total-tests-per-thousand.png)Total COVID-19 tests per 1,000 people](https://ourworldindata.org/grapher/full-list-cumulative-total-tests-per-thousand)Line chart
+*   [![Image 143: A thumbnail of the "Total COVID-19 tests per 1,000 vs. GDP per capita" chart](https://ourworldindata.org/grapher/tests-of-covid-19-per-thousand-people-vs-gdp-per-capita.png)Total COVID-19 tests per 1,000 vs. GDP per capita](https://ourworldindata.org/grapher/tests-of-covid-19-per-thousand-people-vs-gdp-per-capita)
+*   [![Image 144: A thumbnail of the "Total COVID-19 tests per confirmed case" chart](https://ourworldindata.org/grapher/number-of-covid-19-tests-per-confirmed-case-bar-chart.png)Total COVID-19 tests per confirmed case](https://ourworldindata.org/grapher/number-of-covid-19-tests-per-confirmed-case-bar-chart)
+*   [![Image 145: A thumbnail of the "Total COVID-19 vaccine doses administered" chart](https://ourworldindata.org/grapher/cumulative-covid-vaccinations.png)Total COVID-19 vaccine doses administered](https://ourworldindata.org/grapher/cumulative-covid-vaccinations)
+*   [![Image 146: A thumbnail of the "Total COVID-19 vaccine doses administered per 100 people" chart](https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita.png)Total COVID-19 vaccine doses administered per 100 people](https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita)
+*   [![Image 147: A thumbnail of the "Total confirmed COVID-19 cases vs. deaths per million" chart](https://ourworldindata.org/grapher/rate-confirmed-cases-vs-rate-confirmed-deaths.png)Total confirmed COVID-19 cases vs. deaths per million](https://ourworldindata.org/grapher/rate-confirmed-cases-vs-rate-confirmed-deaths)
+*   [![Image 148: A thumbnail of the "Total confirmed COVID-19 deaths and cases per million people" chart](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million.png)Total confirmed COVID-19 deaths and cases per million people](https://ourworldindata.org/grapher/total-covid-cases-deaths-per-million)
+*   [![Image 149: A thumbnail of the "Total confirmed deaths due to COVID-19 vs. population" chart](https://ourworldindata.org/grapher/total-confirmed-deaths-due-to-covid-19-vs-population.png)Total confirmed deaths due to COVID-19 vs. population](https://ourworldindata.org/grapher/total-confirmed-deaths-due-to-covid-19-vs-population)
+*   [![Image 150: A thumbnail of the "Total number of people who received at least one dose of COVID-19 vaccine" chart](https://ourworldindata.org/grapher/people-vaccinated-covid.png)Total number of people who received at least one dose of COVID-19 vaccine](https://ourworldindata.org/grapher/people-vaccinated-covid)
+*   [![Image 151: A thumbnail of the "Transit stations: How did the number of visitors change relative to before the pandemic?" chart](https://ourworldindata.org/grapher/visitors-transit-covid.png)Transit stations: How did the number of visitors change relative to before the pandemic?](https://ourworldindata.org/grapher/visitors-transit-covid)
+*   [![Image 152: A thumbnail of the "United States: COVID-19 weekly death rate by vaccination status" chart](https://ourworldindata.org/grapher/united-states-rates-of-covid-19-deaths-by-vaccination-status.png)United States: COVID-19 weekly death rate by vaccination status](https://ourworldindata.org/grapher/united-states-rates-of-covid-19-deaths-by-vaccination-status)
+*   [![Image 153: A thumbnail of the "Week by week change in confirmed COVID-19 cases" chart](https://ourworldindata.org/grapher/weekly-growth-covid-cases.png)Week by week change in confirmed COVID-19 cases](https://ourworldindata.org/grapher/weekly-growth-covid-cases)
+*   [![Image 154: A thumbnail of the "Week by week change of confirmed COVID-19 deaths" chart](https://ourworldindata.org/grapher/weekly-growth-covid-deaths.png)Week by week change of confirmed COVID-19 deaths](https://ourworldindata.org/grapher/weekly-growth-covid-deaths)
+*   [![Image 155: A thumbnail of the "Weekly confirmed COVID-19 cases" chart](https://ourworldindata.org/grapher/weekly-covid-cases.png)Weekly confirmed COVID-19 cases](https://ourworldindata.org/grapher/weekly-covid-cases)
+*   [![Image 156: A thumbnail of the "Weekly confirmed COVID-19 cases per million people" chart](https://ourworldindata.org/grapher/weekly-covid-cases-per-million-people.png)Weekly confirmed COVID-19 cases per million people](https://ourworldindata.org/grapher/weekly-covid-cases-per-million-people)
+*   [![Image 157: A thumbnail of the "Weekly confirmed COVID-19 deaths" chart](https://ourworldindata.org/grapher/weekly-covid-deaths.png)Weekly confirmed COVID-19 deaths](https://ourworldindata.org/grapher/weekly-covid-deaths)
+*   [![Image 158: A thumbnail of the "Weekly confirmed COVID-19 deaths per million people" chart](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people.png)Weekly confirmed COVID-19 deaths per million people](https://ourworldindata.org/grapher/weekly-covid-deaths-per-million-people)
+*   [![Image 159: A thumbnail of the "Weekly new ICU admissions for COVID-19" chart](https://ourworldindata.org/grapher/weekly-icu-admissions-covid.png)Weekly new ICU admissions for COVID-19](https://ourworldindata.org/grapher/weekly-icu-admissions-covid)
+*   [![Image 160: A thumbnail of the "Weekly new ICU admissions for COVID-19 per million" chart](https://ourworldindata.org/grapher/weekly-icu-admissions-covid-per-million.png)Weekly new ICU admissions for COVID-19 per million](https://ourworldindata.org/grapher/weekly-icu-admissions-covid-per-million)
+*   [![Image 161: A thumbnail of the "Weekly new hospital admissions for COVID-19" chart](https://ourworldindata.org/grapher/weekly-hospital-admissions-covid.png)Weekly new hospital admissions for COVID-19](https://ourworldindata.org/grapher/weekly-hospital-admissions-covid)
+*   [![Image 162: A thumbnail of the "Which countries do COVID-19 contact tracing?" chart](https://ourworldindata.org/grapher/covid-contact-tracing.png)Which countries do COVID-19 contact tracing?](https://ourworldindata.org/grapher/covid-contact-tracing)
+*   [![Image 163: A thumbnail of the "Willingness to get vaccinated against COVID-19" chart](https://ourworldindata.org/grapher/covid-vaccine-willingness-and-people-vaccinated-by-month.png)Willingness to get vaccinated against COVID-19](https://ourworldindata.org/grapher/covid-vaccine-willingness-and-people-vaccinated-by-month)by month
+*   [![Image 164: A thumbnail of the "Workplace closures during the COVID-19 pandemic" chart](https://ourworldindata.org/grapher/workplace-closures-covid.png)Workplace closures during the COVID-19 pandemic](https://ourworldindata.org/grapher/workplace-closures-covid)
+*   [![Image 165: A thumbnail of the "Workplaces: How did the number of visitors change relative to before the pandemic?" chart](https://ourworldindata.org/grapher/workplace-visitors-covid.png)Workplaces: How did the number of visitors change relative to before the pandemic?](https://ourworldindata.org/grapher/workplace-visitors-covid)
+
+![Image 166: A thumbnail of the "Excess mortality: Raw number of deaths from all causes compared to projection based on previous years" chart](https://ourworldindata.org/grapher/excess-mortality-raw-death-count-single-series.png)
+
+Chart 1 of 111
+
+### Cite this work
+
+Our articles and data visualizations rely on work from many different people and organizations. When citing this topic page, please also cite the underlying data sources. This topic page can be cited as:
+
+`Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser (2020) - “COVID-19 Pandemic” Published online at OurWorldinData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]`
+
+BibTeX citation
+
+```
+@article{owid-coronavirus,
+    author = {Edouard Mathieu and Hannah Ritchie and Lucas Rodés-Guirao and Cameron Appel and Daniel Gavrilov and Charlie Giattino and Joe Hasell and Bobbie Macdonald and Saloni Dattani and Diana Beltekian and Esteban Ortiz-Ospina and Max Roser},
+    title = {COVID-19 Pandemic},
+    journal = {Our World in Data},
+    year = {2020},
+    note = {https://ourworldindata.org/coronavirus}
+}
+```
+
+![Image 167: Our World in Data logo](https://ourworldindata.org/owid-logo.svg)
+### Reuse this work freely
+
+All visualizations, data, and code produced by Our World in Data are completely open access under the[Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.
+
+The data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.
+
+All of[our charts can be embedded](https://ourworldindata.org/faqs#how-can-i-embed-one-of-your-interactive-charts-in-my-website)in any site.
+
+#### Our World in Data is free and accessible for everyone.
+
+Help us do this work by making a donation.
+
+[Donate now](https://ourworldindata.org/donate)
+
+Our World in Data is a project of[Global Change Data Lab](https://global-change-data-lab.org/), a nonprofit based in the UK (Reg. Charity No. 1186433). Our charts, articles, and data are licensed under[CC BY](https://creativecommons.org/licenses/by/4.0/), unless stated otherwise. Tools and software we develop are open source under the[MIT license](https://github.com/owid/owid-grapher/blob/master/LICENSE.md). Third-party materials, including some charts and data, are subject to third-party licenses. See our[FAQs](https://ourworldindata.org/faqs) for more details.
+
+[![Image 168: Oxford Martin School logo](https://ourworldindata.org/oms-logo.svg)](https://www.oxfordmartin.ox.ac.uk/global-development)[![Image 169: University of Oxford logo](https://ourworldindata.org/oxford-logo.svg)](https://www.ox.ac.uk/)[![Image 170: Global Change Data Lab logo](https://ourworldindata.org/gcdl-logo.svg)](https://global-change-data-lab.org/)
+
+[![Image 171: Y Combinator logo](https://ourworldindata.org/yc-logo.svg)](https://www.ycombinator.com/)
+
+##### Explore
+
+*   [Topics](https://ourworldindata.org/#all-topics)
+*   [Data](https://ourworldindata.org/search)
+*   [Insights](https://ourworldindata.org/data-insights)
+
+##### Resources
+
+*   [Latest Articles](https://ourworldindata.org/latest)
+*   [SDG Tracker](https://ourworldindata.org/sdgs)
+*   [Teaching with OWID](https://ourworldindata.org/teaching)
+
+##### About
+
+*   [About Us](https://ourworldindata.org/about)
+*   [Organization](https://ourworldindata.org/organization)
+*   [Funding](https://ourworldindata.org/funding)
+*   [Team](https://ourworldindata.org/team)
+*   [Jobs](https://ourworldindata.org/jobs)
+*   [FAQs](https://ourworldindata.org/faqs)
+
+##### RSS Feeds
+
+*   [Research & Writing](https://ourworldindata.org/atom.xml)
+*   [Data Insights](https://ourworldindata.org/atom-data-insights.xml)
+
+##### Follow us
+
+[](https://x.com/ourworldindata)[](https://www.instagram.com/ourworldindata/)[](https://www.threads.net/@ourworldindata)[](https://facebook.com/ourworldindata)[](https://www.linkedin.com/company/ourworldindata)[](https://bsky.app/profile/ourworldindata.org)[](https://github.com/owid)
+
+*   [Privacy policy](https://ourworldindata.org/privacy-policy)
+*   [Legal disclaimer](https://ourworldindata.org/organization#legal-disclaimer)
+*   [Grapher license](https://github.com/owid/owid-grapher/blob/master/LICENSE.md)
+
+Subscribe
+
+Leave us feedback
+
+**Have a question?** You may find an answer in [**FAQs**](https://ourworldindata.org/faqs).
+
+Message 
+
+Your name 
+
+Email address Your name and email will only be used to reply to you and not for any other purpose. If you do not give a valid email, we will not be able to reply to you.
+
+Send message
+
+ Feedback
+
+We use cookies to give you the best experience on our website.
+
+By agreeing, you consent to our use of cookies and other analytics tools according to [our privacy policy](https://ourworldindata.org/privacy-policy).
+
+No thanks I agree

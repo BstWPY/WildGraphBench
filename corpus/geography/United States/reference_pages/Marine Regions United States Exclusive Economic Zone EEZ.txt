@@ -1,0 +1,77 @@
+# Marine Regions · United States Exclusive Economic Zone (EEZ)
+
+Marine Regions · United States Exclusive Economic Zone (EEZ)
+
+===============
+
+[](https://www.marineregions.org/)[](https://www.marineregions.org/)
+*   [About](https://www.marineregions.org/about.php)
+*   [Gazetteer](https://www.marineregions.org/gazetteer.php?p=search)
+*   [Maritime Boundaries](https://www.marineregions.org/eezsearch.php)
+*   [Sources](https://www.marineregions.org/sources.php)
+*   [Statistics](https://www.marineregions.org/content.php)
+*   [Downloads](https://www.marineregions.org/downloads.php)
+
+*   [Search](https://www.marineregions.org/gazetteer.php?p=search)
+*   [Browse](https://www.marineregions.org/gazetteer.php?p=browser)
+*   [About](https://www.marineregions.org/gazetteer.php)
+*   [Tutorial](https://www.marineregions.org/tutorial.php)
+*   [Webservices](https://www.marineregions.org/gazetteer.php?p=webservices)
+*   [Login](https://www.marineregions.org/gazetteer.php?p=login)
+
+Marine Gazetteer Placedetails
+-----------------------------
+
+**MRGID**http://marineregions.org/mrgid/8456
+**Status**Proposed standard![Image 4: Proposed standard](https://www.marineregions.org/images/gazetteer//icons/accept.png)
+**Name****Language****Name****Name source** English United States Exclusive Economic Zone Flanders Marine Institute (2023). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 12. Available online at http://www.marineregions.org/. https://doi.org/10.14284/632 (look up in[IMIS](https://www.vliz.be/en/imis?module=dataset&dasid=8394))
+**PlaceType**EEZ
+
+**Latitude**34° 45' 43.6" N (34.76211°)
+**Longitude**95° 49' 16.8" W (-95.82133°)
+
+**Min. Lat**23° 50' 0" N (23.8333°)
+**Min. Long**129° 14' 5.4" W (-129.2348°)
+
+**Max. Lat**49° 0' 8.1" N (49.0023°)
+**Max. Long**65° 41' 59" W (-65.6997°)
+
+**Source**Flanders Marine Institute (2023). Maritime Boundaries Geodatabase: Maritime Boundaries and Exclusive Economic Zones (200NM), version 12. Available online at http://www.marineregions.org/. https://doi.org/10.14284/632 (look up in [IMIS](https://www.vliz.be/en/imis?module=dataset&dasid=8394))
+
+**Links**[http://www.marineregions.org/eezdetails.php?mrgid=8456](http://www.marineregions.org/eezdetails.php?mrgid=8456)
+
+**Notes****Centroid calculation method** (en): Label
+
+**Relations**Part of[United States](https://www.marineregions.org/gazetteer.php?p=details&id=2204) (Nation)[[view hierarchy](https://www.marineregions.org/gazetteer.php?p=browser&id=9991#focus)] Partly part of[North Pacific Ocean](https://www.marineregions.org/gazetteer.php?p=details&id=1908) (IHO Sea Area)[[view hierarchy](https://www.marineregions.org/gazetteer.php?p=browser&id=9988#focus)] Partly part of[North Atlantic Ocean](https://www.marineregions.org/gazetteer.php?p=details&id=1912) (IHO Sea Area)[[view hierarchy](https://www.marineregions.org/gazetteer.php?p=browser&id=9989#focus)] Partly part of[Gulf of Mexico](https://www.marineregions.org/gazetteer.php?p=details&id=4288) (IHO Sea Area)[[view hierarchy](https://www.marineregions.org/gazetteer.php?p=browser&id=9990#focus)]
+**Map**![Image 5: Topographical map depicting the terrain of North America along its western coast](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-135,0,-90,45&WIDTH=256&HEIGHT=256)![Image 6: Map showing the Caribbean sea and surrounding land masses](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-90,0,-45,45&WIDTH=256&HEIGHT=256)![Image 7: Terrain map of the Arctic and northwestern North America, featuring islands and a vast mainland area](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-135,45,-90,90&WIDTH=256&HEIGHT=256)![Image 8: Topographical map showcasing the Arctic region, with landmasses, waterways, and varied terrain](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-90,45,-45,90&WIDTH=256&HEIGHT=256)![Image 9: Close-up of an area with light blue water and gray topographic ridges](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-135,-45,-90,0&WIDTH=256&HEIGHT=256)![Image 10: The Hawaiian Islands extend across a section of the Pacific Ocean in an aerial view](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-180,0,-135,45&WIDTH=256&HEIGHT=256)![Image 11: The map displays a topographic view of South America, highlighting the Andes mountain range along the western coast](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-90,-45,-45,0&WIDTH=256&HEIGHT=256)![Image 12: Alaska is shown on a map with light blue and brown colors](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-180,45,-135,90&WIDTH=256&HEIGHT=256)![Image 13: Map showing the geographic location of the Canary Islands and the west coast of Africa](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-45,0,0,45&WIDTH=256&HEIGHT=256)![Image 14: The earth with a white spot on the top left and blue water with a few small islands](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-45,45,0,90&WIDTH=256&HEIGHT=256)![Image 15: Satellite view of ocean water that contains several small islands](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-180,-45,-135,0&WIDTH=256&HEIGHT=256)![Image 16: Satellite view of the ocean and the west part of a continent](https://geo.vliz.be/geoserver/gwc/service/wms?LAYERS=Emodnet%3Atiles.emodnet-bathymetry.eu_baselayer&SRS=EPSG%3A4326&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&BBOX=-45,-45,0,0&WIDTH=256&HEIGHT=256)
+
+![Image 17: Close up of a dark background with some red spots on top](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-133.33999999985,1.660000000149,-88.339999999851,46.660000000149&WIDTH=256&HEIGHT=256)![Image 18: Red abstract shape on a black background](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-88.339999999851,1.660000000149,-43.339999999851,46.660000000149&WIDTH=256&HEIGHT=256)![Image 19: Solid black background with a hint of red in the lower left corner](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-133.33999999985,46.660000000149,-88.339999999851,91.660000000149&WIDTH=256&HEIGHT=256)![Image 20: Solid black square](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-88.339999999851,46.660000000149,-43.339999999851,91.660000000149&WIDTH=256&HEIGHT=256)![Image 21: Black solid background](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-133.33999999985,-43.339999999851,-88.339999999851,1.660000000149&WIDTH=256&HEIGHT=256)![Image 22: Black background](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-178.33999999985,1.660000000149,-133.33999999985,46.660000000149&WIDTH=256&HEIGHT=256)![Image 23: Solid black background](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-88.339999999851,-43.339999999851,-43.339999999851,1.660000000149&WIDTH=256&HEIGHT=256)![Image 24: A black image](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-178.33999999985,46.660000000149,-133.33999999985,91.660000000149&WIDTH=256&HEIGHT=256)![Image 25: Black solid image](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-43.339999999851,1.660000000149,1.660000000149,46.660000000149&WIDTH=256&HEIGHT=256)![Image 26: Plain black color](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-178.33999999985,-43.339999999851,-133.33999999985,1.660000000149&WIDTH=256&HEIGHT=256)![Image 27: Black, solid background](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-43.339999999851,46.660000000149,1.660000000149,91.660000000149&WIDTH=256&HEIGHT=256)![Image 28: Black screen](https://geo.vliz.be/geoserver/wms?LAYERS=MarineRegions%3Aeez&FORMAT=image%2Fpng&STYLES=gazetteer_red&TRANSPARENT=TRUE&FILTER=%3CFilter%3E%3CPropertyIsEqualTo%3E%3CPropertyName%3Emrgid%3C%2FPropertyName%3E%3CLiteral%3E8456%3C%2FLiteral%3E%3C%2FPropertyIsEqualTo%3E%3C%2FFilter%3E&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A4326&BBOX=-43.339999999851,-43.339999999851,1.660000000149,1.660000000149&WIDTH=256&HEIGHT=256)
+
+[+](https://www.marineregions.org/gazetteer.php?p=details&id=8456#zoomIn)[−](https://www.marineregions.org/gazetteer.php?p=details&id=8456#zoomOut)
+
+Base Layer
+
+EMODnet Bathymetry ![Image 29: Source: EMODnet Bathymetry](https://www.vliz.be/gis/icons/info.gif) 
+
+Overlays
+
+- [x] World grid 
+
+- [x] Grid 5° 
+
+- [x] MarineRegions:eez 
+
+![Image 30: A 18x18 small image, likely a logo, icon or avatar](https://www.vliz.be/gis/ol/img/layer-switcher-maximize.png)
+
+![Image 31: A 18x18 small image, likely a logo, icon or avatar](https://www.vliz.be/gis/ol/img/layer-switcher-minimize.png)
+
+**Download**Layer: **MarineRegions:eez** - format:
+**Shapefile**[[download](https://www.marineregions.org/downloads.php#eez)] or view the complete Maritime Boundaries Geodatabase shapefile
+
+**Edit history**Last edited on 2019-11-20 22:04:20 by [Lonneville Britt](https://www.vliz.be/en/imis?module=person&persid=34591)
+
+[[Google](https://www.google.com/search?num=10&hl=en&as_epq=%22United%20States%20Exclusive%20Economic%20Zone%22&lr=lang_en&as_ft=i&as_qdr=all&as_occt=any)] [[Google scholar](https://scholar.google.com/scholar?as_q=%22United%20States%20Exclusive%20Economic%20Zone%22&num=10&btnG=Search+Scholar&as_occt=any&as_allsubj=some&as_subj=bio&hl=en)] [[Google images](https://images.google.com/images?svnum=10&hl=en&as_epq=%22United%20States%20Exclusive%20Economic%20Zone%22&safe=off)]
+
+[![Image 32: CC-BY](https://www.marineregions.org/images/cc-by_80x15.png)](https://creativecommons.org/licenses/by/4.0/)[Disclaimer](https://www.marineregions.org/disclaimer.php) | [info@marineregions.org](mailto:info@marineregions.org)
+
+Website developed and maintained by [VLIZ](https://www.vliz.be/en)[![Image 33: A 33x21 small image, likely a logo, icon or avatar](https://www.marineregions.org/images/vlizlogo.png)](https://www.vliz.be/en)

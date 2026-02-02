@@ -1,0 +1,1433 @@
+# 8:22-cv-00099-DOC-DFM Document 260
+
+-1-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+UNITED STATES DISTRICT COURT 
+
+CENTRAL DISTRICT OF CALIFORNIA 
+
+SOUTHERN DIVISION 
+
+JOHN C. EASTMAN, 
+
+Plaintiff, 
+
+vs. 
+
+BENNIE G. THOMPSON, 
+
+SELECT COMMITTEE TO INVESTIGATE THE JANUARY 6 ATTACK ON THE US CAPITOL, AND 
+
+CHAPMAN UNIVERSITY, 
+
+Defendants. 
+
+Case No. 8:22-cv-00099-DOC-DFM 
+
+ORDER RE PRIVILEGE OF DOCUMENTS DATED JANUARY 4-7, 2021 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 1 of 44 Page ID #:4119 -2-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Table of Contents 
+
+BACKGROUND  ................................................................................................ ...................... 3 
+
+A. Facts  ................................................................................................................................ ...... 3 
+
+1. Election fraud claims  ................................................................................................ ........ 3 
+
+2. Plan to disrupt electoral count ................................................................ ........................... 6 
+
+3. Attack on the Capitol  ................................................................................................ ........ 8 
+
+4. Investigation into the attack ............................................................................................ 11 
+
+B. Procedural History .............................................................................................................. 12 
+
+LEGAL STANDARD ........................................................................................................ 13 
+
+DISCUSSION .................................................................................................................... 13 
+
+A. Attorney-Client Privilege ................................................................................................... 13 
+
+1. Existence of attorney-client relationship ........................................................................ 14 
+
+2. Chapman University email use ....................................................................................... 15 
+
+3. Communications between attorney and client ................................................................ 20 
+
+B. Work Product ..................................................................................................................... 21 
+
+1. Whether the remaining documents qualify for protection .............................................. 22 
+
+2. Waiver of protection ....................................................................................................... 29 
+
+3. Crime-fraud exception .................................................................................................... 30 
+
+4. Substantial or compelling need exception ...................................................................... 42 
+
+DISPOSITION ................................................................................................................... 44     
+
+> Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 2 of 44 Page ID #:4120 -3-
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Plaintiff Dr. John Eastman (“Dr. Eastman”), a former law school dean at Chapman University, is a “political conservative who supported former President [Donald] Trump” and a self-described “activist law professor.” 1 While he was a professor at Chapman, Dr. Eastman worked with President Trump and his campaign on legal and political strategy regarding the results of the November 3, 2020 election. 
+
+This case concerns the House of Representatives Select Committee to Investigate the January 6 Attack on the US Capitol’s (“Select Committee”) attempt to obtain emails sent or received by Dr. Eastman on his Chapman email account between November 3, 2020 and January 20, 2021. The parties disagree on whether the documents are privileged or if they should be disclosed. 
+
+The Court previously ordered the parties to begin with documents from January 4-7, 2021. Dr. Eastman reviewed each document and claimed privilege over some, and the Select Committee objected to a number of his claims. At this point, the parties disagree on whether 111 documents from those dates are privileged. The parties submitted briefing, and the Court held a hearing on the privilege claims on March 8, 2022. The Court then personally reviewed the 111 challenged documents, which were provided by Dr. Eastman. 
+
+BACKGROUND 
+
+A. Facts 2
+
+1. Election fraud claims 
+
+Dr. Eastman claims that the 2020 presidential election was “one of the most controversial in American history.” 3 Despite the lack of evidence of election tampering, “a significant portion of the population came to believe the election was tainted by fraud, disregard of state election law, misconduct by election officials and other factors.” 4
+
+In the months after the election, President Trump and Dr. Eastman helped foster those       
+
+> 1Complaint (“Compl.”) (Dkt. 1) ¶¶ 5–6.
+> 2In this discussion, the Court relies solely on facts provided by Dr. Eastman and the Select Committee in their briefing and attached exhibits. To the extent either party references publicly-available and authenticated memoranda, government reports, and recordings, the Court takes judicial notice of those materials. See Fed. R. Evid. 201(b).
+> 3Compl. ¶ 1.
+> 4Id.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 3 of 44 Page ID #:4121 -4-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+public beliefs and encouraged state legislators to question the election results. Dr. Eastman testified before and met with “state legislators[] to advise them of their constitutional authority . . . to direct the ‘manner’ of choosing presidential electors.” 5 Relying on public interviews with attendees, the Select Committee states that on January 2, 2021, President Trump and Dr. Eastman hosted a briefing urging several hundred state legislators from states won by President Biden to “decertify” electors. 6
+
+President Trump also made personal appeals to state officials. On January 2, he called Georgia Secretary of State Brad Raffensperger to discuss allegations of election fraud. 7 During the call, President Trump repeatedly claimed it was impossible for him to have lost the popular vote in Georgia, 8 and repeatedly mentioned his “current margin [of] only 11,779” votes. 9 He explained to Secretary Raffensperger that he did not care about specific fraud numbers as long as he won, “[b]ecause what’s the difference between winning the election by two votes and winning it by half a million votes[?]” 10  When Secretary Raffensperger pushed back against these requests, the President warned of public anger and threatened criminal consequences. 11 
+
+The President interspersed the conversation with specific fraud claims—dead people voting, absentee ballot forgeries, trucks ferrying illegal ballots, and machines stuffed with “unvoted”  
+
+> 5
+
+Declaration of John Eastman (“Eastman Decl.”) (Dkt. 132-1) ¶ 30.  
+
+> 6
+
+Select Committee’s Privilege Opposition (“Opp’n”) (Dkt. 164) at 7 (citing Michael Leahy, President Trump Joins Call Urging State Legislators to Review Evidence and Consider Decertifying ‘Unlawful’ Election Results ,BREITBART (Jan. 3, 2021),  perma.cc/GZ8R-68EY , and Jacqueline Alemany et al., Ahead of Jan. 6, Willard Hotel in Downtown DC was a Trump Team ‘Command Center’ for Effort to Deny Biden the Presidency , W ASH . POST (Oct. 23, 2021),  perma.cc/2PRC-NXKV  (quoting Michigan State Senator Ed McBroom)).  
+
+> 7
+
+Id. at 8 (citing Amy Gardner & Paulina Firozi, Here’s the full transcript and audio of the call between Trump and Raffensperger , W ASH . POST (Jan. 5, 2021),  perma.cc/5SMX-4FPX  (“Trump-Raffensperger Call Transcript”)).  
+
+> 8
+
+Trump-Raffensperger Call Transcript (“It’s just not possible to have lost Georgia. It’s not possible.” / “There’s no way I lost Georgia. There’s no way. We won by hundreds of thousands of votes.”).  
+
+> 9
+
+Id. (“You don’t need much of a number because the number that in theory I lost by, the margin would be 11,779” / “the bottom line is, many, many times the 11,779 margin that they said we lost by” / “Brad, if you took the minimum numbers where many, many times above the 11,779, and many of those numbers are certified, or they will be certified, but they are certified.” / “And those are numbers that are there, that exist. That beat the margin of loss, they beat it, I mean, by a lot” / “You know when you add them up, it’s many more times, it’s many times the 11,779 number.”).  
+
+> 10
+
+Id.  
+
+> 11
+
+Id. (“the people of Georgia are angry, the people of the country are angry. And there’s nothing wrong with saying that, you know, that you’ve recalculated.” / “But the ballots are corrupt. And you are going to find that they are – which is totally illegal – it is more illegal for you than it is for them because, you know what they did and you’re not reporting it. That’s a criminal, that’s a criminal offense.”). 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 4 of 44 Page ID #:4122 -5-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+ballots. 12  Mr. Raffensperger debunked the allegations “point by point” and explained that “the data you have is wrong;” however, President Trump still told him, “I just want to find 11,780 votes.” 13 
+
+The next day, President Trump attempted to elevate Jeffrey Clark to Acting Attorney General, based on Mr. Clark’s statements that he would write a letter to contested states saying that the election may have been stolen and urging them to decertify electors. 14  The White House Counsel described Mr. Clark’s proposed letter as a “murder-suicide pact” that would “damage everyone who touches it” and commented “we should have nothing to do with that letter.” 15  President Trump eventually did not promote Mr. Clark after multiple high-ranking members of the Department of Justice threatened mass resignations that would leave the Department a “graveyard.” 16 
+
+In the months following the election, numerous credible sources–from the President’s inner circle to agency leadership to statisticians–informed President Trump and Dr. Eastman that there was no evidence of election fraud. One week after the election, the Cybersecurity and Infrastructure Security Agency declared “[t]he November 3rd election [] the most secure in American history” and found “no evidence that any voting system deleted or lost votes, changed votes, or was in any way compromised.” 17  An internal Trump Campaign memo concluded in November that fraud claims related to Dominion voting machines were baseless. 18 
+
+In early December, Attorney General Barr publicly stated there was no evidence of fraud, and on December 27, Deputy Attorney General Donoghue privately told President Trump that after “dozens of investigations, hundreds of interviews,” the Department of Justice had concluded that “the major allegations [of election fraud] are not supported by the evidence developed.” 19                 
+
+> 12 Id.
+> 13 Id.
+> 14 Opp’n Ex. B, Richard Donoghue Deposition Transcript (“Donoghue Tr.”) (Dkt. 160-5) 124.
+> 15 Id. at 126.
+> 16 Id. at 123–26; Opp’n Ex. C, Jeffrey Rosen Deposition Transcript (“Rosen Tr.”) (Dkt. 160-6) 105–06, 118.
+> 17 Opp’n at 5 (citing Cybersecurity and Infrastructure Security Agency, Joint Statement from Elections Infrastructure Government Coordinating Council & The Election Infrastructure Sector Coordinating Executive Committees (Nov. 12, 2020), perma.cc/NQQ9-Z7GZ ).
+> 18 Id. at 45 (citing Read the Trump campaign’s internal memo , N.Y. TIMES (Sept. 21, 2021), perma.cc/HE7A-3D27 ).
+> 19 Donoghue Tr. 59–60, 80.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 5 of 44 Page ID #:4123 -6-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Still, President Trump repeatedly urged that “the Department [of Justice] should publicly say that the election is corrupt or suspect or not reliable.” 20 
+
+By early January, more than sixty court cases alleging fraud had been dismissed for lack of evidence or lack of standing. 21 
+
+2. Plan to disrupt electoral count 
+
+In response to alleged fraud, Dr. Eastman researched and planned a strategy for President Trump to win the election. Just after Christmas, Dr. Eastman wrote a now-public two-page memo proposing that Vice President Pence refuse to count certified electoral votes from states contested by the Trump campaign: Arizona, Georgia, Michigan, Nevada, New Mexico, Pennsylvania, and Wisconsin. 22  The memo outlines the two ways in which Dr. Eastman’s plan ensures “President Trump is re-elected.” 23  If Vice President Pence refused to count electoral votes from all seven contested states, President Trump would win 232 votes to 222. 24 
+
+Alternatively, if Congress claimed that a candidate could not win without reaching 270 votes, Vice President Pence could send the election to the Republican-majority House of Representatives, which would then elect President Trump. 25  The memo emphasizes that “[t]he main thing here is that Pence should do this without asking for permission – either from a vote of the joint session or from the Court.” 26 
+
+On January 3, 2021, Dr. Eastman drafted a six-page memo expanding on his plan and analysis, 27  which he later disclosed to the media. 28  This memo “war gam[ed]” four potential scenarios for January 6, only some of which would lead to President Trump winning re-election. 29  Claiming that “[t]he stakes could not be higher,” Dr. Eastman concludes his memo                          
+
+> 20 Id. at 59.
+> 21 Opp’n at 45 (citing William Cummings, Joey Garrison & Jim Sergent, By the numbers: President Donald Trump’s failed efforts to overturn the election , USA TODAY (Jan. 6, 2021), perma.cc/683S-HSRC ).
+> 22 Opp’n at 9 (citing READ Trump lawyer’s memo on six-step plan for Pence to overturn the election , CNN (Sept. 21, 2021), perma.cc/LP48-JRAF (“Eastman Short Memo”)).
+> 23 Eastman Short Memo at 2.
+> 24 Id.
+> 25 Id.
+> 26 Id.
+> 27 Opp’n at 9 (citing Jan. 3 Memo on Jan. 6 Scenario , CNN, perma.cc/B8XQ-4T3Z (“Eastman Long Memo”)).
+> 28 Id. at 9 n.27 (citing Jeremy Herb (@jeremyherb), T WITTER (Sept. 21, 2021, 5:46 PM), perma.cc/GX4R-MK9B
+> (explaining that Dr. Eastman gave the six-page memo to a CNN reporter)).
+> 29 See generally Eastman Long Memo.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 6 of 44 Page ID #:4124 -7-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+stating that his plan is “BOLD, Certainly. But this Election was Stolen by a strategic Democrat plan to systematically flout existing election laws for partisan advantage; we’re no longer playing by Queensbury Rules.” 30 
+
+On January 4, President Trump and Dr. Eastman invited Vice President Pence, the Vice President’s counsel Greg Jacob, and the Vice President’s Chief of Staff Marc Short to the Oval Office to discuss Dr. Eastman’s memo. 31  Dr. Eastman presented only two courses of action for the Vice President on January 6: to reject electors or delay the count. 32  During that meeting, Vice President Pence consistently held that he did not possess the authority to carry out Dr. Eastman’s proposal. 33 
+
+The Vice President’s counsel and chief of staff were then directed to meet separately with Dr. Eastman the next day to review materials in support of his plan. Dr. Eastman opened the meeting on January 5 bluntly: “I’m here asking you to reject the electors.” 34  Vice President’s counsel Greg Jacob and Dr. Eastman spent the majority of the meeting in a Socratic debate on the merits of the memo’s legal arguments. 35  Over the course of their discussion, Dr. Eastman’s focus pivoted from requesting Vice President Pence reject the electors to asking him to delay the count, which he presented as more “palatable.” 36  Ultimately, Dr. Eastman conceded that his argument was contrary to consistent historical practice, 37  would likely be unanimously rejected by the Supreme Court, 38  and violated the Electoral Count Act on four separate grounds. 39 
+
+Despite receiving pushback, President Trump and Dr. Eastman continued to urge Vice President Pence to carry out the plan. At 1:00 am on January 6, President Trump tweeted, “If         
+
+> 30 Id. at 5.
+> 31 Opp’n Ex. F, Greg Jacob Deposition Transcript (“Jacob Tr.”) (Dkt. 160-8) 82.
+> 32 Id. at 89.
+> 33 Id. at 95 (
+
+“from my very first conversation with the Vice President on the subject, his immediate instinct was that there is no way that one person could be entrusted by the Framers to exercise that authority. And never once did I see him budge from that view . . . So everything that he said or did during that meeting was consistent with his first instincts on this question.” ).            
+
+> 34 Id. at 92.
+> 35 Id. at 96.
+> 36 Id.
+> 37 Id. at 109.
+> 38 Id. at 110.
+> 39 Id. at 128.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 7 of 44 Page ID #:4125 -8-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Vice President @Mike_Pence comes through for us, we will win the Presidency . . . Mike can send it back!” 40 At 8:17 a.m., the President tweeted again, “States want to correct their votes . . . All Mike Pence has to do is send them back to the States, AND WE WIN. Do it Mike, this is a time for extreme courage!” 41 
+
+Following his tweets, President Trump placed two calls to Vice President Pence directly. After not being able to connect with the Vice President around 9:00 am, they spoke at approximately 11:20 am. 42  Vice President Pence’s National Security Advisor, General Keith Kellogg, Jr., was present and described President Trump as berating the Vice President for “not [being] tough enough to make the call” to delay or reject electoral votes. 43 
+
+3. Attack on the Capitol 
+
+On January 6, 2021, tens of thousands of people gathered outside the White House to protest the lawful transition of power from President Trump to President Joseph Biden. Both Dr. Eastman and President Trump gave speeches to relay the plan not just to the thousands gathered at the Ellipse but also to those watching at home. 
+
+President Trump’s personal attorney, Rudy Giuliani, introduced Dr. Eastman before he spoke as the “professor” who would “explain . . . what happened last night, how they cheated, and how it was exactly the same as what they did on November 3.” 44  Dr. Eastman declared to the crowd: 
+
+And all we are demanding of Vice President Pence is this afternoon at 1:00 he let the legislators of the state look into this so we get to the bottom of it, and the American people know whether we have control of the direction of our government, or not. We no longer live in a self-governing republic if we can’t get the answer to this question. This is bigger than President Trump. It is a very essence of our republican form of government, and it has to be done. And anybody that is not willing to stand up to do it, does not deserve to be in the office. It is that simple. 45  
+
+> 40
+
+Opp’n at 10 (quoting Donald J. Trump (@realDonaldTrump), T WITTER (Jan. 6, 2021, 1:00 AM), 
+
+perma.cc/9EV8-XJ7K ).  
+
+> 41
+
+Id. at 11 (quoting Donald J. Trump (@realDonaldTrump), T WITTER (Jan. 6, 2021, 8:17 AM),  perma.cc/2J3P-VDBV ).  
+
+> 42
+
+Opp’n Ex. H (“POTUS Private Schedule”) (Dkt. 160-10) (notes on President’s private schedule show call with VPOTUS at 11:20 AM) (cited in Opp’n at 11 n.36); see also Opp’n Ex. I, Marc Short Deposition Transcript (“Short Tr.”) (Dkt. 160-11) 16; Jacob Tr. 168.  
+
+> 43
+
+Opp’n Ex. G, Keith Kellogg, Jr. Deposition Transcript (“Kellogg Tr.”) (Dkt. 160-9) 87, 90–92.  
+
+> 44
+
+See Opp’n at 12 (citing Rudy Giuliani, Speech to the “Save America March” and Rally (Jan. 6, 2021), 
+
+perma.cc/4NKM-24AZ  (“Giuliani Speech”)).  
+
+> 45
+
+See Opp’n at 12 (quoting John Eastman, Speech to the “Save America March” and Rally, C-SPAN (Jan. 6, 2021),  perma.cc/3C8Y-GRK3  (“Eastman Speech”)). 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 8 of 44 Page ID #:4126 -9-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+President Trump then took the podium. He began with praise for Dr. Eastman and his plan to have Vice President Pence disrupt the count: 
+
+Thank you very much, John. . . . John is one of the most brilliant lawyers in the country, and he looked at this and he said, “What an absolute disgrace that this can be happening to our Constitution.” . . . Because if Mike Pence does the right thing, we win the election. All he has to do, all this is, this is from the number one, or certainly one of the top, Constitutional lawyers in our country. He has the absolute right to do it. 46 
+
+Before the Joint Session of Congress began, Vice President Pence publicly rejected President Trump and Dr. Eastman’s plan: “It is my considered judgment that my oath to support and defend the Constitution constrains me from claiming unilateral authority to determine which electoral votes should be counted and which should not.” 47 
+
+At 1:00 pm, members of Congress began the Joint Session as required by the Twelfth Amendment and the Electoral Count Act. 
+
+Soon after, President Trump finished his speech by urging his supporters to walk with him to the Capitol: 
+
+Now, it is up to Congress to confront this egregious assault on our democracy. And after this, we’re going to walk down, and I’ll be there with you, we’re going to walk down, we’re going to walk down. . . . [W]e’re going to try and give our Republicans, the weak ones because the strong ones don’t need any of our help. We’re going to try and give them the kind of pride and boldness that they need to take back our country. So let’s walk down Pennsylvania Avenue. 48 
+
+After President Trump’s speech, several hundred protesters left the rally and stormed the Capitol building. As the D.C. Circuit described it: 
+
+Shortly after the speech, a large crowd of President Trump’s supporters—including some armed with weapons and wearing full tactical gear—marched to the Capitol and violently broke into the building to try and prevent Congress’s certification of the election results. The mob quickly overwhelmed law enforcement and scaled walls, smashed through barricades, and shattered windows to gain access to the interior of the Capitol. Police officers were attacked with chemical agents, beaten with flag poles and frozen water bottles, and crushed between doors and throngs of rioters. 49  
+
+> 46
+
+Id. at 11 (citing Donald J. Trump, President, Speech to the “Save America March” and Rally (Jan. 6, 2021), 
+
+perma.cc/2YNN-9JR3  (“Trump Speech Transcript”)).  
+
+> 47
+
+Id. at 40 (citing Public Letter from Michael R. Pence to Congress (Jan. 6, 2021),  perma.cc/Y9BG-JFMJ  (“Pence Letter”)).  
+
+> 48
+
+Trump Speech Transcript.  
+
+> 49
+
+Trump v. Thompson , 20 F.4th 10, 15–16 (D.C. Cir. 2021), cert. denied , No. 21-932, 2022 WL 516395 (U.S. Feb. 22, 2022) (citing S TAFF REP . OF S. COMM . ON HOMELAND SECURITY & GOVERNMENTAL AFFS . & S. COMM .ON RULES & ADMIN ., 117 TH CONG ., E XAMINING THE U.S. CAPITOL ATTACK : A REVIEW OF THE SECURITY ,PLANNING , AND RESPONSE FAILURES ON J ANUARY 6, at 23–29 (June 8, 2021) (“Capitol Attack Senate Report”), and Hearing on the Law Enforcement Experience on January 6th Before the H. Select Comm. to Investigate the January 6th Attack on the U.S. Capitol , 117th Cong., at 2 (July 27, 2021)). 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 9 of 44 Page ID #:4127 -10-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+President Trump returned to the White House after his speech. At 2:02 pm, Mark Meadows, the White House Chief of Staff, was informed about the violence unfolding at the Capitol. 50  Mr. Meadows immediately went to relay that message to President Trump. 51  Even as the rioters continued to break into the Capitol, President Trump tweeted at 2:24 pm: “Mike Pence didn’t have the courage to do what should have been done to protect our Country and our Constitution, giving States a chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which they were asked to previously certify. USA demands the truth!” 52 
+
+During the riot, Vice President Pence, Members of Congress, and workers across the Capitol were forced to flee for safety. 53  Seeking shelter during the attack, Vice President Pence’s counsel Greg Jacob emailed Dr. Eastman that the rioters “believed with all their hearts the theory they were sold about the powers that could legitimately be exercised at the Capitol on this day.” 54  Mr. Jacob continued, “[a]nd thanks to your bullshit, we are now under siege.” 55 
+
+President Trump later published a video expressing support for the rioters but urging them to leave the Capitol: “We love you, you’re very special. You’ve seen what happens, you see the way others are treated that are so bad and so evil. I know how you feel.” 56  At 6:00 pm, President Trump reiterated: “These are the things and events that happen when a sacred landslide election victory is so unceremoniously & viciously stripped away from great patriots who have been badly & unfairly treated for so long. Go home with love & in peace. Remember this day forever!” 57 
+
+As the attack progressed, Dr. Eastman continued to urge Vice President Pence to reconsider his decision not to delay the count. In an email to Vice President Pence’s counsel Greg Jacob at 2:25 pm on January 6, Dr. Eastman wrote: “The ‘siege’ is because YOU and              
+
+> 50 Opp’n Ex. J, Benjamin Williamson Deposition Transcript (“Williamson Tr.”) (Dkt. 160-12) 62.
+> 51 Id. at 65.
+> 52 Opp’n at 12 (quoting Donald J. Trump (@realDonaldTrump), T WITTER (Jan. 6, 2021, 2:24 pm),
+> perma.cc/Z9Q5-EANU ).
+> 53 Thompson , 20 F.4th at 15–16.
+> 54 Opp’n Ex. N (Dkt. 160-16), Email from Greg Jacob to John Eastman (Jan. 6, 2021, 1:05 pm).
+> 55 Id. , Email from Greg Jacob to John Eastman (Jan. 6, 2021, 2:14 pm).
+> 56 Opp’n at 15 (quoting Donald J. Trump, President, Video Statement on Capitol Protesters (Jan. 6, 2021),
+> perma.cc/7WF3-QSV8 ).
+> 57 Id. at 15 (quoting Donald J. Trump (@realDonaldTrump), T WITTER (Jan. 6, 2021, 6:01 pm), perma.cc/J5WJ-X2V4 ).
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 10 of 44 Page ID 
+
+#:4128 -11-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+your boss did not do what was necessary to allow this to be aired in a public way so the American people can see for themselves what happened.” 58  At 6:09 pm, Dr. Eastman “remain[ed] of the view” that “adjourn[ing] to allow the state legislatures to continue their work” was the “most prudent course.” 59  At 11:44 pm, Dr. Eastman sent one final email to persuade Jacob to change his mind: “I implore you to consider one more relatively minor violation and adjourn for 10 days . . . .” 60 
+
+After the riot had subsided, the Joint Session of Congress reconvened. “It was not until 3:42 a.m. on January 7 that Congress officially certified Joseph Biden as the winner of the 2020 presidential election.” 61 
+
+The rampage on January 6 “left multiple people dead, injured more than 140 people, and inflicted millions of dollars in damage to the Capitol.” 62  As the House of Representatives later wrote, January 6, 2021 was “one of the darkest days of our democracy.” 63 
+
+4. Investigation into the attack 
+
+In response to the attack, the House of Representatives created the Select Committee to “investigate and report upon the facts, circumstances, and causes relating to the January 6, 2021, domestic terrorist attack upon the United States Capitol Complex . . . and relating to the interference with the peaceful transfer of power.” 64 
+
+On November 8, 2021, the Select Committee issued a subpoena to Dr. Eastman. 65  In the accompanying cover letter, Chairman Thompson stated that Dr. Eastman was “instrumental in advising President Trump that Vice President Pence could determine which electors were recognized on January 6, a view that many of those who attacked the Capitol apparently also           
+
+> 58 Opp’n Ex. N (Dkt. 160-16), Email from John Eastman to Greg Jacob (Jan. 6, 2021, 2:25 pm EST) (capitalization in original).
+> 59 Id. , Email from John Eastman to Greg Jacob (Jan. 6, 2021, 6:09 pm EST).
+> 60 Id. , Email from John Eastman to Greg Jacob (Jan. 6, 2021, 11:44 pm EST (converting from MST)).
+> 61 Thompson , 20 F.4th at 18 (citing Capitol Attack Senate Report at 26).
+> 62 Id. at 15–16.
+> 63 H.R. Res. 503, 117th Cong. (2021), Preamble.
+> 64 Id. § 3(2).
+> 65 Opposition to App. for Temporary Restraining Order (“TRO Opp’n”) (Dkt. 23) (citing Nov. 8, 2021 Select Committee Cover Letter to John Eastman (“Subpoena Cover Letter”),
+> January6th.house.gov/sites/democrats.january6th.house.gov/files/20211108%20Eastman.pdf ).
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 11 of 44 Page ID 
+
+#:4129 -12-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+shared.” 66 
+
+Dr. Eastman declined to produce any documents or communications to the Select Committee and asserted his Fifth Amendment privilege against production. 67  During his deposition, Dr. Eastman asserted his Fifth Amendment privilege 146 times. 68 
+
+The Select Committee subsequently issued a subpoena to obtain Dr. Eastman’s communications from his former employer, Chapman University on January 18, 2022. The subpoena ordered Chapman to produce Dr. Eastman’s documents stored on Chapman’s servers “that are related in any way to the 2020 election or the January 6, 2021 Joint Session of Congress, . . . during the time period November 3, 2020 to January 20, 2021.” 69  Chapman initially collected over 30,000 responsive documents. The Select Committee then worked with Chapman to tailor search terms, resulting in just under 19,000 responsive documents. 
+
+B. Procedural History 
+
+Dr. Eastman filed his Complaint in this Court on January 20, 2022, and immediately filed an Application for a Temporary Restraining Order to prevent Chapman University from complying with the Select Committee’s subpoena. On the same day, the Court granted a temporary restraining order (Dkt. 12). After briefing from the parties and a hearing, the Court denied Dr. Eastman’s application for a preliminary injunction (Dkt. 41). The Court ordered Dr. Eastman to begin reviewing the documents and producing a privilege log to the Court and the Select Committee (Dkt. 43). 
+
+On January 31, 2022, given the urgency of the investigation and the lack of prejudice to Dr. Eastman, the Court granted the Select Committee’s request and ordered Dr. Eastman to begin his production with documents dated between January 4 and January 7, 2021 (Dkt. 63). On February 14, 2022, the Court set a briefing and hearing schedule as to the January 4-7 documents (Dkt. 104). 
+
+On February 22, 2022, Dr. Eastman filed his brief supporting his privilege assertions      
+
+> 66 Subpoena Cover Letter at 3.
+> 67 Opp’n at 17.
+> 68 See generally Opp’n Ex. A, John Eastman Deposition Transcript (“Eastman Tr.”) (Dkt. 160-4).
+> 69 Id.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 12 of 44 Page ID 
+
+#:4130 -13-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+(“Brief”) (Dkt. 144). The Select Committee filed its opposition (“Opp’n”) (Dkt. 164) on March 2, 2022. Dr. Eastman filed his Reply on March 7, 2022 (Dkt. 185). The Court heard oral arguments on March 8, 2022. 
+
+LEGAL STANDARD 
+
+Federal common law governs the attorney-client privilege when courts adjudicate issues of federal law. 70  “As with all evidentiary privileges, the burden of proving that the attorney-client privilege applies rests not with the party contesting the privilege, but with the party asserting it.” 71  The “party asserting the attorney-client privilege has the burden of establishing the relationship and the privileged nature of the communication.” 72  The party must assert the privilege “as to each record sought to allow the court to rule with specificity.” 73  It is “extremely disfavored” when a “subpoena [i]s met by blanket assertions of privilege.” 74  “Because it impedes full and free discovery of the truth, the attorney-client privilege is strictly construed.” 75 
+
+The same burden applies to the party asserting work product protection. 76 
+
+DISCUSSION 
+
+The Court will first consider Dr. Eastman’s assertions of attorney-client privilege, then his assertions of work product protection. For each category, the Court will examine whether the privilege attached in the first place, whether it was waived, and whether an exception applies. 
+
+A. Attorney-Client Privilege 
+
+The attorney-client privilege protects confidential communications between attorneys and clients for the purpose of legal advice. 77  The privilege “is intended ‘to encourage clients to make full disclosure to their attorneys,’” recognizing that sound advice depends on transparency. 78           
+
+> 70 United States v. Ruehle , 583 F.3d 600, 608 (9th Cir. 2009).
+> 71 Weil v. Inv./Indicators, Rsch. & Mgmt., Inc. , 647 F.2d 18, 25 (9th Cir. 1981) (citations omitted).
+> 72 Ruehle , 583 F.3d at 607 (citation omitted) (emphasis in original).
+> 73 Clarke v. Am. Com. Nat. Bank , 974 F.2d 127, 129 (9th Cir. 1992).
+> 74 In re Grand Jury Witness , 695 F.2d 359, 362 (9th Cir. 1982).
+> 75 United States v. Martin , 278 F.3d 988, 999 (9th Cir. 2002).
+> 76 See Hernandez v. Tanninen , 604 F.3d 1095, 1102 (9th Cir. 2010).
+> 77 Upjohn Co. v. United States , 449 U.S. 383, 389 (1981).
+> 78 Hernandez , 604 F.3d at 1100 (quoting Upjohn , 449 U.S. at 389).
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 13 of 44 Page ID 
+
+#:4131 -14-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Whether a communication or document is covered by the attorney-client privilege is determined by an eight-part test: 
+
+(1) Where legal advice of any kind is sought (2) from a professional legal adviser in his capacity as such, (3) the communications relating to that purpose, (4) made in confidence (5) by the client, (6) are at his instance permanently protected (7) from disclosure by himself or by the legal adviser, (8) unless the protection be waived. 79 
+
+“The party asserting the privilege bears the burden of proving each essential element.” 80 
+
+Dr. Eastman claims attorney-client privilege over nine out of the total 111 documents. 81 
+
+The Court now examines whether an attorney-client relationship existed between President Trump and Dr. Eastman; whether Dr. Eastman’s use of Chapman University email destroyed or waived confidentiality; and whether the emails were between an attorney, client, or their agents. 
+
+1. Existence of attorney-client relationship 
+
+The Select Committee argues that Dr. Eastman has not met his burden of proving that an attorney-client relationship existed between him and President Trump. 82  An attorney-client relationship is formed when an attorney advises a client who has consulted him seeking legal assistance. 83  Attorney-client relationships may be express or implied. 84  Among other factors, courts consider “the intent and conduct of the parties” 85  and “whether the client believed an attorney-client relationship existed.” 86 
+
+In response to the Court’s request for evidence of an attorney-client relationship, Dr. Eastman provided only an unsigned, undated retainer agreement between him, President Trump as candidate, and President Trump’s campaign committee. 87  However, strong evidence establishes that Dr. Eastman had an attorney-client relationship with President Trump and his campaign between January 4 and 6, 2021. Dr. Eastman appeared on behalf of President Trump  
+
+> 79
+
+United States v. Graf , 610 F.3d 1148, 1156 (9th Cir. 2010) (citation omitted).  
+
+> 80
+
+Id.  
+
+> 81
+
+4708; 4713; 4722; 4723; 4744 (duplicate); 4745 (duplicate); 4766 (duplicate); 4767 (duplicate); 4788.  
+
+> 82
+
+Opp’n at 20–21.  
+
+> 83
+
+Waggoner v. Snow, Becker, Kroll, Klaris & Krauss , 991 F.2d 1501, 1505 (9th Cir. 1993) (citations omitted).  
+
+> 84
+
+In re Johore Inv. Co. (U.S.A.), Inc. , 157 B.R. 671, 676 (D. Haw. 1985).  
+
+> 85
+
+Waggoner , 991 F.2d at 1505.  
+
+> 86
+
+Boskoff v. Yano , 57 F. Supp. 2d 994, 998 (D. Haw. 1998) (quoting Waggoner , 991 F.2d at 1505, and Research Corp. Tech., Inc. v. Hewlett-Packard Co. , 936 F. Supp. 697, 700 (D. Ariz. 1996)).  
+
+> 87
+
+Eastman Decl., Ex. A (“Retainer Agreement”) (Dkt. 132-2). 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 14 of 44 Page ID 
+
+#:4132 -15-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+in a Georgia lawsuit on January 5, 2021. 88  In the days leading up to January 6, Dr. Eastman also attended closed-door meetings with and on behalf of President Trump to present his legal theories on the Electoral Count Act. The Vice President’s counsel, who attended those meetings, “assumed it to be true for the purposes of [his] interactions with him” that Dr. Eastman was representing President Trump. 89  President Trump’s speech explicitly acknowledged Dr. Eastman’s legal role in developing the plan to delay or stop the count: “John is one of the most brilliant lawyers in the country, and he looked at this and he said, ‘What an absolute disgrace that this can be happening to our Constitution.’” 90  And on May 5, 2021, Dr. Eastman stated on a talk show that President Trump was his client in the aftermath of the election. 91  The evidence clearly supports an attorney-client relationship between President Trump, his campaign, and Dr. Eastman during January 4-7, 2021. 
+
+2. Chapman University email use 
+
+Communications between an attorney and a client are only privileged if they are intended to be kept confidential and are not disclosed. 92  Dr. Eastman used his Chapman University email to communicate with legal clients that he represented outside of his university activities. The Select Committee argues that Dr. Eastman’s use of his Chapman email prevents all of his communications from being privileged given the university’s monitoring policies. 93 
+
+Although the Select Committee argued at the hearing that use of Chapman email destroys privilege for all 111 documents, their confidentiality argument is only relevant to attorney-client privilege and therefore applies only to nine documents. 94  The Court examines how using Chapman email affects the other documents when it reaches work product protection below. 95               
+
+> 88 Reply at 8 (citing Application for Admission of Jonathan Eastman Pro Hac Vice, Trump v. Kemp , No. 1:20-cv-05310 (N.D. Ga. Dec. 31, 2020), ECF No. 17).
+> 89 Jacob Tr. 106–07.
+> 90 Trump Speech Transcript.
+> 91 Opp’n at 29 (quoting Peter Boyles Show, 710KNUS NEWS/TALK (May 5, 2021, 8:00 AM), perma.cc/Q6YE-KD5F ) (“I have express authorization from my client, the President of the United States at the time, to describe what occurred—to truthfully describe what occurred in that conversation.”).
+> 92 Graf , 610 F.3d at 1156.
+> 93 Opp’n at 24.
+> 94 Unlike in the attorney-client privilege context, “the overriding concern in the work-product context is not the confidentiality of a communication, but the protection of the adversary process.” United States v. Sanmina Corp. ,968 F.3d 1107, 1124 (9th Cir. 2020).
+> 95 See supra Section III.B.2, Waiver of protection .
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 15 of 44 Page ID 
+
+#:4133 -16-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+The Court notes that this is not a question of whether an employee can use a work computer for purely personal use. The questions here are whether to penalize clients of law professors for not understanding university email policies, and how professors should navigate mixed signals about what legal work is allowed as part of their academic jobs. 
+
+Accordingly, the Court analyzes below whether Dr. Eastman’s clients expected their emails to be confidential, discusses Chapman’s email rules, and considers public policy concerns. The Court finds that using Chapman email did not destroy attorney-client privilege. 
+
+Client expectations of confidentiality 
+
+The Select Committee’s argument rests on Dr. Eastman lacking a reasonable expectation of confidentiality in his emails. Dr. Eastman argues that he and his clients reasonably expected privacy, particularly since representing clients was part of his duties as a professor. 96 
+
+Although the Ninth Circuit has not explicitly ruled on the issue, the majority of other circuits consider “whether the client reasonably understood the [conversation] to be confidential” in determining whether communications are privileged. 97  Determining the client’s intent hinges on the circumstances of the communication, such as whether disclosure to third parties was intended or considered. 98 
+
+Here, Dr. Eastman represented clients while employed as a law professor at Chapman University, and he used his official university email to communicate with those clients. When President Trump and members of his campaign referenced Dr. Eastman in public, they frequently highlighted his position as a law professor. 99  Since Dr. Eastman’s work for President Trump was tied to his position as a “preeminent constitutional scholar[],” it would be logical               
+
+> 96 Brief at 26, 29.
+> 97 Kevlik v. Goldstein , 724 F.2d 844, 849 (1st Cir. 1984) (quoting M CCORMICK ON EVIDENCE , § 91 at 189 (1972) (emphasis added)); United States v. Schaltenbrand , 930 F.2d 1554, 1562 (11th Cir. 1991) (same). See also United States v. BDO Seidman , 337 F.3d 802, 812 (7th Cir. 2003); United States v. Moscony , 927 F.2d 742, 751–52 (3rd Cir. 1991); United States v. Schwimmer , 892 F.2d 237, 244 (2d Cir. 1989); United States v. (Under Seal) , 748 F.2d 871, 875 (4th Cir. 1984); United States v. Pipkins , 528 F.2d 559, 563 (5th Cir. 1976).
+> 98 In re LTV Sec. Litig. , 89 F.R.D. 595, 603–04 (N.D. Tex. 1981) (citing Pipkins , 528 F.2d at 563).
+> 99 E.g. , Giuliani Speech (“I have Professor Eastman here with me to say a few words about that. He’s one of the preeminent constitutional scholars in the United States.”); Trump Speech Transcript (“John is one of the most brilliant lawyers in the country . . . this is from the number one, or certainly one of the top, Constitutional lawyers in our country . . .”).
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 16 of 44 Page ID 
+
+#:4134 -17-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+for his clients to communicate with him through his university email. 100  Moreover, it is clear from reviewing the emails that Dr. Eastman’s correspondents believed they were using an appropriate email address to discuss confidential legal matters. 101  In these circumstances, clients and their agents who communicated with Dr. Eastman on his Chapman University email address had a reasonable expectation of privacy in their communications. 
+
+Potentially unauthorized use of Chapman email 
+
+Chapman University argues that Dr. Eastman’s representation of President Trump was unauthorized based on Chapman’s policies and IRS rules, 102  which the Select Committee argues waives any privilege. 103 
+
+Although there are no Ninth Circuit cases addressing this kind of attorney waiver, courts in other jurisdictions have analyzed a client’s use of monitored employer email. The Court will follow those other district courts in considering four factors: 
+
+(1) does the corporation maintain a policy banning personal or other objectionable use, 
+
+(2) does the company monitor the use of the employee’s computer or e-mail, 
+
+(3) do third parties have a right of access to the computer or e-mails, and 
+
+(4) did the corporation notify the employee, or was the employee aware, of the use and monitoring policies? 104 
+
+First, Chapman University maintains a policy banning some objectionable uses of university email. Its policy states in pertinent part: 
+
+Except as authorized, in writing or by e-mail, by the University, users are not to use Chapman Information Resources for compensated outside work, the benefit of organizations not related to the University (except in connection with scholarly, creative or community service activities), or commercial or personal advertising. 105 
+
+The policy does not clearly apply to Dr. Eastman’s work for President Trump, as it was uncompensated 106  and Dr. Eastman contends that it was “in connection with scholarly  
+
+> 100
+
+Giuliani Speech.  
+
+> 101
+
+See, e.g. , 4708 (including “PRIVILEGED AND CONFIDENTIAL” in email text).  
+
+> 102
+
+Chapman University’s Response to Plaintiff’s Application for Temporary Restraining Order (Dkt. 17) at 4.  
+
+> 103
+
+Opp’n at 27–28.  
+
+> 104
+
+Doe 1 v. George Washington Univ. , 480 F. Supp. 3d 224, 226 (D.D.C. 2020) (quoting In re Asia Glob. Crossing, Ltd. , 322 B.R. 247, 257 (Bankr. S.D.N.Y. 2005)).  
+
+> 105
+
+Decl. of Janine DuMontelle (“DuMontelle Decl.”) (Dkt. 17-1) ¶ 5 (quoting Computer and Network Acceptable Use Policy , C HAPMAN UNIV .,  www.chapman.edu/campus-services/information-systems/policies-and-procedures/acceptable-use-policy.aspx ).  
+
+> 106
+
+Retainer Agreement at 2. 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 17 of 44 Page ID 
+
+#:4135 -18-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+[activities]” given his election law focus. In fact, Dr. Eastman’s prior work on the 2000 election was considered “scholarly” by Chapman’s Rank and Tenure Committee, which noted Dr. Eastman’s “status as one of a very few law professors viewed as expert in the area of election law.” 107  The Tenure Committee further stated that “[i]t was in the Law School’s interest that Professor Eastman pursue this opportunity to the fullest.” 108 
+
+Moreover, Chapman blurred the lines between authorized and unauthorized work in practice. Dr. Eastman describes a 2020 meeting with the then-Dean of Chapman’s law school about a proposed post-election filing on behalf of President Trump. 109  According to Dr. Eastman, the Dean requested that he remove the “c/o Chapman University” line from his signature block on the brief, but did not ask him to remove Chapman’s address or Dr. Eastman’s university email or phone number. 110  Critically, the Dean did not express any concerns about Dr. Eastman filing the brief on behalf of President Trump or using Chapman email for his representation, and did not raise any of the claims of unauthorized use that Chapman now asserts in this case. 
+
+IRS rules prohibit faculty from using university resources to support political candidates, 111  which Chapman’s President publicly reiterated in the context of Dr. Eastman’s work on December 10, 2020. 112  But as Dr. Eastman notes, the IRS prohibits “[c]ontributions to political campaign funds or public statements . . . in favor of or in opposition to any candidate for public office,” but does not mention post-election litigation for campaigns. 113  Chapman’s endorsement of Dr. Eastman’s 2000 post-election litigation and the lack of IRS enforcement against other law professors representing candidates in post-election litigation 114  suggest that                   
+
+> 107 Eastman Decl. ¶ 5.
+> 108 Id.
+> 109 Eastman Decl. ¶ 17.
+> 110 Id.
+> 111 DuMontelle Decl. ¶ 3.
+> 112 Opp’n at 26 (citing Dawn Bonker, President Struppa’s Message on Supreme Court Case , C HAPMAN UNIV .(Dec. 10, 2020), https://perma.cc/3CTG-4DBN ).
+> 113 Brief at 29 n.6 (quoting The Restriction of Political Campaign Intervention by Section 501(c)(3) Tax-Exempt Organizations , I NTERNAL REVENUE SERV ., www.irs.gov/charities-non-profits/charitable-organizations/the-restriction-of-political-campaign-intervention-by-section-501c3-tax-exempt-organizations ).
+> 114 For example, Professor Laurence Tribe was counsel of record for candidate Al Gore in the same 2000 post-election litigation. Id. (citing Brief of Respondent Albert Gore, Jr., Bush v. Gore , No. 00-949 (S. Ct. 2000) (listing his official Harvard University office address)).
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 18 of 44 Page ID 
+
+#:4136 -19-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Dr. Eastman’s work on behalf of President Trump was not in violation of IRS rules. 
+
+With respect to the second factor, Chapman’s Computer and Network Acceptable Use Policy allows the university to monitor emails: 
+
+Although Chapman University does not make a practice of monitoring e-mail, the University reserves the right to retrieve the contents of University-owned computers or e-mail messages for legitimate reasons, such as to find lost messages, to comply with investigations of wrongful acts, to respond to subpoenas, or to recover from system failure. 115 
+
+The policy is explicit that monitoring is not “a practice” of the university, though some courts have found that policies allowing monitoring, even if not used, reduce any expectation of privacy. 116  Despite the policy, Dr. Eastman’s subjective expectation of confidentiality was enhanced by his private password, which Chapman administrators could not access. 117 
+
+The third factor favors an expectation of privacy, as third parties do not have a right to access Chapman emails. The policy states that the university will comply with lawful orders, but is otherwise silent about third party access. 
+
+In terms of the fourth factor, Chapman notes that when users log into the system, they are presented with a message that states in relevant part: 
+
+Use of this computer system constitutes your consent that your activities on, or information you store in, any part of the system is subject to monitoring and recording by Chapman University or its agents, consistent with the Computer and Network Acceptable Use Policy without further notice. You are responsible for being familiar with the University policies related to the use of this computer system. 118 
+
+However, Dr. Eastman states that he accessed his email through his laptop and that he has no recollection of ever seeing that message appear. 119  And although the Select Committee argues that Dr. Eastman was aware of Chapman’s policies due to his decades as a law professor and dean of the law school, it does not specify when the current policy was enacted. 120 
+
+The above factors are not conclusive here and reveal substantial ambiguity in the  
+
+> 115
+
+DuMontelle Decl. ¶ 5 (quoting Computer and Network Acceptable Use Policy ).  
+
+> 116
+
+George Washington Univ. , 480 F. Supp. 3d at 227.  
+
+> 117
+
+Brief at 28; United States v. Long , 64 M.J. 57, 60 (C.A.A.F. 2006).  
+
+> 118
+
+DuMontelle Decl. ¶ 6.  
+
+> 119
+
+Brief at 27 n.5.  
+
+> 120
+
+Opp’n at 26. See George Washington Univ. , 480 F. Supp. 3d at 227–28 (users were on notice of policies when they had to accept terms and conditions to create email accounts); In re Royce Homes, LP , 449 B.R. 709, 741 (Bankr. S.D. Tex. 2011) (“[A]ctual or direct notification to employees is unnecessary if the corporation has a communications policy that is memorialized.”). 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 19 of 44 Page ID 
+
+#:4137 -20-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+boundaries of Dr. Eastman’s legal work at Chapman. 
+
+Public policy considerations 
+
+The Court notes the public policy implications of a finding that Dr. Eastman waived all attorney-client privilege through his use of Chapman email. Chapman states in its summary of its computer use policy that “[u]sers should not expect privacy in the contents of University-owned computers or e-mail messages. 121  But at the hearing, Chapman confirmed that its clinical professors continue to use university email for client communications, and that Chapman has taken no steps to clarify its policies after raising concerns in this case. Although Chapman appears to be in the minority of American colleges and universities with a policy this unprotective of privacy, 122  the Court is concerned about the broader ramifications for professors and their clients. Law professors across the country use their university email accounts to communicate with clients, and reasonably expect privacy for those emails as part of their jobs. More importantly, clients of law school clinics should not be expected to research that particular university’s email policies before feeling secure in emailing their attorneys. 
+
+Given that confidentiality and waiver analysis are ordinarily focused on the client, and considering the unique circumstances of clinical legal work, the Court finds that Dr. Eastman’s use of Chapman’s email account did not destroy attorney-client privilege. 
+
+3. Communications between attorney and client 
+
+The purpose of the attorney-client privilege is to empower clients to speak freely and candidly to their attorneys. 123  As such, the privilege protects communications made between an attorney and their client. Given the realities of modern legal practice, the privilege also extends to communications with third parties “who have been engaged to assist the attorney in providing legal advice” and those “acting as agent[s]” of the client. 124             
+
+> 121 Computer and Network Acceptable Use Policy: Summary , C HAPMAN UNIV ., www.chapman.edu/campus-services/information-systems/policies-and-procedures/acceptable-use-policy.aspx .
+> 122 Opp’n at 25 (citing Gregory C. Sisk & Nicholas Halbur, A Ticking Time Bomb? University Data Privacy Policies and Attorney-Client Confidentiality in Law School Settings , 2010 U TAH L. REV . 1277 (2010)).
+> 123 See In re Pac. Pictures Corp. , 679 F.3d 1121, 1126 (9th Cir. 2012) (citing Upjohn , 449 U.S. at 389).
+> 124 See Sanmina , 968 F.3d at 1116 (internal citations omitted). In some instances, the Ninth Circuit has found communications between an attorney and their associates privileged. See United States v. Rowe , 96 F.3d 1294, 1296 (9th Cir. 1996).
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 20 of 44 Page ID 
+
+#:4138 -21-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Dr. Eastman claims attorney-client privilege over only nine documents: five emails 125 
+
+and four attachments. 126  None of these documents includes Dr. Eastman’s client, President Trump, as a sender or recipient of the email. Instead, all emails are sent from a third party to Dr. Eastman, and two of the emails blind copy (bcc) a close advisor to President Trump. 127 
+
+Despite having filed nearly a hundred pages of briefing, Dr. Eastman does not mention this third-party email sender anywhere in his briefs; the person is named only in his privilege log entries. Dr. Eastman’s description in the privilege log is conclusory, describing the sender merely as his “co-counsel.” 128  Dr. Eastman failed to provide retainer agreements or a sworn declaration that would prove this third party was an attorney or agent for President Trump. The Court also cannot infer the third party’s affiliation with President Trump from his email, which is a generic, non-@donaldtrump.com email address. Dr. Eastman has not met his burden to show that these communications were with an agent of President Trump or the Trump campaign, and as such, these documents do not warrant the protection of the attorney-client privilege. However, Dr. Eastman also claims work product protection over these nine documents, so the Court analyzes them in the next section. 
+
+B. Work Product 
+
+Dr. Eastman claims that all 111 documents, including the nine documents over which he claims attorney-client privilege, are protected work product. The work-product doctrine “protect[s] from discovery documents and tangible things prepared by a party or his representative in anticipation of litigation.” 129 
+
+To begin, the Court excludes ten of the 111 documents because they are entirely non-substantive. 130  Seven of these documents are only images of logos attached to email signatures, including Facebook, LinkedIn, and Twitter. 131  One document is a blank page 132  and two are          
+
+> 125 4708; 4722; 4744 (duplicate); 4766 (duplicate); 4788.
+> 126 4713; 4723; 4745 (duplicate); 4767 (duplicate).
+> 127 4766; 4788.
+> 128 See, e.g. , Privilege log, 4766 (“Comm with co‐counsel re legal advice”).
+> 129 Admiral Ins. Co. v. U.S. Dist. Ct. for Dist. of Arizona , 881 F.2d 1486, 1494 (9th Cir. 1989) (citing Fed. R. Civ. P. 26(b)(3)).
+> 130 4827; 5066; 5067; 5154; 5155; 5156; 5157; 5158; 5159; 5160.
+> 131 5066; 5067; 5155; 5156; 5157; 5158; 5159.
+> 132 5160.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 21 of 44 Page ID 
+
+#:4139 -22-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+blank emails. 133  These ten documents do not contain any information protected by the work product doctrine and the Court ORDERS that they must be disclosed. 134 
+
+The Court now considers whether the remaining 101 documents constituted protected work product to begin with; whether the privilege was waived; and whether an exception applies. 
+
+1. Whether the remaining documents qualify for protection 
+
+After removing ten non-substantive documents, the Court is left with 101 documents to analyze under the work product doctrine. For documents to be protected work product, they must (1) “be ‘prepared in anticipation of litigation or for trial,’” and (2) “be prepared ‘by or for another party or by or for that other party’s representative.’” 135  The Court considers each requirement in turn. 
+
+Anticipation of litigation 
+
+In this section, the Court analyzes eighty-seven of the remaining 101 documents, all of which present a question about whether they were prepared in anticipation of litigation. The other fourteen documents 136  were obviously prepared for litigation, so the Court leaves those for later discussion. 137 
+
+Documents qualify for work product protection if they were “prepared in anticipation of litigation or for trial.” 138  However, some litigation documents are also prepared for a second, non-litigation purpose. Courts protect such “dual purpose” documents when they pass the “because of” test: whether “it can fairly be said that the ‘document was created because of 
+
+anticipated litigation, and would not have been created in substantially similar form but for the prospect of that litigation.’” 139  It does not matter “whether litigation was a primary or             
+
+> 133 4827; 5154.
+> 134 See Tower 570 Co. LP v. Affiliated FM Ins. Co. , No. 20-CV-00799-JMF, 2021 WL 1222438, at *4 (S.D.N.Y. Apr. 1, 2021) (“logos or similar images [] contain no substantive content. The notion that they are protected by the attorney-client privilege or work product doctrine is so preposterous that one must wonder whether the documents were perhaps mislabeled.”).
+> 135 In re California Pub. Utils. Comm’n , 892 F.2d 778, 780–81 (9th Cir. 1989) (quoting Fed. R. Civ. P. 26(b)(3)).
+> 136 4553; 4708; 4713; 4793; 4794; 4828; 5096; 5097; 5101; 5113; 5412; 5424; 5719; 5720; 5722.
+> 137 See supra Section III.B.1.b, Preparation by or for the client’s representative .
+> 138 Fed. R. Civ. P. 26(b)(3).
+> 139 In re Grand Jury Subpoena (Mark Torf/Torf Environmental Management) (“ Torf ”), 357 F.3d 900, 908 (9th Cir. 2003) (quoting United States v. Adlman , 134 F.3d 1194, 1195 (2nd Cir. 1998)) (emphasis added).
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 22 of 44 Page ID 
+
+#:4140 -23-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+secondary motive behind the creation of a document;” 140  instead, courts consider the totality of the circumstances surrounding the document’s creation. 141 
+
+The Court groups its analysis of the eighty-seven documents as relating to the Electoral Count Act plan; state elections; documents prepared for Congress; connecting third parties; and news sources. 
+
+This section deals with twenty-two of the eighty-seven documents, which relate to Dr. Eastman’s proposal for Vice President Pence to reject or delay counting electoral votes. 142  The Court’s determination of whether these twenty-two documents were created in anticipation of litigation is contextualized by Dr. Eastman’s memo, which outlined the plan to disrupt the Joint Session of Congress. 
+
+The plan proposed by Dr. Eastman’s memo involve actions by the Vice President without recourse to the courts. The memo states explicitly: “[t]he main thing here is that Pence should do this without asking for permission—either from a vote of the joint session or from the Court .” 143  Dr. Eastman only acknowledged the potential for litigation dismissively, mocking the idea of opponents challenging him in court. 144  Litigation was never Dr. Eastman’s motivation for planning the events of January 6, perhaps because, as he conceded, his legal theories would be rejected “9-0” by the Supreme Court. 145  The Court’s review of the twenty-two documents shows they are consistent with the memo’s plan to proceed without judicial involvement. 
+
+Sixteen of the twenty-two documents discuss, forward, or request academic articles          
+
+> 140 Id. at 908.
+> 141 Id.
+> 142 4707; 4708; 4720; 4722; 4723; 4744; 4745; 4766; 4767; 4788; 4789; 4790; 4791; 4792; 4833; 4834; 4835; 5114; 5283; 5329; 5484; 5488.
+> 143 Eastman Long Memo at 5 (emphasis added).
+> 144 Id. at 5–6 (“Let the other side challenge his actions in court, where Tribe (who in 2001 conceded the President of the Senate might be in charge of counting the votes) and others who would press a lawsuit would have their past position -- that these are non-justiciable political questions – thrown back at them, to get the lawsuit dismissed.”). Cf. Riverkeeper v. U.S. Army Corps of Engineers , 38 F. Supp. 3d 1207, 1222 (D. Or. 2014) (holding that mere “awareness that litigation may have been a likely prospect” is insufficient for work product protection).
+> 145 Jacob Tr. 110.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 23 of 44 Page ID 
+
+#:4141 -24-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+interpreting the Electoral Count Act or the Twelfth Amendment. 146  The articles themselves were clearly not created for litigation: they were written and published by independent authors more than a decade ago. The email chains discussing the articles do not reveal litigation strategy or consider how the articles’ analyses would affect litigation. Instead, the emails at most discuss how they could be read to support Dr. Eastman’s interpretation of the Electoral Count Act or the Twelfth Amendment. On these facts, these sixteen documents are not protected work product. 
+
+In addition, five of the twenty-two documents discuss actions to advance the Electoral Count Act plan. 147  In one of those, Dr. Eastman explains arguments for his plan that he had previously sent to Vice President Pence’s counsel, and does not reference litigation. 148  In another email thread, Dr. Eastman’s colleagues discuss whether to publish a piece supporting his plan, and they touch on state lawsuits only to criticize how they are being handled by the Trump campaign. 149  In a different email thread, Dr. Eastman and a colleague consider how to use a state court ruling to justify Vice President Pence enacting the plan. 150  In another email, a colleague focuses on the “plan of action” after the January 6 attacks, not mentioning future litigation. 151  Even if the authors of these five documents anticipated litigation, its prospect certainly did not “animate every document [they] prepared.” 152  The true animating force behind these emails was advancing a political strategy: to persuade Vice President Pence to take unilateral action on January 6. Moreover, nothing about the form of these documents is tailored to the prospect of litigation. Because these five documents were not created in anticipation of litigation, Dr. Eastman must disclose them to the Select Committee. 
+
+One of the twenty-two documents relating to the Electoral Count Act plan presents a much closer question on anticipation of litigation. In this email, a colleague forwards to Dr.        
+
+> 146 4707; 4720; 4722; 4723; 4744 (duplicate); 4745 (duplicate); 4766 (duplicate); 4767 (duplicate); 4788; 4789; 4790; 4791; 4792; 4833; 4834; 4835.
+> 147 5114; 5283; 5329; 5484; 5488.
+> 148 5484.
+> 149 5283; 5329.
+> 150 5114. With respect to this document, the Court’s finding applies only to the first email at the top of the page. The remainder of the document comprises document 5113 and is discussed below.
+> 151 5488.
+> 152 Torf , 357 F.3d at 908.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 24 of 44 Page ID 
+
+#:4142 -25-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Eastman a memo they wrote for one of President Trump’s attorneys. 153  The memo sketches a series of events for the days leading up to and following January 6, if Vice President Pence were to delay counting or reject electoral votes. The memo clearly contemplates and plans for litigation: it maps out potential Supreme Court suits and the impact of different judicial outcomes. While this memo was created for both political and litigation purposes, it substantively engages with potential litigation and its consequences for President Trump. The memo likely would have been written substantially differently had the author not expected litigation. The Court therefore finds that this document was created in anticipation of litigation. 
+
+Accordingly, the Court finds that twenty-one of the twenty-two documents were not made in anticipation of litigation and thus ORDERS them to be disclosed to the Select Committee. 
+
+This section pertains to nineteen of the eighty-seven documents, all of which discuss or analyze alleged election fraud at the state level. 154 
+
+First, eight of the nineteen documents forward or discuss communications from state legislators about alleged fraud in the 2020 election. 155  Two of those are resolutions by state legislatures regarding election fraud; 156  one is a letter from the Republican members of the Arizona Legislature to Vice President Pence; 157  and two are letters from a Georgia state senator to President Trump. 158  These documents do not reference litigation and are explicitly intended to express the opinions of the legislature or seek assistance from federal officials. Similarly, the four emails discussing these documents offer no litigation analysis. As such, these eight documents are not protected work product and must be disclosed to the Select Committee. 
+
+In addition, eleven of the nineteen documents relate to concerns about election fraud. 159        
+
+> 153 4708.
+> 154 4990; 5011; 5012; 5014; 5018; 5130; 5131; 5134; 5135; 5161; 5251; 5252; 5261; 5268; 5433; 5490; 5491; 5492; 5498.
+> 155 4990; 5011; 5012; 5014; 5251; 5252; 5261; 5268.
+> 156 5012 (Wisconsin); 5252 (Arizona).
+> 157 5261.
+> 158 4990; 5268 (duplicate).
+> 159 5018; 5130; 5131; 5134; 5135; 5161; 5433; 5490; 5491; 5492; 5498.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 25 of 44 Page ID 
+
+#:4143 -26-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Eight of those contain or discuss technical analyses of alleged fraud, including five noting voting machine weaknesses that could lead to fraudulent results. 160  Although Dr. Eastman’s privilege log describes some of these documents as “comm with counsel and expert re fact evidence,” he does not specify any particular litigation. 161  Moreover, the technical analyses make no mention of any potential action based on their findings, and the email discussions do not engage with the findings of the reports or specify any litigation uses for them. Three of those eleven documents discuss general concerns about election fraud, such as fears about voting machines 162  and publicizing potential new evidence. 163  In general, Dr. Eastman used evidence of alleged election fraud for two purposes: to support state litigation and to persuade legislators and Vice President Pence to act. Despite those possible dual purposes, these emails do not suggest that Dr. Eastman used them for litigation, make no mention of litigation, and would have had the same form without the prospect of litigation. 
+
+On this record, Dr. Eastman has not met his burden of demonstrating that these nineteen documents were created in anticipation of litigation, and therefore the Court ORDERS them to be disclosed. 
+
+This section discusses seventeen of the eighty-seven documents, each of which specify that it was created for distribution to Congress. 164  Two of those state, “[p]lease pass this onto . . . federal legislators;” 165  or note “[t]his . . . has been circulated to Members.” 166  Eight documents are an email chain between Dr. Eastman and colleagues creating a memo of Article II violations “for [C]ongress.” 167  And seven emails name specific senators as the intended recipients of the attached documents. 168  These communications were prepared for members of          
+
+> 160 5018; 5130; 5131; 5134 (duplicate); 5135 (duplicate); 5161 (duplicate); 5492; 5498.
+> 161 Privilege log, 5130; Privilege log, 5134.
+> 162 5433.
+> 163 5490; 5491.
+> 164 4494; 4496; 4547; 4721; 4839; 4841; 4976; 4977; 4979; 4992; 5017; 5045; 5046; 5064; 5068; 5091; 5094.
+> 165 4547.
+> 166 4976; 4977; 4979; 4992.
+> 167 4721; 5017; 5045; 5046; 5064; 5068; 5091; 5094 (discussing a recent litigation development in the context of creating a list for Congress).
+> 168 4494; 4496; 4839; 4841.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 26 of 44 Page ID 
+
+#:4144 -27-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Congress and do not reference litigation strategy or concerns. The Court finds that those documents were not prepared in anticipation of litigation, but rather were created to persuade federal legislators to take action. 169 
+
+Accordingly, these seventeen documents are not protected work product, and the Court ORDERS them to be disclosed to the Select Committee. 
+
+This section discusses twenty of the eighty-seven documents, all of which connect third parties. 170  Seven of those documents provide or request contact information for President Trump, Dr. Eastman, and third parties. 171  Thirteen documents are communications with third parties volunteering to help Dr. Eastman, sending resumes, or offering suggestions for President Trump. 172  None of these documents relate to or implicate litigation. Although Dr. Eastman claims that some of the emails are regarding “fact development,” 173  they are predominantly administrative. The emails do not discuss how these third parties could contribute to any potential litigation; in fact, some are unsolicited introductions or requests 174 
+
+rather than coordinated discussions between experts or advisors. 
+
+Accordingly, these twenty documents are not protected by the work product doctrine, and the Court ORDERS them to be disclosed. 
+
+This section considers nine of the eighty-seven documents, each of which relates to or includes news or press releases. 175  Five of those forward news reports and press releases about  
+
+> 169
+
+See Phillips v. Immig. and Customs Enforcement , 385 F. Supp. 2d 296, 309 (S.D.N.Y. 2005) (“one of the memoranda suggests that they were actually prepared for a presentation to a member of Congress. The Court notes that the date of the memoranda, October 4, 2000, happens to be the day before the INS meeting with Senator Feingold . . . , further indicating that these memoranda were prepared in anticipation of that meeting.”). 
+
+Cf. P and B Marina, Ltd Partnership v. Logrande , 136 F.R.D. 50, 58 (E.D.N.Y. 1991) (holding that when a lobbyist was used to “apply[] political pressure,” correspondence “was not directed towards anticipated litigation but rather toward nonlitigation means that could achieve the same results in lieu of litigation”).  
+
+> 170
+
+5299; 5300; 5423; 5547; 5551; 5668; 5672; 5676; 5677; 5678; 5680; 5874; 5876; 6023; 6024; 6028; 6032; 6035; 6039; 6041.  
+
+> 171
+
+5668; 5676; 5677; 5678; 5680; 5874; 5876.  
+
+> 172
+
+5299; 5300 (resume); 5423; 5547; 5551; 5672; 6023; 6024; 6028 (resume); 6032; 6035; 6039; 6041.  
+
+> 173
+
+Privilege log, 5680.  
+
+> 174
+
+5668; 5874.  
+
+> 175
+
+5023; 5024; 5061; 5338; 5489; 5510; 5515; 5519; 5578. 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 27 of 44 Page ID 
+
+#:4145 -28-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+the events of January 6 with no or virtually no text in the bodies of the emails. 176  Two email chains comment on news reports about violent rioters on January 6, but do not relate to litigation. 177  One email congratulates Dr. Eastman for his speech on the Ellipse and links to a Twitter video of the speech. 178  These public articles, press releases, and videos were not created for litigation, and the minimal commentary contained in the emails was unrelated to litigation. 
+
+As such, these nine documents are not protected work product and the Court ORDERS that they must be disclosed. 
+
+Preparation by or for the client’s representative 
+
+The Court next considers the fourteen of the 101 documents that it has not yet discussed because they were clearly prepared in anticipation of litigation, as well as the one document it concluded above was prepared in anticipation of litigation. 179  The Court now examines those fifteen documents to confirm whether they were created by or for a protected party. 
+
+The work product doctrine protects materials prepared “by or for another party or by or for that other party’s representative (including the other party’s attorney, consultant, surety, indemnitor, insurer, or agent).” 180  Accordingly, documents are protected if they were prepared by or for President Trump or his campaign, or by or for Dr. Eastman or another representative of President Trump. 
+
+The Court finds that thirteen of these fifteen documents qualify as protected. 181  Eight of those were sent by Dr. Eastman, sent directly to Dr. Eastman, or had Dr. Eastman copied on the email. 182  Five documents were created by or for agents of President Trump or his campaign, including attorneys of record in state cases and President Trump’s personal attorney. 183  These documents were later forwarded to Dr. Eastman. Because these thirteen documents were              
+
+> 176 5023; 5024; 5061; 5510 (email body is “FYI”); 5578 (commending press release).
+> 177 5489; 5515; 5519.
+> 178 5338.
+> 179 4553; 4708; 4713; 4793; 4794; 4828; 5096; 5097; 5101; 5113; 5412; 5424; 5719; 5720; 5722. The Court notes that document 5114 includes the entirety of document 5113, so all discussions of 5113 apply to the corresponding sections of 5114. See note 150 .
+> 180 Fed. R. Civ. P. 26(b)(3); see United States v. Nobles , 422 U.S. 225, 238 (1975).
+> 181 4553; 4708; 4713; 4793; 4794; 4828; 5097; 5101; 5113; 5412; 5424; 5719; 5720.
+> 182 4553; 4793; 5097; 5101; 5113; 5412; 5424; 5719.
+> 183 4708; 4713; 4794; 4828 (duplicate); 5720.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 28 of 44 Page ID 
+
+#:4146 -29-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+created by or for agents of President Trump or his campaign, they are protected work product. 
+
+However, two of the fifteen documents are orders issued by a court in a state proceeding. 184  As such, these two documents were not created by or for an agent of President Trump or his campaign, and the Court ORDERS them to be disclosed. 
+
+2. Waiver of protection 
+
+The Court now considers whether Dr. Eastman waived his privilege over any of the thirteen remaining documents that the Court concluded above were protected work product. 185 
+
+Unlike attorney-client privilege, which is waived if not kept completely confidential, work product protection is only waived when attorneys disclose their work to “an adversary or a conduit to an adversary in litigation.” 186  The Ninth Circuit makes two inquiries to assess whether disclosure to “a conduit to an adversary” constitutes waiver: whether the party selectively disclosed materials, and whether the party reasonably believed that the recipient would keep the disclosed documents confidential. 187 
+
+The Select Committee previously argued that Dr. Eastman’s use of Chapman email constituted waiver because he knew that his documents could be accessed by Chapman University, which it claims was a conduit to an adversary by virtue of its “policy to disclose emails in response to subpoenas.” 188  However, courts consider whether the party reasonably believed that the recipient would keep the disclosed documents confidential, 189  and as discussed above Dr. Eastman had a reasonable expectation of confidentiality in his emails. 190  Holding otherwise would result in the sweeping proposition that using any email provider that complies with subpoenas waives work product protection. 191                 
+
+> 184 5096; 5722.
+> 185 4553; 4708; 4713; 4793; 4794; 4828; 5097; 5101; 5113; 5412; 5424; 5719; 5720.
+> 186 Sanmina , 968 F.3d at 1121; Nobles , 422 U.S. at 239.
+> 187 Sanmina , 968 F.3d at 1121.
+> 188 TRO Opp’n at 22–23.
+> 189 Sanmina , 968 F.3d at 1121.
+> 190 See supra Section III.A.2, Chapman University email use .
+> 191 See, e.g. ,Government Data Requests , Y AHOO !, www.yahooinc.com/transparency/reports/government-data-requests.html (“When we disclose data, consistent with our Global Principles for Responding to Government Requests, we narrowly interpret the request and disclose only as much data as is necessary to comply with the request.”); How Google handles government requests for user information , G OOGLE ,
+> policies.google.com/terms/information-requests .
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 29 of 44 Page ID 
+
+#:4147 -30-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+However, the Court finds work product protection was waived for two documents that are now public: a court filing 192  and a memo disclosed to the news media. 193  Making work product public is the epitome of sharing with an adversary, thus waiving protection. 194  Because these two documents are public, Dr. Eastman may not assert the privilege, and the Court ORDERS them to be disclosed. 
+
+3. Crime-fraud exception 
+
+Based on the Court’s previous analysis, there are eleven remaining protected documents. 195  The Court now considers whether any of those documents should be disclosed based on the crime-fraud exception, as the Select Committee argues. 196 
+
+The crime-fraud exception applies when (1) a “client consults an attorney for advice that will serve [them] in the commission of a fraud or crime,”  197  and (2) the communications are “sufficiently related to” and were made “in furtherance of” the crime. 198  It is irrelevant whether the attorney was aware of the illegal purpose 199  or whether the scheme was ultimately successful. 200  The exception extinguishes both the attorney-client privilege and the work product doctrine. 201  The party seeking disclosure must prove the crime-fraud exception applies by a preponderance of the evidence, 202  meaning “the relevant facts must be shown to be more  
+
+> 192
+
+5720.  
+
+> 193
+
+4713 (November 18, 2020 memo from Kenneth Chesebro); Read the Nov. 18 Memo on Alternate Trump Electors , N.Y. TIMES (Feb. 2, 2022),  www.nytimes.com/interactive/2022/02/02/us/trump-electors-memo-november.html . 
+
+> 194
+
+Bittaker v. Woodford , 331 F.3d 715, 719–20 (9th Cir. 2004).  
+
+> 195
+
+4553; 4708; 4793; 4794; 4828 (duplicate); 5097; 5101; 5113; 5412; 5424; 5719.  
+
+> 196
+
+Opp’n at 37.  
+
+> 197
+
+In re Grand Jury Investigation , 810 F.3d 1110, 1113 (9th Cir. 2016).  
+
+> 198
+
+In re Grand Jury Proc. (Corp.) , 87 F.3d 377, 381–83 (9th Cir. 1996).  
+
+> 199
+
+United States v. Laurins , 857 F.2d 529, 540 (9th Cir. 1988).  
+
+> 200
+
+In re Grand Jury Proc. (Corp.) , 87 F.3d at 382.  
+
+> 201
+
+In re Int’l Sys. & Controls Corp. Sec. Litig. , 693 F.2d 1235, 1242 (5th Cir. 1982) (“Every court of appeals that has addressed the crime-fraud exception’s application to work product has concluded that it does apply.”); In re John Doe Corp. , 675 F.2d 482, 492 (2d Cir. 1982) (“where so-called work-product is in aid of a criminal scheme, fear of disclosure may serve a useful deterrent purpose and be the kind of rare occasion on which an attorney's mental processes are not immune.”). Indeed, “conduct by an attorney that is merely unethical, as opposed to illegal, may be enough to vitiate the work product doctrine.” United States v. Christensen , 828 F.3d 763, 805 (9th Cir. 2015).  
+
+> 202
+
+In re Napster, Inc. Copyright Litig. , 479 F.3d 1078, 1094–95 (9th Cir. 2007), abrogated on other grounds by 
+
+Mohawk Indus., Inc. v. Carpenter , 558 U.S. 100 (2009); see Fed. R. Evid. 104(a). 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 30 of 44 Page ID 
+
+#:4148 -31-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+likely true than not.” 203 
+
+The Court first analyzes whether President Trump and Dr. Eastman likely committed any of the crimes alleged by the Select Committee, and then whether the eleven remaining documents relate to and further those crimes. 
+
+Potential crimes or fraud 
+
+The Select Committee alleges that the crime-fraud exception applies based on three offenses: 
+
+(1) President Trump attempted to obstruct “Congress’s proceeding to count the electoral votes on January 6,” in violation of 18 U.S.C. § 1512(c)(2); 204 
+
+(2) “President Trump, Plaintiff [Dr. Eastman], and several others entered into an agreement to defraud the United States by interfering with the election certification process,” in violation of 18 U.S.C. § 371; 205  and 
+
+(3) “President [Trump] and members of his Campaign engaged in common law fraud in connection with their efforts to overturn the 2020 election results.” 206 
+
+The Court will now determine whether President Trump and Dr. Eastman likely committed these offenses. 
+
+The Select Committee alleges that President Trump violated 18 U.S.C. § 1512(c)(2), which criminalizes obstruction or attempted obstruction of an official proceeding. 207  It requires three elements: (1) the person obstructed, influenced or impeded, or attempted to obstruct, influence or impede (2) an official proceeding of the United States, and (3) did so corruptly. 
+
+Attempts to obstruct 
+
+Section 1512(c)(2) requires that the obstructive conduct have a “nexus . . . to a specific official proceeding” that was “either pending or was reasonably foreseeable to [the person]         
+
+> 203 United States v. Lawrence , 189 F.3d 838, 844 (9th Cir.1999).
+> 204 Opp’n at 38.
+> 205 Id. at 43.
+> 206 Id. at 46.
+> 207 Id. at 38.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 31 of 44 Page ID 
+
+#:4149 -32-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+when he engaged in the conduct.” 208  President Trump attempted to obstruct an official proceeding by launching a pressure campaign to convince Vice President Pence to disrupt the Joint Session on January 6. 
+
+President Trump facilitated two meetings in the days before January 6 that were explicitly tied to persuading Vice President Pence to disrupt the Joint Session of Congress. On January 4, President Trump and Dr. Eastman hosted a meeting in the Oval Office with Vice President Pence, the Vice President’s counsel Greg Jacob, and the Vice President’s Chief of Staff Marc Short. 209  At that meeting, Dr. Eastman presented his plan to Vice President Pence, focusing on either rejecting electors or delaying the count. 210  When Vice President Pence was unpersuaded, President Trump sent Dr. Eastman to review the plan in depth with the Vice President’s counsel on January 5. 211  Vice President Pence’s counsel interpreted Dr. Eastman’s presentation as being on behalf of the President. 212 
+
+On the morning of January 6, President Trump made several last-minute “revised appeal[s] to the Vice President” to pressure him into carrying out the plan. 213  At 1:00 am, President Trump tweeted: “If Vice President @Mike_Pence comes through for us, we will win the Presidency . . . Mike can send it back!” 214  At 8:17 am, President Trump tweeted: “All Mike Pence has to do is send them back to the States, AND WE WIN. Do it Mike, this is a time for extreme courage!” 215  Shortly after, President Trump rang Vice President Pence and once again urged him “to make the call” and enact the plan. 216  Just before the Joint Session of Congress  
+
+> 208
+
+United States v. Lonich , 23 F.4th 881, 905 (9th Cir. 2022) (citing United States v. Young , 916 F.3d 368, 385 (4th Cir. 2019)).  
+
+> 209
+
+Jacob Tr. 82.  
+
+> 210
+
+Id.  
+
+> 211
+
+Id. at 105–07.  
+
+> 212
+
+Id. at 107.  
+
+> 213
+
+Short Tr. 26.  
+
+> 214
+
+Opp’n at 10 (quoting Donald J. Trump (@realDonaldTrump), T WITTER (Jan. 6, 2021, 1:00 AM), 
+
+perma.cc/9EV8-XJ7K ).  
+
+> 215
+
+Id. at 11 (quoting Donald J. Trump (@realDonaldTrump), T WITTER (Jan. 6, 2021, 8:17 AM),  perma.cc/2J3P-VDBV ).  
+
+> 216
+
+POTUS Private Schedule (handwritten note on President’s schedule showing call with VPOTUS at 11:20 AM); Kellogg Tr. 87, 90–92 (describing President Trump criticizing the Vice President as “not tough enough to make the call” to delay or reject electoral votes). See also Short Tr. 16 (“Q [from Select Committee]: . . . I understand that you weren’t on the call, but I just want to read you something that was quoted in Bob Woodward’s book “Peril,” that he indicated in “Peril” that the President said: If you don’t do it, I picked the 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 32 of 44 Page ID 
+
+#:4150 -33-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+began, President Trump gave a speech to a large crowd on the Ellipse in which he warned, “[a]nd Mike Pence, I hope you’re going to stand up for the good of our Constitution and for the good of our country. And if you’re not, I’m going to be very disappointed in you. I will tell you right now.” 217  President Trump ended his speech by galvanizing the crowd to join him in enacting the plan: “[L]et’s walk down Pennsylvania Avenue” to give Vice President Pence and Congress “the kind of pride and boldness that they need to take back our country.” 218 
+
+Together, these actions more likely than not constitute attempts to obstruct an official proceeding. 
+
+Official proceeding 
+
+The Court next analyzes whether the Joint Session of Congress to count electoral votes on January 6, 2021, constituted an “official proceeding” under the obstruction statute. The United States Code defines “official proceeding” to include “a proceeding before the Congress.” 219  The Twelfth Amendment outlines the steps to elect the President, culminating in the President of the Senate opening state votes “in the presence of the Senate and House of Representatives.” 220  Dr. Eastman does not dispute that the Joint Session is an “official proceeding.” While there is no binding authority interpreting “proceeding before the Congress,” ten colleagues from the District of Columbia have concluded that the 2021 electoral count was an “official proceeding” within the meaning of section 1512(c)(2), 221  and the Court joins those well-reasoned opinions. 
+
+wrong man 4 years ago. The President said: You’re going to wimp out. He reportedly said to the Vice President: You can be a hero, or you can be a pussy.”).  
+
+> 217
+
+Trump Speech Transcript.  
+
+> 218
+
+Id.  
+
+> 219
+
+18 U.S.C. § 1515(a)(1)(B).  
+
+> 220
+
+U.S. CONST . amend. XII.  
+
+> 221
+
+United States v. Sandlin , __ F. Supp. 3d __, No. 21-CR-00088-DLF, 2021 WL 5865006 (D.D.C. Dec. 10, 2021); United States v. Caldwell , __ F. Supp. 3d __, No. 21-CR-00028-APM, 2021 WL 6062718 (D.D.C. Dec. 20, 2021); United States v. Mostofsky , __ F. Supp. 3d __, No. 21-CR-00138-JEB, 2021 WL 6049891 (D.D.C. Dec. 21, 2021); United States v. Nordean , __ F. Supp. 3d __, No. 21-CR-00175-TJK, 2021 WL 6134595 (D.D.C. Dec. 28, 2021); United States v. Montgomery , No. 21-CR-00046-RDM, 2021 WL 6134591 (D.D.C. Dec. 28, 2021); McHugh , __ F. Supp. 3d __, 2022 WL 296304; United States v. Grider , No. 21-CR-00022-CKK, 2022 WL 392307 (D.D.C. Feb. 9, 2022); United States v. Miller , No. 21-CR-00119-CJN, 2022 WL 823070 (D.D.C. Mar. 7, 2022); United States v. Andries , No. 21-CR-00093-RC, 2022 WL 768684 (D.D.C. Mar. 14, 2022); United States v. Puma , No. 21-CR-00454-PLF, 2022 WL 823079 (D.D.C. Mar. 19, 2022). 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 33 of 44 Page ID 
+
+#:4151 -34-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Corrupt intent 
+
+A person violates § 1512(c) when they obstruct an official proceeding with a corrupt mindset. The Ninth Circuit has not defined “corruptly” for purposes of this statute. 222  However, the court has made clear that the threshold for acting “corruptly” is lower than “consciousness of wrongdoing,” 223  meaning a person does not need to know their actions are wrong to break the law. Because President Trump likely knew that the plan to disrupt the electoral count was wrongful, his mindset exceeds the threshold for acting “corruptly” under § 1512(c). 
+
+President Trump and Dr. Eastman justified the plan with allegations of election fraud— but President Trump likely knew the justification was baseless, and therefore that the entire plan was unlawful. Although Dr. Eastman argues that President Trump was advised several state elections were fraudulent, 224  the Select Committee points to numerous executive branch officials who publicly stated 225  and privately stressed to President Trump 226  that there was no evidence of fraud. By early January, more than sixty courts dismissed cases alleging fraud due to lack of standing or lack of evidence, 227  noting that they made “strained legal arguments  
+
+> 222
+
+Lonich , 23 F.4th at 906.  
+
+> 223
+
+See United States v. Watters , 717 F.3d 733, 735 (9th Cir. 2013) (affirming a jury instruction stating that “‘corruptly’ meant acting with ‘consciousness of wrongdoing’” because “if anything, . . . [it] placed a higher burden of proof on the government than section 1512(c) demands” (emphasis added)).  
+
+> 224
+
+Reply at 21 (former Attorney General Barr remarking recently, “one of the things is the President was surrounded by these people who would very convincingly make the case for fraud”); Donoghue Tr. 124 (Assistant Attorney General Jeff Clark repeatedly told President Trump that there was likely substantial election fraud and that the Department of Justice was not doing “real investigations that would . . . uncover widespread fraud.”); Eastman Long Memo at 1 (“Quite apart from outright fraud (both traditional ballot stuffing, and electronic manipulation of voting tabulation machines), important state election laws were altered or dispensed with altogether in key swing states and/or cities and counties.”).  
+
+> 225
+
+On November 12, 2020, the Cybersecurity and Infrastructure Security Agency published a statement that “[t]he November 3rd election was the most secure in American history” and that “[t]here is no evidence that any voting system deleted or lost votes, changed votes, or was in any way compromised.” Opp’n at 5 (citing CISA, Joint Statement from Elections Infrastructure Government Coordinating Council & The Election Infrastructure Sector Coordinating Executive Committees (Nov. 12, 2020),  perma.cc/NQQ9-Z7GZ ). Similarly, Attorney General Barr publicly disagreed with President Trump’s claims of election improprieties. Id. at 6 (citing Michael Balsamo, 
+
+Disputing Trump, Barr says no widespread election fraud , A SSOC . PRESS (Dec. 1, 2020),  perma.cc/4U8N-SMB5 ).  
+
+> 226
+
+In a December 15, 2020 meeting, high-ranking advisors emphasized to President Trump that with respect to allegations of fraud, “people are telling you things that are not right.” Opp’n at 6 (citing Interview of Jeffrey Rosen Before the S. Comm. on the Judiciary, 117th Cong. 30 (Aug. 7, 2021),  perma.cc/UF5R-PW7Y ). On December 27, 2020, Deputy Attorney General Donoghue told President Trump “in very clear terms” that the Department of Justice had done “dozens of investigations, hundreds of interviews” and concluded that “the major allegations [of election fraud] are not supported by the evidence developed.” Donoghue Tr. 59–60.  
+
+> 227
+
+Opp’n at 45 (citing William Cummings, Joey Garrison & Jim Sergent, By the numbers: President Donald Trump’s failed efforts to overturn the election , USA TODAY (Jan. 6, 2021),  perma.cc/683S-HSRC ). 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 34 of 44 Page ID 
+
+#:4152 -35-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+without merit and speculative accusations” 228  and that “there is no evidence to support accusations of voter fraud.” 229  President Trump’s repeated pleas 230  for Georgia Secretary of State Raffensperger clearly demonstrate that his justification was not to investigate fraud, but to win the election: “So what are we going to do here, folks? I only need 11,000 votes. Fellas, I need 11,000 votes. Give me a break.” 231  Taken together, this evidence demonstrates that President Trump likely knew the electoral count plan had no factual justification. 
+
+The plan not only lacked factual basis but also legal justification. Dr. Eastman’s memo noted that the plan was “BOLD, Certainly.” 232  The memo declared Dr. Eastman’s intent to step outside the bounds of normal legal practice: “we’re no longer playing by Queensbury Rules.” 233 
+
+In addition, Vice President Pence “very consistent[ly]” made clear to President Trump that the plan was unlawful, refusing “many times” to unilaterally reject electors or return them to the states. 234  In the meeting in the Oval Office two days before January 6, Vice President Pence stressed his “immediate instinct [] that there is no way that one person could be entrusted by the Framers to exercise that authority.” 235  
+
+> 228
+
+Donald J. Trump for President, Inc. v. Boockvar , 502 F. Supp. 3d 899, 906 (M.D. Pa.), aff’d sub nom. Donald J. Trump for President, Inc. v. Sec’y of Pennsylvania , 830 F. App’x 377 (3d Cir. 2020), and appeal dismissed , No. 20-3384, 2021 WL 807531 (3d Cir. Jan. 7, 2021) (“[T]his Court has been presented with strained legal arguments without merit and speculative accusations, unpled in the operative complaint and unsupported by evidence. In the United States of America, this cannot justify the disenfranchisement of a single voter, let alone all the voters of its sixth most populated state. Our people, laws, and institutions demand more.”).  
+
+> 229
+
+Stoddard v. City Election Comm’n , No. 20-014604-CZ, slip op. at 4 (Mich. Cir. Ct. Nov. 6, 2020) (“A delay in counting and finalizing the votes from the City of Detroit without any evidentiary basis for doing so, engenders a lack of confidence in the City of Detroit to conduct full and fair elections. The City of Detroit should not be harmed when there is no evidence to support accusations of voter fraud.”). See also Ward v. Jackson , No. CV-20-0343-AP/EL, 2020 WL 8617817, at *2 (Ariz. Dec. 8, 2020), cert. denied , 141 S. Ct. 1381 (2021) (“[Plaintiff] fails to present any evidence of ‘misconduct[]’ [or] ‘illegal votes.’”).  
+
+> 230
+
+First, President Trump requested, “All I want to do is this, I just want to find 11,780 votes, which is one more than we have because we won the state.” Trump-Raffensperger Call Transcript. Minutes later he grasped again: “I don’t know, look, Brad. I got to get . . . I have to find 12,000 votes.” Id.  
+
+> 231
+
+Id.  
+
+> 232
+
+Eastman Long Memo at 5 (capitalization in original).  
+
+> 233
+
+Id. The Queensberry Rules were accepted norms for boxing fights and commonly refers to general rules of fair play. Marquis of Queensberry Rules , M ERRIAM -W EBSTER , perma.cc/UHF2-T3FY . Cf. R.A.V. v. City of St. Paul, Minn. , 505 U.S. 377, 392 (1992) (“St. Paul has no such authority to license one side of a debate to fight freestyle, while requiring the other to follow Marquis of Queensberry rules.”); Miranda v. Arizona , 384 U.S. 436, 442 (1966) (quoting Police Commissioner arguing that “What the Court is doing is akin to requiring one boxer to fight by Marquis of Queensbury rules while permitting the other to butt, gouge and bite”).  
+
+> 234
+
+Short Tr. 26–27.  
+
+> 235
+
+Jacob Tr. 95. 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 35 of 44 Page ID 
+
+#:4153 -36-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Dr. Eastman argues that the plan was legally justified as it “was grounded on a good faith interpretation of the Constitution.” 236  But “ignorance of the law is no excuse,” 237  and believing the Electoral Count Act was unconstitutional did not give President Trump license to violate it. Disagreeing with the law entitled President Trump to seek a remedy in court, not to disrupt a constitutionally-mandated process. 238  And President Trump knew how to pursue election claims in court—after filing and losing more than sixty suits, this plan was a last-ditch attempt to secure the Presidency by any means. 
+
+The illegality of the plan was obvious. Our nation was founded on the peaceful transition of power, epitomized by George Washington laying down his sword to make way for democratic elections. 239  Ignoring this history, President Trump vigorously campaigned for the Vice President to single-handedly determine the results of the 2020 election. As Vice President Pence stated, “no Vice President in American history has ever asserted such authority.” 240 
+
+Every American—and certainly the President of the United States—knows that in a democracy, leaders are elected, not installed. With a plan this “BOLD,” 241  President Trump knowingly tried to subvert this fundamental principle. 
+
+Based on the evidence, the Court finds it more likely than not that President Trump corruptly attempted to obstruct the Joint Session of Congress on January 6, 2021. 
+
+The Select Committee also alleges that President Trump, Dr. Eastman, and others conspired to defraud the United States by disrupting the electoral count, in violation of 18 U.S.C. § 371. 242  That crime requires that (1) at least two people entered into an agreement to obstruct a lawful function of the government (2) by deceitful or dishonest means, and (3) that a           
+
+> 236 Reply at 20.
+> 237 United States v. Int’l Mins. & Chem. Corp ., 402 U.S. 558, 562 (1971).
+> 238 See, e.g. ,Bush v. Gore , 531 U.S. 98 (2000).
+> 239 Members of Congress are daily reminded of his commitment when they pass John Trumbull’s iconic painting,
+> General George Washington Resigning His Commission , which hangs in the Capitol Rotunda. A RCHITECT OF THE CAPITOL ,www.aoc.gov/explore-capitol-campus/art/general-george-washington-resigning-his-commission .
+> 240 Pence Letter at 2.
+> 241 Eastman Long Memo at 5 (capitalization in original).
+> 242 Opp’n at 43.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 36 of 44 Page ID 
+
+#:4154 -37-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+member of the conspiracy engaged in at least one overt act in furtherance of the agreement. 243 
+
+Agreement to obstruct a lawful government function 
+
+As the Court discussed at length above, 244  the evidence demonstrates that President Trump likely attempted to obstruct the Joint Session of Congress on January 6, 2021. While the Court earlier analyzed those actions as attempts to obstruct an “official proceeding,” Congress convening to count electoral votes is also a “lawful function of government” within the meaning of 18 U.S.C. § 371, which Dr. Eastman does not dispute. 
+
+An “agreement” between co-conspirators need not be express and can be inferred from the conspirators’ conduct. 245  There is strong circumstantial evidence to show that there was likely an agreement between President Trump and Dr. Eastman to enact the plan articulated in Dr. Eastman’s memo. In the days leading up to January 6, Dr. Eastman and President Trump had two meetings with high-ranking officials to advance the plan. On January 4, President Trump and Dr. Eastman hosted a meeting in the Oval Office to persuade Vice President Pence to carry out the plan. The next day, President Trump sent Dr. Eastman to continue discussions with the Vice President’s staff, in which Vice President Pence’s counsel perceived Dr. Eastman as the President’s representative. 246  Leading small meetings in the heart of the White House implies an agreement between the President and Dr. Eastman and a shared goal of advancing the electoral count plan. The strength of this agreement was evident from President Trump’s praise for Dr. Eastman and his plan in his January 6 speech on the Ellipse: “John is one of the most brilliant lawyers in the country, and he looked at this and he said, ‘What an absolute disgrace that this can be happening to our Constitution.’” 247 
+
+Based on these repeated meetings and statements, the evidence shows that an agreement to enact the electoral count plan likely existed between President Trump and Dr. Eastman. 
+
+Deceitful or dishonest means 
+
+Obstruction of a lawful government function violates § 371 when it is carried out “by         
+
+> 243 United States v. Meredith , 685 F.3d 814, 822 (9th Cir. 2012).
+> 244 See supra Section III.B.3.a.i.(a), Attempts to obstruct .
+> 245 United States v. Paramount Pictures , 334 U.S. 131, 142 (1948).
+> 246 Jacob Tr. 107.
+> 247 Trump Speech Transcript.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 37 of 44 Page ID 
+
+#:4155 -38-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+deceit, craft or trickery, or at least by means that are dishonest.” 248  While acting on a “good faith misunderstanding” of the law is not dishonest, “merely disagreeing with the law does not constitute a good faith misunderstanding . . . because all persons have a duty to obey the law whether or not they agree with it.” 249 
+
+The Court discussed above how the evidence shows that President Trump likely knew that the electoral count plan was illegal. 250  President Trump continuing to push that plan despite being aware of its illegality constituted obstruction by “dishonest” means under § 371. 
+
+The evidence also demonstrates that Dr. Eastman likely knew that the plan was unlawful. Dr. Eastman heard from numerous mentors and like-minded colleagues that his plan had no basis in history or precedent. Fourth Circuit Judge Luttig, for whom Dr. Eastman clerked, publicly stated that the plan’s analysis was “incorrect at every turn.” 251  Vice President Pence’s legal counsel spent hours refuting each part of the plan to Dr. Eastman, including noting there had never been a departure from the Electoral Count Act 252  and that not “a single one of [the] Framers would agree with [his] position.” 253 
+
+Dr. Eastman himself repeatedly recognized that his plan had no legal support. In his discussion with the Vice President’s counsel, Dr. Eastman “acknowledged” the “100 percent consistent historical practice since the time of the Founding” that the Vice President did not have the authority to act as the memo proposed. 254  More importantly, Dr. Eastman admitted more than once that “his proposal violate[d] several provisions of statutory law,” 255  including explicitly characterizing the plan as “one more relatively minor violation” of the Electoral Count Act. 256  In addition, on January 5, Dr. Eastman conceded that the Supreme Court would                  
+
+> 248 Hammerschmidt v. United States , 265 U.S. 182, 188 (1924).
+> 249 Cmt., 9th Cir. Model Crim. Jury Instr. 11.2 (revised Sept. 2020) (analogizing to “good faith” defenses for violations of tax code).
+> 250 See supra Section III.B.3.a.i.(c), Corrupt intent .
+> 251 Opp’n at 13 (quoting J. Michael Luttig (@judgeluttig), T WITTER (Sept. 21, 2021, 11:50 PM), perma.cc/ULW5-NRRT ).
+> 252 Jacob Tr. 108.
+> 253 Opp’n Ex. N (Dkt. 160-16), Email from Greg Jacob to John Eastman at 3 (Jan 6, 2021, 2:14 pm EST).
+> 254 Jacob Tr. 109.
+> 255 Id. at 127 (discussing memo written by Vice President’s counsel referencing January 4 meeting).
+> 256 Opp’n Ex. N (Dkt. 160-16), Email from John Eastman to Greg Jacob (Jan. 6, 2021, 9:44 pm MST) at 2. See also Jacob Tr. 128 (“So the memo lays out the four ways in which the proposal would violate provisions of the Electoral Count Act, and he acknowledged as much in our conversations [on January 5]”).
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 38 of 44 Page ID 
+
+#:4156 -39-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+unanimously reject his plan for the Vice President to reject electoral votes. 257  Later that day, Dr. Eastman admitted that his “more palatable” idea to have the Vice President delay, rather than reject counting electors, rested on “the same basic legal theory” that he knew would not survive judicial scrutiny. 258 
+
+Dr. Eastman’s views on the Electoral Count Act are not, as he argues, a “good faith interpretation” of the law; 259  they are a partisan distortion of the democratic process. His plan was driven not by preserving the Constitution, but by winning the 2020 election: 
+
+[Dr. Eastman] acknowledged that he didn’t think Kamala Harris should have that authority in 2024; he didn’t think Al Gore should have had it in 2000; and he acknowledged that no small government conservative should think that that was the case. 260 
+
+Dr. Eastman also understood the gravity of his plan for democracy—he acknowledged “[y]ou would just have the same party win continuously if [the] Vice President had the authority to just declare the winner of every State.” 261 
+
+The evidence shows that Dr. Eastman was aware that his plan violated the Electoral Count Act. Dr. Eastman likely acted deceitfully and dishonestly each time he pushed an outcome-driven plan that he knew was unsupported by the law. 
+
+Overt acts in furtherance of the conspiracy 
+
+President Trump and Dr. Eastman participated in numerous overt acts in furtherance of their shared plan. As detailed at length above, President Trump’s acts to strong-arm Vice President Pence into following the plan included meeting with and calling the Vice President and berating him in a speech to thousands outside the Capitol. 262  Dr. Eastman joined for one of those meetings, spent hours attempting to convince the Vice President’s counsel to support the plan, and gave his own speech at the Ellipse “demanding” the Vice President “stand up” and  
+
+> 257
+
+Jacob Tr. 110 (recounting conversation between Dr. Eastman and Vice President’s counsel).  
+
+> 258
+
+Id. at 117 (recounting call between Dr. Eastman and Vice President’s counsel).  
+
+> 259
+
+Reply at 20.  
+
+> 260
+
+Jacob Tr. 110 (recounting conversation between Dr. Eastman and Vice President’s counsel on January 5). See also Opp’n Ex. N (Dkt. 160-16), Email from Greg Jacob to John Eastman (Jan. 6, 2021, 2:14 pm EST) at 3 (“I have run down every legal trail placed before me to its conclusion, and I respectfully conclude that as a legal framework, it is a results oriented position that you would never support if attempted by the opposition, and essentially entirely made up.”).  
+
+> 261
+
+Jacob Tr. 110.  
+
+> 262
+
+See supra Section III.B.3.a.i.(a),  Attempts to obstruct .
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 39 of 44 Page ID 
+
+#:4157 -40-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+enact his plan. 263 
+
+Based on the evidence, the Court finds that it is more likely than not that President Trump and Dr. Eastman dishonestly conspired to obstruct the Joint Session of Congress on January 6, 2021. 
+
+As the Court discusses below, 264  review of the eleven remaining documents reveals that none further efforts to spread false claims of election fraud. Accordingly, the Court does not reach whether President Trump likely engaged in common law fraud. 
+
+Actions in furtherance of crime or fraud 
+
+The Court now determines whether any of the remaining eleven documents were in furtherance of the two crimes the Court found evidence of above, obstruction of an official proceeding and conspiracy to defraud the United States by attempting to persuade Vice President Pence to reject or delay electoral votes on January 6, 2021. 
+
+The crime-fraud exception applies when the “communications for which production is sought are ‘sufficiently related to’ and were made ‘in furtherance of [the] intended, or present, continuing illegality.’” 265  In a civil case, the burden of proof for the party seeking disclosure under the crime-fraud exception is preponderance of the evidence, meaning more likely than not. 266 
+
+“[T]he crime-fraud exception does not require a completed crime or fraud but only that the client have consulted the attorney in an effort to complete one.” 267  The exception applies even if the attorney does not participate in the criminal activity, and “and even [if] the communication turns out not to help (and perhaps even to hinder) the client’s completion of a crime.” 268  An attorney’s wrongdoing alone may pierce the privilege, regardless of the client’s            
+
+> 263 Opp’n at 12 (quoting Eastman Speech).
+> 264 See infra Section III.B.3.b, Actions in furtherance of crime or fraud .
+> 265 Napster , 479 F.3d at 1090 (quoting In re Grand Jury Proc. (Corp.) , 87 F.3d at 381–83).
+> 266 Id. at 1094–95.
+> 267 In re Grand Jury Proc. (Corp.) , 87 F.3d at 381 (emphasis in original).
+> 268 Id. at 382.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 40 of 44 Page ID 
+
+#:4158 -41-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+awareness or innocence. 269 
+
+Nine of the eleven documents were emails or attachments discussing active lawsuits in state and federal courts. 270  They include drafting filings, conferring about oral arguments, or planning future litigation strategy. While these suits might have dealt with claims of election fraud, pursuing legal recourse itself did not advance any crimes, and the contents of the emails are cabined to those narrow litigation purposes. As such, these nine emails were not in furtherance of any of the offenses alleged by the Select Committee, so the crime-fraud exception does not apply. 
+
+The tenth document is an email sent at 4:03 pm MST on January 6, 2021, during the resumption of the Joint Session of Congress after the attack on the Capitol. 271  The email responded to a request to participate in Dr. Eastman’s work on behalf of President Trump. 272 
+
+While the email discusses Vice President Pence’s refusal to reject or delay the electoral count, the email was not “ itself in furtherance” of the plan and thus does not fall within the crime-fraud exception. 273 
+
+The eleventh document is a chain forwarding to Dr. Eastman a draft memo written for President Trump’s attorney Rudy Giuliani. 274  The memo recommended that Vice President Pence reject electors from contested states on January 6. This may have been the first time members of President Trump’s team transformed a legal interpretation of the Electoral Count Act into a day-by-day plan of action. The draft memo pushed a strategy that knowingly violated the Electoral Count Act, and Dr. Eastman’s later memos closely track its analysis and proposal. The memo is both intimately related to and clearly advanced the plan to obstruct the Joint             
+
+> 269 See In re Sealed Case , 107 F.3d 46, 49 n.2 (D.C. Cir. 1997) (“[T]here may be rare cases . . . in which the attorney’s fraudulent or criminal intent defeats a claim of privilege even if the client is innocent.”); In re Impounded Case (Law Firm) , 879 F.2d 1211, 1213 (3d Cir. 1989) (“We cannot agree” that “the crime-fraud exception does not apply to defeat the client’s privilege where the pertinent alleged criminality is solely that of the law firm”).
+> 270 4553; 4793; 4794; 4828 (duplicate); 5097; 5101; 5113; 5412; 5719.
+> 271 5424.
+> 272 The Court previously concluded that this earlier email, 5423, was not prepared in anticipation of litigation. See
+> text accompanying note 172 .
+> 273 In re Richard Roe, Inc. , 68 F.3d 38, 40 (2d Cir. 1995) (“[T]he exception applies only when the court determines that the client communication or attorney work product in question was itself in furtherance of the crime or fraud.” (emphasis in original)).
+> 274 4708.
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 41 of 44 Page ID 
+
+#:4159 -42-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+Session of Congress on January 6, 2021. Because the memo likely furthered the crimes of obstruction of an official proceeding and conspiracy to defraud the United States, it is subject to the crime-fraud exception and the Court ORDERS it to be disclosed. 
+
+4. Substantial or compelling need exception 
+
+After concluding that one document falls within the crime-fraud exception, the Court reviews the ten remaining protected documents, 275  which the Select Committee argues should be disclosed based on its compelling need and inability to obtain the materials elsewhere. 276 
+
+All ten documents are ‘opinion’ work product because they include attorneys’ thoughts and legal theories. Unlike fact-based work product, which may be disclosed, 277  opinion work product “is virtually undiscoverable.” 278  A court may compel disclosure of opinion work product only in the rare situation “when mental impressions are the pivotal issue in the current litigation and the need for the material is compelling.” 279 
+
+Dr. Eastman argues that discovery of opinion work product is limited to when the opposing party needs materials “to prepare its case ,” so the exception cannot extend to legislative needs. 280  The Court agrees that decisions applying this exception only involve litigation. 281  However, it would be inconsistent to recognize the work product doctrine in the legislative subpoena context without also recognizing the privilege’s exceptions. Given the limited caselaw involving legislative subpoenas, the Court assumes that a legislative body could have the requisite compelling need for disclosure of opinion work product. 
+
+The Select Committee claims that Dr. Eastman’s opinions “are directly at issue” because he “was a central figure in the effort to encourage the former Vice President to reject the           
+
+> 275 4553; 4793; 4794; 4828 (duplicate); 5097; 5101; 5113; 5412; 5424; 5719.
+> 276 Opp’n at 35.
+> 277 Torf , 357 F.3d at 906 (quoting Fed. R. Civ. P. 26(b)(3)(A)(ii)) (noting non-opinion work product may be disclosed upon a showing of “substantial need” for the documents and “undue hardship [in obtaining] the substantial equivalent of the materials by other means”).
+> 278 Republic of Ecuador v. Mackay , 742 F.3d 860, 869 n.3 (9th Cir. 2014) (quoting United States v. Deloitte LLP ,610 F.3d 129, 136 (D.C. Cir. 2010)); Fed. R. Civ. P. 26(b)(3)(B).
+> 279 Holmgren v. State Farm Mutual Auto. Ins. Co. , 976 F.2d 573, 577 (9th Cir. 1992) (emphasis added); see also Upjohn , 449 U.S. at 401–02 (noting that opinion work product is discoverable only upon “a far stronger showing of necessity and unavailability by other means”).
+> 280 Reply at 17 (quoting Fed. R. Civ. Proc. 26(b)(3)(A)(ii) (emphasis added)).
+> 281 See, e.g. ,Holmgren , 976 F.2d at 577 (“opinion work product may be discovered and admitted when mental impressions are at issue in a case and the need for the material is compelling.”).
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 42 of 44 Page ID 
+
+#:4160 -43-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+electors from several states.” 282 
+
+However, review of the ten remaining documents shows that none are “pivotal” to the Select Committee’s investigation. Nine of these include opinions and discussions about trial strategy in ongoing lawsuits. 283  As discussed above, this litigation was a legitimate form of recourse, and is not tied to the investigation’s core purpose, which is to “investigate and report upon the facts, circumstances, and causes relating to the January 6, 2021, domestic terrorist attack upon the United States Capitol.” 284 
+
+The tenth email includes Dr. Eastman’s thoughts on the evening of January 6 about potential future actions given Vice President Pence’s refusal to reject or delay the electoral count. 285  Cases that have found a “compelling need” involved situations where an attorney’s bad faith was central to a claim or defense, making the attorney’s opinions critical evidence. 286 
+
+Although Dr. Eastman’s thoughts in this email pertain to the January 6 electoral count, these thoughts are not analogously “pivotal” to the Select Committee’s investigation. 
+
+The Court reiterates its earlier statement that the Select Committee’s investigation is “weighty and urgent.” 287  But the Court does not want to enable well-intentioned committees to circumvent work product protection by using broad and urgent mandates, as has occurred in our not-so-distant past. 288 
+
+Accordingly, none of these ten documents shall be disclosed based on compelling need.  
+
+> 282
+
+Opp’n at 36.  
+
+> 283
+
+4553; 4793; 4794; 4828 (duplicate); 5097; 5101; 5113; 5412; 5719.  
+
+> 284
+
+H.R. Res. 503 § 3.  
+
+> 285
+
+5424.  
+
+> 286
+
+Holmgren , 976 F.2d at 577 (“In a bad faith insurance claim settlement case, the “‘strategy, mental impressions and opinion of [the insurer’s] agents concerning the handling of the claim are directly at issue.’”) (quoting 
+
+Reavis v. Metro. Prop. & Liab. Ins. Co. , 117 F.R.D. 160, 164 (S.D. Cal. 1987)); Handgards, Inc. v. Johnson & Johnson , 413 F. Supp. 926, 931 (N.D. Cal. 1976) (“The principal issue in the case at bar is the good faith of the defendants in instituting and maintaining the prior patent litigation against plaintiff.”); United States v. McGraw-Hill Companies, Inc. , No. 13-CV-00779, 2014 WL 8662657, at *6 (C.D. Cal. Sept. 25, 2014) (“[Defendant’s] most salient defense is that the Government improperly selected it for prosecution in an effort to retaliate[.]”).  
+
+> 287
+
+Order Denying Preliminary Injunction (Dkt. 43) at 12.  
+
+> 288
+
+See Watkins v. United States , 354 U.S. 178, 205–06 (1957) (“An excessively broad charter, like that of the House Un-American Activities Committee, places the courts in an untenable position if they are to strike a balance between the public need for a particular interrogation [ sic ] and the right of citizens to carry on their affairs free from unnecessary governmental interference.”). 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 43 of 44 Page ID 
+
+#:4161 -44-
+
+> 12345678910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+
+DISPOSITION 
+
+Dr. Eastman and President Trump launched a campaign to overturn a democratic election, an action unprecedented in American history. Their campaign was not confined to the ivory tower—it was a coup in search of a legal theory. The plan spurred violent attacks on the seat of our nation’s government, led to the deaths of several law enforcement officers, and deepened public distrust in our political process. 
+
+More than a year after the attack on our Capitol, the public is still searching for accountability. This case cannot provide it. The Court is tasked only with deciding a dispute over a handful of emails. This is not a criminal prosecution; this is not even a civil liability suit. At most, this case is a warning about the dangers of “legal theories” gone wrong, the powerful abusing public platforms, and desperation to win at all costs. If Dr. Eastman and President Trump’s plan had worked, it would have permanently ended the peaceful transition of power, undermining American democracy and the Constitution. If the country does not commit to investigating and pursuing accountability for those responsible, the Court fears January 6 will repeat itself. 
+
+With this limited mandate, the Court finds the following ten documents privileged: 4553; 4793; 4794; 4828; 5097; 5101; 5113; 5412; 5424; 5719. 289  The Court ORDERS Dr. Eastman to disclose the other one hundred and one documents to the House Select Committee. 
+
+DATED: 
+
+DAVID O. CARTER UNITED STATES DISTRICT JUDGE  
+
+> 289 Document 5113 is entirely included in document 5114. Dr. Eastman shall redact the portions of 5114 that comprise document 5113 when disclosing the unprivileged portion of that document to the Select Committee.
+
+March 28, 2022 
+
+Case 8:22-cv-00099-DOC-DFM Document 260 Filed 03/28/22 Page 44 of 44 Page ID 
+
+#:4162

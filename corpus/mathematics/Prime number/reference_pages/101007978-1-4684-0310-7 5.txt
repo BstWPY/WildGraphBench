@@ -1,0 +1,181 @@
+# 10.1007/978-1-4684-0310-7_5
+
+Abstract
+--------
+
+There are many situations where one wants to know if a large number _n_ is prime. For example, in the RSA public key cryptosystem and in various cryptosystems based on the discrete log problem in finite fields, we need to find a large “random” prime. One interpretation of what this means is to choose a large odd integer \\(n\_{0}\\) using a generator of random digits and then test \\(n\_{0}, n\_{0}+2, \\dotsc\\) for primality until we obtain the first prime which is \\(\\ge n\_{0}\\). A second type of use of primality testing is to determine whether an integer of a certain very special type is a prime. For example, for some large prime _f_ we might want to know whether \\(2^{f}-1\\) is a Mersenne prime. If we’re working in the field of \\(2^{f}\\) elements, we saw that every element ≠ 0, 1 is a generator of \\({\\pmb{\\text{F}}}^{\*}\_{2^{f}}\\) if (and only if) \\(2^{f}-1\\) is prime (see Exercise 13(a) of §11.1).
+
+Preview
+-------
+
+Unable to display preview. [Download preview PDF.](https://page-one.springer.com/pdf/preview/10.1007/978-1-4684-0310-7_5)
+
+### Similar content being viewed by others
+
+References for § V.1
+--------------------
+
+1.  L. M. Adleman, C. Pomerance, and R. S. Rumely, “On distinguishing prime numbers from composite numbers,” _Annals of Mathematics_‚ Vol. 117 (1983), 173–206.
+    
+    [Article](https://doi.org/10.2307%2F2006975)  [MATH](http://www.emis.de/MATH-item?0526.10004)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=683806)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=On%20distinguishing%20prime%20numbers%20from%20composite%20numbers&journal=Annals%20of%20Mathematics&volume=117&pages=173-206&publication_year=1983&author=Adleman%2CLM&author=Pomerance%2CC&author=Rumely%2CRS)
+    
+2.  H. Cohen and H. W. Lenstra, Jr., “Primality testing and Jacobi sums,” _Mathematics of Computation_‚ Vol. 42 (1984), 297–330.
+    
+    [Article](https://doi.org/10.1090%2FS0025-5718-1984-0726006-X)  [MATH](http://www.emis.de/MATH-item?0578.10004)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=726006)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Primality%20testing%20and%20Jacobi%20sums&journal=Mathematics%20of%20Computation&volume=42&pages=297-330&publication_year=1984&author=Cohen%2CH&author=Lenstra%2CHW)
+    
+3.  J. D. Dixon, “Factorization and primality tests,” _American Mathematical Monthly_‚ Vol. 91 (1984), 333–352.
+    
+    [Article](https://doi.org/10.2307%2F2322136)  [MATH](http://www.emis.de/MATH-item?0548.10003)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Factorization%20and%20primality%20tests&journal=American%20Mathematical%20Monthly&volume=91&pages=333-352&publication_year=1984&author=Dixon%2CJD)
+    
+4.  E. Kranakis, _Primality and Cryptography_‚ John Wiley & Sons, 1986.
+    
+    [MATH](http://www.emis.de/MATH-item?0595.10001)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Primality%20and%20Cryptography&publication_year=1986&author=Kranakis%2CE)
+    
+5.  G. L. Miller, “Riemann’s hypothesis and tests for primality,” _Proceedings of the Seventh Annual ACM Symposium on the Theory of Computing_‚ 234–239.
+    
+    [Google Scholar](https://scholar.google.com/scholar?&q=G.%20L.%20Miller%2C%20%E2%80%9CRiemann%E2%80%99s%20hypothesis%20and%20tests%20for%20primality%2C%E2%80%9D%20Proceedings%20of%20the%20Seventh%20Annual%20ACM%20Symposium%20on%20the%20Theory%20of%20Computing%E2%80%9A%20234%E2%80%93239.)
+    
+6.  C. Pomerance, “Recent developments in primality testing,” _The Mathematical Intelligencer_‚ Vol. 3 (1981), 97–105.
+    
+    [Article](https://link.springer.com/doi/10.1007/BF03022861)  [MATH](http://www.emis.de/MATH-item?0476.10004)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=642128)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Recent%20developments%20in%20primality%20testing&journal=The%20Mathematical%20Intelligencer&volume=3&pages=97-105&publication_year=1981&author=Pomerance%2CC)
+    
+7.  C. Pomerance, “The search for prime numbers,” _Scientific American_‚ Vol. 247 (1982), 136–147.
+    
+    [Article](https://doi.org/10.1038%2Fscientificamerican1282-136)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=The%20search%20for%20prime%20numbers&journal=Scientific%20American&volume=247&pages=136-147&publication_year=1982&author=Pomerance%2CC)
+    
+8.  M. O. Rabin, “Probabilistic algorithms for testing primality,” _Journal of Number Theory_‚ Vol. 12 (1980), 128–138.
+    
+    [Article](https://doi.org/10.1016%2F0022-314X%2880%2990084-0)  [MATH](http://www.emis.de/MATH-item?0426.10006)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=566880)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Probabilistic%20algorithms%20for%20testing%20primality&journal=Journal%20of%20Number%20Theory&volume=12&pages=128-138&publication_year=1980&author=Rabin%2CMO)
+    
+9.  R. Solovay and V. Strassen, “A fast Monte Carlo test for primality,” _SIAM Journal for Computing_‚ Vol. 6 (1977), 84–85 and _erratum_‚ Vol. 7 (1978), 118.
+    
+    [Article](https://doi.org/10.1137%2F0206006)  [MATH](http://www.emis.de/MATH-item?0345.10002)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=429721)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=A%20fast%20Monte%20Carlo%20test%20for%20primality&journal=SIAM%20Journal%20for%20Computing&volume=6&pages=84-85&publication_year=1977&author=Solovay%2CR&author=Strassen%2CV)
+    
+10.  S. Wagon, “Primality testing,” _The Mathematical Intelligencer_‚ Vol. 8, No. 3 (1986), 58–61.
+    
+    [Article](https://link.springer.com/doi/10.1007/BF03025793)  [MATH](http://www.emis.de/MATH-item?0595.10004)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=846996)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Primality%20testing&journal=The%20Mathematical%20Intelligencer&volume=8&issue=3&pages=58-61&publication_year=1986&author=Wagon%2CS)
+    
+
+### References for § V.2
+
+1.  W. D. Blair, C. B. Lacampagne and J. L. Selfridge, “Factoring large numbers on a pocket calculator,” _American Math. Monthly‚_ Vol. 93 (1986), 802–808.
+    
+    [Article](https://doi.org/10.2307%2F2322936)  [MATH](http://www.emis.de/MATH-item?0611.10002)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=1540993)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Factoring%20large%20numbers%20on%20a%20pocket%20calculator&journal=American%20Math.%20Monthly&volume=93&pages=802-808&publication_year=1986&author=Blair%2CWD&author=Lacampagne%2CCB&author=Selfridge%2CJL)
+    
+2.  R. P. Brent, “An improved Monte Carlo factorization algorithm,” _BIT_, Vol. 20 (1980), 176–184.
+    
+    [Article](https://link.springer.com/doi/10.1007/BF01933190)  [MATH](http://www.emis.de/MATH-item?0439.65001)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=583032)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=An%20improved%20Monte%20Carlo%20factorization%20algorithm&journal=BIT&volume=20&pages=176-184&publication_year=1980&author=Brent%2CRP)
+    
+3.  R. P. Brent and J. M. Pollard, “Factorization of the eighth Fermat number,” _Math, of Computation_, Vol. 36 (1981), 627–630.
+    
+    [Article](https://doi.org/10.1090%2FS0025-5718-1981-0606520-5)  [MATH](http://www.emis.de/MATH-item?0476.10007)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=606520)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Factorization%20of%20the%20eighth%20Fermat%20number&journal=Math%2C%20of%20Computation&volume=36&pages=627-630&publication_year=1981&author=Brent%2CRP&author=Pollard%2CJM)
+    
+4.  R. K. Guy, “How to factor a number,” _Proceedings of the 5th Manitoba Conference on Numerical Mathematics_ (1975), 49–89.
+    
+    [Google Scholar](https://scholar.google.com/scholar_lookup?&title=How%20to%20factor%20a%20number&pages=49-89&publication_year=1975&author=Guy%2CRK)
+    
+5.  J. M. Pollard, “A Monte Carlo method for factorization,” _BIT_, Vol. 15 (1975), 331–334.
+    
+    [Article](https://link.springer.com/doi/10.1007/BF01933667)  [MATH](http://www.emis.de/MATH-item?0312.10006)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=392798)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=A%20Monte%20Carlo%20method%20for%20factorization&journal=BIT&volume=15&pages=331-334&publication_year=1975&author=Pollard%2CJM)
+    
+
+### References for § V.3
+
+1.  L. E. Dickson, _History of the Theory of Numbers_‚ Vol. 1, Chelsea, 1952, p. 357.
+    
+    [Google Scholar](https://scholar.google.com/scholar_lookup?&title=History%20of%20the%20Theory%20of%20Numbers&publication_year=1952&author=Dickson%2CLE)
+    
+2.  M. Kraitchik, _Théorie des Nombres_‚ Vol. 2, Gauthier-Villars, 1926.
+    
+    [MATH](http://www.emis.de/MATH-item?JFM%2052.0137.20)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Th%C3%A9orie%20des%20Nombres&publication_year=1926&author=Kraitchik%2CM)
+    
+3.  R. S. Lehman, “Factoring large integers,” _Mathematics of Computation_‚ Vol. 28 (1974), 637–646.
+    
+    [Article](https://doi.org/10.1090%2FS0025-5718-1974-0340163-2)  [MATH](http://www.emis.de/MATH-item?0285.10006)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=340163)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Factoring%20large%20integers&journal=Mathematics%20of%20Computation&volume=28&pages=637-646&publication_year=1974&author=Lehman%2CRS)
+    
+4.  C. Pomerance, “Analysis and comparison of some integer factoring algorithms,” _Computational Methods in Number Theory‚ Part_ _I_, Mathematisch Centrum (Amsterdam), 1982.
+    
+    [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Analysis%20and%20comparison%20of%20some%20integer%20factoring%20algorithms&publication_year=1982&author=Pomerance%2CC)
+    
+
+### References for § V.4
+
+1.  H. Davenport, _The Higher Arithmetic_‚ 5th ed., Cambridge University Press, 1982.
+    
+    [MATH](http://www.emis.de/MATH-item?0483.10002)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=The%20Higher%20Arithmetic&publication_year=1982&author=Davenport%2CH)
+    
+2.  D. Knuth, _The Art of Computer Programming_‚ Vol. 2, Addison-Wesley, 1973.
+    
+    [Google Scholar](https://scholar.google.com/scholar_lookup?&title=The%20Art%20of%20Computer%20Programming&publication_year=1973&author=Knuth%2CD)
+    
+3.  D. H. Lehmer and R. E. Powers, “On factoring large numbers,” _Bull. Amer. Math. Soc._, Vol. 37 (1931), 770–776.
+    
+    [Article](https://doi.org/10.1090%2FS0002-9904-1931-05271-X)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=1562254)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=On%20factoring%20large%20numbers&journal=Bull.%20Amer.%20Math.%20Soc.&volume=37&pages=770-776&publication_year=1931&author=Lehmer%2CDH&author=Powers%2CRE)
+    
+4.  M. A. Morrison and J. Brillhart, “A method of factoring and the factorization of F7,” _Mathematics of Computation_, Vol. 29 (1975), 183–205.
+    
+    [MATH](http://www.emis.de/MATH-item?0302.10010)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=371800)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=A%20method%20of%20factoring%20and%20the%20factorization%20of%20F7&journal=Mathematics%20of%20Computation&volume=29&pages=183-205&publication_year=1975&author=Morrison%2CMA&author=Brillhart%2CJ)
+    
+5.  C. Pomerance and S. S. Wagstaff, Jr., “Implementation of the continued fraction integer factoring algorithm,” _Proceedings of the 12th Winnipeg Conference on Numerical Methods and Computing_‚ 1983.
+    
+    [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Implementation%20of%20the%20continued%20fraction%20integer%20factoring%20algorithm&publication_year=1983&author=Pomerance%2CC&author=Wagstaff%2CSS)
+    
+6.  M. C. Wunderlich, “A running time analysis of Brillhart’s continued fraction factoring method,” _Number Theory, Carbondale 1979_‚ Springer Lecture Notes Vol. 751 (1979), 328–342.
+    
+    [Article](https://link.springer.com/doi/10.1007/BFb0062718)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=564939)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=A%20running%20time%20analysis%20of%20Brillhart%E2%80%99s%20continued%20fraction%20factoring%20method&journal=Number%20Theory%2C%20Carbondale%201979&volume=751&pages=328-342&publication_year=1979&author=Wunderlich%2CMC)
+    
+7.  M. C. Wunderlich, “Implementing the continued fraction factoring algorithm on parallel machines,” _Mathematics of Computation_ Vol. 44 (1985), 251–260.
+    
+    [Article](https://doi.org/10.1090%2FS0025-5718-1985-0771047-0)  [MATH](http://www.emis.de/MATH-item?0558.10001)  [MathSciNet](http://www.ams.org/mathscinet-getitem?mr=771047)  [Google Scholar](https://scholar.google.com/scholar_lookup?&title=Implementing%20the%20continued%20fraction%20factoring%20algorithm%20on%20parallel%20machines&journal=Mathematics%20of%20Computation&volume=44&pages=251-260&publication_year=1985&author=Wunderlich%2CMC)
+    
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1007/978-1-4684-0310-7_5?format=refman&flavour=references)
+
+Author information
+------------------
+
+### Authors and Affiliations
+
+1.  Department of Mathematics, University of Washington, Seattle, Washington, 98195, USA
+    
+    Neal Koblitz
+    
+
+Rights and permissions
+----------------------
+
+Copyright information
+---------------------
+
+© 1987 Springer-Verlag New York Inc.
+
+About this chapter
+------------------
+
+### Cite this chapter
+
+Koblitz, N. (1987). Primality and Factoring. In: A Course in Number Theory and Cryptography. Graduate Texts in Mathematics, vol 114. Springer, New York, NY. https://doi.org/10.1007/978-1-4684-0310-7\_5
+
+### Download citation
+
+*   [.RIS](https://citation-needed.springer.com/v2/references/10.1007/978-1-4684-0310-7_5?format=refman&flavour=citation "Download this article's citation as a .RIS file")
+*   [.ENW](https://citation-needed.springer.com/v2/references/10.1007/978-1-4684-0310-7_5?format=endnote&flavour=citation "Download this article's citation as a .ENW file")
+*   [.BIB](https://citation-needed.springer.com/v2/references/10.1007/978-1-4684-0310-7_5?format=bibtex&flavour=citation "Download this article's citation as a .BIB file")
+
+*   DOI: https://doi.org/10.1007/978-1-4684-0310-7\_5
+    
+*   Publisher Name: Springer, New York, NY
+    
+*   Print ISBN: 978-1-4684-0312-1
+    
+*   Online ISBN: 978-1-4684-0310-7
+    
+*   eBook Packages: [Springer Book Archive](https://metadata.springernature.com/metadata/books)
+    
+
+### Keywords
+
+_These keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves._
+
+Publish with us
+---------------

@@ -1,0 +1,57 @@
+# David Joyce's English translation of Euclid's proof
+
+Euclid's Elements, Book IX, Proposition 20
+
+===============
+
+The Wayback Machine - http://aleph0.clarku.edu:80/~djoyce/java/elements/bookIX/propIX20.html
+
+[![Image 2: Euclid's Elements](http://aleph0.clarku.edu/~djoyce/java/elements/ee.gif)](http://aleph0.clarku.edu/~djoyce/java/elements/elements.html)
+
+[![Image 3: Book IX](http://aleph0.clarku.edu/~djoyce/java/elements/bookIX/bkIX.gif)](http://aleph0.clarku.edu/~djoyce/java/elements/bookIX/bookIX.html)
+
+Proposition 20
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+_Prime numbers are more than any assigned multitude of prime numbers._
+Let _A, B,_ and _C_ be the assigned prime numbers. 
+I say that there are more prime numbers than _A, B,_ and _C._
+Take the least number _DE_ measured by _A, B,_ and _C._ Add the unit _DF_ to _DE._
+Then _EF_ is either prime or not.
+
+First, let it be prime. Then the prime numbers _A, B, C,_ and _EF_ have been found which are more than _A, B,_ and _C._![Image 4: java applet or image](http://aleph0.clarku.edu/~djoyce/java/elements/bookIX/propIX20.gif)
+Next, let _EF_ not be prime. Therefore it is measured by some prime number. Let it be measured by the prime number _G._[VII.31](http://aleph0.clarku.edu/~djoyce/java/elements/bookVII/propVII31.html)
+I say that _G_ is not the same with any of the numbers _A, B,_ and _C._
+If possible, let it be so.
+
+Now _A, B,_ and _C_ measure _DE,_ therefore _G_ also measures _DE._ But it also measures _EF._ Therefore _G,_ being a number, measures the remainder, the unit _DF,_ which is absurd.
+
+Therefore _G_ is not the same with any one of the numbers _A, B,_ and _C._ And by hypothesis it is prime. Therefore the prime numbers _A, B, C,_ and _G_ have been found which are more than the assigned multitude of _A, B,_ and _C._
+Therefore, _prime numbers are more than any assigned multitude of prime numbers._
+Q.E.D.
+
+### ![Image 5: Guide](http://aleph0.clarku.edu/~djoyce/java/elements/guide.gif)
+
+#### Outline of the proof
+
+ The statement says that there are more than any finite number _n_ of prime numbers. Suppose that _a_ 1, _a_ 2, ..., _a n_ are prime numbers. Euclid, as usual takes an specific small number, _n_=3, of primes to illustrate the general case. Let _m_ be the least common multiple of all of them. (This least common multiple was also considered in proposition [IX.14](http://aleph0.clarku.edu/~djoyce/java/elements/bookIX/propIX14.html). It wasn't noted in the proof of that proposition that the least common multiple of primes is their product, and it isn't noted in this proof, either.) 
+Consider the number _m_+1. If it's prime, then there are at least _n_+1 primes.
+
+So suppose _m_+1 is not prime. Then according to [VII.31](http://aleph0.clarku.edu/~djoyce/java/elements/bookVII/propVII31.html), some prime _g_ divides it. But _g_ cannot be any of the primes _a_ 1, _a_ 2, ..., _a n_ , since they all divide _m_ and do not divide _m_+1. Therefore, there are at least _n_+1 primes.
+
+Thus, there are not a finite number of primes.
+
+* * *
+
+Next proposition: [IX.21](http://aleph0.clarku.edu/~djoyce/java/elements/bookIX/propIX21.html)
+Previous: [IX.19](http://aleph0.clarku.edu/~djoyce/java/elements/bookIX/propIX19.html)
+
+[Book IX introduction](http://aleph0.clarku.edu/~djoyce/java/elements/bookIX/bookIX.html)
+
+* * *
+
+[© 1996, 2002, 2008.](http://aleph0.clarku.edu/~djoyce/java/elements/copyright.html)
+
+[D.E.Joyce](http://aleph0.clarku.edu/~djoyce/)
+
+[Clark University](http://www.clarku.edu/)

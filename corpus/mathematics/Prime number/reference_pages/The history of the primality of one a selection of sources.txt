@@ -1,0 +1,42 @@
+# The history of the primality of one: a selection of sources
+
+The Wayback Machine - https://cs.uwaterloo.ca/journals/JIS/VOL15/Caldwell2/cald6.html
+
+### Chris K. Caldwell, Angela Reddick, and Yeng Xiong
+
+ Department of Mathematics and Statistics
+
+ University of Tennessee at Martin
+
+ Martin, TN 38238
+
+ USA 
+Wilfrid Keller
+
+ Universität Hamburg
+
+ Hamburg
+
+ Germany
+
+**Abstract:**
+
+The way mathematicians have viewed the number one (unity, the monad) has changed throughout the years. Most of the early Greeks did not view one as a number, but rather as the origin, or generator, of number. Around the time of Simon Stevin (1548-1620), one (and zero) were first widely viewed as numbers. This created a period of confusion about whether or not the number one was prime. In this dynamic survey, we collect a cornucopia of sources which deal directly with the "question what is the smallest prime?" The goal is to create a source book for studying the history of the definition of prime, especially as applied to the number one.
+
+* * *
+
+**Full version:[pdf](https://cs.uwaterloo.ca/journals/JIS/VOL15/Caldwell2/cald6.pdf), [dvi](https://cs.uwaterloo.ca/journals/JIS/VOL15/Caldwell2/cald6.dvi), [ps](https://cs.uwaterloo.ca/journals/JIS/VOL15/Caldwell2/cald6.ps), [latex](https://cs.uwaterloo.ca/journals/JIS/VOL15/Caldwell2/cald6.tex)**
+
+* * *
+
+(Concerned with sequences [A000027](http://oeis.org/A000027)[A000040](http://oeis.org/A000040)[A008578](http://oeis.org/A008578).)
+
+* * *
+
+Received September 27 2012; revised version received November 18 2012. Published in _Journal of Integer Sequences_, December 27 2012.
+
+* * *
+
+ Return to [**Journal of Integer Sequences home page**](https://cs.uwaterloo.ca/journals/JIS/)
+
+* * *

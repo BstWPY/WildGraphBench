@@ -1,0 +1,372 @@
+# Coronavirus (COVID-19) Infection Survey, UK: 19 August 2022
+
+1. Main points
+--------------
+
+The following points are for the week ending 8 August 2022 for Wales, Northern Ireland and Scotland, and the week ending 6 August 2022 for England.
+
+*   The percentage of people testing positive for coronavirus (COVID-19) continued to decrease in England, Wales and Scotland; and decreased in Northern Ireland.
+
+*   In England, the estimated number of people testing positive for COVID-19 was 1,432,900 (95% credible interval: 1,339,600 to 1,524,800), equating to 2.63% of the population, or around 1 in 40 people.
+
+*   In Wales, the estimated number of people testing positive for COVID-19 was 72,600 (95% credible interval: 54,800 to 93,000), equating to 2.39% of the population, or around 1 in 40 people.
+
+*   In Northern Ireland, the estimated number of people testing positive for COVID-19 was 36,600 (95% credible interval: 25,100 to 50,200), equating to 2.00% of the population, or 1 in 50 people.
+
+*   In Scotland, the estimated number of people testing positive for COVID-19 was 164,100 (95% credible interval: 137,400 to 193,700), equating to 3.12% of the population, or around 1 in 30 people.
+
+!
+
+We have now moved to a more flexible remote data collection method. Participants can complete the survey online or by telephone, and swab and blood sample kits are sent through the post (or by courier for some participants). Results for the week ending 8 August 2022 for Wales, Northern Ireland and Scotland, and the week ending 6 August 2022 for England are based on both study worker and remote data collection.
+
+### About this bulletin
+
+The positivity rate is the percentage of people who would have tested positive for COVID-19 on a polymerase chain reaction (PCR) test at a point in time. We use current COVID-19 infections to mean testing positive for SARS-CoV-2, with or without having symptoms, on a swab taken from the nose and throat. This is different to the incidence rate, which is a measure of only the new PCR positive cases in a given time period. Data are based on confirmed positive COVID-19 test results from those living in private households, excluding those living in care homes or other communal establishments.
+
+[Early management information](https://www.ons.gov.uk/news/statementsandletters/provisionofearlymanagementinformationbytheonstoinformoperationaldecisionmakingforthepublicgoodduringthecoronaviruspandemic) from the Coronavirus (COVID-19) Infection Survey is made available to government decision-makers to inform their response to COVID-19. Occasionally we may publish figures early if it is considered in the public interest. We will ensure that we pre-announce any ad hoc or early publications as soon as we can. These will include supporting information where possible to aid user understanding. This is consistent with guidance from the [Office for Statistics Regulation (OSR)](https://osr.statisticsauthority.gov.uk/).
+
+The Office for National Statistics (ONS) Coronavirus (COVID-19) Infection Survey has moved from a study worker home visit data collection method to a more flexible approach for participants. We have introduced a questionnaire that can be completed online or by telephone, and swab and blood samples are sent through the post (or by courier for some participants). Further information on what these changes mean and how the survey will continue to be valuable can be found in our recent [blog post: The COVID-19 Infection Survey is changing](https://blog.ons.gov.uk/2022/07/04/the-covid-19-infection-survey-is-changing-what-does-this-mean-for-how-the-uk-monitors-the-virus/).
+
+Early findings from our initial pilot stage of remote data collection suggest that participants are satisfied with the new data collection method, with around 9 out of 10 participants indicating that they were either “satisfied” or “very satisfied”. There were minimal differences between estimates produced from remote data collection methods, compared with data collected by study worker home visits. As a result, data in this release combines data collected from these two methods for time points where both are in use. Further information on the effects of the change in data collection method can be found in our [Quality Report](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/coronaviruscovid19infectionsurveyqualityreportaugust2022).
+
+Some of our outputs were paused throughout July and early August while we assessed results from the new data collection method, and because of reduced sample sizes. While many of our outputs are no longer paused and are included in this week’s release, it is not yet possible to reintroduce our estimates of incidence and sub-regional analysis. Most recent updates for these outputs are available in our [Coronavirus (COVID-19) Infection Survey datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest/relateddata).
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+2. COVID-19 by UK countries
+---------------------------
+
+In the most recent week, the percentage of people testing positive for coronavirus (COVID-19) continued to decrease in England, Wales and Scotland, and decreased in Northern Ireland. The reference week is the week ending 8 August 2022 for Wales, Northern Ireland and Scotland, and the week ending 6 August 2022 for England.
+
+Table 1: Estimated percentage of the population testing positive for coronavirus (COVID-19) by UK country
+
+Official estimates of the percentage of the population testing positive for COVID-19 on nose and throat swabs, UK, 31 July to 8 August 2022| Country | Estimated average % of the population testing positive for COVID-19 | 95% credible interval | Estimated average number of people testing positive for COVID-19 | 95% credible interval | Estimated average ratio of the population testing positive for COVID-19 | 95% credible interval |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Lower | Upper |  | Lower | Upper |  | Lower | Upper |
+| England | 2.63 | 2.46 | 2.80 | 1,432,900 | 1,339,600 | 1,524,800 | 1 in 40 | 1 in 40 | 1 in 35 |
+| Wales | 2.39 | 1.80 | 3.06 | 72,600 | 54,800 | 93,000 | 1 in 40 | 1 in 55 | 1 in 35 |
+| Northern Ireland | 2.00 | 1.37 | 2.74 | 36,600 | 25,100 | 50,200 | 1 in 50 | 1 in 75 | 1 in 35 |
+| Scotland | 3.12 | 2.61 | 3.68 | 164,100 | 137,400 | 193,700 | 1 in 30 | 1 in 40 | 1 in 25 |
+
+#### Download this table Table 1: Estimated percentage of the population testing positive for coronavirus (COVID-19) by UK country
+
+[.xls](https://www.ons.gov.uk/download/table?format=xlsx&uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022/695de705.json "Download as xls")[.csv](https://www.ons.gov.uk/download/table?format=csv&uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022/695de705.json "Download as csv")
+
+#### Figure 1: The percentage of people testing positive for coronavirus (COVID-19) continued to decrease in England, Wales and Scotland, and decreased in Northern Ireland in the most recent week
+
+##### **Estimated percentage of the population testing positive for COVID-19 on nose and throat swabs, UK, 8 August 2021 to 8 August 2022**
+
+Embed code
+Embed this interactive
+
+##### Notes:
+
+1.   Official reported estimates are plotted at a reference point believed to be most representative of the given week.
+
+2.   Official estimates are displayed over a rolling year up to the most recent week. The full time series of our official estimates from 27 April 2020 onwards are available in our[Coronavirus (COVID-19) Infection Survey datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest/relateddata).
+
+3.   There is a higher degree of uncertainty in our estimates for Wales, Northern Ireland and Scotland, compared with England. This is shown by wider[credible intervals.](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#glossary)
+
+4.   The reference week is 2 to 8 August 2022 for Wales, Northern Ireland and Scotland, and 31 July to 6 August 2022 for England.
+
+##### Download the data
+
+[.xlsx](https://www.ons.gov.uk/visualisations/dvc2120/officialestimates/datadownload.xlsx)
+
+### About our estimates
+
+Our headline estimates of the percentage of people testing positive in England, Wales, Northern Ireland and Scotland are the latest official estimates.
+
+Official estimates should be used to understand the positivity rate for a single point in time and are our best and most stable estimates, used in all previous outputs. They are based on [a reference day](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#measuring-the-data) from the statistical model of the trend in rates of positive nose and throat swab results for the latest week. All estimates are subject to uncertainty given that a sample is only part of the wider population.
+
+The [modelled estimates](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#measuring-the-data) are more suited to understanding the recent trend. This is because the model is regularly updated to include new test results and smooths the trend over time. As swabs are not necessarily analysed in date order by the laboratory, we have not yet received test results for all swabs taken on the dates included in this analysis. Therefore, caution should be taken in over-interpreting small movements in the very latest trends. These modelled estimates can be found in our [Coronavirus (COVID-19) Infection Survey datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest/relateddata).
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+3. COVID-19 by UK regions
+-------------------------
+
+In the week ending 6 August 2022, the percentage of people testing positive for coronavirus (COVID-19) decreased in all regions of England except the North East where the trend was uncertain.
+
+#### Figure 2: The percentage of people testing positive for coronavirus (COVID-19) decreased in all English regions, except the North East in the most recent week
+
+##### **Modelled daily percentage of the population testing positive for COVID-19 on nose and throat swabs by region, England, 26 June to 6 August 2022**
+
+Embed code
+Embed this interactive
+
+##### Notes:
+
+1.   [Credible intervals](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#glossary)widen slightly at the end as there is a delay between the swab being taken and reporting of results. We report latest figures based on the reference day for that week because of this greater uncertainty in the most recent days.
+
+2.   There is a higher degree of uncertainty in our estimates for English regions compared with England overall, shown by wider[credible intervals.](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#glossary)
+
+3.   The percentage of people testing positive by region was calculated using a similar modelling approach to the national daily estimates in[Section 2: COVID-19 by UK countries.](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#covid-19-by-uk-countries)
+
+4.   The analysis is conducted over a six-week period, which means some positive cases move in and out of the sample. This causes variability between estimates over time, which is expected given the lower number of positive tests in each region, compared with England as a whole.
+
+5.   We describe trends by comparing the probability that the estimate for the reference day is higher or lower than the estimate for 7 and 14 days prior.
+
+##### Download the data
+
+[.xlsx](https://www.ons.gov.uk/visualisations/dvc2120/region/datadownload.xlsx)
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+4. COVID-19 by age
+------------------
+
+### Age group analysis for England
+
+Our [age group](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#glossary) analysis separates children and young people by school age.
+
+In the week ending 6 August 2022, the percentage of people testing positive for coronavirus (COVID-19) in England continued to decrease in all age groups except those in school Year 12 to age 24 years where the trend was uncertain
+
+#### Figure 3: The percentage of people testing positive for coronavirus (COVID-19) continued to decrease in nearly all age groups in England in the most recent week
+
+##### **Modelled daily percentage of the population testing positive for COVID-19 on nose and throat swabs by age group, England, 26 June to 6 August 2022**
+
+Embed code
+Embed this interactive
+
+##### Notes:
+
+1.   [Credible intervals](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#glossary)widen slightly at the end as there can be a delay between the swab being taken and reporting of results. We report latest figures based on the reference day for that week because of this greater uncertainty in the most recent days.
+
+2.   There is a higher degree of uncertainty in our estimates for each age group in England compared with England overall, and these results are based on smaller sample sizes as we transition to digital data collection. This is shown by wider[credible intervals.](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#glossary)
+
+##### Download the data
+
+[.xlsx](https://www.ons.gov.uk/visualisations/dvc2120/age/datadownload.xlsx)
+
+We are unable to produce the same grouped analysis as presented in Figure 3 for the devolved administrations because of smaller sample sizes within each age group. However, estimates of positivity by single year of age for Wales, Northern Ireland and Scotland using a different model are in the following section and in our [accompanying datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest/relateddata).
+
+### Age analysis by single year of age over time by country
+
+In this section, we present modelled daily estimates of the percentage testing positive for COVID-19 by single year of age over time from 28 June to 5 August 2022 for Wales, Northern Ireland and Scotland, and from 26 June to 3 August 2022 for England.
+
+!
+
+Modelling by single year of age leads to a higher degree of uncertainty in comparison with overall models for each country, as shown by wider [confidence intervals](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#glossary)
+
+The data in Figure 4 suggest that the percentage of people testing positive decreased in most ages in England, Wales, Northern Ireland and Scotland in recent weeks.
+
+#### Figure 4: The percentage testing positive for coronavirus (COVID-19) over time by single year of age
+
+##### **Modelled daily percentage of the population testing positive for COVID-19 on nose and throat swabs by single year of age, UK, 26 June to 5 August 2022**
+
+Embed code
+Embed this interactive
+
+##### Notes:
+
+1.   Estimates use a different method to the modelled daily estimates of the percentage testing positive by age group for England and are not directly comparable.
+
+2.   There are no estimates for those aged 2 years in Wales, Northern Ireland and Scotland on account of limited data for that age in the time period.
+
+3.   This figure presents single year of age estimates for England up until the reference day of 3 August 2022, and for Wales, Northern Ireland and Scotland, up until the reference day of 5 August 2022, as there is a higher level of uncertainty beyond this period. Data for this period, up to 8 August 2022, are available in our[accompanying datasets](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/latest/relateddata).
+
+##### Download the data
+
+[.xlsx](https://www.ons.gov.uk/visualisations/dvc2120/syoa/datadownload.xlsx)
+
+Further information on age for Wales and Northern Ireland is published by their respective statistical agencies.
+
+Please see:
+
+*   [Welsh Government's Coronavirus (COVID-19) Infection Survey findings published in English](https://gov.wales/coronavirus-covid-19-infection-survey-positivity-estimates)
+
+*   [Welsh Government's Coronavirus (COVID-19) Infection Survey findings published in Welsh](https://llyw.cymru/arolwg-heintiadau-coronafeirws-covid-19-amcangyfrifon-positifedd)
+
+*   [Northern Ireland Department for Health's Coronavirus (COVID-19) Infection Survey findings](https://www.health-ni.gov.uk/articles/covid-19-infection-survey)
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+5. Viral load and variants of COVID-19
+--------------------------------------
+
+The World Health Organization (WHO) have defined names for [variants of concern](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/).
+
+Currently, the variants under surveillance in the UK are Omicron, including sub-lineages BA.1, BA.2, BA.3, BA.4 and BA.5.
+
+The cycle threshold (Ct) value reflects the quantity of virus (also known as viral load) found in a swab test. A lower Ct value indicates a higher viral load. The latest Ct values of coronavirus (COVID-19) positive tests, as well as analysis of the genetic lineages of COVID-19 seen in the samples we sequence, are provided in our [Coronavirus (COVID-19) Infection Survey: technical dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/covid19infectionsurveytechnicaldata).
+
+Since the end of June 2022, the majority of COVID-19 infections in the UK have been Omicron variants BA.4 or BA.5, with BA.5 comprising 85.2% and BA.4 comprising 13.0% of all sequenced COVID-19 infections in the week ending 31 July 2022.
+
+We last published our main variant analysis in our [Coronavirus (COVID-19) Infection Survey, UK: 8 July 2022 bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/8july2022). We will continue to monitor infections by variant and will reintroduce analysis by gene pattern when considered helpful. More information on how we measure variants from positive tests on the survey can be found in our [Understanding COVID-19 variants blog](https://blog.ons.gov.uk/2021/05/28/understanding-covid-19-variants-what-can-the-coronavirus-infection-survey-tell-us) and in our [Coronavirus (COVID-19) Infection Survey methods article](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/covid19infectionsurveypilotmethodsandfurtherinformation).
+
+The sequencing is produced by the Wellcome Trust Sanger Institute and analysis is produced by research partners at the University of Oxford. Of particular note are Dr Katrina Lythgoe, Dr Tanya Golubchik and Dr Helen Fryer. Genome sequencing is funded by the COVID-19 Genomics UK (COG-UK) consortium. COG-UK is supported by funding from the Medical Research Council (MRC) part of UK Research and Innovation (UKRI), the National Institute of Health Research (NIHR), and Genome Research Limited operating as the Wellcome Sanger Institute.
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+6. Test sensitivity and specificity
+-----------------------------------
+
+The estimates provided in Sections 2 to 4 are for the percentage of the private-residential population testing positive for coronavirus (COVID-19), otherwise known as the positivity rate. We do not report the prevalence rate. To calculate the prevalence rate, we would need an accurate understanding of the swab test's sensitivity (true-positive rate) and specificity (true-negative rate).
+
+While we do not know the true sensitivity and specificity of the test, our data and related studies provide an indication of what these are likely to be. In particular, the data suggest that the false-positive rate is very low - under 0.005%. We do not know the sensitivity of the swab test. However, other studies suggest that sensitivity (the rate of true-positive test results) may be somewhere between 85% and 98%.
+
+You can find more information on sensitivity and specificity in our[Coronavirus (COVID-19) Infection Survey methods article](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/covid19infectionsurveypilotmethodsandfurtherinformation#test-sensitivity-and-specificity)and our[blog that explains why we trust the data from the Coronavirus (COVID-19) Infection Survey](https://blog.ons.gov.uk/2021/04/09/accuracy-and-confidence-why-we-trust-the-data-from-the-covid-19-infection-survey/). You can find more information on the data suggesting that our test's false-positive rate is very low in a[paper written by academic partners](https://www.medrxiv.org/content/10.1101/2020.10.25.20219048v2)at the University of Oxford.
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+7. Coronavirus (COVID-19) Infection Survey data
+-----------------------------------------------
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+8. Collaboration
+----------------
+
+![Image 1: Logos for London School of Hygiene and Tropical Medicine and Public Health England](https://www.ons.gov.uk/resource?uri=/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveyantibodyandvaccinationdatafortheuk/27october2021/2390a4a6.png)
+
+The Coronavirus (COVID-19) Infection Survey analysis was produced by the Office for National Statistics (ONS) in collaboration with our research partners at the University of Oxford, the University of Manchester, UK Health Security Agency (UK HSA) and Wellcome Trust. Of particular note are:
+
+*   Sarah Walker - University of Oxford, Nuffield Department for Medicine: Professor of Medical Statistics and Epidemiology and Study Chief Investigator
+*   Koen Pouwels - University of Oxford, Health Economics Research Centre, Nuffield Department of Population Health: Senior Researcher in Biostatistics and Health Economics
+*   Thomas House - University of Manchester, Department of Mathematics: Reader in Mathematical Statistics
+*   Anna Seale - University of Warwick, Warwick Medical School: Professor of Public Health; UK Health Security Agency, Data, Analytics and Surveillance: Scientific Advisor
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+9. Glossary
+-----------
+
+### Age groups for children and young people
+
+*   "Aged 2 years to school Year 6" includes children in primary school and below
+
+*   "school Year 7 to school Year 11" includes children in secondary school
+
+*   "school Year 12 to those aged 24 years" includes young adults who may be in further or higher education
+
+Those aged 11 to 12 years and those aged 16 to 17 years have been split between different age categories depending on whether their birthday is before or after 1 September.
+
+### Confidence interval
+
+A confidence interval gives an indication of the degree of uncertainty of an estimate, showing the precision of a sample estimate. The 95% confidence intervals are calculated so that if we repeated the study many times, 95% of the time the true unknown value would lie between the lower and upper confidence limits. A wider interval indicates more uncertainty in the estimate. Overlapping confidence intervals indicate that there may not be a true difference between two estimates. For more information, see our methodology page on[statistical uncertainty](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit).
+
+### Credible interval
+
+A credible interval gives an indication of the uncertainty of an estimate from data analysis. The 95% credible intervals are calculated so that there is a 95% probability of the true value lying in the interval. A wider interval indicates more uncertainty in the estimate. Overlapping credible intervals indicate that there may not be a true difference between two estimates. For more information, see our methodology page on[statistical uncertainty](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit).
+
+### Cycle threshold (Ct) values
+
+The strength of a positive coronavirus (COVID-19) test is determined by how quickly the virus is detected, measured by a cycle threshold (Ct) value. The lower the Ct value, the higher the viral load and stronger the positive test. Positive results with a high Ct value can be seen in the early stages of infection when virus levels are rising, or late in the infection, when the risk of transmission is low.
+
+### False-positives and false-negatives
+
+A false-positive result occurs when the tests suggest a person has COVID-19 when in fact they do not. By contrast, a false-negative result occurs when the tests suggest a person does not have COVID-19 when in fact they do. For more information on false-positives and false-negatives, see[Section 11: Strengths and limitations.](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#strengths-and-limitations)
+
+### Incidence rate
+
+The incidence rate is a measure of the estimated number of new polymerase chain reaction (PCR)-positive cases per day per 10,000 people at a given point in time. It is different to positivity, which is an estimate of all current PCR positive cases at a point in time, regardless of whether the infection is new or existing.
+
+Embed code
+Embed this interactive
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+10. Measuring the data
+----------------------
+
+### Weighted estimates
+
+In earlier publications we published weighted estimates for non-overlapping 14-day periods. These were additional to our modelled estimates, which are updated more regularly as test results are received and provide the best measure of trends. The weighted estimates were last updated in[our publication on 13 May 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/13may2022). For more information on our methods and quality surrounding the estimates please see[our Coronavirus (COVID-19) Infection Survey methods article](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/covid19infectionsurveypilotmethodsandfurtherinformation)and[our Quality and Methodology Information (QMI) report](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/coronaviruscovid19infectionsurveyqmi).
+
+### Reference dates
+
+We aim to provide the estimates of positivity rate (the percentage of those who test positive) and incidence that are most timely and most representative of each week. We decide the most recent week we can report on based on the availability of test results for visits that have already happened, accounting for the fact that swabs have to be couriered to the labs, tested and results returned. On most occasions, the reference dates align perfectly, but sometimes this is not feasible. This week, the reference week is 2 to 8 August 2022 for Wales, Northern Ireland and Scotland, and 31 July to 6 August 2022 for England.
+
+Within the most recent week, we provide an official estimate for positivity rate based on a reference point from the modelled trends. For positivity rates, we can include all swab test results, even from the most recent visits. Therefore, although we are still expecting further swab test results from the labs, there were sufficient data for the official estimate for infection to be based on a reference point after the start of the reference week. To improve stability in our modelling while maintaining relative timeliness of our estimates, we are reporting our official estimates based on the midpoint of the reference week. This week, the reference day for positivity rates is Friday 5 August 2022 for Wales, Northern Ireland and Scotland, and Wednesday 3 August 2022 for England.
+
+### Response rates
+
+Enrolment for this wave of recruitment for the Coronavirus (COVID-19) Infection Survey ceased on 31 January 2022. Response rates for England, Wales, Northern Ireland and Scotland can be regarded as final response rates to the survey. Response rates for each nation are found in our[Coronavirus (COVID-19) Infection Survey: technical dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/covid19infectionsurveytechnicaldata). We provide response rates separately for the different sampling phases of the study. Additional information on response rates can be found in our[Coronavirus (COVID-19) Infection Survey methods article](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/covid19infectionsurveypilotmethodsandfurtherinformation#study-design-sampling).
+
+### Inconclusive and failed tests
+
+Our estimates are based on confirmed positive test results. The remaining swabs are either negative and included in analysis, or inconclusive and not included in analysis. Some swabs are test failures, which also are not included in analysis. The impact of excluding inconclusive results from our estimates of positive infections is likely to be very small and unlikely to affect the trend.
+
+### Survey fieldwork
+
+Survey fieldwork for the pilot study began in England on 26 April 2020. In Wales, fieldwork began on 29 June 2020, in Northern Ireland fieldwork began on 26 July 2020 and in Scotland fieldwork began on 21 September 2020.
+
+### Other Coronavirus Infection Survey (CIS) analysis and studies
+
+This study provides the main measure of coronavirus infection in the UK. Other sources have provided data during previous stages of the pandemic. For information on other studies see[Section 4: Quality characteristics of the Coronavirus (COVID-19) Infection Survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/coronaviruscovid19infectionsurveyqmi#quality-characteristics-of-the-coronavirus-covid-19-infection-survey)(coherence and comparability) of[the Coronavirus (COVID-19) Infection Survey QMI](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/coronaviruscovid19infectionsurveyqmi), revised 16 July 2021.
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+11. Strengths and limitations
+-----------------------------
+
+The data in this bulletin can be used for:
+
+*   estimating the number of positive cases among the population living in private households, including cases where people do not report having any symptoms
+
+*   identifying differences in numbers of positive cases between UK countries and different regions in England
+
+*   estimating the number of new cases and change in positive cases over time
+
+The data cannot be used for:
+
+*   measuring the number of cases and infections in care homes, hospitals and/or other communal establishments
+
+*   providing information about recovery time of those infected
+
+The results in this bulletin are:
+
+*   based on infections occurring in private households
+
+*   subject to uncertainty;a[credible or confidence interval](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#glossary)gives an indication of the uncertainty of an estimate from data analysis
+
+*   for daily modelled estimates, provisional and subject to revision
+
+These statistics have been produced quickly in response to developing world events. The[Office for Statistics Regulation (OSR)](https://osr.statisticsauthority.gov.uk/), on behalf of the UK Statistics Authority, has reviewed them on[14 May 2020](https://osr.statisticsauthority.gov.uk/correspondence/review-of-coronavirus-covid-19-infection-survey/)and[17 March 2021](https://osr.statisticsauthority.gov.uk/correspondence/ed-humpherson-to-iain-bell-ons-covid-19-infection-survey-statistics/)against several important aspects of the[Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/the-code/)and regards them as consistent with the Code's pillars of[trustworthiness](https://code.statisticsauthority.gov.uk/the-code/trustworthiness/),[quality](https://code.statisticsauthority.gov.uk/the-code/quality/)and[value](https://code.statisticsauthority.gov.uk/the-code/value/).
+
+The estimates presented in this bulletin contain[uncertainty](https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/uncertaintyandhowwemeasureit). There are many sources of uncertainty, including uncertainty in the test, in the estimates and in the quality of data collected in the questionnaire. Information on the main sources of uncertainty is presented in[our Coronavirus (COVID-19) Infection Survey Quality and Methodology Information report](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/coronaviruscovid19infectionsurveyqmi#quality-characteristics-of-the-coronavirus-covid-19-infection-survey),[our methodology article](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/covid19infectionsurveypilotmethodsandfurtherinformation), and[our blog that explains why we trust the data from the Coronavirus (COVID-19) Infection Survey](https://blog.ons.gov.uk/2021/04/09/accuracy-and-confidence-why-we-trust-the-data-from-the-covid-19-infection-survey/).
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)
+12. Related links
+-----------------
+
+[Coronavirus (COVID-19) Infection Survey, Quality Report: August 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/methodologies/coronaviruscovid19infectionsurveyqualityreportaugust2022)
+
+Article | Released 18 August 2022 
+
+This quality report presents information on the Coronavirus (COVID-19) Infection Survey data collection method change from study worker home visit to remote data collection.
+
+[Coronavirus (COVID-19) Infection Survey: characteristics of people testing positive for COVID-19 in countries of the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveycharacteristicsofpeopletestingpositiveforcovid19uk/latest)
+
+Bulletin | Updated fortnightly 
+
+The characteristics of people testing positive for coronavirus (COVID-19) from the COVID-19 Infection Survey. This survey is being delivered in partnership with the University of Oxford, the University of Manchester, UK Health Security Agency and Wellcome Trust.
+
+[Coronavirus (COVID-19) Infection Survey: antibody and vaccination data for the UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveyantibodyandvaccinationdatafortheuk/latest)
+
+Bulletin | Updated fortnightly 
+
+Antibody and vaccination data by UK country and English regions from the Coronavirus (COVID-19) Infection Survey. This survey is being delivered in partnership with the University of Oxford, University of Manchester, UK Health Security Agency and Wellcome Trust.
+
+[Coronavirus (COVID-19) latest insights](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19/latestinsights)
+
+Interactive tool | Updated as and when data become available 
+
+The latest data and trends about the coronavirus (COVID-19) pandemic from the Office for National Statistics (ONS) and other official sources.
+
+[Deaths registered weekly in England and Wales, provisional](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/latest)
+
+Bulletin | Updated weekly 
+
+Provisional counts of the number of deaths registered in England and Wales, including deaths involving COVID-19, by age, sex and region, in the latest weeks for which data are available.
+
+[Coronavirus (COVID-19) Infection Survey technical article: Analysis of characteristics associated with third vaccination uptake](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19infectionsurveytechnicalarticlecharacteristicsassociatedwiththirdvaccinationuptake/21april2022)
+
+Technical article | Released 21 April 2022 
+
+Analysis of populations in the UK by likelihood of having received a third vaccination against COVID-19 using the Coronavirus (COVID-19) Infection Survey. This survey is being delivered in partnership with University of Oxford, University of Manchester, UK Health Security Agency and Wellcome Trust.
+
+[Coronavirus (COVID-19) Infection Survey technical article: Cumulative incidence of the number of people who have tested positive for COVID-19, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19infectionsurveytechnicalarticlecumulativeincidenceofthenumberofpeoplewhohavetestedpositiveforcovid19uk/latest)
+
+Technical article | Released 22 April 2022 
+
+Analysis of the number of people in the UK who have tested positive for COVID-19 using the Coronavirus (COVID-19) Infection Survey. This survey is being delivered in partnership with University of Oxford, University of Manchester, UK Health Security Agency and Wellcome Trust.
+
+[The relationship between COVID-19 infections and antibodies: What do the data show?](https://blog.ons.gov.uk/2022/04/06/the-relationship-between-covid-19-infections-and-antibodies-what-do-the-data-show/)
+
+Blog article | Released 6 April 2022 
+
+Information on how COVID-19 infections have recently reached their highest levels across many parts of the UK while antibody levels are high.
+
+[Back to table of contents](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/19august2022#toc)

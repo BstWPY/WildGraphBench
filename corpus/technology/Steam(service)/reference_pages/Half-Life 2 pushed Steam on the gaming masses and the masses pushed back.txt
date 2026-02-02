@@ -1,0 +1,113 @@
+# Half-Life 2 pushed Steam on the gaming masses… and the masses pushed back
+
+Half-Life 2 Week
+
+Back in 2004, many players saw Valve’s new platform as nothing but “fancy DRM.”
+
+This article is part of our 20th anniversary of _Half-Life 2_ series.  Credit: Aurich Lawson
+
+_It’s Half-Life 2 week at Ars Technica! This Saturday, November 16, is the 20th anniversary of the release of Half-Life 2—a game of historical importance for the artistic medium and technology of computer games. Each day leading up through the 16th, we’ll be running a new article looking back at the game and its impact._
+
+When millions of eager gamers first installed _Half-Life 2_ 20 years ago, many, if not most, of them found they needed to install another piece of software alongside it. Few at the time could imagine that piece of companion software–with the pithy name Steam–would eventually become the key distribution point and social networking center for the entire PC gaming ecosystem, making the idea of physical PC games an anachronism in the process.
+
+While _Half-Life 2_ wasn’t the first Valve game released on Steam, it was the first high-profile title to require the platform, even for players installing the game from physical retail discs. That requirement gave Valve access to millions of gamers with new Steam accounts and helped the company bypass traditional retail publishers of the day by directly marketing and selling its games (and, eventually, games from other developers). But 2004-era Steam also faced a vociferous backlash from players who saw the software as a piece of nuisance DRM (digital rights management) that did little to justify its existence at the time.
+
+Free (from Vivendi) at last
+---------------------------
+
+Years before _Half-Life 2_’s release, Valve revealed Steam to the world at the 2002 Game Developers Conference, announcing “a broadband business platform for direct software delivery and content management” in [a press release](https://www.bluesnews.com/a/337/valve-unveils-steam-at-2002-game-developer-s-conference). Valve’s vision for a new suite of developer tools for content publishing, billing, version control, and anti-piracy was all present and stressed in that initial announcement.
+
+Perhaps the largest goal for Steam, though, was removing the middlemen of retail game distribution and giving more direct control to game developers, including Valve. “By eliminating the overhead of physical goods distribution, developers will be able to leverage the efficiency of broadband to improve customer service and increase operating margins,” Valve wrote in its 2002 announcement.
+
+![Image 1: Gabe Newell standing behind a podium looking to the side](https://cdn.arstechnica.net/wp-content/uploads/2024/11/newellgdc.jpg)
+
+Valve’s Gabe Newell on stage unveiling Steam at GDC 2002.  Credit: [4Gamer](https://www.4gamer.net/specials/gdc2002_4.html)
+
+On stage at GDC, Valve founder Gabe Newell took things even further, positioning himself as “a new-age Robin Hood who wanted to take from the greedy publishers what independent game developers deserved: a larger piece of the revenue pie,” as [Gamespot’s Final Days of _Half-Life 2_ feature](https://www.gamespot.com/articles/the-final-hours-of-half-life-2/1100-6112889/) summed it up. Cutting out the publishers and retailers, Newell said, could be the difference between a developer taking home $7 or $30 on a full-price game (which [generally](https://arstechnica.com/gaming/2013/06/why-retail-console-games-have-never-been-cheaper-historically/) ran [$50 at the time](https://money.cnn.com/2004/09/29/commentary/game_over/column_gaming/)).
+
+Valve seemingly had plenty of other reasons to want to free itself from the need for its publisher in particular. In August 2002—just a few months after the public announcement of Steam—Valve would bring a lawsuit against publisher Sierra (and parent company Vivendi Universal Games, or VUG). The complaint focused on delayed royalty payments and somewhat obscure points about the rights to license Valve’s games in cyber cafes.
+
+But in the years leading up to _Half-Life 2_’s late 2004 release, VUG would find plenty of reason to be mad at Valve as well. In a series of counterclaims in response to Valve’s suit, the publisher argued that Steam itself was undercutting VUG by “allow[ing] consumers who would normally purchase games from Sierra/VUG at retail to purchase those products online directly from Valve.”
+
+[In court documents](https://www.gamespot.com/articles/valve-vs-vivendi-universal-dogfight-heats-up-in-us-district-court/1100-6107712/), VUG allowed that it had granted Valve “certain rights to the online distribution of games” in a 2001 renegotiation. But VUG also argued that Valve had breached “the covenant of good faith and fair dealing” by hiding its plans for Steam during those negotiations. This amounted to “deliberate concealment of the extent to which Valve intended through the parties’ negotiations to appropriate the substantial value of the distribution rights to Valve, rather than to Sierra and VUG,” the publisher argued.
+
+![Image 2: Half-Life 2 video game box art with an image of Gordon Freeman wearing glasses in front of a lambda symbol, with Sierra Entertainment, Valve, and PC Gamer Editors' Choice logos at the bottom](https://cdn.arstechnica.net/wp-content/uploads/2024/11/02_front-640x915.jpg)
+
+Valve could not wait to get that Sierra logo off its _Half-Life 2_ packaging.
+
+By the time of _Half-Life 2_’s release, the legal acrimony was spilling into passive aggressive public sniping as well. As retail copies of the game started hitting some store shelves in mid-September 2004, Valve said that Vivendi was barring it from activating those copies on Steam. “If you have purchased a copy of _Half-Life 2_, we are sorry you are still waiting to play,” the developer [wrote on November 13, 2004](https://web.archive.org/web/20041209002041/http://www.steampowered.com/index.php?area=news&archive=yes&id=344). “This is not Valve’s choice. Vivendi is insisting that the game has not yet been released, and has threatened that Valve would be in violation of its contract if we activate the _Half-Life 2_ Steam authentication servers at this time.”
+
+While Vivendi may not have realized the “substantial value” in digital distribution that it was giving away in its 2001 negotiations, Valve seemed to know what it was doing in securing those legal rights for _Half-Life 2_. By April 2005, after a number of court decisions that went against Vivendi, the two parties [came to a settlement](https://arstechnica.com/uncategorized/2005/05/4868-2/) that officially cut off Vivendi’s retail publishing deal and once again gave Valve full control over its games. And while Valve’s own distribution of physical games would continue for a few more years (through new partner Electronic Arts on the console side), some saw the long-term writing on the wall.
+
+“With Vivendi out of the picture, what is Valve’s plan?” Ars Editor-in-Chief Ken Fisher [wrote after the 2005 settlement](https://arstechnica.com/uncategorized/2005/05/4868-2/). “They could, of course, take over retail box distribution themselves, or license it out to someone else. However, another, less enticing option remains: all future sales could require the use of Steam, Valve’s online game distribution system.”
+
+Broadband ready
+---------------
+
+Valve’s 2002 announcement of Steam cited “the rapid proliferation of broadband connectivity throughout the world” as a key part of its inspiration for the service. And the critical mass of broadband customers that was developing in the US at the time was definitely key to making Steam plausible in the first place.
+
+While only a little over half of home Internet users had a DSL or cable modem connection by 2004, Valve [cited a 2002 survey](http://valve.speakeasy.net/survey/) that showed over 75 percent of its players had a connection speed greater than 56K dial-up. Those broadband users would only have to spend an hour or two downloading the few GB worth of preloaded data necessary for _Half-Life 2_, compared to practically an entire day needed for a dial-up download.
+
+![Image 3: A copy of Half-Life 2 for PC is placed on a Sony laptop running Windows XP, with the Steam installer open on the screen](https://cdn.arstechnica.net/wp-content/uploads/2024/11/tzoum2ozdbl91-1024x776.jpg)
+
+Remember DVD ROMs?  Credit: [Reddit](https://www.reddit.com/r/HalfLife/comments/x3izty/installing_half_life_2_the_way_gabe_intended_in/)
+
+Those who didn’t want to bother with all that downloading could buy the boxed retail version and install that same data from multiple CDs, of course. And plenty of players still did in those days—Vivendi [reported 1.7 million retail sales](https://www.gamesindustry.biz/half-life-2-sells-17-million-units-through-retail) for _Half-Life 2_ in its first two months, and Valve reported [6.5 million boxed retail copies had sold by 2008](https://www.gamedeveloper.com/game-platforms/analysis-valve-s-lifetime-retail-sales-for-i-half-life-counter-strike-i-franchises). That’s a substantial slice of the [Steam Spy-estimated 10 million total PC players the game had attracted by 2017](https://wholesgame.com/news/half-life-2-sales-reach-10-million-pc/) and suggests that digital downloads were still a relative minority of the market at the time.
+
+But Steam wasn’t just necessary to _download_ a copy of _Half-Life 2_. Those who purchased a boxed retail copy quickly found it was useless unless they installed Steam and registered the Steam key included in the box with their account. That led many early customers to see Steam not as a bold new way to deliver games directly to consumers but as an intrusive and unwelcome form of DRM.
+
+What’s in it for me?
+--------------------
+
+It’s important to remember that, back in 2004, Steam didn’t have almost any of the fancy bells and whistles it does today. Features like achievements, user reviews, voice chat, stat tracking, the marketplace, or even the ability to buy games from non-Valve developers were still years away in 2004.
+
+In [interviews at the time](https://www.eurogamer.net/news220304half-life2), Valve touted Steam’s ability to automatically download and apply important patches after a game’s release, saving the need to hunt them down and install them manually. Despite that small benefit, though, many players initially saw Steam as pointless at best and an actively frustrating RAM hog at worst.
+
+![Image 4: A screenshot of the Steam client on a Windows computer, showing the Friends list and a list of games](https://cdn.arstechnica.net/wp-content/uploads/2024/11/steamgdc.jpg)
+
+A prototype of the early Steam interface, as presented at GDC 2002.  Credit: [4Gamer](https://www.4gamer.net/specials/gdc2002_4.html)
+
+The problems started well before launch day, with many users [reported overloaded servers](https://arstechnica.com/civis/threads/ill-be-damned-hl2-is-preloading.493802/) when trying to pre-load the game. While most of those users were eventually able to get the content downloaded and ready to play immediately when the game launched (another Steam feature that justified the platform’s early existence), the process wasn’t exactly smooth.
+
+“Why on earth is there no queue, or some other system that lets me ‘get in line’ so I do NOT have to keep clicking the damn button to see if Steam is ready to pre-load _HL2_ for me?” Ars commenter hansmuff [wrote in August 2004](https://arstechnica.com/civis/threads/ill-be-damned-hl2-is-preloading.493802/page-2#post-9973786), highlighting some of Steam’s early rough edges.
+
+Problems continued on the launch day, when Valve [had to publicly admit](https://web.archive.org/web/20041209003908/http://www.steampowered.com/index.php?area=news&archive=yes&id=346) to “a number of reports from people experiencing delays with _Half-Life 2_ authentication.” For players who had been waiting years for the sequel to _Half-Life_, being forced to wait even a few more hours for those authentication problems to be resolved were left with the worst first impressions of Steam.
+
+![Image 5: Website for Valve's Steam store in the mid-2000s](https://cdn.arstechnica.net/wp-content/uploads/2024/11/steam-2004.png)
+
+2004-era Steam bore very little resemblance to the platform it would become in decades hence.  Credit: [Web Design Museum](https://www.webdesignmuseum.org/gallery/steam-2004)
+
+“I’m sure that I’d love [_Half-Life 2_] if I could play the damn thing,” user HeXp£Øi± raged in a Rage3D message board thread appropriately titled [_Half-Life 2_ release … What a DISASTER!!](https://web.archive.org/web/20130315134611/https://www.rage3d.com/board/showthread.php?t=33791921) “Tried registering with steam to communicate on the forums about these issues and it won’t even let me activate my account because the server is too busy. This sucks beyond all reason.”
+
+And in the weeks following the game’s launch, many players were still confused about what _Half-Life 2_’s Steam requirement meant for the ability to play away from an Internet connection. A [December 10, 2004 thread on Ars Technica’s forums](https://arstechnica.com/civis/threads/half-life-2-single-player-no-internet.446819/), for instance, included plenty of conflicting advice on whether a user would be able to install and/or play the game without Internet access.
+
+Whose game is it, anyway?
+-------------------------
+
+Even among those who understood and tolerated the need for Steam’s one-time online check-in during installation, there were worries about what the transition to Steam meant for future access to their games. “What happens if Steam fails?” one NeoGAF forum user Teguman [wrote](https://www.neogaf.com/threads/half-life-2-steam-or-retail.22886/) at the time. “What if you want to delve into [_Half-Life 2_] single-player 10 years from now but can’t since Steam isn’t around or offers [_Half-Life 2_] as a download?”
+
+While worries about Steam’s failure didn’t come to pass, many users worried about what digital distribution meant for the long-term ownership and/or resale of their games. “At this time, you can’t even deregister or transfer a CD key from the previous game. I wouldn’t count on being able to sell/transfer Steam purchased content, ever,” Ars user IceStorm presciently [wrote at the time](https://arstechnica.com/civis/threads/half-life-2-on-sale.459105/page-5)
+
+At the height of Steam’s early _Half-Life 2_ authentication problems, a few members of the Hard[OCP] forums [made a half-hearted effort to complain to the FTC](https://hardforum.com/threads/angry-about-steam-and-not-getting-what-you-paid-for.833321/) about what they saw as a violation of their rights as consumers.
+
+“You paid for a piece of software. Can you play it? You own it, but it’s still encrypted because of steam? I’m quite sure the FTC will not look happily upon a sudden influx of complaints because we paid for software and *gasp* actually want our product too,” forum user Tawnos wrote.
+
+![Image 6: Valve's announcement in Steam about the game Half-Life 2, and that it Is Gold](https://cdn.arstechnica.net/wp-content/uploads/2024/11/hl2gold.png)
+
+“Be ready to play the moment it’s made available in stores”… if our authentication servers are working, that is.  Credit: [Reddit / Valve](https://www.reddit.com/r/HalfLife/comments/u6m4vv/november_4th_2004_just_a_slow_steam_news_day/)
+
+For years after _Half-Life 2_’s launch, these kinds of concerns led many outspoken gamers to avoid the service as much as possible. “I hated Steam for the longest time,” Reddit user Renamis [recalled last year](https://www.reddit.com/r/Steam/comments/16ksamg/comment/k0y3s2t/). “Actually avoided it for as long as I could! If I needed Steam to play I wouldn’t buy it. I always made sure the purchase had a physical disk and no Steam code. … It was pretty much fancy DRM in the day.”
+
+Still, there were a few in and around the industry that quickly appreciated early on what “box-less distribution” would mean for the PC gaming industry at large. “I bought [_Half-Life 2_] via Steam when it came out, and it simply worked,” gaming researcher [Jesper Juul wrote](https://www.jesperjuul.net/ludologist/2004/11/27/half-life-2-the-good-and-the-bad/) at the time. “I don’t know what cut Valve eventually gets from this, but I prefer paying the developer to paying the truck drivers and retailers who added nothing to the game. If Valve begin[s] using Steam for selling other developer’s games, things could be great. But it’s still a problem that you need a physical box to give a Christmas present.”
+
+Today, as we look back from the Steam-ified PC gaming world that _Half-Life 2_ helped shepherd into existence, it’s worth remembering the mental adjustment that Steam forced many players to go through, even for Valve fans who accepted the coming new world order. “Not having the physical media makes me kinda nervous, but I never even looked at the _Half-Life_ manual… and I haven’t touched the CD since Steam came out,” Ars user technophile [wrote at the time](https://arstechnica.com/civis/threads/ill-be-damned-hl2-is-preloading.493802/#post-9973771). “So I may give Steam a try [for _Half-Life 2_].”
+
+“The CD-Key is going on a piece of paper in my fire safe though, you bet your ass.”
+
+[![Image 7: Photo of Kyle Orland](https://cdn.arstechnica.net/wp-content/uploads/2016/05/k.orland-13.jpg)](https://arstechnica.com/author/kyle-orland/)
+
+Kyle Orland has been the Senior Gaming Editor at Ars Technica since 2012, writing primarily about the business, tech, and culture behind video games. He has journalism and computer science degrees from University of Maryland. He once [wrote a whole book about _Minesweeper_](https://bossfightbooks.com/collections/books/products/minesweeper-by-kyle-orland).
+
+[175 Comments](https://arstechnica.com/gaming/2024/11/how-half-life-2-helped-sell-steam-to-a-skeptical-pc-gaming-market/#comments "175 comments")
+
+1.   [![Image 8: Listing image for first story in Most Read: Netflix quietly drops support for casting to most TVs](https://cdn.arstechnica.net/wp-content/uploads/2024/04/netflix-screen-768x432.jpg)](https://arstechnica.com/gadgets/2025/12/netflix-quietly-drops-support-for-casting-to-most-tvs/)

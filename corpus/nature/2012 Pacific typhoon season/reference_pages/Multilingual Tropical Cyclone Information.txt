@@ -1,0 +1,50 @@
+# Multilingual Tropical Cyclone Information
+
+Japan Meteorological Agency | Tropical Cyclone Information
+
+===============
+
+![Image 2: Japan Meteorological Agency](https://www.data.jma.go.jp/multi/images/common/logo.gif)
+================================================================================================
+
+Select Language
+
+Tropical Cyclone Information
+
+*   [Home](https://www.data.jma.go.jp/multi/index.html?lang=en)
+*   [Weather warning / advisory](https://www.data.jma.go.jp/multi/warn/index.html?lang=en)
+*   [Weather forecast](https://www.data.jma.go.jp/multi/yoho/index.html?lang=en)
+*   [Tropical Cyclone Information](https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en)
+*   [High-resolution Precipitation Nowcasts](https://www.jma.go.jp/bosai/en_nowc/#elements:hrpn)
+*   [Analysis & Forecast Of Precipitation](https://www.jma.go.jp/bosai/en_kaikotan/)
+*   [Real-time Risk Map : Landslide](https://www.jma.go.jp/bosai/en_risk/#elements:land)
+*   [Real-time Risk Map : Inundation](https://www.jma.go.jp/bosai/en_risk/#elements:inund)
+*   [Real-time Risk Map : Flood](https://www.jma.go.jp/bosai/en_risk/#elements:flood)
+*   [Tsunami warning / advisory](https://www.data.jma.go.jp/multi/tsunami/index.html?lang=en)
+*   [Earthquake information](https://www.data.jma.go.jp/multi/quake/index.html?lang=en)
+*   [Volcanic warning / forecast](https://www.data.jma.go.jp/multi/volcano/index.html?lang=en)
+
+*   [Home](https://www.data.jma.go.jp/multi/index.html?lang=en)
+*   Tropical Cyclone Information
+
+Tropical Cyclone Information
+============================
+
+| Name | Analysis |
+| --- | --- |
+| Date and time | Scale | Intensity/Category | Central pressure | Maximum wind speed |
+
+[Scale and intensity of the tropical cyclone](https://www.data.jma.go.jp/multi/cyclone/cyclone_caplink.html?lang=en)
+
+| Units: | 1 kt (knot) = 1.852 km/h = 0.5144 m/s |
+| --- |
+
+No Announcement
+
+[Rainfall intensity scale](https://www.data.jma.go.jp/multi/cyclone/cyclone_rain_advisory.html?lang=en)
+
+[Wind force scale](https://www.data.jma.go.jp/multi/cyclone/cyclone_wind_advisory.html?lang=en)
+
+[topへ](https://www.data.jma.go.jp/multi/cyclone/index.html?lang=en#top)
+
+Japan Meteorological Agency : 3-6-9 Toranomon, Minato City, Tokyo 105-8431, Japan

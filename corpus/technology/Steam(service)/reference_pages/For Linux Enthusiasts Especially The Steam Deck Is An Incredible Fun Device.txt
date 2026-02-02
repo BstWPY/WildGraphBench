@@ -1,0 +1,37 @@
+# For Linux Enthusiasts Especially, The Steam Deck Is An Incredible & Fun Device
+
+The Wayback Machine - https://www.phoronix.com/scan.php?page=article&item=steam-deck-steamos-linux
+
+For Linux Enthusiasts Especially, The Steam Deck Is An Incredible & Fun Device
+
+[![Image 1: A person is holding a Steam Deck gaming device that displays the menu screen, which shows the games Dirt Rally 2.0, F1, and Tomb Raider](https://www.phoronix.net/image.php?id=steam-deck-steamos-linux&image=steam_deck_0_med)](https://www.phoronix.com/image-viewer.php?id=steam-deck-steamos-linux&image=steam_deck_0_lrg)
+
+Over the past nearly 18 years of running Phoronix, I have come across many interesting Linux-based products from [Linux embedded in motherboards for instant-on use](https://www.phoronix.com/vr.php?view=11186) to the [BlackDog USB port pen drive Linux servers](https://www.phoronix.com/scan.php?page=article&item=370&num=1) to [solar-powered super-computers in trash cans](https://www.phoronix.com/vr.php?view=17489). The most fun and promising Linux-powered gaming device for the masses though is launching today: Valve's Steam Deck. I've been fortunate to be testing out this Arch Linux derived handheld game console the past month and it has been working out very well -- both as a portable Steam gaming device but making it even more compelling from the Linux enthusiast angle is its "developer mode" that effectively turns it into a general Linux handheld and also being free to load your own Linux distribution of choice.
+
+[![Image 2: Steam Deck in its original packaging, featuring a schematic diagram of the device on the box flaps, and the phrase Your games are going places on the device's protective slipcover](https://www.phoronix.net/image.php?id=steam-deck-steamos-linux&image=steam_deck_1_med)](https://www.phoronix.com/image-viewer.php?id=steam-deck-steamos-linux&image=steam_deck_1_lrg)
+
+If you haven't been living under a rock, the [Steam Deck](https://www.phoronix.com/scan.php?page=search&q=Steam%20Deck) really not need an introduction. But otherwise long story short it is the much anticipated Valve handheld gaming computer that features a 7-inch 1280 x 800 display, gaming-optimized controls, 16GB of LPDDR5 memory, 64GB to 512GB of storage depending on model, and is powered by a custom AMD APU. The AMD APU is made up of four Zen 2 cores (8 threads) and an AMD RDNA2 GPU with 8 compute units.
+
+[![Image 3: Valve Steam Deck game console in its case](https://www.phoronix.net/image.php?id=steam-deck-steamos-linux&image=steam_deck_2_med)](https://www.phoronix.com/image-viewer.php?id=steam-deck-steamos-linux&image=steam_deck_2_lrg)
+
+Valve kindly provided Phoronix with a review sample of the Steam Deck for which I've been testing the past several weeks. In this article are my initial impressions so far, but long story short this an excellent device when it comes to the hardware build quality, Linux-based, and the level of openness of the platform. And, yes, it works great for running games.
+
+[![Image 4: Steam Deck held by a left hand](https://www.phoronix.net/image.php?id=steam-deck-steamos-linux&image=steam_deck_3_med)](https://www.phoronix.com/image-viewer.php?id=steam-deck-steamos-linux&image=steam_deck_3_lrg)
+
+On the software side, the Steam Deck is using SteamOS 3.0 that in turn is based on Arch Linux. SteamOS 3.0 is a complete overhaul compared to Valve's prior SteamOS work that is based on Debian GNU/Linux. SteamOS 3.0 with Arch Linux is much more fast-moving and has been seeing near-daily updates in preparation for launch.
+
+[![Image 5: Back view of a Steam Deck console being held by hands, with VALVE embossed on the back and featuring vents, right grip, and shoulder buttons](https://www.phoronix.net/image.php?id=steam-deck-steamos-linux&image=steam_deck_4_med)](https://www.phoronix.com/image-viewer.php?id=steam-deck-steamos-linux&image=steam_deck_4_lrg)
+
+By default the Steam Deck boots directly into Steam with its optimized full-screen interface. It works well and allows quick and easy access to your Steam game library. This UI looks nice and works efficiently, including when connected to a larger external display via USB-C. But for many Phoronix readers equally exciting is the easy access to the "developer mode". Simply hit the Steam button, navigate to the system settings, and toggle the "developer mode" option. After doing so, when clicking on the power button, there is then a "switch to desktop" option. This exits the Steam mode with its custom compositor and fires up a KDE Plasma desktop.
+
+[![Image 6: A person holding a steam deck, on the screen there is the store page for the Hitman Trilogy](https://www.phoronix.net/image.php?id=steam-deck-steamos-linux&image=steam_deck_in1_med)](https://www.phoronix.com/image-viewer.php?id=steam-deck-steamos-linux&image=steam_deck_in1_lrg)
+
+I've spent much time playing in the developer mode over the past month to tinker with the system. At least from my perspective, this easy developer mode access and the Steam Deck is being so open is what hugely excites me. When in the developer desktop mode, you have free reign of the system. You can basically do whatever you want to the Arch Linux based install -- by default root is mounted read-only as the SteamOS updates are distributed as immutable snapshots, but if desired it can be made read-write.
+
+[![Image 7: A Steam Deck displaying a web browser and a terminal](https://www.phoronix.net/image.php?id=steam-deck-steamos-linux&image=steam_deck_in11_med)](https://www.phoronix.com/image-viewer.php?id=steam-deck-steamos-linux&image=steam_deck_in11_lrg)
+
+Even if wanting to keep the SteamOS root file-system in read-only mode, there is the "-r" argument for Arch's Pacman to specify an alternative root. I was using this to specify read-write mounts including on external storage. After using Pacman's "-r" option and adjusting the PATH, etc, the installed packages were happily running while keeping to using SteamOS immutable snapshots. It was magical being able to easily install a compiler toolchain and other software on this handheld gaming-focused computer and the level of openness was superb. For conventional end-users, Valve is encouraging those that want to use the desktop mode to make use of Flatpaks for easy app distributions/deployment. Those were working fine too, but many Linux enthusiasts will prefer Pacman and fun within Konsole. I also got OpenSSH working on the Steam Deck too.
+
+[![Image 8: A close-up shot reveals the Steam Deck's display, showcasing its system menu with options like software updates, developer mode, and SD card formatting](https://www.phoronix.net/image.php?id=steam-deck-steamos-linux&image=steam_deck_in8_med)](https://www.phoronix.com/image-viewer.php?id=steam-deck-steamos-linux&image=steam_deck_in8_lrg)
+
+As of writing, SteamOS 3.0 in its rolling state is relying on a patched Linux 5.13 based kernel (presumably in short order they will be updating that especially with more of their enablement code being upstreamed), and was shipping a Mesa 22.0-devel Git snapshot for the OpenGL and Vulkan graphics drivers for the RDNA2 graphics. KDE Plasma 5.23.5 was the desktop by default in the developer mode as of testing.

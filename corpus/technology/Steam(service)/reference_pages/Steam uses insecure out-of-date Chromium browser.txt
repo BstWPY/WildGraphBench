@@ -1,0 +1,262 @@
+# Steam uses insecure, out-of-date Chromium browser
+
+Cookie Notice
+
+We use own and third party cookies to improve our services and your experience. This includes to personalise ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. If you continue browsing, you are considered to have accepted such use. [Privacy Policy](https://www.ghacks.net/privacy-policy/)
+
+Close
+
+Accept Cookies
+
+Cookie Settings
+
+*   Your Privacy
+
+*   Strictly Necessary Cookies
+
+*   Performance Cookies
+
+*   Targeting Cookies
+
+*   [More Information](https://cookiepedia.co.uk/giving-consent-to-cookies)
+
+Privacy Preference Centre
+
+- [x] Active
+
+Always Active
+
+[](https://onetrust.com/poweredbyonetrust)
+
+Save Settings
+
+Allow All
+
+The Wayback Machine - https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/
+
+[](https://plus.google.com/107836925448900328328/)Steam uses insecure, out-of-date Chromium browser - gHacks Tech News
+
+===============
+
+[g hacks.net](https://www.ghacks.net/)
+
+ADVERTISEMENT
+
+*   [Home](https://www.ghacks.net/)
+*   [Windows](https://www.ghacks.net/category/windows/)
+*   [Linux](https://www.ghacks.net/category/linux/)
+*   [Software](https://www.ghacks.net/category/software/)
+*   [Firefox](https://www.ghacks.net/category/firefox/)
+*   [Chrome](https://www.ghacks.net/category/google-chrome-browsing/)
+*   [Internet](https://www.ghacks.net/category/the-web/)
+*   [Mobile Computing](https://www.ghacks.net/category/mobile-computing/)
+*   [Companies](https://www.ghacks.net/category/companies/)
+*   [Email](https://www.ghacks.net/category/email/)
+*   [Misc](https://www.ghacks.net/category/misc/)
+*   [Deals](https://deals.ghacks.net/)
+
+Steam uses insecure, out-of-date Chromium browser
+=================================================
+
+ by [Martin Brinkmann](https://www.ghacks.net/author/martin/) on February 08, 2016 in [Games](https://www.ghacks.net/category/games/) - [18 comments](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comments)
+
+Valve has integrated a custom version of the Chromium web browser in its Steam client that displays web content to Steam users.
+
+If the past couple of weeks have shown anything, it is that custom Chromium or Chrome versions are a security risk more often than not.
+
+[Google analyzed](https://www.ghacks.net/2016/02/06/avast-safezone-browser-vulnerability-disclosed-by-google/) third-party implementations of its Chromium browser recently, and came to the conclusion that they made user systems less secure despite claiming the opposite.
+
+The main reason for this was that companies disabled security features of the Chromium browser, or circumvented them.
+
+Valve's Steam client [uses](https://developer.valvesoftware.com/wiki/Chromium_Embedded_Framework) a custom version of Chromium as well, and it turns out that this version is also insecure.
+
+> Chromium Embedded Framework (CEF) is an extension of the Chromium browser rendering engine, an open-source project which is a component of Google Chrome.
+> 
+> 
+> The Steam client on Windows and OS X uses a customized version of CEF to render web content.
+
+A user [reported](https://github.com/ValveSoftware/steam-for-linux/issues/4292)[his findings](https://github.com/ValveSoftware/steam-for-linux/issues/4293) on the official Valve Software Github repository, stating that the built-in version of Chromium was outdated and running without sandbox.
+
+> The chromium browser on steam is based on version 47, a vulnerable and out of date version.
+> 
+> 
+> Chromium runs with --no-sandbox by default on steam.
+
+The most recent version of Chromium is version 50 currently, which means that the chromium browser used by Steam is out of date.
+
+Google fixed several security issues in these newer versions of Chromium leaving the Steam version of the browser vulnerable to them.
+
+![Image 5: steam vulnerable](https://www.ghacks.net/wp-content/uploads/2016/02/steam-vulnerable.jpg)
+
+The [sandbox](https://www.chromium.org/developers/design-documents/sandbox/Sandbox-FAQ), enabled by default in Chromium, allows for the creation of sandboxed processes which run in restrictive environments. The sandbox protects the underlying system and data on it among other things from malicious processes.
+
+Chrome users can use the parameter --no-sandbox to disable the sandbox in Chrome, but doing so removes its protective features and leaves the system wide open for attacks.
+
+Both bugs have been recognized by Valve, and a user has been assigned to each of them. A target milestone is not listed yet though and there is no indication when the security issues will be fixed by Valve.
+
+Steam users should consider using an external up-to-date web browser for the time being instead of the built-in Steam web browser until the issues are fixed by Valve.
+
+Rob Joyce, chief of the NSA's Tailored Access Operations (TAO) [mentioned](http://www.wired.com/2016/01/nsa-hacker-chief-explains-how-to-keep-him-out-of-your-system/) recently that Steam is a popular attack vector.
+
+![Image 6: steam games security threat](https://www.ghacks.net/wp-content/uploads/2016/02/steam-games-security-threat.jpg)
+
+Summary
+
+![Image 7: steam games security threat](https://www.ghacks.net/wp-content/uploads/2016/02/steam-games-security-threat.jpg)
+
+Article Name
+
+Steam uses insecure, out-of-date Chromium browser
+
+Description
+
+The Steam client uses an out-of-date, insecure version of the Chromium web browser currently to display web content.
+
+Author
+
+Martin Brinkmann
+
+Publisher
+
+Ghacks Technology News
+
+Logo
+
+![Image 8: Ghacks Technology News](https://www.ghacks.net/wp-content/uploads/2005/10/ghacks-technology-news.jpg)
+
+ Advertisement
+
+### About Martin Brinkmann
+
+ Martin Brinkmann is a journalist from Germany who founded Ghacks Technology News Back in 2005. He is passionate about all things tech and knows the Internet and computers like the back of his hand.You can follow Martin on [Facebook](https://www.facebook.com/therealmartinbrinkmann) or [Twitter](https://twitter.com/ghacks)
+
+[View all posts by Martin Brinkmann →](https://www.ghacks.net/author/martin/)
+
+ Previous Post: « [Steam Winter Sale 2015 is on](https://www.ghacks.net/2015/12/23/steam-winter-sale-2015/)
+
+ Next Post: [Quantum Break will be a Windows 10 exclusive game](https://www.ghacks.net/2016/02/12/quantum-break-will-be-a-windows-10-exclusive-game/) »
+
+### Comments
+
+1.   **Gary D** said on February 8, 2016 at 6:24 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813567)  Martin, thanks for the link to enigma 2016 and Rob Joyce. It’s a very illuminating read.
+
+Reference Steam vulnerabilities, does Valve ever test its software ??  
+    1.   **Ashrak007** said on February 8, 2016 at 9:02 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813652)  Why should they..? They have monopoly power over PC gaming…  
+        1.   **Nebulus** said on February 8, 2016 at 11:18 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813702)  No, they don’t. They are the major player in this field, but not the ONLY player.  
+
+    2.   **Joker** said on February 8, 2016 at 9:34 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813665)  “does Valve ever test its software ??”
+
+Does testing sell more virtual hats/costumes/crates/whatever? Yes/No
+
+ Does having proper customer-support sell more virtual hats/costumes/crates/whatever? Yes/No
+
+ Does having up-to-date software sell more virtual hats/costumes/crates/whatever? Yes/No
+
+I think we know the answers with regard to Valve.  
+        1.   **Pants** said on February 9, 2016 at 12:35 am  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813721)  Every time Valve test their software, they gain +1 Experience .. true story  
+
+    3.   **jort93** said on June 14, 2016 at 11:19 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3921272)  they do. theres a public beta available weeks ore sometimes months before release for every update.  
+
+2.   **S2015** said on February 8, 2016 at 10:59 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813699)  to fix the hole, the one could try upgrading his or her Chromium client to the latest version of it manually. As for security, after all, Steam is e-distribution platform: you have to be careful when making a deal with other users on the site.  
+3.   **Nebulus** said on February 8, 2016 at 11:19 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813703)  Why would anyone use the browser from Steam for something else than browsing Steam site? That reduces that attack surface a lot, IMO…  
+    1.   **dwarf_t0ssn** said on February 9, 2016 at 1:25 am  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813736)  It’s useful for the odd in-game google search as well. FAQs, etc.  
+    2.   **Martin Brinkmann** said on February 9, 2016 at 5:59 am  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813806)  I never use it to access sites that are not part of Steam, but I know quite a few users who use it while in game to browse websites.  
+
+4.   **Womble** said on February 9, 2016 at 12:50 am  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813726)  One can always rely on Steam to bring out the drama queens.  
+5.   **The MAZZTer** said on February 9, 2016 at 2:49 am  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813758)  Hi, the latest STABLE Chromium is 48, not 50. I think you are looking at the trunk which is not intended for general widespread usage. The latest STABLE version of Chromium will always match the Stable Chrome version (which is 48).
+
+[Edit: Looks like according to [https://cefbuilds.com/#branch_2526](https://cefbuilds.com/#branch_2526) the latest stable CEF is 47, which is lagging behind Chromium. Not Valve’s fault.]  
+6.   **Cabron** said on February 9, 2016 at 12:34 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813945)  So it’s insecure because it doesnt use the latest version released 5 days ago? xD  
+    1.   **Pants** said on February 9, 2016 at 1:20 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3813963)  Regardless of the version (I guess somewhere, someone made a mistake re v47 (probably the stable at the time) vs v50), it is running with the –no-sandbox argument. I have no idea why Valve would do that, maybe there’s a technical reason  
+
+7.   **Ben** said on February 9, 2016 at 10:36 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3814138)  Never expected the browser inside steam as safe.
+
+ Why should it be?  
+8.   **87g** said on February 10, 2016 at 9:16 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3815080)  This is actually worse than described, when you connect to game servers (Valve source games at least, which are the most popular and some free) they display a web page, also called MOTD (message of the day). Server admin’s (which can be absolutely anyone) can send you to any web page of their choosing, such as their own home made exploit page. So if you start winning vs an admin, there’s nothing stopping them giving you a virus. Great. Cryptolocker, keylogger or VAC banned cheat anyone…?  
+9.   **psiclone** said on February 11, 2016 at 5:06 pm  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3815840)  It’s a popular attack vector, because Steam doesn’t give a crap about it’s users at all. It’s extremely evident in the lack of responses to users in their forums to address real issues like this.  
+10.   **steamedcake** said on May 29, 2016 at 3:27 am  [Reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#comment-3912363)  I know right? I’ve been VAC banned in the past because of their insecure browser. I tried technical support and they said it was my fault. Is it my fault they’re using an outdated browser? Is it my fault that their technical support is crap? HELL NO! IT’S THEIR FAULT FOR NOT TAKING PRECAUTIONS SO THEIR USERS ARE PROTECTED!  
+
+### Leave a Reply [Cancel reply](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#respond)
+
+Comment
+
+- [x] Check the box to consent to your data being stored in line with the guidelines set out in our [privacy policy](https://www.ghacks.net/privacy-policy/)
+
+ Please note that your comment may not appear immediately after you post it.
+
+Name
+
+Email
+
+- [x] Save my name, email, and website in this browser for the next time I comment.
+
+Search for: 
+
+### Advertisement
+
+### Spread the Word
+
+[](https://www.facebook.com/ghacksnet)[](https://twitter.com/ghacks)[](http://www.ghacks.net/feed/)
+
+### Ghacks Newsletter Sign Up
+
+Please click on the following link to open the newsletter signup page: [Ghacks Newsletter Sign up](http://eepurl.com/dp_1rj)
+
+### Advertisement
+
+### Popular Posts
+
+*   [Ghacks has a new owner, and that is good for everyone](https://www.ghacks.net/2019/10/07/ghacks-has-a-new-owner-and-that-is-a-good-for-everyone/)
+*   [What do you associate with certain web browsers?](https://www.ghacks.net/2019/08/24/what-do-you-associate-with-certain-web-browsers/)
+*   [Goodbye Firefox Quantum, Hello Firefox Browser](https://www.ghacks.net/2019/08/12/goodbye-firefox-quantum-hello-firefox-browser/)
+*   [Mozilla plans to roll out DNS over HTTPS to US users in late September 2019](https://www.ghacks.net/2019/09/07/mozilla-plans-to-roll-out-dns-over-https-to-us-users-in-late-september-2019/)
+*   [Sandbox program Sandboxie is now freeware (soon open source)](https://www.ghacks.net/2019/09/10/sandbox-program-sandboxie-is-now-freeware-soon-open-source/)
+*   [Thunderbird 68.0 is out: major email client update](https://www.ghacks.net/2019/08/28/thunderbird-68-0-is-out-major-email-client-update/)
+*   [Mozilla will release a new Firefox version every 4 weeks from 2020 on](https://www.ghacks.net/2019/09/17/mozilla-will-release-a-new-firefox-version-every-4-weeks-from-2020-on/)
+*   [Windows 10 version 1903: list of known issues increases](https://www.ghacks.net/2019/09/16/windows-10-version-1903-list-of-known-issues-growth-and-growth-and-growth/)
+*   [How long will Microsoft continue to support desktop versions of Office?](https://www.ghacks.net/2019/08/16/how-long-will-microsoft-continue-to-support-desktop-versions-of-office/)
+*   [What is the best free archiver to extract archives and compress files?](https://www.ghacks.net/2019/09/03/what-is-the-best-free-archiver-to-extract-archives-and-compress-files/)
+
+### Advertisement
+
+### Recently Updated
+
+*   [Opera 64 launches with built-in tracker blocker](https://www.ghacks.net/2019/10/09/opera-64-launches-with-built-in-tracker-blocker/)
+*   [Ghacks has a new owner, and that is good for everyone](https://www.ghacks.net/2019/10/07/ghacks-has-a-new-owner-and-that-is-a-good-for-everyone/)
+*   [Microsoft Windows Security Updates October 2019 overview](https://www.ghacks.net/2019/10/08/microsoft-windows-security-updates-october-2019-overview/)
+*   [VeraCrypt 1.24 encryption software update released](https://www.ghacks.net/2019/10/08/veracrypt-1-24-encryption-software-update-released/)
+*   [ScreenToGif screen recorder update brings usability improvements](https://www.ghacks.net/2019/10/07/screentogif-screen-recorder-update-brings-usability-improvements/)
+*   [Firefox 69.0.2 is out, here is what is new](https://www.ghacks.net/2019/10/04/firefox-69-0-2-is-out-here-is-what-is-new/)
+*   [How to always load sites in private browsing mode in Firefox](https://www.ghacks.net/2014/06/22/always-load-sites-private-browsing-mode-firefox/)
+*   [Malwarebytes Browser Guard for Firefox and Chrome leaves Beta](https://www.ghacks.net/2019/09/02/malwarebytes-browser-guard-for-firefox-and-chrome-leaves-beta/)
+*   [Play YouTube videos faster to get more done in a day](https://www.ghacks.net/2013/04/01/play-youtube-videos-faster-to-get-more-done-in-a-day/)
+*   [How to enable gpedit.msc (Group Policy) on Windows 10 Home devices](https://www.ghacks.net/2019/01/07/how-to-enable-gpedit-msc-group-policy-on-windows-10-home-devices/)
+
+### This Day in History
+
+*   [**2018** Windows 10 version 1809: pay attention to Disk Cleanup settings](https://www.ghacks.net/2018/10/09/windows-10-version-1809-pay-attention-to-disk-cleanup-settings/)
+*   [**2017** Beware: Update KB4046355 removes Windows Media Player](https://www.ghacks.net/2017/10/09/beware-update-kb4046355-removes-windows-media-player/)
+*   [**2016** Stylish and Userstyles.org have a new owner](https://www.ghacks.net/2016/10/09/stylish-and-userstyles-org-have-a-new-owner/)
+*   [**2015** Windows 10 patches make a return on Windows 7 and 8](https://www.ghacks.net/2015/10/09/windows-10-patches-make-a-return-on-windows-7-and-8/)
+*   [**2014** Pale Moon 25 available now, introduces major changes](https://www.ghacks.net/2014/10/09/pale-moon-25-available-now-introduces-major-changes/)
+
+### Advertisement
+
+#### About gHacks
+
+Ghacks is a technology news blog that was founded in 2005 by Martin Brinkmann. It has since then become one of the most popular tech news sites on the Internet with five authors and regular contributions from freelance writers.
+
+*   [About](https://www.ghacks.net/about-us/)
+*   [RSS Feeds](https://www.ghacks.net/ghacksnet-feed-list/)
+*   [Legal Information](https://www.ghacks.net/legal-information/)
+*   [Terms of use](https://www.ghacks.net/terms-of-use/)
+*   [Privacy Policy](https://www.ghacks.net/privacy-policy/)
+*   [Cookie Policy](https://www.ghacks.net/cookie-policy/)
+*   [Cookie settings](https://www.ghacks.net/2016/02/08/steam-uses-insecure-out-of-date-chromium-browser/#)
+*   [We Use](https://www.ghacks.net/we-use/)
+
+*   [Martin Brinkmann](https://www.ghacks.net/author/martin/)
+*   [Mike Turcotte](https://www.ghacks.net/author/miketur/)
+*   [Ashwin](https://www.ghacks.net/author/ashwin/)
+
+© 2019 gHacks Technology News. All Rights Reserved.

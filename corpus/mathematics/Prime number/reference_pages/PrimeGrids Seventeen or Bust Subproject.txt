@@ -1,0 +1,161 @@
+# PrimeGrid's Seventeen or Bust Subproject
+
+# PrimeGrid’s 
+
+# Seventeen or Bust Subproject 
+
+On 31 Octob er 2016, 22:13:54 UTC, PrimeGrid’s Seventeen or Bust sub project found the Mega 
+
+Prime: 
+
+10223 *2 31172165 +1 
+
+The prime is 9 ,383,761 digits long and will enter Chris Caldwell's “The Largest Known Primes 
+
+Database” ( http://primes.utm.edu/primes ) ranked 7th overall. 
+
+Th is is the largest prime found attempting to solve the Sierpinski Problem and eliminates 
+
+k=10223 as a possible Sierpinski number . It is also the largest known Proth prime, the largest 
+
+known Co lbert number (http://mathworld.wolfram.com/ColbertNumber.html ) , and the largest 
+
+prime PrimeGrid has discovered. Among the 10 largest known prime numbers, it is the only 
+
+prime that is not a M ersenne number, and the only known non -Mersenne prime over 4 million 
+
+digits. 
+
+Until the Seventeen or Bust project shut down earlier in the year, this search was a 
+
+collaboration between PrimeGrid and Seventeen or Bust. This discovery would not have been 
+
+possible without all the work done over the years by Seventeen or Bust. 
+
+The discovery was made by Szabolcs Peter of Hungary using an Intel(R) Core(TM) i7 -4770 
+
+CPU @ 3.40GHz with 12 GB RAM, running Windows 10 Enterprise Edition . This computer took 
+
+about 8 da ys, 22 hour s, 34 minute s to complete the primality test using LLR. 
+
+Information regarding double checking will be announced at a later date. 
+
+Credits for the discovery are as follows: 
+
+1. Szabolcs Peter (Hungary ), discoverer 
+
+2. PrimeGrid, et al. 
+
+3. Seventeen or B ust, et al. 
+
+4. SoBSieve , sieving program developed by Paul Jobling 
+
+5. ProthSieve , sieving program developed by Mikael Klasson and Paul Jobling 
+
+6. Ksieve , sieving program developed by Phil Carmody 
+
+7. Srsieve, sieving program developed by Geoff Reynolds 
+
+8. LLR, primality p rogram developed by Jean Penné 
+
+9. OpenPFGW, a primality program developed by Chris Nash & Jim Fougeron with 
+
+maintenance and improvements by Mark Rodenkirch 
+
+Entry in "The Largest Know n Primes Database" can be found here: 
+
+https://primes.utm.edu/primes/page.php?id=122473 
+
+OpenPFGW, a primality program developed by Chris Nash & Jim Fougeron, was used to check 
+
+for Fermat Number divisibility (including generalized and extended). For more informatio n about 
+
+Fermat and generalized Fermat Number divisors, please see Wilfrid Keller's sites: 
+
+• http://www.prothsearch.net/fermat.html 
+
+• http://www.prot hsearch.net/GFNfacs.html 
+
+Testing for Fermat, GFN, and xGFN divisors is still underway, and if any are found they will be 
+
+announced once that testing is complete. 
+
+The Seventeen or Bust Project was administered by Louis Helm, David Norris and Michael 
+
+Garr ison. PrimeGrid’s 
+
+# Seventeen or Bust Subproject 
+
+Using a single PC would have taken centuries to find this prime. So this timely discovery would 
+
+not have been possible without the thousands of volunteers who contributed their spare CPU 
+
+cycles. A special thanks to everyone who contributed their ad vice and/or computing power to 
+
+the search - especially all the sievers who work behind the scenes to make a find like this 
+
+possible. 
+
+PrimeGrid’s Seventeen or Bust subproject will continue to seek to elimin ate the remaining 5 k 
+
+value s in the Sierpinski pro blem . To join the search please visit PrimeGrid: 
+
+http://www.primegrid.com .
+
+For more information about Seventeen or Bust and the Sierpinski problem, please visit 
+
+http://primes.utm.edu/glossary/xpage/SierpinskiNumber.html .
+
+About PrimeGrid 
+
+PrimeGrid is a distributed computing project, developed by Rytis Slatkevi čius and currently 
+
+administered by Iain Bethune, James Breslin, Scott Brown, Ulri ch Fries, Charley Gielkens, 
+
+Michael Goetz, Roger Karpin, Rytis Slatkevi čius, and Van Zimmerman. 
+
+PrimeGrid is hosted by Rackspace, and their generous contributions have helped make this 
+
+project possible. 
+
+PrimeGrid utilizes BOINC and PRPNet to search for primes with the primary goal of bringing the 
+
+excitement of prime finding to the "everyday" computer user. Simply download the software and 
+
+let your computer do the rest. Participants can choose from a variety of prime forms to search. 
+
+With a little patienc e, you may find a large or even record breaking prime. 
+
+BOINC 
+
+The Berkeley Open Infrastructure for Network Computing (BOINC) is a software platform 
+
+for distributed computing using volunteered computer resources. It allows users to 
+
+participate in multiple distributed computing projects through a single program. Currently 
+
+BOINC is being developed by a team based at the University of California, Berkeley led 
+
+by David Anderson. 
+
+This platform currently supports projects from biology to math to astronomy. For m ore 
+
+information, please visit BOINC: http://boinc.berkeley.edu 
+
+PRPNet 
+
+PRPNet is a client/server application written by Mark Rodenkirch that is specifically 
+
+designed to help find prime numbers of various forms. It is easily ported between various 
+
+OS/hardware combinations. PRPNet does not run each PRP test itself, but relies on 
+
+helper programs, such as LLR, PFGW, phrot, wwww, and genefer to do the work. 
+
+For more information, please visit PrimeGrid’s PRPNet forum thread: 
+
+http://www.primegrid.com/forum_thread.php?id=1215 
+
+For more information about PrimeGrid and a complete list of available prime search projects, 
+
+please visit: http://www.primegrid.com

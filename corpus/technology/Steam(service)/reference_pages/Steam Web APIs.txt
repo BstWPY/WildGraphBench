@@ -1,0 +1,32 @@
+# Steam Web APIs
+
+The Wayback Machine - http://www.teamfortress.com/post.php?id=4014
+
+[![Image 1: A 128x38 small image, likely a logo, icon or avatar](http://www.teamfortress.com/images/n_blog_on.gif)](http://www.tf2.com/)
+
+[![Image 2: Movies](http://www.teamfortress.com/images/n_movies.gif)](http://www.teamfortress.com/movies.htm)
+
+![Image 3: A 1x1 image, likely be a tacker probe](http://www.teamfortress.com/images/hr.gif)
+
+[Steam Web APIs](http://www.teamfortress.com/post.php?id=4014&p=)
+
+July 1, 2010 - TF2 Team
+-----------------------
+
+[![Image 4: A family of seven, including grandparents, parents, and children, are gathered around a laptop, looking at the screen with expressions of excitement and joy](http://www.teamfortress.com/images/posts/stockphoto.jpg)](http://steamcommunity.com/dev)
+
+The item system in Team Fortress 2 generates a ton of data. Up to this point we've provided access to this data through some hacked-together scripts that, frankly, were old and creaky before they went live. Ah, but now...
+
+Pow! Shiny new web APIs that are officially supported. (Find out how to use them [here](http://steamcommunity.com/dev).) This new system comes with a few new features:
+
+*   Output can now be provided as JSON, XML, or VDF (Key Values)
+*   The current item schema is available as an API call, so you don't have to dig items_game.txt out of a patched client
+*   It is much easier for us to add new APIs with the new system, so it should happen more often
+
+For now, the old system will continue to run, and all applications built on it will continue to work. A word of warning, though: At some point down the road we will turn it off. So if you're using it, please give the new Steam Web APIs a try.
+
+[Back to main page](http://www.teamfortress.com/?p=1)
+
+![Image 5: A 820x8 small image, likely a logo, icon or avatar](http://www.teamfortress.com/images/footerShadow.jpg)
+
+![Image 6: A 820x8 small image, likely a logo, icon or avatar](http://www.teamfortress.com/images/footerShadowBottom.jpg)

@@ -1,0 +1,1128 @@
+# Philippine Atmospheric, Geophysical and Astronomical Services Administration
+
+PAGASA
+
+===============
+
+Toggle navigation[![Image 17: A 29x32 small image, likely a logo, icon or avatar](https://bagong.pagasa.dost.gov.ph/themes/hiraia//assets/images/layout/coa.png) ### GOVPH](https://www.gov.ph/)
+
+*   [Home](https://bagong.pagasa.dost.gov.ph/)
+*   [Weather ![Image 18: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/weather.png)](http://bagong.pagasa.dost.gov.ph/#weather-mobile)
+    *   [General Weather](http://bagong.pagasa.dost.gov.ph/#general-weather-mobile)
+        *   [Daily Weather Forecast](http://bagong.pagasa.dost.gov.ph/weather#daily-weather-forecast)
+        *   [Weather Outlook Selected Philippine Cities](http://bagong.pagasa.dost.gov.ph/weather/weather-outlook-selected-philippine-cities)
+        *   [Asian Cities Weather Forecast](http://bagong.pagasa.dost.gov.ph/weather/weather-asian-cities-weather-forecast)
+        *   [Weather Outlook Selected Tourist Areas](http://bagong.pagasa.dost.gov.ph/weather/weather-outlook-selected-tourist-areas)
+        *   [Weekly Weather Outlook](http://bagong.pagasa.dost.gov.ph/weather/weather-outlook-weekly)
+        *   [Weather Advisory](http://bagong.pagasa.dost.gov.ph/weather/weather-advisory)
+
+    *   [Aviation](http://bagong.pagasa.dost.gov.ph/#aviation-mobile)
+        *   [SIGMET](http://bagong.pagasa.dost.gov.ph/aviation#sigmet)
+        *   [METAR](http://bagong.pagasa.dost.gov.ph/aviation/metar)
+        *   [Terminal Aerodome Forecast](http://bagong.pagasa.dost.gov.ph/aviation#terminal-aerodome-forecast)
+        *   [Airways and Terminal Forecast](http://bagong.pagasa.dost.gov.ph/aviation#airways-and-terminal-forecast)
+
+    *   [Marine](http://bagong.pagasa.dost.gov.ph/#marine-mobile)
+        *   [High Seas and Offshore Waters Forecast](http://bagong.pagasa.dost.gov.ph/marine/high-seas-forecast)
+        *   [Gale Warning](http://bagong.pagasa.dost.gov.ph/marine/gale-warning)
+
+    *   [Heat Index](http://bagong.pagasa.dost.gov.ph/weather/heat-index)
+    *   [Daily Temperature](http://bagong.pagasa.dost.gov.ph/weather/low-high-temperature)
+
+*   [Flood ![Image 19: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/flood.png)](http://bagong.pagasa.dost.gov.ph/#flood-mobile)
+    *   [Flood Information](http://bagong.pagasa.dost.gov.ph/flood#flood-information)
+    *   [Dam Information](http://bagong.pagasa.dost.gov.ph/flood#dam-information)
+    *   [Projects](http://bagong.pagasa.dost.gov.ph/flood#projects)
+    *   [Hydromet Data](https://bit.ly/hmd-datarequestportal)
+
+*   [Tropical Cyclone ![Image 20: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/tropical-cyclone.png)](http://bagong.pagasa.dost.gov.ph/#tropical-cyclone-mobile)
+    *   [Tropical Cyclone Advisory](http://bagong.pagasa.dost.gov.ph/tropical-cyclone-advisory-iframe)
+    *   [Tropical Cyclone Bulletin](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin)
+    *   [Tropical Cyclone Warning for Shipping](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/tropical-cyclone-warning-for-shipping)
+    *   [Forecast Storm Surge](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/forecast-storm-surge)
+    *   [Tropical Cyclone Warning for Agriculture](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/tropical-cyclone-warning-for-agriculture)
+    *   [TC-Threat Potential Forecast](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/tc-threat-potential-forecast)
+    *   [Tropical Cyclone Associated Rainfall](http://bagong.pagasa.dost.gov.ph/climate/tropical-cyclone-associated-rainfall)
+    *   [Tropical Cyclone Publications](http://bagong.pagasa.dost.gov.ph/#tropical-cyclone-publications-mobile)
+        *   [Annual Report on Philippine Tropical Cyclones](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/publications/annual-report)
+        *   [Tropical Cyclone Preliminary Report](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/publications/preliminary-report)
+
+    *   [About Tropical Cyclone](http://bagong.pagasa.dost.gov.ph/information/about-tropical-cyclone)
+
+*   [Climate ![Image 21: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/climate.png)](http://bagong.pagasa.dost.gov.ph/#climate-mobile)
+    *   [Climate Monitoring](http://bagong.pagasa.dost.gov.ph/#climate-monitoring-mobile)
+        *   [Daily Rainfall and Temperature](http://bagong.pagasa.dost.gov.ph/climate/climate-monitoring#daily-rainfall-and-temperature)
+        *   [Monthly Monitoring Products](http://bagong.pagasa.dost.gov.ph/climate/climate-monthly-monitoring-products)
+        *   [Southeast Asia Climate Monitoring](http://seacm.pagasa.dost.gov.ph/)
+
+    *   [Climate Forum](http://bagong.pagasa.dost.gov.ph/climate)
+    *   [Climate Prediction](http://bagong.pagasa.dost.gov.ph/#climate-prediction-mobile)
+        *   [TenDay: Weather Forecast](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/10-day-climate-forecast)
+        *   [Sub Seasonal](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/sub-seasonal2)
+        *   [Seasonal Forecast](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/seasonal-forecast)
+        *   [Specialized Forecast](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/specialized-forecast)
+
+    *   [Climate Advisories](http://bagong.pagasa.dost.gov.ph/climate/climate-advisories)
+    *   [El Niño / La Niña](http://bagong.pagasa.dost.gov.ph/#el-nino-la-nina-mobile)
+        *   [Monitoring](http://bagong.pagasa.dost.gov.ph/climate/el-nino-la-nina/monitoring)
+        *   [Advisories](http://bagong.pagasa.dost.gov.ph/climate/el-nino-la-nina/advisories)
+
+    *   [Climate Projection](http://bagong.pagasa.dost.gov.ph/#climate-projection-mobile)
+        *   [Dynamic Downscaling](http://bagong.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling)
+        *   [CliMap](http://bagong.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling/climap)
+        *   [Statistical Downscaling](http://bagong.pagasa.dost.gov.ph/climate/climate-change/statistical-downscaling)
+
+    *   [Climate Data](http://bagong.pagasa.dost.gov.ph/climate/climate-data)
+
+*   [Agri-Weather ![Image 22: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/agri-weather.png)](http://bagong.pagasa.dost.gov.ph/#agri-weather-mobile)
+    *   [Climate Information for Agriculture](http://bagong.pagasa.dost.gov.ph/#climate-information-for-agriculture-mobile)
+        *   [Farm Weather Forecast](http://bagong.pagasa.dost.gov.ph/agri-weather#farm-weather-forecast)
+        *   [Weekend/Special Farm Weather Forecast](http://bagong.pagasa.dost.gov.ph/weekend-special-outlook)
+        *   [Ten-Day Regional Agri-Weather Information](http://bagong.pagasa.dost.gov.ph/ten-day-regional-agri-weather)
+        *   [Monthly Philippine Agro-Climatic Review and Outlook](http://bagong.pagasa.dost.gov.ph/agri-weather/monthly-agroclimatic-review-and-outlook)
+
+    *   [Impact Assessment for Agriculture](http://bagong.pagasa.dost.gov.ph/agri-weather/impact-assessment-for-agriculture)
+
+*   [Astronomy ![Image 23: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/astronomy.png)](http://bagong.pagasa.dost.gov.ph/#astronomy-mobile)
+    *   [Telescoping and Stargazing](http://bagong.pagasa.dost.gov.ph/astronomy#telescoping-and-stargazing)
+    *   [Astronomy in the Philippines](http://bagong.pagasa.dost.gov.ph/astronomy#astronomy-in-the-philippines)
+    *   [Planetarium](http://bagong.pagasa.dost.gov.ph/astronomy#planetarium)
+    *   [Astronomical Observatory](http://bagong.pagasa.dost.gov.ph/astronomy#astronomical-observatory)
+    *   [Time Service](http://bagong.pagasa.dost.gov.ph/astronomy#time-service)
+    *   [Philippine Standard Time](http://bagong.pagasa.dost.gov.ph/astronomy#philippine-standard-time)
+    *   [Astronomical Diary](http://bagong.pagasa.dost.gov.ph/astronomy/astronomical-diary)
+
+*   [Regional Forecast ![Image 24: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/regional-forecast.png)](http://bagong.pagasa.dost.gov.ph/#regional-forecast-mobile)
+    *   [Northern Luzon](http://bagong.pagasa.dost.gov.ph/regional-forecast/nlprsd)
+    *   [National Capital Region](http://bagong.pagasa.dost.gov.ph/regional-forecast/ncrprsd)
+    *   [Southern Luzon](http://bagong.pagasa.dost.gov.ph/regional-forecast/slprsd)
+    *   [Visayas](http://bagong.pagasa.dost.gov.ph/regional-forecast/visprsd)
+    *   [Mindanao](http://bagong.pagasa.dost.gov.ph/regional-forecast/minprsd)
+
+*   [Products and Services ![Image 25: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/products-and-services.png)](http://bagong.pagasa.dost.gov.ph/#products-and-services-mobile)
+    *   [Engineering Services](http://bagong.pagasa.dost.gov.ph/products-and-services/engineering-services)
+    *   [Calibration Services](http://bagong.pagasa.dost.gov.ph/products-and-services/calibration-services)
+    *   [Numerical Prediction Model](http://bagong.pagasa.dost.gov.ph/products-and-services/numerical-modelling-system)
+    *   [Satellites](http://bagong.pagasa.dost.gov.ph/products-and-services/satellite)
+    *   [Flood Monitoring for Metro Manila](http://121.58.193.173:8080/)
+    *   [Risk Analysis Map](http://bagong.pagasa.dost.gov.ph/products-and-services/risk-analysis-maps)
+    *   [Flood Hazard Map](http://bagong.pagasa.dost.gov.ph/products-and-services/flood-hazard-maps)
+    *   [Regional Severe Wind Hazard Maps](http://bagong.pagasa.dost.gov.ph/products-and-services/severe-wind-maps)
+    *   [High Frequency Doppler Radar](http://bagong.pagasa.dost.gov.ph/products-and-services/hfdr)
+
+*   [Vacancy ![Image 26: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/vacancy.png)](http://bagong.pagasa.dost.gov.ph/vacancy)
+*   [GAD Corner ![Image 27: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/gad-corner.png)](http://bagong.pagasa.dost.gov.ph/gad-corner)
+*   [Learnings ![Image 28: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/learnings.png)](http://bagong.pagasa.dost.gov.ph/#learnings-mobile)
+    *   [Publication](http://bagong.pagasa.dost.gov.ph/learnings/publication)
+    *   [FAQs and Trivias](http://bagong.pagasa.dost.gov.ph/learnings/faqs-and-trivias)
+    *   [Learning Tools](http://bagong.pagasa.dost.gov.ph/learnings/learning-tools)
+    *   [Research and Development](http://bagong.pagasa.dost.gov.ph/learnings/research-and-development)
+    *   [Information](http://bagong.pagasa.dost.gov.ph/#information-mobile)
+        *   [Rainfall and Thunderstorm Warning System](http://bagong.pagasa.dost.gov.ph/learnings/legend)
+        *   [Weather Terminologies](http://bagong.pagasa.dost.gov.ph/information/weather-terminologies)
+        *   [Flood Forecasting and Warning System for River Basins](http://bagong.pagasa.dost.gov.ph/information/flood-forecasting-and-warning-system-river-basins)
+        *   [Climate of the Philippines](http://bagong.pagasa.dost.gov.ph/information/climate-philippines)
+        *   [Climate Change in the Philippines](http://bagong.pagasa.dost.gov.ph/information/climate-change-in-the-philippines)
+        *   [Astronomy in the Philippines](http://bagong.pagasa.dost.gov.ph/astronomy)
+        *   [Field Station Categories](http://bagong.pagasa.dost.gov.ph/information/field-station-categories)
+        *   [Basic Cloud Seeding Operations](http://bagong.pagasa.dost.gov.ph/information/basic-cloud-seeding-operations)
+        *   [Storm Surge Information](http://bagong.pagasa.dost.gov.ph/information/storm-surge)
+
+    *   [Legend](http://bagong.pagasa.dost.gov.ph/learnings/legend)
+
+*   [About Us ![Image 29: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/about-us.png)](http://bagong.pagasa.dost.gov.ph/#about-us-mobile)
+    *   [Contact Us](http://bagong.pagasa.dost.gov.ph/contact-us)
+    *   [National Meteorological and Hydrological Services](http://bagong.pagasa.dost.gov.ph/about-us/national-meteorological-and-hydrological-services)
+    *   [Related Linkages](http://bagong.pagasa.dost.gov.ph/about-us/related-linkages)
+
+*   [Transparency Seal](http://bagong.pagasa.dost.gov.ph/#)
+    *   [About Us](https://bagong.pagasa.dost.gov.ph/about-us)
+    *   [Mandate and Functions](https://bagong.pagasa.dost.gov.ph/mandate-and-functions)
+    *   [PAGASA Key Officials](https://bagong.pagasa.dost.gov.ph/aboutus/key-officials)
+    *   [Annual Reports](https://bagong.pagasa.dost.gov.ph/annual-reports)
+    *   [Accomplishment Reports](https://bagong.pagasa.dost.gov.ph/accomplishment-reports)
+    *   [Annual Procurement Plan](https://bagong.pagasa.dost.gov.ph/annual-procurement-plan)
+    *   [Approved Budget and Corresponding Targets](https://bagong.pagasa.dost.gov.ph/approved-budgets-and-corresponding-targets)
+    *   [Major Programs and Projects](https://bagong.pagasa.dost.gov.ph/major-programs-and-projects)
+    *   [Status of Implementations of Program/Projects](https://bagong.pagasa.dost.gov.ph/status-implementation)
+    *   [Program/Projects Beneficiaries](https://bagong.pagasa.dost.gov.ph/program-project-beneficiaries)
+
+*   [Products and Services](https://bagong.pagasa.dost.gov.ph/products-and-services)
+
+*   [Privacy Notice](https://bagong.pagasa.dost.gov.ph/privacy-notice)
+*   [Accessibility](https://bagong.pagasa.dost.gov.ph/accessibility)
+*   [Contact Us](https://bagong.pagasa.dost.gov.ph/contact-us)
+
+*   [Weather ![Image 30: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/weather.png)](http://bagong.pagasa.dost.gov.ph/#weather)
+    *   [General Weather](http://bagong.pagasa.dost.gov.ph/#general-weather)
+        *   [Daily Weather Forecast](http://bagong.pagasa.dost.gov.ph/weather#daily-weather-forecast)
+        *   [Weather Outlook Selected Philippine Cities](http://bagong.pagasa.dost.gov.ph/weather/weather-outlook-selected-philippine-cities)
+        *   [Asian Cities Weather Forecast](http://bagong.pagasa.dost.gov.ph/weather/weather-asian-cities-weather-forecast)
+        *   [Weather Outlook Selected Tourist Areas](http://bagong.pagasa.dost.gov.ph/weather/weather-outlook-selected-tourist-areas)
+        *   [Weekly Weather Outlook](http://bagong.pagasa.dost.gov.ph/weather/weather-outlook-weekly)
+        *   [Weather Advisory](http://bagong.pagasa.dost.gov.ph/weather/weather-advisory)
+
+    *   [Aviation](http://bagong.pagasa.dost.gov.ph/#aviation)
+        *   [SIGMET](http://bagong.pagasa.dost.gov.ph/aviation#sigmet)
+        *   [METAR](http://bagong.pagasa.dost.gov.ph/aviation/metar)
+        *   [Terminal Aerodome Forecast](http://bagong.pagasa.dost.gov.ph/aviation#terminal-aerodome-forecast)
+        *   [Airways and Terminal Forecast](http://bagong.pagasa.dost.gov.ph/aviation#airways-and-terminal-forecast)
+
+    *   [Marine](http://bagong.pagasa.dost.gov.ph/#marine)
+        *   [High Seas and Offshore Waters Forecast](http://bagong.pagasa.dost.gov.ph/marine/high-seas-forecast)
+        *   [Gale Warning](http://bagong.pagasa.dost.gov.ph/marine/gale-warning)
+
+    *   [Heat Index](http://bagong.pagasa.dost.gov.ph/weather/heat-index)
+    *   [Daily Temperature](http://bagong.pagasa.dost.gov.ph/weather/low-high-temperature)
+
+*   [Flood ![Image 31: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/flood.png)](http://bagong.pagasa.dost.gov.ph/#flood)
+    *   [Flood Information](http://bagong.pagasa.dost.gov.ph/flood#flood-information)
+    *   [Dam Information](http://bagong.pagasa.dost.gov.ph/flood#dam-information)
+    *   [Projects](http://bagong.pagasa.dost.gov.ph/flood#projects)
+    *   [Hydromet Data](https://bit.ly/hmd-datarequestportal)
+
+*   [Tropical Cyclone ![Image 32: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/tropical-cyclone.png)](http://bagong.pagasa.dost.gov.ph/#tropical-cyclone)
+    *   [Tropical Cyclone Advisory](http://bagong.pagasa.dost.gov.ph/tropical-cyclone-advisory-iframe)
+    *   [Tropical Cyclone Bulletin](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin)
+    *   [Tropical Cyclone Warning for Shipping](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/tropical-cyclone-warning-for-shipping)
+    *   [Forecast Storm Surge](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/forecast-storm-surge)
+    *   [Tropical Cyclone Warning for Agriculture](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/tropical-cyclone-warning-for-agriculture)
+    *   [TC-Threat Potential Forecast](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/tc-threat-potential-forecast)
+    *   [Tropical Cyclone Associated Rainfall](http://bagong.pagasa.dost.gov.ph/climate/tropical-cyclone-associated-rainfall)
+    *   [Tropical Cyclone Publications](http://bagong.pagasa.dost.gov.ph/#tropical-cyclone-publications)
+        *   [Annual Report on Philippine Tropical Cyclones](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/publications/annual-report)
+        *   [Tropical Cyclone Preliminary Report](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/publications/preliminary-report)
+
+    *   [About Tropical Cyclone](http://bagong.pagasa.dost.gov.ph/information/about-tropical-cyclone)
+
+*   [Climate ![Image 33: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/climate.png)](http://bagong.pagasa.dost.gov.ph/#climate)
+    *   [Climate Monitoring](http://bagong.pagasa.dost.gov.ph/#climate-monitoring)
+        *   [Daily Rainfall and Temperature](http://bagong.pagasa.dost.gov.ph/climate/climate-monitoring#daily-rainfall-and-temperature)
+        *   [Monthly Monitoring Products](http://bagong.pagasa.dost.gov.ph/climate/climate-monthly-monitoring-products)
+        *   [Southeast Asia Climate Monitoring](http://seacm.pagasa.dost.gov.ph/)
+
+    *   [Climate Forum](http://bagong.pagasa.dost.gov.ph/climate)
+    *   [Climate Prediction](http://bagong.pagasa.dost.gov.ph/#climate-prediction)
+        *   [TenDay: Weather Forecast](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/10-day-climate-forecast)
+        *   [Sub Seasonal](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/sub-seasonal2)
+        *   [Seasonal Forecast](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/seasonal-forecast)
+        *   [Specialized Forecast](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/specialized-forecast)
+
+    *   [Climate Advisories](http://bagong.pagasa.dost.gov.ph/climate/climate-advisories)
+    *   [El Niño / La Niña](http://bagong.pagasa.dost.gov.ph/#el-nino-la-nina)
+        *   [Monitoring](http://bagong.pagasa.dost.gov.ph/climate/el-nino-la-nina/monitoring)
+        *   [Advisories](http://bagong.pagasa.dost.gov.ph/climate/el-nino-la-nina/advisories)
+
+    *   [Climate Projection](http://bagong.pagasa.dost.gov.ph/#climate-projection)
+        *   [Dynamic Downscaling](http://bagong.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling)
+        *   [CliMap](http://bagong.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling/climap)
+        *   [CliMap v2.0](http://bagong.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling/climap-v2)
+        *   [Statistical Downscaling](http://bagong.pagasa.dost.gov.ph/climate/climate-change/statistical-downscaling)
+
+    *   [Climate Data](http://bagong.pagasa.dost.gov.ph/climate/climate-data)
+
+*   [Agri-Weather ![Image 34: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/agri-weather.png)](http://bagong.pagasa.dost.gov.ph/#agri-weather)
+    *   [Climate Information for Agriculture](http://bagong.pagasa.dost.gov.ph/#climate-information-for-agriculture)
+        *   [Farm Weather Forecast](http://bagong.pagasa.dost.gov.ph/agri-weather#farm-weather-forecast)
+        *   [Weekend/Special Farm Weather Forecast](http://bagong.pagasa.dost.gov.ph/weekend-special-outlook)
+        *   [Ten-Day Regional Agri-Weather Information](http://bagong.pagasa.dost.gov.ph/ten-day-regional-agri-weather)
+        *   [Monthly Philippine Agro-Climatic Review and Outlook](http://bagong.pagasa.dost.gov.ph/agri-weather/monthly-agroclimatic-review-and-outlook)
+
+    *   [Impact Assessment for Agriculture](http://bagong.pagasa.dost.gov.ph/agri-weather/impact-assessment-for-agriculture)
+
+*   [Astronomy ![Image 35: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/astronomy.png)](http://bagong.pagasa.dost.gov.ph/#astronomy)
+    *   [Telescoping and Stargazing](http://bagong.pagasa.dost.gov.ph/astronomy#telescoping-and-stargazing)
+    *   [Astronomy in the Philippines](http://bagong.pagasa.dost.gov.ph/astronomy#astronomy-in-the-philippines)
+    *   [Planetarium](http://bagong.pagasa.dost.gov.ph/astronomy#planetarium)
+    *   [Astronomical Observatory](http://bagong.pagasa.dost.gov.ph/astronomy#astronomical-observatory)
+    *   [Time Service](http://bagong.pagasa.dost.gov.ph/astronomy#time-service)
+    *   [Philippine Standard Time](http://bagong.pagasa.dost.gov.ph/astronomy#philippine-standard-time)
+    *   [Astronomical Diary](http://bagong.pagasa.dost.gov.ph/astronomy/astronomical-diary)
+
+*   [Regional Forecast ![Image 36: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/regional-forecast.png)](http://bagong.pagasa.dost.gov.ph/#regional-forecast)
+    *   [Northern Luzon](http://bagong.pagasa.dost.gov.ph/regional-forecast/nlprsd)
+    *   [National Capital Region](http://bagong.pagasa.dost.gov.ph/regional-forecast/ncrprsd)
+    *   [Southern Luzon](http://bagong.pagasa.dost.gov.ph/regional-forecast/slprsd)
+    *   [Visayas](http://bagong.pagasa.dost.gov.ph/regional-forecast/visprsd)
+    *   [Mindanao](http://bagong.pagasa.dost.gov.ph/regional-forecast/minprsd)
+
+*   [Products and Services ![Image 37: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/products-and-services.png)](http://bagong.pagasa.dost.gov.ph/#products-and-services)
+    *   [Engineering Services](http://bagong.pagasa.dost.gov.ph/products-and-services/engineering-services)
+    *   [Calibration Services](http://bagong.pagasa.dost.gov.ph/products-and-services/calibration-services)
+    *   [Numerical Prediction Model](http://bagong.pagasa.dost.gov.ph/products-and-services/numerical-modelling-system)
+    *   [Satellites](http://bagong.pagasa.dost.gov.ph/products-and-services/satellite)
+    *   [Flood Monitoring for Metro Manila](http://121.58.193.173:8080/)
+    *   [Risk Analysis Map](http://bagong.pagasa.dost.gov.ph/products-and-services/risk-analysis-maps)
+    *   [Flood Hazard Map](http://bagong.pagasa.dost.gov.ph/products-and-services/flood-hazard-maps)
+    *   [Regional Severe Wind Hazard Maps](http://bagong.pagasa.dost.gov.ph/products-and-services/severe-wind-maps)
+    *   [High Frequency Doppler Radar](http://bagong.pagasa.dost.gov.ph/products-and-services/hfdr)
+
+*   [Vacancy ![Image 38: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/vacancy.png)](http://bagong.pagasa.dost.gov.ph/vacancy)
+*   [GAD Corner ![Image 39: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/gad-corner.png)](http://bagong.pagasa.dost.gov.ph/gad-corner)
+*   [Learnings ![Image 40: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/learnings.png)](http://bagong.pagasa.dost.gov.ph/#learnings)
+    *   [Publication](http://bagong.pagasa.dost.gov.ph/learnings/publication)
+    *   [FAQs and Trivias](http://bagong.pagasa.dost.gov.ph/learnings/faqs-and-trivias)
+    *   [Learning Tools](http://bagong.pagasa.dost.gov.ph/learnings/learning-tools)
+    *   [Research and Development](http://bagong.pagasa.dost.gov.ph/learnings/research-and-development)
+    *   [Information](http://bagong.pagasa.dost.gov.ph/#information)
+        *   [Rainfall and Thunderstorm Warning System](http://bagong.pagasa.dost.gov.ph/learnings/legend)
+        *   [Weather Terminologies](http://bagong.pagasa.dost.gov.ph/information/weather-terminologies)
+        *   [Flood Forecasting and Warning System for River Basins](http://bagong.pagasa.dost.gov.ph/information/flood-forecasting-and-warning-system-river-basins)
+        *   [Climate of the Philippines](http://bagong.pagasa.dost.gov.ph/information/climate-philippines)
+        *   [Climate Change in the Philippines](http://bagong.pagasa.dost.gov.ph/information/climate-change-in-the-philippines)
+        *   [Astronomy in the Philippines](http://bagong.pagasa.dost.gov.ph/astronomy)
+        *   [Field Station Categories](http://bagong.pagasa.dost.gov.ph/information/field-station-categories)
+        *   [Basic Cloud Seeding Operations](http://bagong.pagasa.dost.gov.ph/information/basic-cloud-seeding-operations)
+        *   [Storm Surge Information](http://bagong.pagasa.dost.gov.ph/information/storm-surge)
+
+    *   [Legend](http://bagong.pagasa.dost.gov.ph/learnings/legend)
+
+*   [About Us ![Image 41: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/sidebar/about-us.png)](http://bagong.pagasa.dost.gov.ph/#about-us)
+    *   [Contact Us](http://bagong.pagasa.dost.gov.ph/contact-us)
+    *   [National Meteorological and Hydrological Services](http://bagong.pagasa.dost.gov.ph/about-us/national-meteorological-and-hydrological-services)
+    *   [Related Linkages](http://bagong.pagasa.dost.gov.ph/about-us/related-linkages)
+
+![Image 42: A square with four circles on each corner, with the upper left and lower right circles being black and the other two being cyan. At the center is the PAGASA logo on a white background](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/pagasa-logo.png)
+
+Department of Science and Technology
+
+Philippine Atmospheric, Geophysical and
+
+Astronomical Services Administration
+
+[Philippine Standard Time 09:55:02 PM 2 December 2025](https://bagong.pagasa.dost.gov.ph/astronomy#philippine-standard-time)
+
+*   [Weather](https://bagong.pagasa.dost.gov.ph/weather)
+
+    *   [General Weather](http://bagong.pagasa.dost.gov.ph/weather)
+        *   [Daily Weather Forecast](http://bagong.pagasa.dost.gov.ph/weather#daily-weather-forecast)
+        *   [Weather Outlook Selected Philippine Cities](http://bagong.pagasa.dost.gov.ph/weather/weather-outlook-selected-philippine-cities)
+        *   [Asian Cities Weather Forecast](http://bagong.pagasa.dost.gov.ph/weather/weather-asian-cities-weather-forecast)
+        *   [Weather Outlook Selected Tourist Areas](http://bagong.pagasa.dost.gov.ph/weather/weather-outlook-selected-tourist-areas)
+        *   [Weekly Weather Outlook](http://bagong.pagasa.dost.gov.ph/weather/weather-outlook-weekly)
+        *   [Weather Advisory](http://bagong.pagasa.dost.gov.ph/weather/weather-advisory)
+
+    *   [Aviation](http://bagong.pagasa.dost.gov.ph/aviation)
+        *   [SIGMET](http://bagong.pagasa.dost.gov.ph/aviation#sigmet)
+        *   [METAR](http://bagong.pagasa.dost.gov.ph/aviation/metar)
+        *   [Terminal Aerodome Forecast](http://bagong.pagasa.dost.gov.ph/aviation#terminal-aerodome-forecast)
+        *   [Airways and Terminal Forecast](http://bagong.pagasa.dost.gov.ph/aviation#airways-and-terminal-forecast)
+
+    *   [Marine](http://bagong.pagasa.dost.gov.ph/#)
+        *   [High Seas and Offshore Waters Forecast](http://bagong.pagasa.dost.gov.ph/marine/high-seas-forecast)
+        *   [Gale Warning](http://bagong.pagasa.dost.gov.ph/marine/gale-warning)
+
+    *   [Heat Index](http://bagong.pagasa.dost.gov.ph/weather/heat-index)
+    *   [Daily Temperature](http://bagong.pagasa.dost.gov.ph/weather/low-high-temperature)
+
+*   [Flood](https://bagong.pagasa.dost.gov.ph/flood)
+
+    *   [Flood Information](http://bagong.pagasa.dost.gov.ph/flood#flood-information)
+    *   [Dam Information](http://bagong.pagasa.dost.gov.ph/flood#dam-information)
+    *   [Projects](http://bagong.pagasa.dost.gov.ph/flood#projects)
+    *   [Hydromet Data](https://bit.ly/hmd-datarequestportal)
+
+*   [Tropical Cyclone](https://bagong.pagasa.dost.gov.ph/#)
+
+    *   [Tropical Cyclone Advisory](http://bagong.pagasa.dost.gov.ph/tropical-cyclone-advisory-iframe)
+    *   [Tropical Cyclone Bulletin](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin)
+    *   [Tropical Cyclone Warning for Shipping](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/tropical-cyclone-warning-for-shipping)
+    *   [Forecast Storm Surge](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/forecast-storm-surge)
+    *   [Tropical Cyclone Warning for Agriculture](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/tropical-cyclone-warning-for-agriculture)
+    *   [TC-Threat Potential Forecast](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/tc-threat-potential-forecast)
+    *   [Tropical Cyclone Associated Rainfall](http://bagong.pagasa.dost.gov.ph/climate/tropical-cyclone-associated-rainfall)
+    *   [Tropical Cyclone Publications](http://bagong.pagasa.dost.gov.ph/tropical-cyclone-publications)
+        *   [Annual Report on Philippine Tropical Cyclones](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/publications/annual-report)
+        *   [Tropical Cyclone Preliminary Report](http://bagong.pagasa.dost.gov.ph/tropical-cyclone/publications/preliminary-report)
+
+    *   [About Tropical Cyclone](http://bagong.pagasa.dost.gov.ph/information/about-tropical-cyclone)
+
+*   [Climate](https://bagong.pagasa.dost.gov.ph/climate)
+
+    *   [Climate Monitoring](http://bagong.pagasa.dost.gov.ph/climate/climate-monitoring)
+        *   [Daily Rainfall and Temperature](http://bagong.pagasa.dost.gov.ph/climate/climate-monitoring#daily-rainfall-and-temperature)
+        *   [Monthly Monitoring Products](http://bagong.pagasa.dost.gov.ph/climate/climate-monthly-monitoring-products)
+        *   [Southeast Asia Climate Monitoring](http://seacm.pagasa.dost.gov.ph/)
+
+    *   [Climate Forum](http://bagong.pagasa.dost.gov.ph/climate)
+    *   [Climate Prediction](http://bagong.pagasa.dost.gov.ph/#)
+        *   [TenDay: Weather Forecast](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/10-day-climate-forecast)
+        *   [Sub Seasonal](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/sub-seasonal2)
+        *   [Seasonal Forecast](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/seasonal-forecast)
+        *   [Specialized Forecast](http://bagong.pagasa.dost.gov.ph/climate/climate-prediction/specialized-forecast)
+
+    *   [Climate Advisories](http://bagong.pagasa.dost.gov.ph/climate/climate-advisories)
+    *   [El Niño / La Niña](http://bagong.pagasa.dost.gov.ph/#)
+        *   [Monitoring](http://bagong.pagasa.dost.gov.ph/climate/el-nino-la-nina/monitoring)
+        *   [Advisories](http://bagong.pagasa.dost.gov.ph/climate/el-nino-la-nina/advisories)
+
+    *   [Climate Projection](http://bagong.pagasa.dost.gov.ph/#)
+        *   [Dynamic Downscaling](http://bagong.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling)
+            *   [CliMap](http://bagong.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling/climap)
+            *   [CliMap v2.0](http://bagong.pagasa.dost.gov.ph/climate/climate-change/dynamic-downscaling/climap-v2)
+
+        *   [Statistical Downscaling](http://bagong.pagasa.dost.gov.ph/climate/climate-change/statistical-downscaling)
+
+    *   [Climate Data](http://bagong.pagasa.dost.gov.ph/climate/climate-data)
+
+*   [Agri-Weather](https://bagong.pagasa.dost.gov.ph/agri-weather)
+
+    *   [Climate Information for Agriculture](http://bagong.pagasa.dost.gov.ph/#)
+        *   [Farm Weather Forecast](http://bagong.pagasa.dost.gov.ph/agri-weather#farm-weather-forecast)
+        *   [Weekend/Special Farm Weather Forecast](http://bagong.pagasa.dost.gov.ph/weekend-special-outlook)
+        *   [Ten-Day Regional Agri-Weather Information](http://bagong.pagasa.dost.gov.ph/ten-day-regional-agri-weather)
+        *   [Monthly Philippine Agro-Climatic Review and Outlook](http://bagong.pagasa.dost.gov.ph/agri-weather/monthly-agroclimatic-review-and-outlook)
+
+    *   [Impact Assessment for Agriculture](http://bagong.pagasa.dost.gov.ph/agri-weather/impact-assessment-for-agriculture)
+
+*   [Astronomy](https://bagong.pagasa.dost.gov.ph/astronomy)
+
+    *   [Telescoping and Stargazing](http://bagong.pagasa.dost.gov.ph/astronomy#telescoping-and-stargazing)
+    *   [Astronomy in the Philippines](http://bagong.pagasa.dost.gov.ph/astronomy#astronomy-in-the-philippines)
+    *   [Planetarium](http://bagong.pagasa.dost.gov.ph/astronomy#planetarium)
+    *   [Astronomical Observatory](http://bagong.pagasa.dost.gov.ph/astronomy#astronomical-observatory)
+    *   [Time Service](http://bagong.pagasa.dost.gov.ph/astronomy#time-service)
+    *   [Philippine Standard Time](http://bagong.pagasa.dost.gov.ph/astronomy#philippine-standard-time)
+    *   [Astronomical Diary](http://bagong.pagasa.dost.gov.ph/astronomy/astronomical-diary)
+
+*   [Regional Forecast](https://bagong.pagasa.dost.gov.ph/#)
+
+    *   [Northern Luzon](http://bagong.pagasa.dost.gov.ph/regional-forecast/nlprsd)
+    *   [National Capital Region](http://bagong.pagasa.dost.gov.ph/regional-forecast/ncrprsd)
+    *   [Southern Luzon](http://bagong.pagasa.dost.gov.ph/regional-forecast/slprsd)
+    *   [Visayas](http://bagong.pagasa.dost.gov.ph/regional-forecast/visprsd)
+    *   [Mindanao](http://bagong.pagasa.dost.gov.ph/regional-forecast/minprsd)
+
+![Image 43: A 32x32 small image, likely a logo, icon or avatar](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/warning_bar/information.png)
+
+x
+
+PAGASA Advisory
+
+ PAGASA would like to inform and caution the public of unauthorized individuals posing to be officials of the agency soliciting money for a foundation. A report has been received by PAGASA that an email had been sent to a contractor by someone pretending to be a PAGASA Official seeking to solicit donation to a certain foundation. We do not tolerate and detest that misrepresentation. Please be advised that no individuals or organization are authorized to use the name of PAGASA, its officials and employees for a favor. We request anyone who receive similar mail, email or calls to immediately report the matter to PAGASA Public Information Unit at Telephone No. (02) 8284-0800 local 1100 to 1101 or email us at information@pagasa.dost.gov.ph.**[See More](http://bagong.pagasa.dost.gov.ph/advisory/3)**
+
+*   [](http://bagong.pagasa.dost.gov.ph/#current-weather)
+*   [](http://bagong.pagasa.dost.gov.ph/#weather-outlook)
+*   [](http://bagong.pagasa.dost.gov.ph/#weather-map)
+*   [](http://bagong.pagasa.dost.gov.ph/#news-media)
+*   [](http://bagong.pagasa.dost.gov.ph/#contact-us)
+
+Port Area, Metro Manila
+
+*   [Ambulong, Batangas](http://bagong.pagasa.dost.gov.ph/)
+*   [San Jose, Occidental Mindoro](http://bagong.pagasa.dost.gov.ph/)
+*   [Dumaguete City, Negros Oriental](http://bagong.pagasa.dost.gov.ph/)
+*   [Mactan Intl Airport, Cebu](http://bagong.pagasa.dost.gov.ph/)
+*   [Maasin, Southern Leyte](http://bagong.pagasa.dost.gov.ph/)
+*   [Surigao, Surigao Del Norte](http://bagong.pagasa.dost.gov.ph/)
+*   [General Santos, South Cotabato](http://bagong.pagasa.dost.gov.ph/)
+*   [Itbayat, Batanes](http://bagong.pagasa.dost.gov.ph/)
+*   [Calayan, Cagayan](http://bagong.pagasa.dost.gov.ph/)
+*   [Basco Radar, Batanes](http://bagong.pagasa.dost.gov.ph/)
+*   [Sinait, Ilocos Sur](http://bagong.pagasa.dost.gov.ph/)
+*   [Laoag City, Ilocos Norte](http://bagong.pagasa.dost.gov.ph/)
+*   [Aparri, Cagayan](http://bagong.pagasa.dost.gov.ph/)
+*   [Tuguegarao City, Cagayan](http://bagong.pagasa.dost.gov.ph/)
+*   [Iba, Zambales](http://bagong.pagasa.dost.gov.ph/)
+*   [Dagupan City, Pangasinan](http://bagong.pagasa.dost.gov.ph/)
+*   [Clark Airport, Pampanga](http://bagong.pagasa.dost.gov.ph/)
+*   [Baguio City, Benguet](http://bagong.pagasa.dost.gov.ph/)
+*   [Cabanatuan, Nueva Ecija](http://bagong.pagasa.dost.gov.ph/)
+*   [Baler Radar, Aurora](http://bagong.pagasa.dost.gov.ph/)
+*   [Casiguran, Aurora](http://bagong.pagasa.dost.gov.ph/)
+*   [Port Area, Metro Manila](http://bagong.pagasa.dost.gov.ph/)
+*   [Cubi Pt., Zambales](http://bagong.pagasa.dost.gov.ph/)
+*   [Tayabas City, Quezon](http://bagong.pagasa.dost.gov.ph/)
+*   [Sangley Point, Cavite](http://bagong.pagasa.dost.gov.ph/)
+*   [Naia, Metro Manila](http://bagong.pagasa.dost.gov.ph/)
+*   [Science Garden, Quezon City](http://bagong.pagasa.dost.gov.ph/)
+*   [Calapan, Oriental Mindoro](http://bagong.pagasa.dost.gov.ph/)
+*   [Tanay, Rizal](http://bagong.pagasa.dost.gov.ph/)
+*   [Infanta, Quezon](http://bagong.pagasa.dost.gov.ph/)
+*   [Alabat, Quezon](http://bagong.pagasa.dost.gov.ph/)
+*   [Daet, Camarines Norte](http://bagong.pagasa.dost.gov.ph/)
+*   [Legazpi City, Albay](http://bagong.pagasa.dost.gov.ph/)
+*   [Virac, Catanduanes](http://bagong.pagasa.dost.gov.ph/)
+*   [Coron, Palawan](http://bagong.pagasa.dost.gov.ph/)
+*   [Romblon, Romblon](http://bagong.pagasa.dost.gov.ph/)
+*   [Roxas City, Capiz](http://bagong.pagasa.dost.gov.ph/)
+*   [Masbate, Masbate](http://bagong.pagasa.dost.gov.ph/)
+*   [Juban, Sorsogon](http://bagong.pagasa.dost.gov.ph/)
+*   [Catarman, Northern Samar](http://bagong.pagasa.dost.gov.ph/)
+*   [Catbalogan City, Western Samar](http://bagong.pagasa.dost.gov.ph/)
+*   [Tacloban City, Leyte](http://bagong.pagasa.dost.gov.ph/)
+*   [Borongan, Eastern Samar](http://bagong.pagasa.dost.gov.ph/)
+*   [Guiuan, Eastern Samar](http://bagong.pagasa.dost.gov.ph/)
+*   [Puerto Princesa City, Palawan](http://bagong.pagasa.dost.gov.ph/)
+*   [Cuyo, Palawan](http://bagong.pagasa.dost.gov.ph/)
+*   [Tagbiliran City, Bohol](http://bagong.pagasa.dost.gov.ph/)
+*   [Cotabato City, Maguindanao](http://bagong.pagasa.dost.gov.ph/)
+*   [Lumbia Airport, Misamis Oriental](http://bagong.pagasa.dost.gov.ph/)
+*   [Malaybalay, Bukidnon](http://bagong.pagasa.dost.gov.ph/)
+*   [Butuan City, Agusan Del Norte](http://bagong.pagasa.dost.gov.ph/)
+*   [Davao City, Davao Del Sur](http://bagong.pagasa.dost.gov.ph/)
+*   [Hinatuan, Surigao Del Sur](http://bagong.pagasa.dost.gov.ph/)
+*   [Zamboanga, Zamboanga Del Sur](http://bagong.pagasa.dost.gov.ph/)
+*   [Dipolog City, Zamboanga Del Norte](http://bagong.pagasa.dost.gov.ph/)
+
+![Image 44: Grey cloud with a blue outline is shedding falling snow](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/light-rains.png)
+Light rains
+
+High 32°C | Low 24°C
+
+**Temperature**
+
+30°C**Rainfall**
+
+- mm**Wind**
+
+7.2 km/hr SSW
+
+![Image 45: A white cell tower icon against a green circle](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/aws/128/aws.png)
+Nearby Weather Station : Tanay, Rizal Aws**As of December 2, 2025, 9:40 pm
+
+![Image 46: Temperature thermometer with red liquid inside](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/aws/128/temperature.png)
+Temperature: 23 °C
+
+![Image 47: A blue circle with a white cloud and downward-pointing arrows](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/aws/128/precipitation.png)
+Precipitation: 0 mm/hr
+
+![Image 48: White arrow in a blue circle, pointing to the right](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/aws/128/wind%20direction.png)
+Winds: 7.2 km/hr NNE
+
+![Image 49: Red circular icon showing a white speedometer with a white liquid drop on the right side](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/aws/128/humidity.png)
+Humidity: 91 %
+
+ 5 Day Weather Outlook 
+
+Dec 2
+
+Today
+
+![Image 50: Cloud with rain, lightning, and sun](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-to-at-times.png)
+
+H 32°C
+
+L 24°C
+
+Dec 3
+
+Wednesday
+
+![Image 51: Partly sunny weather with rain drops](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-with-isolated-rainshowers.png)
+
+H 32°C
+
+L 24°C
+
+Dec 4
+
+Thursday
+
+![Image 52: Partly sunny weather with rain drops](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-with-isolated-rainshowers.png)
+
+H 31°C
+
+L 24°C
+
+Dec 5
+
+Friday
+
+![Image 53: Partly sunny weather with rain drops](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-with-isolated-rainshowers.png)
+
+H 31°C
+
+L 23°C
+
+Dec 6
+
+Saturday
+
+![Image 54: Partly sunny weather with rain drops](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-with-isolated-rainshowers.png)
+
+H 31°C
+
+L 23°C
+
+ Hourly Forecast 
+
+ Loading data from external source 
+
+ Weather Map 
+
+![Image 55: Radar rainfall intensity legend, showing intensities in mm/hr](https://bagong.pagasa.dost.gov.ph/themes/hiraia//assets/images/layout/rainratenew.png)![Image 56: List of tropical cyclone intensities and their symbols](https://www.panahon.gov.ph/assets/legend_cyclone.png)
+
+![Image 57: A 26x26 small image, likely a logo, icon or avatar](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/css/images/layers.png)
+
+Radar Layers
+
+Radar Mosaic 
+
+Satellite Layers
+
+HIMAWARI IR1 
+
+Latest Weather
+
+Temperature(°C) 
+
+Heat Index(°C) 
+
+Precipitation(mm/hr) 
+
+Winds 
+
+Contours
+
+Temperature 
+
+Rain Fall (1hr Cumulative Data) 
+
+Alerts
+
+Active Warnings 
+
+Lightning 
+
+Domain
+
+Tropical Cyclone Advisory 
+
+Tropical Cyclone Information 
+
+[![Image 58: Four squares in dark blue containing weather-related icons on the top, rain, a cloud, and a thunderbolt are depicted in the first square and satellite symbol in the second, below in the third square a Hurricane symbol and a radar map of the Caribbean are located in the last square; PANaHON text in the bottom](https://www.panahon.gov.ph/img/panahon-logo.jpg) PANaHON](https://www.panahon.gov.ph/)[Hazard Map](https://hazardhunter.georisk.gov.ph/map)
+
+[Satellite](http://bagong.pagasa.dost.gov.ph/#)
+*   [Himawari IR1](http://bagong.pagasa.dost.gov.ph/)
+*   [GK2A](http://bagong.pagasa.dost.gov.ph/)
+*   [SatREx](https://rainx.pagasa.dost.gov.ph/)
+
+[Radar](http://bagong.pagasa.dost.gov.ph/radar)
+
+[Surface Map Analysis](http://bagong.pagasa.dost.gov.ph/)[Numerical Weather Prediction](https://bagong.pagasa.dost.gov.ph/products-and-services/numerical-modelling-system)
+
+Active Warnings
+
+[Show Legend](https://bagong.pagasa.dost.gov.ph/learnings/legend)
+
+###### **General Flood Advisory**
+
+![Image 59: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/hazard/flood/32/flood-monitoring.png)![Image 60: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/hazard/flood/32/final.png)
+
+ News and Media 
+
+### [Articles](https://bagong.pagasa.dost.gov.ph/article)
+
+##### [SPECIAL WEATHER OUTLOOK FOR UNDAS 2025](https://bagong.pagasa.dost.gov.ph/article/191)
+
+###### **WEATHER OUTLOOK FOR UNDAS 2025**
+
+##### 28 October, 2025
+
+SPECIAL WEATHER OUTLOOK FOR UNDAS 2025...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/191)
+
+##### [SPECIAL WEATHER OUTLOOK FOR THE 2025 STATE OF THE NATION ADDRESS](https://bagong.pagasa.dost.gov.ph/article/184)
+
+###### **SONA 2025, Special Weather Outlook**
+
+##### 25 July, 2025
+
+SPECIAL WEATHER OUTLOOK FOR THE 2025 STATE OF THE NATION ADDRESS...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/184)
+
+##### [SPECIAL WEATHER OUTLOOK FOR INDEPENDENCE DAY 2025](https://bagong.pagasa.dost.gov.ph/article/182)
+
+###### **Independence Day, Outlook**
+
+##### 10 June, 2025
+
+SPECIAL WEATHER OUTLOOK FOR INDEPENDENCE DAY 2025...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/182)
+
+##### [SPECIAL WEATHER OUTLOOK FOR 2025 NATIONAL AND LOCAL ELECTIONS](https://bagong.pagasa.dost.gov.ph/article/178)
+
+###### **(12 May 2025)**
+
+##### 09 May, 2025
+
+SPECIAL WEATHER OUTLOOK FOR 2025 NATIONAL AND LOCAL ELECTIONS (12 May 2025) The Frontal System and the E...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/178)
+
+##### [SPECIAL WEATHER OUTLOOK ON LABOR DAY 2025](https://bagong.pagasa.dost.gov.ph/article/177)
+
+###### **(01 May 2025)**
+
+##### 30 April, 2025
+
+SPECIAL WEATHER OUTLOOK ON LABOR DAY 2025 (01 May 2025) The Intertropical Convergence...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/177)
+
+### [Press Release](https://bagong.pagasa.dost.gov.ph/press-release)
+
+##### [CELEBRATION OF THE 33RD NATIONAL ASTRONOMY WEEK](https://bagong.pagasa.dost.gov.ph/press-release/194)
+
+###### **Astronomy**
+
+##### 01 December, 2025
+
+DOST-PAGASA S&T Media Service 1 December 2025, ...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/194)
+
+##### [DOST-PAGASA Backs Unified Framework on Maritime Search and Rescue](https://bagong.pagasa.dost.gov.ph/press-release/193)
+
+###### **Maritime, Safety, PCG**
+
+##### 22 October, 2025
+
+DOST-PAGASA S&T Media Service...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/193)
+
+##### [DOST-PAGASA Addresses Unofficial Reports on Possible November](https://bagong.pagasa.dost.gov.ph/press-release/192)
+
+###### **The DOST-Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) is aware of numerous social media posts from unofficial and unverified sources circulating information about a westward-moving typhoon or super typhoon forecast to cross the central Philippines (Southern Luzon-Visayas area) around 5 to 7 November 2025, citing weather model predictions from online sources.**
+
+##### 28 October, 2025
+
+DOST-PAGASA S&T Media...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/192)
+
+##### [ONSET OF THE NORTHEAST MONSOON](https://bagong.pagasa.dost.gov.ph/press-release/190)
+
+###### **Over the past few days, observations have indicated the strengthening of a high-pressure area over East Asia, which has caused a surge of northeasterly winds over Extreme Northern Luzon ...**
+
+##### 27 October, 2025
+
+DOST-PAGASA S&T Media Service ...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/190)
+
+##### [LA NIÑA CONDITIONS ARE PRESENT IN THE TROPICAL PACIFIC](https://bagong.pagasa.dost.gov.ph/press-release/189)
+
+###### **Periods of cooler than average sea surface temperatures (SSTs) in the equatorial Pacific Ocean that started in August 2025 continue to persist and further strengthened ....**
+
+##### 10 October, 2025
+
+...
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/189)
+
+ Contact Us 
+
+[![Image 61: PAGASA Webmail](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/webmail.png)](https://webmail.pagasa.dost.gov.ph/)
+
+[![Image 62: Learning Tools](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/learning.png)](https://bagong.pagasa.dost.gov.ph/learnings/learning-tools)
+
+[![Image 63: Bidding](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/bidding.png)](https://bagong.pagasa.dost.gov.ph/news-and-events/bidding-and-shopping)
+
+[![Image 64: Training Activities](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/training.png)](https://bagong.pagasa.dost.gov.ph/news-and-events/trainings-and-activities)
+
+[![Image 65: Vacancy](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/vacancy.png)](https://bagong.pagasa.dost.gov.ph/vacancy)
+
+[![Image 66: Research and Development](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/r%26d.png)](https://bagong.pagasa.dost.gov.ph/learnings/research-and-development)
+
+[![Image 67: Engineering Services](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/engineering.png)](https://bagong.pagasa.dost.gov.ph/products-and-services/engineering-services)
+
+[![Image 68: Frequently Asked Questions](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/faq.png)](https://bagong.pagasa.dost.gov.ph/learnings/faqs-and-trivias)
+
+[![Image 69: Publications](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/publications.png)](https://bagong.pagasa.dost.gov.ph/learnings/publication)
+
+[![Image 70: A 341x50 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/related-linkages/wbcc.png)](http://bagong.pagasa.dost.gov.ph/#)
+
+[![Image 71: Facebook logo](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/social/facebook-icon.png)](https://www.facebook.com/PAGASA.DOST.GOV.PH)[![Image 72: A glossy, circular icon for Twitter, featuring a light blue background and a stylized 't' in white](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/social/twitter-icon.png)](https://twitter.com/dost_pagasa)[![Image 73: Exclamation mark and three curved lines in white on red background](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/social/cap-icon.jpg)](https://publicalert.pagasa.dost.gov.ph/feeds/)[![Image 74: Orange button with the symbol for RSS feed on it](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/social/rss-icon.png)](https://www1.pagasa.dost.gov.ph/index.php/738-pagasa-rss-feeds)
+
+[![Image 75: This map shows the location of PAGASA Science Garden in the Philippines, surrounded by the National Power Corporation, the Bureau of Internal Revenue National Office, and the Central Bank of the Philippines](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/pagasa-location.png)](https://goo.gl/maps/soHAVna4DX22)
+
+![Image 76: Blue pixelated icon of an open envelope with a document inside](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/layout/mail.png)##### Email address:
+
+![Image 77: A 220x19 small image, likely a logo, icon or avatar](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/layout/pagasa-email.JPG)
+![Image 78: A light blue marker on a black background](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/layout/location.png)##### Address:
+
+Science Garden Compound, Senator Miriam P. Defensor-Santiago Avenue, Barangay Central, Quezon City, Metro Manila, Philippines 1100
+![Image 79: A blue, pixelated phone receiver on a black background](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/layout/contact.png)##### New PAGASA Trunk Line Number:
+
+(02)8284-0800
+
+[![Image 80: The Philippine Transparency Seal has a yellow sun symbol in the middle and the words Philippine Transparency Seal written in blue around the circle](https://bagong.pagasa.dost.gov.ph/themes/hiraia//assets/images/layout/transparency-seal.png)](https://bagong.pagasa.dost.gov.ph/transparency)
+
+[PAGASA CITIZEN CHARTER](https://bagong.pagasa.dost.gov.ph/citizen-charter)
+
+[![Image 81: Freedom of Information (FOI) Philippines seal](https://bagong.pagasa.dost.gov.ph/themes/hiraia//assets/images/layout/foi.png)](https://www.foi.gov.ph/agencies/pagasa/)
+
+[FREEDOM OF INFORMATION](https://www.foi.gov.ph/agencies/pagasa/)
+
+![Image 82: A 32x32 small image, likely a logo, icon or avatar](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/warning_bar/information.png)
+
+x
+
+PAGASA Advisory
+
+ PAGASA would like to inform and caution the public of unauthorized individuals posing to be officials of the agency soliciting money for a foundation. A report has been received by PAGASA that an email had been sent to a contractor by someone pretending to be a PAGASA Official seeking to solicit donation to a certain foundation. We do not tolerate and detest that misrepresentation. Please be advised that no individuals or organization are authorized to use the name of PAGASA, its officials and employees for a favor. We request anyone who receive similar mail, email or calls to immediately report the matter to PAGASA Public Information Unit at Telephone No. (02) 8284-0800 local 1100 to 1101 or email us at information@pagasa.dost.gov.ph.**[See More](http://bagong.pagasa.dost.gov.ph/advisory/3)**
+
+Port Area, Metro Manila
+
+*   [Ambulong, Batangas](http://bagong.pagasa.dost.gov.ph/)
+*   [San Jose, Occidental Mindoro](http://bagong.pagasa.dost.gov.ph/)
+*   [Dumaguete City, Negros Oriental](http://bagong.pagasa.dost.gov.ph/)
+*   [Mactan Intl Airport, Cebu](http://bagong.pagasa.dost.gov.ph/)
+*   [Maasin, Southern Leyte](http://bagong.pagasa.dost.gov.ph/)
+*   [Surigao, Surigao Del Norte](http://bagong.pagasa.dost.gov.ph/)
+*   [General Santos, South Cotabato](http://bagong.pagasa.dost.gov.ph/)
+*   [Itbayat, Batanes](http://bagong.pagasa.dost.gov.ph/)
+*   [Calayan, Cagayan](http://bagong.pagasa.dost.gov.ph/)
+*   [Basco Radar, Batanes](http://bagong.pagasa.dost.gov.ph/)
+*   [Sinait, Ilocos Sur](http://bagong.pagasa.dost.gov.ph/)
+*   [Laoag City, Ilocos Norte](http://bagong.pagasa.dost.gov.ph/)
+*   [Aparri, Cagayan](http://bagong.pagasa.dost.gov.ph/)
+*   [Tuguegarao City, Cagayan](http://bagong.pagasa.dost.gov.ph/)
+*   [Iba, Zambales](http://bagong.pagasa.dost.gov.ph/)
+*   [Dagupan City, Pangasinan](http://bagong.pagasa.dost.gov.ph/)
+*   [Clark Airport, Pampanga](http://bagong.pagasa.dost.gov.ph/)
+*   [Baguio City, Benguet](http://bagong.pagasa.dost.gov.ph/)
+*   [Cabanatuan, Nueva Ecija](http://bagong.pagasa.dost.gov.ph/)
+*   [Baler Radar, Aurora](http://bagong.pagasa.dost.gov.ph/)
+*   [Casiguran, Aurora](http://bagong.pagasa.dost.gov.ph/)
+*   [Port Area, Metro Manila](http://bagong.pagasa.dost.gov.ph/)
+*   [Cubi Pt., Zambales](http://bagong.pagasa.dost.gov.ph/)
+*   [Tayabas City, Quezon](http://bagong.pagasa.dost.gov.ph/)
+*   [Sangley Point, Cavite](http://bagong.pagasa.dost.gov.ph/)
+*   [Naia, Metro Manila](http://bagong.pagasa.dost.gov.ph/)
+*   [Science Garden, Quezon City](http://bagong.pagasa.dost.gov.ph/)
+*   [Calapan, Oriental Mindoro](http://bagong.pagasa.dost.gov.ph/)
+*   [Tanay, Rizal](http://bagong.pagasa.dost.gov.ph/)
+*   [Infanta, Quezon](http://bagong.pagasa.dost.gov.ph/)
+*   [Alabat, Quezon](http://bagong.pagasa.dost.gov.ph/)
+*   [Daet, Camarines Norte](http://bagong.pagasa.dost.gov.ph/)
+*   [Legazpi City, Albay](http://bagong.pagasa.dost.gov.ph/)
+*   [Virac, Catanduanes](http://bagong.pagasa.dost.gov.ph/)
+*   [Coron, Palawan](http://bagong.pagasa.dost.gov.ph/)
+*   [Romblon, Romblon](http://bagong.pagasa.dost.gov.ph/)
+*   [Roxas City, Capiz](http://bagong.pagasa.dost.gov.ph/)
+*   [Masbate, Masbate](http://bagong.pagasa.dost.gov.ph/)
+*   [Juban, Sorsogon](http://bagong.pagasa.dost.gov.ph/)
+*   [Catarman, Northern Samar](http://bagong.pagasa.dost.gov.ph/)
+*   [Catbalogan City, Western Samar](http://bagong.pagasa.dost.gov.ph/)
+*   [Tacloban City, Leyte](http://bagong.pagasa.dost.gov.ph/)
+*   [Borongan, Eastern Samar](http://bagong.pagasa.dost.gov.ph/)
+*   [Guiuan, Eastern Samar](http://bagong.pagasa.dost.gov.ph/)
+*   [Puerto Princesa City, Palawan](http://bagong.pagasa.dost.gov.ph/)
+*   [Cuyo, Palawan](http://bagong.pagasa.dost.gov.ph/)
+*   [Tagbiliran City, Bohol](http://bagong.pagasa.dost.gov.ph/)
+*   [Cotabato City, Maguindanao](http://bagong.pagasa.dost.gov.ph/)
+*   [Lumbia Airport, Misamis Oriental](http://bagong.pagasa.dost.gov.ph/)
+*   [Malaybalay, Bukidnon](http://bagong.pagasa.dost.gov.ph/)
+*   [Butuan City, Agusan Del Norte](http://bagong.pagasa.dost.gov.ph/)
+*   [Davao City, Davao Del Sur](http://bagong.pagasa.dost.gov.ph/)
+*   [Hinatuan, Surigao Del Sur](http://bagong.pagasa.dost.gov.ph/)
+*   [Zamboanga, Zamboanga Del Sur](http://bagong.pagasa.dost.gov.ph/)
+*   [Dipolog City, Zamboanga Del Norte](http://bagong.pagasa.dost.gov.ph/)
+
+![Image 83: Grey cloud with a blue outline is shedding falling snow](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/light-rains.png)
+
+Light rains
+
+High 32°C | Low 24°C
+
+Temperature
+
+30°C
+
+Rainfall
+
+- mm
+
+Winds
+
+7.2 km/hr SSW
+
+##### Weather Station: Tanay, Rizal Aws As of 9:12 pm
+
+Temperature: 23 °C
+
+Precipitation: 0 mm/hr
+
+Humidity: 91 %
+
+Winds: 7.2 km/hr NNE
+
+![Image 84](http://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/meteogram_legends/temperature.png)Temperature
+
+![Image 85](http://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/meteogram_legends/precipitation.png)Precipitation
+
+![Image 86](http://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/meteogram_legends/airpressure.png)Relative Humidity
+
+![Image 87](http://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/meteogram_legends/barb.png)Wind
+
+#### 5-Day Weather Outlook for Port Area, Metro Manila
+
+Dec 2
+
+Today
+
+![Image 88: Cloud with rain, lightning, and sun](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-to-at-times.png)
+
+H 32°C
+
+L 24°C
+
+Dec 3
+
+Wednesday
+
+![Image 89: Partly sunny weather with rain drops](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-with-isolated-rainshowers.png)
+
+H 32°C
+
+L 24°C
+
+Dec 4
+
+Thursday
+
+![Image 90: Partly sunny weather with rain drops](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-with-isolated-rainshowers.png)
+
+H 31°C
+
+L 24°C
+
+Dec 5
+
+Friday
+
+![Image 91: Partly sunny weather with rain drops](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-with-isolated-rainshowers.png)
+
+H 31°C
+
+L 23°C
+
+Dec 6
+
+Saturday
+
+![Image 92: Partly sunny weather with rain drops](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/weather/64/partly-cloudy-skies-with-isolated-rainshowers.png)
+
+H 31°C
+
+L 23°C
+
+[](http://bagong.pagasa.dost.gov.ph/#)
+
+![Image 93: Radar rainfall intensity legend, showing intensities in mm/hr](https://bagong.pagasa.dost.gov.ph/themes/hiraia//assets/images/layout/rainratenew.png)![Image 94: List of tropical cyclone intensities and their symbols](https://www.panahon.gov.ph/assets/legend_cyclone.png)
+
+![Image 95: A 26x26 small image, likely a logo, icon or avatar](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/css/images/layers.png)
+
+Radar Layers
+
+Radar Mosaic 
+
+Satellite Layers
+
+HIMAWARI IR1 
+
+Latest Weather
+
+Temperature(°C) 
+
+Heat Index(°C) 
+
+Precipitation(mm/hr) 
+
+Winds 
+
+Contours
+
+Temperature 
+
+Rain Fall (1hr Cumulative Data) 
+
+Alerts
+
+Active Warnings 
+
+Lightning 
+
+Domain
+
+Tropical Cyclone Advisory 
+
+Tropical Cyclone Information 
+
+[![Image 96: Four squares in dark blue containing weather-related icons on the top, rain, a cloud, and a thunderbolt are depicted in the first square and satellite symbol in the second, below in the third square a Hurricane symbol and a radar map of the Caribbean are located in the last square; PANaHON text in the bottom](https://www.panahon.gov.ph/img/panahon-logo.jpg) PANaHON](https://www.panahon.gov.ph/)[Hazard Map](https://hazardhunter.georisk.gov.ph/map)
+
+[Satellite](http://bagong.pagasa.dost.gov.ph/#)
+*   [Himawari IR1](http://bagong.pagasa.dost.gov.ph/)
+*   [GK2A](http://bagong.pagasa.dost.gov.ph/)
+*   [SatREx](https://rainx.pagasa.dost.gov.ph/)
+
+[Radar](http://bagong.pagasa.dost.gov.ph/radar)
+
+[Surface Map Analysis](http://bagong.pagasa.dost.gov.ph/)[Numerical Weather Prediction](https://bagong.pagasa.dost.gov.ph/products-and-services/numerical-modelling-system)
+
+Active Warnings
+
+[Show Legend](https://bagong.pagasa.dost.gov.ph/learnings/legend)
+
+###### **General Flood Advisory**
+
+![Image 97: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/hazard/flood/32/flood-monitoring.png)![Image 98: A 32x32 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/hazard/flood/32/final.png)
+
+ News and Media 
+
+[Videos](https://www.youtube.com/channel/UCpyLikj1x70S8UPxVqsPr6g)
+
+[Photo Gallery](http://bagong.pagasa.dost.gov.ph/news-and-events/photo-gallery)
+
+![Image 99: A man pointing at a large monitor with a map, surrounded by people at what appears to be a Science, Technology, and Innovation Week event](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/piias/gallery/thumbnail-692d6168d0679_692d6168d0708.png)
+
+[DOST - PAGASA at the 2025 RSTW National Capital Region](https://bagong.pagasa.dost.gov.ph/news-and-events/photo-gallery/61)
+
+![Image 100: Five people stand on a stage at the 37th Ugnay Palay National Rice R&D Conference with one of them holding a bag of rice and another a certificate](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/piias/gallery/thumbnail-6929032a954ee_6929032a95596.png)
+
+[DOST-PAGASA recognized by DA-PhilRice for its contribution to the rice sector](https://bagong.pagasa.dost.gov.ph/news-and-events/photo-gallery/60)
+
+* * *
+
+### [Articles](https://bagong.pagasa.dost.gov.ph/article)
+
+##### [SPECIAL WEATHER OUTLOOK FOR UNDAS 2025](https://bagong.pagasa.dost.gov.ph/article/191)
+
+###### **WEATHER OUTLOOK FOR UNDAS 2025**
+
+##### 28 October, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/191)
+
+##### [SPECIAL WEATHER OUTLOOK FOR THE 2025 STATE OF THE NATION ADDRESS](https://bagong.pagasa.dost.gov.ph/article/184)
+
+###### **SONA 2025, Special Weather Outlook**
+
+##### 25 July, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/184)
+
+##### [SPECIAL WEATHER OUTLOOK FOR INDEPENDENCE DAY 2025](https://bagong.pagasa.dost.gov.ph/article/182)
+
+###### **Independence Day, Outlook**
+
+##### 10 June, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/182)
+
+##### [SPECIAL WEATHER OUTLOOK FOR 2025 NATIONAL AND LOCAL ELECTIONS](https://bagong.pagasa.dost.gov.ph/article/178)
+
+###### **(12 May 2025)**
+
+##### 09 May, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/178)
+
+##### [SPECIAL WEATHER OUTLOOK ON LABOR DAY 2025](https://bagong.pagasa.dost.gov.ph/article/177)
+
+###### **(01 May 2025)**
+
+##### 30 April, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/article/177)
+
+### [Press Release](https://bagong.pagasa.dost.gov.ph/press-release)
+
+##### [CELEBRATION OF THE 33RD NATIONAL ASTRONOMY WEEK](https://bagong.pagasa.dost.gov.ph/press-release/194)
+
+###### **Astronomy**
+
+##### 01 December, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/194)
+
+##### [DOST-PAGASA Backs Unified Framework on Maritime Search and Rescue](https://bagong.pagasa.dost.gov.ph/press-release/193)
+
+###### **Maritime, Safety, PCG**
+
+##### 22 October, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/193)
+
+##### [DOST-PAGASA Addresses Unofficial Reports on Possible November](https://bagong.pagasa.dost.gov.ph/press-release/192)
+
+###### **The DOST-Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) is aware of numerous social media posts from unofficial and unverified sources circulating information about a westward-moving typhoon or super typhoon forecast to cross the central Philippines (Southern Luzon-Visayas area) around 5 to 7 November 2025, citing weather model predictions from online sources.**
+
+##### 28 October, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/192)
+
+##### [ONSET OF THE NORTHEAST MONSOON](https://bagong.pagasa.dost.gov.ph/press-release/190)
+
+###### **Over the past few days, observations have indicated the strengthening of a high-pressure area over East Asia, which has caused a surge of northeasterly winds over Extreme Northern Luzon ...**
+
+##### 27 October, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/190)
+
+##### [LA NIÑA CONDITIONS ARE PRESENT IN THE TROPICAL PACIFIC](https://bagong.pagasa.dost.gov.ph/press-release/189)
+
+###### **Periods of cooler than average sea surface temperatures (SSTs) in the equatorial Pacific Ocean that started in August 2025 continue to persist and further strengthened ....**
+
+##### 10 October, 2025
+
+[**Read more**](https://bagong.pagasa.dost.gov.ph/press-release/189)
+
+![Image 101: The Philippine Atmospheric, Geophysical and Astronomical Services Administration joins the celebration of the 125th Philippine Civil Service anniversary, with the theme Bawat Kawani, Lingkod Bayani: Puso, Dangal, at Galing Para sa Bayan, to be held in September 2025](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/PCS_125.png)
+
+ Contact Us 
+
+[![Image 102: PAGASA Webmail](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/webmail.png)](https://webmail.pagasa.dost.gov.ph/)
+
+[![Image 103: Learning Tools](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/learning.png)](https://bagong.pagasa.dost.gov.ph/learnings/learning-tools)
+
+[![Image 104: Bidding](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/bidding.png)](https://bagong.pagasa.dost.gov.ph/news-and-events/bidding-and-shopping)
+
+[![Image 105: Training Activities](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/training.png)](https://bagong.pagasa.dost.gov.ph/news-and-events/trainings-and-activities)
+
+[![Image 106: Vacancy](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/vacancy.png)](https://bagong.pagasa.dost.gov.ph/vacancy)
+
+[![Image 107: Research and Development](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/r%26d.png)](https://bagong.pagasa.dost.gov.ph/learnings/research-and-development)
+
+[![Image 108: Engineering Services](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/engineering.png)](https://bagong.pagasa.dost.gov.ph/products-and-services/engineering-services)
+
+[![Image 109: Frequently Asked Questions](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/faq.png)](https://bagong.pagasa.dost.gov.ph/learnings/faqs-and-trivias)
+
+[![Image 110: Publications](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/menu/publications.png)](https://bagong.pagasa.dost.gov.ph/learnings/publication)
+
+[![Image 111: A 341x50 small image, likely a logo, icon or avatar](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/images/related-linkages/wbcc.png)](http://bagong.pagasa.dost.gov.ph/#)
+
+[![Image 112: Facebook logo](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/social/facebook-icon.png)](https://www.facebook.com/PAGASA.DOST.GOV.PH)[![Image 113: A glossy, circular icon for Twitter, featuring a light blue background and a stylized 't' in white](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/social/twitter-icon.png)](https://twitter.com/dost_pagasa)[![Image 114: Exclamation mark and three curved lines in white on red background](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/social/cap-icon.jpg)](https://publicalert.pagasa.dost.gov.ph/feeds/)[![Image 115: Orange button with the symbol for RSS feed on it](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/icons/social/rss-icon.png)](https://www1.pagasa.dost.gov.ph/index.php/738-pagasa-rss-feeds)
+
+![Image 116: Blue pixelated icon of an open envelope with a document inside](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/layout/mail.png)##### Email address:
+
+![Image 117: A 220x19 small image, likely a logo, icon or avatar](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/layout/pagasa-email.JPG)
+![Image 118: A light blue marker on a black background](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/layout/location.png)##### Address:
+
+Science Garden Compound, Senator Miriam P. Defensor-Santiago Avenue, Barangay Central, Quezon City, Metro Manila, Philippines 1100
+![Image 119: A blue, pixelated phone receiver on a black background](https://bagong.pagasa.dost.gov.ph/themes/hiraia/assets/images/layout/contact.png)##### New PAGASA Trunk Line Number:
+
+(02)8284-0800
+
+[![Image 120: The Philippine Transparency Seal has a yellow sun symbol in the middle and the words Philippine Transparency Seal written in blue around the circle](https://bagong.pagasa.dost.gov.ph/themes/hiraia//assets/images/layout/transparency-seal.png)](https://bagong.pagasa.dost.gov.ph/transparency)
+
+[PAGASA CITIZEN CHARTER](https://bagong.pagasa.dost.gov.ph/citizen-charter)
+
+[![Image 121: Freedom of Information (FOI) Philippines seal](https://bagong.pagasa.dost.gov.ph/themes/hiraia//assets/images/layout/foi.png)](https://www.foi.gov.ph/agencies/pagasa/)
+
+[FREEDOM OF INFORMATION](https://www.foi.gov.ph/agencies/pagasa/)
+
+[![Image 122: DPO/DPS registration with National Privacy Commission valid until 05 November 2025](https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/CORSeal.PNG)](https://bagong.pagasa.dost.gov.ph/privacy-notice)
+
+[PRIVACY NOTICE](https://bagong.pagasa.dost.gov.ph/privacy-notice)
+
+**Disclaimer: This website is best viewed using Google Chrome.**
+
+![Image 123](http://bagong.pagasa.dost.gov.ph/)

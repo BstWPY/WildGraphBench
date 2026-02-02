@@ -1,0 +1,75 @@
+# The Top Twenty: Factorial
+
+The Top Twenty: Factorial primes
+
+===============
+
+The Wayback Machine - http://primes.utm.edu/top20/page.php?id=30
+
+![Image 1: The Top Twenty--a Prime Page Collection](http://primes.utm.edu/top20/includes/gifs/top_twenty.gif)Factorial primes
+================
+
+This page : [Definition(s)](http://primes.utm.edu/top20/page.php?id=30#notes) | [Records](http://primes.utm.edu/top20/page.php?id=30#records) | [References](http://primes.utm.edu/top20/page.php?id=30#references) | [Related Pages](http://primes.utm.edu/top20/page.php?id=30#related) | [![Image 2: RSS 2.0 Feed](http://primes.utm.edu/top20/includes/gifs/rss2.gif)](http://primes.utm.edu/top20/rss.php?id=30)
+
+*   [Home](http://primes.utm.edu/top20/home.php)
+*   [Index](http://primes.utm.edu/top20/index.php)
+*   [Search](http://primes.utm.edu/top20/search.php)
+*   [Sizes](http://primes.utm.edu/top20/sizes.php)
+*   [Trends](http://primes.utm.edu/top20/trends.php)
+*   [id=30](http://primes.utm.edu/top20/)
+
+ View this page in: [![Image 3: language help](http://primes.utm.edu/assets/question.gif)](http://primes.utm.edu/top20/help/translating.php)
+
+### The Prime Pages
+
+*   [Prime Pages' Home](http://primes.utm.edu/)
+*   [Top 5000's Primes](http://primes.utm.edu/primes/)
+*   [Top 5000's Persons](http://primes.utm.edu/bios/)
+*   [Finding Primes](http://primes.utm.edu/prove/)
+*   [Prime Glossary](http://primes.utm.edu/glossary/)
+*   [Prime Curios!](http://primes.utm.edu/curios/)
+
+[](http://primes.utm.edu/top20/page.php?id=30)The Prime Pages keeps a list of the 5000 largest known primes, plus a few each of certain selected archivable forms and classes. These forms are defined in this collection's home page. This page is about one of those forms. Comments and suggestions [requested](mailto:caldwell@utm.edu).[](http://primes.utm.edu/top20/page.php?id=30)
+### [![Image 4: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=30#top) Definitions and Notes
+
+Factorial [primes](http://primes.utm.edu/glossary/xpage/Prime.html) come in two flavors: [factorial plus one](http://primes.utm.edu/glossary/xpage/FactorialPrime.html): _n_!+1, and [factorial minus one](http://primes.utm.edu/glossary/xpage/FactorialPrime.html): _n_!-1. The form _n_!+1 is prime for _n_=1, 2, 3, 11, 27, 37, 41, 73, 77, 116, 154, 320, 340, 399, 427, 872, 1477 and 6380 (21507 digits). (See [Borning72], [Templer80], [BCP82], and [Caldwell95].) The form _n_!-1 is prime for _n_=3, 4, 6, 7, 12, 14, 30, 32, 33, 38, 94, 166, 324, 379, 469, 546, 974, 1963, 3507, 3610 and 6917 (23560 digits). Both forms have been tested to _n_=10000 [CG2000]. 
+There is more information of [primorial](http://primes.utm.edu/glossary/xpage/Primorial.html) and [factorial primes](http://primes.utm.edu/glossary/xpage/FactorialPrime.html) in [Dubner87] and [Dubner89a].
+
+[](http://primes.utm.edu/top20/page.php?id=30)
+### [![Image 5: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=30#top) Record Primes of this Type
+
+> | rank | prime | digits | who | when | comment |
+> | --- | --- | --- | --- | --- | --- |
+> | [1](http://primes.utm.edu/primes/page.php?id=102627) | **150209! + 1** | 712355 | [p3](http://primes.utm.edu/bios/code.php?code=p3) | Oct 2011 | Factorial |
+> | [2](http://primes.utm.edu/primes/page.php?id=100445) | **110059! + 1** | 507082 | [p312](http://primes.utm.edu/bios/code.php?code=p312) | Jun 2011 | Factorial |
+> | [3](http://primes.utm.edu/primes/page.php?id=96944) | **103040! - 1** | 471794 | [p301](http://primes.utm.edu/bios/code.php?code=p301) | Dec 2010 | Factorial |
+> | [4](http://primes.utm.edu/primes/page.php?id=95248) | **94550! - 1** | 429390 | [p290](http://primes.utm.edu/bios/code.php?code=p290) | Oct 2010 | Factorial |
+> | [5](http://primes.utm.edu/primes/page.php?id=79) | **34790! - 1** | 142891 | [p85](http://primes.utm.edu/bios/code.php?code=p85) | May 2002 | Factorial |
+> | [6](http://primes.utm.edu/primes/page.php?id=106) | **26951! + 1** | 107707 | [p65](http://primes.utm.edu/bios/code.php?code=p65) | May 2002 | Factorial |
+> | [7](http://primes.utm.edu/primes/page.php?id=254) | **21480! - 1** | 83727 | [p65](http://primes.utm.edu/bios/code.php?code=p65) | Sep 2001 | Factorial |
+> | [8](http://primes.utm.edu/primes/page.php?id=7789) | **6917! - 1** | 23560 | [g1](http://primes.utm.edu/bios/code.php?code=g1) | Oct 1998 | Factorial |
+> | [9](http://primes.utm.edu/primes/page.php?id=8220) | **6380! + 1** | 21507 | [g1](http://primes.utm.edu/bios/code.php?code=g1) | Oct 1998 | Factorial |
+> | [10](http://primes.utm.edu/primes/page.php?id=16771) | **3610! - 1** | 11277 | [C](http://primes.utm.edu/bios/code.php?code=C) | Oct 1993 | Factorial |
+> | [11](http://primes.utm.edu/primes/page.php?id=16968) | **3507! - 1** | 10912 | [C](http://primes.utm.edu/bios/code.php?code=C) | Oct 1992 | Factorial |
+> | [12](http://primes.utm.edu/primes/page.php?id=23398) | **1963! - 1** | 5614 | [CD](http://primes.utm.edu/bios/code.php?code=CD) | Oct 1992 | Factorial |
+> | [13](http://primes.utm.edu/primes/page.php?id=27279) | **1477! + 1** | 4042 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1984 | Factorial |
+> | [14](http://primes.utm.edu/primes/page.php?id=31592) | **974! - 1** | 2490 | [CD](http://primes.utm.edu/bios/code.php?code=CD) | Oct 1992 | Factorial |
+> | [15](http://primes.utm.edu/primes/page.php?id=33856) | **872! + 1** | 2188 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1983 | Factorial |
+> | [16](http://primes.utm.edu/primes/page.php?id=44969) | **546! - 1** | 1260 | [D](http://primes.utm.edu/bios/code.php?code=D) | Oct 1992 | Factorial |
+> | [17](http://primes.utm.edu/primes/page.php?id=55020) | **469! - 1** | 1051 | [BC](http://primes.utm.edu/bios/code.php?code=BC) | Dec 1981 | Factorial |
+
+[](http://primes.utm.edu/top20/page.php?id=30)
+### [![Image 6: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=30#top) Related Pages
+
+*   The World of Mathematics: [Factorial Prime](http://mathworld.wolfram.com/FactorialPrime.html)
+*   The Prime Glossary's: [Factorial prime](http://primes.utm.edu/glossary/page.php?sort=FactorialPrime)
+*   The Prime Glossary's: [Multifactorial prime](http://primes.utm.edu/glossary/page.php?sort=MultifactorialPrime)
+*   [The chronology of prime number records'](http://perso.wanadoo.fr/yves.gallot/primes/chrrcds.html#factorial) Factorial/Primorial Prime Records by year
+*   The Top 20 [primorial primes](http://primes.utm.edu/top20/page.php?id=5)
+
+[](http://primes.utm.edu/top20/page.php?id=30)
+### [![Image 7: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=30#top) References
+
+> BCP82**J. P. Buhler**, **R. E. Crandall** and **M. A. Penk**, "Primes of the form _n!_± 1 and 2 · 3 · 5 ..._p_± 1," _Math. Comp._, **38**:158 (1982) 639--643. Corrigendum in _Math. Comp._**40** (1983), 727.**[MR 83c:10006](http://www.ams.org/mathscinet-getitem?mr=83c:10006)**Borning72**A. Borning**, "Some results for _k!_± 1 and 2 · 3 · 5 ..._p_± 1," _Math. Comp._, **26** (1972) 567--570.**[MR 46:7133](http://www.ams.org/mathscinet-getitem?mr=46:7133)**Caldwell95**C. Caldwell**, "On the primality of _n!_± 1 and 2 · 3 · 5 ..._p_± 1," _Math. Comp._, **64**:2 (1995) 889--890.**[MR 95g:11003](http://www.ams.org/mathscinet-getitem?mr=95g:11003)**CG2000**C. Caldwell** and **Y. Gallot**, "On the primality of _n!_± 1 and 2 × 3 × 5 × ... ×_p_± 1," _Math. Comp._, **71**:237 (2002) 441--448.**[MR 2002g:11011](http://www.ams.org/mathscinet-getitem?mr=2002g:11011)** ([Abstract available](http://primes.utm.edu/references/refs.cgi?long=CG2000 "Entry with abstract")) ([Annotation available](http://primes.utm.edu/references/refs.cgi?long=CG2000 "Entry with annotation")) Dubner87**H. Dubner**, "Factorial and primorial primes," _J. Recreational Math._, **19**:3 (1987) 197--203. Krizek2008**M. Křížek** and **L. Somer**, "Euclidean primes have the minimum number of primitive roots," _JP J. Algebra Number Theory Appl._, **12**:1 (2008) 121--127.**[MR2494078](http://www.ams.org/mathscinet-getitem?mr=MR2494078)**Templer80**M. Templer**, "On the primality of _k! +_ 1 and 2 _*_ 3 _*_ 5 _*_..._* p +_ 1," _Math. Comp._, **34** (1980) 303-304.**[MR 80j:10010](http://www.ams.org/mathscinet-getitem?mr=80j:10010)**
+
+[Chris K. Caldwell](http://www.utm.edu/~caldwell/) © 1996-2013 ([all rights reserved](http://primes.utm.edu/top20/includes/copyright.php))

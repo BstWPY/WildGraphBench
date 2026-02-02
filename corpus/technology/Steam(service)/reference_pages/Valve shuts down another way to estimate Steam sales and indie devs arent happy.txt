@@ -1,0 +1,41 @@
+# Valve shuts down another way to estimate Steam sales, and indie devs aren't happy
+
+The Wayback Machine - https://www.pcgamesn.com/steam-sales-estimates
+
+![Image 1: steam sales estimates](https://www.pcgamesn.com/sites/default/files/steam%20sales%20estimates_0.jpg)
+
+-
+
+-
+
+1
+
+After Steam Spy’s effective death, Valve has put an end to another method for sales estimates. Last month, some indie devs discovered a way to use Steam’s achievement data to estimate sales, but Valve has now changed how that information is presented - essentially killing another impromptu sales tracker.
+
+By using achievement data, you can make a rough guess about how many people own a game, as the methodology went. If 50% of players have a certain achievement, for example, you know that there are at least two players, and by applying that line of though across a full set of achievements you can start to form an estimate about how many players there are.
+
+_These are the [best indie games on PC](https://www.pcgamesn.com/the-15-best-indie-games-on-pc)._
+
+Of course, the single decimal point on Steam’s public global achievement stat page isn’t enough for an accurate estimate, but the API data gives a full 16 digits of numerical info. Tyler Glaiel, a developer whose credits include titles like Closure and The End is Nigh, ran down how to use that info to estimate sales in a[Medium post](https://medium.com/@tglaiel/using-achievement-stats-to-estimate-sales-on-steam-d18b4b635d23) back on June 29.
+
+In update today, however, Glaiel says Valve has now changed how the API info works, rounding the numbers to the nearest decimal. That means this achievement method of estimating sales no longer works, either.
+
+There was some suspicion that the [Steam profile privacy changes](https://www.pcgamesn.com/game-devs-react-steam-privacy-change) Valve made earlier this year were an effort to reach GDPR compliance, but others suspected that those changes were aimed at cutting off Steam Spy’s info. Now, some developers are even more convinced that Valve aims to end third-party sales tracking.
+
+Glaiel [tweets](https://twitter.com/TylerGlaiel/status/1014428391607398400) “looks like the gdpr thing was just an excuse after all.” Vlambeer co-founder Rami Ismail similarly[says](https://twitter.com/tha_rami/status/1014445264831164416) “Valve killed the achievement user numbers trick faster than you can say ‘GDPR was never the issue with SteamSpy.’” Escape Goat 2 deve Katelyn Gadd [says](https://twitter.com/antumbral/status/1014428682524418049) “shocking few people, valve really did just kill steamspy out of spite and definitely don't want anything like it to exist ever again.”
+
+“It seriously seems like Valve privacy settings change was targeted towards SteamSpy's estimates methodology,” as analyst Thomas Bidaux [tweets](https://twitter.com/icotom/status/1014539622074998789). “Someone found another method, Valve made it irrelevant shortly, this time user privacy wasn't part of the equation.”
+
+Steam Spy creator Sergey Galyonkin has been [retweeting](https://twitter.com/Steam_Spy) many of these concerns today. Like Steam Spy, the achievement tracking method wasn’t an entirely accurate way of gathering sales data, but it did provide an estimate - something not available elsewhere. These sales trackers were prone to fueling unfortunate forum wars, but they also provided indie devs with market data that can’t be found elsewhere, at least not outside of expensive analysis services.
+
+Last week, Valve talked about plans for a [Steam Spy alternative](https://www.pcgamesn.com/steam-spy-alternative) that would offer more accuracy and better data. The [Steam Spy shut down](https://www.pcgamesn.com/steam-spy-shut-down) wasn’t entirely complete, either - Galyonkin has been working on a machine learning algorithm to offer a new window into that sales data. But in the meantime, it seems Valve is uninterested in allowing any third-party methods of estimating sales to continue. At least none that rely on the Steam API.
+
+-
+
+-
+
+1
+
+[![Image 2: GOTW](https://www.pcgamesn.com/sites/default/files/Free%20PC%20Game%20of%20the%20Week%20-%20War%20Thunder_0.jpg)](https://warthunder.com/en/play4free/%20?r=PCGN_inline)
+
+[Sign in to Comment](https://www.pcgamesn.com/user/login)[![Image 3: login to comment](https://www.pcgamesn.com/sites/all/themes/pcgamesn/images/comments/comment-form-placeholder.png)](https://www.pcgamesn.com/user/login)

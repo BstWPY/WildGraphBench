@@ -1,0 +1,279 @@
+# Report: Steam poses security risk
+
+Report: Steam poses security risk - The H Security: News and Features
+
+===============
+
+The Wayback Machine - http://www.h-online.com/security/news/item/Report-Steam-poses-security-risk-1731562.html
+
+[![Image 3: The H Security](http://www.h-online.com/security/icons/security_logo_theH.gif)](http://www.h-online.com/security/)
+
+*   [Security](http://www.h-online.com/security/news/item/Report-Steam-poses-security-risk-1731562.html# "The H navigation")
+    *   ##### Channels
+
+        *   [Home](http://www.h-online.com/)
+        *   [Open](http://www.h-online.com/open/)
+        *   [Security](http://www.h-online.com/security/)
+        *   [Developer](http://www.h-online.com/developer/)
+
+    *   ##### Services
+
+        *   [Internet Toolkit](http://www.h-online.com/security/services/Internet-Toolkit-747773.html)
+        *   [Update Check](http://www.h-online.com/security/services/The-H-Update-Check-880736.html)
+
+In association with heise online
+
+*   [Last 7 days](http://www.h-online.com/security/news/ "Last 7 days")
+*   [News Archive](http://www.h-online.com/security/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/security/features/ "Features")
+
+[« previous](http://www.h-online.com/security/news/item/Stormy-October-patch-day-for-Oracle-1731176.html) | [next »](http://www.h-online.com/security/news/item/miniFlame-the-Flame-trojan-s-little-brother-1731705.html)
+
+17 October 2012, 15:59
+
+Report: Steam poses security risk
+=================================
+
+*   [![Image 4: submit to slashdot](http://www.h-online.com/icons/syndication/slashdot16x14.gif)](http://slashdot.org/slashdot-it.pl?op=basic&url=http%3A%2F%2Fwww.h-online.com%2Fsecurity%2Fnews%2Fitem%2FReport-Steam-poses-security-risk-1731562.html&title=Report%20Steam%20poses%20security%20risk&tags=security&notes=Among%20other%20things%20Valves%20Steam%20platform%20is%20used%20to%20distribute%20games%20and%20functions%20as%20a%20central%20hub%20of%20the%20companys%20DRM%20concept.%20It%20registers%20a%20steam%20URL%20protocol%20that%20can%20apparently%20allow%20attackers%20to%20infect%20PCs%20with%20malware)
+*   [![Image 5: StumbleUpon](http://www.h-online.com/icons/syndication/stumble16x14.gif)](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.h-online.com%2Fsecurity%2Fnews%2Fitem%2FReport-Steam-poses-security-risk-1731562.html&title=Report%20Steam%20poses%20security%20risk)
+*   [![Image 6: submit to reddit](http://www.h-online.com/icons/syndication/reddit16x14.gif)](http://reddit.com/submit?url=http%3A%2F%2Fwww.h-online.com%2Fsecurity%2Fnews%2Fitem%2FReport-Steam-poses-security-risk-1731562.html&title=Report%20Steam%20poses%20security%20risk)
+
+*   2 clicks for more privacy: you need to click here to activate the button and send your recommendation to Facebook. An activated button will send information to third parties even without clicking it – see _i_. not connected to Facebook![Image 7: Facebook "Like"-Dummy](http://www.h-online.com/js/plugins/socialshareprivacy/images/dummy_facebook_like.png) 
+*   2 clicks for more privacy: you need to click here to activate the button and send your recommendation to Twitter. An activated button will send information to third parties even without clicking it – see _i_. nicht mit Twitter verbunden![Image 8: "Tweet this"-Dummy](http://www.h-online.com/js/plugins/socialshareprivacy/images/dummy_twitter.png) 
+*   2 clicks for more privacy: you need to click here to activate the button and send your recommendation to Google+. An activated button will send information to third parties even without clicking it – see _i_. nicht mit Google+ verbunden![Image 9: "Google+1"-Dummy](http://www.h-online.com/js/plugins/socialshareprivacy/images/dummy_gplus.png) 
+*   [If you activate these buttons by clicking on them, information will get transfered to Facebook, Twitter or Google in the USA and potentially stored there. Find out more by clicking on the _i_](http://www.h-online.com/features/Two-clicks-for-more-privacy-1783256.html)Einstellungen Permanently enable and agree to transfer information:- [x] Facebook - [x] Twitter - [x] Google+  
+
+![Image 10: Valve Software logo](http://www.h-online.com/imgs/43/9/3/4/3/4/7/Valve_Software_logo_200-d7fa660996a891c6.png) Security firm [ReVuln](http://revuln.com/) has analysed the browser protocol that [Steam](http://store.steampowered.com/about/) servers use to execute commands via users' browsers. During the analysis, the company's researchers discovered security issues that could potentially allow attackers to infect PCs with malicious code such as spyware.
+
+Among other things, Valve's Steam platform is used to distribute games and also functions as a central hub of the company's digital rights management concept. During installation, it registers the `steam://`URL protocol which is capable of connecting to game servers and launching games, for example via:
+
+steam://run/id/language/url_encoded_parameters
+In the simplest case, an attacker can use this to interfere with the parameters that are submitted to the program. For example, the [Source](http://source.valvesoftware.com/) engine's command line allows users to select a specific log file and add items to it. The ReVuln researchers say that they successfully used this attack vector to infect a system via a batch file that they had created in the autostart folder. Popular games such as _Half-Life 2_ and _Team Fortress 2_ use the Source engine and are distributed through Valve's Steam platform. In the even more popular Unreal engine, the researchers also found a way to inject and execute arbitrary code. Potential attackers would, of course, first have to establish which games are installed on the target computer.
+
+Browsers such as Internet Explorer, Chrome and Firefox display an alert when `steam://` URLs are called; only Safari passes them on without any warning. In their "[Steam Browser Protocol Insecurity](http://revuln.com/files/ReVuln_Steam_Browser_Protocol_Insecurity.pdf)![Image 11: PDF](http://www.h-online.com/icons/file-pdf.gif)" report, the researchers also discuss ways of bypassing these alerts or at least hiding "the dodgy part of the URL".
+
+This means that the Steam platform potentially presents a significant risk for PCs – this includes Windows PCs, and especially Macs, where the default Safari browser directly executes the Steam URLs. While Valve is [working on a version](http://www.h-online.com/news/item/Valve-officially-announces-Steam-and-Left-4-Dead-2-for-Linux-1643632.html "Valve officially announces Steam and Left 4 Dead 2 for Linux – 17 July 2012, 12:38") of the Steam game distribution platform for Linux, the software is not yet publicly available; however, the company plans to [release a limited beta](http://www.h-online.com/news/item/Valve-plans-beta-test-for-Steam-on-Linux-1718872.html "Valve plans beta test for Steam on Linux – 27 September 2012, 12:08") in the coming weeks.
+
+Considering that a new 0-day exploit seems to be found whenever someone examines the popular [gaming platforms for security issues](http://www.h-online.com/news/item/Ubisoft-DRM-opens-backdoor-1655653.html "Ubisoft DRM opens backdoor – 30 July 2012, 17:57"), gamers should seriously consider their options in terms of separating their entertainment from their sensitive data. Running a dedicated gaming PC on a separate network offers the best protection, but it also requires considerable effort and expense. A second instance of Windows on the same PC is not quite as safe, but it does considerably reduce the attack surface. At the very least, gamers could set up a dedicated gaming account with restricted privileges.
+
+[ReVuln](http://revuln.com/about.htm) is a company that sells information about unpatched security issues to businesses and governments; therefore, one of its paying customers may well already be in possession of functioning exploits for the Steam platform.
+
+([crve](mailto:crve@h-online.com "Chris von Eitzen "))
+
+[« previous](http://www.h-online.com/security/news/item/Stormy-October-patch-day-for-Oracle-1731176.html) | [next »](http://www.h-online.com/security/news/item/miniFlame-the-Flame-trojan-s-little-brother-1731705.html)
+
+[Print Version](http://www.h-online.com/security/news/item/Report-Steam-poses-security-risk-1731562.html?view=print) | [Send by email](http://www.h-online.com/security/news/item/Report-Steam-poses-security-risk-1731562.html?view=mail) | Permalink: [http://h-online.com/-1731562](http://h-online.com/-1731562)
+
+#### Also on The H:
+
+*   [ROSA Desktop Fresh R1 brings Azure and Steam support](http://www.h-online.com/newsticker/news/item/ROSA-Desktop-Fresh-R1-brings-Azure-and-Steam-support-1885644.html/from/related "ROSA Desktop Fresh R1 brings Azure and Steam support")
+*   [Steam for Linux officially launched](http://www.h-online.com/newsticker/news/item/Steam-for-Linux-officially-launched-1804359.html/from/related "Steam for Linux officially launched")
+*   [Steam for Linux beta open for all](http://www.h-online.com/newsticker/news/item/Steam-for-Linux-beta-open-for-all-1772878.html/from/related "Steam for Linux beta open for all")
+*   [Valve plans beta test for Steam on Linux](http://www.h-online.com/newsticker/news/item/Valve-plans-beta-test-for-Steam-on-Linux-1718872.html/from/related "Valve plans beta test for Steam on Linux")
+*   [Valve officially announces Steam and Left 4 Dead 2 for Linux](http://www.h-online.com/newsticker/news/item/Valve-officially-announces-Steam-and-Left-4-Dead-2-for-Linux-1643632.html/from/related "Valve officially announces Steam and Left 4 Dead 2 for Linux")
+*   [Valve is working on Steam and "Left 4 Dead 2" for Linux](http://www.h-online.com/newsticker/news/item/Valve-is-working-on-Steam-and-Left-4-Dead-2-for-Linux-1558793.html/from/related "Valve is working on Steam and \"Left 4 Dead 2\" for Linux")
+
+![Image 12: The H Open Headlines](http://www.h-online.com/imgs/43/6/6/3/4/7/0/The-H_Security_Headlines-aa9abb476998b71b.gif)
+*   [The H is closing down](http://www.h-online.com/security/news/item/The-H-is-closing-down-1920027.html "The H is closing its doors four and a half years after heise online UK was redesigned as a open source and security news and features web destination")
+*   [Android and its password problems open doors for spies](http://www.h-online.com/security/news/item/Android-and-its-password-problems-open-doors-for-spies-1918596.html "Android's rudimentary backup feature saves Wi-Fi passwords in plain text on Google servers. This is not in itself news, but it takes on new significance in the light of PRISM")
+*   [Critical vulnerabilities in numerous ASUS routers](http://www.h-online.com/security/news/item/Critical-vulnerabilities-in-numerous-ASUS-routers-1918469.html "Compromising ASUS routers on which the storage service AiCloud is activated is apparently a simple matter. Attackers can access private data and even navigate around the local network")
+*   [NSS 3.15.1 brings TLS 1.2 support to Firefox](http://www.h-online.com/security/news/item/NSS-3-15-1-brings-TLS-1-2-support-to-Firefox-1918133.html "Network Security Services (NSS), the collection of cryptographic libraries which is used, among others, by Mozilla's Firefox browser, now supports TLS 1.2. This enables the use of TLS with HMAC-SHA256 ciphers")
+*   [Second Android signature attack disclosed](http://www.h-online.com/security/news/item/Second-Android-signature-attack-disclosed-1918061.html "A second hole in Android's signature validation has been disclosed, though there are greater limitations to the new technique. Google and CyanogenMod have patched the holes but how other vendors will handle it is to be seen")
+*   [Black Hat 2013: NSA director to speak at hacker conference](http://www.h-online.com/security/news/item/Black-Hat-2013-NSA-director-to-speak-at-hacker-conference-1917800.html "The organisers of the Black Hat conference have attracted the director of the American NSA, General Keith Alexander, as a keynote speaker. This has caused controversy")
+
+* * *
+
+![Image 13: A 130x24 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/8/4/3/6/7/security_teaserlogo-636122bcad36f2a7.gif)
+*   ##### [Content Security Policy halts XSS in its tracks](http://www.h-online.com/security/features/Content-Security-Policy-halts-XSS-in-its-tracks-1892346.html "Content Security Policy halts XSS in its tracks")
+
+[![Image 14: Content Security Policy halts XSS in its tracks](http://www.h-online.com/imgs/43/1/0/3/8/9/4/6/CSP_kicker-41fa163408fdf0fd.png)](http://www.h-online.com/security/features/Content-Security-Policy-halts-XSS-in-its-tracks-1892346.html "Content Security Policy halts XSS in its tracks") 
+[Cross-site scripting (XSS) is one of the biggest problems faced by webmasters. The new Content Security Policy standard should finally provide some relief more»](http://www.h-online.com/security/features/Content-Security-Policy-halts-XSS-in-its-tracks-1892346.html "Content Security Policy halts XSS in its tracks")
+
+*   ##### [Skype's ominous link checking: Facts and speculation](http://www.h-online.com/security/features/Skype-s-ominous-link-checking-Facts-and-speculation-1865629.html "Skype's ominous link checking: Facts and speculation")
+
+[![Image 15: Skype Listening In graphic](http://www.h-online.com/imgs/43/1/0/2/5/2/0/9/skypesnk_220-19a720b1fe06c456.png)](http://www.h-online.com/security/features/Skype-s-ominous-link-checking-Facts-and-speculation-1865629.html "Skype's ominous link checking: Facts and speculation") 
+[Our associate's discovery that URLs sent through Skype are then visited by Microsoft has caused quite a stir. A little more information has now emerged and leads to even more questions more»](http://www.h-online.com/security/features/Skype-s-ominous-link-checking-Facts-and-speculation-1865629.html "Skype's ominous link checking: Facts and speculation")
+
+*   ##### [Password protection for everyone](http://www.h-online.com/security/features/Password-protection-for-everyone-1795647.html "Password protection for everyone")
+
+[![Image 16: Password protection for everyone](http://www.h-online.com/imgs/43/9/7/7/7/8/4/passwordprotection_kicker-136f5ec21c52843b.png)](http://www.h-online.com/security/features/Password-protection-for-everyone-1795647.html "Password protection for everyone") 
+[Those who heed well-intentioned recommendations and use a separate password for every service either require a photographic memory or the right techniques to keep the multitude of passwords under control more»](http://www.h-online.com/security/features/Password-protection-for-everyone-1795647.html "Password protection for everyone")
+
+*   ##### [Two clicks for more privacy](http://www.h-online.com/features/Two-clicks-for-more-privacy-1783256.html "Two clicks for more privacy")
+
+[![Image 17: Two clicks for more privacy](http://www.h-online.com/imgs/43/9/6/9/7/1/9/twoclicks_kicker-f4eee08a8b1c5b35.png)](http://www.h-online.com/features/Two-clicks-for-more-privacy-1783256.html "Two clicks for more privacy") 
+["Like" buttons for Facebook, Google+ and Twitter present a privacy problem. A 2-click concept developed by heise online addresses this problem more»](http://www.h-online.com/features/Two-clicks-for-more-privacy-1783256.html "Two clicks for more privacy")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+*   [![Image 18: July's Community Calendar](http://www.h-online.com/imgs/43/8/7/5/1/1/1/h_cc_07_jul-110ac047c092a538.png)](http://www.h-online.com/open/features/The-H-Community-Calendar-July-2013-Update-2-1895335.html "July's Community Calendar") 
+
+* * *
+
+![Image 19: A 116x24 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/6/4/3/0/6/hot_on_theH-3db637ac9c827b9e.gif)
+*   ##### [What's new in SUSE Linux Enterprise 11 SP3](http://www.h-online.com/open/features/What-s-new-in-SUSE-Linux-Enterprise-11-SP3-1914471.html "What's new in SUSE Linux Enterprise 11 SP3")
+
+[![Image 20: What's new in SUSE Linux Enterprise 11 SP3](http://www.h-online.com/imgs/43/1/0/4/7/7/3/4/WhatsNew_SUSE_LE_11_SP3_kicker-00a6e38b833ed20b.png)](http://www.h-online.com/open/features/What-s-new-in-SUSE-Linux-Enterprise-11-SP3-1914471.html "What's new in SUSE Linux Enterprise 11 SP3") 
+[Service Pack 3 includes numerous enhancements for virtualisation and, by adding Secure Boot support and new drivers, beefs up support for newer hardware. There are also numerous enhancements relating to server storage and networking more»](http://www.h-online.com/open/features/What-s-new-in-SUSE-Linux-Enterprise-11-SP3-1914471.html "What's new in SUSE Linux Enterprise 11 SP3")
+
+*   ##### [What's new in Fedora 19](http://www.h-online.com/open/features/What-s-new-in-Fedora-19-1910304.html "What's new in Fedora 19")
+
+[![Image 21: What's new in Fedora 19](http://www.h-online.com/imgs/43/1/0/4/5/1/0/0/f19_220-d9f86c63d4720ba7.png)](http://www.h-online.com/open/features/What-s-new-in-Fedora-19-1910304.html "What's new in Fedora 19") 
+[In a nod to fans of classic desktop interfaces, the new Fedora includes a MATE variant and classic mode for GNOME. Systemd now takes care of containers and assigning network names. New drivers support 3D acceleration in newer Radeon graphics cards more»](http://www.h-online.com/open/features/What-s-new-in-Fedora-19-1910304.html "What's new in Fedora 19")
+
+*   ##### [What's new in Linux 3.10](http://www.h-online.com/open/features/What-s-new-in-Linux-3-10-1902270.html "What's new in Linux 3.10")
+
+[![Image 22: What's new in Linux 3.10](http://www.h-online.com/imgs/43/1/0/4/3/2/4/0/WhatsNewIn_Linux310_kicker-ca825b2356a627aa.png)](http://www.h-online.com/open/features/What-s-new-in-Linux-3-10-1902270.html "What's new in Linux 3.10") 
+[A second SSD caching framework and support for the new Radeons' video decoder are two of the most important enhancements in Linux 3.10, which is now out. This version also includes several new and improved drivers and a change to the network stack to speed up HTTP connections more»](http://www.h-online.com/open/features/What-s-new-in-Linux-3-10-1902270.html "What's new in Linux 3.10")
+
+*   ##### [Free Software post-PRISM](http://www.h-online.com/open/features/Free-Software-post-PRISM-1896357.html "Free Software post-PRISM")
+
+[![Image 23: Free Software post-PRISM](http://www.h-online.com/imgs/43/1/0/4/1/6/5/9/post-PRISM-kicker-e12da2e633cff890.png)](http://www.h-online.com/open/features/Free-Software-post-PRISM-1896357.html "Free Software post-PRISM") 
+[The news has been full of talk of spying, whistleblowing and data mining. Glyn Moody looks at how open source has been used to threaten freedom and privacy and how it could be used to defend them more»](http://www.h-online.com/open/features/Free-Software-post-PRISM-1896357.html "Free Software post-PRISM")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+![Image 24: A 94x25 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/8/4/3/5/9/open_teaserlogo-c4daa86e1d39dd37.gif)
+*   ##### [Kernel Log: Coming in 3.10 (Part 4) - Drivers](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-4-Drivers-1897675.html "Kernel Log: Coming in 3.10 (Part 4) - Drivers")
+
+[![Image 25: Kernel Log: Coming in 3.10 (Part 3) [--] Infrastructure](http://www.h-online.com/imgs/43/1/0/4/2/6/7/2/comingin310_4_kicker-4977194bfb0de0d7.png)](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-4-Drivers-1897675.html "Kernel Log: Coming in 3.10 (Part 4) - Drivers") 
+[Linux 3.10 will be able to use the video acceleration features offered by Radeon graphics cores. Systems with Intel graphics will wake from standby faster. Linux now has an input device driver for Apple's infrared receiver more»](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-4-Drivers-1897675.html "Kernel Log: Coming in 3.10 (Part 4) - Drivers")
+
+*   ##### [The trouble with "Business Source"](http://www.h-online.com/open/features/The-trouble-with-Business-Source-1886354.html "The trouble with \"Business Source\"")
+
+[![Image 26: Business Source artwork](http://www.h-online.com/imgs/43/1/0/3/5/3/8/0/business_source_220-3a0844989a78d734.png)](http://www.h-online.com/open/features/The-trouble-with-Business-Source-1886354.html "The trouble with \"Business Source\"") 
+[The problem of creating funding in a new software business is a major one, and doubly so for open source based companies. Michael Widenius recently described his solution to the problem, "Business Source", claiming it delivers "most of the benefits of open source". The H took a look to see how that held up more»](http://www.h-online.com/open/features/The-trouble-with-Business-Source-1886354.html "The trouble with \"Business Source\"")
+
+*   ##### [Kernel Log: Coming in 3.10 (Part 3) - Infrastructure](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-3-Infrastructure-1897249.html "Kernel Log: Coming in 3.10 (Part 3) - Infrastructure")
+
+[![Image 27: Kernel Log: Coming in 3.10 (Part 3) [--] Infrastructure](http://www.h-online.com/imgs/43/1/0/4/2/3/2/3/comingin310_3_kicker-151cd7b9e9660f05.png)](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-3-Infrastructure-1897249.html "Kernel Log: Coming in 3.10 (Part 3) - Infrastructure") 
+[Kernel developers have toned down an over-eager feature for protecting against the Samsung UEFI bug and added a function for reducing timer interrupt overhead. Improvements have also been made to Hyper-V support and instructions for reporting errors more»](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-3-Infrastructure-1897249.html "Kernel Log: Coming in 3.10 (Part 3) - Infrastructure")
+
+*   ##### [Whatever happened to Google?](http://www.h-online.com/open/features/Whatever-happened-to-Google-1875864.html "Whatever happened to Google?")
+
+[![Image 28: Whatever happened to Google?](http://www.h-online.com/imgs/43/1/0/3/2/1/8/4/google_kicker-a57bd6391d520d49.png)](http://www.h-online.com/open/features/Whatever-happened-to-Google-1875864.html "Whatever happened to Google?") 
+[Although Google continues to support a variety of open projects and people, Glyn Moody notes that, following recent changes to Google Code and Google Talk, concern is growing that something fundamental has changed more»](http://www.h-online.com/open/features/Whatever-happened-to-Google-1875864.html "Whatever happened to Google?")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+![Image 29: A 145x25 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/8/4/3/6/5/The-H_Developer-d0875a1e2347a603.png)
+*   ##### [Java EE 7 at a glance](http://www.h-online.com/developer/features/Java-EE-7-at-a-glance-1889207.html "Java EE 7 at a glance")
+
+[![Image 30: Java EE 7 at a glance](http://www.h-online.com/imgs/43/1/0/3/7/5/6/6/javaee7ataglance-b25be8fa3115f750.png)](http://www.h-online.com/developer/features/Java-EE-7-at-a-glance-1889207.html "Java EE 7 at a glance") 
+[The next step for Java EE 6 was planned to be cloud support but the collapse of ambitious developer plans has meant Java EE 7 arrived with few fundamentally new aspects, representing more a consistent effort to round off existing features more»](http://www.h-online.com/developer/features/Java-EE-7-at-a-glance-1889207.html "Java EE 7 at a glance")
+
+*   ##### [Continuous database migration with Liquibase and Flyway](http://www.h-online.com/developer/features/Continuous-database-migration-with-Liquibase-and-Flyway-1860080.html "Continuous database migration with Liquibase and Flyway")
+
+[![Image 31: Continuous database migration with Liquibase and Flyway](http://www.h-online.com/imgs/43/1/0/2/1/3/3/9/Liquibase_Flyway_kicker-12785335ab912b1a.png)](http://www.h-online.com/developer/features/Continuous-database-migration-with-Liquibase-and-Flyway-1860080.html "Continuous database migration with Liquibase and Flyway") 
+[An application's version-controlled source code is stored in the repository. Why not that of the database? To reproduce arbitrary database states in development, test or production environments, two powerful Java libraries are at hand that can be seamlessly integrated into a build for an agile Continuous Delivery more»](http://www.h-online.com/developer/features/Continuous-database-migration-with-Liquibase-and-Flyway-1860080.html "Continuous database migration with Liquibase and Flyway")
+
+*   ##### [Unit testing with Node.js](http://www.h-online.com/developer/features/Unit-testing-with-Node-js-1829727.html "Unit testing with Node.js")
+
+[![Image 32: Unit testing with Node.js](http://www.h-online.com/imgs/43/1/0/0/1/1/1/3/unit_testing_kicker-1e0c6d0ef31cd807.png)](http://www.h-online.com/developer/features/Unit-testing-with-Node-js-1829727.html "Unit testing with Node.js") 
+[Consistent unit testing is a basic quality requirement in modern software rdevelopment. Mocha is a framework for writing and executing such tests in Node.js more»](http://www.h-online.com/developer/features/Unit-testing-with-Node-js-1829727.html "Unit testing with Node.js")
+
+*   ##### [Ruby 2.0 - the 20th birthday present](http://www.h-online.com/developer/features/Ruby-2-0-the-20th-birthday-present-1810233.html "Ruby 2.0 - the 20th birthday present ")
+
+[![Image 33: Ruby 2.0 at 20](http://www.h-online.com/imgs/43/9/8/7/9/7/7/ruby20-0f7cf4be822e71eb.png)](http://www.h-online.com/developer/features/Ruby-2-0-the-20th-birthday-present-1810233.html "Ruby 2.0 - the 20th birthday present ") 
+[On 24 February 2013, the Ruby community celebrated the 20th birthday of its programming language. Ruby 2.0, a new major release that includes various exciting new features, was released at the same time and The H looks at some of the major changes more»](http://www.h-online.com/developer/features/Ruby-2-0-the-20th-birthday-present-1810233.html "Ruby 2.0 - the 20th birthday present ")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+![Image 34: A 120x24 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/8/4/3/6/9/hits_of_theH-5f0b199d8fce0589.gif)
+*   ##### [Linux Mint 15: A better Ubuntu for the desktop](http://www.h-online.com/open/features/Linux-Mint-15-A-better-Ubuntu-for-the-desktop-1873682.html "Linux Mint 15: A better Ubuntu for the desktop")
+
+[![Image 35: Linux Mint 15](http://www.h-online.com/imgs/43/1/0/3/0/4/6/3/LinuxMint15_kicker-658be8558318e71c.png)](http://www.h-online.com/open/features/Linux-Mint-15-A-better-Ubuntu-for-the-desktop-1873682.html "Linux Mint 15: A better Ubuntu for the desktop") 
+[The Linux Mint project has announced "the most ambitious release since the start of the project". Linux Mint 15 promises a focus on the desktop that Ubuntu has been neglecting lately. The H investigates whether the release delivers on these ambitions more»](http://www.h-online.com/open/features/Linux-Mint-15-A-better-Ubuntu-for-the-desktop-1873682.html "Linux Mint 15: A better Ubuntu for the desktop")
+
+*   ##### [What's new in Linux 3.9](http://www.h-online.com/open/features/What-s-new-in-Linux-3-9-1845705.html "What's new in Linux 3.9")
+
+[![Image 36: What's new in Linux 3.8](http://www.h-online.com/imgs/43/1/0/1/2/2/0/9/WhatsNewIn_Linux39_kicker-914cd4254f05caf9.png)](http://www.h-online.com/open/features/What-s-new-in-Linux-3-9-1845705.html "What's new in Linux 3.9") 
+[The Linux kernel is finally able to use SSDs as hard-disk cache. Changes to the network subsystem promise to improve the way server jobs are distributed across multiple processor cores. Linux 3.9 also includes drivers for new AMD graphics chips and soon-expected Wi-Fi components from Intel more»](http://www.h-online.com/open/features/What-s-new-in-Linux-3-9-1845705.html "What's new in Linux 3.9")
+
+*   ##### [Replacing Google Reader](http://www.h-online.com/open/features/Replacing-Google-Reader-1829086.html "Replacing Google Reader")
+
+[![Image 37: Replacing Google Reader](http://www.h-online.com/imgs/43/1/0/0/0/6/3/5/replacing_Reader_kicker-a1442215c6afd1ad.png)](http://www.h-online.com/open/features/Replacing-Google-Reader-1829086.html "Replacing Google Reader") 
+[For a large number of internet users the current challenge is finding a replacement for Google Reader. The H's Fabian Scherschel has looked at the functionality that made Google Reader popular and the current best alternatives to the Reader experience more»](http://www.h-online.com/open/features/Replacing-Google-Reader-1829086.html "Replacing Google Reader")
+
+*   ##### [Attacking TrueCrypt](http://www.h-online.com/security/features/Attacking-TrueCrypt-1735157.html "Attacking TrueCrypt")
+
+[![Image 38: Attacking TrueCrypt](http://www.h-online.com/imgs/43/9/3/6/9/6/9/attacking-truecrypt220-9605f21f63ced97c.png)](http://www.h-online.com/security/features/Attacking-TrueCrypt-1735157.html "Attacking TrueCrypt") 
+[TrueCrypt is considered the software of choice for encrypting data. A small utility called TCHead systematically takes on this encryption more»](http://www.h-online.com/security/features/Attacking-TrueCrypt-1735157.html "Attacking TrueCrypt")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+#### [The H](http://www.h-online.com/ "The H")
+
+*   [Last 7 days](http://www.h-online.com/news/ "Last 7 days news and features")
+*   [News Archive](http://www.h-online.com/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/features/ "Features")
+
+#### [The H Open](http://www.h-online.com/open/ "The H Open")
+
+*   [Last 7 days](http://www.h-online.com/open/news/ "Last 7 days news and features")
+*   [News Archive](http://www.h-online.com/open/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/open/features/ "Features")
+
+#### [The H Security](http://www.h-online.com/security/ "The H Security")
+
+*   [Last 7 days](http://www.h-online.com/security/news/ "Last 7 days news and features")
+*   [News Archive](http://www.h-online.com/security/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/security/features/ "Features")
+
+#### [The H Developer](http://www.h-online.com/developer/ "The H Developer")
+
+*   [Last 7 days](http://www.h-online.com/developer/news/ "Last 7 days news and features")
+*   [News Archive](http://www.h-online.com/developer/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/developer/features/ "Features")
+
+#### [The H Internet Toolkit](http://www.h-online.com/security/services/Internet-Toolkit-747773.html)
+
+*   [Update Check](http://www.h-online.com/security/services/The-H-Update-Check-Closed-until-further-notice-880736.html)
+*   [Anti-Virus](http://www.h-online.com/security/services/Anti-Virus-747579.html)
+*   [Browsercheck](http://www.h-online.com/security/services/Browsercheck-732895.html)
+*   [Emailcheck](http://www.h-online.com/security/services/Emailcheck-747686.html)
+*   [Test SSL certificates](http://www.h-online.com/nettools/tools/chksslkey)
+*   [Whois query](http://www.h-online.com/nettools/tools/whois-query)
+
+*   [My IP address](http://www.h-online.com/nettools/tools/ip/)
+*   [Traceroute](http://www.h-online.com/nettools/tools/traceroute)
+*   [DNS query](http://www.h-online.com/nettools/tools/dns-query)
+*   [Subnet calculator](http://www.h-online.com/nettools/subnet-calculator.shtml)
+*   [MAC addresses](http://www.h-online.com/nettools/tools/mac-addresses)
+
+*   [RFCs](http://www.h-online.com/nettools/rfc/)
+*   [Ping](http://www.h-online.com/nettools/tools/ping)
+*   [Bandwidth calculator](http://www.h-online.com/nettools/tools/bandwidth-calculator)
+*   [Spam list query](http://www.h-online.com/nettools/tools/spam-list-query)
+*   [IP addresses](http://www.h-online.com/security/services/Reserved-IPv4-addresses-732899.html)
+
+Copyright © 2013 [Heise Media UK Ltd.](http://www.h-online.com/Contact-273335.html)[About Cookies](http://www.h-online.com/Cookie-information-1582679.html)[Privacy Policy](http://www.h-online.com/Privacy-Policy-of-h-online-com-273337.html)[Contact us](http://www.h-online.com/Contact-273335.html)
+
+![Image 39: A 1x1 image, likely be a tacker probe](http://www.h-online.com/ivw-bin/ivw/CP/security/news/item/Report-Steam-poses-security-risk-1731562.html)
+
+[![Image 40](http://www.etracker.de/cnt.php?v=3.0&java=y&tc=1383602840654&et_tz=0&et=86m8Nm&et_ilevel=0&swidth=800&sheight=600&siwidth=1024&siheight=1024&scookie=1&scolor=24&et_pagename=http%3A/www.h-online.com/security/news/item/Report-Steam-poses-security-risk-1731562.html&et_areas=security%252Fnews&et_target=,0,0,0,0&et_se=4&et_url=http%3A/www.h-online.com/security/news/item/Report-Steam-poses-security-risk-1731562.html&slang=en-US&p=Chrome%20PDF%20Viewer%3BChromium%20PDF%20Viewer%3BMicrosoft%20Edge%20PDF%20Viewer%3BWebKit%20built-in%20PDF%3BShockwave%20Flash%2032.0%3BJavascript%201.5)](http://www.h-online.comhttp//www.etracker.de/app?et=86m8Nm)

@@ -1,0 +1,953 @@
+# Federal Land Ownership: Overview and Data
+
+Federal Land Ownership: Overview  and Data 
+
+# Carol Hardy Vincent 
+
+# Specialist in Natural Resources Policy 
+
+# Laura A. Hanson 
+
+# Senior Research Librarian 
+
+# Carla N. Argueta 
+
+# Analyst in Immigration Policy 
+
+# March 3, 2017 
+
+> Congressional Research Service
+> 7-5700
+> www.crs.gov
+> R42346 Federal Land Ownership: Overview and Data
+> Congressional Research Service
+
+# Summary 
+
+The federal government owns roughly 640 million acres, about 28% of the 2.27 billion acres of land in the United States. Four major federal land management agencies administer 610.1 million acres of this land (as of September 30, 2015). They are the Bureau of Land Management (BLM), Fish and Wildlife Service (FWS), and National Park Service (NPS) in the Department of the Interior (DOI) and the Forest Service (FS) in the Department of Agriculture. In addition, the Department of Defense (excluding the U.S. Army Corps of Engineers) administers 11.4 million acres in the United States (as of September 30, 2014), consisting of military bases, training ranges, and more. Numerous other agencies administer the remaining federal acreage. 
+
+The lands administered by the four major agencies are managed for many purposes, primarily related to preservation, recreation, and development of natural resources. Yet the agencies have distinct responsibilities. The BLM manages 248.3 million acres of public land and administers about 700 million acres of federal subsurface mineral estate throughout the nation. The BLM has a multiple -use, sustained -yield mandate that supports a variety of activities and programs, as does the FS, which currently manages 192.9 million acres. Most FS lands are designated national forests. Wildfire protection is increasingly important for both agencies. The FWS manages 89.1 million acres of the U.S. total, primarily to conserve and protect animals and plants. The National Wildlife Refuge System includes wildlife refuges, waterfowl production areas, and wildlife coordination units. In 2015, the NPS managed 79.8 million acres in 408 diverse units to conserve lands and resources and make them available for public use. Activities that harvest or remove resources from NPS lands generally are prohibited. 
+
+The amount and percentage of federally owned land in each state varies widely, ranging from 0.3% of land (in Connecticut and Iowa) to 79.6% of land (in Nevada). However, federal land ownership generally is concentrated in the West. Specifically, 61.3% of Alaska is federally owned, as is 46.4% of the 11 coterminous western states. By contrast, the federal government owns 4.2% of lands in the other states. This western concentration has contributed to a higher degree of controversy over federal land ownership and use in that part of the country. 
+
+Throughout America’s history, federal land laws have reflected two visions: keeping some lands in federal ownership while disposing of others. From the earliest days, there has been conflict between these two visions. During the 19 th century, many laws encouraged settlement of the West through federal land disposal. Mostly in the 20 th century, emphasis shifted to retention of federal lands. Congress has provided varying land acquisition and disposal authorities to the agencies, ranging from restricted (NPS) to broad (BLM). As a result of acquisitions and disposals, from 1990 to 2015, total federal land ownership by the five agencies declined by 25.4 million acres (3.9%), from 646.9 million acres to 621.5 million acres. Much of the decline is attributable to BLM land disposals in Alaska and to reductions in DOD land. By contrast, land ownership by the NPS, FWS, and FS increased over the 25 -year period. Further, although 15 states had decreases of federal land during this period, the other states had varying increases. 
+
+Numerous issues affecting federal land management are before Congress. These issues include the extent of federal ownership and whether to decrease, maintain, or increase the amount of federal holdings; the condition of currently owned federal infrastructure and lands and the priority of their maintenance versus new acquisitions; and the optimal balance between land use and protection, and whether federal lands should be managed primarily to benefit the nation as a whole or to benefit the localities and states. Another issue is border control on federal lands along the southwestern border, which presents challenges due to the length of the border, remoteness and topography of the lands, and differences in missions of managing agencies. Federal Land Ownership: Overview and Data 
+
+> Congressional Research Service
+
+# Contents 
+
+Introduction  ................................ ................................ ................................ ................................ .....  1
+
+Historical Background  ................................ ................................ ................................ .....................  1
+
+Current Federal Land Management  ................................ ................................ ................................ . 3
+
+Agencies  ................................ ................................ ................................ ................................ ....  4
+
+Bureau of Land Management ................................ ................................ ..............................  4
+
+Forest Service  ................................ ................................ ................................ .....................  4
+
+Fish and Wildlife Service  ................................ ................................ ................................ ....  5
+
+National Park Service  ................................ ................................ ................................ .........  5
+
+Department of Defense  ................................ ................................ ................................ .......  6
+
+Federal Land Ownership, 2015  ................................ ................................ ................................ . 6
+
+Federal Land Ownership Changes, 1990 -2015  ................................ ................................ .......  15 
+
+Current Issues  ................................ ................................ ................................ ................................  18 
+
+Extent of Ownership  ................................ ................................ ................................ ...............  19 
+
+Western Land Concentration  ................................ ................................ .............................  20 
+
+Maintaining Infrastructure and Lands  ................................ ................................ .....................  21 
+
+Protection and Use  ................................ ................................ ................................ ..................  22 
+
+Border Security  ................................ ................................ ................................ .......................  23 
+
+# Figures 
+
+Figure 1. Western Federal Lands Managed by Five Agencies  ................................ ......................  12 
+
+Figure 2. Eastern Federal Lands Managed by Five Agencies  ................................ .......................  14 
+
+Figure 3. Federal Lands in Alaska and Hawaii Managed by Five Agencies  ................................ . 15 
+
+Figure 4. Federal and Indian Lands Near the Southwestern Border ................................ ..............  25 
+
+# Tables 
+
+Table 1. Total Federal Land Administered by Five Agencies, by State, 2015  ................................ . 7
+
+Table 2. Federal Acreage in Each State by Agency, 2015  ................................ ...............................  9
+
+Table 3. Change in Federal Acreage Since 1990, by Agency  ................................ ........................  16 
+
+Table 4. Change in Federal Acreage Since 1990, by State  ................................ ............................  17 
+
+Table 5. Federal Acreage by State or Region and by Agency, 2015  ................................ ..............  21 
+
+# Contacts 
+
+Author Contact Information  ................................ ................................ ................................ ..........  25 Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 1
+
+# Introduction 
+
+Today the federal government owns and manages roughly 640 million acres of land in the United States. 1 Four major federal land management agencies manage 610.1 million acres of this land, or about 95% of all federal land in the United States. These agencies are as follows: Bureau of Land Management (BLM), 248.3 million acres; Forest Service (FS), 192.9 million acres; Fish and Wildlife Service (FWS), 89.1 million acres; and National Park Service (NPS), 79.8 million acres. Most of these lands are in the West, including Alaska. In addition, the Department of Defense (DOD) administers 11.4 million acres in the United States, 2 about 2% of all federal land. 3 The remaining acreage, approximately 3% of all federal land, is managed by a variety of government agencies. 
+
+Ownership and use of federal lands have stirred controversy for decades. 4 Conflicting public values concerning federal lands raise many questions and issues, including the extent to which the federal government should own land; whether to focus resources on maintenance of existing infrastructure and lands or acquisition of new areas; how to balance use and protection; and how to ensure the security of international borders along the federal lands of multiple agencies. Congress continues to examine these questions through legislative proposals, program oversight, and annual appropriations for the federal land management agencies. 
+
+# Historical Background 
+
+Federal lands and resources have been important in American history, adding to the strength and stature of the federal government, serving as an attraction and opportunity for settlement and economic development, and providing a source of revenue for schools, transportation, national defense, and other national, state, and local needs. 
+
+The formation of the U.S. federal government was particularly influenced by the struggle for control over what were then known as the “western” lands —the lands between the Appalachian Mountains and the Mississippi River that were claimed by the original colonies. The original states reluctantly ceded the lands to the developing new government. This cession, together with  
+
+> 1
+
+Total federal land in the United States is not definitively known. The estimate of 640 million acres presumes that the four major federal land management agencies have accurate data on lands under their jurisdiction (estimated at 610.1 million acres) as does the Department of Defense (DOD; estimated at 11.4 million acres), as shown in  Table 1 . Other agencies are presumed to encompass about 15-20 million acres of federal land, although this estimate is rough. The estimate of 640 million acres generally excludes lands in marine refuges and national monuments and ownership of interests in lands (e.g., subsurface minerals, easements, etc.). It also does not reflect Indian lands, many of which are held in trust by the federal government but are not owned by the federal government. According to the Bureau of Indian Affairs (BIA), the U.S. holds approximately 56.2 million acres in trust for various Indian tribes and individuals. 
+
+There are also other types of Indian lands. See U.S. Department of the Interior, BIA, “Frequently Asked Questions,” at 
+
+https://www.bia.gov/FAQs/.  
+
+> 2
+
+Acreage figures for the four land management agencies are current as of September 30, 2015, while the DOD figure is current as of September 30, 2014. The DOD figure excludes land managed by the U.S. Army Corps of Engineers.  
+
+> 3
+
+In addition, Forest Service (FS), Fish and Wildlife Service (FWS), National Park Service (NPS), and DOD manage varying acreages in the U.S. territories; FWS manages 471.1 million acres of marine refuges and national monuments; and DOD manages 12,487 acres overseas. See  Table 1 . 
+
+> 4
+
+In this report, the term federal land is used to refer to any land owned (fee simple title) and managed by the federal government, regardless of its mode of acquisition or managing agency; it excludes lands administered by a federal agency under easements, leases, contracts, or other arrangements. Public land is used to refer to lands managed by the Bureau of Land Management as defined in 43 U.S.C. §1702(e). Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 2
+
+granting constitutional powers to the new federal government, including the authority to regulate federal property and to create new states, played a crucial role in transforming the weak central government under the Articles of Confederation into a stronger, centralized federal government under the U.S. Constitution. 
+
+Subsequent federal land laws reflected two visions: reserving some federal lands (such as for national forests and national parks) and selling or otherwise disposing of other lands to raise money or to encourage transportation, development, and settlement. From the earliest days, these policy views took on East/West overtones, with easterners more likely to view the lands as national public property, and westerners more likely to view the lands as necessary for local use and development. Most agreed, however, on measures that promoted settlement of the lands to pay soldiers, to reduce the national debt, and to strengthen the nation. This settlement trend accelerated with federal acquisition of additional territory through the Louisiana Purchase in 1803, the Oregon Compromise with England in 1846, and cession of lands by treaty after the Mexican War in 1848. 5
+
+In the mid -to -late 1800s, Congress enacted numerous laws to encourage and accelerate the settlement of the West by disposing of federal lands. Examples include the Homestead Act of 1862 and the Desert Lands Entry Act of 1877. Approximately 1.29 billion acres of public domain land was transferred out of federal ownership between 1781 and 2015. The total included transfers of 816 million acres to private ownership (individuals, railroads, etc.), 328 million acres to states generally, and 143 million acres in Alaska under state and Native selection laws. 6 Most transfers to private ownership (97%) occurred before 1940; homestead entries, for example, peaked in 1910 at 18.3 million acres but dropped below 200,000 acres annually after 1935, until being fully eliminated in 1986. 7
+
+Although several earlier laws had protected some lands and resources, such as salt deposits and certain timber for military use, new laws in the late 1800s reflected the growing concern that rapid development threatened some of the scenic treasures of the nation, as well as resources that would be needed for future use. A preservation and conservation movement evolved to ensure that certain lands and resources were left untouched or reserved for future use. For example, Yellowstone National Park was established in 1872 to preserve its resources in a natural condition, and to dedicate recreation opportunities for the public. It was the world’s first national park, 8 and like the other early parks, Yellowstone was protected by the U.S. Army —primarily from poachers of wildlife or timber. In 1891, concern over the effects of timber harvests on water             
+
+> 5These major land acquisitions gave rise to a distinction in the laws between public domain lands , which essentially are those ceded by the original states or obtained from a foreign sovereign (via purchase, treaty, or other means), and
+> acquired lands , which are those obtained from a state or individual by exchange, purchase, or gift. About 90% of all federal lands are public domain lands, while the other 10% are acquired lands. Many laws were enacted that related only to public domain lands. Even though the distinction has lost most of its underlying significance today, different laws may still apply depending on the original nature of the lands involved.
+> 6U.S. Dept. of the Interior, Bureau of Land Management, Public Land Statistics, 2015, Table 1-2, https://www.blm.gov/public_land_statistics/pls15/pls2015.pdf.
+> 7U.S. Dept. of Commerce, Bureau of the Census, Historical Statistics of the United States, Colonial Times to 1970
+> (Washington, DC: GPO, 1976), H.Doc. 93-78 (93 rd Congress, 1 st Session), pp. 428-429. The homesteading laws were repealed in 1976, although homesteading was allowed to continue in Alaska for 10 years.
+> 8Act of March 1, 1872; 16 U.S.C. §21, et seq. “Yo -Semite” had been established by an act of Congress in 1864, to
+> protect Yosemite Valley from development, but was transferred to the State of California to administer. In 1890, surrounding lands were designated as Yosemite National Park, and in 1905, Yosemite Valley was returned to federal jurisdiction and incorporated into the park. Still earlier, Hot Springs Reservation (AR) had been reserved in 1832; it was dedicated to public use in 1880 and designated as Hot Springs National Park in 1921. Federal Land Ownership: Overview and Data
+> Congressional Research Service 3
+
+supplies and downstream flooding led to the creation of forest reserves (renamed national forests in 1907). 
+
+Emphasis shifted during the 20 th century from the disposal and conveyance of title to private citizens to the retention and management of the remaining federal lands. During debates on the Taylor Grazing Act of 1934, 9 some western Members of Congress acknowledged the poor prospects for relinquishing federal lands to the states, but language included in the act left disposal as a possibility. It was not until the enactment of the Federal Land Policy and Management Act of 1976 (FLPMA) 10 that Congress expressly declared that the remaining public domain lands generally would remain in federal ownership. 11 This declaration of permanent federal land ownership was a significant factor in what became known as the Sagebrush Rebellion, an effort that started in the late 1970s to strengthen state or local control over federal land and management decisions. Currently, there is renewed interest in some western states in assuming ownership of some federal lands within their borders. This interest stems in part from concerns about the extent, condition, and cost of federal land ownership and the type and amount of land uses and revenue derived from federal lands. 12 Judicial challenges and legislative and executive efforts generally have not resulted in broad changes to the level of federal ownership. Current authorities for acquiring and disposing of federal lands are unique to each agency. 13 
+
+# Current Federal Land Management 
+
+The creation of national parks and forest reserves laid the foundation for the current federal agencies whose primary purposes are managing natural resources on federal lands —the BLM, FS, FWS, and NPS. These four agencies were created at different times, and their missions and purposes differ. As noted, DOD is the fifth -largest land management agency, with lands consisting of military bases, training ranges, and more. These five agencies, which together manage about 97% of all federal land, are described below. Numerous other federal agencies —
+
+the U.S. Army Corps of Engineers, Bureau of Reclamation, 14 Post Office, the National Aeronautics and Space Administration, the Department of Energy, and many more —administer additional federal lands.          
+
+> 943 U.S.C. §§315, et seq.
+> 10 43 U.S.C. §§1701, et seq.
+> 11 The Federal Land Policy and Management Act of 1976 (FLPMA) also established a comprehensive system of management for the remaining western public lands, and a definitive mission and policy statement for the BLM.
+> 12 For information on appropriations for federal land management agencies, and revenues derived from federal lands, see CRS Report R43822, Federal Land Management Agencies: Appropriations and Revenues , coordinated by Carol Hardy Vincent.
+> 13 For a description of these authorities, see CRS Report RL34273, Federal Land Ownership: Acquisition and Disposal Authorities , by Carol Hardy Vincent et al.
+> 14 The Bureau of Reclamation, a federal agency created in 1902, is responsible for much of the water infrastructure in the 17 states west of the Mississippi River. Reclamation is the largest water wholesaler in the country and provides irrigation water for more than 10 million acres of farmland. Pursuant to its authorities to develop and maintain water resources infrastructure, Reclamation owns more than 6 million acres of land in the western United States. Federal Land Ownership: Overview and Data
+> Congressional Research Service 4
+
+# Agencies 
+
+Bureau of Land Management 
+
+The BLM was formed in 1946 by combining two existing agencies. 15 One was the Grazing Service (first known as the DOI Grazing Division), established in 1934 to administer grazing on public rangelands. The other was the General Land Office, which had been created in 1812 to oversee disposal of the federal lands. 16 The BLM currently administers more federal lands in the United States than any other agency —248.3 million acres. BLM lands are heavily concentrated (99.4%) in the 11 contiguous western states and Alaska. 17 
+
+As defined in FLPMA, 18 BLM management responsibilities are similar to those of the FS —
+
+sustained yields of the multiple uses, including recreation, grazing, timber, watershed, wildlife and fish habitat, and conservation. However, each agency historically has emphasized different uses. For instance, more rangelands are managed by the BLM, while most federal forests are managed by the FS. In addition, the BLM administers about 700 million acres of federal subsurface mineral estate throughout the nation. 19 
+
+Forest Service 
+
+The Forest Service (FS) is the oldest of the four federal land management agencies. It was created in 1905, when responsibility for managing the forest reserves (renamed national forests in 1907) was joined with forestry research and assistance in a new agency within the Department of Agriculture (USDA). In 1891, Congress had authorized the President to establish forest reserves from the public domain lands administered by the Department of the Interior. 20 Today, the FS administers 192.9 million acres of land in the United States, 21 predominantly in the West, while also managing about three -fifths of all federal lands in the East (as shown in  Table 5 ). 
+
+Forest reserves —later renamed national forests —were originally authorized to protect the lands, preserve water flows, and provide timber. These purposes were expanded in the Multiple Use -
+
+Sustained Yield Act of 1960. 22 This act added recreation, livestock grazing, and wildlife and fish habitat as purposes of the national forests, with wilderness added in 1964. 23 The act directed that these multiple uses be managed in a “harmonious and coordinated” manner “in the combination              
+
+> 15 Paul W. Gates, History of Public Land Law Development , written for the Public Land Law Review Commission (Washington, DC: GPO, Nov. 1968), pp. 610-622.
+> 16 The General Land Office administered the forest reserves prior to the creation of the FS in 1905.
+> 17 The 11 western states are Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming. See U.S. Dept. of the Interior, Bureau of Land Management, Public Land Statistics, 2015 ,Table 1-4, at https://www.blm.gov/public_land_statistics/pls15/pls2015.pdf.
+> 18 FLPMA is sometimes called the BLM Organic Act.
+> 19 Not all of the 700 million acres contain extractable mineral and energy resources.
+> 20 Act of March 3, 1891; 16 U.S.C. §471. This authority was repealed in 1976. See also the Organic Administration Act of 1897, 16 U.S.C. §§473 et seq.
+> 21 U.S. Dept. of Agriculture, Forest Service, Land Areas Report —As of Sept 30, 2015 , Tables 1 and 4, https://www.fs.fed.us/land/staff/lar/LAR2015/lar2015index.html. Data reflect land in the United States within the National Forest System, including national forests, national grasslands, purchase units, land utilization projects, experimental areas, and other areas. The FS manages an additional 28,823 acres in the U.S. territories.
+> 22 16 U.S.C. §§528-531.
+> 23 The Wilderness Act of 1964, 16 U.S.C. §§1131-1136. Federal Land Ownership: Overview and Data
+> Congressional Research Service 5
+
+that will best meet the needs of the American people.” The act also directed sustained yield —ahigh level of resource outputs in perpetuity, without impairing the productivity of the lands. 
+
+Fish and Wildlife Service 
+
+The first national wildlife refuge was established by executive order in 1903, although it was not until 1966 that the refuges were aggregated into the National Wildlife Refuge System administered by the Fish and Wildlife Service (FWS). 24 Today, the FWS administers 89.1 million acres of federal land in the United States, of which 76.6 million acres (86%) are in Alaska. 25 
+
+The FWS has a primary -use mission —to conserve plants and animals. Other uses (recreation, hunting, timber cutting, oil or gas drilling, etc.) are permitted, to the extent that they are compatible with the species’ needs. 26 However, wildlife -related activities (hunting, bird -watching, hiking, education, etc.) are considered “priority uses” and are given preference over consumptive uses such as timber, grazing, and mineral extraction. It can be challenging to determine compatibility, but the relative clarity of the mission generally has minimized conflicts over refuge management and use, although there are exceptions. 27 
+
+National Park Service 
+
+The National Park Service (NPS) was created in 1916 to manage the growing number of park units established by Congress and monuments proclaimed by the President. 28 By September 30, 2015, the National Park System had grown to 408 units with 79.8 million acres of federal land in the United States. About two -thirds of the lands (52.4 million acres, or 66%) are in Alaska. 29 
+
+Currently, the National Park System contains 417 units with 79.9 million acres. NPS units have diverse titles —national park, national monument, national preserve, national historic site, national recreation area, national battlefield, and many more. 30  
+
+> 24
+
+National Wildlife Refuge System Administration Act of 1966, 16 U.S.C. §§668dd-668ee.  
+
+> 25
+
+U.S. Dept. of the Interior, Fish and Wildlife Service, Annual Report of Lands Under Control of the U.S. Fish and Wildlife Service, as of September 30, 2015 , Table 1A, at https://www.fws.gov/refuges/land/PDF/ 2015_Annual_Report_of_LandsDataTables.pdf. Data reflect all federally owned land in the United States over which the FWS has sole or primary jurisdiction. The FWS also administers 2.1 million acres in the U.S. territories, and 471.1 million acres of lands and waters of marine refuges and marine national monuments both within and outside the National Wildlife Refuge System. The 471.1 million acres of marine areas are as follows: Pacific Remote Islands Marine National Monument, 312.8 million acres; Papahanaumokuakea, 88.6 million acres; Marianas Trench, 61.1 million acres; and Rose Atoll, 8.6 million acres. See U.S. Dept. of the Interior, Fish and Wildlife Service, Annual Report of Lands Under Control of the U.S. Fish and Wildlife Service, as of September 30, 2015 , Table 10, at https://www.fws.gov/refuges/land/PDF/2015_Annual_Report_of_LandsDataTables.pdf.  
+
+> 26
+
+In some FWS lands, there are pre-existing property rights, particularly of subsurface resources, but also easements or rights-of-way. In such cases, use of these rights may conflict with primary uses of a refuge. Where possible, FWS may seek to acquire these rights through purchase from willing sellers.  
+
+> 27
+
+A notable exception, for instance, pertains to the Alaska National Wildlife Refuge. See CRS Report RL33872, Arctic National Wildlife Refuge (ANWR): A Primer for the 114th Congress , by M. Lynne Corn and Michael Ratner.  
+
+> 28
+
+NPS was created by the Act of Aug. 25, 1916; 16 U.S.C. §§1-4.  
+
+> 29
+
+This text identifies the number of NPS units in existence on September 30, 2015, for consistency with the acreage data presented for the other agencies which are from that date (except for DOD). See U.S. Dept. of the Interior, National Park Service, Land Resources Division, National Park Service, Listing of Acreage by State, as of 9/30/2015 ,unpublished document. Data reflect federally owned lands managed by the NPS in the United States. The NPS manages an additional 26,852 acres in the U.S. territories.  
+
+> 30
+
+See CRS Report R41816, National Park System: What Do the Different Park Titles Signify? , by Laura B. Comay. Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 6
+
+The NPS has a dual mission —to preserve unique resources and to provide for their enjoyment by the public. Park units include spectacular natural areas (e.g., Yellowstone, Grand Canyon, and Arches National Parks), unique prehistoric sites (e.g., Mesa Verde National Park and Dinosaur National Monument), and special places in American history (e.g., Valley Forge National Historic Park, Gettysburg National Military Park, and the Statue of Liberty National Monument), as well as recreational opportunities (e.g., Cape Cod National Seashore and Santa Monica Mountains National Recreation Area). The tension between providing recreation and preserving resources has caused many management challenges. 
+
+Department of Defense 
+
+The National Security Act of 1947 established a Department of National Defense (later renamed the Department of Defense, or DOD) by consolidating the previously separate Cabinet -level Department of War (renamed Department of the Army) and Department of the Navy and creating the Department of the Air Force. 31 Responsibility for managing the land on federal military reservations was retained by these departments, with some transfer of Army land to the Air Force upon its creation. 
+
+There are more than 4,800 defense sites worldwide on a total of 26.1 million acres of land owned, leased, or otherwise possessed by DOD. Of the DOD sites, DOD owns 11.4 million acres in the United States, with individual parcel ownership ranging from 0 acres owned to 2.3 million acres (for the White Sands Missile Range in New Mexico). 32 Although management of military reservations remains the responsibility of each of the various military departments and defense agencies, those secretaries and directors operate under the centralized direction of the Secretary of Defense. With regard to natural resource conservation, defense instruction provides that 
+
+The principal purpose of DOD lands, waters, airspace, and coastal resources is to support mission-related activities. All DOD natural resources conservation program activities shall work to guarantee DOD continued access to its land, air, and water resources for realistic military training and testing and to sustain the long-term ecological integrity of the resource base and the ecosystem services it provides.... DOD shall manage its natural resources to facilitate testing and training, mission readiness, and range sustainability in a long-term, comprehensive, coordinated, and cost-effective manner. 33 
+
+# Federal Land Ownership, 2015 
+
+The roughly 640 million acres of federal land in the United States represents about 28% of the total land base of 2.27 billion acres.  Table 1  provides data on the total acreage of federal land administered by the four major federal land management agencies and the DOD in each state and the District of Columbia. The lands administered by each of the five agencies in each state are shown in  Table 2 .34 These tables reflect federal acreage as of September 30, 2015, except that       
+
+> 31 Act of July 26, 1947; 50 U.S.C. §3001 et seq. (2012).
+> 32 These data are current as of September 30, 2014, the last available. See U.S. Department of Defense, Office of the Deputy Under Secretary for Installations & Environment, Base Structure Report, Fiscal Year 2015 Baseline (A
+> Summary of DoD’s Real Property Inventory) . While p. DOD-2 states that there are over 4,800 sites worldwide covering over 24.9 million acres, p. DOD-85 shows 26.1 million acres, as reflected in this CRS report. The reason for the discrepancy is not apparent. See http://www.acq.osd.mil/eie/Downloads/BSI/ Base%20Structure%20Report%20FY15.pdf.
+> 33 Department of Defense Instruction 4715.03 of March 18, 2011, p. 2.
+> 34 Some county-level data are available through the Payments in Lieu of Taxes (PILT) program, administered by the Department of the Interior. For these data, see https://www.doi.gov/sites/doi.gov/files/uploads/
+> (continued...) Federal Land Ownership: Overview and Data
+> Congressional Research Service 7
+
+DOD figures are current as of September 30, 2014. The figures understate total federal land, since they do not include lands administered by other federal agencies, such as the Bureau of Reclamation and the Department of Energy.  Table 1  also identifies the total acreage of each state and the percentage of land in each state administered by the five federal land agencies. These percentages point to significant variation in the federal presence within states. The figures range from 0.3% of land (in Connecticut and Iowa) to 79.6% of land (in Nevada).  Figure 1 , Figure 2 ,and  Figure 3  show these federal lands.  Figure 1  is a map of federal lands in the West;  Figure 2  is a map of federal lands in the East; and  Figure 3  is a map of federal lands in Alaska and Hawaii. 
+
+Although 15 states contain less than half a million acres of federal land, 35 the 11 western states and Alaska each have more than 10 million acres managed by these five agencies within their borders. This discrepancy is a result of early treaties, land settlement laws and patterns, and laws requiring that states agree to surrender any claim to federal lands within their border as a prerequisite for admission to the Union. Management of these lands is often controversial, especially in states where the federal government is a predominant or majority landholder and where competing and conflicting uses of the lands are at issue. 
+
+Table  1. Total Federal Land Administered by Five Agencies, by State, 2015 
+
+Total Federal 
+
+Acreage 
+
+Total Acreage 
+
+in State 
+
+% of 
+
+State 
+
+Alabama  867,360  32,678,400  2.7% 
+
+Alaska  224,135,990  365,481,600  61.3% 
+
+Arizona  28,105,757  72,688,000  38.7% 
+
+Arkansas  4,221,856  33,599,360  12.6% 
+
+California  46,000,329  100,206,720  45.9% 
+
+Colorado  23,849,572  66,485,760  35.9% 
+
+Connecticut  8,939  3,135,360  0.3% 
+
+Delaware  29,864  1,265,920  2.4% 
+
+District of Columbia  9,683  39,040  24.8% 
+
+Florida  4,500,198  34,721,280  13.0% 
+
+Georgia  1,759,210  37,295,360  4.7% 
+
+Hawaii  820,836  4,105,600  20.0% 
+
+Idaho  32,623,376  52,933,120  61.6% 
+
+Illinois  411,319  35,795,200  1.1% 
+
+(...continued) 
+
+2016_pilt_national_summary.pdf. However, though most lands of the four major federal land management agencies are eligible for PILT payments, a small fraction are not. DOD lands are among those generally not eligible for PILT payments. A small portion of PILT payments are made for certain lands managed by agencies other than the five covered in this report. Thus, the PILT county-level data do not always match the state acreage data shown in this report. For additional information on PILT, see CRS Report RL31392, PILT (Payments in Lieu of Taxes): Somewhat Simplified , by M. Lynne Corn and Katie Hoover.  
+
+> 35
+
+This includes 14 states and the District of Columbia. When referring to acreage figures in this report, states is often used to include the District of Columbia in addition to the 50 states. Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 8
+
+Total Federal 
+
+Acreage 
+
+Total Acreage 
+
+in State 
+
+% of 
+
+State 
+
+Indiana  385,405  23,158,400  1.7% 
+
+Iowa  122,649  35,860,480  0.3% 
+
+Kansas  272,987  52,510,720  0.5% 
+
+Kentucky  1,093,687  25,512,320  4.3% 
+
+Louisiana  1,394,991  28,867,840  4.8% 
+
+Maine  210,678  19,847,680  1.1% 
+
+Maryland  192,948  6,319,360  3.1% 
+
+Massachusetts  61,265  5,034,880  1.2% 
+
+Michigan  3,635,741  36,492,160  10.0% 
+
+Minnesota  3,495,893  51,205,760  6.8% 
+
+Mississippi  1,614,264  30,222,720  5.3% 
+
+Missouri  1,636,598  44,248,320  3.7% 
+
+Montana  27,049,302  93,271,040  29.0% 
+
+Nebraska  546,976  49,031,680  1.1% 
+
+Nevada  55,928,507  70,264,320  79.6% 
+
+New Hampshire  799,740  5,768,960  13.9% 
+
+New Jersey  179,792  4,813,440  3.7% 
+
+New Mexico  27,508,382  77,766,400  35.4% 
+
+New York  188,537  30,680,960  0.6% 
+
+North Carolina  2,422,249  31,402,880  7.7% 
+
+North Dakota  1,738,150  44,452,480  3.9% 
+
+Ohio  307,180  26,222,080  1.2% 
+
+Oklahoma  700,996  44,087,680  1.6% 
+
+Oregon  32,644,541  61,598,720  53.0% 
+
+Pennsylvania  617,656  28,804,480  2.1% 
+
+Rhode Island  4,410  677,120  0.7% 
+
+South Carolina  901,208  19,374,080  4.7% 
+
+South Dakota  2,649,417  48,881,920  5.4% 
+
+Tennessee  1,274,042  26,727,680  4.8% 
+
+Texas  2,990,951  168,217,600  1.8% 
+
+Utah  33,275,132  52,696,960  63.1% 
+
+Vermont  465,247  5,936,640  7.8% 
+
+Virginia  2,514,903  25,496,320  9.9% 
+
+Washington  12,193,623  42,693,760  28.6% 
+
+West Virginia  1,134,142  15,410,560  7.4% 
+
+Wisconsin  1,793,699  35,011,200  5.1% Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 9
+
+Total Federal 
+
+Acreage 
+
+Total Acreage 
+
+in State 
+
+% of 
+
+State 
+
+Wyoming  30,183,609  62,343,040  48.4% 
+
+U.S. Total  621,473,785  2,271,343,360  27.4% 
+
+Sources: For federal lands, see sources listed in  Table 2 . Total acreage of states is from U.S. General Services Administration, Office of Governmentwide Policy, Federal Real Property Profile, as of September 30, 2004 , Table 16, pp. 18-19. 
+
+Notes: Figures understate federal lands in each state and the total in the United States. They include only Bureau of Land Management (BLM), Forest Service (FS), Fish and Wildlife Service (FWS), National Park Service (NPS), and Department of Defense (DOD) lands. Thus, the figures exclude federal lands managed by other agencies, such as the Bureau of Reclamation, and Indian lands, such as those held in trust by the United States. Also, figures do not reflect land managed by the agencies in the territories; FWS-managed marine refuges and national monuments (totaling 471.1 million acres); and DOD-managed acreage overseas. Federal land figures do not add to the precise total shown due to small discrepancies in the sources used. Here and throughout the report, figures also might not sum to the totals shown due to rounding. 
+
+Table  2. Federal Acreage in Each State by Agency, 2015 
+
+State  BLM  FS  FWS  NPS  DOD 
+
+Alabama  25,720  670,527  32,334  17,445  121,334 
+
+Alaska  72,234,836  22,167,455  76,617,382  52,426,440  689,877 
+
+Arizona  12,204,188  11,204,170  1,683,354  2,649,309  364,736 
+
+Arkansas  1,069,199  2,592,794  376,648  98,307  84,908 
+
+California  15,364,784  20,762,205  294,247  7,588,161  1,990,931 
+
+Colorado  8,313,557  14,483,003  174,986  661,506  216,520 
+
+Connecticut  0 23  1,583  5,846  1,487 
+
+Delaware  0 0 25,543  890  3,431 
+
+Dist. of Col.  0 0 0 8,476  1,207 
+
+Florida  28,818  1,197,164  284,278  2,468,375  521,563 
+
+Georgia  0 867,381  482,942  39,823  369,065 
+
+Hawaii  0 0 299,432 a 357,937  163,467 
+
+Idaho  11,614,828  20,444,100  49,733  511,600  3,116 
+
+Illinois  20  304,480  89,767  12  17,040 
+
+Indiana  0 203,682  15,992  10,752  154,979 
+
+Iowa  0 0 72,064  2,708  47,878 
+
+Kansas  0 108,635  29,509  462  134,381 
+
+Kentucky  0 819,548  11,813  94,103  168,223 
+
+Louisiana  56,969  608,535  585,563  16,799  127,126 
+
+Maine  0 53,880  68,950  67,003  20,845 
+
+Maryland  548  0 48,811  41,432  102,157 
+
+Massachusetts  0 0 22,735  32,961  5,569 
+
+Michigan  735  2,874,075  117,199  631,852  11,880 
+
+Minnesota  1,446  2,844,452  507,913  139,632  2,450 Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 10
+
+State  BLM  FS  FWS  NPS  DOD 
+
+Mississippi  65,218  1,191,761  211,302  103,998  41,985 
+
+Missouri  59  1,505,833  60,565  54,405  15,736 
+
+Montana  7,989,642  17,181,530  650,856  1,214,307  12,968 
+
+Nebraska  6,354  351,205  173,773  5,899  9,745 
+
+Nevada  46,977,225  5,760,343  2,344,972  797,603  48,364 
+
+New Hampshire  0 748,479  34,674  13,521  3,066 
+
+New Jersey  0 0 73,106  35,542  71,144 
+
+New Mexico  14,093,947  9,225,183  332,058  466,709  3,390,485 
+
+New York  0 16,352  28,992  33,715  109,478 
+
+North Carolina  0 1,255,197  419,646  363,592  383,814 
+
+North Dakota  59,970  1,103,162  488,480  71,258  15,280 
+
+Ohio  0 244,420  8,790  20,284  33,686 
+
+Oklahoma  1,975  399,425  107,078  10,008  182,510 
+
+Oregon  16,145,403  15,696,492  574,960  196,197  31,489 
+
+Pennsylvania  0 513,889  10,336  52,150  41,281 
+
+Rhode Island  0 0 2,415  5 1,991 
+
+South Carolina  0 632,415  129,339  31,972  107,482 
+
+South Dakota  274,526  2,005,867  206,650  147,962  14,411 
+
+Tennessee  0 720,188  54,093  358,145  141,616 
+
+Texas  11,833  756,602  557,741  1,205,113  459,662 
+
+Utah  22,820,768  8,189,522  110,567  2,097,786  56,489 
+
+Vermont  0 410,115  34,195  9,836  11,101 
+
+Virginia  805  1,665,970  130,193  305,403  412,532 
+
+Washington  429,083  9,328,584  162,580 b 1,834,586  438,789 
+
+West Virginia  0 1,046,231  19,850  65,194  2,866 
+
+Wisconsin  2,324  1,523,744  202,046  61,779  3,806 
+
+Wyoming  18,550,771  9,214,699  70,679  2,344,972  2,488 
+
+U.S. Total c 248,345,551  192,893,317  89,092,711  79,773,772  11,368,434 
+
+Territories  0 28,823  2,092,276  26,852  65,423 
+
+Marine areas  0 0 471,140,165 d 0 0
+
+Overseas  0 0 0 0 12,487 
+
+Agency Total  248,345,551  192,922,127  562,325,152 d 79,800,624  11,589,762 
+
+Sources: For BLM: U.S. Dept. of the Interior, Bureau of Land Management, Public Land Statistics, 2015 , Table 1-4, https://www.blm.gov/public_land_statistics/pls15/pls2015.pdf. 
+
+For FS: U.S. Dept. of Agriculture, Forest Service, Land Areas Report —As of Sept 30, 2015 , Tables 1 and 4, 
+
+https://www.fs.fed.us/land/staff/lar/LAR2015/lar2015index.html . Data reflect land within the National Forest System, including national forests, national grasslands, purchase units, land utilization projects, experimental areas, and other areas. This source shows an agency total of 192,922,127. However, the individual state acreages Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 11
+
+in this source, and copied here, appear to sum to 192,922,140. The reason for the discrepancy is not apparent. In this CRS report, the agency total is reflected as 192,922,127 and the U.S. total as 192,893,317. 
+
+For FWS: U.S. Dept. of the Interior, Fish and Wildlife Service, Annual Report of Lands Under Control of the U.S. Fish and Wildlife Service, as of September 30, 2015 , Table 1A, https://www.fws.gov/refuges/land/PDF/ 2015_Annual_Report_of_LandsDataTables.pdf. Data reflect all federally owned land over which the FWS has sole or primary jurisdiction. 
+
+For NPS: U.S. Dept. of the Interior, National Park Service, Land Resources Division, National Park Service, Listing of Acreage by State, as of 9/30/2015 , unpublished document. Data reflect federally owned lands managed by the NPS. For information on acreage by unit, see the NPS website,  https://irma.nps.gov/Stats/ .
+
+For DOD: U.S. Department of Defense, Office of the Deputy Under Secretary for Installations & Environment, 
+
+Base Structure Report, Fiscal Year 2015 Baseline (A Summary of DoD’s Real Property Inventory) , as of September 30, 2014, VI. Total DOD Inventory, pp. DOD-29 to DOD-85, http://www.acq.osd.mil/eie/Downloads/BSI/ Base%20Structure%20Report%20FY15.pdf. This source excludes U.S. Army Corps of Engineers lands. It shows a combined U.S./U.S. territories total of 11,577,275 acres, an overseas total of 12,487 acres, and an agency total of 11,589,762 acres. However, the individual acreages in this source, and copied here, appear to sum to a U.S. total of 11,368,434 and a U.S. territories total of 65,423. Together with the overseas total of 12,487 shown in the report, the agency total would be 11,446,344. The reason for the discrepancies is not apparent. In this CRS report, the agency total is reflected as 11,589,762 and the U.S. total as 11,368,434. 
+
+Notes: See notes for  Table 1 .
+
+a. Excludes Papahanaumokuakea Marine National Monument (88,635,029 acres) administered by FWS. 
+
+b. Includes Hanford Reach National Monument (32,965 acres) administered by FWS but not as part of the National Wildlife Refuge System. 
+
+c. Includes lands in the 50 states and the District of Columbia. 
+
+d. Includes lands and waters of marine refuges and national monuments administered by the FWS, both within and outside the National Wildlife Refuge System. Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 12
+
+Figure  1. Western Federal Lands Managed by Five Agencies 
+
+Source: Map boundaries and information generated by CRS using federal lands GIS data from the National Atlas, 2005, and an ESRI USA Base Map. Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 13
+
+Notes: Scale 1:11,283,485. The line along the coast of California indicates BLM administration of numerous small islands along the length of the California coast. Also, the map may reflect a broader definition of DOD land than shown in the data in  Table 2 .Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 14
+
+Figure  2. Eastern Federal Lands Managed by Five Agencies 
+
+Source: Map boundaries and information generated by CRS using federal lands GIS data from the National Atlas, 2005, and an ESRI USA Base Map. 
+
+Note: Scale 1:13,293,047. Also, the map may reflect a broader definition of DOD land than shown in the data in 
+
+Table 2 .Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 15
+
+Figure  3. Federal Lands in Alaska and Hawaii  Managed by Five Agencies 
+
+Source: Map boundaries and information generated by CRS using federal lands GIS data from the National Atlas, 2005, and an ESRI USA Base Map. 
+
+Note: Hawaii scale 1:8,000,000. Alaska scale 1:20,000,000. Also, the map may reflect a broader definition of DOD land than shown in the data in  Table 2 .
+
+# Federal Land Ownership Changes, 1990 -2015 
+
+Since 1990, total federal lands have generally declined. Many disposals of areas of federal lands have occurred. At the same time, the federal government has acquired many parcels of land, and there have been various new federal land designations, including wilderness areas and national park units. Through the numerous individual acquisitions and disposals since 1990, the total federal land ownership has declined by 25.4 million acres, or 3.9% of the total of the five agencies, as shown in  Table 3 . The total acreage decline reflects decreased acreage for two agencies but increased acreage for three others. Specifically, BLM ownership decreased by 23.7 million acres (8.7%), 36 and DOD lands declined by 9.1 million acres (44.5%). In contrast, the NPS, FWS, and FS expanded their acreage during the period, with the NPS having the largest increase in both acreage and percentage growth ─3.6 million acres (4.8%). In some cases, a decrease in one agency’s acreage was tied to an increase in acreage owned by another agency. 37  
+
+> 36
+
+Some of the decline in BLM lands (about 1 million acres primarily in the eastern states) resulted from a revision in the way BLM reported acreage withdrawn or reserved for another federal agency or purpose.  
+
+> 37
+
+For instance, a decrease in BLM acreage and an increase in NPS acreage was the result of enactment of the California Desert Protection Act of 1994 (P.L. 103-433). Among other provisions, the law established one new national park unit and expanded two other park units on land that was owned by the BLM, and transferred ownership of the lands to the NPS. BLM estimated the total transfer of BLM land to the NPS for the three areas at 2.9 million acres. Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 16
+
+Table  3. Change in Federal Acreage Since 1990, by Agency 
+
+1990  2000  2010  2015 
+
+Change 
+
+1990 -2015 
+
+% Change 
+
+Since 1990 
+
+BLM  272,029,418  264,398,133  247,859,076  248,345,551  -23,683,867  -8.7% 
+
+FS  191,367,364  192,355,099  192,880,840  192,893,317  1,525,953  0.8% 
+
+FWS  86,822,107  88,225,669  88,948,699  89,092,711  2,270,604  2.6% 
+
+NPS  76,133,510  77,931,021  79,691,484  79,773,772  3,640,262  4.8% 
+
+DOD  20,501,315  24,052,268  19,421,540  11,368,434  -9,132,881  -44.5% 
+
+U.S. Total  646,853,714  646,962,190  628,801,839  621,473,785  -25,379,929  -3.9% 
+
+Sources: See sources listed  Table 2 .
+
+Notes: See notes for  Table 1 . Also, DOD figures for the years indicated were not readily available. Rather, the DOD figures for the four columns were derived respectively from the FY1989 Base Structure Report (published in February 1988), the FY1999 Base Structure Report (with data as of September 30, 1999), the FY2010 Base Structure Report (with data as of September 30, 2009), and the FY2015 Base Structure Report (with data as of September 30, 2014). 
+
+The total federal acreage decline (shown in  Table 3 ) is a composite of various decreases in acreage in 15 states and increases in acreage in 36 states (including the District of Columbia). However, a reduction in federal lands in Alaska was a major reason for the total decline in federal lands since 1990. As shown in  Table 4 , federal land declined in Alaska by 21.5 million acres (8.8%) between 1990 and 2015. This decline in Alaska is largely the result of the disposal of BLM land, under law, to the State of Alaska, Alaska Natives, and Alaska Native Corporations. 
+
+Federal land also decreased in the 11 contiguous western states, by 6.6 million acres (1.9%). Reflected in this overall decline are reductions for 4 of the 11 states, with decreases of 6.3 million acres in Arizona, 4.1 million acres in Nevada, 38 and smaller decreases in Utah and California. Seven of the 11 states had varying increases, with the largest being 2.8 million acres in New Mexico. 
+
+Outside Alaska and the other western states, federal land increased by 2.8 million acres (6.1%). This increase was not uniform, with declines in some states and varying increases (in acreages and percentage) in others.  
+
+> 38
+
+These reductions were due primarily to relatively large reductions of both BLM and DOD land in Arizona and of DOD land in Nevada. Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 17
+
+Table  4. Change in Federal Acreage Since 1990, by State 
+
+1990  2000  2010  2015 
+
+Change 
+
+1990 -2015 
+
+% Change 
+
+Since 1990 
+
+Alabama  944,505  979,907  871,232  867,360  -77,145  -8.2% 
+
+Alaska  245,669,027  237,828,917  225,848,164  224,135,990  -21,533,037  -8.8% 
+
+Arizona  34,399,867  33,421,887  30,741,287  28,105,757  -6,294,110  -18.3% 
+
+Arkansas  3,147,518  3,418,455  3,161,978  4,221,856  1,074,338  34.1% 
+
+California  46,182,591  47,490,824  47,797,533  46,000,329  -182,262  -0.4% 
+
+Colorado  23,579,790  24,001,922  24,086,075  23,849,572  269,782  1.1% 
+
+Connecticut  6,784  9,012  8,557  8,939  2,155  31.8% 
+
+Delaware  27,731  28,397  28,574  29,864  2,133  7.7% 
+
+Dist. of Col.  9,533  8,466  8,450  9,683  150  1.6% 
+
+Florida  4,344,976  4,671,958  4,536,811  4,500,198  155,222  3.6% 
+
+Georgia  1,921,674  1,933,464  1,956,720  1,759,210  -162,464  -8.5% 
+
+Hawaii  715,215  682,650  833,786  820,836  105,621  14.8% 
+
+Idaho  32,566,081  32,569,711  32,635,835  32,623,376  57,295  0.2% 
+
+Illinois  353,061  403,835  406,734  411,319  58,258  16.5% 
+
+Indiana  274,483  394,243  340,696  385,405  110,922  40.4% 
+
+Iowa  33,247  83,134  122,602  122,649  89,402  268.9% 
+
+Kansas  281,135  300,465  301,157  272,987  -8,148  -2.9% 
+
+Kentucky  966,483  1,065,814  1,083,104  1,093,687  127,204  13.2% 
+
+Louisiana  1,578,151  1,565,875  1,330,429  1,394,991  -183,160  -11.6% 
+
+Maine  176,486  210,167  209,735  210,678  34,192  19.4% 
+
+Maryland  173,707  190,783  195,986  192,948  19,241  11.1% 
+
+Massachusetts  63,291  63,998  81,692  61,265  -2,026  -3.2% 
+
+Michigan  3,649,258  3,692,271  3,637,965  3,635,741  -13,517  -0.4% 
+
+Minnesota  3,545,702  3,581,741  3,469,211  3,495,893  -49,809  -1.4% 
+
+Mississippi  1,478,726  1,544,501  1,523,574  1,614,264  135,538  9.2% 
+
+Missouri  1,666,718  1,676,175  1,675,400  1,636,598  -30,120  -1.8% 
+
+Montana  26,726,219  26,745,666  26,921,861  27,049,302  323,083  1.2% 
+
+Nebraska  528,707  556,347  549,346  546,976  18,269  3.5% 
+
+Nevada  60,012,488  60,180,297  56,961,778  55,928,507  -4,083,981  -6.8% 
+
+New Hampshire  734,163  754,858  777,807  799,740  65,577  8.9% 
+
+New Jersey  146,436  164,865  176,691  179,792  33,356  22.8% 
+
+New Mexico  24,742,260  26,829,296  27,001,583  27,508,382  2,766,122  11.2% 
+
+New York  215,441  229,097  211,422  188,537  -26,904  -12.5% 
+
+North Carolina  2,289,509  2,415,560  2,426,699  2,422,249  132,740  5.8% 
+
+North Dakota  1,727,541  1,729,430  1,735,755  1,738,150  10,609  0.6% Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 18
+
+1990  2000  2010  2015 
+
+Change 
+
+1990 -2015 
+
+% Change 
+
+Since 1990 
+
+Ohio  234,396  289,566  298,500  307,180  72,784  31.1% 
+
+Oklahoma  505,898  696,377  703,336  700,996  195,098  38.6% 
+
+Oregon  32,062,004  32,703,212  32,665,430  32,644,541  582,537  1.8% 
+
+Pennsylvania  611,249  598,165  616,895  617,656  6,407  1.0% 
+
+Rhode Island  3,110  4,867  5,248  4,410  1,300  41.8% 
+
+South Carolina  891,182  872,173  898,637  901,208  10,026  1.1% 
+
+South Dakota  2,626,594  2,642,646  2,646,241  2,649,417  22,823  0.9% 
+
+Tennessee  980,416  1,251,514  1,273,974  1,274,042  293,626  29.9% 
+
+Texas  2,651,675  2,855,997  2,977,950  2,990,951  339,276  12.8% 
+
+Utah  33,582,578  34,982,884  35,033,603  33,275,132  -307,446  -0.9% 
+
+Vermont  346,518  428,314  453,871  465,247  118,729  34.3% 
+
+Virginia  2,319,524  2,381,575  2,358,071  2,514,903  195,379  8.4% 
+
+Washington  11,983,984  12,646,137  12,173,813  12,193,623  209,639  1.7% 
+
+West Virginia  1,062,500  1,096,956  1,130,951  1,134,142  71,642  6.7% 
+
+Wisconsin  1,980,460  2,006,778  1,865,374  1,793,699  -186,761  -9.4% 
+
+Wyoming  30,133,121  30,081,046  30,043,513  30,183,609  50,488  0.2% 
+
+U.S. Total  646,853,714  646,962,190  628,801,639  621,473,785  -25,379,929  -3.9% 
+
+Sources: See sources listed in  Table 2 .
+
+Notes: See notes to  Table 1  and  Table 3 .
+
+# Current Issues 
+
+Since the cession to the federal government of the western lands by several of the original 13 states, many federal land issues have recurred. The extent of ownership continues to be debated. Some advocate disposing of federal lands to state or private ownership; others favor retaining currently owned lands; still others promote land acquisition by the federal government, including through increased or more stable funding sources. Another focus is on the condition of federal lands and related infrastructure. Some assert that lands and infrastructure have deteriorated and that agency activities and funding should focus on restoration and maintenance, whereas others advocate expanding federal protection to additional lands. Debates also encompass the extent to which federal lands should be developed, preserved, and open to recreation and whether federal lands should be managed primarily to produce national benefits or benefits primarily for the localities and states in which the lands are located. Finally, management of, and access to, federal lands along and near the southwestern border raise questions about border security and the role of law enforcement. These issues are discussed below (see “ Border Security ”). 39  
+
+> 39
+
+Additional discussion of federal land management issues is contained in CRS Report R43429, Federal Lands and Related Resources: Overview and Selected Issues for the 115th Congress , coordinated by Katie Hoover. Federal Land Ownership: Overview and Data  
+
+> Congressional Research Service 19
+
+# Extent of Ownership 
+
+The optimal extent of federal land ownership is an enduring issue for Congress. Current debates encompass the extent to which the federal government should dispose of, retain, or acquire lands in general and in particular areas. Advocates of retention of federal lands, and federal acquisition of additional lands, assert a variety of benefits to the public of federal land ownership. They include protection and preservation of unique natural and other resources; open space; and public access, especially for recreation. Some support land protection from development. 
+
+Disposal advocates have expressed concerns about the efficacy and efficiency of federal land management, accessibility of federal lands for certain types of recreation, and limitations on development of federal lands. Some support selling federal land for financial reasons, such as to help lower federal expenditures, reduce the deficit, or balance the budget. Others assert that limited federal resources constrain agencies’ abilities to protect and manage the lands and resources. Other concerns involve the potential influence of federal land protection on private property, development, and local economic activity. Some seek disposal to states or private landowners to foster state, local, and private control over lands and resources. 
+
+Other issues center on the suitability of authorities for acquiring and disposing of lands and their use in particular areas. Congress has provided to the federal agencies varying authorities for acquiring and disposing of land. 40 With regard to acquisition, the BLM has relatively broad authority, the FWS has various authorities, and the FS authority is mostly limited to lands within or contiguous to the boundaries of a national forest. DOD also has authority for acquisitions. 41 By contrast, the NPS has no general authority to acquire land to create new park units. Condemnation for acquiring land is feasible, but rarely is used by any of the agencies and its potential use has been controversial. The primary funding mechanism for federal land acquisition, for the four major federal land management agencies, has been appropriations from the Land and Water Conservation Fund (LWCF). 42 For the FWS, the Migratory Bird Conservation Fund (supported by sales of Duck Stamps and import taxes on arms and ammunition) provides a significant additional source of mandatory spending for land acquisition. Funding for acquisitions by DOD is provided in Department of Defense appropriations laws. 
+
+With regard to disposal, the NPS and FWS have no general authority to dispose of the lands they administer, and the FS disposal authorities are restricted. The BLM has broader authority under provisions of FLPMA. 43 DOD lands that are excess to military needs can be disposed of under the surplus property process administered by the General Services Administration. 44           
+
+> 40 For information on the acquisition and disposal authorities of the four major federal land management agencies, see CRS Report RL34273, Federal Land Ownership: Acquisition and Disposal Authorities , by Carol Hardy Vincent et al.
+> 41 See 10 U.S.C. §2663.
+> 42 For information on the Land and Water Conservation Fund, see CRS Report RL33531, Land and Water Conservation Fund: Overview, Funding History, and Issues , by Carol Hardy Vincent.
+> 43 43 U.S.C. §1713.
+> 44 For information on the disposal of surplus federal property by the U.S. General Services Administration (GSA), see 40 U.S.C. §101 et seq. and CRS Report R44377, Disposal of Unneeded Federal Buildings: Legislative Proposals in the 114th Congress , by Garrett Hatch. While surplus DOD real property is routinely disposed of by the GSA, legislation authorizing base realignment and closure (BRAC) rounds typically has authorized the Secretary of Defense to exercise
+> GSA’s disposal authority during BRAC rounds. For informatio n on DOD disposal during BRAC rounds, see CRS Report R40476, Base Realignment and Closure (BRAC): Transfer and Disposal of Military Property , by R. Chuck Mason. Federal Land Ownership: Overview and Data
+> Congressional Research Service 20
+
+It is not uncommon for Congress to enact legislation providing for the acquisition or disposal of particular lands where an agency lacks such authority or providing particular procedures for specified land transactions. Further, recent Congresses have considered measures to establish or amend broader authorities for acquiring or disposing of land. 
+
+Western Land Concentration 
+
+The concentration of federal lands in the West has contributed to a higher degree of controversy over federal land ownership in that part of the country. For instance, the dominance of BLM and FS lands in the western states has led to various efforts to divest the federal government of significant amounts of land. Currently, some western states, among others, are considering measures to provide for or express support for the transfer of federal lands to states, to establish task forces or commissions to examine federal land transfer issues, and to assert management authority over federal lands. An earlier collection of efforts from the late 1970s and early 1980s, known as the Sagebrush Rebellion, also sought to foster divestiture of federal lands. However, that effort was not successful in achieving this end through legal challenges in the federal courts and efforts to persuade the Reagan Administration and Congress to transfer the lands to state or private ownership. Some supporters of continued or expanded federal land ownership have asserted that state and local resource constraints, other economic considerations, or environmental or recreational priorities weigh against state challenges to federal land ownership. In recent years, some states have considered measures to express support for federal lands or to limit the sale of federal lands in the state. 45 
+
+As shown in  Table 1  and  Table 2 , the 11 contiguous western states and Alaska have extensive areas of federal lands.  Table 5  summarizes the data in  Table 1  to clarify the difference in the extent of federal ownership between western and other states. As can be seen, 61.3% of the land in Alaska is federally owned, which includes 86.0% of the total FWS lands and 65.7% of the total NPS lands. Of the land in the 11 contiguous western states, 46.4% is federally owned, which includes 73.4% of total FS lands and 70.3% of total BLM lands. In the rest of the country, the federal government owns 4.2% of the lands, with 60.9% of those managed by the FS.    
+
+> 45 For a discussion of issues related to potential state management of federal lands, see CRS Report R44267, State Management of Federal Lands: Frequently Asked Questions , by Carol Hardy Vincent and Alexandra M. Wyatt. Federal Land Ownership: Overview and Data
+> Congressional Research Service 21
+
+Table  5. Federal Acreage by State or Region and by Agency, 2015                                       
+
+> Alaska
+> 11 Western
+> States a
+> Other
+> States U.S. Total
+> BLM 72,234,836 174,504,196 1,606,519 248,345,551
+> FS 22,167,455 141,489,831 29,236,031 192,893,317
+> FWS 76,617,382 6,448,993 6,026,337 89,092,711
+> NPS 52,426,440 20,362,735 6,984,597 79,773,772
+> DOD 689,877 6,556,375 4,122,182 11,368,434
+> U.S. Total 224,135,990 349,362,130 47,975,666 621,473,785
+> Acreage of States 365,481,600 752,947,840 1,152,913,920 2,271,343,360
+> Percent age
+> Federal
+> 61.3% 46.4% 4.2% 27.4%
+> Sources: For federal lands, see sources listed in Table 2 . Total acreage of states is from U.S. General Services Administration, Office of Governmentwide Policy, Federal Real Property Profile, as of September 30, 2004 , Table 16, pp. 18-19.
+> Notes: See notes for Table 1 .
+> a. The 11 western states are Arizona, California, Colorado, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, and Wyoming.
+
+# Maintaining Infrastructure and Lands 
+
+Debate continues over how to balance the acquisition of new assets and lands with the maintenance of the agencies’ existing infrastructure and the care of current federal lands. Some assert that addressing the condition of infrastructure and lands in current federal ownership is paramount. They support ecological restoration as a focus of agency activities and funding and an emphasis on managing current federal lands for continued productivity and public benefit. They oppose new land acquisitions and unit designations until the backlog of maintenance activities has been eliminated or greatly reduced and the condition of current range, forest, and other federal lands is significantly improved. Others contend that expanding federal protection to additional lands is essential to provide new areas for public use, protect important natural and cultural resources, and respond to changing land and resource conditions. 
+
+The ecological condition of current federal lands has long been a focus of attention. For example, the poor condition of public rangelands due to overgrazing was the rationale for enacting the Taylor Grazing Act of 1934 and the creation of the BLM. 46 Today, debates on the health and productivity of federal lands center on rangelands, forests, riparian areas, and other resources. These lands and resources might be affected in some areas by various land uses, such as livestock grazing, recreation, and energy development. Many other variables might impact the health of federal lands and resources, including wildfires, community expansion, invasive weeds, and drought. 
+
+The deferred maintenance of federal infrastructure also has been a focus of Congress and the Administration for many years. Deferred maintenance, often called the maintenance backlog, is defined as maintenance that was not done when scheduled or planned. The agencies assert that     
+
+> 46 S.T. Dana and S.K. Fairfax, Forest and Range Policy: Its Development in the United States , 2 nd ed. (New York: McGraw-Hill Book Co., 1980), pp. 158-164. Federal Land Ownership: Overview and Data
+> Congressional Research Service 22
+
+continuing to defer maintenance of facilities accelerates their rate of deterioration, increases their repair costs, and decreases their value. 
+
+Congressional and administrative attention has centered on the NPS backlog. DOI estimated deferred maintenance for the NPS for FY2016 at $10.93 billion. Of the total deferred maintenance, 58% was for roads, bridges, and trails; 19% was for buildings; 6% was for irrigation, dams, and other water structures; and 17% was for other structures (e.g., recreation sites). 47 DOI estimates of the NPS backlog have increased overall since FY1999, from $4.25 billion in that year. 48 It is unclear what portion of the change is due to the addition of maintenance work that was not done on time or the availability of more precise estimates of the backlog. The NPS, as well as the other land management agencies, increased efforts to define and quantify maintenance needs over the past decade. 
+
+While attention has focused on the NPS backlog, the other federal land management agencies also have maintenance backlogs. The FS estimated its backlog for FY2016 at $5.49 billion. 49 Of the total deferred maintenance, 59% was for roads, 50 22% was for buildings, and the remaining 19% was for a variety of other assets (e.g., trails, fences, and bridges). For FY2016, DOI estimated the FWS backlog at $1.40 billion and the BLM backlog at $0.81 billion. 51 The four agencies together had a combined FY2016 backlog estimated at $18.62 billion. 
+
+The agency backlogs have been attributed to decades of funding shortfalls. However, it is unclear how much total funding has been provided for the maintenance backlog over the years. Annual presidential budget requests and appropriations laws typically have not identified funds from all sources that may be used to address the maintenance backlog. Opinions differ over the level of funds needed to address deferred maintenance, whether to use funds from other programs and sources, and how to prioritize funds for maintenance needs. 
+
+# Protection and Use 
+
+The extent to which federal lands should be made available for development, opened to recreation, and/or preserved has been controversial. Significant differences of opinion exist on the amount of traditional commercial development that should be allowed, particularly involving energy development, grazing, and timber harvesting. Whether and where to restrict recreation, generally and for high-impact uses such as motorized off-road vehicles, also is a focus. How much land to dedicate to enhanced protection, what type of protection to provide, and who should protect federal lands are continuing questions. Another area under consideration involves how to balance the protection of wild horses and burros on federal lands with protection of the range and other land uses. 
+
+Debates also encompass whether federal lands should be managed primarily to emphasize benefits nationally or for the localities and states where the lands are located. National benefits can include using lands to produce wood products for housing or energy from traditional (oil, gas,        
+
+> 47 This information was provided to CRS by the DOI Budget Office on January 9, 2017. This estimate, and the estimates for FWS and BLM provided below, is based on DOI financial reports and may differ from figures reported by the agency independently. As one example, DOI financial reports reflect agency-owned assets only, whereas figures reported by individual DOI agencies sometimes include other types of assets (e.g., leased assets).
+> 48 FY1999 is the first year for which an estimate is readily available.
+> 49 U.S. Dept. of Agriculture, Forest Service, National Forest System Statistics FY2016 , FS-905(15), February 2017.
+> 50 This estimate of the deferred maintenance for roads reflects passenger-car roads only.
+> 51 This information was provided to CRS by the DOI Budget Office on January 9, 2017. Federal Land Ownership: Overview and Data
+> Congressional Research Service 23
+
+coal) and alternative/renewable sources (wind, solar, geothermal, biomass). Other national benefits might encompass clean water for downstream uses; biodiversity for ecological resilience and adaptability; and wild animals and wild places for the human spirit. Local benefits can include economic activities, such as livestock grazing, timber for sawmills, ski areas, tourism, and other types of development. Local benefits could also be scenic vistas and areas for recreation —
+
+picnicking, sightseeing, backpacking, four -wheeling, snowmobiling, hunting and fishing, and much more. 
+
+At some levels, the many uses and values can generally be compatible. However, as demands on the federal lands have risen, the conflicts among uses and values have escalated. Some lands —
+
+notably those administered by the FWS and DOD —have an overriding primary purpose (wildlife habitat and military needs, respectively). The conflicts typically are greatest for the multiple -use lands managed by the BLM and FS, because the potential uses and values are more diverse. 
+
+Other issues of debate include who decides the national -local balance, and how those decisions are made. Some would like to see more local control of land and a reduced federal role, while others seek to maintain or enhance the federal role in land management to represent the interests of all citizens. 
+
+# Border Security 52 
+
+Border security presents special challenges on federal lands, 53 in part because federal lands tend to be geographically remote, resulting in limited law enforcement coverage, and because they tend to include mountains, deserts, and other inhospitable terrain. Federal lands along the southwestern border saw an apparent increase in illegal immigration, smuggling, and other illegal activity beginning in the mid -1990s, as the U.S. Border Patrol (USBP) implemented a national border enforcement strategy that focused initially on deterring illegal entry in traditional crossing areas. 54 
+
+In general, federal efforts to secure the border are subject to the National Environmental Policy Act of 1969 (NEPA), 55 which requires agencies to evaluate the potential environmental impacts of proposed programs, projects, and actions before decisions are made to implement them. They also are governed by related regulations (40 C.F.R. Part 1500) that require agencies to integrate NEPA project evaluations with other planning and regulatory compliance requirements to ensure that planning and decisions reflect environmental considerations. 56 However, the Secretary of the Department of Homeland Security (DHS) has authority under law to waive NEPA and other environmental laws for construction of fencing and other barriers along the U.S. international            
+
+> 52 For more details see CRS Report R42138, Border Security: Immigration Enforcement Between Ports of Entry , by Carla N. Argueta.
+> 53 A related issue is the authority, and litigation challenging the authority, to construct and maintain border barriers (the
+> “fence”), including waivers from environmental prote ction statutes. However, this issue is not discussed in this report, because it is not limited to federal lands. For information on issues related to the border barrier, see CRS Report R42138, Border Security: Immigration Enforcement Between Ports of Entry , by Carla N. Argueta.
+> 54 U.S. Government Accountability Office, Border Security: Additional Actions Needed to Better Ensure a Coordinated Federal Response to Illegal Activity on Federal Lands , GAO-11-177, November 2010, pp. 9-10, hereinafter cited as GAO-11-177, Border Security: Additional Actions Needed . See also U.S. Border Patrol, “Border Patrol Strategic Plan: 1994 and Beyond,” July 1994.
+> 55 P.L. 91-190; 42 U.S.C. §§4321-4347.
+> 56 For more information on U.S. Customs and Border Protection (CBP) compliance with NEPA and the environmental
+> impact of its border security programs, see CBP, “SBI Environmental Documents,” http://www.cbp.gov/xp/cgov/ border_security/otia/sbi_news/sbi_enviro_docs/. Federal Land Ownership: Overview and Data
+> Congressional Research Service 24
+
+borders to deter illegal crossings. 57 In the past, legislation has been introduced to broaden DHS’s exemption from NEPA, land management statutes, and other environmental laws to facilitate border security activities on federal lands. Some oppose such legislation on the grounds that it would remove important protections for sensitive and critical habitats and resources. 
+
+There are extensive federal lands along the southwestern border with Mexico and the northern border with Canada. The lands are managed by different federal agencies under various laws for many purposes.  Figure 4  shows federal and Indian lands within 50 and 100 miles from the U.S. -
+
+Mexican border, which has been of particular focus. Precise estimates of the acreage involved are not readily available because the agencies do not distinguish their lands by distance from the border. One estimate provided by the agencies to the House Committee on Natural Resources reported that within 100 miles of the border, there were about 26.7 million acres of federal lands. 58 Nearly half of this land (12.3 million acres) was managed by BLM, and the other federal lands were managed by DOD (5.8 million acres), FS (3.8 million acres), NPS (2.4 million acres), FWS (2.2 million acres), and other federal agencies (0.2 million acres). 
+
+The USBP is the lead agency for border security between ports of entry, but more than 40% of the southwestern border abuts federal and tribal lands overseen by the FS and four DOI agencies (including the Bureau of Indian Affairs) that also have law enforcement responsibilities. 59 
+
+Differences in missions and jurisdictional complexity among these agencies have been identified as potentially hindering border control. To facilitate control efforts, the three departments —DHS, the Department of Agriculture (for the FS), and DOI —signed memoranda of understanding (MOUs) on border security. These MOUs govern information sharing, budgeting, and operational planning; USBP access to federal lands; and interoperable radio communications, among other topics. 60 Although these efforts helped to address some of the agency differences in border security missions and jurisdiction, in 2010, the U.S. Government Accountability Office found that interagency coordination to protect border security on federal lands remained somewhat problematic. 61 Subsequently, federal officials have made positive statements with regard to improved coordination among agencies. For example, in 2016, DOI Interagency Borderlands Coordinator Jon Andrews noted that federal agencies with law enforcement presence on federal lands along the borders have “developed a cohesive, cooperative approach to border security.” 62                     
+
+> 57 See CRS Report R43975, Barriers Along the U.S. Borders: Key Authorities and Requirements , by Michael John Garcia.
+> 58 This figure excludes 3.5 million acres of Indian lands. See the map on the website of the House Committee on Natural Resources at http://naturalresources.house.gov/Info/BorderOverview.htm.
+> 59 GAO-11-177, Border Security: Additional Actions Needed , p. 4.
+> 60 For example, in 2006, DOI, DHS, and USDA entered into a memorandum of understanding entitled Cooperative National Security and Counterterrorism Efforts on Federals Lands along the United States’ Borders. These departments have entered into additional memoranda of understanding addressing issues such as “road maintenance, secure radio communication, environmental coordination, and sharing of geospatial information, among others.” U.S .Congress, House Committee on Natural Resources, Subcommittee on Oversight and Investigations, The Consequences of Federal Land Management Along the U.S. Border to Rural Communities and National Security , testimony of U.S.
+> Department of the Interior’s Int eragency Borderlands Coordinator, Jon Andrew, 114 th Cong., 2 nd sess., April 28, 2016.
+> 61 Government Accountability Office, Border Security: Additional Actions Needed, GAO-11-177, p. 15.
+> 62 U.S. Congress, House Committee on Natural Resources, Subcommittee on Oversight and Investigations, The Consequences of Federal Land Management Along the U.S. Border to Rural Communities and National Security ,
+> testimony of U.S. Department of the Interior’s Interagency Borderlands Coordinator, Jon Andrew, 114 th Cong., 2 nd
+> sess., April 28, 2016. Federal Land Ownership: Overview and Data
+> Congressional Research Service 25
+
+Figure  4. Federal  and Indian  Lands Near the Southwest ern  Border 
+
+Source: Map boundaries and information generated by CRS using U.S. Geological Survey, Gap Analysis Program (GAP). May 2016. Protected Areas Database of the United States (PAD-US), version 1.4 Combined Feature Class and an ESRI USA Base Map. 
+
+Note: Federal lands not owned by BLM, DOD, FS, FWS, and NPS or held in trust by the Bureau of Indian Affairs were not included due to their small size relative to the displayed federal lands. 
+
+# Author Contact Information 
+
+Carol Hardy Vincent 
+
+Specialist in Natural Resources Policy 
+
+chvincent@crs.loc.gov , 7-8651 
+
+Carla N. Argueta 
+
+Analyst in Immigration Policy 
+
+cargueta@crs.loc.gov, 7-1019 
+
+Laura A. Hanson 
+
+Senior Research Librarian 
+
+lhanson@crs.loc.gov , 7-7072

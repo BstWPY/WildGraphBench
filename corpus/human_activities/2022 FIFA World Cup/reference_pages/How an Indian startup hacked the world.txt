@@ -1,0 +1,565 @@
+# How an Indian startup hacked the world
+
+Chuck Randall was on the verge of unveiling an ambitious real estate deal he hoped would give his small Native American tribe a bigger cut of a potentially lucrative casino project.
+
+A well-timed leak derailed it all.
+
+In July of 2012, printed excerpts from Randall’s private emails were hand-distributed across the Shinnecock Nation’s square-mile reservation, a wooded peninsula hanging off the South Fork of Long Island.
+
+[The five-page pamphlets](https://www.documentcloud.org/documents/23443775-20120724-attention-shinnecock-tribal-members-pamphlet) detailed secret negotiations between Randall, his tribal government allies and outside investors to wrest some of the profits from the tribe’s then-partner in the gambling deal.
+
+They sparked an uproar. The pamphlets claimed Randall’s plan would sell out the tribe’s “LANDS, RESOURCES, and FUTURE REVENUES.” Within days, four of Randall’s allies [were voted out of tribal government](https://www.documentcloud.org/documents/23443872-20120731-minutes-of-the-shinnecock-nations-vote-to-remove-tribal-officials). Randall, who held no formal position with the tribe, was ordered to cease acting on its behalf.
+
+The first page of a pamphlet containing excerpts from Randall’s private emails that was distributed on the Shinnecock reservation. The stolen messages, which revealed Randall’s secret negotiations over a potential real estate project, became the subject of an emergency tribal meeting held in July 2012. Handout via REUTERS
+
+Amid the upheaval, the Shinnecocks’ casino hopes faded. “We lost the biggest economic opportunity that has come to the tribe in forever,” Randall told Reuters. “My emails were weaponized.”
+
+The scandal that roiled the Shinnecocks barely registered beyond the reservation. But it was part of a phenomenon that has drawn interest from law enforcement and intelligence agencies on both sides of the Atlantic.
+
+Randall’s inbox was breached by a New Delhi-based information technology firm named Appin, whose sudden interference in the matters of a faraway tribe was part of a sprawling cyber-mercenary operation that extended across the world, a Reuters investigation found.
+
+The Indian company hacked on an industrial scale, stealing data from political leaders, international executives, prominent attorneys and more. By the time of the Shinnecock scandal, Appin was a premier provider of cyberespionage services for private investigators working on behalf of big business, law firms and wealthy clients.
+
+Unauthorized access to computer systems is a crime worldwide, including in India. Yet [at least 17 pitch documents](https://www.documentcloud.org/documents/23457852-2007-appin-presentations-and-pitches) prepared for prospective business partners and reviewed by Reuters advertised Appin’s prowess in activities such as “[cyber spying](https://www.documentcloud.org/documents/23457852-2007-appin-presentations-and-pitches#document/p286/a2237794),” “[email monitoring](https://www.documentcloud.org/documents/23457852-2007-appin-presentations-and-pitches#document/p279/a2404087),” “[cyber warfare](https://www.documentcloud.org/documents/23457852-2007-appin-presentations-and-pitches#document/p98/a2194211)” and “[social engineering](https://www.documentcloud.org/documents/23457852-2007-appin-presentations-and-pitches#document/p19/a2237798),” security lingo for manipulating people into revealing sensitive information. In one 2010 presentation, the company [explicitly bragged about hacking businessmen](https://www.documentcloud.org/documents/23457852-2007-appin-presentations-and-pitches#document/p261/a2194225) on behalf of corporate clients.
+
+Reuters previously named Appin [](https://www.reuters.com/investigates/special-report/usa-hackers-litigation/)[in a story about Indian cyber mercenaries](https://www.reuters.com/investigates/special-report/usa-hackers-litigation/) published last year. Other media outlets – including [The New Yorker](https://www.newyorker.com/news/annals-of-crime/a-confession-exposes-indias-secret-hacking-industry), [Paris-based Intelligence Online](https://www.intelligenceonline.com/search?sqe=YXBwaW41), [Swiss investigative program Rundschau](https://www.srf.ch/news/schweiz/projekt-gnadenlos-wie-katar-in-der-schweiz-die-fussballwelt-ausspionierte) and tech companies such as [Alphabet-owned Google](https://blog.google/threat-analysis-group/countering-hack-for-hire-groups/)– have also reported on the firm’s activities.
+
+This report paints the clearest picture yet of how Appin operated, detailing the world-spanning extent of its business, and international law enforcement’s abortive efforts to get a handle on it.
+
+Run by a pair of brothers, Rajat and Anuj Khare, the company began as a small Indian educational startup. It went on to train a generation of spies for hire that are still in business today.
+
+Several cyber defense training organizations in India carry the Appin name, the legacy of an old franchise model. But there’s no suggestion that those firms are involved in hacking, and Reuters is not alleging wrongdoing on the part of any bona fide trainees or graduates of the institutions.
+
+> The Indian company hacked on an industrial scale, stealing data from political leaders, international executives, sports figures and more.
+
+Rajat Khare’s U.S. representative, the law firm Clare Locke, rejected any association between its client and the cyber-mercenary business. It said Khare “has never operated or supported, and certainly did not create, any illegal ‘hack for hire’ industry in India or anywhere else.”
+
+In a series of letters sent to Reuters over the past year, Clare Locke said that “Mr. Khare has dedicated much of his career to the fields of information technology security – that is, cyber-_defense_ and the _prevention_ of illicit hacking.”
+
+Clare Locke said that, under Khare’s tenure, Appin specialized in training thousands of students in cybersecurity, robotics and artificial intelligence, “never in illicit hacking.” The lawyers said Khare left Appin, in part, because rogue actors were operating under the company’s brand, and he wanted “to avoid the appearance of associations with people who were misusing the Appin name.”
+
+The lawyers described media articles tying Khare to hacking as “false” or “fundamentally flawed.” As for the 2010 Appin presentation boasting of hacking services, they said Khare had never seen it before. “The document is a forgery or was doctored,” they said.
+
+Clare Locke added that Khare could not be held responsible for Appin employees who went on to work as mercenary hackers, saying that doing so “would be akin to holding Harvard University responsible for the terrorist bombings carried out by its former student Ted Kaczynski,” referring to the former math prodigy known as the “Unabomber.”
+
+A lawyer acting for Rajat’s brother, Anuj, said his client’s position was the same as the one laid out by Clare Locke.
+
+This report on Appin draws on thousands of company emails as well as financial records, presentations, photos and instant messages from the firm. Reporters also reviewed case files from American, Norwegian, Dominican and Swiss law enforcement, and interviewed dozens of former Appin employees and hundreds of victims of India-based hackers. Reuters gathered the material – which spans 2005 until earlier this year – from ex-employees, clients and security professionals who’ve studied the company.
+
+Reuters verified the authenticity of the Appin communications with 15 people, including private investigators who commissioned hacks and ex-Appin hackers themselves. The news agency also asked U.S. cybersecurity firm SentinelOne to review the material for signs that it had been digitally altered. The firm said it found none.
+
+“We assess the emails to be accurately represented and verifiably associated with the Appin organization,” SentinelOne researcher Tom Hegel said.
+
+Though Khare’s lawyers say Appin “focused on teaching cybersecurity and cyber-defense,” company communications seen by Reuters detailed the creation of an arsenal of hacking tools, including malicious code and websites. Hegel and two other U.S.-based researchers – one from cybersecurity firm Mandiant, the other from Symantec – all working independently, were able to match that infrastructure to publicly known cyberespionage campaigns.
+
+“It all lines up perfectly,” Hegel said.
+
+Over the last decade, Google saw hackers linked to Appin target tens of thousands of email accounts on its service alone, according to Shane Huntley, who leads the California company’s cyber threat intelligence team.
+
+“These groups worked very high volumes, to the point that we actually had to expand our systems and procedures to work out how to track them,” Huntley said.
+
+The original Appin has now largely disappeared from public view, but its impact is still felt today. Copycat firms led by Appin alumni continue to target thousands, [according to court records](https://www.documentcloud.org/documents/22064810-20220429-usa-versus-azari-government-motion-pursuant-to-18-3771) and [cybersecurity industry reporting](https://www.nortonlifelock.com/blogs/security-response/mercenary-amanda-professional-hackers-for-hire).
+
+“They were groundbreaking,” Google’s Huntley said. “If you look at the companies at the moment who are picking up the baton, many of them are led by ex-employees” of Appin.
+
+‘Get me result ASAP!!!’
+
+Private eyes have been hiring hackers to do their dirty work since the dawn of the internet. Former clients say Appin’s central innovation was turning the cloak-and-dagger market into something more like an e-commerce platform for spy services.
+
+The mercenaries marketed a digital dashboard with [a menu of options for breaking into inboxes](https://www.documentcloud.org/documents/23457852-2007-appin-presentations-and-pitches#document/p257/a2194224), including sending fake, booby-trapped job opportunities, bogus bribe offers and risqué messages with subject lines like “My Sister’s Hot Friend.”
+
+Customers would log in to a discreet site – once dubbed “My Commando” – and ask Appin to break into emails, computers or phones. Users could follow the spies’ progress as if they were tracking a delivery, eventually receiving instructions to download their victim’s data from digital dead drops, according to logs of the system reviewed by Reuters.
+
+“It was the best-organized system that I have ever seen,” said Jochi Gómez, a former news publisher in the Dominican Republic. Gómez told Reuters that in 2011 he paid Appin $5,000 to $10,000 a month to spy on the Caribbean nation’s elite and mine the material for stories for his now-defunct digital newspaper, [El Siglo 21](https://web.archive.org/web/20111211122752/http:/elsiglo21.com:80/).
+
+![Image 1: A login form for project management with fields for username, password, and a sign in button](https://d2nin4b56u5fks.cloudfront.net/special-report/assets/usa-hackers-appin/appin-login.jpg)![Image 2: Software user interface detailing a task report and active tasks RSS feed for social engineering with links and attachments, including tasks such as emailing business proposals, media inquiries, job offers, investor inquiries, online dating offers, bribe offers, and porn pictures and videos, as well as chatting and calling the desk secretary](https://d2nin4b56u5fks.cloudfront.net/special-report/assets/usa-hackers-appin/appin-social-engineering.jpg)
+
+**Subject:** Request for interview
+
+Dear Mr. [target name redacted]
+
+My name is Caroline Wilcocks. I work as a journalist at the D.C. office of “The Australian” newspaper. I am in the process of writing an article about the current wave of crises hitting Africa and would be interested to get your opinion on the potential spread south of such events. [Please find attached](https://www.reuters.com/investigates/special-report/usa-hackers-appin/) a copy of my Curriculum Vitae.
+
+I look forward to receiving your correspondence on this matter and to setting up a meeting at your convenience.
+
+Best regards
+
+ Caroline Wilcocks
+
+ Journalist, The Australian
+
+Suite 446
+
+ 529 14th St NW
+
+ Washington DC 20045, USA
+
+**Subject:** Foreigner Model in lehenga choli!! Have you seen it??
+
+Foreigner Model stripping off lehenga choli
+
+ showing Glittering & Stunning Body
+
+See the Glittering Pics:
+
+[Download here](https://www.reuters.com/investigates/special-report/usa-hackers-appin/)
+
+**Subject:** Account Verification
+
+Dear Gmail customer,
+
+You are being asked to verify your Gmail account for unhindered services. You are required to verify your details after clicking on the link given below. If you chose not to do so your account will be deleted after 72 hours of opening of this mail.
+
+We apologize for the inconvenience and assure you of continued services.
+
+You need to [Re-Login](https://www.reuters.com/investigates/special-report/usa-hackers-appin/)
+
+Thank You
+
+Gmail Support Team
+
+One of Appin’s selling points was a project management tool once called “My Commando.”
+
+Appin told customers it used the tool to tailor its hacking attempts, enticing targets with bogus business proposals, fake interview requests or porn.
+
+Some booby-trapped emails were elaborate deceptions, like this message created in the name of a non-existent journalist.
+
+Others relied on sex appeal, like this message promising photos of a woman taking off a traditional Indian dress.
+
+Targets who clicked would soon have their emails stolen by Appin – and read by the hackers’ clients.
+
+Reuters reviewed more than a year’s worth of activity from Appin’s “My Commando” system. The logs showed that Gómez was one of 70 clients, mostly private investigators, from the United States, Britain, Switzerland and beyond who sought Appin’s help in hacking hundreds of targets.
+
+Some of these marks were high-society figures, including a top New York art dealer and a French diamond heiress, according to the logs. Others were less prominent, like a New Jersey landscape architect suspected of having an affair.
+
+Several detectives used the service frequently, among them Israeli private eye Aviram Halevi, who tasked the spies with going after at least three dozen people via the system.
+
+“There is a returning customer who needs the following addresses cracked ASAP,” the logs show Halevi telling the hackers in August 2011.
+
+[Reuters previously reported](https://www.reuters.com/investigates/special-report/usa-hackers-litigation/) that Halevi, a former lieutenant colonel in the Israeli Defense Forces, [hired Appin to spy on a litigant](https://www.documentcloud.org/documents/22064744-20160523-korea-motors-israel-affidavit-of-aviram-halevi) in [a lawsuit in Israel](https://www.documentcloud.org/documents/22064745-20210310-korea-motors-israel-judgment) on behalf of a client on the opposing side of the case. Halevi did not respond to questions about his ties to the hackers.
+
+Another big user of My Commando was Israeli private detective Tamir Mor, who used the service around the same time to order hacks on more than 40 targets, the logs show. Among them were the late Russian oligarch Boris Berezovsky and Malaysian politician Mohamed Azmin Ali.
+
+“Please get me result ASAP!!!” Mor wrote on the My Commando chat feature after providing Appin with details about two members of Berezovsky’s legal team in December 2011, the logs show.
+
+Reuters could not establish Mor’s motives for targeting Berezovsky and Azmin, whether he succeeded in hacking either of them, or on whose behalf he was working. Mor did not respond to requests for comment.
+
+Azmin, a former cabinet minister, was a prominent opposition leader at the time of the hack attempts. He and his former party didn’t respond to messages seeking comment.
+
+The order to hack Berezovsky came while the tycoon was in the middle of a British court battle against fellow oligarch Roman Abramovich over the sale of a Russian oil company. The multibillion dollar case ended in [a decisive defeat for Berezovsky](https://www.reuters.com/article/us-britain-russia-oligarchs-idUSBRE87U0CY20120831). [The 67-year-old was found dead](https://www.reuters.com/article/us-britain-berezovsky-idUSBREA2Q25O20140327) at his suburban English home the following year.
+
+Mark Hastings, one of the Berezovsky lawyers mentioned in the My Commando logs, said he was not aware that he had been in Appin’s crosshairs, but that he was “not entirely surprised.”
+
+“It is an open secret that lawyers are often targeted by hackers in major commercial litigations,” said Hastings, now with the London firm Quillon Law.
+
+Abramovich’s representatives said the tycoon had no dealings with or knowledge of Mor or Appin, and that he had never engaged with hackers or hacked material of any kind.
+
+Many of Appin’s clients signed into My Commando using their real names. A prolific customer who didn’t was someone using the alias “Jim H.”
+
+Jim H assigned the Appin hackers more than 30 targets in 2011 and 2012, including a Rwandan dissident and the wife of another wealthy Russian who was in the middle of a divorce, the logs show.
+
+Among Jim H’s most sensitive requests: hacking Kristi Rogers, wife of Representative Mike Rogers, then-Chairman of the U.S. House Intelligence Committee. The Michigan Republican served in Congress from 2001 until his retirement in 2015; he’s currently running for U.S. Senate.
+
+The requirements are his inbox and pc contents. thank you and good luck!
+
+Israeli private eye Aviram Halevi discusses hacking a Kenyan target with an Appin employee on Feb. 10, 2012.
+
+Need this iphone [telephone number redacted] located as soon as possible, time is critical. Back in November you guys were able to locate the same iphone successfully very quickly; can the same method be used? Time is critical. Thanks, please advise asap!
+
+An American client of Appin’s asks the hackers on March 22, 2012, to locate the iPhone of a whistleblower.
+
+How is it coming , getting her new facebook password ? Please give me an update ....... I would really like to have this ASAP ......I have some decisions to make and would really like more info .
+
+A businessman asks Appin about the progress of a hack against a model he is interested in on Nov. 29, 2011.
+
+Back in 2012, Kristi Rogers was an executive at Aegis, a London-based security company. Jim H told the hackers that Aegis competed with his client, another security contractor called Global Security, an apparent reference to Virginia-based Global Integrated Security.
+
+Cracking Rogers’ corporate email was a “top priority,” Jim H told the hackers. He claimed that her company was trying to undermine Global’s bid for a $480 million U.S. Army Corps of Engineers contract to provide security for Afghanistan’s reconstruction.
+
+Jim H said he needed dirt on Aegis to sully its reputation, and he suggested a way to trick Rogers into opening a malicious link.
+
+“You could send an invitation to an event organised by the Rotary Club or a gala dinner,” he wrote, according to the logs.
+
+Shortly thereafter, Appin reported back that it had successfully broken into Aegis’ network.
+
+Reuters could not verify whether Rogers’ account was ultimately compromised. [Global eventually won the contract](https://www.tam.usace.army.mil/Media/News-Releases/Article/483653/reconstruction-security-support-services-contract-will-support-operations-in-af/).
+
+Rogers, who left Aegis in late 2012, told Reuters she was outraged to learn of the hacking operation.
+
+“It gives me goosebumps right now,” she said. “It angers me that people are so cavalier with other people’s reputations and their lives.”
+
+Reuters was unable to determine Jim H’s identity or whether he was telling the truth when he said Global was his client. Messages sent to Jim H’s old email account were returned as undeliverable.
+
+Global Integrated Security’s website is inoperative, and [corporate records show its Virginia branch is inactive](https://www.documentcloud.org/documents/23569999-global-integrated-security-usa-virginia-corporate-record). Damian Perl, the founder of Britain’s Global Strategies Group – Global Integrated Security’s former parent company – “vehemently” denies any allegations of wrongdoing, his family office said in a statement.
+
+[The Army Corps of Engineers confirmed](https://www.documentcloud.org/documents/23457273-20111205-gao-dimissal-of-aegis-complaint) that Aegis had [protested Global’s contract](https://www.documentcloud.org/documents/23590195-20111109-protest-of-aegis-defense-services-llc-against-global-integrated-security-inc), but said it could offer no further comment. Canadian security company GardaWorld, which [acquired Aegis in 2015](https://www.garda.com/blog/gardaworld-acquisition-of-aegis-closes), said it had no information on the incident.
+
+The My Commando logs also shine new light on the Shinnecock casino scandal. In January 2012, a New York private eye named Steven Santarpia ordered the hack of tribal member Chuck Randall, whose leaked emails sparked chaos.
+
+Within days, an Appin hacker reported to Santarpia that he had hit pay dirt, according to the logs: “We got success in investigating Chuck@shinnecock.org.”
+
+“Excellent,” Santarpia replied.
+
+Santarpia didn’t respond to repeated messages sent by Reuters over several months, and he declined comment when a reporter approached him outside his Long Island home.
+
+Operations like Jim H’s or Santarpia’s were aimed at only three or four email accounts at a time. But Appin had greater capabilities.
+
+Gómez, the Dominican publisher, ordered break-in attempts aimed at the email accounts of more than 200 high-profile Dominicans, the logs show. Among them was an account belonging to then-President Leonel Fernández, a frequent target of Gómez’s reporting.
+
+Gómez’s hacking requests preceded several stories alleging government corruption that his paper published before [it was raided by Dominican authorities in February 2012](https://latamjournalismreview.org/articles/dominican-authorities-raid-digital-newspaper-offices-in-cyber-crime-investigation/). Gómez eventually shut it down amidst mounting official scrutiny of the hacking.
+
+“I was very active in requesting emails,” he told Reuters, adding that those days are firmly “in my past.”
+
+Fernández did not return messages seeking comment.
+
+Lawyers for Rajat Khare said he “does not know” Gómez, Santarpia, Mor or Halevi and “has no knowledge” of the My Commando dashboard “or anything similar.”
+
+The ability to target heads of state was an improbable amount of power for a company that only a few years earlier had been teaching college kids to code.
+
+Update..
+
+We got success in this case.we got his password.
+
+we upload the screen shot file.
+
+Good Job, PLEASE send me the PASSWORD ASAP!
+
+Find here login credential:
+
+Email Id: [email address redacted] Password:= [password redacted]
+
+case completed successfully.
+
+Israeli private eye Tamir Mor congratulates an Appin employee on June 16, 2011, following a successful hack of a Kazakh politician.
+
+If possible please send me the passwords of the targets so we could access locally and extract the info needed.
+
+[emails redacted]
+
+Thanks
+
+1)[email redacted] password:[password redacted]
+
+2) [email redacted]
+
+Password : [password redacted]
+
+3)[email redacted] password : [password redacted]
+
+Let me know if any problem …
+
+Thanks & Regards
+
+Hi received, Thanks, Everything ok.
+
+In chat exchanges from Nov. 10-12, 2011, Dominican newspaper publisher Jochi Gómez chats with an Appin employee about extracting data from hacked accounts.
+
+Dear sir ,
+
+You can find a file attached to this message ,an interim report describing the work done on the case and the findings as well.
+
+Regards
+
+Thank you Trinity for the detailed report.
+
+Please keep going on to the one you have established connection already, with the heavy file… and please try sending him that file ASAP so we know if he can get infected. Also, what does it mean that [target name redacted] has an windows XP ? And how will it affect potential attack?
+
+Please advise…
+
+On March 29, 2011, Israeli private eye Aviram Halevi directs an Appin hacker named “Trinity” to infect a target with a malicious file.
+
+Approaching infinity
+
+Rajat Khare was a 20-year-old computer science major when he and his friends came up with the idea for Appin over chicken pizza at a Domino’s in New Delhi.
+
+It was December 2003. Khare had joined his high school buddies to catch up and bemoan the state of India’s universities, which they thought weren’t preparing students for the professional world. When one suggested organizing technology training workshops to supplement undergraduates’ education, people present at the meal said Khare jumped on the idea.
+
+“Let’s give the students what they want,” he quoted himself telling the group in a book on entrepreneurship he co-wrote years later. “Let’s start something that will not only change _their_ lives, but _our_ lives too … forever.”
+
+After the Domino’s meeting, Khare and his friends came up with the name Appin – short for “Approaching infinity” – and launched their first classes on computer programming.
+
+It was the right idea at the right time. India’s IT outsourcing boom had created voracious demand for tech talent. Appin franchises would soon sprout across India, offering not just programming lessons but also [courses on robotics and cybersecurity](https://www.documentcloud.org/documents/23457964-appin-advertisements), nicknamed “ethical hacking.”
+
+By 2005, the company had an office in western New Delhi. Rajat had been joined by his older brother, Anuj, a motivational speaker who returned to India after a stint running a startup in Texas. As other members of the Domino’s group stepped away, the Khare brothers took charge of the fast-growing firm.
+
+The cybersecurity classes proved especially popular. By 2007, Appin opened a digital security consultancy helping Indian organizations protect themselves online, [according to a draft pitch deck](https://www.documentcloud.org/documents/23451868-20090506-memo-for-indian-angels-network) intended for potential investors.
+
+That soon drew the attention of Indian government officials who were still feeling their way through intelligence work in the internet age. To help the officials break into computers and emails, Appin set up a team of hackers out of a subsidiary called Appin Software Security Pvt. Ltd., also known as the Appin Security Group, according to a former executive, company communications, an ex-senior Indian intelligence figure and promotional documents seen by Reuters.
+
+The spying was a secret within the wider company. Some early Appin employees signed nondisclosure agreements before being shipped off to military-controlled safe houses where they worked out of sight from their colleagues, according to another former executive familiar with the matter and three hackers who spent time in the safe houses.
+
+One of the hackers recalled being only 22 years old when he broke into the inboxes of Khalistani separatists – Sikh militants [fighting to carve an independent homeland](https://www.reuters.com/world/what-is-khalistan-movement-why-is-it-fuelling-india-canada-rift-2023-09-19/) out of India’s Punjab province – and delivering the trove to his handlers.
+
+“It was the experience of a lifetime,” he said, recalling how proud he was to be contributing to India’s national security.
+
+One of Appin’s primary targets was Pakistan, according to interviews with former insiders, company emails, and stolen passwords and key logs of Pakistani officials reviewed by Reuters. The hackers created fake dating websites designed to ensnare Pakistani military officers, two of the insiders said.
+
+Another early mission, dubbed Operation Rainbow, involved penetrating Chinese military computers and stealing information about missiles and radar, according to [an undated Appin memo](https://www.documentcloud.org/documents/23451527-20090708-operation-rainbow-memo). The memo said the company’s hackers compromised several Chinese officials; Reuters was unable to confirm the alleged intrusions independently.
+
+Those early operations led to more contracts.
+
+Soon Appin was working with the Research & Analysis Wing (RAW), India’s external intelligence service; and the Intelligence Bureau, the country’s domestic spy agency, according to the two former executives, one former Appin hacker and a former senior Indian intelligence official.
+
+Detailed messages from Reuters seeking comment from the Intelligence Bureau and RAW, sent via India’s Ministry of Home Affairs and its Cabinet Secretariat, respectively, were not returned.India’s Ministry of Defense did not return messages about the hacking.The Pakistani foreign affairs ministry did not return messages. China’s foreign ministry said in a statement that it was unaware of the hacking activity.
+
+By 2008, Appin was claiming it offered a “one stop interception solution” for government clients, [according to one company presentation](https://www.documentcloud.org/documents/23457852-2007-appin-presentations-and-pitches#document/p18/a2194478).
+
+Company executives [marketed software for the analysis of call record data](https://www.documentcloud.org/documents/23457852-2007-appin-presentations-and-pitches#document/p179/a2194220)– the who, what, when of phone calls monitored by spy agencies and law enforcement – and discussed the importation of Israeli cell phone interception devices, Appin emails show.
+
+In 2009, Appin boasted to prospective customers that it was serving India’s military, its Ministry of Home Affairs, and the Central Bureau of Investigation (CBI), an Indian agency roughly equivalent to America’s Federal Bureau of Investigation (FBI), emails show.
+
+Appin’s solutions “are being used by various elite intelligence agencies in government to monitor hostile people,” one pitch claimed.
+
+The CBI and Ministry of Home Affairs didn’t return detailed messages seeking comment.
+
+Company revenues in the fiscal year ending in 2009 were estimated at nearly $1 million, with profit after tax pegged at about $170,000, [according to the draft pitch deck](https://www.documentcloud.org/documents/23451868-20090506-memo-for-indian-angels-network) aimed at potential investors. The deck projected that figure would multiply almost tenfold over the next 36 months.
+
+But Appin had hit a speed bump. The two former executives, one of the former hackers, and the former Indian intelligence official said the company earned extra money by quietly taking material it hacked for one Indian agency and reselling it to another. This double dipping was eventually discovered, the people said, and several enraged spy agency clients canceled their contracts with Appin.
+
+With intelligence work drying up, Appin pivoted to the private sector, the sources said.
+
+Hello -
+
+There is a returning customer who needs the following addresses cracked ASAP. He needs the mailbox of these people.
+
+Please do the needful..
+
+[email addresses redacted]
+
+Also, our old acquaintances [email address redacted] and [email address redacted] have changed thier passwords. Please take care of them too. Thank you!
+
+Ok sir,
+
+Israeli private eye Aviram Halevi chats with Appin hacker Sumit Gupta on Aug. 1, 2011, about breaking into Middle Eastern targets.
+
+Dear Sumit and [Appin employee’s name redacted] -
+
+as to [target’s name redacted] - do everything you can.. we need her account ASAP.
+
+We are trying to reach the target with the help of specific cyber methods. We are hoping the positive response As soon as possible.
+
+Thanks & regards
+
+Israeli private eye Aviram Halevi on Oct. 5, 2011, urges quick action by hacker Sumit Gupta and other Appin employees in hacking a woman’s email account.
+
+we got the success on this case, details and screen shot is attached for the same in the file section. name of file is [victim’s name].doc.
+
+Regards
+
+we configured it on Thunderbird.
+
+Dear Trinity and the rest of the team -
+
+good job! Now please copy all the contents of the inbox, sent items and drafts for later review, in case she cjanges the password. please do so ASAP. And for now on, the monitoring is on!
+
+Israeli private eye Aviram Halevi instructs “Trinity” and other Appin hackers on what to do on Oct, 8, 2011, after the hackers break into the woman’s inbox.
+
+‘Fucking with the wrong people’
+
+The influx of Western clients brought new revenue – and new risk.
+
+American and Swiss law enforcement documents, including emails and investigative reports reviewed by Reuters, reveal how Appin got caught hacking as it fulfilled its customers’ orders.
+
+An early example was the compromise of prominent Zurich-based communications consultant Peter Hargitay, who had served as an advisor to Australia’s football federation. He and his filmmaker son Stevie detected the intrusion and filed a Swiss criminal complaint.
+
+Within weeks, an expert they hired traced the hack to a server near the Zurich airport, according to the law enforcement documents. Billing records tied to the server listed Rajat Khare as the client.
+
+Father and son had come off a failed bid to bring the 2022 FIFA World Cup to Australia and were in no mood to let the hack slide, according to emails provided by an independent source.
+
+In a March 2012 message to his father, Stevie said he had spoken on the phone with an Appin employee who was clearly rattled by the exchange. “I told him in no uncertain terms that they are fucking with the wrong people,” Stevie wrote.
+
+Rajat Khare called Stevie the same day to try to smooth things over, saying he “wants to cooperate ‘100%,’” Stevie wrote. The emails show that an Appin employee later told Stevie the hack was ordered by a U.S. private investigator; contact fell off as the Hargitays pushed for more information about who was ultimately behind the spying.
+
+“We don’t know who his client was,” Peter Hargitay said.
+
+Khare’s lawyers told Reuters he “does not know” the Hargitays.
+
+A few months later, Appin was implicated in another incident, this time in India. Cybersecurity consultant K. K. Mookhey told a conference near New Delhi that he had tied an attempted hack against one of his clients to the firm. [In a report published in 2013](https://www.niiconsulting.com/resources/malware-analysis-report-july-2013.pdf), Mookhey wrote that the link to Appin was “not concrete.” But he told Reuters he had been “overcautious” in choosing those words and that the evidence, including Appin documentation inadvertently left on the hackers’ servers, made it obvious they were involved.
+
+“The link was actually pretty clear,” he said.
+
+Appin’s name had popped up earlier that year in Norway. In February 2013, technicians at telecommunications company Telenor discovered that hackers had stolen as many as 66,000 emails from the company’s chief executive, two personal assistants and a senior lawyer at the firm, according to Norwegian law enforcement documents reviewed by Reuters.
+
+Three months later, Oslo-based cybersecurity firm Norman Shark – which had launched its own independent investigation into the Telenor hack – [publicly linked the intrusion to Appin](https://web.archive.org/web/20130612144153/http:/enterprise.norman.com/resources/files/Unveiling_an_Indian_Cyberattack_Infrastructure.pdf).
+
+Norman Shark stopped short of directly blaming the company, saying only that “there seems to be some connection” between Appin and the Telenor hackers. One of the report’s coauthors, security researcher Jonathan Camp, told Reuters that Norman Shark had softened the report’s language to avoid legal trouble. Camp said he and his colleagues privately were confident that Appin was behind the hacking, citing an unusually large number of digital clues pointing to the company, including multiple malicious websites registered under the Appin name.
+
+“There was no doubt in our minds,” he said.
+
+California-based tech firm Broadcom, which absorbed Norman Shark following a series of acquisitions, did not respond to requests seeking comment. Telenor confirmed it had been the victim of “industrial espionage,” which it [reported to police at the time](https://web.archive.org/web/20130320072419/www.aftenposten.no/nyheter/Spionerte-pa-Telenor-sjefer_-tomte-all-e-post-og-datafiler-7149813.html). It declined further comment. The motive behind the hacking has never been made public.
+
+[Appin denied all wrongdoing](https://web.archive.org/web/20151124083908/http://archive.indianexpress.com/news/delhi-firm-with-mod-as-client-is-linked-to-pak-cyberattacks/1118918/) in the wake of Camp’s report, and the Khares’ lawyers still insist the research didn’t implicate the company. Nevertheless, Appin came under increasing scrutiny in the years that followed.
+
+Norway was one of at least four countries – along with the United States, Switzerland and the Dominican Republic – that had opened investigations into Appin. Some began comparing notes.
+
+In an undated written exchange reviewed by Reuters, FBI official Dan Brady told Swiss prosecutor Sandra Schweingruber that U.S. officials looking into the hack of the Shinnecock tribe on Long Island had “accumulated a fair amount of data identifying other victims.”
+
+Schweingruber declined to comment for this story. Reuters was unable to reach Brady. The FBI declined to answer a list of questions about its investigation into Appin.
+
+In his note to Schweingruber, Brady said “the link in our respective cases is that I believe we have the same ultimate perpetrator.”
+
+Then he added, in parentheses: “Appin.”
+
+i know he is checking his emails occassionally. we don’t have a personal email. please stay on this. his work email is most important.
+
+Dear Jim,
+
+we have successfully penetrated the network of [company name] and got some data, we will provide you the data soon.
+
+Thanks & Regards
+
+Between January and February 2012, Appin customer “Jim H” urges the company’s hackers to crack the email account of an Argentinian investment executive.
+
+dear[client’s name redacted],
+
+we are trying to reach the subject but due to lack of information like his professional background or any friend relative we are not able to do specific approach, it would be a great help if you provide some professional information to get the result sooner.
+
+Thanks & regards
+
+The subject is a male nurse and works as a [occupation redacted] in the Dubai Medical System in Dubai UAE. His is current assigned to the [place of work redacted] in Dubai. He is a computer savy [nationality redacted] living and working in Dubai. He is married to an [nationality redacted] woman who live is [location redacted]. He surfs the net, Facebook, Utube, Arab Dating Sites, etc. seeking on-line thrill and an occasional nasty video from an unsuspecting young lady. My guess he that he is a pervert, with lots of sexual fantasies. Happy Hunting, [client’s name redacted]
+
+Thanks for the prompt reply and valuable information Mr.[client’s name redacted], we will try to give you desired result asap
+
+A Texas-based engineering manager seeking sexual dirt on a man in Dubai gives hacking pointers to Appin employees between Oct. 20-24, 2011.
+
+this guy is very keen to talk to the media. He is looking to promote his cause and to decry the Government of Rawanda. He is [occupation redacted]. He would probably respond very enthusiastically to an approach by a journalist who was sympathetic to his cause, i.e.. writing about corruption in Rawanda. Sending him an email around that sort of pretext would probably work.
+
+Thank you sir,
+
+This would really help us….
+
+Regards
+
+Appin client “Jim H” on Oct. 19, 2011, coaches hackers on how to break into the emails of a Rwandan dissident.
+
+Lost leads, lasting pain
+
+The multinational investigations into Appin each carried on for years before petering out.
+
+Jochi Gómez, the Dominican newspaper publisher, [was formally accused](https://www.documentcloud.org/documents/23577803-2012074-detention-order) of working with Rajat Khare to hack emails following the 2012 raid on his publication.
+
+But the case never went to trial; [it was quashed on procedural grounds](https://www.documentcloud.org/documents/23572116-20121211-dominican-republic-first-district-court-ruling) in 2013, [a decision reaffirmed](https://www.documentcloud.org/documents/23572107-20140519-dominican-republic-supreme-court-judgment) by the country’s highest court the following year. Dominican prosecutors described Khare as a member of Gómez’s “international criminal network.” But one of the judges involved dismissed the idea as a “theory.” Khare was never charged in the matter.
+
+Dominican judiciary officials didn’t return messages seeking comment about the case.
+
+Speaking to Reuters a decade later, Gómez acknowledged hiring Khare for surveillance, saying he had been hunting for evidence of corruption.
+
+“I did it for journalism,” Gómez said. “Is it lawful or not? That’s another story.”
+
+Norway’s investigation into the Telenor hack led to four internet protocol addresses in New Delhi,according to the law enforcement files reviewed by Reuters. In an undated email sent to the FBI, the Swiss prosecutor Schweingruber said the Norwegians had gone further still. “Their investigation leads also to Appin,” she wrote.
+
+That inquiry similarly ran aground. A spokesperson for Norway’s National Criminal Investigation Service confirmed to Reuters that the case was closed in June 2016 “taking into consideration the chances of obtaining further evidence and information through further investigation.”
+
+Swiss authorities also implicated Appin in the case of PR consultant Peter Hargitay, according to the files.
+
+In her email to the FBI, Schweingruber said the Swiss investigation – nicknamed “Tandoori” – had found that “the Indian company Appin Security Group as well as their CEO Rajat Khare are involved in this case.”
+
+Yet the files show Swiss authorities rebuffed the Hargitays’ request to have Khare quizzed about the hack.In a message to the Hargitays sent in September 2020, Schweingruber’s successor, Anna Carter, said she was discontinuing the case “due to the lack of further promising investigative approaches.”
+
+Swiss prosecutors confirmed that the investigation was closed, but wouldn’t elaborate. Peter Hargitay told Reuters that the prosecutors’ decision “remains a mystery to us to this day.”
+
+> “You can do this from across the world. The penalties and the laws have to catch up.”
+
+Former U.S. cybercrime prosecutor Mark Califano told Reuters that cracking international hacking cases is “really very hard.” But he said it was still “very disconcerting” that Appin’s hackers were “so successful in evading law enforcement despite apparently significant effort to try to track them down – and some very good evidence.”
+
+Rajat Khare’s lawyers said their client had never been charged with hacking “by any police, investigative, regulatory, or charging authority.”
+
+Reuters was unable to establish whether Appin was ever investigated in its native India.
+
+K. K. Mookhey, the cybersecurity consultant whose client was targeted by Appin, [said he alerted](https://niiconsulting.com/checkmate/2013/05/indian-apt/) India’s cyber response agency, CERT-In, in 2013, but never heard back. CERT-In did not respond to requests for comment.
+
+Rajat Khare has come to the attention of the Indian government on a separate matter: [A 2021 complaint](https://www.documentcloud.org/documents/23458565-20210629-central-bureau-of-investigation-fir-against-rajat-khare-and-others) filed with the country’s Central Bureau of Investigation accused Khare of being one of at least eight people who embezzled roughly 8.06 billion rupees ($97 million) lent to the Indian education company Educomp, where he had [previously served as a director](https://www.documentcloud.org/documents/23458753-20160527-rajat-khare-resigns-as-director-of-educomp). There is no indication that the case is related to hacking.
+
+The complaint was filed by a senior official at the country’s biggest lender, the State Bank of India. Reuters could not determine the case’s status. The State Bank, the CBI and Educomp did not respond to requests for comment. Khare’s lawyers said he had been “cleared” by Educomp’s management. They didn’t provide evidence and said they could not offer details on the CBI probe.
+
+U.S. intelligence agencies have known about Appin’s capabilities for more than a decade, according to three former American security officials and law enforcement documents reviewed by Reuters.
+
+The National Security Agency (NSA), which spies on foreigners for the U.S. government, began surveilling the company after watching it hack “high value” Pakistani officials around 2009, one of the sources said. An NSA spokesperson declined to comment.
+
+Another former U.S. security official said Rajat Khare was of such interest that the FBI tracked his travel and communications. The law enforcement case files also show that the FBI told its Swiss counterparts that it had “a confidential human source who has the capacity to report on Appin Security matters.”
+
+Rajat Khare’s lawyers said the notion that he had been investigated by the FBI or any other such law enforcement body was “absurd.”
+
+The bureau’s investigation into the Appin hack that sparked turmoil within the Shinnecock Nation did yield two convictions.
+
+The first came in 2016, when a Shinnecock tribal official named Karen Hunter pleaded guilty at a federal court in the Long Island town of Islip to unlawfully accessing the email account of her fellow Shinnecock tribal member Chuck Randall.
+
+The court filings, which were partially sealed, [show that Hunter got probation](https://www.documentcloud.org/documents/23460822-usa-v-hunter-legal-filings-2016-2017#document/p31/a2184912). It was not until several years later that Steven Santarpia, the private eye, said he had been hired by Hunter to carry out the job.
+
+Santarpia was the second to be convicted. He received probation from the same court in Islip in 2020 after pleading guilty to a single count of computer hacking, [saying in an affidavit](https://www.documentcloud.org/documents/24000097-20200617-santarpia-affidavit) reviewed by Reuters that he hired Appin to carry out the email heist. [Most of the filings in that case](https://www.documentcloud.org/documents/23577896-20130809-usa-versus-john-doe-information), which mask his identity, remain secret. [No public mention of Appin](https://www.documentcloud.org/documents/23460822-usa-v-hunter-legal-filings-2016-2017#document/p26/a2184908) was made in either his or Hunter’s prosecution.
+
+Hunter did not return repeated messages from Reuters seeking comment. A reporter who visited Shinnecock Nation territory in an effort to interview her was intercepted by the tribe’s chairman, Bryan Polite, and ordered off the reservation. Polite said in an email that the tribe’s governing body was not interested in commenting.
+
+Randall said he was baffled by the U.S. government’s lack of action against Appin.
+
+“You can do this from across the world,” he said. “The penalties and the laws have to catch up.”
+
+Spoke with the client today. Her husband seems to be a big sex addict. She found out he goes to swinger clubs. She believes these 2 mail addresses. [email addresses redacted], will be the addresses we will find stuff about him cheating. She doesn’t think the aol address will have much information about his cheating. So if we can get in those 2 email addresses, we should find stuff.
+
+Long Island private detective Steven Santarpia on May 10, 2011, chats with Appin employees about hacking a man whose wife suspects infidelity.
+
+Dear team -
+
+impressive indeed. now we need to have constant access to his mail and/or download everything he has on his PC.
+
+Also we need to have his full PC content - all possible files. After that we shall see if we need the other ID’s. Thanks again!
+
+Israeli private eye Aviram Halevi on Feb. 2, 2012, congratulates Appin on a successful hack.
+
+I want to know, can I move around in her email program without her knowing. What should I do and don’t do
+
+A California private eye asks Appin on Nov. 16, 2011, for advice on how to move undetected through a woman’s hacked email account.
+
+‘Godfather for all hackers’
+
+Appin’s legacy still lingers more than a decade after the Shinnecock hack.
+
+Its web presence faded in the months following the publication of the Norman Shark report in 2013, [internet archives show](https://www.documentcloud.org/documents/23463391-screenshots-of-appinlabscom-between-2005-and-2011). Eight former employees say their old managers told them to delete references to Appin from their public profiles.
+
+Its former holding company, Appin Technology, [changed its name three times](https://www.documentcloud.org/documents/23581428-appin-companies-name-change-documents#document/p5/a2198004), finally settling on Sunkissed Organic Farms in 2017, records filed with India’s Ministry of Corporate Affairs show. Its [subsidiaries also underwent rebrandings](https://www.documentcloud.org/documents/23581428-appin-companies-name-change-documents): Appin Software Security, the arm which [billed private eyes](https://www.documentcloud.org/documents/23456945-20110610-appin-invoice-to-private-investigator) for the hacking work, [became Adaptive Control Security Global Corporate](https://www.documentcloud.org/documents/23581428-appin-companies-name-change-documents#document/p3/a2198003), or ACSG, in 2015.
+
+Rajat Khare’s lawyers say he left Appin Technology in December 2012, a move that “officially and immediately separated him from all Appin entities.” They produced two letters they said showed those resignations.
+
+Yet Khare’s signature is on several [Appin corporate filings dating to 2013 and 2014](https://www.documentcloud.org/documents/24168247-mgt-14-adoption-pdf-1-212151178);and shareholder data shows he maintained [a stake in Appin Technology for several years past 2012](https://www.documentcloud.org/documents/24168246-list-of-shareholders-pdf-1-212151451). According to Indian corporate records, Khare – who is now a Switzerland-based investor – [resigned as director of the company once known as Appin Technology only in 2016](https://www.documentcloud.org/documents/23460273-rajat-khares-resignation-letters-from-formerly-known-as-appin-entities#document/p4/a2184140).
+
+His family still controlled the companies as recently as last year.Rajat’s brother, Anuj, and their father, Vijay Kumar, are majority owners of Sunkissed Organic Farms, which in turn owns ACSG and at least two other firms founded under the Appin name, according to the [latest available financial data](https://www.documentcloud.org/documents/23460243-2022-formerly-known-as-appin-companies-financial-and-shareholding-statements) disclosed to the corporate affairs ministry.
+
+In an exchange of messages over WhatsApp this week, ACSG company secretary Deepak Kumar confirmed that his firm was once known as Appin and described Rajat Khare as the corporate group’s “owner.” The following day, he said he would no longer reply to questions.
+
+Anuj Khare’s lawyer, Kumar & Kumar Advocates, said questions about his client’s financial dealings were “not relevant.” The Khare brothers’ father, Vijay Kumar, did not return repeated messages seeking comment.
+
+[On its website](https://web.archive.org/web/20221206195126/https:/www.acsgcorp.com/), ACSG describes itself as a critical infrastructure protection company that caters to government clients. Employee resumes posted to job sites say the company carries out “lawful interception” and “offensive security,” industry terms for digital surveillance work.
+
+More than 50 current and former ACSG employees reached by Reuters either did not respond or declined to comment, saying their work was confidential.
+
+Reuters found at least half a dozen other hack-for-hire firms in India that have adopted Appin’s business model of serving private investigators and corporate lawyers. Some have run into trouble with American tech companies or been named in U.S. lawsuits.
+
+Last year, Facebook and Instagram owner Meta Platforms [identified CyberRoot Risk Advisory](https://about.fb.com/wp-content/uploads/2022/12/Threat-Report-on-the-Surveillance-for-Hire-Industry.pdf), a firm created by Appin alumni, as a mercenary spy company that used bogus accounts to trick people into clicking malicious links.
+
+In October 2022, CyberRoot and BellTroX InfoTech Services, another firm founded by a former Appin employee, were accused of hacking former Wall Street Journal reporter Jay Solomon and one of his key sources, according to lawsuits filed last year by each of the men in federal court, [one in Washington](https://www.documentcloud.org/documents/23132882-20221014-solomon-versus-dechert-et-al-claim), the [other in New York](https://www.documentcloud.org/documents/23132216-20221013-azima-versus-dechert-et-al). Solomon later [settled his Washington case](https://www.reuters.com/legal/former-wsj-reporter-ends-indian-hacker-lawsuit-against-dechert-2023-08-15/) on undisclosed terms; the New York lawsuit filed by his source is ongoing.
+
+In June 2022, Google researchers linked hack-for-hire activity [to another Indian company named Rebsec Solutions](https://blog.google/threat-analysis-group/countering-hack-for-hire-groups/), which Google said “openly advertises [corporate espionage](https://web.archive.org/web/20210122030242/https:/rebsec.com/corporate-espionage/).”
+
+Rebsec’s founder, Vishavdeep Singh, told Reuters he had worked for Appin and BellTroX but was never involved in hacking, and that Rebsec merely taught cybersecurity courses.
+
+CyberRoot said in [a public statement issued last year](https://web.archive.org/web/20230110064435/https://pbs.twimg.com/media/Fkf4-XeVUAAuMcb?format=jpg&name=large) that it “has never engaged in illegal activities.” It declined further comment. Attempts to reach BellTroX’s founder, Sumit Gupta, have been unsuccessful.
+
+In his last known interview, speaking with Reuters in 2020, Gupta claimed he was not personally involved in cyberespionage. But he did acknowledge the outsized role that his former employer played in shaping the industry.
+
+“Appin is the godfather for all the hackers,” he said.
+
+I will definatley use the service again
+
+A California private eye expresses his satisfaction with Appin’s work on Nov. 29, 2011.
+
+**Hackers for Hire**
+
+By Raphael Satter, Zeba Siddiqui and Christopher Bing
+
+Data analysis: Ryan McNeill
+
+Photo editing: Corinne Perkins
+
+Art direction: John Emerson
+
+Edited by Marla Dickerson

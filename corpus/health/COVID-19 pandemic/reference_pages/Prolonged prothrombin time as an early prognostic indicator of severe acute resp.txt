@@ -1,0 +1,210 @@
+# Prolonged prothrombin time as an early prognostic indicator of severe acute respiratory distress syndrome in patients with COVID-19 related pneumonia
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209)Abstract
+----------------------------------------------------------------
+
+### Background
+
+Clinical observations demonstrated that COVID-19 related pneumonia is often accompanied by hematological and coagulation abnormalities including lymphopenia, thrombocytopenia, and prolonged prothrombin time. The evaluation of laboratory findings including coagulation and inflammation parameters may represent a promising approach for early determination of COVID-19 severity.
+
+### Methods and Materials
+
+In the present study, we aimed to identify laboratory parameters present upon admission in patients with COVID-19 related viral pneumonia and associated with an early in-hospital development of refractory respiratory failure or severe acute respiratory distress syndrome requiring treatment in an intensive care unit. We investigated differences in the C-reactive protein (CRP) and fibrinogen levels, prothrombin time (PT) and international normalized ratio (INR) between COVID-19 patients who had been transferred to an ICU within two weeks after admission (_n_ = 82) and COVID-19 patients with stable course of the disease (_n_ = 74).
+
+### Results
+
+Multiple comparisons showed statistically significantly prolonged PT on admission in ICU-transferred COVID-19 patients (14.15 sec, median, CI 95% 13.4 ÷ 14.9) compared to the stable COVID-19 patients (13.25 sec, median, CI 95% 12.9 ÷ 13.6) (_p_-value = .0005). CRP levels upon admission were statistically significantly higher in ICU-transferred COVID-19 patients (132 mg/L, median, CI95% 113 ÷ 159) compared to the stable COVID-19 patients (51 mg/L, median, CI95% 33 ÷ 72) (_p_-value < .0001). On-admission fibrinogen and INR levels did not statistically significantly differ between ICU-transferred COVID-19 patients and stable COVID-19 patients.
+
+### Conclusion
+
+We suggest that CRP and PT levels present on admission in COVID-19 patients may be used as early prognostic markers of severe pneumonia requiring transfer to ICU.
+
+**Keywords:** COVID-19, pneumonia, respiratory failure, prothrombin time, C-reactive protein, SARS-CoV-2, prognostic indicator, coagulation, coronavirus
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209)1. Introduction
+-----------------------------------------------------------------------
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) also known as coronavirus disease 2019 (COVID-19) has been recognized as a public health emergency of international concern. As of 26 July 2020, there were more than 15 million COVID-19 cases worldwide with more than 600 thousand deaths[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0001).
+
+The identification of prognostic markers associated with the severity of the disease is a task of major importance necessary for the selection of effective treatment strategies for patients with COVID-19 of differing severity[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0002). Notably, analysis of coagulation parameters was previously used to predict the severity of non-COVID related pneumonia[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0003). Recent clinical observations demonstrated that COVID-19 is often similarly accompanied by blood counts deviations including lymphopenia, thrombocytopenia, and coagulopathies including prolonged prothrombin time[4–7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0004). Importantly, various coagulation parameters have been associated with the prognosis of COVID-19 patients. The International Society for Thrombosis and Hemostasis (ISTH, 2020) recommends the measurement of D-dimer levels, prothrombin time (PT), and platelet count (in descending order of prognostic value) in all patients with COVID-19 [8]. But there are some limitations in routine clinical practice, ranging from reagent availability to time restraint. Evaluation of simple and widely available laboratory parameters may represent a promising approach for early and cost-effective determination of COVID-19 severity.
+
+Previously, higher levels of fibrinogen, D-dimer, and fibrin degradation products were found to be associated with poor clinical outcomes, and were suggested as prognostic markers[6–9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0006). In particular, D-dimer was higher in those COVID-19 patients requiring intensive care, and significantly elevated D-dimer levels have been shown to be one of the predictors of death[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0006),[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0007). Prothrombin time (PT) was slightly prolonged in the deceased patients (mean 15.5 sec, range 14.4 ÷ 16.3 sec) compared to that in the survivors (mean 13.6 sec, range 13.0 ÷ 14.3 sec)[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0007). Fibrinogen levels also have been reported as an important prognostic factor since higher levels were associated with the development of severe acute respiratory syndrome (SARS) in COVID-19 patients[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0008),[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0010). Although differences in laboratory parameters between patients with a mild and severe manifestation of COVID-19 have been demonstrated recently, further studies with a large number of patients are required.
+
+This study aimed to identify coagulation parameters that might serve as early prognostic markers of severe pneumonia requiring transfer to an intensive care unit (ICU). We compared coagulation parameters (PT and INR), levels of widely measured coagulation and inflammation factors (fibrinogen and CRP) as well as clinical and radiological data presented upon admission between patients with early in-hospital development of refractory respiratory failure (RRF) or severe acute respiratory distress syndrome (SARDS) requiring treatment in ICU and stable COVID-19 patients.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209)2. Materials and methods
+--------------------------------------------------------------------------------
+
+### 2.1. Patients
+
+In this retrospective cohort study we collected and analyzed data for all adult patients with viral pneumonia, who were admitted to the pulmonology department of 24th Moscow City State Hospital between 20 April 2020, and 5 June 2020; the data cut-off for the study was 6 June 2020. This study was approved by the local ethics committee of 24th Moscow City State Hospital.
+
+The diagnosis of COVID-19 was confirmed by a positive result of real-time reverse-transcriptase–polymerase-chain-reaction assay of nasal and pharyngeal swab probes. Clinical, radiological, and laboratory parameters present upon admission were extracted from electronic medical records.
+
+We compared laboratory parameters between patients with COVID-19 related viral pneumonia and patients with non-COVID-19 viral pneumonia.
+
+Then, in order to find possible prognostic markers, we investigated differences in laboratory parameters measured both upon and 7 days after admission between COVID-19 patients who were transferred to ICU due to progressive pneumonia with RRF or SARDS within two weeks after admission to the hospital (hereinafter: ICU-patients) and COVID-19 pneumonia patients with a stable course of the disease (hereinafter: control group).
+
+Patients younger than 18 and older than 80 years, patients who regularly received anticoagulant therapy before admission as well as patients with pregnancy (or in lactation period), oncological diseases (in the last 5 years), chronic liver diseases, HIV infection, syphilis or hepatitis were excluded from the study.
+
+### 2.2. Diagnostics
+
+Low-dose spiral computed tomography (CT) and laboratory tests were performed upon admission and 7 days after admission to the hospital. The percentage of inflamed lung tissue on CT scans was estimated by visual assessment. C-reactive protein (CRP), fibrinogen levels, PT, and international normalized ratio (INR), were measured using the ACL 500 (Instrumentation Laboratory, Spain).
+
+### 2.3. Dataset
+
+Dataset of single‐center case series of COVID-19 and non-affected pneumonia patients were collected in the 24th Moscow City State Hospital and are presented in [Supplemental materials](https://doi.org/10.1080/03007995.2020.1853510).
+
+### 2.4. Statistical analysis
+
+Statistical analysis was performed using GraphPad Prism 8 (GraphPad Software Inc., USA). Comparison of non-normally distributed variables between the two groups was performed using the Mann–Whitney _U_-test. The Wilcoxon signed-rank test corrected for multiple comparisons with Holm-Bonferroni procedure was used to compare medians to hypothetical values. Non-parametric Kruskal-Wallis test with Dunn’s multiple comparisons test was used to analyze more than two groups. Ordinary two-way ANOVA with Sidak’s multiple comparisons test was used to analyze the effect of two factors on one variable. The threshold of statistical significance was established as a _p_-value < .05.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209)3. Results
+------------------------------------------------------------------
+
+### 3.1. Patient’s characteristics
+
+Characteristics of all cohorts of patients with different courses of the pneumonia are summarized in [Table 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#t0001). A total of 233 patients, all of whom provided written informed consent, were enrolled in this study. Among all patients, 156 had laboratory-confirmed COVID-19 pneumonia, and 75 patients had non-COVID-19 pneumonia. The median age of patients with non-COVID-19 pneumonia was 58 years. The median age was 63 years in ICU-transferred COVID-19 patients compared to 53 years in COVID-19 patients with a stable course of the disease. The majority of COVID-19 patients were male (54.5%). Thirty-seven patients (23.7%) with COVID-19 pneumonia developed SARDS, requiring mechanical ventilation, compared to 9 patients (12.0%) in the non-COVID-19 pneumonia cohort.
+
+#### Table 1.
+
+Demographic and clinical parameters of patients in the study.
+
+| Characteristics | Non-COVID-19 viral pneumonia | All COVID-19 patients | Disease progression after admission to the hospital among COVID-19 patients * * * |
+| --- | --- | --- | --- |
+| RRF or SARDS requiring ICU treatment | Stable course of disease (control group) |
+| _N_= | 75 | 156 | 82 | 74 |
+| Age (years) |  |  |  |  |
+| Minimum | 20 | 28 | 28 | 29 |
+| 25% Percentile | 45 | 49 | 53 | 45 |
+| Median | 58 | 59 | 63 | 53 |
+| 75% Percentile | 68 | 70 | 71 | 69 |
+| Maximum | 82 | 94 | 93 | 94 |
+| Sex |  |  |  |  |
+| Male (_n_=) | 46 | 85 | 48 | 37 |
+| Female (_n_=) | 29 | 71 | 34 | 37 |
+| Age >60 yr, no./total no. (%) | 20/75 (26.7%) | 59/156 (37.8%) | 46/82 (56.0%) | 14/74 (18.9%) |
+| Out-of-hospital period (duration of symptoms before admission), days (Median) | 8 | 7 | 6 | 8 |
+| In-hospital period before transfer to ICU (for ICU-group only), days (Median) | N/A | N/A | 2 | N/A |
+| SARDS, requiring mechanical ventilation, no./total no. (%) | 9/75 (12%) | 37/156 (23.7%) | 37/82 (45.1%) | N/A |
+| Notes |  |  |  | Incl. patients with pneumonia grade 2–3 acc. to CT-scale: _n_ = 60 |
+
+### 3.2. Days before hospitalization in COVID-19: ICU-patients vs. stable patients
+
+Out-of-hospital stay before admission was significantly shorter for COVID-19 patients who were transferred to ICU within two weeks after admission due to progressive pneumonia with RRF or SARDS as compared to patients with a stable course of COVID-19: up to 7 days (_p_-value = .006), and more than 7 days (_p_-value = .0113), respectively ([Figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#F0001)).
+
+#### Figure 1.
+
+[![Image 1: Figure 1.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4f68/7738209/448d7c31cc27/ICMO_A_1853510_F0001_C.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7738209_ICMO_A_1853510_F0001_C.jpg)
+
+Out-of-hospital stay before admission for ICU-transferred COVID-19 patients compared to stable COVID-19 patients, data are presented as median with CI 95%. **_p_-Value < .01; *_p_-value < .05.
+
+### 3.3. Differences between COVID-19 and non-COVID-19 patients
+
+There were no differences in levels of fibrinogen, PT, or INR (_p_-value>.9 for all parameters) on admission between the patients with COVID-19 related pneumonia and non-COVID-19 pneumonia, but CRP levels were significantly higher in the COVID-19 patients (_p_-value<.0001).
+
+### 3.4. Differences between COVID-19 patients with RRF or SARDS and stable course of the disease
+
+On admission, COVID-19 patients of both groups were in a stable condition and no statistically significant differences in fibrinogen levels and total volume of the affected lung tissue were found. However, CRP levels were significantly higher in those patients transferred to ICU within two weeks after admission due to progressive pneumonia with RRF or SARDS than in patients exhibiting a stable course of the disease: 132 mg/L (median, CI95% 113 ÷ 159) and 51 mg/L (median, CI95% 33 ÷ 72), respectively; _p_-value<.0001 ([Figure 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#F0002)). On-admission fibrinogen levels did not statistically significantly differ between ICU-patients and stable patients.
+
+#### Figure 2.
+
+[![Image 2: Figure 2.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4f68/7738209/a859b43f52fd/ICMO_A_1853510_F0002_B.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7738209_ICMO_A_1853510_F0002_B.jpg)
+
+Comparisons of lung tissue inflammation severity on admission according to CRP and fibrinogen levels and chest CT (lung tissue affected, %) for ICU-transferred patients vs. control group. ****_p_-Value < .0001; ns, not significant.
+
+Further multiple comparisons determined a prolonged PT for ICU-transferred patients as compared with the control group: 14.15 sec. (median, CI 95% 13.4 ÷ 14.9) and 13.25 sec. (median, CI 95% 12.9 ÷ 13.6), respectively; _p_-value = .0005. Interestingly, the slight increase in INR values for ICU-patients was not statistically significant ([Figure 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#F0003)).
+
+#### Figure 3.
+
+[![Image 3: Figure 3.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4f68/7738209/eef664da701b/ICMO_A_1853510_F0003_B.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7738209_ICMO_A_1853510_F0003_B.jpg)
+
+Multiple comparisons of coagulation parameters (PT and INR) measured upon admission for ICU-transferred COVID-19 patients vs. control group: PTs are significantly different, but INRs are not. ****_p_-Value < .0001; ns, not significant.
+
+### 3.5. Differences in CRP levels on the 7th day of hospitalization for COVID-19 patients
+
+Changes in total lung tissue affected by pneumonia according to chest-CT as well as patients' CRP levels on the 7th day of hospitalization were evaluated. CRP levels further increased in ICU-transferred COVID-19 patients (132 vs. 134 mg/L, median; _p_-value = .31), corresponding to the enlarged volume of inflamed lung tissue (60 vs. 80%, median; _p_-value = .06). In contrast, opposite changes in CRP levels (51 vs. 8 mg/L, median; _p_-value<.0001) in COVID-19 patients with a stable course of pneumonia were documented ([Figure 4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#F0004)).
+
+#### Figure 4.
+
+[![Image 4: Figure 4.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4f68/7738209/3f703b092d11/ICMO_A_1853510_F0004_B.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7738209_ICMO_A_1853510_F0004_B.jpg)
+
+Multiple comparisons of lung tissue inflammation severity and CRP levels upon admission and on 7th days after hospitalization in ICU-transferred COVID-19 patients and control group. Data presented as median and CI95%. ****_p_-Value < .0001; ns, not significant.
+
+### 3.6. Differences in platelet counts for ICU-transferred and stable COVID-19 patients
+
+No differences in platelet count was found between ICU-transferred and stable COVID-19 patients upon admission ([Figure 5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#F0005)). However, platelet counts significantly elevated in stable patients on day 7th after hospitalization, remaining consistently low in ICU-transferred patients.
+
+#### Figure 5.
+
+[![Image 5: Figure 5.](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4f68/7738209/7e625421ee49/ICMO_A_1853510_F0005_B.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7738209_ICMO_A_1853510_F0005_B.jpg)
+
+Platelet counts upon admission and on the 7th day after hospitalisation in ICU-transferred and stable COVID-19 patients. Data presented as median and CI95%. ****_p_-Value < .0001; ns, not significant.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209)4. Discussion
+---------------------------------------------------------------------
+
+In the present single‐center study, we analyzed clinical and radiological data, CRP-values, platelet counts and coagulation parameters of 156 COVID-19 patients with pneumonia of different severity.
+
+We documented that RRF or SARDS is more likely to occur in patients admitted to the hospital earlier than 7 days after the disease onset. The distinct time frame for development of RRF or SARDS between COVID-19 patients requiring ICU-transfer and COVID-19 patients with a stable course of disease provide further support for the hypothesis that early and rapid disease progression could be associated with poor prognosis.
+
+Initially, all the patients received standard medical care in the department of internal medicine. The ICU-group comprised 82 patients who were transferred to an ICU within 14 days after admission, and 37 (45.1%) of them further required mechanical ventilation. Active progression of inflammation in ICU-transferred patients was confirmed through radiological and laboratory examinations after 7 days of hospitalization. However, upon initial admission to the hospital patients in either the ICU-transferred or the control groups presented in a stable condition, and according to radiological data, there were no significant differences in pneumonia severity.
+
+As evident in [Table 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#t0001), compared with the control group the ICU-transferred patient group had a higher median age and included a larger proportion of patients older than 60 years. This finding matches those observed previously[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0011).
+
+Increased fibrinogen levels have been associated with the development of SARDS in COVID-19 patients in a previous study[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0008). Our study has not established a statistically significant association between on-admission fibrinogen levels and poor prognosis including in-hospital development of SARDS or RRF. The contrasting findings of the studies might reflect different reliability criteria for multiple comparisons.
+
+We found that PT measured upon admission was prolonged in COVID-19 patients further transferred to ICU, which is in line with findings of the previous study[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0007). Further, CRP levels upon admission were significantly higher in the group of COVID-19 ICU-transferred patients, and whereas CRP levels were sustained and/or increased at 7 days post-admission in this group, CRP levels in the control group declined. This combination of findings provides the conceptual premise that the course of COVID-19 associated pneumonia can be predicted through early measurement of PT and CRP values.
+
+We confirmed that COVID-19 severity is associated with thrombocytopenia, as were shown in previous studies[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0004),[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0012),[13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0013). But, according to our findings, enhanced risk of severe COVID-19 could not be successfully predicted with platelet counts on admission. These findings may be explained by high contribution of the lungs to platelet biogenesis[14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209#CIT0014).
+
+### 4.1. Limitations and outlooks
+
+Although the results of the present study contribute to the identification of potential early prognostic markers of COVID-19 severity, it is a single-center study limited by a small number of included patients. However, our study was focused on cost-effective and widely available laboratory parameters that could be measured in the hospital just upon admission. We hope that our results could be helpful and valuable also in hospitals with limited resources. Further studies with the larger cohort of included patients are required to confirm our findings.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209)Supplementary Material
+------------------------------------------------------------------------------
+
+Supplemental Material
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209)Transparency
+--------------------------------------------------------------------
+
+### Declaration of funding
+
+This article was not funded.
+
+### Declaration of financial/other relationships
+
+The authors declare no conflict of interest
+
+### Acknowledgements
+
+This work was carried out using equipment of the Shared-Use Facility Center “Regenerative medicine” of Sechenov University (ID310020). We are grateful to Professor Dr. G.V. Rodoman (24th Moscow City State Hospital) and Professor Therese J. Resnik (Basel University Hospital) for support in research.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209)References
+------------------------------------------------------------------
+
+*   1.World Health Organization. Coronavirus disease (COVID-19) . Situation report – 188; 2020. [cited 2020 Jul 26]. Available from: [https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200726-covid-19-sitrep-188.pdf?sfvrsn=f177c3fa_2](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200726-covid-19-sitrep-188.pdf?sfvrsn=f177c3fa_2).
+*   2.Frater JL, Zini G, d’Onofrio G, et al. COVID‐19 and the clinical hematology laboratory. Int J Lab Hematol. 2020;42(S1):11–18. [[DOI](https://doi.org/10.1111/ijlh.13229)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7264622/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32311826/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Lab%20Hematol&title=COVID%E2%80%9019%20and%20the%20clinical%20hematology%20laboratory&volume=42&issue=S1&publication_year=2020&pages=11-18&pmid=32311826&doi=10.1111/ijlh.13229&)]
+*   3.Agapakis DI, Tsantilas D, Psarris P, et al. Coagulation and inflammation biomarkers may help predict the severity of community‐acquired pneumonia. Respirology. 2010;15(5):796–803. [[DOI](https://doi.org/10.1111/j.1440-1843.2010.01773.x)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20497384/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Respirology&title=Coagulation%20and%20inflammation%20biomarkers%20may%20help%20predict%20the%20severity%20of%20community%E2%80%90acquired%20pneumonia&volume=15&issue=5&publication_year=2010&pages=796-803&pmid=20497384&doi=10.1111/j.1440-1843.2010.01773.x&)]
+*   4.Giannis D, Ziogas IA, Gianni P.. Coagulation disorders in coronavirus infected patients: COVID-19, SARS-CoV-1, MERS-CoV and lessons from the past. J Clin Virol. 2020;127:104362. [[DOI](https://doi.org/10.1016/j.jcv.2020.104362)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7195278/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32305883/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Virol&title=Coagulation%20disorders%20in%20coronavirus%20infected%20patients:%20COVID-19,%20SARS-CoV-1,%20MERS-CoV%20and%20lessons%20from%20the%20past&volume=127&publication_year=2020&pages=104362&pmid=32305883&doi=10.1016/j.jcv.2020.104362&)]
+*   5.Wang D, Yin Y, Hu C, et al. Clinical course and outcome of 107 patients infected with the novel coronavirus, SARS-CoV-2, discharged from two hospitals in Wuhan, China. Crit Care. 2020;24(1):188. [[DOI](https://doi.org/10.1186/s13054-020-02895-6)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7192564/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32354360/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Crit%20Care&title=Clinical%20course%20and%20outcome%20of%20107%20patients%20infected%20with%20the%20novel%20coronavirus,%20SARS-CoV-2,%20discharged%20from%20two%20hospitals%20in%20Wuhan,%20China&volume=24&issue=1&publication_year=2020&pages=188&pmid=32354360&doi=10.1186/s13054-020-02895-6&)]
+*   6.Chen T, Wu D, Chen H, et al. Clinical characteristics of 113 deceased patients with coronavirus disease 2019: retrospective study. BMJ. 2020;368:m1091. [[DOI](https://doi.org/10.1136/bmj.m1091)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190011/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32217556/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Clinical%20characteristics%20of%20113%20deceased%20patients%20with%20coronavirus%20disease%202019:%20retrospective%20study&volume=368&publication_year=2020&pages=m1091&pmid=32217556&doi=10.1136/bmj.m1091&)]
+*   7.Tang N, Li D, Wang X, et al. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J Thromb Haemost. 2020;18(4):844–847. [[DOI](https://doi.org/10.1111/jth.14768)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7166509/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32073213/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Thromb%20Haemost&title=Abnormal%20coagulation%20parameters%20are%20associated%20with%20poor%20prognosis%20in%20patients%20with%20novel%20coronavirus%20pneumonia&volume=18&issue=4&publication_year=2020&pages=844-847&pmid=32073213&doi=10.1111/jth.14768&)]
+*   8.Di Micco P, Russo V, Carannante N, et al. Clotting factors in COVID-19: epidemiological association and prognostic values in different clinical presentations in an Italian cohort. JCM. 2020;9(5):1371. [[DOI](https://doi.org/10.3390/jcm9051371)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7290348/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32392741/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=JCM&title=Clotting%20factors%20in%20COVID-19:%20epidemiological%20association%20and%20prognostic%20values%20in%20different%20clinical%20presentations%20in%20an%20Italian%20cohort&volume=9&issue=5&publication_year=2020&pages=1371&pmid=32392741&doi=10.3390/jcm9051371&)]
+*   9.Zhou F, Yu T, Du R, et al. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020;395(10229):1054–1062. [[DOI](https://doi.org/10.1016/S0140-6736(20)30566-3)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7270627/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32171076/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=Clinical%20course%20and%20risk%20factors%20for%20mortality%20of%20adult%20inpatients%20with%20COVID-19%20in%20Wuhan,%20China:%20a%20retrospective%20cohort%20study&volume=395&issue=10229&publication_year=2020&pages=1054-1062&pmid=32171076&doi=10.1016/S0140-6736(20)30566-3&)]
+*   10.Thachil J, Tang N, Gando S, et al. ISTH interim guidance on recognition and management of coagulopathy in COVID-19. J Thromb Haemost. 2020;18(5):1023–1026. [[DOI](https://doi.org/10.1111/jth.14810)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9906133/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32338827/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Thromb%20Haemost&title=ISTH%20interim%20guidance%20on%20recognition%20and%20management%20of%20coagulopathy%20in%20COVID-19&volume=18&issue=5&publication_year=2020&pages=1023-1026&pmid=32338827&doi=10.1111/jth.14810&)]
+*   11.CDC COVID-19 Response Team. Severe outcomes among patients with coronavirus disease 2019 (COVID-19)—United States, February 12–March 16, 2020. MMWR Morb Mortal Wkly Rep. 2020;69(12):343–346. [[DOI](https://doi.org/10.15585/mmwr.mm6912e2)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7725513/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32214079/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=MMWR%20Morb%20Mortal%20Wkly%20Rep&title=Severe%20outcomes%20among%20patients%20with%20coronavirus%20disease%202019%20(COVID-19)%E2%80%94United%20States,%20February%2012%E2%80%93March%2016,%202020&volume=69&issue=12&publication_year=2020&pages=343-346&pmid=32214079&doi=10.15585/mmwr.mm6912e2&)]
+*   12.Lippi G, Plebani M, Henry MB.. Thrombocytopenia is associated with severe coronavirus disease 2019 (COVID-19) infections: a meta-analysis. Clin Chim Acta. 2020;506:145–148. [[DOI](https://doi.org/10.1016/j.cca.2020.03.022)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7102663/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32178975/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin%20Chim%20Acta&title=Thrombocytopenia%20is%20associated%20with%20severe%20coronavirus%20disease%202019%20(COVID-19)%20infections:%20a%20meta-analysis&volume=506&publication_year=2020&pages=145-148&pmid=32178975&doi=10.1016/j.cca.2020.03.022&)]
+*   13.Maquet J, Lafaurie M, Sommet A, et al. Thrombocytopenia is independently associated with poor outcome in patients hospitalized for COVID-19. Br J Haematol. 2020;190(5):e276–e279. [[DOI](https://doi.org/10.1111/bjh.16950)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7323390/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32557535/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Br%20J%20Haematol&title=Thrombocytopenia%20is%20independently%20associated%20with%20poor%20outcome%20in%20patients%20hospitalized%20for%20COVID-19&volume=190&issue=5&publication_year=2020&pages=e276-e279&pmid=32557535&doi=10.1111/bjh.16950&)]
+*   14.Lefrançais E, Ortiz-Muñoz G, Caudrillier A, et al. The lung is a site of platelet biogenesis and a reservoir for haematopoietic progenitors. Nature. 2017;544(7648):105–109. [[DOI](https://doi.org/10.1038/nature21706)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5663284/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28329764/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=The%20lung%20is%20a%20site%20of%20platelet%20biogenesis%20and%20a%20reservoir%20for%20haematopoietic%20progenitors&volume=544&issue=7648&publication_year=2017&pages=105-109&pmid=28329764&doi=10.1038/nature21706&)]
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7738209)Associated Data
+-----------------------------------------------------------------------
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+Supplemental Material

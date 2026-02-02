@@ -1,0 +1,248 @@
+# International Migrant Stock 2019 Documentation
+
+E c o n o m i c &
+
+# INTERNATIONAL MIGRANT STOCK 2019 
+
+# DOCUMENTATION 
+
+## United Nations 
+
+> S o c i a l  A f f a i r s
+
+This page intentionally left blank POP/DB/MIG/Stock/Rev.2019 
+
+August 2019 
+
+Department of Economic and Social Affairs 
+
+Population Division 
+
+# INTERNATIONAL MIGRANT STOCK 2019 
+
+# DOCUMENTATION 
+
+United Nations The Department of Economic and Social Affairs of the United Nations Secretariat is a vital interface between global policies in the economic, social and environmental spheres and national action. The Department works in three main interlinked areas: (i) it compiles, generates and analyses a wide range of economic, social and environmental data and information on which States Members of the United Nations draw to review common problems and take stock of policy options; (ii) it facilitates the negotiations of Member States in many intergovernmental bodies on joint courses of action to address ongoing or emerging global challenges; and (iii) it advises interested Governments on the ways and means of translating policy frameworks developed in United Nations conferences and summits into programmes at the country level and, through technical assistance, helps build national capacities. The Population Division of the Department of Economic and Social Affairs provides the international community with timely and accessible population data and analysis of population trends and development outcomes for all countries and areas of the world. To this end, the Division undertakes regular studies of population size and characteristics and of all three components of population change (fertility, mortality and migration). Founded in 1946, the Population Division provides substantive support on population and development issues to the United Nations General Assembly, the Economic and Social Council and the Commission on Population and Development. It also leads or participates in various interagency coordination mechanisms of the United Nations system. The work of the Division also contributes to strengthening the capacity of Member States to monitor population trends and to address current and emerging population issues. This database was prepared by Christoph Deuster, Pablo Lattes and Clare Menozzi, under the supervision of Vinod Mishra. 
+
+Note 
+
+The designations employed in this report and the material presented in it do not imply the expression of any opinions whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. This report is available in electronic format on the Division’s website at www.unpopulation.org. For further information about this report, please contact the Office of the Director, Population Division, Department of Economic and Social Affairs, United Nations, New York, 10017, USA, by Fax: 1 212 963 2147 or by e-mail at migrationp@un.org. This publication has been issued without formal editing. Suggested citation: United Nations, Department of Economic and Social Affairs, Population Division (2019). International Migrant Stock 2019. (United Nations database, POP/DB/MIG/Stock/Rev.2019). Official symbols of United Nations documents are composed of capital letters combined with numbers, as illustrated in the above citation. 
+
+Copyright © 2019 by United Nations, made available under a Creative Commons license (CC BY 3.0 IGO) http://creativecommons.org/licenses/by/3.0/igo/ iii 
+
+CONTENTS 
+
+Page 
+
+EXPLANATORY NOTES ....................................................................................................................... v
+
+DOCUMENTATION ............................................................................................................................. 1
+
+A. Description of the dataset...................................................................................................... 1
+
+B. Methodology for estimating the migrant stock ..................................................................... 3
+
+T ABLES 
+
+Table 1. Availability of empirical data on international migrant stock since the 2000 round of population censuses  ........................................................................................................................................... 5This page intentionally left blank v
+
+EXPLANATORY NOTES 
+
+The dataset makes use of the following symbols: 
+
+Two dots (..) indicate that data are not reported separately. 
+
+A hyphen (-) indicates that the item is not applicable. 
+
+A minus sign (-) before a figure indicates a decrease. 
+
+A full stop (.) is used to indicate decimals. 
+
+A zero (0) indicates that the value is zero, rounded to zero or that data are not available. 
+
+Use of a hyphen (-) between years, for example, 1990-2000, signifies the period from 1 July of the first year to 1 July of the second year. 
+
+Numbers and percentages in tables do not necessarily add to totals because of rounding. 
+
+References to countries and areas: 
+
+The designations “more developed regions” and “less developed regions” are intended for statistical convenience and do not necessarily express a judgement about the stage reached by a particular country or area in the development process. The term “country” as used in this publication also refers, as appropriate, to territories or areas. 
+
+Countries and areas are grouped into seven Sustainable Development Goal (SDG) regions as defined by the United Nations Statistics Division and used for The Sustainable Development Goals Report (https://unstats.un.org/sdgs/indicators/regional-groups/). The seven SDG regions are: Sub-Saharan Africa, Northern Africa and Western Asia, Central and Southern Asia, Eastern and South-Eastern Asia, Latin America and the Caribbean, Oceania, and Europe and Northern America. These regions are further divided into 22 geographic subregions. Because of the magnitude of migrant stock in the SDG region Europe and Northern America and to maintain continuity with previous revisions of the international migrant stock produced by the Population Division, Europe, combining the four subregions Eastern Europe, Northern Europe, Southern Europe and Western Europe, and the subregion Northern America are also presented separately. The names and composition of geographical areas follow those of “Standard country or area codes for statistical use” available at http://unstats.un.org/unsd/methods/m49/m49.htm as of 1 August 2019. 
+
+More developed regions comprise Europe, Northern America, Australia, New Zealand, and Japan. 
+
+Less developed regions comprise all regions of Africa, Asia (excluding Japan), Latin America and the Caribbean plus Melanesia, Micronesia and Polynesia. 
+
+The group of least developed countries, as defined by the United Nations General Assembly, currently comprises 47 countries: Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of the Congo, Djibouti, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Lao People’s Democratic Republic, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Myanmar, Nepal, Niger, Rwanda, São Tomé and Príncipe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Sudan, Timor-Leste, Togo, Tuvalu, Uganda, United Republic of Tanzania, Vanuatu, Yemen and Zambia. This page intentionally left blank 1
+
+DOCUMENTATION 
+
+The dataset entitled International Migrant Stock 2019 provides estimates of the international migrant stock by age, sex and origin for the mid-point (1 July) of each year: 1990, 1995, 2000, 2005, 2010, 2015 and 2019. 
+
+A. DESCRIPTION OF THE DATASET 
+
+This section describes the worksheets contained in three Excel workbooks: 
+
+(a) UN_MigrantStockTotal_2019.xlsx, 
+
+(b) UN_MigrantStockByAgeAndSex_2019.xlsx, and 
+
+(c) UN_MigrantStockByOriginAndDestination_2019.xlsx. 
+
+Each worksheet has a name located on its tab. The description of each worksheet is presented below following its name. 
+
+1. Worksheets providing general information 
+
+Contents: The workbook opens on this worksheet, which provides an index to the rest of the worksheets in the workbook and has links that take the user to the selected worksheet by clicking either on the name (left column) or on the title of each table. 
+
+Annex: Classification of countries and areas by major area and region . This worksheet presents the list of countries or areas ordered alphabetically and the major area and region to which each belongs. It also identifies the countries or areas included in the more developed and less developed regions, the group of least developed countries, and the less developed regions excluding least developed countries. In this series, 232 countries or areas are covered and their classification by development group, major area and region is the one currently used by the Population Division. 
+
+Notes: This worksheet lists the notes that provide certain specificities about the countries or areas covered or the nature of the estimates presented. 
+
+2. Worksheets providing estimates 
+
+The workbook UN_MigrantStockTotal_2019.xlsx contains 6 data tables, the workbook UN_MigrantStockByAgeAndSex_2019.xlsx contains 5 data tables, and the workbook UN_MigrantStockByOriginAndDestination _2019.xlsx contains 3 data tables. Each table is presented on a separate worksheet. The estimates in all tables refer to the mid-point (1 July) of each year indicated. 
+
+The data tables have a consistent layout that includes a first column showing the sort order of the items listed, followed by (in some cases) the year, the name of each country, area and regional grouping, a further column showing the existence of notes that provide special information on particular entries (see the description of the worksheet Notes above), and a column showing the “code” for each country, area or regional grouping. For countries or areas, this code consists of three digits and was established by the International Standards Organization (ISO). For regional groupings, the codes presented are those used by the Population Division. The next column contains codes indicating the type of data used in deriving the estimates presented. The codes used are: B, which indicates that estimates were derived from data on the foreign-born population; C, which indicates that estimates were derived from data on foreign citizens; R, which indicates that the number of refugees or persons in refugee-like situations as reported by the Office of the United Nations High Commissioner for Refugees (UNHCR) or, where appropriate, the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) were added to the 2
+
+estimates, and I, which indicates that there were no data on international migrants for the country or area concerned and that the estimates presented were imputed. 
+
+The content of the workbook UN_MigrantStockTotal_2019.xlsx is as follows: 
+
+Table 1 International migrant stock at mid-year by sex and by major area, region, country or area, 1990-2019 . This table presents the complete set of estimates of the international migrant stock by sex and by major area, region, country or area. 
+
+Table 2 Total population at mid-year by sex and by major area, region, country or area, 1990-2019 (thousands) . This table presents estimates of the total population obtained from World Population Prospects 2019 .
+
+Table 3 International migrant stock as a percentage of the total population, 1990-2019 . The percentages shown are calculated by dividing the entries in Table 1 by those in Table 2 and expressing the results in percentages. 
+
+Table 4 Female migrants as a percentage of the international migrant stock by major area, region, country or area, 1990-2019. The figures are obtained by dividing the number of female international migrants by the total migrant stock in Table 1 and expressing the result as a percentage. 
+
+Table 5 Annual rate of change of the migrant stock by sex and by major area, region, country or area, 1990-2019 (percentage ). The worksheet presents the estimated exponential annual rate of change of the international migrant stock, expressed as a percentage. 
+
+Table 6 Estimated refugee stock (including asylum seekers) at mid-year by major area, region, country or area, 1990-2019. The worksheet presents the number of refugees (including asylum seekers), the refugee population (including asylum seekers) as a percentage of the total migrant stock and the estimated exponential rate of change of the refugee population (including asylum seekers) per year expressed as a percentage. All indicators are based on the end of year 2017 estimates of refugee populations or persons in refugee-like situations prepared by the Office of the United Nations High Commissioner for Refugees (UNHCR) and, where appropriate, by the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA). 
+
+The content of the workbook UN_MigrantStockByAgeAndSex_2019.xlsx is as follows: 
+
+Table 1 International migrant stock at mid-year by age and sex and by major area, region, country or area, 1990-2019 . This table presents the complete set of estimates of the international migrant stock by age and sex and by major area, region, country or area. 
+
+Table 2 Total population at mid-year by age and sex and by major area, region, country or area, 1990-2019 (thousands) . This table presents estimates of the total population obtained from World Population 
+
+Prospects 2019 .
+
+Table 3 International migrant stock as percentage of the total population by age and sex and by major area, region, country or area, 1990-2019 . The percentages shown are calculated by dividing the entries in Table 1 by those in Table 2 and expressing the results in percentages. 
+
+Table 4 Percentage distribution of the international migrant stock by age and sex and by major area, region, country or area, 1990-2019 . The percentages shown are calculated by dividing the entries in Table 3
+
+1 for the individual age groups by the total of these age groups for males and females separately and expressing the results in percentages. 
+
+Table 5 Female migrants as a percentage of the international migrant stock by age and by major area, region, country or area, 1990-2019. The figures are obtained by dividing the number of female international migrants by the total migrant stock in Table 1 and expressing the result as a percentage. 
+
+The content of the workbook UN_MigrantStockByOriginAndDestination_2019.xlsx is as follows: 
+
+Table 1 Total migrant stock at mid-year by origin and by major area, region, country or area of destination, 1990-2019 . This table presents the complete set of estimates of the total international migrant stock by origin and by major area, region, country or area of destination. 
+
+Table 2 Male migrant stock at mid-year by origin and by major area, region, country or area of destination, 1990-2019 . This table presents the complete set of estimates of the male international migrant stock by origin and by major area, region, country or area of destination. 
+
+Table 3 Female migrant stock at mid-year by origin and by major area, region, country or area of destination, 1990-2019 . This table presents the complete set of estimates of the female international migrant stock by origin and by major area, region, country or area of destination. 
+
+B. METHODOLOGY FOR ESTIMATING THE MIGRANT STOCK 
+
+This section provides information on the type of data and sources that have been used to collect the information and on the methods that have been applied to estimate the number as well as the distribution of the migrant stock by age, sex and origin. 
+
+1. Reference years 
+
+The  dataset  International Migrant Stock 2019 (United Nations database, POP/DB/MIG/Stock/Rev.2019) contains estimates of the total number of international migrants by country or area by sex, age and origin. Estimates refer to 1 July of the reference year, namely 1990, 1995, 2000, 2005, 2010, 2015 and 2019. 
+
+2. Types of data, definitions and sources 
+
+Most  of the data used to estimate the international migrant stock by country or area were obtained from 
+
+population  censuses. Additionally, population registers and nationally representative surveys provided 
+
+information  on the number and composition of international migrants. 
+
+In  estimating  the  international  migrant stock, international migrants have been equated with the foreign-born population whenever this information is available, which is the case in most countries or areas. In most countries lacking data on place of birth, information on the country of citizenship of those enumerated was available and was used as the basis for the identification of international migrants, thus effectively equating, in these cases, international migrants with foreign citizens. 
+
+Equating international migrants with foreign citizens when estimating the migrant stock has important 
+
+shortcomings . In countries where citizenship is conferred on the basis of jus sanguinis , people who were born in the country of residence may be included in the number of international migrants even though they may have never lived abroad. Conversely, persons who were born abroad and who naturalized in their 4
+
+country of residence are excluded from the stock of international migrants when using citizenship as the criterion to define international migrants. 
+
+Using country of citizenship as the basis for the identification of international migrants has also an impact on  the  age distribution of international migrants. In countries where citizenship is conferred mainly on jus sanguinis , children born to international migrants tend to be considered foreign citizens and are thus included in the count of international migrants. Conversely, in countries where citizenship is conferred based on jus soli , children born to international migrants are granted citizenship upon birth and are thus excluded from the migrant stock. 
+
+Despite these drawbacks, information by country of citizenship was used because ignoring it would have resulted in a lack of data for 45 countries or areas, equal to nearly 19 per cent of all countries and areas of the world. 
+
+The coverage of refugees in population censuses is uneven. In countries where refugees have been granted refugee status and allowed to integrate, they are normally covered by the population census as any other international migrant. In such cases, there is no reason to add the number of refugees to estimate the international migrant stock, because in these cases refugees would already be included in the census data. However, in many countries, refugees lack freedom of movement and are required to reside in camps or other designated areas. In these cases, population censuses may ignore refugees. Furthermore, when refugee flows occur rapidly in situations of conflict, it is uncommon for a population census to take place soon after and to reflect the newly arrived refugee population. 
+
+Consequently, for many countries hosting large refugee populations, the refugee statistics reported by international agencies are the only source of information on persons who are recognized as refugees or find themselves in refugee-like situations. In order to ensure that the estimates of the international migrant stock reflect properly the numbers of refugees, the figures on refugees reported by the Office of the United Nations High Commissioner for Refugees (UNHCR) and the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNWRA) were added to the estimates of the international migrant stock for countries in less developed regions deemed not to have included refugees in their reported statistics on the stock of international migrants. For countries in more developed regions, where refugees admitted for resettlement as well as recognized asylum-seekers are routinely included in population counts, be it by censuses or population registers, no such adjustment was made. 
+
+3. Data coverage 
+
+Among the 232 countries or areas included in this publication, 218, representing 94 per cent of the total, had at least one data source on the total migrant stock since the 2000 census round 1, 80 per cent of countries or areas had at least one data source on the age of international migrants, and 83 per cent of countries or areas had at least one data source on the origin of international migrants.  
+
+> 1The 2000 census round covers the period 1995-2004, while the 2010 census round covers the period 2005-2014. 5
+
+T ABLE 1. AVAILABILITY OF EMPIRICAL DATA ON THE INTERNATIONAL MIGRANT STOCK SINCE THE 2000 ROUND OF POPULATION CENSUSES                                                                                       
+
+> SDG Regions and number of countries or areas
+> Countries or areas with at least one data source International migrants estimated based on empirical data Number Percentage
+> Total By age
+> By origin Total By age
+> By origin
+> Number (thousands) Percentage
+> World (232) 218 186 193 94 80 83 263,719 97
+> Sub-Saharan Africa (51) 44 34 39 86 67 76 21,126 90
+> Northern Africa and Western Asia (25) 23 18 17 92 72 68 46,722 96
+> Central and Southern Asia (14) 11 9779 64 50 16,123 82
+> Eastern and South-Eastern Asia (18) 17 14 15 94 78 83 18,247 100
+> Latin America and the Caribbean (48) 48 45 45 100 94 94 11,673 100
+> Oceania (23) 23 17 20 100 74 87 8,928 100
+> Europe and Northern America (53) 52 49 50 98 92 94 140,900 100
+> Europe (48) 47 44 45 98 92 94 82,252 100
+> Northern America (5) 555100 100 100 58,648 100
+
+The availability of data on the number and basic characteristics of the migrant population differs significantly between SDG regions. In Sub-Saharan Africa, 14 per cent of the countries does not have updated information on the total number of international migrants since the 2000 round of population censuses, 24 per cent of the countries did not publish recent data on the country of origin of international migrants, while updated statistics on the age of international migrants is lacking for 33 per cent of all countries. In Central and Southern Asia, 21 per cent of the countries does not have data on the total number of international migrants since the 2000, 36 per cent is lacking data on the age of international migrants, and 50 per cent does not have recent statistics on the country of origin of international migrants. In the SDG regions Eastern and South-Eastern Asia, Northern Africa and Western Asia, and Oceania data on total migrant stock are available nearly all countries, but gaps in the availability of empirical data of international migrant stock by age and by origin persist. In contrast, updated information on the number of international migrants by age and country of origin is available for over 90 per cent of all countries in Latin America and the Caribbean and in Europe and Northern America. When the availability of data is measured by the share of migrants estimated based on recent empirical data, rather than by the number of countries with data, the data coverage is slightly higher for most regions and reaches 97 per cent for the world. 
+
+4. Standardization of age groups 
+
+Data on the age of international migrants are presented for standard five-year age groups commonly used in demographic analysis, that is, 0 to 4, 5 to 9, etc. In many cases, the empirically available data required some form of redistribution to ensure that the reported data could be used for estimates by five-year age group. The most common reason for redistribution was that the data contained at least one age group spanning ten years or more. In addition, a significant number of datasets included age groups that did not end in a 4 or a 9. Lastly, in several datasets the oldest (open-ended) age group had a starting age lower than 75 years. Various demographic techniques, including interpolation and Sprague coefficients, were used to standardize the age groups. 
+
+5. Standardization of country or area of origin 6
+
+Data on the origin of international migrants were compiled and classified using the “Standard country or area codes for statistical use”, available at  https://unstats.un.org/unsd/methodology/m49/ . In many cases, the available data required some form of redistribution to ensure that the reported data were consistent with the standard country or area codes. The most common reason for redistribution was that the data contained at least one description of origin spanning more than one country, area or region. In addition, a significant number of datasets included a description of origin that was not part of the standard list of countries or areas. Various methods, including applying a constant distribution  of migrants by  country or area of origin based on the  relevant major area or region  of destination  or aggregating values into the category “Other North” and “Other South”, were used to standardize the place of origin. 
+
+6. Estimates for countries with two or more data sources 
+
+For countries or areas with at least two data points, interpolation or extrapolation was used to estimate the migrant stock for the seven reference years from 1990 to 2019. The growth rate between any two consecutive data points was computed as follows: 
+
+r = 𝑙𝑙𝑙𝑙 (M1/M0) / (t1 − t0) 
+
+where M1 refers to the migrant stock in year 1 and M0 to the migrant stock in year 0. 
+
+However, other methods, including fitting ordinary least squares functions, were also used in countries or areas with large numbers of empirical data points. The estimates of the total migrant stock also considered the estimated size of the total population in the country of destination based on the World Population 
+
+Prospects 2019 . Specific country circumstances such as sudden in or out-migration due to conflict, economic booms or busts, and major changes in migration policies were also taken into consideration. 
+
+In relation to the age of international migrants, the estimation method took into consideration changes in the size of the migrant stock, the ageing of the migrant stock, the age distribution of newly arriving and departing migrants, and the age distribution of the total population in the country of destination based on the World Population Prospects 2019 . For each of these aspects, country and time-period specific weights were assigned. The age distribution of the newly arriving migrants is based on empirical data on flows by age to the destination country and Rogers and Castro’s migration models (1981). 2 In addition, whenever possible, data on refugees by age and sex were estimated separately using data on the age and sex distribution of refugees reported by UNHCR. These estimates were then added to the estimates of other international migrants by age and sex. 
+
+For the origin of international migrants, interpolation or extrapolation over time was used to estimate the international migrant stock for each country or area of origin. Where necessary, estimates were adjusted based on other relevant information, including the overall size and growth rate of the migrant stock in the country of destination and the growth rates of migrant stock by origin in the relevant major area or region of destination. The latter adjustments were done to ensure that the recorded change in the stock by origin was consistent with the change in the total migrant stock. 
+
+7. Estimates for countries with only one data source 
+
+For countries or areas with only one data source, the following approaches were utilised.     
+
+> 2Rogers, Andrei and Luis J. Castro (1981). Model Migration Schedules . Research Report 81-30. Laxenburg, Austria: International Institute for Applied Systems Analysis. See also United Nations (1992). Preparing migration data for subnational population projections (United Nations publication, Sales No. E.92.XIII.6). 7
+
+For the total migrant stock, the growth rates of the total migrant stock in the relevant major area or region were used, where appropriate, to estimate changes in migrant stock of a particular country. 
+
+In relation to the age of international migrants, the estimation method also took into consideration the change in the size of the migrant stock, the ageing of the migrant stock and the age distribution of newly arriving and departing migrants and the age distribution of the total population in the country of destination. Certain variations in these assumptions have been applied for specific groups, such as refugees who tend to be younger than other international migrants. 
+
+For the origin of international migrants, estimates were also adjusted based on other relevant information, including the overall size and growth rate of the migrant stock in the country of destination. In addition, where the change in the total stock was relatively small (under five per cent), the distribution by origin at the start of the period was left constant. Where the change was five per cent or more and there was information about a relevant event that might affect the distribution of the origin, such as the movement of refugees from certain countries or areas, this information was taken into consideration by adding data on the number of refugees by country or area of origin. 
+
+8. Estimates for countries with no data 
+
+For countries or areas without any data sources, another country or group of countries was used as a model. The “model” countries were selected on the basis of various characteristics, including the use of the same criterion for enumerating international migrants, geographical proximity and migration experience. 
+
+Estimates based on a regional or country model are identified by the symbol (I), signifying that they were obtained by imputation. In total, estimates for six countries or areas were obtained by imputation: Bosnia and Herzegovina, the Democratic People's Republic of Korea, Eritrea, Holy See, Somalia and Western Sahara. 3

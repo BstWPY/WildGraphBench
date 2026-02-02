@@ -1,0 +1,356 @@
+# The 50 Greatest Breakthroughs Since the Wheel
+
+Why did it take so long to invent the wheelbarrow? Have we hit peak innovation? What our list reveals about imagination, optimism, and the nature of progress.
+
+[James Fallows](https://www.theatlantic.com/author/james-fallows/)
+[November 2013 Issue](https://www.theatlantic.com/magazine/toc/2013/11/)
+
+![Image 1: The image collage features a variety of different historical images, including farming equipment and people plowing a field, medical personnel and equipment, an oil well, a woman working on a large lightbulb, people examining a woman's back, and a train](https://cdn.theatlantic.com/thumbor/T8h_Lil4ZMfm9YGk3vWGGaB5N_A=/0x71:1492x910/720x405/media/img/2013/10/11/innovators-top/original.jpg)
+
+**[Jump straight to the list](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#list)**
+
+S ome questions you ask because you want the right answer. Others are valuable because no answer is right; the payoff comes from the range of attempts. Seven years ago, _The Atlantic_ surveyed a group of eminent historians to create a ranked list of the 100 people who had done the most to shape the character of modern America. The panelists agreed easily on the top few names—Lincoln, Washington, Jefferson, in that order—but then began diverging in intriguing ways that reflected not simply their own values but also the varied avenues toward influence in our country. Lewis and Clark, or Henry Ford? Thomas Edison, or Martin Luther King? The result was of course not scientific. But the exercise of asking, comparing, and choosing helped us understand more about what these historical figures had done and about the areas in which American society had proved most and least open to the changes wrought by talented, determined men and women.
+
+Now we turn to technology. _The Atlantic_ recently assembled a panel of 12 scientists, entrepreneurs, engineers, historians of technology, and others to assess the innovations that have done the most to shape the nature of modern life. The main rule for this exercise was that the innovations should have come after widespread use of the wheel began, perhaps 6,000 years ago. That ruled out fire, which our forebears began to employ several hundred thousand years earlier. We asked each panelist to make 25 selections and to rank them, despite the impossibility of fairly comparing, say, the atomic bomb and the plow. (As it happens, both of these made it to our final list: the discovery and application of **[nuclear fission](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#fission),** which led to both the atomic bomb and nuclear-power plants, was No. 21 of the top 50, ahead of the [**moldboard**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#plow)**[plow](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#plow),** which greatly expanded the range of land that farmers could till, at No. 30.) We also invited panelists to add explanations of their choices, and I followed up with several of them and with other experts in interviews.
+
+Recommended Reading
+-------------------
+
+One panelist ranked his choices not by importance but by date of invention, oldest (cement) to newest (GPS satellites). Some emphasized the importance not of specific breakthroughs but of broad categories of achievement. For instance, Joel Mokyr, an economic historian at Northwestern, nominated in his top 10 “modularity.” By that he meant the refinements in industrial processes that allowed high-volume output of functionally identical parts. This enabled mass production and the Henry Ford–style [**assembly line**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#assembly)(49 on _The Atlantic_’s list), and the profound shift from handmade to volume-produced versions of everything. Modularity didn’t make it onto our final list; the adoption of standardized shipping containers, which extended the same logic in a different realm, just missed the cut.
+
+In short, these scientists and creative types decided to answer the question they wanted us to ask, rather than the exact one we posed. We have new sympathy for people attempting to manage universities and R&D labs. But in the end we had enough comparable and overlapping suggestions, from enough people, with enough spelled-out explanations, and enough force of experience and insight behind them, to be comfortable presenting _The Atlantic_’s survey of humanity’s 50 most important technical breakthroughs since the wheel. We converted all the responses into values we could enter on a spreadsheet; we weighted, as reasonably as we could, the intensity and breadth of support; we watched the combined rankings go up and down as each new response arrived; and we came up with the final ranking you see here.
+
+One aspect of the results will be evident as soon as you start looking through them: the debatability of the choices and rankings once you move beyond the first few. For instance, [**anesthesia**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#anesthesia) (46), which, on its debut in 1846, began to distinguish surgery from torture, barely made the top 50, and that was only because one panelist pushed it hard. If I were doing the ranking, it would be in the top 10, certainly above the [**personal computer**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#computer) (16 on our final list). In this case the test for me is: Which would I miss more if it didn’t exist? (Our panelist John Doerr, a well-known technology investor, said he worked his way through his own top‑25 list using a similar set of “pairwise comparisons,” asking which technology he would miss more.) I rely on personal computers, but I got along fine before their introduction; I still remember a dental procedure in England when the National Health Service didn’t pay for novocaine.
+
+Less evident from the final list is what I was fascinated to learn from my talks with many of the panelists. That is the diversity of views about the types of historical breakthroughs that matter, with a striking consensus on whether the long trail of innovation recorded here is now nearing its end.
+
+### Innovation: A Taxonomy
+
+The clearest example of consensus was the first item on the final compilation, the **[printing press](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#printing).** Ten of the 12 people who submitted rankings had it at or near the top. To draw another parallel to our Influential Americans survey, the printing press was the counterpart to Abraham Lincoln as the clear consensus for the top choice. And just as that previous exercise revealed the major patterns through which historical figures had exerted influence—as political leaders in times of crisis, as industrial pioneers, through pop culture or design—a set of categories emerged from the individual nominations. One of our panelists, Leslie Berlin, a historian of business at Stanford, organized her nominations not as an overall list but grouped into functional categories. From our panelists’ nominations, a similar but slightly broader set of categories emerges. Here is my adaptation of Berlin’s useful scheme:
+
+_Innovations that expand the human intellect_ and its creative, expressive, and even moral possibilities. This group includes the [**printing press**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#printing) (1) and also **[paper](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#paper),**(6) and now of course [the](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#internet)**[Internet](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#internet),**(9) the **[personal computer](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#computer),**(16) and the underlying technology for the modern data age, **[semiconductor](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#semiconductor)[electronics](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#semiconductor)** (4), plus **[photography](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#photography)**(29). Charles C. Mann, the science writer and frequent _Atlantic_ contributor, put writing third, behind fire and agricultural improvements, including the domestication of animals. Walter Isaacson, the biographer of Steve Jobs, Albert Einstein, and Benjamin Franklin, ranked as his top three innovations items from this category: alphabetization, paper, and the printing press.
+
+_Innovations that are integral to the physical and operating infrastructure_ of the modern world. George Dyson, the technology writer, said that [**cement**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#cement), which in the end ranked 37th, was a crucial early innovation, “at the foundation of civilization as we know it—most of which would collapse without it.” Three of the top five choices from John Doerr were in this category: electrical systems were first, indoor plumbing was second, and filtration systems to create potable water were fifth. (One panelist mentioned aqueducts.) Doerr said that in much of today’s poor world, “the payoff of clean water, in terms of community prosperity,” is at least 20‑to-1. In our ranking, [**electricity**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#electricity)was No. 2 and [**sanitation systems**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#sanitation)were No. 12. Through the past half century, [**air-conditioning**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#ac)(44) played a major role in America’s expansion across the Sun Belt. Air-conditioning is now having a similar effect in China, India, the Gulf states, and elsewhere. Our panelist Joi Ito, the head of the Media Lab at MIT, said that air-conditioning “was famously identified by Lee Kuan Yew of Singapore as the technology that allowed residents to have white-collar work, and that empowered populations living in temperate climates.”
+
+_Innovations that enabled the Industrial Revolution_ and its successive waves of expanded material output. These include the [**steam engine**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#steam)(10), **[industrial steelmaking](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#steel)**(19), and the [**refining**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#oil)and**[drilling of oil](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#drilling)**(35 and 39, respectively). A century ago, a comparable list would have had to include the use of coal, which does not appear here, although it is still the most widely used fuel for electric-power plants.
+
+_I_ _nnovations extending life,_ to use Leslie Berlin’s term. This broad group includes the successive agricultural revolutions that now let the Earth support its billions of people: [**nitrogen fixation**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#nitrogen)(11), notably the Haber-Bosch process, about a century old, which made modern ammonia-based fertilizers possible and, by making more nitrogen available to plants, lifted a previously unbreakable limit on crop yields. (That same process led to modern explosives and the poison gas used during World War I.) Also, the[**green revolution**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#green)(22); the [**moldboard plow**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#plow)(30); [**Archimedes’ screw**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#screw)(31), which drew water from streams and canals to irrigate fields; and [**scientific plant breeding**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#plant)(38). This group also includes the advances in medical knowledge and treatment that predate our current genomics revolution: No. 3, [**penicillin**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#penicillin) (nearly a century old); No. 8, [**vaccination**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#vaccination) (a few hundred years old); and No. 20, [**the pill**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#pill)(half a century old). One of our panelists suggested “the germ theory of infectious disease” as one of humanity’s top 10 breakthroughs. A list made 50 years from now, or maybe only five, would undoubtedly emphasize the revolutionary potential of genomics, but as yet it did not make our cut. The life-extending category also includes the public-health measures that have advanced in parallel with improved medical treatment: [**sanitation systems**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#sanitation)(12) and [**refrigeration**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#fridge)(13).
+
+After penicillin, the highest-ranked item from this category was **[optical lenses](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#lenses),**at No. 5. I am glad they were mentioned by several panelists, because their inclusion illustrates the underappreciated ripple effects of certain technologies. Before the advent of corrective lenses, people with imperfect vision could be vulnerable to enemies or predators in humanity’s early hunter-warrior stages, and later intellectually handicapped by their simple inability to see letters or numbers as clearly as others. None of our panelists put it this way, but I have always believed that the adoption of corrective lenses amounted to the largest onetime IQ boost in human history, by expanding the pool of potentially literate people. It was also one of several puzzlingly “late” innovations, occurring many long centuries after the Romans and others discovered the optical properties of lenses. A similar puzzle, according to Joel Mokyr, involves the delayed appearance of the wheelbarrow. “It is about as simple a labor-saving device as you can think of,” he told me, “but it doesn’t seem to have occurred to anyone for thousands of years after the wheel, and it took about a thousand years longer to occur to anyone in Europe after its first use in China.”
+
+_Innovations that allowed real-time communication_ beyond the range of a single human voice. The [**Internet**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#internet) (9) obviously brings new scale and speed to communication, but the real leap beyond previous limitations occurred in the mid‑1800s, with the development of the **[telegraph](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#telegraph)**(26), followed by the [**telephone**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#phone)(24) and then [**radio**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#radio)(28). As Joel Mokyr put it, before the telegraph, “with few exceptions, information could move no faster than a man on horseback. Smoke signals, homing pigeons, and the semaphore telegraph all had very little bandwidth and were unreliable. The telegraph made it at least in principle possible for information to move at the speed of light, and thus vastly improved long-distance communications and hence command and control over much larger territories.”
+
+Considering how often the modern era has been called the “television age” and how much time people now spend before a variety of screens, it is notable that [**television**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#tv) comes in only at No. 45. Many years from now, perhaps people will regard the second half of the 20th century as the brief moment when broadcast TV could seem a dominant technology. With its obvious-in-retrospect limitations, like one-way information flow rather than interactivity, and dependence on heavy hardware for best display, maybe TV was bound to be a transition to some other system more tailored to individual tastes. Or maybe our panelists were embarrassed to vote for it.
+
+_Innovations in the physical movement of people and goods_. Through the past 150 years, the [**internal combustion engine**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#combustion) (7) made possible the social, economic, political, and environmental effects brought on by the age of the **[automobile](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#automobile)**(18). With variations in propulsion systems (and later the emergence of jet-turbine engines), this same innovation made possible the **[airplane](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#airplane)**(15). Why is the airplane ahead of the car? Presumably because automobile travel sped up the land journeys people had long made by other means, whereas the airplane made possible an entirely new form of human movement—and, perhaps as important, an unprecedented way of seeing and understanding the Earth. Until the first, tentative balloon flights in the late 1700s, human beings had never viewed the layout of their environment from an elevation higher than that of a treetop or a mountain. In the age of 20th-century powered flight, they could see for themselves the natural contours and man-made features they had approximated on maps.
+
+Starting in the 1700s, the [**steam engine**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#steam) (10) enabled growth of the railroad—which, like the bicycle, presumably would have come near the top of a comparable survey a century ago. Even now railroads carry far more freight in the United States than do trucks, barges, or any other form of transport; they are the backbone of passenger-travel systems in Europe; and they account for more of China’s infrastructure investment than airports or roads. But not everything could make the final cut! Also in this category are No. 40, the [**sailboat**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#sailboat) (with the [**sextant**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#sextant) at No. 23 and the [**compass**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#compass)at No. 17), and No. 41, [**rocketry**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#rocket) (“our only way off the planet—so far,” in George Dyson’s words).
+
+_Organizational breakthroughs_ that provide the software for people working and living together in increasingly efficient and modern ways. Linda Sanford, a senior vice president for enterprise transformation at IBM, picked the [**Gregorian calendar**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#calendar) (34) as her very first item, ahead of her second choice, paper. The importance of [**alphabetization**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#alphabet) (25) is easy to overlook until you consider the challenges of indexing, arraying, and retrieving knowledge that arise in non-alphabetic languages, notably Chinese.
+
+Finally, and less prominently than we might have found in 1950 or 1920—and less prominently than I initially expected—we have _innovations in killing_, including [**gunpowder**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#gunpowder) (14) and [**nuclear fission**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#fission)(21). The machine gun, which received only one nomination, would have dominated in this category 100 years ago. Nor did anyone bring up drones, or chemical or biological weapons, or terrorism or guerrilla warfare. But on reflection, our panelists probably got it right. Except for the atomic bomb, breakthroughs in weaponry matter less than the culture and temperament of human conflict.
+
+Any collection of 50 breakthroughs must exclude 50,000 more. What about GPS systems, on which so many forms of movement now depend, and which two panelists recommended? What about the concept of the number zero, as suggested by Padmasree Warrior, the chief technology and strategy officer at Cisco? (She did not rank her 25 items, but 18 of them showed up among the final 50; Michelle Alexopoulos, an economics professor at the University of Toronto, had 21, and Walter Isaacson had 25 of the 26 he submitted.) In addition to coal, how can no one have mentioned paved roads? Or the discovery of the double-helix structure of DNA? Landing on the moon? Or the mathematics of calculus, on which space flight and so much else depended? The more questions and discussions our ranking provokes, the more successful the endeavor will have been.
+
+We notice that innovation may be less personalized than we assume. Our Influential Americans survey was all about specific people who made a difference, though in some cases—Elizabeth Cady Stanton, Martin Luther King—the difference they made was to persuade large groups to work toward a common end. In this survey, it is remarkable how few world-changing breakthroughs can be tied directly to a single, heroic, Nobel Prize–worthy innovator. [**Pasteurization**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#pasteurization) (33) is the only one of the top 50 to be named for a person, unless you count the [**Gregorian calendar**](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#calendar)or **[Archimedes’ screw](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/#screw).** Other people made other celebrated advances, from Johannes Gutenberg to Alexander Graham Bell, but overall these are the achievements of groups of people who built on one another’s efforts, sometimes over spans of many years.
+
+We learn, finally, why technology breeds optimism, which may be the most significant part of this exercise.
+
+### The Future
+
+Popular culture often lionizes the stars of discovery and invention. A century ago, this meant the Wright brothers, Edison, and the auto pioneers; in the Eisenhower years, Jonas Salk and Wernher von Braun; and in the past generation, first Bill Gates and then Steve Jobs. But about technology’s onrush in general, cultural and political attitudes have been mixed at best. For each writer or thinker or government leader who has enthusiastically welcomed whatever changes technology might bring, there has been a counterpart warning of its dangers. From Blake to Dickens, from _Metropolis_ to _Blade Runner_, from Upton Sinclair to Rachel Carson, and through a long list of similar pairings, the culture of a technology-driven era has continually played catch-up to correct modernity’s destructive and dehumanizing effects.
+
+For our era, the major problems that technology has helped cause, and that faster innovation may or may not correct, are environmental, demographic, and socioeconomic. Environmental challenges, because of the unsustainable burden being placed on the world’s oceans, skies, soils, and nonhuman life-forms; demographic, because advances in medicine and public health are rapidly pushing up the median age throughout the developed world; and socioeconomic, because a globalized, high-tech economy is widening the gap between rich and poor everywhere.
+
+Perhaps I should not have been surprised that people who have thought deeply about innovation’s sources and effects, like our panelists, were aware of the harm it has done along with the good. I found it notable that the technologists I spoke with volunteered lists of innovation-enhanced perils. “Does innovation raise the wealth of the planet? I believe it does,” John Doerr, who has helped launch Google, Amazon, and other giants of today’s technology, said. “But technology left to its own devices widens rather than narrows the gap between the rich and the poor.” Despite the prospects for innovation that excite him, he said, “I don’t think there is any reason to assume there will automatically be enough ‘good’ jobs, for enough people, in the long run.” Joel Mokyr pointed out that innovation has always done both good and harm. “You look at antibiotics, insecticides, transportation—every time we solve one problem, a new one comes up,” he said. “Each invention relies on subsequent inventions to clean up the mess it has made.”
+
+Please stop to think about this: Outside of the sciences and technology, and apart from the legacies created in each family, humanity is struggling today for a sense of cumulative achievement. Are today’s statesmen an improvement over those of our grandparents’ era? Today’s level of public debate? Music, architecture, literature, the fine arts—these and other manifestations of world culture continually change, without necessarily improving. Tolstoy and Dostoyevsky, versus whoever is the best-selling author in Moscow right now? The original, elegant Penn Station, versus its warehouse-like replacement?
+
+A central question for technologists is whether innovation in the material and productive realms can be sustained—or whether we might, on the contrary, already be entering another of the long, stagnant eras that have marked much of human history, including the ones after times of rapid advance. Amid today’s onslaught of the new-and-improved, a slowdown of any sort might seem improbable—but possibly desirable. The argument that a slowdown might happen, and that it would be harmful if it did, takes three main forms.
+
+The first is historical. Some societies have closed themselves off and stopped inventing altogether: notably China after its preeminence in the Ming era, and much of the Arab Islamic world starting just before the European Renaissance. By failing to move forward, they inevitably moved backward relative to their rivals and to the environmental and economic threats they faced. If the social and intellectual climate for innovation sours, what has happened before can happen again.
+
+The second draws from the visible slowdown in the pace of solutions that technology offers to fundamental problems. Between 1850 and 1950, life expectancy nearly doubled in the United States, thanks to the combined effects of antibiotics, immunization, and public-health measures. Since then, it has only crept up. Between 1920 and 1970, improvements in cars, roads, airplanes, and even railroads made travel faster, cheaper, safer, and more comfortable. Since then, travel in the developed world has improved slowly at best. Crop yields per acre doubled within a generation of the green revolution but have not doubled again.
+
+The third and broadest form of the argument is that a slowdown in, say, crop yields or travel time is part of a general pattern of what economists call diminishing marginal returns. The easy improvements are, quite naturally, the first to be made; whatever comes later is slower and harder.
+
+The most systematic recent presentation of this view has come from the economist Robert J. Gordon, of Northwestern, who has argued that America’s history as a nation happens to coincide with a rare moment in technological history now nearing its end. “There was virtually no economic growth before 1750,” he writes in a recent paper. This, he said, left open the possibility that “the rapid progress made over the past 250 years could well be a unique episode in human history rather than a guarantee of endless future advance at the same rate.” Tyler Cowen, an economist at George Mason University, says in _The Great Stagnation_ that America’s long centuries of rapid growth amounted to harvesting the “low-hanging fruit” of open land, cheap energy, and industrial-era breakthroughs—harvesting that could not be sustained.
+
+Everyone I spoke with was familiar with such cautionary analyses; none dismissed them out of hand. But when pressed, every one of them said they expected the pace of useful innovation to speed up, not slow down. Again, their explanations took three main forms.
+
+First, and reassuringly, whatever field a panelist knew most about, he or she considered most promising. John Doerr emphasized the transformative potential of radically cheaper and more efficient batteries, which in turn are a crucial element of a cleaner-energy economy. (Wind turbines, solar panels, and other renewable sources don’t produce power on a schedule that matches the grid’s demands. Modern batteries cost too much, and store too little energy, to be useful in buffering undersupply. See ["Technologies to Bet On"](https://www.theatlantic.com/magazine/archive/2013/11/the-next-breakthroughs/309538/) in this issue.) Others I spoke with saw similar prospects in other fields. Elon Musk, not officially one of our panelists, is perhaps this era’s most ambitious innovator. He simultaneously heads a company building rocket ships, SpaceX; another making a popular electric car, Tesla; and another that is a leading provider of solar power, SolarCity. When I asked him what innovation he hoped to live long enough to see but feared he might not, he said, “Sustainable human settlements on Mars.”
+
+Most of these U.S.-based technologists thought prospects for innovation remained brighter in the United States than anywhere else. And this judgment came from people fully aware of the continued erosion of basic-research funding and other challenges. “We can be concerned about the last 1 percent of an environment for innovation, but that is because we take everything else for granted,” Leslie Berlin told me.
+
+Second, many pointed out that ever cheaper, ever faster computing power could in itself promote innovation in all other fields—much as steam-powered engines did in the 19th century and electricity in the 20th. For one example: Eric S. Lander, the director of the Broad Institute for medical research in Cambridge, Massachusetts (also not on our panel), pointed out that in the past 12 years, the cost of sequencing human DNA has fallen to _one one-millionth_ of its previous level. This reduction in cost, he says, means that the next decade should be a time of “amazing advances in understanding the genetic basis of disease, with especially powerful implications for cancer.”
+
+Finally, the people I spoke with said that the very concept of an end to innovation defied everything they understood about human inquiry. “If you look just at the 20th century, the odds against there being _any_ improvement in living standards are enormous,” Joel Mokyr told me. “Two catastrophic world wars, the Cold War, the Depression, the rise of totalitarianism—it’s been one disaster after another, a sequence that could have been enough to sink us back into barbarism. And yet this past half century has been the fastest-ever time of technological growth. I see no reason why that should be slowing down.”
+
+George Dyson put it a different way, in a sense the most optimistic of all. “I am a technological evolutionist,” he said. “I view the universe as a phase-space of things that are possible, and we’re doing a random walk among them. Eventually we are going to fill the space of everything that is possible.”
+
+What innovation did Dyson most hope to see during his time in the phase-space of the living? He had obviously thought about this before, and answered immediately: “The return of sailing ships as a commercially viable transport system.” Even in the days of cloth sails and hemp rope, he said, clipper ships could convert 60 percent of the raw energy of the wind into useful work. With modern materials and design, they could capture more energy than they used en route. “When a fleet of ships got to port, they could not only deliver cargo but even put energy into the grid.” This is how innovators think.
+
+* * *
+
+### [](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)The List
+
+**_The Atlantic_ asked a dozen scientists, historians, and technologists to rank the top innovations since the wheel. Here are the results.**
+
+**_You can also [choose your own](https://www.theatlantic.com/special-report/breakthroughs/top-five/) top five innovations, and see how the readers' choices stack up against the_ Atlantic _experts'._**
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)1. The printing press, 1430s![Image 2: Workers and printing presses in a factory are seen in a black-and-white photograph](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/printing20press20BW20110/cc2cdf72c.jpg)**
+
+The printing press was nominated by 10 of our 12 panelists, five of whom ranked it in their top three. Dyson described its invention as the turning point at which “knowledge began freely replicating and quickly assumed a life of its own.”
+
+![Image 3: Spherical weather balloon with net-like pattern, photographed indoors in black and white](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/Electricity_BW-1/3e1e37a8f.jpg)
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)2. Electricity, late 19th century**
+
+And then there was light—and Nos. 4, 9, 16, 24, 28, 44, 45, and most of the rest of modern life.
+
+![Image 4: Penicillium mold from professor Alexander Fleming in 1935 in a bronze box](https://cdn.theatlantic.com/assets/media/img/posts/penicillin.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)**3. Penicillin, 1928**
+
+Accidentally discovered in 1928, though antibiotics were not widely distributed until after World War II, when they became the silver bullet for any number of formerly deadly diseases
+
+![Image 5: Tweezers holding a small component on a green circuit board with a soldering iron nearby](https://cdn.theatlantic.com/assets/media/img/posts/semiconductor%20electronics%20110.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)**4. Semiconductor electronics, mid-20th century**
+
+The physical foundation of the virtual world
+
+[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)**5. Optical lenses, 13th century**![Image 6: Portrait of Hugh of Saint-Cher looking through his spectacles](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/optical20lenses20110/4a9c97ca9.jpg)
+
+Refracting light through glass is one of those simple ideas that took a mysteriously long time to catch on. “The Romans had a glass industry, and there’s even a passage in Seneca about the optical effects of a glass bowl of water,” says Mokyr. But it was centuries before the invention of eyeglasses dramatically raised the collective human IQ, and eventually led to the creation of the microscope and the telescope.
+
+[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)**6.****Paper, second century![Image 7: Stack of papers with dense text](https://cdn.theatlantic.com/assets/media/img/posts/paper%20110.jpg)**
+
+“The idea of stamping images is natural if you have paper, but until then, it’s economically unaffordable.” — _Charles C. Mann_
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)7.****The internal combustion engine, late 19th century![Image 8: A black and white drawing of a horizontal engine, depicted from a three-quarter view, showcasing its structural components](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/itnernal20combustion20engine20110/931dff1c0.jpg)**
+
+Turned air and fuel into power, eventually replacing the steam engine (No. 10)
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)8.****Vaccination, 1796![Image 9: An artist's rendition of a woman being poked with needles by two men](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/vaccine20110/63fa0c5a0.jpg)**
+
+The British doctor Edward Jenner used the cowpox virus to protect against smallpox in 1796, but it wasn’t until Louis Pasteur developed a rabies vaccine in 1885 that medicine—and government—began to accept the idea that making someone sick could prevent further sickness.
+
+![Image 10: Close-up of a blue network cable plugged into a router](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/internet-1/8bc2f0497.jpg)
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)9.****The Internet, 1960s**
+
+The infrastructure of the digital age
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)10.****The steam engine, 1712![Image 11: Locomotive #664 pulling a train on a track](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/steam20engine20BW20110/a9caf4488.jpg)**
+
+Powered the factories, trains, and ships that drove the Industrial Revolution
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)11.****Nitrogen fixation, 1918![Image 12: Stack of white bags with red stripe](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/nitrogen/fcffa8f7b.jpg)**
+
+The German chemist Fritz Haber, also the father of chemical weapons, won a Nobel Prize for his development of the ammonia-synthesis process, which was used to create a new class of fertilizers central to the green revolution (No. 22).
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)12.****Sanitation systems, mid-19th century![Image 13: Water treatment pools are divided by cement walls and show a cloudy sky](https://cdn.theatlantic.com/assets/media/img/posts/sanitation%20110.jpg)**
+
+A major reason we live 40 years longer than we did in 1880 (see “Die Another Day”)
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)13.****Refrigeration, 1850s![Image 14: A 60x90 small image, likely a logo, icon or avatar](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/refrigerator/68a3d66de.jpg)**
+
+“Discovering how to make cold would change the way we eat—and live—almost as profoundly as discovering how to cook.” — _George Dyson_
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)14.****Gunpowder, 10th century![Image 15: A cartoon shows a man sitting on a barrel labeled 'Gunpowder' with a lit torch, surrounded by onlookers](https://cdn.theatlantic.com/assets/media/img/posts/Gunpowder%20BW%20110.jpg)**
+
+Outsourced killing to a machine
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)15.****The airplane, 1903![Image 16: A vintage black and white photo of an early airplane with two propellers and two sets of wings](https://cdn.theatlantic.com/assets/media/img/posts/airplane%20BW%20110.jpg)**
+
+Transformed travel, warfare, and our view of the world (see No. 40)
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)16.****The personal computer, 1970s![Image 17: Silver desktop computer on a white background](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/personal_computer/faabd4b71.jpg)**
+
+Like the lever (No. 48) and the abacus (No. 43), it augmented human capabilities.
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)17.****The compass, 12th century![Image 18: Compass-like metal instrument with a hinged cover](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/compass/74b12167d.jpg)**
+
+Oriented us, even at sea
+
+![Image 19: Dark green vintage car with white tires parked on a sunny day](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/automobile-2/5efd86ac2.jpg)
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)18.****The automobile, late 19th century**
+
+Transformed daily life, our culture, and our landscape
+
+**![Image 20: Molten metal being poured from a vessel, with intense heat and sparks](https://cdn.theatlantic.com/assets/media/img/posts/industrial%20steelmaking%20110.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)19.****Industrial steelmaking, 1850s**
+
+Mass-produced steel, made possible by a method known as the Bessemer process, became the basis of modern industry.
+
+**![Image 21: Close-up of a blister pack with round, white and peach-colored pills, providing a visual representation of medication or supplements](https://cdn.theatlantic.com/assets/media/img/posts/the%20pill%20110.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)20.****The pill, 1960**
+
+Launched a social revolution
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)21.****Nuclear fission, 1939![Image 22: Exterior view of a nuclear power plant with large cooling towers](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/nuclear20fission20110/b809c6b0b.jpg)**
+
+Gave humans new power for destruction, and creation
+
+**![Image 23: Green field of wheat with mountains in the background](https://cdn.theatlantic.com/assets/media/img/posts/green%20revolution%20110.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)22.****The green revolution, mid-20th century**
+
+Combining technologies like synthetic fertilizers (No. 11) and scientific plant breeding (No. 38) hugely increased the world’s food output. Norman Borlaug, the agricultural economist who devised this approach, has been credited with saving more than 1 billion people from starvation.
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)23.****The sextant, 1757![Image 24: Brass navigational sextant with mirrors and telescope for measuring angles](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/sextant20110/01fc2214c.jpg)**
+
+It made maps out of stars.
+
+**![Image 25: A green retro rotary phone with a coiled cord](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/telephone20110/56fc9f9c8.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)24.****The telephone, 1876**
+
+Allowed our voices to travel
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)25.****Alphabetization, first millennium**b.c.![Image 26: A 110x61 small image, likely a logo, icon or avatar](https://cdn.theatlantic.com/assets/media/img/posts/alphabetization%20110.jpg)
+
+Made knowledge accessible and searchable—and may have contributed to the rise of societies that used phonetic letters over those that used ideographic ones
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)26.****The telegraph, 1837![Image 27: Early electric piano displayed, a blend of keyboard and complex mechanical apparatus](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/telegraph20110/62dce2d92.jpg)**
+
+Before it, Joel Mokyr says, “information could move no faster than a man on horseback.”
+
+**![Image 28: Close-up of a clock face with golden arms and black accents on a white background](https://cdn.theatlantic.com/assets/media/img/posts/clock%20110.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)27.****The mechanized clock, 15th century**
+
+It quantified time.
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)28.****Radio, 1906![Image 29: Man in suit with mustache working with laboratory equipment in a black and white photograph](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/radio20BW20110/07e656c19.jpg)**
+
+The first demonstration of electronic mass media’s power to spread ideas and homogenize culture
+
+**![Image 30: An old silver and black camera laying on a white surface](https://cdn.theatlantic.com/assets/media/img/posts/photography%20110.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)29.****Photography, early 19th century**
+
+Changed journalism, art, culture, and how we see ourselves
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)30.****The moldboard plow, 18th century![Image 31: An engraving depicts farmers tilling land with an ox-drawn plow in a rural scene, with men on horseback in the background](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/Plow20BW20110/62768b731.jpg)**
+
+The first plow that not only dug soil up but turned it over, allowing for the cultivation of harder ground. Without it, agriculture as we know it would not exist in northern Europe or the American Midwest.
+
+![Image 32: A drawing of a box-conveyor type of chain pump](https://cdn.theatlantic.com/assets/media/img/posts/Archimedean_Screw%20110.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)**31.****Archimedes’ screw, third century**b.c.
+
+The Greek scientist is believed to have designed one of the first water pumps, a rotating corkscrew that pushed water up a tube. It transformed irrigation and remains in use today at many sewage-treatment plants.
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)32.****The cotton gin, 1793![Image 33: Cotton gin box with a roller and a toothed grate](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/cotton20gin20BW20110/f9e36e4fa.jpg)**
+
+Institutionalized the cotton industry—and slavery—in the American South
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)33.****Pasteurization, 1863![Image 34: A man is working at a piece of machinery in a factory](https://cdn.theatlantic.com/assets/media/img/posts/Pasteurization%20110.jpg)**
+
+One of the first practical applications of Louis Pasteur’s germ theory, this method for using heat to sterilize wine, beer, and milk is widely considered to be one of history’s most effective public-health interventions.
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)34.****The Gregorian calendar, 1582![Image 35: A September calendar is shown in the image](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/calendar20110/c0ed05f17.jpg)**
+
+Debugged the Julian calendar, jumping ahead 10 days to synchronize the world with the seasons
+
+**![Image 36: Oil refinery with tall towers and pipes, smoking into the sky](https://cdn.theatlantic.com/assets/media/img/posts/oil%20refining%2095.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)35.****Oil refining, mid-19th century**
+
+Without it, oil drilling (No. 39) would be pointless.
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)36.****The steam turbine, 1884![Image 37: A shiny silver turbine engine or rotor appears in close-up detail](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/steam20turbine20110/cc43f1ea6.jpg)**
+
+A less heralded cousin of steam engines (No. 10), turbines are the backbone of today’s energy infrastructure: they generate 80 percent of the world’s power.
+
+**![Image 38: A rectangular olive-green building with a dark opening sits on a sandy surface under a blue sky](https://cdn.theatlantic.com/assets/media/img/posts/cement%20110.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)37.****Cement, first millennium**b.c.
+
+The foundation of civilization. Literally.
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)38.****Scientific plant breeding, 1920s![Image 39: An illustration of Gregor Mendel's cross-pollination experiment with pea plants, showing how he crossed a plant with purple flowers with one with white flowers](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/plant20breeding20110/f9b8a9ad4.jpg)**
+
+Humans have been manipulating plant species for nearly as long as we’ve grown them, but it wasn’t until early-20th-century scientists discovered a forgotten 1866 paper by the Austrian botanist Gregor Mendel that we figured out how plant breeding—and, later on, human genetics—worked.
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)39.****Oil drilling, 1859![Image 40: The Lucas Gusher at Spindletop, showing a wooden tower and men in suits standing nearby](https://cdn.theatlantic.com/assets/media/img/posts/Oil%20Drilling%20BW%20110.jpg)**
+
+Fueled the modern economy, established its geopolitics, and changed the climate
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)40.****The sailboat, fourth millennium****b.c.![Image 41: Sailing boat with white sails on the ocean](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/sailboat20110/cf468828b.jpg)**
+
+Transformed travel, warfare, and our view of the world (see No. 15)
+
+**![Image 42: rocket takes flight, leaving a plume of smoke](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/rocketry20110/ca2daa70e.jpg)[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)41.****Rocketry, 1926**
+
+“Our only way off the planet—so far.” — _George Dyson_
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)42.****Paper money, 11th century![Image 43: Several one-dollar bills are scattered across a surface](https://cdn.theatlantic.com/assets/media/img/posts/dollarsdollars%20110.jpg)**
+
+The abstraction at the core of the modern economy
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)43.****The abacus, third millennium****b.c.![Image 44: Abacus showing the number 1352964708](https://cdn.theatlantic.com/assets/media/img/posts/abacus%20110.jpg)**
+
+One of the first devices to augment human intelligence
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)44.****Air-conditioning, 1902![Image 45: Diagram of a theater with a cooling and ventilation system](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/air20conditioning20110/809243f07.jpg)**
+
+Would you start a business in Houston or Bangalore without it?
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)45.****Television, early 20th century![Image 46: An old television in a faded mint green color stands on a thin metal stand](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/tv20110/5e952efb9.jpg)**
+
+Brought the world into people’s homes
+
+![Image 47: A nurse assists a male patient in a hospital bed with oxygen treatment, using a long, snaking tube and a small device held to his face](https://cdn.theatlantic.com/assets/media/img/posts/anesthesia%20BW%20110.jpg)**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)46. Anesthesia, 1846**
+
+In response to the first public demonstration of ether, Oliver Wendell Holmes Sr. wrote: “The fierce extremity of suffering has been steeped in the waters of forgetfulness, and the deepest furrow in the knotted brow of agony has been smoothed for ever.”
+
+**![Image 48: A nail has been driven into a block of wood](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/Nail20110/b68925c29.jpg)**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)**47.****The nail, second millennium****b.c.**
+
+“Extended lives by enabling people to have shelter.” — _Leslie Berlin_
+
+![Image 49: A man prepares to launch a balloon, vintage sketch](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/Lever20110/ade381852.jpg)**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)48. The lever, third millennium****b.c.**
+
+The Egyptians had not yet discovered the wheel when they built their pyramids; they are thought to have relied heavily on levers.
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)49.****The assembly line, 1913![Image 50: Men wearing hats are working on a assembly line](https://cdn.theatlantic.com/assets/media/img/posts/Assembly%20Line%20BW%20110.jpg)**
+
+Turned a craft-based economy into a mass-market one
+
+**[](https://www.theatlantic.com/magazine/archive/2013/11/innovations-list/309536/)50. The combine harvester, 1930s![Image 51: A light blue agricultural combine machine in operation in a field, with two men standing on it](https://cdn.theatlantic.com/assets/media/img/posts/2013/10/combine20harvester20110/d7ea99167.jpg)**
+
+Mechanized the farm, freeing people to do new types of work
+
+* * *
+
+**Our Panel of Experts**
+
+**The scientists, historians, and technologists we consulted to make this list.**
+
+**Michelle Alexopoulos**
+
+ Professor of economics, University of Toronto
+
+**Leslie Berlin**
+
+ Historian of business and technology, Stanford; author, _The Man Behind the Microchip: Robert Noyce and the Invention of Silicon Valley_
+
+**John Doerr**
+
+ General partner, Kleiner Perkins Caufield & Byers
+
+**George Dyson**
+
+ Historian of technology; author, _Turing’s Cathedral and Darwin Among the Machines_
+
+**Walter Isaacson**
+
+ President and CEO, the Aspen Institute; author, Steve Jobs , _Einstein: His Life and Universe_, and _Benjamin Franklin: An American Life_
+
+**Joi Ito**
+
+Director, MIT Media Lab
+
+**Alexis Madrigal**
+
+ Senior editor, _The Atlantic_; author, _Powering the Dream: The History and Promise of Green Technology_
+
+**Charles C. Mann**
+
+ Journalist; author, 1491: New Revelations of the Americas Before Columbus and 1493: Uncovring the New World Columbus Created
+
+**Joel Mokyr**
+
+ Professor of economics and history, Northwestern University
+
+**Linda Sanford**
+
+ Senior vice president for enterprise transformation, IBM
+
+**Astro Teller**
+
+ Captain of moonshots, Google[x]; co-founder, Cerebellum Capital and BodyMedia
+
+**Padmasree Warrior**
+
+ Chief technology and strategy officer, Cisco Systems

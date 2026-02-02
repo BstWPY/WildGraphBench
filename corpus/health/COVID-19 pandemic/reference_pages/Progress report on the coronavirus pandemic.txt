@@ -1,0 +1,164 @@
+# Progress report on the coronavirus pandemic
+
+![Image 1: Orange shape with lumpy surface and clusters of green dots spread over it.](https://media.nature.com/lw767/magazine-assets/d41586-020-02414-1/d41586-020-02414-1_18287592.jpg)
+
+Scientists have scrambled to unpick the mechanism that the new coronavirus (green) uses to enter a human cell (orange).Credit: NIAID/National Institutes of Health/Science Photo Library
+
+In the space of eight months, the new coronavirus SARS-CoV-2 and the disease it causes, COVID-19, have dominated the work of thousands of researchers in an unprecedented global effort.
+
+In a series of editorials, we look back at key scientific findings that have revealed important characteristics of the virus and COVID-19, including emerging approaches to treatment and prevention. We begin, this week, with how the virus was identified; the molecular details of its mechanism of infection; how it transmits between people; and the many ways in which it affects the human body.
+
+Cracking the virus code
+-----------------------
+
+When an outbreak of a disease similar to severe acute respiratory syndrome (SARS) emerged in Wuhan, China, at the end of 2019, researchers suspected that a new coronavirus had spread to humans. Many of the first cases to be identified were linked to a single live-animal market in the city.
+
+Researchers in China immediately began working to isolate and sequence the virus. When the original SARS virus, now known as SARS-CoV-1, emerged in humans in 2002, it took months to obtain a full sequence of the virus genome. This time, advances in sequencing technologies meant that scientists were able to unpick the virus’s RNA code within weeks of the first cases appearing.
+
+On 11 January, Yong-Zhen Zhang at Fudan University in Shanghai and his colleagues deposited the genome sequence of a virus isolated from a 41-year-old who had worked at the animal market into a public database. In doing so, they alerted the world to the existence of a new coronavirus that was related to SARS-CoV-1. Their findings were subsequently published in _Nature_[1](https://doi.org/10.1038/d41586-020-02414-1#ref-CR1).
+
+Although Zhang’s team had sequenced the virus from only a single patient, simultaneous work by other groups identified the same virus from other people with pneumonia. Together, these researchers firmly implicated this new coronavirus as the cause of the disease. One of the teams, led by Shi Zhengli at the Wuhan Institute of Virology, also determined that the closest known relative of the new virus was a bat coronavirus[2](https://doi.org/10.1038/d41586-020-02414-1#ref-CR2).
+
+Some six months later, the coronavirus has ravaged the world. Scientists have now generated more than 80,000 viral sequences. This wealth of genetic information has allowed transmission chains to be traced — revealing, for example, cryptic community transmission in the United States — as well as showing that a variant that seems to be particularly infectious to cultured cells has now become dominant around the world[3](https://doi.org/10.1038/d41586-020-02414-1#ref-CR3),[4](https://doi.org/10.1038/d41586-020-02414-1#ref-CR4). What this altered infectivity means for transmission and disease is not yet clear.
+
+Not just a respiratory virus
+----------------------------
+
+Initial reports of the disease, named COVID-19 on 11 February, described a severe respiratory illness similar to that caused by SARS-CoV-1. Chest scans showed patchy shadows — known as ‘ground glass opacities’ — in the lungs of many patients, according to early studies from hospitals in Wuhan[5](https://doi.org/10.1038/d41586-020-02414-1#ref-CR5). Moreover, older people, men and those with other diseases were more likely to be admitted to intensive care, whereas children seemed to have milder disease[6](https://doi.org/10.1038/d41586-020-02414-1#ref-CR6).
+
+But it quickly became apparent that SARS-CoV-2 is not just a respiratory virus. It also affects blood vessels, causing thrombosis[7](https://doi.org/10.1038/d41586-020-02414-1#ref-CR7) and strokes[8](https://doi.org/10.1038/d41586-020-02414-1#ref-CR8). In rare cases, children can develop what is called a multisystem inflammatory syndrome, reminiscent of Kawasaki disease[9](https://doi.org/10.1038/d41586-020-02414-1#ref-CR9).
+
+[![Image 2: Illustration of five people of different colors walking and holding hands in nature](https://media.nature.com/w400/magazine-assets/d41586-020-02414-1/d41586-020-02414-1_18246022.jpg) How the pandemic might play out in 2021 and beyond](https://www.nature.com/articles/d41586-020-02278-5)
+Autopsies have found the virus in organs other than the lungs, including the kidneys, liver, heart and brain, as well as in the blood[10](https://doi.org/10.1038/d41586-020-02414-1#ref-CR10). We now know that symptoms of COVID-19 can include gastrointestinal, neurological, renal, cardiovascular and other complications[11](https://doi.org/10.1038/d41586-020-02414-1#ref-CR11).
+
+Symptoms experienced by different people might be dictated by a combination of which cells and tissues are infected; the direct damage the virus causes to these cells; interference with the normal function of host cells’ ACE2 receptors, to which the virus binds; and individual variations in the immune response to the virus. For example, severely ill patients show hyperactivation of their immune response, which damages the lungs.
+
+Unravelling these contributions will hopefully lead to effective treatments. The steroid drug dexamethasone, which calms the overactive immune response, has already been shown to reduce mortality from severe COVID-19[12](https://doi.org/10.1038/d41586-020-02414-1#ref-CR12). Progress has also been made in managing severe disease. However, what causes the sudden onset of acute respiratory distress in some people is still not known.
+
+Modes of infection
+------------------
+
+A burning question early on was how the new virus infects human cells — the answer would help to explain the disease’s pathology, as well as offering clues about how to block infection.
+
+Coronaviruses are decorated with ‘spike’ proteins. These interact with specific proteins on the surface of the cells they are infecting. After binding to the cell receptor, the spike has to be cleaved by an enzyme called a protease in the host cell. This activates the spike, which fuses the virus and cell membranes.
+
+Scientists soon showed that both SARS-CoV-1 and the new coronavirus use the same cell receptor, ACE2[2](https://doi.org/10.1038/d41586-020-02414-1#ref-CR2), and the same protease, TMPRSS2[13](https://doi.org/10.1038/d41586-020-02414-1#ref-CR13), to enter cells. But SARS-CoV-2 can also infect cell lines that don’t express TMPRSS2, which could stymie drug development.
+
+[![Image 3: Colored scanning electron micrograph of SARS-CoV-2 virus](https://media.nature.com/w400/magazine-assets/d41586-020-02414-1/d41586-020-02414-1_18151500.jpg) Six months of coronavirus: the mysteries scientists are still racing to solve](https://www.nature.com/articles/d41586-020-01989-z)
+Researchers used Vero cells — which do not express TMPRSS2 — in an early study that suggested that the drug chloroquine might work as a treatment for COVID-19[14](https://doi.org/10.1038/d41586-020-02414-1#ref-CR14). But chloroquine did not prove effective in clinical trials, and scientists discovered that it does not inhibit the virus in lung cells that express TMPRSS2[15](https://doi.org/10.1038/d41586-020-02414-1#ref-CR15).
+
+Despite the overall structural similarity between the spike proteins of the two SARS coronaviruses, scientists found that the SARS-CoV-2 spike binds the ACE2 receptor at least ten times more tightly than SARS-CoV-1 does[16](https://doi.org/10.1038/d41586-020-02414-1#ref-CR16). This might explain some of the differences between how the two viruses infect people and cause disease.
+
+The SARS-CoV-2 spike also has a feature that SARS-CoV-1 lacks: a sequence of amino acids that allows it to be recognized and cleaved by an enzyme called furin[17](https://doi.org/10.1038/d41586-020-02414-1#ref-CR17). How this sequence contributes to the virulence of SARS-CoV-2 is not yet known. But similar sequences are also found in the receptor-binding protein of some influenza viruses, and contribute to their virulence.
+
+Something in the air
+--------------------
+
+It soon became clear that SARS-CoV-2 could hop from one person to another. This could happen through direct contact or indirect transmission, such as through droplets expelled during a cough, or even a simple exhalation. What wasn’t clear — and is still a matter of debate — is how big those droplets need to be, and how far they can travel.
+
+It’s an important question. Larger droplets will quickly fall to the ground, but smaller, lighter ones — known as aerosols — can stay suspended in the air. A virus that can hitch a ride on such tiny droplets can travel farther and could increase the risk of infection in poorly ventilated indoor spaces.
+
+[![Image 4: A colored scanning electron micrograph of the SARS-CoV-2 virus](https://media.nature.com/w400/magazine-assets/d41586-020-02414-1/d41586-020-02414-1_17788944.jpg) Coronavirus and COVID-19: Keep up to date](https://www.nature.com/collections/aijdgieecb/)
+The potential of the new coronavirus to travel in this way was the focus of a study, published in April, on SARS-CoV-2 aerodynamics in two hospitals in Wuhan[18](https://doi.org/10.1038/d41586-020-02414-1#ref-CR18). Researchers found that some areas of the hospitals, particularly some staff areas, had relatively high concentrations of viral RNA in aerosol-sized droplets.
+
+The team did not determine whether those droplets were infectious, but a US-based team reported in April that both SARS-CoV-2 and SARS-CoV-1 were stable and infectious in artificially generated aerosols for three hours[19](https://doi.org/10.1038/d41586-020-02414-1#ref-CR19).
+
+It has not yet been shown definitively that SARS-CoV-2 is spreading in this way, in part because it is hard to separately measure the different ways in which the virus transmits.
+
+Invisible disease
+-----------------
+
+As the virus began to spread around the world, there were suggestions that people without symptoms might be able to transmit it.
+
+In March, data from the cruise ship Diamond Princess revealed that 17.9% of those who tested positive for COVID-19 on the ship had no symptoms[20](https://doi.org/10.1038/d41586-020-02414-1#ref-CR20). More than 3,700 people had been quarantined aboard the vessel in February after a former passenger was found to have COVID-19. In April, a study of 94 people showed that ‘viral shedding’ — the release of a virus into the environment — seemed to peak before or at the same time as the onset of symptoms[21](https://doi.org/10.1038/d41586-020-02414-1#ref-CR21). The researchers also evaluated 77 pairs of people, one of whom had probably been infected by the other, and found that 44% of the infections were transmitted before the participants developed symptoms.
+
+What proportion of virus carriers never show symptoms is still a matter of debate, but it is clear that people can transmit the virus even if they are not ill, which is probably contributing to its spread.
+
+We have come a long way in understanding how the pandemic arose and how it spread around the world — by studying the virus’s characteristics and transmission, and how it causes disease. In future instalments of this editorial series, we’ll look at the research on how to control it, as well as progress on treatments and vaccines.
+
+References
+----------
+
+1.   Wu, F. _et al._ _Nature_**579**, 265–269 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41586-020-2008-3)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32015508)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Nature&doi=10.1038%2Fs41586-020-2008-3&volume=579&pages=265-269&publication_year=2020&author=Wu%2CF.)
+
+2.   Zhou, P. _et al._ _Nature_**579**, 270–273 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41586-020-2012-7)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32015507)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Nature&doi=10.1038%2Fs41586-020-2012-7&volume=579&pages=270-273&publication_year=2020&author=Zhou%2CP.)
+
+3.   Bedford, T. _et al._ Preprint at [https://doi.org/10.1101/2020.04.02.20051417](https://doi.org/10.1101/2020.04.02.20051417) (2020).
+
+4.   Korber, B. _et al._ _Cell_ https://doi.org/10.1016/j.cell.2020.06.043 (2020).
+
+[Article](https://doi.org/10.1016%2Fj.cell.2020.06.043)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Cell&doi=10.1016%2Fj.cell.2020.06.043&publication_year=2020&author=Korber%2CB.)
+
+5.   Huang, C. _et al._ _Lancet_**395**, P497–P506 (2020).
+
+[Article](https://doi.org/10.1016%2FS0140-6736%2820%2930183-5)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Lancet&doi=10.1016%2FS0140-6736%2820%2930183-5&volume=395&pages=P497-P506&publication_year=2020&author=Huang%2CC.)
+
+6.   Lu, X. _et al._ _N. Engl. J. Med._**382**, 1663–1665 (2020).
+
+[Article](https://doi.org/10.1056%2FNEJMc2005073)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32187458)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=N.%20Engl.%20J.%20Med.&doi=10.1056%2FNEJMc2005073&volume=382&pages=1663-1665&publication_year=2020&author=Lu%2CX.)
+
+7.   Ackermann, M. _et al._ _N. Engl. J. Med._**383**, 120–128 (2020).
+
+[Article](https://doi.org/10.1056%2FNEJMoa2015432)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32437596)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=N.%20Engl.%20J.%20Med.&doi=10.1056%2FNEJMoa2015432&volume=383&pages=120-128&publication_year=2020&author=Ackermann%2CM.)
+
+8.   Oxley, T. J. _et al._ _N. Engl. J. Med._**382**, e60 (2020).
+
+[Article](https://doi.org/10.1056%2FNEJMc2009787)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32343504)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=N.%20Engl.%20J.%20Med.&doi=10.1056%2FNEJMc2009787&volume=382&publication_year=2020&author=Oxley%2CT.%20J.)
+
+9.   Feldstein, L. R. _et al._ _N. Engl. J. Med._**383**, 334–346 (2020).
+
+[Article](https://doi.org/10.1056%2FNEJMoa2021680)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32598831)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=N.%20Engl.%20J.%20Med.&doi=10.1056%2FNEJMoa2021680&volume=383&pages=334-346&publication_year=2020&author=Feldstein%2CL.%20R.)
+
+10.   Puelles, V. G. _et al._ _N. Engl. J. Med._**383**, 590–592 (2020).
+
+[Article](https://doi.org/10.1056%2FNEJMc2011400)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32402155)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=N.%20Engl.%20J.%20Med.&doi=10.1056%2FNEJMc2011400&volume=383&pages=590-592&publication_year=2020&author=Puelles%2CV.%20G.)
+
+11.   Gupta, A. _et al._ _Nature Med._**26**, 1017–1032 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41591-020-0968-3)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32651579)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Nature%20Med.&doi=10.1038%2Fs41591-020-0968-3&volume=26&pages=1017-1032&publication_year=2020&author=Gupta%2CA.)
+
+12.   RECOVERY Collaborative Group _N. Engl. J. Med_. https://doi.org/10.1056/NEJMoa2021436 (2020).
+
+[Article](https://doi.org/10.1056%2FNEJMoa2021436)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=N.%20Engl.%20J.%20Med&doi=10.1056%2FNEJMoa2021436&publication_year=2020)
+
+13.   Hoffmann, M. _et al._ _Cell_**181**, 271–280 (2020).
+
+[Article](https://doi.org/10.1016%2Fj.cell.2020.02.052)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32142651)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Cell&doi=10.1016%2Fj.cell.2020.02.052&volume=181&pages=271-280&publication_year=2020&author=Hoffmann%2CM.)
+
+14.   Wang, M. _et al._ _Cell Res._**30**, 269–271 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41422-020-0282-0)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32020029)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Cell%20Res.&doi=10.1038%2Fs41422-020-0282-0&volume=30&pages=269-271&publication_year=2020&author=Wang%2CM.)
+
+15.   Hoffmann, M. _et al._ _Nature_ https://doi.org/10.1038/s41586-020-2575-3 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41586-020-2575-3)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Nature&doi=10.1038%2Fs41586-020-2575-3&publication_year=2020&author=Hoffmann%2CM.)
+
+16.   Wrapp, D. _et al._ _Science_**367**, 1260–1263 (2020).
+
+[Article](https://doi.org/10.1126%2Fscience.abb2507)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32075877)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Science&doi=10.1126%2Fscience.abb2507&volume=367&pages=1260-1263&publication_year=2020&author=Wrapp%2CD.)
+
+17.   Hoffmann, M., Kleine-Weber, H. & Pöhlmann, S. _Mol. Cell_ 78, 779–784 (2020).
+
+[Article](https://doi.org/10.1016%2Fj.molcel.2020.04.022)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32362314)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Mol.%20Cell&doi=10.1016%2Fj.molcel.2020.04.022&volume=78&pages=779-784&publication_year=2020&author=Hoffmann%2CM.&author=Kleine-Weber%2CH.&author=P%C3%B6hlmann%2CS.)
+
+18.   Liu, Y. _et al._ _Nature_**582**, 557–560 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41586-020-2271-3)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32340022)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Nature&doi=10.1038%2Fs41586-020-2271-3&volume=582&pages=557-560&publication_year=2020&author=Liu%2CY.)
+
+19.   van Doremalen, N. _et al._ _N. Engl. J. Med._**382**, 1564–1567 (2020).
+
+[Article](https://doi.org/10.1056%2FNEJMc2004973)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32182409)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=N.%20Engl.%20J.%20Med.&doi=10.1056%2FNEJMc2004973&volume=382&pages=1564-1567&publication_year=2020&author=Doremalen%2CN.)
+
+20.   Mizumoto, K., Kagaya, K., Zarebski, A. & Chowell, G. _Eurosurveillance_**25**, 2000180 (2020).
+
+[Article](https://doi.org/10.2807%2F1560-7917.ES.2020.25.10.2000180)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Eurosurveillance&doi=10.2807%2F1560-7917.ES.2020.25.10.2000180&volume=25&publication_year=2020&author=Mizumoto%2CK.&author=Kagaya%2CK.&author=Zarebski%2CA.&author=Chowell%2CG.)
+
+21.   He, X. _et al._ _Nature Med._**26**, 672–675 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41591-020-0869-5)[PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=32296168)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=&journal=Nature%20Med.&doi=10.1038%2Fs41591-020-0869-5&volume=26&pages=672-675&publication_year=2020&author=He%2CX.)
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1038/d41586-020-02414-1?format=refman&flavour=references)

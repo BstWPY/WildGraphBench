@@ -1,0 +1,217 @@
+# Deception for Defense of Information Systems: Analogies from Conventional Warfare
+
+The Wayback Machine - http://www.au.af.mil:80/au/awc/awcgate/nps/mildec.htm
+
+**Deception for Defense of Information Systems:**
+
+**Analogies from Conventional Warfare**
+
+_Neil C. Rowe_
+
+_Hy Rothstein_
+
+Departments of Computer Science and Defense Analysis
+
+U.S. Naval Postgraduate School
+
+Code CS/Rp, 833 Dyer Road
+
+Monterey, CA 93943 USA
+
+**Abstract**
+
+"Cyberwar" is warfare directed at information systems by means of software.It represents an increasing threat to our militaries.We discuss appropriate analogies from deception strategies and tactics in conventional war to defense in this new arena.Some analogies hold up, but many do not, and careful thought and preparations must be applied to any deception effort.
+
+**1.****Introduction**
+
+Today, when our computer networks and information systems are increasingly expected to be part of the terrain of warfare, it is important to investigate effective strategies and tactics for them.Traditionally our information systems are seen as fortresses that must be fortified against attack.But this is only one of several useful military metaphors.Deception has always been an integral part of warfare.Can we judiciously use analogs of conventional deceptive tactics to protect information systems?Such tactics could provide a quite different dimension to the usual defensive methods based on access control like user authentication and cryptography, and would be part of an increasingly popular idea called “active network defense”.New tactics could be especially valuable against the emerging threats of terrorism.
+
+Deception is usually most effective by a weaker force against a stronger.United States military forces have rarely been weaker in engagements in the last fifty years, and consequently have not used deception much.But cyberwar is different: The United States is more vulnerable in cyberspace than any other country because of its ubiquity there.Much of the routine business of the U.S. economy, and important portions of the U.S. military, is easily accessible on the Internet.Since there are so many access points to defend, it is not difficult for a determined enemy to overwhelm any particular site, neutralizing it or subverting it for their own purposes.So deceptive tactics may be essential for U.S. defense in cyberspace.
+
+Historically, deception has been quite useful in war (Dunnigan and Nofi, 2001). There are four general reasons to practice deception, all of which are valid in cyberspace.First, it increases one’s freedom of action to carry out tasks by diverting the opponent’s attention away from the real action being taken.Second, deception schemes may persuade an opponent to adopt a course of action that is to his disadvantage.Third, deception can help to gain surprise.Fourth, deception can preserve one's resources.Deception does raise ethical concerns, but defensive deception is acceptable in most ethical systems (Bok 1978).
+
+Our group at the Naval Postgraduate School that has been researching “software decoys” as a platform for implementing deceptive defensive tactics.Our decoys are software modules that usually behave like normal software components but can recognize attack-like behavior and respond deceptively to it.Example responses we have explored are false error messages, deliberate delays in responses, imposition of distracting tasks on the attacker, lying about the presence and status of computer files, and simulation of destroyed and damaged files and software (Michael et al, 2002).
+
+**2. Criteria for good defensive deception**
+
+In this discussion we will consider an attack by a nation or quasi-national organization on an information system.Attacks like this can be several degrees more sophisticated than the amateur attacks (“hacking”) frequently reported on systems today.Information-warfare attackers can also be expected to be more persistent in their attacks as their motivations are more serious.Nonetheless, many of the same basic attack techniques must be employed, and the body of knowledge about hacker methods today provides a good start for identifying them.
+
+We address here only the defense of information systems, but the distinction between offense and defense can be blurred.For instance as a counterattack, we could migrate obstructive software from our information systems to the attacker's where it will obstruct him further.Unfortunately, this is usually impractical since it can be extraordinarily difficult to determine who is attacking a computer system during information warfare.The better hackers today conceal their location by connecting through long sequences of oblivious computers, and increasingly use distributed attacks with multiple originating locations or automated attacks where no hacker is present at all.Traceback methods are only occasionally helpful or possible against these attacks, since in addition, many of the better ones violate privacy or confidentiality laws in most of the world.This means that information warfare is inherently asymmetric, and we must focus on defense accordingly.
+
+(Fowler and Nesbitt, 1995) suggest six general principles for effective tactical deception in warfare based on their knowledge of air-land warfare.We summarize them as follows:
+
+1.   Deception should reinforce enemy expectations.
+2.   Deception should have realistic timing and duration.
+3.   Deception should be integrated with operations.
+4.   Deception should be coordinated with concealment of true intentions.
+5.   Deception realism should be tailored to needs of the setting.
+6.   Deception should be imaginative and creative.
+
+**2.1 A military example**
+
+Let us first apply these principles to a well-known World War II deception operation, “Operation Mincemeat” (Montagu, 1954).In the spring of 1943, with the campaign in North Africa coming to a successful conclusion, the Allies began to consider options for the invasion of Europe.Everyone agreed that the most beneficial target was Sicily since it was strategically located in the Mediterranean.However, three major obstacles faced the Allied command.Sicily is a mountainous island that heavily favored the defenders, its invasion would require a detectable massive arms buildup, and the Axis knew that the invasion of Sicily was the Allies' next logical move.
+
+It was decided to fake plans for another invasion site and time and convince the Germans of this plan.The British came up with the idea of having a British spy _“captured” with false documents._ One big problem with that was that the spy would never live through capture, so this would not be a mission most spies would volunteer to take.Enter Major Martin, a corpse.They gave Martin false papers in a briefcase attached to his body.The papers strongly suggested a two-pronged Allied attack, an American attack against Sardinia in the Western Mediterranean, and simultaneously a British attack against Kalamata on the Western Peloponnesian coast of Greece and the Balkans.
+
+The initial problem was to find a body of a certain age, appearance, and cause of death.In London, they discovered a 30-year-old pneumonia victim had recently died and who resembled a typical staff officer. The fluid in his lungs would suggest that he had been at sea for an extended period.His next of kin were briefed on the operation and sworn to secrecy.Love letters, made up by secretaries in the office, overdue bills, and a letter from the Major’s father, some keys, matches, theater ticket stubs and even a picture of his fiancé (also made up) were put on his corpse. Martin’s obituary was in the British papers, and his name appeared on casualty lists.
+
+Major Martin left England on April 19, 1943 aboard the British submarine HMS _Seraph._ He was taken to a point just off the coast of Spain where the Allies knew the most efficient German military intelligence network was in place, put in a life jacket, and set adrift.The body soon washed ashore practically at the feet of a Spanish officer conducting routine coastal defense drills. He notified the proper authorities, who notified the Germans.On the return of Major Martin’s body to England, it was discovered that his briefcase had been carefully opened and resealed. The Germans had photographed every document on Martin’s body and in his briefcase, then released him to the Spanish authorities for return to England, for the English authorities had been demanding return of Martin’s body.
+
+Let us apply the six principles of deception to this case.Deception here was integrated with operations (Principle 3), the invasion of Sicily.Its timing was shortly before the operation (Principle 2) and was coordinated with tight security on the true invasion plan (Principle 4).It was tailored to the needs of the setting (Principle 5) by not attempting to convince the Germans much more than necessary, just the location of an invasion.It was creative (Principle 6) since deceptive corpses with elaborate fake material are unusual.Also, several enemy preconceptions were reinforced by this deception (Principle 1).The Germans believed in Churchill’s desire to attack the Balkans because of his public references to them as “the soft underbelly of Europe.”The bogus invasion plan was reasonable because it avoided the heavily fortified coast of Sicily while still providing the Allies with viable bases.For example, from Sardinia the Allied forces could either strike directly at Italy or north towards the southern coast of France; from the Peloponnesian coast, the British could strike north into the valuable oil fields of Romania while maintaining pressure on Italy.In short, the fake plans were plausible enough to warrant German examination.
+
+Mincemeat did fool Hitler (though not some of his generals).On May 12 he issued an order that “Measures regarding Sardinia and the Peloponnese take precedence over everything else.”Now any preparation for the real target, Sicily, could fit a German intelligence analyst's bias calling for an attack on the Peloponnesian coast.Verifiable intelligence for German intelligence officers comprised a “bodyguard of truth” that concealed the lies and true intentions of the Allies.
+
+**2.2 Applying the principles to information warfare**
+
+Principle 1 suggests that we must understand an enemy’s expectations in designing deception and we should pretend to aid them.Fortunately, there are only a few strategic goals for information systems: Control the system, prevent normal operations (“denial of service”), collect intelligence about information resources, and propagate the attack to neighboring systems.So deception needs focus on these.And they are not hard to fake by false reports.
+
+But principle 2 says that, however we accomplish our deceptions, they must not be too slow or too fast compared to the activities they simulate.For instance, a deliberate delay should be long enough to make it seem the attack has had some effect, but not so long that the attacker suspects they have been detected and the network connection turned off.So timing of a deception is important (Bell and Whaley, 1991).Automated defenses have the advantages that their responses can be planned long in advance and can minimize nonverbal clues, key factors in making deceptions convincing (Miller and Stiff, 1993).
+
+Principle 3 argues against use of “honeypots” and “honeynets” (The HoneyNet Project, 2002) as primary deception tools.These are computers and computer networks that serve no normal users but bait attackers, encouraging them to log in and subvert their resources.Recording the activity on such systems can provide intelligence about attack methods.But honeypots are less useful against a determined adversary during information warfare since inspection of them will quickly reveal the absence of normal activity, and the attacker will quickly move on.And there will not be time to analyze an attack during warfare.So deceptive tactics are more effective on real systems.
+
+Principle 4 is critical, and suggests that a deception must be comprehensive, extending to many different things.For instance, if we wish to convince an attacker that they have downloaded a malicious file, we must maintain this fiction in the file-download utility, the directory-listing utility, the file editors, file-backup routines, the Web browser, and the execution monitor.So ad hoc deceptions in each software module (like just an improved Web browser) will not convince the determined adversaries we encounter during warfare.Instead, we need to systematically modify the operating system and key software utilities in a coordinated way, with what we call “wrappers” (Michael et al, 2001).
+
+On the other hand, Principle 5 alerts us that we need not always provide detailed deceptions.Often an understanding of our attackers will suggest which details are critical.For instance, most known methods to seize control of a computer system involve downloading modified operating-system components or “rootkits” and installing them.So it is valuable to make the file-download utility deceptive since this is usually how the rootkit is obtained, and the directory-listing facilities since they confirm downloads.On the other hand, it is unlikely for an attacker to archive files, so the archiver need not be deceptive.
+
+Principle 6 seems difficult to accomplish, since military organizations tend not to encourage imagination and creativity.Also, the world of an information system is usually rather predictable.But it is possible to incorporate degrees of randomness in an automated response to an attack.Furthermore, methods from the field of artificial intelligence can suggest ways to produce convincing simulated activity in creative ways.
+
+**3.Evaluation of specific deceptive types**
+
+Given the above principles, let us consider specific kinds of deception for defense of information systems under warfare-like attacks.Several taxonomies have been proposed, of which that of (Dunnigan and Nofi, 2001) is representative:
+
+1.   Concealment (“hiding your forces from the enemy”)
+2.   Camouflage (“hiding your troops and movements from the enemy by artificial means”)
+3.   False and planted information (disinformation, “letting the enemy get his hands on information that will hurt him and help you”)
+4.   Lies (“when communicating with the enemy”)
+5.   Displays (“techniques to make the enemy see what isn't there”)
+6.   Ruses (“tricks, such as displays that use enemy equipment and procedures”)
+7.   Demonstrations (“making a move with your forces that implies imminent action, but is not followed through”)
+8.   Feints (“like a demonstration, but you actually make an attack”)
+9.   Insight (“deceive the opponent by outthinking him”)
+
+We evaluate these in order.Figure 1 presents a way to conceptualize them, and Table 1 summarizes them.
+
+> > _long-term effect_
+> > 
+> > 
+> > ![Image 1](https://www.au.af.mil/au/awc/awcgate/nps/mildec_files/image001.gif)
+> > _active_
+> > 
+> > 
+> > **Figure 1: A way to view the spectrum of deception types.**
+
+Table 1: Summary of our assessment of deceptive types in information-system attack.
+
+**Deception type****Useful for accomplishing information-warfare attack?****Useful in defending against an information-warfare attack?**
+concealment of resources maybe maybe
+concealment of intentions yes yes
+camouflage yes no
+disinformation no maybe
+lies no yes
+displays no yes
+ruses yes no
+demonstrations no no
+feints maybe yes
+insights yes yes
+
+**3.1. Concealment**
+
+Concealment for conventional military operations uses natural terrain features and weather to hide forces and equipment from an enemy.A cyber-attacker can conceal their files and software in little-visited directories in an information system to impede you from realizing that it has been compromised.But concealment is considerably more difficult for defense of information resources.There are no forests in cyberspace within which to hide your operations.If an enemy can access your network, the near-universal “domain name servers” will generally be very willing to identify for him its resources.Then “port scanning” can quickly tell which versions of software are installed, key information needed by an attacker.While honeypots and honeynets provide some concealment for true assets, they will not fool an adversary for long, following our discussion in section 2.And "steganography" or ways to conceal secrets within innocent-looking information is only good for data, not for resources or operations.But concealment of deceptive intentions is very important in cyberspace: If we are to fool an attacker, we must be careful not to leave clues in the form of files or settings that we are doing so.
+
+**3.2 Camouflage**
+
+Camouflage aims to deceive the senses by artificial means.The ease with which the North Vietnamese Army and the Viet Cong melted into the terrain to defy technologically superior forces is an example (Shultz, 1999).Aircraft equipped with muffled engines and devices to dissipate engine heat signatures are common. Flying techniques have been mastered that minimize enemy detection efforts.Even in a battlefield dominated by technology, camouflage can deny information to the enemy (Latimer, 2001).
+
+If attackers manage to get onto your information systems, key resources might be camouflaged.Key commands can be renamed so usual attacker methods will not work, perhaps those commands rarely issued by a legitimate user.The renaming could also vary automatically over time.But this will not help against many attacks such as buffer overflows that exploit flaws in features other than commands.
+
+**3.3 False and planted information**
+
+The Mincemeat example used false planted information.False “intelligence” could similarly be planted on computer systems to divert or confuse attackers.The "operating system" or main software that runs a computer could have files giving addresses of honeypots with clues (such as indicators they are old) suggesting they are easy to break into.But most false information about a computer system is easy to check out: A honeypot is not hard to recognize.And only a few false statements make an enemy suspicious and mistrustful of further statements, just as a few mistakes can destroy the illusion in stage magic (Tognazzini, 1993).
+
+So planted information must not be easily disprovable by attackers, as for example complex procedures for rare circumstances.Such information could be planted on hacker “bulletin board” sites and the other channels by which hackers communicate, in a calculated campaign of disinformation.Such "disinformation" within the attack targets themselves is ineffective because attackers will not read much during an attack.In any event, soon (perhaps in just a few hours during cyberwar) attackers will come to realize the disinformation cannot be readily applied, and may ignore it even if they cannot be sure it is wrong.So such deceptions are not very useful.
+
+**3.4 Lies**
+
+Spreading lies and rumors is as old as warfare itself.The Soviets during the Cold War used disinformation by repeating a lie often, through multiple channels, until it seemed to be the truth.This was very effective in overrepresenting Soviet military capabilities during the 1970s and 1980s (Dunnigan and Nofi, 2001).Curiously in contrast to planted information, outright lies about information systems are often an easy and useful deceptive tactic.Users of an information system assume that, unlike with people, everything the system tells them is true.And users of today's complex operating systems like Windows are well accustomed to annoying and seemingly random error messages that prevent them from doing what they want.The best things to lie about could be the most basic functions of information systems: The presence of files and ability to open and use them.
+
+Our recent research has explored two useful kinds of lies, false error messages and false file-directory information.Intelligent users like sophisticated attackers treat error messages quite seriously.We can provide false error messages about successful actions (delaying the attacker by making them do it again) or unsuccessful actions (encouraging the attacker to proceed and encounter problems later).False file-directory information is useful since most attacks involve files, either executables or data.It is not hard to fake, just needing a few changes to listings in the right places.But as mentioned for Principle 4 above, such deceptions must be made consistent over several operating-system functions.
+
+**3.5 Displays**
+
+Displays aim to make the enemy see what isn’t there. Dummy positions, decoy targets, and battlefield noise fabrication are all examples.Past Iraqi deception regarding their "weapons of mass destruction" used this idea (Kay, 1995).C landestine activity was hidden in declared facilities; facilities had trees screening them and road networks steering clear of them; power and water feeds were hidden to mislead about facility use; facility operational states were disguised by a lack of visible security; and critical pieces of equipment were moved at night.Additionally, Iraqis distracted inspectors by busy schedules, generous hospitality, cultural tourism, and accommodations in lovely hotels far from inspection sites, or simply took inspectors to different sites than what they asked to see.
+
+An information system could provide displays simulating the results of many kinds of attacks.For instance, unusual characters typed by the attacker or attempts to overflow input boxes (classic attack methods for many kinds of software) could initiate pop-up windows that seem to represent debugging facilities or other system-administrator tools, as if the user as “broke through” to the operating system.Computer viruses and worms can be catalogued with symptoms.Many of these are not hard to simulate, as for instance with system slowdowns, distinctive vandalism patterns of files, and so on.Once we have detected a viral attack, a deceptive system response can remove the virus and then simulate its effects for the attacker, much like faking of damage from bombing a military target.
+
+**3.6 Ruses**
+
+Ruses attempt to make an opponent think he is seeing his own troops or equipment when, in fact, he is confronting the enemy (Bell and Whaley, 1991).Ruses can be the flying of false flags at sea or wearing of captured enemy uniforms.One kind involves making friendly forces think their own forces are the enemy's.Modern ruses can use electronic means, like impersonators transmitting orders to enemy troops.Most attacks on computer systems amount to little more than the ancient ruse of sneaking your men into the enemy's fortress by disguising them, as with the original Trojan Horse.
+
+Ruses are not very helpful defensively in information warfare.For instance, pretending to be a hacker is hard to exploit.If in doing so you provide false information to the enemy, you have the same problems discussed regarding planted information.It is also hard to convince an enemy you are subverting a computer system unless you actually do so since there are simple ways to confirm most effects.
+
+**3.7 Demonstrations**
+
+Demonstrations use military power, normally through maneuvering, to distract the enemy. There is no intention of following through with an attack immediately.In 1991, General Schwarzkopf used deception to convince Iraq that a main attack would be directly into Kuwait, supported by an amphibious assault (Scales, 1992).Aggressive ground-force patrolling, artillery raids, amphibious feints, ship movements, and air operations were part of the deception.Throughout, ground forces engaged in reconnaissance and counter-reconnaissance operations with Iraqi forces to deny the Iraqis information about actual intentions.
+
+Demonstrations of the “strength” of your information systems are likely to be counterproductive: A hacker gains a greater sense of achievement by subverting more difficult targets, and attackers in information warfare may feel similarly.But bragging might encourage attacks on a honeypot and generate additional useful data.
+
+**3.8 Feints**
+
+Feints are similar to demonstrations except that you actually attack.They are done to distract the enemy from a main attack elsewhere.Operation Bodyguard supporting the Allied Normandy invasion in 1944 was a clever modification of a feint.The objective of this deception was to make the enemy think the real main attack was a feint (Breuer, 1993).It included visual deception and misdirection, deployment of dummy landing craft, aircraft, and paratroops, fake lighting schemes, radio deception, sonic devices, and ultimately a whole fake army group consisting of 50 divisions totaling over one million men.
+
+Counterattack feints in cyberwarfare face the problem that retaliation on an attacker is very difficult (as discussed in section 2), so threats will not be taken seriously.But you could use defensive feints effectively: Pretend to succumb to one form of attack to conceal a second less-obvious defense.For instance, deny buffer-overflow attacks on most "ports" (access points) of your computer system with a warning message, but pretend to allow them on a few for which you simulate the effects of the attack.This is an analog of the tactic of multiple lines of defense used by, among others, the Soviets in World War II.
+
+**3.9 Insights**
+
+War is often a battle of wits, of knowing the enemy better than he knows you.A good understanding of the Israelis gave the Egyptians conditions for their early success in the 1973 Yom Kippur War.The Egyptian planners wanted to slow down the Israeli response and prevent a preemptive Israeli strike before completion of their own buildup.The resulting deception plan cleverly capitalized on Israeli and Western perceptions of the Arabs, including a perceived inability to keep secrets, military inefficiency, and inability to plan and conduct a coordinated action.The Israeli concept for defense of the Suez Canal assumed a 48-hour warning period would suffice, since the Egyptians could not cross the canal in strength and could be quickly and easily counterattacked.The aim of the Egyptian deception plan was to provide plausible incorrect interpretations for a massive build-up along the canal and the Golan Heights.It also involved progressively increasing the “noise” that the Israelis had to contend with by a series of false alerts (Stein, 1982).
+
+Sophisticated deceptive responses for information systems would likewise involve trying to think like the attacker and figuring the best way to interfere with the likely attack plan.This may sound difficult, as attackers need not be predictable and their reasoning methods and styles may not be known.However, methods of artificial intelligence can address this problem (Rowe and Andrade, 2002).“Counterplanning” can be done, systematic analysis with the objective of thwarting or obstructing an opponent's plan (Carbonell, 1981).Implementation of a counterplan could be analogous to placing barrier obstacles and mines in expected enemy routes in conventional warfare.A good example is an attempt by an attacker to gain control of a computer system by installing their own "rootkit", a gimmicked copy of the operating system (i.e. do "root compromise").While specific attacks differ in details, the outline tends to be the same: Find vulnerable systems by exploration, gain access to those systems at vulnerable ports, get administrator privileges on those systems, use those privileges to download gimmicked software, install the software, test the software, and use the system to attack others.We can formulate such a plan in a precise logical form, and then calculate automatically the "ploys" by which each of its steps could be foiled.
+
+We should not use every possible defensive ploy during an attack: We can be far more effective by choosing just a few related ones and "presenting" them well using principles of effective stage magic (Tognazzini, 1993).We have several presentation options.We can give false excuses (like lies the network is not working, to prevent downloading of a suspicious file); we can give misleading but technically correct excuses (like statements that the network has experienced problems today, although we know it is working fine now); we can lie about what the system has done (like downloading a file); we can do obstructive things later that we fail to mention (like deleting the downloaded file later); or we can use defensive feints (like explicitly preventing downloading of file, then pretending to accept downloading of the same file after it has been renamed, so the attacker incorrectly thinks they have fooled us).Then good deception needs an integrated plan with a set of ploys that are consistent but with some randomness so as to not be too predictable (randomness can be blamed on "system problems").The best plan can be found by systematic search.For instance for our through analysis of root compromise methods for one attack model, we determined the most effective plan involved just three deceptions: cause the downloading of the rootkit to fail; then if the rootkit is nonetheless installed, cause testing of it to fail; and finally if nonetheless successfully tested, delete the rootkit just after the attacker logs out.
+
+**4. Costs and benefits of deception**
+
+Deception in an information system does have disadvantages than must be outweighed by advantages.Deception may antagonize an enemy once discovered or even before then.This may provoke them to do more damage, but it may also reveal more of their attack methods since it encourages them to try methods other than what they intended (and probably less successfully since they are less familiar).Some of this effect can be obtained even without practicing any deception by just threatening it.If, say, word gets out to hacker bulletin boards that US command-and-control systems practice deception, then attackers of those systems will tend more to misinterpret normal system behavior and engage in unnecessary countermeasures.Thus widespread dissemination of reports of research on deceptive capabilities of information systems (though not their "order of battle" or assignment to specific systems) might be a wise policy.
+
+Deceptive methods can also provoke and anger legitimate users who encounter them.While we should certainly try to target deception carefully, there will always be borderline cases in which legitimate users of a computer system do something atypical that could be construed as suspicious.This problem is faced by commercial "intrusion-detection systems" (Lunt, 1993) that check computers and networks for suspicious behavior, since they are by no means perfect either: You can set their alarm thresholds low and get many false alarms, or you can set the thresholds high and miss many real attacks.As with all military options, the danger must be balanced against the benefits.
+
+**5. Conclusion**
+
+It is simplistic to think of information warfare as just another kind of warfare.We have seen that a careful consideration of defensive strategy and tactics shows that many from conventional warfare apply, but in sometimes surprising ways.These analogies are only just beginning to be explored in the case of deception.
+
+**References**
+
+Bell, J. B., and Whaley, B., _Cheating and Deception_.New Brunswick, NJ: Transaction Publishers, 1991.
+
+Bok, S., _Lying: Moral Choice in Public and Private Life_.New York: Pantheon, 1978.
+
+Breuer, William B., _Hoodwinking Hitler: The Normandy Deception_. London: Praeger, 1993.
+
+Carbonell, J., Counterplanning: A strategy-based model of adversary planning in real-world situations, _Artificial Intelligence_, vol. 16, 1981, 295-329.
+
+Dunnigan, J. F., and Nofi, A. A. , _Victory and Deceit, 2 nd edition: Deception and Trickery in War._ San Jose, CA: Writers Press Books, 2001.
+
+Fowler, C. A., and Nesbit, R. F., Tactical deception in air-land warfare._Journal of Electronic Defense_, Vol. 18, No. 6 (June 1995), pp. 37-44 & 76-79.
+
+The Honeynet Project, _Know Your Enemy_. Boston: Addison-Wesley, 2002.
+
+Kay, D. A., Denial and deception practices of WMD proliferators: Iraq and beyond.” _The Washington Quarterly_(Winter 1995).
+
+Latimer, J., _Deception in War_. New York: The Overlook Press, 2001.
+
+Lunt, T. F., A survey of intrusion detection techniques._Computer and Security_, Vol. 12, No. 4 (June 1993), pp. 405-418.
+
+Michael, B., Auguston, M., Rowe, N., and Riehle, R., Software decoys: intrusion detection and countermeasures.Proc. 2002 Workshop on Information Assurance, West Point, NY, June 2002.
+
+Miller, G. R., and Stiff, J. B., _Deceptive Communications_.Newbury Park, UK: Sage Publications, 1993.
+
+Montagu, E., _The Man Who Never Was_. Philadelphia: J.B. Lippincott, 1954.
+
+Rowe, N. C., and Andrade, S. F., Counterplanning for multi-agent plans using stochastic means-ends analysis, IASTED Artificial Intelligence and Applications Conference, Malaga, Spain, September 2002, pp. 405-410.
+
+Scales, R., et al, _Certain Victory: The US Army in the Gulf War_. New York: Black Star Agency, 1992.
+
+Shultz, R. H., _The Secret War Against Hanoi_. New York: Harper Collins, 1999.
+
+Stein, J. G., Military deception, strategic surprise, and conventional deterrence: a political analysis of Egypt and Israel, 1971-73.In _Military Deception and Strategic Surprise_, ed. Gooch, J., and Perlmutter, A., London: Frank Cass, 1982, 94-121.
+
+Tognazzini, B., Principles, techniques, and ethics of stage magic and their application to human interface design.Proc. Conference on Human Factors and Computing Systems (INTERCHI) 1993, Amsterdam, April 1993, pp. 355-362.

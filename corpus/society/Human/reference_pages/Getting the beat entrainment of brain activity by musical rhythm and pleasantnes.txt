@@ -1,0 +1,1976 @@
+# Getting the beat: entrainment of brain activity by musical rhythm and pleasantness
+
+# HAL Id: hal-02446627 https://hal.science/hal-02446627v1 
+
+## Submitted on 3 Nov 2022 
+
+## HAL is a multi-disciplinary open access archive for the deposit and dissemination of sci-entific research documents, whether they are pub-lished or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. L’archive ouverte pluridisciplinaire HAL , est destinée au dépôt et à la diffusion de documents scientifiques de niveau recherche, publiés ou non, émanant des établissements d’enseignement et de recherche français ou étrangers, des laboratoires publics ou privés. 
+
+## Distributed under a Creative Commons Attribution 4.0 International License 
+
+# Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness 
+
+# Johanna Wiebke Trost, Sascha Frühholz, Daniele Schön, Carolina Labbé, Swann Pichon, Didier Grandjean, Patrik Vuilleumier 
+
+# To cite this version: 
+
+## Johanna Wiebke Trost, Sascha Frühholz, Daniele Schön, Carolina Labbé, Swann Pichon, et al.. Get-ting the beat: Entrainment of brain activity by musical rhythm and pleasantness. NeuroImage, 2014, 70, pp.58-63. ￿10.1016/j.neuroimage.2014.09.009￿. ￿hal-02446627￿ UNCORRECTED PROOF 
+
+1 Getting the beat: Entrainment of brain activity by musical rhythm 
+
+2 and pleasantness 
+
+3Q2 Wiebke Trost a,b, ⁎, Sascha Frühholz a,b , Daniele Schön c, Carolina Labbé a,b , Swann Pichon a,d ,
+
+4 Didier Grandjean a,b , Patrik Vuilleumier a,e 
+
+5 a
+
+Q3 Swiss Center of Affective Sciences, University of Geneva, Switzerland 
+
+6 b
+
+Q4 Neuroscience of emotions and affective dynamics laboratory, University of Geneva, Switzerland 
+
+7 c
+
+Q5 Aix-Marseille-University, France 
+
+8 d
+
+Q6 Bavelier Lab, University of Geneva, Switzerland 
+
+9 e
+
+Q7 Laboratory for Behavioral Neurology and Imaging of Cognition, University of Geneva, Switzerland 
+
+a b s t r a c t 1 0 a r t i c l e i n f o 
+
+11 Article history: 
+
+12 Accepted 4 September 2014 
+
+13 Available online xxxx 
+
+14 Keywords: 
+
+15 Rhythmic entrainment 
+
+16 Consonance 
+
+17 Basal ganglia 
+
+18 Caudate nucleus 
+
+19 Musical emotions 
+
+20 Rhythmic entrainment is an important component of emotion induction by music, but brain circuits recruited dur-
+
+21 ing spontaneous entrainment of attention by music and the in fl uence of the subjective emotional feelings evoked 
+
+22 by music remain still largely unresolved. In this study we used fMRI to test whether the metric structure of music 
+
+23 entrains brain activity and how music pleasantness in fl uences such entrainment. Participants listened to piano 
+
+24 music while performing a speeded visuomotor detection task in which targets appeared time-locked to either 
+
+25 strong or weak beats. Each musical piece was presented in both a consonant/pleasant and dissonant/unpleasant 
+
+26 version. Consonant music facilitated target detection and targets presented synchronously with strong beats 
+
+27 were detected faster. FMRI showed increased activation of bilateral caudate nucleus when responding on strong 
+
+28 beats, whereas consonance enhanced activity in attentional networks. Meter and consonance selectively interacted 
+
+29 in the caudate nucleus, with greater meter effects during dissonant than consonant music. These results reveal that 
+
+30 the basal ganglia, involved both in emotion and rhythm processing, critically contribute to rhythmic entrainment of 
+
+31 subcortical brain circuits by music. 
+
+32 © 2014 Published by Elsevier Inc. 
+
+33 34 35 36 37 Introduction 
+
+38 Rhythmic Q8 entrainment is a very common phenomenon: Who has 
+
+39 not been caught with the foot tapping or the body moving to the 
+
+40 music heard in the background? In the present study we directly ask 
+
+41 the question how musical rhythm makes our brain act in synchrony 
+
+42 with the music, and whether this effect depends on subjective pleasant-
+
+43 ness or not. To study the nature of rhythmic entrainment and its neural 
+
+44 underpinnings, we engaged participants in a functional magnetic reso-
+
+45 nance imaging (fMRI) paradigm while they performed a visuomotor at-
+
+46 tentional task in which targets appeared either in or out of synchrony 
+
+47 with the music, and manipulated musical pleasantness by using either 
+
+48 consonant or dissonant music. 
+
+49 The term entrainment describes a physical principle “whereby two 
+
+50 rhythmic processes interact with each other in such a way that 
+
+51 they adjust towards and eventually ‘lock in ’ to a common phase 
+
+52 and/or periodicity ” (Clayton et al., 2005, p. 5). The synchronization 
+
+53 of bodily rhythms with music entails entrainment phenomena at dif-
+
+54 ferent levels of the organism, which can take place at the motor level, 
+
+55 the autonomic physiological level, the attentional level, and even the 
+
+56 social level (Trost and Vuilleumier, 2013). 
+
+57 In this study we will focus on entrainment operating on attentional 
+
+58 processes engaged during a visuomotor target detection task. Previous 
+
+59 research on entrainment with EEG recordings showed that neuronal 
+
+60 activity may synchronize to an external periodic signal (Nozaradan 
+
+61 et al., 2011). Moreover, most music is based on a precise temporal 
+
+62 structure, i.e., meter, which creates the perception of a repetitive 
+
+63 beat. It has been suggested that the discernment of musical beats 
+
+64 emerges from the entrainment of neuronal populations that resonate 
+
+65 at the frequency of the musical beats (Jones, 1987; Large and Kolen, 
+
+66 1994; Large, 2008). Entrainment processes also operate on higher 
+
+67 order harmonics of the beat frequency and lead to the perception of a 
+
+68 distinctive hierarchy between individual beats. This hierarchy is 
+
+69 thought to determine the perceived metrical structure of the music. Dy-
+
+70 namic attending theory (DAT) further proposes that the perception of 
+
+71 meter is an emergent process resulting from the time-locking of atten-
+
+72 tional cycles onto rhythmic events via music-neural coupling (Jones and 
+
+73 Boltz, 1989). Thus, meter perception might re fl ect an ability to dynam-
+
+74 ically orient attention in time. NeuroImage xxx (2014) xxx –xxx 
+
+Abbreviations: fMRI, functional magnetic resonance imaging. 
+
+⁎ Corresponding author at: Swiss Center of Affective Sciences, Biotech Campus, University of Geneva, 9, chemin des Mines, 1202 Geneva, Switzerland. 
+
+E-mail address: Johanna.trost@unige.ch (W. Trost). YNIMG-11637; No. of pages: 10; 4C: 5, 6 
+
+http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 1053-8119/© 2014 Published by Elsevier Inc. 
+
+Contents lists available at ScienceDirect 
+
+# NeuroImage 
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / y n i m g 
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 UNCORRECTED PROOF 
+
+75 In keeping with this view, it has been shown that temporal expec-
+
+76 tancies can engender cross-modal integrative effects on attentional re-
+
+77 sources (Lange and Roder, 2006). This implies that if attention is 
+
+78 enhanced at a speci fi c moment in time, stimulus processing can be facil-
+
+79 itated for all sensory modalities, independently of the task-relevant mo-
+
+80 dality (Teder-Salejarvi et al., 2002). Accordingly, behavioral fi ndings 
+
+81 suggest that entrainment induced by an auditory rhythm can in fl uence 
+
+82 visual attention (Escof fi er et al., 2010) and that listening to classical 
+
+83 music can entrain attentional resources in synchrony with the musical 
+
+84 meter (Bolger et al., 2013; Tierney and Kraus, 2013). 
+
+85 In addition, it has been suggested that entrainment may constitute a 
+
+86 key source of emotions experienced during music listening (Janata et al., 
+
+87 2012; Witek et al., 2014). According to a recent psychological frame-
+
+88 work proposed by Juslin and colleagues (Juslin et al., 2010), different 
+
+89 bodily rhythms may synchronize to those present in the music, conse-
+
+90 quently generating emotional feelings via proprioceptive feedback 
+
+91 mechanisms. However, this framework does not specify which synchro-
+
+92 nization level is particularly critical, or whether the same principle ap-
+
+93 plies to different levels of the system, including not only bodily and 
+
+94 physiological rhythms but also higher cognitive processes such as atten-
+
+95 tion. Moreover, few studies have investigated the neural mechanisms 
+
+96 linking musical rhythms with entrainment and emotion. Recent work 
+
+97 using transcranial magnetic stimulation (TMS) reported that corticospinal 
+
+98 excitability is increased during metrically strong rhythmical sequences 
+
+99 (Cameron et al., 2012) or high-groove music (Stupacher et al., 2013). 
+
+100 However, an ideal candidate brain substrate for mediating such links 
+
+101 might lie in the basal ganglia, as these structures are implicated in 
+
+102 motor control (Jueptner and Weiller, 1998; Turner and Desmurget, 
+
+103 2010), rhythm processing (Grahn and Brett, 2007; Thaut et al., 2008), as 
+
+104 well as pleasant emotional experiences (Salimpoor et al., 2011; Trost 
+
+105 et al., 2012). The basal ganglia might therefore be well placed for integrat-
+
+106 ing rhythmical information with both cognitive and affective components 
+
+107 of musical experience. On the other hand, cross-modal in fl uences on at-
+
+108 tention and its deployment over time are known to recruit cortical areas 
+
+109 in posterior parietal lobule (Coull and Nobre, 1998; Macaluso and 
+
+110 Driver, 2001), including for synchronization of motor responses with au-
+
+111 ditory (non-musical) sequences (Bolger et al., 2014). Therefore, parietal 
+
+112 attention systems might also contribute to the effect musical rhythm 
+
+113 has on attention and entrainment. 
+
+114 Here, we directly tested how musical meter engenders cross-modal 
+
+115 entrainment of visuomotor processes, by obtaining both behavioral and 
+
+116 fMRI measures in human volunteers. We also investigated whether en-
+
+117 trainment would interact with the affective appreciation of the music, 
+
+118 and thus be enhanced by its pleasantness. Based on previous research 
+
+119 (Bolger et al., 2013), we expected that an attentional entrainment of 
+
+120 visuomotor performance by concomitant music should make response 
+
+121 times faster to visual targets appearing simultaneously with strong 
+
+122 beats of the musical meter, as compared with targets appearing on 
+
+123 weak beats. 
+
+124 In addition, we also tested the affective entrainment hypothesis , accord-
+
+125 ing to which there is a link between rhythmic entrainment processes and 
+
+126 emotion induction via music (Juslin et al., 2010; Trost and Vuilleumier, 
+
+127 2013). Previous research already suggested that entrainment in terms of 
+
+128 sensorimotor synchronization may enhance subjective experience of 
+
+129 pleasantness even in non-musical conditions (Fairhurst et al., 2012; 
+
+130 Janata et al., 2012). Furthermore, motor or attentional entrainment ap-
+
+131 pears directly linked to musical pleasantness, as rhythmical patterns of a 
+
+132 certain complexity range are rated as more pleasant and evoke stronger 
+
+133 feelings of groove (Witek et al., 2014). Here, however, we aimed at testing 
+
+134 the affective entrainment hypothesis in a reverse causal direction, by de-
+
+135 termining whether (and how) positive affect elicited by pleasant music 
+
+136 would enhance the rhythmic entrainment of attentional processes. Spe-
+
+137 ci fi cally, we examined whether the pleasantness of music would produce 
+
+138 a stronger entrainment of visuomotor performance, by comparing such 
+
+139 effects during consonant (pleasant) and dissonant (unpleasant) music 
+
+140 (Koelsch et al., 2006). On the one hand, due to greater enjoyment of the 
+
+141 music, consonant harmony might be expected to increase entrainment 
+
+142 and thus interact with the perception of the metrical structure. On the 
+
+143 other hand, in presence of consonant music with intact harmony, rhythm 
+
+144 processing might focus at a different time scale, such that temporal expec-
+
+145 tations induced by pleasant consonant music would produce different or 
+
+146 additive effects on entrainment. At the brain level, given their dual role in 
+
+147 emotion processing and rhythm perception, we hypothesized that sub-
+
+148 cortical mechanisms in the basal ganglia might be involved in entrain-
+
+149 ment to music beat, but also responsible for any interaction between 
+
+150 rhythm and pleasantness. On the contrary, parietal and interconnected 
+
+151 cortical areas should be implicated if these effects depend on temporal 
+
+152 cross-modal attention processes. 
+
+153 Materials and methods 
+
+154 Subjects 
+
+155 One group of 20 volunteers (13 females, mean age 25.8 years, 
+
+156 SD ± 7.5) was tested only behaviorally in a fi rst study. Subsequently, 
+
+157 another group of 18 volunteers (11 females, mean age 24.1 years, 
+
+158 SD ± 4.4) took part in the fMRI experiment, none of whom partici-
+
+159 pated in the behavioral study. Participants self-reported normal 
+
+160 hearing, stated to enjoy classical music, and had a minimum of 
+
+161 5 years of practical musical training. None of the participants were pro-
+
+162 fessional musicians. None had a history of neurological or psychiatric 
+
+163 disease. Participants in the fMRI experiment were all right-handed, 
+
+164 while 4 of those in the behavioral experiment were left-handed. They 
+
+165 gave informed consent in accord with the regulation of the local ethics 
+
+166 committee. 
+
+167 Stimuli 
+
+168 Ten pieces of piano music with a binary metrical structure (i.e. with an 
+
+169 even number of beats per measure, here either 2/4 or 4/4 time signatures) 
+
+170 were chosen from the music literature, taking into account their potential 
+
+171 entraining power, rhythmic stability, and continuous polyphony (see 
+
+172 stimulus list in Table S1). The pieces were played by a professional pianist 
+
+173 on an electric MIDI piano (Yamaha, Clavinova) and recorded using 
+
+174 GarageBand on a MacBookPro. The recordings were edited in LogicPro. 
+
+175 After quantizing the MIDI fi les, a dissonant version was created for all 
+
+176 ten pieces. To create a dissonant version, the pitch of the highest voice 
+
+177 was shifted one semitone up and the pitch of the lowest voice was shifted 
+
+178 one semitone down. Both the consonant and the dissonant versions were 
+
+179 then exported as wav-fi les (mono, 16 bits, 44100Hz) using a built-in 
+
+180 acoustic piano sound (Yamaha room) from LogicPro. The wav fi les were 
+
+181 cut to the length of 90 s and normalized to scale the intensity level of all 
+
+182 stimuli to 70 dB. 
+
+183 Attentional task 
+
+184 While listening to the musical epochs (each 90 s long), participants 
+
+185 had to perform a visual speeded manual response task. The task re-
+
+186 quired detecting a visual target (a circle) which appeared from time to 
+
+187 time around the fi xation cross in the middle of the screen (see 
+
+188 Fig. 1A). The circle was displayed for 100 ms and participants had to in-
+
+189 dicate as rapidly as possible the appearance of the target by pressing a 
+
+190 button with the index fi nger of the right hand. The visual targets were 
+
+191 presented simultaneously with the music. Critically, however, our ma-
+
+192 nipulated independent variable was the metrical position of the visual 
+
+193 target presentation relative to the music heard in the background. Tar-
+
+194 gets could appear at two different temporal positions: on the fi rst beat 
+
+195 of the metrical unit or on the second beat. According to DAT (Jones 
+
+196 and Boltz, 1989), the fi rst beat of the metrical unit represents a strong 
+
+197 beat with high attentional level, whereas the second beat of a four 
+
+198 beat measure is a weak beat with relatively low attentional level. To 
+
+199 take into account differences in attentional levels which are naturally 2 W. Trost et al. / NeuroImage xxx (2014) xxx –xxx 
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 UNCORRECTED PROOF 
+
+200 created by temporal expectancies of the visual stimuli themselves, we 
+
+201 generated a distribution of inter-trial-intervals (ITI; i.e. time between 
+
+202 two consecutive visual targets) with a few long and many short inter-
+
+203 vals (max 7 s, min 3; non-aging distribution). Thus, on average, a visual 
+
+204 target was presented every 5.02 s. The presentation of the fi rst target 
+
+205 during a musical piece occurred always 3 s after the music onset (and 
+
+206 was always discarded from subsequent analyses), while the following 
+
+207 ITIs were calculated with this fi rst target as a starting point. In each mu-
+
+208 sical epoch, 17 visual targets were presented in total (8 for each meter 
+
+209 condition, plus the fi rst discarded). The distribution of ITIs was 
+
+210 counterbalanced between the two meter conditions. For the consonant 
+
+211 and the dissonant versions, the same visual target distribution was al-
+
+212 ways used for one participant. For each visual target distribution, we 
+
+213 checked that there was no signi fi cant difference in sound intensity 
+
+214 (root-mean-square, RMS) between the two meter conditions (i.e., at 
+
+215 the time of the strong vs weak beats). The MIDItoolbox (Eerola and 
+
+216 Toiviainen, 2004) was used to identify the timing of the fi rst and second 
+
+217 beats in the MIDI fi les, while the MIRtoolbox (Lartillot and Toiviainen, 
+
+218 2007) was used to extract the RMS from the wav-fi les at the corre-
+
+219 sponding positions. Consequently a Wilcoxon rank sum test was per-
+
+220 formed to determine, for a given piece, if the RMS in a time window 
+
+221 from 100 ms before to 200 ms after the beat onset would be different 
+
+222 between the two meter conditions. A given temporal distribution of vi-
+
+223 sual targets was only accepted and used in the experiment if the RMS 
+
+224 values did not signi fi cantly differ during the strong and weak beats 
+
+225 (Wilcoxon rank sum test, p-value N 0.5). Five different target onset dis-
+
+226 tributions were thus obtained and alternated between subjects. 
+
+227 Experimental design 
+
+228 We fi rst performed a behavioral study in order to validate our exper-
+
+229 imental design, and to ensure that similar results would be obtained in 
+
+230 the fMRI setting as compared with more comfortable listening condi-
+
+231 tions. The same protocol was then given to a second group during fMRI. 
+
+232 Before the experiment, participants were instructed and familiarized 
+
+233 with the task. The instructions emphasized that they should listen atten-
+
+234 tively to the music, while performing the speeded response task as fast 
+
+235 and accurately as possible. The fMRI experiment included 2 scanning 
+
+236 runs which were interleaved with the acquisition of the structural MRI 
+
+237 scan. Each run contained 10 pseudo-randomized musical epochs. Before 
+
+238 each trial, participants were reminded by written instructions to listen 
+
+239 attentively to the music, to fi xate the fi xation cross, and to press a button 
+
+240 with the index fi nger as fast as possible when a circle appeared around 
+
+241 the fi xation cross. Immediately after the musical piece ended, six ques-
+
+242 tions were presented (one after the other) on a different screen back-
+
+243 ground and probed for the participants' subjective evaluation of the 
+
+244 preceding piece. These questions were evaluations of the subjectively 
+
+245 felt emotions (level of arousal and valence), the subjective impression of 
+
+246 felt entrainment (formulated as the urge to move or dance to the 
+
+247 music), and familiarity with the musical stimulus. The evaluations were 
+
+248 designed as statements to which the participants could agree or disagree 
+
+249 to different degree. The answers were indicated by using a sliding cursor 
+
+250 that could be moved (by right or left key presses) on a horizontal scale 
+
+251 from −3 to +3 ( −3 = (I agree) not at all, +3 = (I agree) absolutely). 
+
+252 The order of questions was constant for all participants. Subjects were 
+
+253 instructed to answer spontaneously, but there was no time limit for re-
+
+254 sponses. The last response to the questionnaire automatically triggered 
+
+255 the next musical stimulus presentation. Therefore, the overall scanning 
+
+256 time of a session varied slightly between subjects (average 573 scans 
+
+257 per run, standard deviation 27 scans). However, only the scans during 
+
+258 the musical epochs were included in the analyses, which comprised the 
+
+259 same amount of scans across subjects. 
+
+260 In the fMRI experiment, auditory stimuli were presented binaurally 
+
+261 with an audio system and MRI compatible headphones (CONFON 
+
+262 DAP-center mkII and CONFON HP-Pi-US, MR confon GmbH, Germany). 
+
+263 The loudness of the music was adjusted for each participant individually, 
+
+264 prior to fMRI scanning. Visual instructions were seen on a screen back-
+
+265 projected on a headcoil-mounted mirror. Responses were recorded with 
+
+266 a response button box (HH-1 × 4-CR, Current Designs Inc., USA). The be-
+
+267 havioral study was conducted exactly in the same manner, using the 
+
+268 same task and musical stimuli as in the fMRI experiment, but took place 
+
+269 in a quiet, dimly lit room. 
+
+270 Data acquisition and analysis 
+
+271 For the analysis of behavioral performance, reaction times (RTs) 
+
+272 were averaged for each of the experimental conditions, after excluding 
+
+273 trials where the RT was more than twice the standard deviation away 
+
+274 from the mean of each participant. Repeated-measure ANOVAs were 
+
+275 performed on the reaction times with the two factors meter (strong ver-
+
+276 sus weak beat) and consonance (consonant versus dissonant version). 
+
+277 The answers of the questionnaire were analyzed with two-sample   
+
+> Fig. 1. A) Experimental design. Participants have to detect visual targets which are presented time-locked to the meter of the music played in the background, either on the fi rst or the second beat. B) Behavioral reaction time results for participants in the fMRI experiment (n = 18). C) Behavioral reaction time results for participants in the behavioral experiment (n = 20). * indicates signi fi cant post-hoc tests (Tukey) between the conditions. Error bars indicate standard error. 3W. Trost et al. / NeuroImage xxx (2014) xxx –xxx
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 UNCORRECTED PROOF 
+
+278 dependent t-tests, comparing the two levels of consonance for every 
+
+279 question individually. Statistical analyses of the behavioral data were 
+
+280 performed using Statistica, version 12 (Statistica, StatSoft). 
+
+281 MRI images were acquired using a 3 T whole body MRI scanner (Trio 
+
+282 TIM, Siemens, Germany) with the product 12 channel head coil. A high-
+
+283 resolution T1-weighted structural image (0.9 × 0.9 × 0.9 mm 3) was ob-
+
+284 tained using a magnetization-prepared rapid acquisition gradient echo 
+
+285 sequence (time repetition [TR] = 1.9 s, time echo [TE] = 2.32 ms, time 
+
+286 to inversion [TI] = 900 ms). Functional images were obtained using a 
+
+287 continuous-sound echo planar imaging (EPI) sequence (Seifritz et al., 
+
+288 2006) with the following parameters: 36 slices, slice thickness 3.2 mm, 
+
+289 TR = 1.98 s, TE = 27.31 ms, fi eld of view = 220 × 220 mm 2,
+
+290 128 × 128 matrix, fl ip angle: 80°. FMRI data were analyzed using Statisti-
+
+291 cal Parametric Mapping (SPM8; Wellcome Trust Center for Imaging, 
+
+292 London, UK; http://www. fi l.ion.ucl.ac.uk/spm). Data processing included 
+
+293 realignment, unwarping, slice timing, normalization to the Montreal Neu-
+
+294 rological Institute space using an EPI template (resampling voxel size: 
+
+295 2 × 2 × 2 mm), spatial smoothing (8 mm full-width at half-maximum 
+
+296 Gaussian Filter), and high-pass fi ltering (1/128 Hz cutoff frequency). 
+
+297 A standard statistical analysis was performed using the general line-
+
+298 ar model implemented in SPM8. Consonant and dissonant musical 
+
+299 epochs were modeled by two separate boxcar regressors, in addition 
+
+300 to four event regressors modeling the onsets of visual targets in the 
+
+301 four experimental conditions. To account for movement-related vari-
+
+302 ance, we entered realignment parameters into the same model as 6 ad-
+
+303 ditional covariates of no interest. For the event-related analyses, we 
+
+304 computed (at the fi rst-level) the parameter estimates corresponding 
+
+305 to the event-related regressors for the four target onset conditions in a 
+
+306 design matrix that also modeled the overall state differences associated 
+
+307 with consonant and dissonant music epochs, allowing us to covary out 
+
+308 these sustained changes from the modulation of phasic responses to tar-
+
+309 gets. The parameter estimates for each target conditions were subse-
+
+310 quently entered for the second-level group analysis (random-effects) 
+
+311 using a factorial design ANOVA with the factors meter and consonance 
+
+312 and 2 levels each. For all results, we report clusters with a voxel-wise 
+
+313 threshold of p b 0.001 (uncorrected) and cluster-size N 3. 
+
+314 Results 
+
+315 Behavioral results 
+
+316 A 2 × 2 repeated-measures ANOVA with the factors meter and con-
+
+317 sonance on reaction times of participants from the behavioral experi-
+
+318 ment revealed signi fi cant main effects for the two factors, meter 
+
+319 (F(1,19) = 10.37, p b 0.005) and consonance (F(1,19) = 7.33, 
+
+320 p b 0.014). RTs to visual targets were faster when presented on a strong 
+
+321 (1st) relative to a weak (2nd) beat, and faster during consonant than 
+
+322 dissonant music, a pattern compatible with an in fl uence of both meter 
+
+323 and pleasantness on visuomotor processing. The interaction between 
+
+324 the two factors was also signi fi cant (p b 0.024). The same analysis on 
+
+325 the reaction times from participants in the fMRI experiment also 
+
+326 showed signi fi cant main effects for both meter (F(1,17) = 11.50, 
+
+327 p b 0.004) and consonance (F(1,17) = 11.31, p = 0.015), with a similar 
+
+328 facilitation pattern in RTs. The interaction between the two factors was 
+
+329 not signi fi cant (F(1,17) = 1.65, p = 0.216). However, a similar ANOVA 
+
+330 on data from all participants, combining the behavioral and fMRI exper-
+
+331 iments together, with the additional categorical variable group , did not 
+
+332 only con fi rm the main effects of meter (F(1,36) = 21.08, p b 0.0001) 
+
+333 and consonance (F(1,36) = 17.24, p b 0.0002), but also revealed a sig-
+
+334 ni fi cant interaction between these two factors (1,36) = 7.07, p b 0.012; 
+
+335 Figs. 1B and C). There were no interactions of meter or consonance with 
+
+336 the factor group , indicating that both groups showed a very similar pat-
+
+337 tern of reaction times despite the lack of signi fi cant meter x consonance 
+
+338 in the behavioral experiment. These results therefore accord with our 
+
+339 predictions, namely, that response facilitation by rhythmic entrainment 
+
+340 should occur on strong beats (relative to the weak beat) regardless of 
+
+341 consonance, and that consonance may however modulate the percep-
+
+342 tion of meter. Furthermore, as predicted, the strongest entrainment oc-
+
+343 curred for visual targets synchronized with a strong beat during 
+
+344 pleasant music, whereas the least entrainment occurred for visual tar-
+
+345 gets synchronized with a weak beat during unpleasant music (see 
+
+346 Figs. 1B and C). 
+
+347 The analyses of answers to the questionnaire showed that consonant 
+
+348 pieces were evaluated as more pleasant, more arousing, more 
+
+349 entraining, more familiar, or more natural than the dissonant versions 
+
+350 (see Table 1). 
+
+351 FMRI results 
+
+352 Effect of consonant music 
+
+353 We fi rst compared the general effect of consonant and dissonant 
+
+354 music epochs (t-test contrast), re fl ecting sustained modulation of 
+
+355 brain activity during the whole duration of musical pieces. To this aim, 
+
+356 we compared activations modeled by the boxcar regressors for conso-
+
+357 nant and for dissonant music pieces in the fi rst-level analysis, in 
+
+358 which the transient changes due to target processing were covaried 
+
+359 out by separate event-related regressors. Consonant relative to disso-
+
+360 nant music produced higher activations not only in the right ventral 
+
+361 caudate nucleus, a region of basal ganglia at the interface of affective 
+
+362 and cognitive processes, but also in somatosensory and primary motor 
+
+363 cortices (Table 2, Fig. 2). The opposite contrast did not show any signif-
+
+364 icant voxels above threshold. However, our main analysis and predic-
+
+365 tions concerned event-related responses to visual targets appearing in 
+
+366 different music conditions, as detailed below. 
+
+367 Effect of consonance on visual detection 
+
+368 Using an ANOVA for the event-related analyses of responses to visu-
+
+369 al targets, we fi rst performed a whole-brain SPM contrast to identify any 
+
+370 differential activation evoked during consonant versus dissonant music 
+
+371 (regardless of synchronization with strong or weak beats). Signi fi cant 
+
+372 increases were observed in premotor cortex, superior parietal lobule, 
+
+373 and anterior cingulate cortex (see Table 2, Fig. S1). This suggests that 
+
+374 consonant music modulated the brain response to visual targets by en-
+
+375 hancing cortical networks associated with attention and motor prepara-
+
+376 tion. The opposite contrast comparing visual targets presented during 
+
+377 dissonant versus consonant music showed signi fi cant voxels in bilateral 
+
+378 superior occipital gyri (Table 2), suggesting that visual perceptual pro-
+
+379 cesses were more solicited when music was dissonant. 
+
+380 Main effect of meter on visual detection 
+
+381 The next, most crucial comparison concerned visual targets present-
+
+382 ed during strong versus weak beats in the music (regardless of conso-
+
+383 nance). This contrast revealed signi fi cant activations in bilateral 
+
+384 caudate nuclei and the right precuneus (Table 3, Fig. 3A), converging 
+
+385 with our predictions that parts of the basal ganglia should be critically 
+
+386 involved in rhythmic entrainment. The opposite contrasts of weak ver-
+
+387 sus strong beats did not reveal any signi fi cant clusters. When further                               
+
+> t1 :1Table 1
+> t1 :2Behavioral evaluations of the consonant and dissonant versions of the musical pieces.
+> t1 :3Consonance Dissonance
+> t1 :4Question Mean (SD) Mean (SD) t(37) p
+> t1 :5Valence 5.29 (0.12) 3.39 (0.16) 9.80 b.0001
+> t1 :6Listen again 4.91 (0.14) 3.17 (0.17) 8.42 b.0001
+> t1 :7Arousal 4.22 (0.14) 3.52 (0.12) 4.63 b.0001
+> t1 :8Entrainment 4.12 (0.16) 2.87 (0.14) 9.01 b.0001
+> t1 :9Familiarity 4.91 (0.15) 3.97 (0.15) 6.45 b.0001
+> t1 :10 Naturalness 5.28 (0.15) 3.58 (0.18) 8.18 b.0001 4W. Trost et al. / NeuroImage xxx (2014) xxx –xxx
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 UNCORRECTED PROOF 
+
+388 analyzing the effect of meter in the two consonance conditions sepa-
+
+389 rately, we found that targets presented with strong versus weak beats 
+
+390 in consonant music produced signi fi cant increases only in the right 
+
+391 precuneus and superior temporal sulcus (Table 3, Fig. 3C). This effect 
+
+392 of meter (strong vs weak beat) did not reach statistical threshold for 
+
+393 this condition in the basal ganglia (right putamen: p = 0.009, right cau-
+
+394 date: p b 0.05). Conversely, in dissonant music, the contrast of strong 
+
+395 versus weak beats revealed signi fi cant and symmetric activations in bi-
+
+396 lateral caudate nuclei, plus left superior temporal sulcus and superior 
+
+397 temporal gyrus (Table 3, Fig. 3B). These results indicate that the effect 
+
+398 of meter in the caudate is predominating during dissonant music, 
+
+399 whereas the effect of meter in the precuneus seems to be primarily driv-
+
+400 en by consonant music. 
+
+401 Interactions of consonance and meter in visual detection 
+
+402 The interaction between the two experimental factors was fi nally 
+
+403 veri fi ed by directly contrasting the strong versus weak beats in disso-
+
+404 nant music against the corresponding beat effect in consonant music. 
+
+405 Signi fi cant effects were found in bilateral caudate nuclei and right ante-
+
+406 rior insula (Table 3, Fig. 4). In other words, the caudate was especially 
+
+407 responsive to the difference between strong and weak beats in disso-
+
+408 nant music. No region passed our statistical threshold in the inverse in-
+
+409 teraction testing for stronger meter effects in consonant relative to 
+
+410 dissonant music (precuneus: p b 0.05). Parameters estimates of activity 
+
+411 corresponding to these regions are illustrated for each experimental 
+
+412 condition in Fig. 4. 
+
+413 Discussion 
+
+414 We used a novel cross-modal paradigm to study the effect of en-
+
+415 trainment by musical rhythm on visuomotor performance and its mod-
+
+416 ulation by affective appreciation. Based on the DAT (Jones, 1987), which 
+
+417 proposes that attentional orienting may become synchronized to strong 
+
+t2 :1 Table 2 
+
+t2 :2 Effects of consonance. 
+
+t2 :3 Region Lateralization BA Cluster size z-Value Coordinates 
+
+t2 :4 Consonant vs. dissonant music epochs 
+
+t2 :5 Ventral caudate nucleus R 13 3.37 8 8 4 
+
+t2 :6 Postcentral gyrus 
+
+t2 :7 (somatosensory cortex) L 2 19 4.48 −6 −40 76 
+
+t2 :8 L * 22 3.4 −28 −34 70 
+
+t2 :9 L * 10 3.36 −26 −24 70 
+
+t2 :10 Precentral gyrus 
+
+t2 :11 (motor cortex) L 4 6 3.44 −8 −20 62 
+
+t2 :12 L * 13 3.4 −22 −16 56 
+
+t2 :13 L * 15 3.37 −10 −12 60 
+
+t2 :14 t2 :15 Visual cues during consonant vs. dissonant music 
+
+t2 :16 Precentral sulcus 
+
+t2 :17 (Premotor cortex) L 6 9 3.44 −40 −4 32 
+
+t2 :18 Superior parietal lobule R 19 8 3.34 38 −58 46 
+
+t2 :19 Collateral sulcus R 38 26 3.68 28 −2 −32 
+
+t2 :20 t2 :21 Visual cues during dissonant vs. consonant music 
+
+t2 :22 Sup occipital gyrus R 18 17 3.35 −28 −86 20 
+
+t2 :23 L 18 8 3.22 42 −74 18 
+
+t2 :24 Abbreviations: 
+
+t2 :25 Inf: inferior, Sup: superior. 
+
+Fig. 2. Main effect of consonant music. Contrast between the blocks of consonant and dissonant music. Effects signi fi cant at p b 0.001 (uncorrected) are shown in yellow, and effects sig-ni fi cant at p b 0.01 (uncorrected) are shown in red for illustrative reasons. Coordinates are according to the MNI space (in millimeter resolution). The left panel shows a coronal slice at the level of y = 12, whereas the right panel shows a sagittal slice at the level of x = −8. 
+
+t3 :1Table 3 
+
+t3 :2Effects of meter and interaction with consonance Q1 .
+
+t3 :3Region Lateralization BA Cluster size z-value Coordinates 
+
+t3 :4Visual cues during strong versus weak beats 
+
+t3 :5Caudate nucleus L 89 3.30 −10 16 6 
+
+t3 :6R 3.27 14 16 6 
+
+t3 :7Precuneus R 31 37 3.7 12 −56 26 
+
+t3 :8t3 :9Visual cues during strong versus weak beats in consonant music 
+
+t3 :10 Precuneus R 31 51 3.8 12 −56 26 
+
+t3 :11 Sup temporal sulcus R 21 23 3.49 56 −18 −12 
+
+t3 :12 t3 :13 Visual cues during weak versus strong beats in consonant music 
+
+t3 :14 Inf frontal gyrus R 44 8 3.3 46 20 20 
+
+t3 :15 Inf frontal sulcus L 44 5 3.15 −38 20 24 
+
+t3 :16 t3 :17 Visual cues during strong versus weak beats in dissonant music 
+
+t3 :18 Caudate nucleus L 177 4.25 −12 16 4 
+
+t3 :19 R 141 4.17 14 16 8 
+
+t3 :20 Sup temporal sulcus L 21 8 3.69 −46 −28 −4
+
+t3 :21 Lateral sulcus L 22 4 3.23 −42 −22 −2
+
+t3 :22 t3 :23 Visual cues during weak versus strong beats in dissonant music 
+
+t3 :24 No signi fi cant voxels 
+
+t3 :25 t3 :26 Interaction 
+
+t3 :27 Caudate nucleus L 27 3.35 −14 16 6 
+
+t3 :28 R 4 3.23 16 16 8 
+
+t3 :29 Insula R 13 25 3.32 34 28 6 
+
+t3 :30 R 13 * 3.13 38 18 8 
+
+t3 :31 Sup temporal sulcus L 37 11 3.52 −46 −30 −4
+
+t3 :32 L 52 7 3.28 −14 −16 −4
+
+t3 :33 Supramarginal gyrus L 40 6 3.19 −52 −24 18 
+
+t3 :34 Parieto-occipital sulcus R 19 16 3.54 18 −68 42 
+
+t3 :35 Abbreviations: 
+
+t3 :36 Inf: inferior, Sup: superior. 5W. Trost et al. / NeuroImage xxx (2014) xxx –xxx 
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 UNCORRECTED PROOF 
+
+Fig. 3. Main effect of meter. Event-related analysis of the visual targets appearing simultaneously with a strong versus a weak beat of the music. 
+
+Fig. 4. A) Interaction of the factors consonance and meter. B) Beta estimates from 4 mm-spheres around main peaks of activations in the left caudate (xyz = −14, 16, 6) and the right anterior insula (xyz = 34, 28, 6). 6 W. Trost et al. / NeuroImage xxx (2014) xxx –xxx 
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 UNCORRECTED PROOF 
+
+418 beats in music, we examined how musical meter in fl uenced visual de-
+
+419 tection in a concomitant visual task and tested the affective entrainment 
+
+420 hypothesis (Juslin et al., 2010) according to which pleasant affect asso-
+
+421 ciated with music should elicit stronger entrainment. 
+
+422 Cross-modal attention effects entrained by musical meter 
+
+423 The behavioral results of our paradigm show that cross-modally in-
+
+424 duced entrainment leads to signi fi cant differences in response times for 
+
+425 visual targets appearing at different positions in the metrical hierarchy, 
+
+426 a result providing direct support for the DAT (Jones, 1987; Large and 
+
+427 Kolen, 1994; Large, 2008). Thus, responses were faster when visual tar-
+
+428 gets appeared on a strong beat (1st) relative to when they appeared on 
+
+429 a weak beat (2nd). This indicates that entrainment is implicitly sensitive 
+
+430 to the musical meter, even though the latter is totally irrelevant to task 
+
+431 goals. In addition, these entrainment effects occurred cross-modally, 
+
+432 meaning that the detection of visual events was facilitated by the tem-
+
+433 poral structure of an auditory rhythm presented in the background, in 
+
+434 accord with the view that their onset corresponded to moments with 
+
+435 higher attentional engagement that can bene fi t different sensory mo-
+
+436 dalities. Importantly, our procedure ensured that the two meter condi-
+
+437 tions did not differ in terms of music loudness at the time of strong 
+
+438 and weak beats (see methods). These entrainment effects by musical 
+
+439 meter extend previous evidence for a bene fi cial cross-modal integration 
+
+440 of sensory processing when attentional resources are directed to specif-
+
+441 ic points in space or time (Lange and Roder, 2006; Escof fi er et al., 2010; 
+
+442 Bolger et al., 2013; Miller et al., 2013). 
+
+443 Moreover, our behavioral results show that reaction times to the visu-
+
+444 al targets were not only in fl uenced by meter but also by consonance (and 
+
+445 hence perceived pleasantness) of the music. In the ANOVA, this effect was 
+
+446 signi fi cant regardless of meter condition, suggesting a general facilitation 
+
+447 on attention and motor responses for pleasant compared to unpleasant 
+
+448 music. However, of particular interest was the interaction of the two ex-
+
+449 perimental factors. In fact, during pleasant music, reaction times in the 
+
+450 two metrical conditions did not differ signi fi cantly when compared 
+
+451 pairwise, whereas the difference for targets on strong versus weak beats 
+
+452 was signi fi cant for dissonant music (Figs. 1B and C). One possibility is 
+
+453 that this asymmetry in RT bene fi ts re fl ected a fl oor effect, canceling the 
+
+454 subtle meter effect due to more general speeding produced by conso-
+
+455 nance. Moreover, given the signi fi cant main effect of meter in the 
+
+456 ANOVA, is that consonant music induced an entrainment of attentional 
+
+457 resources on a fi ner grained temporal level, which facilitated target detec-
+
+458 tion even on a weak beat. Dissonant music, on the contrary, might syn-
+
+459 chronize attentional resources on a coarser temporal level, i.e., at the 
+
+460 level of the metrical unit, resulting in larger differences in RTs between 
+
+461 the two metrical conditions. This effect might result from the fact that 
+
+462 in consonant music multiple cues are available to generate predictions 
+
+463 about what is going to happen next in the music, including melodic struc-
+
+464 ture, harmony, and rhythm; whereas in dissonant music the harmonic 
+
+465 structure is partly lost due to our manipulation and therefore the metric 
+
+466 structure becomes more important for generating temporal expectancies. 
+
+467 Thus, when the music is consonant and pleasant, attention might syn-
+
+468 chronize even to small periodicities (i.e. the crotchet), whereas when 
+
+469 the music is dissonant and unpleasant, attentional resources might syn-
+
+470 chronize only to slower periodicities of the musical rhythms. 
+
+471 In addition to these behavioral fi ndings, our neuroimaging results 
+
+472 highlight for the fi rst time the neural substrates implicated in the cross-
+
+473 modal rhythmic entrainment by music. When contrasting neural re-
+
+474 sponses to visual targets presented at strong versus weak beats, we ob-
+
+475 served a highly signi fi cant activation in the basal ganglia, particularly in 
+
+476 the caudate nucleus, plus a region in the inferior precuneus. The same 
+
+477 comparison for epochs with consonant music revealed an effect restricted 
+
+478 to the precuneus, whereas activation in the caudate prevailed during 
+
+479 epochs with dissonant music. These fi ndings provide evidence that our 
+
+480 consonance manipulation did indeed in fl uence attentional entrainment 
+
+481 processes, as distinct brain circuits were preferentially engaged by 
+
+482 rhythmic entrainment in the presence of consonant versus dissonant 
+
+483 music. Although the neural modulation may at fi rst sight appear opposite 
+
+484 to the expectation that pleasantness should boost the entrainment of at-
+
+485 tention by meter, this activation pattern actually converges with our be-
+
+486 havioral data to suggest that meter and consonance produced distinct 
+
+487 in fl uences on the synchronization of attentional processes to music. 
+
+488 The role of the basal ganglia in rhythmic entrainment 
+
+489 In keeping with the notion that the basal ganglia are involved in the 
+
+490 coordination of motor actions and in the perception of rhythmic struc-
+
+491 tures, our novel results point to the caudate nucleus as a key structure 
+
+492 that encodes musical meter. In previous imaging studies of rhythm on 
+
+493 meter processing, participants had to subsequently reproduce, compare 
+
+494 or categorize short rhythmical sequences, requiring explicit attention 
+
+495 and top-down internal generation of the rhythm (Grahn and Rowe, 
+
+496 2009; Iversen et al., 2009; Chapin et al., 2010). In contrast, in our para-
+
+497 digm, entrainment to the meter occurred unintentionally and without 
+
+498 voluntary effort, in a stimulus-driven manner solely determined by 
+
+499 task-irrelevant music played in the background. This is probably also 
+
+500 the reason why we did not observe a differential involvement of other 
+
+501 brain structures such as the cerebellum or premotor cortex, which are 
+
+502 often reported in studies on explicit rhythm perception and production 
+
+503 (Molinari et al., 2003; Grahn and Brett, 2007; Chen et al., 2008; 
+
+504 Merchant et al., 2013). 
+
+505 The caudate is classically related not only to motor planning, but also 
+
+506 to error prediction and reward (Bayer and Glimcher, 2005; Asaad and 
+
+507 Eskandar, 2011), and thus constitutes the most “cognitive ” portion of 
+
+508 the basal ganglia (Grahn et al., 2008). The caudate has previously been 
+
+509 reported to be involved in rhythm processing (Bengtsson and Ullen, 
+
+510 2006; Grahn and Brett, 2007) and seems especially engaged when a 
+
+511 clear beat is perceived in rhythmical patterns (Chapin et al., 2010) or 
+
+512 when sensorimotor synchronization to a beat is easy (Kokal et al., 
+
+513 2011). In neuroimaging studies on music, caudate activity was reported 
+
+514 to be sensitive to emotional arousal (Trost et al., 2012), correlate with 
+
+515 the anticipation of chills (Salimpoor et al., 2011), and even vary accord-
+
+516 ing to musical syntax (Koelsch et al., 2008). Based on these results, we 
+
+517 hypothesized that pleasant music would modulate activity particularly 
+
+518 in the ventral striatum. Because this portion of the basal ganglia is 
+
+519 known to play an important role in reward processing and pleasure 
+
+520 (Salimpoor et al., 2011; Trost et al., 2012), we expected stronger en-
+
+521 trainment effects in ventral striatum during consonant pleasant music. 
+
+522 However, we did not fi nd this pattern of response; instead we found 
+
+523 that event-related activation to targets in the caudate head was most in-
+
+524 fl uenced by meter during dissonant music. Nonetheless, a sustained ac-
+
+525 tivation in the ventral part of the right caudate was signi fi cant in our 
+
+526 contrast of consonant versus dissonant music epochs (Fig. 2 and 
+
+527 Table 2). Taken together, this suggests that consonant music produced 
+
+528 globally higher activation levels in the ventral caudate, over and above 
+
+529 the event-related response associated with visual target detection. 
+
+530 This result accords with the fact that the consonant pieces were evalu-
+
+531 ated as more pleasant, in line with other fi ndings that positive emotions 
+
+532 recruit ventral striatal regions (Katsyri et al., 2012; Koelsch and Skouras, 
+
+533 2013). This sustained right caudate activity together with concomitant 
+
+534 increases in motor and somatosensory cortical areas (Table 3) could re-
+
+535 fl ect the subjective apprehension of more pleasant consonant music 
+
+536 epochs as being more arousing and more entraining (Table 1). Indeed, 
+
+537 caudate activity correlates with felt arousal induced by music as well 
+
+538 as its valence (Trost et al., 2012) and rewarding value (Salimpoor 
+
+539 et al., 2013), being typically more active during pleasant or joyful than 
+
+540 during unpleasant or sad music (Koelsch and Skouras, 2013). Moreover, 
+
+541 it has also been shown that caudate activity is associated with joint 
+
+542 drumming in synchrony and subsequent prosocial behavior (Kokal 
+
+543 et al., 2011). 
+
+544 Interestingly, a recent study (Bolger et al., 2014) with a cross-modal 
+
+545 design similar to our study used isochronic metrical sequences instead 7W. Trost et al. / NeuroImage xxx (2014) xxx –xxx 
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 UNCORRECTED PROOF 
+
+546 of musical stimuli and did not fi nd any involvement of the basal ganglia, 
+
+547 unlike what we found in our study. This difference in results suggests 
+
+548 that musical stimuli with their associated emotional valence might 
+
+549 have a particular impact on entrainment and thus promote a recruit-
+
+550 ment of the basal ganglia that is modulated by the metrical structure 
+
+551 of the music, whereas simple acoustical beats do not produce such ef-
+
+552 fects. The reason for this difference might be due to the more complex 
+
+553 rhythmical structure of musical stimuli and might be further enhanced 
+
+554 by its emotional impact, which is known to affect activity in the basal 
+
+555 ganglia (Salimpoor et al., 2011; Trost et al., 2012). As the basal ganglia 
+
+556 are implicated in both motor and limbic loops (Haber and Knutson, 
+
+557 2010), rhythmic information combined with affective content of natural 
+
+558 music is likely to account for the robust and bilateral activation in cau-
+
+559 date observed in our study — unlike in Bolger et al. (2014) where 
+
+560 more abstract metronomic tones were used. Further, in Bolger et al. 
+
+561 (2014), targets could appear in either the visual or auditory modality, 
+
+562 adding an extra demand of attention disengagement and re-orienting 
+
+563 across modalities when attention was entrained by strong beats in the 
+
+564 auditory channel (Corbetta and Shulman, 2002; Mayer et al., 2006; 
+
+565 Corbetta et al., 2008). A predominance of explicit temporal expectations 
+
+566 due to metronomic background and cross-modal attentional shifts in 
+
+567 Bolger et al. (2014), as opposed to more implicit effects of natural musi-
+
+568 cal background and additional recruitment of affective processes in our 
+
+569 study might account for the different fi ndings. 
+
+570 The in fl uence of consonant music 
+
+571 Here we used a manipulation of dissonance to modulate the level of 
+
+572 pleasantness, similar to other studies (Peretz et al., 2001; Koelsch et al., 
+
+573 2006). We chose the option to shift only single notes in every chord, in 
+
+574 order to keep the temporal structure and all other acoustic variables 
+
+575 constant. Although this consonance manipulation did not make music 
+
+576 unbearable, all dissonant pieces were evaluated as signi fi cantly less 
+
+577 pleasant than their consonant counterparts (Table 1). Behaviorally, in 
+
+578 both experiments, the fastest detection times were consistently associ-
+
+579 ated with strong beats in consonant music, while the slowest were asso-
+
+580 ciated with weak beats in dissonant music. Moreover, in the fMRI study 
+
+581 and when regrouping participants from the behavioral and the fMRI ex-
+
+582 periment together, we obtained a signi fi cant interaction, which 
+
+583 highlighted that during dissonant music the metrical level had a strong 
+
+584 in fl uence on RT, whereas the RT difference between meter conditions 
+
+585 was not signi fi cant during consonant music. 
+
+586 In accordance with this pattern, our fMRI contrast between the two 
+
+587 meter conditions in consonant music showed a selective activation 
+
+588 in the inferior right precuneus (Fig. 3C and Table 3), but no signi fi -
+
+589 cant effect in basal ganglia (only at lower threshold). The precuneus 
+
+590 is involved in a wide range of cognitive functions including self-
+
+591 referential processing, episodic memory, and attention (for review 
+
+592 see Cavanna and Trimble, 2006). Some studies reported a selective 
+
+593 involvement of the precuneus in shifting and reorienting attention 
+
+594 (Nagahama et al., 1999; Shomstein and Yantis, 2004). Accordingly, 
+
+595 one interpretation for our fi nding could be that unpredictable visual 
+
+596 targets appearing on the screen required attention to be shifted from 
+
+597 the auditory to the visual modality. Such attentional shifts might be 
+
+598 enhanced when the target coincides with a strong beat through a 
+
+599 modulation of the precuneus by pleasant/consonant music that pro-
+
+600 motes rhythmic entrainment to meter. This enhancement seems 
+
+601 however to occur without generating signi fi cantly larger RT differ-
+
+602 ences between meter conditions, suggesting that such effect may 
+
+603 not manifest at the level of motor facilitation, but only at the level 
+
+604 of attentional processing. Another possibility is that the pleasant/ 
+
+605 consonant harmony might engender a greater absorption of the lis-
+
+606 tener into music due to its more natural and familiar character, ac-
+
+607 companied by greater recruitment of the precuneus as observed in 
+
+608 certain meditative or hypnotic states (Lou et al., 2005; Cojan et al., 
+
+609 2009). Moreover, precuneus activity has been proposed to be 
+
+610 modulated by dopaminergic inputs from striatum (Lou et al., 
+
+611 2005). Interestingly, a study by Fairhurst et al. (2012) found that 
+
+612 precuneus activation was also associated with high synchronicity, 
+
+613 when participants performed a tapping task in synchrony with a vir-
+
+614 tual partner. Interpersonal synchrony in sensorimotor tasks is 
+
+615 known to represent a pleasant state that increases the feelings of af-
+
+616 fi liation and prosocial behavior (Hove and Risen, 2009; Valdesolo 
+
+617 and Desteno, 2011; Launay et al., 2013). Being in synchrony with a 
+
+618 partner also means however that there are no con fl icting or unex-
+
+619 pected events that disturb performance. Pleasant consonant music 
+
+620 might thus enhance the facilitation of attention to visual targets by 
+
+621 increasing concentration on music and reducing interference by 
+
+622 distracting events or thoughts. 
+
+623 In support of such an attention effect, we found that consonance pro-
+
+624 duced a general speeding of RTs in the visual detection task (Fig. 2). Sev-
+
+625 eral studies have shown that visual attention can be in fl uenced by the 
+
+626 affective state of a person (Ashby et al., 1999; Olivers and Nieuwenhuis, 
+
+627 2006). There is even evidence that visual neglect after parietal lobule 
+
+628 stroke is reduced when patients are listening to their preferred versus 
+
+629 non-preferred music (Soto et al., 2009). The “broaden-and-built ” theory 
+
+630 formulated by Fredrickson (2001) proposes that positive emotions have 
+
+631 a bene fi cial effect on various cognitive functions, including in particular a 
+
+632 broadening of attentional resources. The global behavioral bene fi t of con-
+
+633 sonance in our study could be interpreted in this framework, as an effect 
+
+634 of broadened attention induced by pleasant music could have a more 
+
+635 global facilitating impact on visuomotor performance and attentional 
+
+636 orienting. This could enhance target detection even when these appear 
+
+637 in less attended moments in the music (i.e., weak beats). Likewise, re-
+
+638 search on visual attention has shown that positive affect primes can in-
+
+639 crease perceptual fl exibility and allows switching more rapidly from a 
+
+640 local to a global focus in detection tasks (e.g., Tan et al., 2009). In the au-
+
+641 ditory domain, Olivers and Nieuwenhuis (2005) reported that listening 
+
+642 to natural music can abolish the attentional blink effect. In keeping 
+
+643 with these data, our results for the pleasant music condition corroborate 
+
+644 the notion that listening to music may particularly affect the temporal as-
+
+645 pects of attentional processing. Our fMRI results for the effect of conso-
+
+646 nance on event-related response to visual targets (across meter 
+
+647 conditions) accord with this interpretation as we found differential acti-
+
+648 vations in a set of cortical areas encompassing superior parietal lobule, 
+
+649 dorsal ACC, and dorsolateral PFC that partly overlapped with the atten-
+
+650 tional network (Behrmann et al., 2004). 
+
+651 The affective entrainment hypothesis 
+
+652 What support does our study bring to the DAT and the affective en-
+
+653 trainment hypothesis (Juslin et al., 2010; Trost and Vuilleumier, 2013)? 
+
+654 On the one hand, we show evidence for time-locking of visuomotor 
+
+655 performance with musical meter, associated with highly selective 
+
+656 engagement of the bilateral caudate — consistent with rhythmic en-
+
+657 trainment. On the other hand, our results reveal that the metrical hi-
+
+658 erarchy of the music does not become more salient or effective with 
+
+659 consonant music, in terms of the facilitation of RTs between metrical 
+
+660 conditions. Rather, we fi nd that targets presented with weak beats 
+
+661 are equally fast detected as targets presented with strong beats 
+
+662 when music is more pleasant. According to DAT, all kinds of metrical 
+
+663 music should entrain attentional processes, and therefore strong and 
+
+664 weak beats should also produce different attentional levels during 
+
+665 pleasant music. However, our results might not necessarily contra-
+
+666 dict this notion. Our study speci fi cally aims at testing whether the 
+
+667 emotional valence of music modulate the entraining effect of 
+
+668 meter, a factor which was not explicitly predicted or addressed by 
+
+669 DAT. In addition, the facilitation induced by pleasantness might pro-
+
+670 duce ceiling effects in the present paradigm and prevent detection of 
+
+671 entrainment in that condition. Further, for design simplicity, here we 
+
+672 only compared weak and strong beats but it remains possible that 
+
+673 differential entrainment by meter would be better evidenced during 8 W. Trost et al. / NeuroImage xxx (2014) xxx –xxx 
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 UNCORRECTED PROOF 
+
+674 pleasant music when comparing several on-beat vs off-beat condi-
+
+675 tions (Bolger et al., 2013). We therefore surmise that the obtained 
+
+676 pattern of similar RT for targets on strong and weak beats in conso-
+
+677 nant music is likely to result from more general modulation of atten-
+
+678 tion that enhanced the processing of weaker beats in the metrical 
+
+679 hierarchy (e.g. crotchet level) due to the affective factor. As noted 
+
+680 above, this attentional boosting by pleasant music might re fl ect en-
+
+681 hanced shifting ability or greater absorption. In ethno-musicology, 
+
+682 rhythmic entrainment is often associated to rhythmically-induced 
+
+683 altered states of consciousness similar to trance or fl ow 
+
+684 (Csikszentmihalyi, 1990; Clayton et al., 2005; Merker et al., 2009), 
+
+685 which may also be experienced in sensorimotor synchronization 
+
+686 with a virtual partner (Fairhurst et al., 2012). On the contrary, disso-
+
+687 nant music may not favor absorption or fl ow-like attention states, 
+
+688 making the temporal structure of music meter more salient. This in-
+
+689 teraction between meter and consonance was not only demonstrat-
+
+690 ed for RTs (when grouping participants from the behavioral and fMRI 
+
+691 experiment together), showing a larger difference between the two 
+
+692 meter conditions during dissonant music, but also supported by a 
+
+693 formal interaction contrast in our fMRI results. The caudate was not 
+
+694 only bilaterally and symmetrically activated for the main effect of 
+
+695 meter (Fig. 3A), but further enhanced when directly comparing this 
+
+696 effect in the dissonant relative to the consonant condition (Fig. 4). 
+
+697 This con fi rms that encoding of musical meter in the caudate was sig-
+
+698 ni fi cantly stronger during dissonant music. Thus, our behavioral and 
+
+699 fMRI data converge to indicate that, during dissonant music, tempo-
+
+700 ral expectations created by the musical meter and encoded in the 
+
+701 caudate are predominant; whereas during consonant music, atten-
+
+702 tion may be modulated at a different temporal scale, with more gen-
+
+703 eral effects on visual detection and bene fi ts even when targets 
+
+704 appear on the weak beats. This pattern is consistent with the more 
+
+705 sustained activity observed in the right caudate during consonant 
+
+706 music epochs, presumably leading to smaller transient increases to 
+
+707 visual targets presented in the consonant condition. 
+
+708 Conclusions 
+
+709 This is the fi rst neuroimaging study that provides evidence for cross-
+
+710 modal attentional effects induced by entrainment to the meter of natural 
+
+711 music and demonstrates speci fi c neural substrates for such effects in both 
+
+712 subcortical (basal ganglia) and cortical (parietal networks). Our results 
+
+713 furthermore illuminate the neural basis of the DAT. We show that the cau-
+
+714 date nucleus is sensitive to the metrical structure of music, even without 
+
+715 explicit orienting of attention to the music. In addition, a region in the 
+
+716 right inferior precuneus was also found to be selectively sensitive to mu-
+
+717 sical meter, but only during pleasant/consonant music, which could medi-
+
+718 ate affective in fl uences on cross-modal attentional shifts or absorption. 
+
+719 Taken together, our data suggest that rhythmic entrainment in basal 
+
+720 ganglia circuits represents a powerful and automatic process, which is 
+
+721 engendered even by dissonant/unpleasant music, and more broadly de-
+
+722 ployed when music is perceived as pleasant. We propose that conso-
+
+723 nant music may establish a sustained pleasant emotional state, in 
+
+724 which attention is globally broadened and readiness to react is height-
+
+725 ened, whereas dissonant music makes attention more focused on 
+
+726 rhythmic musical features. More research is needed to characterize 
+
+727 the link between rhythmic entrainment and affective processes with 
+
+728 other task paradigms, in particular to understand how entrainment of 
+
+729 cognitive and bodily rhythms by music can lead to complex and intense 
+
+730 emotional feelings. 
+
+731 Supplementary data to this article can be found online at http://dx. 
+
+732 doi.org/10.1016/j.neuroimage.2014.09.009. 
+
+733 Acknowledgments 
+
+734 This work was supported by funding from the Swiss Center for Affec-
+
+735 tive Sciences (51NF40-104897) and by the Geneva Academy Society 
+
+736 (Foremane Fund) Q9 awarded to PV, as well as a scholarship from the 
+
+737 Lemanic Doctoral School in Neuroscience Q10 awarded to WT. 
+
+738 References 
+
+739 Asaad, W.F., Eskandar, E.N., 2011. Encoding of both positive and negative reward predic-
+
+740 tion errors by neurons of the primate lateral prefrontal cortex and caudate nucleus. J. 
+
+741 Neurosci. 31, 17772 –17787. 
+
+742 Ashby, F.G., Isen, A.M., Turken, A.U., 1999. A neuropsychological theory of positive affect 
+
+743 and its in fl uence on cognition. Psychol. Rev. 106, 529 –550. 
+
+744 Bayer, H.M., Glimcher, P.W., 2005. Midbrain dopamine neurons encode a quantitative re-
+
+745 ward prediction error signal. Neuron 47, 129 –141. 
+
+746 Behrmann, M., Geng, J.J., Shomstein, S., 2004. Parietal cortex and attention. Curr. Opin. 
+
+747 Neurobiol. 14, 212 –217. 
+
+748 Bengtsson, S.L., Ullen, F., 2006. Dissociation between melodic and rhythmic processing 
+
+749 during piano performance from musical scores. NeuroImage 30, 272 –284. 
+
+750 Bolger, D., Trost, W., Schon, D., 2013. Rhythm implicitly affects temporal orienting of at-
+
+751 tention across modalities. Acta Psychol. (Amst.) 142, 238 –244. 
+
+752 Bolger, D., Coull, J.T., Schon, D., 2014. Metrical rhythm implicitly orients attention in time 
+
+753 as indexed by improved target detection and left inferior parietal activation. J. Cogn. 
+
+754 Neurosci. 26, 593 –605. 
+
+755 Cameron, D.J., Stewart, L., Pearce, M.T., Grube, M., Muggleton, N.G., 2012. Modulation of 
+
+756 motor excitability by metricality of tone sequences. Psychomusicology Music, Mind, 
+
+757 Brain 22. 
+
+758 Cavanna, A.E., Trimble, M.R., 2006. The precuneus: a review of its functional anatomy and 
+
+759 behavioural correlates. Brain 129, 564 –583. 
+
+760 Chapin, H.L., Zanto, T., Jantzen, K.J., Kelso, S.J., Steinberg, F., Large, E.W., 2010. Neural re-
+
+761 sponses to complex auditory rhythms: the role of attending. Front. Psychol. 1, 224. 
+
+762 Chen, J.L., Penhune, V.B., Zatorre, R.J., 2008. Listening to musical rhythms recruits motor 
+
+763 regions of the brain. Cereb. Cortex 18, 2844 –2854. 
+
+764 Clayton, M., Sager, R., Will, U., 2005. In time with the music: the concept of entrainment 
+
+765 and its signi fi cance for ethnomusicology. Eur. Meet. Ethnomusicol. 11, 3 –142. 
+
+766 Cojan, Y., Waber, L., Schwartz, S., Rossier, L., Forster, A., Vuilleumier, P., 2009. The brain 
+
+767 under self-control: modulation of inhibitory and monitoring cortical networks during 
+
+768 hypnotic paralysis. Neuron 62, 862 –875. 
+
+769 Corbetta, M., Shulman, G.L., 2002. Control of goal-directed and stimulus-driven attention 
+
+770 in the brain. Nat. Rev. Neurosci. 3, 201 –215. 
+
+771 Corbetta, M., Patel, G., Shulman, G.L., 2008. The reorienting system of the human brain: 
+
+772 from environment to theory of mind. Neuron 58, 306 –324. 
+
+773 Coull, J.T., Nobre, A.C., 1998. Where and when to pay attention: the neural systems for 
+
+774 directing attention to spatial locations and to time intervals as revealed by both 
+
+775 PET and fMRI. J. Neurosci. 18, 7426 –7435. 
+
+776 Csikszentmihalyi, M., 1990. Flow: The Psychology of Optimal Experience. Harper & Row, 
+
+777 New York, NY. 
+
+778 Eerola, T., Toiviainen, P., 2004. MIDI Toolbox: MATLAB Tools for Music Research. 
+
+779 Escof fi er, N., Darren, Y.J.S., Schirmer, A., 2010. Unattended musical beats enhance visual 
+
+780 processing. Acta Psychol. 136, 12 –16. 
+
+781 Fairhurst, M.T., Janata, P., Keller, P.E., 2012. Being and feeling in sync with an adaptive virtual 
+
+782 partner: brain mechanisms underlying dynamic cooperativity. Cereb. Cortex 23, 
+
+783 2592 –2600. 
+
+784 Fredrickson, B.L., 2001. The role of positive emotions in positive psychology. The broaden-
+
+785 and-build theory of positive emotions. Am. Psychol. 56, 218 –226. 
+
+786 Grahn, J.A., Brett, M., 2007. Rhythm and beat perception in motor areas of the brain. J. 
+
+787 Cogn. Neurosci. 19, 893 –906. 
+
+788 Grahn, J.A., Rowe, J.B., 2009. Feeling the beat: premotor and striatal interactions in 
+
+789 musicians and nonmusicians during beat perception. J. Neurosci. 29, 7540 –7548. 
+
+790 Grahn, J.A., Parkinson, J.A., Owen, A.M., 2008. The cognitive functions of the caudate nu-
+
+791 cleus. Prog. Neurobiol. 86, 141 –155. 
+
+792 Haber, S.N., Knutson, B., 2010. The reward circuit: linking primate anatomy and human 
+
+793 imaging. Neuropsychopharmacology 35, 4 –26. 
+
+794 Hove, M.J., Risen, J.L., 2009. It's all in the timing: interpersonal synchrony increases af fi li-
+
+795 ation. Soc. Cogn. 27, 949 –960. 
+
+796 Iversen, J.R., Repp, B.H., Patel, A.D., 2009. Top-down control of rhythm perception modu-
+
+797 lates early auditory responses. Ann. N. Y. Acad. Sci. 1169, 58 –73. 
+
+798 Janata, P., Tomic, S.T., Haberman, J.M., 2012. Sensorimotor coupling in music and the psy-
+
+799 chology of the groove. J. Exp. Psychol. Gen. 141, 54 –75. 
+
+800 Jones, M.R., 1987. Dynamic pattern structure in music: recent theory and research. Per-
+
+801 cept. Psychophys. 41, 621 –634. 
+
+802 Jones, M.R., Boltz, M., 1989. Dynamic attending and responses to time. Psychol. Rev. 96, 
+
+803 459 –491. 
+
+804 Jueptner, M., Weiller, C., 1998. A review of differences between basal ganglia and cerebel-
+
+805 lar control of movements as revealed by functional imaging studies. Brain 121 (Pt 8), 
+
+806 1437 –1449. 
+
+807 Juslin, P.N., Liljeström, S., Västfjäll, D., Lundqvist, L.-O., 2010. How does music evoke emo-
+
+808 tions? Exploring the underlying mechanisms. In: Juslin, P.N., Sloboda, J. (Eds.), Hand-
+
+809 book of Music and Emotion: Theory, Research, Applications. Oxford University Press, 
+
+810 Oxford, pp. 605 –642. 
+
+811 Katsyri, J., Hari, R., Ravaja, N., Nummenmaa, L., 2012. The opponent matters: elevated fmri 
+
+812 reward responses to winning against a human versus a computer opponent during 
+
+813 interactive video game playing. Cereb. Cortex. Q11 
+
+814 Koelsch, S., Skouras, S., 2013. Functional centrality of amygdala, striatum and hypothalamus 
+
+815 in a “Small-World ” network underlying joy: an fMRI study with music. Hum. Brain 
+
+816 Mapp. Q12 
+
+817 Koelsch, S., Fritz, T., Cramon, V., Muller, K., Friederici, A.D., 2006. Investigating emotion 
+
+818 with music: an fMRI study. Hum. Brain Mapp. 27, 239 –250. 9W. Trost et al. / NeuroImage xxx (2014) xxx –xxx 
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009 UNCORRECTED PROOF 
+
+819 Koelsch, S., Fritz, T., Schlaug, G., 2008. Amygdala activity can be modulated by unexpected 
+
+820 chord functions during music listening. Neuroreport 19, 1815 –1819. 
+
+821 Kokal, I., Engel, A., Kirschner, S., Keysers, C., 2011. Synchronized drumming enhances activity 
+
+822 in the caudate and facilitates prosocial commitment —if the rhythm comes easily. PLoS 
+
+823 One 6, e27272. 
+
+824 Lange, K., Roder, B., 2006. Orienting attention to points in time improves stimulus pro-
+
+825 cessing both within and across modalities. J. Cogn. Neurosci. 18, 715 –729. 
+
+826 Large, E.W., 2008. Resonating to musical rhythm: theory and experiment. In: Grondin, S. 
+
+827 (Ed.), Psychology of Time. Emerald Group Publishing Limited, Bingley U.K., pp. 
+
+828 189 –231. 
+
+829 Large, E.W., Kolen, J.F., 1994. Resonance and the perception of musical meter. Connect. Sci. 
+
+830 6, 177 –208. 
+
+831 Lartillot, O., Toiviainen, P., 2007. A Matlab toolbox for musical feature extraction from 
+
+832 audio. International Conference on Digital Audio Effects (DAFx-07) Bordeaux, France. 
+
+833 Launay, J., Dean, R.T., Bailes, F., 2013. Synchronization can in fl uence trust following virtual 
+
+834 interaction. Exp. Psychol. 60, 53 –63. 
+
+835 Lou, H.C., Nowak, M., Kjaer, T.W., 2005. The mental self. Bound. Conscious. Neurobiol. 
+
+836 Neuropathol. 150, 197 –204. 
+
+837 Macaluso, E., Driver, J., 2001. Spatial attention and crossmodal interactions between vi-
+
+838 sion and touch. Neuropsychologia 39, 1304 –1316. 
+
+839 Mayer, A.R., Harrington, D., Adair, J.C., Lee, R., 2006. The neural networks underlying en-
+
+840 dogenous auditory covert orienting and reorienting. NeuroImage 30, 938 –949. 
+
+841 Merchant, H., Perez, O., Zarco, W., Gamez, J., 2013. Interval tuning in the primate medial 
+
+842 premotor cortex as a general timing mechanism. J. Neurosci. 33, 9082 –9096. 
+
+843 Merker, B.H., Madison, G.S., Eckerdal, P., 2009. On the role and origin of isochrony in 
+
+844 human rhythmic entrainment. Cortex 45, 4 –17. 
+
+845 Miller, J.E., Carlson, L.A., McAuley, J.D., 2013. When what you hear in fl uences when you 
+
+846 see: listening to an auditory rhythm in fl uences the temporal allocation of visual at-
+
+847 tention. Psychol. Sci. 24, 11 –18. 
+
+848 Molinari, M., Leggio, M.G., De Martin, M., Cerasa, A., Thaut, M., 2003. Neurobiology of 
+
+849 rhythmic motor entrainment. Ann. N. Y. Acad. Sci. 999, 313 –321. 
+
+850 Nagahama, Y., Okada, T., Katsumi, Y., Hayashi, T., Yamauchi, H., Sawamoto, N., Toma, K., 
+
+851 Nakamura, K., Hanakawa, T., Konishi, J., Fukuyama, H., Shibasaki, H., 1999. Transient 
+
+852 neural activity in the medial superior frontal gyrus and precuneus time locked with 
+
+853 attention shift between object features. NeuroImage 10, 193 –199. 
+
+854 Nozaradan, S., Peretz, I., Missal, M., Mouraux, A., 2011. Tagging the neuronal entrainment 
+
+855 to beat and meter. J. Neurosci. 31, 10234 –10240. 
+
+856 Olivers, C.N.L., Nieuwenhuis, S., 2005. The bene fi cial effect of concurrent task-irrelevant 
+
+857 mental activity on temporal attention. Psychol. Sci. 16, 265 –269. 
+
+858 Olivers, C.N., Nieuwenhuis, S., 2006. The bene fi cial effects of additional task load, positive 
+
+859 affect, and instruction on the attentional blink. J. Exp. Psychol. Hum. Percept. Perform. 
+
+860 32, 364 –379. 
+
+861 Peretz, I., Blood, A.J., Penhune, V., Zatorre, R., 2001. Cortical deafness to dissonance. Brain 
+
+862 124, 928 –940. 
+
+863 Salimpoor, V.N., Benovoy, M., Larcher, K., Dagher, A., Zatorre, R.J., 2011. Anatomically dis-
+
+864 tinct dopamine release during anticipation and experience of peak emotion to music. 
+
+865 Nat. Neurosci. 14, 257 –262. 
+
+866 Salimpoor, V.N., van den Bosch, I., Kovacevic, N., McIntosh, A.R., Dagher, A., Zatorre, R.J., 
+
+867 2013. Interactions between the nucleus accumbens and auditory cortices predict 
+
+868 music reward value. Science 340, 216 –219. 
+
+869 Seifritz, E., Di Salle, F., Esposito, F., Herdener, M., Neuhoff, J.G., Schef fl er, K., 2006. Enhanc-
+
+870 ing BOLD response in the auditory system by neurophysiologically tuned fMRI se-
+
+871 quence. NeuroImage 29, 1013 –1022. 
+
+872 Shomstein, S., Yantis, S., 2004. Control of attention shifts between vision and audition in 
+
+873 human cortex. J. Neurosci. 24, 10702 –10706. 
+
+874 Soto, D., Funes, M.J., Guzman-Garcia, A., Warbrick, T., Rotshtein, P., Humphreys, G.W., 
+
+875 2009. Pleasant music overcomes the loss of awareness in patients with visual neglect. 
+
+876 Proc. Natl. Acad. Sci. U. S. A. 106, 6011 –6016. 
+
+877 Stupacher, J., Hove, M.J., Novembre, G., Schutz-Bosbach, S., 2013. Musical groove modu-
+
+878 lates motor cortex excitability: a TMS investigation. Brain Cogn. 82, 127 –136. 
+
+879 Teder-Salejarvi, W.A., McDonald, J.J., Di Russo, F., Hillyard, S.A., 2002. An analysis of audio –
+
+880 visual crossmodal integration by means of event-related potential (ERP) recordings. 
+
+881 Brain Res. Cogn. Brain Res. 14, 106 –114. 
+
+882 Thaut, M.H., Demartin, M., Sanes, J.N., 2008. Brain networks for integrative rhythm forma-
+
+883 tion. PLoS One 3. 
+
+884 Tierney, A., Kraus, N., 2013. Neural responses to sounds presented on and off the beat of 
+
+885 ecologically valid music. Front. Syst. Neurosci. 7, 14. 
+
+886 Trost, W., Vuilleumier, P., 2013. ‘Rhythmic entrainment ’ as a mechanism for emotion in-
+
+887 duction by music: a neurophysiological perspective. In: Cochrane, T., et al. (Eds.), The 
+
+888 Emotional Power of Music. Oxford University Press, pp. 213 –225. 
+
+889 Trost, W., Ethofer, T., Zentner, M., Vuilleumier, P., 2012. Mapping aesthetic musical emo-
+
+890 tions in the brain. Cereb. Cortex 22, 2769 –2783. 
+
+891 Turner, R.S., Desmurget, M., 2010. Basal ganglia contributions to motor control: a vigorous 
+
+892 tutor. Curr. Opin. Neurobiol. 20, 704 –716. 
+
+893 Valdesolo, P., Desteno, D., 2011. Synchrony and the social tuning of compassion. Emotion 
+
+894 11, 262 –266. 
+
+895 Witek, M.A., Clarke, E.F., Wallentin, M., Kringelbach, M.L., Vuust, P., 2014. Syncopation, 
+
+896 body-movement and pleasure in groove music. PLoS One 9, e94446. 
+
+897 
+
+10 W. Trost et al. / NeuroImage xxx (2014) xxx –xxx 
+
+Please cite this article as: Trost, W., et al., Getting the beat: Entrainment of brain activity by musical rhythm and pleasantness, NeuroImage (2014), http://dx.doi.org/10.1016/j.neuroimage.2014.09.009

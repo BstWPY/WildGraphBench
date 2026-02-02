@@ -1,0 +1,210 @@
+# Researching long COVID: addressing a new global health challenge
+
+_The NIHR is funding a portfolio of research to improve our understanding of - and find treatments for - long COVID_
+
+*   [Summary](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Summary)
+*   [The lived experience](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Lived-experience)
+*   [The challenges](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Challenges)
+*   [Setting up dedicated long Covid research funding](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Funding)
+*   [What is the biological cause of long Covid?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Cause)
+*   [How common is long Covid?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Common)
+*   [What are the symptoms?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Symptoms)
+*   [Do children experience long Covid?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Children)
+*   [How can health professionals accurately diagnose long Covid?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Diagnose)
+*   [Can medicines and vaccines help?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Vaccines)
+*   [How can health services best support people with long Covid?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Support)
+*   [How can healthcare professionals prioritise the needs of people with long COVID?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Needs)
+*   [Conclusion](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/#Conclusion)
+
+**[Summary](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+------------------------------------------------------------------------------------------------------------------------
+
+Long COVID is a new disease with many unanswered questions. This uncertainty creates huge challenges for patients and clinicians.
+
+To date, more than £50 million of government funding has been invested in long COVID research projects. The bulk of this (£39.2 million) has been awarded to 19 projects commissioned through two specific calls. The calls were led by the NIHR, the first jointly with UKRI. Projects examine the underlying mechanisms of long COVID, investigate symptoms such as ‘brain fog’ and breathlessness, and test possible treatments. They explore whether NHS services, such as long COVID clinics, meet people’s needs, and look at what people can do to optimise their own recovery.
+
+This portfolio is complemented by research funded through other routes. These projects consider long COVID in people admitted to hospital, for example, and rehabilitation after infection. The NIHR’s 19 studies are trying to answer some of the most urgent questions.
+
+**[The lived experience of long COVID](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Most people with COVID-19 experience mild to moderate symptoms they can manage at home. They usually make a full recovery after a couple of weeks. Unfortunately, this is not always the case. In the first [NIHR Review, Living with Covid19](http://evidence.nihr.ac.uk/themedreview/living-with-covid19/) (October 2020), one patient described the long COVID ‘nightmare’:
+
+> _"Early April, two days after testing positive I was hospitalised due to COVID infection with bilateral pneumonia ….I felt as though life was being sucked out every minute and I thought I would die. ….However, I eventually made it back home and I thought recovery would be much easier compared to the nightmare I had already endured except it was the beginning of a different kind of a nightmare – ‘Long Covid’. Although I see this as silent, it is quite debilitating with symptoms of severe fatigue, recurrent sore throats and brain fog. All this has had an immense impact not only on my health but family, social and work life and what makes it even worse is no one knows how long I am likely to take to fully recover."_
+
+Long COVID doesn’t only affect those who feel seriously ill when they first catch the coronavirus. A second testimony, from February 2022, comes from someone who never went to hospital:
+
+> _“It was as if an elephant was sitting on my chest …I couldn’t breathe, and I was frozen to the core. It was unlike anything I’d ever experienced before.”_
+
+This patient went down with COVID-19 the day before the UK was to enter its first coronavirus lockdown, and hasn't had a symptom-free day since, relying on a wheelchair for much of the pandemic. Before falling ill, commuting to work meant a 13 mile cycle ride; these days, 13 metres is a stretch. Long COVID has also had disturbing cognitive effects and left a _‘diabolical’_ memory.
+
+Scientific papers weren’t discussing enduring symptoms of COVID at the time that people first started experiencing them. The focus was on acute COVID-19 and people who had been hospitalised with the illness. So people experiencing ongoing symptoms garnered their support from each other using social media platforms. One said, in the first NIHR Review:
+
+> _“I sobbed when I found a long COVID Facebook group … I then found I wasn’t alone.”_
+
+People living with long COVID have acted as sources of intelligence and expertise informing research. They have [helped set research priorities](https://thorax.bmj.com/content/early/2022/03/29/thoraxjnl-2021-218582.full), been involved in assessing research applications, and been integral to commissioned research. Testimonies from people living with long COVID informed two narrative NIHR reviews ([October 2020](http://evidence.nihr.ac.uk/themedreview/living-with-covid19/)&[March 2021](http://evidence.nihr.ac.uk/themedreview/living-with-covid19-second-review/)) of what was known about long-term COVID symptoms at the time. The reports drew on expert consensus, published evidence, and on the lived experience of people with ongoing effects from COVID-19. This included people who had been admitted to hospital during infection and those who had not.
+
+**[The challenges presented by long COVID](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The scale of chronic ill health and disability after COVID-19 has been described as the next[big global health challenge](https://www.nature.com/articles/d41586-021-01392-2). Persistent COVID-19 symptoms are common. In March 2022, [the ONS survey](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/prevalenceofongoingsymptomsfollowingcoronaviruscovid19infectionintheuk/7april2022) found 1.7m people were experiencing long COVID. As Figure 1 shows, the numbers are rising rapidly.
+
+![Image 1: Bar graph showing the number of people self-reporting long Covid symptoms in four week periods from May 2021 to March 2022](https://s47827.pcdn.co/wp-content/uploads/2022/04/Long-Covid-prevelance-graph.png)
+
+**Figure 1.** 1.7 million people were experiencing self-reported long Covid as of 5 March 2022. Estimated number of people living in private households with self-reported long Covid of any duration, UK, four-week periods 2 May 2021 to 5 March 2022.
+
+In the ONS survey, most (67%) of those with self-reported long COVID reported that their symptoms adversely affect their day-to-day activities. That is 1.1 million people in all, and 322,000 (19%) of them reported that their ability to undertake day-to-day activities had been "limited a lot". Fatigue was the most common symptom, reported by half (51%) of those with self-reported long COVID. Shortness of breath followed (in 34%), then loss of smell (28%), and muscle ache (24%). As a proportion of the UK population, the prevalence of self-reported long COVID was greatest in people aged 35 to 49 years, females, people living in more deprived areas, those working in social care, teaching and education or health care, and those with another health condition or disability that limits activity.
+
+Many unknowns remain, such as what causes long-term illness and how best to help people. There is still no professional consensus on definition and nomenclature. Without specific diagnostic criteria, clinicians and patients must live with substantial uncertainty. [The risk is that people will be either over-investigated and overtreated or not receive adequate support](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02444-2/fulltext).
+
+The NHS has had to create services for this client group from scratch, while addressing the pandemic and mounting backlog of other work. [Around 90 long COVID clinics have been introduced across England](https://www.gov.uk/government/news/new-research-into-treatment-and-diagnosis-of-long-covid). [NHS figures from mid-November to mid-December 2021](https://www.england.nhs.uk/statistics/statistical-work-areas/covid-19-post-covid-assessment-service/) show that around 5,000 people a month are being referred to these specialist services. Yet the clinics have no proven drug treatments to call upon. Health professionals instead help people to manage their symptoms, and become better able to cope with daily tasks.
+
+[**Setting up dedicated long COVID research funding**](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Since the start of the pandemic, the NIHR has been funding studies on acute COVID-19, such as those that showed the efficacy of treatments and vaccines. In July 2020, the NIHR [funded a £8.4 million research study into the long-term health effects of COVID-19 on hospitalised patients](https://www.nihr.ac.uk/news/major-study-into-long-term-health-effects-of-covid-19-launched-in-the-uk/25200). By then it was becoming clear that some people with COVID-19 experience persistent symptoms even if they are not hospitalised with the illness. It was an obvious next step to undertake research to tackle the longer-term effects of the disease.
+
+The NIHR put out two UK-wide calls for research into the long-term physical and mental health effects of COVID-19 in people who hadn’t been admitted to hospital. The [first (run jointly with UKRI) went out in November 2020](https://www.nihr.ac.uk/news/new-20m-call-for-research-into-physical-and-mental-effects-of-long-covid/26163) and [the second in March 2021.](https://www.nihr.ac.uk/news/nihr-launches-second-20-million-long-covid-funding-call/27331)
+
+A feature of the NIHR’s research into long COVID is the involvement of patients, carers and members of the public. Patient testimony informed the narrative reviews. People with long COVID and members of the public reviewed proposals put forward by researchers, and sat on the committees that determined which research should be recommended for funding. NIHR is continuing to learn from their experience.
+
+The NIHR’s research portfolio examines the underlying mechanisms of long COVID, investigates symptoms such as ‘brain fog’ and breathlessness, and tests possible treatments. It explores whether NHS services, such as long COVID clinics, meet people’s needs and looks at what people can do to optimise their own recovery.
+
+This portfolio is complemented by studies from other NIHR funding programmes, such as two virtual rehabilitation projects ([Rehabilitation Exercise and psycholoGical support After covid-19 InfectioN](https://www.fundingawards.nihr.ac.uk/award/NIHR132046), £1.2m; [Supported remote rehabilitation post Covid-19: development, deployment and evaluation of a digitally enabled rehabilitation programme](https://www.fundingawards.nihr.ac.uk/award/NIHR132243), £782,000), and a study looking at treating ongoing loss of smell in people who have had COVID ([Prevention and treatment of persisting olfactory dysfunction after Covid-19 infection](https://www.fundingawards.nihr.ac.uk/award/NIHR132103), £34,000)
+
+**[What is the biological cause of long COVID?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Why the symptoms of long COVID can persist for months after the initial illness remains a mystery. Before researchers can develop treatments targeted at long COVID, they need to understand its biological causes. The predominant hypotheses are either that people with long COVID never fully clear the virus from their systems; or that the illness results from a dysfunctional immune response, explains Professor David Price, from the School of Medicine, Cardiff University.
+
+Professor Price is planning to investigate whether small fragments of coronavirus persist in the bodies of people with long COVID long after the immune system should have eliminated the virus ([Immunologic and virologic determinants of Long Covid](https://www.cardiff.ac.uk/news/view/2535247-cardiff-university-awarded-major-funding-to-research-long-covid), £774,000). At least 200 people with long COVID will be invited for a series of biological tests on their blood, stool, and saliva samples.
+
+“If we get a signal from these tests, we’ll follow it up and see how far it predicts disease severity,” says Professor Price. “Patients are frustrated that there aren’t any answers out there now – or at least none that have been validated. It’s really pressing that we do this as quickly as we can.”
+
+At Imperial College London, Professor Danny Altmann and Professor Rosemary Boyton are also exploring the mechanisms underpinning long COVID ([Immune analysis of Long Covid to inform rational choices in diagnostic testing and therapeutics](https://fundingawards.nihr.ac.uk/award/COV-LT2-0027), £574,000). The team are analysing blood samples from people with long COVID who were not hospitalised, and comparing them to people without COVID, and to those who recovered rapidly. The research aims to identify relevant biomarkers which could lead to better diagnostic tests and treatments.
+
+**[How common is long COVID?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+------------------------------------------------------------------------------------------------------------------------------------------
+
+The key to better understanding long COVID is knowing how it manifests in people and why some experience long-term health effects following coronavirus infection and others do not. [The REACT study](https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/), led by Professor Paul Elliott and Professor Helen Ward at Imperial College London, has tracked England’s epidemic since April 2020. Hundreds of thousands of volunteers are using home testing (swab and antibody tests) each month.
+
+In February 2021, REACT was expanded to investigate long COVID ([REACT-LC](https://fundingawards.nihr.ac.uk/award/COV-LT-0040), £5.4 million) and track any persistent or new symptoms the volunteers experienced. Much published research on long COVID has included only people who were hospitalised or treated at specialist clinics. We now know that even people with mild symptoms can go on to develop long COVID. REACT therefore focuses on people in the community.
+
+In June 2021, the team examined data from half a million adults and found that [one in three who reported having COVID, also reported symptoms that lasted 12 weeks](https://www.nihr.ac.uk/news/up-to-one-in-three-people-who-have-had-covid-19-report-long-covid-symptoms/27979) or more. This equates to one in 20 adults in England having long COVID at some point. The study showed that women, older people, people who smoke, are overweight or obese, or who live in deprived areas appear to have a higher risk of developing long COVID.
+
+“A population-based study is a really useful resource in terms of exploring the full range of symptoms someone might experience after a positive COVID-19 test,” says Professor Helen Ward, Professor of Public Health at Imperial College London and co-lead of REACT-LC. “Patients have been critical in defining long COVID. We’re partners with the patients in this research process.”
+
+Around 10,000 people who had a positive COVID result during the study had further tests to look for genetic and other possible biological markers for long COVID. Researchers hope to be able to use this data to find clues for possible causes of the illness. This in turn could point to potential treatments, including medications that are already used for other conditions.
+
+**[What are the symptoms?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+---------------------------------------------------------------------------------------------------------------------------------------
+
+The lasting symptoms of SARS-CoV-2 infection reported by people living with long COVID are manifold. The NIHR review in October 2020 characterised these symptoms. It concluded that, since long COVID affects people in such different ways, it may be four different syndromes.
+
+Researchers at the University of Birmingham are conducting the TLC study ([Therapies for Long COVID in non-hospitalised individuals: From symptoms, patient-reported outcomes and immunology to targeted therapies](https://fundingawards.nihr.ac.uk/award/COV-LT-0013), £2.3 million). This study aims to build a clearer picture of what long COVID is. [Its first report, published in the _Journal of the Royal Society of Medicine_](https://www.nihr.ac.uk/news/people-with-five-or-more-symptoms-more-likely-to-develop-long-covid/28195)_,_ sheds light on the ten most commonly reported symptoms. These are: fatigue, shortness of breath, muscle pain, cough, headache, joint pain, chest pain, change in sense of smell and/or taste, and diarrhoea. Other common symptoms include cognitive impairment, memory loss, anxiety and sleep disorders. This review also suggests that people who had five or more symptoms of COVID-19 in the first week of infection are significantly more likely to develop long COVID. [Further research by this group has developed a comprehensive tool to assess the symptoms of long COVID and their impact on everyday life](https://www.nihr.ac.uk/news/researchers-create-new-tool-to-assess-symptoms-of-long-covid/30448).
+
+“This confirms what patients have been saying from the beginning: long COVID doesn't just affect one part of your body,” says TLC co-lead Dr Shamil Haroon. “It affects multiple systems. And has multiple effects.”
+
+**[Do children experience long COVID?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Children are unlikely to experience severe acute illness if they contract COVID-19, but unfortunately, some go on to develop long COVID. The CLoCk study ([Non-hospitalised Children and young people with Long Covid](https://fundingawards.nihr.ac.uk/award/COV-LT-0022), £1.9 million) is exploring the prevalence of long COVID in children, and the symptoms most likely to persist weeks after initial infection. It involves collaborators from universities in London, Bristol, Edinburgh and Manchester. It is the world’s largest study of long COVID in children and young people, with 20,000 participants enrolled. Those who have had COVID-19 will be compared to a control group who have never tested positive for the virus.
+
+Researchers will ask participants if they still have physical or mental health problems at 3, 6, 12 and 24 months after infection. Participants’ parents and carers will be encouraged to help complete the surveys. The researchers hope the data will help doctors diagnose long COVID in young people, establish how common it is, and how long symptoms might persist.
+
+The CLoCK study was set up in response to conflicting evidence which has suggested that long COVID could affect as few as 1% of children infected with coronavirus; or up to as many as half.[Early findings from the CLoCK’s 3-month follow-up](https://www.nihr.ac.uk/news/first-findings-from-worlds-largest-study-on-long-covid-in-children-and-young-people/28572) suggest that around one in seven (14%) children and young people who catch SARS-CoV-2 have three or more physical symptoms attributable to the virus 15 weeks later.
+
+“The size of our study allowed us to be much more confident that the prevalence wasn’t going to be as big as was feared, but nor was it as trivial as some research suggested,” says Professor Stephenson (who leads the study). “It’s not a figment of people’s imagination. Long COVID really exists and should be taken seriously.”
+
+**[How can health professionals accurately diagnose long COVID?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+More targeted treatments for people with long COVID will also come from healthcare professionals knowing what to look for when they diagnose the illness and which factors might make someone more likely to develop it.
+
+Professor Nishi Chaturvedi from UCL leads the CONVALESCENCE study ([Characterisation, determinants, mechanisms and consequences of the long-term effects of Covid-19: providing the evidence base for health care services](https://www.ucl.ac.uk/covid-19-longitudinal-health-wellbeing/convalescence-long-covid-study), £9.6 million). This study aims to define long COVID.
+
+Researchers from all over the UK, 130 in all, are analysing the health records of 1.2 million people, together with 10 population-based cohort studies which include more than 45,000 participants. This huge analytical endeavour aims to determine if certain medical conditions increase the risk of developing long COVID. So far, researchers have found that [1.2% of young adults (and 4.8% of people in middle age) report symptoms that limit their daily life following COVID-19 infection](https://www.nihr.ac.uk/news/up-to-one-in-three-people-who-have-had-covid-19-report-long-covid-symptoms/27979). Long COVID appears to be associated with increasing age, female sex and pre-existing conditions such as asthma.
+
+The team will conduct in-depth interviews with at least 80 participants with long COVID to understand their experiences and perspectives. These people are from across the UK and are aged from 20 to 75 years. Some (alongside a control group) will be asked to wear a wristband measuring their exercise ability, breathing and heart rate. They will also undergo non-invasive imaging scans to look for signs of damage to organs such as the heart and lungs.
+
+Ongoing breathlessness after COVID-19 infection can be debilitating. The EXPLAIN project ([Hyperpolarised xenon magnetic resonance pulmonary imaging in patients with Long-Covid](https://fundingawards.nihr.ac.uk/award/COV-LT2-0049); £1.9 million) is led by University of Oxford’s Professor Fergus Gleeson. EXPLAIN aims to determine what proportion of patients with long COVID and breathlessness have damaged lungs, and how long it takes them to recover.
+
+Gleeson is using MRI scans to trace inhaled xenon gas moving into and out of the lungs. The 15-minute scan might provide a more accurate measure of lung function than current NHS tests. Early results suggest that [xenon MRI scans can identify abnormalities in the lungs of long COVID patients with breathlessness, even when all other tests are normal](https://oxfordbrc.nihr.ac.uk/lung-abnormalities-found-in-long-covid-patients-with-breathlessness/).
+
+Researchers also want to determine how long COVID might affect the brain. [Some studies suggest more than three-quarters of people with the illness report problems with memory, attention and ‘brain fog’](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00299-6/fulltext). Dr Dennis Chan’s’s CICERO study ([Cognitive Impairment in Long Covid: PhEnotyping and RehabilitatiOn](https://fundingawards.nihr.ac.uk/award/COV-LT2-0014), £1.3 million) at UCL is exploring the relationship between brain function and long COVID symptoms, using MRI scanning to identify the brain networks that are affected.
+
+**[Can medicines and vaccines help people with long COVID?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Thanks to research such as the [RECOVERY trial](https://www.recoverytrial.net/), several drugs have now been shown to be effective in the acute stages of COVID-19; they improve the chances that hospitalised patients will survive. But unfortunately, we don’t yet have evidence for medicines to relieve long COVID. The STIMULATE-ICP study ([Symptoms, trajectory, inequalities and management: understanding Long Covid to address and transform existing integrated care pathways](https://fundingawards.nihr.ac.uk/award/COV-LT2-0043), £7 million), led by UCL researchers, aims to change this.
+
+The study is recruiting patients who have been referred to NHS long COVID clinical services. It will test the effectiveness of medicines that are used to treat other conditions. Researchers will measure the impact of three months’ treatment on people’s symptoms, their mental health, and ability to return to daily tasks such as going to work. Antihistamines, anti-clotting drugs and anti-inflammatory medicines are being tested, and other drugs may be added to this platform trial. The study will also assess whether MRI scans can help diagnose organ damage. In addition, researchers will test an app which tracks people’s symptoms and provides rehabilitation.
+
+“Long COVID patients have been neglected during the pandemic because the health service has been swamped by the acute needs of people with the virus. Because of that, we haven’t been as quick to acknowledge this new disease,” says chief investigator Professor Amitava Banerjee from UCL. “We would love to improve the treatment of these people.”
+
+Dr Haroon and TLC co-lead Professor Melanie Calvert, also from the University of Birmingham, are also aiming to identify treatments that are likely to help people with long COVID. The TLC study uses a digital platform to assess whether the treatments and supportive interventions reduce symptoms, improve quality of life, and are good value for money.
+
+Vaccines are another approach. They have been shown to reduce the risk of severe acute COVID-19. Anecdotal reports suggest that long COVID patients might experience relief after receiving a COVID-19 vaccine, and a turning point in their illness.
+
+A team at the University of Oxford, led by Professor Daniel Prieto-Alhambra, is using NHS data to determine whether COVID-19 vaccination can protect against developing long COVID ([Impact of COVID-19 vaccination on preventing long COVID: a population-based cohort study using linked NHS data](https://fundingawards.nihr.ac.uk/award/COV-LT2-0006), £233,000).
+
+**[How can health services best support people with long COVID?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+As well as finding medicines for long COVID, we need to know which health services are most useful for people with the illness – and which health professionals are best placed to help them. The LOCOMOTION study ([Long Covid multidisciplinary consortium: optimising treatments and services across the NHS](https://fundingawards.nihr.ac.uk/award/COV-LT2-0016), £3.4 million) is led jointly by Dr Manoj Sivan at the University of Leeds and Professor Brendan Delaney at Imperial College London. It aims to develop a ‘gold standard’ approach for treating long COVID in the NHS.
+
+LOCOMOTION is investigating how to ensure patients receive the right support from healthcare professionals, such as GPs and physiotherapists. Researchers will interview healthcare staff, and more than 5,000 patients being treated at 10 NHS sites offering long COVID services. The study will determine which services are most efficient, accessible and cost-effective.
+
+Co-leader Dr Manoj Sivan previously developed the first long COVID diagnostic scale, called [C19-YRS](https://c19-yrs.com/). It is now widely used across the NHS for capturing the severity of symptoms that persist for longer than a month after contracting COVID-19.
+
+“Over the last 18 months, various services have emerged for long COVID patients,” says Dr Sivan. “But they’ve all emerged from different sectors of the healthcare system, from GPs to physiotherapists. And there’s quite a lot of variation in the care being offered. We’re trying to bring in some standardisation.”
+
+**[How can healthcare professionals prioritise the needs of people with long COVID?](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Standardisation should improve overall standards of care, but there should also be room for some flexibility in a treatment programme. Since long COVID can manifest in different people in different ways, a recovery programme tailored to individual needs might help. The LISTEN project ([Long Covid Personalised Self-managemenT support - co-design and EvaluatioN](https://fundingawards.nihr.ac.uk/award/COV-LT2-0009), £1.1 million), led by Professor Fiona Jones from the University of Kingston and Professor Monica Busse of Cardiff University, aims to develop a personalised rehabilitation programme to help people recover from long COVID.
+
+The team are working with people living with, or recovered from, long COVID, including those from under-served populations. Together, they will design a package of tools and tips that people can use to enhance their own recovery. They will also train rehabilitation professionals to focus on listening to the needs of patients. This package is designed to be used along with up to six coaching sessions from rehabilitation practitioners who will deliver personalised therapy. One resource, for instance, describes how to prioritise rest during the recovery journey – and why it’s so important.
+
+“Long COVID is challenging for healthcare professionals because they’re used to having the answers,” says Professor Jones. “This is about the practitioners sitting alongside the patients and going on their journey with them.”
+
+The researchers will then conduct a trial to explore whether the self-management package (including the coaching sessions) helps people with long COVID cope better with their everyday activities. They want to see if it is more effective than the information currently given out to patients by the NHS. If it is, the team will explore how the package might be implemented more widely across the health service.
+
+Researchers are also considering how to ensure that research focuses on the elements of long COVID that are most important to those who have the condition. For example, the CLoCk study has [defined long COVID in children. The PC-COS](https://www.nihr.ac.uk/news/new-definitions-for-long-covid-developed-with-patients-and-carers/29865)([Post-Covid Condition Core Outcomes](https://fundingawards.nihr.ac.uk/award/COV-LT2-0072), £171,000)[has explored the key effects and health outcomes of Long Covid.](https://www.nihr.ac.uk/news/new-definitions-for-long-covid-developed-with-patients-and-carers/29865)Both studies involved patients and carers.
+
+**[Conclusion](https://evidence.nihr.ac.uk/themedreview/researching-long-covid-addressing-a-new-global-health-challenge/)**
+---------------------------------------------------------------------------------------------------------------------------
+
+To unravel the mysteries of long COVID, and discover the most promising treatments and interventions, research must be wide-ranging. Many urgent questions remain unanswered. Who is most at risk of developing the condition? What is its underlying biology? And which medical treatments and rehabilitation techniques will help patients return to their daily tasks and normal wellbeing?
+
+Undertaking research on a new disease area is always challenging. And understanding long COVID is particularly difficult, because its reported symptoms are highly varied, and don’t fit neatly into current clinical categories. Plus, many people who self-report persistent symptoms were not tested for coronavirus at the time of their initial infection, making it harder to clearly delineate the target patient population. What’s more, the ongoing pandemic continues to disrupt normal working conditions for many researchers.
+
+Considering the illness from multiple angles maximises the chances of finding answers and treatments. Early results from the portfolio are moving us progressively closer to understanding the true prevalence of long COVID and who is most likely to be affected. Ongoing research aims to find out how healthcare services can provide the best care for the many who present with ongoing symptoms following initial COVID-19 infection – and which medications will provide relief.
+
+The NIHR continues to accept research proposals on long COVID through its usual funding calls. The organisation has processes in place to expedite where necessary the decision-making process for priority long COVID proposals. We will also continue to learn from those with long COVID, experts by experience, about how to make the most of this collaborative partnership.
+
+**Disclaimer:**This publication is not a substitute for professional healthcare advice. It provides information about research which is funded or supported by the NIHR. Please note that views expressed are those of the author(s) and reviewer(s) at the time of publication. They do not necessarily reflect the views of the NHS, the NIHR or the Department of Health and Social Care.
+
+Appendix: List of funded studies
+
+1.   [REACT Long Covid (REACT-LC)](https://fundingawards.nihr.ac.uk/award/COV-LT-0040), Professor Paul Elliott, Imperial College London – £5.4 million
+2.   [Therapies for Long Covid in non-hospitalised individuals: from symptoms, patient-reported outcomes and immunology to targeted therapies (TLC)](https://fundingawards.nihr.ac.uk/award/COV-LT-0013), Dr Shamil Haroon and Professor Melanie Calvert, University of Birmingham – £2.3 million
+3.   [Characterisation, determinants, mechanisms and consequences of the long-term effects of Covid-19: providing the evidence base for health care services (CONVALESCENCE)](https://fundingawards.nihr.ac.uk/award/COV-LT-0009), Professor Nishi Chaturvedi, University College London – £9.6 million
+4.   [Non-hospitalised children and young people with Long Covid (The CLoCk Study)](https://fundingawards.nihr.ac.uk/award/COV-LT-0022), Professor Sir Terence Stephenson, UCL Great Ormond Street Institute of Child Health – £1.9 million
+5.   [Symptoms, Trajectory, Inequalities and Management: Understanding Long-Covid to Address and Transform Existing Integrated Care Pathways (STIMULATE-ICP)](https://fundingawards.nihr.ac.uk/award/COV-LT2-0043), Professor Amitava Banerjee, University College London Hospitals NHS Trust – £7m
+6.   [Long Covid multidisciplinary consortium: optimising treatments and services across the NHS (LOCOMOTION)](https://fundingawards.nihr.ac.uk/award/COV-LT2-0016), Dr Manoj Sivan, University of Leeds – £3.4m
+7.   [Hyperpolarised xenon magnetic resonance pulmonary imaging in patients with Long-Covid (EXPLAIN)](https://fundingawards.nihr.ac.uk/award/COV-LT2-0049), Professor Fergus Gleeson, University of Oxford – £1.9m
+8.   [Cognitive Impairment in Long Covid: PhEnotyping and RehabilitatiOn (CICERO)](https://fundingawards.nihr.ac.uk/award/COV-LT2-0014), Dr Dennis Chan, University College London – £1.3m
+9.   [Long Covid Personalised Self-managemenT support – co-design and EvaluatioN (LISTEN)](https://fundingawards.nihr.ac.uk/award/COV-LT2-0009), Professor Fiona Jones, Kingston University – £1.1m
+10.   [Remote Diet Intervention to Reduce Long Covid symptoms Trial (ReDIRECT)](https://fundingawards.nihr.ac.uk/award/COV-LT2-0059), Dr David Blane, University of Glasgow – £1m
+11.   [The immunologic and virologic determinants of Long Covid](https://www.cardiff.ac.uk/news/view/2535247-cardiff-university-awarded-major-funding-to-research-long-covid), Professor David Price, Cardiff University – £774,457
+12.   [Quality-of-life in patients with Long Covid: harnessing the scale of big data to quantify the health and economic costs](https://fundingawards.nihr.ac.uk/award/COV-LT2-0073), Dr Rosalind Eggo, London School of Hygiene and Tropical Medicine – £676,520
+13.   [Percutaneous Auricular Nerve Stimulation for Treating Post-Covid Fatigue (PAuSing-Post-Covid Fatigue)](https://fundingawards.nihr.ac.uk/award/COV-LT2-0022), Dr Mark Baker, Newcastle University – £640,180
+14.   [Immune analysis of Long Covid to inform rational choices in diagnostic testing and therapeutics](https://fundingawards.nihr.ac.uk/award/COV-LT2-0027), Professor Daniel Altmann, Imperial College – £573,769
+15.   [Understanding and using family experiences of managing Long Covid to support self care and timely access to services](https://fundingawards.nihr.ac.uk/award/COV-LT2-0005), Professor Sue Ziebland, University of Oxford – £557,674
+16.   [Development of a robust T cell assay to retrospectively diagnose SARS-CoV-2 infection and assays as diagnostic and monitoring tools in Long Covid patients](https://fundingawards.nihr.ac.uk/award/COV-LT2-0004), Dr Mark Wills, University of Cambridge – £372,684
+17.   [Using Activity Tracking and Just-In-Time Messaging to Improve Adaptive Pacing: A Pragmatic Randomised Control Trial](https://fundingawards.nihr.ac.uk/award/COV-LT2-0010), Professor Nicholas Sculthorpe, University of the West of Scotland – £437,398
+18.   [Impact of Covid-19 vaccination on preventing Long Covid: a population-based cohort study using linked NHS data](https://fundingawards.nihr.ac.uk/award/COV-LT2-0006), Professor Daniel Prieto-Alhambra, University of Oxford – £233,115
+19.   [Long Covid Core Outcome Set project (LC-COS)](https://fundingawards.nihr.ac.uk/award/COV-LT2-0072), Dr Tim Nicholson, King’s College London – £171,285
+
+NIHR Evidence is covered by the [creative commons, CC-BY licence](https://creativecommons.org/licenses/by/4.0/). Written content and infographics may be freely reproduced provided that suitable acknowledgement is made. Note, this licence excludes comments and images made by third parties, audiovisual content, and linked content on other websites.

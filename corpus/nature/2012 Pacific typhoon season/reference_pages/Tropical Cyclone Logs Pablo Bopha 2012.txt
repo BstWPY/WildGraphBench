@@ -1,0 +1,218 @@
+# Tropical Cyclone Logs: Pablo (Bopha) 2012
+
+![Image 1: Ty2000 Storm Log logo](https://www.typhoon2000.ph/stormloglog.gif)
+
+**[JTWC](http://www.typhoon2000.ph/26W12_log.htm#jtwc) | [PAGASA](http://www.typhoon2000.ph/26W12_log.htm#pagasa) | [RSMC-JMA](http://www.typhoon2000.ph/26W12_log.htm#jma)**
+* - Eye/O:
+
+Round | Eye/C: Cloud-Filled | Eye/E: Elliptical | Eye/R: Ragged | Eye/I: Irregular | Eye/CC: Concentric
+
+Eye/S: Symmetrical | Eye/P: Pinhole[](http://www.typhoon2000.ph/26W12_log.htm)
+
+* * *
+
+![Image 2: A 21x21 small image, likely a logo, icon or avatar](https://www.typhoon2000.ph/p-blue.gif)CODE LOG: TWENTYSIXLOG.2612     
+
+**JTWC Tropical Cyclone Warning Log**
+
+Name: **Super Typhoon BOPHA (26W)**
+Date: 12-09-12
+Updated: 11:15 AM (03:15 GMT)
+
+                                  1-min.Winds 
+Warning  Date/Time                 (in Knots)   Direction of    
+Number   (in UTC)    Lat   Lon     Sust  Gust   Movement (Kts)  Classfctn   Remarks
+------------------------------------------------------------------------------------------------
+...      25/1630Z    3.1N 157.8E    20   25      W       05     TropDis     Initial/TCFA
+001      25/1800Z    3.6N 157.0E    25   35      WNW     08     TropDep     Upgraded
+002      26/0000Z    4.2N 156.6E    30   40      NW      07     TropDep     Intensified
+003      26/0600Z    4.5N 156.0E    30   40      WNW     07     TropDep     Changed Course
+004      26/1200Z    4.7N 155.4E    30   40      WNW     06     TropDep     Slowed Down
+005      26/1800Z    4.2N 156.0E    30   40      W       02     TropDep     Relocated
+006      27/0000Z    4.4N 155.8E    35   45      WNW     02     TropStm     Upgraded
+007      27/0600Z    4.5N 155.7E    35   45      NW      01     TropStm     Quasi-Stationary
+008      27/1200Z    4.6N 155.5E    45   55      WNW     02     TropStm     Rapidly Intensified
+009      27/1800Z    4.7N 155.1E    45   55      WNW     04     TropStm     Accelerated
+010      28/0000Z    4.7N 154.4E    50   65      W       06     TropStm     Intensified
+011      28/0600Z    5.0N 153.0E    50   65      W       12     TropStm     Accelerated
+012      28/1200Z    5.0N 152.1E    55   70      W       09     TropStm     Intensified
+013      28/1800Z    4.4N 150.7E    55   70      WSW     12     TropStm     Changed Course
+014      29/0000Z    4.1N 149.6E    55   70      WSW     11     TropStm     ...
+015      29/0600Z    4.0N 148.8E    50   65      W       08     TropStm     Weakened
+016      29/1200Z    3.8N 147.9E    50   65      WSW     09     TropStm     ...
+017      29/1800Z    3.6N 146.9E    50   65      W       11     TropStm     Accelerated
+018      30/0000Z    3.5N 146.2E    55   70      W       09     TropStm     Intensified
+019      30/0600Z    3.8N 145.2E    65   80      WNW     10     Typhoon-1   Upgraded
+020      30/1200Z    4.2N 144.3E    65   80      WNW     10     Typhoon-1   ...
+021      30/1800Z    4.4N 143.0E    90   110     W       12     Typhoon-2   15-NM Eye/O*
+022      01/0000Z    4.7N 142.0E    115  140     WNW     10     Typhoon-4   Rpdly Intnsfd
+023      01/0600Z    5.0N 141.2E    115  140     WNW     09     Typhoon-4   Slowed Down
+024      01/1200Z    5.4N 140.1E    115  140     WNW     12     Typhoon-4   Accelerated
+025      01/1800Z    5.8N 138.8E    125  150     WNW     14     Typhoon-4   Near STY
+026      02/0000Z    6.1N 137.6E    130  160     WNW     12     SuperTy-4   Upgraded
+027      02/0600Z    6.3N 136.0E    135  165     W       16     SuperTy-4   Accelerated
+028      02/1200Z    6.5N 134.6E    135  165     W       14     SuperTy-4   Enters PAR
+029      02/1800Z    6.5N 133.1E    115  140     W       15     Typhoon-4   Weakened
+030      03/0000Z    6.7N 131.6E    105  130     W       15     Typhoon-3   Weakened
+031      03/0600Z    6.9N 130.4E    115  140     W       12     Typhoon-4   Eye Emerged
+032      03/1200Z    7.4N 128.9E    140  170     WNW     16     SuperTy-5   09-NM. Eye/O*
+033      03/1800Z    7.5N 127.2E    140  170     W       17     SuperTy-5   Near Landfall
+034      04/0000Z    7.7N 126.0E    110  135     W       12     Typhoon-3   Landfall
+035      04/0600Z    8.7N 124.1E    95   115     WNW     19     Typhoon-2   Weakened/Acclrtd
+036      04/1200Z    9.6N 122.3E    85   105     WNW     20     Typhoon-2   Acclrtd/Weakened
+037      04/1800Z    9.7N 120.9E    85   105     WNW     16     Typhoon-2   Slowed Down
+038      05/0000Z   10.7N 119.7E    80   100     WNW     12     Typhoon-1   Near N. Palawan
+039      05/0600Z   10.6N 118.7E    80   100     WNW     12     Typhoon-1   Over West Phl Sea
+040      05/1200Z   11.3N 117.8E    75   90      NW      11     Typhoon-1   Weakened
+041      05/1800Z   11.6N 117.9E    65   80      NW      05     Typhoon-1   Weakened
+042      06/0000Z   11.9N 117.1E    65   80      WNW     06     Typhoon-1   Slowed Down
+043      06/0600Z   12.4N 116.5E    60   75      NW      08     TropStm     Downgraded
+044      06/1200Z   12.8N 116.3E    55   70      NNW     04     TropStm     Weakened
+045      06/1800Z   13.3N 115.8E    50   65      NW      06     TropStm     Weakened
+046      07/0000Z   14.0N 115.5E    50   65      NNW     08     TropStm     Accelerated
+047      07/0600Z   14.6N 115.9E    80   100     NNE     07     Typhoon-1   Upgraded
+048      07/1200Z   15.4N 116.2E    110  135     NNE     09     Typhoon-3   11-NM Eye/R*
+049      07/1800Z   16.1N 116.4E    110  135     NNE     07     Typhoon-3   ...
+050      08/0000Z   16.9N 116.9E    105  130     NE      08     Typhoon-3   Weakened
+051      08/0600Z   17.3N 117.9E    100  125     ENE     09     Typhoon-3   Apprchng Ilocos
+052      08/1200Z   17.7N 118.7E    85   105     ENE     08     Typhoon-2   Weakened Rapidly
+053      08/1800Z   18.1N 119.0E    45   55      NE      05     TropStm     Downgraded
+054      09/0000Z   18.3N 119.2E    25   35      NE      03     TropDep     Downgraded/Final
+
+Note: The above data are taken from its real-time, 6-hrly. TC Warnings. The Best Track data
+      for this system will be released on the upcoming 2011 Annual Tropical Cyclone Report 
+      sometime next year (2013). For details proceed to [this link.](http://www.usno.navy.mil/JTWC/annual-tropical-cyclone-reports) 
+****[[top](http://www.typhoon2000.ph/26W12_log.htm#top)]****[](http://www.typhoon2000.ph/26W12_log.htm)
+
+* * *
+
+![Image 3: A 21x21 small image, likely a logo, icon or avatar](https://www.typhoon2000.ph/pinpurpl.gif)CODE LOG: PABLOG.1612   
+  
+**PAGASA Tropical Cyclone Warning Log**
+
+Name: **Typhoon PABLO**
+Date: 12-10-12
+Updated: 7:40 AM (23:40 GMT)
+
+                                    10-min.Winds 
+Warning  Date/Time                    (in Kph)    Direction of    Pressure  
+Number   (in UTC)     Lat   Lon      Sust  Gust   Movement (Kph)  (in mb)    Status
+-----------------------------------------------------------------------------------------
+01*      02/0000Z     6.2N 137.6E    185   220      WNW    22      943       Typhoon
+02       02/0600Z     6.3N 135.9E    185   220      WNW    22      943       Typhoon
+03       02/1200Z     6.4N 134.2E    185   220      WNW    26      943       Typhoon
+04       02/1800Z     6.6N 133.3E    175   210      WNW    22      948       Typhoon
+05       03/0000Z     6.9N 131.8E    175   210      WNW    22      948       Typhoon
+06       03/0600Z     7.0N 130.4E    175   210      W      26      948       Typhoon
+07       03/1200Z     7.4N 128.8E    175   210      W      26      948       Typhoon
+08       03/1800Z     7.5N 127.3E    175   210      W      26      948       Typhoon
+09       04/0000Z     7.9N 125.8E    160   195      WNW    19      958       Typhoon
+10       04/0600Z     8.8N 124.0E    160   195      WNW    22      958       Typhoon
+11       04/1200Z     9.6N 122.2E    140   170      WNW    22      967       Typhoon
+12       04/1800Z    10.2N 120.6E    130   160      WNW    22      972       Typhoon
+13       05/0000Z    10.4N 119.6E    120   150      NW     19      976       Typhoon
+14       05/0600Z    11.1N 118.9E    120   150      WNW    15      976       Typhoon
+15       05/1200Z    11.5N 118.2E    120   150      WNW    07      976       Typhoon
+16       05/1800Z    12.5N 116.9E    115   145      WNW    11      975       SeveStm
+17       06/0000Z    12.2N 116.7E    115   145      WNW    07      978       SeveStm
+18       06/0600Z    12.4N 116.4E    120   150      WNW    07      976       Typhoon
+19       06/1200Z    12.6N 116.3E    120   150      NNW  Slowly    976       Typhoon
+20       06/1800Z    13.2N 115.8E    110   140      NNW  Slowly    980       SeveStm
+21       07/0000Z    13.8N 115.8E    110   140      NNW    07      980       SeveStm
+22       07/0600Z    14.8N 115.8E    120   150      NNE    07      976       Typhoon
+23       07/1200Z    15.4N 115.9E    130   160      NNE    07      972       Typhoon
+24       07/1800Z    16.1N 116.2E    130   160      NNE    07      972       Typhoon
+25       08/0000Z    16.8N 116.8E    130   160      NE     11      972       Typhoon
+26       08/0600Z    17.4N 117.9E    130   160      NNE    15      972       Typhoon
+27       08/1200Z    17.7N 118.9E    120   150      E      15      976       Typhoon
+28       08/1800Z    17.9N 119.6E    95    120      ENE    15      987       SeveStm
+29       09/0000Z    18.3N 119.7E    55    ...      ENE  Slowly    997       TropDep
+30**     09/0600Z    18.3N 119.4E    ..    ...      ...    ..      ...       TropDis
+
+Note: * - Initial Warning, ** - Final Warning, # - Re-Issued, ^ - Amended
+****[[top](http://www.typhoon2000.ph/26W12_log.htm#top)]****[](http://www.typhoon2000.ph/26W12_log.htm)
+
+* * *
+
+![Image 4: A 21x21 small image, likely a logo, icon or avatar](https://www.typhoon2000.ph/pingreen.gif)CODE LOG: BOPHALOG.1224     
+
+**RSMC-JMA (Tokyo) Typhoon Center Tropical Cyclone Warning Log**
+
+Name: **Typhoon 1224 BOPHA (1224)**
+Date: 12-10-12
+Updated: 8:10 AM (00:10 GMT)
+
+                         10-min.Winds 
+Date/Time                  (in Kts)    Direction of    Pressure
+(in UTC)    Lat   Lon     Sust  Gust   Movement (Kts)  (in mb)  Status     Remarks
+-------------------------------------------------------------------------------------------
+25/1800Z    3.4N 156.9E    30   45      WNW  Slowly     1004    TropDep   Initial
+26/0000Z    3.6N 156.9E    30   45      Almst Stnry     1008    TropDep   ...
+26/0600Z    4.0N 156.8E    30   45      Almst Stnry     1004    TropDep   Prssre Dropping
+26/1200Z    4.1N 156.7E    30   45      Almst Stnry     1006    TropDep   Barely Moving
+26/1800Z    4.1N 156.3E    35   50      W    Slowly     1002    TropStm   Upgraded
+27/0000Z    4.1N 156.1E    35   50      Almst Stnry     1002    TropStm   Barely Moving
+27/0600Z    4.4N 155.4E    35   50      WNW  Slowly     1004    TropStm   ...
+27/1200Z    4.4N 155.3E    35   50      Almst Stnry     1002    TropStm   ...
+27/1800Z    4.4N 155.1E    40   60      Almst Stnry     998     TropStm   Intensified
+28/0000Z    4.7N 154.5E    40   60      W    Slowly     998     TropStm   ...
+28/0600Z    4.8N 153.3E    40   60      W      08       998     TropStm   Accelerated
+28/1200Z    4.9N 151.7E    40   60      W      10       998     TropStm   Accelerated
+28/1800Z    4.7N 151.0E    45   65      WSW    08       994     TropStm   Intensified
+29/0000Z    4.0N 150.0E    45   65      WSW    10       994     TropStm   Changed Course
+29/0600Z    3.8N 149.2E    45   65      WSW    10       994     TropStm   ...
+29/1200Z    3.5N 148.3E    45   65      WSW    08       994     TropStm   Slowed Down
+29/1800Z    3.6N 146.9E    45   65      W      12       994     TropStm   Accelerated
+30/0000Z    3.6N 146.3E    50   70      W      06       990     SeveStm   Upgraded
+30/0600Z    3.9N 145.3E    50   70      W      08       990     SeveStm   Accelerated
+30/1200Z    4.0N 144.2E    60   85      W      11       980     SeveStm   Intensified
+30/1800Z    4.4N 142.9E    75   105     W      12       965     Typhoon   Upgraded
+01/0000Z    4.7N 142.1E    90   130     WNW    09       945     Typhoon   Intnsfd Rpdly
+01/0600Z    5.1N 141.1E    90   130     WNW    10       945     Typhoon   ...
+01/1200Z    5.4N 140.0E    90   130     WNW    11       945     Typhoon   Accelerated
+01/1800Z    5.8N 138.8E    95   135     WNW    12       940     Typhoon   Intensified
+02/0000Z    6.2N 137.7E    100  140     WNW    12       935     Typhoon   Intensified
+02/0600Z    6.4N 136.0E    100  140     W      17       935     Typhoon   Rpdly Acclrtd
+02/1200Z    6.4N 134.6E    100  140     W      14       935     Typhoon   Slowed Down
+02/1800Z    6.5N 133.3E    90   130     W      13       940     Typhoon   Weakened
+03/0000Z    6.8N 131.8E    90   130     W      15       940     Typhoon   Accelerated
+03/0600Z    7.0N 130.4E    100  140     W      14       935     Typhoon   Re-Intensified
+03/1200Z    7.4N 128.9E    100  140     WNW    15       930     Typhoon   ...
+03/1800Z    7.6N 127.3E    100  140     W      16       930     Typhoon   Near Landfall
+04/0000Z    7.9N 125.9E    100  140     W      15       940     Typhoon   Landfall
+04/0600Z    8.7N 124.1E    70   100     WNW    17       970     Typhoon   Weakened/Acclrtd
+04/1200Z    9.2N 122.9E    65   95      WNW    15       975     Typhoon   Weakened
+04/1800Z    9.8N 120.6E    65   95      WNW    18       975     Typhoon   Accelerated
+05/0000Z    9.8N 119.8E    65   95      W      10       975     Typhoon   Near N. Palawan
+05/0600Z   10.5N 118.6E    65   95      WNW    10       975     Typhoon   ...
+05/1200Z   11.0N 118.0E    65   95      WNW    10       975     Typhoon   ...
+05/1800Z   11.6N 117.1E    65   95      NW     09       975     Typhoon   Slowing Down
+06/0000Z   12.0N 116.8E    65   95      NW   Slowly     975     Typhoon   Slowed Down
+06/0600Z   12.3N 116.2E    65   95      WNW  Slowly     975     Typhoon   ...
+06/1200Z   12.6N 116.2E    65   95      NNW  Slowly     975     Typhoon   ...
+06/1800Z   13.2N 115.8E    60   85      NNW  Slowly     980     SeveStm   Downgraded
+07/0000Z   13.7N 115.6E    60   85      NNW    06       980     SeveStm   Accelerated
+07/0600Z   14.6N 115.9E    70   100     N      07       970     Typhoon   Upgraded
+07/1200Z   15.4N 116.0E    90   130     N      08       945     Typhoon   Intensified
+07/1800Z   16.1N 116.2E    90   130     NNE    07       945     Typhoon   ...
+08/0000Z   16.8N 116.9E    85   120     NE     10       950     Typhoon   Weakened
+08/0600Z   17.5N 117.9E    80   115     NE     11       955     Typhoon   Weakened
+08/1200Z   17.9N 118.9E    70   100     E      08       965     Typhoon   Weakened
+08/1800Z   18.3N 119.7E    40   60      ENE    08       1002    TropStm   Downgraded
+09/0000Z   18.3N 119.3E    35   50      Almst Stnry     1002    TropStm   Disspating
+09/0600Z   18.0N 120.0E    25   ..      SE   Slowly     1004    TropDep   Dwngrdd/Final
+
+****[[top](http://www.typhoon2000.ph/26W12_log.htm#top)]****
+
+* * *
+
+Note:Updated time is in Philippine Standard Time Zone. All data are taken from its respective weather agencies: [Joint Typhoon Warning Center (JTWC)](http://www.usno.navy.mil/JTWC), [Philippine Atmospheric, Geophysical, & Astronomical Services Administration (PAGASA)](http://www.pagasa.dost.gov.ph/), &[Regional Specialized Meteorological Centre-Tokyo Typhoon Centre](http://www.jma.go.jp/en/typh/), Japan Meteorological Agency (RSMC-JMA).
+
+* * *
+
+Copyright © 2012 [Typhoon2000.com](mailto:webmaster@typhoon2000.ph)
+
+Naga City, Philippines 
+
+All Rights Reserved.
+[[close window]](http://www.typhoon2000.ph/26W12_log.htm#)

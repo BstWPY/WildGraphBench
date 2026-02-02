@@ -1,0 +1,229 @@
+# Steam Is on Chrome OS: Here's How to Start Gaming on a Chromebook
+
+Steam Is on Chrome OS: Here's How to Start Gaming on a Chromebook - CNET
+
+===============
+
+The Wayback Machine - https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/
+
+[March Madness Final Four](https://www.cnet.com/news/march-madness-final-four-how-to-watch-live-stream-kansas-vs-villanova-duke-vs-north-carolina-today/)[Amazon Union Wins in New York Election](https://www.cnet.com/news/amazon-union-scores-unexpected-win-in-new-york-election-a-first-in-the-us/)[Will Smith Resigns Academy Membership](https://www.cnet.com/culture/will-smith-resigns-academy-membership-after-slapping-chris-rock-at-oscars/)[Grammys 2022](https://www.cnet.com/culture/grammys-2022-tonight-how-to-watch-start-time-nominations-performers-and-more/)[Skippy Recalls Peanut Butter](https://www.cnet.com/news/skippy-recalls-peanut-butter-spread/)['Morbius' Review: Lacks Magic](https://www.cnet.com/culture/morbius-review-jared-leto-anemic-vampire-flick-missing-marvel-magic/)
+
+[](https://www.cnet.com/ "CNET Home")
+
+[### Tech](https://www.cnet.com/tech/)
+
+[### Tech](https://www.cnet.com/tech/)
+
+Hi, 
+
+Settings
+
+[My Profile](https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/)[Sign Out](https://www.cnet.com/user/logout/)
+
+Join / Sign In
+
+Editions
+
+Editions
+
+[English](https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/)[France](http://www.cnetfrance.fr/)[Germany](http://www.cnet.de/)[Japan](http://japan.cnet.com/)[Korea](http://www.cnet.co.kr/)
+
+Search
+
+Go
+
+[Featured](https://www.cnet.com/tech/)[Mobile](https://www.cnet.com/tech/mobile/)[Computing](https://www.cnet.com/tech/computing/)[Gaming](https://www.cnet.com/tech/gaming/)[Home Entertainment](https://www.cnet.com/tech/home-entertainment/)[Services & Software](https://www.cnet.com/tech/services-and-software/)
+
+Steam Is on Chrome OS: Here's How to Start Gaming on a Chromebook
+=================================================================
+
+It's still in alpha right now, but with the right Chromebook, you can play PC games from the Steam store.
+
+![Image 2: Joshua Goldman headshot](https://www.cnet.com/a/img/resize/56407c8ab829f2b3a8539c4e05e17e92c5503254/2012/12/05/711083dd-8ae8-11e2-9400-029118418759/Joshua_Goldman.jpg?auto=webp&fit=crop&height=84&width=84)
+
+Joshua Goldman[](http://www.twitter.com/ByJoshG)
+
+March 22, 2022 2:33 p.m. PT
+
+![Image 3: Joshua Goldman headshot](https://www.cnet.com/a/img/resize/56407c8ab829f2b3a8539c4e05e17e92c5503254/2012/12/05/711083dd-8ae8-11e2-9400-029118418759/Joshua_Goldman.jpg?auto=webp&fit=crop&height=84&width=84)
+
+Joshua Goldman
+
+Senior Editor / Reviews
+
+Joshua Goldman is a senior editor for CNET Reviews, covering laptops and the occasional action cam or drone and related accessories. He has been writing about and reviewing consumer technology and software since 2000.
+
+[See full bio](https://www.cnet.com/profiles/joshua.goldman/)
+
+*   [](https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/)
+    *   [](https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/)
+    *   [](https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/)
+    *   [](https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/)
+    *   [](https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/)
+
+![Image 4: A 1x1 image, likely be a tacker probe](https://i-cmg-amlg-prod.appspot.com/display?id=aeb9e9b8-f10b-4fe7-bff2-d9bb76578a5b)
+
+![Image 5: Acer Chromebook Spin 713 2021](https://www.cnet.com/a/img/resize/714da8f07464b9782d039f21f50a64f21c1dae37/2021/05/26/30038d35-1383-4120-adf5-d78ff2661af8/acer-chromebook-spin-713-evo-04.jpg?auto=webp&width=1092)
+
+The Acer Spin 713 is one of the few Chromebooks to support Steam on Chrome OS.
+
+ Josh Goldman/CNET 
+
+One of the biggest knocks against Chromebooks is that they're no good for gaming. There are Android games, but not all of them work. You can use a cloud gaming service such as[Google Stadia and Nvidia GeForce Now](https://www.cnet.com/tech/services-and-software/geforce-now-vs-google-stadia-good-and-bad-in-all-the-same-ways/), but that generally requires a subscription. But Google's been working on a bigger solution with help from game-maker Valve.
+
+A prerelease version of [Valve's Steam game store is now available to try on Chromebooks](https://www.cnet.com/tech/computing/google-chromebooks-getting-steam-store-for-more-games/) through the Chrome OS Dev channel. It's an early, alpha-quality version of Steam, so anything can break. Be prepared to face crashes, bugs and performance problems, Chrome OS Product Manager Zach Alcorn said in a [community forum post](https://support.google.com/chromebook/thread/156452389?hl=en).
+
+Also, it can currently only be enabled on a select set of Chromebooks with higher-end components:
+
+*   [Acer Chromebook 514 (CB514-1W)](https://www.cnet.com/tech/computing/acer-chromebook-514-review-everyday-performance-all-day-long/)
+*   Acer Chromebook 515 (CB515-1W) 
+*   [Acer Chromebook Spin 713 (CP713-3W)](https://www.cnet.com/tech/computing/acer-chromebook-spin-713-review-next-step-in-the-evolution-of-chromebooks/)
+*   Asus Chromebook Flip CX5 (CX5500) 
+*   Asus Chromebook CX9 (CX9400) 
+*   HP Pro c640 G2 Chromebook 
+*   [Lenovo IdeaPad Chromebook 5i](https://www.cnet.com/tech/computing/lenovo-flex-5i-chromebook-review-more-chromebook-for-the-money/)
+
+Even if you have one of these models, the Chromebook will need to have an 11th-gen Intel Core i5 or i7 processor (Core i3 configurations aren't supported), at least 8GB of memory and Intel Iris Xe Graphics. Due to the instability of the alpha version, it's best not to test it out on a Chromebook you rely on for work or school.
+
+If you have one of these Chromebooks, you can access the alpha-quality version of Steam on Chrome OS. You'll have to switch to the Dev channel in your settings menu. Once the Chromebook is updated to that channel, follow these steps to get set up:
+
+**1**. Navigate to chrome://flags#borealis-enable and enable it
+
+**2**. Open a crosh terminal (**ctrl+alt+t**)
+
+**3**. Enter "insert_coin volteer-JOlkth573FBLGa"
+
+**4**. Follow the setup process to install Steam
+
+[Google has the full install instructions](https://www.chromium.org/chromium-os/steam-on-chromeos)on the Chromium.org forums. You'll also find a full list of games currently supported, which includes Dota 2, The Witcher 3: Wild Hunt, Stardew Valley, Terraria, Hades, Age of Empires II: Definitive Edition and The Elder Scrolls V: Skyrim Special Edition. When available, Chrome OS will run the Linux version of games. Other games use Steam Play's compatibility tool called Proton. It's also used for the[new Steam Deck handheld gaming device](https://www.cnet.com/tech/gaming/steam-deck-surprised-me-in-ways-both-good-bad/).
+
+##### Get the CNET Now newsletter
+
+Spice up your small talk with the latest tech news, products and reviews. Delivered on weekdays.
+
+[PC Gaming](https://www.cnet.com/tech/gaming/pc-gaming/)[Steam](https://www.cnet.com/tags/steam/)[Chrome OS](https://www.cnet.com/tags/chrome-os/)[Google](https://www.cnet.com/google/)[Notification on Notification off Laptops](https://www.cnet.com/topics/laptops/products/)
+
+[](https://www.cnet.com/)
+
+MORE FROM CNET
+
+[Reviews](https://www.cnet.com/reviews/)
+
+[Best Products](https://www.cnet.com/best/)
+
+[Versus](https://www.cnet.com/versus/)
+
+[Gift Guide](https://www.cnet.com/gifts/)
+
+About
+
+[About CNET](https://www.cnet.com/about/)
+
+[Newsletter](https://www.cnet.com/newsletters/)
+
+[Sitemap](https://www.cnet.com/sitemaps/)
+
+[Careers](https://careers.redventures.com/)
+
+[Help Center](https://cnet.zendesk.com/hc/en-us)
+
+[Licensing](https://www.rvlicensing.com/)
+
+Policies
+
+[Privacy Policy](https://redventures.com/privacy-policy.html)
+
+[Terms of Use](https://redventures.com/CMG-terms-of-use.html)
+
+[Cookie Settings](https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/)
+
+[Do Not Sell My Information](https://privacyportal.onetrust.com/webform/79ba7c84-ebc2-4740-8d11-bf1cc4501e59/ae88e03f-2b16-4276-9980-27124ba4b2c1)
+
+Follow
+
+[](https://www.facebook.com/cnet)
+
+[](https://twitter.com/CNET)
+
+[](https://www.youtube.com/user/CNETTV/)
+
+[](https://www.instagram.com/cnet/)
+
+[](https://flipboard.com/@cnet/)
+
+© 2022 CNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+
+Cookie Settings 
+
+### Privacy Settings
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. [More information](https://redventures.com/privacy-policy.html)
+
+Allow All
+### Manage Consent Preferences
+
+#### Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+[Cookies Details‎](javascript:void(0))
+
+#### Performance Cookies
+
+Always Active
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+[Cookies Details‎](javascript:void(0))
+
+#### Functional Cookies
+
+Always Active
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+[Cookies Details‎](javascript:void(0))
+
+#### Targeting Cookies
+
+Always Active
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+[Cookies Details‎](javascript:void(0))
+
+### [](javascript:void(0))Back
+
+Vendor Search 
+
+Clear
+
+- [x] checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+*   - [x] ### 33Across
+
+#### host description
+
+#### View Cookies  
+
+    *   Name cookie name  
+
+*   - [x] ### 33Across
+
+[View Privacy Notice](https://www.cnet.com/tech/computing/steam-games-are-coming-to-chromebooks-heres-what-you-need-to-try-it-right-now/#)     
+
+Confirm My Choices
+
+[](https://onetrust.com/poweredbyonetrust)

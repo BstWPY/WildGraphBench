@@ -1,0 +1,414 @@
+# Drug treatments for covid-19: living systematic review and network meta-analysis
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Abstract
+----------------------------------------------------------------
+
+### Objective
+
+To compare the effects of treatments for coronavirus disease 2019 (covid-19).
+
+### Design
+
+Living systematic review and network meta-analysis.
+
+### Data sources
+
+WHO covid-19 database, a comprehensive multilingual source of global covid-19 literature, up to 3 December 2021 and six additional Chinese databases up to 20 February 2021. Studies identified as of 1 December 2021 were included in the analysis.
+
+### Study selection
+
+Randomised clinical trials in which people with suspected, probable, or confirmed covid-19 were randomised to drug treatment or to standard care or placebo. Pairs of reviewers independently screened potentially eligible articles.
+
+### Methods
+
+After duplicate data abstraction, a bayesian network meta-analysis was conducted. Risk of bias of the included studies was assessed using a modification of the Cochrane risk of bias 2.0 tool, and the certainty of the evidence using the grading of recommendations assessment, development, and evaluation (GRADE) approach. For each outcome, interventions were classified in groups from the most to the least beneficial or harmful following GRADE guidance.
+
+### Results
+
+463 trials enrolling 166 581 patients were included; 267 (57.7%) trials and 89 814 (53.9%) patients are new from the previous iteration; 265 (57.2%) trials evaluating treatments with at least 100 patients or 20 events met the threshold for inclusion in the analyses. Compared with standard care, three drugs reduced mortality in patients with mostly severe disease with at least moderate certainty: systemic corticosteroids (risk difference 23 fewer per 1000 patients, 95% credible interval 40 fewer to 7 fewer, moderate certainty), interleukin-6 receptor antagonists when given with corticosteroids (23 fewer per 1000, 36 fewer to 7 fewer, moderate certainty), and Janus kinase inhibitors (44 fewer per 1000, 64 fewer to 20 fewer, high certainty). Compared with standard care, two drugs probably reduce hospital admission in patients with non-severe disease: nirmatrelvir/ritonavir (36 fewer per 1000, 41 fewer to 26 fewer, moderate certainty) and molnupiravir (19 fewer per 1000, 29 fewer to 5 fewer, moderate certainty). Remdesivir may reduce hospital admission (29 fewer per 1000, 40 fewer to 6 fewer, low certainty). Only molnupiravir had at least moderate quality evidence of a reduction in time to symptom resolution (3.3 days fewer, 4.8 fewer to 1.6 fewer, moderate certainty); several others showed a possible benefit. Several drugs may increase the risk of adverse effects leading to drug discontinuation; hydroxychloroquine probably increases the risk of mechanical ventilation (moderate certainty).
+
+### Conclusion
+
+Corticosteroids, interleukin-6 receptor antagonists, and Janus kinase inhibitors probably reduce mortality and confer other important benefits in patients with severe covid-19. Molnupiravir and nirmatrelvir/ritonavir probably reduce admission to hospital in patients with non-severe covid-19.
+
+### Systematic review registration
+
+This review was not registered. The protocol is publicly available in the supplementary material.
+
+### Readers’ note
+
+This article is a living systematic review that will be updated to reflect emerging evidence. Updates may occur for up to two years from the date of original publication. This is the fifth version of the original article published on 30 July 2020 (_BMJ_ 2020;370:m2980), and previous versions can be found as data supplements. When citing this paper please consider adding the version number and date of access for clarity.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Introduction
+--------------------------------------------------------------------
+
+As of 23 March 2022, more than 475 million people have been infected with severe acute respiratory syndrome coronavirus virus 2 (SARS-CoV-2), the virus responsible for coronavirus disease 2019 (covid-19); of these, more than six million have died.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref1) Despite global efforts to identify effective interventions for the prevention and treatment of covid-19, which have resulted in approximately 3000 trials completed or underway,[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref2) evidence for effective treatment remains limited.
+
+Summarising the rapidly growing evidence base has been a challenge.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref3) Living systematic reviews deal with the main limitation of traditional reviews—that of providing an overview of the relevant evidence only at a specific time.[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref4) This is crucial in the context of covid-19, in which the best evidence is constantly changing. The ability of a living network meta-analysis to present a complete, broad, and updated view of the evidence makes it the best type of evidence synthesis to inform the development of practice recommendations. Network meta-analysis, rather than pairwise meta-analysis, provides useful information about the comparative effectiveness of treatments that have not been tested head to head. The lack of such direct comparisons is certain to limit inferences in the covid-19 setting. Moreover, the incorporation of indirect evidence can strengthen evidence in comparisons that were tested head to head.[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref5)
+
+In this living systematic review and network meta-analysis we compare the effects of drug treatments for covid-19. This review is part of the _BMJ_ Rapid Recommendations project, a collaborative effort from the MAGIC Evidence Ecosystem Foundation ([www.magicproject.org](http://www.magicproject.org/)) and _The BMJ_.[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref6) This living systematic review and network meta-analysis informs World Health Organization and _BMJ_ Rapid Recommendations on covid-19 treatments, initiated to provide trustworthy, actionable, and living guidance to clinicians and patients soon after new and potentially practice-changing evidence becomes available ([box 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#box1)).[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref7)[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref8) This living network meta-analysis is the fifth version. The previous versions are available in the supplementary material. Drugs for prophylaxis[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref9) and antibody-based treatments[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref10) are addressed separately.
+
+### Box 1. Linked resources in this _BMJ_ Rapid Recommendations cluster.
+
+*   Agarwal A, Rochwerg B, Siemieniuk RAC, et al. A living WHO guideline on drugs for covid-19 [Update 10]. _BMJ_ 2020;370:m3379, doi:[10.1136/bmj.m3379](https://doi.org/10.1136/bmj.m3379)
+
+    *   Living WHO _BMJ_ Rapid Recommendations guidance on drugs for covid-19
+
+*   World Health Organization. _Therapeutics and COVID-19. Living guideline_. July 2022. [https://www.who.int/teams/health-care-readiness-clinical-unit/covid-19/therapeutics](https://www.who.int/teams/health-care-readiness-clinical-unit/covid-19/therapeutics).
+
+*   Siemieniuk RAC, Bartoszko JJ, Zeraatkar D, et al. Drug treatments for covid-19: living systematic review and network meta-analysis [Update 4]. _BMJ_ 2020;370:m2980, doi:[10.1136/bmj.m2980](https://doi.org/10.1136/bmj.m2980)
+
+    *   Review and network meta-analysis of all available randomised trials that assessed drug treatments for covid-19
+
+*   MAGICapp ([https://app.magicapp.org/#/guideline/nBkO1E](https://app.magicapp.org/#/guideline/nBkO1E))
+
+    *   Expanded version of the methods, processes, and results with multilayered recommendations, evidence summaries, and decision aids for use on all devices
+
+*   Author website “COVID-19 living network meta-analysis.” [https://www.covid19lnma.com](https://www.covid19lnma.com/)
+
+    *   Interim updates will be available here
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Methods
+---------------------------------------------------------------
+
+A protocol provides the detailed methods of this systematic review, including all updates (see supplementary file). We report this living systematic review following the guidelines of the preferred reporting items for systematic reviews and meta-analyses (PRISMA) checklist for network meta-analyses.[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref11) A living systematic review is a cumulative synthesis that is updated regularly as new evidence becomes available.[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref12) The linked _BMJ_ Rapid Recommendations guideline panels approved all decisions relevant to data synthesis.
+
+### Eligibility criteria
+
+We included randomised clinical trials in people with suspected, probable, or confirmed covid-19 that compared drugs for treatment against one another or against no intervention, placebo, or standard care. We included trials regardless of publication status (peer reviewed, in press, or preprint) or language. No restrictions were applied based on severity of illness or setting, and we included trials of Chinese medicines if the drug comprised one or more specific molecules with a defined molecular weight dosing.
+
+We excluded randomised trials evaluating vaccination, blood products and antibody-based antiviral therapies (such as virus-specific monoclonal antibodies), nutrition, traditional Chinese herbal or alternative medicines that include more than one molecule or a molecule without specific molecular weighted dosing, and non-drug supportive care interventions. Trials that evaluated these interventions were identified and categorised separately.
+
+### Information sources
+
+We perform daily searches from Monday to Friday in the World Health Organization (WHO) covid-19 database for eligible studies—a comprehensive multilingual source of global literature on covid-19. Prior to its merge with the WHO covid-19 database on 9 October 2020, we performed daily searches from Monday to Friday in the US Centers for Disease Control and Prevention (CDC) COVID-19 Research Articles Downloadable Database for eligible studies.[13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref13) The database includes, but is not limited to the following 25 bibliographic and grey literature sources: Medline (Ovid and PubMed), PubMed Central, Embase, CAB Abstracts, Global Health, PsycInfo, Cochrane Library, Scopus, Academic Search Complete, Africa Wide Information, CINAHL, ProQuest Central, SciFinder, the Virtual Health Library, LitCovid, WHO covid-19 website, CDC covid-19 website, Eurosurveillance, China CDC Weekly, Homeland Security Digital Library, ClinicalTrials.gov, bioRxiv (preprints), medRxiv (preprints), chemRxiv (preprints), and SSRN (preprints).
+
+The daily searches are designed to match the update schedule of the database and to capture eligible studies the day of or the day after publication. To identify randomised trials, we filtered search results through a validated and highly sensitive machine learning model.[14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref14) We tracked preprints of randomised trials for updates and through publication: when data were discrepant, we used the most recent data.
+
+In addition, we search six Chinese databases: Wanfang, Chinese Biomedical Literature, China National Knowledge Infrastructure, VIP, Chinese Medical Journal Net (preprints), and ChinaXiv (preprints). We adapted the search terms for covid-19 developed by the CDC to the Chinese language. For the Chinese literature search, we also included search terms for randomised trials. The supplementary file includes the Chinese literature search strategy. We stopped searching the Chinese databases on 20 February 2021 because they had not provided studies that meaningfully altered the evidence for any intervention.
+
+We monitor living evidence retrieval services on an ongoing basis. These included the Living Overview of the Evidence (L-OVE) COVID-19 Repository by the Epistemonikos Foundation[15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref15) and the Systematic and Living Map on COVID-19 Evidence by the Norwegian Institute of Public Health, in collaboration with the Cochrane Canada Centre at McMaster University.[16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref16)
+
+We searched all English information sources from 1 December 2019 to 3 December 2021, and the Chinese literature from conception of the databases to 20 February 2021.
+
+### Study selection
+
+Using a systematic review software, Covidence,[17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref17) pairs of reviewers, following training and calibration exercises, independently screened all titles and abstracts, followed by full texts of trials that were identified as potentially eligible. A third reviewer adjudicated conflicts.
+
+### Data collection
+
+For each eligible trial, pairs of reviewers, following training and calibration exercises, extracted data independently using a standardised, pilot tested data extraction form. Reviewers collected information on trial characteristics (trial registration, publication status, study status, design), patient characteristics (country, age, sex, smoking habits, comorbidities, setting and type of care, and severity of covid-19 symptoms for studies of treatment), and outcomes of interest (means or medians and measures of variability for continuous outcomes and the number of participants analysed and the number of participants who experienced an event for dichotomous outcomes). Reviewers resolved discrepancies by discussion and, when necessary, with adjudication by a third party. We updated the data collected from included preprints as soon as the peer review publication became available.
+
+Outcomes of interest were selected based on importance to patients[18](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref18) and were informed by clinical expertise in the systematic review team and in the linked guideline panel responsible for the WHO-_BMJ_ Rapid Recommendations.[19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref19)[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref7)[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref8) The panel includes unconflicted clinical and methodology experts, recruited to ensure global representation, and patient partners. All panel members rated outcomes from 1 to 9 based on importance to individual patients (9 being most important), and we included any outcome rated 7 or higher by any panel member. Selected outcomes included mortality (closest to 90 days), mechanical ventilation (total number of patients, over 90 days), adverse events leading to discontinuation (within 28 days), admission to hospital, length of hospital stay, duration of mechanical ventilation, and time to symptom resolution or clinical improvement. In contrast to previous iterations, for this iteration, we did not include several outcomes which the GDG did not think were critical to decision making: viral clearance (closest to 7 days, 3 days either way), time to viral clearance, intensive care unit (ICU) length of stay, and days free from mechanical ventilation (within 28 days).
+
+Mechanical ventilation includes both invasive and non-invasive mechanical ventilation. We used a hierarchy for the outcome mechanical ventilation in which we preferentially used the total number of patients who received mechanical ventilation over the study. We used the number of patients ventilated at the time point that the largest number of the patients were ventilated, if the trial reported the number of patients ventilated at specific timepoints. We used author definitions for mechanical ventilation; when separate, continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP) were considered non-invasive mechanical ventilation.
+
+### Risk of bias within individual studies
+
+For each eligible trial, reviewers, following training and calibration exercises, used a revision of the Cochrane tool for assessing risk of bias in randomised trials (RoB 2.0)[20](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref20) to rate trials as either at i) low risk of bias, ii) some concerns—probably low risk of bias, iii) some concerns—probably high risk of bias, or iv) high risk of bias, across the following domains: bias arising from the randomisation process; bias owing to departures from the intended intervention; bias from missing outcome data; bias in measurement of the outcome; bias in selection of the reported results, including deviations from the registered protocol; bias due to competing risks; and bias arising from early termination for benefit. We rated trials at high risk of bias overall if one or more domains were rated as probably high risk of bias or as high risk of bias and as low risk of bias if all domains were rated as probably low risk of bias or low risk of bias. Reviewers resolved discrepancies by discussion and, when not possible, with adjudication by a third party.
+
+### Data synthesis
+
+We conducted the network meta-analysis using a bayesian framework.[21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref21) In this report, we conducted a network meta-analysis of drug treatments for covid-19 that included all patients, regardless of severity of disease.
+
+#### Summary measures
+
+We summarised the effect of interventions on dichotomous outcomes using the odds ratio and corresponding 95% credible interval. For continuous outcomes, we used the mean difference and corresponding 95% credible interval in days for ICU length of stay, length of hospital stay, and duration of mechanical ventilation because we expected similar durations across randomised trials. For time to symptom resolution, we first performed the analyses using the relative effect measure ratio of means and corresponding 95% credible interval before calculating the mean difference in days because we expected substantial variation between studies.[22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref22)
+
+#### Treatment nodes
+
+Treatments were grouped into common nodes based on molecule and not on dose or duration. For intervention arms with more than one drug, we created a separate node. Chloroquine and hydroxychloroquine were included in the same node for covid-19 specific effects and separated for disease independent adverse effects. We drew network plots using the _networkplot_ command of Stata version 15.1 (StataCorp, College Station, TX), with thickness of lines between nodes and size of the nodes based on the inverse of the variance of the direct comparison.[23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref23)
+
+#### Statistical analysis
+
+For most outcomes, we conducted network meta-analyses and pairwise meta-analyses using a bayesian framework with the same priors for the variance and effect parameters.[21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref21) In previous versions, we used fixed effects for some outcomes because data was sparse or dominated by a single trial. As per our protocol, we used random effects for all outcomes. We used a plausible prior for variance parameter and a uniform prior for the effect parameter suggested in a previous study based on empirical data.[24](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref24) For all analyses, we used three Markov chains with 100 000 iterations after an initial burn-in of 10 000 and a thinning of 10. We used node splitting models to assess local incoherence and to obtain indirect estimates.[25](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref25) All network meta-analyses were performed using the _gemtc_ package of R version 3.6.3 (RStudio, Boston, MA)[26](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref26) and all pairwise meta-analyses using the _bayesmeta_ package.[21](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref21)
+
+In the first iteration of this living network meta-analysis, some treatment nodes with few total participants and few total events resulted in highly implausible and extremely imprecise effect estimates. We therefore decided to include only treatments that included at least 100 patients or had at least 20 events, based on our impression of the minimum number of patients/events to possibly provide meaningful results.
+
+### Certainty of the evidence
+
+We assessed the certainty of evidence using the grading of recommendations assessment, development and evaluation (GRADE) approach for network meta-analysis.[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref5)[27](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref27)[28](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref28) Two people with experience in using GRADE rated each domain for each comparison separately and resolved discrepancies by consensus. We rated the certainty for each comparison and outcome as high, moderate, low, or very low, based on considerations of risk of bias, inconsistency, indirectness, publication bias, intransitivity, incoherence (difference between direct and indirect effects), and imprecision.[28](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref28) We rated down for risk of bias if the interpretation of the effect would change if only studies at low risk of bias would have been considered. For example, if the credible interval of the pooled effect from studies at low risk of bias would have crossed the threshold for imprecision, we rated down for risk of bias. Judgments of imprecision for this systematic review were made using a minimally contextualised approach, with a null effect as the threshold of importance.[29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref29) The minimally contextualised approach considers only whether credible intervals include the null effect and thus does not consider whether plausible effects, captured by credible intervals, include both important and trivial effects.[29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref29) To evaluate certainty of no benefit (or no effect), we used a 2% risk difference threshold of the 95% credible interval for mortality and mechanical ventilation. In other words, if the entire 95% credible interval was within 2% of the null effect, we would not rate down for imprecision. We decided on this preliminary threshold based on a survey of the authors. Interim updates and additional study data will be posted on our website ([www.covid19lnma.com](https://www.covid19lnma.com/)).
+
+### Interpretation of results
+
+To facilitate interpretation of the results, we calculated absolute effects for outcomes in which the summary measure was an odds ratio or ratio of means. When available, we inferred baseline risk in the usual care group for each outcome from representative observational data (supplementary material). For mortality, we used data from the CDC on patients who were hospitalised with covid-19.[30](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref30)[31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref31) For mechanical ventilation, duration of invasive mechanical ventilation, length of hospital stay, and ICU length of stay we used baseline risks from the International Severe Acute Respiratory and Emerging Infection COVID-19 database.[32](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref32) For all other outcomes, we used the median from all studies in which participants received standard of care to calculate the baseline risk for each outcome, with each study weighed equally. We calculated absolute effects using the transitive risks model[33](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref33) using _R2jags_ package in R.[34](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref34)
+
+For each outcome, we classified treatments in groups from the most to the least effective using the minimally contextualised framework, which focuses on the treatment effect estimates and the certainty of the evidence.[35](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref35)
+
+### Subgroup and sensitivity analysis
+
+Subgroup analyses were performed for specific interventions of interest at the direction of the linked WHO living guideline panel. Previous iterations included subgroup analyses for ivermectin, interleukin-6 receptor antagonists, corticosteroids, hydroxychloroquine, lopinavir-ritonavir, and remdesivir. The panel requested subgroup analyses by age (children _v_ non-elderly adults _v_ elderly), severity (non-severe _v_ severe and critical), and risk of bias. We performed bayesian hierarchical meta-regression with study as a random effect. Where possible, we performed within rather than between trial analyses.
+
+### Patient and public involvement
+
+Patients were involved in outcome selection, interpretation of results, and the generation of parallel recommendations, as part of the _BMJ_ Rapid Recommendations initiative.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Results
+---------------------------------------------------------------
+
+After screening 79 601 titles and abstracts and 1438 full texts, 463 unique randomised trials were identified that evaluated drug treatments as of 3 December 2021 ([fig 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#f1)). A table of excluded full texts is provided in the supplementary file. Searches of living evidence retrieval services identified 219 publications of eligible randomised trials, which were reconciled with our formal search strategy when necessary. Three hundred and six randomised trials have been published in peer reviewed journals, 109 are preprints and 48 remain unpublished as either abstracts, data from meta-analyses, data from authors or data from presentations. The supplement describes the 43 randomised trials that were identified after the data analysis (1 December 2021) and that will be considered in the next update of the data analysis. Of the remaining trials, most were registered (373/420; 89%), nearly three quarters evaluated treatment in patients admitted to hospital with covid-19 (312/420; 74%), and one fifth evaluated treatment in outpatients with covid-19 (86/420; 20%). The United States, Iran, Brazil, India, and China were the five countries in which randomised trials were most commonly conducted. One hundred and eighty one different drug treatments were evaluated.
+
+### Fig 1.
+
+![Image 1: Fig 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/14df/7390912/87346954a3f7/sier059724_4.f1.jpg)
+
+Study selection
+
+Several trials could not be included in the analysis because both arms would have been classified within the same treatment node, they evaluated different durations or doses of the same drug, had insufficient data, or reported no outcomes of interest. Ultimately, we analysed 265 (63%) trials that reported on treatments with at least 100 patients or 20 events. [Table 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#tbl1) presents the characteristics of the 420 included studies. Additional study characteristics, outcome data, and risk of bias assessments for each study are available in the supplementary file.
+
+### Table 1.
+
+Study characteristics
+
+**Characteristic****Value**
+No (%) of studies registered 373 (88.8)
+No (%) of studies by publication status:
+Preprint 96 (22.9)
+Published 278 (66.1)
+Unpublished 46 (11.0)
+Median (IQR) No of patients 101 (50-238)
+No (%) of studies by country:
+United States 73 (17.4)
+Iran 67 (16.0)
+Brazil 52 (12.4)
+India 43 (10.2)
+China 41 (10.0)
+No (%) of studies by intensity of care:
+Outpatient 86 (20.5)
+Inpatient 312 (74.3)
+ICU 24 (5.7)
+No (%) of studies by illness severity:
+Mild/moderate 89 (21.2)
+Severe/critical 42 (10.0)
+Median (IQR) percentage of patients mechanically ventilated at baseline 2.8 (0.0-33.0)
+
+Of the randomised trials included in the analyses, eight did not have publicly accessible protocols or registrations. Of the trials with publicly accessible protocols or registrations, 79 reported results for one or more of our outcomes of interest that were not prespecified in protocols or registrations. No other discrepancies in the reporting of outcomes of interest were noted. One trial did not stratify reporting of outcomes for those who were truly randomised versus those who were allocated by preference; the authors shared outcome data with us among patients who were truly randomised.
+
+Seventy five studies were initially posted as preprints and subsequently published after peer review. The supplementary material presents the differences between study preprint and peer reviewed publications. Thirty two studies had discrepancies in outcome reporting between the preprint and peer-reviewed publication, 32 studies had discrepancies with patient baseline characteristics, and 14 studies had discrepancies in reporting that led to changes in risk of bias ratings. No substantive differences were found for 26 studies.
+
+All analyses reached convergence based on trace plots and a Brooks-Gelman-Rubin statistic less than 1.05, except comparisons including umifenovir for mortality because no patients randomised to either of these drugs died, interleukin-6 inhibitors and doxycycline with ivermectin for adverse events, proxalutamide for hospital admission, and sulodexide for clinically important bleeding.
+
+### Risk of bias in included studies
+
+The supplementary material presents the assessment of risk of bias of the included studies for each outcome: 121 studies were judged at low risk of bias in all domains for at least one outcome.
+
+### Effects of the interventions
+
+The supplementary material presents the network plots depicting the interventions included in the network meta-analysis of each outcome. [Figure 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#f2) presents a summary of the effects of the interventions on the outcomes. The supplementary file also presents detailed relative and absolute effect estimates and certainty of the evidence for all comparisons and outcomes. We did not detect statistical incoherence in any of the network meta-analyses.
+
+#### Fig 2.
+
+[![Image 2: Fig 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/14df/7390912/7fcc093e4bf4/sier059724_4.f2a.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7390912_sier059724_4.f2a.jpg)
+
+Summary of effects compared with standard care
+
+#### Fig 2.
+
+[![Image 3: Fig 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/14df/7390912/6a38745410c5/sier059724_4.f2b.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7390912_sier059724_4.f2b.jpg)
+
+contd. Summary of effects compared with standard care
+
+#### Mortality
+
+Two hundred and sixty seven trials with 138 345 participants met the threshold of analysing treatments with a minimum of 100 patients or 20 events and were included in the network meta-analysis (supplementary file). Supplementary figure S1 on bmj.com shows the network plot for mortality, with each edge representing a direct comparison between two interventions. Fifty seven different interventions were included: the most common were standard care/placebo (252 trials, 69 448 participants), colchicine (7 trials, 8194 participants), aspirin (3 trials, 7716 participants), hydroxychloroquine (35 trials, 4955 participants), remdesivir (9 trials, 5044 participants), lopinavir-ritonavir (11 trials, 4153 participants), interleukin-6 receptor antagonists with corticosteroids (32 trials, 4153 participants), and corticosteroids (13 trials, 3076 participants).
+
+Interventions with at least moderate certainty of benefit included: systemic corticosteroids (odds ratio 0.80, 95% credible interval 0.65 to 0.94; moderate certainty), interleukin-6 receptor antagonists when given with systemic corticosteroids (0.80, 0.69 to 0.94; moderate certainty), and Janus kinase inhibitors (0.63, 0.47 to 0.83; high certainty) ([fig 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#f2)). Notable interventions that did not suggest benefit included aspirin (0.93, 0.69 to 1.20; low certainty), azithromycin (0.98, 0.78 to 1.25, low certainty), colchicine (0.93, 0.65 to 1.16; low certainty), fluvoxamine (0.68, 0.33 to 1.32; low certainty), full-dose anticoagulation (0.96, 0.78 to 1.16; low certainty), hydroxychloroquine (1.08, 0.92 to 1.27; moderate certainty), interleukin-6 receptor antagonists without concurrent corticosteroids (1.09, 0.91 to 1.31; moderate certainty), ivermectin (0.63, 0.37 to 1.05; low certainty), lopinavir-ritonavir (1.06, 0.88 to 1.28; low certainty), and remdesivir (odds ratio 0.91, 0.73 to 1.11; low certainty).
+
+#### Mechanical ventilation
+
+One hundred and forty trials with 93 968 participants met the threshold of analysing treatments with a minimum of 100 patients or 20 events and were included in the network meta-analysis (supplementary appendix). Forty four interventions were included: the most common interventions were standard care (132 trials, 47 865 participants), colchicine (5 trials, 6313 participants), aspirin (2 trials, 5157 participants), remdesivir (7 trials, 3981 participants), lopinavir-ritonavir (7 trials, 3628 participants), hydroxychloroquine (15 trials, 3474 participants), azithromycin (6 trials, 3400 participants), interleukin-6 receptor antagonists with systemic corticosteroids (11 trials, 2399 participants), and corticosteroids (9 trials, 1171 participants).
+
+Compared with standard care, interventions that reduce risk of mechanical ventilation include interleukin 6 receptor antagonists when given with systemic corticosteroids (0.79, 0.63 to 0.98; moderate certainty) and interleukin-6 receptor antagonists without corticosteroids (0.58, 0.35 to 0.97; high certainty) ([fig 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#f2)). Other interventions may reduce risk of mechanical ventilation including corticosteroids (odds ratio 0.79, 0.58 to 1.05; low certainty), Janus kinase inhibitors (0.78, 0.56 to 1.04; moderate certainty), and remdesivir (0.79, 0.60 to 1.01; low certainty).
+
+#### Adverse events leading to discontinuation
+
+Ninety nine trials with 31 840 participants met the threshold of analysing treatments with a minimum of 100 patients or 20 events and were included in the network meta-analysis (supplementary appendix). Fourty four interventions were included: the most common interventions were standard care (95 trials, 13 795 participants), molnupiravir (6 trials, 2442 participants), interleukin-6 receptor antagonists with corticosteorids (6 trials, 1696 participants), remdesivir (6 trials, 1445 participants), and hydroxychloroquine (14 trials, 1257 participants). The drugs with a high risk of adverse effects included hydroxychloroquine (13 more per 1000, 2 more to 24 more; low certainty), lopinavir-ritonavir (49 more per 1000, 27 more to 72 more; moderate certainty), and tyrosine kinase inhibitors (62 more per 1000, 19 more to 105 more; moderate certainty). Several drugs did not have a higher risk of discontinuation for adverse effects than standard care/placebo ([fig 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#f2)).
+
+#### Admission to hospital
+
+Thirty five randomised trials with 21 306 participants met the threshold of analysing treatments with a minimum of 100 patients or 20 events and were included in the network meta-analysis (supplementary appendix). Nineteen interventions were included: the most common interventions were standard care (36 trials, 10 492 participants), molnupiravir (5 trials, 2385 participants), colchicine (1 trial, 2235 participants), and fluvoxamine (3 trials, 1093 participants). Molnupiravir (odds ratio 0.54, 0.30 to 0.90; moderate certainty), nirmatrelvir/ritonavir (0.13, 0.04 to 0.40; moderate certainty), and remdesivir (0.25, 0.07 to 0.86; low certainty) probably reduce hospitalisation. There was insufficient evidence to know if any other interventions reduce hospitalisation ([fig 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#f2)).
+
+#### Venous thromboembolism
+
+Eleven trials that randomised 6195 participants to five different interventions reported venous thromboembolism. Full dose anticoagulation may reduce odds of venous thromboembolism compared with prophylactic dose anticoagulation (odds ratio 0.50, 0.32 to 0.78; low certainty). The impacts of aspirin, intermediate dose anticoagulation, and sulodexide are less certain.
+
+#### Clinically important bleeding
+
+Thirteen trials randomised 6732 participants to five different interventions. Full dose anticoagulation may increase the odds of clinically important bleeding compared with prophylactic dose anticoagulation (odds ratio 2.15, 1.35 to 3.52; low certainty). The impacts of aspirin, intermediate dose anticoagulation, and sulodexide are less certain.
+
+#### Length of hospital stay
+
+One hundred and thirteen trials with 91 270 participants met the threshold of analysing treatments with a minimum of 100 patients and were included in the network meta-analysis (supplementary appendix). Thirty eight interventions were studied: the most common interventions were standard care (107 trials, 48 098 participants), colchicine (6 trials, 5809 participants), remdesivir (6 trials, 4340 participants), hydroxychloroquine (15 trials, 3347 participants), azithromycin (4 trials, 2795 participants), corticosteroids (6 trials, 2694 participants), Janus kinase inhibitors (6 trials, 1778 patients), and interleukin-6 receptor antagonists with systemic corticosteroids (7 trials, 1506 participants).
+
+Compared with standard care, hospitalisation was shorter in patients who received interleukin-6 receptor antagonists with systemic corticosteroids (mean difference −4.7 days, −8.9 to −0.5; moderate certainty) and Janus kinase inhibitors (−1.1 days, −1.9 to −0.4; moderate certainty). Interleukin-6 receptor antagonists probably do not reduce length of hospital stay when given without systemic corticosteroids (0.0 days, −1.2 to 1.2; moderate certainty). Evidence was low or very low certainty for all other interventions ([fig 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#f2)).
+
+#### Duration of mechanical ventilation
+
+Twenty eight trials with 3947 participants met the threshold of analysing treatments with a minimum of 100 patients and were included in the network meta-analysis (supplementary appendix). Eight interventions were included: the most common were standard care (28 trials, 1989 participants), interferon beta (2 trials, 502 participants), full dose anticoagulation (1 trial, 308 participants), interleukin-6 receptor antagonists (7 trials, 251 participants), and remdesivir (3 trials, 201 participants). Janus kinase inhibitors probably reduce the duration of mechanical ventilation (−3.2 days, −5.9 to −0.5; high certainty). There was no convincing evidence that any of the other interventions reduce duration of mechanical ventilation ([fig 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#f2)).
+
+#### Time to symptom resolution
+
+Seventy nine trials including 26 119 participants met the threshold of analysing treatments with a minimum of 100 patients and were included in the network meta-analysis. Thirty four interventions were studied: the most common interventions were standard care (73 trials, 11 674 participants), Janus kinase inhibitors (4 trials, 1585 participants), molnupiravir (3 trials, 1536 participants), remdesivir (4 trials, 1497 participants), and inhaled corticosteroids (2 trials, 1031 participants). Molnupiravir probably reduces time to symptom resolution (ratio of means 0.66, 0.52 to 0.83; mean difference −3.3 days, −4.8 to −1.6; moderate certainty). No other intervention had at least moderate certainty evidence of benefit or harm ([fig 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#f2)).
+
+#### Subgroups and sensitivity analyses
+
+Previous iterations of this living systematic review explored subgroup effects for remdesivir, lopinavir-ritonavir, hydroxychloroquine, corticosteroids, ivermectin, and interleukin-6 receptor antagonists. An additional network meta-analysis limited to interventions of interest for patients with non-severe disease up to 2 February 2022 showed that nirmatrelvir/ritonavir and molnupiravir may reduce mortality (supplementary material). Findings for other outcomes were not meaningfully different from the full network. Among patients with non-severe disease, we did not identify any subgroup effects for molnupiravir, nirmatrelvir/ritonavir, fluvoxamine, or remdesivir.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Discussion
+------------------------------------------------------------------
+
+This living systematic review and network meta-analysis provides a comprehensive overview of the evidence for drug treatments of covid-19 up to 1 December 2021 and a comprehensive list of drug trials to 3 December 2021. There are now more than 400 randomised trials examining many different interventions for treating covid-19, and as a result, the certainty in evidence for multiple interventions is improved.
+
+For patients with severe covid-19, three anti-inflammatory drugs probably reduce mortality: systemic corticosteroids, interleukin-6 receptor antagonists (when given with systemic corticosteroids), and Janus kinase inhibitors. Interleukin-6 receptor antagonists, when co-administered with systemic corticosteroids, also probably reduce mechanical ventilation and length of hospital stay. When they are provided without systemic corticosteroids, interleukin-6 receptor antagonists might not reduce mortality or length of hospital stay. The subgroup effect is consistent with evidence from other meta-analyses.[36](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref36) A single dose of either sarilumab and tocilizumab appears to be similarly efficacious.[37](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref37)
+
+Janus kinase inhibitors probably reduce mortality, length of hospital stay, and duration of mechanical ventilation. The evidence supporting janus kinase inhibitors comes primarily from studies that used baricitinib. The RECOVERY trial, which randomized 8156 patients to baricitinib or standard care, was published after our analyses were completed.[38](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref38) The RECOVERY trial confirmed that baricitinib reduces mortality. It was also the first study to show that janus kinase inhibitors may have added benefit in patients also receiving interleukin-6 receptor antagonists and systemic corticosteroids.
+
+For patients with non-severe covid-19, three antivirals probably reduce admission to hospital: molnupiravir, nirmatrelvir/ritonavir, and remdesivir. Molnupiravir and nirmatrelvir/ritonavir may also slightly reduce the risk of death. Based on this review, the WHO has recently suggested using one of these antivirals rather than no antiviral.[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref7) These drugs were all studied in people who were at increased risk of hospitalisation: they had not received a SARS-CoV-2 vaccine and had other risk factors for disease progression. The absolute benefit should therefore be substantially smaller in patients who are vaccinated against SARS-CoV-2 or who do not have risk factors for disease progression. Each of the antivirals has some drawbacks that were not captured in this overview. For example, molnupiravir could be carcinogenic, nirmatrelvir/ritonavir has a large number of critical drug-drug interactions, and remdesivir is administered intravenously.
+
+Full dose anticoagulation, compared with prophylactic dose anticoagulation, may reduce the risk of venous thromboembolism by approximately 16 per 1000 patients and increase the risk of clinically important bleeding by approximately 20 per 1000 patients. There did not seem to be a difference in other outcomes such as mortality or mechanical ventilation.
+
+Several interventions do not seem to have important benefit on any patient-important outcomes, including angiotensin-converting enzyme inhibitors, aspirin, azithromycin, colchicine, hydroxychloroquine, inhaled corticosteroids, intranasal corticosteroids, interferon beta, ivermectin, lopinavir-ritonavir, umifenovir, and vitamin C. Hydroxychloroquine may increase the risk of mechanical ventilation, adverse effects leading to drug discontinuation, and length of hospital stay.
+
+Compared with the fourth iteration, there are several important updates ([box 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#box2)). We now have evidence from several large scale international trials on azithromycin, interleukin-6 inhibitors, molnupiravir, nirmatrelvia/ritonavir, Janus kinase inhibitors, full dose anticoagulation, and colchicine.
+
+### Box 2. Summary of changes since last iteration.
+
+*   Two hundred and sixty seven trials and 89 814 participants are new from the previous iteration
+
+*   Additional evidence for Janus kinase inhibitors suggests that they probably reduce mortality in patients with severe covid-19
+
+*   Additional evidence suggests that colchicine probably does not have any important benefit (the previous iteration suggested that it might)
+
+*   New evidence suggests that the antivirals molnupiravir and nirmatrelvir/ritonavir probably reduce hospitalisation in patients with non-severe covid-19, while remdesivir might
+
+### Strengths and limitations of this review
+
+Our search strategy and eligibility criteria were comprehensive, without restrictions on language of publication or publication status. To ensure expertise in all areas, our team is composed of clinical and methods experts who have undergone training and calibration exercises for all stages of the review process. To minimise problems with counterintuitive results, we anticipated challenges that arise in network meta-analysis when data are sparse.[39](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref39) Many of the results for comparisons with sparse data were uninformative and were sometimes implausible. For that reason, we decided to report evidence on treatments for which at least 100 people were randomised or for which there were at least 20 events.
+
+The primary limitation of the evidence for most interventions is lack of blinding, which might introduce bias through differences in co-interventions between randomised groups. We chose to consider the treatment arms that did not receive an active experimental drug (that is, placebo or standard care) within the same node: it is possible that the unblinded standard care groups received systematically different co-interventions than groups randomised to receive a placebo. Direct comparisons in which the evidence is dominated by unblinded studies were rated down, consistent with GRADE, for risk of bias and that is reflected in the rating of the quality of evidence from the network estimate.[40](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref40) Many of the data also had reporting concerns. For some outcomes, the method in which the researchers measured and reported outcomes proved inconsistent across studies. This led the team to propose a hierarchy for the outcome mechanical ventilation, as described in the methods.
+
+The living nature of our systematic review and network meta-analysis could conceivably (at least temporarily) amplify publication bias, because studies with promising results are more likely to be published and are published sooner than studies with negative results. The inclusion of preprints, many of which have negative results, might reduce this risk. However, the inclusion of preprints in our network meta-analysis might introduce bias from simple errors and the reporting limitations of preprints. We include preprints because of the urgent need for information and because so many of the studies on covid-19 are published first as preprints. So far, differences between preprints and peer reviewed publications have mostly been limited to additional baseline patient information, clarification on study design, and outcomes reported in the peer reviewed publications. None of these changes would have resulted in a meaningful change to pooled effect estimates or certainty for any outcome.[41](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref41)
+
+Our living systematic review and network meta-analysis will continue to inform the development of the WHO living guidelines and _BMJ_ Rapid Recommendations.[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref6)[19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref19) An important difference in the methods for assessing the certainty of the evidence does, however, exist between the two. In this living systematic review and network meta-analysis, we use a minimally contextualised approach for rating the certainty of the evidence, whereas the guideline panels use a fully contextualised approach in which the thresholds of importance of magnitudes of effects depend on all other outcomes and factors involved in the decision.[29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref29) The contextualisation explains differences in the certainty of the evidence between the two. We used observational data to inform the absolute risk estimates for some outcomes; differences in baseline risk can impact GRADE assessments for imprecision.
+
+To date, we are aware of two other similar efforts to ours.[42](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref42)[43](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref43) Our intention is different in that the results fully inform clinical decision making for the associated living guidance.[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912#ref6) We also include a more comprehensive search for the evidence and several differences in analytical methods, which we believe are best suited for this evidence. For example, some others use fixed rather than random effects meta-analysis and provide estimates for pairwise comparisons only. It is also important to evaluate the reproducibility and replicability of findings from different scientific approaches.
+
+This is the final version of this particular living systematic review and network meta-analysis. Mounting evidence suggests that antivirals (such as molnupiravir and nirmatrelvir) are most effective in the early stages of covid-19 when patients have non-severe disease, whereas anti-inflammatories (such as corticosteroids) seem to be most effective in the later disease stages. Therefore, going forward, we will perform separate living network meta-analyses for non-severe covid-19 and severe covid-19. Updates will continue to be published on covid19lnma.com.
+
+### Conclusions
+
+Evidence from this living systematic review and network meta-analysis suggests that systemic corticosteroids, interleukin-6 receptor antagonists, and Janus kinase inhibitors reduce mortality and have other important benefits in patients with severe covid-19. Molnupiravir, nirmatrelvir/ritonavir, and remdesivir probably reduce hospitalisation in patients with non-severe covid-19. All other interventions either are probably not beneficial, or the evidence remains highly uncertain regarding their impacts on patient-important outcomes.
+
+#### What is already known on this topic
+
+*   Despite huge efforts to identify effective drug interventions for coronavirus disease 2019 (covid-19), evidence for effective treatment remains limited
+
+#### What this study adds
+
+*   This living systematic review and network meta-analysis provides a comprehensive overview and assessment of the evidence published as of 3 December 2021
+
+*   The certainty of the evidence for most interventions is low or very low, including ivermectin
+
+*   In patients with severe covid-19, systemic corticosteroids, interleukin-6 receptor antagonists, and Janus kinase inhibitors probably reduce mortality
+
+*   In patients with non-severe covid-19, molnupiravir, nirmatrelvir/ritonavir, and remdesivir probably reduce hospital admission
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Acknowledgments
+-----------------------------------------------------------------------
+
+We thank Kevin Cheung, Paul Alexander, Carmen Fang, Irbaz Riaz, Tari Turner, John Neary, and Britta Tendal (who were authors in previous versions of this review) for input and early contributions.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Web extra.
+------------------------------------------------------------------
+
+Extra material supplied by authors
+
+Web appendix: Supplementary material for update 4 of this review
+
+Fig S1. Network plot for mortality. The size of the circles is proportional to the number of patients randomised to that intervention and the size of the lines is proportional to the inverse of the standard error of the effect estimate.
+
+Contributors: RACS, JJB, and DZ contributed equally to the systematic review and are joint first authors. RACS, JJB, DZ, and RB-P were the core team leading the systematic review. JJB, RC, SAF, MG, BL, RWMV, SM, YW, ZY, IR, AD, TD, AI, AQ, CS, LY, FF, QL, XH, LS, BF, and AV-G identified and selected the studies. DZ, EK, NS, RWMV, AA, YW, KH, HP-H, MAH, SLM, QL, AS, AQ, LY, and FF collected the data. LG, AK, BS, LH, QI, DH-A, GHG, GT, and LT analysed the data. RB-P, HPH, AI, RAM, TD, NS, and DC assessed the certainty of the evidence. SLM, FL, BR, TA, POV, GHG, MM, JDN, ML, TT, BT, FF, and GR provided advice at different stages. RACS, RB-P, and GHG drafted the manuscript. All authors approved the final version of the manuscript. RACS is the guarantor. The corresponding author attests that all listed authors meet authorship criteria and that no others meeting the criteria have been omitted.
+
+Funder: This study was supported by the Canadian Institutes of Health Research CIHR-IRSC:057900132 and Coronavirus Rapid Research Funding Opportunity - OV2170359.
+
+Competing interests: All authors have completed the ICMJE uniform disclosure form at [www.icmje.org/coi_disclosure.pdf](http://www.icmje.org/coi_disclosure.pdf) and declare: support from the Canadian Institutes of Health Research; no financial relationships with any organisations that might have an interest in the submitted work in the previous three years; no other relationships or activities that could appear to have influenced the submitted work.
+
+RACS affirms that this manuscript is an honest, accurate, and transparent account of the study being reported; that no important aspects of the study have been omitted; and that any discrepancies from the study as planned have been explained.
+
+Dissemination to participants and related patient and public communities: The infographic and MAGICapp decision aids (available at [www.magicapp.org/](https://www.magicapp.org/)) were created to facilitate conversations between healthcare providers and patients or their surrogates. The MAGICapp decision aids were co-created with people who have lived experience of covid-19.
+
+Provenance and peer review: Not commissioned; externally peer reviewed.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Ethics statements
+-------------------------------------------------------------------------
+
+### Ethical approval
+
+Not applicable. All the work was developed using published data.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Data availability statement
+-----------------------------------------------------------------------------------
+
+No additional data available.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)References
+------------------------------------------------------------------
+
+*   1.John Hopkins University. Coronavirus Resource Center 2020 [https://coronavirus.jhu.edu/map.html](https://coronavirus.jhu.edu/map.html).
+*   2.Cytel. Global coronavirus COVID-19 clinical trial tracker. 2020 [https://www.covid19-trials.org/](https://www.covid19-trials.org/).
+*   3. Djulbegovic B, Guyatt G. Evidence-based medicine in times of crisis. J Clin Epidemiol 2020. 10.1016/j.jclinepi.2020.07.002 [[DOI](https://doi.org/10.1016/j.jclinepi.2020.07.002)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7348606/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32659364/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Epidemiol&title=Evidence-based%20medicine%20in%20times%20of%20crisis&author=B%20Djulbegovic&author=G%20Guyatt&publication_year=2020&pmid=32659364&doi=10.1016/j.jclinepi.2020.07.002&)]
+*   4. Vandvik PO, Brignardello-Petersen R, Guyatt GH. Living cumulative network meta-analysis to reduce waste in research: a paradigmatic shift for systematic reviews? BMC Med 2016;14:59. 10.1186/s12916-016-0596-4 [[DOI](https://doi.org/10.1186/s12916-016-0596-4)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4812628/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27025849/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMC%20Med&title=Living%20cumulative%20network%20meta-analysis%20to%20reduce%20waste%20in%20research:%20a%20paradigmatic%20shift%20for%20systematic%20reviews?&author=PO%20Vandvik&author=R%20Brignardello-Petersen&author=GH%20Guyatt&volume=14&publication_year=2016&pages=59&pmid=27025849&doi=10.1186/s12916-016-0596-4&)]
+*   5. Puhan MA, Schünemann HJ, Murad MH, et al. GRADE Working Group . A GRADE Working Group approach for rating the quality of treatment effect estimates from network meta-analysis. BMJ 2014;349:g5630. 10.1136/bmj.g5630 [[DOI](https://doi.org/10.1136/bmj.g5630)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25252733/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=A%20GRADE%20Working%20Group%20approach%20for%20rating%20the%20quality%20of%20treatment%20effect%20estimates%20from%20network%20meta-analysis&author=MA%20Puhan&author=HJ%20Sch%C3%BCnemann&author=MH%20Murad&volume=349&publication_year=2014&pages=g5630&pmid=25252733&doi=10.1136/bmj.g5630&)]
+*   6. Siemieniuk RA, Agoritsas T, Macdonald H, Guyatt GH, Brandt L, Vandvik PO. Introduction to BMJ Rapid Recommendations. BMJ 2016;354:i5191. 10.1136/bmj.i5191 [[DOI](https://doi.org/10.1136/bmj.i5191)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27680768/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Introduction%20to%20BMJ%20Rapid%20Recommendations&author=RA%20Siemieniuk&author=T%20Agoritsas&author=H%20Macdonald&author=GH%20Guyatt&author=L%20Brandt&volume=354&publication_year=2016&pages=i5191&pmid=27680768&doi=10.1136/bmj.i5191&)]
+*   7. Agarwal A, Rochwerg B, Lamontagne F, et al. A living WHO guideline on drugs for covid-19. BMJ 2020;370:m3379. 10.1136/bmj.m3379 [[DOI](https://doi.org/10.1136/bmj.m3379)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32887691/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=A%20living%20WHO%20guideline%20on%20drugs%20for%20covid-19&author=A%20Agarwal&author=B%20Rochwerg&author=F%20Lamontagne&volume=370&publication_year=2020&pages=m3379&pmid=32887691&doi=10.1136/bmj.m3379&)]
+*   8. Lamontagne F, Agoritsas T, Siemieniuk R, et al. A living WHO guideline on drugs to prevent covid-19. BMJ 2021;372:n526. 10.1136/bmj.n526 [[DOI](https://doi.org/10.1136/bmj.n526)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33649077/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=A%20living%20WHO%20guideline%20on%20drugs%20to%20prevent%20covid-19&author=F%20Lamontagne&author=T%20Agoritsas&author=R%20Siemieniuk&volume=372&publication_year=2021&pages=n526&pmid=33649077&doi=10.1136/bmj.n526&)]
+*   9. Bartoszko JJ, Siemieniuk RAC, Kum E, et al. Prophylaxis against covid-19: living systematic review and network meta-analysis. BMJ 2021;373:n949. 10.1136/bmj.n949 [[DOI](https://doi.org/10.1136/bmj.n949)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8073806/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33903131/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Prophylaxis%20against%20covid-19:%20living%20systematic%20review%20and%20network%20meta-analysis&author=JJ%20Bartoszko&author=RAC%20Siemieniuk&author=E%20Kum&volume=373&publication_year=2021&pages=n949&pmid=33903131&doi=10.1136/bmj.n949&)]
+*   10. Siemieniuk RA, Bartoszko JJ, Díaz Martinez JP, et al. Antibody and cellular therapies for treatment of covid-19: a living systematic review and network meta-analysis. BMJ 2021;374:n2231. 10.1136/bmj.n2231 [[DOI](https://doi.org/10.1136/bmj.n2231)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8459162/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34556486/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Antibody%20and%20cellular%20therapies%20for%20treatment%20of%20covid-19:%20a%20living%20systematic%20review%20and%20network%20meta-analysis&author=RA%20Siemieniuk&author=JJ%20Bartoszko&author=JP%20D%C3%ADaz%20Martinez&volume=374&publication_year=2021&pages=n2231&pmid=34556486&doi=10.1136/bmj.n2231&)]
+*   11. Hutton B, Salanti G, Caldwell DM, et al. The PRISMA extension statement for reporting of systematic reviews incorporating network meta-analyses of health care interventions: checklist and explanations. Ann Intern Med 2015;162:777-84. 10.7326/M14-2385 [[DOI](https://doi.org/10.7326/M14-2385)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/26030634/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Ann%20Intern%20Med&title=The%20PRISMA%20extension%20statement%20for%20reporting%20of%20systematic%20reviews%20incorporating%20network%20meta-analyses%20of%20health%20care%20interventions:%20checklist%20and%20explanations&author=B%20Hutton&author=G%20Salanti&author=DM%20Caldwell&volume=162&publication_year=2015&pages=777-84&pmid=26030634&doi=10.7326/M14-2385&)]
+*   12. Elliott JH, Synnot A, Turner T, et al. Living Systematic Review Network . Living systematic review: 1. Introduction-the why, what, when, and how. J Clin Epidemiol 2017;91:23-30. 10.1016/j.jclinepi.2017.08.010 [[DOI](https://doi.org/10.1016/j.jclinepi.2017.08.010)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28912002/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Epidemiol&title=Living%20systematic%20review:%201.%20Introduction-the%20why,%20what,%20when,%20and%20how&author=JH%20Elliott&author=A%20Synnot&author=T%20Turner&volume=91&publication_year=2017&pages=23-30&pmid=28912002&doi=10.1016/j.jclinepi.2017.08.010&)]
+*   13.Stephen B. Thacker CDC Library. COVID-19 research articles downloadable database: Centers for Disease Control and Prevention, 2020 [https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html).
+*   14. Marshall IJ, Noel-Storr A, Kuiper J, Thomas J, Wallace BC. Machine learning for identifying randomized controlled trials: an evaluation and practitioner’s guide. Res Synth Methods 2018;9:602-14. 10.1002/jrsm.1287 [[DOI](https://doi.org/10.1002/jrsm.1287)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6030513/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/29314757/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Res%20Synth%20Methods&title=Machine%20learning%20for%20identifying%20randomized%20controlled%20trials:%20an%20evaluation%20and%20practitioner%E2%80%99s%20guide&author=IJ%20Marshall&author=A%20Noel-Storr&author=J%20Kuiper&author=J%20Thomas&author=BC%20Wallace&volume=9&publication_year=2018&pages=602-14&pmid=29314757&doi=10.1002/jrsm.1287&)]
+*   15.Epistemonikos Foundation. Living evidence Repository for COVID-19. [https://app.iloveevidence.com/loves/5e6fdb9669c00e4ac072701d](https://app.iloveevidence.com/loves/5e6fdb9669c00e4ac072701d).
+*   16.Norwegian Institute of Public Health. NIPH systematic and living map on COVID-19 evidence 2020 [https://www.nornesk.no/forskningskart/NIPH_mainMap.html](https://www.nornesk.no/forskningskart/NIPH_mainMap.html).
+*   17.Covidence systematic review software [program]. Melbourne, Australia: Veritas Health Innovation.
+*   18. Jimenez-Mora MA, Varela AR, Meneses-Echavez JF, et al. Patient-important outcomes reported in randomized controlled trials of pharmacologic treatments for COVID-19: a protocol of a META-epidemiological study. Syst Rev 2021;10:289. 10.1186/s13643-021-01838-8 [[DOI](https://doi.org/10.1186/s13643-021-01838-8)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8559914/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34724980/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Syst%20Rev&title=Patient-important%20outcomes%20reported%20in%20randomized%20controlled%20trials%20of%20pharmacologic%20treatments%20for%20COVID-19:%20a%20protocol%20of%20a%20META-epidemiological%20study&author=MA%20Jimenez-Mora&author=AR%20Varela&author=JF%20Meneses-Echavez&volume=10&publication_year=2021&pages=289&pmid=34724980&doi=10.1186/s13643-021-01838-8&)]
+*   19. Rochwerg B, Agarwal A, Zeng L, et al. Remdesivir for severe covid-19: a clinical practice guideline. BMJ 2020;370:m2924. 10.1136/bmj.m2924 [[DOI](https://doi.org/10.1136/bmj.m2924)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32732352/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Remdesivir%20for%20severe%20covid-19:%20a%20clinical%20practice%20guideline&author=B%20Rochwerg&author=A%20Agarwal&author=L%20Zeng&volume=370&publication_year=2020&pages=m2924&pmid=32732352&doi=10.1136/bmj.m2924&)]
+*   20. Sterne JAC, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ 2019;366:l4898. 10.1136/bmj.l4898. [[DOI](https://doi.org/10.1136/bmj.l4898)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/31462531/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=RoB%202:%20a%20revised%20tool%20for%20assessing%20risk%20of%20bias%20in%20randomised%20trials&author=JAC%20Sterne&author=J%20Savovi%C4%87&author=MJ%20Page&volume=366&publication_year=2019&pages=l4898&pmid=31462531&doi=10.1136/bmj.l4898&)]
+*   21.Röver C. Bayesian random-effects meta-analysis using the bayesmeta R package. _arXiv_ 2017. [https://arxiv.org/abs/1711.08683](https://arxiv.org/abs/1711.08683).
+*   22. Friedrich JO, Adhikari NK, Beyene J. Ratio of means for analyzing continuous outcomes in meta-analysis performed as well as mean difference methods. J Clin Epidemiol 2011;64:556-64. 10.1016/j.jclinepi.2010.09.016 [[DOI](https://doi.org/10.1016/j.jclinepi.2010.09.016)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/21447428/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Epidemiol&title=Ratio%20of%20means%20for%20analyzing%20continuous%20outcomes%20in%20meta-analysis%20performed%20as%20well%20as%20mean%20difference%20methods&author=JO%20Friedrich&author=NK%20Adhikari&author=J%20Beyene&volume=64&publication_year=2011&pages=556-64&pmid=21447428&doi=10.1016/j.jclinepi.2010.09.016&)]
+*   23. Chaimani A, Higgins JP, Mavridis D, Spyridonos P, Salanti G. Graphical tools for network meta-analysis in STATA. PLoS One 2013;8:e76654. 10.1371/journal.pone.0076654 [[DOI](https://doi.org/10.1371/journal.pone.0076654)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3789683/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/24098547/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=PLoS%20One&title=Graphical%20tools%20for%20network%20meta-analysis%20in%20STATA&author=A%20Chaimani&author=JP%20Higgins&author=D%20Mavridis&author=P%20Spyridonos&author=G%20Salanti&volume=8&publication_year=2013&pages=e76654&pmid=24098547&doi=10.1371/journal.pone.0076654&)]
+*   24. Turner RM, Jackson D, Wei Y, Thompson SG, Higgins JP. Predictive distributions for between-study heterogeneity and simple methods for their application in Bayesian meta-analysis. Stat Med 2015;34:984-98. 10.1002/sim.6381 [[DOI](https://doi.org/10.1002/sim.6381)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC4383649/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25475839/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Stat%20Med&title=Predictive%20distributions%20for%20between-study%20heterogeneity%20and%20simple%20methods%20for%20their%20application%20in%20Bayesian%20meta-analysis&author=RM%20Turner&author=D%20Jackson&author=Y%20Wei&author=SG%20Thompson&author=JP%20Higgins&volume=34&publication_year=2015&pages=984-98&pmid=25475839&doi=10.1002/sim.6381&)]
+*   25. van Valkenhoef G, Dias S, Ades AE, Welton NJ. Automated generation of node-splitting models for assessment of inconsistency in network meta-analysis. Res Synth Methods 2016;7:80-93. 10.1002/jrsm.1167 [[DOI](https://doi.org/10.1002/jrsm.1167)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5057346/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/26461181/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Res%20Synth%20Methods&title=Automated%20generation%20of%20node-splitting%20models%20for%20assessment%20of%20inconsistency%20in%20network%20meta-analysis&author=G%20van%20Valkenhoef&author=S%20Dias&author=AE%20Ades&author=NJ%20Welton&volume=7&publication_year=2016&pages=80-93&pmid=26461181&doi=10.1002/jrsm.1167&)]
+*   26.gemtc: Network meta-analysis using Bayesian methods [program]. R package version 0.8-4 version, 2020.
+*   27. Brignardello-Petersen R, Bonner A, Alexander PE, et al. GRADE Working Group . Advances in the GRADE approach to rate the certainty in estimates from a network meta-analysis. J Clin Epidemiol 2018;93:36-44. 10.1016/j.jclinepi.2017.10.005 [[DOI](https://doi.org/10.1016/j.jclinepi.2017.10.005)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/29051107/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Epidemiol&title=Advances%20in%20the%20GRADE%20approach%20to%20rate%20the%20certainty%20in%20estimates%20from%20a%20network%20meta-analysis&author=R%20Brignardello-Petersen&author=A%20Bonner&author=PE%20Alexander&volume=93&publication_year=2018&pages=36-44&pmid=29051107&doi=10.1016/j.jclinepi.2017.10.005&)]
+*   28. Brignardello-Petersen R, Mustafa RA, Siemieniuk RAC, et al. GRADE approach to rate the certainty from a network meta-analysis: addressing incoherence. J Clin Epidemiol 2019;108:77-85. 10.1016/j.jclinepi.2018.11.025 [[DOI](https://doi.org/10.1016/j.jclinepi.2018.11.025)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/30529648/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Epidemiol&title=GRADE%20approach%20to%20rate%20the%20certainty%20from%20a%20network%20meta-analysis:%20addressing%20incoherence&author=R%20Brignardello-Petersen&author=RA%20Mustafa&author=RAC%20Siemieniuk&volume=108&publication_year=2019&pages=77-85&pmid=30529648&doi=10.1016/j.jclinepi.2018.11.025&)]
+*   29. Hultcrantz M, Rind D, Akl EA, et al. The GRADE Working Group clarifies the construct of certainty of evidence. J Clin Epidemiol 2017;87:4-13. 10.1016/j.jclinepi.2017.05.006 [[DOI](https://doi.org/10.1016/j.jclinepi.2017.05.006)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6542664/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28529184/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Epidemiol&title=The%20GRADE%20Working%20Group%20clarifies%20the%20construct%20of%20certainty%20of%20evidence&author=M%20Hultcrantz&author=D%20Rind&author=EA%20Akl&volume=87&publication_year=2017&pages=4-13&pmid=28529184&doi=10.1016/j.jclinepi.2017.05.006&)]
+*   30.Centers for Disease Control and Prevention. COVIDView. A weekly surveillance summary of U.S COVID-19 activity. 2020. [https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html). 
+*   31.Centers for Disease Control and Prevention. Daily updates of totals by week and state: provisional death counts for coronavirus disease 2019 (COVID-19). 2020. [https://www.cdc.gov/nchs/nvss/vsrr/COVID19/index.htm](https://www.cdc.gov/nchs/nvss/vsrr/COVID19/index.htm).
+*   32.ISARIC (International Severe Acute Respiratory and Emerging Infections Consortium). COVID-19 Report: 08 June 2020. _medRxiv_ 2020. .
+*   33. Spineli L, Brignardello-Petersen R, Heen A, et al. Obtaining absolute effect estimates to facilitate shared decision making in the context of multiple comparisons. Global Evidence Summit, 2017. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Obtaining%20absolute%20effect%20estimates%20to%20facilitate%20shared%20decision%20making%20in%20the%20context%20of%20multiple%20comparisons.&author=L%20Spineli&author=R%20Brignardello-Petersen&author=A%20Heen&publication_year=2017&)]
+*   34.R2jags: Using R to Run ‘JAGS’ [program]. R package version 0.6-1 version, 2020.
+*   35.Brignardello-Petersen R, Florez I, Izcovich A, et al. GRADE approach to drawing conclusions from a network meta-analysis using a minimally contextualized framework [Submitted for publication]. 2020. [[DOI](https://doi.org/10.1136/bmj.m3900)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33177059/)]
+*   36. Shankar-Hari M, Vale CL, Godolphin PJ, et al. WHO Rapid Evidence Appraisal for COVID-19 Therapies (REACT) Working Group . Association between administration of IL-6 antagonists and mortality among patients hospitalized for COVID-19: a meta-analysis. JAMA 2021;326:499-518. 10.1001/jama.2021.11330 [[DOI](https://doi.org/10.1001/jama.2021.11330)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC8261689/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/34228774/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=JAMA&title=Association%20between%20administration%20of%20IL-6%20antagonists%20and%20mortality%20among%20patients%20hospitalized%20for%20COVID-19:%20a%20meta-analysis&author=M%20Shankar-Hari&author=CL%20Vale&author=PJ%20Godolphin&volume=326&publication_year=2021&pages=499-518&pmid=34228774&doi=10.1001/jama.2021.11330&)]
+*   37. Zeraatkar D, Cusano E, Martínez JPD, et al. Use of tocilizumab and sarilumab alone or in combination with corticosteroids for covid-19: systematic review and network meta-analysis. BMJ Medicine 2022;1:e000036 10.1136/bmjmed-2021-000036. [[DOI](https://doi.org/10.1136/bmjmed-2021-000036)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9978750/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/36936570/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ%20Medicine&title=Use%20of%20tocilizumab%20and%20sarilumab%20alone%20or%20in%20combination%20with%20corticosteroids%20for%20covid-19:%20systematic%20review%20and%20network%20meta-analysis&author=D%20Zeraatkar&author=E%20Cusano&author=JPD%20Mart%C3%ADnez&volume=1&publication_year=2022&pages=e000036&pmid=36936570&doi=10.1136/bmjmed-2021-000036&)]
+*   38. Horby PW, Emberson JR, Mafham M, et al. RECOVERY Collaborative Group . Baricitinib in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial and updated meta-analysis. medRxiv 2022:2022.03.02.22271623. [[DOI](https://doi.org/10.1016/S0140-6736(22)01109-6)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9333998/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/35908569/)]
+*   39. Brignardello-Petersen R, Murad MH, Walter SD, et al. GRADE Working Group . GRADE approach to rate the certainty from a network meta-analysis: avoiding spurious judgments of imprecision in sparse networks. J Clin Epidemiol 2019;105:60-7. 10.1016/j.jclinepi.2018.08.022 [[DOI](https://doi.org/10.1016/j.jclinepi.2018.08.022)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/30253217/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Epidemiol&title=GRADE%20approach%20to%20rate%20the%20certainty%20from%20a%20network%20meta-analysis:%20avoiding%20spurious%20judgments%20of%20imprecision%20in%20sparse%20networks&author=R%20Brignardello-Petersen&author=MH%20Murad&author=SD%20Walter&volume=105&publication_year=2019&pages=60-7&pmid=30253217&doi=10.1016/j.jclinepi.2018.08.022&)]
+*   40. Guyatt GH, Oxman AD, Vist G, et al. GRADE guidelines: 4. Rating the quality of evidence--study limitations (risk of bias). J Clin Epidemiol 2011;64:407-15. 10.1016/j.jclinepi.2010.07.017 [[DOI](https://doi.org/10.1016/j.jclinepi.2010.07.017)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/21247734/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Epidemiol&title=GRADE%20guidelines:%204.%20Rating%20the%20quality%20of%20evidence--study%20limitations%20(risk%20of%20bias)&author=GH%20Guyatt&author=AD%20Oxman&author=G%20Vist&volume=64&publication_year=2011&pages=407-15&pmid=21247734&doi=10.1016/j.jclinepi.2010.07.017&)]
+*   41. Zeraatkar D, Pitre T, Leung G, et al. The trustworthiness and impact of trial preprints for COVID-19 decision-making: A methodological study. medRxiv. 2022; 10.1101/2022.04.04.22273372. [[DOI](https://doi.org/10.1101/2022.04.04.22273372)]
+*   42.Boutron I, Chaimani A, Devane D, et al. Interventions for preventing and treating COVID-19: protocol for a living mapping of research and a living systematic review. _Zenodo_ 2020. [https://zenodo.org/record/3744600#.X1igcnlKiN5](https://zenodo.org/record/3744600#.X1igcnlKiN5).
+*   43. Juul S, Nielsen N, Bentzer P, et al. Interventions for treatment of COVID-19: a protocol for a living systematic review with network meta-analysis including individual patient data (The LIVING Project). Syst Rev 2020;9:108. 10.1186/s13643-020-01371-0 [[DOI](https://doi.org/10.1186/s13643-020-01371-0)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7210799/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32386514/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Syst%20Rev&title=Interventions%20for%20treatment%20of%20COVID-19:%20a%20protocol%20for%20a%20living%20systematic%20review%20with%20network%20meta-analysis%20including%20individual%20patient%20data%20(The%20LIVING%20Project)&author=S%20Juul&author=N%20Nielsen&author=P%20Bentzer&volume=9&publication_year=2020&pages=108&pmid=32386514&doi=10.1186/s13643-020-01371-0&)]
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7390912)Associated Data
+-----------------------------------------------------------------------
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+Web appendix: Supplementary material for update 4 of this review
+
+Fig S1. Network plot for mortality. The size of the circles is proportional to the number of patients randomised to that intervention and the size of the lines is proportional to the inverse of the standard error of the effect estimate.
+
+### Data Availability Statement
+
+No additional data available.

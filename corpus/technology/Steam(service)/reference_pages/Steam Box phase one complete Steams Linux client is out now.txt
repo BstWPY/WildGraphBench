@@ -1,0 +1,476 @@
+# Steam Box phase one complete: Steam's Linux client is out now
+
+Gamasutra - Steam Box phase one complete: Steam's Linux client is out now
+
+===============
+
+The Wayback Machine - http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php
+
+*   Our Properties:
+*   [Gamasutra](http://www.gamasutra.com/)
+*   [GameCareerGuide](http://www.gamecareerguide.com/)
+*   [IndieGames](http://www.indiegames.com/)
+*   [GDC Vault](http://www.gdcvault.com/)
+*   [GDC](http://www.gdconf.com/)
+*   [IGF](http://www.igf.com/)
+*   [App Dev Stories](http://www.appdevstories.com/)
+*   [ADC](http://www.adconf.com/)
+*   [GAO](http://www.game-advertising-online.com/)
+
+[![Image 22: Gamasutra: The Art & Business of Making Games](http://twimgs.com/gamasutra/images/gamasutra_logo.png)](http://www.gamasutra.com/)![Image 23: spacer](http://twimgs.com/gamasutra/images/spacer.gif)
+
+SEARCH[GO](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+[LOGIN](http://www.gamasutra.com/sso/login.php)
+
+[GAME JOBS](http://jobs.gamasutra.com/)
+
+[updates](http://www.gamasutra.com/updates/)[Blogs](http://www.gamasutra.com/blogs/)[events](http://www.gamasutra.com/calendar/calendar.php)[contractors](http://www.gamasutra.com/contractors/contractor_display.php)[newsletter](https://www.gamasutra.com/sso/profile.php#newsletters)[store](https://store.cmpgame.com/storefront.php?loc=&skin=gamasutra_redesign)
+
+SEARCH[GO](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+*   [ALL](http://www.gamasutra.com/)
+*   [CONSOLE/PC GAMES](http://www.gamasutra.com/topic/console-pc)
+*   [SOCIAL/ONLINE GAMES](http://www.gamasutra.com/topic/social-online)
+*   [SMARTPHONE/TABLET GAMES](http://www.gamasutra.com/topic/smartphone-tablet)
+*   [INDEPENDENT GAMES](http://www.gamasutra.com/topic/indie)
+
+[![Image 24: A 118x33 small image, likely a logo, icon or avatar](http://twimgs.com/gamasutra/images/btn_gdmag0.png)](http://www.gamasutra.com/topic/game-developer)
+
+Member Login
+![Image 25: spacer](http://twimgs.com/gamasutra/images/spacer.gif)Email:![Image 26: spacer](http://twimgs.com/gamasutra/images/spacer.gif) Password: [LOGIN](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) [Forgot Password?](http://www.gamasutra.com/sso/lostpw.php)[Sign Up](http://www.gamasutra.com/sso/join.php)
+
+*   [](http://www.facebook.com/pages/Gamasutra/31610613408)
+*   [](http://twitter.com/gamasutra)
+*   [](http://www.gamasutra.com/static2/rssfeeds.html)
+*   [](http://www.gamasutra.com/sso/profile.php#newsletters)
+
+[![Image 27: arrow](http://twimgs.com/gamasutra/images/button_programming.gif)](http://www.gamasutra.com/category/programming/)
+
+[PROGRAMMING](http://www.gamasutra.com/category/programming/)
+
+* * *
+
+[![Image 28: spacer](http://twimgs.com/gamasutra/images/button_art.gif)](http://www.gamasutra.com/category/art/)
+
+[ART](http://www.gamasutra.com/category/art/)
+
+* * *
+
+[![Image 29: spacer](http://twimgs.com/gamasutra/images/button_audio.gif)](http://www.gamasutra.com/category/audio/)
+
+[AUDIO](http://www.gamasutra.com/category/audio/)
+
+* * *
+
+[![Image 30: arrow](http://twimgs.com/gamasutra/images/button_design.gif)](http://www.gamasutra.com/category/design/)
+
+[DESIGN](http://www.gamasutra.com/category/design/)
+
+* * *
+
+[![Image 31: arrow](http://twimgs.com/gamasutra/images/button_production.gif)](http://www.gamasutra.com/category/production/)
+
+[PRODUCTION](http://www.gamasutra.com/category/production/)
+
+* * *
+
+[![Image 32: arrow](http://twimgs.com/gamasutra/images/button_business.gif)](http://www.gamasutra.com/category/business-marketing/)
+
+[BIZ/MARKETING](http://www.gamasutra.com/category/business-marketing/)
+
+![Image 33: arrow](http://twimgs.com/gamasutra/images/icon_jobs.png)[Latest Jobs](http://jobs.gamasutra.com/)
+
+[**View All**](http://jobs.gamasutra.com/)[**RSS**](http://feeds.feedburner.com/GamasutraJobs)
+
+* * *
+
+**July 7, 2014**
+
+* * *
+
+*   Mind Candy
+
+[Front End Technical Lead](http://jobs.gamasutra.com/job/front-end-technical-lead-london-england-26802)
+
+*   Nordeus
+
+[Lead System Game Designer](http://jobs.gamasutra.com/job/lead-system-game-designer-belgrade-26801)
+
+*   Integrated Military
+
+[Software Engineer](http://jobs.gamasutra.com/job/software-engineer-remote-work-possible-florida-26921)
+
+*   2K 
+
+[Community and Social Media Manager &ndash; Firaxis Games](http://jobs.gamasutra.com/job/community-and-social-media-manager-ndash-firaxis-games-novato-california-26895)
+
+*   2K 
+
+[Director of Channel Marketing](http://jobs.gamasutra.com/job/director-of-channel-marketing-novato-california-26068)
+
+*   2K 
+
+[Senior Graphics Engineer - Core Tech Team](http://jobs.gamasutra.com/job/senior-graphics-engineer-core-tech-team-novato-california-26461)
+
+![Image 34: arrow](http://twimgs.com/gamasutra/images/icon_blogs.png)[Latest Blogs](http://www.gamasutra.com/blogs/)
+
+[**View All**](http://www.gamasutra.com/blogs/)[**Post**](http://www.gamasutra.com/blogs/edit/)[**RSS**](http://www.gamasutra.com/blogs/rss/)
+
+* * *
+
+**July 7, 2014**
+
+* * *
+
+*   [Unknown Answers](http://www.gamasutra.com/blogs/EMcNeill/20140707/220381/Unknown_Answers.php)
+
+*   [Block Tanks: Procedural Dynamism in Unity](http://www.gamasutra.com/blogs/TrentPolack/20140705/220364/Block_Tanks_Procedural_Dynamism_in_Unity.php)
+
+*   [My thoughts on the Nintendo shareholder Q&A;](http://www.gamasutra.com/blogs/ChristianNutt/20140703/220304/My_thoughts_on_the_Nintendo_shareholder_QA.php) [[4](http://www.gamasutra.com/blogs/ChristianNutt/20140703/220304/My_thoughts_on_the_Nintendo_shareholder_QA.php#comments "4 comments")] 
+
+*   [The Journey from A to B](http://www.gamasutra.com/blogs/TrentPolack/20140702/220202/The_Journey_from_A_to_B.php) [[1](http://www.gamasutra.com/blogs/TrentPolack/20140702/220202/The_Journey_from_A_to_B.php#comments "1 comments")] 
+
+*   [The Art of Feeding Time, Part 2](http://www.gamasutra.com/blogs/RadekKoncewicz/20140702/220166/The_Art_of_Feeding_Time_Part_2.php) [[8](http://www.gamasutra.com/blogs/RadekKoncewicz/20140702/220166/The_Art_of_Feeding_Time_Part_2.php#comments "8 comments")] 
+
+![Image 35: arrow](http://twimgs.com/gamasutra/images/icon_blogs.png)[Features](http://www.gamasutra.com/php-bin/article_display.php)
+
+[**View All**](http://www.gamasutra.com/php-bin/article_display.php)[**RSS**](http://feeds.feedburner.com/GamasutraFeatureArticles)
+
+* * *
+
+**July 7, 2014**
+
+* * *
+
+*   [The Blue Shell and its Discontents](http://www.gamasutra.com/view/feature/218696/the_blue_shell_and_its_discontents.php) [[40](http://www.gamasutra.com/view/feature/218696/the_blue_shell_and_its_discontents.php#comments "40 comments")] 
+
+*   [Postmortem: The Chinese Room's _Amnesia: A Machine for Pigs_](http://www.gamasutra.com/view/feature/218372/postmortem_the_chinese_rooms_.php) [[21](http://www.gamasutra.com/view/feature/218372/postmortem_the_chinese_rooms_.php#comments "21 comments")] 
+
+*   ['Roguelikes': Getting to the heart of the it-genre](http://www.gamasutra.com/view/feature/218178/roguelikes_getting_to_the_heart_.php) [[18](http://www.gamasutra.com/view/feature/218178/roguelikes_getting_to_the_heart_.php#comments "18 comments")] 
+
+![Image 36: arrow](http://twimgs.com/gamasutra/images/icon_blogs.png)[Theme Weeks](http://www.gamasutra.com/theme-week)
+
+*   [VR/Advanced Input/Output](http://www.gamasutra.com/content/VR)
+
+*   [Digital Publishing](http://www.gamasutra.com/content/digital-publishing)
+
+*   [Microconsole Game Development](http://www.gamasutra.com/content/microconsole)
+
+*   [Crowdfunding and Alternative Funding](http://www.gamasutra.com/content/alternative-funding)
+
+![Image 37: arrow](http://twimgs.com/gamasutra/images/icon_blogs.png)Press Releases
+
+**July 7, 2014**
+
+* * *
+
+[**PR Newswire**](http://www.gamasutra.com/prnewswire.php)
+
+* * *
+
+[**View All**](http://www.gamasutra.com/prnewswire.php)
+
+* * *
+
+[**Games Press**](http://www.gamasutra.com/pressreleases_index.php)
+
+* * *
+
+*   [With Tequila, Sombrero, and a Guitar in his hand,...](http://www.gamasutra.com/view/pressreleases/220408/With_Tequila_Sombrero_and_a_Guitar_in_his_hand_a_youngShooter_MONDOS_is_on_the_road_in_search_for_hisfatherhellip.php)
+
+*   [MCM Comic Con is back in Manchester ...and this...](http://www.gamasutra.com/view/pressreleases/220409/MCM_Comic_Con_is_back_in_Manchester_and_this_time_its_forthe_whole_weekend.php)
+
+*   [NIKITA ONLINE Announces the Commercial Launch of...](http://www.gamasutra.com/view/pressreleases/220405/NIKITA_ONLINE_Announces_the_Commercial_Launch_of_Russian_PetaCity.php)
+
+*   [Sherlock: The Network Writer Joins Sidelines...](http://www.gamasutra.com/view/pressreleases/220406/Sherlock_The_Network_Writer_Joins_Sidelinesnbspnbsp.php)
+
+*   [New screenshots for World of Speed](http://www.gamasutra.com/view/pressreleases/220407/New_screenshots_for_World_of_Speed.php)
+
+[**View All**](http://www.gamasutra.com/pressreleases_index.php)[**RSS**](http://www.gamasutra.com/pressreleases/rss/)
+
+![Image 38: arrow](http://twimgs.com/gamasutra/images/icon_calendar.png)[Calendar](http://www.gamasutra.com/calendar/calendar.php)
+
+[**View All**](http://www.gamasutra.com/calendar/calendar.php)[**Submit Event**](http://www.gamasutra.com/calendar/calendar_submit.php)
+
+* * *
+
+![Image 39: arrow](http://twimgs.com/gamasutra/images/icon_about.png)[About](http://www.gamasutra.com/contactus)
+
+*   **Editor-In-Chief:**
+
+[Kris Graft](mailto:kgraft@gamasutra.com)
+
+*   **Blog Director:**
+
+[Christian Nutt](mailto:christian.nutt@ubm.com)
+
+*   **Senior Contributing Editor:**
+
+[Brandon Sheffield](mailto:bsheffield@gdmag.com)
+
+*   **News Editors:**
+
+[Mike Rose](mailto:mike@gamasutra.com), [Alex Wawro](mailto:alex.wawro@ubm.com)
+
+*   **Editor-At-Large:**
+
+[Leigh Alexander](mailto:leigh@gamasutra.com)
+
+*   **Advertising/
+
+Recruitment:**
+
+[Jennifer Sulik](mailto:jennifer.sulik@ubm.com)
+
+*   **Recruitment/
+
+Education:**
+
+[Pocco Jimenez](mailto:pocco.jimenez@ubm.com)
+
+* * *
+
+[Contact Gamasutra](http://www.gamasutra.com/contactus)
+
+* * *
+
+[Report a Problem](mailto:support@gamasutra.com)
+
+* * *
+
+[Submit News](mailto:news@gamasutra.com)
+
+* * *
+
+[Comment Guidelines](http://www.gamasutra.com/static2/comment_guidelines.html)
+
+* * *
+
+[Blogging Guidelines](http://www.gamasutra.com/static2/blogsubmissions.html)
+
+[![Image 40: Sponsor](http://twimgs.com/gamasutra/images/AdwGama_177x60_button_v1.jpg)](http://www.jointhegamenetwork.com/online/gamasutra/index.html)
+
+![Image 41: arrow](http://twimgs.com/gamasutra/images/icon_about.png)[Gama Network](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#)
+
+ If you enjoy reading this site, you might also want to check out these UBM Tech sites: 
+
+* * *
+
+[![Image 42: A 40x37 small image, likely a logo, icon or avatar](http://www.indiegames.com/blog/gcgmini.jpg)](http://www.gamecareerguide.com/)
+
+[Game Career Guide](http://www.gamecareerguide.com/)
+
+* * *
+
+[![Image 43: A 40x37 small image, likely a logo, icon or avatar](http://www.indiegames.com/blog/indiemini.jpg)](http://www.indiegames.com/blog)
+
+[Indie Games](http://www.indiegames.com/blog)
+
+![Image 44: Steam Box phase one complete: Steam's Linux client is out now](http://www.gamasutra.com/db_area/images/news/2013/Feb/186722/steamlinux.jpg)
+
+ Steam Box phase one complete: Steam's Linux client is out now 
+
+ February 14, 2013 | By Frank Cifaldi 
+
+* * *
+
+ February 14, 2013 | By Frank Cifaldi 
+
+* * *
+
+![Image 45: Comments](http://twimgs.com/gamasutra/images/comments_bubble.gif)
+
+[13 comments](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comments)
+
+* * *
+
+ More: [Console/PC](http://www.gamasutra.com/news/console-pc/), [Indie](http://www.gamasutra.com/news/indie/), [Business/Marketing](http://www.gamasutra.com/news/business-marketing/)
+
+* * *
+
+[](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)[](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)[](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)[](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)[](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)[More Sharing Services](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#)
+
+* * *
+
+ Valve has made its first real move toward its vision of having a "Steam Box" in every living room: a native Linux client for its popular game and software digital community.
+
+ Steam for Linux [launched today](http://steamcommunity.com/linux) for the popular Ubuntu distribution of the open source Linux operating system, along with an [extensive sale](http://store.steampowered.com/sale/linux_release/) on Linux-native games, including Valve's recent ports of _Half-Life_, _Counter-Strike Source_ and the free-to-play _Team Fortress 2_.
+
+ Co-founder Gabe Newell [has been pushing](http://www.gamasutra.com/view/news/184524/Valves_Newell_opens_up_about_his_Steam_Box_plans.php) for Linux-powered plug-and-play computers incorporating Valve's Steam client, to be manufactured both by Valve and by hardware partners.
+
+ Incorporating Steam's TV-friendly "Big Picture Mode" already, his Steam Box concept is technically a reality as of today for those who want to build their own.
+
+ "Our perception is that one of the big problems holding Linux back is the absence of games," Newell [recently said](http://www.gamasutra.com/view/news/174744/Valves_active_interest_in_making_you_install_Linux.php). "I think that a lot of people...don’t realize how critical games are as a consumer driver of purchases and usage." 
+
+* * *
+
+[[Tweet](http://twitter.com/share)](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)[](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)[Share on reddit](http://www.addthis.com/bookmark.php?v=300&winname=addthis&pub=ra-4feb3c394b881c05&source=tbx-300&lng=en-US&s=reddit&url=http%3A%2F%2Fwww.gamasutra.com%2Fview%2Fnews%2F186722%2FSteam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php&title=Gamasutra%20-%20Steam%20Box%20phase%20one%20complete%3A%20Steam%27s%20Linux%20client%20is%20out%20now&ate=AT-ra-4feb3c394b881c05/-/-/53ba905bd33be8ae/2&frommenu=1&uid=53ba905b3ac55af3&ufbl=1&ct=1&tt=0&captcha_provider=nucaptcha "Reddit")[Share on stumbleupon](http://www.addthis.com/bookmark.php?v=300&winname=addthis&pub=ra-4feb3c394b881c05&source=tbx-300&lng=en-US&s=stumbleupon&url=http%3A%2F%2Fwww.gamasutra.com%2Fview%2Fnews%2F186722%2FSteam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php&title=Gamasutra%20-%20Steam%20Box%20phase%20one%20complete%3A%20Steam%27s%20Linux%20client%20is%20out%20now&ate=AT-ra-4feb3c394b881c05/-/-/53ba905bd33be8ae/3&frommenu=1&uid=53ba905b7a6a9d2e&ufbl=1&ct=1&tt=0&captcha_provider=nucaptcha "StumbleUpon")[](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+* * *
+
+### Related Jobs
+
+[![Image 46: Mind Candy](http://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/amanda.cowie%40mindcandy.com.jpg)](http://jobs.gamasutra.com/job/front-end-technical-lead-london-england-26802)
+
+**Mind Candy — London, England, United Kingdom 
+
+ [07.07.14]**
+
+[Front End Technical Lead](http://jobs.gamasutra.com/job/front-end-technical-lead-london-england-26802)
+
+[![Image 47: Nordeus](http://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/945733.png)](http://jobs.gamasutra.com/job/lead-system-game-designer-belgrade-26801)
+
+**Nordeus — Belgrade, Serbia 
+
+ [07.07.14]**
+
+[Lead System Game Designer](http://jobs.gamasutra.com/job/lead-system-game-designer-belgrade-26801)
+
+[![Image 48: Integrated Military](http://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/982591.jpg)](http://jobs.gamasutra.com/job/software-engineer-remote-work-possible-florida-26921)
+
+**Integrated Military — Remote Work Possible, Florida, United States 
+
+ [07.06.14]**
+
+[Software Engineer](http://jobs.gamasutra.com/job/software-engineer-remote-work-possible-florida-26921)
+
+[![Image 49: 2K ](http://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/rhite%40firaxis.com.jpg)](http://jobs.gamasutra.com/job/community-and-social-media-manager-ndash-firaxis-games-novato-california-26895)
+
+**2K — Novato, California, United States 
+
+ [07.05.14]**
+
+[Community and Social Media Manager &ndash; Firaxis Games](http://jobs.gamasutra.com/job/community-and-social-media-manager-ndash-firaxis-games-novato-california-26895)
+
+**[[View All Jobs](http://jobs.gamasutra.com/)]**
+
+* * *
+
+### Top Stories
+
+[![Image 50](http://www.gamasutra.com/images/news/220349_thumb.jpg)](http://www.gamasutra.com/view/news/220349/5_tips_for_making_a_crossplatform_game_for_mobile_and_PC.php)
+
+[**5 tips for making a cross-platform game for mobile and PC**](http://www.gamasutra.com/view/news/220349/5_tips_for_making_a_crossplatform_game_for_mobile_and_PC.php)
+
+[![Image 51](http://www.gamasutra.com/images/news/220294_thumb.jpg)](http://www.gamasutra.com/view/news/220294/Can_joy_be_more_adult_than_violence.php)
+
+[**Can joy be more 'adult' than violence?**](http://www.gamasutra.com/view/news/220294/Can_joy_be_more_adult_than_violence.php)
+
+[![Image 52](http://www.gamasutra.com/images/news/220289_thumb.jpg)](http://gamasutra.com/blogs/BobWhitaker/20140701/219994/Video_History_Slavery_and_Violence_in_AC_Freedom_Cry_and_Liberation.php)
+
+[**Video blog: History, slavery, and violence in _Assassin's Creed_**](http://gamasutra.com/blogs/BobWhitaker/20140701/219994/Video_History_Slavery_and_Violence_in_AC_Freedom_Cry_and_Liberation.php)
+
+[![Image 53](http://www.gamasutra.com/images/news/220379_thumb.jpg)](http://www.gamasutra.com/view/news/220379/GDC_Europe_2014_adds_fresh_talks_from_Oculus_and_Telltale_Games.php)
+
+[**GDC Europe 2014 adds fresh talks from Oculus and Telltale Games**](http://www.gamasutra.com/view/news/220379/GDC_Europe_2014_adds_fresh_talks_from_Oculus_and_Telltale_Games.php)
+
+**[[Next News Story](http://www.gamasutra.com/view/news/186712/Kickstarter_is_starting_to_wear_itself_out_Its_a_numbers_game.php)] [[View All](http://www.gamasutra.com/updates)]**
+
+[Comments](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+---------------------------------------------------------------------------------------------------------------------
+
+* * *
+
+[Wyatt Epp](http://www.gamasutra.com/blogs/WyattEpp/855249/)[14 Feb 2013 at 11:25 am PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188544)
+
+![Image 54: profile image](http://www.gamasutra.com/blogs/edit/img/portrait/1906/thumb_portrait.png?1255367314)Huh, I wasn't really aware it wasn't "released" yet. It's certainly been available in my package manager for a few months.
+
+ (I'm estimating the first snide comment about the recent lay-offs and "Steambox is a sham idea" will come within two hours.)
+
+ Edit: Sorry, did I say two hours? I meant twenty minutes. :/
+[Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+1 ![Image 55: likes](http://twimgs.com/gamasutra/images/thumbs_up.png)
+
+ Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+1 ![Image 56: likes](http://twimgs.com/gamasutra/images/thumbs_up.png)
+
+[Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+* * * [E Zachary Knight](http://www.gamasutra.com/blogs/EZacharyKnight/593003/)[14 Feb 2013 at 11:52 am PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188554) ![Image 57: profile image](http://www.gamasutra.com/blogs/edit/img/portrait/229/thumb_portrait.png?1345816911)Its been is private and public beta for a while now. I think this is the official release. [Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) [Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+
+* * *
+
+Duong Nguyen[14 Feb 2013 at 11:45 am PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188549)
+
+![Image 58: profile image](http://twimgs.com/gamasutra/images/questionmark.jpg)Linux box? Hmm how is it suppose to run Windows based games? Steam Box is already starting off on the wrong foot, it's like they made it a Linux box to just spite Microsoft..Maybe it's just suppose to stream videos? Good luck with that only have to compete with 100 other devices which can already do that.
+[Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+2 ![Image 59: likes](http://twimgs.com/gamasutra/images/thumbs_up.png)
+
+ Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+2 ![Image 60: likes](http://twimgs.com/gamasutra/images/thumbs_up.png)
+
+[Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+* * * [Kris Graft](http://www.gamasutra.com/blogs/KrisGraft/864752/)[14 Feb 2013 at 11:51 am PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188552) ![Image 61: profile image](http://www.gamasutra.com/blogs/edit/img/portrait/1797/thumb_portrait.jpg?1369938295)Newell has referred to Linux as a "get out of jail free card, if we need it." It's going to take a company like Valve to spearhead a widespread Linux game movement, and I think it's a smart play... why put all your eggs in the Windows basket when you have the know-how, the leverage and the resources to lessen your risk? Also, Newell has said that if you want, you'll be able to install Windows on the Steam Box. It won't be a closed platform. [Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) 3 ![Image 62: likes](http://twimgs.com/gamasutra/images/thumbs_up.png) Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) 3 ![Image 63: likes](http://twimgs.com/gamasutra/images/thumbs_up.png) [Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+* * * [E Zachary Knight](http://www.gamasutra.com/blogs/EZacharyKnight/593003/)[14 Feb 2013 at 11:52 am PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188553) ![Image 64: profile image](http://www.gamasutra.com/blogs/edit/img/portrait/229/thumb_portrait.png?1345816911)Considering Valve and Gabe have been complaining about the direction Microsoft is going with Windows 8 for a while now, one would have thought that was obvious. [Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) 1 ![Image 65: likes](http://twimgs.com/gamasutra/images/thumbs_up.png) Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) 1 ![Image 66: likes](http://twimgs.com/gamasutra/images/thumbs_up.png) [Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+* * * Jannis Froese[14 Feb 2013 at 12:30 pm PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188570) ![Image 67: profile image](http://twimgs.com/gamasutra/images/questionmark.jpg)Actually, many Windows based games run just fine natively on linux thanks to wine. Also the Steam Box is able to come with a notably lower price tag if they don't use Windows. And as others have said: why should they help Microsoft when they don't like the direction Microsoft is headed. [Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) [Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+* * * [E Zachary Knight](http://www.gamasutra.com/blogs/EZacharyKnight/593003/)[14 Feb 2013 at 12:58 pm PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188577) ![Image 68: profile image](http://www.gamasutra.com/blogs/edit/img/portrait/229/thumb_portrait.png?1345816911)Jannis, "Run natively using Wine" is the talk of heathens and heretics. ;) [Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) 1 ![Image 69: likes](http://twimgs.com/gamasutra/images/thumbs_up.png) Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) 1 ![Image 70: likes](http://twimgs.com/gamasutra/images/thumbs_up.png) [Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+* * * [Jimmy Albright](http://www.gamasutra.com/blogs/JimmyAlbright/928925/)[14 Feb 2013 at 1:28 pm PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188587) ![Image 71: profile image](http://www.gamasutra.com/blogs/edit/img/portrait/928925/thumb_portrait.jpg?1358280291)@Jannis Froese "the direction Gabe Newell speculates Microsoft is headed" I only see the Windows store as an honest way to compete with Apple in the certified markets for tablets and phones. As much as I absolutely loathe iTunes, it's been a great business model for Apple and honestly I think Microsoft is just trying to get a piece of that pie. Steam runs fine on Windows 8. Counter-Strike Global Offensive and Dota 2 actually get more frames for me (if only by 2-3 more per second) than on Windows 7. You can launch steam from the 2nd UI, or from the desktop. It doesn't matter. Windows doesn't require certification to install software straight to the desktop. (You can still launch anything from the 2nd UI) it only requires certifications to have in the Windows App Store. If Microsoft were to be so foolish as to require certification all across the OS, there would be more important things to worry about than how we're going to play our steam games. On the development side Microsoft has come leaps and bounds towards Open Source, even doing things like adding full GitHub integration into Visual Studio and contributing quite a bit to Open Source projects. Honestly I could be alone in this but from my point of view a lot of the negativity that's come from Gabe Newell about Windows 8 is some pretty big fearmongering. It also strikes me that he would lambast Microsoft on pure speculation that they may some day be closed, while at the same time saying things like "Apple rolls the console guys." You praise Apple, the definition of closed while fearmongering about a platform that's open? I understand not everyone is going to be a fan of what is a rather large change to Windows. I was extremely skeptical but after getting used to some new hotkeys, and seeing that Windows 8 runs just as fast if not faster in almost every aspect, I'm pretty much sold on it. My boot to desktop went from 10 seconds to 7 seconds, without a single hardware upgrade. I'm not saying it's a bad idea to bring gaming to Linux, just that his fearmongering about windows 8 seems a bit much. Everyone should be able to enjoy the same games, (ideally) regardless of their OS. On the topic of Wine, I have heard about nothing but problems from all my friends who use linux and wine. I don't think it works as well as a lot of people suspect. Gabe Newell has said some pretty harsh things at both Microsoft and Sony, I worry that he's coming into the console market a little overconfident. These companies can literally piss away billions of dollars just to stifle competition. [Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) 3 ![Image 72: likes](http://twimgs.com/gamasutra/images/thumbs_up.png) Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) 3 ![Image 73: likes](http://twimgs.com/gamasutra/images/thumbs_up.png) [Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+* * * Duong Nguyen[14 Feb 2013 at 4:39 pm PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188634) ![Image 74: profile image](http://twimgs.com/gamasutra/images/questionmark.jpg)The only way i can see it working is for Valve to step in and fully develop the Wine API and drivers, so that it can emulate the full suite of D3D features.. As it stands it's way too far behind to compete with native windows games ( going by the Cyrsis / Fallout video I just watched on YouTube ). Maybe Valve can do for set-top what Apple did for phones, but they will have to do it fast since the next gen consoles are coming out and they'll match or exceed Steam Box for features and maybe even at a lower price point. [Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) [Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+* * * Chris Dickerson[14 Feb 2013 at 9:06 pm PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188665) ![Image 75: profile image](http://twimgs.com/gamasutra/images/questionmark.jpg)@Kris Graft: "why put all your eggs in the Windows basket when you have the know-how, the leverage and the resources to lessen your risk?" Not only that, but i've played various games that were already developed for Linux besides Windows and OSX. I want all companies competing for the business. I want Linux gaming to make people stand up and take notice. Competition is good, complacency gets us Nukem'd. [Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) [Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+
+* * *
+
+[Matthew Thomas](http://www.gamasutra.com/blogs/MatthewThomas/932999/)[14 Feb 2013 at 1:44 pm PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188597)
+
+![Image 76: profile image](http://www.gamasutra.com/blogs/edit/img/portrait/932999/thumb_portrait.jpg?1360724861)I find the concept of the Steam Box interesting. Who is Valve planning to market this to? Chances are that at the end of the day, PC gamers are going to play games on their PC's and console gamers will stay with their favorite consoles. So what is Valve's long term plan for the Steam Box? If you can't out do the XBox, then who do you expect to buy your new console/platform?
+
+ I will probably be one of those people who purchases one of these on day 1, but I don't imagine there being huge demand for this product. Or at least, no enough demand to warrant satisfying them.
+[Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+1 ![Image 77: likes](http://twimgs.com/gamasutra/images/thumbs_up.png)
+
+ Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+1 ![Image 78: likes](http://twimgs.com/gamasutra/images/thumbs_up.png)
+
+[Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+* * * [Michael Joseph](http://www.gamasutra.com/blogs/MichaelJoseph/11416/)[14 Feb 2013 at 8:29 pm PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188657) ![Image 79: profile image](http://www.gamasutra.com/blogs/edit/img/portrait/2254/thumb_portrait.gif?1259700196)I think Valve is providing developer incentives by making it easy for devs to get their games onto a storefront. And they are providing customer incentives by making the steam box software free so that you dont need the dedicated box necessarily to try it out. And that in turn becomes a developer incentive because there's no price barrier for customers to play your game beyond the price of the game itself. The existing steam user base is another incentive. There you have a userbase of proven purchasers of games... something that's always been tough to gauge on linux as well as a system for gauging your games useage statistics. And you may not have to purchases one on day 1. I have a dream that you will be able to start writing games for a beta version sometime next year without needing a special relationship to gain early access. Steam box will be the most developer friendly/empowering gaming platform there is... or at least it is in my dreams :) EDIT: Steam Box is doing what Microsoft could have been doing from the start but MS embraces the publisher mentality for it's hardware too much. They wont stop users transitioning to Apple products by adopting Apple's fascist (heh) personal computing philsophy with it's tight controls. Hell, we don't even know what Microsoft's computing religion is anymore. http://www.youtube.com/watch?v=fnowePU8npc EDIT: And Valve can harvest the power of an enthusiastic and greatful Linux development community. [Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php) [Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+
+* * *
+
+[David Glenn](http://www.gamasutra.com/blogs/DavidGlenn/821343/)[15 Feb 2013 at 11:35 am PST](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#comment188746)
+
+![Image 80: profile image](http://www.gamasutra.com/blogs/edit/img/portrait/2656/thumb_portrait.gif?1264372993)This is no surprise to me given what I saw at the OpenGL BOF at SIGGRAPH. From what I heard, stem actually ran faster using GLSL over the DirectX version. For me, its a validation of what I always believed that Linux is not a bad platform at all for gaming and Graphics based programs. All the products that I have worked on to this point have used Linux for the OS! I think that Microsoft has missed the mark when it comes to computer graphics - and they even have a console. But don't worry, we will soon fix that as most future consoles will be using Android - with Linux as the core. And Linux is no longer being treated as the bastard stepchild as it was once considered. Because it is repayable, but also keeps reinventing itself, UNIX based platforms in the form of Linux, Android and IOS are going to be with us for a long time to come! 
+
+ Long Live the Penguin!!
+[Login to Reply or Like](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+ Reply | [Like](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+[Submit Reply](javascript:void(0)) | [Cancel Reply](javascript:void(0))
+
+* * *
+
+none
+Comment:
+
+[Submit Comment](http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php#)
+
+[![Image 81: Login to Comment](http://twimgs.com/gamasutra/images/btn_comment.gif)](http://www.gamasutra.com/sso/login.php?from=http://www.gamasutra.com/view/news/186722/Steam_Box_phase_one_complete_Steams_Linux_client_is_out_now.php)
+
+[![Image 82: UBM Tech](http://gamasutra.com/game_sites_superfooter_2012/images/logo_ubmtech_white.png)](http://www.ubmtechweb.com/)
+
+*   FEATURED UBM TECH SITES: 
+*   [Game Developers Conference](http://www.gdconf.com/)
+ | *   [Gamasutra](http://www.gamasutra.com/)
+ | *   [App Dev Stories](http://www.appdevstories.com/)
+ | *   [Game Career Guide](http://www.gamecareerguide.com/)
+
+*   OUR MARKETS: 
+*   [Business Technology](http://tech.ubm.com/businesses/business-technology/)
+ | *   [Channel](http://tech.ubm.com/businesses/channel/)
+ | *   [Electronics](http://tech.ubm.com/businesses/electronics/)
+ | *   [Game & App Development](http://tech.ubm.com/businesses/game-app-development/)
+
+*   **Working With Us:**
+*   [Game Network Advertising](http://www.jointhegamenetwork.com/)
+ | *   [Event Calendar](http://www.jointhegamenetwork.com/event/)
+ | *   [Contact Us](http://www.jointhegamenetwork.com/contact/)
+
+*   [Terms of Service](http://www.gamasutra.com/static2/terms_of_service.html)
+ | *   [Privacy Statement](http://legal.us.ubm.com/privacy-policy/)
+ | *   [Copyright © 2014 UBM Tech, All rights reserved](http://legal.us.ubm.com/copyright-notice/)

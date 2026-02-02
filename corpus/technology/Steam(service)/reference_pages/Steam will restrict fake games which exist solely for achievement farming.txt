@@ -1,0 +1,222 @@
+# Steam will restrict 'fake games' which exist solely for achievement farming
+
+Steam will restrict 'fake games' which exist solely for achievement farming | PC Gamer
+
+===============
+
+The Wayback Machine - https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/
+
+[![Image 3](https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/) PC Gamer ======== THE GLOBAL AUTHORITY ON PC GAMES](https://www.pcgamer.com/)
+
+- [x] Search 
+
+*   [Login](https://club.pcgamer.com/login)
+*   [Register](https://club.pcgamer.com/)
+
+[](http://steamcommunity.com/groups/pcgamer)[](https://www.facebook.com/pcgamermagazine)[](https://twitter.com/pcgamer)[](https://www.youtube.com/user/pcgamer)[](https://www.twitch.tv/pcgamer)
+
+*   [](https://www.pcgamer.com/)
+*   [News](https://www.pcgamer.com/news/)
+*   [Reviews](https://www.pcgamer.com/reviews/)
+*   [Hardware](https://www.pcgamer.com/hardware/)
+*   [Indie](https://www.pcgamer.com/indie/)
+*   [Pro](https://www.pcgamer.com/pro/)
+*   [Best Of](https://www.pcgamer.com/best-of/)
+*   [Magazine](https://www.pcgamer.com/magazine/)
+*   [Board Games](https://www.pcgamer.com/board-games/)
+*    More 
+    *   [Podcasts](https://www.pcgamer.com/podcast/)
+    *   [Meet the team](https://www.pcgamer.com/meet-the-team/)
+    *   [Newsletter Signup](https://www.pcgamer.com/sign-up-for-the-pc-gamer-newsletter/)
+    *   [Community Guidelines](https://www.pcgamer.com/commenting-rules-and-guidelines/)
+    *   [Affiliate Links](https://www.pcgamer.com/a-note-on-affiliate-links/)
+    *   [About PC Gamer](https://www.pcgamer.com/about-pc-gamer/)
+
+[PCG Show](https://www.pcgamingshow.com/)
+
+ Popular 
+
+*   [E3 2018](https://www.pcgamer.com/every-e3-2018-news-story/)
+*   [Cyberpunk 2077](https://www.pcgamer.com/cyberpunk-2077-everything-we-learned-from-the-jam-packed-e3-demo/)
+*   [Elder Scrolls 6](https://www.pcgamer.com/elder-scrolls-6-what-we-know/)
+*   [Fallout 76](https://www.pcgamer.com/fallout-76-pc-release-date-trailer-online/)
+*   [The PC Gaming Show](https://www.pcgamer.com/what-to-expect-from-the-pc-gaming-show-2018/)
+*   [PCG Club](https://www.pcgamer.com/heres-everything-you-get-as-part-of-joining-the-pc-gamer-club/)
+
+Steam will restrict 'fake games' which exist solely for achievement farming
+===========================================================================
+
+By [Tyler Wilde](https://www.pcgamer.com/author/tyler-wilde/)3 hours ago
+
+Valve will be limiting, but not removing, games designed to pad players' global achievement counts.
+---------------------------------------------------------------------------------------------------
+
+*   [](https://www.facebook.com/sharer/sharer.php?u=https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/)
+*   [](https://twitter.com/intent/tweet?text=Steam%20will%20restrict%20%27fake%20games%27%20which%20exist%20solely%20for%20achievement%20farming&url=https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/)
+*   [](whatsapp://send/?text=Steam%20will%20restrict%20'fake%20games'%20which%20exist%20solely%20for%20achievement%20farminghttps://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/?fwa)
+*   [](http://www.reddit.com/submit?url==https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/&media=https://cdn.mos.cms.futurecdn.net/eqFqheDWFdGeaihBAzBav3-1200-80.jpg)
+*   [](mailto:/?subject=I%20found%20this%20webpage&body=Hi,%20I%20found%20this%20webpage%20and%20thought%20you%20might%20like%20it%20https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/)
+*   [Comments](https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/#comment-jump)
+
+Shares
+
+![Image 4: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)
+
+Above: USA 2020
+
+Last year, [Valve took action](https://www.pcgamer.com/big-changes-are-coming-to-steam-trading-cards/) to mitigate the number of trading card farming games on Steam by developing a confidence metric that prevents games from dropping cards until it believes real people are really playing them. Now it's doing the same thing with achievement farming games.
+
+In a brief message posted to the private developer group (which we can read [via SteamDB](https://twitter.com/SteamDB/status/1007532765670203392) and [Reddit](https://www.reddit.com/r/Steam/comments/8r5eg1/more_changes_addressing_fake_games/)), Valve says that these achievement farming games aren't being used by many people, but that they confuse algorithms and users. Because of this, if a game hasn't reached the confidence metric Valve already developed for trading card farming games, it will be limited to 1,000 achievements, and those achievements won't count toward a player's global achievement count or be displayable on their profile. The game also won't count toward the number of games they own, and won't be eligible for coupons.
+
+A notice is now displayed on the store page of any game that falls under these restrictions.
+
+![Image 5: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)
+
+[Running Through Russia 2](https://store.steampowered.com/app/870080/Running_Through_Russia_2/), for instance, currently displays the message above. It is possible, though, that Steam's 'learning' will lead to the restrictions being lifted in time.
+
+The original [Running Through Russia](https://store.steampowered.com/app/604490/Running_Through_Russia/) is not restricted, though it appears that games which were released before the new policy took effect are exempt. [USA 2020](https://store.steampowered.com/app/859700/USA_2020/), which has a mode that simply awards the player achievements over time, is not currently restricted, either. We'll have to see going forward what it takes for the algorithm to decide that a game is 'real' enough for its achievements to count.
+
+"We don't believe these constraints will negatively impact real games in any way," said Valve, "and the removal of fake games should improve the Store experience for everyone."
+
+Thanks, [Kotaku](https://steamed.kotaku.com/valve-adds-limits-to-steam-achievements-to-fight-rise-o-1826873740).
+
+#### More about Steam
+
+[##### Steam's wishlist tool has had an overhaul](https://www.pcgamer.com/steams-wishlist-tool-has-had-an-overhaul/)
+
+[##### That Steam UI update is still happening](https://www.pcgamer.com/that-steam-ui-update-is-still-happening/)
+
+[See more related](https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/#expanding-articles)
+
+#### Latest
+
+[##### Terraria meets Diablo in David Brevik's new game It Lurks Below, now in Early Access](https://www.pcgamer.com/terraria-meets-diablo-in-david-breviks-new-game-it-lurks-below-now-in-early-access/)
+
+[See more latest](https://www.pcgamer.com/news/)
+
+[See comments](https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/#comment-jump)
+
+We recommend By Zergnet
+
+#### Most Popular
+
+##### [Number of concurrent Steam users passes 18 million, 30% more than a year ago](https://www.pcgamer.com/number-of-active-steam-users-passes-18-million-30-more-than-a-year-ago/)
+
+By [Samuel Horti](https://www.pcgamer.com/author/samuel-horti/)January 07, 2018
+
+[Read more](https://www.pcgamer.com/number-of-active-steam-users-passes-18-million-30-more-than-a-year-ago/)
+
+##### [What we want from Valve in 2018](https://www.pcgamer.com/what-we-want-from-valve-in-2018/)
+
+By [Tyler Wilde, Victoria Rose, Mitch Bowman](https://www.pcgamer.com/author/tyler-wilde/)January 01, 2018
+
+[Read more](https://www.pcgamer.com/what-we-want-from-valve-in-2018/)
+
+##### [Steam reveals 2017's biggest earners, including The Witcher 3, H1Z1 and PUBG](https://www.pcgamer.com/steam-reveals-2017s-biggest-earners-including-the-witcher-3-h1z1-and-pubg/)
+
+By [Samuel Horti](https://www.pcgamer.com/author/samuel-horti/)January 01, 2018
+
+[Read more](https://www.pcgamer.com/steam-reveals-2017s-biggest-earners-including-the-witcher-3-h1z1-and-pubg/)
+
+### Topics
+
+[Steam](https://www.pcgamer.com/steam/)
+
+[Load Comments](https://www.pcgamer.com/steam-will-restrict-fake-games-which-exist-solely-for-achievement-farming/#article-comments)
+
+### Recommended
+
+[![Image 6: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg) #### New Battlefield 5 gameplay footage posted by Nvidia](https://www.pcgamer.com/new-battlefield-5-gameplay-footage-posted-by-nvidia/)
+
+[![Image 7: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg) #### Madden 19 is coming to PC, watch the debut trailer](https://www.pcgamer.com/madden-19-is-coming-to-pc/)
+
+Hardware Buying Guides Latest Game Reviews 
+
+1.   [![Image 8: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/best-ddr4-ram/)1
+#### [The best DDR4 RAM](https://www.pcgamer.com/best-ddr4-ram/)  
+2.   [![Image 9: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/best-gaming-motherboards/)2
+#### [The best gaming motherboards](https://www.pcgamer.com/best-gaming-motherboards/)  
+3.   [![Image 10: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/best-gaming-laptop/)3
+#### [The best gaming laptops](https://www.pcgamer.com/best-gaming-laptop/)  
+4.   [![Image 11: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/best-gaming-routers/)4
+#### [The best gaming routers](https://www.pcgamer.com/best-gaming-routers/)  
+5.   [![Image 12: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/best-gaming-chairs/)5
+#### [The best gaming chairs](https://www.pcgamer.com/best-gaming-chairs/)  
+
+1.   [![Image 13: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/gigabyte-aero-15x-review/)1
+#### [Gigabyte Aero 15X review](https://www.pcgamer.com/gigabyte-aero-15x-review/)  
+2.   [![Image 14: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/toshiba-rc100-nvme-ssd-review-a-tiny-package-with-modest-aspirations/)2
+#### [Toshiba RC100 NVMe SSD review: a tiny package with modest aspirations](https://www.pcgamer.com/toshiba-rc100-nvme-ssd-review-a-tiny-package-with-modest-aspirations/)  
+3.   [![Image 15: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/jurassic-world-evolution-review/)3
+#### [Jurassic World Evolution review](https://www.pcgamer.com/jurassic-world-evolution-review/)  
+4.   [![Image 16: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/yokus-island-express-review/)4
+#### [Yoku’s Island Express review](https://www.pcgamer.com/yokus-island-express-review/)  
+5.   [![Image 17: Above: USA 2020](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)](https://www.pcgamer.com/roccat-vulcan-120-review/)5
+#### [Roccat Vulcan 120 review](https://www.pcgamer.com/roccat-vulcan-120-review/)  
+
+### PC Gamer Newsletter
+
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+
+No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.
+
+Valve Steam Controller deals
+----------------------------
+
+?
+
+[![Image 18: GameStop](https://mos.fie.futurecdn.net/logos/merchants/gamestop-inc-14606471737323-100-80.png)](http://click.linksynergy.com/link?id=kXQk6%2AivFEQ&offerid=524335.10059409050&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fpc%2Faccessories%2Fsteam-controller%2F121865%3Fcid%3Dfds_10000777&u1=pcg-custom-tracking)
+
+Shipping from **Free**
+
+$47.97
+
+[View](http://click.linksynergy.com/link?id=kXQk6%2AivFEQ&offerid=524335.10059409050&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fpc%2Faccessories%2Fsteam-controller%2F121865%3Fcid%3Dfds_10000777&u1=pcg-custom-tracking)
+
+at 
+
+[GameStop](http://click.linksynergy.com/link?id=kXQk6%2AivFEQ&offerid=524335.10059409050&type=15&murl=https%3A%2F%2Fwww.gamestop.com%2Fpc%2Faccessories%2Fsteam-controller%2F121865%3Fcid%3Dfds_10000777&u1=pcg-custom-tracking)
+
+[![Image 19: Amazon](https://mos.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png)](https://www.amazon.com/Steam-Controller-SteamOS/dp/B016KBVBCS?psc=1&SubscriptionId=AKIAIPHVZTVH6LZ5BFZA&tag=hawk-future-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B016KBVBCS&smid=ATVPDKIKX0DER&ascsubtag=pcg-custom-tracking-20)
+
+[![Image 20: A 55x23 small image, likely a logo, icon or avatar](https://widgets.future-fie-assets.co.uk/img/misc/prime.png)**Free** trial](https://www.amazon.com/Amazon-Prime-One-Year-Membership/dp/B00DBYBNEE?tag=hawk-future-20&ascsubtag=pcg-custom-tracking-20)
+
+$49.99
+
+[View](https://www.amazon.com/Steam-Controller-SteamOS/dp/B016KBVBCS?psc=1&SubscriptionId=AKIAIPHVZTVH6LZ5BFZA&tag=hawk-future-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B016KBVBCS&smid=ATVPDKIKX0DER&ascsubtag=pcg-custom-tracking-20)
+
+at 
+
+[Amazon](https://www.amazon.com/Steam-Controller-SteamOS/dp/B016KBVBCS?psc=1&SubscriptionId=AKIAIPHVZTVH6LZ5BFZA&tag=hawk-future-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B016KBVBCS&smid=ATVPDKIKX0DER&ascsubtag=pcg-custom-tracking-20)
+
+[![Image 21: eBay](https://mos.fie.futurecdn.net/logos/merchants/ebayus-14606460619634-100-80.png)](http://rover.ebay.com/rover/1/711-53200-19255-0/1?campid=5337395774&customid=pcg-custom-tracking&toolid=10018&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FSteam-Controller-Valve-%2F232739895686)
+
+Shipping from **Free**
+
+$79.99
+
+[View](http://rover.ebay.com/rover/1/711-53200-19255-0/1?campid=5337395774&customid=pcg-custom-tracking&toolid=10018&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FSteam-Controller-Valve-%2F232739895686)
+
+at 
+
+[eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?campid=5337395774&customid=pcg-custom-tracking&toolid=10018&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FSteam-Controller-Valve-%2F232739895686)
+
+Deal ends Mon, 18 Jun
+
+We check over 130 million products every day for the best prices
+
+powered by 
+
+![Image 22: PCG](https://widgets.future-fie-assets.co.uk/img/sites/pcgamer.jpg)
+
+PC Gamer is part of Future plc, an international media group and leading digital publisher. [Visit our corporate site](http://www.futureus.com/).
+
+*   [About Us](https://www.pcgamer.com/about-pc-gamer/)
+*   [Terms and conditions](http://www.futureplc.com/terms-conditions/)
+*   [Privacy policy](http://www.futureus.com/privacy-policy/)
+*   [Cookies policy](http://www.futureplc.com/cookies-policy/)
+*   [Advertise with us](http://www.futureplc.com/#partner)
+
+© Future US, Inc.1390 Market St, Suite 200, San Francisco California 94102.
+
+[](https://plus.google.com/+pcgamer)

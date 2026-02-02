@@ -1,0 +1,223 @@
+# This is why Valve is switching from Debian to Arch for Steam Deck's Linux OS
+
+This is why Valve is switching from Debian to Arch for Steam Deck's Linux OS | PC Gamer
+
+===============
+
+The Wayback Machine - https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/
+
+[Skip to main content](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/#main)
+
+Open menu Close menu 
+
+[PC Gamer THE GLOBAL AUTHORITY ON PC GAMES](https://www.pcgamer.com/)
+
+- [x] Search Search PC Gamer 
+
+Subscribe
+
+[](http://steamcommunity.com/groups/pcgamer)[](https://www.facebook.com/pcgamermagazine)[](https://twitter.com/pcgamer)[](https://www.instagram.com/pcgamer_mag/?hl=en)[](https://www.youtube.com/user/pcgamer)[](https://www.twitch.tv/pcgamer)[](https://flipboard.com/@PC_Gamer_)[](https://www.tiktok.com/@pcgamer_mag?lang=en)
+
+US Edition
+
+![Image 1: flag of US](https://vanilla.futurecdn.net/pcgamer/media/shared/img/flags/nosize/US.svg)
+
+[![Image 2: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg) UK](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)[![Image 3: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg) US](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)[![Image 4: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg) Canada](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)[![Image 5: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg) Australia](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)
+
+[PC Gamer Magazine Subscription](https://www.awin1.com/awclick.php?awinmid=2961&awinaffid=103504&clickref=pcg-us-2281761128400902000&p=https%3A%2F%2Fwww.magazinesdirect.com%2FPCU-brandsite)
+
+[![Image 6: PC Gamer Magazine Subscription](https://mos.fie.futurecdn.net/7xizoodrk03krvjz-16491581336992-250-80.png)](https://www.awin1.com/awclick.php?awinmid=2961&awinaffid=103504&clickref=pcg-us-2281761128400902000&p=https%3A%2F%2Fwww.magazinesdirect.com%2FPCU-brandsite)
+
+Why subscribe?
+
+*   Subscribe to the world's #1 PC gaming mag
+*   Try a single issue or save on a subscription
+*   Issues delivered straight to your door or device
+
+[From$10.99](https://www.awin1.com/awclick.php?awinmid=2961&awinaffid=103504&clickref=pcg-us-2281761128400902000&p=https%3A%2F%2Fwww.magazinesdirect.com%2FPCU-brandsite)
+
+[View](https://www.awin1.com/awclick.php?awinmid=2961&awinaffid=103504&clickref=pcg-us-2281761128400902000&p=https%3A%2F%2Fwww.magazinesdirect.com%2FPCU-brandsite)
+
+*   [](https://www.pcgamer.com/)
+*   [News](https://www.pcgamer.com/news/)
+*   [Reviews](https://www.pcgamer.com/reviews/)
+*   [Hardware](https://www.pcgamer.com/hardware/)
+*   [Best Of](https://www.pcgamer.com/best-of/)
+*   [Magazine](https://www.pcgamer.com/pc-gamer-print-magazine/)
+*   [The Top 100](https://www.pcgamer.com/the-top-100-pc-games-2022/)
+*   [Forum](https://forums.pcgamer.com/)
+*   More 
+    *   [PCGaming Show](https://www.pcgamingshow.com/)
+    *   [Podcasts](https://www.pcgamer.com/tag/podcast/)
+    *   [Coupons](https://www.pcgamer.com/coupons/)
+    *   [Newsletter SignUp](https://www.pcgamer.com/sign-up-for-the-pc-gamer-newsletter/)
+    *   [Community Guidelines](https://www.pcgamer.com/commenting-rules-and-guidelines/)
+    *   [Affiliate Links](https://www.pcgamer.com/a-note-on-affiliate-links/)
+    *   [Meet the team](https://www.pcgamer.com/meet-the-team/)
+    *   [About PC Gamer](https://www.pcgamer.com/about-pc-gamer/)
+
+Popular
+*   [Diablo 4](https://www.pcgamer.com/diablo-4/)
+*   [PC Gaming Show 2023](https://www.pcgamer.com/pc-gaming-show-2023-how-to-watch/)
+*   [Total War: Pharaoh](https://www.pcgamer.com/conquer-egypt-and-survive-natural-disasters-in-total-war-pharaoh-this-october/)
+*   [Boltgun](https://www.pcgamer.com/warhammer-40000-boltgun-review/)
+*   [June showcases](https://www.pcgamer.com/e3-schedule-2023-summer-game-fest-showcase/)
+
+When you purchase through links on our site, we may earn an affiliate commission. [Here’s how it works](https://www.pcgamer.com/about-pc-gamer/#section-affiliate-advertising-disclosure).
+
+1.   [Home](https://www.pcgamer.com/)
+2.   [News](https://www.pcgamer.com/news/)
+
+This is why Valve is switching from Debian to Arch for Steam Deck's Linux OS
+============================================================================
+
+By [Alan Dexter](https://www.pcgamer.com/author/alan-dexter/)
+
+ published August 09, 2021
+
+It may all be hidden from view, but the underlying SteamOS 3.0 plays a critical role in the future of the Steam Deck.
+
+*   [](https://www.facebook.com/sharer/sharer.php?u=https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)
+*   [](https://twitter.com/intent/tweet?text=This%20is%20why%20Valve%20is%20switching%20from%20Debian%20to%20Arch%20for%20Steam%20Deck%27s%20Linux%20OS&url=https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)
+*   [](whatsapp://send/?text=This%20is%20why%20Valve%20is%20switching%20from%20Debian%20to%20Arch%20for%20Steam%20Deck's%20Linux%20OShttps://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/?fwa)
+*   [](https://www.reddit.com/submit?url=https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/&title=This%20is%20why%20Valve%20is%20switching%20from%20Debian%20to%20Arch%20for%20Steam%20Deck%27s%20Linux%20OS)
+*   [](https://pinterest.com/pin/create/button/?url=https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/&media=https://cdn.mos.cms.futurecdn.net/sEgyMjtCtnfgnHBvjvGy7V-1200-80.jpg)
+*   [](https://share.flipboard.com/bookmarklet/popout?title=This%20is%20why%20Valve%20is%20switching%20from%20Debian%20to%20Arch%20for%20Steam%20Deck%27s%20Linux%20OS&url=https%3A%2F%2Fwww.pcgamer.com%2Fthis-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os%2F)
+*   [](mailto:/?subject=I%20found%20this%20webpage&body=Hi,%20I%20found%20this%20webpage%20and%20thought%20you%20might%20like%20it%20https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/)
+*   [Comments](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/#comment-jump)
+
+![Image 7: Valve Steam Deck](https://cdn.mos.cms.futurecdn.net/sEgyMjtCtnfgnHBvjvGy7V-320-80.jpg)
+
+(Image credit: Valve)
+
+We recently enjoyed some [hands-on time with Valve's Steam Deck](https://www.pcgamer.com/steam-deck-hands-on-preview/) and got to talk to the engineers behind Valve's bold handheld project. While there are plenty of questions surrounding the hardware side of the [Steam Deck](https://www.pcgamer.com/steam-deck-price-release-date-specs/), there's also the whole matter of the operating system to consider as well. Although it can, it won't be running Microsoft Windows out of the box, but rather Valve's own SteamOS 3.0 instead.
+
+There's a key change from the version of SteamOS designed for its failed Steam Machines project though, and that's a switch away from Debian as the core distribution over to Arch instead. Both are popular Linux distributions, but they're aimed at different markets and that makes for some fundamental differences between the two—most notably how they are updated.
+
+Debian, which is one of the oldest Linux distributions, has a defined update schedule in place and long term support of up to 10 years for specific releases. It uses a standard update model, where lots of smaller updates are grouped together and released as a big new version.
+
+Given Debian is widely used for servers, that's the kind of stable, consistent support its audience is looking for. Debian still gets security and general software updates, but the core is left well alone—that whole 'if it ain't broke, don't fix it' mentality.
+
+This setup isn't ideal for what Valve is looking to do with the Steam Deck though. At launch, the Steam Deck will undoubtedly need multiple small updates to make sure everything works flawlessly. Some of which could affect the underlying kernel—not something that Debian readily lends itself to.
+
+That's something Valve designer, Lawrence Yang, told us during our hands-on time with the Deck when we asked about the switch from Debian to Arch.
+
+"So, Arch Linux, one of the main reasons, there's a couple, but the main reason is the rolling updates of Arch allows us to have more rapid development for SteamOS 3.0," says Yang. "We were making a bunch of updates and changes to specifically make sure that things work well for Steam deck, and Arch just ended up being a better choice for them."
+
+On top of that, you're probably looking at updates to the graphics drivers and Proton could need some big changes too—which is the layer that ensures games designed for Windows work on Linux. Fundamental changes to SteamOS itself aren't out of the question either.
+
+Essentially, at launch, the Steam Deck is going to need _plenty_ of smaller updates, not a big, one-off package.
+
+Your next machine
+
+![Image 8](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)
+
+(Image credit: Future)
+
+[**Best gaming PC**](https://www.pcgamer.com/best-gaming-pc/): the top pre-built machines from the pros
+
+[**Best gaming laptop**](https://www.pcgamer.com/best-gaming-laptop/): perfect notebooks for mobile gaming
+
+The fact that Arch is based on a rolling release model, as opposed to a traditional all-encompassing update system, simply makes it a better option for Valve's needs. That Arch is generally considered to be a better option for desktop PCs anyway doesn't hurt either.
+
+The Steam Deck will start shipping to those that pre-ordered it from December 2021. Interest in the handheld has been significant though, and anyone [ordering today](https://store.steampowered.com/steamdeck) will have to wait to Q2 2022 before they'll be able to get their hands on the machine.
+
+PC Gamer Newsletter
+-------------------
+
+Sign up to get the best content of the week, and great gaming deals, as picked by the editors.
+
+- [x] Contact me with news and offers from other Future brands - [x] Receive email from us on behalf of our trusted partners or sponsors By submitting your information you agree to the [Terms & Conditions](https://www.futureplc.com/terms-conditions/) and [Privacy Policy](https://www.futureplc.com/privacy-policy/) and are aged 16 or over.
+
+![Image 9: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)
+
+[Alan Dexter](https://www.pcgamer.com/author/alan-dexter/)
+
+Social Links Navigation
+
+[](https://www.twitter.com/@ardexter)[](mailto:alan.dexter@futurenet.com)
+
+Alan has been writing about PC tech since before 3D graphics cards existed, and still vividly recalls having to fight with MS-DOS just to get games to load. He fondly remembers the killer combo of a Matrox Millenium and 3dfx Voodoo, and seeing Lara Croft in 3D for the first time. He's very glad hardware has advanced as much as it has though, and is particularly happy when putting the latest M.2 NVMe SSDs, AMD processors, and laptops through their paces. He has a long-lasting Magic: The Gathering obsession but limits this to MTG Arena these days.
+
+More news
+
+[![Image 10: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg) League of Legends pros may go on strike over proposed rule changes](https://www.pcgamer.com/league-of-legends-pros-may-go-on-strike-over-proposed-rule-changes/)[![Image 11: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg) RIP Cortana: Windows 11 is getting a new AI 'personal assistant'](https://www.pcgamer.com/windows-11-copilot-ai-announcement/)
+
+Latest
+
+[![Image 12: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg) It's real: Windows 11 will soon let you control RGB gear without those annoying apps](https://www.pcgamer.com/its-real-windows-11-will-soon-let-you-control-rgb-gear-without-those-annoying-apps/)
+
+[See more latest►](https://www.pcgamer.com/news/)
+
+[See comments](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/#comment-jump)
+
+##### Most Popular
+
+[![Image 13: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/dices-former-mr-battlefield-has-a-new-studio-working-on-a-next-generation-online-shooter/)[DICE's former 'Mr Battlefield' has a new studio working on a 'next-generation online shooter'](https://www.pcgamer.com/dices-former-mr-battlefield-has-a-new-studio-working-on-a-next-generation-online-shooter/)
+By [Joshua Wolens](https://www.pcgamer.com/author//joshua-wolens/)May 23, 2023
+
+[![Image 14: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/oh-snapper-fishing-is-coming-to-destiny-2-later-today/)[Oh snapper, fishing is coming to Destiny 2 later today](https://www.pcgamer.com/oh-snapper-fishing-is-coming-to-destiny-2-later-today/)
+By [Phil Savage](https://www.pcgamer.com/author//phil-savage/)May 23, 2023
+
+[![Image 15: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/amazon-gaming-week-deals/)[It's Gaming Week at Amazon. Please don't buy a graphics card](https://www.pcgamer.com/amazon-gaming-week-deals/)
+By [Dave James](https://www.pcgamer.com/author//dave-james/)May 23, 2023
+
+[![Image 16: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/war-thunder-fans-organise-extraordinary-review-bombing-campaign-over-reverted-economy-changes-studio-pleads-if-your-goal-is-not-to-hurt-the-game-please-use-other-less-destructive-ways/)[War Thunder fans organise extraordinary review bombing campaign over reverted economy changes, studio pleads: 'If your goal is not to hurt the game, please use other, less destructive ways'](https://www.pcgamer.com/war-thunder-fans-organise-extraordinary-review-bombing-campaign-over-reverted-economy-changes-studio-pleads-if-your-goal-is-not-to-hurt-the-game-please-use-other-less-destructive-ways/)
+By [Rich Stanton](https://www.pcgamer.com/author//rich-stanton/)May 23, 2023
+
+[![Image 17: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/conquer-egypt-and-survive-natural-disasters-in-total-war-pharaoh-this-october/)[Conquer Egypt and survive natural disasters in Total War: Pharaoh this October](https://www.pcgamer.com/conquer-egypt-and-survive-natural-disasters-in-total-war-pharaoh-this-october/)
+By [Fraser Brown](https://www.pcgamer.com/author//fraser-brown/)May 23, 2023
+
+[![Image 18: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/props-to-this-decade-old-fighting-game-for-moving-to-new-servers-instead-of-shutting-down-in-2023/)[Props to this decade-old fighting game for moving to new servers instead of shutting down in 2023](https://www.pcgamer.com/props-to-this-decade-old-fighting-game-for-moving-to-new-servers-instead-of-shutting-down-in-2023/)
+By [Joshua Wolens](https://www.pcgamer.com/author//joshua-wolens/)May 23, 2023
+
+[![Image 19: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/check-it-a-fully-specced-no-compromise-rtx-4060-gaming-laptop-thats-only-just-over-dollar1000/)[Check it, a fully-specced, no-compromise RTX 4060 gaming laptop that's only just over $1,000](https://www.pcgamer.com/check-it-a-fully-specced-no-compromise-rtx-4060-gaming-laptop-thats-only-just-over-dollar1000/)
+By [Katie Wickens](https://www.pcgamer.com/author//katie-wickens/)May 23, 2023
+
+[![Image 20: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/this-ridiculous-shoe-pc-went-from-a-10-week-mod-project-to-a-dollar6000-custom-cooler-master-gaming-pc-you-can-actually-buy/)[This ridiculous shoe PC went from a 10-week mod project to a $6,000 custom Cooler Master gaming PC you can actually buy](https://www.pcgamer.com/this-ridiculous-shoe-pc-went-from-a-10-week-mod-project-to-a-dollar6000-custom-cooler-master-gaming-pc-you-can-actually-buy/)
+By [Katie Wickens](https://www.pcgamer.com/author//katie-wickens/)May 23, 2023
+
+[![Image 21: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/in-an-act-of-auteur-megalomania-yoshi-p-made-the-final-fantasy-16-core-team-buy-and-watch-game-of-thrones/)[In an act of auteur megalomania, Yoshi-P made the Final Fantasy 16 core team buy and watch Game of Thrones](https://www.pcgamer.com/in-an-act-of-auteur-megalomania-yoshi-p-made-the-final-fantasy-16-core-team-buy-and-watch-game-of-thrones/)
+By [Rich Stanton](https://www.pcgamer.com/author//rich-stanton/)May 23, 2023
+
+[![Image 22: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/blizzard-execs-sound-very-excited-about-ai-want-to-use-it-for-level-design-coding-and-anti-toxicity/)[Blizzard execs sound very excited about AI, want to use it for level design, coding, and 'anti-toxicity'](https://www.pcgamer.com/blizzard-execs-sound-very-excited-about-ai-want-to-use-it-for-level-design-coding-and-anti-toxicity/)
+By [Joshua Wolens](https://www.pcgamer.com/author//joshua-wolens/)May 23, 2023
+
+[![Image 23: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/samsung-is-making-the-qd-oled-ultrawide-panel-of-my-dreams/)[Samsung is making the QD-OLED ultrawide panel of my dreams](https://www.pcgamer.com/samsung-is-making-the-qd-oled-ultrawide-panel-of-my-dreams/)
+By [Jacob Ridley](https://www.pcgamer.com/author//jacob-ridley/)May 23, 2023
+
+[Load Comments](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os/#article-comments)
+
+Recommended
+
+[![Image 24](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg) Thanks for everything, WinRAR: Windows is finally getting native RAR support](https://www.pcgamer.com/thanks-for-everything-winrar-windows-is-finally-getting-native-rar-support/)
+
+[![Image 25](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg) I'm getting some tasty Skyrim and Dark Messiah vibes from this first-person action RPG](https://www.pcgamer.com/im-getting-some-tasty-skyrim-and-dark-messiah-vibes-from-this-first-person-action-rpg/)
+
+HARDWARE BUYING GUIDES LATEST GAME REVIEWS
+
+1.   [![Image 26: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/best-gaming-chairs/ "Best gaming chairs in 2023")1 [Best gaming chairs in 2023](https://www.pcgamer.com/best-gaming-chairs/)   
+2.   2 [Best gaming laptops in 2023: Portable powerhouses](https://www.pcgamer.com/best-gaming-laptop/)   
+3.   3 [Best gaming monitors in 2023](https://www.pcgamer.com/best-gaming-monitor/)   
+4.   4 [Best gaming headsets in 2023](https://www.pcgamer.com/best-gaming-headset/)   
+5.   5 [Best gaming PCs in 2023: find the perfect gaming rig](https://www.pcgamer.com/best-gaming-pc/)   
+
+1.   [![Image 27: flag of UK](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/warhammer-40000-boltgun-review/ "Warhammer 40,000: Boltgun review")1 [Warhammer 40,000: Boltgun review](https://www.pcgamer.com/warhammer-40000-boltgun-review/)   
+2.   2 [Nvidia GeForce RTX 4060 Ti](https://www.pcgamer.com/nvidia-rtx-4060-ti-review-benchmarks-performance/)   
+3.   3 [Hrot review](https://www.pcgamer.com/hrot-review/)   
+4.   4 [Star Trek: Resurgence review](https://www.pcgamer.com/star-trek-resurgence-review/)   
+5.   5 [Corsair Xeneon 27QHD240](https://www.pcgamer.com/corsair-xeneon-27qhd240-oled-gaming-monitor-review/)   
+
+PC Gamer is part of Future US Inc, an international media group and leading digital publisher. [Visit our corporate site](https://www.futureplc.com/).
+
+*   [About Us](https://www.pcgamer.com/about-pc-gamer/)
+*   [Contact Future's experts](https://www.futureplc.com/contact/)
+*   [Terms and conditions](https://www.futureplc.com/terms-conditions/)
+*   [Privacy policy](https://www.futureplc.com/privacy-policy/)
+*   [Cookies policy](https://www.futureplc.com/cookies-policy/)
+*   [Advertise with us](https://go.future-advertising.com/PC-Gamer-Media-Kit.html)
+*   [Accessibility Statement](https://www.futureplc.com/accessibility-statement/)
+*   [Careers](https://www.futureplc.com/careers/)
+*   [Do not sell or share my personal information](https://www.pcgamer.com/privacy-portal)
+
+© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.

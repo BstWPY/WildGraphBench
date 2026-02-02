@@ -1,0 +1,107 @@
+# Proton now officially supports Nvidia DLSS, but it won't come to Valve's Steam Deck
+
+Proton now officially supports Nvidia DLSS, but it won’t come to Valve’s Steam Deck | PCGamesN
+
+===============
+
+The Wayback Machine - https://www.pcgamesn.com/steam-deck/proton-dlss-support
+
+[PCGamesN](https://www.pcgamesn.com/)
+
+- [x] 
+
+*   [News](https://www.pcgamesn.com/news "PC Games News | PCGamesN")
+*   [Reviews](https://www.pcgamesn.com/reviews "PC Games Reviews | PCGamesN")
+*   [Hardware](https://www.pcgamesn.com/gaming-hardware "PC Games Hardware | PCGamesN")
+    *   [Black Friday deals](https://www.pcgamesn.com/black-friday-cyber-monday)
+    *   [All Hardware](https://www.pcgamesn.com/gaming-hardware)
+
+*   [Guides](https://www.pcgamesn.com/guides "PC Games Guides | PCGamesN")
+*   [Community](https://www.pcgamesn.com/steam-deck/proton-dlss-support)
+    *   [Facebook](https://www.facebook.com/plugins/error/confirm/like?iframe_&kid_directed_site=false&secure=true&plugin=like&return_params=%7B%22action%22%3A%22like%22%2C%22app_id%22%3A%22110898872300039%22%2C%22channel%22%3A%22https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df1cf6e84b53f9f%26domain%3Dwww.pcgamesn.com%26origin%3Dhttps%253A%252F%252Fwww.pcgamesn.com%252Ff391d48c3f24d14%26relation%3Dparent.parent%22%2C%22container_width%22%3A%220%22%2C%22href%22%3A%22http%3A%2F%2Fwww.facebook.com%2Fpcgamesnetwork%22%2C%22layout%22%3A%22standard%22%2C%22locale%22%3A%22en_US%22%2C%22sdk%22%3A%22joey%22%2C%22share%22%3A%22false%22%2C%22show_faces%22%3A%22false%22%2C%22width%22%3A%22290%22%2C%22ret%22%3A%22sentry%22%2C%22act%22%3A%22like%22%7D)
+    *   [Instagram](https://www.instagram.com/pcgamesn/)
+    *   [Overwolf](https://www.overwolf.com/app/Network_N-PC_Games_News "Overwolf")
+    *   [Steam](https://store.steampowered.com/newshub/group/3693985)
+    *   [Twitch](https://www.twitch.tv/PCGamesN)
+    *   [Twitter](https://twitter.com/intent/follow?screen_name=PCGamesN&tw_p=followbutton)
+    *   [YouTube](https://www.youtube.com/pcgamesn?sub_confirmation=1)
+    *   [Newsletter](https://com.us8.list-manage.com/subscribe?u=b09c45c59147708b1dc1679db&id=577acfd741)
+
+*   [More](https://www.pcgamesn.com/steam-deck/proton-dlss-support# "More | PCGamesN")
+    *   [About Us](https://www.pcgamesn.com/about-us "About Us")
+    *   [Advertise with Us](https://www.pcgamesn.com/advertise-with-us)
+    *   [Pitch to Us](https://www.pcgamesn.com/pitch-to-pcgamesn)
+    *   [Careers](https://www.pcgamesn.com/careers "Careers")
+    *   [Terms and Conditions](https://www.pcgamesn.com/terms-and-conditions "Terms and Conditions")
+    *   [Privacy Policy](https://www.pcgamesn.com/privacy-policy "Privacy Policy")
+    *   [Cookie Policy](https://www.pcgamesn.com/privacy-policy "Cookie Policy")
+    *   [PCGN Overwolf app](https://www.pcgamesn.com/pcgn-overwolf-app "PCGN Overwolf app")
+
+*   [Black Friday](https://www.pcgamesn.com/black-friday-cyber-monday "Black Friday & Cyber Monday Deals")
+
+[](https://www.pcgamesn.com/search)[Network-N](https://www.network-n.com/)
+
+Proton now officially supports Nvidia DLSS, but it won’t come to Valve’s Steam Deck
+===================================================================================
+
+![Image 1: A POV of someone using a Steam Deck, the on-screen keyboard and images of the Steam store are displayed on the device's screen](https://www.pcgamesn.com/wp-content/uploads/2021/11/steam-deck-proton-dlss-support-580x334.jpg)
+
+Valve is paving the way for us to ditch Windows and dive into Linux PC gaming, as the Steam Deck leads the charge with SteamOS and its Proton compatibility layer. Now, with the [release of Proton 6.3-8](https://github.com/ValveSoftware/Proton/releases/tag/proton-6.3-8) ([via Videocardz](https://videocardz.com/newz/nvidia-dlss-now-officially-available-for-valves-proton-6-3-8-on-linux)), the company hopes to tempt even more players to jump ship with official support for [Nvidia DLSS](https://www.pcgamesn.com/nvidia/dlss-graphics).
+
+The proprietary upscaling technology can help [boost fps](https://www.pcgamesn.com/boost-fps) in games like [Call of Duty: Vanguard](https://www.pcgamesn.com/call-of-duty-vanguard/best-settings-performance-benchmarks) or [Back 4 Blood](https://www.pcgamesn.com/back-4-blood/best-settings-performance-benchmarks), without sacrificing much in the way of image quality. Unfortunately, team green’s upscaling technology won’t be supported on the Steam Deck as it uses an AMD Zen2-based SoC, and Nvidia DLSS requires an RTX chip.
+
+Thankfully, Proton already supports [AMD FSR](https://www.pcgamesn.com/amd/fidelityfx-super-resolution-release), which doesn’t require your GPU be of a specific brand, so Steam Deck users won’t be entirely out of luck when it comes to upscaling options.
+
+Support for AMD FSR could prove extremely useful for anyone gaming on the Steam Deck, [when it eventually releases in 2022](https://www.pcgamesn.com/steam-deck/delay-february-2022). A benchmark conducted on a dev kit suggests that [the Steam Deck could struggle to run some games at 60 fps](https://www.pcgamesn.com/steam-deck/dev-kit-benchmark-results), and so team red’s upscaling feature could help provide an easy performance boost.
+
+Nonetheless, Valve is doing everything it can to make sure that [all 50,000 Steam games are tested on the Steam Deck,](https://www.pcgamesn.com/steam-deck/compatibility) with recent reports pointing to a [good level of compatibility with the platform’s top 100 titles](https://www.pcgamesn.com/steam-deck/top-100-games-proton-compatibility) ahead of release.
+
+{"schema":{"page":{"content":{"headline":"Proton now officially supports Nvidia DLSS, but it won’t come to Valve’s Steam Deck","type":"news","category":"gaming-hardware"},"user":{"loginstatus":false},"game":{"publisher":"","genre":"","title":"Gaming hardware","genres":[]}}}}
+
+Get involved in the conversation by heading over to our [Facebook](https://www.facebook.com/plugins/error/confirm/like?iframe_&kid_directed_site=false&secure=true&plugin=like&return_params=%7B%22action%22%3A%22like%22%2C%22app_id%22%3A%22110898872300039%22%2C%22channel%22%3A%22https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df1cf6e84b53f9f%26domain%3Dwww.pcgamesn.com%26origin%3Dhttps%253A%252F%252Fwww.pcgamesn.com%252Ff391d48c3f24d14%26relation%3Dparent.parent%22%2C%22container_width%22%3A%220%22%2C%22href%22%3A%22http%3A%2F%2Fwww.facebook.com%2Fpcgamesnetwork%22%2C%22layout%22%3A%22standard%22%2C%22locale%22%3A%22en_US%22%2C%22sdk%22%3A%22joey%22%2C%22share%22%3A%22false%22%2C%22show_faces%22%3A%22false%22%2C%22width%22%3A%22290%22%2C%22ret%22%3A%22sentry%22%2C%22act%22%3A%22like%22%7D) and [Instagram](https://www.instagram.com/pcgamesn/) pages. To stay up to date with the [latest Black Friday deals](https://www.pcgamesn.com/black-friday-cyber-monday), check out our guides, and follow PCGamesN on [Twitter](https://twitter.com/intent/follow?screen_name=PCGamesN&tw_p=followbutton) and [Steam News Hub](https://store.steampowered.com/curator/3693985-PCGamesN/).
+
+ We sometimes include relevant affiliate links in articles from which we earn a small commission. Any stated prices are correct at the time of publication. For more information, click [here](https://www.pcgamesn.com/terms-and-conditions).
+
+![Image 2: Samuel Willetts](https://www.pcgamesn.com/wp-content/themes/pcgamesn/dist/images/default_avatar.png)
+
+[Samuel Willetts](https://www.pcgamesn.com/author/samuel-willetts) Hardware Writer
+
+[](mailto:samuel.willetts@pcgamesn.com)
+
+[](https://twitter.com/@samwisewilletts)
+
+Published: Nov 25, 2021
+
+Samuel can't remember a time when PC hardware wasn't a part of his life and feels right at home with his hands inside the guts of a rig. He's previously written for PCGamer, StartMenu, Redbrick, T3, and TopTenReviews.
+
+INFO 
+
+Read More[Best SSD for gaming](https://www.pcgamesn.com/best-ssd-for-gaming)[How to build a gaming PC](https://www.pcgamesn.com/how-to-build-gaming-pc)[Best gaming CPU](https://www.pcgamesn.com/best-gaming-cpu)
+
+*   #### [Gaming hardware](https://www.pcgamesn.com/gaming-hardware)
+
+*   #### [Steam Deck](https://www.pcgamesn.com/steam-deck)
+
+Recommended Stories
+
+[![Image 3: Encrypted Freemium Email Account](https://images.outbrainimg.com/transform/v3/eyJpdSI6ImRmNjM4ZDlhYWNjMzMxODBiNThmYTZiOWZlMjIwNzA3ZWI4YTMwYWU2ZjRkNTM5MWJhODk1ODk0YjczNTA5ZWEiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS4wLCJjcyI6MCwiZiI6NH0.webp)Encrypted Freemium Email Account Learn More Proton Mail](https://go.getproton.me/aff_ad?campaign_id=2457&aff_id=2847&aff_type=ob&aff_sub={{cid}}&aff_sub2=00fa2195dd9e3dbe6ad98ebf651ed2b37a&aff_sub3={{publisher_name}}_{{section_name}}&ad_id={{ob_click_id}}&utm_campaign=us-en-2c-mail-gro_dis-g_acq-mofu_exp_signup_a&utm_source=outbrain.com&utm_medium=dis_ad&utm_content=00fa2195dd9e3dbe6ad98ebf651ed2b37a&utm_term={{publisher_name}}_{{section_name}}&obOrigUrl=true)
+
+[![Image 4: The Importance of Air Ambulance Membership: A Family's Story](https://images.outbrainimg.com/transform/v3/eyJpdSI6IjY2ZGU0MWQzZTNjMTdjNzRiYmI3MmI2NzFhMDA4NDk3NjI3YzEzOWMzOTgxOWM4ZjMxYzM5MTg2YTRlN2U0OTciLCJ3IjozOTAsImgiOjI0MCwiZCI6MS4wLCJjaCI6MTM3MDIxNzQwNCwiY3MiOjAsImYiOjR9.webp)The Importance of Air Ambulance Membership: A Family's Story AirMedCare Network](https://www.airmedcarenetwork.com/a-life-saving-flight-to-level-one-care?obOrigUrl=true)
+
+[![Image 5: Ask A Pro: "How Do I Know If a Partial Roth Conversion Still Makes Sense in 2025?"](https://images.outbrainimg.com/transform/v3/eyJpdSI6ImZiODgxODk5OThmODhiMDQyY2ZmMjQ0MGQ0YThlYTc0NDQ5NWQ0ODUzNjljZDlmMGE5MWMzYzY4ZTExNDYxODUiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS4wLCJjcyI6MCwiZiI6NH0.webp)Ask A Pro: "How Do I Know If a Partial Roth Conversion Still Makes Sense in 2025?" Learn More SmartAsset](https://smartasset.com/retirement/find-a-financial-planner?utm_source=outbrain&utm_campaign=out__falc_direct_parro_allplatforms_tcpa_1125_t1_broad&utm_term={{section_id}}&utm_content=00b4b184600e7da743860391fbc98eb437&utm_id={{ob_click_id}}&obOrigUrl=true)
+
+[![Image 6: Discover How Air Ambulance Care Made a Difference for the Dunnihoos](https://images.outbrainimg.com/transform/v3/eyJpdSI6ImI0MGE0ODgzYzhmNzE2Njk2NDAwZTZiNGRhNzFmZjA3NzhhOWZhN2NlYjA5MDMzZDY3ZjE5MjE2YTZmNmNhMWQiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS4wLCJjaCI6LTE2NjgxNTc5MTYsImNzIjowLCJmIjo0fQ.webp)Discover How Air Ambulance Care Made a Difference for the Dunnihoos Learn More AirMedCare Network](http://www.airmedcarenetwork.com/were-so-grateful-to-be-here-for-you-and-your-family?obOrigUrl=true)
+
+[Learn More Spine Specialists Says: Do This For 15min To Relieve Sciatica Learn More SmoothSpine](https://vlm.spinehealthmagazine.com/ae6d175d-905f-48f0-a86e-c147659947d4?utm_source=outbrain&nb_cid=003b2276a55f347ef57ee4c96db455d5a0&nb_pubid={{publisher_id}}&nb_secid={{section_id}}&ad_id=00c790c85201032850679133536c190c07&utm_content=Spine+Specialists+Says%3A+Do+This+For+15min+To+Relieve+Sciatica&utm_campaign=A+%7C+OB+%7C+MC+%7C+DT+%7C+Clip+Testing+1+%7C+28+Nov+&utm_term={{rpublisher_name}}&ob_click_id={{ob_click_id}}&obOrigUrl=true)
+
+[![Image 7: Get Black Friday deals on your next adventure.](https://images.outbrainimg.com/transform/v3/eyJpdSI6ImViOGVjZDZiYjQxMzkzZDJkOGE2MWQ1YzczZDI2NmRjMzJiOTBmYzFhOTA0NGYwZGE3MjA1MDIzNzdhYjA2NDQiLCJ3IjozOTAsImgiOjI0MCwiZCI6MS4wLCJjcyI6MCwiZiI6NH0.webp)Get Black Friday deals on your next adventure. Book Now Cathay Pacific](https://ad.doubleclick.net/ddm/trackclk/N997352.3107129INNOCEANTEADS/B34655505.433532651;dc_trk_aid=627302887;dc_trk_cid=245063821;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=%24%7BGDPR%7D;gdpr_consent=%24%7BGDPR_CONSENT_755%7D;ltd=;dc_tdv=1?https://flights.cathaypacific.com/en_US/offers/BlackFriday25.html?utm_medium=PARTNERSHIP&utm_source=TEADS&utm_campaign=20251121-US-20251121_TAM_BLACKFRIDAY&utm_content=OTHERS_INREAD_SINGLE_IMAGE-V1&gad_source=7&gad_campaignid=23244526467&obOrigUrl=true)
+
+[](https://www.outbrain.com/what-is/default/en)
+
+© 2021 Powered by Network-N
+
+*   [Terms and conditions](https://www.pcgamesn.com/terms-and-conditions)
+*   [About us](https://www.pcgamesn.com/about-us)
+*   [Careers](https://www.pcgamesn.com/careers)
+
+![Image 9](https://trc.taboola.com/pcgamesn/log/3/action?name=page_view&item-url={encoded_page_url})

@@ -1,0 +1,4468 @@
+# Obesity in anaesthesia and intensive care
+
+Keywords
+--------
+
+1.   [complications](https://www.bjanaesthesia.org/action/doSearch?AllField=%22complications%22&journalCode=bja)
+2.   [obesity](https://www.bjanaesthesia.org/action/doSearch?AllField=%22obesity%22&journalCode=bja)
+
+_Br J Anaesth_ 2000; **85**: 91–108
+
+The prevalence of significant obesity continues to rise in both developed and developing countries, and is associated with an increased incidence of a wide spectrum of medical and surgical pathologies[35](https://doi.org/10.1093/bja/85.1.91#)
+
+35.
+
+Björntorp, P
+
+**Obesity**
+
+_Lancet._ 1997; **350**:423-426
+
+ ([Table 1](https://doi.org/10.1093/bja/85.1.91#tbl1)). As a result, the anaesthetist can expect to be presented frequently with obese patients in the operating theatre, intensive care unit or resuscitation room. These patients may provide the anaesthetist with a considerable challenge. A thorough understanding of the pathophysiology and specific complications associated with the condition should allow more effective and safer treatment for this unique group of patients.
+
+**Category****Examples**
+Cardiovascular disease Sudden (cardiac) death; obesity cardiomyopathy; hypertension; ischaemic heart disease; hyperlipidaemia; cor pulmonale; cerebrovascular disease; peripheral vascular disease; varicose veins; deep-vein thrombosis and pulmonary embolism
+Respiratory disease Restrictive lung disease; obstructive sleep apnoea; obesity hypoventilation syndrome
+Endocrine disease Diabetes mellitus; Cushing's disease; hypothyroidism; infertility
+Gastrointestinal disease Hiatus hernia; gallstones; inguinal hernia
+Genitourinary Menstrual abnormalities; female urinary incontinence; renal calculi
+Malignancy Breast, prostate, colorectal, cervical and endometrial cancer
+Musculoskeletal Osteoarthritis of weight-bearing joints, back pain
+
+Table 1
+Medical and surgical conditions associated with obesity
+
+*   [Open table in a new tab](https://www.bjanaesthesia.org/action/showFullTableHTML?isHtml=true&tableId=tbl1&pii=S0007-0912%2817%2937339-7)
+
+Definitions
+-----------
+
+Obesity is a condition of excessive body fat. The name is derived from the Latin word _obesus_, which means fattened by eating.[69](https://doi.org/10.1093/bja/85.1.91#)
+
+67.
+
+Fisher, A ∙ Waterhouse, TD ∙ Adams, AP
+
+**Obesity: its relation to anaesthesia**
+
+_Anaesthesia._ 1975; **30**:633-647
+
+ The difference between normality and obesity is arbitrary, but an individual must be considered obese when the amount of fat tissue is increased to such an extent that physical and mental health are affected and life expectancy reduced.[122](https://doi.org/10.1093/bja/85.1.91#)
+
+118.
+
+National Institutes of Health Consensus Development Conference Statement
+
+**Health implications of obesity**
+
+_Ann Int Med._ 1985; **103**:147-151
+
+ Examples of body fat contents in adults from Western societies are 20–30% for the average female, 18–25% for the average male, 10–12% for a professional soccer player and 7% for a marathon runner.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+Accurate measurement of body fat content is difficult and requires sophisticated techniques such as computed tomography (CT) scanning or magnetic resonance imaging. Useful estimates, however, can be obtained by evaluating weight for a given height and then comparing that figure with an ideal weight. The concept of ideal body weight (IBW) originates from life insurance studies which describe the weight associated with the lowest mortality rate for a given height and gender; for general clinical purposes, IBW can be estimated from the formula IBW (in kg) = height (in cm) – _x_, where _x_ is 100 for adult males and 105 for adult females.
+
+The body mass index (BMI) is a more robust measure of the relationship between height and weight, and is widely used in clinical and epidemiological studies. It is calculated as follows:
+
+BMI = body weight (in kg)/height 2 (in metres)
+
+A BMI of <25 kg m−2 is considered normal; a person with a BMI of 25–30 kg m−2 is considered overweight but at low risk of serious medical complications, while those with a BMI of >30, >35 and >55 kg m−2 are considered obese, morbidly obese and super-morbidly obese, respectively.[39](https://doi.org/10.1093/bja/85.1.91#)
+
+39.
+
+Bray, GA
+
+**Pathophysiology of obesity**
+
+_Am J Clin Nutr._ 1992; **55**:488S-494S
+
+ Morbidity and mortality rise sharply when the BMI is >30 kg m−2.[76](https://doi.org/10.1093/bja/85.1.91#)
+
+74.
+
+Garrison, RJ ∙ Castelli, WP
+
+**Weight and thirty-year mortality of men in the Framingham study**
+
+_Ann Int Med._ 1985; **103**:1006-1009
+
+ Although it is a very robust and practical assessment of obesity, the BMI does have its limitations. For instance, heavily muscled individuals would be classified as overweight. It is now thought that other factors, such as young age and the pattern of adipose tissue distribution, may be better predictors of health risk.
+
+Epidemiology
+------------
+
+There is overwhelming evidence that the prevalence of obesity is increasing worldwide. In 1997, an International Obesity Task Force summarized information on the epidemiology of obesity.[35](https://doi.org/10.1093/bja/85.1.91#)
+
+35.
+
+Björntorp, P
+
+**Obesity**
+
+_Lancet._ 1997; **350**:423-426
+
+ Defining obesity as a BMI of >30 kg m−2, they concluded that the prevalence of obesity was 15–20% in Europe with wide regional variations. In the UK over the period 1980–1991 the prevalence of obesity had increased from 6% to 13% in men and from 8% to 15% in women, meaning that the average UK body weight had risen by approximately 1 kg over that 10 yr period. The picture was better for Scandinavia and the Netherlands (10%) but worse for Eastern Europe (up to 50% among women in some countries). The health and economic implications are considerable, since countries such as France, Germany and the UK will each have approximately 10 million obese inhabitants.[35](https://doi.org/10.1093/bja/85.1.91#)
+
+35.
+
+Björntorp, P
+
+**Obesity**
+
+_Lancet._ 1997; **350**:423-426
+
+ The situation in the USA is even worse, with the prevalence of a BMI of >25 kg m−2 being 59.4% for men, 50.7% for women and 54.9% for adults overall.[70](https://doi.org/10.1093/bja/85.1.91#)
+
+68.
+
+Flegal, KM ∙ Carroll, MD ∙ Kuczmarski, RJ ...
+
+**Overweight and obesity in the United States: prevalence and trends, 1960–1994**
+
+_Int J Obes Relat Metab Disord._ 1998; **22**:39-47
+
+ Furthermore, for the period 1960–1994, the prevalence of obesity (BMI of >30 kg m−2) has increased markedly from 12.8% to 22.5%.
+
+The prevalence of obesity varies with socioeconomic status. In developed countries, poverty is associated with a greater prevalence of obesity whereas in developing areas it is affluence that carries the higher risk.[147](https://doi.org/10.1093/bja/85.1.91#)
+
+143.
+
+Sobal, J ∙ Stunkard, A
+
+**Socioeconomic status of obesity: a review of the literature**
+
+_Psychol Bull._ 1989; **105**:260-275
+
+Mortality
+---------
+
+There is little evidence to suggest that being moderately overweight (actual body weight 110–120% of IBW) carries much excess risk in young adults,[143](https://doi.org/10.1093/bja/85.1.91#)
+
+139.
+
+Sjöström, LV
+
+**Mortality of severely obese subjects**
+
+_Am J Clin Nutr._ 1992; **55**:516S-523S
+
+ but morbidity and mortality rise sharply when BMI is >30 kg m−2, particularly with concomitant cigarette smoking. The risk of premature death doubles in individuals with a BMI of >35 kg m−2.[76](https://doi.org/10.1093/bja/85.1.91#)
+
+74.
+
+Garrison, RJ ∙ Castelli, WP
+
+**Weight and thirty-year mortality of men in the Framingham study**
+
+_Ann Int Med._ 1985; **103**:1006-1009
+
+ Sudden unexplained death is 13 times more likely in morbidly obese women than in their non-obese counterparts.[63](https://doi.org/10.1093/bja/85.1.91#)
+
+62.
+
+Duflou, J ∙ Virmani, R ∙ Rabin, I ...
+
+**Sudden death as a result of heart disease in morbid obesity**
+
+_Am Heart J._ 1995; **130**:306-313
+
+[106](https://doi.org/10.1093/bja/85.1.91#)
+
+103.
+
+Kral, G
+
+**Morbid obesity and related health risks (a review)**
+
+_Ann Int Med._ 1985; **103**:1043-1047
+
+ Overweight men participating in the Framingham study[82](https://doi.org/10.1093/bja/85.1.91#)
+
+80.
+
+Harris, T ∙ Cook, F ∙ Garrison, R ...
+
+**Body mass index and mortality among non-smoking older persons: the Framingham Heart Study**
+
+_J Am Med Assoc._ 1988; **259**:1520-1524
+
+ had a mortality rate 3.9 times greater than the normal weight group. Morbidly obese individuals are at a much greater risk of mortality from diabetes, cardiorespiratory[62](https://doi.org/10.1093/bja/85.1.91#)
+
+61.
+
+Drenick, EJ ∙ Fisler, JS
+
+**Sudden cardiac arrest in morbidly obese surgical patients unexplained after autopsy**
+
+_Am J Surg._ 1988; **155**:720-726
+
+ and cerebrovascular disorders, and certain forms of cancer,[75](https://doi.org/10.1093/bja/85.1.91#)
+
+73.
+
+Garfinkel, L
+
+**Overweight and cancer**
+
+_Ann Int Med._ 1985; **103**:1034-1036
+
+ as well as a host of other diseases[99](https://doi.org/10.1093/bja/85.1.91#)
+
+97.
+
+Kannel, WB ∙ Brand, N ∙ Skinner, JJ ...
+
+**The relation of adiposity to blood pressure and the development of hypertension: The Framingham study**
+
+_Ann Int Med._ 1867; **67**:48-59
+
+[100](https://doi.org/10.1093/bja/85.1.91#)
+
+98.
+
+Kannel, WB ∙ LeBauer, JE ∙ Dawber, JR ...
+
+**Relation of body weight to development of coronary heart disease: the Framingham study**
+
+_Circulation._ 1967; **35**:734-744
+
+ ([Table 1](https://doi.org/10.1093/bja/85.1.91#tbl1)). These risks are proportional to the duration of obesity;[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ it appears that continued weight gain constitutes a higher risk than for obese individuals whose weight is constant. For a given level of obesity, men are at a higher risk than women,[107](https://doi.org/10.1093/bja/85.1.91#)
+
+104.
+
+Kushner, RF
+
+**Body weight and mortality**
+
+_Nutr Rev._ 1993; **51**:127-136
+
+ but for both groups weight loss reduces the risk associated with previous obesity. Despite this, weight reduction immediately before surgery has not been shown to reduce perioperative morbidity and mortality.[67](https://doi.org/10.1093/bja/85.1.91#)
+
+65.
+
+Fasol, R ∙ Schindler, M ∙ Schumacher, B ...
+
+**The influence of obesity on perioperative morbidity: retrospective study of 502 aortocoronary bypass operations**
+
+_Thorac Cardiovasc Surg._ 1992; **40**:126-129
+
+[142](https://doi.org/10.1093/bja/85.1.91#)
+
+138.
+
+Shenkman, Z ∙ Shir, Y ∙ Brodsky, JB
+
+**Perioperative management of the obese patient**
+
+_Br J Anaesth._ 1993; **70**:349-359
+
+Aetiology
+---------
+
+Obesity is a complex and multifactorial disease[150](https://doi.org/10.1093/bja/85.1.91#)
+
+146.
+
+Stunkard, AJ
+
+**Current views on obesity**
+
+_Am J Med._ 1996; **100**:230-235
+
+ but, in simple terms, occurs when net energy intake exceeds net energy expenditure over a prolonged period of time. However, it is not always easy to identify a single explanation as to why this occurs in some individuals and not others. The following observations provide some clues:
+
+### Genetic predisposition
+
+Obesity tends to be familial, with children of two obese parents having about a 70% chance of becoming obese themselves as compared with a 20% risk for children of non-obese parents. This can, in part, be explained by influences such as diet and lifestyle, but studies of adopted children show weight patterns similar to those of their natural parents, suggesting that a genetic component does exist. Animal studies have confirmed that there is a genetic contribution to obesity. In 1994 the _ob_ gene was identified in mice and was shown to control the production of the protein leptin.[21](https://doi.org/10.1093/bja/85.1.91#)
+
+21.
+
+Auwerx, J ∙ Staels, B
+
+**Leptin**
+
+_Lancet._ 1998; **351**:737-742
+
+[171](https://doi.org/10.1093/bja/85.1.91#)
+
+166.
+
+Zhang, Y ∙ Proenca, R ∙ Maffei, M ...
+
+**Positional cloning of the mouse _obese_ gene and its human homologue**
+
+_Nature._ 1994; **372**:425-432
+
+ Genetically obese _ob/ob_ mice produce insufficient leptin and tend to overeat, leading to obesity. Exogenous leptin reverses hyperphagia and induces weight loss. Clinical studies, however, suggest that only very rarely can such simple genetic defects in leptin production account for significant obesity.[48](https://doi.org/10.1093/bja/85.1.91#)
+
+47.
+
+Carlsson, B ∙ Lindell, K ∙ Gabrielsson, B ...
+
+**Obese (_ob_) gene defects are rare in human obesity**
+
+_Obes Res._ 1997; **5**:30-35
+
+ In fact, most obese individuals have elevated leptin concentrations, probably a consequence of increased amounts of the source tissue, fat. Furthermore, the rapid increase in the prevalence of obesity over the last 30 years and the fact that the gene pool has remained relatively constant suggest that environmental issues are much more important determinants.
+
+### Ethnic influences
+
+In the USA there are marked differences in the prevalence of obesity in the different ethnic populations, with African and Mexican Americans being at much higher risk than white Americans. Asian immigrants to the UK have a more central distribution of fat than native Caucasians; this is associated with an increased risk of diabetes and coronary heart disease.[35](https://doi.org/10.1093/bja/85.1.91#)
+
+35.
+
+Björntorp, P
+
+**Obesity**
+
+_Lancet._ 1997; **350**:423-426
+
+### Socioeconomic factors 147
+
+In the UK there is an inverse relationship between socioeconomic status and the prevalence of obesity, with women of social class I having a 10% risk as compared with 25% in social class V. Of women who move to a higher social class on marriage, only 12% were overweight as compared with 22% who moved to a lower social class.
+
+### Medical disorders
+
+Endocrine abnormalities such as Cushing's disease or hypothyroidism predispose to obesity. Patients with such diseases are usually identified quickly from symptoms other than obesity, and appropriate medical therapy normally corrects the problem. In the same way, certain drugs—such as corticosteroids, antidepressants and antihistamines—may also lead to weight gain.
+
+### Energy balance
+
+The total number of calories consumed and, particularly, the dietary fat content, is the prime determinant of obesity (the proportion of fat in the UK diet has increased from 20% to 40% over the last 50 years). Alcohol appears to play a key role too, and may influence the site of fat deposition, encouraging central fat to be laid down.
+
+Contrary to popular belief, obese people have a greater energy expenditure than thin people as it takes more energy to maintain their increased body size. Inactivity is usually the result, but not necessarily the cause, of the obesity. However, it has been shown that individuals who remain active in their adult life do best at maintaining healthy weight levels.
+
+While an imbalance between energy intake and energy expenditure is typical of obesity, the daily net calorie excess may be quite modest. For instance, a typical weight gain of 20 kg over 10 years implies an initial daily energy excess of 30–40 kcal, the equivalent of less than half a sandwich.[35](https://doi.org/10.1093/bja/85.1.91#)
+
+35.
+
+Björntorp, P
+
+**Obesity**
+
+_Lancet._ 1997; **350**:423-426
+
+Distribution of body fat and health risk
+----------------------------------------
+
+It is now becoming clear that it is not only the amount of fat that is important in determining risk, but also its anatomical distribution.[34](https://doi.org/10.1093/bja/85.1.91#)
+
+34.
+
+Björntop, P
+
+**Visceral obesity: a “civilization syndrome”**
+
+_Obes Res._ 1993; **1**:206-222
+
+[88](https://doi.org/10.1093/bja/85.1.91#)
+
+86.
+
+Hsieh, SD ∙ Yoshinaga, H
+
+**Abdominal fat distribution and coronary heart disease risk factors in men—waist/height ratio as a simple and useful predictor**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:585-589
+
+[131](https://doi.org/10.1093/bja/85.1.91#)
+
+127.
+
+Perry, AC ∙ Applegate, EB ∙ Allison, MD ...
+
+**Clinical predictability of the waist-to-hip ratio in assessment of cardiovascular disease risk factors in overweight, pre-menopausal women**
+
+_Am J Clin Nutr._ 1998; **68**:1022-1027
+
+ In the central or android type of distribution, which is more common in males, fat is predominantly distributed in the upper body and may be associated with increased deposits of intra-abdominal or visceral fat. In the peripheral or gynaecoid type, fat is more typically distributed around the hips, buttocks or thighs; this is the more usual female pattern of distribution.[20](https://doi.org/10.1093/bja/85.1.91#)
+
+20.
+
+Ashwell, M ∙ Chinn, S ∙ Stalley, S ...
+
+**Female fat distribution—a simple classification based on two circumference measurements**
+
+_Int J Obes._ 1982; **6**:143-152
+
+ Central adipose tissue is metabolically more active than fat in the peripheral distribution and is associated with more metabolic complications such as dyslipidaemias, glucose intolerance and diabetes mellitus, and a higher incidence of mortality from ischaemic heart disease.[22](https://doi.org/10.1093/bja/85.1.91#)
+
+22.
+
+Azevedo, A ∙ Ramos, E ∙ von Hafe, P ...
+
+**Upper-body adiposity and risk of myocardial infarction**
+
+_J Cardiovasc Risk._ 1999; **6**:321-325
+
+[40](https://doi.org/10.1093/bja/85.1.91#)
+
+40.
+
+Brodksy, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Int Anesthesiol Clin._ 1986; **24**:93-103
+
+[131](https://doi.org/10.1093/bja/85.1.91#)
+
+127.
+
+Perry, AC ∙ Applegate, EB ∙ Allison, MD ...
+
+**Clinical predictability of the waist-to-hip ratio in assessment of cardiovascular disease risk factors in overweight, pre-menopausal women**
+
+_Am J Clin Nutr._ 1998; **68**:1022-1027
+
+ Morbidly obese patients with a high proportion of visceral fat are also at a greater risk from cardiovascular disease, left ventricular dysfunction and stroke.[136](https://doi.org/10.1093/bja/85.1.91#)
+
+132.
+
+Reeder, BA ∙ Senthilselvan, A ∙ Despres, JP ...
+
+**The association of cardiovascular disease risk factors with abdominal obesity in Canada. Canadian Heart Health Surveys Research Group**
+
+_Can Med Assoc J._ 1997; **157**:S39-S45
+
+ The mechanism for this increased risk with intra-abdominal fat is not known, but one widely held theory implicates the products of the breakdown of visceral fat being delivered directly into the portal circulation and thereby inducing a significant secondary metabolic imbalance.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ Although the practical assessment of fat distribution requires sophisticated imaging techniques, the ratio of waist to hip circumference is a useful clinical measure. In European descendants a waist:hip ratio of >1.0 in men and >0.85 in women would tend to suggest a higher proportion of more centrally distributed fat.[34](https://doi.org/10.1093/bja/85.1.91#)
+
+34.
+
+Björntop, P
+
+**Visceral obesity: a “civilization syndrome”**
+
+_Obes Res._ 1993; **1**:206-222
+
+Obesity and the respiratory system
+----------------------------------
+
+### Obstructive sleep apnoea
+
+Approximately 5% of morbidly obese patients will have obstructive sleep apnoea OSA, which is characterized by the following features:[10](https://doi.org/10.1093/bja/85.1.91#)
+
+10.
+
+Alpert, MA ∙ Hashimi, MW
+
+**Obesity and the heart**
+
+_Am J Med Sci._ 1993; **306**:117-123
+
+[95](https://doi.org/10.1093/bja/85.1.91#)
+
+93.
+
+Jennum, P ∙ Sjol, A
+
+**Epidemiology of snoring and obstructive sleep apnoea in a Danish population age 30–60**
+
+_J Sleep Res._ 1992; **1**:240-244
+
+[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+[169](https://doi.org/10.1093/bja/85.1.91#)
+
+164.
+
+Young, T ∙ Palta, M ∙ Dempsey, J ...
+
+**The occurrence of sleep-disordered breathing among middle-aged adults**
+
+_New Engl J Med._ 1993; **328**:1230-1235
+
+(i) Frequent episodes of apnoea or hypopnoea during sleep.[161](https://doi.org/10.1093/bja/85.1.91#)
+
+156.
+
+Vgontzas, AN ∙ Tan, TL ∙ Bixler, EO ...
+
+**Sleep apnea and sleep disruption in obese patients**
+
+_Arch Int Med._ 1994; **154**:1705-1711
+
+ An obstructive apnoeic episode is defined as 10 s or more of total cessation of airflow despite continuous respiratory effort against a closed airway. Hypopnoea is defined as 50% reduction in airflow or a reduction sufficient to lead to a 4% decrease in arterial oxygen saturation.[61](https://doi.org/10.1093/bja/85.1.91#)
+
+60.
+
+Douglas, N ∙ Polo, O
+
+**Pathogenesis of obstructive sleep apnoea/hypopnoea syndrome**
+
+_Lancet._ 1994; **344**:653-655
+
+[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ The number of episodes thought to be clinically significant is often quoted as five or more per hour or >30 per night. The exact numbers are rather arbitrary and it is obviously the clinical sequelae, such as hypoxia, hypercapnia, systemic and pulmonary hypertension and cardiac arrhythmias, that are more important.
+
+(ii) Snoring _._ This usually gets louder as the airway obstructs, followed by silence, as airflow ceases, and then gasping or choking, as the person rouses and airway patency is restored.
+
+(iii) Daytime symptoms: repeated episodes of fragmented sleep throughout the night causes daytime sleepiness, which is associated with impaired concentration, memory problems and road traffic accidents.[124](https://doi.org/10.1093/bja/85.1.91#)
+
+120.
+
+Partinen, M ∙ Guilleminault, C
+
+**Daytime sleepiness and vascular morbidity at seven-year follow-up in obstructive sleep apnea patients**
+
+_Chest._ 1990; **97**:27-32
+
+ The patient may also complain of morning headaches caused by nocturnal carbon dioxide retention and cerebral vasodilation.
+
+(iv) Physiological changes. Recurrent apnoea leads to hypoxaemia, hypercapnia and pulmonary and systemic vasoconstriction. Recurrent hypoxaemia leads to secondary polycythaemia and is associated with an increased risk of ischaemic heart disease and cerebrovascular disease, while hypoxic pulmonary vasoconstriction leads to right ventricular failure.[101](https://doi.org/10.1093/bja/85.1.91#)
+
+99.
+
+Kessler, R ∙ Chaouat, A ∙ Weitzenblum, E ...
+
+**Pulmonary hypertension in the obstructive sleep apnea syndrome: prevalence, cause and therapeutic consequences**
+
+_Eur Respir J._ 1996; **9**:787-794
+
+[109](https://doi.org/10.1093/bja/85.1.91#)
+
+106.
+
+Laks, L ∙ Krieger, J ∙ Podszus, T
+
+**Pulmonary hypertension in obstructive sleep apnea: multicenter study**
+
+_Am Rev Respir Dis._ 1992; **145**:865
+
+#### Pathogenesis
+
+Apnoea occurs when the pharyngeal airway collapses during sleep. Pharyngeal patency depends on the action of dilator muscles which prevent upper airway closure. This muscle tone is lost during sleep and, in many individuals, this leads to significant narrowing of the airway, causing turbulent airflow and snoring.[61](https://doi.org/10.1093/bja/85.1.91#)
+
+60.
+
+Douglas, N ∙ Polo, O
+
+**Pathogenesis of obstructive sleep apnoea/hypopnoea syndrome**
+
+_Lancet._ 1994; **344**:653-655
+
+ Increased inspiratory effort and the response to hypoxia and hypercapnia lead to arousal which, in turn, restores upper airway tone.[51](https://doi.org/10.1093/bja/85.1.91#)
+
+50.
+
+Connolly, LA
+
+**Anesthetic management of obstructive sleep apnea patients**
+
+_J Clin Anesth._ 1991; **3**:461-469
+
+[101](https://doi.org/10.1093/bja/85.1.91#)
+
+99.
+
+Kessler, R ∙ Chaouat, A ∙ Weitzenblum, E ...
+
+**Pulmonary hypertension in the obstructive sleep apnea syndrome: prevalence, cause and therapeutic consequences**
+
+_Eur Respir J._ 1996; **9**:787-794
+
+ The patient then gasps, takes a few breaths and falls asleep again; the cycle then restarts. Total occlusion can occur if the airway is narrowed further, such as by enlarged pharyngeal soft tissues or by a further reduction in muscle tone by drugs or alcohol.[120](https://doi.org/10.1093/bja/85.1.91#)
+
+116.
+
+Millman, RP ∙ Meyer, TJ ∙ Eveloff, SE
+
+**Sleep apnea in the morbidly obese**
+
+_Rhode Island Med._ 1992; **75**:483-486
+
+#### Risk factors
+
+The main predisposing factors are male gender, middle age and obesity, with other factors such as evening alcohol or night sedation compounding the problem.[61](https://doi.org/10.1093/bja/85.1.91#)
+
+60.
+
+Douglas, N ∙ Polo, O
+
+**Pathogenesis of obstructive sleep apnoea/hypopnoea syndrome**
+
+_Lancet._ 1994; **344**:653-655
+
+ Other features that help to identify significant OSA are a BMI of >30 kg m−2, hypertension, observed episodes of apnoea during sleep, collar size >16.5, polycythaemia, hypoxaemia/hypercapnia and right ventricular hypertrophy or impairment on electrocardiography and echocardiography.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ Definitive diagnosis is made by polysomnography in a sleep laboratory.
+
+### Obesity hypoventilation syndrome
+
+The acid–base disturbance of OSA, i.e. respiratory acidosis, is initially limited to sleep, with a return to homeostasis during the day. However, a long-term consequence of OSA is an alteration in the control of breathing, the characteristic feature of which is central apnoeic events, that is, episodes of apnoea without respiratory effort. Such episodes, which are associated with a progressive desensitization of the respiratory centres to (nocturnal) hypercapnia, are initially limited to sleep, but eventually lead to type II respiratory failure with an increasing reliance on hypoxic drive for ventilation.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ At its worst, such obesity hypoventilation culminates in Pickwickian syndrome, which is characterized by obesity, hypersomnolence, hypoxia, hypercapnia, right ventricular failure and polycythaemia.[47](https://doi.org/10.1093/bja/85.1.91#)
+
+46.
+
+Burwell, CS ∙ Robin, ED ∙ Whaley, RD ...
+
+**External obesity associated with alveolar hypoventilation—a Pickwickian syndrome**
+
+_Am J Med._ 1956; **25**:815-820
+
+### Airway assessment
+
+A careful and detailed assessment of the morbidly obese patient's upper airway is required before they are anaesthetized. Difficulties with mask ventilation and tracheal intubation may be considerable,[87](https://doi.org/10.1093/bja/85.1.91#)
+
+85.
+
+Hood, DD ∙ Dewan, DM
+
+**Anesthetic and obstetric outcome in morbidly obese parturients**
+
+_Anesthesiology._ 1993; **79**:1210-1218
+
+[112](https://doi.org/10.1093/bja/85.1.91#)
+
+108.
+
+Lee, JJ ∙ Larson, RH ∙ Buckley, JJ ...
+
+**Airway maintenance in the morbidly obese**
+
+_Anesth Rev._ 1980; **7**:33-36
+
+ with the incidence of difficult intubation being quoted at around 13%.[44](https://doi.org/10.1093/bja/85.1.91#)
+
+43.
+
+Buckley, FP ∙ Robinson, NB ∙ Simonowitz, DA ...
+
+**Anaesthesia in the morbidly obese. A comparison of anaesthetic and analgesic regimens for upper abdominal surgery**
+
+_Anaesthesia._ 1983; **38**:840-851
+
+ These problems are caused by features such as fat face and cheeks, large breasts, short neck, large tongue, excessive palatal and pharyngeal soft tissue, high and anterior larynx, restricted mouth opening and limitation of cervical spine and atlanto-occipital flexion and extension.[40](https://doi.org/10.1093/bja/85.1.91#)
+
+40.
+
+Brodksy, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Int Anesthesiol Clin._ 1986; **24**:93-103
+
+[43](https://doi.org/10.1093/bja/85.1.91#)
+
+42.
+
+Buckley, FP
+
+**Anesthesia and obesity and gastrointestinal disorders**
+
+Barash, PG ∙ Cullen, BF ∙ Stoelting, RK (Editors)
+
+**Clincal Anesthesia**
+
+J. B. Lippincott, Philadelphia, 1992; 1169-1183
+
+Preoperative evaluation of the airway must include: (i) assessment of head and neck flexion, extension and lateral rotation; (ii) assessment of jaw mobility and mouth opening; (iii) inspection of oropharnyx and dentition; (iv) checking the patency of the nostrils; (v) inspection of previous anaesthetic charts and questioning the patient about previous difficulties, especially any episodes of upper airway obstruction associated with anaesthesia or surgery (one should always bear in mind that previous records of uneventful anaesthetics may no longer be relevant and new changes, such as further weight gain, pregnancy, head and neck radiotherapy or development of signs and symptoms of upper airway obstruction, must be sought); (vi) a systemic enquiry into features suggestive of obstructive sleep apnoea syndrome, such as excessive snoring with or without episodes of apnoea and daytime hypersomnolence. These imply potential airway obstruction once the patient has been rendered unconscious. These patients are particularly likely to present considerable airway difficulties.
+
+Further imaging of the airway with soft tissue X-rays and CT scans along with consultation with an otolaryngologist for direct or indirect laryngoscopy may provide useful information about the airway if time is available preoperatively. If difficult intubation is envisaged, then an awake fibreoptic intubation should be considered and discussed with the patient.
+
+### Obesity and gas exchange
+
+Mass loading of the thoracic and abdominal components of the chest wall in supine, awake obese subjects causes abnormalities of both lung volumes and gas exchange. The well recognized harmful effects of anaesthesia add significantly to the derangement of gas exchange, thereby explaining the problem in gas exchange commonly encountered when anaesthetizing obese patients.
+
+#### Lung volume
+
+Morbid obesity is associated with reductions in functional residual capacity (FRC), expiratory reserve volume (ERV) and total lung capacity,[32](https://doi.org/10.1093/bja/85.1.91#)
+
+32.
+
+Biring, MS ∙ Lewis, MI ∙ Liu, JI ...
+
+**Pulmonary physiologic changes of morbid obesity**
+
+_Am J Med Sci._ 1999; **318**:293-297
+
+[135](https://doi.org/10.1093/bja/85.1.91#)
+
+131.
+
+Ray, C ∙ Sue, D ∙ Bray, G ...
+
+**Effects of obesity on respiratory function**
+
+_Am Rev Respir Dis._ 1983; **128**:501-506
+
+ with FRC declining exponentially with increasing BMI.[32](https://doi.org/10.1093/bja/85.1.91#)
+
+32.
+
+Biring, MS ∙ Lewis, MI ∙ Liu, JI ...
+
+**Pulmonary physiologic changes of morbid obesity**
+
+_Am J Med Sci._ 1999; **318**:293-297
+
+ These changes have been attributed to mass loading and splinting of the diaphragm. FRC may be reduced in the upright obese patient to the extent that it falls within the range of the closing capacity with subsequent small airway closure,[83](https://doi.org/10.1093/bja/85.1.91#)
+
+81.
+
+Hedenstierna, G
+
+**Gas exchange during anaesthesia**
+
+_Br J Anaesth._ 1990; **64**:507-514
+
+ ventilation– perfusion mismatch, right-to-left shunting and arterial hypoxaemia.[18](https://doi.org/10.1093/bja/85.1.91#)
+
+18.
+
+Andersen, J ∙ Rasmussen, JP ∙ Eriksen, J
+
+**Pulmonary function in obese patients scheduled for jejuno-ileostomy**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:346-351
+
+[86](https://doi.org/10.1093/bja/85.1.91#)
+
+84.
+
+Holley, HS ∙ Milic-Emili, J ∙ Becklake, MR ...
+
+**Regional distribution of pulmonary ventilation and perfusion in obesity**
+
+_J Clin Invest._ 1967; **46**:475-481
+
+[135](https://doi.org/10.1093/bja/85.1.91#)
+
+131.
+
+Ray, C ∙ Sue, D ∙ Bray, G ...
+
+**Effects of obesity on respiratory function**
+
+_Am Rev Respir Dis._ 1983; **128**:501-506
+
+[158](https://doi.org/10.1093/bja/85.1.91#)
+
+153.
+
+Vaughan, RW ∙ Wise, L
+
+**Intraoperative arterial oxygenation in obese patients**
+
+_Ann Surg._ 1976; **184**:35-42
+
+ Anaesthesia compounds these problems, such that a 50% reduction in observed FRC occurs in the obese anaesthetized patient, as compared with a 20% fall in anaesthetized non-obese subjects[54](https://doi.org/10.1093/bja/85.1.91#)
+
+53.
+
+Damia, G ∙ Mascheroni, D ∙ Croci, M ...
+
+**Perioperative changes in functional residual capacity in morbidly obese patients**
+
+_Br J Anaesth._ 1988; **60**:574-578
+
+ (Fig.[1](https://doi.org/10.1093/bja/85.1.91#fig1)). Söderberg and colleagues[148](https://doi.org/10.1093/bja/85.1.91#)
+
+144.
+
+Söderberg, M ∙ Thomson, D ∙ White, T
+
+**Respiration, circulation and anaesthetic management in obesity. Investigation before and after jejunoileal bypass**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:55-61
+
+ found an intrapulmonary shunt of 10–25% in anaesthetized obese subjects and 2–5% in lean individuals. FRC can be increased by ventilating with large tidal volumes (e.g. 15–20 ml kg−1) although this has been shown to improve arterial oxygen tension only minimally.[24](https://doi.org/10.1093/bja/85.1.91#)
+
+24.
+
+Bardoczky, GI ∙ Yernault, JC ∙ Houben, JJ ...
+
+**Large tidal volume ventilation does not improve oxygenation in morbidly obese patients during anesthesia**
+
+_Anesth Analg._ 1995; **81**:385-388
+
+ In contrast, the addition of positive end-expiratory pressure (PEEP) achieves an improvement in both FRC and arterial oxygen tension but only at the expense of cardiac output and oxygen delivery.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+[127](https://doi.org/10.1093/bja/85.1.91#)
+
+123.
+
+Pelosi, P ∙ Ravagnan, I ∙ Giurati, G ...
+
+**Positive end-expiratory pressure improves respiratory function in obese but not in normal subjects during anesthesia and paralysis**
+
+_Anesthesiology._ 1999; **91**:1221-1231
+
+[139](https://doi.org/10.1093/bja/85.1.91#)
+
+135.
+
+Santesson, J
+
+**Oxygen transport and venous admixture in the extremely obese. Influence of anaesthesia and artificial ventilation with and without positive end-expiratory pressure**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:56-61
+
+ Santesson detailed these perioperative changes in oxygenation in patients undergoing bariatric surgery[139](https://doi.org/10.1093/bja/85.1.91#)
+
+135.
+
+Santesson, J
+
+**Oxygen transport and venous admixture in the extremely obese. Influence of anaesthesia and artificial ventilation with and without positive end-expiratory pressure**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:56-61
+
+ ([Table 2](https://doi.org/10.1093/bja/85.1.91#tbl2)). A modest defect in gas exchange and increased shunt fraction preoperatively deteriorate dramatically following induction of anaesthesia and intubation. The addition of PEEP improves oxygenation but leads to reductions in cardiac output and oxygen delivery.
+
+[![Image 1](https://www.bjanaesthesia.org/cms/10.1093/bja/85.1.91/asset/756bd98c-d721-422c-9559-17ea1980a1b8/main.assets/gr1.jpg)](https://www.bjanaesthesia.org/cms/10.1093/bja/85.1.91/asset/756bd98c-d721-422c-9559-17ea1980a1b8/main.assets/gr1.jpg "View full size image in a new tab")
+
+Fig 1 Schematic representation of the effects of severe obesity on functional residual capacity (FRC). Under normal circumstances the FRC (and therefore the tidal excursion) is clear of the closing volume of the lungs. Both anaesthesia and obesity are associated with a reduction in FRC, resulting in airway closure and ventilation/perfusion mismatching during normal tidal ventilation.
+
+**_P_ a**o**2****(kPa)****_P_ a**co**2****(kPa)****_P_(**a − **a)**o**2****(kPa)****_Q_****T****(litres min****–1**)**_Q_****S****/_Q_****T** (**%)****D**o**2****(ml min****–1****)**
+Preoperative, air 10.9±1.1 4.6±0.3 3.5±1.1 7.3±1.1 10±4 1346±222
+IPPV, zero PEEP, _F_ i o 2=0.5 14.0±2.7 4.5±0.5 28.4±2.6 5.5±1.1 21±5 1039±239
+IPPV, 10 cm H 2 O PEEP, _F_ i o 2=0.5 15.8±3.0 4.5±0.3 26.7±3.0 5.2±0.9 17±3 996±210
+IPPV, 15 cm H 2 O PEEP, _F_ i o 2=0.5 21.5±7.2 4.3±0.3 21.2±7.1 4.4±0.6 13±4 862±170
+
+Table 2
+Perioperative changes in oxygenation, and the influence of PEEP in patients undergoing bariatric surgery (from reference [139](https://doi.org/10.1093/bja/85.1.91#)
+
+135.
+
+Santesson, J
+
+**Oxygen transport and venous admixture in the extremely obese. Influence of anaesthesia and artificial ventilation with and without positive end-expiratory pressure**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:56-61
+
+). IPPV = intermittent positive pressure ventilation, PEEP = positive end expiratory pressure, _D_ o 2 = oxygen delivery, _Q_ T = cardiac output, _Q_ S/_Q_ T = stunt fraction, _P_(a–a)o 2 = alveolar arterial oxygen difference
+
+*   [Open table in a new tab](https://www.bjanaesthesia.org/action/showFullTableHTML?isHtml=true&tableId=tbl2&pii=S0007-0912%2817%2937339-7)
+
+The reduction in FRC impairs the capacity of the obese patient to tolerate periods of apnoea. Obese individuals desaturate rapidly after induction of anaesthesia despite pre-oxygenation. This is a result of having a smaller oxygen reservoir in their reduced FRC and an increase in oxygen consumption.
+
+Usually FRC is reduced as a consequence of a reduction in ERV with residual volume (RV) remaining within normal limits.[135](https://doi.org/10.1093/bja/85.1.91#)
+
+131.
+
+Ray, C ∙ Sue, D ∙ Bray, G ...
+
+**Effects of obesity on respiratory function**
+
+_Am Rev Respir Dis._ 1983; **128**:501-506
+
+ However, in some obese patients RV is increased suggesting gas trapping and co-existing obstructive airways disease. Forced expiratory volume in 1 s and forced vital capacity are usually within the predicted range, but 6–7% improvements have been demonstrated after weight loss.[81](https://doi.org/10.1093/bja/85.1.91#)
+
+79.
+
+Halaka, K ∙ Mustajoki, P ∙ Aittomaki, J ...
+
+**Effect of weight loss and body position on pulmonary function and gas exchange abnormalities in morbid obesity**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:343-346
+
+686
+
+#### Oxygen consumption and carbon dioxide production
+
+Oxygen consumption and carbon dioxide production are increased in the obese as a result of the metabolic activity of the excess fat and the increased workload on supportive tissues.[113](https://doi.org/10.1093/bja/85.1.91#)
+
+109.
+
+Luce, JM
+
+**Respiratory complications of obesity**
+
+_Chest._ 1980; **78**:626-631
+
+[135](https://doi.org/10.1093/bja/85.1.91#)
+
+131.
+
+Ray, C ∙ Sue, D ∙ Bray, G ...
+
+**Effects of obesity on respiratory function**
+
+_Am Rev Respir Dis._ 1983; **128**:501-506
+
+ Basal metabolic activity as related to body surface area is usually within normal limits. Normocapnia is maintained usually by an increase in the minute ventilation, which in turn leads to an increased oxygen cost of breathing.[90](https://doi.org/10.1093/bja/85.1.91#)
+
+88.
+
+Hunter, JD ∙ Reid, C ∙ Noble, D
+
+**Anaesthetic management of the morbidly obese patient**
+
+_Hosp Med._ 1998; **59**:481-483
+
+ However, most obese patients retain the normal response to hypoxaemia and hypercapnia. In exercise, oxygen consumption rises more sharply than in non-obese subjects, which implies respiratory muscle inefficiency.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+#### Gas exchange
+
+Morbidly obese individuals usually have only a modest defect in gas exchange preoperatively with a reduction in _P_ a o 2[127](https://doi.org/10.1093/bja/85.1.91#)
+
+123.
+
+Pelosi, P ∙ Ravagnan, I ∙ Giurati, G ...
+
+**Positive end-expiratory pressure improves respiratory function in obese but not in normal subjects during anesthesia and paralysis**
+
+_Anesthesiology._ 1999; **91**:1221-1231
+
+ and increases in alveolar-to-arterial oxygen difference and shunt fraction. These deteriorate markedly on induction of anaesthesia and high inspired fractions of oxygen are required to maintain adequate arterial oxygen tensions. As previously stated, PEEP improves the _P_ a o 2 but only at the expense of cardiac output and oxygen delivery.[139](https://doi.org/10.1093/bja/85.1.91#)
+
+135.
+
+Santesson, J
+
+**Oxygen transport and venous admixture in the extremely obese. Influence of anaesthesia and artificial ventilation with and without positive end-expiratory pressure**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:56-61
+
+#### Lung compliance and resistance
+
+Increasing BMI is associated with an exponential decline in respiratory compliance; in severe cases, total compliance can fall to 30% of predicted normal.[129](https://doi.org/10.1093/bja/85.1.91#)
+
+125.
+
+Pelosi, P ∙ Croci, M ∙ Ravgnan, I ...
+
+**The effect of body mass on lung volumes, respiratory mechanics, and gas exchange during general anesthesia**
+
+_Anesth Analg._ 1998; **87**:645-660
+
+ Although accumulation of fat tissue in and around the chest wall leads to a modest reduction in chest wall compliance, recent work suggests that the decrease in total compliance is principally a consequence of a decrease in lung compliance, this in turn being the result of an increased pulmonary blood volume.[113](https://doi.org/10.1093/bja/85.1.91#)
+
+109.
+
+Luce, JM
+
+**Respiratory complications of obesity**
+
+_Chest._ 1980; **78**:626-631
+
+[128](https://doi.org/10.1093/bja/85.1.91#)
+
+124.
+
+Pelosi, P ∙ Croci, M ∙ Ravagnan, I ...
+
+**Total respiratory system, lung, and chest wall mechanics in sedated–paralyzed postoperative morbidly obese patients**
+
+_Chest._ 1996; **109**:144-151
+
+ Reduced compliance is associated with a decrease in the FRC, encroachment on the closing volume and impairment of gas exchange.[158](https://doi.org/10.1093/bja/85.1.91#)
+
+153.
+
+Vaughan, RW ∙ Wise, L
+
+**Intraoperative arterial oxygenation in obese patients**
+
+_Ann Surg._ 1976; **184**:35-42
+
+[164](https://doi.org/10.1093/bja/85.1.91#)
+
+159.
+
+Waltemath, CL ∙ Bergman, NA
+
+**Respiratory compliance in obese patients**
+
+_Anesthesiology._ 1974; **41**:84-85
+
+ Significant obesity is also associated with an increase in total respiratory resistance; once again this is largely a result of an increase in lung resistance.[128](https://doi.org/10.1093/bja/85.1.91#)
+
+124.
+
+Pelosi, P ∙ Croci, M ∙ Ravagnan, I ...
+
+**Total respiratory system, lung, and chest wall mechanics in sedated–paralyzed postoperative morbidly obese patients**
+
+_Chest._ 1996; **109**:144-151
+
+[129](https://doi.org/10.1093/bja/85.1.91#)
+
+125.
+
+Pelosi, P ∙ Croci, M ∙ Ravgnan, I ...
+
+**The effect of body mass on lung volumes, respiratory mechanics, and gas exchange during general anesthesia**
+
+_Anesth Analg._ 1998; **87**:645-660
+
+ This derangement of lung compliance and resistance results in a shallow and rapid pattern of breathing, increases the work of breathing and limits the maximum ventilatory capacity. As might be anticipated, these changes are even more marked upon assumption of the supine position.
+
+#### Respiratory efficiency and work of breathing
+
+As implied in the previous section, the combination of increased mechanical pressure from the abdomen, reduction in pulmonary compliance and increase in the metabolic demands of the respiratory musculature result in respiratory muscle inefficiency and an increase in the work of breathing. In normocapnic obese individuals at rest, this may be reflected in a modest 30% increase in the work of breathing, although such respiratory muscle inefficiency may limit the maximum ventilatory capacity and lead to relative hypoventilation at times of high metabolic activity. In the obese individual with established daytime hypoventilation syndrome, work of breathing may approach four times that predicted.
+
+#### Implications for anaesthesia
+
+Preoperative assessment should include full blood count (to exclude polycythaemia), chest X-ray, supine and upright arterial blood gases, lung function tests and overnight oximetry. Patients with symptoms of significant OSA should be considered for polysomnography and may benefit preoperatively from measures designed to combat nocturnal airway obstruction, such as nocturnal nasal continuous positive airway pressure (CPAP) or bilevel-positive airway pressure (BIPAP).[141](https://doi.org/10.1093/bja/85.1.91#)
+
+137.
+
+Schafer, H ∙ Ewig, S ∙ Hasper, E ...
+
+**Failure of CPAP therapy in obstructive sleep apnoea syndrome: predictive factors and treatment with bilevel-positive airway pressure**
+
+_Resp Med._ 1998; **92**:208-215
+
+ The anaesthetist should also assess the patient's ability to breathe deeply and should check that the nostrils are patent. Specific risks should be explained to the patient, and the possibilities of awake intubation, postoperative ventilation and even tracheostomy discussed.[40](https://doi.org/10.1093/bja/85.1.91#)
+
+40.
+
+Brodksy, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Int Anesthesiol Clin._ 1986; **24**:93-103
+
+Tracheal intubation and positive pressure ventilation are mandatory in the morbidly obese patient. The choice between awake and asleep intubation is difficult, and depends upon the anticipated difficulties in a particular patient along with the experience of the anaesthetist.[40](https://doi.org/10.1093/bja/85.1.91#)
+
+40.
+
+Brodksy, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Int Anesthesiol Clin._ 1986; **24**:93-103
+
+ Some authors recommend awake intubation when actual body weight is >175% of IBW.[43](https://doi.org/10.1093/bja/85.1.91#)
+
+42.
+
+Buckley, FP
+
+**Anesthesia and obesity and gastrointestinal disorders**
+
+Barash, PG ∙ Cullen, BF ∙ Stoelting, RK (Editors)
+
+**Clincal Anesthesia**
+
+J. B. Lippincott, Philadelphia, 1992; 1169-1183
+
+ Significant OSA symptoms indicate altered upper airway morphology and make control of bag and mask airway more difficult; some authorities would, therefore, advocate awake intubation in these patients. Another approach is gently to attempt direct larngoscopy after anaesthetizing the pharnyx with local anaesthetic; if the laryngeal structures cannot be visualized, then awake fibreoptic intubation is the safest course of action. Blind nasal intubation has been advocated by some, but should be avoided by all but those very skilled in the technique, as epistaxis and subsequent deterioration in intubating conditions are very real possibilities.
+
+Induction of anaesthesia is likely to be a particularly hazardous time for the patient with an increased risk of difficult or failed intubation.[43](https://doi.org/10.1093/bja/85.1.91#)
+
+42.
+
+Buckley, FP
+
+**Anesthesia and obesity and gastrointestinal disorders**
+
+Barash, PG ∙ Cullen, BF ∙ Stoelting, RK (Editors)
+
+**Clincal Anesthesia**
+
+J. B. Lippincott, Philadelphia, 1992; 1169-1183
+
+[156](https://doi.org/10.1093/bja/85.1.91#)
+
+152.
+
+Vaughan, RW
+
+**Anesthetic management of the morbidly obese patient**
+
+Brown, BR ∙ Blitt, CD ∙ Giesecke, AH ... (Editors)
+
+**Anesthesia and the Obese Patient**
+
+Davis, New York, 1982; 71-94
+
+[167](https://doi.org/10.1093/bja/85.1.91#)
+
+162.
+
+Williamson, JA ∙ Webb, RK ∙ Szekely, S ...
+
+**The Australian Incident Monitoring Study: difficult intubation: an analysis of 2000 incident reports**
+
+_Anaesth Intensive Care._ 1993; **21**:602-607
+
+ Bag and mask ventilation is likely to be difficult because of upper airway obstruction and reduced pulmonary compliance. Gastric insufflation during ineffective mask ventilation will further increase the risk of regurgitation and aspiration of stomach contents.
+
+Apart from awake fibreoptic intubation, the safest technique is a rapid sequence induction using succinylcholine following a period of adequate preoxygenation. It is essential to have skilled anaesthetic assistance together with adequate numbers of staff in order to turn the patient should the need arise. A full range of aids for a difficult intubation should be available, and should include short-handled, polio blade and McCoy laryngoscopes, a gum elastic bougie and standard and intubating laryngeal mask airways. Equipment for cricothyroidotomy and transtracheal ventilation should also be available. Correct position of the tracheal tube must be confirmed by both auscultation and capnography. It is highly desirable to have the services of another experienced anaesthetist throughout the induction period rather than having to wait for assistance if difficulty is encountered.
+
+Periods of hypoxaemia and hypercapnia may increase pulmonary vascular resistance and precipitate right heart failure. Obese patients should not be allowed to breathe spontaneously under anaesthesia, as hypoventilation is likely to occur, with consequent hypoxia and hypercapnia. Further respiratory embarrassment will occur if the patient is placed in the lithotomy or Trendelenburg position and these should be avoided if at all possible.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+[138](https://doi.org/10.1093/bja/85.1.91#)
+
+134.
+
+Salem, MR ∙ Dalal, FY ∙ Zygmunt, MP ...
+
+**Does PEEP improve intraoperative arterial oxygenation in grossly obese patients?**
+
+_Anesthesiology._ 1978; **48**:280-281
+
+ The obese patient will require mechanical ventilation with high inspired oxygen fractions, possibly with the addition of PEEP to maintain an adequate arterial oxygen tension; a ventilator of sufficient power and sophistication is, therefore, required. End-tidal capnography is a poor guide to adequacy of ventilation in the obese patient because of the alveolar-to-arterial difference in carbon dioxide in these patients. Instead, serial arterial blood gas analysis should be used to assess adequacy of minute ventilation.
+
+Pulmonary complications are more common in obese patients,[125](https://doi.org/10.1093/bja/85.1.91#)
+
+121.
+
+Pasulka, PS ∙ Bistrian, BR ∙ Benotti, PN
+
+**The risks of surgery in obese patients**
+
+_Ann Int Med._ 1986; **104**:540-546
+
+[148](https://doi.org/10.1093/bja/85.1.91#)
+
+144.
+
+Söderberg, M ∙ Thomson, D ∙ White, T
+
+**Respiration, circulation and anaesthetic management in obesity. Investigation before and after jejunoileal bypass**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:55-61
+
+[156](https://doi.org/10.1093/bja/85.1.91#)
+
+152.
+
+Vaughan, RW
+
+**Anesthetic management of the morbidly obese patient**
+
+Brown, BR ∙ Blitt, CD ∙ Giesecke, AH ... (Editors)
+
+**Anesthesia and the Obese Patient**
+
+Davis, New York, 1982; 71-94
+
+ but BMI and preoperative lung function tests are not accurate predictors of postoperative problems.[142](https://doi.org/10.1093/bja/85.1.91#)
+
+138.
+
+Shenkman, Z ∙ Shir, Y ∙ Brodsky, JB
+
+**Perioperative management of the obese patient**
+
+_Br J Anaesth._ 1993; **70**:349-359
+
+ Obese patients may be more sensitive to the effects of sedative drugs, opioid analgesics and anaesthetic drugs, so they may benefit from a period of postoperative ventilation to allow safe elimination of residual anaesthetic or sedative agents. Although technically challenging, regional anaesthetic techniques, such as peripheral nerve and thoracolumbar epidural blockade, may help to attenuate many of these problems.[134](https://doi.org/10.1093/bja/85.1.91#)
+
+130.
+
+Rawal, N ∙ Sjöstrand, U ∙ Christofferson, E ...
+
+**Comparison of intramuscular and epidural morphine for postoperative analgesia in the grossly obese. Influence on postoperative ambulation and pulmonary function**
+
+_Anesth Analg._ 1984; **63**:583-592
+
+ Postoperative ventilation is more likely to be required in obese patients who have coexisting cardiorespiratory disease or carbon dioxide retention and in those who have undergone prolonged procedures or who have developed pyrexia after the operation.[52](https://doi.org/10.1093/bja/85.1.91#)
+
+51.
+
+Cooper, JR ∙ Brodsky, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Semin Anesth._ 1987; **6**:260-270
+
+The trachea should only be extubated when the patient is fully awake and transferred to the recovery room sitting up at 45°.[160](https://doi.org/10.1093/bja/85.1.91#)
+
+155.
+
+Vaughan, RW ∙ Bauer, S ∙ Wise, L
+
+**Effect of position (semirecumbent versus supine) on postoperative oxygenation in markedly obese subjects**
+
+_Anesth Analg._ 1976; **55**:37-41
+
+ Humidified supplemental oxygen should be administered immediately, and chest physiotherapy commenced soon after the operation. Some obese patients, particularly those with a history of OSA, may benefit from nocturnal nasal CPAP. Episodes of OSA are most frequent during rapid eye movement (REM) sleep, the extent of which is relatively low in the initial postoperative period, but in excess on the third to fifth postoperative nights.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ The hazards of OSA may, therefore, be at their worst some days after surgery; this has obvious implications for the duration of postoperative oximetry and oxygen therapy.
+
+Obesity and the cardiovascular system
+-------------------------------------
+
+Cardiovascular disease dominates the morbidity and mortality in obesity and manifests itself in the form of ischaemic heart disease, hypertension and cardiac failure. A recent Scottish health survey found the prevalence of any cardiovascular disease was 37% in adults with a BMI of >30 kg m−2, 21% in those with a BMI of 25–30 kg m−2 and only 10% in those with a BMI of <25 kg m−2.[111](https://doi.org/10.1093/bja/85.1.91#)
+
+107.
+
+Lean, ME
+
+**Obesity and cardiovascular disease: the waisted years**
+
+_Br J Cardiol._ 1999; **6**:269-273
+
+ All morbidly obese patients presenting for anaesthesia should be investigated extensively for cardiovascular complications preoperatively and certain patients should be referred to a cardiologist for further optimization.
+
+### Cardiovascular derangement
+
+#### Hypertension
+
+Mild to moderate hypertension is seen in 50–60% of obese patients and severe hypertension in 5–10%,[7](https://doi.org/10.1093/bja/85.1.91#)
+
+7.
+
+Alexander, JK
+
+**Obesity and cardiac performance**
+
+_Am J Cardiol._ 1964; **14**:860-865
+
+ with a 3–4 mm Hg increase in systolic and a 2 mm Hg increase in diastolic arterial pressure for every 10 kg of weight gained.[33](https://doi.org/10.1093/bja/85.1.91#)
+
+33.
+
+Bjerkedal, T
+
+**Overweight and hypertension**
+
+_Acta Med Scand._ 1957; **159**:13-26
+
+ An expansion of the extracellular volume, resulting in hypervolaemia, and an increase in cardiac output are characteristic of obesity-induced hypertension. The exact mechanism for hypertension in the obese is not known, and probably represents an interaction between genetic, hormonal, renal and haemodynamic factors. Hyperinsulinaemia, which is characteristic of obesity, can contribute by activating the sympathetic nervous system and by causing sodium retention. In addition, insulin resistance may be responsible for the enhancement in pressor activity of norepinephrine and angiotensin II.[119](https://doi.org/10.1093/bja/85.1.91#)
+
+115.
+
+Mikhail, N ∙ Golub, MS ∙ Tuck, ML
+
+**Obesity and hypertension**
+
+_Prog Cardiovasc Dis._ 1999; **42**:39-58
+
+Hypertension _per se_ leads to concentric left ventricular hypertrophy and a progressively non-compliant left ventricle which, when added to the increased blood volume, increases the risk of cardiac failure.[12–14](https://doi.org/10.1093/bja/85.1.91#)
+
+12.
+
+Alpert, MA ∙ Terry, BE ∙ Lambert, CR ...
+
+**Factors influencing left ventricular systolic function in nonhypertensive morbidly obese patients, and effect of weight loss induced by gastroplasty**
+
+_Am J Cardiol._ 1993; **71**:733-737
+
+13.
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Influence of left ventricular mass on left ventricular diastolic filling in normotensive morbid obesity**
+
+_Am Heart J._ 1995; **130**:1068-1073
+
+14.
+
+Alpert, MA ∙ Lambert, CR ∙ Panayiotou, H ...
+
+**Relation of duration of morbid obesity to left ventricular mass, systolic function, and diastolic filling, and effect of weight loss**
+
+_Am J Cardiol._ 1995; **76**:1194-1197
+
+[16](https://doi.org/10.1093/bja/85.1.91#)
+
+16.
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Interrelationship of left ventricular mass, systolic function and diastolic filling in normotensive morbidly obese patients**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:550-557
+
+[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+Weight loss has been shown to reduce hypertension in the obese.[8](https://doi.org/10.1093/bja/85.1.91#)
+
+8.
+
+Alexander, JK ∙ Peterson, KL
+
+**Cardiovascular effects of weight reduction**
+
+_Circulation._ 1972; **45**:310-318
+
+[14](https://doi.org/10.1093/bja/85.1.91#)
+
+14.
+
+Alpert, MA ∙ Lambert, CR ∙ Panayiotou, H ...
+
+**Relation of duration of morbid obesity to left ventricular mass, systolic function, and diastolic filling, and effect of weight loss**
+
+_Am J Cardiol._ 1995; **76**:1194-1197
+
+[19](https://doi.org/10.1093/bja/85.1.91#)
+
+19.
+
+Anderson, JW ∙ Brinkman-Kaplan, VL ∙ Lee, H ...
+
+**Relationship of weight loss to cardiovascular risk factors in morbidly obese individuals**
+
+_J Am Coll Nutr._ 1994; **13**:256-261
+
+[26](https://doi.org/10.1093/bja/85.1.91#)
+
+26.
+
+Benotti, PN ∙ Bistrain, B ∙ Benotti, JR ...
+
+**Heart disease and hypertension in severe obesity: the benefits of weight reduction**
+
+_Am J Clin Nutr._ 1992; **55**:586-590
+
+[71](https://doi.org/10.1093/bja/85.1.91#)
+
+69.
+
+Foley, EF ∙ Benotti, PN ∙ Borlase, BC ...
+
+**Impact of gastric restrictive surgery on hypertension in the morbidly obese**
+
+_Am J Surg._ 1992; **163**:294-297
+
+[105](https://doi.org/10.1093/bja/85.1.91#)
+
+102.
+
+Kochar, MS
+
+**Hypertension in obese patients**
+
+_Postgrad Med._ 1993; **93**:193-200
+
+#### Ischaemic heart disease
+
+It is now generally accepted that obesity is an independent risk factor for ischaemic heart disease[63](https://doi.org/10.1093/bja/85.1.91#)
+
+62.
+
+Duflou, J ∙ Virmani, R ∙ Rabin, I ...
+
+**Sudden death as a result of heart disease in morbid obesity**
+
+_Am Heart J._ 1995; **130**:306-313
+
+[89](https://doi.org/10.1093/bja/85.1.91#)
+
+87.
+
+Hubert, HB ∙ Feinleib, M ∙ McNamara, PM ...
+
+**Obesity as an independent risk factor for cardiovascular disease: A 26-year follow-up of participants in the Framingham heart study**
+
+_Circulation._ 1983; **67**:968-977
+
+[100](https://doi.org/10.1093/bja/85.1.91#)
+
+98.
+
+Kannel, WB ∙ LeBauer, JE ∙ Dawber, JR ...
+
+**Relation of body weight to development of coronary heart disease: the Framingham study**
+
+_Circulation._ 1967; **35**:734-744
+
+ and is more common in those obese individuals with a central distribution of fat.[10](https://doi.org/10.1093/bja/85.1.91#)
+
+10.
+
+Alpert, MA ∙ Hashimi, MW
+
+**Obesity and the heart**
+
+_Am J Med Sci._ 1993; **306**:117-123
+
+ Other factors such as hypertension, diabetes mellitus, hypercholesterolaemia and reduced high density lipoprotein levels, which are all common in the obese, will compound the problem.[116](https://doi.org/10.1093/bja/85.1.91#)
+
+112.
+
+Manson, JE ∙ Colditz, GA ∙ Stampfer, MJ ...
+
+**A prospective study of obesity and risk of coronary heart disease in women**
+
+_New Engl J Med._ 1990; **322**:882-889
+
+ Interestingly, 40% of obese patients with angina do not have demonstrable coronary artery disease;[111](https://doi.org/10.1093/bja/85.1.91#)
+
+107.
+
+Lean, ME
+
+**Obesity and cardiovascular disease: the waisted years**
+
+_Br J Cardiol._ 1999; **6**:269-273
+
+ in other words, angina may be a direct symptom of obesity.
+
+#### Blood volume
+
+Total blood volume is increased in the obese but on a volume/weight basis is less than that in non-obese individuals (50 ml kg−1 compared with 75 ml kg−1),[23](https://doi.org/10.1093/bja/85.1.91#)
+
+23.
+
+Backman, L ∙ Freyschuss, V ∙ Hallberg, D ...
+
+**Cardiovascular function in extreme obesity**
+
+_Acta Med Scand._ 1973; **193**:437-446
+
+ with most of this extra volume being distributed to the fat organ.[6](https://doi.org/10.1093/bja/85.1.91#)
+
+6.
+
+Alexander, JK
+
+**Obesity and the circulation**
+
+_Modern Concepts Cardiovasc Dis._ 1963; **32**:799-803
+
+ Splanchnic blood flow is increased by 20% whereas renal and cerebral blood flow are normal.[9](https://doi.org/10.1093/bja/85.1.91#)
+
+9.
+
+Alexander, JK ∙ Dennis, EW ∙ Smith, WG ...
+
+**Blood volume, cardiac output, and distribution of systemic blood flow in extreme obesity**
+
+_Cardiovasc Res Center Bull._ 1962; **1**:39-44
+
+#### Cardiac arrhythmias
+
+Arrhythmias may be precipitated in the obese by a number of factors: hypoxia, hypercapnia, electrolyte disturbance caused by diuretic therapy, coronary artery disease, increased circulating catecholamine concentrations, OSA, myocardial hypertrophy and fatty infiltration of the conduction system.[30](https://doi.org/10.1093/bja/85.1.91#)
+
+30.
+
+Bharati, S ∙ Lev, M
+
+**Cardiac conduction system involvement in sudden death of obese young people**
+
+_Am Heart J._ 1995; **129**:273-281
+
+[89](https://doi.org/10.1093/bja/85.1.91#)
+
+87.
+
+Hubert, HB ∙ Feinleib, M ∙ McNamara, PM ...
+
+**Obesity as an independent risk factor for cardiovascular disease: A 26-year follow-up of participants in the Framingham heart study**
+
+_Circulation._ 1983; **67**:968-977
+
+[113](https://doi.org/10.1093/bja/85.1.91#)
+
+109.
+
+Luce, JM
+
+**Respiratory complications of obesity**
+
+_Chest._ 1980; **78**:626-631
+
+[142](https://doi.org/10.1093/bja/85.1.91#)
+
+138.
+
+Shenkman, Z ∙ Shir, Y ∙ Brodsky, JB
+
+**Perioperative management of the obese patient**
+
+_Br J Anaesth._ 1993; **70**:349-359
+
+[154](https://doi.org/10.1093/bja/85.1.91#)
+
+150.
+
+Valensi, P ∙ Thi, BN ∙ Lormeau, B ...
+
+**Cardiac autonomic function in obese patients**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:113-118
+
+#### Cardiac function
+
+The morbidly obese individual is at risk of a specific form of obesity-induced cardiac dysfunction, although the belief that this is secondary to fatty infiltration of the heart (‘cor adiposum’) is no longer valid.[6](https://doi.org/10.1093/bja/85.1.91#)
+
+6.
+
+Alexander, JK
+
+**Obesity and the circulation**
+
+_Modern Concepts Cardiovasc Dis._ 1963; **32**:799-803
+
+[17](https://doi.org/10.1093/bja/85.1.91#)
+
+17.
+
+Amad, KH ∙ Brennan, JC ∙ Alexander, JK
+
+**The cardiac pathology of chronic exogenous obesity**
+
+_Circulation._ 1965; **32**:740-745
+
+ Autopsy studies have shown that, although increases in epicardial fat are common, fatty infiltration of the myocardium is uncommon and seems to affect mainly the right ventricle, the latter possibly being associated with conduction abnormalities and arrhythmias.[17](https://doi.org/10.1093/bja/85.1.91#)
+
+17.
+
+Amad, KH ∙ Brennan, JC ∙ Alexander, JK
+
+**The cardiac pathology of chronic exogenous obesity**
+
+_Circulation._ 1965; **32**:740-745
+
+ There is a linear relationship between cardiac weight and body weight up to 105 kg, after which cardiac weight continues to increase, but at a slower rate.[63](https://doi.org/10.1093/bja/85.1.91#)
+
+62.
+
+Duflou, J ∙ Virmani, R ∙ Rabin, I ...
+
+**Sudden death as a result of heart disease in morbid obesity**
+
+_Am Heart J._ 1995; **130**:306-313
+
+[144](https://doi.org/10.1093/bja/85.1.91#)
+
+140.
+
+Smith, HL ∙ Willius, FA
+
+**Adiposity of the heart**
+
+_Arch Int Med._ 1973; **52**:929-931
+
+ The increase in heart weight is a consequence of dilation and eccentric hypertrophy of the left and, to a lesser extent, the right ventricle.[63](https://doi.org/10.1093/bja/85.1.91#)
+
+62.
+
+Duflou, J ∙ Virmani, R ∙ Rabin, I ...
+
+**Sudden death as a result of heart disease in morbid obesity**
+
+_Am Heart J._ 1995; **130**:306-313
+
+[165](https://doi.org/10.1093/bja/85.1.91#)
+
+160.
+
+Warnes, CA ∙ Roberts, WC
+
+**The heart in massive (more than 300 pounds or 136 kilograms) obesity: analysis of 12 patients studied at necropsy**
+
+_Am J Cardiol._ 1984; **54**:1087-1091
+
+Otherwise healthy obese individuals demonstrate an increased cardiac output, elevated left ventricular end-diastolic pressure (LVEDP) and left ventricular hypertrophy on echocardiography. Left ventricle systolic function is also impaired,[4](https://doi.org/10.1093/bja/85.1.91#)
+
+4.
+
+Agarwal, N ∙ Shibutani, KJ ∙ SanFilippo, JA ...
+
+**Hemodynamic and respiratory changes in surgery of the morbidly obese**
+
+_Surgery._ 1982; **92**:226-234
+
+[13](https://doi.org/10.1093/bja/85.1.91#)
+
+13.
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Influence of left ventricular mass on left ventricular diastolic filling in normotensive morbid obesity**
+
+_Am Heart J._ 1995; **130**:1068-1073
+
+ especially during exercise, when the ejection fraction rises to a lesser extent, and more slowly, than in lean individuals.[5](https://doi.org/10.1093/bja/85.1.91#)
+
+5.
+
+Alauddin, A ∙ Meterissian, S ∙ Lisbona, R ...
+
+**Assessment of cardiac function in patients who were morbidly obese**
+
+_Surgery._ 1990; **108**:809-820
+
+[11](https://doi.org/10.1093/bja/85.1.91#)
+
+11.
+
+Alpert, MA ∙ Singh, A ∙ Terry, BE
+
+**Effect of exercise on left ventricular function and reserve in morbid obesity**
+
+_Am J Cardiol._ 1989; **63**:1478-1482
+
+[68](https://doi.org/10.1093/bja/85.1.91#)
+
+66.
+
+Ferraro, S ∙ Perrone-Filardi, P ∙ Desiderio, A ...
+
+**Left ventricular systolic and diastolic function in severe obesity: a radionuclide study**
+
+_Cardiology._ 1996; **87**:347-353
+
+The pathophysiology of obesity-induced cardiomyopathy is now well defined,[10](https://doi.org/10.1093/bja/85.1.91#)
+
+10.
+
+Alpert, MA ∙ Hashimi, MW
+
+**Obesity and the heart**
+
+_Am J Med Sci._ 1993; **306**:117-123
+
+[63](https://doi.org/10.1093/bja/85.1.91#)
+
+62.
+
+Duflou, J ∙ Virmani, R ∙ Rabin, I ...
+
+**Sudden death as a result of heart disease in morbid obesity**
+
+_Am Heart J._ 1995; **130**:306-313
+
+[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ largely as a result of studies in non-hypertensive individuals awaiting bariatric surgery (of some importance since the general morbidly obese population may be somewhat less fit then this preselected group). [Figure 2](https://doi.org/10.1093/bja/85.1.91#fig2) outlines the aetiology of obesity cardiomyopathy and its interaction with hypertension, ischaemic heart disease and respiratory disease. Obesity is associated with an increase in blood volume[9](https://doi.org/10.1093/bja/85.1.91#)
+
+9.
+
+Alexander, JK ∙ Dennis, EW ∙ Smith, WG ...
+
+**Blood volume, cardiac output, and distribution of systemic blood flow in extreme obesity**
+
+_Cardiovasc Res Center Bull._ 1962; **1**:39-44
+
+ and cardiac output,[10](https://doi.org/10.1093/bja/85.1.91#)
+
+10.
+
+Alpert, MA ∙ Hashimi, MW
+
+**Obesity and the heart**
+
+_Am J Med Sci._ 1993; **306**:117-123
+
+ the latter rising by 20–30 ml per kilogram of excess body fat. The increase in cardiac output is largely a result of ventricular dilation and an increase in stroke volume.[7](https://doi.org/10.1093/bja/85.1.91#)
+
+7.
+
+Alexander, JK
+
+**Obesity and cardiac performance**
+
+_Am J Cardiol._ 1964; **14**:860-865
+
+[10](https://doi.org/10.1093/bja/85.1.91#)
+
+10.
+
+Alpert, MA ∙ Hashimi, MW
+
+**Obesity and the heart**
+
+_Am J Med Sci._ 1993; **306**:117-123
+
+ The ventricular dilation results in increased left ventricle wall stress, leading to hypertrophy.[10](https://doi.org/10.1093/bja/85.1.91#)
+
+10.
+
+Alpert, MA ∙ Hashimi, MW
+
+**Obesity and the heart**
+
+_Am J Med Sci._ 1993; **306**:117-123
+
+[17](https://doi.org/10.1093/bja/85.1.91#)
+
+17.
+
+Amad, KH ∙ Brennan, JC ∙ Alexander, JK
+
+**The cardiac pathology of chronic exogenous obesity**
+
+_Circulation._ 1965; **32**:740-745
+
+[118](https://doi.org/10.1093/bja/85.1.91#)
+
+114.
+
+Messerli, FH ∙ Sundgaard-Riise, K ∙ Reisen, E ...
+
+**Disparate cardiovascular effects of obesity and arterial hypertension**
+
+_Am J Med._ 1983; **74**:808-812
+
+ Such eccentric left ventricular hypertrophy results in reduced compliance and left ventricular diastolic function, i.e. impairment of ventricular filling, leading to elevated LVEDP and pulmonary oedema.[10](https://doi.org/10.1093/bja/85.1.91#)
+
+10.
+
+Alpert, MA ∙ Hashimi, MW
+
+**Obesity and the heart**
+
+_Am J Med Sci._ 1993; **306**:117-123
+
+[13](https://doi.org/10.1093/bja/85.1.91#)
+
+13.
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Influence of left ventricular mass on left ventricular diastolic filling in normotensive morbid obesity**
+
+_Am Heart J._ 1995; **130**:1068-1073
+
+[16](https://doi.org/10.1093/bja/85.1.91#)
+
+16.
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Interrelationship of left ventricular mass, systolic function and diastolic filling in normotensive morbidly obese patients**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:550-557
+
+[29](https://doi.org/10.1093/bja/85.1.91#)
+
+29.
+
+Berkalp, B ∙ Cesur, V ∙ Corapcioglu, D ...
+
+**Obesity and left ventricular diastolic function**
+
+_Int J Cardiol._ 1995; **52**:23-26
+
+[57](https://doi.org/10.1093/bja/85.1.91#)
+
+56.
+
+DeDivitiis, O ∙ Fazio, S ∙ Petitto, M ...
+
+**Obesity and cardiac function**
+
+_Circulation._ 1981; **64**:477-482
+
+[58](https://doi.org/10.1093/bja/85.1.91#)
+
+57.
+
+De Simone, G ∙ Devereux, RB ∙ Mureddu, GF ...
+
+**Influence of obesity on left ventricular midwall mechanics in arterial hypertension**
+
+_Hypertension._ 1996; **28**:276-283
+
+ The capacity of the dilated ventricle to hypertrophy is limited so, when left ventricular wall thickening fails to keep pace with dilation, systolic dysfunction ensues (‘obesity cardiomyopathy’).[10](https://doi.org/10.1093/bja/85.1.91#)
+
+10.
+
+Alpert, MA ∙ Hashimi, MW
+
+**Obesity and the heart**
+
+_Am J Med Sci._ 1993; **306**:117-123
+
+[14](https://doi.org/10.1093/bja/85.1.91#)
+
+14.
+
+Alpert, MA ∙ Lambert, CR ∙ Panayiotou, H ...
+
+**Relation of duration of morbid obesity to left ventricular mass, systolic function, and diastolic filling, and effect of weight loss**
+
+_Am J Cardiol._ 1995; **76**:1194-1197
+
+[16](https://doi.org/10.1093/bja/85.1.91#)
+
+16.
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Interrelationship of left ventricular mass, systolic function and diastolic filling in normotensive morbidly obese patients**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:550-557
+
+[89](https://doi.org/10.1093/bja/85.1.91#)
+
+87.
+
+Hubert, HB ∙ Feinleib, M ∙ McNamara, PM ...
+
+**Obesity as an independent risk factor for cardiovascular disease: A 26-year follow-up of participants in the Framingham heart study**
+
+_Circulation._ 1983; **67**:968-977
+
+[98](https://doi.org/10.1093/bja/85.1.91#)
+
+96.
+
+Kaltman, AJ ∙ Goldring, RM
+
+**Role of circulatory congestion in the cardiorespiratory failure of obesity**
+
+_Am J Med._ 1976; **60**:645-655
+
+ The problem is often compounded by superimposed hypertension and ischaemic heart disease. Ventricular hypertrophy and dysfunction worsen with increasing duration of obesity and improve to some extent with weight loss.[5](https://doi.org/10.1093/bja/85.1.91#)
+
+5.
+
+Alauddin, A ∙ Meterissian, S ∙ Lisbona, R ...
+
+**Assessment of cardiac function in patients who were morbidly obese**
+
+_Surgery._ 1990; **108**:809-820
+
+[8](https://doi.org/10.1093/bja/85.1.91#)
+
+8.
+
+Alexander, JK ∙ Peterson, KL
+
+**Cardiovascular effects of weight reduction**
+
+_Circulation._ 1972; **45**:310-318
+
+[12](https://doi.org/10.1093/bja/85.1.91#)
+
+12.
+
+Alpert, MA ∙ Terry, BE ∙ Lambert, CR ...
+
+**Factors influencing left ventricular systolic function in nonhypertensive morbidly obese patients, and effect of weight loss induced by gastroplasty**
+
+_Am J Cardiol._ 1993; **71**:733-737
+
+[14](https://doi.org/10.1093/bja/85.1.91#)
+
+14.
+
+Alpert, MA ∙ Lambert, CR ∙ Panayiotou, H ...
+
+**Relation of duration of morbid obesity to left ventricular mass, systolic function, and diastolic filling, and effect of weight loss**
+
+_Am J Cardiol._ 1995; **76**:1194-1197
+
+[15](https://doi.org/10.1093/bja/85.1.91#)
+
+15.
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Effect of weight loss on left ventricular diastolic filling in morbid obesity**
+
+_Am J Cardiol._ 1995; **76**:1198-1201
+
+[![Image 2](https://www.bjanaesthesia.org/cms/10.1093/bja/85.1.91/asset/4692ff15-a8cc-493f-b8e4-a2d34a5187f3/main.assets/gr2.jpg)](https://www.bjanaesthesia.org/cms/10.1093/bja/85.1.91/asset/4692ff15-a8cc-493f-b8e4-a2d34a5187f3/main.assets/gr2.jpg "View full size image in a new tab")
+
+Fig 2 The aetiology of obesity cardiomyopathy, and its association with right-sided heart failure, systemic hypertension and ischaemic heart disease. LV, left ventricular; RV, right ventricular.
+
+The morbidly obese tolerate exercise badly[11](https://doi.org/10.1093/bja/85.1.91#)
+
+11.
+
+Alpert, MA ∙ Singh, A ∙ Terry, BE
+
+**Effect of exercise on left ventricular function and reserve in morbid obesity**
+
+_Am J Cardiol._ 1989; **63**:1478-1482
+
+ with any increase in cardiac output being achieved by increasing the heart rate, without an increase in stroke volume or ejection fraction. This is often accompanied by an increase in the filling pressures.[7](https://doi.org/10.1093/bja/85.1.91#)
+
+7.
+
+Alexander, JK
+
+**Obesity and cardiac performance**
+
+_Am J Cardiol._ 1964; **14**:860-865
+
+ In the same way, changing position from sitting to supine is associated with significant increases in cardiac output, pulmonary capillary wedge pressure and mean pulmonary artery pressure, together with reductions in heart rate and peripheral resistance.[126](https://doi.org/10.1093/bja/85.1.91#)
+
+122.
+
+Paul, DR ∙ Hoyt, JL ∙ Boutros, AR
+
+**Cardiovascular and respiratory changes in response to change of posture in the very obese**
+
+_Anesthesiology._ 1976; **45**:73-78
+
+### Clinical features
+
+Morbidly obese subjects often have very limited mobility and may, therefore, appear to be asymptomatic even when they have significant cardiovascular disease. Symptoms such as angina or exertional dyspnoea may occur only very occasionally, but actually coincide with most periods of significant physical activity. Many individuals will prefer to sleep upright in a chair, and therefore deny the symptoms of orthopnoea and paroxysmal nocturnal dyspnoea. Asking the patient to walk the length of the ward may reveal a markedly reduced exercise tolerance, and assuming the supine position may produce significant orthopnoea and even cardiac arrest.[153](https://doi.org/10.1093/bja/85.1.91#)
+
+149.
+
+Tsueda, K ∙ Debrand, M ∙ Zeok, SS ...
+
+**Obesity supine death syndrome: reports of two morbidly obese patients**
+
+_Anesth Analg._ 1979; **58**:345-347
+
+ The patient should have a detailed and thorough cardiovascular examination, looking in particular for evidence of hypertension (with an appropriately sized blood pressure cuff) and cardiac failure. Signs of cardiac failure, such as raised jugular venous pressure, added heart sounds, pulmonary crackles, hepatomegaly and peripheral oedema, may all be difficult to elicit in the morbidly obese subject, and investigations are indicated.
+
+### Investigations
+
+An electrocardiogram is mandatory preoperatively. It may be of low voltage because of the excess overlying tissue and as such might underestimate the severity of ventricular hypertrophy. Axis deviation and atrial tachyarrhythmias are relatively common. Chest radiography may reveal cardiomegaly suggestive of cardiac failure, but is often normal. Echocardiography may be difficult, but can provide useful information, with eccentric left ventricular hypertrophy suggesting significant obesity-induced changes even if ventricular function appears normal. Transoesophageal echocardiography may provide better images, especially of the left side of the heart, although is obviously more invasive. Testing of exercise tolerance is likely to be impossible if coronary artery disease is suspected. If time is available, the patient should be referred to a cardiologist for further investigation and optimization, such as control of blood pressure, treatment of heart failure or coronary angioplasty.
+
+### Anaesthetic implications
+
+In the presence of respiratory disease, ventricular impairment is almost inevitable, but its severity may be underestimated by clinical evaluation. Rapid weight gain preoperatively may indicate worsening cardiac failure, although weight gain once a person has been accepted for bariatric surgery is well recognized.[59](https://doi.org/10.1093/bja/85.1.91#)
+
+58.
+
+De Witt Hamer, PC ∙ Tuinebreijer, WE
+
+**Preoperative weight gain in bariatric surgery**
+
+_Obes Surg._ 1998; **8**:300-301
+
+[140](https://doi.org/10.1093/bja/85.1.91#)
+
+136.
+
+Saunders, R
+
+**Binge eating in gastric bypass patients before surgery**
+
+_Obes Surgery._ 1999; **9**:72-76
+
+ Intraoperative ventricular failure may occur for a variety of reasons, including rapid intravenous fluid administration (indicating left ventricular diastolic dysfunction), negative inotropy of anaesthetic agents or pulmonary hypertension precipitated by hypoxia or hypercapnia. The anaesthetist should always have a selection of inotropes and vasodilators to hand.
+
+Cardiac performance is likely to deteriorate following induction of anaesthesia and tracheal intubation in the obese patient.[4](https://doi.org/10.1093/bja/85.1.91#)
+
+4.
+
+Agarwal, N ∙ Shibutani, KJ ∙ SanFilippo, JA ...
+
+**Hemodynamic and respiratory changes in surgery of the morbidly obese**
+
+_Surgery._ 1982; **92**:226-234
+
+ In one study of obese individuals undergoing abdominal surgery, cardiac index fell by 17–33% after induction and intubation, compared with a fall of 4–11% in lean controls. This derangement persisted postoperatively, with the cardiac index 13–23% less than preoperative control values in the obese group, whereas in lean controls cardiac performance returned to normal.[4](https://doi.org/10.1093/bja/85.1.91#)
+
+4.
+
+Agarwal, N ∙ Shibutani, KJ ∙ SanFilippo, JA ...
+
+**Hemodynamic and respiratory changes in surgery of the morbidly obese**
+
+_Surgery._ 1982; **92**:226-234
+
+An arterial line will allow accurate monitoring of arterial pressure and regular blood gas analysis. Central venous pressure monitoring is desirable as it allows some assessment of cardiac function and can be used for inotrope infusions in case of deteriorating cardiac performance.[44](https://doi.org/10.1093/bja/85.1.91#)
+
+43.
+
+Buckley, FP ∙ Robinson, NB ∙ Simonowitz, DA ...
+
+**Anaesthesia in the morbidly obese. A comparison of anaesthetic and analgesic regimens for upper abdominal surgery**
+
+_Anaesthesia._ 1983; **38**:840-851
+
+ Patients with documented cardiac failure may benefit from the use of a pulmonary artery flotation catheter.
+
+### Practical considerations
+
+#### Premedication
+
+Opioid and sedative drugs may cause respiratory depression in the morbidly obese[156](https://doi.org/10.1093/bja/85.1.91#)
+
+152.
+
+Vaughan, RW
+
+**Anesthetic management of the morbidly obese patient**
+
+Brown, BR ∙ Blitt, CD ∙ Giesecke, AH ... (Editors)
+
+**Anesthesia and the Obese Patient**
+
+Davis, New York, 1982; 71-94
+
+ and are probably best avoided, although one study failed to demonstrate an increased risk of oxyhaemoglobin desaturation with benzodiazepines.[31](https://doi.org/10.1093/bja/85.1.91#)
+
+31.
+
+Bilotta, JJ ∙ Floyd, JL ∙ Waye, JD
+
+**Arterial oxygen desaturation during ambulatory colonoscopy: predictability, incidence and clinical insignificance**
+
+_Gastrointest Endosc._ 1990; **36**:S5-S8
+
+ The intramuscular and subcutaneous routes should be avoided, since absorption is very unreliable.[52](https://doi.org/10.1093/bja/85.1.91#)
+
+51.
+
+Cooper, JR ∙ Brodsky, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Semin Anesth._ 1987; **6**:260-270
+
+[156](https://doi.org/10.1093/bja/85.1.91#)
+
+152.
+
+Vaughan, RW
+
+**Anesthetic management of the morbidly obese patient**
+
+Brown, BR ∙ Blitt, CD ∙ Giesecke, AH ... (Editors)
+
+**Anesthesia and the Obese Patient**
+
+Davis, New York, 1982; 71-94
+
+ If awake fibreoptic intubation is being considered, then an antisialogogue may be appropriate.
+
+All morbidly obese patients should receive prophylaxis against acid aspiration even if they do not declare any symptoms of heartburn or reflux.[44](https://doi.org/10.1093/bja/85.1.91#)
+
+43.
+
+Buckley, FP ∙ Robinson, NB ∙ Simonowitz, DA ...
+
+**Anaesthesia in the morbidly obese. A comparison of anaesthetic and analgesic regimens for upper abdominal surgery**
+
+_Anaesthesia._ 1983; **38**:840-851
+
+[52](https://doi.org/10.1093/bja/85.1.91#)
+
+51.
+
+Cooper, JR ∙ Brodsky, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Semin Anesth._ 1987; **6**:260-270
+
+[156](https://doi.org/10.1093/bja/85.1.91#)
+
+152.
+
+Vaughan, RW
+
+**Anesthetic management of the morbidly obese patient**
+
+Brown, BR ∙ Blitt, CD ∙ Giesecke, AH ... (Editors)
+
+**Anesthesia and the Obese Patient**
+
+Davis, New York, 1982; 71-94
+
+[162](https://doi.org/10.1093/bja/85.1.91#)
+
+157.
+
+Vila, P ∙ Valles, J ∙ Canet, J ...
+
+**Acid aspiration prophylaxis in morbidly obese patients: famotidine vs. ranitidine**
+
+_Anaesthesia._ 1991; **46**:967-969
+
+ A combination of an H 2 blocker (e.g. ranitidine 150 mg orally) and a prokinetic (e.g. metoclopramide 10 mg orally) given 12 h and 2 h before surgery will reduce the risk of aspiration pneumonitis. Some anaesthetists also advocate giving 30 ml of 0.3 M citrate immediately before induction as an extra precaution.
+
+Most of the patient's usual medications, such as cardiovascular drugs and steroids, should be continued as normal until the time of surgery, although it is recommended that angiotensin converting enzyme inhibitors be stopped on the day before surgery as their continuation can lead to profound hypotension during anaesthesia.
+
+If the patient is diabetic, a dextrose–insulin regimen will be required for all but the shortest procedures. Insulin requirements are likely to increase postoperatively. Expert advice from a diabetologist may be helpful.
+
+Morbidly obese patients are more likely to be immobile postoperatively and are at increased risk of deep-vein thrombosis. Low-dose subcutaneous heparin should be given as prophylaxis and continued into the postoperative phase until the patient is fully mobile. Other antiembolic measures, such as pneumatic leggings or graded compression stockings, should be used wherever possible but may be difficult to fit in larger patients.
+
+This group of patients is also at increased risk of postoperative wound infection and may require prophylactic antibiotics. This should be discussed with the surgeon and also a microbiologist if appropriate.
+
+#### Positioning and transfer
+
+Most operating tables are designed for patients of up to 120–140 kg in weight. Exceeding this limit may put the patient and staff at risk. Specially designed tables may be required, or two normal tables may be placed side by side.[52](https://doi.org/10.1093/bja/85.1.91#)
+
+51.
+
+Cooper, JR ∙ Brodsky, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Semin Anesth._ 1987; **6**:260-270
+
+The patient should be anaesthetized on the operating table in the operating theatre to avoid unnecessary transfer from the anaesthetic room and the associated risks to both patient and staff. Once the patient is in position, particular care should be paid to protecting pressure areas, as the risk of pressure sores and neural injuries[96](https://doi.org/10.1093/bja/85.1.91#)
+
+94.
+
+Jupiter, JB ∙ Ring, D ∙ Rosen, H
+
+**The complications and difficulties of management of nonunion in the severely obese**
+
+_J Orthopaed Trauma._ 1995; **9**:363-370
+
+ is greater in the obese. Compression of the inferior vena cava must be avoided by left lateral tilt of the operating table or by placing a wedge under the patient. Some obese patients are best positioned in the lateral decubitus position so as to reduce the amount of weight loading on the chest.
+
+Transfer of the obese patient around the hospital is probably best done on their own hospital bed, as normal theatre trolleys are likely to be inadequate for the purpose. Appropriate manpower should always be available when moving morbidly obese patients and local lifting policies should be adhered to.
+
+#### Intravenous access
+
+This may be a problem because of excessive subcutaneous tissue. Many anaesthetists would advocate establishing central venous access, but this in itself can be difficult. Use of portable ultrasound equipment may improve success.
+
+#### Monitoring
+
+Invasive arterial pressure monitoring has been advocated for all but the most minor procedures in the morbidly obese.[44](https://doi.org/10.1093/bja/85.1.91#)
+
+43.
+
+Buckley, FP ∙ Robinson, NB ∙ Simonowitz, DA ...
+
+**Anaesthesia in the morbidly obese. A comparison of anaesthetic and analgesic regimens for upper abdominal surgery**
+
+_Anaesthesia._ 1983; **38**:840-851
+
+[52](https://doi.org/10.1093/bja/85.1.91#)
+
+51.
+
+Cooper, JR ∙ Brodsky, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Semin Anesth._ 1987; **6**:260-270
+
+ If a non-invasive cuff is to be used, it should be of an appropriate size, as standard cuffs will tend to over-estimate the arterial pressure. Pulse oximetry, electrocardiography, capnography and monitoring of neuromuscular block are all mandatory. Use of central venous and pulmonary artery flotation catheters should be considered in patients undergoing extensive surgery or those with serious cardiorespiratory disease.
+
+#### Regional anaesthesia
+
+The use of regional anaesthesia in the obese reduces the risks from difficult intubation and acid aspiration and also provides safer and more effective postoperative analgesia.[142](https://doi.org/10.1093/bja/85.1.91#)
+
+138.
+
+Shenkman, Z ∙ Shir, Y ∙ Brodsky, JB
+
+**Perioperative management of the obese patient**
+
+_Br J Anaesth._ 1993; **70**:349-359
+
+ For thoracic and abdominal procedures, most anaesthetists advocate the use of combined epidural and general anaesthesia. This has advantages over general anaesthesia alone, including reduced opioid and potent inhalational anaesthetic requirements,[44](https://doi.org/10.1093/bja/85.1.91#)
+
+43.
+
+Buckley, FP ∙ Robinson, NB ∙ Simonowitz, DA ...
+
+**Anaesthesia in the morbidly obese. A comparison of anaesthetic and analgesic regimens for upper abdominal surgery**
+
+_Anaesthesia._ 1983; **38**:840-851
+
+[72](https://doi.org/10.1093/bja/85.1.91#)
+
+70.
+
+Fox, GS ∙ Whalley, DG ∙ Bevan, DR
+
+**Anaesthesia for the morbidly obese**
+
+_Br J Anaesth._ 1981; **53**:811-816
+
+ earlier tracheal extubation,[77](https://doi.org/10.1093/bja/85.1.91#)
+
+75.
+
+Gelman, S ∙ Laws, HL ∙ Potzick, J ...
+
+**Thoracic epidural vs. balanced anesthesia in morbid obesity: an intraoperative and postoperative hemodynamic study**
+
+_Anesth Analg._ 1980; **59**:902-908
+
+[156](https://doi.org/10.1093/bja/85.1.91#)
+
+152.
+
+Vaughan, RW
+
+**Anesthetic management of the morbidly obese patient**
+
+Brown, BR ∙ Blitt, CD ∙ Giesecke, AH ... (Editors)
+
+**Anesthesia and the Obese Patient**
+
+Davis, New York, 1982; 71-94
+
+ reduced postoperative pulmonary complications[44](https://doi.org/10.1093/bja/85.1.91#)
+
+43.
+
+Buckley, FP ∙ Robinson, NB ∙ Simonowitz, DA ...
+
+**Anaesthesia in the morbidly obese. A comparison of anaesthetic and analgesic regimens for upper abdominal surgery**
+
+_Anaesthesia._ 1983; **38**:840-851
+
+[72](https://doi.org/10.1093/bja/85.1.91#)
+
+70.
+
+Fox, GS ∙ Whalley, DG ∙ Bevan, DR
+
+**Anaesthesia for the morbidly obese**
+
+_Br J Anaesth._ 1981; **53**:811-816
+
+ and improved postoperative analgesia, allowing more rigorous physiotherapy and a better cough.[134](https://doi.org/10.1093/bja/85.1.91#)
+
+130.
+
+Rawal, N ∙ Sjöstrand, U ∙ Christofferson, E ...
+
+**Comparison of intramuscular and epidural morphine for postoperative analgesia in the grossly obese. Influence on postoperative ambulation and pulmonary function**
+
+_Anesth Analg._ 1984; **63**:583-592
+
+Regional anaesthesia in the obese can be technically challenging because of difficulties in identifying the usual bony landmarks. Epidural and spinal anaesthesia may be made easier by sitting the patient upright and by using longer needles.[44](https://doi.org/10.1093/bja/85.1.91#)
+
+43.
+
+Buckley, FP ∙ Robinson, NB ∙ Simonowitz, DA ...
+
+**Anaesthesia in the morbidly obese. A comparison of anaesthetic and analgesic regimens for upper abdominal surgery**
+
+_Anaesthesia._ 1983; **38**:840-851
+
+ Ultrasound has been successfully used in the obese to identify the epidural space and to guide the Tuohy needle into position.[163](https://doi.org/10.1093/bja/85.1.91#)
+
+158.
+
+Wallace, DH ∙ Currie, JM ∙ Gilstrap, LC ...
+
+**Indirect sonographic guidance for epidural anesthesia in obese pregnant patients**
+
+_Reg Anesth._ 1992; **17**:233-236
+
+ Some anaesthetists would advocate the siting of epidural catheters on the evening before surgery to save time the next day, and also to allow heparin prophylaxis to be given on the morning of surgery. In the same way, peripheral nerve blockade may be made easier and safer by the use of insulated needles and a nerve stimulator.[64](https://doi.org/10.1093/bja/85.1.91#)
+
+63.
+
+Dumont, L ∙ Mattys, M ∙ Mardirosoff, C ...
+
+**Changes on pulmonary mechanics during laparoscopic gastroplasty in morbidly obese patients**
+
+_Acta Anaesthesiol Scand._ 1997; **41**:408-413
+
+Local anaesthetic requirements for epidural and spinal anaesthesia are reduced to 75–80% of normal in the morbidly obese, since fatty infiltration and the increased blood volume caused by increased intra-abdominal pressure reduce the volume of the epidural space.[44](https://doi.org/10.1093/bja/85.1.91#)
+
+43.
+
+Buckley, FP ∙ Robinson, NB ∙ Simonowitz, DA ...
+
+**Anaesthesia in the morbidly obese. A comparison of anaesthetic and analgesic regimens for upper abdominal surgery**
+
+_Anaesthesia._ 1983; **38**:840-851
+
+[151](https://doi.org/10.1093/bja/85.1.91#)
+
+147.
+
+Taivainen, T ∙ Tuominen, M ∙ Rosenberg, PM
+
+**Influence of obesity on the spread of spinal analgesia after injection of plain 0.5% bupivacaine at the L 3–4 or L 4–5 interspace**
+
+_Br J Anaesth._ 1990; **64**:542-546
+
+ This can lead to an unpredictable spread of local anaesthetic and variability in block height.[85](https://doi.org/10.1093/bja/85.1.91#)
+
+83.
+
+Hogan, QH ∙ Prost, R ∙ Kulier, A ...
+
+**Magnetic resonance imaging of cerebrospinal fluid volume and the influence of body habitus and abdominal pressure**
+
+_Anesthesiology._ 1996; **84**:1341-1349
+
+[132](https://doi.org/10.1093/bja/85.1.91#)
+
+128.
+
+Pitkänen, MT
+
+**Body mass and spread of spinal anesthesia with bupivacaine**
+
+_Anesth Analg._ 1987; **66**:127-131
+
+ Blocks extending above T 5 risk respiratory compromise, and cardiovascular collapse secondary to autonomic blockade.[123](https://doi.org/10.1093/bja/85.1.91#)
+
+119.
+
+Øberg, B ∙ Poulsen, TD
+
+**Obesity: an anaesthetic challenge**
+
+_Acta Anaesthesiol Scand._ 1996; **40**:191-200
+
+ For these reasons, the anaesthetist must always be prepared to convert to general anaesthesia and have the necessary equipment and assistance immediately to hand.
+
+#### Systemic analgesia
+
+The use of opioid analgesics may be hazardous in the obese. The intramuscular route is not recommended as it is unpredictable and has been shown to provide poorer analgesia than other routes.[41](https://doi.org/10.1093/bja/85.1.91#)
+
+41.
+
+Brodsky, JB ∙ Merrel, RC
+
+**Epidural administration of morphine postoperatively for morbid obese patients**
+
+_W J Med._ 1984; **140**:750-753
+
+[134](https://doi.org/10.1093/bja/85.1.91#)
+
+130.
+
+Rawal, N ∙ Sjöstrand, U ∙ Christofferson, E ...
+
+**Comparison of intramuscular and epidural morphine for postoperative analgesia in the grossly obese. Influence on postoperative ambulation and pulmonary function**
+
+_Anesth Analg._ 1984; **63**:583-592
+
+ If the intravenous route is to be used, then a patient-controlled analgesia system (PCAS) is probably the best option.[25](https://doi.org/10.1093/bja/85.1.91#)
+
+25.
+
+Bennett, R ∙ Batenhorst, R ∙ Graves, DA ...
+
+**Variation in postoperative analgesic requirements in the morbidly obese following gastric bypass surgery**
+
+_Pharmacotherapy._ 1982; **2**:50-53
+
+ PCAS has been shown to provide effective analgesia in the obese, although respiratory depression has been reported.[155](https://doi.org/10.1093/bja/85.1.91#)
+
+151.
+
+VanDercar, DH ∙ Martinez, AP ∙ De Lisser, EA
+
+**Sleep apnea syndromes: a potential contraindication for patient-controlled analgesia**
+
+_Anesthesiology._ 1991; **74**:623-624
+
+ Doses should be based on IBW.[142](https://doi.org/10.1093/bja/85.1.91#)
+
+138.
+
+Shenkman, Z ∙ Shir, Y ∙ Brodsky, JB
+
+**Perioperative management of the obese patient**
+
+_Br J Anaesth._ 1993; **70**:349-359
+
+ Supplemental oxygen and close observation, including pulse oximetry monitoring, are recommended.
+
+Postoperative epidural analgesia, using opioids or local anaesthetic solutions, may provide the most effective and safest analgesia for the obese patient.[142](https://doi.org/10.1093/bja/85.1.91#)
+
+138.
+
+Shenkman, Z ∙ Shir, Y ∙ Brodsky, JB
+
+**Perioperative management of the obese patient**
+
+_Br J Anaesth._ 1993; **70**:349-359
+
+ The epidural route for opioid administration is preferred over other routes because it produces less drowsiness, nausea and respiratory depression, earlier normalization of bowel motility, improved pulmonary function and reduced hospital stay.[41](https://doi.org/10.1093/bja/85.1.91#)
+
+41.
+
+Brodsky, JB ∙ Merrel, RC
+
+**Epidural administration of morphine postoperatively for morbid obese patients**
+
+_W J Med._ 1984; **140**:750-753
+
+[72](https://doi.org/10.1093/bja/85.1.91#)
+
+70.
+
+Fox, GS ∙ Whalley, DG ∙ Bevan, DR
+
+**Anaesthesia for the morbidly obese**
+
+_Br J Anaesth._ 1981; **53**:811-816
+
+[134](https://doi.org/10.1093/bja/85.1.91#)
+
+130.
+
+Rawal, N ∙ Sjöstrand, U ∙ Christofferson, E ...
+
+**Comparison of intramuscular and epidural morphine for postoperative analgesia in the grossly obese. Influence on postoperative ambulation and pulmonary function**
+
+_Anesth Analg._ 1984; **63**:583-592
+
+ As a result of the potential for delayed onset respiratory depression, supplemental parenteral opioids should probably be avoided. Continuous epidural analgesia with local anaesthetics has been shown to have a beneficial effect on cardiovascular function, with a reduction in left ventricular stroke work,[77](https://doi.org/10.1093/bja/85.1.91#)
+
+75.
+
+Gelman, S ∙ Laws, HL ∙ Potzick, J ...
+
+**Thoracic epidural vs. balanced anesthesia in morbid obesity: an intraoperative and postoperative hemodynamic study**
+
+_Anesth Analg._ 1980; **59**:902-908
+
+ although an associated motor block will delay ambulation.
+
+All of the above regimens can be supplemented with oral analgesics such as paracetamol or non-steroidal anti-inflammatory drugs if appropriate.
+
+### Considerations in obstetrics
+
+The obese pregnant patient presents particular difficulties, which include: (i) increased risk of chronic hypertension, pre-eclampsia and diabetes;[3](https://doi.org/10.1093/bja/85.1.91#)
+
+3.
+
+Abrams, B ∙ Parker, J
+
+**Overweight and pregnancy complications**
+
+_Int J Obes._ 1988; **12**:293-303
+
+[87](https://doi.org/10.1093/bja/85.1.91#)
+
+85.
+
+Hood, DD ∙ Dewan, DM
+
+**Anesthetic and obstetric outcome in morbidly obese parturients**
+
+_Anesthesiology._ 1993; **79**:1210-1218
+
+ (ii) higher incidence of difficult labour with increased likelihood of instrumental delivery and Caesarean section;[87](https://doi.org/10.1093/bja/85.1.91#)
+
+85.
+
+Hood, DD ∙ Dewan, DM
+
+**Anesthetic and obstetric outcome in morbidly obese parturients**
+
+_Anesthesiology._ 1993; **79**:1210-1218
+
+[132](https://doi.org/10.1093/bja/85.1.91#)
+
+128.
+
+Pitkänen, MT
+
+**Body mass and spread of spinal anesthesia with bupivacaine**
+
+_Anesth Analg._ 1987; **66**:127-131
+
+ (iii) Caesarean section operations tend to be longer[130](https://doi.org/10.1093/bja/85.1.91#)
+
+126.
+
+Perlow, JH ∙ Morgan, MA
+
+**Massive maternal obesity and perioperative cesarean morbidity**
+
+_Am J Obstet Gynecol._ 1994; **70**:560-565
+
+ with a higher incidence of postoperative complications, including greater blood loss, deep-vein thrombosis and wound infection or dehiscence;[87](https://doi.org/10.1093/bja/85.1.91#)
+
+85.
+
+Hood, DD ∙ Dewan, DM
+
+**Anesthetic and obstetric outcome in morbidly obese parturients**
+
+_Anesthesiology._ 1993; **79**:1210-1218
+
+ (iv) increased risk of anaesthesia-related morbidity and mortality during Caesarean section and in particular, increased risk of failed intubation and gastric aspiration during procedures under general anaesthesia;[87](https://doi.org/10.1093/bja/85.1.91#)
+
+85.
+
+Hood, DD ∙ Dewan, DM
+
+**Anesthetic and obstetric outcome in morbidly obese parturients**
+
+_Anesthesiology._ 1993; **79**:1210-1218
+
+ (v) increased incidence of multiple, failed attempts at epidural siting;[87](https://doi.org/10.1093/bja/85.1.91#)
+
+85.
+
+Hood, DD ∙ Dewan, DM
+
+**Anesthetic and obstetric outcome in morbidly obese parturients**
+
+_Anesthesiology._ 1993; **79**:1210-1218
+
+[132](https://doi.org/10.1093/bja/85.1.91#)
+
+128.
+
+Pitkänen, MT
+
+**Body mass and spread of spinal anesthesia with bupivacaine**
+
+_Anesth Analg._ 1987; **66**:127-131
+
+ (vi) increased risk of fetal morbidity and mortality, with some studies showing an increased incidence of fetal distress;[87](https://doi.org/10.1093/bja/85.1.91#)
+
+85.
+
+Hood, DD ∙ Dewan, DM
+
+**Anesthetic and obstetric outcome in morbidly obese parturients**
+
+_Anesthesiology._ 1993; **79**:1210-1218
+
+ (vii) supine and Trendelenburg positions further reduce FRC, increasing the possibility of hypoxaemia; (viii) some studies show a greater cephalad spread of local anaesthetic during spinal and epidural anaesthesia;[84](https://doi.org/10.1093/bja/85.1.91#)
+
+82.
+
+Hodgkinson, R ∙ Husain, FJ
+
+**Obesity and the cephalad spread of analgesia following epidural administration of bupivacaine for cesarian section**
+
+_Anesth Analg._ 1980; **59**:89-92
+
+ (ix) loss of intercostal muscle function during spinal anaesthesia leading to respiratory difficulty; (x) possible severe reduction in cardiac output with general anaesthesia, related to profound aorto-caval compression and the use of PEEP.
+
+#### Solutions
+
+If at all possible, general anaesthesia should be avoided in the pregnant obese patient. If it is absolutely essential, then a difficult intubation should be anticipated and the appropriate assistance and equipment made readily available. If time is available, an awake fibreoptic intubation should be considered. A clear action plan must have been formulated for the possibility of a failed intubation. The mother's safety must come first; if a failed intubation is deemed likely, then a rapid sequence induction should not be considered.
+
+Siting an epidural catheter early in labour allows the anaesthetist to establish good analgesia in a calm and controlled atmosphere rather than having to rush in the event of an emergency situation.[87](https://doi.org/10.1093/bja/85.1.91#)
+
+85.
+
+Hood, DD ∙ Dewan, DM
+
+**Anesthetic and obstetric outcome in morbidly obese parturients**
+
+_Anesthesiology._ 1993; **79**:1210-1218
+
+ Epidural analgesia can be supplemented for operative procedures and may reduce the likelihood of post-partum deep-vein thrombosis.
+
+‘Single-shot’ spinal anaesthesia may be inadequate for a prolonged Caesarean section, so consideration should be given to a combined spinal–epidural technique if a subarachnoid block is favoured. Local anaesthetic requirements may be reduced by up to 25% in the obese pregnant state.
+
+### Anaesthesia and the obese child
+
+Overweight children become obese adults. It appears that body fat distribution is more important than percentage body fat in determining cardiovascular risk factors for later life.[55](https://doi.org/10.1093/bja/85.1.91#)
+
+54.
+
+Daniels, SR ∙ Morrison, JA ∙ Sprecher, DL ...
+
+**Association of body fat distribution and cardiovascular risk factors in children and adolescents**
+
+_Circulation._ 1999; **99**:541-545
+
+[73](https://doi.org/10.1093/bja/85.1.91#)
+
+71.
+
+Freedman, DS ∙ Dietz, WH ∙ Srinivasan, SR ...
+
+**The relation of overweight to cardiovascular risk factors among children and adolescents: the Bogalusa Heart Study**
+
+_Pediatrics._ 1999; **103**:1175-1182
+
+ In a 57 yr follow-up study, all-cause and cardiovascular mortality was greater for adults who had had a higher childhood BMI.[80](https://doi.org/10.1093/bja/85.1.91#)
+
+78.
+
+Gunnell, DJ ∙ Frankel, SJ ∙ Nanchahal, K ...
+
+**Childhood obesity and adult cardiovascular mortality: a 57-y follow-up study based on the Boyd Orr cohort**
+
+_Am J Clin Nutr._ 1998; **67**:1111-1118
+
+[92](https://doi.org/10.1093/bja/85.1.91#)
+
+90.
+
+Javier Nieto, F
+
+**Childhood weight and growth rate as predictors of adult mortality**
+
+_Am J Epidemiol._ 1992; **136**:201-213
+
+The child with Prader–Willi syndrome is likely to present a particular challenge to the anaesthetist.[56](https://doi.org/10.1093/bja/85.1.91#)
+
+55.
+
+Dearlove, OR ∙ Dobson, A ∙ Super, M
+
+**Anaesthesia and the Práder–Willi syndrome**
+
+_Paediatr Anaesth._ 1998; **8**:267-271
+
+ Features of the syndrome include hypotonia, mental retardation, obesity, diabetes mellitus, scoliosis and sleep apnoea (which may worsen postoperatively). Cardiovascular disturbance (hypertension, arrhythmias), restrictive pulmonary defects and thermoregulatory abnormalities have also been described. It would seem prudent that these children should be anaesthetized in specialist centres that have experience of the condition.
+
+### Laparoscopic procedures in the obese
+
+Despite the expected diaphragmatic splinting and reduction in FRC, obese patients seem to tolerate laparoscopic procedures relatively well. Dumont and colleagues[64](https://doi.org/10.1093/bja/85.1.91#)
+
+63.
+
+Dumont, L ∙ Mattys, M ∙ Mardirosoff, C ...
+
+**Changes on pulmonary mechanics during laparoscopic gastroplasty in morbidly obese patients**
+
+_Acta Anaesthesiol Scand._ 1997; **41**:408-413
+
+ studied the respiratory mechanics and arterial blood gases in 15 morbidly obese patients undergoing laparoscopic gastroplasty. They showed that abdominal insufflation to 2.26 kPa led to a 31% decrease in respiratory compliance, increases of 17% and 32% in peak and plateau airway pressures (at constant tidal volume), significant hypercapnia but no change in arterial oxygen saturation. Pulmonary compliance and insufflation pressures returned to baseline values after abdominal deflation and the procedures were well tolerated. Similarly, Juvin and colleagues[97](https://doi.org/10.1093/bja/85.1.91#)
+
+95.
+
+Juvin, P ∙ Marmuse, JP ∙ Delerme, S ...
+
+**Post-operative course after conventional or laparoscopic gastroplasty in morbidly obese patients**
+
+_Eur J Anaesthesiol._ 1999; **16**:400-403
+
+ demonstrated that obese patients undergoing laparoscopic gastroplasty had significantly reduced analgesic requirements, were able to walk sooner and had a shorter hospital stay than a comparable group of patients who had had an open procedure. Laparoscopy for gastroplasty may improve the immediate postoperative course but the anaesthetist must be aware that Trendelenburg and reverse Trendelenburg positions are likely to be poorly tolerated and that hypercarbia may cause arrhythmias and cardiovascular instability during the procedure.
+
+Obesity and gastrointestinal disorders
+--------------------------------------
+
+It is commonly believed that combination of increased intra-abdominal pressure, high volume and low pH of gastric contents,[159](https://doi.org/10.1093/bja/85.1.91#)
+
+154.
+
+Vaughan, RW ∙ Bauer, S ∙ Wise, L
+
+**Volume and pH of gastric juice in obese patients**
+
+_Anesthesiology._ 1975; **43**:686-689
+
+ delayed gastric emptying and an increased incidence of hiatus hernia and gastro-oesophageal reflux place the obese patient at a higher risk of aspiration of gastric content followed by aspiration pneumonitis. Recent studies, however, have challenged this contention. Zacchi and colleagues[170](https://doi.org/10.1093/bja/85.1.91#)
+
+165.
+
+Zacchi, P ∙ Mearin, F ∙ Humbert, P ...
+
+**Effect of obesity on gastroesophageal resistance to flow in man**
+
+_Dig Dis Sci._ 1991; **36**:1473-1480
+
+ showed that obese patients without symptoms of gastro-oesophageal reflux have a resistance gradient between the stomach and the gastro-oesophageal junction similar to that in non-obese subjects in both the lying and sitting positions. Although obese individuals have a 75% greater gastric volume than normal individuals, recent work has shown that gastric emptying is actually faster in the obese, especially with high-energy content intake such as fatty emulsions. However, as a result of the larger gastric volume, the residual volume is larger in obese individuals.[168](https://doi.org/10.1093/bja/85.1.91#)
+
+163.
+
+Wisen, O ∙ Hellstrom, PM
+
+**Gastrointestinal motility in obesity**
+
+_J Int Med._ 1995; **273**:411-418
+
+ Both the faster gastric emptying and the larger gastric volume can be partially reversed by weight loss.[152](https://doi.org/10.1093/bja/85.1.91#)
+
+148.
+
+Tosetti, C ∙ Corinaldesi, R ∙ Stanghellini, V ...
+
+**Gastric emptying of solids in morbid obesity**
+
+_Int J Obes Relat Metab Disord._ 1996; **20**:200-205
+
+ Despite such conflicting evidence, it is sensible to take precautions against acid aspiration. This includes the use of H 2 receptor antagonists,[162](https://doi.org/10.1093/bja/85.1.91#)
+
+157.
+
+Vila, P ∙ Valles, J ∙ Canet, J ...
+
+**Acid aspiration prophylaxis in morbidly obese patients: famotidine vs. ranitidine**
+
+_Anaesthesia._ 1991; **46**:967-969
+
+ antacids and prokinetics; rapid sequence induction with cricoid pressure and tracheal extubation with the patient fully awake.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+### <!?tpt=24pt>Diabetes mellitus
+
+Obesity is an important independent risk factor for type II or maturity-onset diabetes mellitus. Some studies show a >10% incidence of an abnormal glucose tolerance test in patients undergoing bariatric surgery.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ All obese patients should have a random blood sugar test performed preoperatively and, if indicated, a glucose tolerance test. The catabolic response to surgery may necessitate the use of insulin postoperatively to control glucose concentrations. Failure to control blood glucose concentrations adequately will render the patient more susceptible to wound infections and will increase the risk of myocardial infarction during periods of myocardial ischaemia.[133](https://doi.org/10.1093/bja/85.1.91#)
+
+129.
+
+Raucoles-Aime, M ∙ Brimaud, D
+
+**Diabetes mellitus: implications for the anesthesiologist**
+
+_Curr Opin Anesth._ 1996; **9**:247-251
+
+### <!?tpt=24pt>Thromboembolic disease
+
+The risk of deep-vein thrombosis in obese patients undergoing non-malignant abdominal surgery is approximately twice that of lean patients (48% _vs_ 23%), with a similar increased risk of pulmonary embolus.[50](https://doi.org/10.1093/bja/85.1.91#)
+
+49.
+
+Clayton, JK ∙ Anderson, JR ∙ NcNicol, GP
+
+**Preoperative prediction of postoperative deep vein thrombosis**
+
+_Br Med J._ 1976; **ii**:910-912
+
+[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ It is the commonest complication of bariatric surgery, with the incidence reported to be between 2.4% and 4.5%.[60](https://doi.org/10.1093/bja/85.1.91#)
+
+59.
+
+Dominguez-Cherit, G ∙ Gonzalez, R ∙ Borunda, A ...
+
+**Anesthesia for morbidly obese patients**
+
+_World J Surg._ 1998; **22**:969-973
+
+[66](https://doi.org/10.1093/bja/85.1.91#)
+
+64.
+
+Eriksson, S ∙ Backman, L ∙ Ljungstrom, KG
+
+**The incidence of clinical postoperative thrombosis after gastric surgery for obesity during 16 years**
+
+_Obes Surg._ 1997; **7**:332-335
+
+[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ The increased risk of thromboembolic disease in obese patients is likely to result from prolonged immobilization leading to venous stasis, polycythaemia, increased abdominal pressure with increased pressure in the deep venous channels of the lower limb, cardiac failure and decreased fibrinolytic activity with increased fibrinogen concentrations. Measures to prevent venous thromboembolism should always be taken.
+
+<!?tpt=24pt>Drug handling in obesity
+------------------------------------
+
+The physiological changes associated with obesity lead to alterations in the distribution, binding and elimination of many drugs.[1](https://doi.org/10.1093/bja/85.1.91#)
+
+1.
+
+Abernethy, DR ∙ Greenblatt, DJ
+
+**Pharmacokinetics of drugs in obesity**
+
+_Clin Pharmacokinet._ 1982; **7**:108-124
+
+[2](https://doi.org/10.1093/bja/85.1.91#)
+
+2.
+
+Abernethy, DR ∙ Greenblatt, DJ
+
+**Drug disposition in obese humans: an update**
+
+_Clin Pharmacokinet._ 1986; **11**:199-213
+
+[115](https://doi.org/10.1093/bja/85.1.91#)
+
+111.
+
+Marik, P ∙ Varon, J
+
+**The obese patient in the ICU**
+
+_Chest._ 1998; **113**:492-498
+
+ The net phamacokinetic effect in any patient is often uncertain, making monitoring of clinical end-points (such as heart rate, arterial pressure and sedation) and serum concentrations of drugs more important than empirical drug dosing based on published data.[115](https://doi.org/10.1093/bja/85.1.91#)
+
+111.
+
+Marik, P ∙ Varon, J
+
+**The obese patient in the ICU**
+
+_Chest._ 1998; **113**:492-498
+
+[142](https://doi.org/10.1093/bja/85.1.91#)
+
+138.
+
+Shenkman, Z ∙ Shir, Y ∙ Brodsky, JB
+
+**Perioperative management of the obese patient**
+
+_Br J Anaesth._ 1993; **70**:349-359
+
+ For drugs with narrow therapeutic indices (e.g. aminophylline, aminoglycosides or digoxin), toxic reactions may occur if patients are dosed according to their actual body weight.[1](https://doi.org/10.1093/bja/85.1.91#)
+
+1.
+
+Abernethy, DR ∙ Greenblatt, DJ
+
+**Pharmacokinetics of drugs in obesity**
+
+_Clin Pharmacokinet._ 1982; **7**:108-124
+
+[2](https://doi.org/10.1093/bja/85.1.91#)
+
+2.
+
+Abernethy, DR ∙ Greenblatt, DJ
+
+**Drug disposition in obese humans: an update**
+
+_Clin Pharmacokinet._ 1986; **11**:199-213
+
+[49](https://doi.org/10.1093/bja/85.1.91#)
+
+48.
+
+Cheymol, G
+
+**Clinical pharmacokinetics of drugs in obesity: an update**
+
+_Clin Pharmacokinet._ 1993; **25**:103-114
+
+[115](https://doi.org/10.1093/bja/85.1.91#)
+
+111.
+
+Marik, P ∙ Varon, J
+
+**The obese patient in the ICU**
+
+_Chest._ 1998; **113**:492-498
+
+### Absorption
+
+Oral absorption of drugs remains essentially unchanged in the obese patient.[49](https://doi.org/10.1093/bja/85.1.91#)
+
+48.
+
+Cheymol, G
+
+**Clinical pharmacokinetics of drugs in obesity: an update**
+
+_Clin Pharmacokinet._ 1993; **25**:103-114
+
+### Volume of distribution
+
+Factors that affect the apparent volume of distribution (_V_ d) of a drug in the obese include the size of the fat organ, increased lean body mass, increased blood volume and cardiac output, reduced total body water, alterations in plasma protein binding and the lipophilicity of the drug.[36](https://doi.org/10.1093/bja/85.1.91#)
+
+36.
+
+Blouin, RA ∙ Kolpek, JH ∙ Mann, HJ
+
+**Influence of obesity on drug disposition**
+
+_Clin Pharm._ 1987; **6**:706-714
+
+ Thiopental, for instance, has an increased _V_ d because of its highly lipophilic nature and also because of the increased blood volume, cardiac output and muscle mass.[117](https://doi.org/10.1093/bja/85.1.91#)
+
+113.
+
+Mayersohn, M ∙ Calkins, JM ∙ Perrier, DG ...
+
+**Thiopental kinetics in obese patients**
+
+_Anesthesiology._ 1981; **55**:178A
+
+ Therefore the absolute dose should be increased, even though on a weight-for-weight basis the dose required will be less than that for a lean individual. An increase in the volume of distribution will reduce the elimination half-life unless the clearance is increased.[1](https://doi.org/10.1093/bja/85.1.91#)
+
+1.
+
+Abernethy, DR ∙ Greenblatt, DJ
+
+**Pharmacokinetics of drugs in obesity**
+
+_Clin Pharmacokinet._ 1982; **7**:108-124
+
+[2](https://doi.org/10.1093/bja/85.1.91#)
+
+2.
+
+Abernethy, DR ∙ Greenblatt, DJ
+
+**Drug disposition in obese humans: an update**
+
+_Clin Pharmacokinet._ 1986; **11**:199-213
+
+ With thiopental and other lipophilic drugs (such as benzodiazepines or potent inhalational anaesthetic agents), effects may persist for some time after discontinuation.
+
+There may be variable effects of obesity on the protein binding of some drugs. The increased concentrations of triglycerides, lipoproteins, cholesterol and free fatty acids may inhibit protein binding of some drugs, and so increase free plasma concentrations.[166](https://doi.org/10.1093/bja/85.1.91#)
+
+161.
+
+Wasan, KM ∙ Lopex-Berestein, G
+
+**The influence of serum lipoproteins on the pharmacokinetics and pharmacodynamics of lipophilic drugs and drug carriers**
+
+_Arch Med Res._ 1993; **24**:395-401
+
+ In contrast, increased concentrations of α 1 acid glycoprotein may increase the degree of protein binding of other drugs (e.g. local anaesthetics), so reducing the free plasma fraction.
+
+### Elimination
+
+Although histological abnormalities of the liver are relatively common, hepatic clearance is usually not reduced in the obese. Phase I reactions (oxidation, reduction and hydrolysis) are usually normal or increased in obesity, whereas metabolism of some drugs by phase II reactions (e.g. lorazepam) is consistently increased. Cardiac failure and reduced liver blood flow may slow the elimination of drugs that are rapidly eliminated by the liver (e.g. midazolam or lidocaine).[115](https://doi.org/10.1093/bja/85.1.91#)
+
+111.
+
+Marik, P ∙ Varon, J
+
+**The obese patient in the ICU**
+
+_Chest._ 1998; **113**:492-498
+
+Renal clearance increases in obesity because of the increased renal blood flow and glomerular filtration rate.[115](https://doi.org/10.1093/bja/85.1.91#)
+
+111.
+
+Marik, P ∙ Varon, J
+
+**The obese patient in the ICU**
+
+_Chest._ 1998; **113**:492-498
+
+ In obese patients with renal dysfunction, estimates of the creatinine clearance from standard formulae tend to be inaccurate and dosing regimens for renally excreted drugs should be based instead on measured creatinine clearance.[146](https://doi.org/10.1093/bja/85.1.91#)
+
+142.
+
+Snider, RD ∙ Kruse, JA ∙ Bander, JJ ...
+
+**Accuracy of estimated creatinine clearance in obese patients with stable renal function in the intensive care unit**
+
+_Pharmacotherapy._ 1995; **15**:747-753
+
+### Inhalational anaesthetics
+
+The traditional theory that slow emergence from anaesthesia in morbidly obese patients is a result of delayed release of volatile agent from excessive adipose tissue has been challenged.[108](https://doi.org/10.1093/bja/85.1.91#)
+
+105.
+
+Ladergaard-Pederson, MJ
+
+**Recovery from general anesthesia in obese patients**
+
+_Anesthesiology._ 1981; **55**:720
+
+ Reductions in blood flow to the fat organ may limit the delivery of volatile agents to fat stores, with the slow emergence more probably resulting from increased central sensitivity. In fact, some studies demonstrate comparable recovery times in obese and lean subjects for anaesthesia lasting 2–4 h.[53](https://doi.org/10.1093/bja/85.1.91#)
+
+52.
+
+Cork, RC ∙ Vaughan, RW ∙ Bentley, JB
+
+**General anesthesia for morbidly obese patients—an examination of postoperative outcomes**
+
+_Anesthesiology._ 1981; **54**:310-313
+
+Obese patients may be more susceptible to the ill-effects of altered hepatic metabolism of volatile agents. Plasma concentrations of bromide, a marker of reductive and oxidative metabolism of halothane, are increased in obese patients.[121](https://doi.org/10.1093/bja/85.1.91#)
+
+117.
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+ Increased reductive metabolism may be an important factor in the development of liver injury after exposure to halothane, and this may be more likely in obese individuals at risk from hypoxaemia and reduced liver blood flow. Concentrations of inorganic free fluoride ions are higher in obese patients following exposure to halothane or enflurane, increasing the risk of nephrotoxicity.[27](https://doi.org/10.1093/bja/85.1.91#)
+
+27.
+
+Bentley, JB ∙ Vaughan, RW ∙ Miller, MS ...
+
+**Serum inorganic fluoride levels in obese patients during and after enflurane anesthesia**
+
+_Anesth Analg._ 1979; **58**:409-412
+
+[28](https://doi.org/10.1093/bja/85.1.91#)
+
+28.
+
+Bentley, JB ∙ Vaughan, RW ∙ Gandolfi, AJ ...
+
+**Halothane biotransformation in obese and non-obese patients**
+
+_Anesthesiology._ 1982; **57**:94-97
+
+ This does not appear to be the case with sevoflurane, despite its significant hepatic metabolism.[74](https://doi.org/10.1093/bja/85.1.91#)
+
+72.
+
+Frink, EJ ∙ Malan, TP ∙ Brown, EA ...
+
+**Plasma inorganic fluoride levels with sevoflurane anesthesia in morbidly obese and nonobese patients**
+
+_Anesth Analg._ 1993; **76**:1333-1337
+
+ Fluoride concentrations are not significantly increased after isoflurane anaesthesia,[149](https://doi.org/10.1093/bja/85.1.91#)
+
+145.
+
+Strube, PJ ∙ Hulands, GH ∙ Halsey, MJ
+
+**Serum fluoride levels in morbidly obese patients: Enflurane compared with isoflurane anaesthesia**
+
+_Anaesthesia._ 1987; **42**:685-689
+
+ so this remains the inhalational agent of choice for many anaesthetists. Although its rapid elimination and analgesic properties render nitrous oxide potentially attractive, its usefulness is limited by the high oxygen demands of many morbidly obese patients. The influence of obesity on the pharmacokinetics of commonly used anaesthetic drugs is summarized in [Table 3](https://doi.org/10.1093/bja/85.1.91#tbl3).
+
+**Drug****Altered pharmacokinetics****Clinical implications**
+**Hypnotics**
+Thiopental Increased central volume of distribution; prolonged elimination half-life Increased absolute dose; reduced dose per unit body weight; prolonged duration of action
+Propofol Little known Increased absolute dose; reduced dose per unit body weight
+Midazolam, diazepam Central volume of distribution increases in line with body weight; prolonged elimination half-life Increased absolute dose, same dose per unit body weight; prolonged duration of action, particularly after infusion
+**Neuromuscular blocking drugs**
+Succinylcholine Plasma cholinesterase activity increases in proportion to body weight Increased absolute dose; reduced dose per unit body weight; doses of 120–140 mg appear satisfactory
+Atracurium No change in absolute clearance, absolute volume of distribution and absolute elimination half-life Unchanged dose per unit body weight
+Vecuronium Impaired hepatic clearance and increased volume of distribution lead to delayed recovery time Give according to estimated lean body weight
+Pancuronium Low lipid solubility Unchanged dose per unit body weight
+Dimethyl tubocurarine Elimination half-life increases in proportion with % obesity Give according to estimated LBW
+**Opioids**
+Fentanyl No change in elimination following 10 μg kg−1 Dose per unit body weight unchanged
+Alfentanil Elimination may be prolonged Adjust dose to LBW
+Morphine No information available
+**Local anaesthetics**
+Lidocaine Increased absolute _V_ D, unchanged _V_ D adjusted for body weight; increased epidural fat content and epidural venous engorgement I.v. dose: unchanged dose per unit body weight; extradural dose: 75% of dose calculated according to TBW
+Bupivacaine No information available High segmental level following subarachnoid blockade
+**Inhalational anaesthetics**
+Nitrous oxide Little information Increased _F_ i o 2 limits practical usefulness; intestinal distension may contribute to perioperative difficulties
+Halothane Considerable deposition in adipose tissue; increased risk of reductive hepatic metabolism Possible increased risk of halothane hepatitis
+Enflurane Blood:gas partition coefficient falls with increasing obesity; inorganic fluoride concentrations rise twice as fast in obese individuals Possibly lower MAC; increased risk of fluoride nephrotoxicity following prolonged administration
+Sevoflurane No difference in fluoride concentrations between obese and non-obese patients
+
+Table 3
+Influence of obesity on the pharmacokinetics of anaesthetic drugs (adapted from reference [143](https://doi.org/10.1093/bja/85.1.91#)
+
+139.
+
+Sjöström, LV
+
+**Mortality of severely obese subjects**
+
+_Am J Clin Nutr._ 1992; **55**:516S-523S
+
+). TBW=total body weight, LBW=lean body weight, MAC = minimum alveolar concentration
+
+*   [Open table in a new tab](https://www.bjanaesthesia.org/action/showFullTableHTML?isHtml=true&tableId=tbl3&pii=S0007-0912%2817%2937339-7)
+
+Trauma and the obese patient
+----------------------------
+
+It is a widely held belief that the outcome of trauma in obese patients is poor, but data to support this are scarce. Boulanger and colleagues examined retrospectively the pattern of blunt trauma in obese and non-obese individuals over a 4 yr period.[37](https://doi.org/10.1093/bja/85.1.91#)
+
+37.
+
+Boulanger, BR ∙ Milzman, D ∙ Mitchell, K ...
+
+**Body habitus as a predictor of injury pattern after blunt trauma**
+
+_J Trauma Inj Inf Crit Care._ 1992; **33**:228-232
+
+ The obese group tended to be involved more in car crashes (62.7% _vs_ 54.1%) and to have better GCS scores, and they were more likely to have rib fractures, pulmonary contusions, pelvic fractures and extremity fractures. They were less likely to have suffered head trauma or liver injuries. Smith-Choban and colleagues reported an eight-fold increase in mortality following blunt trauma in morbidly obese patients compared with the non-obese.[145](https://doi.org/10.1093/bja/85.1.91#)
+
+141.
+
+Smith-Choban, P ∙ Weireter, LJ ∙ Maynes, C
+
+**Obesity and increased mortality in blunt trauma**
+
+_J Trauma._ 1991; **31**:1253-1257
+
+The metabolic response to severe trauma appears to be different in obese and non-obese subjects. Jeevanandam and colleagues[93](https://doi.org/10.1093/bja/85.1.91#)
+
+91.
+
+Jeevanandam, M ∙ Young, DH ∙ Schiller, WR
+
+**Obesity and the metabolic response to severe multiple trauma in man**
+
+_J Clin Invest._ 1991; **87**:262-269
+
+ showed that traumatized obese patients mobilized relatively more protein and less fat than non-obese victims. In other words, they were unable to use their most abundant fuel source. They suggest that the nutritional management of obese trauma victims should provide enough glucose calories to spare protein.
+
+Care of the morbidly obese trauma victim in the resuscitation room is likely to prove difficult. Given the high probability of underlying cardiorespiratory impairment, such patients are likely to require high inspired oxygen fractions, early intubation and respiratory support, meticulous fluid resuscitation with invasive monitoring, and adequate personnel to transport them around the emergency department. Bleeding is likely to produce early cardiovascular decompensation and so should be vigorously sought and treated. Portable radiographs may be of poor quality because of overlying soft tissue, and clinical signs may be difficult to elicit. More sophisticated imaging techniques, such as CT scanning, may be needed, although many CT tables have weight restrictions of about 160 kg. The attending physician should always consider the possibility of covert pathology in the obese trauma patient.
+
+The obese patient on the intensive care unit
+--------------------------------------------
+
+Few data are available on the morbidity and mortality of obese patients in the intensive care setting, but again it is widely held that the outcome is poor. Despite this, morbid obesity was not included as a comorbid variable in the development of the APACHE (acute physiology and chronic health evaluation) II and III prognostic indices.[103](https://doi.org/10.1093/bja/85.1.91#)
+
+100.
+
+Knaus, WA ∙ Draper, EA ∙ Wagner, DP ...
+
+**APACHE II: a severity of disease classification system**
+
+_Crit Care Med._ 1985; **13**:818-828
+
+[104](https://doi.org/10.1093/bja/85.1.91#)
+
+101.
+
+Knaus, WA ∙ Wagner, DP ∙ Draper, EA ...
+
+**The APACHE III prognostic system: risk prediction of hospital mortality for critically ill hospitalized adults**
+
+_Chest._ 1991; **100**:1619-1636
+
+ Obese patients are more likely to be admitted to the intensive care unit. Rose and colleagues reported that acute postoperative pulmonary events were twice as likely in the obese as in the non-obese, and that hospitalized obese patients were at an increased risk of developing respiratory complications.[137](https://doi.org/10.1093/bja/85.1.91#)
+
+133.
+
+Rose, DK ∙ Cohen, MM ∙ Wigglesworth, DF ...
+
+**Critical respiratory events in the postanesthesia care unit: patient, surgical and anesthetic factors**
+
+_Anesthesiology._ 1994; **81**:410-418
+
+The alterations in pulmonary function that have already been outlined are important when considering mechanical ventilation in the obese patient. A tidal volume based on the patient's actual body weight is likely to produce alveolar over-distension and high airway pressure, so increasing the risk of barotrauma. An initial tidal volume based on IBW should be used which can then be adjusted according to inflation pressures and blood gas analysis.[115](https://doi.org/10.1093/bja/85.1.91#)
+
+111.
+
+Marik, P ∙ Varon, J
+
+**The obese patient in the ICU**
+
+_Chest._ 1998; **113**:492-498
+
+ The use of PEEP may help to prevent airway closure and atelectasis but may be at the expense of the cardiac output. Weaning from mechanical ventilation may be difficult because of high oxygen requirements, increased work of breathing, reduced lung volumes and ventilation–perfusion mismatching. Burns and colleagues[46](https://doi.org/10.1093/bja/85.1.91#)
+
+45.
+
+Burns, SM ∙ Egloff, MB ∙ Ryan, B ...
+
+**Effect of body position on spontaneous respiratory effort and tidal volume in patients with obesity, abdominal distension and ascites**
+
+_Am J Crit Care._ 1994; **3**:102-106
+
+ showed that a position of 45° head-up tilt resulted in a larger tidal volume and a lower respiratory rate than either the 0° or 90° position, and so may be of benefit during weaning. If a long stay in the ICU is envisaged, early tracheostomy may assist weaning, although the percutaneous approach is likely to prove difficult. One must always consider the possibility of the obese patient requiring emergency re-intubation and so extubation should be planned when adequate personnel are available, especially if the initial intubation was problematic.
+
+The morbidly obese patient is likely to have significant cardiovascular impairment and to tolerate fluid loading poorly. Invasive haemodynamic monitoring may assist in titrating fluid replacement and assessing cardiac performance. Siting of central venous catheters may be difficult, resulting in a higher incidence of catheter misplacement and local complications such as infection and thrombosis.[38](https://doi.org/10.1093/bja/85.1.91#)
+
+38.
+
+Boulanger, BR ∙ Milzman, DP ∙ Rodriquez, A
+
+**Obesity**
+
+_Crit Care Clin._ 1994; **10**:613-622
+
+ Femoral vein catheterization may be impossible owing to local intertrigo. Doppler ultrasound has been shown to improve the success rate of central vein cannulation in high-risk groups with a reduced rate of complications.[78](https://doi.org/10.1093/bja/85.1.91#)
+
+76.
+
+Gilbert, TB ∙ Seneff, MG ∙ Becker, RB
+
+**Facilitation of internal jugular venous cannulation using an audio-guided Doppler ultrasound vascular access device: results from a prospective dual-center, randomized, crossover clinical study**
+
+_Crit Care Med._ 1995; **23**:60-65
+
+[79](https://doi.org/10.1093/bja/85.1.91#)
+
+77.
+
+Gratz, I ∙ Afshar, M ∙ Kidwell, P ...
+
+**Doppler-guided cannulation of the internal jugular vein: a prospective randomized trial**
+
+_J Clin Monitor._ 1994; **10**:185-188
+
+Despite having excess body fat stores and an increased lean body mass, obese individuals are at risk from developing protein malnutrition during periods of metabolic stress.[91](https://doi.org/10.1093/bja/85.1.91#)
+
+89.
+
+Ireton-Jones, C ∙ Francis, C
+
+**Obesity: nutrition support practice and application to critical care**
+
+_Nutr Clin Pract._ 1995; **10**:144-149
+
+ Weight reduction during episodes of critical illness is not beneficial and appropriate nutritional support should not be withheld. Obese individuals are not able to mobilize their fat stores during critical illness and tend to rely on carbohydrate instead. The increased carbohydrate use increases the respiratory quotient and accelerates protein breakdown further to fuel gluconeogenesis.[93](https://doi.org/10.1093/bja/85.1.91#)
+
+91.
+
+Jeevanandam, M ∙ Young, DH ∙ Schiller, WR
+
+**Obesity and the metabolic response to severe multiple trauma in man**
+
+_J Clin Invest._ 1991; **87**:262-269
+
+ Energy expenditure equations tend to be unreliable in critical illness, especially in the obese.[94](https://doi.org/10.1093/bja/85.1.91#)
+
+92.
+
+Jeevanandam, M ∙ Ramias, L ∙ Schiller, WR
+
+**Altered plasma amino acid levels in obese traumatized man**
+
+_Metabolism._ 1991; **40**:385-390
+
+ An indirect calorimeter should be used to calculate energy expenditure,[114](https://doi.org/10.1093/bja/85.1.91#)
+
+110.
+
+Makk, LJK ∙ McClave, DSA ∙ Creech, PW
+
+**Clinical application of the metabolic cart to the delivery of total parenteral nutrition**
+
+_Crit Care Med._ 1990; **18**:1320-1327
+
+ but if one is not available, then patients should receive 20–30 kcal kg−1 of IBW per day. Most of the calories should be given as carbohydrate, with fats given to prevent essential fatty acid deficiency. Protein requirements may be difficult to assess because of an increased lean body mass, but 1.5–2.0 g kg−1 of IBW should achieve nitrogen balance.[45](https://doi.org/10.1093/bja/85.1.91#)
+
+44.
+
+Burge, JC ∙ Goon, A ∙ Choban, PS ...
+
+**Efficacy of hypocaloric total parenteral nutrition in hospitalized obese patients: a prospective, double-blind randomized trial. _J_**
+
+_Parenteral Enteral Nutr._ 1994; **18**:203-207
+
+[91](https://doi.org/10.1093/bja/85.1.91#)
+
+89.
+
+Ireton-Jones, C ∙ Francis, C
+
+**Obesity: nutrition support practice and application to critical care**
+
+_Nutr Clin Pract._ 1995; **10**:144-149
+
+ Expert advice should be sought from a dietician.
+
+Clearly the morbidly obese patient will present the emergency room and intensive care staff with a formidable challenge. Better understanding of the pathophysiology and complications that accompany obesity may improve their care and outcome. More research on the outcome of the morbidly obese in these settings is required.
+
+References
+----------
+
+Abernethy, DR ∙ Greenblatt, DJ
+
+**Pharmacokinetics of drugs in obesity**
+
+_Clin Pharmacokinet._ 1982; **7**:108-124
+
+Abernethy, DR ∙ Greenblatt, DJ
+
+**Drug disposition in obese humans: an update**
+
+_Clin Pharmacokinet._ 1986; **11**:199-213
+
+Abrams, B ∙ Parker, J
+
+**Overweight and pregnancy complications**
+
+_Int J Obes._ 1988; **12**:293-303
+
+Agarwal, N ∙ Shibutani, KJ ∙ SanFilippo, JA ...
+
+**Hemodynamic and respiratory changes in surgery of the morbidly obese**
+
+_Surgery._ 1982; **92**:226-234
+
+Alauddin, A ∙ Meterissian, S ∙ Lisbona, R ...
+
+**Assessment of cardiac function in patients who were morbidly obese**
+
+_Surgery._ 1990; **108**:809-820
+
+Alexander, JK
+
+**Obesity and the circulation**
+
+_Modern Concepts Cardiovasc Dis._ 1963; **32**:799-803
+
+Alexander, JK
+
+**Obesity and cardiac performance**
+
+_Am J Cardiol._ 1964; **14**:860-865
+
+Alexander, JK ∙ Peterson, KL
+
+**Cardiovascular effects of weight reduction**
+
+_Circulation._ 1972; **45**:310-318
+
+Alexander, JK ∙ Dennis, EW ∙ Smith, WG ...
+
+**Blood volume, cardiac output, and distribution of systemic blood flow in extreme obesity**
+
+_Cardiovasc Res Center Bull._ 1962; **1**:39-44
+
+Alpert, MA ∙ Hashimi, MW
+
+**Obesity and the heart**
+
+_Am J Med Sci._ 1993; **306**:117-123
+
+Alpert, MA ∙ Singh, A ∙ Terry, BE
+
+**Effect of exercise on left ventricular function and reserve in morbid obesity**
+
+_Am J Cardiol._ 1989; **63**:1478-1482
+
+Alpert, MA ∙ Terry, BE ∙ Lambert, CR ...
+
+**Factors influencing left ventricular systolic function in nonhypertensive morbidly obese patients, and effect of weight loss induced by gastroplasty**
+
+_Am J Cardiol._ 1993; **71**:733-737
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Influence of left ventricular mass on left ventricular diastolic filling in normotensive morbid obesity**
+
+_Am Heart J._ 1995; **130**:1068-1073
+
+Alpert, MA ∙ Lambert, CR ∙ Panayiotou, H ...
+
+**Relation of duration of morbid obesity to left ventricular mass, systolic function, and diastolic filling, and effect of weight loss**
+
+_Am J Cardiol._ 1995; **76**:1194-1197
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Effect of weight loss on left ventricular diastolic filling in morbid obesity**
+
+_Am J Cardiol._ 1995; **76**:1198-1201
+
+Alpert, MA ∙ Lambert, CR ∙ Terry, BE ...
+
+**Interrelationship of left ventricular mass, systolic function and diastolic filling in normotensive morbidly obese patients**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:550-557
+
+Amad, KH ∙ Brennan, JC ∙ Alexander, JK
+
+**The cardiac pathology of chronic exogenous obesity**
+
+_Circulation._ 1965; **32**:740-745
+
+Andersen, J ∙ Rasmussen, JP ∙ Eriksen, J
+
+**Pulmonary function in obese patients scheduled for jejuno-ileostomy**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:346-351
+
+Anderson, JW ∙ Brinkman-Kaplan, VL ∙ Lee, H ...
+
+**Relationship of weight loss to cardiovascular risk factors in morbidly obese individuals**
+
+_J Am Coll Nutr._ 1994; **13**:256-261
+
+Ashwell, M ∙ Chinn, S ∙ Stalley, S ...
+
+**Female fat distribution—a simple classification based on two circumference measurements**
+
+_Int J Obes._ 1982; **6**:143-152
+
+Auwerx, J ∙ Staels, B
+
+**Leptin**
+
+_Lancet._ 1998; **351**:737-742
+
+Azevedo, A ∙ Ramos, E ∙ von Hafe, P ...
+
+**Upper-body adiposity and risk of myocardial infarction**
+
+_J Cardiovasc Risk._ 1999; **6**:321-325
+
+Backman, L ∙ Freyschuss, V ∙ Hallberg, D ...
+
+**Cardiovascular function in extreme obesity**
+
+_Acta Med Scand._ 1973; **193**:437-446
+
+Bardoczky, GI ∙ Yernault, JC ∙ Houben, JJ ...
+
+**Large tidal volume ventilation does not improve oxygenation in morbidly obese patients during anesthesia**
+
+_Anesth Analg._ 1995; **81**:385-388
+
+Bennett, R ∙ Batenhorst, R ∙ Graves, DA ...
+
+**Variation in postoperative analgesic requirements in the morbidly obese following gastric bypass surgery**
+
+_Pharmacotherapy._ 1982; **2**:50-53
+
+Benotti, PN ∙ Bistrain, B ∙ Benotti, JR ...
+
+**Heart disease and hypertension in severe obesity: the benefits of weight reduction**
+
+_Am J Clin Nutr._ 1992; **55**:586-590
+
+Bentley, JB ∙ Vaughan, RW ∙ Miller, MS ...
+
+**Serum inorganic fluoride levels in obese patients during and after enflurane anesthesia**
+
+_Anesth Analg._ 1979; **58**:409-412
+
+Bentley, JB ∙ Vaughan, RW ∙ Gandolfi, AJ ...
+
+**Halothane biotransformation in obese and non-obese patients**
+
+_Anesthesiology._ 1982; **57**:94-97
+
+Berkalp, B ∙ Cesur, V ∙ Corapcioglu, D ...
+
+**Obesity and left ventricular diastolic function**
+
+_Int J Cardiol._ 1995; **52**:23-26
+
+Bharati, S ∙ Lev, M
+
+**Cardiac conduction system involvement in sudden death of obese young people**
+
+_Am Heart J._ 1995; **129**:273-281
+
+Bilotta, JJ ∙ Floyd, JL ∙ Waye, JD
+
+**Arterial oxygen desaturation during ambulatory colonoscopy: predictability, incidence and clinical insignificance**
+
+_Gastrointest Endosc._ 1990; **36**:S5-S8
+
+Biring, MS ∙ Lewis, MI ∙ Liu, JI ...
+
+**Pulmonary physiologic changes of morbid obesity**
+
+_Am J Med Sci._ 1999; **318**:293-297
+
+Bjerkedal, T
+
+**Overweight and hypertension**
+
+_Acta Med Scand._ 1957; **159**:13-26
+
+Björntop, P
+
+**Visceral obesity: a “civilization syndrome”**
+
+_Obes Res._ 1993; **1**:206-222
+
+Björntorp, P
+
+**Obesity**
+
+_Lancet._ 1997; **350**:423-426
+
+Blouin, RA ∙ Kolpek, JH ∙ Mann, HJ
+
+**Influence of obesity on drug disposition**
+
+_Clin Pharm._ 1987; **6**:706-714
+
+Boulanger, BR ∙ Milzman, D ∙ Mitchell, K ...
+
+**Body habitus as a predictor of injury pattern after blunt trauma**
+
+_J Trauma Inj Inf Crit Care._ 1992; **33**:228-232
+
+Boulanger, BR ∙ Milzman, DP ∙ Rodriquez, A
+
+**Obesity**
+
+_Crit Care Clin._ 1994; **10**:613-622
+
+Bray, GA
+
+**Pathophysiology of obesity**
+
+_Am J Clin Nutr._ 1992; **55**:488S-494S
+
+Brodksy, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Int Anesthesiol Clin._ 1986; **24**:93-103
+
+Brodsky, JB ∙ Merrel, RC
+
+**Epidural administration of morphine postoperatively for morbid obese patients**
+
+_W J Med._ 1984; **140**:750-753
+
+Buckley, FP
+
+**Anesthesia and obesity and gastrointestinal disorders**
+
+Barash, PG ∙ Cullen, BF ∙ Stoelting, RK (Editors)
+
+**Clincal Anesthesia**
+
+J. B. Lippincott, Philadelphia, 1992; 1169-1183
+
+Buckley, FP ∙ Robinson, NB ∙ Simonowitz, DA ...
+
+**Anaesthesia in the morbidly obese. A comparison of anaesthetic and analgesic regimens for upper abdominal surgery**
+
+_Anaesthesia._ 1983; **38**:840-851
+
+Burge, JC ∙ Goon, A ∙ Choban, PS ...
+
+**Efficacy of hypocaloric total parenteral nutrition in hospitalized obese patients: a prospective, double-blind randomized trial. _J_**
+
+_Parenteral Enteral Nutr._ 1994; **18**:203-207
+
+Burns, SM ∙ Egloff, MB ∙ Ryan, B ...
+
+**Effect of body position on spontaneous respiratory effort and tidal volume in patients with obesity, abdominal distension and ascites**
+
+_Am J Crit Care._ 1994; **3**:102-106
+
+Burwell, CS ∙ Robin, ED ∙ Whaley, RD ...
+
+**External obesity associated with alveolar hypoventilation—a Pickwickian syndrome**
+
+_Am J Med._ 1956; **25**:815-820
+
+Carlsson, B ∙ Lindell, K ∙ Gabrielsson, B ...
+
+**Obese (_ob_) gene defects are rare in human obesity**
+
+_Obes Res._ 1997; **5**:30-35
+
+Cheymol, G
+
+**Clinical pharmacokinetics of drugs in obesity: an update**
+
+_Clin Pharmacokinet._ 1993; **25**:103-114
+
+Clayton, JK ∙ Anderson, JR ∙ NcNicol, GP
+
+**Preoperative prediction of postoperative deep vein thrombosis**
+
+_Br Med J._ 1976; **ii**:910-912
+
+Connolly, LA
+
+**Anesthetic management of obstructive sleep apnea patients**
+
+_J Clin Anesth._ 1991; **3**:461-469
+
+Cooper, JR ∙ Brodsky, JB
+
+**Anesthetic management of the morbidly obese patient**
+
+_Semin Anesth._ 1987; **6**:260-270
+
+Cork, RC ∙ Vaughan, RW ∙ Bentley, JB
+
+**General anesthesia for morbidly obese patients—an examination of postoperative outcomes**
+
+_Anesthesiology._ 1981; **54**:310-313
+
+Damia, G ∙ Mascheroni, D ∙ Croci, M ...
+
+**Perioperative changes in functional residual capacity in morbidly obese patients**
+
+_Br J Anaesth._ 1988; **60**:574-578
+
+Daniels, SR ∙ Morrison, JA ∙ Sprecher, DL ...
+
+**Association of body fat distribution and cardiovascular risk factors in children and adolescents**
+
+_Circulation._ 1999; **99**:541-545
+
+Dearlove, OR ∙ Dobson, A ∙ Super, M
+
+**Anaesthesia and the Práder–Willi syndrome**
+
+_Paediatr Anaesth._ 1998; **8**:267-271
+
+DeDivitiis, O ∙ Fazio, S ∙ Petitto, M ...
+
+**Obesity and cardiac function**
+
+_Circulation._ 1981; **64**:477-482
+
+De Simone, G ∙ Devereux, RB ∙ Mureddu, GF ...
+
+**Influence of obesity on left ventricular midwall mechanics in arterial hypertension**
+
+_Hypertension._ 1996; **28**:276-283
+
+De Witt Hamer, PC ∙ Tuinebreijer, WE
+
+**Preoperative weight gain in bariatric surgery**
+
+_Obes Surg._ 1998; **8**:300-301
+
+Dominguez-Cherit, G ∙ Gonzalez, R ∙ Borunda, A ...
+
+**Anesthesia for morbidly obese patients**
+
+_World J Surg._ 1998; **22**:969-973
+
+Douglas, N ∙ Polo, O
+
+**Pathogenesis of obstructive sleep apnoea/hypopnoea syndrome**
+
+_Lancet._ 1994; **344**:653-655
+
+Drenick, EJ ∙ Fisler, JS
+
+**Sudden cardiac arrest in morbidly obese surgical patients unexplained after autopsy**
+
+_Am J Surg._ 1988; **155**:720-726
+
+Duflou, J ∙ Virmani, R ∙ Rabin, I ...
+
+**Sudden death as a result of heart disease in morbid obesity**
+
+_Am Heart J._ 1995; **130**:306-313
+
+Dumont, L ∙ Mattys, M ∙ Mardirosoff, C ...
+
+**Changes on pulmonary mechanics during laparoscopic gastroplasty in morbidly obese patients**
+
+_Acta Anaesthesiol Scand._ 1997; **41**:408-413
+
+Eriksson, S ∙ Backman, L ∙ Ljungstrom, KG
+
+**The incidence of clinical postoperative thrombosis after gastric surgery for obesity during 16 years**
+
+_Obes Surg._ 1997; **7**:332-335
+
+Fasol, R ∙ Schindler, M ∙ Schumacher, B ...
+
+**The influence of obesity on perioperative morbidity: retrospective study of 502 aortocoronary bypass operations**
+
+_Thorac Cardiovasc Surg._ 1992; **40**:126-129
+
+Ferraro, S ∙ Perrone-Filardi, P ∙ Desiderio, A ...
+
+**Left ventricular systolic and diastolic function in severe obesity: a radionuclide study**
+
+_Cardiology._ 1996; **87**:347-353
+
+Fisher, A ∙ Waterhouse, TD ∙ Adams, AP
+
+**Obesity: its relation to anaesthesia**
+
+_Anaesthesia._ 1975; **30**:633-647
+
+Flegal, KM ∙ Carroll, MD ∙ Kuczmarski, RJ ...
+
+**Overweight and obesity in the United States: prevalence and trends, 1960–1994**
+
+_Int J Obes Relat Metab Disord._ 1998; **22**:39-47
+
+Foley, EF ∙ Benotti, PN ∙ Borlase, BC ...
+
+**Impact of gastric restrictive surgery on hypertension in the morbidly obese**
+
+_Am J Surg._ 1992; **163**:294-297
+
+Fox, GS ∙ Whalley, DG ∙ Bevan, DR
+
+**Anaesthesia for the morbidly obese**
+
+_Br J Anaesth._ 1981; **53**:811-816
+
+Freedman, DS ∙ Dietz, WH ∙ Srinivasan, SR ...
+
+**The relation of overweight to cardiovascular risk factors among children and adolescents: the Bogalusa Heart Study**
+
+_Pediatrics._ 1999; **103**:1175-1182
+
+Frink, EJ ∙ Malan, TP ∙ Brown, EA ...
+
+**Plasma inorganic fluoride levels with sevoflurane anesthesia in morbidly obese and nonobese patients**
+
+_Anesth Analg._ 1993; **76**:1333-1337
+
+Garfinkel, L
+
+**Overweight and cancer**
+
+_Ann Int Med._ 1985; **103**:1034-1036
+
+Garrison, RJ ∙ Castelli, WP
+
+**Weight and thirty-year mortality of men in the Framingham study**
+
+_Ann Int Med._ 1985; **103**:1006-1009
+
+Gelman, S ∙ Laws, HL ∙ Potzick, J ...
+
+**Thoracic epidural vs. balanced anesthesia in morbid obesity: an intraoperative and postoperative hemodynamic study**
+
+_Anesth Analg._ 1980; **59**:902-908
+
+Gilbert, TB ∙ Seneff, MG ∙ Becker, RB
+
+**Facilitation of internal jugular venous cannulation using an audio-guided Doppler ultrasound vascular access device: results from a prospective dual-center, randomized, crossover clinical study**
+
+_Crit Care Med._ 1995; **23**:60-65
+
+Gratz, I ∙ Afshar, M ∙ Kidwell, P ...
+
+**Doppler-guided cannulation of the internal jugular vein: a prospective randomized trial**
+
+_J Clin Monitor._ 1994; **10**:185-188
+
+Gunnell, DJ ∙ Frankel, SJ ∙ Nanchahal, K ...
+
+**Childhood obesity and adult cardiovascular mortality: a 57-y follow-up study based on the Boyd Orr cohort**
+
+_Am J Clin Nutr._ 1998; **67**:1111-1118
+
+Halaka, K ∙ Mustajoki, P ∙ Aittomaki, J ...
+
+**Effect of weight loss and body position on pulmonary function and gas exchange abnormalities in morbid obesity**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:343-346
+
+686
+
+Harris, T ∙ Cook, F ∙ Garrison, R ...
+
+**Body mass index and mortality among non-smoking older persons: the Framingham Heart Study**
+
+_J Am Med Assoc._ 1988; **259**:1520-1524
+
+Hedenstierna, G
+
+**Gas exchange during anaesthesia**
+
+_Br J Anaesth._ 1990; **64**:507-514
+
+Hodgkinson, R ∙ Husain, FJ
+
+**Obesity and the cephalad spread of analgesia following epidural administration of bupivacaine for cesarian section**
+
+_Anesth Analg._ 1980; **59**:89-92
+
+Hogan, QH ∙ Prost, R ∙ Kulier, A ...
+
+**Magnetic resonance imaging of cerebrospinal fluid volume and the influence of body habitus and abdominal pressure**
+
+_Anesthesiology._ 1996; **84**:1341-1349
+
+Holley, HS ∙ Milic-Emili, J ∙ Becklake, MR ...
+
+**Regional distribution of pulmonary ventilation and perfusion in obesity**
+
+_J Clin Invest._ 1967; **46**:475-481
+
+Hood, DD ∙ Dewan, DM
+
+**Anesthetic and obstetric outcome in morbidly obese parturients**
+
+_Anesthesiology._ 1993; **79**:1210-1218
+
+Hsieh, SD ∙ Yoshinaga, H
+
+**Abdominal fat distribution and coronary heart disease risk factors in men—waist/height ratio as a simple and useful predictor**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:585-589
+
+Hubert, HB ∙ Feinleib, M ∙ McNamara, PM ...
+
+**Obesity as an independent risk factor for cardiovascular disease: A 26-year follow-up of participants in the Framingham heart study**
+
+_Circulation._ 1983; **67**:968-977
+
+Hunter, JD ∙ Reid, C ∙ Noble, D
+
+**Anaesthetic management of the morbidly obese patient**
+
+_Hosp Med._ 1998; **59**:481-483
+
+Ireton-Jones, C ∙ Francis, C
+
+**Obesity: nutrition support practice and application to critical care**
+
+_Nutr Clin Pract._ 1995; **10**:144-149
+
+Javier Nieto, F
+
+**Childhood weight and growth rate as predictors of adult mortality**
+
+_Am J Epidemiol._ 1992; **136**:201-213
+
+Jeevanandam, M ∙ Young, DH ∙ Schiller, WR
+
+**Obesity and the metabolic response to severe multiple trauma in man**
+
+_J Clin Invest._ 1991; **87**:262-269
+
+Jeevanandam, M ∙ Ramias, L ∙ Schiller, WR
+
+**Altered plasma amino acid levels in obese traumatized man**
+
+_Metabolism._ 1991; **40**:385-390
+
+Jennum, P ∙ Sjol, A
+
+**Epidemiology of snoring and obstructive sleep apnoea in a Danish population age 30–60**
+
+_J Sleep Res._ 1992; **1**:240-244
+
+Jupiter, JB ∙ Ring, D ∙ Rosen, H
+
+**The complications and difficulties of management of nonunion in the severely obese**
+
+_J Orthopaed Trauma._ 1995; **9**:363-370
+
+Juvin, P ∙ Marmuse, JP ∙ Delerme, S ...
+
+**Post-operative course after conventional or laparoscopic gastroplasty in morbidly obese patients**
+
+_Eur J Anaesthesiol._ 1999; **16**:400-403
+
+Kaltman, AJ ∙ Goldring, RM
+
+**Role of circulatory congestion in the cardiorespiratory failure of obesity**
+
+_Am J Med._ 1976; **60**:645-655
+
+Kannel, WB ∙ Brand, N ∙ Skinner, JJ ...
+
+**The relation of adiposity to blood pressure and the development of hypertension: The Framingham study**
+
+_Ann Int Med._ 1867; **67**:48-59
+
+Kannel, WB ∙ LeBauer, JE ∙ Dawber, JR ...
+
+**Relation of body weight to development of coronary heart disease: the Framingham study**
+
+_Circulation._ 1967; **35**:734-744
+
+Kessler, R ∙ Chaouat, A ∙ Weitzenblum, E ...
+
+**Pulmonary hypertension in the obstructive sleep apnea syndrome: prevalence, cause and therapeutic consequences**
+
+_Eur Respir J._ 1996; **9**:787-794
+
+Knaus, WA ∙ Draper, EA ∙ Wagner, DP ...
+
+**APACHE II: a severity of disease classification system**
+
+_Crit Care Med._ 1985; **13**:818-828
+
+Knaus, WA ∙ Wagner, DP ∙ Draper, EA ...
+
+**The APACHE III prognostic system: risk prediction of hospital mortality for critically ill hospitalized adults**
+
+_Chest._ 1991; **100**:1619-1636
+
+Kochar, MS
+
+**Hypertension in obese patients**
+
+_Postgrad Med._ 1993; **93**:193-200
+
+Kral, G
+
+**Morbid obesity and related health risks (a review)**
+
+_Ann Int Med._ 1985; **103**:1043-1047
+
+Kushner, RF
+
+**Body weight and mortality**
+
+_Nutr Rev._ 1993; **51**:127-136
+
+Ladergaard-Pederson, MJ
+
+**Recovery from general anesthesia in obese patients**
+
+_Anesthesiology._ 1981; **55**:720
+
+Laks, L ∙ Krieger, J ∙ Podszus, T
+
+**Pulmonary hypertension in obstructive sleep apnea: multicenter study**
+
+_Am Rev Respir Dis._ 1992; **145**:865
+
+Lean, ME
+
+**Obesity and cardiovascular disease: the waisted years**
+
+_Br J Cardiol._ 1999; **6**:269-273
+
+Lee, JJ ∙ Larson, RH ∙ Buckley, JJ ...
+
+**Airway maintenance in the morbidly obese**
+
+_Anesth Rev._ 1980; **7**:33-36
+
+Luce, JM
+
+**Respiratory complications of obesity**
+
+_Chest._ 1980; **78**:626-631
+
+Makk, LJK ∙ McClave, DSA ∙ Creech, PW
+
+**Clinical application of the metabolic cart to the delivery of total parenteral nutrition**
+
+_Crit Care Med._ 1990; **18**:1320-1327
+
+Marik, P ∙ Varon, J
+
+**The obese patient in the ICU**
+
+_Chest._ 1998; **113**:492-498
+
+Manson, JE ∙ Colditz, GA ∙ Stampfer, MJ ...
+
+**A prospective study of obesity and risk of coronary heart disease in women**
+
+_New Engl J Med._ 1990; **322**:882-889
+
+Mayersohn, M ∙ Calkins, JM ∙ Perrier, DG ...
+
+**Thiopental kinetics in obese patients**
+
+_Anesthesiology._ 1981; **55**:178A
+
+Messerli, FH ∙ Sundgaard-Riise, K ∙ Reisen, E ...
+
+**Disparate cardiovascular effects of obesity and arterial hypertension**
+
+_Am J Med._ 1983; **74**:808-812
+
+Mikhail, N ∙ Golub, MS ∙ Tuck, ML
+
+**Obesity and hypertension**
+
+_Prog Cardiovasc Dis._ 1999; **42**:39-58
+
+Millman, RP ∙ Meyer, TJ ∙ Eveloff, SE
+
+**Sleep apnea in the morbidly obese**
+
+_Rhode Island Med._ 1992; **75**:483-486
+
+Murphy, PG
+
+**Obesity**
+
+Hemmings, Jr, HC ∙ Hopkins, PM (Editors)
+
+**Foundations of Anaesthesia. Basic and Clinical Sciences**
+
+Mosby, London, 2000; 703-711
+
+National Institutes of Health Consensus Development Conference Statement
+
+**Health implications of obesity**
+
+_Ann Int Med._ 1985; **103**:147-151
+
+Øberg, B ∙ Poulsen, TD
+
+**Obesity: an anaesthetic challenge**
+
+_Acta Anaesthesiol Scand._ 1996; **40**:191-200
+
+Partinen, M ∙ Guilleminault, C
+
+**Daytime sleepiness and vascular morbidity at seven-year follow-up in obstructive sleep apnea patients**
+
+_Chest._ 1990; **97**:27-32
+
+Pasulka, PS ∙ Bistrian, BR ∙ Benotti, PN
+
+**The risks of surgery in obese patients**
+
+_Ann Int Med._ 1986; **104**:540-546
+
+Paul, DR ∙ Hoyt, JL ∙ Boutros, AR
+
+**Cardiovascular and respiratory changes in response to change of posture in the very obese**
+
+_Anesthesiology._ 1976; **45**:73-78
+
+Pelosi, P ∙ Ravagnan, I ∙ Giurati, G ...
+
+**Positive end-expiratory pressure improves respiratory function in obese but not in normal subjects during anesthesia and paralysis**
+
+_Anesthesiology._ 1999; **91**:1221-1231
+
+Pelosi, P ∙ Croci, M ∙ Ravagnan, I ...
+
+**Total respiratory system, lung, and chest wall mechanics in sedated–paralyzed postoperative morbidly obese patients**
+
+_Chest._ 1996; **109**:144-151
+
+Pelosi, P ∙ Croci, M ∙ Ravgnan, I ...
+
+**The effect of body mass on lung volumes, respiratory mechanics, and gas exchange during general anesthesia**
+
+_Anesth Analg._ 1998; **87**:645-660
+
+Perlow, JH ∙ Morgan, MA
+
+**Massive maternal obesity and perioperative cesarean morbidity**
+
+_Am J Obstet Gynecol._ 1994; **70**:560-565
+
+Perry, AC ∙ Applegate, EB ∙ Allison, MD ...
+
+**Clinical predictability of the waist-to-hip ratio in assessment of cardiovascular disease risk factors in overweight, pre-menopausal women**
+
+_Am J Clin Nutr._ 1998; **68**:1022-1027
+
+Pitkänen, MT
+
+**Body mass and spread of spinal anesthesia with bupivacaine**
+
+_Anesth Analg._ 1987; **66**:127-131
+
+Raucoles-Aime, M ∙ Brimaud, D
+
+**Diabetes mellitus: implications for the anesthesiologist**
+
+_Curr Opin Anesth._ 1996; **9**:247-251
+
+Rawal, N ∙ Sjöstrand, U ∙ Christofferson, E ...
+
+**Comparison of intramuscular and epidural morphine for postoperative analgesia in the grossly obese. Influence on postoperative ambulation and pulmonary function**
+
+_Anesth Analg._ 1984; **63**:583-592
+
+Ray, C ∙ Sue, D ∙ Bray, G ...
+
+**Effects of obesity on respiratory function**
+
+_Am Rev Respir Dis._ 1983; **128**:501-506
+
+Reeder, BA ∙ Senthilselvan, A ∙ Despres, JP ...
+
+**The association of cardiovascular disease risk factors with abdominal obesity in Canada. Canadian Heart Health Surveys Research Group**
+
+_Can Med Assoc J._ 1997; **157**:S39-S45
+
+Rose, DK ∙ Cohen, MM ∙ Wigglesworth, DF ...
+
+**Critical respiratory events in the postanesthesia care unit: patient, surgical and anesthetic factors**
+
+_Anesthesiology._ 1994; **81**:410-418
+
+Salem, MR ∙ Dalal, FY ∙ Zygmunt, MP ...
+
+**Does PEEP improve intraoperative arterial oxygenation in grossly obese patients?**
+
+_Anesthesiology._ 1978; **48**:280-281
+
+Santesson, J
+
+**Oxygen transport and venous admixture in the extremely obese. Influence of anaesthesia and artificial ventilation with and without positive end-expiratory pressure**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:56-61
+
+Saunders, R
+
+**Binge eating in gastric bypass patients before surgery**
+
+_Obes Surgery._ 1999; **9**:72-76
+
+Schafer, H ∙ Ewig, S ∙ Hasper, E ...
+
+**Failure of CPAP therapy in obstructive sleep apnoea syndrome: predictive factors and treatment with bilevel-positive airway pressure**
+
+_Resp Med._ 1998; **92**:208-215
+
+Shenkman, Z ∙ Shir, Y ∙ Brodsky, JB
+
+**Perioperative management of the obese patient**
+
+_Br J Anaesth._ 1993; **70**:349-359
+
+Sjöström, LV
+
+**Mortality of severely obese subjects**
+
+_Am J Clin Nutr._ 1992; **55**:516S-523S
+
+Smith, HL ∙ Willius, FA
+
+**Adiposity of the heart**
+
+_Arch Int Med._ 1973; **52**:929-931
+
+Smith-Choban, P ∙ Weireter, LJ ∙ Maynes, C
+
+**Obesity and increased mortality in blunt trauma**
+
+_J Trauma._ 1991; **31**:1253-1257
+
+Snider, RD ∙ Kruse, JA ∙ Bander, JJ ...
+
+**Accuracy of estimated creatinine clearance in obese patients with stable renal function in the intensive care unit**
+
+_Pharmacotherapy._ 1995; **15**:747-753
+
+Sobal, J ∙ Stunkard, A
+
+**Socioeconomic status of obesity: a review of the literature**
+
+_Psychol Bull._ 1989; **105**:260-275
+
+Söderberg, M ∙ Thomson, D ∙ White, T
+
+**Respiration, circulation and anaesthetic management in obesity. Investigation before and after jejunoileal bypass**
+
+_Acta Anaesthesiol Scand._ 1977; **21**:55-61
+
+Strube, PJ ∙ Hulands, GH ∙ Halsey, MJ
+
+**Serum fluoride levels in morbidly obese patients: Enflurane compared with isoflurane anaesthesia**
+
+_Anaesthesia._ 1987; **42**:685-689
+
+Stunkard, AJ
+
+**Current views on obesity**
+
+_Am J Med._ 1996; **100**:230-235
+
+Taivainen, T ∙ Tuominen, M ∙ Rosenberg, PM
+
+**Influence of obesity on the spread of spinal analgesia after injection of plain 0.5% bupivacaine at the L 3–4 or L 4–5 interspace**
+
+_Br J Anaesth._ 1990; **64**:542-546
+
+Tosetti, C ∙ Corinaldesi, R ∙ Stanghellini, V ...
+
+**Gastric emptying of solids in morbid obesity**
+
+_Int J Obes Relat Metab Disord._ 1996; **20**:200-205
+
+Tsueda, K ∙ Debrand, M ∙ Zeok, SS ...
+
+**Obesity supine death syndrome: reports of two morbidly obese patients**
+
+_Anesth Analg._ 1979; **58**:345-347
+
+Valensi, P ∙ Thi, BN ∙ Lormeau, B ...
+
+**Cardiac autonomic function in obese patients**
+
+_Int J Obes Relat Metab Disord._ 1995; **19**:113-118
+
+VanDercar, DH ∙ Martinez, AP ∙ De Lisser, EA
+
+**Sleep apnea syndromes: a potential contraindication for patient-controlled analgesia**
+
+_Anesthesiology._ 1991; **74**:623-624
+
+Vaughan, RW
+
+**Anesthetic management of the morbidly obese patient**
+
+Brown, BR ∙ Blitt, CD ∙ Giesecke, AH ... (Editors)
+
+**Anesthesia and the Obese Patient**
+
+Davis, New York, 1982; 71-94
+
+Vaughan, RW ∙ Wise, L
+
+**Intraoperative arterial oxygenation in obese patients**
+
+_Ann Surg._ 1976; **184**:35-42
+
+Vaughan, RW ∙ Bauer, S ∙ Wise, L
+
+**Volume and pH of gastric juice in obese patients**
+
+_Anesthesiology._ 1975; **43**:686-689
+
+Vaughan, RW ∙ Bauer, S ∙ Wise, L
+
+**Effect of position (semirecumbent versus supine) on postoperative oxygenation in markedly obese subjects**
+
+_Anesth Analg._ 1976; **55**:37-41
+
+Vgontzas, AN ∙ Tan, TL ∙ Bixler, EO ...
+
+**Sleep apnea and sleep disruption in obese patients**
+
+_Arch Int Med._ 1994; **154**:1705-1711
+
+Vila, P ∙ Valles, J ∙ Canet, J ...
+
+**Acid aspiration prophylaxis in morbidly obese patients: famotidine vs. ranitidine**
+
+_Anaesthesia._ 1991; **46**:967-969
+
+Wallace, DH ∙ Currie, JM ∙ Gilstrap, LC ...
+
+**Indirect sonographic guidance for epidural anesthesia in obese pregnant patients**
+
+_Reg Anesth._ 1992; **17**:233-236
+
+Waltemath, CL ∙ Bergman, NA
+
+**Respiratory compliance in obese patients**
+
+_Anesthesiology._ 1974; **41**:84-85
+
+Warnes, CA ∙ Roberts, WC
+
+**The heart in massive (more than 300 pounds or 136 kilograms) obesity: analysis of 12 patients studied at necropsy**
+
+_Am J Cardiol._ 1984; **54**:1087-1091
+
+Wasan, KM ∙ Lopex-Berestein, G
+
+**The influence of serum lipoproteins on the pharmacokinetics and pharmacodynamics of lipophilic drugs and drug carriers**
+
+_Arch Med Res._ 1993; **24**:395-401
+
+Williamson, JA ∙ Webb, RK ∙ Szekely, S ...
+
+**The Australian Incident Monitoring Study: difficult intubation: an analysis of 2000 incident reports**
+
+_Anaesth Intensive Care._ 1993; **21**:602-607
+
+Wisen, O ∙ Hellstrom, PM
+
+**Gastrointestinal motility in obesity**
+
+_J Int Med._ 1995; **273**:411-418
+
+Young, T ∙ Palta, M ∙ Dempsey, J ...
+
+**The occurrence of sleep-disordered breathing among middle-aged adults**
+
+_New Engl J Med._ 1993; **328**:1230-1235
+
+Zacchi, P ∙ Mearin, F ∙ Humbert, P ...
+
+**Effect of obesity on gastroesophageal resistance to flow in man**
+
+_Dig Dis Sci._ 1991; **36**:1473-1480
+
+Zhang, Y ∙ Proenca, R ∙ Maffei, M ...
+
+**Positional cloning of the mouse _obese_ gene and its human homologue**
+
+_Nature._ 1994; **372**:425-432
+
+Uncited reference
+-----------------
+
+1.
+
+Buckley, FP
+
+**Anesthetizing the morbidly obese patient**
+
+_ASA Refresher Courses._ 1989; **243**:1-6
+
+2.
+
+Ellis, KJ ∙ Abrams, SA ∙ Wong, WW
+
+**Monitoring childhood obesity: assessment of the weight/height index**
+
+_Am J Epidemiol._ 1999; **150**:939-946
+
+3.
+
+Kimoff, RJ ∙ Cheongt, H ∙ Olha, AE ...
+
+**Mechanisms of apnea termination in obstructive sleep apnea. Role of chemoreceptor and mechanoreceptor stimuli**
+
+_Am J Respir Crit Care Med._ 1994; **149**:707-714
+
+4.
+
+Lam, AM ∙ Grace, DM ∙ Penny, F ...
+
+**Prophylactic intravenous cimetidine reduces the risk of acid aspiration in morbidly obese patients**
+
+_Anesthesiology._ 1983; **59**:A242
+
+5.
+
+Vaughan, RW ∙ Wise, L
+
+**Postoperative arterial blood gas measurement in obese patients: effects of position on gas exchange**
+
+_Ann Surg._ 1975; **182**:705-709

@@ -1,0 +1,33 @@
+# COVID-19 in Europe: the Italian lesson
+
+* * *
+
+Severe acute respiratory syndrome coronavirus 2 is rapidly spreading worldwide,[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630#bib1) and WHO declared the coronavirus disease 2019 (COVID-19) outbreak a pandemic on March 11, 2020.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630#bib2)
+
+The outbreak has hit Europe; as of March 20, 2020, Italy has the second-largest number of confirmed cases, after China. As elegantly presented by Andrea Remuzzi and Giuseppe Remuzzi,[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630#bib3) a rapid surge of cases is posing a serious threat to the Italian national health system because of the limited capacity of intensive care unit departments. The Italian Government introduced progressive mitigation measurements on March 9 and March 11, 2020, to drastically limit social interactions and prevent virus diffusion.[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630#bib4), [5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630#bib5) Projections in Remuzzi and Remuzzi's exponential model,[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630#bib2) which, according to data trends before March 8, predicted more than 30 000 cases by March 15, 2020. Real data from the Center for Systems Science and Engineering at Johns Hopkins University suggest a slight deviation from those predictions, with a recorded number of 24 747 cases by March 15, 2020, suggesting that measures introduced by March 11, 2020, began reducing the number of new cases within 3–4 days.
+
+All other European countries appear to be in a similar situation, with just a short time-lag of a couple of weeks ([figure](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630#fig1) ). We urge all countries to acknowledge the Italian lesson and to immediately adopt very restrictive measures to limit viral diffusion, ensure appropriate health-system response, and reduce mortality, which appears to be higher than previously estimated, with a crude case-fatality rate of almost 4%.[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630#bib6)
+
+Figure.
+-------
+
+[![Image 1: Number of confirmed cases in different European countries are plotted against time on the x-axis with 15 subplots; Italy and Spain have a steep increase in confirmed cases compared to other countries where the number of confirmed cases are relatively low](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fc25/7118630/6dd5aea3af97/gr1_lrg.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7118630_gr1_lrg.jpg)
+
+Epidemic curves for European countries, with estimated lag time from Italy's situation, as of March 15, 2020
+
+Green dots are for countries with more than 2 weeks of lag time from Italy; orange is for countries with 1–2 weeks of lag time; and red is for countries with 1 week or less of lag time. The Italian data curve is cut at 8000 cases to convey easier interpretability of lag times. Source: Center for Systems Science and Engineering, Johns Hopkins University.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630)Acknowledgments
+-----------------------------------------------------------------------
+
+We declare no competing interests.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118630)References
+------------------------------------------------------------------
+
+*   1.Bedford J, Enria D, Giesecke J. COVID-19: towards controlling of a pandemic. Lancet. 2020 doi: 10.1016/S0140-6736(20)30673-5. published online March 17. [[DOI](https://doi.org/10.1016/S0140-6736(20)30673-5)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7270596/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32197103/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=COVID-19:%20towards%20controlling%20of%20a%20pandemic&author=J%20Bedford&author=D%20Enria&author=J%20Giesecke&publication_year=2020&pmid=32197103&doi=10.1016/S0140-6736(20)30673-5&)]
+*   2.WHO Virtual press conference on COVID-19—11 March 2020. March 11, 2020. [https://www.who.int/docs/default-source/coronaviruse/transcripts/who-audio-emergencies-coronavirus-press-conference-full-and-final-11mar2020.pdf?sfvrsn=cb432bb3_2](https://www.who.int/docs/default-source/coronaviruse/transcripts/who-audio-emergencies-coronavirus-press-conference-full-and-final-11mar2020.pdf?sfvrsn=cb432bb3_2)
+*   3.Remuzzi A, Remuzzi G. COVID-19 and Italy: what next? Lancet. 2020 doi: 10.1016/S0140-6736(20)30627-9. published online March 13. [[DOI](https://doi.org/10.1016/S0140-6736(20)30627-9)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7102589/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32178769/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=COVID-19%20and%20Italy:%20what%20next?&author=A%20Remuzzi&author=G%20Remuzzi&publication_year=2020&pmid=32178769&doi=10.1016/S0140-6736(20)30627-9&)]
+*   4.Government of Italy Decree of the president of the Council of Ministers 9 March 2020. March 9, 2020. [https://www.gazzettaufficiale.it/eli/id/2020/03/09/20A01558/sg](https://www.gazzettaufficiale.it/eli/id/2020/03/09/20A01558/sg) (in Italian).
+*   5.Government of Italy Decree of the president of the Council of Ministers 11 March 2020. March 11, 2020. [https://www.gazzettaufficiale.it/eli/id/2020/03/11/20A01605/sg](https://www.gazzettaufficiale.it/eli/id/2020/03/11/20A01605/sg) (in Italian).
+*   6.Biondi-Zoccai G, Landoni G, Carnevale R, Cavarretta E, Sciarretta S, Frati G. SARS-CoV-2 and COVID-19: facing the pandemic together as citizens and cardiovascular practitioners. Minerva Cardioangiol. 2020 doi: 10.23736/S0026-4725.20.05250-0. published online March 9. [[DOI](https://doi.org/10.23736/S0026-4725.20.05250-0)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32150358/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Minerva%20Cardioangiol&title=SARS-CoV-2%20and%20COVID-19:%20facing%20the%20pandemic%20together%20as%20citizens%20and%20cardiovascular%20practitioners&author=G%20Biondi-Zoccai&author=G%20Landoni&author=R%20Carnevale&author=E%20Cavarretta&author=S%20Sciarretta&publication_year=2020&pmid=32150358&doi=10.23736/S0026-4725.20.05250-0&)]

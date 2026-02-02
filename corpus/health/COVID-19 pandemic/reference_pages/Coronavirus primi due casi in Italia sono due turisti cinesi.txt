@@ -1,0 +1,693 @@
+# Coronavirus, primi due casi in Italia: sono due turisti cinesi
+
+Coronavirus, primi due casi in Italia: sono due turisti cinesi - Corriere.it
+
+===============
+
+desktop
+
+includes2013/SSI/notification/global.json
+
+/includes2013/SSI/utility/ajax_ssi_loader.shtml
+
+[Sezioni](javascript:void(0);)
+
+*   [EDIZIONI LOCALI](javascript:void(0); "edlocali")
+*   [Corriere TV](https://video.corriere.it/ "corrieretv")
+*   [Archivio](http://archivio.corriere.it/ "Archivio")
+*   [Trovocasa](https://trovocasa.corriere.it/ "trovocasa")
+*   [trovolavoro](https://lavoro.corriere.it/ "trovolavoro")
+*   [Servizi](javascript:void(0); "servizi")
+*   [CERCA](javascript:void(0);)
+*    
+
+*   [Login](javascript:accediLinkPop();) [](javascript:void(0); "user")    
+
+[Profilo](https://abbonamenti.corriere.it/profilo-utente/)
+
+[Newsletter](https://www.corriere.it/newsletter/)[Abbonamento](https://abbonamenti.corriere.it/profilo-utente/subscriptions/)[Logout](javascript:lcom_logOut();)
+
+*   [BERGAMO](https://bergamo.corriere.it/ "BERGAMO")
+*   [BOLOGNA](https://corrieredibologna.corriere.it/ "BOLOGNA")
+*   [BRESCIA](https://brescia.corriere.it/ "BRESCIA")
+*   [FIRENZE](https://corrierefiorentino.corriere.it/firenze/ "FIRENZE")
+*   [MILANO](https://milano.corriere.it/ "MILANO")
+    *   [VIVIMILANO](https://vivimilano.corriere.it/ "VIVIMILANO")
+
+*   [ROMA](https://roma.corriere.it/ "ROMA")
+*   [MEZZOGIORNO](https://corrieredelmezzogiorno.corriere.it/)
+    *   [BARI](https://corrieredelmezzogiorno.corriere.it/bari/ "BARI")
+    *   [CASERTA](https://corrieredelmezzogiorno.corriere.it/caserta/ "CASERTA")
+    *   [CATANIA](https://corrieredelmezzogiorno.corriere.it/catania/ "CATANIA")
+    *   [FOGGIA](https://corrieredelmezzogiorno.corriere.it/foggia/ "FOGGIA")
+    *   [LECCE](https://corrieredelmezzogiorno.corriere.it/lecce/ "LECCE")
+    *   [NAPOLI](https://corrieredelmezzogiorno.corriere.it/napoli/ "NAPOLI")
+    *   [PALERMO](https://corrieredelmezzogiorno.corriere.it/palermo/ "PALERMO")
+    *   [SALERNO](https://corrieredelmezzogiorno.corriere.it/salerno/ "SALERNO")
+
+*   [TORINO](https://torino.corriere.it/ "TORINO")
+*   [VENETO](https://corrieredelveneto.corriere.it/ "VENETO")
+    *   [BELLUNO](https://corrieredelveneto.corriere.it/belluno/ "BELLUNO")
+    *   [PADOVA](https://corrieredelveneto.corriere.it/padova/ "PADOVA")
+    *   [ROVIGO](https://corrieredelveneto.corriere.it/rovigo/ "ROVIGO")
+    *   [TREVISO](https://corrieredelveneto.corriere.it/treviso/ "TREVISO")
+    *   [VENETO](https://corrieredelveneto.corriere.it/ "VENETO")
+    *   [VENEZIA](https://corrieredelveneto.corriere.it/venezia-mestre/ "VENEZIA")
+    *   [VERONA](https://corrieredelveneto.corriere.it/verona/ "VERONA")
+    *   [VICENZA](https://corrieredelveneto.corriere.it/vicenza/ "VICENZA")
+
+*   [Abbonamenti](https://www.corriere.it/abbonamenti/ "Abbonamenti")
+*   [Digital Edition](https://edicola-pdf.corriere.it/sfogliatore/index.html?group=CORRIEREFC#/sfoglio "Digital Edition")
+*   [Newsletter](https://www.corriere.it/newsletter/?intcmp=menu "Newsletter")
+*   [RCS ACADEMY](https://rcsacademy.corriere.it/?intcmp=Corriere.it-MenuCS_nd_150118_corriere_in_nd "RCS ACADEMY")
+*   [Cruciverba Corriere](https://www.corriere.it/cruciverba/ "Cruciverba Corriere")
+*   [Attiva le notifiche](https://abbonamenti.corriere.it/profilo-utente/?notifiche)
+*   [Dizionario](https://dizionari.corriere.it/ "Dizionario")
+*   [Trovocasa](https://trovocasa.corriere.it/ "Trovocasa")
+*   [Trovolavoro](https://lavoro.corriere.it/ "Trovolavoro")
+*   [Trovoaste](http://trovoaste.corriere.it/ "trovoaste")
+*   [Trovobandi](http://trovobandi.corriere.it/ "Trovobandi")
+*   [Corriere Store](https://store.corriere.it/ "Corriere Store")
+*   [Comuni](https://ilmiocomune.corriere.it/ "Comuni")
+*   [Lotterie e giochi](https://www.corriere.it/lotterie/ "Lotterie e giochi")
+*   [Meteo](https://meteo.corriere.it/ "Meteo")
+*   [FOTO ARCHIVIO](https://primapagina.corriere.it/it "Foto Archivio")
+*   [CODICI SCONTO](https://codicesconto.corriere.it/ "Codici Sconto")
+    *   [CODICI SCONTO ASOS](https://codicesconto.corriere.it/codice-sconto/asos "Codici Sconto Asos")
+    *   [CODICI SCONTO BOOKING](https://codicesconto.corriere.it/codice-sconto/booking "Codici Sconto Booking")
+    *   [CODICI SCONTO MEDIAWORLD](https://codicesconto.corriere.it/codice-sconto/mediaworld "Codici Sconto Mediaworld")
+    *   [CODICI SCONTO NIKE](https://codicesconto.corriere.it/codice-sconto/nike "Codici Sconto Nike")
+    *   [CODICI SCONTO NOTINO](https://codicesconto.corriere.it/codice-sconto/notino "Codici Sconto Notino")
+    *   [CODICI SCONTO UNIEURO](https://codicesconto.corriere.it/codice-sconto/unieuro "Codici Sconto Unieuro")
+
+*   [Buonpertutti](https://buonpertutti.corriere.it/ "Buonpertutti")
+*   [Necrologi](https://necrologi.corriere.it/ "Necrologi")
+*   [scrivi](https://www.corriere.it/scrivi/ "Scrivi")
+*   [Chi siamo](https://www.corriere.it/trust/codice_etico.shtml "Chi siamo")
+
+cerca _icon arrow mini_[nel sito](javascript:;)
+*   [nel sito](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "Sito")
+*   [in Corriere Viaggi](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "Viaggi")
+*   [nel Dizionario](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "Dizionario")
+
+- [x] - [x] - [x] - [x] - [x] - [x] 
+
+*   [Home](https://www.corriere.it/ "Home")
+     
+    *   [Opinioni](https://www.corriere.it/ "Opinioni")
+        *   [Le Firme](https://www.corriere.it/firme/ "Le Firme")
+        *   [Lettere al direttore](https://www.corriere.it/lettere-al-direttore/ "  Lettere al direttore ")
+        *   [Il caffè di Gramellini](https://www.corriere.it/caffe-gramellini/ "  Il caffè di Gramellini  ")
+        *   [Lo dico al Corriere](https://www.corriere.it/lodicoalcorriere/ " Lo dico al Corriere")
+        *   [![Image 1: A 24x24 small image, likely a logo, icon or avatar](https://images2.corriereobjects.it/methode_image/Cassetto%20Redazionale/Nazionale/Media/Fissi/menu/Logo-Italians.png?v=20151028102014) Italians di Beppe Severgnini](https://italians.corriere.it/ "         Italians di Beppe Severgnini      ")
+        *   [![Image 2: A 24x24 small image, likely a logo, icon or avatar](https://images2.corriereobjects.it/methode_image/Cassetto%20Redazionale/Nazionale/Media/Fissi/menu/Logo-Twitter.png?v=20151028102014)Il Twitter del direttore](https://www.corriere.it/opinioni/twitter-direttore-luciano-fontana/ "Il Twitter del direttore      ")
+        *   [Padiglione Italia](https://www.corriere.it/padiglione-italia-grasso/ "  Padiglione Italia      ")
+        *   [Ultimo banco di D’Avenia](https://www.corriere.it/alessandro-d-avenia-ultimo-banco/ "  Ultimo banco di D’Avenia")
+        *   [Letti da rifare di D'Avenia](https://www.corriere.it/alessandro-davenia-letti-da-rifare/ "  Letti da rifare di D'Avenia ")
+        *   [Facce nuove](https://www.corriere.it/facce-nuove-lepri/ " Facce nuove     ")
+
+    *   [Corriere Daily Podcast](http://www.corriere.it/podcast "Corriere Daily Podcast")
+        *   [L’ammazzacaffé di Gramellini](https://www.corriere.it/podcast/gramellini-lammazzacaffe " L’ammazzacaffé di Gramellini")
+        *   [Radio Italians di Severgnini](https://www.corriere.it/podcast/severgnini-radioitalians " Radio Italians di Severgnini")
+        *   [Mama non Mama, dialoghi sulla maternità](https://www.corriere.it/podcast/mama-non-mama/index.shtml " Mama non Mama, dialoghi sulla maternità")
+        *   [Vive! Eroine ribelli](https://www.corriere.it/podcast/vive " Vive! Eroine ribelli")
+
+    *   [Datablog](https://www.corriere.it/datablog/ "Datablog")
+    *   [English / Chinese](https://www.corriere.it/english "English / Chinese")
+        *   [Editorials (English version)](https://www.corriere.it/english/ " Editorials (English version)      ")
+        *   [Chinese (Chinese Version)](https://www.corriere.it/chinese/ "Chinese (Chinese Version)      ")
+
+    *   [![Image 3: A 83x20 small image, likely a logo, icon or avatar](https://images2.corriereobjects.it/methode_image/Cassetto%20Redazionale/Nazionale/Media/Fissi/menu/Logo-Reportime.png?v=20151028102014)](https://www.corriere.it/inchieste/reportime/)
+    *   [Video news](https://video.corriere.it/ "Video news")
+    *   [Inchieste](https://www.corriere.it/le-inchieste/ "Inchieste")
+    *   [DocuWeb](https://www.corriere.it/speciali/docuweb/ "DocuWeb")
+
+*   [Contenuti Premium](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "    Contenuti Premium")
+     
+    *   [Sfoglia il giornale](https://edicola-pdf.corriere.it/ "Sfoglia il giornale")
+    *   [Il Punto](https://www.corriere.it/il-punto/ "Il Punto")
+    *   [Firme di Corriere](https://www.corriere.it/firme/ "Firme di Corriere")
+    *   [Cosa sto leggendo](https://www.corriere.it/cosa-sto-leggendo/ "Cosa sto leggendo")
+
+*   [Politica](https://www.corriere.it/politica/ "    Politica")
+     
+    *   [Elezioni 2020](https://www.corriere.it/elezioni/ "Elezioni 2020")
+        *   [Regionali 2020](https://www.corriere.it/elezioni/risultati-regionali-2020 "Regionali 2020 ")
+        *   [Comunali 2020](https://www.corriere.it/elezioni-2020/risultati-comunali/ "Comunali 2020 ")
+        *   [Referendum 2020](https://www.corriere.it/elezioni/referendum-2020 "Referendum 2020 ")
+
+    *   [Elezioni 2019](https://www.corriere.it/elezioni-2019/ "Elezioni 2019")
+        *   [Europee 2019](https://www.corriere.it/elezioni-2019/europee-risultati/italia.shtml "Europee 2019")
+        *   [Regionali 2019](https://www.corriere.it/elezioni-2019/risultati-regionali/ "Regionali 2019")
+        *   [Comunali 2019](https://www.corriere.it/elezioni-2019/risultati-comunali/capoluoghi-di-provincia/ "Comunali 2019")
+
+    *   [Elezioni 2018](https://www.corriere.it/elezioni-2018/ "Elezioni 2018")
+    *   [Elezioni 2017](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "Elezioni 2017")
+        *   [Elezioni Regionali Sicilia 2017](https://www.corriere.it/politica/elezioni-regionali-sicilia-2017/ "Elezioni Regionali Sicilia 2017")
+        *   [Referendum per l’autonomia](https://www.corriere.it/referendum-autonomia-lombardia-e-veneto/ "Referendum per l’autonomia")
+        *   [Elezioni Comunali 2017](https://www.corriere.it/amministrative-2017/elezioni-comunali-giugno.shtml "Elezioni Comunali 2017")
+        *   [Primarie PD 2017](https://www.corriere.it/politica/primarie_pd/ "Primarie PD 2017")
+
+    *   [Elezioni 2016](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "Elezioni 2016")
+        *   [La Crisi di Governo](https://www.corriere.it/la-crisi-di-governo/ "La Crisi di Governo")
+        *   [Comunali 2016](https://www.corriere.it/amministrative-2016/elezioni-comunali-giugno.shtml/ "Comunali 2016")
+
+*   [Cronache](https://www.corriere.it/cronache/ "    Cronache")
+     
+    *   [Il crollo del ponte Morandi a Genova](https://www.corriere.it/speciale/interni/2018/ponte-morandi-genova-video-crollo-foto-vittime-atlantia-autostrade-ultime-notizie/ "Il crollo del ponte Morandi a Genova")
+    *   [Royal Wedding](https://www.corriere.it/cronache/harry-meghan-markle-matrimonio/ "Royal Wedding")
+    *   [Vajont, 50 anni dopo](https://www.corriere.it/cronache/speciali/2013/vajont/ "Vajont, 50 anni dopo")
+    *   [La strage del Mediterraneo](https://www.corriere.it/reportages/cronache/2016/migranti-morti-mediterraneo/ "La strage del Mediterraneo")
+
+*   [Esteri](https://www.corriere.it/esteri/ "    Esteri")
+     
+    *   [Elezioni USA 2020](https://www.corriere.it/esteri/elezioni-usa-2020/ "Elezioni USA 2020")
+    *   [100 giorni in Europa](https://www.corriere.it/elezioni-europee/100giorni/ "100 giorni in Europa")
+    *   [Elezioni Spagna 2019](https://www.corriere.it/esteri/elezioni-spagna-2019/risultati-voto/ "Elezioni Spagna 2019")
+    *   [Elezioni 2018](https://www.corriere.it/esteri/elezioni-usa-midterm-2018/ "Elezioni 2018")
+    *   [Elezioni 2017](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "Elezioni 2017")
+        *   [Germania 2017](https://www.corriere.it/esteri/elezioni-germania-2017/ "Germania 2017")
+        *   [Regno Unito 2017](https://www.corriere.it/esteri/elezioni-regno-unito-2017/ "Regno Unito 2017")
+        *   [Francia 2017](https://www.corriere.it/esteri/presidenziali-francia/ "Francia 2017")
+
+    *   [Elezioni 2016](https://www.corriere.it/elezioni-presidenziali-usa-2016/ "Elezioni 2016")
+
+*   [Economia](https://www.corriere.it/economia/ "Economia")
+     
+    *   [Finanza](https://www.corriere.it/economia/finanza/ "Finanza")
+        *   [Borse e fondi](https://borsa.corriere.it/ "Borse e fondi")
+
+    *   [Risparmio](https://www.corriere.it/economia/risparmio/ "Risparmio")
+        *   [Guide](https://www.corriere.it/economia/risparmio/guide/ "Guide")
+
+    *   [Tasse](https://www.corriere.it/economia/tasse/ "Tasse")
+        *   [Le vostre domande](https://www.corriere.it/pensioni-investimenti-risparmi-esperto-risponde/lettere/ "Le vostre domande")
+
+    *   [Consumi](https://www.corriere.it/economia/consumi/ "Consumi")
+    *   [Casa](https://www.corriere.it/economia/casa/ "Casa")
+        *   [Mutui](https://www.corriere.it/economia/mutui/ "Mutui")
+        *   [Affitti](https://www.corriere.it/economia/affitti/ "Affitti")
+
+    *   [Lavoro](https://www.corriere.it/economia/lavoro/ "Lavoro")
+        *   [La nuvola del lavoro](http://nuvola.corriere.it/ "La nuvola del lavoro")
+        *   [Guide](https://www.corriere.it/economia/lavoro/guide/ "Guide")
+
+    *   [Pensioni](https://www.corriere.it/economia/pensioni/ "Pensioni")
+    *   [Imprese](https://www.corriere.it/economia/aziende/ "Imprese")
+        *   [Family Business](https://www.corriere.it/economia/family-business/ "Family Business")
+        *   [Le storie](https://www.corriere.it/economia/aziende/le-storie/ "Le storie")
+        *   [Apri la tua impresa](https://www.corriere.it/economia/aziende/aprire-azienda/ "Apri la tua impresa")
+        *   [L’Economia del futuro](https://www.corriere.it/economia/economia-del-futuro/ "L’Economia del futuro")
+        *   [L’Italia genera futuro](https://www.corriere.it/economia/aziende/italia-genera-futuro-2020/ "L’Italia genera futuro")
+        *   [Innovazione](https://corriereinnovazione.corriere.it/ "Innovazione")
+        *   [L’Italia che investe](https://www.corriere.it/economia/aziende/italia-che-investe/ "L’Italia che investe")
+        *   [Biotech](https://www.corriere.it/economia/biotecnologie/ "Biotech")
+
+    *   [Moda](https://www.corriere.it/economia/moda-business/ "Moda")
+    *   [Calcolatori](https://www.corriere.it/economia/calcolatori/ "Calcolatori")
+    *   [Professionisti](https://www.corriere.it/economia/professionisti/ "Professionisti")
+    *   [Euractive](https://euractiv.it/ "Euractive")
+    *   [Nautica](https://www.corriere.it/economia/aziende/nautica/ "Nautica")
+
+*   [Sport](https://www.corriere.it/sport/ "Sport")
+     
+    *   [Europei](https://www.corriere.it/sport/calcio/europei/ "Europei")
+    *   [Le dirette](https://www.corriere.it/sport/risultati-live/ "Le dirette")
+    *   [Serie A](https://www.corriere.it/sport/calcio/serie-a "Serie A")
+        *   [Calendario e risultati](https://www.corriere.it/sport/calcio/serie-a/calendario-risultati/ "Calendario e risultati")
+        *   [Classifiche](https://www.corriere.it/sport/calcio/serie-a/classifica/ "Classifiche")
+        *   [Marcatori](https://www.corriere.it/sport/calcio/serie-a/marcatori/ "Marcatori")
+        *   [Albo d'oro](https://www.corriere.it/sport/calcio/serie-a/albo-d-oro/ "Albo d'oro")
+
+    *   [Serie B](https://www.corriere.it/sport/calcio/serie-b/calendario-risultati/ "Serie B")
+        *   [Calendario e risultati](https://www.corriere.it/sport/calcio/serie-b/calendario-risultati/ "Calendario e risultati")
+        *   [Play-Off Play-Out](https://www.corriere.it/sport/calcio/serie-b/play-off/ "Play-Off Play-Out")
+        *   [Classifiche](https://www.corriere.it/sport/calcio/serie-b/classifica/ "Classifiche")
+        *   [Marcatori](https://www.corriere.it/sport/calcio/serie-b/marcatori/ "Marcatori")
+
+    *   [Coppe](https://www.corriere.it/sport/calcio/coppe/ "Coppe")
+        *   [Champions League](https://www.corriere.it/sport/calcio/champions-league/calendario-risultati/ "Champions League")
+        *   [Europa League](https://www.corriere.it/sport/calcio/europa-league/calendario-risultati/ "Europa League")
+        *   [Coppa Italia](https://www.corriere.it/sport/calcio/coppa-italia/calendario-risultati/ "Coppa Italia")
+
+    *   [Mondiali Cortina 2021](https://www.corriere.it/sport/mondiali-sci-cortina-2021/ "Mondiali Cortina 2021")
+    *   [Nations League](https://www.corriere.it/sport/calcio/nations-league/calendario-risultati/ "Nations League")
+        *   [Calendario e risultati](https://www.corriere.it/sport/calcio/nations-league/calendario-risultati/ "Calendario e risultati")
+        *   [Le dirette](https://www.corriere.it/sport/risultati-live/ "Le dirette")
+        *   [Classifiche](https://www.corriere.it/sport/calcio/nations-league/classifica/ "Classifiche")
+
+    *   [Formula 1](https://www.corriere.it/sport/formula-1/ "Formula 1")
+        *   [Le Dirette](https://www.corriere.it/sport/risultati-live/ "Le Dirette")
+        *   [Calendario e Risultati](https://www.corriere.it/sport/motori/f1/calendario-risultati/ "Calendario e Risultati")
+        *   [Classifica](https://www.corriere.it/sport/motori/f1/classifiche/ "Classifica")
+
+    *   [Motomondiale](https://www.corriere.it/sport/motomondiale/ "Motomondiale")
+        *   [Le Dirette](https://www.corriere.it/sport/risultati-live/ "Le Dirette")
+        *   [Calendario e Risultati](https://www.corriere.it/sport/motori/motogp/calendario-risultati/ "Calendario e Risultati")
+        *   [Classifica](https://www.corriere.it/sport/motori/motogp/classifiche/ "Classifica")
+
+    *   [Altri Sport](https://www.corriere.it/sport// "Altri Sport")
+        *   [Rugby](https://mondovale.corriere.it/ "Rugby")
+        *   [Vela](https://girodiboa.corriere.it/ "Vela")
+        *   [Corri, nuota, pedala](https://www.corriere.it/sport/running-nuoto-bici/ "Corri, nuota, pedala")
+
+    *   [Video sport](https://video.corriere.it/sport/ "Video sport")
+
+*   [Cultura](https://www.corriere.it/cultura/ "Cultura")
+*   [La Lettura](https://www.corriere.it/la-lettura/ "La Lettura")
+     
+    *   [Visual Data](https://www.corriere.it/la-lettura/infografiche-visual-data/ "Visual Data")
+
+*   [Dataroom](https://www.corriere.it/dataroom-milena-gabanelli/ "Dataroom")
+*   [Futura](https://www.corriere.it/futura/ "Futura")
+*   [Buone Notizie](https://www.corriere.it/buone-notizie/ "Buone Notizie")
+     
+    *   [Civil Week Lab giugno 2020](https://www.corriere.it/buone-notizie/civil-week/2020/giugno/ "Civil Week Lab giugno 2020")
+    *   [Riciclo di classe](https://www.corriere.it/buone-notizie/riciclodiclasse/ "Riciclo di classe")
+
+*   [7 - Settimanale](https://www.corriere.it/sette/ "7 - Settimanale")
+*   [Scuola](https://www.corriere.it/scuola/index.shtml "Scuola")
+     
+    *   [Elementari](https://www.corriere.it/scuola/primaria/ "Elementari")
+    *   [Medie](https://www.corriere.it/scuola/medie/ "Medie")
+    *   [Superiori](https://www.corriere.it/scuola/secondaria/ "Superiori")
+    *   [Università](https://www.corriere.it/scuola/universita/ "Università")
+        *   [Test di Ammissione](https://www.corriere.it/scuola/universita/test-ammissione-preparazione-e-orientamento/ "Test di Ammissione")
+        *   [Simulatore Online](https://www.corriere.it/scuola/universita/test-ammissione-simulazione/ "Simulatore Online")
+
+    *   [Blog](https://scuoladivita.corriere.it/ "Blog")
+    *   [Speciale maturita’](https://www.corriere.it/scuola/maturita/ "Speciale maturita’")
+        *   [Maturita’ 2019](https://www.corriere.it/scuola/maturita/2019/ "Maturita’ 2019")
+        *   [Maturita’ 2018](https://www.corriere.it/scuola/maturita/2018/ "Maturita’ 2018")
+
+    *   [La parola della settimana](https://www.corriere.it/scuola/parola-settimana/ "La parola della settimana")
+
+*   [Spettacoli](https://www.corriere.it/spettacoli/ "Spettacoli")
+     
+    *   [Cinema & Serie TV](https://www.corriere.it/spettacoli/cinema-serie-tv/ "Cinema & Serie TV")
+    *   [Festival di Cannes](https://www.corriere.it/spettacoli/cinema-serie-tv/festival-di-cannes/ "Festival di Cannes")
+        *   [Edizione 2021](https://www.corriere.it/spettacoli/cinema-serie-tv/festival-di-cannes/ "Edizione 2021")
+        *   [Edizione 2019](https://www.corriere.it/spettacoli/festival-di-cannes/2019/ "Edizione 2019")
+        *   [Edizione 2018](https://www.corriere.it/spettacoli/festival-di-cannes/2018/ "Edizione 2018")
+
+    *   [Oscar 2021](https://www.corriere.it/spettacoli/oscar/ "Oscar 2021")
+        *   [Edizione 2020](https://www.corriere.it/spettacoli/oscar/2020/ "Edizione 2020")
+        *   [Edizione 2019](https://www.corriere.it/spettacoli/oscar/2019/ "Edizione 2019")
+        *   [Edizione 2018](https://www.corriere.it/spettacoli/oscar/2018/ "Edizione 2018")
+        *   [Edizione 2017](https://www.corriere.it/spettacoli/oscar/2017/ "Edizione 2017")
+
+    *   [Festival di Venezia](https://www.corriere.it/spettacoli/mostra-del-cinema-venezia/ "Festival di Venezia")
+        *   [Edizione 2019](https://www.corriere.it/spettacoli/mostra-del-cinema-venezia/2019/ "Edizione 2019")
+        *   [Edizione 2018](https://www.corriere.it/spettacoli/mostra-del-cinema-venezia/2018/ "Edizione 2018")
+        *   [Edizione 2017](https://www.corriere.it/spettacoli/mostra-del-cinema-venezia/2017/ "Edizione 2017")
+
+    *   [Festival di Sanremo 2021](https://www.corriere.it/spettacoli/festival-sanremo/ "Festival di Sanremo 2021")
+        *   [Edizione 2020](https://www.corriere.it/spettacoli/festival-sanremo/2020/ "Edizione 2020")
+        *   [Edizione 2019](https://www.corriere.it/spettacoli/festival-sanremo/2019/ "Edizione 2019")
+        *   [Edizione 2018](https://www.corriere.it/spettacoli/festival-sanremo/2018/ "Edizione 2018")
+        *   [Edizione 2017](https://www.corriere.it/spettacoli/festival-sanremo/2017/ "Edizione 2017")
+        *   [Edizione 2016](https://www.corriere.it/spettacoli/festival-sanremo/2016/ "Edizione 2016")
+
+    *   [Marilyn, il racconto del cinema](https://marilyn.corriere.it/ "Marilyn, il racconto del cinema")
+
+*   [Cinema & Serie TV](https://www.corriere.it/spettacoli/cinema-serie-tv/ "Cinema & Serie TV")
+*   [Salute](https://www.corriere.it/salute/ "Salute")
+     
+    *   [Il tempo della salute](https://iltempodellasalute.it/ "Il tempo della salute")
+    *   [Cardiologia](https://www.corriere.it/salute/cardiologia/ "Cardiologia")
+    *   [Diabete](https://www.corriere.it/salute/diabete/ "Diabete")
+        *   [La dolce vita](https://www.corriere.it/salute/nutrizione/ricette/ "La dolce vita")
+
+    *   [Depressione](https://www.corriere.it/salute/depressione/ "Depressione")
+    *   [Dermatologia](https://www.corriere.it/salute/dermatologia/ "Dermatologia")
+        *   [Speciale Psoriasi](https://www.corriere.it/salute/speciali/2014/psoriasi/ "Speciale Psoriasi")
+
+    *   [Disabilità](https://www.corriere.it/salute/disabilita/ "Disabilità")
+        *   [Blog InVisibili](https://invisibili.corriere.it/ "Blog InVisibili")
+
+    *   [e-health](https://www.corriere.it/salute/ehealth/ "e-health")
+    *   [Malattie Infettive](https://www.corriere.it/salute/malattie_infettive/ "Malattie Infettive")
+        *   [Speciale influenza](https://www.corriere.it/salute/speciali/2014/influenza/ "Speciale influenza")
+
+    *   [Malattie Rare](https://www.corriere.it/salute/malattie-rare/ "Malattie Rare")
+    *   [Neuroscienze](https://www.corriere.it/salute/neuroscienze/ "Neuroscienze")
+        *   [Speciale Sonno](https://www.corriere.it/salute/speciali/2014/sonno/ "Speciale Sonno")
+
+    *   [Nutrizione](https://www.corriere.it/salute/nutrizione/ "Nutrizione")
+        *   [Ricette della salute](https://www.corriere.it/salute/nutrizione/ricette/ "Ricette della salute")
+        *   [Alimentazione sana](https://www.corriere.it/salute/pdf/lineeguida.pdf "Alimentazione sana")
+        *   [Come conservare i cibi](https://www.corriere.it/salute/nutrizione/alimenti_guida_consumo_8bc811fc-2b02-11dd-9793-00144f02aabc.shtml "Come conservare i cibi")
+
+    *   [Ossa e Muscoli](https://www.corriere.it/salute/muscoli-ossa-articolazioni/ "Ossa e Muscoli")
+    *   [Pediatria](https://www.corriere.it/salute/pediatria/ "Pediatria")
+        *   [I video del Pronto soccorso](https://www.corriere.it/salute/pediatria/12_novembre_22/multimedia_pronto-soccorso-pediatria_4af17134-34d8-11e2-a1ce-d046fd6b383d.shtml "I video del Pronto soccorso")
+        *   [Blog Dubbi di mamma e papà](https://bambini.corriere.it/ "Blog Dubbi di mamma e papà")
+
+    *   [Cannabis](https://www.corriere.it/salute/cannabis/ "Cannabis")
+    *   [Reumatologia](https://www.corriere.it/salute/reumatologia/ "Reumatologia")
+        *   [Che cosa sono i reumatismi](https://www.corriere.it/salute/reumatologia/malattie_reumatiche_guida_14fc93f0-28a9-11dd-97ea-00144f02aabc.shtml "Che cosa sono i reumatismi")
+        *   [I centri di cura in Italia](https://www.corriere.it/salute/reumatologia/centri_cura_6bd3d9b4-28d0-11dd-97ea-00144f02aabc.shtml "I centri di cura in Italia")
+
+    *   [Sportello cancro](https://www.corriere.it/salute/sportello_cancro/ "Sportello cancro")
+    *   [L’esperto risponde](https://www.corriere.it/salute/forum-salute/ "L’esperto risponde")
+    *   [Esami del sangue](https://www.corriere.it/salute/esami-sangue/index.shtml "Esami del sangue")
+    *   [I video di salute](https://video.corriere.it/salute/ "I video di salute")
+    *   [Webapp](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "Webapp")
+        *   [TUMORI](https://www.corriere.it/salute/sportello_cancro/webapp/ "TUMORI")
+        *   [CUORE](https://www.corriere.it/salute/cardiologia/webapp/ "CUORE")
+
+    *   [Eventi](https://www.corriere.it/salute/eventi/ "Eventi")
+
+*   [Scienze](https://www.corriere.it/scienze_e_tecnologie/ "Scienze")
+     
+    *   [Ambiente](https://www.corriere.it/ambiente/ "Ambiente")
+    *   [Forum](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "Forum")
+        *   [Terra, Fuoco, Aria, Acqua](https://forum.corriere.it/ambiente_e_clima/ "Terra, Fuoco, Aria, Acqua")
+        *   [Animali e dintorni](https://forum.corriere.it/animali_e_dintorni/ "Animali e dintorni")
+        *   [Fotovoltaico ed eolico](https://forum.corriere.it/fotovoltaico-ed-eolico/ "Fotovoltaico ed eolico")
+
+*   [Animali](https://www.corriere.it/animali/ "Animali")
+     
+    *   [Cani, gatti & co.](https://www.corriere.it/animali/curare-animali-domestici-cani-gatti-co/ "Cani, gatti & co.")
+    *   [Amici da salvare](https://www.corriere.it/animali/adozioni-animali/ "Amici da salvare")
+    *   [Animal minds](https://video.corriere.it/animali/animal-minds-angelo-vaira/ "Animal minds")
+    *   [Il veterinario risponde](http://forum.corriere.it/il_veterinario_risponde/ "Il veterinario risponde")
+    *   [Io e Milo](https://www.corriere.it/animali/io-e-milo/ "Io e Milo")
+    *   [Bonnie & Co.](https://www.corriere.it/animali/bonnie-e-co/ "Bonnie & Co.")
+
+*   [Innovazione](https://corriereinnovazione.corriere.it/ "Innovazione")
+*   [Tecnologia](https://www.corriere.it/tecnologia/ "Tecnologia")
+     
+    *   [CampBus](https://campbus.corriere.it/ "CampBus")
+    *   [La scelta giusta](https://acquisti.corriere.it/ "La scelta giusta")
+    *   [Le domande che facciamo a Google](https://www.corriere.it/tecnologia/domande-google/ "Le domande che facciamo a Google")
+    *   [Mobile World Congress](https://www.corriere.it/tecnologia/mobile-world-congress/ "Mobile World Congress")
+    *   [Video tecnologia](https://video.corriere.it/tecnologia/ "Video tecnologia")
+    *   [App & Soft](https://www.corriere.it/tecnologia/app-software/ "App & Soft")
+    *   [Videogiochi](https://www.corriere.it/tecnologia/videogiochi/ "Videogiochi")
+    *   [Guide digitali](https://www.corriere.it/tecnologia/provati-per-voi/ "Guide digitali")
+    *   [Serie tv](https://www.corriere.it/tecnologia/serie-tv/ "Serie tv")
+    *   [Guide](https://www.corriere.it/tecnologia/guide/ "Guide")
+    *   [Archivio](https://www.corriere.it/tecnologia/archivio/ "Archivio")
+    *   [I Blog](https://www.corriere.it/tecnologia/blog/ "I Blog")
+        *   [Vita digitale](https://vitadigitale.corriere.it/ "Vita digitale")
+        *   [Mal di tech](https://malditech.corriere.it/ "Mal di tech")
+        *   [6 gradi](https://seigradi.corriere.it/ "6 gradi")
+        *   [eStory](https://estory.corriere.it/ "eStory")
+        *   [Hei Book](https://ehibook.corriere.it/ "Hei Book")
+        *   [Visioni Future](https://visionifuture.corriere.it/ "Visioni Future")
+        *   [Sentimeter](https://sentimeter.corriere.it/ "Sentimeter")
+        *   [L'Ora Legale](https://oralegale.corriere.it/ "L'Ora Legale")
+        *   [Eliza](https://eliza.corriere.it/ "Eliza")
+        *   [Silicon Valley](https://siliconvalley.corriere.it/ "Silicon Valley")
+        *   [Piazza Digitale](https://piazzadigitale.corriere.it/ "Piazza Digitale")
+
+*   [Motori](https://motori.corriere.it/ "Motori")
+     
+    *   [Video motori](https://video.corriere.it/motori/ "Video motori")
+    *   [Speciale Ibrido](https://motori.corriere.it/ibrido/ "Speciale Ibrido")
+    *   [Salone di Francoforte](https://motori.corriere.it/salone-di-francoforte/ "Salone di Francoforte")
+    *   [Salone di Ginevra](https://motori.corriere.it/ "Salone di Ginevra")
+        *   [2018](https://motori.corriere.it/motori/salone-di-ginevra/2018/ "2018")
+        *   [2017](https://motori.corriere.it/motori/salone-di-ginevra/2017/ "2017")
+
+    *   [Salone di Parigi 2018](https://motori.corriere.it/motori/salone-di-parigi/ "Salone di Parigi 2018")
+    *   [Speciale Guido con un cane](https://motori.corriere.it/speciali/2014/guido-con-un-cane/ "Speciale Guido con un cane")
+    *   [Prove](https://motori.corriere.it/prove_strada/ "Prove")
+    *   [Moto](https://motori.corriere.it/dueruote/ "Moto")
+    *   [Tecnologia](https://motori.corriere.it/tecnologia/ "Tecnologia")
+    *   [Auto d'epoca](https://motori.corriere.it/auto_epoca/ "Auto d'epoca")
+    *   [Anteprima](https://motori.corriere.it/anteprime/ "Anteprima")
+    *   [Lifestyle](https://motori.corriere.it/lifestyle/ "Lifestyle")
+    *   [Attualità](https://www.corriere.it/motori/attualita/ "Attualità")
+    *   [Blog Heavy Rider](https://heavyrider.corriere.it/ "Blog Heavy Rider")
+    *   [Speciale Le vie dello sport](https://motori.corriere.it/speciali/2014/le-vie-dello-sport/ "Speciale Le vie dello sport")
+
+*   [Viaggi](https://viaggi.corriere.it/ "Viaggi")
+     
+    *   [IN VIAGGIO CON CORRIERE](https://www.doveclub.it/in-viaggio-corriere-della-sera/ "IN VIAGGIO CON CORRIERE")
+
+*   [Living](https://living.corriere.it/?intcmp=tablinkcorriere_link_081013_corriere_in "Living")
+*   [Eventi](https://www.corriere.it/cultura/eventi/ "Eventi")
+     
+    *   [Podcast Day](https://www.corriere.it/milano-podcast-day/ "Podcast Day")
+    *   [Design](https://www.corriere.it/design/ "Design")
+    *   [OROLOGI - Lo Speciale](https://www.corriere.it/orologi/ "OROLOGI  - Lo Speciale")
+    *   [IL BELLO DELL'ITALIA](https://www.corriere.it/bello-italia/ "IL BELLO DELL'ITALIA")
+
+*   [COOk](https://www.corriere.it/cook/ "COOk")
+     
+    *   [NEWS](https://www.corriere.it/cook/news/ "NEWS")
+        *   [INCHIESTE](https://www.corriere.it/cook/news/inchieste/ "INCHIESTE")
+        *   [PERSONAGGI](https://www.corriere.it/cook/news/personaggi/ "PERSONAGGI")
+
+    *   [RICETTE](https://www.corriere.it/cook/ricette/ "RICETTE")
+    *   [WINE & COCKTAILS](https://www.corriere.it/cook/wine-cocktail/ "WINE & COCKTAILS ")
+        *   [BARFYLY](https://www.corriere.it/cook/wine-cocktail/blog-barfly/ "BARFYLY")
+        *   [DIVINI](https://www.corriere.it/cook/wine-cocktail/blog-divini/ "DIVINI")
+        *   [SCUOLA DI VINO](https://www.corriere.it/cook/wine-cocktail/scuola-di-vino/ "SCUOLA DI VINO")
+        *   [SCUOLA DI COCKTAIL](https://www.corriere.it/cook/wine-cocktail/scuola-di-cocktail/ "SCUOLA DI COCKTAIL")
+        *   [WINE STORIES](https://www.corriere.it/cook/wine-cocktail/wine-stories/ "WINE STORIES")
+
+    *   [EVENTI](https://www.corriere.it/cook/eventi/ "EVENTI")
+    *   [LOCALI](https://www.corriere.it/cook/locali/ "LOCALI")
+    *   [VIDEO](https://video.corriere.it/cucina/ "VIDEO")
+    *   [CIBO A REGOLA D'ARTE](https://cucina.corriere.it/ciboaregoladarte/ "CIBO A REGOLA D'ARTE")
+
+*   [IoDonna](https://www.iodonna.it/?utm_source=corriere&utm_medium=menu&utm_campaign=corriere_tab&intcmp=iod_hpcor_up "IoDonna")
+*   [Style](https://style.corriere.it/?utm_source=corriere&utm_medium=menu&utm_campaign=corriere_tab&intcmp=iod_hpcor_up "Style")
+*   [27Ora](https://27esimaora.corriere.it/ "27Ora")
+     
+    *   [Il Tempo delle Donne 2025](https://eventi.corriere.it/tempo-delle-donne/ "Il Tempo delle Donne 2025")
+    *   [Extramamme](https://27esimaora.corriere.it/il-tempo-delle-donne/ "Extramamme")
+    *   [La FELICITÀ. Adesso](https://27esimaora.corriere.it/come-essere-felici/ "La FELICITÀ. Adesso")
+    *   [UOMINI – I segni del cambiamento](https://www.corriere.it/cronache/uomini-cambiamento/ "UOMINI – I segni del cambiamento")
+
+*   [Moda](https://www.corriere.it/moda/ "Moda")
+     
+    *   [Beauty](https://www.corriere.it/moda/beauty/ "Beauty")
+    *   [Moda & Business](https://www.corriere.it/moda/business/ "Moda & Business")
+    *   [Sfilate donna](https://www.corriere.it/moda/sfilate/donna/ "Sfilate donna")
+    *   [Sfilate uomo](https://www.corriere.it/moda/sfilate/uomo/ "Sfilate uomo")
+
+*   [Pianeta2021](https://www.corriere.it/pianeta2021/ "    Pianeta2021")
+*   [SOLFERINO LIBRI](https://www.corriere.it/solferinolibri/ "    SOLFERINO LIBRI")
+*   [QUIMAMME](https://www.quimamme.it/ "    QUIMAMME")
+
+*   [News e ultime notizie oggi da Italia e Mondo](https://www.corriere.it/ "Corriere della Sera.it")
+-------------------------------------------------------------------------------------------------
+
+/
+*   [cronache](https://www.corriere.it/cronache/ "cronache")
+--------------------------------------------------------
+
+*   Stampa
+*   Stampa senza immagine
+*   Chiudi
+
+###### Civitavecchia
+
+30 gennaio 2020 - 11:55
+
+Coronavirus, primi due casi in Italia «Sono due cinesi in vacanza a Roma» [Sono arrivati a Milano il 23 gennaio](https://milano.corriere.it/notizie/cronaca/20_gennaio_31/coronavirus-italia-visita-milano-2-turisti-cinesi-ricoverati-roma-067eec18-43f1-11ea-b4ca-26f0f6d5d911.shtml)
+=======================================================================================================================================================================================================================================================================================
+
+I due sono all’ospedale Spallanzani «in buone condizioni di salute». Erano in Italia da otto giorni: arrivati a Milano il 23 gennaio e dopo alcune tappe a Roma. Sospesi i voli da e per la Cina. Cessato allarme sulla nave di Civitavecchia. L’Oms: allarme globale
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### di Chiara Severgnini e Redazione Online
+
+[![Image 4: A 50x50 small image, likely a logo, icon or avatar](https://images2.corriereobjects.it/includes2013/images/firme/schede/placeholder.gif)di Chiara Severgnini e Redazione Online](javascript:void(0))
+
+[A-](javascript:void(0) "Diminuisci Font")[A+](javascript:void(0) "Aumenta Font")
+
+![Image 5: Coronavirus, primi due casi in Italia «Sono due cinesi in vacanza a Roma» Sono arrivati a Milano il 23 gennaio](https://images2.corriereobjects.it/methode_image/2020/01/30/Interni/Foto%20Interni%20-%20Trattate/14526508-k5oH-U31601641575055DkG-656x492@Corriere-Web-Sezioni.jpg?v=20200130224515)
+
+shadow
+
+[](javascript:void(0))
+
+[](javascript:void(0);)
+
+[](javascript:void(0);)
+
+[](javascript:void(0);)
+
+[](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml# "Stampa questo articolo")
+
+ Stampa 
+
+[](javascript:void(0);)
+
+ Email 
+
+Primi due casi accertati di coronavirus anche in Italia. Lo ha annunciato nella serata di giovedì il presidente del consiglio Giuseppe Conte nel corso di una conferenza stampa. Si tratta di due turisti cinesi, già ricoverati in isolamento all’ospedale Spallanzani della Capitale: sono definiti «in buone condizioni di salute». Il governo Conte, intanto, ha [proclamato l’emergenza sanitaria nazionale](https://www.corriere.it/cronache/20_gennaio_31/coronavirus-italia-stato-di-emergenza-news-e8c205c2-4402-11ea-b4ca-26f0f6d5d911.shtml)per sei mesi e [ha deciso di sospendere i voli aerei](https://www.corriere.it/cronache/20_gennaio_31/virus-primi-due-casi-italia-due-cinesi-marito-moglie-italia-dieci-giorni-e365df1c-43b3-11ea-bdc8-faf1f56f19b7.shtml) da e per la Cina. [Qui](https://www.corriere.it/cronache/20_gennaio_31/coronavirus-italia-stato-di-emergenza-news-e8c205c2-4402-11ea-b4ca-26f0f6d5d911.shtml)tutti gli aggiornamenti nell’articolo con gli ultimi sviluppi.
+
+[](https://video.corriere.it/virus-l-infettivologo-galli-letale-ecco-numeri-veri-coronavirus/1709c38a-4416-11ea-b4ca-26f0f6d5d911)
+
+##### «In Italia da giorni»
+
+I [due turisti sono stati soccorsi nel Grand Hotel Palatino di via Cavour, a Roma](https://video.corriere.it/coronavirus-roma-hotel-palatino-bocche-cucite-po-paura/eb3301d8-43b9-11ea-bdc8-faf1f56f19b7). Si trovavano in Italia dal 23 gennaio. Le stanze in cui hanno alloggiato marito e moglie sono state sigillate per consentire alla Asl di effettuare la decontaminazione. La coppia è originaria della provincia di Wuhan. Marito e moglie, 67 e 66 anni, sono arrivati a Roma dopo un tour di altre città italiane. I due si sono sentiti male giovedì e, visti i sintomi, sono stati presi in carico dal personale del 118 e ricoverati allo Spallanzani. [Qui](https://www.corriere.it/cronache/20_gennaio_31/virus-primi-due-casi-italia-due-cinesi-marito-moglie-italia-dieci-giorni-e365df1c-43b3-11ea-bdc8-faf1f56f19b7.shtml)tutti i dettagli nell’articolo a cura della redazione di Roma del Corriere.
+
+[](https://video.corriere.it/coronavirus-roma-hotel-palatino-bocche-cucite-po-paura/eb3301d8-43b9-11ea-bdc8-faf1f56f19b7)
+
+##### Conte: «Situazione sotto controllo»
+
+«Come sapete eravamo già vigili, molto attenti. Non ci siamo fatti trovare impreparati», ha detto il presidente del Consiglio Conte parlando dei due casi di coronavirus accertati nel nostro Paese. «Possiamo tranquillizzare tutti i cittadini, la situazione è sotto controllo», ha aggiunto Conte. «Ci aspettavamo dei casi anche in Italia» ha detto in conferenza stampa il ministro della salute Roberto Speranza. «La situazione è seria ma non bisogna fare allarmismi, è tutto totalmente sotto controllo» ha aggiunto.
+
+[](https://video.corriere.it/cronaca/virus-cinese-conte-in-italia-primi-due-casi-accertati/ed76f2d6-43a7-11ea-bdc8-faf1f56f19b7)
+
+##### Oms: emergenza sanitaria globale
+
+L’Oms (organizzazione mondiale della sanità) ha dichiarato l’emergenza sanitaria «globale». «La Cina — ha detto il direttore generale dell’Oms Tedros Adhanom Ghebreyesus — ha preso straordinarie misure per fare fronte all’emergenza del virus 2019-nCoV, ha isolato il virus, lo ha sequenziato e ha condiviso i dati con tutti. Dobbiamo ringraziare tutti coloro che hanno lavorato ininterrottamente per tutto questo tempo». Per l’Oms, però, non è possibile immaginare quanto grande sarà questa emergenza e quindi bisogna essere preparati ad affrontarla. Da qui la decisione di dichiarare l’emergenza internazionale.
+
+[](https://video.corriere.it/esteri/coronavirus-cina-numeri-dicono-che-per-ora-non-nuova-peste/5d5f5b30-4374-11ea-bdc8-faf1f56f19b7)
+
+Lo stato di emergenza prevede che l’Oms formuli «raccomandazioni temporanee. Si tratta di misure non vincolanti ma praticamente e politicamente significative che possono riguardare viaggi, commercio, quarantena, screening, cure. [Qui](https://www.corriere.it/salute/20_gennaio_31/coronavirus-l-oms-emergenza-sanitaria-mondiale-cosa-vuol-dire-cosa-cambia-bfd4a3de-4409-11ea-b4ca-26f0f6d5d911.shtml)tutti i dettagli sulla decisione dell’Oms: cosa implica e cosa cambia.
+
+##### Il caso della nave da crociera
+
+Ventiquattro ore di preoccupazione, ma nessuna conseguenza, per le 7mila persone che sono rimaste bloccate al porto di Civitavecchia a bordo della [Costa Smeralda, nave della Costa Crociere](https://roma.corriere.it/notizie/cronaca/20_gennaio_30/virus-cina-paura-due-casi-sospetti-roma-turisti-cinesi-ricoverati-all-istituto-spallanzani-607f1282-432f-11ea-bdc8-faf1f56f19b7.shtml), per un caso sospetto di coronavirus. Nella tarda mattinata di giovedì, due persone sono state messe in isolamento nell’ospedale di bordo: si trattava di una coppia proveniente da Macao. La donna, 54 anni, presentava febbre e lievi sintomi influenzali. Sia lei che il compagno (che non presentava sintomi) sono stati messi subito in isolamento. Sulla nave sono arrivati i medici dell’Istituto nazionale per le malattie infettive «Spallanzani» di Roma, che hanno sottoposto la coppia alle analisi. Per avere i risultati, però, è stato necessario attendere diverse ore e, intanto, la nave è stata bloccata in porto. Lo sbarco è stato autorizzato dalla Sanità Marittima in serata. Gli esiti delle analisi ai due cittadini cinesi sono stati definiti «rassicuranti»: secondo l’Asl Roma 4 si può quindi escludere un contagio di coronavirus. Le operazioni di sbarco sono iniziate venerdì mattina e si sono concluse intorno alle 11.
+
+### Leggi anche
+
+*   [Cosa sappiamo del coronavirus: come è nato? Come combatterlo?](https://www.corriere.it/cronache/cards/coronavirus-cosa-sappiamo-come-nato-come-combatterlo/quanto-letale_principale.shtml)
+
+*   [Come lavarsi (bene) le mani per impedire il diffondersi del nuovo coronavirus](https://www.corriere.it/salute/malattie_infettive/cards/come-lavarsi-bene-mani-impedire-diffondersi-nuovo-coronavirus/vademecum_principale.shtml)
+
+*   [La mappa per seguire (in tempo reale) la diffusione del contagio](https://www.corriere.it/esteri/20_gennaio_28/tutti-casi-infezione-coronavirus-92944c24-41a9-11ea-a986-8b98b73aaf06.shtml)
+
+*   [Studenti orientali sospesi dal Conservatorio di Santa Cecilia, a Roma](https://roma.corriere.it/notizie/cronaca/20_gennaio_30/coronavirus-studenti-orientali-sospesi-conservatorio-santa-cecilia-6a7bbfe8-4342-11ea-bdc8-faf1f56f19b7.shtml)
+
+*   [Quali sono i sintomi e come viaggiare sicuri](https://www.corriere.it/esteri/cards/i-primi-sintomi-febbre-tosse-raffreddore-come-comportarsi-caso-viaggi/che-cosa-sappiamo-nuovo-virus-che-ha-causato-polmoniti-wuhan_principale.shtml)
+
+##### I voli aerei
+
+Come misura preventiva, British Airways ha deciso di sospendere tutti i voli da e per la Cina. Lo stesso ha fatto EgyptAir. La statunitense United Airlines per ora ha deciso invece uno stop temporaneo ai voli che da alcune città della Cina (Pechino, Shanghai e Hong Kong) raggiungevano gli Stati Uniti.
+
+[](https://video.corriere.it/coronavirus-video-come-si-trasmette-come-proteggersi-tutto-quello-che-c-sapere/94a9fa88-42a6-11ea-8fab-5eae1fe9ccd1)
+
+##### Quanti casi ci sono stati e dove
+
+Il 99% dei casi di contagio, riferisce l’agenzia di stampa AP, si è verificato in Cina, dove ci sono 7.711 persone malate, di cui 1370 in gravi condizioni (dati della Commissione nazionale sanitaria cinese). Ci sono stati casi di coronavirus in altri Paesi asiatici (India, Filippine, Corea del Sud), ma anche negli Stati Uniti, [in Germania e in Francia](https://www.corriere.it/esteri/20_gennaio_28/virus-cina-caso-germania-trasmesso-persona-senza-sintomi-4f0409d0-41c3-11ea-a986-8b98b73aaf06.shtml).
+
+30 gennaio 2020 (modifica il 31 gennaio 2020 | 13:06)
+
+© RIPRODUZIONE RISERVATA
+
+[](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml)
+### [Leggi i contributi 15](javascript:void(0);)[SCRIVI](javascript:void(0);)
+
+[](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml)
+
+Partecipa alla discussione
+
+Caratteri rimanenti: [Invia](javascript:void(0);)
+
+### [Voto](javascript:void(0);)[data](javascript:void(0);)
+
+Carica altri contenuti
+
+aside shadow
+
+![Image 7: A split-screen shows a bald man with a beard wearing a black suit and a man with white hair wearing a black suit](https://dimages2.corriereobjects.it/files/image_572_320/uploads/2025/12/02/692e9dfa6c428.jpeg)
+
+#### [Garlasco, il giudice Vitelli: «Sentite quanto è ragionevole dubitare che sia stato Stasi a uccidere Chiara Poggi?»](https://video.corriere.it/cronaca/garlasco-il-giudice-vitelli-sentite-quanto-e-ragionevole-dubitare-che-sia-stato-stasi-a-uccidere-chiara-poggi/3667d627-183a-443c-9082-4340d10f7xlk)
+
+[](https://video.corriere.it/cronaca/garlasco-il-giudice-vitelli-sentite-quanto-e-ragionevole-dubitare-che-sia-stato-stasi-a-uccidere-chiara-poggi/3667d627-183a-443c-9082-4340d10f7xlk)
+
+[![Image 8: Attiva le notifiche di Corriere della sera](https://images2.corriereobjects.it/includes2013/images/boxes/box_notifiche_general.png?v=20251112171154)](https://abbonamenti.corriere.it/profilo-utente/?notifiche "Attiva le notifiche di Corriere della sera")
+
+### CORRIERE DELLA SERA TI PROPONE
+
+[![Image 9: Marco Columbro: «Io e Cuccarini? Ci credevano fidanzati, ma i suoi schiaffoni in tv erano veri. Non sono più miliardario come una volta (e in tv non mi richiameranno mai)»](https://content-thumbnail.cxpublic.com/content/dominantthumbnail/c72616245cea342c0dc276d612a8556794098026.jpg?692d4d9f)](https://www.corriere.it/cronache/25_dicembre_01/marco-columbro-cuccarini-intervista-b1a4d87b-84f7-46f2-a2f3-e54d47aafxlk.shtml)
+
+[Marco Columbro: «Io e Cuccarini? Ci credevano fidanzati, ma i suoi schiaffoni in tv erano veri. Non sono più miliardario come una volta (e in tv non mi richiameranno mai)»](https://www.corriere.it/cronache/25_dicembre_01/marco-columbro-cuccarini-intervista-b1a4d87b-84f7-46f2-a2f3-e54d47aafxlk.shtml)
+
+[![Image 10: Trovata morta l'influencer austriaca Stefanie Pieper, scomparsa una settimana fa: il corpo in una valigia in Slovenia](https://content-thumbnail.cxpublic.com/content/dominantthumbnail/c809f85922a29038b07e579d7c026a8314c7cf8c.jpg?692d549c)](https://www.corriere.it/esteri/25_novembre_30/omicidio-influencer-austriaca-stefanie-pieper-2c23d310-8d44-4ce6-9401-b38874f70xlk.shtml)
+
+[Trovata morta l'influencer austriaca Stefanie Pieper, scomparsa una settimana fa: il corpo in una valigia in Slovenia](https://www.corriere.it/esteri/25_novembre_30/omicidio-influencer-austriaca-stefanie-pieper-2c23d310-8d44-4ce6-9401-b38874f70xlk.shtml)
+
+[![Image 11: Emma Bonino trasferita all'ospedale San Filippo Neri: «Condizioni stabili, è vigile». Magi: «Le abbiamo portato un po' di affetto»](https://content-thumbnail.cxpublic.com/content/dominantthumbnail/e8ce0002084ffcbdcbc428e144a8d57bcfb5f1e6.jpg?692ebc42)](https://roma.corriere.it/notizie/cronaca/25_dicembre_01/condizioni-gravi-ma-lucida-e-vigile-emma-bonino-trasferita-all-ospedale-san-filippo-neri-d02fab18-4fc0-452b-935b-1f2c92662xlk.shtml)
+
+[Emma Bonino trasferita all'ospedale San Filippo Neri: «Condizioni stabili, è vigile». Magi: «Le abbiamo portato un po' di affetto»](https://roma.corriere.it/notizie/cronaca/25_dicembre_01/condizioni-gravi-ma-lucida-e-vigile-emma-bonino-trasferita-all-ospedale-san-filippo-neri-d02fab18-4fc0-452b-935b-1f2c92662xlk.shtml)
+
+[![Image 12: Come installare l'intelligenza artificiale su un computer a casa (e a chi conviene farlo)](https://content-thumbnail.cxpublic.com/content/dominantthumbnail/7871bdc49fb3faf0e2c8aa1948306a2075694c9e.jpg?692cfcfb)](https://www.corriere.it/offerte-recensioni/offerte/black-friday/25_novembre_27/come-installare-l-intelligenza-artificiale-su-un-computer-a-casa-e-a-chi-conviene-farlo-6b6fdd34-bee7-4e3f-93b9-978af55eaxlk.shtml)
+
+[Come installare l'intelligenza artificiale su un computer a casa (e a chi conviene farlo)](https://www.corriere.it/offerte-recensioni/offerte/black-friday/25_novembre_27/come-installare-l-intelligenza-artificiale-su-un-computer-a-casa-e-a-chi-conviene-farlo-6b6fdd34-bee7-4e3f-93b9-978af55eaxlk.shtml)
+
+[](https://video.corriere.it/)
+
+I PIÚ VISTI
+
+[](https://video.corriere.it/cronaca/reggio-calabria-assalto-al-portavalori-sull-a2-auto-bruciate-e-chiodi-sull-asfalto/8ca421d5-df37-4f6a-9141-bcd201bbexlk)[![Image 13: A car is engulfed in flames on the highway inside a tunnel, with thick black smoke billowing into the air](https://dimages2.corriereobjects.it/files/image_572_320/uploads/2025/12/01/692dc10bade5f.png)](https://video.corriere.it/cronaca/reggio-calabria-assalto-al-portavalori-sull-a2-auto-bruciate-e-chiodi-sull-asfalto/8ca421d5-df37-4f6a-9141-bcd201bbexlk)
+
+### [Reggio Calabria, assalto al portavalori sull’A2: auto brucia...](https://video.corriere.it/cronaca/reggio-calabria-assalto-al-portavalori-sull-a2-auto-bruciate-e-chiodi-sull-asfalto/8ca421d5-df37-4f6a-9141-bcd201bbexlk)
+
+[](https://video.corriere.it/presentazione-giro-d-italia-giro-d-italia-women-la-diretta/43ef651c-401f-4cb8-a7bf-3e0d0fe11xlk)[![Image 15: The image is a promotional poster for the Giro d'Italia and Giro d'Italia Women, advertising the presentation of the two events with a live streaming on December 1, 2025 at 15:30](https://dimages2.corriereobjects.it/files/image_572_320/uploads/2025/12/01/692d6302ec1ca.jpeg)](https://video.corriere.it/presentazione-giro-d-italia-giro-d-italia-women-la-diretta/43ef651c-401f-4cb8-a7bf-3e0d0fe11xlk)
+
+### [Presentazione Giro d'Italia & Giro d’Italia Women. La dirett...](https://video.corriere.it/presentazione-giro-d-italia-giro-d-italia-women-la-diretta/43ef651c-401f-4cb8-a7bf-3e0d0fe11xlk)
+
+[](https://video.corriere.it/inaugurazione-del-163-anno-accademico-del-politecnico-di-milano-con-mario-draghi-diretta-video/eef2a5dd-2e16-421f-a92b-7306dd314xlk)[![Image 17: Mario Draghi, former Italian Prime Minister, is photographed](https://dimages2.corriereobjects.it/files/image_572_320/uploads/2025/09/28/68d8e6c3cd630.jpeg)](https://video.corriere.it/inaugurazione-del-163-anno-accademico-del-politecnico-di-milano-con-mario-draghi-diretta-video/eef2a5dd-2e16-421f-a92b-7306dd314xlk)
+
+### [Inaugurazione del 163° Anno Accademico del Politecnico di Mi...](https://video.corriere.it/inaugurazione-del-163-anno-accademico-del-politecnico-di-milano-con-mario-draghi-diretta-video/eef2a5dd-2e16-421f-a92b-7306dd314xlk)
+
+[](https://video.corriere.it/cronaca/lo-scandalo-della-carne-scaduta-rimessa-in-commercio-nel-servizio-di-report-/551d9cac-50ce-4ca5-b42f-7b1321852xlk)[![Image 19: Many blue bins full of dead animal meat on the floor of a meat processing factory](https://dimages2.corriereobjects.it/files/image_572_320/uploads/2025/11/29/692b204c9e170.jpeg)](https://video.corriere.it/cronaca/lo-scandalo-della-carne-scaduta-rimessa-in-commercio-nel-servizio-di-report-/551d9cac-50ce-4ca5-b42f-7b1321852xlk)
+
+### [Lo scandalo della carne scaduta rimessa in commercio nel ser...](https://video.corriere.it/cronaca/lo-scandalo-della-carne-scaduta-rimessa-in-commercio-nel-servizio-di-report-/551d9cac-50ce-4ca5-b42f-7b1321852xlk)
+
+[](https://video.corriere.it/convegno-guerra-e-pace-nelle-prospettiva-economiche-sociali-morali-e-religiose/7e00086a-19ae-49d3-926d-09c8b34ddxlk)[![Image 21: Guerra e pace: nelle prospettive economiche, sociali, morali e religiose is written on the background of an artistic illustration of Guernica](https://dimages2.corriereobjects.it/files/image_572_320/files/fp/uploads/2025/12/01/692d5c2b3b080.r_d.442-227-0.jpeg)](https://video.corriere.it/convegno-guerra-e-pace-nelle-prospettiva-economiche-sociali-morali-e-religiose/7e00086a-19ae-49d3-926d-09c8b34ddxlk)
+
+### [Convegno: Guerra e pace, nelle prospettiva economiche, socia...](https://video.corriere.it/convegno-guerra-e-pace-nelle-prospettiva-economiche-sociali-morali-e-religiose/7e00086a-19ae-49d3-926d-09c8b34ddxlk)
+
+[Corriere della Sera](https://www.facebook.com/corrieredellasera)
+
+ALTRE NOTIZIE SU CORRIERE.IT
+
+*   [I più letti](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml#tabs-1 "Più letti")
+
+*   [Lorenzo Bonicelli e l'immobilità dopo l'incidente: «Mi chied... ---------------------------------------------------------------](https://www.corriere.it/sport/25_dicembre_01/lorenzo-bonicelli-intervista-immobilita-5bc9769e-aebf-4f2a-ba3f-ac023ca03xlk.shtml) 
+*   [Asse occulto Usa-Russia: qual è il piano per smantellare la ... ---------------------------------------------------------------](https://www.corriere.it/dataroom-milena-gabanelli/asse-occulto-usa-russia-qual-e-il-piano-per-smantellare-la-ue-/6d5e6543-6740-4f02-ac17-b573bde99xlk.shtml) 
+*   [Quando Pietrangeli diceva: «Spero di morire nel sonno. Panat... ---------------------------------------------------------------](https://www.corriere.it/cronache/25_dicembre_01/pietrangeli-ultima-intervista-morte-panatta-amori-8804e32d-7844-40d5-ad59-42db43ee2xlk.shtml) 
+*   [Marco Columbro: «Con Lorella Cuccarini ci credevano fidanzat... ---------------------------------------------------------------](https://www.corriere.it/cronache/25_dicembre_01/marco-columbro-cuccarini-intervista-b1a4d87b-84f7-46f2-a2f3-e54d47aafxlk.shtml) 
+*   [Pensioni 2026, il paradosso: grazie a integrazioni ed esenzi... ---------------------------------------------------------------](https://www.corriere.it/economia/pensioni/25_dicembre_01/pensioni-2026-il-paradosso-grazie-a-integrazioni-ed-esenzioni-chi-prende-384-euro-ne-incassa-piu-di-chi-ne-ha-maturati-692-b623c40b-63d8-4cec-9881-ef1df4f73xlk.shtml) 
+
+###### News e ultime notizie oggi da Italia e Mondo
+
+*   [Gazzetta](https://www.gazzetta.it/ "Gazzetta") |
+*   [Corriere Mobile](https://www.corriere.it/mobile/?fr=Corriere_footer "Corriere Mobile") |
+*   [El Mundo](https://www.elmundo.es/ "El Mundo") |
+*   [Marca](https://www.marca.com/ "Marca") |
+*   [RCS Mediagroup](https://www.rcsmediagroup.it/ "RCS Mediagroup") |
+*   [Fondazione Corriere](https://fondazionecorriere.corriere.it/ "Fondazione Corriere") |
+*   [Fondazione Cutuli](https://www.corriere.it/cultura/13_agosto_29/premio-cutuli-edizione-2013-tesi-laurea_809a364c-109f-11e3-abea-779a600e18b3.shtml "Fondazione Cutuli") |
+*   [Quimamme](https://www.quimamme.it/ "Quimamme") |
+*   [Codici Sconto](https://codicesconto.corriere.it/ "Codici Sconto")
+
+ Copyright 2025© RCS Mediagroup S.p.a. Tutti i diritti sono riservati | [Per la pubblicità: CAIRORCS MEDIA S.p.A.](http://www.rcspubblicita.it/ "CAIRORCS MEDIA S.p.A.")
+
+ RCS MediaGroup S.p.A. - Direzione Media Sede legale: via Angelo Rizzoli, 8 - 20132 Milano | Capitale sociale: Euro 270.000.000,00 
+
+ Codice Fiscale, Partita I.V.A. e Iscrizione al Registro delle Imprese di Milano n.12086540155 | R.E.A. di Milano: 1524326 | ISSN 2499-0485 
+
+*   [Chi Siamo](https://www.corriere.it/trust/codice_etico.shtml "Chi Siamo") |
+*   [The Trust Project](https://thetrustproject.org/ "The Trust Project")
+
+*   [Servizi](https://www.corriere.it/servizi/ "Servizi") |
+*   [Scrivi](https://www.corriere.it/scrivi/ "Scrivi") |
+*   [Cookie policy e privacy](https://www.corriere.it/privacy.shtml "Cookie policy e privacy")
+
+[![Image 23: A 81x15 small image, likely a logo, icon or avatar](https://images2.corriereobjects.it/includes2013/images/footer_acap.png?v=20251112171155)](http://the-acap.org/acap-enabled.php)[![Image 24: A 72x15 small image, likely a logo, icon or avatar](https://images2.corriereobjects.it/includes2013/images/footer_apa.png?v=20251112171155)](https://www.opa-europe.org/)
+
+[Rifiuta e abbonati ![Image 28: arrow](blob:http://localhost/cfccf8cbbe039f9e863c127b0de154fa)](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml#)
+
+[Rifiuta e abbonati ![Image 29: arrow](blob:http://localhost/8ebceb26e3f33edc9937804f16c2f13c)](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml#)
+
+Il Corriere della Sera si impegna quotidianamente a fornirti informazione di qualità attraverso il lavoro di centinaia di giornalisti, grafici e tecnici. Per garantire un'informazione libera e accessibile facciamo ricorso a pubblicità profilata che copre i costi della navigazione così da permetterti di usufruire di una parte dei contenuti gratuitamente. Senza la pubblicità l'accesso ai nostri servizi avviene previo pagamento a pacchetti di abbonamento crescenti per contenuti e costo. Scegli se accedere al [servizio di base](https://abbonamenti.corriere.it/termini-e-condizioni-di-vendita-dei-servizi-di-abbonamento-new/) permettendoci di erogare pubblicità personalizzata o aderendo a un piano di abbonamento equivalente.
+
+Come indicato nella [cookie policy](https://www.corriere.it/privacy.shtml?cookiePrivacy=true), noi e terze parti facciamo uso di tecnologie, quali i cookie, per raccogliere ed elaborare dati personali dai dispositivi (ad esempio l'indirizzo IP, tracciamenti precisi dei dispositivi e della posizione geografica). Per installare i cookie che garantiscono le funzionalità tecniche, non è necessario il tuo consenso. Con il tuo consenso, noi e alcune tra 1073 terze parti presenti [in questa lista](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml#) - inserzionisti nonché intermediari del mercato pubblicitario di volta in volta coinvolti -, potremo archiviare informazioni sul tuo dispositivo e/o accedervi, utilizzare dati di geolocalizzazione precisi e di identificazione attraverso la scansione del dispositivo, mostrarti pubblicità e contenuti personalizzati e misurarne la performance, effettuare ricerche di mercato e sviluppare i nostri prodotti e servizi. Puoi liberamente conferire, rifiutare o revocare il consenso a tutti o alcuni dei trattamenti facendo click sul pulsante "Preferenze" sempre raggiungibile anche attraverso la nostra cookie policy. In caso di rifiuto integrale o delle singole finalità necessarie all'erogazione di pubblicità e di contenuti personalizzati, potrai scegliere di aderire a un piano di abbonamento, le vostre scelte sui cookie si applicano a questo sito web. Puoi acconsentire direttamente all'uso delle tecnologie sopra menzionate facendo click su "Accetta e continua" o rifiutarne l'uso e abbonarti facendo click su "Rifiuta e abbonati".
+
+ accetta e continua  preferenze 
+Sei già abbonato? [Accedi](https://www.corriere.it/cronache/20_gennaio_30/coronavirus-italia-corona-9d6dc436-4343-11ea-bdc8-faf1f56f19b7.shtml#)
+
+C.

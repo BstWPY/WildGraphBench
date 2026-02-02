@@ -1,0 +1,433 @@
+# Police-reported hate crime in Canada, 2013
+
+![Image 1: Warning](https://www150.statcan.gc.ca/n1/modules/custom/ndm_core/modules/ndm_pubs/assets/images/warning.gif)[View the most recent version](https://www150.statcan.gc.ca/n1/en/catalogue/85-002-X).
+
+Archived Content
+----------------
+
+Information identified as archived is provided for reference, research or recordkeeping purposes. It is not subject to the Government of Canada Web Standards and has not been altered or updated since it was archived. Please "[contact us](http://www.statcan.gc.ca/eng/reference/refcentre/index)" to request a format other than those available.
+
+By Mary Allen
+
+[[Highlights](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/hl-fs-eng.htm "Police-reported hate crime in Canada, 2013: highlights")] [[Full article in PDF](https://www150.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.pdf "PDF for Police-reported hate crime in Canada, 2013")]
+
+[Skip to text](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#txt)
+
+*   [Fewer police-reported hate crimes than the previous year](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a1)
+*   [Half of police-reported hate crimes in 2013 were motivated by hatred of a race or ethnicity](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a2)
+*   [Mischief was the most common violation among police-reported hate crimes](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a3)
+*   [Decline in hate crimes primarily due to decreases in mischief](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a4)
+*   [Largest decreases in police-reported hate crime reported by Ontario, British Columbia and Nova Scotia](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a5)
+*   [Majority of hate crimes reported in major cities](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a6)
+*   [Hate crime victims older compared to previous year](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a7)
+*   [Decline in the number of youth accused of hate-motivated mischief](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a8)
+*   [Overview of specific types of hate crimes](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a9)
+*   [Police-reported hate crimes motivated by hatred of a race or ethnicity](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a10)
+    *   [Hate crimes targeting Black populations](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a11)
+    *   [Hate crimes targeting East and Southeast Asian populations](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a12)
+    *   [Hate crimes targeting South Asian populations](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a13)
+    *   [Hate crimes targeting Arab and West Asian populations](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a14)
+    *   [Hate crimes targeting Aboriginal populations](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a15)
+
+*   [Police-reported hate crimes motivated by hatred of a religion](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a16)
+    *   [Hate mischief related to religious property](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a17)
+    *   [Hate crimes targeting Jewish populations](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a18)
+    *   [Hate crimes targeting Muslim populations](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a19)
+
+*   [Police-reported hate crimes motivated by hatred of a sexual orientation](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a20)
+*   [Summary](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a21)
+*   [Survey description](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a22)
+*   [Detailed data tables](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a23)
+*   [References](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a24)
+*   [Notes](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#a25)
+
+[Text begins](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)
+
+Canada's population is increasingly diverse. According to the 2011 National Household Survey, 19%of Canadians reported being members of a visible minority group, up from 16% in 2006.[Note 1](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n1) The proportion of people who reported religious affiliations other than Christianity also grew, with 7.2% of the Canadian population identifying as Muslim, Hindu, Sikh or Buddhist in 2011 compared to 4.9% in 2001.[Note 2](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n2) The Jewish population remained stable at 1% ([Statistics Canada 2013b](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r12)). Aboriginal people comprised 4.3%of the population in 2011 compared to 3.8% in 2006 ([Statistics Canada 2013a](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r11)).
+
+Looking forward, the proportion of Canadians who are members of visible minority groups or affiliated with non-Christian religions is expected to increase. By 2031, nearly one in three Canadians could be a member of a visible minority group, and the number of Canadians with a non-Christian religion is expected to more than double to about 14% of the population. South Asian and Chinese populations are expected to continue to be the largest visible minority groups in Canada, but Arab and West Asian populations are expected to grow the fastest over the next two decades ([Statistics Canada 2010](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r9)).
+
+With changing demographics, the potential can arise for acts of discrimination against individuals or groups ([Chongatera 2013](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r1)). When a criminal act in Canada is motivated by hate, it is considered a hate crime. Hate crimes can be either violent or non-violent in nature, and affect not only the individual victims of the crime but also the communities targeted. Hate crimes are a focus of social concern in Canada and around the world. As a member of the Office for Democratic Institutions and Human Rights (ODIHR) of the Organization for Security and Co-operation in Europe (OSCE), Canada works with other countries to monitor and combat hate crime ([ODIHR 2012](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r7)).
+
+In Canada, four specific offences are listed as hate propaganda offences or hate crimes in the _Criminal Code of Canada_: advocating genocide, public incitement of hatred, willful promotion of hatred and mischief motivated by hate in relation to religious property.[Note 3](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n3) In addition, subparagraph 718.2(a)(i) of the _Criminal Code_ allows for increased penalties when sentencing any criminal offence (such as assault or mischief) where there is evidence that the offence was motivated by bias, prejudice or hatred toward a particular group as listed in the _Criminal Code_. These are also considered hate crimes.
+
+This _Juristat_ article examines police-reported hate crime in Canada using data from the Incident-based Uniform Crime Reporting Survey (UCR2), which collects information from police services. More specifically, this report examines the number of hate crime incidents reported by police in 2013 as well as the characteristics of these incidents, and the victims and accused involved.[Note 4](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n4) For the survey, a hate crime is defined as a criminal offence committed against a person or property, where there is evidence that the offence was motivated by hate, based on race, national or ethnic origin, language, colour, religion, sex, age, mental or physical disability, sexual orientation, or any other similar factor.[Note 5](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n5)
+
+The collection of police-reported hate crime data as well as the production of this analytical report was supported by funding from Citizenship and Immigration Canada.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Fewer police-reported hate crimes than the previous year
+-------------------------------------------------------------------------------------------------------------------------------
+
+In 2013, police reported 1,167 criminal incidents in Canada that were motivated by hate, 17% or 247 fewer incidents than in 2012. This represents a rate of 3.3 incidents per 100,000 population and a very small proportion of the over 1.8 million criminal incidents reported by police in 2013. The rate in 2012 was 4.1 hate crimes per 100,000 population.
+
+The majority (92%) of police-reported hate crime incidents were criminal offences deemed by police to have been motivated by hate and the remaining 8% involved the four specific violations defined as hate crimes in the _Criminal Code_.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Half of police-reported hate crimes in 2013 were motivated by hatred of a race or ethnicity
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+About half of hate crimes (51% or 585 incidents) were motivated by hatred toward a race or ethnicity such as Black, Asian, Arab or Aboriginal populations ([Table 1](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl01-eng.htm)).[Note 6](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n6) Another 28% of incidents (326) were motivated by hatred towards a religious group, including hate crimes targeting Jewish, Muslim, Catholic and other religious populations.[Note 7](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n7) An additional 16% of incidents (186) were motivated by hatred of a sexual orientation. The remaining 5% of hate crimes were motivated by hatred of a language, mental or physical disability, sex, age, or another characteristic (such as occupation or political beliefs) (Chart 1). This report will focus on the three most common motivations: race/ethnicity, religion, and sexual orientation.
+
+![Image 2: Chart 1 Hate crimes, by type of motivation](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/c-g01-eng.gif)
+
+[Description for chart 1](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/desc/desc01-eng.htm)
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Start of text box
+
+### Text box 1
+
+ Collection of police-reported hate crimes
+
+The Uniform Crime Reporting Survey collects police-reported information on hate crimes, whether an incident involved one of the four specific offences of hate propaganda or hate crimes listed in the _Criminal Code_ or if it involved a criminal offence motivated by hate as determined by police. The survey also includes detailed information about the incidents, including whether the incident was a violent or non-violent offence, as well as some information about the victims and accused. Detailed information about the incidents, such as the type of offence, as well as the characteristics of victims (in violent offences) and accused, was not available from municipal police services in Toronto, Calgary, Québec and Saint John. Data reported by these four police services accounted for 17% of hate crimes in 2013.
+
+The collection of police-reported hate crime data occurs at the time the incident is reported. Depending on the level of evidence at the time of the incident, police can record it as either a 'suspected' or 'confirmed' hate-motivated crime. As more information is gathered, incidents are reviewed and verified and their status may be reclassified. This analysis includes crimes that have been confirmed to be or are strongly suspected to be motivated by hate. Suspected hate crimes may include criminal incidents that cannot be confirmed as hate crimes, but for which there is sufficient evidence to suspect that they are motivated by hate (e.g., hate graffiti where no accused has been identified).
+
+It is important to note that victims of hate crimes targeting specific populations are not necessarily members of those specific populations. For example, if someone is assaulted and there is anti-Muslim language, the hate crime will be considered anti-Muslim whether or not the victim is Muslim. The hate crime is classified by the perception of the accused (even if this perception is inaccurate), not by the victim's characteristics.
+
+Over the past two decades, police services across Canada have continued to advance their identification and reporting of hate crime incidents. Changes in reporting practices can have an effect on hate crime statistics. For example, an increase in the number of hate crime incidents reported in 2012 and 2013 in Thunder Bay was influenced by the introduction of a hate crime awareness campaign.
+
+It is therefore important to recognize that, according to police services, higher rates of police-reported hate crime in certain jurisdictions may reflect differences or changes in the recognition, reporting and investigation of these incidents by police and community members. Moreover, it should be noted that smaller jurisdictions are more sensitive to changes in rates, where a small change in the number of incidents in small populations will have a greater impact on the rate.
+
+Because of the impact of changes in reporting practices, and the variability of hate crime in jurisdictions where numbers are small, changes over time should be interpreted with caution. In addition, information on the characteristics of hate crimes where the total count is low should be interpreted in the context of the specific year of the data, and not as typical of these hate crimes generally. Because of this variability, some information on the characteristics of hate crime incidents, victims and accused by detailed motivation provided in this report is based on total hate crimes reported from 2010 to 2013.
+
+Through the General Social Survey (GSS) on Victimization, Statistics Canada also collects self-reported information from Canadians 15 years of age and older about whether they had been the victim of selected criminal offences. This survey also collects information on whether or not victims believed their experiences were motivated by hate. The most recent cycle of the GSS on Victimization was carried out in 2014. Information from this cycle is planned for release in Fall 2015.
+
+#### Note on comparability of hate crime data
+
+Information from the UCR2.2 Survey on Hate Crime is sensitive to differences in the reporting of hate crimes across police services and over time. In particular, the following limitations should be taken into consideration:
+
+*   Comparison of hate crimes across different targeted populations: Willingness to report hate crimes may differ across the various targeted populations. In addition, because the number of hate crimes targeting specific populations is small, a change of a few incidents can have a considerable impact. As a result, caution should be taken in comparing rates of hate crime for specific populations.
+*   Comparison of hate crimes across Census Metropolitan Areas (CMAs): Public awareness campaigns, the presence of dedicated police hate crime units, and other programs aimed to promote the reporting of hate crimes can have an influence on differences in rates of hate crime by CMA.
+*   Comparison of hate crimes over time: Given the relatively small number of hate crimes reported by police, especially by motivation or by CMA, an increase or decrease of a few incidents can result in large percentage changes from year to year. In addition, improvements in reporting practices or the introduction of new programs can also have an impact on the number of hate crimes reported to police.
+*   Survey coverage: Not all police services are using the systems needed to report detailed characteristics of hate crimes to Statistics Canada. In particular, for 2013 data, information on characteristics of incidents, victims and accused were not available from municipal police services in Toronto, Calgary, Québec and Saint John.
+
+End of text box 1
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Mischief was the most common violation among police-reported hate crimes
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+In 2013, the majority (60%) of police-reported hate crimes were non-violent (Chart 2, [Table 2](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl02-eng.htm)). The most common violation among hate crimes was mischief: 4% were mischief in relation to religious property motivated by hate, as per section 430 of the _Criminal Code_, and 45% were other types of mischief, the commission of which were deemed by police as motivated by hate. Mischief was the most common offence among hate crimes motivated by either religion or race/ethnicity.
+
+![Image 3: Chart 2 Hate crimes, by type of offence](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/c-g02-eng.gif)
+
+[Description for chart 2](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/desc/desc02-eng.htm)
+
+In 2013, violent incidents comprised 40% of police-reported hate crimes. The most common violent offence was assault (all levels), accounting for 21% of all hate crimes, followed by uttering threats (11%of all hate crimes).
+
+Incidents motivated by hatred of a sexual orientation were more likely to be violent (66%) than those motivated by hatred of a race/ethnicity (44%) or religion (18%). The most common violent violations among incidents motivated by hatred of a sexual orientation were assault (32%), followed by uttering threats (18%) and criminal harassment (11%).
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Decline in hate crimes primarily due to decreases in mischief
+------------------------------------------------------------------------------------------------------------------------------------
+
+The 17% decline in police-reported hate crime incidents in Canada between 2012 and 2013 was driven by a 30% drop in non-violent incidents, primarily mischief (such as hate graffiti).[Note 8](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n8)
+
+It is worth noting that police have been reporting declines in all incidents of mischief since 2006 (whether motivated by hate or not). Between 2012 and 2013, there was a 12% decline in incidents of police-reported mischief in Canada.
+
+In contrast to non-violent crime, there were 4% more violent hate crime incidents reported by police in 2013. In particular, there were more violent hate crime incidents motivated by hatred of a race or ethnicity (+14%) and religion (+7%), but fewer motivated by sexual orientation (-4%) or other motivations (-11%).
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Largest decreases in police-reported hate crime reported by Ontario, British Columbia and Nova Scotia
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+About half (51%) of police-reported hate crimes in 2013 were reported in Ontario, the province posting the highest rate of hate crimes among the provinces (Chart 3, [Table 3](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl03-eng.htm)). As such, Ontario's decrease in hate crimes (-150 incidents) accounted for 61% of Canada's decline in police-reported hate crimes. British Columbia and Nova Scotia also contributed to the decrease in hate crimes in 2013, with 34 and 29 fewer incidents, respectively. There were small declines in all other provinces and territories except the Northwest Territories where there were six hate crime incidents reported in 2013 compared to one in 2012.
+
+![Image 4: Chart 3 Hate crimes, by province](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/c-g03-eng.gif)
+
+[Description for chart 3](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/desc/desc03-eng.htm)
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Start of text box
+
+### Text box 2
+
+ Factors affecting the reporting of hate crimes
+
+This report presents information on hate crimes that came to the attention of police and therefore does not account for unreported crimes. According to the 2009 General Social Survey (GSS) on Victimization, about two-thirds of individuals who said they had been victims of hate-motivated incidents did not report the incidents to the police ([Dauvergne and Brennan 2011](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r2)).
+
+In order to be reported by police as a hate crime, a criminal incident must first be reported to the police as a crime, and then it must also be classified as being motivated by hate. Some hate crimes may not be reported to police at all; others may be reported, but not classified as hate-motivated.
+
+Differences in the prevalence of police-reported hate crime can be influenced by a variety of factors. For example, the presence (or absence) of a dedicated hate crime unit or training program within a particular police service may influence the identification of a crime as hate-motivated. The presence (or absence) of community outreach programs, public awareness campaigns, zero tolerance policies and victim assistance programs may affect the willingness or ability of community members to report incidents to police, or to disclose the nature of the crime as hate-motivated.
+
+Similarly, previous research suggests that there may also be differences in the reporting of hate crimes by various targeted populations ([Statistics Canada 2001](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r8); [McDonald and Hogue 2007](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r5)).
+
+Finally, some populations could be targeted based on either hatred of their religion or their race/ethnicity (or both). Where a hate crime incident may involve more than one motivation (e.g.,religion and race/ethnicity), the incident is reported once by police according to the primary motivation determined by the circumstances of the incident.
+
+The influence of all of these factors must be considered when examining the number of hate crimes over time or across different geographies.
+
+End of text box 2
+
+### [](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Majority of hate crimes reported in major cities
+
+The majority (87%) of police-reported hate crimes in Canada occurred in Census Metropolitan Areas (CMAs).[Note 9](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n9) The 10 largest CMAs in Canada, home to 52% of the population covered by the UCR2 survey, accounted for 71% of hate crimes in 2013.[Note 10](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n10)
+
+Toronto, Montréal, and Vancouver, Canada's three largest CMAs, accounted for 43% of police-reported hate crime incidents in 2013. These three CMAs, however, did not have the highest rates of police-reported hate crime. Thunder Bay (20.9 per 100,000 population) and Hamilton (17.4 per 100,000 population)[Note 11](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n11) reported the highest rates of hate crime in 2013 (Chart 4, [Table 4](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl04-eng.htm)).
+
+![Image 5: Chart 4 Hate crimes, by census metropolitan area](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/c-g04-eng.gif)
+
+[Description for chart 4](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/desc/desc04-eng.htm)
+
+Differences in police-reported hate crime in different cities, or from year to year, may be related to the demographic mix of the population (see [Text box 3](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#tb3)). Additionally, the reporting of hate crimes can also be influenced by the presence of a dedicated hate crime unit or hate crime programs within a police service, as well as by community outreach programs and public awareness campaigns ([Text box 2](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#tb2)).
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Start of text box
+
+### Text box 3
+
+ Canada's diverse populations living in the three largest CMAs
+
+According to the 2011 National Household Survey (NHS), 19% of the Canadian population was a member of a visible minority group, compared to 16% in the 2006 Census and 13% in the 2001 Census. Canada's visible minority population is most concentrated in the country's three largest Census Metropolitan Areas (CMAs) – Toronto, Montréal and Vancouver. Of the total visible minority population in Canada, 70% lived in these three CMAs in 2011. In that year, more than 4 in 10 people residing in Toronto (47%) and Vancouver (45%) were visible minorities, whereas the same was true for two in ten people residing in Montréal (20%) ([Statistics Canada 2013b](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r12)). By 2031, about 6 in 10 individuals living in the CMAs of Toronto (63%) and Vancouver (59%) could be members of a visible minority. In Montréal, the proportion is expected to increase to about 3 in 10(31%) ([Statistics Canada 2010](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r9)).
+
+Canada's three largest CMAs are also home to a great majority of Canadians who are members of religious groups that were most frequently targeted in religiously motivated hate crimes. For instance, in 2011, 1% of the Canadian population identified as Jewish, with most (82%) living in Toronto, Montréal or Vancouver. The majority of those identifying as Muslim, who made up 3% of the Canadian population, also resided within Toronto, Montréal or Vancouver (68%). Buddhists, Hindus and Sikhs represented 4% of the Canadian population, and, again, the majority resided in the three largest CMAs (74%) ([Statistics Canada 2013b](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r12)). As with visible minority groups, these proportions are expected to increase over the next two decades ([Statistics Canada 2010](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r9)).
+
+In 2011, same-sex couple families (both married and common-law) accounted for 1% of all couples in Canada. Almost half (46%) of these couples resided in Toronto, Montréal, or Vancouver in 2011 ([Statistics Canada 2012](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r10)).
+
+End of text box 3
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hate crime victims older compared to previous year
+-------------------------------------------------------------------------------------------------------------------------
+
+In 2013, victims of police-reported hate crimes tended to be older compared to 2012. In 2013, 69% of victims were aged 25 and older, compared to 60% in 2012. The representation of older victims in 2013 is a change most notable among victims of crimes motivated by race/ethnicity or religion. The difference in 2013 is the result of both a drop in the number of young victims and an increase in the number of older victims that year.
+
+It is notable that victims of crimes motivated by hatred of a religion in 2013 tended to be older compared to other victims, with 77% being aged 25 and older in 2013. In comparison, the same was true for 67% of victims of crime motivated by hatred of a race/ethnicity and 65% of crimes motivated by hatred of a sexual orientation (Chart 5).
+
+![Image 6: Chart 5 Age distribution of victims](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/c-g05-eng.gif)
+
+[Description for chart 5](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/desc/desc05-eng.htm)
+
+In 2013, the majority (69%) of victims of police-reported violent hate crimes were male ([Table 5](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl05-eng.htm)).[Note 12](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n12) Violent incidents motivated by hatred of a sexual orientation had the highest proportion of male victims (81%).
+
+The majority (68%) of hate crime victims of violence in 2013 sustained no physical injuries.[Note 13](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n13) Just over one-quarter (28%) had minor physical injuries, while 4%sustained major injuries. Victims of violent crimes motivated by hatred of a sexual orientation, the incidents which were the most likely to involve assault, were the most likely to report any physical injuries: 44%involved minor injuries and 2%major injuries.
+
+In contrast to violent crimes in general, most victims of violent hate crimes(63%) did not know the accused (in incidents where an accused was identified).
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Decline in the number of youth accused of hate-motivated mischief
+----------------------------------------------------------------------------------------------------------------------------------------
+
+One in four individuals accused of hate crimes in 2013 were youth aged 12 to 17(25%) (Chart 6, [Table 6](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl06-eng.htm)).[Note 14](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n14) This was a decline from the previous year when 35% of accused were youth. Between 2012 and 2013, there was a 37%decrease in the number of youth accused of hate crimes. This decline was primarily due to a notable decrease (-73%) in the number of youth accused of hate-motivated mischief. This decline in the number of youth accused of mischief accounted for almost all of the decrease in the number of individuals accused of hate crimes between 2012 and 2013.
+
+![Image 7: Chart 6 Age of persons accused](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/c-g06-eng.gif)
+
+[Description for chart 6](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/desc/desc06-eng.htm)
+
+In contrast to the large decline in the number of youth accused of non-violent hate crime (-65%), police reported an 8%increase in the number of youth accused of violent hate crimes from 2012 to 2013.
+
+The most common hate-motivated violent offence for youth in 2013 was assault (of all levels), accounting for 33%of youth accused of hate crimes. In violent incidents with at least one youth accused, 69%of these incidents had at least one youth victim. Violent hate crime, particularly assault, was even more frequent among young adults; 60%of 18- to 24-year-olds accused of hate crimes in 2013 were accused of assault.
+
+The majority(81%) of those accused of hate crimes were male. Young males under age 25 made up 39%of hate crime accused. For crimes motivated by hatred of a sexual orientation, young males accounted for 54%of accused.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Overview of specific types of hate crimes
+----------------------------------------------------------------------------------------------------------------
+
+The remainder of this report provides detailed highlights of crimes motivated by hatred of a race/ethnicity, religion and sexual orientation. Because the number of hate crime incidents in selected categories can be relatively small, a change in reported hate crimes from one year to the next can have a considerable impact on the reported characteristics of these incidents (or victims and accused). For this reason, information on the characteristics of hate crimes targeting specific populations in this section are based on all incidents reported over a four-year period (from 2010 to 2013). As aggregate counts for the four years can still be relatively small, caution should be taken in comparing the characteristics for different groups.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Police-reported hate crimes motivated by hatred of a race or ethnicity
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+According to the National Household Survey (NHS), 19%of the Canadian population in 2011 was a member of a visible minority group,[Note 15](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n15) compared to 16%in the 2006 Census and 13%in the 2001 Census.[Note 16](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n16) In the context of this increasing diversity, hate crimes motivated by race or ethnicity are of particular concern as they comprise half of all police-reported hate crimes in Canada.
+
+In 2013, there were 585 police-reported hate crimes motivated by race or ethnicity. Black populations continued to be the most highly targeted group among these incidents, accounting for 44%of racial hate crimes (or 22%of all hate crimes).[Note 17](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n17) Hate crimes targeting East and Southeast Asian populations[Note 18](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n18) comprised 10%of race/ethnicity hate crimes, followed by those targeting South Asian[Note 19](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n19)(9%), Arab and West Asian[Note 20](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n20)(8%) and Aboriginal(5%) populations (Chart 7, [Table 7](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl07-eng.htm)). It should be noted that the overlap between race/ethnicity and religion for some populations may have an impact on hate crime statistics, as some religious populations (communities) may also be targeted in hate crimes motivated by race or ethnicity.
+
+![Image 8: Chart 7 Number of hate crimes - race or ethnicity](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/c-g07-eng.gif)
+
+[Description for chart 7](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/desc/desc07-eng.htm)
+
+Between 2012 and 2013 there was a 17%decline in police-reported hate crimes motivated by race or ethnicity, with 119 fewer incidents reported. The decline was greatest for hate crimes targeting Arab and West Asian (-16 incidents) and Black populations (-40 incidents). As with hate crime generally, the declines were primarily in non-violent incidents. There was an increase in reported hate crimes targeting East and Southeast Asian populations (+11 incidents) as well as White populations (+9 incidents). In these cases, the increase was primarily in the number of violent incidents.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Start of text box
+
+### Text box 4
+
+ Hate crime rates for selected targeted populations
+
+A rate of hate crime for selected groups was calculated for this report to estimate the number of police-reported hate crime incidents per 100,000 individuals in the target population.[Note 21](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n21) This rate should not be interpreted as a victimization rate, as it also includes crimes where no direct victim was involved (e.g. public graffiti). Instead, it takes into account the fact that hate crimes not only affect their immediate victims, but also have an impact on the populations they target as well as the wider community where the incident took place ([Fashola 2011](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r3); [McDonald and Hogue 2007](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r5)). Even a 'victimless' crime, such as hate graffiti written in a public place, may have a broad effect on the population it targets.
+
+Using demographic information from the 2011 National Household Survey (NHS) on visible minority groups and religion, rates are provided for selected populations targeted by hate crimes. These were calculated as the number of hate crimes in 2013 targeting a specific group per 100,000 persons in Canada identifying as members of that group in 2011. For example, the rate for hate crimes targeting Jewish populations is calculated as the number of hate crimes motivated by hatred of the Jewish religion per 100,000 persons in Canada who reported their religion in the 2011 NHS as Jewish.
+
+These rates are estimated, as they are based on population data from 2011.[Note 22](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n22) Comparison of rates for different groups is not recommended.
+
+Because of the small number of hate crimes targeting specific groups, characteristics of incidents, victims and accused may vary considerably from year to year. For this reason, information on the characteristics of hate crime in this section is based on all hate crimes reported for the four-year period from 2010 to 2013. It is also important to note that information on type of offence as well as the characteristics of victims and accused was not available for municipal police services in Toronto, Calgary, Québec and Saint John.
+
+It is not possible to calculate a specific hate crime rate for hate crimes motivated by sexual orientation as comparable population counts by sexual orientation are not available.
+
+End of text box 4
+
+### [](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hate crimes targeting Black populations
+
+In 2013, there were 255 police-reported hate crime incidents that targeted Black populations. This represented an estimated rate of 27.0 incidents per 100,000 persons in Canada reporting that they were Black.
+
+Over the period from 2010 to 2013, about two-thirds(66%) of hate crimes targeting Black populations were non-violent, mostly involving mischief(56%). Violent offences made up 34%of hate crimes targeting Black populations. More specifically, assault accounted for 19%of hate crimes against Black populations.
+
+Victims of violent hate crimes targeting Black populations from 2010 to 2013 were predominantly male(73%). As with hate crimes in general, victims were often young;39% were under age 25.
+
+The majority(55%) of individuals accused of hate crimes targeting Black populations from 2010 to 2013 were under age 25, including 34% under age 18. Of these accused youth (aged 12 to 17), 42%were accused of mischief.
+
+### [](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hate crimes targeting East and Southeast Asian populations
+
+There were 61 police-reported hate crimes targeting East and Southeast Asian populations in 2013, or an estimated rate of 2.4 per 100,000 persons in Canada reporting that they were East or Southeast Asian.[Note 23](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n23)
+
+As with other types of hate crime, mischief was the most common offence, comprising 39% of hate crime incidents targeting East and Southeast Asian populations. Over the period from 2010 to 2013, however, about half (52%) of hate crimes targeting these populations involved violent offences. Nearly one-third (31%) of all hate crimes targeting these populations were incidents of assault.
+
+About three-quarters (74%) of victims of violent hate crimes targeting East and Southeast Asian populations between 2010 and 2013 were male. A large majority (77%) did not know their accused. Most individuals accused of hate crimes targeting East and Southeast Asian populations were male (83%), and the majority (56%) were 25 years of age or older.
+
+### [](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hate crimes targeting South Asian populations
+
+There were 52 police-reported hate crimes targeting South Asian populations in 2013 or an estimated rate of 3.3 hate crimes per 100,000 persons in Canada reporting that they were South Asian.
+
+Mischief was the most common offence in hate crimes targeting this group in 2013 (35%). Over the period from 2010 to 2013, however, six in ten hate crimes (59%) targeting South Asian populations were violent offences. Assault comprised 31% of incidents.
+
+The majority (77%) of victims of violent hate crimes targeting South Asian populations were male, and two-thirds (68%) were aged 25 and over. Most (76%) identified the accused as a stranger.
+
+As with hate crimes in general, most individuals (83%) accused of hate crimes targeting South Asian populations over the four-year period were male. The majority were under age 25 (53%).
+
+### [](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hate crimes targeting Arab and West Asian populations
+
+There were 48 police-reported hate crimes targeting Arab and West Asian populations in 2013. This represents an estimated rate of 8.2 incidents per 100,000 persons in Canada reporting that they were Arab or West Asian.
+
+Over half (56%) of hate crimes targeting Arab and West Asian populations from 2010 to 2013 were non-violent. The most common offence targeting this group was mischief (32%). Violent offences comprised 44% of hate crimes targeting these populations, with assault accounting for 31%.
+
+Victims of violent hate crimes targeting Arab and West Asian populations during this four-year period were predominantly male (68%), and 36% were under age 25.
+
+Most (82%) individuals accused of hate crimes targeting Arabs and West Asian populations over this period were male and the majority (58%) of accused were aged 25 and over.
+
+### [](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hate crimes targeting Aboriginal populations
+
+There were 32 hate crime incidents targeting Aboriginal populations reported by police in 2013. This represented an estimated rate of 2.3 hate crimes per 100,000 persons in Canada reporting that they were an Aboriginal person.
+
+Overall, the single most common offence was mischief (36%). However, violent offences accounted for half (51%) of hate crimes targeting Aboriginal populations reported by police from 2010 to 2013, with 30% involving assault.[Note 24](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n24)
+
+About two-thirds (65%) of victims of violent hate crimes targeting Aboriginal populations over this period were male. They were typically younger than other victims of race/ethnicity hate crime. Nearly one-third (30%) of victims of Aboriginal hate crimes reported from 2010 to 2013 were under age 18. An additional 19%were aged 18 to 24 years.
+
+Nearly half of victims in violent hate crimes targeting Aboriginal populations reported an injury (45%, mostly minor), and the majority (59%) identified the accused as a stranger.
+
+The majority of individuals accused of hate crimes targeting Aboriginal populations were youth or young adults: 46% were under age 18 and another 24% were 18 to 24 years old. The vast majority (91%) of accused were male.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Police-reported hate crimes motivated by hatred of a religion
+------------------------------------------------------------------------------------------------------------------------------------
+
+According to the 2011 National Household Survey, the increased ethno-cultural diversity in Canada has been paralleled by an increase in the proportion of people who reported religious affiliations other than Christianity. In 2011, 7.2% of the Canadian population reported that they were Muslim, Hindu, Sikh or Buddhist, compared to 4.9% in 2001. The Jewish population has remained stable at 1%. Two-thirds (67.3%) of the Canadian population reported affiliation with a Christian religion, with 38.7%of Canadians being Roman Catholic. Almost one-quarter (23.9%) of Canadians reported no religious affiliation, compared to 16.5% in 2001.
+
+The majority of Canadians who reported non-Christian religions were also members of a visible minority group, with one exception. In 2011, 88% of Muslims and 97% of Buddhists, Hindus and Sikhs residing in Canada were also members of a visible minority group.[Note 25](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n25) The exception was for those who were Jewish, among whom 2% were members of a visible minority group. The overlap between race/ethnicity and religion may have an impact on hate crime statistics, as some religious populations (communities) may also be targeted in hate crimes motivated by race or ethnicity.
+
+In 2013, there were 326 police-reported hate crimes motivated by hatred of a religion or religious group — 28% of hate crimes. Hate crimes targeting Jewish populations were the most frequently reported, accounting for 56% of religious hate crimes in 2013 (16% of all hate crime incidents) (Chart 8, [Table 7](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl07-eng.htm)).
+
+![Image 9: Chart 8 Hate crimes motivated by religion](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/c-g08-eng.gif)
+
+[Description for chart 8](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/c-g/desc/desc08-eng.htm)
+
+There were 93 fewer religion-motivated hate crime incidents reported in 2013 than in 2012, a 22%decrease resulting from a drop in non-violent offences, primarily mischief. The decrease occurred for hate crimes targeting all religious groups except Muslim.
+
+### [](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hate mischief related to religious property
+
+Two types of hate crime involve mischief. Most hate crimes involving mischief are labeled 'other mischief' motivated by hate, such as hate graffiti in a public place or on someone's home. In addition, the _Criminal Code_ (s.430) specifically lists mischief in relation to religious property motivated by hate, bias or prejudice as a specific hate crime offence. For the period 2010 to 2013, there was an average of 67 incidents per year of mischief motivated by hate in relation to religious property reported by police (43 incidents in 2013).[Note 26](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n26) The most common categories identified in police-reported hate mischief related to religious property were Catholic (26% of incidents) and "Other" unspecified religions, which includes non-Catholic Christian denominations as well as Buddhist, Sikh, Hindu, and others (22% of incidents). It should be noted that 28% of the incidents motivated by religion over this four-year period were identified as "unknown religion". These may include incidents of mischief in cemeteries where no specific religion can be identified.
+
+### [](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hate crimes targeting Jewish populations
+
+There were 181 hate-motivated crimes targeting the Jewish religion reported by police in 2013, or an estimated rate of 54.9 police-reported hate crimes per 100,000 individuals reporting that they were Jewish.
+
+The majority (84%) of these incidents targeting Jewish populations between 2010 and 2013 were non-violent.Three-quarters of hate crimes targeting Jewish populations were mischief: 7% were mischief motivated by hate in relation to religious property, and 68% were other mischief motivated by hate.
+
+Violent offences accounted for 16% of hate crimes targeting Jewish populations over this four-year period. The most common violent offence was uttering threats, accounting for 37% of violent incidents (6% of all Jewish hate crimes). Assaults (of all types) comprised 20% of violent Jewish hate crimes, or 3% of all Jewish hate crimes.
+
+The majority (61%) of victims of violent hate crimes targeting Jewish populations between 2010 and 2013 were male and 53% were 35 years of age and older. The majority, 88%, reported no physical injury. Over half(56%) of these victims identified the accused as a stranger.
+
+Of individuals accused of hate crimes targeting Jewish populations over this period, 86% were male. Nearly half (44%) were under age 18; another 22% were 18 to 24 years of age. More than half (57%) of accused under age 25 were accused of mischief.
+
+### [](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hate crimes targeting Muslim populations
+
+Police reported 65 crimes motivated by hatred against the Muslim religion in 2013, representing an estimated rate of 6.2 hate crimes per 100,000 individuals reporting that they were Muslim. This was an increase over 2012 (+20 incidents). It is important to note, however, that, according to the 2011 National Household Survey, 88% of the Muslim population were also members of visible minority groups such as Arab and West Asian or South Asian, and may also be targeted by hate crimes motivated by race or ethnicity (see [Text box 2](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#tb2)). In this context, therefore, it can be noted that between 2012 and 2013, the number of police-reported hate crime incidents targeting Arab and West Asian and South Asian populations declined nationally. The only exception was in Quebec, where the number of hate crimes targeting both Muslim (+9) as well as Arab and West Asian populations (+7) increased.
+
+From 2010 to 2013, the majority (67%) of hate crimes targeting Muslim populations were non-violent and the most common offence was mischief (32%) or mischief motivated by hate in relation to religious property (12%). Compared to hate crimes targeting other religions, hate crimes targeting Muslim populations were more likely to be violent offences (33%).
+
+Over the period from 2010 to 2013, Muslim populations had the highest percentage of hate crime victims who were female (47%). This may be related to the fact that the practice of wearing head coverings may make religious identity more visible for Muslim women than for men. For example, the National Council of Canadian Muslims recently noted that a particularly high percentage of attacks against individuals involved Muslim women wearing hijabs (Islamic head-coverings) ([National Council of Canadian Muslims 2014](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#r6)).[Note 27](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n27)
+
+Victims also tended to be older than with other types of hate crime. Over the four-year period, 65% of victims of violent hate crimes targeting Muslims were 35 years of age or older.
+
+Individuals accused of hate crimes against Muslims from 2010 to 2013 were also more likely to be female and also tended to be older than those accused of hate crimes in general. Over the four-year period, 31% of accused were female, and nearly two-thirds of accused were 35 years of age or older.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Police-reported hate crimes motivated by hatred of a sexual orientation
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+There were 186 police-reported hate crime incidents in 2013 that were motivated by sexual orientation, one more than the previous year.
+
+These hate crimes were more likely to be violent than hate crimes targeting other groups. Over the four-year period from 2010 to 2013, about two-thirds of these hate crimes involved violent offences (ranging from 65% to 67%). The most common offence within hate crimes motivated by sexual orientation was assault, with 25% of incidents being common assault and another 11% reported as more serious assaults. These were primarily assault level 2 (with a weapon or causing bodily harm)(10%). Over the four-year, period, nine incidents of aggravated assault (level 3) were reported.[Note 28](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm#n28)
+
+Mischief accounted for 28% of hate crimes motivated by hatred of a sexual orientation.
+
+Of the victims of violent hate crimes motivated by hatred of a sexual orientation from 2010 to 2013, 83%were male, and 48%were under age 25. Males under 25 accounted for 39% of victims.
+
+Among all victims of violent hate crimes motivated by sexual orientation between 2010 and 2013, 61%identified the accused as a stranger. Nearly half (46%) sustained injuries, mainly minor.
+
+Between 2010 and 2013, of those accused of hate crimes motivated by sexual orientation, 64% were under age 25, and 91% of all accused were male. Over half (59%) of those accused were young males under 25 years of age.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Summary
+------------------------------------------------------------------------------
+
+Canadian police services reported 1,167 hate crimes in 2013, 17% fewer incidents than in 2012. There was a 30% drop in non-violent hate crimes, primarily mischief. In contrast, the number of violent hate crimes increased 4% between 2012 and 2013.
+
+Most police-reported hate crime involved non-violent offences, particularly mischief, which accounted for about half of hate crime incidents in 2013. Consistent with previous years, the most frequent motivations for hate crime were race or ethnicity, religion and sexual orientation. Nearly two-thirds (66%) of crimes motivated by hatred of a sexual orientation in 2013 were violent. This was also true for 44% of crimes motivated by hatred of a race or ethnicity. Among religious hate crimes, 18%were violent.
+
+It is important to note that the measurement of hate crimes in Canada, as reported by police, has been evolving over the past two decades and is continuing to evolve. Analysis of police-reported hate crimes over time and for specific jurisdictions and motivations shows that the reporting of hate crimes is sensitive to changes to reporting practices, which may be influenced by a variety of factors, including the introduction of police hate crime initiatives and public awareness campaigns.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Survey description
+-----------------------------------------------------------------------------------------
+
+This report uses data from the Incident-based Uniform Crime Reporting Survey (UCR2). This is a microdata survey that captures detailed information on crimes reported to and substantiated by police, comprising the characteristics of victims, accused persons and incidents. In response to changing information needs, the survey was modified in 2005 (UCR2.2) to enable identification of incidents motivated by hate based on race, national or ethnic origin, language, colour, religion, sex, age, mental or physical disability, sexual orientation or any other similar factor, such as occupation or political beliefs.
+
+In the UCR Survey, police services can report up to four offences per incident. However, to conform to statistical reporting standards for this survey, only the most serious offence in an incident is used in this analysis.
+
+In 2013, police services reporting to the UCR2.2 served 86% of the population of Canada.
+
+A supplemental survey has been conducted each year since 2006 as a means of obtaining information on hate-motivated crimes from those police services reporting microdata but which had not yet converted their electronic reporting systems to the newest UCR2.2 version. These respondents were asked to identify those criminal incidents that had been motivated by hate and to manually provide the detailed motivation of each incident to Statistics Canada. Additional information (e.g., type of crime, weapon use, level of injury and relationship) was not provided by these respondents. In 2013, the municipal police services providing information to the supplemental survey were Toronto, Calgary, Québec, and Saint John.
+
+Combined, coverage from UCR2.2 and the supplemental survey in 2013 is estimated at 99% of the population of Canada.
+
+The Oshawa CMA is excluded from the analysis of hate crimes by CMA due to the incongruity between the police service jurisdictional boundaries and the CMA boundaries. For the same reason, data from the Halton and Durham police services are also excluded. The exclusion of information from Halton police affects the coverage for the Toronto and Hamilton CMA. The exclusion of information from the Durham police affects coverage for Toronto. As a result, information for the CMA of Toronto reflects data from police serving 91% of the population of the CMA of Toronto. For Hamilton, data cover 74% of the Hamilton CMA population.
+
+The UCR2 survey collects information on victims of violent crimes when they are identified in an incident. In 2013, information on 412 victims of violent offences was reported in 336 hate crime incidents. In 16% of violent hate crime incidents involving victims, more than one victim was identified. Information on victims reflects data reported by police services covering 86% of the population of Canada. It is not provided by police services reporting to the UCR2.2 Supplemental Survey.
+
+UCR2 also collects information about persons accused of hate crime. In 2013, there was information on 346 accused individuals associated with 277 incidents. This included 3 accused under age 12 who cannot be charged with an offence under the _Criminal Code_. In 14%of these incidents, more than one accused was identified. Information on accused reflects data reported by police services serving 86%of the population of Canada. It is not provided by police services reporting to the UCR2.2 Supplemental Survey.
+
+Data on hate crimes are also available in CANSIM tables[252-0091](https://www150.statcan.gc.ca/n1/en/cansim/252-0091), [252-0092](https://www150.statcan.gc.ca/n1/en/cansim/252-0092), and[252-0093](https://www150.statcan.gc.ca/n1/en/cansim/252-0093).
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Detailed data tables
+-------------------------------------------------------------------------------------------
+
+[Table 1 Police-reported hate crimes, by type of motivation, 2012 and 2013](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl01-eng.htm)
+
+[Table 2 Police-reported hate crimes, by most serious violation, Canada, 2013](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl02-eng.htm)
+
+[Table 3 Police-reported hate crimes, by type of motivation, by province and territory, 2013](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl03-eng.htm)
+
+[Table 4 Number and rate of police-reported hate crimes, by census metropolitan area, 2012 and 2013](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl04-eng.htm)
+
+[Table 5 Characteristics of hate crime victims, Canada, 2013](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl05-eng.htm)
+
+[Table 6 Characteristics of persons accused of hate crimes, Canada, 2013](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl06-eng.htm)
+
+[Table 7 Police-reported hate crimes, by detailed motivation, Canada, 2012 and 2013](https://www150.statcan.gc.ca/n1/pub/85-002-x/2015001/article/14191/tbl/tbl07-eng.htm)
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)References
+---------------------------------------------------------------------------------
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Chongatera, Godfred. 2013. "Hate-crime victimization and fear of hate crime among racially visible people in Canada: The role of income as a mediating factor." _Journal of Immigrant & Refugee Studies_. Vol.11.p.44 to 64.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Dauvergne, Mia and Shannon Brennan. 2011. "Police-reported hate crime in Canada, 2009." _Juristat_. Statistics Canada Catalogue no.85-002-X.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Fashola, Sidikat. 2011. "Understanding the community impact of hate crimes: A case study." _Victims of Crime Research Digest Issue No.4_. Department of Justice Canada. Ottawa.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Hamilton Police Service. 2012. _Hamilton Police Service 2011 Hate/Bias Crime Statistical Report_. Hamilton. Ontario.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)McDonald, Susan and Andrea Hogue. 2007. _An Exploration of the Needs of Victims of Hate Crimes_. Department of Justice Canada. Ottawa.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)National Council of Canadian Muslims. 2014. _2013 ODIHR Hate Crime Report_. Ottawa.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Office for Democratic Institutions and Human Rights (ODIHR). 2012. _Hate Crimes in the OSCE Region–Incidents and Responses: Annual Report for 2011_.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Statistics Canada. 2001. _Hate Crime in Canada: An Overview of Issues and Data Sources_. Statistics Canada Catalogue no.85-551-X.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Statistics Canada. 2010. _Projections of the Diversity of the Canadian Population: 2006 to 2031_. Statistics Canada Catalogue no.91-551-X.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Statistics Canada. 2012. "Portrait of families and living arrangements in Canada." Families, Households and Marital Status, 2011 Census of Population. Statistics Canada Catalogue no.98-312-X2011001. Ottawa.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Statistics Canada. 2013a. _Aboriginal Peoples in Canada: First Nations People, Métis and Inuit_. _National Household Survey, 2011_. Statistics Canada Catalogue no.99-011-X2011001.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Statistics Canada. 2013b. _Immigration and Ethnocultural Diversity in Canada_. National Household Survey, 2011. Statistics Canada Catalogue no.99-010-X2011001.
+
+[](http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14191-eng.htm)Notes
+----------------------------------------------------------------------------

@@ -1,0 +1,78 @@
+# Diet Compositions
+
+### [](https://ourworldindata.org/diet-compositions#diet-compositions-by-macronutrient)Diet compositions by macronutrient
+
+### [](https://ourworldindata.org/diet-compositions#diet-compositions-by-food-groups)Diet compositions by food groups
+
+[](https://ourworldindata.org/diet-compositions#cereal-preferences-across-the-world)Cereal preferences across the world
+-----------------------------------------------------------------------------------------------------------------------
+
+[](https://ourworldindata.org/diet-compositions#fruit-and-vegetable-intake)Fruit and vegetable intake
+-----------------------------------------------------------------------------------------------------
+
+In this section
+
+*   [Vegetable consumption across the world](https://ourworldindata.org/diet-compositions#vegetable-consumption-across-the-world)
+*   [Fruit consumption across the world](https://ourworldindata.org/diet-compositions#fruit-consumption-across-the-world)
+
+### [](https://ourworldindata.org/diet-compositions#vegetable-consumption-across-the-world)Vegetable consumption across the world
+
+#### [](https://ourworldindata.org/diet-compositions#vegetable-consumption-vs-recommended-guidelines)Vegetable consumption vs. recommended guidelines
+
+The map details average daily per capita vegetable consumption versus typical dietary guidelines for health. Countries shown in blue have an average per capita intake below 250 grams (g) per person per day; countries in green are greater than 250g. National and World Health Organization (WHO) recommendations tend to range between 200-250g per day.[1](https://ourworldindata.org/diet-compositions#note-1)
+
+Figures represent average per capita supply of vegetables, which does not correct for waste at the household level.
+
+### [](https://ourworldindata.org/diet-compositions#fruit-consumption-across-the-world)Fruit consumption across the world
+
+#### [](https://ourworldindata.org/diet-compositions#fruit-consumption-by-type)Fruit consumption by type
+
+#### [](https://ourworldindata.org/diet-compositions#fruit-consumption-vs-recommended-guidlines)Fruit consumption vs. recommended guidlines
+
+The map details average daily per capita fruit consumption versus typical dietary guidelines for health. Average per capita intake of fruit, measured relative to widely adopted minimum guidlines for health. Countries shown in blue have an average per capita intake below 200 grams (g) per person per day; countries in green are greater than 200g. National and World Health Organization (WHO) typically set a guideline of 200g per day.[2](https://ourworldindata.org/diet-compositions#note-2)
+
+Figures represent average per capita supply of fruit, which does not correct for waste at the household level.
+
+[](https://ourworldindata.org/diet-compositions#animal-based-foods-form-a-larger-part-of-our-diet-as-we-get-richer)Animal-based foods form a larger part of our diet as we get richer
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://ourworldindata.org/diet-compositions#diets-diversify-as-we-get-richer)Diets diversify as we get richer
+-----------------------------------------------------------------------------------------------------------------
+
+#### [](https://ourworldindata.org/diet-compositions#lower-incomes-rely-on-less-diverse-cereal-based-diets)Lower incomes rely on less diverse, cereal-based diets
+
+#### [](https://ourworldindata.org/diet-compositions#diets-are-more-diverse-in-nutrient-rich-foods-as-we-get-richer)Diets are more diverse in nutrient-rich foods as we get richer
+
+[](https://ourworldindata.org/diet-compositions#cereal-preferences-vary-by-geographical-location)Cereal preferences vary by geographical location
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+[](https://ourworldindata.org/diet-compositions#definition-measurement)Definition & Measurement
+-----------------------------------------------------------------------------------------------
+
+#### [](https://ourworldindata.org/diet-compositions#how-is-per-capita-food-supply-or-consumption-calculated)How is per capita food supply or consumption calculated?
+
+The UN Food and Agricultural Organization (FAO) prepare ‘Food Balance Sheets’ (FBS) across all food commodities at global, regional and national levels. Food Balance Sheets map the quantity of food commodities (measured as their primary equivalents, for example, “wheat and products” represents the sum of all products derived from wheat) from the production level through to the remaining quantity left for human food. This is measured in mass quantities – such as tonnes or kilograms.
+
+These sheets account for losses and allocations in the food system, including imports, exports, stock variations, seed, animal feed, other (industrial uses), and food losses. The remaining commodities after correction for these diversions is defined as ‘food supply’. To derive the average per capita food supply, this total figure is divided by the population size. This figure can be considered to be the average level of food intake however it does not account for food wastage at the consumer level (i.e. in households or restaurants).
+
+#### [](https://ourworldindata.org/diet-compositions#how-are-carbohydrate-protein-and-fat-intakes-derived-from-commodity-quantities)How are carbohydrate, protein and fat intakes derived from commodity quantities?
+
+The intake of specific macronutrients (carbohydrates, protein and fats) are derived based on average food composition factors – these factors are derived and presented in the FAO’s Food Balance Sheet Handbook.[3](https://ourworldindata.org/diet-compositions#note-3)
+
+Using these factors and mass quantities, the intake of carbohydrates, protein and fat can be calculated in grams.
+
+To derive the share that each of these macronutrients contribute to total caloric intake, we can calculate the calories derived from carbohydrates, protein and fat using energy density factors. Approximately, each gram of carbohydrate and protein is equivalent to 4 kilocalories each, whilst each gram of fat is equivalent to 9 kilocalories.[4](https://ourworldindata.org/diet-compositions#note-4)
+
+We can therefore calculate the total number of calories derived from each macronutrient per day by multiplying the grams of each by their equivalent energy conversion factor.
+
+For example: consumption of 300 grams of carbohydrate *4 kilocalories per gram = 1200 kilocalories from carbohydrates.
+
+[](https://ourworldindata.org/diet-compositions#data-sources)Data Sources
+-------------------------------------------------------------------------
+
+#### [](https://ourworldindata.org/diet-compositions#food-and-agriculture-organization-fao-food-supply-database)Food and Agriculture Organization (FAO) Food Supply database
+
+*   **Data:**Covers food commodities that have been converted back into primary equivalents (Quantity, Dietary Energy, Proteins, Fats, Totals and per Capita).
+*   **Geographical coverage:** Global – by country and world region
+*   **Time span:** Since 1961
+*   **Available at:** Online at FAOSTAT [here](http://faostat.fao.org/site/345/default.aspx)

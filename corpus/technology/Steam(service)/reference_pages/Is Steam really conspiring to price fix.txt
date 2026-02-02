@@ -1,0 +1,90 @@
+# Is Steam really conspiring to price fix?
+
+**_The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community.
+
+ The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent company._**
+
+* * *
+
+_[The[GameDiscoverCo game discovery newsletter](https://gamediscoverability.substack.com/)is written by ‘how people find your game’ expert &[GameDiscoverCo](http://www.gamediscover.co/)founder Simon Carless, and is a regular look at how people discover and buy video games in the 2020s.]_
+
+Happy Monday! Thanks to all of you wondrous GameDiscoverCo readers, for helping me wake up with my brain fizzing about what I’m going to write this week. (This may be a compulsive disorder of some kind. But luckily it’s being channeled into a helpful newsletter.)
+
+So let’s get started, with news on a class action lawsuit against Steam and various developers. It’s seemingly a long shot, but raises some interesting points about platforms and monopolies…
+
+Valve & some devs, sitting in a tree…
+-------------------------------------
+
+[![Image 1: Five men stand in a row, wearing winter coats and hats, as they pose for a black-and-white portrait](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F409461ba-f9b0-42f3-baf5-19239df2f28c_800x402.jpeg)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F409461ba-f9b0-42f3-baf5-19239df2f28c_800x402.jpeg)
+P R I C E F I X I N G…. or so says a new lawsuit filed Thursday, as[written up by](https://www.hollywoodreporter.com/thr-esq/popular-gaming-platform-accused-of-abusing-market-power-through-contracts)The Hollywood Reporter. (I’ve chosen these gentlemen traveling to a 1930s naval treaty meeting as a proxy image for a sinister cabal, even though I’m sure they were perfectly legitimate.)
+
+As the Hollywood Reporter notes:_“On Thursday, five gamers filed a putative class action in California federal court against Valve Corporation. ‘Valve Corporation’s Steam platform is the dominant platform for game developers to distribute and sell PC games in the United States,’ states the complaint being handled by attorneys at Vorys Sater.”_ Valve is specifically being accused of violating[the Sherman Antitrust Act of 1890](https://en.wikipedia.org/wiki/Sherman_Antitrust_Act_of_1890), legal history fans!
+
+The essence of the suit, which you[can read in full here](https://assets.documentcloud.org/documents/20466284/steam.pdf)(PDF link)? Quoting:_“Valve abuses the Steam platform’s market power by requiring game developers to enter into a 'Most Favored Nations' provision contained in the Steam Distribution Agreement whereby the game developers agree that the price of a PC game on the Steam platform will be the same price the game developers sell their PC games on other platforms."_
+
+Unfortunately, the lawsuit also names some specific - fairly random - developers and publishers, since they needed ‘sample games’ to bring the suit against. These include Ubisoft and CD Projekt, but also Devolver, Rust, LLC (maker of standout VR game[Hot Dogs, Horseshoes & Hand Grenades](https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/)) and KChamp (creator of multiplayer 2D tank battle game[ShellShock Live](https://store.steampowered.com/app/326460/ShellShock_Live/), which I hadn’t been paying attention to, but has casually racked up 20,000 reviews!) Hope Valve can help with any legal costs here.
+
+Anyhow, Pavel ‘xPaw’ Djundik of[SteamDB](https://steamdb.info/), who I think was the video game-related person to first spot the lawsuit, correctly points out what seems to be a significant hole in the suit. The argument that Steam legally doesn’t allow devs to price their games lower on other platforms is taken from[a Twitter comment by Epic’s Tim Sweeney](https://twitter.com/TimSweeneyEpic/status/1090663312814157824)made in 2019, and it’s not accurate:
+
+> They use [@TimSweeneyEpic](https://twitter.com/TimSweeneyEpic?ref_src=twsrc%5Etfw)'s tweet as proof, and not the actual Steam agreement. And in replies someone rightfully pointed out that the clause about same pricing only applies to keys: [https://t.co/LyfW6U3ywQ](https://t.co/LyfW6U3ywQ)
+> 
+> — Pavel Djundik (@thexpaw) [January 29, 2021](https://twitter.com/thexpaw/status/1355218770646675456?ref_src=twsrc%5Etfw)
+
+So you can’t sell Steam keys for less elsewhere, such as on your own website. But there’s no explicit rule that the game has to be the same price everywhere - which would be a significant step towards ‘price fixing’. (One obvious example of different prices elsewhere is Slay The Spire, which[just launched on iOS for $10](https://apps.apple.com/us/app/slay-the-spire/id1491530147), but is[still $25 on Steam](https://store.steampowered.com/app/646570/Slay_the_Spire/). The lawyers try to claim PC, console and mobile are noncomparable, btw.)
+
+Of course, there might be some soft or implied pressure to not put your game out at a fraction of your Steam price elsewhere. (Hilariously, I’ve seen people doing the opposite, i.e. launching former Epic Games Store exclusives cheaper on Steam, for example Journey To The Savage Planet, which[just launched on Steam at 40% off](https://store.steampowered.com/app/973810/Journey_To_The_Savage_Planet/).)
+
+But much of the pseudo-monopoly effect of Steam - and also don’t forget that being a monopoly in itself isn’t explicitly illegal - is a ‘soft’ monopoly. People are used to using the service, they like it, they have a lot of games stored there, and so they keep using it. And there’s certainly no hardware lock-in or forced lack of store choice, like Apple’s current situation.
+
+So I don’t think this suit is going anywhere. And some of the arguments just seem way off:_“Without the Steam MFN, it would be in game developers’ independent economic interest to offer their PC games at lower prices on platforms that charge a lower commission than the Steam platform.”_ Really? (I think devs would just get a lower ‘platform tax’ and be happy with that. Most aren’t going to mess with pricing.)
+
+But some of the subtleties - like the difference between copies of games and Steam keys of games - might be complex enough for your average judge to not get this suit immediately thrown out. I guess we’ll see, though I presume the bar to actually win this type of lawsuit is very high.
+
+Otherwise - sure, I’d love Steam to invert its platform cost structure and offer 20% cut to devs who make under $1 million, as opposed to over $50 million. But that’s a philosophical company decision. And that November 2018 change for big games[was explained as](https://www.theverge.com/2018/11/30/18120577/valve-steam-game-marketplace-revenue-split-new-rules-competition)_‘the network effect of big games benefits all, so big games should be financially compensated’_. Which is a very logical, Valve-like take on things, even if I don’t agree. So… shrug emoji?
+
+How Epic Games Store is going…
+------------------------------
+
+[![Image 2: Graphs that display the registered accounts, monthly active users, revenue, EGS third party revenues, and EGS free games claimed in millions between the years 2019 and 2020](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cd29bb1-ca69-4073-99e4-cf08b7cb6058_1000x423.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cd29bb1-ca69-4073-99e4-cf08b7cb6058_1000x423.png)
+As it happens, we have a great opportunity to look at Epic Games Store’s progress vs. Steam, in the form of Epic’s[very transparent year in review blog post](https://www.epicgames.com/store/en-US/news/epic-games-store-2020-year-in-review). And the excellent biz-focused Master The Meta newsletter[made the above infographic summarizing year on year changes](https://www.masterthemeta.com/themetas/making-sense-of-gamestops-insanity)- very helpful,[subscribe to them](https://www.masterthemeta.com/home)if you haven’t.
+
+The interesting number for us is EGS’ third party revenues (actual spending, not including the value of coupons, Epic’s game advances to devs, & other elements.) The Master The Meta graph makes it look more impressive than it really is - it’s gone up from $251 million in 2019 to $265 million in 2020, a 5.5% increase.
+
+MTM uses some F2P-mobile-like metrics to try to evaluate performance, and suggests that Steam _“is likely already starting to feel the pinch”_ due to the 56 million monthly uniques. I… disagree, quite a bit. Free game giveaways, plus Fortnite (and Rocket League, nowadays!) players are clearly a big chunk of that user base.
+
+And I’m sure that Epic’s 2020 estimates for third-party game revenue were significantly more than it ended up doing, given the $100 million+ (?) it spent in 2020 into a combination of ‘$10 off’ coupons, multi-million dollar advances against sales for devs, and paying for free game giveaways per week.
+
+As I understand it, 2021’s pivot for the Epic Games Store involves easing off the free games and some of the smaller ‘guaranteed’ developer advances, while making simultaneous Epic, Steam and console releases easier for the average dev. (The[EGS Store Submission page](https://www.epicgames.com/store/en-US/about)seems to be working better for devs nowadays, though subjective ‘quality standards’ are still clearly applied.)
+
+So, just to re-iterate - it’s good to put your game on Epic Games Store as early as you can, if they’ll let you! Balancing Monkeys’ non-violent indie city builder[Before We Leave](https://www.epicgames.com/store/en-US/product/before-we-leave/home)reported 50,000 EGS sales as of December (the[related Gamasutra advice blog](https://www.gamasutra.com/blogs/SamBarham/20201203/374712/Using_luck_to_your_advantage_a_marketing_strategy_for_developers.php)by Sam Barham is good btw!) It was Epic exclusive, of course, but looks like a great game, and is[one of just 10 city-builders](https://www.epicgames.com/store/en-US/browse?sortBy=releaseDate&sortDir=DESC&tag=CITY%20BUILDER&pageSize=30)on the platform.
+
+Long-term, I’m wildly guessing that EGS sales will normalize to 10-20% of Steam sales (or less?) for simultaneously released games. We’ll see. Right now we have near-zero public comparables[besides those Democracy 4 numbers](https://www.positech.co.uk/cliffsblog/2020/12/03/democracy-4-in-early-access-after-2-months/), which are not ‘apples to apples’ for multiple reasons. So..[hit me up](mailto:simon@gamediscover.co)if you know, eh?
+
+**The game discovery news round-up..**
+--------------------------------------
+
+[![Image 3: Steam game festival: play what's next on a background of purple](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F352c2d77-ef4e-4911-9333-c055c1f12a62_800x367.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F352c2d77-ef4e-4911-9333-c055c1f12a62_800x367.png)
+After that particular duo of analytical gems (or lumps of fool’s good, depending on who you talk to), we have just a whole bunch of good platform and discovery news to get through. So let’s get to it:
+
+*   RockPaperShotgun[reminds us all what I presume you haven’t forgotten](https://www.rockpapershotgun.com/steam-game-festival-returns-next-week-with-over-500-free-demos), which is the next Steam Games Festival - officially called the February edition, since seasons can be confusing & duplicative - is kicking off on February 3rd at 6pm GMT (10am PT), and runs until February 9th. More than 500 demos (!) this time - and[sign up here](https://store.steampowered.com/sale/steamgamefestival)for a reminder when it goes live.
+
+*   Xbox’s latest results came out late last week, and wanted to[highlight the 18 million Game Pass subscribers](https://www.gamasutra.com/view/news/376725/Xbox_Game_Pass_driving_revenue_at_Microsoft_after_crossing_18_million_subscribers.php), up from 15 million back in September. Still robust growth - and that’s just part of 100 million monthly Xbox Live ‘ecosystem’ users. (I will note that Microsoft said the Xbox division’s growth was helped by ALL of first-party, third-party and Game Pass revenues - so basically an ‘in lockdown, everything go boom for games’ scenario.)
+
+*   Just a random tip: I was doing some research on a consulting project and found the ‘50 Games Like’ website, which uses NLP (natural language processing) & other metadata to try to find similar games to.. every single video game, haha. See, for example,[‘23 games like Descenders’](https://www.50gameslike.com/games-like/descenders). It’s B2C-focused and the site layout is a bit clunky, but I think it’s useful for B2B research too, if you’re not paying for expensive research services.
+
+*   Just shouting out[Deconstructor Of Fun](https://www.deconstructoroffun.com/)again, since the F2P mobile game experts published some more 2020 genre retrospectives that I find fascinating & useful. This time, it’s[on mobile RPG trends](https://www.deconstructoroffun.com/blog/2021/1/15/2021-predictions-3-rpg)and[‘mid-core’ strategy games](https://www.deconstructoroffun.com/blog/2021/1/20/2021-predictions-4-strategy-games), as well as[racing & sports](https://www.deconstructoroffun.com/blog/2021/1/26/2021-predictions-5-sports-games-race-into-a-billion-dollar-club). So much underdiscussed info in here on where multiple hundreds of millions are being made yearly.
+
+*   No doubt partly due to Game Pass’ rise to power(tm), Sony is further upping the quality and profile of its free monthly PlayStation Plus games.[February 2021’s PS+ games include](https://blog.playstation.com/2021/01/27/destruction-allstars-control-ultimate-edition-and-concrete-genie-are-your-playstation-plus-games-for-february/)brand new PS5 vehicular combat game Destruction AllStars, as well as Remedy’s Control and neat/overlooked first-party graffiti-’em-up Concrete Genie. Suspect this (and extra aggression with the PlayStation Now line-up) will be their tactic, versus a whole new service reconfiguration.
+
+*   Ah yes, Nintendo results[are out too](https://www.gematsu.com/2021/02/switch-worldwide-sales-top-79-87-million-hyrule-warriors-age-of-calamity-tops-2-84-million-in-the-west), and:_“Nintendo Switch has sold 79.87 million units worldwide as of December 31, 2020, Nintendo announced in its latest[earnings release](https://www.nintendo.co.jp/ir/pdf/2021/210201e.pdf). A total of 11.57 million Switch hardware and 75.85 million software were sold during the three months ended December 31.”_ In other words, super impressive. Ampere’s Piers Harding-Rolls[also noted on Twitter](https://twitter.com/PiersHR/status/1356154841307951104)about an earnings slide with regional hardware/software sales ratio - Japan at 22.4%, Americas at 41.1%, Europe at 25.6%, ‘Other’ (Australia/NZ, rest of Asia?) at 10.9%. Interesting!
+
+*   Microlinks: NPD’s Mat Piscatella points out PS5[finally added a deals page to its store UI](https://twitter.com/MatPiscatella/status/1354920461767856129), glory be; largely haven’t touched the GameStop stock price stuff here, but[read this Matthew Stoller analysis](https://mattstoller.substack.com/p/the-cantillon-effect-and-gamestop)on GameStop & the history of 'speculative fervor';[another handy game pitch PPT template](https://www.plusonewisdom.com/post/game-dev-pitch-template), this one from Silent Games’[Sally Blake](https://twitter.com/Vialixia).
+
+Ending this newsletter, we just ended up reconfiguring the[GameDiscoverCo Plus-exclusive](https://gamediscoverability.substack.com/subscribe)Steam Hype algorithm to favor Steam followers a little bit more, and Steam wishlists a little bit less. (It’s a bit more complex than that, but we’ll explain it to Plus subscribers later this week.)
+
+Anyhow, here’s some of the top Steam games releasing in the next 30 days, based on that algorithm tweak:
+
+[![Image 4: A list of 8 video games, ranked by total points, with additional information on steam chatter, followers, wishlist, community buzz, track record, and release date](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407b69c9-253b-48d6-bb89-50e20ef3952c_1000x348.jpeg)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407b69c9-253b-48d6-bb89-50e20ef3952c_1000x348.jpeg)
+Interesting, huh? Feel free**[to sign up for access](https://gamediscoverability.substack.com/subscribe)**to interactive Hype charts, weekly Plus-exclusive newsletters ([last Friday’s](https://gamediscoverability.substack.com/p/plus-dyson-spheres-big-takeoff-hitmans)looked at Steam, Epic Games Store, Apple Arcade & more), a Plus-only Discord, & more. We appreciate your paid subscriptions, since it helps us to find time to keep sending out the free newsletter to all!
+
+_[We’re[GameDiscoverCo](http://www.gamediscover.co/), a new agency based around one simple issue: how do players find, buy and enjoy your premium PC or console game?]_

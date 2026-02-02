@@ -1,0 +1,11 @@
+# Nvidia and Valve bring Steam-based Linux gaming PCs one step closer to Windows 10
+
+While Windows 10 is by far the most popular operating system for the [best gaming PC](https://www.pcgamesn.com/best-gaming-pc-build), Linux just got a lot more tempting. Nvidia and Valve have partnered up to add Deep Learning Super Sampling (DLSS) to the Steam Proton software, helping you get the most out of your RTX GPUs no matter what distribution you run.
+
+Steam Proton released back in 2018, aiming to run the [best PC games](https://www.pcgamesn.com/best-pc-games) through Linux, even if they don’t have their own specific port. So, if you’ve got a Linux PC packing the [best graphics card](https://www.pcgamesn.com/best-graphics-card) from Nvidia, you can now take full advantage of the hardware-based super sampling tech.
+
+Running games through Steam Proton causes performance hits in some titles, so the addition of DLSS could help [boost fps](https://www.pcgamesn.com/boost-fps) to Windows 10-like standards. However, we’ll have to see how much difference this actually makes once the update is in the hands of the public. Support for Vulkan-based games such as [No Man’s Sky](https://www.pcgamesn.com/no-mans-sky) is arriving this month, while titles that use the DirectX API, like [Call of Duty: Black Ops – Cold War](https://www.pcgamesn.com/call-of-duty-black-ops-cold-war), won’t see support arrive until later this year.
+
+[ProtonDB](https://www.protondb.com/) rates the performance of games running through the Proton layer, showing that it doesn’t run _every_ Steam game flawlessly. We’ll be sticking with Windows 10 on our gaming PC for now.
+
+{"schema":{"page":{"content":{"headline":"Nvidia and Valve bring Steam-based Linux gaming PCs one step closer to Windows 10","type":"news","category":"gaming-hardware"},"user":{"loginstatus":false},"game":{"publisher":"","genre":null,"title":"Gaming hardware","genres":null}}}}

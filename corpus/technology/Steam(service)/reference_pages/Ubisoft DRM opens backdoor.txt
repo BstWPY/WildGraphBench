@@ -1,0 +1,270 @@
+# Ubisoft DRM opens backdoor
+
+Ubisoft DRM opens backdoor - The H Security: News and Features
+
+===============
+
+The Wayback Machine - http://www.h-online.com/security/news/item/Ubisoft-DRM-opens-backdoor-1655653.html
+
+[![Image 2: The H Security](http://www.h-online.com/security/icons/security_logo_theH.gif)](http://www.h-online.com/security/)
+
+*   [Security](http://www.h-online.com/security/news/item/Ubisoft-DRM-opens-backdoor-1655653.html# "The H navigation")
+    *   ##### Channels
+
+        *   [Home](http://www.h-online.com/)
+        *   [Open](http://www.h-online.com/open/)
+        *   [Security](http://www.h-online.com/security/)
+        *   [Developer](http://www.h-online.com/developer/)
+
+    *   ##### Services
+
+        *   [Internet Toolkit](http://www.h-online.com/security/services/Internet-Toolkit-747773.html)
+        *   [Update Check](http://www.h-online.com/security/services/The-H-Update-Check-880736.html)
+
+In association with heise online
+
+*   [Last 7 days](http://www.h-online.com/security/news/ "Last 7 days")
+*   [News Archive](http://www.h-online.com/security/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/security/features/ "Features")
+
+[« previous](http://www.h-online.com/security/news/item/Lost-Found-Virus-pick-n-mix-worm-plays-AC-DC-Flame-secrets-revealed-1655164.html) | [next »](http://www.h-online.com/security/news/item/Cloud-service-cracks-VPN-passwords-in-24-hours-1656104.html)
+
+30 July 2012, 17:57
+
+Ubisoft DRM opens backdoor
+==========================
+
+*   [![Image 3: submit to slashdot](http://www.h-online.com/icons/syndication/slashdot16x14.gif)](http://slashdot.org/slashdot-it.pl?op=basic&url=http%3A%2F%2Fwww.h-online.com%2Fsecurity%2Fnews%2Fitem%2FUbisoft-DRM-opens-backdoor-1655653.html&title=Ubisoft%20DRM%20opens%20backdoor&tags=security&notes=A%20Google%20researcher%20has%20discovered%20that%20Ubisofts%20Uplay%20DRM%20opens%20a%20backdoor%20allowing%20attackers%20to%20remotely%20take%20control%20of%20a%20system.%20Ubisoft%20has%20issued%20an%20update%20to%20close%20the%20hole)
+*   [![Image 4: StumbleUpon](http://www.h-online.com/icons/syndication/stumble16x14.gif)](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.h-online.com%2Fsecurity%2Fnews%2Fitem%2FUbisoft-DRM-opens-backdoor-1655653.html&title=Ubisoft%20DRM%20opens%20backdoor)
+*   [![Image 5: submit to reddit](http://www.h-online.com/icons/syndication/reddit16x14.gif)](http://reddit.com/submit?url=http%3A%2F%2Fwww.h-online.com%2Fsecurity%2Fnews%2Fitem%2FUbisoft-DRM-opens-backdoor-1655653.html&title=Ubisoft%20DRM%20opens%20backdoor)
+
+*   2 clicks for more privacy: you need to click here to activate the button and send your recommendation to Facebook. An activated button will send information to third parties even without clicking it – see _i_. not connected to Facebook![Image 6: Facebook "Like"-Dummy](http://www.h-online.com/js/plugins/socialshareprivacy/images/dummy_facebook_like.png) 
+*   2 clicks for more privacy: you need to click here to activate the button and send your recommendation to Twitter. An activated button will send information to third parties even without clicking it – see _i_. nicht mit Twitter verbunden![Image 7: "Tweet this"-Dummy](http://www.h-online.com/js/plugins/socialshareprivacy/images/dummy_twitter.png) 
+*   2 clicks for more privacy: you need to click here to activate the button and send your recommendation to Google+. An activated button will send information to third parties even without clicking it – see _i_. nicht mit Google+ verbunden![Image 8: "Google+1"-Dummy](http://www.h-online.com/js/plugins/socialshareprivacy/images/dummy_gplus.png) 
+*   [If you activate these buttons by clicking on them, information will get transfered to Facebook, Twitter or Google in the USA and potentially stored there. Find out more by clicking on the _i_](http://www.h-online.com/features/Two-clicks-for-more-privacy-1783256.html)Einstellungen Permanently enable and agree to transfer information:- [x] Facebook - [x] Twitter - [x] Google+  
+
+![Image 9: Uplay patched](http://www.h-online.com/imgs/43/8/9/7/0/1/0/uplaypatch200-6018f7a1985763c7.png) The Uplay copy protection system from the game publisher [Ubisoft](http://ubisoft.com/) comes with a browser plugin that tears a huge security hole in the computer. It is possible for attackers to use a few lines of JavaScript to persuade the plugin to launch arbitrary processes – the potential victim only needs to open a specially crafted web page. The problem was discovered by Google security expert Tavis Ormandy, who, while on vacation, bought "Assassin's Creed Revelations" and [reported](http://seclists.org/fulldisclosure/2012/Jul/375) his observations on the Full Disclosure mailing list – apparently he did not inform Ubisoft about the problem beforehand.
+
+Uplay is installed with numerous games from the publisher such as Anno 2070, various Assassin's Creed editions, Heroes of Might and Magic VI, The Settlers 7, and various Tom Clancy titles on the system. A [detailed list](http://en.wikipedia.org/wiki/Ubisoft#Uplay) can be found at Wikipedia. It is also possible to download and install Uplay separately.
+
+Using a [proof-of-concept page](http://pastehtml.com/view/c6gxl1a79.html), users can check if their system is vulnerable: the page attempts to start the Windows Calculator. Mozilla has now placed the Uplay plugin [on its blacklist](https://addons-dev.allizom.org/en-US/firefox/blocked/p103) which stops it from running on Firefox. Ubisoft has not yet commented on the issue. However, the company recently [distributed an update](http://forums.ubi.com/showthread.php/699756-Ubisoft-DRM-rootkit-may-allow-access-to-PC-files?s=14dfb48e3f481a0a8c6aabc8da7fbc0b&p=8510888&viewfull=1#post8510888), version 2.04, which seems to eliminate the problem. The version number can be found by clicking on the i-button, which can be found in the top right corner of the Uplay window.
+
+([djwm](mailto:djwm@h-online.com "Dj Walker-Morgan"))
+
+[« previous](http://www.h-online.com/security/news/item/Lost-Found-Virus-pick-n-mix-worm-plays-AC-DC-Flame-secrets-revealed-1655164.html) | [next »](http://www.h-online.com/security/news/item/Cloud-service-cracks-VPN-passwords-in-24-hours-1656104.html)
+
+[Print Version](http://www.h-online.com/security/news/item/Ubisoft-DRM-opens-backdoor-1655653.html?view=print) | [Send by email](http://www.h-online.com/security/news/item/Ubisoft-DRM-opens-backdoor-1655653.html?view=mail) | Permalink: [http://h-online.com/-1655653](http://h-online.com/-1655653)
+
+#### Also on The H:
+
+*   [Google pays out record $31,336 to researcher](http://www.h-online.com/security/news/item/Google-pays-out-record-31-336-to-researcher-1853049.html/from/related "Google pays out record $31,336 to researcher")
+*   [Current Foxit Reader can execute malicious code](http://www.h-online.com/security/news/item/Current-Foxit-Reader-can-execute-malicious-code-1780636.html/from/related "Current Foxit Reader can execute malicious code ")
+*   [Ubisoft investigating compromised Uplay accounts](http://www.h-online.com/security/news/item/Ubisoft-investigating-compromised-Uplay-accounts-1778618.html/from/related "Ubisoft investigating compromised Uplay accounts ")
+*   [New Mac malware exploits old Java hole](http://www.h-online.com/security/news/item/New-Mac-malware-exploits-old-Java-hole-1526519.html/from/related "New Mac malware exploits old Java hole")
+*   [Critical vulnerability in IrfanView plugin](http://www.h-online.com/security/news/item/Critical-vulnerability-in-IrfanView-plugin-1539532.html/from/related "Critical vulnerability in IrfanView plugin")
+*   [New trojan for zero day exploit in MS Office 2000](http://www.h-online.com/security/news/item/New-trojan-for-zero-day-exploit-in-MS-Office-2000-731436.html/from/related "New trojan for zero day exploit in MS Office 2000")
+
+![Image 10: The H Open Headlines](http://www.h-online.com/imgs/43/6/6/3/4/7/0/The-H_Security_Headlines-aa9abb476998b71b.gif)
+*   [The H is closing down](http://www.h-online.com/security/news/item/The-H-is-closing-down-1920027.html "The H is closing its doors four and a half years after heise online UK was redesigned as a open source and security news and features web destination")
+*   [Android and its password problems open doors for spies](http://www.h-online.com/security/news/item/Android-and-its-password-problems-open-doors-for-spies-1918596.html "Android's rudimentary backup feature saves Wi-Fi passwords in plain text on Google servers. This is not in itself news, but it takes on new significance in the light of PRISM")
+*   [Critical vulnerabilities in numerous ASUS routers](http://www.h-online.com/security/news/item/Critical-vulnerabilities-in-numerous-ASUS-routers-1918469.html "Compromising ASUS routers on which the storage service AiCloud is activated is apparently a simple matter. Attackers can access private data and even navigate around the local network")
+*   [NSS 3.15.1 brings TLS 1.2 support to Firefox](http://www.h-online.com/security/news/item/NSS-3-15-1-brings-TLS-1-2-support-to-Firefox-1918133.html "Network Security Services (NSS), the collection of cryptographic libraries which is used, among others, by Mozilla's Firefox browser, now supports TLS 1.2. This enables the use of TLS with HMAC-SHA256 ciphers")
+*   [Second Android signature attack disclosed](http://www.h-online.com/security/news/item/Second-Android-signature-attack-disclosed-1918061.html "A second hole in Android's signature validation has been disclosed, though there are greater limitations to the new technique. Google and CyanogenMod have patched the holes but how other vendors will handle it is to be seen")
+*   [Black Hat 2013: NSA director to speak at hacker conference](http://www.h-online.com/security/news/item/Black-Hat-2013-NSA-director-to-speak-at-hacker-conference-1917800.html "The organisers of the Black Hat conference have attracted the director of the American NSA, General Keith Alexander, as a keynote speaker. This has caused controversy")
+
+* * *
+
+![Image 11: A 130x24 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/8/4/3/6/7/security_teaserlogo-636122bcad36f2a7.gif)
+*   ##### [Content Security Policy halts XSS in its tracks](http://www.h-online.com/security/features/Content-Security-Policy-halts-XSS-in-its-tracks-1892346.html "Content Security Policy halts XSS in its tracks")
+
+[![Image 12: Content Security Policy halts XSS in its tracks](http://www.h-online.com/imgs/43/1/0/3/8/9/4/6/CSP_kicker-41fa163408fdf0fd.png)](http://www.h-online.com/security/features/Content-Security-Policy-halts-XSS-in-its-tracks-1892346.html "Content Security Policy halts XSS in its tracks") 
+[Cross-site scripting (XSS) is one of the biggest problems faced by webmasters. The new Content Security Policy standard should finally provide some relief more»](http://www.h-online.com/security/features/Content-Security-Policy-halts-XSS-in-its-tracks-1892346.html "Content Security Policy halts XSS in its tracks")
+
+*   ##### [Skype's ominous link checking: Facts and speculation](http://www.h-online.com/security/features/Skype-s-ominous-link-checking-Facts-and-speculation-1865629.html "Skype's ominous link checking: Facts and speculation")
+
+[![Image 13: Skype Listening In graphic](http://www.h-online.com/imgs/43/1/0/2/5/2/0/9/skypesnk_220-19a720b1fe06c456.png)](http://www.h-online.com/security/features/Skype-s-ominous-link-checking-Facts-and-speculation-1865629.html "Skype's ominous link checking: Facts and speculation") 
+[Our associate's discovery that URLs sent through Skype are then visited by Microsoft has caused quite a stir. A little more information has now emerged and leads to even more questions more»](http://www.h-online.com/security/features/Skype-s-ominous-link-checking-Facts-and-speculation-1865629.html "Skype's ominous link checking: Facts and speculation")
+
+*   ##### [Password protection for everyone](http://www.h-online.com/security/features/Password-protection-for-everyone-1795647.html "Password protection for everyone")
+
+[![Image 14: Password protection for everyone](http://www.h-online.com/imgs/43/9/7/7/7/8/4/passwordprotection_kicker-136f5ec21c52843b.png)](http://www.h-online.com/security/features/Password-protection-for-everyone-1795647.html "Password protection for everyone") 
+[Those who heed well-intentioned recommendations and use a separate password for every service either require a photographic memory or the right techniques to keep the multitude of passwords under control more»](http://www.h-online.com/security/features/Password-protection-for-everyone-1795647.html "Password protection for everyone")
+
+*   ##### [Two clicks for more privacy](http://www.h-online.com/features/Two-clicks-for-more-privacy-1783256.html "Two clicks for more privacy")
+
+[![Image 15: Two clicks for more privacy](http://www.h-online.com/imgs/43/9/6/9/7/1/9/twoclicks_kicker-f4eee08a8b1c5b35.png)](http://www.h-online.com/features/Two-clicks-for-more-privacy-1783256.html "Two clicks for more privacy") 
+["Like" buttons for Facebook, Google+ and Twitter present a privacy problem. A 2-click concept developed by heise online addresses this problem more»](http://www.h-online.com/features/Two-clicks-for-more-privacy-1783256.html "Two clicks for more privacy")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+*   [![Image 16: July's Community Calendar](http://www.h-online.com/imgs/43/8/7/5/1/1/1/h_cc_07_jul-110ac047c092a538.png)](http://www.h-online.com/open/features/The-H-Community-Calendar-July-2013-Update-2-1895335.html "July's Community Calendar") 
+
+* * *
+
+![Image 17: A 116x24 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/6/4/3/0/6/hot_on_theH-3db637ac9c827b9e.gif)
+*   ##### [What's new in SUSE Linux Enterprise 11 SP3](http://www.h-online.com/open/features/What-s-new-in-SUSE-Linux-Enterprise-11-SP3-1914471.html "What's new in SUSE Linux Enterprise 11 SP3")
+
+[![Image 18: What's new in SUSE Linux Enterprise 11 SP3](http://www.h-online.com/imgs/43/1/0/4/7/7/3/4/WhatsNew_SUSE_LE_11_SP3_kicker-00a6e38b833ed20b.png)](http://www.h-online.com/open/features/What-s-new-in-SUSE-Linux-Enterprise-11-SP3-1914471.html "What's new in SUSE Linux Enterprise 11 SP3") 
+[Service Pack 3 includes numerous enhancements for virtualisation and, by adding Secure Boot support and new drivers, beefs up support for newer hardware. There are also numerous enhancements relating to server storage and networking more»](http://www.h-online.com/open/features/What-s-new-in-SUSE-Linux-Enterprise-11-SP3-1914471.html "What's new in SUSE Linux Enterprise 11 SP3")
+
+*   ##### [What's new in Fedora 19](http://www.h-online.com/open/features/What-s-new-in-Fedora-19-1910304.html "What's new in Fedora 19")
+
+[![Image 19: What's new in Fedora 19](http://www.h-online.com/imgs/43/1/0/4/5/1/0/0/f19_220-d9f86c63d4720ba7.png)](http://www.h-online.com/open/features/What-s-new-in-Fedora-19-1910304.html "What's new in Fedora 19") 
+[In a nod to fans of classic desktop interfaces, the new Fedora includes a MATE variant and classic mode for GNOME. Systemd now takes care of containers and assigning network names. New drivers support 3D acceleration in newer Radeon graphics cards more»](http://www.h-online.com/open/features/What-s-new-in-Fedora-19-1910304.html "What's new in Fedora 19")
+
+*   ##### [What's new in Linux 3.10](http://www.h-online.com/open/features/What-s-new-in-Linux-3-10-1902270.html "What's new in Linux 3.10")
+
+[![Image 20: What's new in Linux 3.10](http://www.h-online.com/imgs/43/1/0/4/3/2/4/0/WhatsNewIn_Linux310_kicker-ca825b2356a627aa.png)](http://www.h-online.com/open/features/What-s-new-in-Linux-3-10-1902270.html "What's new in Linux 3.10") 
+[A second SSD caching framework and support for the new Radeons' video decoder are two of the most important enhancements in Linux 3.10, which is now out. This version also includes several new and improved drivers and a change to the network stack to speed up HTTP connections more»](http://www.h-online.com/open/features/What-s-new-in-Linux-3-10-1902270.html "What's new in Linux 3.10")
+
+*   ##### [Free Software post-PRISM](http://www.h-online.com/open/features/Free-Software-post-PRISM-1896357.html "Free Software post-PRISM")
+
+[![Image 21: Free Software post-PRISM](http://www.h-online.com/imgs/43/1/0/4/1/6/5/9/post-PRISM-kicker-e12da2e633cff890.png)](http://www.h-online.com/open/features/Free-Software-post-PRISM-1896357.html "Free Software post-PRISM") 
+[The news has been full of talk of spying, whistleblowing and data mining. Glyn Moody looks at how open source has been used to threaten freedom and privacy and how it could be used to defend them more»](http://www.h-online.com/open/features/Free-Software-post-PRISM-1896357.html "Free Software post-PRISM")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+![Image 22: A 94x25 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/8/4/3/5/9/open_teaserlogo-c4daa86e1d39dd37.gif)
+*   ##### [Kernel Log: Coming in 3.10 (Part 4) - Drivers](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-4-Drivers-1897675.html "Kernel Log: Coming in 3.10 (Part 4) - Drivers")
+
+[![Image 23: Kernel Log: Coming in 3.10 (Part 3) [--] Infrastructure](http://www.h-online.com/imgs/43/1/0/4/2/6/7/2/comingin310_4_kicker-4977194bfb0de0d7.png)](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-4-Drivers-1897675.html "Kernel Log: Coming in 3.10 (Part 4) - Drivers") 
+[Linux 3.10 will be able to use the video acceleration features offered by Radeon graphics cores. Systems with Intel graphics will wake from standby faster. Linux now has an input device driver for Apple's infrared receiver more»](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-4-Drivers-1897675.html "Kernel Log: Coming in 3.10 (Part 4) - Drivers")
+
+*   ##### [The trouble with "Business Source"](http://www.h-online.com/open/features/The-trouble-with-Business-Source-1886354.html "The trouble with \"Business Source\"")
+
+[![Image 24: Business Source artwork](http://www.h-online.com/imgs/43/1/0/3/5/3/8/0/business_source_220-3a0844989a78d734.png)](http://www.h-online.com/open/features/The-trouble-with-Business-Source-1886354.html "The trouble with \"Business Source\"") 
+[The problem of creating funding in a new software business is a major one, and doubly so for open source based companies. Michael Widenius recently described his solution to the problem, "Business Source", claiming it delivers "most of the benefits of open source". The H took a look to see how that held up more»](http://www.h-online.com/open/features/The-trouble-with-Business-Source-1886354.html "The trouble with \"Business Source\"")
+
+*   ##### [Kernel Log: Coming in 3.10 (Part 3) - Infrastructure](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-3-Infrastructure-1897249.html "Kernel Log: Coming in 3.10 (Part 3) - Infrastructure")
+
+[![Image 25: Kernel Log: Coming in 3.10 (Part 3) [--] Infrastructure](http://www.h-online.com/imgs/43/1/0/4/2/3/2/3/comingin310_3_kicker-151cd7b9e9660f05.png)](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-3-Infrastructure-1897249.html "Kernel Log: Coming in 3.10 (Part 3) - Infrastructure") 
+[Kernel developers have toned down an over-eager feature for protecting against the Samsung UEFI bug and added a function for reducing timer interrupt overhead. Improvements have also been made to Hyper-V support and instructions for reporting errors more»](http://www.h-online.com/open/features/Kernel-Log-Coming-in-3-10-Part-3-Infrastructure-1897249.html "Kernel Log: Coming in 3.10 (Part 3) - Infrastructure")
+
+*   ##### [Whatever happened to Google?](http://www.h-online.com/open/features/Whatever-happened-to-Google-1875864.html "Whatever happened to Google?")
+
+[![Image 26: Whatever happened to Google?](http://www.h-online.com/imgs/43/1/0/3/2/1/8/4/google_kicker-a57bd6391d520d49.png)](http://www.h-online.com/open/features/Whatever-happened-to-Google-1875864.html "Whatever happened to Google?") 
+[Although Google continues to support a variety of open projects and people, Glyn Moody notes that, following recent changes to Google Code and Google Talk, concern is growing that something fundamental has changed more»](http://www.h-online.com/open/features/Whatever-happened-to-Google-1875864.html "Whatever happened to Google?")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+![Image 27: A 145x25 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/8/4/3/6/5/The-H_Developer-d0875a1e2347a603.png)
+*   ##### [Java EE 7 at a glance](http://www.h-online.com/developer/features/Java-EE-7-at-a-glance-1889207.html "Java EE 7 at a glance")
+
+[![Image 28: Java EE 7 at a glance](http://www.h-online.com/imgs/43/1/0/3/7/5/6/6/javaee7ataglance-b25be8fa3115f750.png)](http://www.h-online.com/developer/features/Java-EE-7-at-a-glance-1889207.html "Java EE 7 at a glance") 
+[The next step for Java EE 6 was planned to be cloud support but the collapse of ambitious developer plans has meant Java EE 7 arrived with few fundamentally new aspects, representing more a consistent effort to round off existing features more»](http://www.h-online.com/developer/features/Java-EE-7-at-a-glance-1889207.html "Java EE 7 at a glance")
+
+*   ##### [Continuous database migration with Liquibase and Flyway](http://www.h-online.com/developer/features/Continuous-database-migration-with-Liquibase-and-Flyway-1860080.html "Continuous database migration with Liquibase and Flyway")
+
+[![Image 29: Continuous database migration with Liquibase and Flyway](http://www.h-online.com/imgs/43/1/0/2/1/3/3/9/Liquibase_Flyway_kicker-12785335ab912b1a.png)](http://www.h-online.com/developer/features/Continuous-database-migration-with-Liquibase-and-Flyway-1860080.html "Continuous database migration with Liquibase and Flyway") 
+[An application's version-controlled source code is stored in the repository. Why not that of the database? To reproduce arbitrary database states in development, test or production environments, two powerful Java libraries are at hand that can be seamlessly integrated into a build for an agile Continuous Delivery more»](http://www.h-online.com/developer/features/Continuous-database-migration-with-Liquibase-and-Flyway-1860080.html "Continuous database migration with Liquibase and Flyway")
+
+*   ##### [Unit testing with Node.js](http://www.h-online.com/developer/features/Unit-testing-with-Node-js-1829727.html "Unit testing with Node.js")
+
+[![Image 30: Unit testing with Node.js](http://www.h-online.com/imgs/43/1/0/0/1/1/1/3/unit_testing_kicker-1e0c6d0ef31cd807.png)](http://www.h-online.com/developer/features/Unit-testing-with-Node-js-1829727.html "Unit testing with Node.js") 
+[Consistent unit testing is a basic quality requirement in modern software rdevelopment. Mocha is a framework for writing and executing such tests in Node.js more»](http://www.h-online.com/developer/features/Unit-testing-with-Node-js-1829727.html "Unit testing with Node.js")
+
+*   ##### [Ruby 2.0 - the 20th birthday present](http://www.h-online.com/developer/features/Ruby-2-0-the-20th-birthday-present-1810233.html "Ruby 2.0 - the 20th birthday present ")
+
+[![Image 31: Ruby 2.0 at 20](http://www.h-online.com/imgs/43/9/8/7/9/7/7/ruby20-0f7cf4be822e71eb.png)](http://www.h-online.com/developer/features/Ruby-2-0-the-20th-birthday-present-1810233.html "Ruby 2.0 - the 20th birthday present ") 
+[On 24 February 2013, the Ruby community celebrated the 20th birthday of its programming language. Ruby 2.0, a new major release that includes various exciting new features, was released at the same time and The H looks at some of the major changes more»](http://www.h-online.com/developer/features/Ruby-2-0-the-20th-birthday-present-1810233.html "Ruby 2.0 - the 20th birthday present ")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+![Image 32: A 120x24 small image, likely a logo, icon or avatar](http://www.h-online.com/imgs/43/8/8/4/3/6/9/hits_of_theH-5f0b199d8fce0589.gif)
+*   ##### [Linux Mint 15: A better Ubuntu for the desktop](http://www.h-online.com/open/features/Linux-Mint-15-A-better-Ubuntu-for-the-desktop-1873682.html "Linux Mint 15: A better Ubuntu for the desktop")
+
+[![Image 33: Linux Mint 15](http://www.h-online.com/imgs/43/1/0/3/0/4/6/3/LinuxMint15_kicker-658be8558318e71c.png)](http://www.h-online.com/open/features/Linux-Mint-15-A-better-Ubuntu-for-the-desktop-1873682.html "Linux Mint 15: A better Ubuntu for the desktop") 
+[The Linux Mint project has announced "the most ambitious release since the start of the project". Linux Mint 15 promises a focus on the desktop that Ubuntu has been neglecting lately. The H investigates whether the release delivers on these ambitions more»](http://www.h-online.com/open/features/Linux-Mint-15-A-better-Ubuntu-for-the-desktop-1873682.html "Linux Mint 15: A better Ubuntu for the desktop")
+
+*   ##### [What's new in Linux 3.9](http://www.h-online.com/open/features/What-s-new-in-Linux-3-9-1845705.html "What's new in Linux 3.9")
+
+[![Image 34: What's new in Linux 3.8](http://www.h-online.com/imgs/43/1/0/1/2/2/0/9/WhatsNewIn_Linux39_kicker-914cd4254f05caf9.png)](http://www.h-online.com/open/features/What-s-new-in-Linux-3-9-1845705.html "What's new in Linux 3.9") 
+[The Linux kernel is finally able to use SSDs as hard-disk cache. Changes to the network subsystem promise to improve the way server jobs are distributed across multiple processor cores. Linux 3.9 also includes drivers for new AMD graphics chips and soon-expected Wi-Fi components from Intel more»](http://www.h-online.com/open/features/What-s-new-in-Linux-3-9-1845705.html "What's new in Linux 3.9")
+
+*   ##### [Replacing Google Reader](http://www.h-online.com/open/features/Replacing-Google-Reader-1829086.html "Replacing Google Reader")
+
+[![Image 35: Replacing Google Reader](http://www.h-online.com/imgs/43/1/0/0/0/6/3/5/replacing_Reader_kicker-a1442215c6afd1ad.png)](http://www.h-online.com/open/features/Replacing-Google-Reader-1829086.html "Replacing Google Reader") 
+[For a large number of internet users the current challenge is finding a replacement for Google Reader. The H's Fabian Scherschel has looked at the functionality that made Google Reader popular and the current best alternatives to the Reader experience more»](http://www.h-online.com/open/features/Replacing-Google-Reader-1829086.html "Replacing Google Reader")
+
+*   ##### [Attacking TrueCrypt](http://www.h-online.com/security/features/Attacking-TrueCrypt-1735157.html "Attacking TrueCrypt")
+
+[![Image 36: Attacking TrueCrypt](http://www.h-online.com/imgs/43/9/3/6/9/6/9/attacking-truecrypt220-9605f21f63ced97c.png)](http://www.h-online.com/security/features/Attacking-TrueCrypt-1735157.html "Attacking TrueCrypt") 
+[TrueCrypt is considered the software of choice for encrypting data. A small utility called TCHead systematically takes on this encryption more»](http://www.h-online.com/security/features/Attacking-TrueCrypt-1735157.html "Attacking TrueCrypt")
+
+*   1
+*   2
+*   3
+*   4
+
+* * *
+
+#### [The H](http://www.h-online.com/ "The H")
+
+*   [Last 7 days](http://www.h-online.com/news/ "Last 7 days news and features")
+*   [News Archive](http://www.h-online.com/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/features/ "Features")
+
+#### [The H Open](http://www.h-online.com/open/ "The H Open")
+
+*   [Last 7 days](http://www.h-online.com/open/news/ "Last 7 days news and features")
+*   [News Archive](http://www.h-online.com/open/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/open/features/ "Features")
+
+#### [The H Security](http://www.h-online.com/security/ "The H Security")
+
+*   [Last 7 days](http://www.h-online.com/security/news/ "Last 7 days news and features")
+*   [News Archive](http://www.h-online.com/security/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/security/features/ "Features")
+
+#### [The H Developer](http://www.h-online.com/developer/ "The H Developer")
+
+*   [Last 7 days](http://www.h-online.com/developer/news/ "Last 7 days news and features")
+*   [News Archive](http://www.h-online.com/developer/news/archive/ "News Archive")
+*   [Features](http://www.h-online.com/developer/features/ "Features")
+
+#### [The H Internet Toolkit](http://www.h-online.com/security/services/Internet-Toolkit-747773.html)
+
+*   [Update Check](http://www.h-online.com/security/services/The-H-Update-Check-Closed-until-further-notice-880736.html)
+*   [Anti-Virus](http://www.h-online.com/security/services/Anti-Virus-747579.html)
+*   [Browsercheck](http://www.h-online.com/security/services/Browsercheck-732895.html)
+*   [Emailcheck](http://www.h-online.com/security/services/Emailcheck-747686.html)
+*   [Test SSL certificates](http://www.h-online.com/nettools/tools/chksslkey)
+*   [Whois query](http://www.h-online.com/nettools/tools/whois-query)
+
+*   [My IP address](http://www.h-online.com/nettools/tools/ip/)
+*   [Traceroute](http://www.h-online.com/nettools/tools/traceroute)
+*   [DNS query](http://www.h-online.com/nettools/tools/dns-query)
+*   [Subnet calculator](http://www.h-online.com/nettools/subnet-calculator.shtml)
+*   [MAC addresses](http://www.h-online.com/nettools/tools/mac-addresses)
+
+*   [RFCs](http://www.h-online.com/nettools/rfc/)
+*   [Ping](http://www.h-online.com/nettools/tools/ping)
+*   [Bandwidth calculator](http://www.h-online.com/nettools/tools/bandwidth-calculator)
+*   [Spam list query](http://www.h-online.com/nettools/tools/spam-list-query)
+*   [IP addresses](http://www.h-online.com/security/services/Reserved-IPv4-addresses-732899.html)
+
+Copyright © 2013 [Heise Media UK Ltd.](http://www.h-online.com/Contact-273335.html)[About Cookies](http://www.h-online.com/Cookie-information-1582679.html)[Privacy Policy](http://www.h-online.com/Privacy-Policy-of-h-online-com-273337.html)[Contact us](http://www.h-online.com/Contact-273335.html)
+
+![Image 37: A 1x1 image, likely be a tacker probe](http://www.h-online.com/ivw-bin/ivw/CP/security/news/item/Ubisoft-DRM-opens-backdoor-1655653.html)
+
+[![Image 38](http://www.etracker.de/cnt.php?v=3.0&java=y&tc=1382162390310&et_tz=0&et=86m8Nm&et_ilevel=0&swidth=800&sheight=600&siwidth=1024&siheight=1024&scookie=1&scolor=24&et_pagename=http%3A/www.h-online.com/security/news/item/Ubisoft-DRM-opens-backdoor-1655653.html&et_areas=security%252Fnews&et_target=,0,0,0,0&et_se=4&et_url=http%3A/www.h-online.com/security/news/item/Ubisoft-DRM-opens-backdoor-1655653.html&slang=en-US&p=Chrome%20PDF%20Viewer%3BChromium%20PDF%20Viewer%3BMicrosoft%20Edge%20PDF%20Viewer%3BWebKit%20built-in%20PDF%3BShockwave%20Flash%2032.0%3BJavascript%201.5)](http://www.h-online.comhttp//www.etracker.de/app?et=86m8Nm)

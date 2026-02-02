@@ -1,0 +1,138 @@
+# Steam Controller, SteamVR, Steam Machines: Valve's hardware push in photos
+
+Also includes impressions of the "final" controller and a quick look at Steam Link.
+-----------------------------------------------------------------------------------
+
+[![Image 1: Steam controller laying on a white surface](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4150-980x653.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4150.jpg)
+
+_Sam Machkovech_
+
+The "final" version of the Steam Controller.
+
+1.   [![Image 2: Black Steam Controller with two touchpads and a joystick](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4150-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4150-980x653.jpg)_Sam Machkovech_
+
+The "final" version of the Steam Controller. 
+2.   [![Image 3: The black rear of a Steam controller shows the Steam logo in a gray recessed area](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4154-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4154-980x653.jpg)_Sam Machkovech_
+
+Both of the battery covers' flaps can be depressed as an in-game button press. In our GDC demos of _Counter-Strike GO_ and _Unreal Tournament_, these were mapped to jump and crouch maneuvers. 
+3.   [![Image 4: Close-up view of a hand holding a black Xbox controller](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4157-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4157-980x653.jpg)
+Press the back bumper!
+
+4.   [![Image 5: The detail shot features the top right of the Steam Deck](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4159-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4159-980x653.jpg)
+The deeper "trigger" button comes with a GameCube-like click when pressed fully, though it doesn't take as long to press down as the Nintendo pad's did.
+
+5.   [![Image 6: Close up of a black Steam Deck directional pad and right thumb stick](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4161-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4161-980x653.jpg)
+Curiously, Valve didn't demo any games that made use of d-pad functionality. Based on our aimless tapping of it, we don't feel comfortable recommending it as anything close to a platformer-worthy pad.
+
+6.   [![Image 7: Close up of the left side of a Steam controller including the Steam button, the direction-pad selector, the 'Y', 'X', 'B', and 'A' buttons, and the left haptic-feedback trackpad](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4162-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4162-980x653.jpg)
+The primary, mouse-like touchpad. Like in prior versions, it can be clicked down for an alternate button press, and it generates a trackpad-like sensation as your thumb glides along it.
+
+7.   [![Image 8: Close up of a game controller and the top of a person's hand](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4164-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4164-980x653.jpg)
+Single joystick button depth.
+
+8.   [![Image 9: Duracell AA battery placed in an Xbox controller](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4169-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4169-980x653.jpg)
+The battery cover pops up when the bottom button is pushed. We found this out accidentally. Also, there's no rechargeable battery, nor does it work solely with a USB cord attached; this thing requires AA batteries.
+
+9.   [![Image 10: Person operates a black handheld video game controller with both hands](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4171-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4171-980x653.jpg)
+In Kyle's hands.
+
+SAN FRANCISCO—Enough [press releases](http://arstechnica.com/gaming/2015/03/valve-announces-50-steam-link-streaming-box-free-source-2-engine/), enough GDC teases. On Wednesday, Valve Software finally unveiled a full range of Steam Machines, along with the "final"Steam Controller, the Steam Link streaming box, and even the SteamVR hardware. We'll soon talk at length about our half-hour demo with SteamVR, composed of six distinct, interactive demos, but for now, we'll recap our impressions of the rest of Valve's hardware spread.
+
+Valve Software confirmed that we tested the "final" version of the Steam Controller, which received a November 2015 release window in an announcement yesterday. That final design includes two touchpads (with the left one having a d-pad shape etched onto it),a back panel that can be clicked down with middle fingers on both sides, a single joystick—[finally](http://arstechnica.com/gaming/2014/03/steam-controller-prototype-version-2-impressions-buttoned-up/)—and an Xbox-style spread of face buttons and shoulder buttons. The above gallery has captions with some thoughts on the controller's features, including the new GameCube-like triggers.
+
+[![Image 11: A TV showing a menu with various settings for a gamepad](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4175-980x653.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4175.jpg)
+
+SteamOS includes a few Steam Controller tweaking pages.
+
+We demoed three games, all of which launched with WASD-and-mouse control schemes on PC: _The Talos Principle_, _Counter-Strike: Global Offensive_, and the new, in-development version of _Unreal Tournament_. In all three, Kyle and I still struggled to feel competent with the right-hand touchpad as a mouse replacement.We played against easiest-difficulty bots in the latter two games and could barely line up solid gunshots most of the time. It's one thing to say we'll "get used to it" after more time with the controller—the increased speed and "momentum roll" of swiping the touchpad seem like features that will really pay off for people who get used to the Steam Controller—but the bots we faced practically stood still most of the time, and we're not _that_ bad at first-person shooters.
+
+[![Image 12: A person holding a Steam controller](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4170-640x427.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4170.jpg)
+
+[Enlarge](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4170.jpg)/ Our biggest complaint was that the standard buttons were the slightest bit too small in their arrangement and size. We're not used to our thumb easily covering all four buttons at once.
+
+Sam Machkovech
+
+Weirdly, we were more annoyed with the controller's final ABXY buttons. I thought they were too small—that's my thumb right there—while Kyle complained about their placement where you'd expect to find a joystick on both Sony and Microsoft's pads. The buttons'general action, at least, felt smooth and easy enough.
+
+Steam Link, Steam Machines
+--------------------------
+
+[![Image 13: Steam Machine with a Steam logo in the corner, resting on a white surface](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4183-980x653.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4183.jpg)
+
+_Sam Machkovech_
+
+Steam Link. This $50 device is surprisingly heavy!
+
+1.   [![Image 14: Black rectangular flat object with rounded edge and logo on a light surface](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4183-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4183-980x653.jpg)_Sam Machkovech_
+
+Steam Link. This $50 device is surprisingly heavy! 
+2.   [![Image 15: A hand holding a black smartphone with a variety of ports on its side](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4184-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4184-980x653.jpg)_Sam Machkovech_
+
+Three USB ports in all. Valve confirmed that players can plug mice, keyboards, and wired controllers into these. 
+3.   [![Image 16: Black rubber square pad in someone's hand](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4182-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4182-980x653.jpg)_Sam Machkovech_
+
+The bottom. Oooh. 
+
+Valve gave us a quick demo of the Steam Link to prove that the device could beam Steam content efficiently. We weren't convinced that it was a 100 percent perfect stream from PC to TV, since we noticed very, very small bits of artifacting in a rainy scene in _Middle Earth: Shadow of Mordor_, but it was otherwise a stable, lag-free demo—albeit a brief one, and more importantly, run as a wired test as opposed to wireless. GDC is a bad place to test wireless tech, of course, but wireless streaming is an important feature we'll want to test before plunking down for one of these $50 boxes in November. If you're wondering, Valve didn't have anything to announce regarding dedicated streaming apps for Steam Link just yet.
+
+[![Image 17: Red Digital Storm Eclipse Steam Machine with a price tag of $699](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4197-980x1470.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4197.jpg)
+
+_Sam Machkovech_
+
+Get ready for 14 exciting computer form factors! I mean, Steam Machines!
+
+In the case of Steam Machines, well, they're coming, and they're certainly more expensive than current-gen consoles. The 14 models that debuted at GDC start at no less than $460—the cheapest being an Athlon X4-powered rig by iBuyPower with a 1GB Radeon R7 video card inside—so Valve certainly isn't positioning any of its suppliers' machines to be affordable, mass-market living room devices.
+
+SteamVR: Invading eyeballs since 2012
+-------------------------------------
+
+The rest of Valve's demo space was mostly made up of a long, museum-like display cataloguing SteamVR's ongoing development since 2012, along with a series of six demo rooms in which invited guests could test SteamVR's current build—in the form of the HTC Vive headset—for the first time. Kyle will post his impressions pretty soon, but in the meantime, enjoy a slightly out-of-context gallery about the VR system's genesis.
+
+[![Image 18: A virtual reality headset sits on a transparent glass head in a store display](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4188-980x653.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4188.jpg)
+
+_Sam Machkovech_
+
+This is the current version of the SteamVR "Vive" headset co-created by HTC.
+
+1.   [![Image 19: Virtual reality headset displayed on a glass head, with black boxes in the foreground](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4188-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4188-980x653.jpg)_Sam Machkovech_
+
+This is the current version of the SteamVR "Vive" headset co-created by HTC. 
+2.   [![Image 20: HTC virtual reality headset with sensors and grey strap](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4187-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4187-980x653.jpg)_Sam Machkovech_ 
+3.   [![Image 21: Black mask laying next to a small box](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4189-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4189-980x653.jpg)_Sam Machkovech_
+
+The current controllers. We'll have more on these soon, but take a look before diving into SteamVR's history gallery, which talks about their evolution. 
+4.   [![Image 22: Close-up of a virtual reality headset on a glass head](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4190-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4190-980x653.jpg)_Sam Machkovech_ 
+5.   [![Image 23: A black VR headset with straps](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4191-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4191-980x653.jpg)_Sam Machkovech_ 
+6.   [![Image 24: The close-up shows a black cube-shaped PC case, revealing internal components](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4194-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4194-980x653.jpg)_Sam Machkovech_
+
+The current laser solution used to sense a SteamVR user's presence throughout a given room. 
+7.   [![Image 25: Black box containing electronic components, with a label](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4196-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4196-980x653.jpg)_Sam Machkovech_ 
+8.   [![Image 26: A stand holding a sign with the words Fiducial-based Positional Tracking on it](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4231-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4231-980x1470.jpg)
+History time! Starting from the beginning of SteamVR's museum wall. The rest of these photos are in timeline order.
+
+9.   [![Image 27: Red and black industrial camera with a lens attached sitting on a white surface](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4233-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4233-980x653.jpg)
+10.   [![Image 28: Exhibition display featuring a disassembled electronic device with wires connected to a black information sign](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4234-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4234-980x1470.jpg)
+11.   [![Image 29: Circuit board inside a black box with an informational sign attached](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4235-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4235-980x1470.jpg)
+12.   [![Image 30: Headset revealing its internal electrical components](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4236-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4236-980x653.jpg)
+13.   [![Image 31: A transparent head model wearing a high-tech VR headset](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4237-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4237-980x653.jpg)
+14.   [![Image 32: Electrical components and wires are arranged in a complex and organized manner](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4238-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4238-980x653.jpg)
+15.   [![Image 33: Close-up of a digital display next to a circuit board connected to a metal machine](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4239-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4239-980x653.jpg)
+16.   [![Image 34: Hardware for alternative tracking systems, similar to game rooms, sitting on a white surface](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4240-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4240-980x1470.jpg)
+17.   [![Image 35: A close-up shot of a black and white dotted cube with a red base, positioned beside a poster featuring text and a small red object, all placed on a white surface](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4241-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4241-980x653.jpg)
+18.   [![Image 36: VR headset displayed on a clear glass head](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4242-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4242-980x653.jpg)
+19.   [![Image 37: Small metal cube structure with an antenna extending from the top is on display](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4243-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4243-980x1470.jpg)
+20.   [![Image 38: The image displays two mini-tracked robots with hexagonal shapes and controllers](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4244-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4244-980x653.jpg)
+21.   [![Image 39: VR headset display with description](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4245-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4245-980x653.jpg)
+22.   [![Image 40: Three VR controllers in black are displayed on a white table with a black sign in the background](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4246-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4246-980x653.jpg)
+23.   [![Image 41: Two examples of miniaturized laser beam scanners on display, one enclosed and one open, showcasing internal components and design](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4247-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4247-980x653.jpg)
+24.   [![Image 42: Steam VR development timeline on a white and blue display](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4248-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4248-980x653.jpg)
+25.   [![Image 43: A blue timeline on a white wall shows the development of VR headsets](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4249-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4249-980x653.jpg)
+26.   [![Image 44: Steam Controller, with a circuit board connected to it](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4250-150x150.jpg)](http://cdn.arstechnica.net/wp-content/uploads/2015/03/IMG_4250-980x653.jpg)
+We found this olllld Steam Controller prototype tucked into the gallery, as well, so we turned it around and snapped its photo, too.
+
+_Listing image by Sam Machkovech_
+
+[![Image 45: A 47x47 small image, likely a logo, icon or avatar](http://cdn.arstechnica.net/wp-content/uploads/2014/03/Sam-Machkovech-sq.jpg)](http://arstechnica.com/author/samred)
+[Sam Machkovech](http://arstechnica.com/author/samred) / Sam has written about video games on-and-off since his first syndicated column launched in 1996. He can regularly be found playing pinball at Add-A-Ball in Seattle, WA.
+
+[@samred on Twitter](https://twitter.com/samred)

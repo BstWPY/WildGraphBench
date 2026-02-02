@@ -1,0 +1,277 @@
+# Field Listing: Area
+
+Field Listing **::**Area
+
+This entry includes three subfields. _Total area_ is the sum of all land and water areas delimited by international boundaries and/or coastlines. _Land area_ is the aggregate of all surfaces delimited by international boundaries and/or coastlines, excluding inland water bodies (lakes, reservoirs, rivers). _Water area_ is the sum of the surfaces of all inland water bodies, such as lakes, reservoirs, or rivers, as delimited by international boundaries and/or coastlines.
+
+[Country Comparison Ranking](https://www.cia.gov/library/publications/the-world-factbook/fields/279rank.html)
+
+By Country Listing of the values for the Area field| Country | Area |
+| --- | --- |
+| [Afghanistan](https://www.cia.gov/library/publications/the-world-factbook/geos/af.html) | total:652,230 sq km land:652,230 sq km water:0 sq km |
+| [Akrotiri](https://www.cia.gov/library/publications/the-world-factbook/geos/ax.html) | total:123 sq km **note:** includes a salt lake and wetlands |
+| [Albania](https://www.cia.gov/library/publications/the-world-factbook/geos/al.html) | total:28,748 sq km land:27,398 sq km water:1,350 sq km |
+| [Algeria](https://www.cia.gov/library/publications/the-world-factbook/geos/ag.html) | total:2,381,740 sq km land:2,381,740 sq km water:0 sq km |
+| [American Samoa](https://www.cia.gov/library/publications/the-world-factbook/geos/aq.html) | total:224 sq km land:224 sq km water:0 sq km **note:** includes Rose Island and Swains Island |
+| [Andorra](https://www.cia.gov/library/publications/the-world-factbook/geos/an.html) | total:468 sq km land:468 sq km water:0 sq km |
+| [Angola](https://www.cia.gov/library/publications/the-world-factbook/geos/ao.html) | total:1,246,700 sq km land:1,246,700 sq km water:0 sq km |
+| [Anguilla](https://www.cia.gov/library/publications/the-world-factbook/geos/av.html) | total:91 sq km land:91 sq km water:0 sq km |
+| [Antarctica](https://www.cia.gov/library/publications/the-world-factbook/geos/ay.html) | total:14.2 million sq km land:14.2 million sq km (285,000 sq km ice-free, 13.915 million sq km ice-covered) (est.) **note:** fifth-largest continent, following Asia, Africa, North America, and South America, but larger than Australia and the subcontinent of Europe |
+| [Antigua and Barbuda](https://www.cia.gov/library/publications/the-world-factbook/geos/ac.html) | total:442.6 sq km(Antigua 280 sq km; Barbuda 161 sq km) land:442.6 sq km water:0 sq km **note:** includes Redonda, 1.6 sq km |
+| [Arctic Ocean](https://www.cia.gov/library/publications/the-world-factbook/geos/xq.html) | total:14.056 million sq km **note:** includes Baffin Bay, Barents Sea, Beaufort Sea, Chukchi Sea, East Siberian Sea, Greenland Sea, Hudson Bay, Hudson Strait, Kara Sea, Laptev Sea, Northwest Passage, and other tributary water bodies |
+| [Argentina](https://www.cia.gov/library/publications/the-world-factbook/geos/ar.html) | total:2,780,400 sq km land:2,736,690 sq km water:43,710 sq km |
+| [Armenia](https://www.cia.gov/library/publications/the-world-factbook/geos/am.html) | total:29,743 sq km land:28,203 sq km water:1,540 sq km |
+| [Aruba](https://www.cia.gov/library/publications/the-world-factbook/geos/aa.html) | total:180 sq km land:180 sq km water:0 sq km |
+| [Ashmore and Cartier Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/at.html) | total:5 sq km land:5 sq km water:0 sq km **note:** includes Ashmore Reef (West, Middle, and East Islets) and Cartier Island |
+| [Atlantic Ocean](https://www.cia.gov/library/publications/the-world-factbook/geos/zh.html) | total:76.762 million sq km **note:** includes Baltic Sea, Black Sea, Caribbean Sea, Davis Strait, Denmark Strait, part of the Drake Passage, Gulf of Mexico, Labrador Sea, Mediterranean Sea, North Sea, Norwegian Sea, almost all of the Scotia Sea, and other tributary water bodies |
+| [Australia](https://www.cia.gov/library/publications/the-world-factbook/geos/as.html) | total:7,741,220 sq km land:7,682,300 sq km water:58,920 sq km **note:** includes Lord Howe Island and Macquarie Island |
+| [Austria](https://www.cia.gov/library/publications/the-world-factbook/geos/au.html) | total:83,871 sq km land:82,445 sq km water:1,426 sq km |
+| [Azerbaijan](https://www.cia.gov/library/publications/the-world-factbook/geos/aj.html) | total:86,600 sq km land:82,629 sq km water:3,971 sq km **note:** includes the exclave of Naxcivan Autonomous Republic and the Nagorno-Karabakh region; the region's autonomy was abolished by Azerbaijani Supreme Soviet on 26 November 1991 |
+| [Bahamas, The](https://www.cia.gov/library/publications/the-world-factbook/geos/bf.html) | total:13,880 sq km land:10,010 sq km water:3,870 sq km |
+| [Bahrain](https://www.cia.gov/library/publications/the-world-factbook/geos/ba.html) | total:760 sq km land:760 sq km water:0 sq km |
+| [Bangladesh](https://www.cia.gov/library/publications/the-world-factbook/geos/bg.html) | total:148,460 sq km land:130,170 sq km water:18,290 sq km |
+| [Barbados](https://www.cia.gov/library/publications/the-world-factbook/geos/bb.html) | total:430 sq km land:430 sq km water:0 sq km |
+| [Belarus](https://www.cia.gov/library/publications/the-world-factbook/geos/bo.html) | total:207,600 sq km land:202,900 sq km water:4,700 sq km |
+| [Belgium](https://www.cia.gov/library/publications/the-world-factbook/geos/be.html) | total:30,528 sq km land:30,278 sq km water:250 sq km |
+| [Belize](https://www.cia.gov/library/publications/the-world-factbook/geos/bh.html) | total:22,966 sq km land:22,806 sq km water:160 sq km |
+| [Benin](https://www.cia.gov/library/publications/the-world-factbook/geos/bn.html) | total:112,622 sq km land:110,622 sq km water:2,000 sq km |
+| [Bermuda](https://www.cia.gov/library/publications/the-world-factbook/geos/bd.html) | total:54 sq km land:54 sq km water:0 sq km |
+| [Bhutan](https://www.cia.gov/library/publications/the-world-factbook/geos/bt.html) | total:38,394 sq km land:38,394 sq km water:0 sq km |
+| [Bolivia](https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html) | total:1,098,581 sq km land:1,083,301 sq km water:15,280 sq km |
+| [Bosnia and Herzegovina](https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html) | total:51,197 sq km land:51,187 sq km water:10 sq km |
+| [Botswana](https://www.cia.gov/library/publications/the-world-factbook/geos/bc.html) | total:581,730 sq km land:566,730 sq km water:15,000 sq km |
+| [Bouvet Island](https://www.cia.gov/library/publications/the-world-factbook/geos/bv.html) | total:49 sq km land:49 sq km water:0 sq km |
+| [Brazil](https://www.cia.gov/library/publications/the-world-factbook/geos/br.html) | total:8,515,770 sq km land:8,358,140 sq km water:157,630 sq km **note:** includes Arquipelago de Fernando de Noronha, Atol das Rocas, Ilha da Trindade, Ilhas Martin Vaz, and Penedos de Sao Pedro e Sao Paulo |
+| [British Indian Ocean Territory](https://www.cia.gov/library/publications/the-world-factbook/geos/io.html) | total:60 sq km land:60 sq km(44 Diego Garcia) water:54,340 sq km **note:** includes the entire Chagos Archipelago of 55 islands |
+| [British Virgin Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/vi.html) | total:151 sq km land:151 sq km water:0 sq km **note:** comprised of 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke |
+| [Brunei](https://www.cia.gov/library/publications/the-world-factbook/geos/bx.html) | total:5,765 sq km land:5,265 sq km water:500 sq km |
+| [Bulgaria](https://www.cia.gov/library/publications/the-world-factbook/geos/bu.html) | total:110,879 sq km land:108,489 sq km water:2,390 sq km |
+| [Burkina Faso](https://www.cia.gov/library/publications/the-world-factbook/geos/uv.html) | total:274,200 sq km land:273,800 sq km water:400 sq km |
+| [Burma](https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html) | total:676,578 sq km land:653,508 sq km water:23,070 sq km |
+| [Burundi](https://www.cia.gov/library/publications/the-world-factbook/geos/by.html) | total:27,830 sq km land:25,680 sq km water:2,150 sq km |
+| [Cabo Verde](https://www.cia.gov/library/publications/the-world-factbook/geos/cv.html) | total:4,033 sq km land:4,033 sq km water:0 sq km |
+| [Cambodia](https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html) | total:181,035 sq km land:176,515 sq km water:4,520 sq km |
+| [Cameroon](https://www.cia.gov/library/publications/the-world-factbook/geos/cm.html) | total:475,440 sq km land:472,710 sq km water:2,730 sq km |
+| [Canada](https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html) | total:9,984,670 sq km land:9,093,507 sq km water:891,163 sq km |
+| [Cayman Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/cj.html) | total:264 sq km land:264 sq km water:0 sq km |
+| [Central African Republic](https://www.cia.gov/library/publications/the-world-factbook/geos/ct.html) | total:622,984 sq km land:622,984 sq km water:0 sq km |
+| [Chad](https://www.cia.gov/library/publications/the-world-factbook/geos/cd.html) | total:1.284 million sq km land:1,259,200 sq km water:24,800 sq km |
+| [Chile](https://www.cia.gov/library/publications/the-world-factbook/geos/ci.html) | total:756,102 sq km land:743,812 sq km water:12,290 sq km **note:** includes Easter Island (Isla de Pascua) and Isla Sala y Gomez |
+| [China](https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html) | total:9,596,960 sq km land:9,326,410 sq km water:270,550 sq km |
+| [Christmas Island](https://www.cia.gov/library/publications/the-world-factbook/geos/kt.html) | total:135 sq km land:135 sq km water:0 sq km |
+| [Clipperton Island](https://www.cia.gov/library/publications/the-world-factbook/geos/ip.html) | total:6 sq km land:6 sq km water:0 sq km |
+| [Cocos (Keeling) Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/ck.html) | total:14 sq km land:14 sq km water:0 sq km **note:** includes the two main islands of West Island and Home Island |
+| [Colombia](https://www.cia.gov/library/publications/the-world-factbook/geos/co.html) | total:1,138,910 sq km land:1,038,700 sq km water:100,210 sq km **note:** includes Isla de Malpelo, Roncador Cay, and Serrana Bank |
+| [Comoros](https://www.cia.gov/library/publications/the-world-factbook/geos/cn.html) | total:2,235 sq km land:2,235 sq km water:0 sq km |
+| [Congo, Democratic Republic of the](https://www.cia.gov/library/publications/the-world-factbook/geos/cg.html) | total:2,344,858 sq km land:2,267,048 sq km water:77,810 sq km |
+| [Congo, Republic of the](https://www.cia.gov/library/publications/the-world-factbook/geos/cf.html) | total:342,000 sq km land:341,500 sq km water:500 sq km |
+| [Cook Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/cw.html) | total:236 sq km land:236 sq km water:0 sq km |
+| [Coral Sea Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/cr.html) | total:3 sq km less than land:3 sq km less than water:0 sq km **note:** includes numerous small islands and reefs scattered over a sea area of about 780,000 sq km (300,000 sq mi) with the Willis Islets the most important |
+| [Costa Rica](https://www.cia.gov/library/publications/the-world-factbook/geos/cs.html) | total:51,100 sq km land:51,060 sq km water:40 sq km **note:** includes Isla del Coco |
+| [Cote d'Ivoire](https://www.cia.gov/library/publications/the-world-factbook/geos/iv.html) | total:322,463 sq km land:318,003 sq km water:4,460 sq km |
+| [Croatia](https://www.cia.gov/library/publications/the-world-factbook/geos/hr.html) | total:56,594 sq km land:55,974 sq km water:620 sq km |
+| [Cuba](https://www.cia.gov/library/publications/the-world-factbook/geos/cu.html) | total:110,860 sq km land:109,820 sq km water:1,040 sq km |
+| [Curacao](https://www.cia.gov/library/publications/the-world-factbook/geos/uc.html) | total:444 sq km land:444 sq km water:0 sq km |
+| [Cyprus](https://www.cia.gov/library/publications/the-world-factbook/geos/cy.html) | total:9,251 sq km(of which 3,355 sq km are in north Cyprus) land:9,241 sq km water:10 sq km |
+| [Czechia](https://www.cia.gov/library/publications/the-world-factbook/geos/ez.html) | total:78,867 sq km land:77,247 sq km water:1,620 sq km |
+| [Denmark](https://www.cia.gov/library/publications/the-world-factbook/geos/da.html) | total:43,094 sq km land:42,434 sq km water:660 sq km **note:** includes the island of Bornholm in the Baltic Sea and the rest of metropolitan Denmark (the Jutland Peninsula, and the major islands of Sjaelland and Fyn), but excludes the Faroe Islands and Greenland |
+| [Dhekelia](https://www.cia.gov/library/publications/the-world-factbook/geos/dx.html) | total:130.8 sq km **note:** area surrounds three Cypriot enclaves |
+| [Djibouti](https://www.cia.gov/library/publications/the-world-factbook/geos/dj.html) | total:23,200 sq km land:23,180 sq km water:20 sq km |
+| [Dominica](https://www.cia.gov/library/publications/the-world-factbook/geos/do.html) | total:751 sq km land:751 sq km water:NEGL |
+| [Dominican Republic](https://www.cia.gov/library/publications/the-world-factbook/geos/dr.html) | total:48,670 sq km land:48,320 sq km water:350 sq km |
+| [Ecuador](https://www.cia.gov/library/publications/the-world-factbook/geos/ec.html) | total:283,561 sq km land:276,841 sq km water:6,720 sq km **note:** includes Galapagos Islands |
+| [Egypt](https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html) | total:1,001,450 sq km land:995,450 sq km water:6,000 sq km |
+| [El Salvador](https://www.cia.gov/library/publications/the-world-factbook/geos/es.html) | total:21,041 sq km land:20,721 sq km water:320 sq km |
+| [Equatorial Guinea](https://www.cia.gov/library/publications/the-world-factbook/geos/ek.html) | total:28,051 sq km land:28,051 sq km water:0 sq km |
+| [Eritrea](https://www.cia.gov/library/publications/the-world-factbook/geos/er.html) | total:117,600 sq km land:101,000 sq km water:16,600 sq km |
+| [Estonia](https://www.cia.gov/library/publications/the-world-factbook/geos/en.html) | total:45,228 sq km land:42,388 sq km water:2,840 sq km **note:** includes 1,520 islands in the Baltic Sea |
+| [Eswatini](https://www.cia.gov/library/publications/the-world-factbook/geos/wz.html) | total:17,364 sq km land:17,204 sq km water:160 sq km |
+| [Ethiopia](https://www.cia.gov/library/publications/the-world-factbook/geos/et.html) | total:1,104,300 sq km land:1,096,570 sq km water:7,730 sq km **note:** area numbers are approximate since a large portion of the Ethiopia-Somalia border is undefined |
+| [European Union](https://www.cia.gov/library/publications/the-world-factbook/geos/ee.html) | total:4,236,351 sq km **rank by area (sq km):**1. France (includes five overseas regions) 643,801 2. Spain 505,370 3. Sweden 450,295 4. Germany 357,022 5. Finland 338,145 6. Poland 312,685 7. Italy 301,340 8. Romania 238,391 9. Greece 131,957 10. Bulgaria 110,879 11. Hungary 93,028 12. Portugal 92,090 13. Austria 83,871 14. Czechia 78,867 15. Ireland 70,273 16. Lithuania 65,300 17. Latvia 64,589 18. Croatia 56,594 19. Slovakia 49,035 20. Estonia 45,228 21. Denmark 43,094 22. Netherlands 41,543 23. Belgium 30,528 24. Slovenia 20,273 25. Cyprus 9,251 26. Luxembourg 2,586 27. Malta 316 |
+| [Falkland Islands (Islas Malvinas)](https://www.cia.gov/library/publications/the-world-factbook/geos/fk.html) | total:12,173 sq km land:12,173 sq km water:0 sq km **note:** includes the two main islands of East and West Falkland and about 200 small islands |
+| [Faroe Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/fo.html) | total:1,393 sq km land:1,393 sq km water:0 sq km(some lakes and streams) |
+| [Fiji](https://www.cia.gov/library/publications/the-world-factbook/geos/fj.html) | total:18,274 sq km land:18,274 sq km water:0 sq km |
+| [Finland](https://www.cia.gov/library/publications/the-world-factbook/geos/fi.html) | total:338,145 sq km land:303,815 sq km water:34,330 sq km |
+| [France](https://www.cia.gov/library/publications/the-world-factbook/geos/fr.html) | total:643,801 sq km; 551,500 sq km (metropolitan France) land:640,427 sq km; 549,970 sq km (metropolitan France) water:3,374 sq km; 1,530 sq km (metropolitan France) **note:** the first numbers include the overseas regions of French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion |
+| [French Polynesia](https://www.cia.gov/library/publications/the-world-factbook/geos/fp.html) | total:4,167 sq km(118 islands and atolls; 67 are inhabited) land:3,827 sq km water:340 sq km |
+| [French Southern and Antarctic Lands](https://www.cia.gov/library/publications/the-world-factbook/geos/fs.html) | **Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul):**total - 55 sq km; land - 55 sq km; water - 0 sq km **Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul):**total - 7 sq km; land - 7 sq km; water - 0 sq km **Iles Crozet:**total - 352 sq km; land - 352 sq km; water - 0 sq km **Iles Kerguelen:**total - 7,215 sq km; land - 7,215 sq km; water - 0 sq km **Bassas da India (Iles Eparses):**total - 80 sq km; land - 0.2 sq km; water - 79.8 sq km (lagoon) **Europa Island (Iles Eparses):**total - 28 sq km; land - 28 sq km; water - 0 sq km **Glorioso Islands (Iles Eparses):**total - 5 sq km; land - 5 sq km; water - 0 sq km **Juan de Nova Island (Iles Eparses):**total - 4.4 sq km; land - 4.4 sq km; water - 0 sq km **Tromelin Island (Iles Eparses):**total - 1 sq km; land - 1 sq km; water - 0 sq km **note:**excludes "Adelie Land" claim of about 500,000 sq km in Antarctica that is not recognized by the US |
+| [Gabon](https://www.cia.gov/library/publications/the-world-factbook/geos/gb.html) | total:267,667 sq km land:257,667 sq km water:10,000 sq km |
+| [Gambia, The](https://www.cia.gov/library/publications/the-world-factbook/geos/ga.html) | total:11,300 sq km land:10,120 sq km water:1,180 sq km |
+| [Gaza Strip](https://www.cia.gov/library/publications/the-world-factbook/geos/gz.html) | total:360 sq km land:360 sq km water:0 sq km |
+| [Georgia](https://www.cia.gov/library/publications/the-world-factbook/geos/gg.html) | total:69,700 sq km land:69,700 sq km water:0 sq km **note:** approximately 12,560 sq km, or about 18% of Georgia's area, is Russian occupied; the seized area includes all of Abkhazia and the breakaway region of South Ossetia, which consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti |
+| [Germany](https://www.cia.gov/library/publications/the-world-factbook/geos/gm.html) | total:357,022 sq km land:348,672 sq km water:8,350 sq km |
+| [Ghana](https://www.cia.gov/library/publications/the-world-factbook/geos/gh.html) | total:238,533 sq km land:227,533 sq km water:11,000 sq km |
+| [Gibraltar](https://www.cia.gov/library/publications/the-world-factbook/geos/gi.html) | total:6.5 sq km land:6.5 sq km water:0 sq km |
+| [Greece](https://www.cia.gov/library/publications/the-world-factbook/geos/gr.html) | total:131,957 sq km land:130,647 sq km water:1,310 sq km |
+| [Greenland](https://www.cia.gov/library/publications/the-world-factbook/geos/gl.html) | total:2,166,086 sq km land:2,166,086 sq km(approximately 1,710,000 sq km ice-covered) |
+| [Grenada](https://www.cia.gov/library/publications/the-world-factbook/geos/gj.html) | total:344 sq km land:344 sq km water:0 sq km |
+| [Guam](https://www.cia.gov/library/publications/the-world-factbook/geos/gq.html) | total:544 sq km land:544 sq km water:0 sq km |
+| [Guatemala](https://www.cia.gov/library/publications/the-world-factbook/geos/gt.html) | total:108,889 sq km land:107,159 sq km water:1,730 sq km |
+| [Guernsey](https://www.cia.gov/library/publications/the-world-factbook/geos/gk.html) | total:78 sq km land:78 sq km water:0 sq km **note:** includes Alderney, Guernsey, Herm, Sark, and some other smaller islands |
+| [Guinea](https://www.cia.gov/library/publications/the-world-factbook/geos/gv.html) | total:245,857 sq km land:245,717 sq km water:140 sq km |
+| [Guinea-Bissau](https://www.cia.gov/library/publications/the-world-factbook/geos/pu.html) | total:36,125 sq km land:28,120 sq km water:8,005 sq km |
+| [Guyana](https://www.cia.gov/library/publications/the-world-factbook/geos/gy.html) | total:214,969 sq km land:196,849 sq km water:18,120 sq km |
+| [Haiti](https://www.cia.gov/library/publications/the-world-factbook/geos/ha.html) | total:27,750 sq km land:27,560 sq km water:190 sq km |
+| [Heard Island and McDonald Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/hm.html) | total:412 sq km land:412 sq km water:0 sq km |
+| [Holy See (Vatican City)](https://www.cia.gov/library/publications/the-world-factbook/geos/vt.html) | total:0.44 sq km land:0.44 sq km water:0 sq km |
+| [Honduras](https://www.cia.gov/library/publications/the-world-factbook/geos/ho.html) | total:112,090 sq km land:111,890 sq km water:200 sq km |
+| [Hong Kong](https://www.cia.gov/library/publications/the-world-factbook/geos/hk.html) | total:1,108 sq km land:1,073 sq km water:35 sq km |
+| [Howland Island](https://www.cia.gov/library/publications/the-world-factbook/geos/hq.html) | total:1.6 sq km land:1.6 sq km water:0 sq km |
+| [Hungary](https://www.cia.gov/library/publications/the-world-factbook/geos/hu.html) | total:93,028 sq km land:89,608 sq km water:3,420 sq km |
+| [Iceland](https://www.cia.gov/library/publications/the-world-factbook/geos/ic.html) | total:103,000 sq km land:100,250 sq km water:2,750 sq km |
+| [India](https://www.cia.gov/library/publications/the-world-factbook/geos/in.html) | total:3,287,263 sq km land:2,973,193 sq km water:314,070 sq km |
+| [Indian Ocean](https://www.cia.gov/library/publications/the-world-factbook/geos/xo.html) | total:68.556 million sq km **note:** includes Andaman Sea, Arabian Sea, Bay of Bengal, Flores Sea, Great Australian Bight, Gulf of Aden, Gulf of Oman, Java Sea, Mozambique Channel, Persian Gulf, Red Sea, Savu Sea, Strait of Malacca, Timor Sea, and other tributary water bodies |
+| [Indonesia](https://www.cia.gov/library/publications/the-world-factbook/geos/id.html) | total:1,904,569 sq km land:1,811,569 sq km water:93,000 sq km |
+| [Iran](https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html) | total:1,648,195 sq km land:1,531,595 sq km water:116,600 sq km |
+| [Iraq](https://www.cia.gov/library/publications/the-world-factbook/geos/iz.html) | total:438,317 sq km land:437,367 sq km water:950 sq km |
+| [Ireland](https://www.cia.gov/library/publications/the-world-factbook/geos/ei.html) | total:70,273 sq km land:68,883 sq km water:1,390 sq km |
+| [Isle of Man](https://www.cia.gov/library/publications/the-world-factbook/geos/im.html) | total:572 sq km land:572 sq km water:0 sq km |
+| [Israel](https://www.cia.gov/library/publications/the-world-factbook/geos/is.html) | total:21,937 sq km land:21,497 sq km water:440 sq km |
+| [Italy](https://www.cia.gov/library/publications/the-world-factbook/geos/it.html) | total:301,340 sq km land:294,140 sq km water:7,200 sq km **note:** includes Sardinia and Sicily |
+| [Jamaica](https://www.cia.gov/library/publications/the-world-factbook/geos/jm.html) | total:10,991 sq km land:10,831 sq km water:160 sq km |
+| [Jan Mayen](https://www.cia.gov/library/publications/the-world-factbook/geos/jn.html) | total:377 sq km land:377 sq km water:0 sq km |
+| [Japan](https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html) | total:377,915 sq km land:364,485 sq km water:13,430 sq km **note:** includes Bonin Islands (Ogasawara-gunto), Daito-shoto, Minami-jima, Okino-tori-shima, Ryukyu Islands (Nansei-shoto), and Volcano Islands (Kazan-retto) |
+| [Jarvis Island](https://www.cia.gov/library/publications/the-world-factbook/geos/dq.html) | total:4.5 sq km land:4.5 sq km water:0 sq km |
+| [Jersey](https://www.cia.gov/library/publications/the-world-factbook/geos/je.html) | total:116 sq km land:116 sq km water:0 sq km |
+| [Johnston Atoll](https://www.cia.gov/library/publications/the-world-factbook/geos/jq.html) | total:2.63 sq km land:2.63 sq km water:0 sq km |
+| [Jordan](https://www.cia.gov/library/publications/the-world-factbook/geos/jo.html) | total:89,342 sq km land:88,802 sq km water:540 sq km |
+| [Kazakhstan](https://www.cia.gov/library/publications/the-world-factbook/geos/kz.html) | total:2,724,900 sq km land:2,699,700 sq km water:25,200 sq km |
+| [Kenya](https://www.cia.gov/library/publications/the-world-factbook/geos/ke.html) | total:580,367 sq km land:569,140 sq km water:11,227 sq km |
+| [Kingman Reef](https://www.cia.gov/library/publications/the-world-factbook/geos/kq.html) | total:1 sq km land:1 sq km water:0 sq km |
+| [Kiribati](https://www.cia.gov/library/publications/the-world-factbook/geos/kr.html) | total:811 sq km land:811 sq km water:0 sq km **note:** includes three island groups - Gilbert Islands, Line Islands, and Phoenix Islands - dispersed over about 3.5 million sq km (1.35 million sq mi) |
+| [Korea, North](https://www.cia.gov/library/publications/the-world-factbook/geos/kn.html) | total:120,538 sq km land:120,408 sq km water:130 sq km |
+| [Korea, South](https://www.cia.gov/library/publications/the-world-factbook/geos/ks.html) | total:99,720 sq km land:96,920 sq km water:2,800 sq km |
+| [Kosovo](https://www.cia.gov/library/publications/the-world-factbook/geos/kv.html) | total:10,887 sq km land:10,887 sq km water:0 sq km |
+| [Kuwait](https://www.cia.gov/library/publications/the-world-factbook/geos/ku.html) | total:17,818 sq km land:17,818 sq km water:0 sq km |
+| [Kyrgyzstan](https://www.cia.gov/library/publications/the-world-factbook/geos/kg.html) | total:199,951 sq km land:191,801 sq km water:8,150 sq km |
+| [Laos](https://www.cia.gov/library/publications/the-world-factbook/geos/la.html) | total:236,800 sq km land:230,800 sq km water:6,000 sq km |
+| [Latvia](https://www.cia.gov/library/publications/the-world-factbook/geos/lg.html) | total:64,589 sq km land:62,249 sq km water:2,340 sq km |
+| [Lebanon](https://www.cia.gov/library/publications/the-world-factbook/geos/le.html) | total:10,400 sq km land:10,230 sq km water:170 sq km |
+| [Lesotho](https://www.cia.gov/library/publications/the-world-factbook/geos/lt.html) | total:30,355 sq km land:30,355 sq km water:0 sq km |
+| [Liberia](https://www.cia.gov/library/publications/the-world-factbook/geos/li.html) | total:111,369 sq km land:96,320 sq km water:15,049 sq km |
+| [Libya](https://www.cia.gov/library/publications/the-world-factbook/geos/ly.html) | total:1,759,540 sq km land:1,759,540 sq km water:0 sq km |
+| [Liechtenstein](https://www.cia.gov/library/publications/the-world-factbook/geos/ls.html) | total:160 sq km land:160 sq km water:0 sq km |
+| [Lithuania](https://www.cia.gov/library/publications/the-world-factbook/geos/lh.html) | total:65,300 sq km land:62,680 sq km water:2,620 sq km |
+| [Luxembourg](https://www.cia.gov/library/publications/the-world-factbook/geos/lu.html) | total:2,586 sq km land:2,586 sq km water:0 sq km |
+| [Macau](https://www.cia.gov/library/publications/the-world-factbook/geos/mc.html) | total:28.2 sq km land:28.2 sq km water:0 sq km |
+| [Madagascar](https://www.cia.gov/library/publications/the-world-factbook/geos/ma.html) | total:587,041 sq km land:581,540 sq km water:5,501 sq km |
+| [Malawi](https://www.cia.gov/library/publications/the-world-factbook/geos/mi.html) | total:118,484 sq km land:94,080 sq km water:24,404 sq km |
+| [Malaysia](https://www.cia.gov/library/publications/the-world-factbook/geos/my.html) | total:329,847 sq km land:328,657 sq km water:1,190 sq km |
+| [Maldives](https://www.cia.gov/library/publications/the-world-factbook/geos/mv.html) | total:298 sq km land:298 sq km water:0 sq km |
+| [Mali](https://www.cia.gov/library/publications/the-world-factbook/geos/ml.html) | total:1,240,192 sq km land:1,220,190 sq km water:20,002 sq km |
+| [Malta](https://www.cia.gov/library/publications/the-world-factbook/geos/mt.html) | total:316 sq km land:316 sq km water:0 sq km |
+| [Marshall Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/rm.html) | total:181 sq km land:181 sq km water:0 sq km **note:** the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik |
+| [Mauritania](https://www.cia.gov/library/publications/the-world-factbook/geos/mr.html) | total:1,030,700 sq km land:1,030,700 sq km water:0 sq km |
+| [Mauritius](https://www.cia.gov/library/publications/the-world-factbook/geos/mp.html) | total:2,040 sq km land:2,030 sq km water:10 sq km **note:** includes Agalega Islands, Cargados Carajos Shoals (Saint Brandon), and Rodrigues |
+| [Mexico](https://www.cia.gov/library/publications/the-world-factbook/geos/mx.html) | total:1,964,375 sq km land:1,943,945 sq km water:20,430 sq km |
+| [Micronesia, Federated States of](https://www.cia.gov/library/publications/the-world-factbook/geos/fm.html) | total:702 sq km land:702 sq km water:0 sq km(fresh water only) **note:** includes Pohnpei (Ponape), Chuuk (Truk) Islands, Yap Islands, and Kosrae (Kosaie) |
+| [Midway Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/mq.html) | total:6.2 sq km land:6.2 sq km water:0 sq km **note:** includes Eastern Island, Sand Island, and Spit Island |
+| [Moldova](https://www.cia.gov/library/publications/the-world-factbook/geos/md.html) | total:33,851 sq km land:32,891 sq km water:960 sq km |
+| [Monaco](https://www.cia.gov/library/publications/the-world-factbook/geos/mn.html) | total:2 sq km land:2 sq km water:0 sq km |
+| [Mongolia](https://www.cia.gov/library/publications/the-world-factbook/geos/mg.html) | total:1,564,116 sq km land:1,553,556 sq km water:10,560 sq km |
+| [Montenegro](https://www.cia.gov/library/publications/the-world-factbook/geos/mj.html) | total:13,812 sq km land:13,452 sq km water:360 sq km |
+| [Montserrat](https://www.cia.gov/library/publications/the-world-factbook/geos/mh.html) | total:102 sq km land:102 sq km water:0 sq km |
+| [Morocco](https://www.cia.gov/library/publications/the-world-factbook/geos/mo.html) | total:446,550 sq km land:446,300 sq km water:250 sq km |
+| [Mozambique](https://www.cia.gov/library/publications/the-world-factbook/geos/mz.html) | total:799,380 sq km land:786,380 sq km water:13,000 sq km |
+| [Namibia](https://www.cia.gov/library/publications/the-world-factbook/geos/wa.html) | total:824,292 sq km land:823,290 sq km water:1,002 sq km |
+| [Nauru](https://www.cia.gov/library/publications/the-world-factbook/geos/nr.html) | total:21 sq km land:21 sq km water:0 sq km |
+| [Navassa Island](https://www.cia.gov/library/publications/the-world-factbook/geos/bq.html) | total:5.4 sq km land:5.4 sq km water:0 sq km |
+| [Nepal](https://www.cia.gov/library/publications/the-world-factbook/geos/np.html) | total:147,181 sq km land:143,351 sq km water:3,830 sq km |
+| [Netherlands](https://www.cia.gov/library/publications/the-world-factbook/geos/nl.html) | total:41,543 sq km land:33,893 sq km water:7,650 sq km |
+| [New Caledonia](https://www.cia.gov/library/publications/the-world-factbook/geos/nc.html) | total:18,575 sq km land:18,275 sq km water:300 sq km |
+| [New Zealand](https://www.cia.gov/library/publications/the-world-factbook/geos/nz.html) | total:268,838 sq km land:264,537 sq km water:4,301 sq km **note:** includes Antipodes Islands, Auckland Islands, Bounty Islands, Campbell Island, Chatham Islands, and Kermadec Islands |
+| [Nicaragua](https://www.cia.gov/library/publications/the-world-factbook/geos/nu.html) | total:130,370 sq km land:119,990 sq km water:10,380 sq km |
+| [Niger](https://www.cia.gov/library/publications/the-world-factbook/geos/ng.html) | total:1.267 million sq km land:1,266,700 sq km water:300 sq km |
+| [Nigeria](https://www.cia.gov/library/publications/the-world-factbook/geos/ni.html) | total:923,768 sq km land:910,768 sq km water:13,000 sq km |
+| [Niue](https://www.cia.gov/library/publications/the-world-factbook/geos/ne.html) | total:260 sq km land:260 sq km water:0 sq km |
+| [Norfolk Island](https://www.cia.gov/library/publications/the-world-factbook/geos/nf.html) | total:36 sq km land:36 sq km water:0 sq km |
+| [North Macedonia](https://www.cia.gov/library/publications/the-world-factbook/geos/mk.html) | total:25,713 sq km land:25,433 sq km water:280 sq km |
+| [Northern Mariana Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/cq.html) | total:464 sq km land:464 sq km water:0 sq km **note:** consists of 14 islands including Saipan, Rota, and Tinian |
+| [Norway](https://www.cia.gov/library/publications/the-world-factbook/geos/no.html) | total:323,802 sq km land:304,282 sq km water:19,520 sq km |
+| [Oman](https://www.cia.gov/library/publications/the-world-factbook/geos/mu.html) | total:309,500 sq km land:309,500 sq km water:0 sq km |
+| [Pacific Ocean](https://www.cia.gov/library/publications/the-world-factbook/geos/zn.html) | total:155.557 million sq km **note:** includes Bali Sea, Bering Sea, Bering Strait, Coral Sea, East China Sea, Gulf of Alaska, Gulf of Tonkin, Philippine Sea, Sea of Japan, Sea of Okhotsk, South China Sea, Tasman Sea, and other tributary water bodies |
+| [Pakistan](https://www.cia.gov/library/publications/the-world-factbook/geos/pk.html) | total:796,095 sq km land:770,875 sq km water:25,220 sq km |
+| [Palau](https://www.cia.gov/library/publications/the-world-factbook/geos/ps.html) | total:459 sq km land:459 sq km water:0 sq km |
+| [Palmyra Atoll](https://www.cia.gov/library/publications/the-world-factbook/geos/lq.html) | total:11.9 sq km land:11.9 sq km water:0 sq km |
+| [Panama](https://www.cia.gov/library/publications/the-world-factbook/geos/pm.html) | total:75,420 sq km land:74,340 sq km water:1,080 sq km |
+| [Papua New Guinea](https://www.cia.gov/library/publications/the-world-factbook/geos/pp.html) | total:462,840 sq km land:452,860 sq km water:9,980 sq km |
+| [Paracel Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/pf.html) | total:7.75 sq km ca. land:7.75 sq km ca. water:0 sq km |
+| [Paraguay](https://www.cia.gov/library/publications/the-world-factbook/geos/pa.html) | total:406,752 sq km land:397,302 sq km water:9,450 sq km |
+| [Peru](https://www.cia.gov/library/publications/the-world-factbook/geos/pe.html) | total:1,285,216 sq km land:1,279,996 sq km water:5,220 sq km |
+| [Philippines](https://www.cia.gov/library/publications/the-world-factbook/geos/rp.html) | total:300,000 sq km land:298,170 sq km water:1,830 sq km |
+| [Pitcairn Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/pc.html) | total:47 sq km land:47 sq km water:0 sq km |
+| [Poland](https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html) | total:312,685 sq km land:304,255 sq km water:8,430 sq km |
+| [Portugal](https://www.cia.gov/library/publications/the-world-factbook/geos/po.html) | total:92,090 sq km land:91,470 sq km water:620 sq km **note:** includes Azores and Madeira Islands |
+| [Puerto Rico](https://www.cia.gov/library/publications/the-world-factbook/geos/rq.html) | total:9,104 sq km land:8,959 sq km water:145 sq km |
+| [Qatar](https://www.cia.gov/library/publications/the-world-factbook/geos/qa.html) | total:11,586 sq km land:11,586 sq km water:0 sq km |
+| [Romania](https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html) | total:238,391 sq km land:229,891 sq km water:8,500 sq km |
+| [Russia](https://www.cia.gov/library/publications/the-world-factbook/geos/rs.html) | total:17,098,242 sq km land:16,377,742 sq km water:720,500 sq km |
+| [Rwanda](https://www.cia.gov/library/publications/the-world-factbook/geos/rw.html) | total:26,338 sq km land:24,668 sq km water:1,670 sq km |
+| [Saint Barthelemy](https://www.cia.gov/library/publications/the-world-factbook/geos/tb.html) | total:25 sq km land:25 sq km water:negligible |
+| [Saint Helena, Ascension, and Tristan da Cunha](https://www.cia.gov/library/publications/the-world-factbook/geos/sh.html) | total:394 sq km land:122 sq km Saint Helena Island water:0 sq km 88 sq km Ascension Island, 184 sq km Tristan da Cunha island group (includes Tristan (98 sq km), Inaccessible, Nightingale, and Gough islands) |
+| [Saint Kitts and Nevis](https://www.cia.gov/library/publications/the-world-factbook/geos/sc.html) | total:261 sq km(Saint Kitts 168 sq km; Nevis 93 sq km) land:261 sq km water:0 sq km |
+| [Saint Lucia](https://www.cia.gov/library/publications/the-world-factbook/geos/st.html) | total:616 sq km land:606 sq km water:10 sq km |
+| [Saint Martin](https://www.cia.gov/library/publications/the-world-factbook/geos/rn.html) | total:54.4 sq km land:54.4 sq km water:negligible |
+| [Saint Pierre and Miquelon](https://www.cia.gov/library/publications/the-world-factbook/geos/sb.html) | total:242 sq km land:242 sq km water:0 sq km **note:** includes eight small islands in the Saint Pierre and the Miquelon groups |
+| [Saint Vincent and the Grenadines](https://www.cia.gov/library/publications/the-world-factbook/geos/vc.html) | total:389 sq km(Saint Vincent 344 sq km) land:389 sq km water:0 sq km |
+| [Samoa](https://www.cia.gov/library/publications/the-world-factbook/geos/ws.html) | total:2,831 sq km land:2,821 sq km water:10 sq km |
+| [San Marino](https://www.cia.gov/library/publications/the-world-factbook/geos/sm.html) | total:61 sq km land:61 sq km water:0 sq km |
+| [Sao Tome and Principe](https://www.cia.gov/library/publications/the-world-factbook/geos/tp.html) | total:964 sq km land:964 sq km water:0 sq km |
+| [Saudi Arabia](https://www.cia.gov/library/publications/the-world-factbook/geos/sa.html) | total:2,149,690 sq km land:2,149,690 sq km water:0 sq km |
+| [Senegal](https://www.cia.gov/library/publications/the-world-factbook/geos/sg.html) | total:196,722 sq km land:192,530 sq km water:4,192 sq km |
+| [Serbia](https://www.cia.gov/library/publications/the-world-factbook/geos/ri.html) | total:77,474 sq km land:77,474 sq km water:0 sq km |
+| [Seychelles](https://www.cia.gov/library/publications/the-world-factbook/geos/se.html) | total:455 sq km land:455 sq km water:0 sq km |
+| [Sierra Leone](https://www.cia.gov/library/publications/the-world-factbook/geos/sl.html) | total:71,740 sq km land:71,620 sq km water:120 sq km |
+| [Singapore](https://www.cia.gov/library/publications/the-world-factbook/geos/sn.html) | total:719.2 sq km land:709.2 sq km water:10 sq km |
+| [Sint Maarten](https://www.cia.gov/library/publications/the-world-factbook/geos/nn.html) | total:34 sq km land:34 sq km water:0 sq km **note:** Dutch part of the island of Saint Martin |
+| [Slovakia](https://www.cia.gov/library/publications/the-world-factbook/geos/lo.html) | total:49,035 sq km land:48,105 sq km water:930 sq km |
+| [Slovenia](https://www.cia.gov/library/publications/the-world-factbook/geos/si.html) | total:20,273 sq km land:20,151 sq km water:122 sq km |
+| [Solomon Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/bp.html) | total:28,896 sq km land:27,986 sq km water:910 sq km |
+| [Somalia](https://www.cia.gov/library/publications/the-world-factbook/geos/so.html) | total:637,657 sq km land:627,337 sq km water:10,320 sq km |
+| [South Africa](https://www.cia.gov/library/publications/the-world-factbook/geos/sf.html) | total:1,219,090 sq km land:1,214,470 sq km water:4,620 sq km **note:** includes Prince Edward Islands (Marion Island and Prince Edward Island) |
+| [South Georgia and South Sandwich Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/sx.html) | total:3,903 sq km land:3,903 sq km water:0 sq km **note:** includes Shag Rocks, Black Rock, Clerke Rocks, South Georgia Island, Bird Island, and the South Sandwich Islands, which consist of 11 islands |
+| [South Sudan](https://www.cia.gov/library/publications/the-world-factbook/geos/od.html) | total:644,329 sq km land:NA water:NA |
+| [Southern Ocean](https://www.cia.gov/library/publications/the-world-factbook/geos/oo.html) | total:20.327 million sq km **note:** includes Amundsen Sea, Bellingshausen Sea, part of the Drake Passage, Ross Sea, a small part of the Scotia Sea, Weddell Sea, and other tributary water bodies |
+| [Spain](https://www.cia.gov/library/publications/the-world-factbook/geos/sp.html) | total:505,370 sq km land:498,980 sq km water:6,390 sq km **note:** there are two autonomous cities - Ceuta and Melilla - and 17 autonomous communities including Balearic Islands and Canary Islands, and three small Spanish possessions off the coast of Morocco - Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera |
+| [Spratly Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/pg.html) | total:5 sq km less than land:5 sq km less than water:0 sq km **note:** includes 100 or so islets, coral reefs, and sea mounts scattered over an area of nearly 410,000 sq km (158,000 sq mi) of the central South China Sea |
+| [Sri Lanka](https://www.cia.gov/library/publications/the-world-factbook/geos/ce.html) | total:65,610 sq km land:64,630 sq km water:980 sq km |
+| [Sudan](https://www.cia.gov/library/publications/the-world-factbook/geos/su.html) | total:1,861,484 sq km land:1,731,671 sq km water:129,813 sq km |
+| [Suriname](https://www.cia.gov/library/publications/the-world-factbook/geos/ns.html) | total:163,820 sq km land:156,000 sq km water:7,820 sq km |
+| [Svalbard](https://www.cia.gov/library/publications/the-world-factbook/geos/sv.html) | total:62,045 sq km land:62,045 sq km water:0 sq km **note:** includes Spitsbergen and Bjornoya (Bear Island) |
+| [Sweden](https://www.cia.gov/library/publications/the-world-factbook/geos/sw.html) | total:450,295 sq km land:410,335 sq km water:39,960 sq km |
+| [Switzerland](https://www.cia.gov/library/publications/the-world-factbook/geos/sz.html) | total:41,277 sq km land:39,997 sq km water:1,280 sq km |
+| [Syria](https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html) | total:187,437 sq km land:185,887 sq km water:1,550 sq km **note:** includes 1,295 sq km of Israeli-occupied territory |
+| [Taiwan](https://www.cia.gov/library/publications/the-world-factbook/geos/tw.html) | total:35,980 sq km land:32,260 sq km water:3,720 sq km **note:** includes the Pescadores, Matsu, and Quemoy islands |
+| [Tajikistan](https://www.cia.gov/library/publications/the-world-factbook/geos/ti.html) | total:144,100 sq km land:141,510 sq km water:2,590 sq km |
+| [Tanzania](https://www.cia.gov/library/publications/the-world-factbook/geos/tz.html) | total:947,300 sq km land:885,800 sq km water:61,500 sq km **note:** includes the islands of Mafia, Pemba, and Zanzibar |
+| [Thailand](https://www.cia.gov/library/publications/the-world-factbook/geos/th.html) | total:513,120 sq km land:510,890 sq km water:2,230 sq km |
+| [Timor-Leste](https://www.cia.gov/library/publications/the-world-factbook/geos/tt.html) | total:14,874 sq km land:14,874 sq km water:0 sq km |
+| [Togo](https://www.cia.gov/library/publications/the-world-factbook/geos/to.html) | total:56,785 sq km land:54,385 sq km water:2,400 sq km |
+| [Tokelau](https://www.cia.gov/library/publications/the-world-factbook/geos/tl.html) | total:12 sq km land:12 sq km water:0 sq km |
+| [Tonga](https://www.cia.gov/library/publications/the-world-factbook/geos/tn.html) | total:747 sq km land:717 sq km water:30 sq km |
+| [Trinidad and Tobago](https://www.cia.gov/library/publications/the-world-factbook/geos/td.html) | total:5,128 sq km land:5,128 sq km water:0 sq km |
+| [Tunisia](https://www.cia.gov/library/publications/the-world-factbook/geos/ts.html) | total:163,610 sq km land:155,360 sq km water:8,250 sq km |
+| [Turkey](https://www.cia.gov/library/publications/the-world-factbook/geos/tu.html) | total:783,562 sq km land:769,632 sq km water:13,930 sq km |
+| [Turkmenistan](https://www.cia.gov/library/publications/the-world-factbook/geos/tx.html) | total:488,100 sq km land:469,930 sq km water:18,170 sq km |
+| [Turks and Caicos Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/tk.html) | total:948 sq km land:948 sq km water:0 sq km |
+| [Tuvalu](https://www.cia.gov/library/publications/the-world-factbook/geos/tv.html) | total:26 sq km land:26 sq km water:0 sq km |
+| [Uganda](https://www.cia.gov/library/publications/the-world-factbook/geos/ug.html) | total:241,038 sq km land:197,100 sq km water:43,938 sq km |
+| [Ukraine](https://www.cia.gov/library/publications/the-world-factbook/geos/up.html) | total:603,550 sq km land:579,330 sq km water:24,220 sq km **note:** approximately 43,133 sq km, or about 7.1% of Ukraine's area, is Russian occupied; the seized area includes all of Crimea and about one-third of both Luhans'k and Donets'k oblasts |
+| [United Arab Emirates](https://www.cia.gov/library/publications/the-world-factbook/geos/ae.html) | total:83,600 sq km land:83,600 sq km water:0 sq km |
+| [United Kingdom](https://www.cia.gov/library/publications/the-world-factbook/geos/uk.html) | total:243,610 sq km land:241,930 sq km water:1,680 sq km **note 1:** the percentage area breakdown of the four UK countries is: England 53%, Scotland 32%, Wales 9%, and Northern Ireland 6% **note 2:** includes Rockall and the Shetland Islands, which are part of Scotland |
+| [United States](https://www.cia.gov/library/publications/the-world-factbook/geos/us.html) | total:9,833,517 sq km land:9,147,593 sq km water:685,924 sq km **note:** includes only the 50 states and District of Columbia, no overseas territories |
+| [United States Pacific Island Wildlife Refuges](https://www.cia.gov/library/publications/the-world-factbook/geos/um.html) | land:6,959.41 sq km(emergent land - 22.41 sq km; submerged - 6,937 sq km) **Baker Island:**total - 129.1 sq km; emergent land - 2.1 sq km; submerged - 127 sq km **Howland Island:**total - 138.6 sq km; emergent land - 2.6 sq km; submerged - 136 sq km **Jarvis Island:**total - 152 sq km; emergent land - 5 sq km; submerged - 147 sq km **Johnston Atoll:**total - 276.6 sq km; emergent land - 2.6 sq km; submerged - 274 sq km **Kingman Reef:**total - 1,958.01 sq km; emergent land - 0.01 sq km; submerged - 1,958 sq km **Midway Islands:**total - 2,355.2 sq km; emergent land - 6.2 sq km; submerged - 2,349 sq km **Palmyra Atoll:**total - 1,949.9 sq km; emergent land - 3.9 sq km; submerged - 1,946 sq km |
+| [Uruguay](https://www.cia.gov/library/publications/the-world-factbook/geos/uy.html) | total:176,215 sq km land:175,015 sq km water:1,200 sq km |
+| [Uzbekistan](https://www.cia.gov/library/publications/the-world-factbook/geos/uz.html) | total:447,400 sq km land:425,400 sq km water:22,000 sq km |
+| [Vanuatu](https://www.cia.gov/library/publications/the-world-factbook/geos/nh.html) | total:12,189 sq km land:12,189 sq km water:0 sq km **note:** includes more than 80 islands, about 65 of which are inhabited |
+| [Venezuela](https://www.cia.gov/library/publications/the-world-factbook/geos/ve.html) | total:912,050 sq km land:882,050 sq km water:30,000 sq km |
+| [Vietnam](https://www.cia.gov/library/publications/the-world-factbook/geos/vm.html) | total:331,210 sq km land:310,070 sq km water:21,140 sq km |
+| [Virgin Islands](https://www.cia.gov/library/publications/the-world-factbook/geos/vq.html) | total:1,910 sq km land:346 sq km water:1,564 sq km |
+| [Wake Island](https://www.cia.gov/library/publications/the-world-factbook/geos/wq.html) | total:6.5 sq km land:6.5 sq km water:0 sq km |
+| [Wallis and Futuna](https://www.cia.gov/library/publications/the-world-factbook/geos/wf.html) | total:142 sq km land:142 sq km water:0 sq km **note:** includes Ile Uvea (Wallis Island), Ile Futuna (Futuna Island), Ile Alofi, and 20 islets |
+| [West Bank](https://www.cia.gov/library/publications/the-world-factbook/geos/we.html) | total:5,860 sq km land:5,640 sq km water:220 sq km **note:** includes West Bank, Latrun Salient, and the northwest quarter of the Dead Sea, but excludes Mt. Scopus; East Jerusalem and Jerusalem No Man's Land are also included only as a means of depicting the entire area occupied by Israel in 1967 |
+| [Western Sahara](https://www.cia.gov/library/publications/the-world-factbook/geos/wi.html) | total:266,000 sq km land:266,000 sq km water:0 sq km |
+| [World](https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html) | total:510.072 million sq km land:148.94 million sq km water:361.132 million sq km **note:** 70.9% of the world's surface is water, 29.1% is land |
+| [Yemen](https://www.cia.gov/library/publications/the-world-factbook/geos/ym.html) | total:527,968 sq km land:527,968 sq km water:0 sq km **note:** includes Perim, Socotra, the former Yemen Arab Republic (YAR or North Yemen), and the former People's Democratic Republic of Yemen (PDRY or South Yemen) |
+| [Zambia](https://www.cia.gov/library/publications/the-world-factbook/geos/za.html) | total:752,618 sq km land:743,398 sq km water:9,220 sq km |
+| [Zimbabwe](https://www.cia.gov/library/publications/the-world-factbook/geos/zi.html) | total:390,757 sq km land:386,847 sq km water:3,910 sq km |

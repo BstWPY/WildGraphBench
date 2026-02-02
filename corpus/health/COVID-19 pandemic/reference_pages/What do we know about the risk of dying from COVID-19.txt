@@ -1,0 +1,225 @@
+# What do we know about the risk of dying from COVID-19?
+
+By: [Edouard Mathieu](https://ourworldindata.org/team/edouard-mathieu), [Hannah Ritchie](https://ourworldindata.org/team/hannah-ritchie), [Lucas Rodés-Guirao](https://ourworldindata.org/team/lucas-rodes-guirao), [Cameron Appel](https://ourworldindata.org/team/), [Daniel Gavrilov](https://ourworldindata.org/team/), [Charlie Giattino](https://ourworldindata.org/team/charlie-giattino), [Joe Hasell](https://ourworldindata.org/team/joe-hasell), [Bobbie Macdonald](https://ourworldindata.org/team/), [Saloni Dattani](https://ourworldindata.org/team/saloni-dattani), [Diana Beltekian](https://ourworldindata.org/team/), [Esteban Ortiz-Ospina](https://ourworldindata.org/team/esteban-ortiz-ospina),
+
+and [Max Roser](https://ourworldindata.org/team/max-roser)
+
+This page was first published in 2020 and revised in 2024.
+
+[Cite this article](https://ourworldindata.org/covid-mortality-risk#article-citation)[Reuse our work freely](https://ourworldindata.org/covid-mortality-risk#article-licence)
+
+This page presents data on mortality risks from COVID-19.
+
+The primary metric available on this topic is the **case fatality rate**. This metric is _not_ a direct measure of mortality risk because of limited testing, time lags between cases and deaths, and because the risk varies between different contexts and demographic groups.
+
+On this page, we also explain the limitations of the case fatality rate and describe other metrics used to understand mortality risks from COVID-19.
+
+Case fatality rate[](https://ourworldindata.org/covid-mortality-risk#case-fatality-rate)
+----------------------------------------------------------------------------------------
+
+The case fatality rate (CFR) is simply **the number of confirmed deaths divided by the number of confirmed cases**.
+
+This chart here plots the CFR calculated this way, as a 7-day moving average.
+
+Since the number of actual infections and deaths from COVID-19 is not known, one has to be careful in interpreting the CFR.
+
+#### What is important to note about these case figures?
+
+*   The actual number of COVID-19 infections is likely to be much higher than the number of confirmed COVID-19 cases – this is due to limited testing
+*   The number of deaths is likely to be higher than the number of confirmed COVID-19 deaths
+*   As a result, the case fatality rate is not the same as the true risk for an infected person
+
+##### Related charts:
+
+[![Image 1: A 54x38 small image, likely a logo, icon or avatar](https://ourworldindata.org/grapher/covid-19-cumulative-confirmed-cases-vs-confirmed-deaths.png) ### Total confirmed deaths vs. cases [scatterplot] How do the total number of confirmed deaths and cases compare? See them plotted against each other.](https://ourworldindata.org/grapher/covid-19-cumulative-confirmed-cases-vs-confirmed-deaths)[![Image 2: A 54x38 small image, likely a logo, icon or avatar](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19.png) ### Total confirmed deaths and cases [time-series] How has the number of confirmed cases and confirmed deaths changed over time?](https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19)
+**The case fatality rate, crude mortality rate, and infection fatality rate**[](https://ourworldindata.org/covid-mortality-risk#the-case-fatality-rate-crude-mortality-rate-and-infection-fatality-rate)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Case fatality rate (CFR)[](https://ourworldindata.org/covid-mortality-risk#case-fatality-rate-cfr)
+
+In the media, discussions of the risk of death from COVID-19 often use data on the “case fatality rate”.[1](https://ourworldindata.org/covid-mortality-risk#note-1)
+
+This measure is sometimes also called case fatality risk or case fatality ratio. It is abbreviated as CFR.
+
+The CFR is _not_ the same as the risk of death for an infected person — even though, unfortunately, journalists and media outlets sometimes suggest that it is. It is relevant and important, but far from the whole story.
+
+The CFR is easy to calculate. You take the number of people who have died from the disease and divide it by the total number of people diagnosed with the disease. So if 10 people have died, and 100 people have been diagnosed with the disease, the CFR is [10 / 100], or 10%.
+
+Case fatality rate (CFR) = [ Number of deaths from disease / Number of diagnosed cases of disease ] × 100
+
+The most important thing to note about this metric is that it focuses on the number of _confirmed_ deaths from the disease and the number of _confirmed_ cases.
+
+This is not the same as the number of actual infections divided by the number of actual deaths from the disease. Not everyone with the infection has symptoms or gets tested, and not everyone who dies from the disease may be recorded as having died from COVID-19. This is because of limited testing, death registration, challenges in determining the cause of death, and more.
+
+As a consequence, the CFR is not the same as the average risk of death for infected people.
+
+### Crude mortality rate[](https://ourworldindata.org/covid-mortality-risk#crude-mortality-rate)
+
+Another related metric is the **crude mortality rate**. This is a very simple measure that, like the CFR, might _sound_ like the answer to the question, “If someone is infected, how likely are they to die?”
+
+But, just like the CFR, it is actually very different.
+
+The crude mortality rate — sometimes also called the crude death rate — is the share of the entire population that has died from a particular disease.
+
+It is calculated by dividing the number of deaths from the disease by the _total population_. For instance, if there were 10 deaths in a population of 1,000, the crude mortality rate would be [10 / 1,000], or 1%.
+
+Unfortunately, writers sometimes confuse case fatality rates and crude death rates. A common example is the Spanish flu pandemic in 1918. One estimate for the death toll of the Spanish flu, by Johnson and Mueller (2002), is that the pandemic killed 50 million people.[2](https://ourworldindata.org/covid-mortality-risk#note-2) That would have been 2.7% of the world population at the time. This means the crude mortality rate was 2.7%.
+
+But 2.7% is often misreported as the _case_ fatality rate – which is wrong, because not everyone in the world was infected with the virus that caused the Spanish flu.
+
+If the crude mortality rate really was 2.7%, then the case fatality rate was much higher – it would be the percentage of people who died _after being diagnosed with_ the disease.
+
+We look at the global death count of the Spanish flu pandemic in this article:
+
+[![Image 3: A 54x31 small image, likely a logo, icon or avatar](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/741c68ee-ce38-4ae5-3074-e6617a4d5300/w=1720) ### The Spanish flu: the global impact of the largest influenza pandemic in history The Spanish flu pandemic had a devastating impact on the global population.](https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history)
+### Infection fatality rate (IFR)[](https://ourworldindata.org/covid-mortality-risk#infection-fatality-rate-ifr)
+
+The key question for understanding the mortality risk of a disease is: If someone is infected with the disease, how likely is it that they will die from it?
+
+The answer to that question is captured by the **infection fatality rate**, which is abbreviated as the IFR.
+
+The IFR is the number of deaths from a disease divided by the total number of cases. If 10 people die of the disease, and 500 actually have it, then the IFR is [10 / 500], or 2%.[3](https://ourworldindata.org/covid-mortality-risk#note-3)
+
+To work out the IFR, we need two numbers: the total number of infections and the total number of deaths from the disease.
+
+However, as [we explain here](https://ourworldindata.org/covid-cases#the-number-of-actual-cases-is-higher-than-the-number-of-confirmed-cases), the total number of infections of COVID-19 is not known. One major reason is that not everyone with COVID-19 is tested.[4](https://ourworldindata.org/covid-mortality-risk#note-4)
+
+Since the total number of infections is not known, the IFR cannot be calculated simply from observed data.
+
+But researchers can _estimate_ the total number of infections and deaths and use that to calculate the IFR.
+
+Understanding the case fatality rate[](https://ourworldindata.org/covid-mortality-risk#understanding-the-case-fatality-rate)
+----------------------------------------------------------------------------------------------------------------------------
+
+Why the case fatality rate does not reflect the risk of dying from COVID-19[](https://ourworldindata.org/covid-mortality-risk#why-the-case-fatality-rate-does-not-reflect-the-risk-of-dying-from-covid-19)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+There is a straightforward question that most people would like answered. If someone is infected with COVID-19, how likely is that person to die?
+
+This question is simple, but surprisingly hard to answer.
+
+The key point is that the case fatality rate (CFR) — the most commonly discussed measure — is not the answer to the question.
+
+The main reason why it does not answer that question is that the CFR relies on the number of confirmed cases, and many cases are not confirmed.
+
+In order to understand what the case fatality rate can and cannot tell us about a disease outbreak such as COVID-19, it’s important to understand why it is difficult to measure and interpret the numbers.
+
+Why the case fatality rate does not reflect the risk of dying from COVID-19[](https://ourworldindata.org/covid-mortality-risk#why-the-case-fatality-rate-does-not-reflect-the-risk-of-dying-from-covid-19)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sometimes, commentators treat the CFR as a single, fixed statistic — an unchanging fact about the disease.
+
+But it’s not a biological constant; instead, it reflects the situation in a particular context, at a particular time, in a particular population.
+
+The probability that someone dies from a disease doesn’t just depend on the disease itself, but also on the treatment and healthcare they receive, and the patient’s own ability to recover from it.
+
+This means that the CFR can decrease or increase over time, as responses change, and it can vary by location and by the characteristics of the infected population, such as age or sex.
+
+For instance, we would expect to see a higher CFR from COVID-19 at older ages than younger ages.
+
+The CFR of COVID-19 differs by location, and has changed during the early period of the outbreak[](https://ourworldindata.org/covid-mortality-risk#the-cfr-of-covid-19-differs-by-location-and-has-changed-during-the-early-period-of-the-outbreak)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The case fatality rate of COVID-19 is not constant. This was clear right from the start of the pandemic. You can see that in the chart below, first published in the Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19), in February 2020.[5](https://ourworldindata.org/covid-mortality-risk#note-5)
+
+It shows the CFR for COVID-19 in several locations in China during the early stages of the outbreak, from the beginning of January to 20th February 2020.
+
+You can see that in the earliest stages of the outbreak, the CFR was much higher: it was 17.3% across China as a whole (in yellow) and greater than 20% in the center of the outbreak, in Wuhan (in blue).
+
+But in the following weeks, the CFR declined, reaching as low as 0.7% for patients who first showed symptoms after February 1st. This change can occur due to improvements in testing, treatment, and the demographics who are infected.
+
+You can also see that the CFR was different in different places. By 1st February, the CFR in Wuhan was still 5.8% while it was 0.7% across the rest of China.
+
+This shows that what we said about the CFR generally — that it changes from time to time and place to place — is true for the CFR of COVID-19 specifically.
+
+When we discuss a disease's CFR, we need to do so at a specific time and place — the CFR in Wuhan on 23rd February or in Italy on 4th March — rather than as a single unchanging value.
+
+![Image 4: A line graph titled "Case fatality ratio (reported deaths among total cases) for COVID-19 in China over time and by location, as of 20 February 2020." The graph displays the reported deaths/total cases (%) over time from 1 January to 20 February, categorized by four locations: Wuhan, Hubei (outside Wuhan), China (outside Hubei), and China (overall). The y-axis shows the percentage of reported deaths, while the x-axis represents time periods. The case fatality ratio decreases for all locations over time, with Wuhan initially having the highest ratio. By the end of the period, the ratios converge to similar, lower levels.](https://ourworldindata.org/cdn-cgi/imagedelivery/qLq-8BTgXU8yG0N6HnOy8g/77e5e69f-3e21-4ecc-e3e6-46d2b5e45300/w=627)
+
+The CFR of COVID-19 differs by location, and has changed during the early period of the outbreak[](https://ourworldindata.org/covid-mortality-risk#the-cfr-of-covid-19-differs-by-location-and-has-changed-during-the-early-period-of-the-outbreak)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If the case fatality rate does not tell us the risk of death for someone infected with the disease, what does it tell us? And how does the CFR compare with the actual mortality risk?
+
+There are two major reasons why the CFR doesn’t represent the actual risk of death from infections. One would tend to make the CFR an overestimate of the mortality risk, and the other would tend to make it an underestimate.
+
+**When people who have the disease are not diagnosed, the CFR will****_overestimate_****the true risk of death. With COVID-19, we think there are many undiagnosed people.**
+
+As we saw above, in our discussion on confirmed [cases](https://ourworldindata.org/covid-cases) and total infections, we do not know the total number of COVID-19 infections. Not everyone is tested for COVID-19, so the total number of infections is higher than the number of confirmed cases.
+
+Whenever cases of the disease are not counted, the risk of dying from the disease is lower than the reported case fatality rate.
+
+Remember our imaginary scenario with 10 deaths and 100 cases. The CFR in that example is 10%, but if there are actually 500 infections (and we’ve simply missed 400 of them due to lack of testing), then the real risk (the IFR) is just 2%.[6](https://ourworldindata.org/covid-mortality-risk#note-6)
+
+Importantly, this means that the level of testing affects the CFR: you can only confirm a case by testing a patient. So when we compare the CFR between different countries, the differences do not only reflect rates of mortality but also differences in the extent of testing.
+
+**A second consideration is very important in the****_early_****stages of an outbreak. When some people are sick and will die of the disease but have not died yet, the CFR will****_underestimate_****the true risk of death.**
+
+In ongoing outbreaks, people who are currently sick will eventually die from the disease. This means that they are currently counted as a case, but will only be counted as deaths later on.
+
+Among COVID-19 deaths, there are often weeks between the first symptoms and death.
+
+This means that, at the start of an outbreak, the CFR will be an underestimate of what it will be later on.
+
+Acknowledgments[](https://ourworldindata.org/covid-mortality-risk#acknowledgments)
+----------------------------------------------------------------------------------
+
+We are grateful to everyone whose editorial review and expert feedback on this work helped us to continuously improve our work on the pandemic.
+
+We would like to acknowledge and thank a number of people in the development of this work: **Carl Bergstrom**, **Bernadeta Dadonaite**, **Natalie Dean**, **Joel Hellewell,****Jason Hendry**, **Adam Kucharski**, **Moritz Kraemer,** and **Eric Topol** for their very helpful and detailed comments and suggestions on earlier versions of this work. We thank **Tom Chivers** for his editorial review and feedback.
+
+And we would like to thank the many hundreds of readers who give us feedback on this work. Your feedback is what allows us to continuously clarify and improve it. We very much appreciate you taking the time to write. We cannot respond to every message we receive, but we do read all feedback and aim to take the many helpful ideas into account.
+
+### Endnotes
+
+1.   For examples see Worldometers. Worldometers lists many poor examples of ‘mortality rates’ for COVID-19 without discussion[here](https://www.worldometers.info/coronavirus/coronavirus-death-rate/).
+
+2.   Taubenberger, J. K., & Morens, D. M. (2006).[1918 Influenza: the mother of all pandemics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3291398/). Revista Biomedica, 17(1), 69-79.
+
+3.   We would therefore calculate the infection fatality rate as:
+
+Infection fatality risk (IFR, in %) = [Number of deaths from disease / total number of cases of disease] x 100
+
+Wong, J. Y., Heath Kelly, D. K., Wu, J. T., Leung, G. M., & Cowling, B. J. (2013).[Case fatality risk of influenza A (H1N1pdm09): a systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3809029/). Epidemiology, 24(6).
+
+Lipsitch, M., Donnelly, C. A., Fraser, C., Blake, I. M., Cori, A., Dorigatti, I., … & Van Kerkhove, M. D. (2015). Potential biases in estimating absolute and relative case-fatality risks during outbreaks. PLoS Neglected Tropical Diseases, 9(7).
+
+Kobayashi, T., Jung, S. M., Linton, N. M., Kinoshita, R., Hayashi, K., Miyama, T., … & Suzuki, A. (2020).[Communicating the Risk of Death from Novel Coronavirus Disease (COVID-19)](https://www.mdpi.com/2077-0383/9/2/580). Journal of Clinical Medicine.
+
+Nishiura, H. (2010).[Case fatality ratio of pandemic influenza](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(10)70120-1/fulltext). The Lancet Infectious Diseases, 10(7), 443.
+
+4.   Read JM, Bridgen JR, Cummings DA, Ho A, Jewell CP.[Novel coronavirus 2019-nCoV: early estimation of epidemiological parameters and epidemic predictions](https://www.medrxiv.org/content/10.1101/2020.01.23.20018549v2). medRxiv. 2020;2020.01.23.20018549.
+
+World Health Organization (2020). Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19). Available online at: [https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
+
+5.   World Health Organization (2020). Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19). Available online at: [https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf).
+
+6.   The relationship between CFR and IFR also depends on how large of a discrepancy there is between the number of confirmed and actual deaths, but we’d expect the magnitude of undercounting of deaths to be less than for cases.
+
+### Cite this work
+
+Our articles and data visualizations rely on work from many different people and organizations. When citing this article, please also cite the underlying data sources. This article can be cited as:
+
+`Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Daniel Gavrilov, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina, and Max Roser (2020) - “Mortality Risk of COVID-19” Published online at OurWorldinData.org. Retrieved from: 'https://archive.ourworldindata.org/20251202-063356/mortality-risk-covid.html' [Online Resource] (archived on December 2, 2025).`
+
+BibTeX citation
+
+```
+@article{owid-mortality-risk-covid,
+    author = {Edouard Mathieu and Hannah Ritchie and Lucas Rodés-Guirao and Cameron Appel and Daniel Gavrilov and Charlie Giattino and Joe Hasell and Bobbie Macdonald and Saloni Dattani and Diana Beltekian and Esteban Ortiz-Ospina and Max Roser},
+    title = {Mortality Risk of COVID-19},
+    journal = {Our World in Data},
+    year = {2020},
+    note = {https://archive.ourworldindata.org/20251202-063356/mortality-risk-covid.html}
+}
+```
+
+![Image 5: Our World in Data logo](https://ourworldindata.org/owid-logo.svg)
+
+### Reuse this work freely
+
+All visualizations, data, and code produced by Our World in Data are completely open access under the[Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). You have the permission to use, distribute, and reproduce these in any medium, provided the source and authors are credited.
+
+The data produced by third parties and made available by Our World in Data is subject to the license terms from the original third-party authors. We will always indicate the original source of the data in our documentation, so you should always check the license of any such third-party data before use and redistribution.
+
+All of[our charts can be embedded](https://ourworldindata.org/faqs#how-can-i-embed-one-of-your-interactive-charts-in-my-website)in any site.

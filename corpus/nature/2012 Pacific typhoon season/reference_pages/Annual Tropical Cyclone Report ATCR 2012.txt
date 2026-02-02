@@ -1,0 +1,1620 @@
+# Annual Tropical Cyclone Report (ATCR) 2012
+
+U.S. Naval Maritime Forecast Center/ Joint Typhoon Warning Center 
+
+## Pearl Harbor, Hawaii 
+
+# ASHLEY D. EVANS 
+
+Captain, United States Navy 
+
+Commanding Officer 
+
+# ROBERT J. FALVEY 
+
+Director, Joint Typhoon Warning Center 
+
+# Annual Tropical Cyclone Report 
+
+# 2012 2
+
+> Cover: Photographic image of Super Typhoon 26W (Bopha).
+
+Taken 2 December, 2012 from t he International Space Station. Courtesy of NASA. 3
+
+Executive Summary 
+
+The Annual Tropical Cyclone Report (ATCR) is prepared by the staff of the Joint Typhoon Warning Center (JTWC), a jointly manned United States Air Force/Navy organization under the command of the Commanding Officer, Joint Typhoon Warning Center. 
+
+The original JTWC was established on 1 May 1959 when the Joint Chiefs of Staff directed Commander-in- Chief, US Pacific Command (USCINCPAC) to provide a single tropical cyclone warning center for the western North Pacific region. USCINCPAC delegated the tropical cyclone forecast and warning mission to Commander, Pacific Fleet. A subsequent USCINCPAC directive further tasked Commander, Pacific Air Force to provide for tropical cyclone (TC) reconnaissance support to the JTWC. Currently, JTWC operations are guided by USPACOM Instruction 0539.1 and Pacific Air Forces Instruction 15-101. 
+
+This edition of the ATCR documents the 2012 TC season and details operationally or meteorologically significant cyclones noted within the JTWC Area of Responsibility (AOR). Details are provided to describe either significant challenges and/or shortfalls in the TC warning system and to serve as a focal point for future research and development efforts. Also included are tropical cyclone reconnaissance statistics and a summary of tropical cyclone research or technique development that members of JTWC were involved. 
+
+Continued below average tropical cyclone activity was observed in the western North Pacific Ocean, with only 27 TCs observed compared to the long term average of 31. There were four cyclones that reached super typhoon intensity. The TC formation region shifted eastward when compared to 2011 and displayed characteristics common during ENSO neutral conditions. Many of the 2012 TCs exhibited “S” shaped, looping, or generally erratic tracks, especially in the east Philippine Sea and South China Sea. Okinawa suffered three direct hits between late August and late September by Typhoon Bolaven (16W), Super Typhoon Sanba (17W), and Super Typhoon Jelawat (18W) with five other passages within 150 miles. Guam was again spared from direct tropical cyclone impacts, with Typhoon Sanvu (03W) passing just west of the island as a weak tropical storm. Department of Defense (DoD) bases in South Korea and mainland Japan were impacted by four and three tropical cyclones, respectively. 
+
+The Southern Hemisphere activity also continued a below normal trend, with 21 cyclones observed compared to an average of 28. A large majority of Southern Hemisphere cyclones occurred in the south Indian Ocean, with only four in the South Pacific, five around Australia and 12 occurring east of 100 degrees east longitude. The Northern Indian Ocean experienced near normal activity with 4 cyclones, with two in the Arabian Sea and two in the Bay of Bengal. All of the cyclones in the Northern Indian Ocean were weak, with peak winds of 50 knots or less. 
+
+Weather satellite data remained the mainstay of the TC reconnaissance mission to support the JTWC. Satellite analysts exploited a wide variety of conventional and microwave satellite data to produce over 8,500 position and intensity estimates (fixes), primarily using the USAF Mark IVB and the USN FMQ-17 satellite direct readout systems. Geo-located microwave satellite imagery overlays available via the Automated Tropical Cyclone Forecast (ATCF) system from Fleet Numerical Meteorology and Oceanography Center and the Naval Research Lab Monterey were also used by JTWC to make TC fixes thus providing additional data for TC location and intensity. 
+
+JTWC also continues to utilize radar derived TC position information from numerous U.S. owned/operated weather radars as well as from international sources. Antenna site selection and budget challenges have delayed the replacement of the WSR-88D Doppler Weather Radar at Kadena AB that was destroyed in 2011 by Super Typhoon Songda. 
+
+In 2012, the Air Force cancelled the Defense Weather Satellite System program. As a result, the Joint Requirements Oversight Council identified 12 DoD Meteorological and Oceanographic (METOC) collection requirement gaps. Several identified gaps relate to tropical cyclone reconnaissance, including Ocean Surface 4
+
+Vector Winds (OSVW), Tropical Cyclone Intensity, and Theater Weather Imagery. A space based environmental monitoring analysis of alternatives is currently underway to identify mitigation strategies for these gaps. Additionally, the announcement from the Japan Meteorological Agency that future geostationary satellites (Himawari 8 and 9) will not have a direct readout capability has caused JTWC to engage with Air Force, Navy, and NOAA to ensure critical western North Pacific geostationary satellite data will be available for TC reconnaissance when Himawari 8 becomes operational. The Air Forces’ Mark IVB system had several upgrades in 2012, including adding a second geostationary satellite dish, receipt and processing of NOAA’s NPP Suomi, China Meteorological Administration’s FengYun 3A/3B, and Korea Meteorological Administration’s COMS-1. 
+
+JTWC continued to collaborate with TC forecast support and research organizations such as the Fleet Numerical Meteorology and Oceanography Center (FNMOC), Naval Research Laboratory, Monterey (NRLMRY), Naval Post Graduate School, the Office of Naval Research (ONR), Air Force Weather Agency (AFWA), and National Oceanic and Atmospheric Administration (NOAA) Line Offices for continued development of TC reconnaissance tools, numerical models and forecast aids. JTWC also funded upgrades to the GFDN model, as well as, adaptation of intensity forecast aids (SHIPS-RI and LGEM) for use in the U.S. Pacific Command (USPACOM) AOR. 
+
+The Techniques Development Branch (TECHDEV) remained the voice of JTWC to the research and development community. They worked with researchers from the University of Hawaii, University of Arizona, Naval Post Graduate School, and other agencies on a variety of promising projects. They helped JTWC refine its TC formation potential process via the Low-Medium-High checklist. This process and checklist was presented at the 2012 American Meteorological Service Conference on Hurricanes and Tropical Meteorology. TECHDEV also worked on product enhancements, including displaying JTWC products in Google Earth. 
+
+Behind all these efforts are the dedicated team of men and women, military and civilian at JTWC. Special thanks to the entire JTWC N6 Department for their outstanding IT support and the administrative and budget staff who worked tirelessly to ensure JTWC had the necessary resources to get the mission done in extremely volatile financial times. 
+
+A Special thanks also to: FNMOC for their operational data and modeling support; the NRLMRY and ONR for its dedicated TC research; the NOAA National Environmental Satellite, Data, and Information Service for satellite reconnaissance support; Dr. John Knaff, Mr. Jeff Hawkins, Dr. Mark DeMaria, and Mr. Chris Velden for their continuing efforts to exploit remote sensing technologies in new and innovative ways; Mr. Charles R. “Buck” Sampson, Ms. Ann Schrader, Mr. Mike Frost, and Mr. Chris Sisko for their outstanding support and continued development of the ATCF system. 5
+
+## JTWC Personnel 2012 
+
+Staff 
+
+Mr. Robert Falvey, Director 
+
+LCDR Sarah Follett, Operations Officer 
+
+LT Chad Geis, Operations Officer 
+
+Mr. Edward Fukada, Technical Advisor 
+
+Mr. James Darlow 
+
+Mr. Matt Kucas 
+
+Mr. Brian Strahl 
+
+Typhoon Duty Officers (TDO) 
+
+LCDR Sarah Follett 
+
+LT Natalie Laudier 
+
+LT Allan Howard 
+
+LT Chad Geis 
+
+LTJG Joshua Carter 
+
+Capt Jay Neese 
+
+Mr. Richard Ballucanag 
+
+Mr. Stephen Barlow 
+
+Mr. Matt Kucas 
+
+Mr. Aaron Lana 
+
+Mr. Brian Strahl 
+
+Satellite Operations 
+
+Capt Jay Neese, OIC Satellite Operations 
+
+Capt Spring Clegg , OIC Satellite Operations 
+
+TSgt Richard Kienzle, NCOIC 
+
+TSgt Jeffrey Quast, Analyst/NCOIC 
+
+SrA Maelyn Belmondo, Analyst 
+
+SrA Michael Lanzetta, Analyst 
+
+SrA Christina Hough, Analyst 
+
+SrA Andrew Casper, Analyst 
+
+SrA Kolby Rapp, Analyst 
+
+SrA Karen Long, Analyst 
+
+SrA Julian McAllister, Analyst 
+
+SrA Cody Newcomer, Analyst 
+
+A1C Savas Rivera , Analyst 
+
+Mr. James Darlow, Analyst 
+
+Mr. Dana Uehara, Analyst 
+
+Geophysical Technician (GT) 
+
+AG2 Christopher Brunner 
+
+AG2 James Spruill 
+
+AG2 Nicholas Vojack 
+
+AG2 Alyssa Roth 
+
+AG3 Valerie Littlefield 
+
+AG3 Kristin Terrell 
+
+AG3 Tyler Terrell 
+
+AG3 Vaughan Dill 
+
+AG3 Candice Sullivan 
+
+AGAN Bristol Rigby 
+
+AGAA Heather Johnston 
+
+AGAA Christian Wilcox 
+
+AGAA Jack Tracey 
+
+AGAR Jake Wilson 6
+
+# Table of Contents 
+
+COVER: PHOTOGRAPHIC IMAGE OF SUPER TYPHOON 26W (BOPHA).................................... 2 
+
+EXECUTIVE SUMMARY ................................................................................................................... 3 
+
+CHAPTER 1 WESTERN NORTH PACIFIC OCEAN TROPICAL CYCLONES ............................. 8 
+
+Section 1 Informational Tables .............................................................................................................................. 8
+
+Section 2 Cyclone Summaries ............................................................................................................................ 15 
+
+Tropical Depression 01W .............................................................................................................................................. 17 
+
+Tropical Storm 02W (Pakhar) ....................................................................................................................................... 18 
+
+Typhoon 03W (Sanvu) ................................................................................................................................................... 19 
+
+Typhoon 04W (Mawar) .................................................................................................................................................. 20 
+
+Super Typhoon 05W (Guchol) ....................................................................................................................................... 21 
+
+Tropical Storm 06W (Talim) ........................................................................................................................................... 22 
+
+Tropical Storm 07W (Doksuri) ....................................................................................................................................... 23 
+
+Tropical Storm 08W (Khanun) ....................................................................................................................................... 24 
+
+Typhoon 09W (Vicente) ................................................................................................................................................. 25 
+
+Typhoon 10W (Saola) .................................................................................................................................................... 26 
+
+Typhoon 11W (Damrey) ................................................................................................................................................ 27 
+
+Typhoon 12W (Haikui) ................................................................................................................................................... 28 
+
+Tropical Storm 13W (Kirogi) .......................................................................................................................................... 29 
+
+Typhoon 14W (Kai-Tak)................................................................................................................................................. 30 
+
+Typhoon 15W (Tembin) ................................................................................................................................................. 31 
+
+Typhoon 16W (Bolaven) ................................................................................................................................................ 32 
+
+Super Typhoon 17W (Sanba) ........................................................................................................................................ 33 
+
+Super Typhoon 18W (Jelawat) ...................................................................................................................................... 34 
+
+Tropical Storm 19W (Ewiniar) ........................................................................................................................................ 35 
+
+Tropical Storm 20W (Maliksi) ......................................................................................................................................... 36 
+
+Tropical Storm 21W (Gaemi) ......................................................................................................................................... 37 
+
+Typhoon 22W (Prapiroon) ............................................................................................................................................. 38 
+
+Tropical Storm 23W (Maria) ........................................................................................................................................... 39 
+
+Typhoon 24W (Son-Tinh) .............................................................................................................................................. 40 
+
+Tropical Depression 25W .............................................................................................................................................. 41 
+
+Super Typhoon 26W (Bopha) ........................................................................................................................................ 42 
+
+Tropical Storm 27W (Wukong) ...................................................................................................................................... 43 
+
+Section 3 Detailed Cyclone Reviews .................................................................................................................. 44 
+
+CHAPTER 2 NORTH INDIAN OCEAN TROPICAL CYCLONES ................................................ 62 
+
+Section 1 Informational Tables ............................................................................................................................ 62 
+
+Section 2 Cyclone Summaries ............................................................................................................................ 64 
+
+Tropical Cyclone 01A (Murjan) ...................................................................................................................................... 65 
+
+Tropical Cyclone 02B (Nilam) ........................................................................................................................................ 66 
+
+Tropical Cyclone 03B ..................................................................................................................................................... 67 
+
+Tropical Cyclone 04A ..................................................................................................................................................... 68 
+
+CHAPTER 3 SOUTH PACIFIC AND SOUTH INDIAN OCEAN TROPICAL CYCLONES........... 69 
+
+Section 1 Informational Tables ............................................................................................................................ 69 
+
+Section 2 Cyclone Summaries ............................................................................................................................ 72 
+
+Tropical Cyclone 01S (Alenga) ...................................................................................................................................... 73 
+
+Tropical Cyclone 02S ..................................................................................................................................................... 74 
+
+Tropical Cyclone 03S (Grant) ........................................................................................................................................ 75 
+
+Tropical Cyclone 04S (Benilde) ..................................................................................................................................... 76 
+
+Tropical Cyclone 05S (Chanda) ..................................................................................................................................... 77 
+
+Tropical Cyclone 06S (Heidi) ......................................................................................................................................... 78 
+
+Tropical Cyclone 07S (Ethel) ......................................................................................................................................... 79 7
+
+Tropical Cyclone 08S (Funso) ....................................................................................................................................... 80 
+
+Tropical Cyclone 09S (Iggy) .......................................................................................................................................... 81 
+
+Tropical Cyclone 10P (Jasmine) .................................................................................................................................... 82 
+
+Tropical Cyclone 11P (Cyril) .......................................................................................................................................... 83 
+
+Tropical Cyclone 12S (Giovanna) .................................................................................................................................. 84 
+
+Tropical Cyclone 13S (Hilwa) ........................................................................................................................................ 85 
+
+Tropical Cyclone 14S (Irina) .......................................................................................................................................... 86 
+
+Tropical Cyclone 15S ..................................................................................................................................................... 87 
+
+Tropical Cyclone 16S (Koji) ........................................................................................................................................... 88 
+
+Tropical Cyclone 17S (Lua) ........................................................................................................................................... 89 
+
+Tropical Cyclone 18P (Daphne) ..................................................................................................................................... 90 
+
+Tropical Cyclone 19S ..................................................................................................................................................... 91 
+
+Tropical Cyclone 20S (Kuena) ....................................................................................................................................... 92 
+
+Tropical Cyclone 21P ..................................................................................................................................................... 93 
+
+CHAPTER 4 TROPICAL CYCLONE FIX DATA ............................................................................. 94 
+
+Section 1 Background......................................................................................................................................... 94 
+
+Section 2 Fix summary by basin ......................................................................................................................... 95 
+
+CHAPTER 5 TECHNIQUES DEVELOPMENT SUMMARY ......................................................... 99 
+
+Section 1: Background................................................................................................................................................... 99 
+
+Section 2: 2012 Projects ................................................................................................................................................ 99 
+
+Section 3 Future projects ............................................................................................................................................. 103 
+
+Section 4 Summary of mesoscale models: Current use and future development ...................................................... 104 
+
+CHAPTER 6 SUMMARY OF FORECAST VERIFICATION....................................................... 109 8  
+
+> Chapter 1 Western North Pacific Ocean Tropical Cyclones
+> Section 1 Informational Tables
+
+Table 1-1 is a summary of TC activity in the western North Pacific Ocean during the 2012 season. JTWC issued warnings on 27 cyclones. Table 1-2 shows the monthly distribution of TC activity summarized for 1959 - 2012 and Table 1-3 shows the monthly average occurrence of TC’s separated into: (1) typhoons and (2) tropical storms and typhoons. Table 1-4 summarizes Tropical Cyclone Formation Alerts issued. The annual number of TC’s of tropical storm strength or higher appears in Figure 1-1, while the number of TC’s of super typhoon intensity appears in Figure 1-2. Figure 1-3 illustrates a monthly average number of cyclones based on intensity categories. Figures 1-4 and 1-5 depict the 2012 western North Pacific Ocean TC tracks and intensities. 910 11 12 13 
+
+Figure 1-1. Annual number of western North Pacific TCs greater than 34 knots intensity. 
+
+Figure 1-2. Annual number of Western North Pacific TCs greater than 127 knots intensity. 14 
+
+Figure 1-3. Average number of Western North Pacific TCs (all intensities) by month 1959-2012. 15 
+
+Figure 1-4. Western North Pacific Tropical Cyclones 01W – 27W. 
+
+Section 2 Cyclone Summaries 
+
+This section presents a synopsis of each cyclone that occurred during 2012 in the western North Pacific Ocean. Each cyclone is presented, with the number and basin identifier used by JTWC, along with the name assigned by Regional Specialized Meteorological Center (RSMC) Tokyo. 
+
+Dates are also listed when JTWC first designated various stages of pre-warning development: LOW, MEDIUM, and HIGH (concurrent with TCFA). These classifications are defined as follows: 
+
+“Low” formation potential describes an area that is being monitored for development, but is unlikely to develop within the next 24 hours. 
+
+“Medium” formation potential describes an area that is being monitored for development and has an elevated potential to develop, but development will likely occur beyond 24 hours. 
+
+“High” formation potential describes an area that is being monitored for development and is either expected to develop within 24 hours or development has already started, but warning criteria have not yet been met. All areas designated as “High” are accompanied by a Tropical Cyclone Formation Alert (TCFA). 
+
+Initial and final JTWC warning dates are also presented with the number of warnings issued by JTWC. Landfall over major landmasses with approximate locations is presented as well. 
+
+The JTWC post-event reanalysis best track is also provided for each cyclone. Data included on the best track are position and intensity noted with cyclone symbols and color coded track. Best track position labels include the date-time, track speed in knots, and maximum wind speed in knots. A graph of best track intensity and fix intensity versus time is presented. The fix plots on this graph are color coded by fixing agency. 16 
+
+In addition, if this document is viewed as a pdf, each map has been hyperlinked to the appropriate keyhole markup language (kmz) file that will allow the reader to access and view the best-track data interactively on their computer using Google Earth software. Simply hold the control button and click the map image. The link will open, allowing the reader to download and open the file. 
+
+Users may also retrieve kmz files for the entire season from: 
+
+http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/best_tracks/2012/2012-kmzs/ 17 
+
+## Tropical Depression 01W 
+
+ISSUED LOW: 0600Z 17 Feb 2012 
+
+ISSUED MED: N/A 
+
+FIRST TCFA: N/A 
+
+FIRST WARNING: 1200Z 17 Feb 2012 
+
+LAST WARNING: 1800Z 17 Feb 2012 
+
+MAX INTENSITY: 25 Kts 
+
+WARNINGS: 218 
+
+## Tropical Storm 02W (Pakhar) 
+
+ISSUED LOW: 0430Z 26 Mar 2012 ISSUED MED: 1930Z 26 Mar 2012 
+
+FIRST TCFA: 0300Z 28 Mar 2012 
+
+FIRST WARNING: 0000Z 29 Mar 2012 
+
+LAST WARNING: 1200Z 31 Mar 2012 
+
+MAX INTENSITY: 60 Kts 
+
+WARNINGS: 11 19 
+
+## Typhoon 03W (Sanvu) 
+
+ISSUED LOW: 2200Z 18 May 2012 
+
+ISSUED MEDIUM: 0600Z 19 May 2012 
+
+FIRST TCFA: 2000Z 20 May 2012 
+
+FIRST WARNING: 0600Z 21 May 2012 
+
+LAST WARNING: 0600Z 27 May 2012 
+
+MAX INTENSITY: 80Kts 
+
+WARNINGS: 25 20 
+
+## Typhoon 04W (Mawar) 
+
+ISSUED LOW: 1330Z 29 May 2012 
+
+ISSUED MEDIUM: 1000Z 30 May 2012 
+
+FIRST TCFA: 2200Z 30 May 2012 
+
+FIRST WARNING: 1800Z 31 May 2012 
+
+LAST WARNING: 1800Z 05 Jun 2012 
+
+MAX INTENSITY: 105 Kts 
+
+WARNINGS: 21 21 
+
+## Super Typhoon 05W (Guchol) 
+
+ISSUED LOW: 2030Z 07 Jun 2012 
+
+ISSUED MEDIUM: 0300Z 07 Jun 2012 
+
+FIRST TCFA: 2030Z 08 Jun 2012 
+
+FIRST WARNING: 0000Z 11 Jun 2012 
+
+LAST WARNING: 1200Z 19 Jun 2012 
+
+MAX INTENSITY: 130 Kts 
+
+WARNINGS: 35 22 
+
+## Tropical Storm 06W (Talim) 
+
+ISSUED LOW: 0600Z 16 Jun 2012 
+
+ISSUED MEDIUM: 2130Z 16 Jun 2012 
+
+FIRST TCFA: 1130Z 17 Jun 2012 
+
+FIRST WARNING: 1800Z 17 Jun 2012 
+
+LAST WARNING: 0000Z 21 Jun 2012 
+
+MAX INTENSITY: 50 Kts 
+
+WARNINGS: 14 23 
+
+## Tropical Storm 07W (Doksuri) 
+
+ISSUED LOW: N/A 
+
+ISSUED MEDIUM: 0600Z 25 Jun 2012 
+
+FIRST TCFA: 1700Z 25 Jun 2012 
+
+FIRST WARNING: 1200Z 26 Jun 2012 
+
+LAST WARNING: 0000Z 30 Jun 2012 
+
+MAX INTENSITY: 40 Kts 
+
+WARNINGS: 15 24 
+
+## Tropical Storm 08W (Khanun) 
+
+ISSUED LOW: 0230Z 14 Jul 2012 
+
+ISSUED MEDIUM: 0600Z 14 Jul 2012 
+
+FIRST TCFA: 0430Z 15 Jul 2012 
+
+FIRST WARNING: 1200Z 15 Jul 2012 
+
+LAST WARNING: 0000Z 19 Jul 2012 
+
+MAX INTENSITY: 55 Kts 
+
+WARNINGS: 15 25 
+
+## Typhoon 09W (Vicente) 
+
+ISSUED LOW: 1500Z 17 Jul 2012 
+
+ISSUED MEDIUM: 1800Z 18 Jul 2012 
+
+FIRST TCFA: 0800Z 20 Jul 2012 
+
+FIRST WARNING: 1800Z 20 Jul 2012 
+
+LAST WARNING: 0000Z 24 Jul 2012 MAX INTENSITY: 115 Kts 
+
+WARNINGS: 14 26 
+
+## Typhoon 10W (Saola) 
+
+ISSUED LOW: 0130Z 25 Jul 2012 
+
+ISSUED MEDIUM: 0600Z 26 Jul 2012 
+
+FIRST TCFA: 1400Z 27 Jul 2012 
+
+FIRST WARNING: 0000Z 28 Jul 2012 
+
+LAST WARNING: 0000Z 03 Aug 2012 
+
+MAX INTENSITY: 90 Kts 
+
+WARNINGS: 25 27 
+
+## Typhoon 11W (Damrey) 
+
+ISSUED LOW: 0200Z 27 Jul 2012 
+
+ISSUED MEDIUM: 1430Z 27 Jul 2012 
+
+FIRST TCFA: 0600Z 28 Jul 2012 
+
+FIRST WARNING: 1800Z 28 Jul 2012 
+
+LAST WARNING: 1800Z 02 Aug 2012 
+
+MAX INTENSITY: 80 Kts 
+
+WARNINGS: 21 28 
+
+## Typhoon 12W (Haikui) 
+
+ISSUED LOW: 0930Z 01 Aug 2012 
+
+ISSUED MEDIUM: 1300Z 01 Aug 2012 
+
+FIRST TCFA: 2200Z 01 Aug 2012 
+
+FIRST WARNING: 1800Z 02 Aug 2012 
+
+LAST WARNING: 0000Z 08 Aug 2012 
+
+MAX INTENSITY: 65 Kts 
+
+WARNINGS: 22 29 
+
+## Tropical Storm 13W (Kirogi) 
+
+ISSUED LOW: N/A 
+
+ISSUED MEDIUM: 2230Z 02 Aug 2012 
+
+FIRST TCFA: 1100Z 04 Aug 2012 
+
+FIRST WARNING: 1800Z 04 Aug 2012 
+
+LAST WARNING: 1800Z 09 Aug 2012 
+
+MAX INTENSITY: 45 Kts 
+
+WARNINGS: 21 30 
+
+## Typhoon 14W (Kai-Tak) 
+
+ISSUED LOW: 0600Z 10 Aug 2012 
+
+ISSUED MEDIUM: 1800Z 11 Aug 2012 
+
+FIRST TCFA: 0700Z 12 Aug 2012 
+
+FIRST WARNING: 1200Z 12 Aug 2012 
+
+LAST WARNING: 1800Z 17 Aug 2012 
+
+MAX INTENSITY: 65 Kts 
+
+WARNINGS: 22 31 
+
+## Typhoon 15W (Tembin) 
+
+ISSUED LOW: 0600Z 17 Aug 2012 
+
+ISSUED MEDIUM: 2100Z 17 Aug 2012 
+
+FIRST TCFA: 1800Z 18 Aug 2012 
+
+FIRST WARNING: 0000Z 19 Aug 2012 
+
+LAST WARNING: 0000Z 30 Aug 2012 
+
+MAX INTENSITY: 120 Kts 
+
+WARNINGS: 45 32 
+
+## Typhoon 16W (Bolaven) 
+
+ISSUED LOW: 0600Z 18 Aug 2012 
+
+ISSUED MEDIUM: 0600Z 19 Aug 2012 
+
+FIRST TCFA: 1000Z 19 Aug 2012 
+
+FIRST WARNING: 0000Z 20 Aug 2012 
+
+LAST WARNING: 1800Z 28 Aug 2012 
+
+MAX INTENSITY: 125 Kts 
+
+WARNINGS: 36 33 
+
+## Super Typhoon 17W (Sanba) 
+
+ISSUED LOW: N/A 
+
+ISSUED MEDIUM: 1900Z 09 Sep 2012 
+
+FIRST TCFA: 1400Z 10 Sep 2012 
+
+FIRST WARNING: 1800Z 10 Sep 2012 
+
+LAST WARNING: 0600Z 17 Sep 2012 
+
+MAX INTENSITY: 155 Kts 
+
+WARNINGS: 27 34 
+
+## Super Typhoon 18W (Jelawat) 
+
+ISSUED LOW: 1800Z 17 Sep 2012 
+
+ISSUED MEDIUM: 0800Z 19 Sep 2012 
+
+FIRST TCFA: 2300Z 19 Sep 2012 
+
+FIRST WARNING: 1200Z 20 Sep 2012 
+
+LAST WARNING: 1800Z 30 Sep 2012 
+
+MAX INTENSITY: 140 Kts 
+
+WARNINGS: 42 35 
+
+## Tropical Storm 19W (Ewiniar) 
+
+ISSUED LOW: 2330Z 22 Sep 2012 
+
+ISSUED MEDIUM: 0600Z 23 Sep 2012 
+
+FIRST TCFA: 1230Z 23 Sep 2012 
+
+FIRST WARNING: 0000Z 24 Sep 2012 
+
+LAST WARNING: 1200Z 29 Sep 2012 
+
+MAX INTENSITY: 55 Kts 
+
+WARNINGS: 23 36 
+
+## Tropical Storm 20W (Maliksi) 
+
+ISSUED LOW: 0600Z 28 Sep 2012 
+
+ISSUED MEDIUM: 0600Z 29 Sep 2012 
+
+FIRST TCFA: 0200Z 30 Sep 2012 
+
+FIRST WARNING: 1200Z 30 Sep 2012 
+
+LAST WARNING: 1800Z 03 Oct 2012 
+
+MAX INTENSITY: 45 Kts 
+
+WARNINGS: 14 37 
+
+## Tropical Storm 21W (Gaemi) 
+
+ISSUED LOW: 0600Z 29 Sep 2012 
+
+ISSUED MEDIUM: 0600Z 30 Sep 2012 
+
+FIRST TCFA: 1200Z 30 Sep 2012 
+
+FIRST WARNING: 1200Z 01 Oct 2012 
+
+LAST WARNING: 1200Z 06 Oct 2012 
+
+MAX INTENSITY: 55 Kts 
+
+WARNINGS: 21 38 
+
+## Typhoon 22W (Prapiroon) 
+
+ISSUED LOW: N/A 
+
+ISSUED MEDIUM: 0600Z 05 Oct 2012 
+
+FIRST TCFA: 1730Z 06 Oct 2012 
+
+FIRST WARNING: 1200Z 07 Oct 2012 
+
+LAST WARNING: 0000Z 19 Oct 2012 
+
+MAX INTENSITY: 105 Kts 
+
+WARNINGS: 47 39 
+
+## Tropical Storm 23W (Maria) 
+
+ISSUED LOW: 0600Z 13 Oct 2012 
+
+ISSUED MEDIUM: N/A 
+
+FIRST TCFA: 0000Z 14 Oct 2012 
+
+FIRST WARNING: 0600Z 14 Oct 2012 
+
+LAST WARNING: 1200Z 19 Oct 2012 
+
+MAX INTENSITY: 55 Kts 
+
+WARNINGS: 22 40 
+
+## Typhoon 24W (Son-Tinh) 
+
+ISSUED LOW: 0930Z 21 Oct 2012 
+
+ISSUED MEDIUM: 0600Z 22 Oct 2012 
+
+FIRST TCFA: 1030Z 22 Oct 2012 
+
+FIRST WARNING: 1800Z 23 Oct 2012 
+
+LAST WARNING: 0000Z 29 Oct 2012 
+
+MAX INTENSITY: 105 Kts 
+
+WARNINGS: 22 41 
+
+## Tropical Depression 25W 
+
+ISSUED LOW: 1430Z 12 Nov 2012 
+
+ISSUED MEDIUM: N/A 
+
+FIRST TCFA: 1430Z 13 Nov 2012 
+
+FIRST WARNING: 0600Z 14 Nov 2012 
+
+LAST WARNING: 1800Z 14 Nov 2012 
+
+MAX INTENSITY: 25 Kts 
+
+WARNINGS: 342 
+
+## Super Typhoon 26W (Bopha) 
+
+ISSUED LOW: 0600Z 23Nov 2012 
+
+ISSUED MEDIUM: 1730Z 24Nov 2012 
+
+FIRST TCFA: 1700Z 25Nov 2012 
+
+FIRST WARNING: 1800Z 25Nov 2012 
+
+LAST WARNING: 0000Z 09Dec 2012 
+
+MAX INTENSITY: 150 Kts 
+
+WARNINGS: 54 43 
+
+## Tropical Storm 27W (Wukong) 
+
+ISSUED LOW: 1400Z 20 Dec 2012 
+
+ISSUED MEDIUM: N/A 
+
+FIRST TCFA: 1530Z 24 Dec 2012 
+
+FIRST WARNING: 1800Z 24 Dec 2012 
+
+LAST WARNING: 1200Z 28 Dec 2012 
+
+MAX INTENSITY: 35 Kts 
+
+WARNINGS: 13 44 
+
+Section 3 Detailed Cyclone Reviews 
+
+This section highlights operationally or meteorologically significant cyclones noted within the JTWC AOR. Details are provided to describe operational impacts from tropical cyclones as well as significant challenges and/or shortfalls in the TC warning system. These details are provided to serve as input for future research and development efforts. 
+
+Super Typhoon 05W (Guchol) 
+
+Super Typhoon (STY) 05W (Guchol) formed from a disturbance embedded within the eastern end of the monsoon trough to the southeast of Guam in early June 2012. JTWC issued its first warning on this cyclone on 11 June 2012 at 0000Z. Guchol slowly intensified for the first four days of its lifecycle while tracking westward along the southern periphery of the subtropical ridge (STR). The cyclone subsequently took an abrupt north-northwestward turn around the western periphery of the STR after 0000Z on 15 June 2012, and rapidly intensified to super typhoon intensity (130 knots) during the following 36-hour period. The system remained a super typhoon for 48 hours under the influences of favorable upper-level outflow and passage over very warm water. After 1200Z on 17 June 2012, Guchol began to slowly weaken as it tracked over slightly cooler sea surface conditions north of 20° latitude, but remained an intense typhoon, primarily due to favorable upper-level conditions, until reaching approximately 30° north latitude. As the cyclone finally interacted with a mid-latitude baroclinic zone north of 30°, cold air advection, increased vertical wind shear and passage over a much cooler sea surface induced rapid weakening prior to landfall along the southern coast of Honshu. Extra-tropical transition had begun as the cyclone made landfall. The low-level circulation tracked south of the Japanese Alps before exiting back into the Pacific Ocean as an extra-tropical low.     
+
+> Figure 1-6.All model consensus (CONW) forecasts for STY 05W.
+> Figure 1-5.All JTWC forecasts for STY 05W.
+
+45 
+
+Synoptic analysis and numerical model guidance early in the cyclone’s lifecycle indicated that STY 05W would likely recurve in the Philippine Sea. However, as the system tracked westward along the southern periphery of the STR, the timing and location of recurvature became difficult to predict. Extended model guidance suggested a smooth and steady recurvature around the steering ridge, well to the east of its eventual turn point. The models developed a trough across central Asia and predicted it to track eastward, causing a slight weakening of the western extent of this steering ridge (Figure 1-7). This weakening indicated the cyclone would recurve slowly and steady around the ridge. However, the model-forecasted trough was significantly weaker and had a less meridional extent than the actual trough that developed (Figure 1-8). Subsequent model runs began to forecast a more accurate orientation of the mid-latitude trough and a consequently sharper turn about 24 to 36 hours prior to the observed recurvature. However, even these shorter range forecasts did not predict as sharp a turn as was later observed. The stronger than predicted trough altered the flow along the western periphery of the steering ridge and allowed 05W to track farther to the west, resulting in a sharper poleward turn than models indicated. Following the turn, the model consensus (CONW) quickly settled on a track to the east of Okinawa, with a few forecasts during early stages of recurvature depicting a track slightly to the west of the island. The JTWC forecast tracks (Figure 1-5) remained consistent for the next several days, correctly indicating that the cyclone would remain east of Okinawa and crest the subtropical ridge axis at approximately 22°N. 
+
+> Figure 1-7 . GFS 96-hour deep layer mean flow forecast from 11 June 2012 at 0000Z. The forecast time (15 June 2012 at 0000Z) is the time at which STY 05W initially began recurvature.
+
+46  
+
+> Figure 1-8. GFS deep layer mean flow analysis from 15 June 2012 at 0000Z, the time at which STY 05W initially began recurvature.
+
+As STY 05W approached Japan, early model forecasts suggested that the cyclone would track along the eastern coast of Honshu Island and remain to the south of the highest portions of the Japanese Alps. JTWC initially assessed these forecasts to be consistent with the analyzed steering environment and anticipated interaction of a transitory mid-latitude trough with the STR. However, model guidance abruptly shifted poleward, indicating that STY 05W would track over southwestern Honshu into the Sea of Japan (SOJ) before turning eastward and passing over Misawa Air Base (Figure 1-6) in response to a change in the forecasted mid-latitude trough to a more meridional orientation. JTWC forecasts remained to the south of and faster than CONW based on the assessment of the synoptic environment and a historical trend for tropical cyclones to track inside of and faster than CONW during extra-tropical transition. However, with CONW consistently showing STY 05W crossing Japan into the SOJ, JTWC shifted the forecast track to match the model forecast orientation (Figure 1-10). This shift would prove to be unrepresentative of the cyclone’s eventual track along the southern portion of the Alps and over Tokyo (Figure 1-9), which was depicted in earlier JTWC forecasts. Both JTWC and CONW track forecast errors for STY 05W from first to final warning are provided in Table 1-5. 47 
+
+Figure 1-9. Complete track of STY 05W (Guchol ). Figure 1-10 . JTWC forecasts for 00Z on 18 June 2012, 
+
+06Z on 18 June 2012, and 06Z on 19 June 2012. 
+
+TAU 24  TAU 48  TAU 72  TAU 96  TAU 120 
+
+JTWC 
+
+(05W) 
+
+59 nm  100 nm  142 nm  205 nm  297 nm 
+
+CONW  57 nm  96 nm  156 nm  267 nm  320 nm 
+
+Cases  31  27  23  19  15 
+
+JTWC 
+
+(2012) 
+
+50 89 12 7 16 3 224
+
+CONW  48  84  127  166  214 
+
+Cases  535  439  340  248  17 7
+
+2012061800 
+
+2012061806 
+
+2012061906 
+
+Table 1 -5. JTWC and CONW (model consensus) forecast track errors (homogeneous sample) for STY 05W and the entire 2012 western North Pacific TC season (red). 48 
+
+Forecasting the intensity of STY 05W throughout the cyclone’s life cycle was another major challenge. As indicated in Table 1-5, there were significant intensity forecast errors at extended forecast times. Although JTWC intensity forecasts for the cyclone outperformed statistical-dynamical intensity model guidance (e.g., ST11), the average errors exceeded seasonal averages by 10 knots. The intensity forecast effort was complicated, at least in part, by difficulties associated with real-time intensity analysis. Figure 1-11 shows fix and best track intensities throughout the lifecycle of 05W. Starting on 11 June at 1200Z, the graph indicates a large variability in fix intensities, with the analyzed best track intensity – consistent with an average of these fix values - steadily increasing through 13 June at 1200Z. After that time, the system underwent a period of rapid intensification (RI) through 16 June at 1200Z. Early forecasts did not originally call for the RI event due to a large variability in intensity model guidance and a noted slow pace of intensification while the cyclone was moving along the southern periphery of the STR. However, there were some early indications of RI in the operational GFDN output and the experimental COAMPS-TC output (Figure 1-12). 49 
+
+TAU 24  TAU 48  TAU 72  TAU 96  TAU 120 
+
+JTWC 
+
+(05W) 
+
+11 knots  17 knots  23 knots  31 knots  31 knots 
+
+ST11  10 knots  13 knots  25 knots  39 knots  40 knots 
+
+Cases  24  20  16  12  12 
+
+JTWC 
+
+(2012) 
+
+11  15  17  20  22 
+
+ST11  11  16  19  22  24 
+
+Cases  513  421  322  225  160 
+
+Figure 1-11. Graph of fix intensities compared to the best track intensities for STY 05W over the life cycle of the system. 
+
+Table 1 -6. JTWC and ST11 intensity forecast errors (homogeneous sample) for STY 05W and the entire 2012 western North Pacific TC season (red). 50 
+
+Figure 1-12. Graphs of model intensity forecasts from 00Z on 12 June (top) 
+
+and 00Z on 13 June (bottom), showing GFDN (green) and COAMPS-TC (pink) 
+
+indications of RI. 51 
+
+In summary, STY 05W presented three major forecast challenges: an abrupt poleward recurvature around the STR axis, rapid intensification, and a post-recurvature track over southern Honshu that was not forecast well by numerical model guidance. 
+
+Beginning with the abrupt recurvature, it became clear during post-storm analysis that the intensity, orientation, and motion of the developing mid-latitude trough were crucial influences on the recurvature track of 05W. Early model guidance incorrectly forecasted both the strength and orientation of the approaching mid-latitude trough as well as its interaction with and influence on the steering ridge. Closer inspection of the pressure field associated with the trough may have helped forecasters to anticipate a turn earlier than the 24 to 36 hours lead time the models fields were able to distinguish, and ultimately lead to a greater lead time on the projected turn. 
+
+Rapid intensification remains a difficult forecasting challenge complicated by the sensitivity of intensity forecasts to initial best track intensities and the influences of synoptic patterns on the cyclone’s outflow. Large variability in both subjective and objective satellite intensity estimates for 05W prior to 15 June suggests that forecasters may have set best track intensities too low in real-time and, consequently, under estimated the intensification rate. It was not until post-storm analysis that the best track intensities were adjusted upward, consistent with higher Dvorak estimates from 14 June at 0000Z through the 16 th at 0000Z. Post storm investigation also indicates the mesoscale models (GFDN and COAMPS-TC) provided some indications that RI was possible, illustrating the need for continued support for and development of mesoscale models. 
+
+The final major forecast challenge associated with 05W relates to the difficulty of predicting how the low-level circulation center would track as it interacted with the mountainous region of Honshu. As noted earlier in this report, JTWC forecasts for the system remained well south of the consensus of available model guidance for a significant period of time. JTWC incorrectly shifted the track prior to landfall, taking the system into the Sea of Japan and then eastward through northern Honshu. After the storm made landfall it quickly weakened and tracked along the southern portion of the Japan Alps, then over the Kanto Plain and back into the Pacific Ocean. The complexity of this track forecasting problem appears to be related to the approach angle, intensity at landfall, orientation of the steering elements, and interaction between the low pressure center embedded within the mid-latitude trough and the tropical cyclone. Although the JTWC analysis of the steering influences indicated a track along the coast of Honshu as the most likely scenario, the overwhelming influence of the model guidance became too difficult to contradict and forced a philosophy change in the track forecast just prior to landfall. Inspection of model forecasts reveals that excessive, forecasted direct cyclone interaction (E-DCI) between the tropical cyclone and the low-pressure center associated with the mid-latitude trough likely contributed to the noted poleward shift in forecast tracks. Model-forecasted interaction between the cyclone and rugged terrain over central Honshu may have also factored into this shift. An initial review of published literature indicates little research into the effects of Japanese terrain on tropical cyclone tracks. The implications of terrain on the intensity of a system are more established, and in this case, the weakening of the system was appropriately forecast as the system tracked over Japan despite complications associated with the track forecast. 52 
+
+Tropical Storm 07W (Doksuri) 
+
+Tropical Storm (TS) 07W (Doksuri) was selected for review due to the presence of multiple weak, cyclonically-rotating meso-vortices (MV) which persisted throughout the life of this cyclone. MV were observed in multiple storms which formed in the Philippine Sea during the 2012 WPAC season (e.g., 09W, 10W, 14W, 24W). Sippel et al. (2005) note that these MV are common in multiple basins, including the Atlantic and Gulf of Mexico, and are often noted in Tropical Prediction Center discussions. MV present a significant operational challenge in determining the “correct” low-level circulation center (LLCC), a key parameter for the accurate initialization of numerical models and the basis of the subsequent forecast. The uncertainty in the 07W fixes is evident in the working best track presented in Figure 1-13 (background), where yellow dots represent position fixes deemed erroneous at that time due to the presence of MV. Potentially significant errors in estimating the LLCC are reflected in the model bogus information, and are subsequently carried out through the model forecast. Therefore, it follows that improvements in the JTWC analysis of tropical cyclones when MV are present would result in an improved model representation of a storm’s position, and ultimately, in improved JTWC forecasts. For comparison, the official JTWC post-analysis is also shown in figure 1-13 (foreground), and will be discussed in further detail below. 
+
+An important consideration when MV are present is the possibility of binary interaction. TS 10W (Malou) was the subject of a storm review in the 2010 JTWC ATCR due to such binary interaction of MV. In that case, JTWC failed to recognize the secondary circulation(s), and the binary interaction contributed to large forecast track and intensity errors. Unlike TS 10W (Malou), the obvious presence of MV in TS 07W was quickly detected, and forecasts accounted for MV impacts on track and intensity. The average 48- and 72- hour track forecast error was 115 and 156nm, respectively.    
+
+> Figure 1-13. TS 07W (Doksuri) Initial best track (background) and final best track (foreground) with position fixes shown. 00Z positions for 26-30 June are notated.
+> Final
+> Best Track
+> Working
+> Best Track
+
+53 
+
+TS 07W was first warned on as a tropical depression at 12Z, June 26. Prior to the initial warning, a dominant mesoscale convective system (MCS) with MV to the northeast was evident in the 260632Z multi-spectral satellite imagery (MSI) (Figure 1-14, left). A 260901Z 91GHz SSMIS microwave image (Figure 1-14, right) reveals the chaotic nature of the flow. The imposing MCS in the MSI is easily assumed to be associated with the LLCC, however, the large-scale cloud lines in the SSMIS image instead appear to flow into an elongated area of weaker winds. 
+
+Shortly after 270200Z, MSI (Figure 1-15, left) revealed a well-defined MV had popped out of the eastern flank of the MCS and proceeded to move almost due north. Because it came from the area of deepest convection, the forecaster assessed this to be the true LLCC, and best-tracked accordingly. Several additional pieces of data subsequently supported this decision. A 270848Z 91GHz microwave SSMIS image (Figure 1-15, right) depicted flow which had consolidated towards this weak, exposed LLCC. Also, a 280906Z WINDSAT pass (not shown) suggested at least two circulation centers, with the easternmost (corresponding to the exposed LLCC) appearing to be the dominant circulation. This MV eventually rotated cyclonically and disappeared under the cloud cover of the larger MCS. Over the course of 07W’s lifecycle, MV continued this pattern of exposure from the MCS, cyclonic rotation about the MCS, and eventual disappearance under the deep convective cloud mass.   
+
+> Figure 1-14. 260632Z MSI image (left) with red arrow indicating the MCS, and green arrows indicating probable mesoscale vortices. 260901Z SSMIS 91GHz image (right) with subjective flow analysis.
+
+54  
+
+> Figure 1-15. 270732Z MSI image (left) and 270848Z 91GHz SSMIS image (right).
+
+At times, the LLCC appeared to be associated with individual meso-vortex signatures, while at other times the data indicated the MCS as the dominant center, such as in Figure 1-16, where the meso-vortex off the northern tip of Luzon does not appear in the corresponding OSCAT flow field.  
+
+> Figure 1-16. 280520Z True Color image (left) and 280402Z OSCAT wind vectors (right).
+
+The lesson learned from 07W is that in the presence of MV, not only should the forecaster weigh the impact of binary interaction on track and intensity, but the safest best-track and bogus practice is to select the centroid of the larger circulation which contains the MV. A centroid position better represents the true motion and ensures that the best track is not erroneously assigned to a fleeting exposed LLCC, particularly given the coarse temporal resolution of available data. Forecasters should ensure clarity in the prognostic reasoning message that the presence of MV and the best-track position may not directly correlate to a visible exposed LLCC. It is only after extensive post-storm analysis of all available data that one can evaluate the true center of circulation. The uncharacteristically ragged final best track shown in Figure 1-13 (foreground) emphasizes the complexity of 07W. Prior to entering the South China Sea, the system lacked organization and reached a peak intensity of only 35 knots. The obvious presence of MV suggests that environmental factors prevented the consolidation of competing vortices. After careful analysis, the final best track 55 
+
+reflects several “jumps” between vortices. To more accurately depict these discontinuities, several intermediate (3-hourly) fixes were added to the record. 
+
+There are several recommendations that could aid JTWC forecasters in assessing the initial TC state, particularly when MV are present. First, a higher resolution vector analysis would provide greater detail of small-scale flow around tropical cyclones. The current suite of scatterometry platforms has a maximum resolution of 25km. One research group at BYU has developed a technique to produce Ultra-High Resolution (UHR) scatterometry imagery from the existing ASCAT retrievals. This 10km resolution imagery provides much finer detail, as seen in Figure 1-17. Originally developed for sea-ice applications, more needs to be done to assess the verification of this product for tropical cyclones. Secondly, while observations are sparse over the open oceans, and manned reconnaissance is almost non-existent, more and more countries are adding observing networks, including radar. For example, the Philippines recently launched the Nationwide Operational Assessment of Hazards (NOAH) website with four radars previously unavailable to JTWC, and plans for five more radars in the near term. Data mining and acquisition are key components of ongoing and future JTWC collaborations. Finally, as mesoscale models continue to progress towards higher resolutions, it is possible that such models may be capable of resolving small-scale details such as MV, even without such circulations in the intialization conditions from the parent global model. Whether or not mesoscale models can accurately depict MV and diagnose binary interaction is a subject of further investigation for numerical modelers. 
+
+REFERENCES 
+
+Sippel, J.A., J. W. Nielsen-Gammon, and S. Allen, 2005: The multiple-vortex nature of tropical cyclongenesis. Mon. Wea. Rev., 134 , 1796-1814. 
+
+Typhoon 09W (Vicente) 
+
+Typhoon (TY) 09W (Vicente) developed within the monsoon trough in the Luzon Strait on 21 July 2012. TY 09W began its lifecycle as a disorganized tropical disturbance, with multiple low-level meso-vortices observed in visible and microwave satellite imagery. On 20 July 2012 at 1200Z, the   
+
+> Figure 1-17. Comparison of traditional ASCAT vs. UHR product from BYU.
+
+56 
+
+cyclone consolidated into a single low-level vortex and began tracking westward along the southern periphery of an elongated extension of the deep-layered subtropical ridge. The following day, an upper-level anticyclone developed over the system, significantly enhancing upper-level outflow and supported the cyclone’s intensification into a tropical storm. 
+
+Around 1200Z on 22 July, a mid-latitude trough extending equatorward from Mongolia through east-central China weakened the steering ridge, inducing quasi-stationary storm motion followed by an abrupt northward turn (see Figure 1-18). As the system moved northward, poleward outflow increased significantly toward upper-level troughs analyzed to the north and to the east of 09W, both of which are evident in the GFS model upper-level analysis shown in figure 1-18. By 23 July at 0600Z, 09W had intensified into a typhoon with a well-defined eye. Shortly thereafter, typhoon 09W underwent a period of explosive deepening, peaking at a maximum estimated intensity of 115 knots at approximately 23/1500Z – an increase of 50 knots is just nine hours. 1 
+
+> Figure 1-18. GFS 200 mb flow analysis from 22 July 2012 at 1200Z.
+
+TY 09W made landfall approximately 70 nm west of Hong Kong at 23/2100Z with an estimated over-water intensity of 115 knots, making it the strongest typhoon to affect the Hong Kong metropolitan area in over ten years. According to the online International Business Times, the cyclone took three lives and caused extensive damage in Southern China (International 2012). The cyclone tracked well inland with its low-level circulation mostly intact before dissipating north of Hanoi, Vietnam, over a day after it made landfall (Figure 1-19).  
+
+> 1In order to capture the peak intensity of TY 09W following the cyclone’s rapid intensification, an off-synoptic hour best track position and intensity estimate was inserted into the best track data record for 23/1500Z.
+
+57  
+
+> Figure 1-19. Final JTWC best track for TY 09W. Labels show best track times, translational speeds, and intensities.
+
+The poleward deflection and subsequent rapid intensification of TY 09W were not predicted by any of the available numerical model track forecast guidance (Figure 1-20), subsequently, the statistical-dynamical intensity model guidance (Figure 1-21), did not capture the rapid intensification associated with the influence of upper-level troughs to the north and east of the cyclone. JTWC’s subjective forecasts for both track and intensity favored the objective forecast data. The original forecast philosophy called for the system to track generally westward towards the Leizhou Peninsula, China, and intensify to moderate tropical storm intensity before making landfall. The mid-latitude trough ultimately responsible for the poleward deflection was not expected to weaken the deep-layer subtropical steering ridge significantly. 58 
+
+Figure 1-20. Multi-model consensus track forecasts for TY 09W from 22 July 2012 at 0000Z 59  
+
+> Figure 1-21. Interpolated GFDN and COAMPS-TC dynamical and S511statistical-dynamical intensity forecasts for TY 09W from 22 July 2012 at 0600Z and verifying best track intensities (in black).
+
+As mentioned earlier, it appears that a significant increase in the poleward outflow following the poleward deflection in track was the dominant factor driving rapid intensification (RI) of TY 09W. The values of other environmental variables, including weak vertical wind shear (05-10 knots) and very warm sea surface temperatures (30-33° Celsius) (Figure 1-22), provided for further intensification throughout the RI period. Post-storm analysis indicated strong outflow was induced by a deepening tropical upper tropospheric trough (TUTT) to the east of the system (Figure 1-23) and a second TUTT to the north. A sudden increase in upper-level outflow was indeed evident in water vapor animation that showed an increased stream of cirrus into the two upper-level troughs. 60   
+
+> Figure 1-22. SST during 23 July 2012. Note the pool of very warm water off the coast of Hong Kong
+> Figure 1-23. Water vapor image of TY 09W and the surrounding region showing two tropical upper-tropospheric troughs – one to the north and one to the east of the rapidly intensifying typhoon
+
+Given the unexpected shift in track and RI of TY 09W, further study of this case is warranted. Future work could address the following questions. Were the poleward deflection of TY 09W and subsequent rapid intensification linked to the same dynamical mechanism? Was there anything unique about the strength and positioning of the TUTT cells that interacted with this system and did upper-level model fields accurately depict their formation? Finally, did any other large-scale environmental factors, such as intraseasonal oscillations, contribute to the noted track or intensity changes? 61 
+
+This case clearly illustrates that RI of tropical cyclones remains a difficult and complex forecast problem. While some of the factors that influence rapid intensity changes are generally understood (SST, shear, outflow, etc.), the details of role of the TUTT remain difficult to assess and difficult to capture in numerical models. 
+
+References  
+
+> 1
+
+International Business Times. Aug 2012. Web. 24 Aug. 2012. 62 
+
+Chapter 2 North Indian Ocean Tropical Cyclones 
+
+This chapter contains information on north Indian Ocean TC activity during 2012 and the monthly distribution of TC activity summarized for 1975 - 2012. North Indian Ocean tropical cyclone best tracks appear following Table 2-2. 
+
+Section 1 Informational Tables 
+
+Table 2-1 is a summary of TC activity in the north Indian Ocean during the 2012 season. Four cyclones occurred in 2012, with not one system reaching intensity greater than 64 knots. Table 2-2 shows the monthly distribution of Tropical Cyclone activity for 1975 - 2012. 63 64  
+
+> Figure 2-1. North Indian Ocean Tropical Cyclones.
+
+Section 2 Cyclone Summaries 
+
+Each cyclone is presented, with the number and basin identifier assigned by JTWC, along with the RSMC assigned cyclone name. Dates are also listed when JTWC first designated Low and Medium 1 stages of development: 
+
+The first Tropical Cyclone Formation Alert (TCFA) and the initial and final warning dates are also presented with the number of warnings issued by JTWC. Landfall over major landmasses with approximate locations is presented as well. 
+
+The JTWC post-event reanalysis best track is also provided for each cyclone. Data included on the best track are position and intensity noted with cyclone symbols and color coded track. Best track position labels include the date-time, track speed in knots, and maximum wind speed in knots. A graph of best track intensity versus time is presented. Fix plots on this graph are color coded by fixing agency. 
+
+In addition, if this document is viewed as a pdf, each map has been hyperlinked to the appropriate keyhole markup language (kmz) file that will allow the reader to access and view the best-track data interactively on their computer using Google Earth software. Simply hold the control button and click the map image; the link will open allowing the reader to download and open the file. 
+
+Users may also retrieve kmz files for the entire season from: 
+
+http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/best_tracks/2012/2012-kmzs/ 65 
+
+## Tropical Cyclone 01A (Murjan) 
+
+ISSUED LOW: 0900Z 22 Oct 2012 
+
+ISSUED MEDIUM: 1600Z 23 Oct 2012 
+
+FIRST TCFA: 2000Z 23 Oct 2012 
+
+FIRST WARNING: 1200Z 24 Oct 2012 
+
+LAST WARNING: 1800Z 25 Oct 2012 
+
+MAX INTENSITY: 35 Kts 
+
+WARNINGS: 666 
+
+## Tropical Cyclone 02B (Nilam) 
+
+ISSUED LOW: 2100Z 23 Oct 2012 
+
+ISSUED MEDIUM: 0600Z 26 Oct 2012 
+
+FIRST TCFA: 0330Z 29 Oct 2012 
+
+FIRST WARNING: 1200Z 29 Oct 2012 
+
+LAST WARNING: 1200Z 31 Oct 2012 
+
+MAX INTENSITY: 50 Kts 
+
+WARNINGS: 967 
+
+## Tropical Cyclone 03B 
+
+ISSUED LOW: 0300Z 16 Nov 2012 
+
+ISSUED MEDIUM: 0030Z 17 Nov 2012 
+
+FIRST TCFA: 0800Z 17 Nov 2012 
+
+FIRST WARNING: 1800Z 17 Nov 2012 
+
+LAST WARNING: 0000Z 19 Nov 2012 
+
+MAX INTENSITY: 35 Kts 
+
+WARNINGS: 668 
+
+## Tropical Cyclone 04A 
+
+ISSUED LOW: 0000Z 21 Dec 2012 
+
+ISSUED MEDIUM: 1300Z 21 Dec 2012 
+
+FIRST TCFA: 1800Z 22 Dec 2012 
+
+FIRST WARNING: 0000Z 23 Dec 2012 
+
+LAST WARNING: 1200Z 24 Dec 2012 
+
+MAX INTENSITY: 35 Kts 
+
+WARNINGS: 769 
+
+Chapter 3 South Pacific and South Indian Ocean Tropical Cyclones 
+
+This chapter contains information on South Pacific and South Indian Ocean TC activity that occurred during the 2012 tropical cyclone season (1 July 2011 – 30 June 2012) and the monthly distribution of TC activity summarized for 1975 - 2012. 
+
+Section 1 Informational Tables 
+
+Table 3-1 is a summary of TC activity in the Southern Hemisphere during the 2012 season. 70 
+
+Table 3-2 provides the monthly distribution of Tropical Cyclone activity summarized for 1975 - 2012. 71 
+
+Figure 3-1. Southern Indian Ocean Tropical Cyclones. 
+
+Figure 3-2. Southeast Pacific Ocean Tropical Cyclones. 72 
+
+Section 2 Cyclone Summaries 
+
+Each cyclone is presented, with the number and basin identifier assigned by JTWC, along with the RSMC assigned cyclone name. Dates are also listed when JTWC first designated various stages of development. 
+
+The first Tropical Cyclone Formation Alert (TCFA) and the initial and final warning dates are also presented with the number of warnings issued by JTWC. Landfall over major landmasses with approximate locations is presented as well. 
+
+Data included on the best track are position and intensity noted with cyclone symbols and color coded track. Best track position labels include the date-time, track speed in knots, and maximum wind speed in knots. A graph of best track intensity versus time is presented. Fix plots on this graph are color coded by fixing agency. 
+
+In addition, if this document is viewed as a pdf, each map has been hyperlinked to the appropriate keyhole markup language (kmz) file that will allow the reader to access and view the best-track data interactively on their computer using Google Earth software. Simply hold the control button and click the map image; the link will open allowing the reader to download and open the file. 
+
+Users may also retrieve kmz files for the entire season from: 
+
+http://www.usno.navy.mil/NOOC/nmfc-ph/RSS/jtwc/best_tracks/2012/2012-kmzs/ 73 
+
+## Tropical Cyclone 01S (Alenga) 
+
+ISSUED LOW: 0030Z 02 Dec 2011 
+
+ISSUED MEDIUM: 1730Z 02 Dec 2011 
+
+FIRST TCFA: 2030Z 03 Dec 2011 
+
+FIRST WARNING: 0000Z 05 Dec 2011 
+
+LAST WARNING: 0000Z 09 Dec 2011 
+
+MAX INTENSITY: 95 Kts 
+
+WARNINGS: 11 74 
+
+## Tropical Cyclone 02S 
+
+ISSUED LOW: 1800Z 28 Nov 2011 
+
+ISSUED MEDIUM: 0130Z 06 Dec 2011 
+
+FIRST TCFA: 0300Z 06 Dec 2011 
+
+FIRST WARNING: 0600Z 06 Dec 2011 
+
+LAST WARNING: 0600Z 07 Dec 2011 
+
+MAX INTENSITY: 35 Kts 
+
+WARNINGS: 375 
+
+## Tropical Cyclone 03S (Grant) 
+
+ISSUED LOW: 1800Z 20 Dec 2011 
+
+ISSUED MEDIUM: 1800Z 21 Dec 2011 
+
+FIRST TCFA: 1430Z 24 Dec 2011 
+
+FIRST WARNING: 0000Z 25 Dec 2011 
+
+LAST WARNING: 0000Z 27 Dec 2011 
+
+MAX INTENSITY: 60 Kts 
+
+WARNINGS: 576 
+
+## Tropical Cyclone 04S (Benilde) 
+
+ISSUED LOW: 1800Z 26 Dec 2011 
+
+ISSUED MEDIUM: 1000Z 27 Dec 2011 
+
+FIRST TCFA: 0200Z 28 Dec 2011 
+
+FIRST WARNING: 0600Z 28 Dec 2011 
+
+LAST WARNING: 1200Z 04 Jan 2012 
+
+MAX INTENSITY: 90 Kts 
+
+WARNINGS: 15 77 
+
+## Tropical Cyclone 05S (Chanda) 
+
+ISSUED LOW: 0900Z 05 Jan 2012 
+
+ISSUED MEDIUM: 1800Z 05 Jan 2012 
+
+FIRST TCFA: 1930Z 06 Jan 2012 
+
+FIRST WARNING: 1800Z 07 Jan 2012 
+
+LAST WARNING: 1800Z 08 Jan 2012 
+
+MAX INTENSITY: 35 Kts 
+
+WARNINGS: 378 
+
+## Tropical Cyclone 06S (Heidi) 
+
+ISSUED LOW: 1400Z 09 Jan 2012 
+
+ISSUED MEDIUM: 1800Z 09 Jan 2012 
+
+FIRST TCFA: 0900Z 10 Jan 2012 
+
+FIRST WARNING: 1800Z 10 Jan 2012 
+
+LAST WARNING: 1800Z 11 Jan 2012 
+
+MAX INTENSITY: 65 Kts 
+
+WARNINGS: 579 
+
+## Tropical Cyclone 07S (Ethel) 
+
+ISSUED LOW: 1800Z 17 Jan 2012 
+
+ISSUED MEDIUM: 0300Z 18 Jan 2012 
+
+FIRST TCFA: 1900Z 18 Jan 2012 
+
+FIRST WARNING: 0000Z 19 Jan 2012 
+
+LAST WARNING: 1200Z 22 Jan 2012 
+
+MAX INTENSITY: 70 Kts 
+
+WARNINGS: 8 80 
+
+## Tropical Cyclone 08S (Funso) 
+
+ISSUED LOW: N/A 
+
+ISSUED MEDIUM: 1800Z 17 Jan 2012 
+
+FIRST TCFA: 1930Z 18 Jan 2012 
+
+FIRST WARNING: 0600Z 19 Jan 2012 
+
+LAST WARNING: 1800Z 28 Jan 2012 
+
+MAX INTENSITY: 115 Kts 
+
+WARNINGS: 21 81 
+
+## Tropical Cyclone 09S (Iggy) 
+
+ISSUED LOW: 1200Z 22 Jan 2012 
+
+ISSUED MEDIUM: 1800Z 23 Jan 2012 
+
+FIRST TCFA: 1100Z 24 Jan 2012 
+
+FIRST WARNING: 1200Z 25 Jan 2012 
+
+LAST WARNING: 1200Z 02 Feb 2012 
+
+MAX INTENSITY: 70 Kts 
+
+WARNINGS: 26 82 
+
+## Tropical Cyclone 10P (Jasmine) 
+
+ISSUED LOW: 0600Z 31 Jan 2012 
+
+ISSUED MEDIUM: 2000Z 01 Feb 2012 
+
+FIRST TCFA: 2000Z 02 Feb 2012 
+
+FIRST WARNING: 0600Z 04 Feb 2012 
+
+LAST WARNING: 1800Z 15 Feb 2012 
+
+MAX INTENSITY: 115 Kts 
+
+WARNINGS: 24 83 
+
+## Tropical Cyclone 11P (Cyril) 
+
+ISSUED LOW: N/A 
+
+ISSUED MEDIUM: 0600Z 06 Feb 2012 
+
+FIRST TCFA: 0930Z 06 Feb 2012 
+
+FIRST WARNING: 1200Z 06 Feb 2012 
+
+LAST WARNING: 0000Z 08 Feb 2012 
+
+MAX INTENSITY: 55 Kts 
+
+WARNINGS: 484 
+
+## Tropical Cyclone 12S (Giovanna) 
+
+ISSUED LOW: 1330Z 08 Feb 2012 
+
+ISSUED MEDIUM: 1800Z 08 Feb 2012 
+
+FIRST TCFA: 2330Z 08 Feb 2012 
+
+FIRST WARNING: 1200Z 09 Feb 2012 
+
+LAST WARNING: 0000Z 21 Feb 2012 
+
+MAX INTENSITY: 25 Kts 
+
+WARNINGS: 120 85 
+
+## Tropical Cyclone 13S (Hilwa) 
+
+ISSUED LOW: 0600Z 11 Feb 2012 
+
+ISSUED MEDIUM: 1800Z 12 Feb 2012 
+
+FIRST TCFA: 1600Z 13 Feb 2012 
+
+FIRST WARNING: 0600Z 14 Feb 2012 
+
+LAST WARNING: 0600Z 22 Feb 2012 
+
+MAX INTENSITY: 40 Kts 
+
+WARNINGS: 18 86 
+
+## Tropical Cyclone 14S (Irina) 
+
+ISSUED LOW: N/A 
+
+ISSUED MEDIUM: 1800Z 25 Feb 2012 
+
+FIRST TCFA: 0130Z 26 Feb 2012 
+
+FIRST WARNING: 0000Z 29 Feb 2012 
+
+LAST WARNING: 0000Z 10 Mar 2012 
+
+MAX INTENSITY: 60 Kts 
+
+WARNINGS: 21 87 
+
+## Tropical Cyclone 15S 
+
+ISSUED LOW: 1800z 23 Feb 2012 
+
+ISSUED MEDIUM: 1800Z 28 Feb 2012 
+
+FIRST TCFA: 0800Z 28 Feb 2012 
+
+FIRST WARNING: 1800Z 29 Feb 2012 
+
+LAST WARNING: 1800Z 01 Mar 2012 
+
+MAX INTENSITY: 35 Kts 
+
+WARNINGS: 388 
+
+## Tropical Cyclone 16S (Koji) 
+
+ISSUED LOW: 1800Z 05 Mar 2012 
+
+ISSUED MEDIUM: 1800Z 06 Mar 2012 
+
+FIRST TCFA: 0500Z 07 Mar 2012 
+
+FIRST WARNING: 0600Z 07 Mar 2012 
+
+LAST WARNING: 0600Z 12 Mar 2012 
+
+MAX INTENSITY: 75 Kts 
+
+WARNINGS: 11 89 
+
+## Tropical Cyclone 17S (Lua) 
+
+ISSUED LOW: 0000Z 09 Mar 2012 
+
+ISSUED MEDIUM: 1000Z 12 Mar 2012 
+
+FIRST TCFA: 2300Z 12 Mar 2012 
+
+FIRST WARNING: 0600Z 13 Mar 2012 
+
+LAST WARNING: 1200Z 17 Mar 2012 
+
+MAX INTENSITY: 95 Kts 
+
+WARNINGS: 12 90 
+
+## Tropical Cyclone 18P (Daphne) 
+
+Regional Specialized Meteorology Center, Fiji warnings were used/distributed by Fleet Weather Center Norfolk during JTWC Continuation of Operations Plan (COOP) execution during the 
+
+2012 Tropical Cyclone Conference. 91 
+
+## Tropical Cyclone 19S 
+
+ISSUED LOW: 0730Z 05 May 2012 
+
+ISSUED MEDIUM: 1800Z 05 May 2012 
+
+FIRST TCFA: 1730Z 06 May 2012 
+
+FIRST WARNING: 0000Z 07 May 2012 
+
+LAST WARNING: 1200Z 07 May 2012 
+
+MAX INTENSITY: 30 Kts 
+
+WARNINGS: 292 
+
+## Tropical Cyclone 20S (Kuena) 
+
+ISSUED LOW: 2030Z 04 Jun 2012 
+
+ISSUED MEDIUM: 1100Z 05 Jun 2012 
+
+FIRST TCFA: 2130Z 05 Jun 2012 
+
+FIRST WARNING: 0000Z 06 Jun 2012 
+
+LAST WARNING: 1200Z 07 Jun 2012 
+
+MAX INTENSITY: 55 Kts 
+
+WARNINGS: 493 
+
+## Tropical Cyclone 21P 
+
+ISSUED LOW: 1930Z 27 Jun 2012 
+
+ISSUED MEDIUM: 0600Z 30 Jun 2012 
+
+FIRST TCFA: 1000Z 29 Jun 2012 
+
+FIRST WARNING: 1200Z 29 Jun 2012 
+
+LAST WARNING: 0000Z 30 Jun 2012 
+
+MAX INTENSITY: 35 Kts 
+
+WARNINGS: 294 
+
+Chapter 4 Tropical Cyclone Fix Data 
+
+Section 1 Background 
+
+Weather satellite data continued to be the mainstay for the TC reconnaissance mission at the JTWC. The 2012 year ended with slightly below average storms in the western North Pacific Ocean and near average in the North Indian Ocean. The Southern Hemisphere produced a below average number of storms with only 21 storms reaching 35 knots or greater. Satellite analysts exploited a wide variety of conventional and microwave satellite data to produce 8,526 position and intensity estimates. A total of 4,751 fixes were made using microwave imagery, amounting to over half of the total number of fixes. The USAF primary weather satellite direct readout system, Mark IVB, and the USN FMQ-17 continued to be invaluable tools in the TC reconnaissance mission. Section 2 tables depict fixes produced by JTWC satellite analysts, stratified by basin and storm number. Following the final numbered storm for each section, is a value representing the number of fixes for invests considered as Did Not Develop (DND) areas. DNDs are areas that were fixed on but did not reach warning criteria. 95 
+
+Section 2 Fix summary by basin 96 97 98 
+
+Section 3: 2012 Automated Fix Assessment 
+
+In an effort to assess the utility of automated satellite position and intensity fixes, the JTWC Techniques Development team and Satellite Operations Flight analyzed data from 2010, 2011, and 2012 for the western Pacific Ocean and Indian Ocean basins. Subjective Dvorak fix data from PGTW and KNES along with objective Dvorak fix data from Advanced Dvorak Technique (ADT), CIRA AMSU, CIMMS AMSU, and SATCON were compared to JTWC official best track data. Our assessment is that automated fixes have continued to improve over the past three years, and each fix method can be used to aid the JTWC analysis and forecast process. However, due to various errors and biases of each product based on intensity and basin, the application of objective fix data varies for different TC scenarios. Therefore, a process is underway to develop rules of thumb for determining where and when analysts and forecasters can effectively use each objective method. 99 
+
+Chapter 5 Techniques Development Summary 
+
+Section 1: Background 
+
+The JTWC Techniques Development (TECHDEV) team facilitates operations and improves TC analyses and forecasts through scientific study, techniques development, information technology exploitation, data evaluation, and process improvement. This section of the 2012 ATCR provides a brief overview of scientific and operational resource projects conducted by the JTWC TECHDEV team during 2012 as well as a preview of future work. 
+
+Section 2: 2012 Projects 
+
+Classifying TC genesis potential 
+
+TECHDEV analyzed “Deviation Angle Variance (DAV)” data provided by the University of Arizona (project lead: Dr. Elizabeth Ritchie) for western North Pacific tropical disturbances between August and December, 2012. The DAV technique indicates tropical cyclogenesis potential by quantifying the convective symmetry of tropical disturbance cloud clusters derived from infrared radiance data (Piñeros et al. 2008; Piñeros et al. 2010). Previous work has demonstrated that symmetrical tropical cloud clusters with associated DAV values below a threshold value are more likely to develop into self-sustaining TCs than more asymmetric cloud clusters with associated DAV values that above the threshold (Piñeros et al. 2010). 
+
+DAV values derived from MT-SAT infrared satellite data were presented to JTWC forecasters within an hour of each image time via an interactive, password-protected web interface during the western North Pacific TC season (figure 1). These data were evaluated in real-time by JTWC Geophysical Technicians and forecasters as part of the tropical disturbance monitoring process, and were incorporated into the JTWC “LMH Worksheet” as an experimental parameter (Kucas and Darlow 2012). DAV data for specific best track locations were also provided to JTWC to facilitate in-depth, post-season evaluation. 
+
+Figure 5-1: Sample image from the interactive DAV website developed by the University of Arizona research team. The interface allows forecasters to retrieve DAV values by clicking on any target point within the image. The solid line shows the DAV threshold value (1750) determined through prior study. 100 
+
+Post-season analysis indicated that DAV values for developing cyclones infrequently dropped below the previously-cited genesis threshold value of 1750 prior to or at first warning times. However, setting a higher threshold DAV value yielded a 100% probability of detection with a false alarm rate, for classified invests, of approximately 15%. Further work is needed to determine if these promising results, obtained from setting a higher threshold, are repeatable. TECHDEV plans to continue evaluating the DAV technique during the upcoming 2013 western North Pacific TC season. 
+
+Operational review of Genesis Potential Index (GPI) 
+
+Evaluation of the Naval Research Laboratory (Dr. Melinda Peng) and University of Hawai’i (Drs. Tim Li and Bing Fu, and Duane Stevens) tropical cyclone genesis potential index (GPI) continued in 2012. The GPI routine applies an empirically-derived equation relating the near-disturbance 800mb vorticity anomaly, 750 mb zonal wind gradient (both derived from NOGAPS/NAVGEM global model output), and near-disturbance TRMM three-hour average satellite-derived rain rates to tropical cyclogenesis potential (Fu et al. 2011; Peng et al. 2011;Bing Fu, personal correspondence). Genesis potential index (GPI) values that exceed a threshold value (0.2) indicate that a TC is likely to form within a 24 to 48 hour forecast period, while values below the threshold indicate that development is unlikely. JTWC provided real-time best track data to the GPI research team and subsequently reviewed real-time GPI model data provided by the University of Hawaii from June through September, 2012. Results continued to be favorable, with GPI generally increasing in the lead-up to formation for developing cyclones, and decreasing over time for non-developers. The GPI model will be implemented at JTWC during the upcoming 2013 western North Pacific TC season for a final evaluation and eventual integration into the routine TC formation forecasting process. 
+
+Figure 5-2. Genesis Potential Index (GPI) calculated in near real-time for the 72 hour period preceding formation (first warning) time on tropical cyclones 08W through 11W (July 2012). Operational and after-the-fact evaluation once again indicated that GPI trends are a useful indicator of either imminent TC formation or dissipation of non-developing disturbances. 
+
+Operational review of the Naval Postgraduate School Long Lead Tropical Cyclone Formation Model 101 
+
+Dr. Thomas Murphree and Mr. David Meyer of the Naval Postgraduate School have developed a statistical-dynamical model to forecast tropical cyclogenesis probabilities in the western North Pacific basin at 0 to 90-day lead-times. Based on the results of previous tropical cyclogenesis studies, the researchers hypothesized that tropical cyclones will most likely form where the values of a specific set of large-scale environmental factors (LSEFs) – namely, SST, vertical wind shear, relative humidity, relative vorticity, Coriolis parameter, and divergence aloft (a proxy for vertical velocity) -exceed key thresholds. Performing a backward stepwise regression on LSEF values extracted from NCEP reanalysis data and tropical cyclogenesis locations derived from JTWC best tracks, the researchers derived an equation set that relates the probability of tropical cyclogenesis to the values of all LSEFs at a given location (2.5 degree square areas) across the western North Pacific basin. In a follow-on study, LSEF values calculated from National Centers for Environmental Prediction Climate Forecast System Reanalysis (CFSR) data were used to update the predictive statistical equation set derived in the initial study. The resulting statistical-dynamical forecasting system, a blend of the LSEFs derived from a lagged-ensemble of CFSv2 climate model forecasts and the derived equations relating LSEFs to TC formation probability, predicts tropical cyclone formation probabilities at 0 to 90-day lead times (Murphree and Meyer 2012, personal correspondence; Meyer 2013). 
+
+From July through November, 2012, the NPS research team provided one-day and four-day tropical cyclone formation probability values to JTWC via the Naval Postgraduate School Collaborative Learning & Research Portal. Forecast data were presented for the western North Pacific basin in graphical format (see figure below). JTWC also received one-week and two-week formation probability forecasts prepared for the Climate Prediction Center’s Global Tropics Hazards product discussion. 
+
+Figure 5-3: Example NPS tropical cyclone formation probability forecast graphic for a one-day forecast lead time. 
+
+One-day lead formation probability data were collected for ten classified invests that developed into tropical cyclones (17W - 26W) and twenty invests that did not develop during the evaluation period. These values were recorded at each synoptic time by JTWC Geophysical Technicians as part of the tropical disturbance monitoring process, and were incorporated into the JTWC “LMH Worksheet” as an experimental parameter (Kucas and Darlow 2012). The results of our analysis suggested that short-term formation probability products, when considered in context of other 102 
+
+available data either subjectively or via the JTWC Low-Medium-High worksheet, may improve invest development potential classification recommendations. Likewise, for classified invest areas, development into a tropical cyclone was somewhat more likely to occur within areas of enhanced formation probabilities highlighted in the one- and two-week lead forecasts. TECHDEV will continue to evaluate the model’s formation probability forecasts, and associated modifications recommended by JTWC and implemented by the research team, during the upcoming 2013 western North Pacific TC season. 
+
+ECMWF ensemble: Forecasting formation, track, and intensity 
+
+Dr. Russell Elsberry, Ms. Mary Jordan (Naval Postgraduate School – NPS), and Dr. Hsiao-Chung Tsai (visiting scientist to NPS from the Taiwan Central Weather Bureau), provided tropical cyclone track and intensity forecasts for one to four week lead times and tropical cyclone track and intensity forecast clusters derived from ECMWF ensemble model forecasts to JTWC via the Naval Postgraduate School Collaborative Learning & Research Portal from August through December, 2012 (Elsberry et al. 2011; Tsai and Elsberry, 2013). Thirty-two day ensemble forecast data were recorded at each synoptic time by JTWC Geophysical Technicians as part of the tropical disturbance monitoring process, and were incorporated into the JTWC “LMH Worksheet.” In addition, TECHDEV conducted a subjective, post-season evaluation of these forecast products. Our analysis indicated that the forecasts provide useful indications of tropical cyclone formation potential and forecast track probabilities. JTWC will work closely with the research group to improve the prediction scheme, particularly to reduce a relatively high TC formation false-alarm rate, provide in-season feedback, and conduct a full post-season evaluation of the ensemble forecast data for the 2013 western North Pacific TC season. 
+
+Evaluation of AFWA Mesoscale Ensemble Prediction System (MEPS) 
+
+The Air Force Weather Agency’s ten member Mesoscale Ensemble Prediction System ("MEPS") is comprised of forecast output from the Weather Research and Forecasting (WRF) model run at 20 km horizontal resolution for a global tropical domain and at 4 km horizontal resolution for selected areas. Ensemble member forecasts are initialized with atmospheric fields from three global models: the UK Met Office Unified model, GFS, and the Canadian Global Model. Model physics and boundary conditions are also varied for each member run (Hacker et al, 2011; Kuchera et al, 2012). 
+
+AFWA recently transitioned the MEPS ensemble into operations, dedicating two, 4 km storm-centered domain runs (one at 0000Z, another at 1200Z) to modeling tropical disturbances and cyclones upon request from JTWC. Ensemble output is provided in the form of model output graphics (figure 4), significant weather probabilities, and tropical cyclone vortex trackers for both the 20 km global tropical domain and requested 4 km runs. JTWC, in cooperation with AFWA (project lead Mr. Evan Kuchera), will conduct a full evaluation of MEPS ensemble performance for tropical cyclone forecasting during the 2013 western North Pacific TC season. 103 
+
+Figure 5-4 : Example 24-hour surface wind speed forecast from the ten members of the AFWA MEPS ensemble. The control run is shown in the large panel at left, and forecasts from the other nine members depicted in the smaller “stamp charts” to the right. The ensemble accurately depicted rapid development of tropical disturbance 96P into a tropical cyclone within the 24 hour forecast period. 
+
+Global Tropics Hazards product 
+
+JTWC TECHDEV continued to provide medium-range tropical cyclone forecasts for the Climate Prediction Center’s weekly Global Tropics Hazards (GTH) Assessment. The subjective GTH Assessment provides US Government interests a two week outlook of potential tropical cyclone formation areas across the global tropics. This is the first-ever mid-range TC prediction capability to support USPACOM. 
+
+JTWC Product KMLs 
+
+TECHDEV has developed KML data files containing track, intensity, and formation data for tropical cyclone warnings and tropical cyclone formation alerts (TCFAs) generated within the Automated Tropical Cyclone Forecasting system (ATCF). These KML files are available on JTWC web pages for all TCFAs and tropical cyclones in warning status. 
+
+Mesoscale models 
+
+Recent studies and statistics suggest that state-of-the-art mesoscale models are producing increasingly skillful predictions of tropical cyclone intensity and structure. Recognizing this trend, JTWC renewed its focus on incorporating mesoscale model output into the forecast process in 2012. A summary of ongoing and future work to both apply mesoscale model forecast output to real-time forecasting and to develop new operational applications for these data is provided in Section 4. 
+
+Section 3 Future projects 104 
+
+The year ahead promises several developments in analysis and forecasting at JTWC. In addition to continuing several projects highlighted in section 2 of this summary, TECHDEV will pursue the following: 
+
+• Electronic streamline analysis: JTWC currently produces streamline analyses of upper and gradient-level winds for its forecast area of responsibility twice daily (0000Z and 1200Z). These analyses are hand-drawn on paper charts, and subsequently scanned for uploading to DoD METOC web sites. Beginning in 2013, JTWC will hand-analyze these data on electronic tablets, facilitating the generation and transfer of analysis data and enabling JTWC and its customers to overlay streamlines in geospatial data display systems. 
+
+• Cyclone phase worksheet : TECHDEV will evaluate and implement a first-of-its-kind worksheet to guide cyclone phase classifications (tropical, subtropical, or extra-tropical) based on subjective analysis of readily available datasets. 
+
+• Tropical cyclone data plots: The production and distribution of several, manually-generated tropical cyclone data plots will be fully automated ahead of the western North Pacific TC season using computer programs and procedures developed by TECHDEV. Additional TC data plots will be provided for the JTWC Decision Support website. 
+
+Section 4 Summary of mesoscale models: Current use and future development 
+
+The JTWC is actively evaluating the application of mesoscale models for TC track and intensity forecasting. Current plans are to evaluate operational forecasts from all mesoscale models available to JTWC and develop a multi-model consensus from a subset of skilled mesoscale models with the goal of improving TC intensity forecasts. 
+
+Operational global models running at horizontal resolutions between 13-50 km have been shown to simulate the synoptic scale factors responsible for tropical cyclone track motion well (e.g., average 2012 five-day errors for GFS, ECMWF, and NOGAPS were 260, 267 and 290 nm, respectively). However, the spatial and temporal resolutions are too coarse to adequately resolve fine-scale TC inner core processes responsible for driving intensity change. Mesoscale models capable of higher resolution (typically considered to be below 10 km) have existed for many years. For example, JTWC has been using forecasts from the Geophysical Fluid Dynamics Lab (GFDL) – Navy version model ( a.k.a., GFDN) since 1996 (Kurihara et al., 1995). Despite having higher resolution, single mesoscale model intensity forecast skill has shown little to no significant improvement over the past decade. Because of this lag, TC intensity forecast improvement is currently the number one priority among all U.S. TC forecast centers (Oceanic and Atmospheric Research, 2013). Accurately modeling TC intensity is a complex problem that is particularly challenging in the JTWC AOR due to the large number of systems that experience rapid intensification (RI) during their lifecycles (since 2001, 51% of all Western Pacific (WPAC) systems reaching tropical storm strength or greater experienced RI). 
+
+More recently, higher resolution mesoscale models (3-5 km) have been introduced, using the latest advanced schemes to simulate the physical processes taking place at these fine scales. As a result, deterministic mesoscale models are beginning to indicate improved intensity forecast skill. JTWC believes a multi-model consensus (MESOCON) of skillful mesoscale models may improve forecasts of TC intensity and structure, and may additionally allow for statistical characterization of forecast uncertainty that translates to forecast confidence. JTWC has a history of successfully 105 
+
+applying a multi-model consensus methodology, with operational consensus track forecasts dating back to the early 2000’s (Goerss et al, 2004). Given recent improvements in mesoscale model capabilities, JTWC TECHDEV plans to test various combinations of archived mesoscale model TC forecasts (vortex trackers) to develop an optimal mesoscale model consensus. 
+
+Furthermore, the expansion of high performance computational resources is increasing the viability of delivering mesoscale model ensembles and associated ensemble trackers for use in the mesoscale consensus for intensity and track forecasting. This mixed model consensus will be available to JTWC forecasters for initial evaluation during the 2013 calendar year. 
+
+JTWC evaluated several mesoscale models during the 2012 season. First, the Naval Research Lab Monterey (NRLMRY) experimental COAMPS-TC model (COTC), using GFS lateral boundary conditions, has been under evaluation since 2010. COTC received numerous enhancements throughout the year, and is expected to become fully operational at FNMOC by June, 2013. A pre-operational version of this model (identified as COFN) using NOGAPS/NAVGEM boundary conditions (the operational Navy global model transitioned from NOGAPS to NAVGEM in March, 2013) became available to JTWC for test and evaluation beginning in September, 2012. The current configuration of both models includes a storm-following inner nest with 5 km horizontal resolution (Doyle et al., 2012). After COFN becomes fully operational at FNMOC, NRLMRY plans to continue running the experimental COTC for their development efforts, and will make this output available to JTWC for continued evaluation. 
+
+Due to the sustained efforts of the Hurricane Forecast Improvement Program (HFIP) and NOAA’s Environmental Modeling Center (EMC), the Hurricane WRF model was extended to cover the western North Pacific Ocean (WPAC) domain in May 2012, for evaluation by JTWC. Aside from a lack of ocean coupling, the WPAC HWRF configuration is the same as used in the Atlantic Basin, with a storm-following inner grid at 3 km horizontal resolution (Gopalakrishnan, et al., 2012). Both COAMPS-TC models and HWRF are run for JTWC invest areas ( i.e., prior to reaching Tropical Depression status), providing valuable guidance to forecasters leading up to the initial warning time. 
+
+TWRF is an adaption of the WRF-ARW model tuned specifically for TC rainfall over Taiwan by the Taiwan Central Weather Bureau (CWB). This model has fixed nests of 5 and 15 km horizontal resolution centered over Taiwan and a larger 45 km nest covering the WPAC (Hsiao, L.-F. et al., 2012). Although primarily designed to improve TC-related precipitation forecasting, the CWB has provided TWRF forecasts to JTWC for evaluation. Given the small coverage of the fixed high-resolution domain, TWRF may have limited applicability to a JTWC MESOCON. 
+
+TC forecasts from The Australian Community Climate and Earth-System Simulator (ACCESS-TC) model are provided by the Australian Bureau of Meteorology for systems around Australia as well as the WPAC. ACCESS-TC boundary conditions are provided by the Unified UKMet model, uses 4DVAR data assimilation, and has an inner-most grid at approximately 12 km resolution (ABOM, 2010). 
+
+The operational GFDN model for 2012 was the 2011 version of the GFDL model, with ocean coupling provided by a high-resolution version of the 3-D Princeton Ocean Model (POM). GFDN is run for all JTWC basins at FNMOC using the NAVGEM for initial and boundary conditions, while GFDL is run operationally by NCEP using the GFS global model, for the Atlantic and Eastern Pacific basins in support of the National Hurricane Center. Both GFDL and GFDN have a storm-following inner nest at approximately 9 km resolution. Plans are underway to upgrade GFDN to match the current operational GFDL configuration for the 2013 season. This upgrade consisted of numerous 106 
+
+improvements in the physics and convective schemes. Additionally, a parallel test run of an experimental higher-resolution (6 km) GFDN with improved microphysics and ocean coupling is also being discussed for 2013, adding another potential member to a MESOCON. 
+
+During forecast operations, JTWC evaluates all available model data during the forecast process, however, track forecast error statistics for mesoscale models typically lag those of the global models. This trend has become more apparent over the past 3-5 years due to substantial improvements made to global models. Therefore, the primary focus of mesoscale model use at JTWC focuses on intensity forecasting. Intensity statistics for the aforementioned models in 2012 are listed below. With the exception of GFDN, these models are considered “experimental”, and their availability has varied widely due to computational resource availability, ongoing changes to core code, product dissemination issues etc . Typically, a homogeneous comparison of interpolated models ( i.e. , the model output available to JTWC at forecast time) would be presented; however, due to the availability issues noted, late-arriving models often miss the interpolation cut-off time, leading to a reduced sample size. Instead, non-homogenous statistics are presented for the parent model trackers, and readers are cautioned not to make direct comparisons between models based on these statistics. 
+
+Table 5-1 : 2012 Non-Homogeneous Mesoscale Model Intensity Forecast Errors 
+
+In 2013, JTWC will continue to collaborate with groups such as NRLMRY, the Hurricane Forecast Improvement Project (HFIP) and the National Unified Operational Prediction Capability (NUOPC), to name a few, and leverage work in mesoscale models to improve TC intensity forecasting through consensus development. Additionally, JTWC will continue collaborating with partners in the modeling community to evaluate and provide feedback on mesoscale model performance. 
+
+This year, NRLMRY plans to run an experimental version of a COTC ensemble (approximately 10 members) for a limited number of cases in the WPAC, contingent on computational resources. Additionally, JTWC will be adding the Air Force Weather Agency (AFWA) Mesoscale Ensemble Prediction System (MEPS) into the evaluation process, as discussed in the future project section above. These mesoscale ensembles produce an ensemble tracker that could contribute to the growing list of consensus and multi-member mesoscale ensembles and provide benefit to the JTWC MESOCON. 
+
+References 107 
+
+Australian Bureau of Meteorology, 2010: NMOC Operations Bulletin No. 83: Operational Implementation of the ACCESS Numerical Weather Prediction Systems. Available from 
+
+http://www.bom.gov.au/australia/charts/bulletins/apob83.pdf 
+
+Doyle, J.D, R.M. Hodur, S. Chen, J. Cummings, E. Hendricks, T. Holt, H. Jin, Y. Jin, C.S. Liou, J.R. Moskaitis, M.S. Peng, P.A. Reinecke, K. Sashegyi, J. Schmidt, and S. Wang, 2012: Prediction of tropical cyclone intensity and track using COAMPS-TC. 30th Conference on Hurricanes and Tropical Meteorology, 15-20 April 2012, Ponte Vedra Beach, Florida. 
+
+Elsberry, R. L., M.S. Jordan, and F. Vitart, 2011: Evaluation of the ECMWF 32-day 
+
+ensemble predictions during 2009 season of western North Pacific tropical cyclone 
+
+events on intraseasonal timescales. Asia-Pacific J. Atmos. Sci ., 47 , 305-318. 
+
+Fu, B., Peng, M.S., T. Li, and D.E. Stevens, 2012: Developing versus nondeveloping disturbances for 
+
+tropical cyclone formation. Part II: Western North Pacific. Mon. Wea. Rev ., 140 , 1067-1080. 
+
+Gopalakrishnan, S., Q. Liu, T. Marchok, D. Sheinin, V. Tallapragada, M. Tong, R. Tuleya, R. 
+
+Yablonsky, and X. Zhang, 2012: Hurricane Weather Research and Forecasting (HWRF) 
+
+Model: 2012 scientific documentation. L. Bernardet, Ed., 96 pp. Available from DTCenter.org. 
+
+Hacker, J.P., S.-Y. Ha, C. Snyder, J. Berner, F.A. Eckel, E. Kuchera, M. Pocernich, S. Rugg, J. 
+
+Schramm, and X. Wang, 2011: The U.S. Air Force Weather Agency's mesoscale ensemble: 
+
+Scientific description and performance results. Tellus , 63A , 625-641, DOI: 10.1111/j.1600-
+
+0870.2010.00497. 
+
+Hsiao, Ling-Feng, Der-Song Chen, Ying-Hwa Kuo, Yong-Run Guo, Tien-Chiang Yeh, Jing-Shan Hong, Chin-Tzu Fong, Cheng-Shang Lee, 2012: Application of WRF 3DVAR to Operational Typhoon Prediction in Taiwan: Impact of Outer Loop and Partial Cycling Approaches. Wea. Forecasting , 27 , 1249–1263. 
+
+Kucas, M.E. and J.W.E. Darlow, 2012: A subjective method for assessing tropical 
+
+cyclogenesis at the Joint Typhoon Warning Center. Tropical Cyclone Research and 
+
+Review , 1, 325-330. 
+
+Kuchera, E., S. Rentschler, G. Creighton, J. Hamilton, and S. Rugg, 2012: Air Force Weather 
+
+ensembles. Presentation, 13 th Annual WRF User’s Workshop, Boulder, CO, NCAR, [Available 
+
+online at:  http://www.mmm.ucar.edu/wrf/users/workshops/WS2012/ppts/2.5.pdf ]
+
+Kurihara, Y., M.A. Bender, R.E. Tuleya, and R.J. Ross, 1995: Improvements in the GFDL Hurricane 
+
+Prediction System, Mon. Wea. Rev. , 123(9) , 2791-2801. 
+
+Meyer, D. and T. Murphree, 2012: Intraseasonal to seasonal forecasting of tropical cyclone 
+
+formations: Comparison of model results using both CFSv1 and CFSv2 forcing. 
+
+Presentation, 37 th Climate Prediction and Diagnostics Workshop, Fort Collins, CO, NOAA, 
+
+[Available online at 
+
+http://www.cpc.ncep.noaa.gov/products/outreach/proceedings/cdw37_proceedings/DMeyer.pdf ]
+
+Oceanic and Atmospheric Research (OAR), National Oceanic and Atmospheric Administration (NOAA), 
+
+Department of Commerce, 2013. Announcement of Federal Funding Opportunity, FY 2013 Joint 108 
+
+Hurricane Testbed [Available online at 
+
+http://www.grants.gov/search/downloadAtt.do;jsessionid=QspjRGKHMJG1SMvK7QZ1syB5S7YPt 1D2YVhyTVpqnFKvQWC5NQ9T!344343282?attId=157205] 
+
+Peng, M.S., B. Fu, T. Li, and D.E. Stevens, 2011: Developing versus non-developing 
+
+disturbances for tropical cyclone formation: Part I: North Atlantic. Mon. Wea. Rev. , in 
+
+press. 
+
+Piñeros, M. F., E.A. Ritchie, and J.S. Tyo, 2008: Objective measures of tropical cyclone 
+
+structure and intensity change from remotely sensed infrared image data. IEEE 
+
+Trans. Geosci. Remote Sens. , 46 , 3574-3580. 
+
+Piñeros, M.F., E.A. Ritchie, and J.S. Tyo, 2010: Detecting tropical cyclone genesis from 
+
+remotely-sensed infrared image data. IEEE Geosci. Remote Sens. Lett. , 7, 826-830. 
+
+Piñeros, M.F., E.A. Ritchie, and J.S. Tyo, 2011: Estimating tropical cyclone intensity 
+
+from infrared image data. Wea. Forecasting , 26 , 690-698. 
+
+Tsai, H.C. and R.L. Elsberry, 2013: Detection of tropical cyclone track changes from the 
+
+ECMWF ensemble prediction system. Geophys. Res. Lett. , 40 , 797-801, 
+
+doi:10.1002/grl.50172. 109 
+
+Chapter 6 Summary of Forecast Verification 
+
+Verification of warning position and intensities at 24-, 48-, and 72-, 96-, 120-hour forecast periods are made against the final best track. The (scalar) track forecast, along-track and cross track errors (illustrated in Figure 6-1) were calculated for each verifying JTWC forecast. These data are included in this chapter. This section summarizes verification data for the 2012 season, and contrasts it with annual verification statistics from previous years.  
+
+> Figure 6-1. Definition of cross-track error (XTE), along track error (ATE), and forecast track error (FTE). In this example, the forecast position is ahead of and to the right of the verifying best track position. Therefore, the XTE is positive (to the right of track) and the ATE is positive (ahead of the best track). Adapted from Tsui and Miller, 1988.
+
+110 
+
+Section 1 Annual Forecast Verification 111 
+
+Figure 6-2. Graph of JTWC track forecast errors and five year running mean errors for the western North Pacific at 24, 48, and 72 hours. 
+
+Figure 6-3. Graph of JTWC track forecast errors and five year running mean errors for the western North Pacific at 96 and 120 hours. 112 113 
+
+Figure 6-4. Graph of JTWC track forecast errors and five year running mean errors for the north Indian Ocean at 24, 48, 72, 96, and 120 hours. 114 115 
+
+Figure 6-5 . Graph of JTWC track forecast errors for the Southern Hemisphere at 24, 48, 72, 96, and 120 hours. 116 
+
+Figure 6-6 . Graph of JTWC intensity forecast errors for the western North Pacific at 24, 48, 72, 96, and 120 hours. 117 
+
+Figure 6-7. Graph of JTWC intensity forecast errors for the North Indian Ocean at 24, 48, 72, 96, and 120 hours. 118 
+
+Figure 6-8. Graph of JTWC intensity forecast errors for the Southern Hemisphere at 24, 48, 72, 96, and 120 hours.

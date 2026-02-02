@@ -1,0 +1,110 @@
+# Coronavirus spikes outside China show travel bans aren't working
+
+There are two words no one wants to hear during an emerging outbreak: local transmission.
+
+Over the weekend, Italy became the European leader in cases of the disease officially known as COVID-19. Its tally increased sharply from 11 to 124, as several clusters of infections with no connection to the virus’s site of origin in China appeared. The nation’s football league [suspended matches,](https://www.aljazeera.com/news/2020/02/italy-suspends-serie-football-games-coronavirus-fears-200223062106332.html) and officials sealed off towns to prevent additional local transmission, mirroring China’s decision to lock down Hubei Province. Local transmission also [appears to be happening in 13 other countries](https://www.ecdc.europa.eu/sites/default/files/documents/novel-coronavirus-threat-assessment-brief-23-feb-2020.pdf), including South Korea and Iran.
+
+“The sudden increase of cases in Italy, the Islamic Republic of Iran, and the Republic of Korea are deeply concerning,” Tedros Adhanom Ghebreyesus, director-general of the World Health Organization, said Monday at a press briefing about COVID-19, which has so far infected 79,400 and killed 2,600.
+
+In South Korea, the case tally has escalated over the last five days, rising from 104 to nearly a thousand. Nearly[half of the new cases](https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030) are tied to [a church in Daegu](https://www.theguardian.com/world/2020/feb/22/coronavirus-south-korea-sees-huge-jump-cases-china-hubei-wuhan-outbreak-), the republic’s fourth largest city, and a 61-year-old congregant known as “Patient 31.” But the original source of her infection remains elusive.
+
+Meanwhile, on Monday, the death toll in Iran rose to 12, a surprising development given the country only reported its first cases last Thursday. COVID-19 kills 2 percent of those afflicted, meaning many more unreported cases might be circulating in Iran. That’s also evidenced by new outbreaks in Kuwait, Bahrain, Iraq, and Oman, all of which are linked to Iran. While stopping short of declaring a pandemic on Monday, the World Health Organization says the coronavirus outbreak has the potential to become one, and that now is the time for countries to prepare.
+
+“There is a real risk that there's ongoing transmission in other countries,” says [Marc Lipsitch](https://www.hsph.harvard.edu/marc-lipsitch/), an epidemiologist at Harvard T.H. Chan School of Public Health, “which if it remains undetected is going to result in more and more cases.”
+
+Undetected cases passing across borders also put a spotlight on the [imperfect legacy of travel restrictions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3559034/) and disease screening. For centuries, public officials have combed travelers for signs of disease, whether it be for cholera in the 1800s or Ebola crises in the last decade, and cordoned them off. Yet time and again, history has shown that stemming the spread of an infectious disease becomes more difficult when these control methods are deployed inappropriately or unevenly.
+
+Border closures [protected some farming villages during Spanish Influenza in 1918 and 1919](https://www.bbc.com/future/article/20181023-the-places-that-escaped-the-spanish-flu), but they also kept countries like [Portugal from obtaining health resources](https://books.google.com/books?id=-j53BQAAQBAJ&pg=PA64&lpg=PA64&dq=spanish+flu+border+closings&source=bl&ots=jVeg4QCUjX&sig=ACfU3U3BHVIBH3cPZ6ePOxW5bIGbEn-Wvg&hl=en&sa=X&ved=2ahUKEwj9roi_2d7nAhXml3IEHaixBysQ6AEwGHoECAoQAQ#v=onepage&q=spanish%20flu%20border%20closings&f=false). Meanwhile, the primary spreaders of the disease—troops in World War I—easily crossed borders. ([Learn about the swift, deadly history of the Spanish Flu pandemic](https://www.nationalgeographic.com/history/world-history-magazine/article/history-spanish-flu-pandemic).)
+
+Back then, people barely understood how diseases moved among human populations, but today’s epidemiologists have found that the same overarching rule applies to modern outbreaks: Borders are leaky no matter what you do. Now, in the face of COVID-19, these scientists are creating tools that can ostensibly predict the weak spots—and judge whether tactics like regional lockdowns or travel bans actually work.
+
+Did the Wuhan lockdown work?
+----------------------------
+
+Viruses are inherently clandestine, and the one that causes COVID-19 is no exception. Early evidence shows that the novel coronavirus takes about five days to manifest symptoms in mild and severe cases, but patients [are contagious before these symptoms arise](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30374-3/fulltext).
+
+COVID-19 readily establishes itself not only in the lungs, but [also in the upper respiratory tract](https://www.nejm.org/doi/full/10.1056/NEJMc2001737), meaning the nose and throat. A study published Wednesday in the journal Science reports that the novel coronavirus’ affinity for entering human cells [is 10 to 20 times higher than that of other coronaviruses](https://science.sciencemag.org/content/early/2020/02/19/science.abb2507). These habits mean the new coronavirus can more easily hitch a ride via coughs and sneezes, and they may explain why people become contagious before displaying full-blown symptoms.
+
+Those details matter, because the timing of when people become contagious can help gauge if changes in travel policy—such as China’s transportation bans and international airport screening—are truly keeping the novel coronavirus from crossing borders.
+
+[Matteo Chinazzi](https://www.mobs-lab.org/matteo-chinazzi.html), a network scientist at Northeastern University, [has co-developed a way to judge the effectiveness of COVID-19 travel bans](https://www.medrxiv.org/content/10.1101/2020.02.09.20021261v1), both within and against mainland China. The project hinges on the Wuhan lockdown on January 23, when China restricted movements within the city of 11 million. The model charts how global and domestic commuters flowed before and after this turning point in the outbreak, combining high-resolution population data and disease-tracking algorithms tailored to the ongoing epidemic.
+
+“Our model is constantly updated and recalibrated using new information and the updated interventions that different countries are implementing,” Chinazzi says. The result offers a readout on the effectiveness of these travel restrictions, and so far, the verdict is mixed.
+
+First, China’s lockdown of Wuhan likely arrived too late; the model predicts that the novel coronavirus had already established footholds in other major Chinese cities by January 23. That means mainland China was likely already exporting coronavirus cases through other travel hubs, with the model pointing to Shanghai, Beijing, Shenzhen, Guangzhou, and Kunming as the highest-ranked sources.
+
+> There is not a lot of evidence that a travel ban would completely eliminate the risk of an infectious disease spreading in the long term.
+> 
+> 
+> 
+> Nicole Errett, University of Washington School of Public Health
+
+The lab’s predictions may also explain why the outbreak continues to thrive in certain places, like Japan and South Korea. Rather than lower the odds of transmission, the Wuhan lockdown increased the risk for coronavirus importations for these two countries, which only issued partial transportation bans. Travelers from Wuhan and Hubei Province were blocked, while visitors from other parts of mainland China could still enter.
+
+Overall, the model suggests that the Wuhan lockdown only delayed the global progression of the epidemic by three to five days. Such delays aren’t worthless, given that they provide precious time to coordinate a response. But their limited effectiveness should be no surprise, considering research conducted on the last two decades’ worth of outbreaks.
+
+“There is not a lot of evidence that a travel ban would completely eliminate the risk of an infectious disease spreading in the long term,” says [Nicole Errett,](https://deohs.washington.edu/faculty/nicole-errett) a lecturer at University of Washington School of Public Health and a former special assistant at the U.S. Department of Health and Human Services.
+
+In the latest issue of the Journal of Emergency Management, Errett and two colleagues reviewed past travel bans implemented for Ebola and SARS, and they [reported that most were only effective in the short term](https://www.wmpllc.org/ojs/index.php/jem/article/view/2688). Similar investigations for influenza found that travel bans could delay the spread of epidemics by one week to two months, but the overall incidence of the disease only dropped by 3 percent.
+
+Overly harsh travel bans can also force a disease to spread among a confined group of people, as evidenced by the _Diamond Princess_.
+
+For two weeks, the British cruise liner sat quarantined off Japan’s coast, and roughly 3,700 passengers and crew were housed inside a giant incubator for the novel coronavirus, which causes the disease officially known as COVID-19. What started as a manageable group of 10 infections on February 4 ballooned into more than 600 cases by Wednesday, when everyone on board was finally allowed to disembark.
+
+“That was an unmitigated disaster. What should have happened is, they [the passengers and crew] should have been disembarked from the boat and placed in isolation or medical quarantines,” says [Lawrence Gostin](https://www.law.georgetown.edu/faculty/lawrence-o-gostin/), a Georgetown University professor who is also director of the World Health Organization Collaborating Center on National and Global Health Law.
+
+Does airport screening help?
+----------------------------
+
+Meanwhile, the methods for spotting the disease among people on the move aren’t foolproof. Take, for example, the temperature guns that you see pointed at people’s foreheads at airport customs and border checkpoints. On average, those devices are only 70 percent effective at detecting fevers, meaning about one of every four people with elevated body temperatures goes unnoticed.
+
+“Travelers screening is not some kind of firewall that will absolutely protect from having cases imported into whatever area you're trying to defend,” says [Jamie Lloyd-Smith](https://faculty.eeb.ucla.edu/lloydsmith/index.php), an infectious disease ecologist at UCLA. “This is not because [the screening] is being done poorly, and it’s not because the people who are in charge are being lazy.”
+
+![Image 1: airport](https://i.natgeofe.com/n/90ca5ecf-6288-43e4-8d0d-8c1e62f71bdb/02_coronavirustravel_h_15329756.jpg)
+
+A man walks by windows at Hong​ Kong International Airport on​ February 14.
+
+Photograph by Lam Yik Fei, The New York Times via Redux
+
+Lloyd-Smith and other mathematicians [are assessing the strong and weak points](https://www.medrxiv.org/content/10.1101/2020.01.28.20019224v2) in travel screening as it pertains to the COVID-19 outbreak. Their latest work is inspired by [a study they published in 2015](https://elifesciences.org/articles/05564), which built a model that systematically estimated the performance of traveler screening programs during outbreaks of SARS, MERS, influenza, and Ebola.
+
+As in this earlier work, the [new model for COVID-19](https://www.medrxiv.org/content/10.1101/2020.01.28.20019224v2) includes basic factors like the failure rate for thermometer guns or how easily the virus moves between people. But it also accounts for more subtle variables, like how many people might transmit the virus before their symptoms arise, or how often people accurately report their symptoms on screening questionnaires distributed at airport customs.
+
+“It's pretty evident from past outbreaks that people aren't always honest about risky exposures,” Lloyd-Smith says. “Based on the past data we had, it looked like one in four passengers accurately and honestly reported the risky exposures they had.”
+
+Compute all these variables, and their model estimates that enhanced screening is at best catching 50 percent of infected air travelers and at worst just 20 percent, primarily because COVID-19 symptoms are so latent.
+
+“Based on what we understand about this virus, something on the order of half of people are fundamentally not detectable [during screening],” Lloyd-Smith says. While the results are currently being peer-reviewed at the journal eLife, they [mirror what preliminary results from a separate research group](https://www.medrxiv.org/content/10.1101/2020.02.12.20022426v1) at the London School of Hygiene and Tropical Medicine [predict for air traveler screening](https://cmmid-lshtm.shinyapps.io/traveller_screening/) with COVID-19.
+
+“We'd probably only catch about 45 percent of infected travelers using exit screening,” says [Samuel Clifford](https://www.lshtm.ac.uk/aboutus/people/clifford.sam), an epidemiologist at the London School’s Center for Mathematical Modeling of Infectious Diseases. “Out of the remaining 55 percent of people who aren't caught, we can catch a few more on entry. You've got 42 percent of the people [with COVID-19] still making it into the country.”
+
+Singapore, the bellwether
+-------------------------
+
+While such models can offer an indication of what might be happening, you can see these dynamics play out in real-time by setting your sights on one nation: Singapore.
+
+Singapore boasts [one of the highest-regarded health care systems](https://www.nytimes.com/2019/04/22/upshot/singapore-health-system-lessons.html) on the planet, thanks to public funding, low costs for treatment, and an abundance of doctors, nurses, and other health professionals. This workforce pays off during an outbreak, because it means that Singapore can catch cases the moment patients arrive on their shores.
+
+“Singapore had such a remarkable record during SARS with following cases, and it seems to have a high ratio of detection this time around,” Lipsitch says. He thinks tracking the COVID-19 situation in Singapore can help gauge how the outbreak might evolve in other countries, especially in areas with developed health care systems or places that receive high volumes of travelers from China.
+
+The United States fits both aspects of this billing, given that it receives as many travelers from China as Singapore, roughly three million a year.
+
+Based [on preliminary modeling](https://www.medrxiv.org/content/10.1101/2020.02.04.20020495v2) in Lipsitch’s lab, Singapore ranked first out of 191 countries in disease surveillance during the first weeks of COVID-19. His team suspects that Singapore's methods are exceptionally sensitive to new cases, and can thus serve as a standard of comparison against other health systems.
+
+![Image 2: cruise ship](https://i.natgeofe.com/n/c0c56c6b-2568-4084-abdf-f4872e9c02be/01_coronavirustravel_rts328ud.jpg)
+
+A bus arrives near the cruise ship Diamond Princess, where dozens of passengers were tested positive for coronavirus, at Daikoku Pier Cruise Terminal in Yokohama, south of Tokyo, Japan, February 16, 2020.
+
+Photograph by Athit Perawongmetha, Reuters
+
+By using Singapore as a standard bearer for COVID-19 detection, his team [can then estimate](https://www.medrxiv.org/content/10.1101/2020.02.13.20022707v2) how many cases are likely going unnoticed in other countries. Relative to Singapore, other nations with a high capacity for disease surveillance—like the U.S., Japan, Thailand, and afflicted countries in Europe —may only be catching 38 percent of travel-related cases, based on Lipsitch’s model.
+
+There are caveats to Lipsitch’s models, including that mild or asymptomatic cases of COVID-19 may not be accounted for. Plus, these models are yet to be published in a peer-reviewed journal, though the process is under way. But their results mirror what others are predicting about the leaky nature of travel restrictions and what they might mean for [preparedness in at-risk countries in places like Africa](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30411-6/fulltext#seccestitle140). The model predicts that up to 89 percent of imported cases might be going undetected in countries with a low capacity for disease surveillance relative to Singapore.
+
+Singapore’s situation isn’t a catchall example. Its success is based on officials’ dogged efforts toward border screening, and because the island country is small and dense. Its 5.6 million people are packed into an area on par with Charlotte, North Carolina, which makes it easier to trace the contacts connected to individual cases. But on Thursday, researchers in Singapore, including one from the ministry of health, reported eight of the nation’s 84 cases [are yet to be linked to any clear exposure](https://jamanetwork.com/journals/jama/fullarticle/2761890).
+
+“If there are [COVID-19] carriers coming into the United States that aren’t detected, which is likely the case, Singapore would probably have an equivalent number,” says [Scott Gottlieb](https://www.aei.org/profile/scott-gottlieb/), a former U.S. FDA commissioner and resident fellow at the American Enterprise Institute who thinks Lipsitch’s research is on the right track. “But they'd be unmasked sooner in Singapore because it's a smaller, more densely populated nation.” For this reason, Gottlieb says that Singapore offers an omen for major cities in the U.S., rather than the nation as a whole.
+
+“They're a good bellwether,” he says, “for what happens when an outbreak steps into a very sophisticated health care system and advanced economy in a dense environment.”
+
+Editor's Note: This article has been updated to reflect new developments in local transmission as of February 24. It was originally published on February 21.

@@ -1,0 +1,34 @@
+# EFF Cooperative Computing Awards
+
+![Image 1: EFF Cooperative Computing Awards](http://w2.eff.org/awards/images/coop-map.png)
+
+The Electronic Frontier Foundation (EFF), the first civil liberties group dedicated to protecting the health and growth of the Internet, is sponsoring cooperative computing awards, with over half a million dollars in prize money, to encourage ordinary Internet users to contribute to solving huge scientific problems.
+
+Through the EFF Cooperative Computing Awards, EFF will confer prizes of:
+
+*   **$50,000** to the first individual or group who discovers **a prime number with at least 1,000,000 decimal digits** ([awarded Apr. 6, 2000](http://www.eff.org/awards/20000406_coopaward_pr.html))
+*   **$100,000** to the first individual or group who discovers **a prime number with at least 10,000,000 decimal digits**
+*   **$150,000** to the first individual or group who discovers **a prime number with at least 100,000,000 decimal digits**
+*   **$250,000** to the first individual or group who discovers **a prime number with at least 1,000,000,000 decimal digits**
+
+(Prize money comes from a special donation provided by an individual EFF supporter, earmarked specifically for this project. Prize money does NOT come from EFF membership dues, corporate or foundation grants, or other general EFF funds.)
+
+EFF hopes to spur the technology of cooperative networking and encourage Internet users worldwide to join together in solving scientific problems involving massive computation. EFF is uniquely situated to sponsor these awards, since part of its mission is to encourage the harmonious integration of Internet innovations into the whole of society.
+
+"The EFF awards are about cooperation," said John Gilmore, EFF co-founder and project leader for the awards. "Prime numbers are important in mathematics and encryption, but the real message is that many other problems can be solved by similar methods."
+
+Finding these prime numbers will be no simple task, given today\'s computational power. It has taken mathematicians years to uncover and confirm new largest known primes. However, the computer industry produces millions of new computers each year, which sit idle much of the time, running screen savers or waiting for the user to do something. EFF is encouraging people to pool their computing power over the Internet, to work together to share this massive resource. In the process, EFF hopes to inspire experts to apply collaborative computing to large problems, and thereby foster new technologies and opportunities for everyone.
+
+### For more information
+
+[Official rules for the awards](http://w2.eff.org/awards/coop-prime-rules.php)
+
+[Cooperative Computing Award News](http://w2.eff.org/awards/coop-news.php)
+
+[Frequently Asked Questions about the awards](http://w2.eff.org/awards/coop-faq.php)
+
+[Prime Number Resources and Information](http://w2.eff.org/awards/coop-prime-info.php)
+
+An interesting story about a recently completed venture into cooperative computing may be read in this: [**New York Times article**](http://www.nytimes.com/library/tech/99/08/biztech/articles/27code.html) (registration required). The article talks of the importance of prime numbers in encryption.
+
+[Note to EFF members: Your membership dues do NOT go into the Cooperative Computing Awards fund. The CCA program is funded entirely by a single earmarked individual donation.]

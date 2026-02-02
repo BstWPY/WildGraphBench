@@ -1,0 +1,29 @@
+# Earth Observatory
+
+![Image 1: Airborne Nitrogen Dioxide Plummets Over China](https://eoimages.gsfc.nasa.gov/images/imagerecords/146000/146362/china_trop_2020056.png)
+
+NASA and European Space Agency (ESA) pollution monitoring satellites have detected significant decreases in nitrogen dioxide (NO 2) over China. There is evidence that the change is at least partly related to the economic slowdown following the outbreak of coronavirus.
+
+At the end of 2019, medical professionals in Wuhan, China, were treating dozens of pneumonia cases that had an unknown source. Days later, researchers confirmed the illnesses were caused by a new coronavirus ([COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html)). By January 23, 2020, Chinese authorities had shut down transportation going into and out of Wuhan, as well as local businesses, in order to reduce the spread of the disease. It was the first of several quarantines set up in the country and around the world.
+
+The maps on this page show concentrations of nitrogen dioxide, a noxious gas emitted by motor vehicles, power plants, and industrial facilities. The maps above show NO 2 values across China from January 1-20, 2020 (before the quarantine) and February 10-25 (during the quarantine). The data were collected by the Tropospheric Monitoring Instrument ([TROPOMI](http://www.tropomi.eu/)) on ESA’s [Sentinel-5 satellite](https://sentinel.esa.intmissions/sentinel-5). A related sensor, the Ozone Monitoring Instrument ([OMI](https://aura.gsfc.nasa.gov/omi.html)) on NASA’s [Aura satellite](https://aura.gsfc.nasa.gov/about.html), has been making similar measurements.
+
+According to NASA scientists, the reduction in NO 2 pollution was first apparent near Wuhan, but eventually spread across the country. Millions of people [have been quarantined](https://www.businessinsider.com/quarantine-history-following-china-wuhan-coronavirus-lockdowns-2020-1) in one of the largest such actions in human history. As of February 28, 2020, the virus [had been detected](https://www.nytimes.com/interactive/2020/world/asia/china-wuhan-coronavirus-maps.html) in at least 56 countries.
+
+“This is the first time I have seen such a dramatic drop-off over such a wide area for a specific event,” said Fei Liu, an air quality researcher at NASA’s Goddard Space Flight Center. Liu recalls seeing a drop in NO 2 over several countries during the economic recession that began in 2008, but the decrease was gradual. Scientists also observed a significant reduction around Beijing during the [2008 Olympics](https://earthobservatory.nasa.gov/images/36195/beijing-restrictions-reduce-pollution), but the effect was mostly localized around that city, and pollution levels rose again once the Olympics ended.
+
+![Image 2: The series of maps show a decrease in nitrogen dioxide levels in Wuhan, China between January 1st and February 25th of 2019 compared to the same period in 2020, due to the city's lockdown during the COVID-19 pandemic](https://eoimages.gsfc.nasa.gov/images/imagerecords/146000/146362/wuhan_trop_2020056.png)
+
+The drop in nitrogen dioxide in 2020 also coincided with Lunar New Year celebrations in China and much of Asia. Generally, businesses and factories close from the last week in January into early February to celebrate the festival. [Past observations](https://www.doi.org/10.1016/j.atmosenv.2009.01.037) have shown that air pollution usually decreases during this period and then increases once the celebration is over.
+
+“There is always this general slowdown around this time of the year,” said Barry Lefer, an air quality scientist at NASA. “Our long-term OMI data allows us to see if these amounts are abnormal and why.” Launched in 2004, OMI has been collecting global data on NO 2 and various air pollutants for more than 15 years.
+
+The maps above show NO 2 values over three periods in 2020: January 1-20 (before Lunar New Year), January 28-February 9 (around New Year celebrations), and February 10-25 (after the event). The 2020 values are compared to the same periods in 2019 for reference. Lefer noted that the overall values in 2020 were lower than 2019 due to new environmental regulations that China has enforced over the [past few years](https://earthobservatory.nasa.gov/images/87392/a-decade-of-change-for-nitrogen-dioxide).
+
+While the Lunar New Year may have played a role in the recent dropoff, researchers believe the decrease is more than a holiday effect or weather-related variation. In a preliminary analysis, NASA researchers compared NO 2 values detected by OMI in 2020 with the average amounts detected at this time of year from 2005-2019. In 2020, NO 2 values in eastern and central China were significantly lower (from 10 to 30 percent lower) than what is normally observed for this time period.
+
+Additionally, Liu and colleagues have not seen a rebound in NO 2 after the holiday. “This year, the reduction rate is more significant than in past years and it has lasted longer,” she said. “I am not surprised because many cities nationwide have taken measures to minimize spread of the virus.”
+
+_Editor’s Note: For more information on NASA’s long-term measurements of nitrogen dioxide, [see this page](https://earthdata.nasa.gov/learn/articles/feature-articles/health-and-air-quality-articles/find-no2-data)._
+
+_NASA Earth Observatory images by [Joshua Stevens](https://earthobservatory.nasa.gov/about/joshua-stevens), using modified Copernicus [Sentinel 5P](https://sentinel.esa.intuser-guides/sentinel-5p-tropomi) data processed by the European Space Agency. Story by [Kasha Patel](https://earthobservatory.nasa.gov/about/kasha-patel) with assistance from [NASA Aura](https://aura.gsfc.nasa.gov/) and [NASA SPoRT](https://weather.msfc.nasa.gov/sport/staff/) science teams._

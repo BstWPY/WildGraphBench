@@ -1,0 +1,738 @@
+# A Snapshot of the Global Race for Vaccines Targeting SARS-CoV-2 and the COVID-19 Pandemic
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Abstract
+----------------------------------------------------------------
+
+A novel coronavirus SARS-CoV-2 causing Coronavirus disease 2019 (COVID-19) has entered the human population and has spread rapidly around the world in the first half of 2020 causing a global pandemic. The virus uses its spike glycoprotein receptor-binding domain to interact with host cell angiotensin-converting enzyme 2 (ACE2) sites to initiate a cascade of events that culminate in severe acute respiratory syndrome in some individuals. In efforts to curtail viral spread, authorities initiated far-reaching lockdowns that have disrupted global economies. The scientific and medical communities are mounting serious efforts to limit this pandemic and subsequent waves of viral spread by developing preventative vaccines and repurposing existing drugs as potential therapies. In this review, we focus on the latest developments in COVID-19 vaccine development, including results of the first Phase I clinical trials and describe a number of the early candidates that are emerging in the field. We seek to provide a balanced coverage of the seven main platforms used in vaccine development that will lead to a desired target product profile for the “ideal” vaccine. Using tales of past vaccine discovery efforts that have taken many years or that have failed, we temper over exuberant enthusiasm with cautious optimism that the global medical community will reach the elusive target to treat COVID-19 and end the pandemic.
+
+**Keywords:** COVID-19, SARS-CoV-2, vaccine, immune response, coronavirus, clinical trial, public health
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Introduction
+--------------------------------------------------------------------
+
+Coronavirus disease 2019 (COVID-19) is caused by the novel beta-coronavirus family member coined SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2) ([Oberfeld et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B34)). In December 2019 (and potentially earlier, though unrecognized), SARS-CoV-2 emerged as a pneumonia-causing disorder in Hubei province, China, most likely the result of natural selection in animal hosts (bats, pangolins) prior to zoonotic transfer ([Andersen et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B3); [Wu et al., 2020a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B53); [Zhou P. et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B57); [Zhu N. et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B60)). There are now seven members of this viral family known to infect humans with three having the potential to cause severe respiratory disease ([Andersen et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B3)). The two outbreaks preceding SARS-CoV-2 include the first SARS virus emerging in late 2002 in Guangdong province in China (now referred to as SARS-CoV-1), followed by the Middle-East Respiratory Syndrome coronavirus (MERS-CoV) in 2012 in Saudi Arabia ([de Wit et al., 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B15)). SARS-CoV-2 has rampaged exponentially around the world since the start of 2020; the World Health Organization (WHO) declared it a Public Health Emergency of International Concern on January 30, 2020 and a pandemic officially on March 7, 2020 ([Sohrabi et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B39)). At the time of revision of this review (June 7, 2020), infections are at 7 million individuals in at least 195 countries with ≈400,000 in the mortality column[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn1). Collateral damage to global economies and many professional business and recreational sectors (travel, hospitality/tourism, sport, etc.) is ongoing and widespread due to governmentally imposed lockdowns.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)SARS-CoV-2
+------------------------------------------------------------------
+
+The virus spreads primarily from respiratory droplets of infected individuals ([**Figure 1**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f1)) in enclosed spaces, and to a much lesser extent by fomites, to mucosal epithelial cells in the upper airway and oral cavity ([Pambuccian, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B36)). Here, the virus uses its trimeric Spike protein to latch onto host cell ACE2 (angiotensin-converting enzyme-2) receptor binding sites ([**Figure 1**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f1)), _via_ the receptor-binding domain (RBD) of this glycoprotein in the “prefusion” state ([Cyranoski, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B13); [Walls et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B47); [Wrapp et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B52); [Yuan et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B56)). Proteases such as TMPRSS-2/furin cleave viral Spike ([**Figure 1**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f1)) to enable membranes of the virus and host cell to fuse ([Hoffmann et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B22); [Oberfeld et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B34)). The virus enters cells by endocytosis. The 30 kb single-stranded plus-strand RNA is released directly into the cytoplasm and hijacks the cell to translate the viral replication-transcription complex (RTC) in a double membrane vesicle. The RTC then produces RNAs that translate into protein, the ORFs coding for 16 nonstructural proteins, four main structural proteins and other special proteins ([Oberfeld et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B34)). Virions are assembled with RNA encased by nucleocapsid (N) and a “coat” consisting of membrane (M), envelope (E) and spike (S) proteins. Once released, the viral particles can infect cells in the lower airways (Type II pneumocytes) and enterocytes in the gastrointestinal tract ([Bao et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B4); [Lamers et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B27)).
+
+### Figure 1.
+
+[![Image 1: Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1fdd/7317023/b6c83e78f6fa/fphar-11-00937-g001.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7317023_fphar-11-00937-g001.jpg)
+
+Transmission and life-cycle of SARS-CoV-2 causing COVID-19. SARS-CoV-2 is transmitted _via_ respiratory droplets of infected cases to oral and respiratory mucosal cells. The virus, possessing a single-stranded RNA genome wrapped in nucleocapsid (N) protein and three major surface proteins: membrane (M), envelope (E) and Spike, replicates and passes to the lower airways potentially leading to severe pneumonia. The gateway to host cell entry (magnified view) is _via_ Spike-converting enzyme 2 (ACE2) interaction with cleavage of Spike in the prefusion state by proteases TMPRSS-2/furin. A simplified depiction of the life cycle of the virus is shown along with potential immune responses elicited.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)COVID-19: Symptomatology, Clinical Disease, and Potential Therapies
+---------------------------------------------------------------------------------------------------------------------------
+
+Clinical symptoms of infection, although highly variable, are fever, dry and persistent cough, fatigue, anosomia/dysgeusia, loss of appetite and dyspnea but a plethora of other signs may, or may not, be present (e.g. headaches, sore throat, myalgia, rigors, intestinal discomfort/diarrhea, ocular manifestations, etc) ([Guan et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B21); [Oberfeld et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B34); [Vetter et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B45)). Severe symptoms leading to hospitalization that progress rapidly to hypoxia and respiratory distress requiring supplemental oxygen and ventilator support are most prevalent in the elderly with underlying comorbidities ([Du et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B16)). However, an unusual presentation in children, similar to Kawasaki Disease, termed MIS-C (multisystem inflammatory disease in children) is emerging ([Viner and Whittaker, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B46)). Why many viral-positive individuals are asymptomatic, or exhibit only minor cold symptoms, remains incompletely understood. Increasingly clear is the multifocal nature of COVID-19 pathogenesis with SARS-CoV-2 sometimes instigating destruction to blood vessel endothelial cells leading to coagulopathy and strokes, as well as potential kidney and neurological problems ([Sardu et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B37)). Blood sampling in moderate-severe cases may reveal lymphocytopenia, elevation of inflammatory markers like C-reactive protein (CRP) and the cytokine interleukin 6 (IL-6), along with a pro-coagulant state exhibiting elevated D-dimer (a fibrin-degradation product), indicative of an immune response out of control called a cytokine storm ([Chen G. et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B10)). There are no therapies or preventative vaccines for our immune naïve global population. Hundreds of existing drugs and a common vaccine, repurposed for COVID-19, are undergoing clinical trials. The existing vaccine being studied in the Netherlands and Australia is for tuberculosis. BCG (Bacille Calmette-Guérin) has previously shown mixed, but broadly protective, effects against a variety of respiratory infectious diseases ([O'Neill and Netea, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B33)). The early hype revolved around (hydroxy)chloroquine (malaria, autoimmune indications with antiviral properties) but the drug appears to offer minimal benefit for COVID-19 resolution, with the potential for harm, and some clinical trials have been shut down ([Ferner and Aronson, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B17); [Tang et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B41)). Remdesivir, an antiviral drug currently under FDA Emergency Use Authorization (EUA), has shown modest benefit reducing symptoms and recovery by approximately 4 days in one study[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn2) but no effect in another ([Wang Y. et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B50)). Tocilizumab, a recombinant humanized anti-human IL-6 receptor monoclonal antibody, may be effective at rendering the cytokine storm-inducing effects of IL-6 less capable of initiating damage to the airways but more studies are required[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn3). Interferon (IFN)-α2b is looking promising as early results suggest it reduces viral load in the upper airways and can reduce CRP and IL-6 ([Zhou Q. et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B58)). Drug therapy aside, a major step forward in this current pandemic is the generation of a safe and effective preventative vaccine. Several articles have already appeared on this topic ([Ahn et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B1); [Amanat and Krammer, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B2); [Caddy, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B6); [Callaway, 2020a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B7); [Cohen, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B12); [Kim et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B25); [Lurie et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B28); [Wang F. et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B49); [Wu, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B55)). This article deals with a late May 2020 snapshot of the global race for a SARS-CoV-2 vaccine that is taking place at breakneck speed, with a brief prelude on diagnostics and history of vaccines.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)COVID-19 Diagnostics
+----------------------------------------------------------------------------
+
+Knowing the genetic makeup of SARS-CoV-2 is essential for COVID-19 diagnostics. The 30 kb SARS-CoV-2 genome sequence analysis of a patient isolate from Wuhan at the epi-center in China, published in early January 2020, took place swiftly after viral isolation ([Zhou P. et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B57)). From January-May 2020, the genome has been sequenced a multitude of times in clinical isolates obtained from patients around the world ([Mavian et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B30)). The SARS-CoV-2 genome is about 80% similar to that of SARS-CoV-1 and 50% to MERS-CoV but 96% to a bat coronavirus ([Andersen et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B3); [Zhou P et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B57)). Since deciphering the original sequence, some genetic drift is occurring in worldwide cases with mutations even arising in the Spike-encoding region, the key gateway to host entry, which could be altering virulence ([Becerra-Flores and Cardozo, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B5)). Besides the four structural proteins of SARS-CoV-2 mentioned above (S, E, M, N), and the critical RTC, there are several additional open-reading frames (ORFs) encoding nonstructural proteins and a viral protease within the SARS-CoV-2 genome, some with clear functions deduced from prior study with SARS-CoV-1 but others with unknown function ([Ahn et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B1)). Interestingly, ORF3b appears to suppress strongly the important Type I cytokine host immune response by blocking interferon ([Konno et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B26)).
+
+Reverse transcriptase-polymerase chain reaction (RT-PCR) is the hallmark laboratory diagnostic technology to detect viral nucleic acid obtained from nasal swabs. Each jurisdiction around the world has designated screening assays using primer sets from either N, E, RNA-dependent RNA polymerase, ORF1a or ORF1b sequences ([Ahn et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B1)). Reliable COVID-19 diagnostic tests to detect individuals exposed to the virus is of paramount importance. Many asymptomatic infected people and those that have recovered from COVID-19 should carry immunity to further infection ([Danchin and Timmis, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B14)). This includes the production of neutralizing antibodies to SARS-CoV-2 ([Wang C. et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B48)). The hunt is on for rapid detection assays for those immune-privileged individuals. Our colleagues have carried out detailed analyses of over 300 viral antigen/serological antibody tests seeking approval (or already with EUA) for this important area ([Ghaffari et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B19)).
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Generating the “Ideal” Vaccine for Protection Against COVID-19
+----------------------------------------------------------------------------------------------------------------------
+
+### Timelines for Vaccine Development
+
+Vaccines are one of the monumental achievements in human medical intervention to mitigate the dispersion and impact of infectious disease. Polio was a serious crippling disorder for decades until the development of two separate vaccine candidates by Jonas Salk and Albert Sabin ([Melnick, 1996](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B31)). From the time of the first polio outbreak in the United States to testing and development was almost 60 years[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn4) ([**Figure 2**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f2)). More recently, a vaccine for the lethal infectious hemorrhagic fever elicited by Ebola disease took on a substantially different timeline with development by a Canadian team ([Jones et al., 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B24)) preceding the worst outbreak in Western Africa in 2014, with the disease first described in isolated cases in 1976. Taking into account the prolonged development and testing phases it still took at least 15 years ([**Figure 2**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f2)) for authorized clinical use of an Ebola vaccine[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn5). Looking at the other coronavirus disease-causing outbreaks (SARS and MERS) that led to regional epidemics in various countries, the impetus was strong initially to develop vaccines but fizzled out with their spontaneous resolution. Although vaccine candidates were brought forward for both SARS-CoV-1 and MERS, and projects continue, there are still no approved vaccines for either infectious agent 17 and 6 years, respectively ([de Wit et al., 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B15); [Song et al., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B40)), since the original outbreaks ([**Figure 2**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f2)). In view of this, the bar is set high for developing an effective vaccine targeting COVID-19. Will SARS-CoV-2 go the same direction as the other coronaviruses, or will it become a seasonal outbreak like influenza and persist as a moderately benign to severe nuisance-causing infectious disorder that lasts for years?
+
+#### Figure 2.
+
+[![Image 2: Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1fdd/7317023/61634fd523f4/fphar-11-00937-g002.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7317023_fphar-11-00937-g002.jpg)
+
+Timelines for the development of various vaccines for polio, Ebola virus, and three betacoronaviruses (SARS-CoV-1, MERS-CoV and SARS-CoV-2). On the left side of each timeline is a reference point for the first clinical case description and/or first recognized cases) for each type of viral infection. Significant events are depicted along the timeline (not according to scale). Solid horizontal red bars indicate the approximate period from first outbreak/vaccine to clinically approved use. Dotted red lines indicate no availability of vaccines since first outbreak and the green dotted line represents a rapid emergency use authorization timeline for a putative SARS-CoV-2 vaccine.
+
+### Current Context for COVID-19 Vaccine Development
+
+Given the worldwide magnitude of the COVID-19 pandemic and comparisons to the great Spanish flu of 1918, the race for a vaccine candidate has taken on unprecedented urgency and commitment across the globe. Established organizations are maintaining databases of vaccines under development including the [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn6) (WHO), the [Coalition for Epidemic Preparedness Innovations](https://cepi.net/covid-19/)[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn7) (CEPI), the [Milken Institute](https://milkeninstitute.org/covid-19-tracker)[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn8) (a nonprofit think-tank out of California), and Biocentury Inc[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn9) (a partner to the biopharmaceutical industry). Unparalleled data sharing and collaborative team efforts are breaking down barriers in an attempt to reduce the time from the usual 10+ years for an approved vaccine down to 12–18 months. [CEPI](https://cepi.net/covid-19/), the [Biomedical Advanced Research and Development Authority](https://www.medicalcountermeasures.gov/app/barda/coronavirus/COVID19.aspx)[10](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn10) (BARDA), [GAVI, The Vaccine Alliance](https://www.gavi.org/)[11](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn11) (formerly Global Alliance for Vaccines and Immunization), various governments and other sources are either pouring money into the efforts to fund projects or providing logistical support with additional initiatives. One such initiative is the strategic alliance ACTIV[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn12) (Accelerating COVID-19 Therapeutic Interventions and Vaccines), a public-private initiative bringing together more than a dozen leading biopharmaceutical companies, the CDC (Centers for Disease Control and Prevention), FDA (U.S. Food and Drug Administration), and EMA (European Medicines Agency) to develop an international strategy for a coordinated research response to the COVID-19 pandemic. Another massive undertaking to expedite the process is [Operation Warp Speed](https://www.cnn.com/2020/04/29/politics/operation-warp-speed-coronavirus-vaccine/index.html)[13](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn13), which includes scientists, pharmaceutical companies and US federal officials and is being compared to the Manhattan Project[14](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn14)
+
+What does the “ideal” vaccine look like for COVID-19 prevention? In clinical terms, three main factors are essential: (i) a robust immune response generating long-lasting _neutralizing antibodies to SARS-CoV-2_ antigens (e.g. S and/or N) is imperative ([**Figures 1**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f1) and [**3**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f3)). When individuals are infected with foreign antigens on viruses, they evoke both innate and adaptive immune reactions with a coordinated antigen-presenting cell (APC) attack on the virus and T-helper cell activation that leads to B-lymphocytes producing antibodies. In this context, ideally the antibodies will directly interfere with SARS-CoV-2's knack for latching onto epithelial cells and Type II pneumocytes _via_ ACE2 ([**Figure 1**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f1)) in order to neutralize the virus. This would curtail successfully the virus from infecting the host and be protective if an infection resulted. However, there remains critical shortfalls in the current knowledge of what comprises a protective immune response against COVID-19 and how long it lasts [as of May 2020]. (ii) The ideal SARS-CoV-2 vaccine will also induce _potent T-lymphocyte immunity_. Ideally, this would be a well-coordinated, orchestrated T-cell response that includes T-helper and cytotoxic T-lymphocyte subsets that recognize SARS-CoV-2 infected cells in the body and annihilate them to block viral replication, along with acquisition of memory T-cells to prevent reinfection months to years later. (iii) The candidate vaccine should _limit any serious adverse events (SAEs)_ at the injection site or systemically, for example, fever in infants and young children. In the case of respiratory disorders caused by infectious agents, it is essential that vaccine-associated enhanced respiratory disease (VAERD), antibody-dependent enhancement (ADE), antibody-dependent cellular cytotoxicity (ADCC), complement-dependent cytotoxicity, including cytokine storm-inducing effects are completely avoided ([Graham, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B20); [Hotez et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B23); [Vardhana and Wolchok, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B44)). Some of these clinical sequelae have been associated with past vaccines in development ([**Figure 3**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f3)), with a prominent example that for respiratory syncytial virus (RSV) during the late 1960s ([Graham, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B20)). Since the virus apparently activates complement deposition in small blood vessels of some infected individuals ([Magro et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B29)), blocking adverse host responses is essential. Complement, inflammation, and coagulation systems are intertwined ([Oikonomopoulou et al., 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B35)) and hyperactive in COVID-19 positive cases and the vaccine should not provoke these host response systems.
+
+#### Figure 3.
+
+[![Image 3: Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1fdd/7317023/c06befe051c2/fphar-11-00937-g003.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7317023_fphar-11-00937-g003.jpg)
+
+Development of the “ideal” vaccine for COVID-19 depicted by concentric circles converging to the target. Normally, development occurs in three discrete phases: Research and Development (R&D) involving platform selection, designing targets (e.g. whether that might be selection of an RNA sequence and decisions on nucleoside substitutions, lipid nanoparticle (LNP) formulation, etc, or decisions on how to create a live-attenuated viral preparation) and preclinical testing _in vitro_ in cell culture and _in vivo_ in animals. For SARS-CoV-2 R&D, some of the animal models used are transgenic mice that overexpress the Spike-binding protein ACE-2, Syrian hamsters, ferrets, and non-human primates (NHPs). If encouraging results are apparent in the preclinical phase (indicated by various parameters in green boxes), the candidate vaccine is taken to the second phase, which consists of testing in human volunteers in three stages of clinical trials (Phase I, Phase II, and Phase III). These may be concatenated to expedite approval (e.g. Phase II/III). Due to the pandemic nature of COVID-19, both these outer concentric phases are being pursued simultaneously under expedited approvals with potential for emergency use authorizations. If, and only when, vaccine safety and efficacy is achieved in human volunteers, the logistical operations become the major hurdles to ensure worldwide distribution in a coordinated and inter-connected manner (manufacturing, supply chain distribution, storage, etc.). Vaccine candidates that do not achieve satisfactory results in clinical trials, due to various factors shown in the red boxes, will be dropped from further development. ADE, antibody-dependent enhancement; ADCC, antibody-dependent cellular cytotoxicity; CDC, complement-dependent cellular cytotoxicity; VAERD, vaccine-associated enhanced respiratory disease; AE, adverse event.
+
+In logistical terms, there are a few essential parameters for the ideal candidate vaccine for COVID-19: (i) the vaccine should be _easy to administer and preferably in a single dose_ at the lowest possible amount. An oral or intranasal vaccine would be ideal. (ii) The vaccine should be _facile to produce and scale-up_. Manufacturing millions to billions of doses required to immunize the human population must be feasible and rapid. (iii) _Long-term storage_ of the vaccine at room temperature should be a sought after goal to facilitate transport and stockpiling in underdeveloped nations with inadequate supply chains and cold chain capacities ([**Figure 3**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f3)). The ideal vaccine targeting COVID-19 would fit into a proposed target product profile as described in [**Table 1**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#T1).
+
+#### Table 1.
+
+Target product profile of “ideal” SARS-Cov-2 vaccine targeting COVID-19.
+
+| Indication and Clinical Use |
+| --- |
+| Prophylactic vaccination against SARS-CoV-2 infection of susceptible health-care workers (HCW), children, adolescents and adults. |
+| **Use-case scenarios** |
+| For use in (current) pandemic response and subsequent wave outbreaks. For use in routine immunization, supplementary immunization and stockpiling of vaccine against COVID-19. |
+| **Formulation** |
+| Contains SARS-CoV-2 vaccine in sterile liquid (or other format) for direct oral use or in lyophilized format with simple reconstitution at point of use not requiring end-to-end cold chain. |
+| **Presentation** |
+| Single-use or multidose vial liquid or lyophilized, stored at room temperature. |
+| **Stability** |
+| Thermostable, not light sensitive. The stability of vaccine potency is durable >2 yrs at room temperature. |
+| **Dose regimen and amount** |
+| Single dose 0.5 ml or less, if injectable. A second boosting dose 4-8 weeks later, if necessary. |
+| **Route of administration** |
+| Oral (preferred). Subcutaneous, intradermal, or intramuscular (acceptable). |
+| **Target population** |
+| All individuals aged 9 months and above. |
+| **Target countries** |
+| All countries around the world. |
+| **Safety** |
+| The safety profile should be based on at least two data sets with preferably at least 10,000 subjects over all age groups. |
+| **Immunogenicity** |
+| Phase III clinical studies should include an immunogenicity arm in which serum and blood samples are collected and tested for antibody and cell-mediated immunity. If possible, a minimum serological correlate of protection should be determined based on the short-term and long-term efficacy. |
+| **Interactions** |
+| The SARS-CoV-2 vaccine should not be administered with any other vaccine or it can be administered concomitantly with influenza vaccine at separate sites. |
+| **Pregnancy** |
+| There is limited information on administration of SARS-CoV-2 vaccine to pregnant or lactating women. |
+| **User training requirements** |
+| Minimal training administered by HCW or trained layperson. |
+| **Cost/immunized individual** |
+| COGS should be reasonable to governments of both high- and low-income nations. |
+| **Disposal** |
+| Safe disposal of vials/sharps in biohazard waste at point of use. |
+
+### The Traditional Process Towards Vaccine Development
+
+The normal strides taken to achieve successful vaccine development are similar to those for any drug. The process should be very stringent seeing that it will culminate in administration of the vaccine candidate to billions of humans. The typical paradigm is depicted in [**Figure 3**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f3) and is explained in the legend.
+
+### The Platforms Currently Exploited for SARS-CoV-2 Vaccine Development
+
+The scientific publications to date ([Ahn et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B1); [Amanat and Krammer, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B2); [Caddy, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B6); [Callaway, 2020a](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B7); [Callaway, 2020b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B8); [Cohen, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B12); [Chen WH et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B11); [Kim et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B25); [Lurie et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B28); [Thanh Le et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B42); [Wang F et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B49); [Wu, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B55)), as well as databases mentioned above, have various formats for classifying vaccine platforms. In our analysis, we consider seven main platforms of vaccine development, along with an eighth catch-all “Other” category ([**Figure 4**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f4)). There are two nucleic acid platforms: _DNA_ (12 candidates) and _RNA_ (20+ candidates), which could be sub-divided further according to particular traits related to delivery and carriers (e.g. electroporation with special devices intradermally vs oral formulation or LNPs vs exosomes) but for simplicity are considered only as two categories. These nucleic acid platforms belong to the new generation of vaccines. Neither has reached licensing for human use but a number are being tested in humans ([Cohen, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B12)). A third category termed “_Protein-based_” (also referred to as “subunit” vaccine) includes a broad range of technologies to prepare immune-stimulating viral protein antigens and represents the largest category of all current COVID-19 vaccine candidates (currently 44+) in development. Like nucleic acids, protein-based vaccines represent a newer technology but some are already in use in the clinical realm (e.g. Gardasil for human papillomavirus). The fourth and fifth categories are _viral-based vectors_, similar to those used in gene therapy and include _nonreplicating_ (16+ candidates) and _replicating_ (14+ candidates) vectors. The next two are the _SARS-CoV-2 viruses_ themselves, either _inactivated_ (usually with a chemical such as β-propriolactone, which chemically inactivates enveloped viruses and can inhibit viral membrane fusion in a dose-dependent manner)([Gao et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B18)) or in a _live-attenuated_ version, generated by techniques such as codon deoptimization or serial passaging in cell culture ([Mueller et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B32)). The “_Other_” category includes virus-like particles (VLPs), the use of non–SARS-CoV-2 virus carriers such as killed rabies (CORAVAX) and live modified horsepox (TX-1800). There are 10+ in this category. Repurposed existing vaccines for polio or tuberculosis to evoke general immunity, various cellular immunotherapies to stimulate the host immune system, encapsulated convalescent serum, and “unknown” platform designation (listed in The Milken Institute database) are excluded from our analyses ([**Figure 4**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f4)). According to these criteria, there are over 125 SARS-CoV-2 vaccines in development, which is astounding, from all across the globe in such a short time-frame.
+
+#### Figure 4.
+
+[![Image 4: Figure 4](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1fdd/7317023/fef87d8dc36a/fphar-11-00937-g004.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7317023_fphar-11-00937-g004.jpg)
+
+Vaccine candidates in development for SARS-CoV-2. **(A)** For our analyses, we have divided potential vaccines into 7 (seven) main platforms (DNA, RNA, Protein-based, Viral vector-based (non-replicating), Viral vector-based (replicating), Virus (inactivated), and Virus (live, attenuated). An additional “Other” category for those platforms where there is uncertainty from described sources is also included but not shown. The platforms are represented by various simple drawings. LNPs, lipid nanoparticles. **(B)** Numbers of vaccine candidates in development late May 2020, depicted in pie chart format, in each platform. Sources include: The Milken Institute, WHO, BioCentury, and our own investigations. Categorization of platforms differs slightly in each source.
+
+### Advantages and Disadvantages of Vaccine Development Platforms
+
+For the ideal COVID-19 vaccine to reach routine use in humans, it is imperative that the vaccine protects against both clinical disease and viral transmission, in order to break the chain of person-to-person pandemic spread. Some of the advantages/disadvantages of each platform are considered in [**Table 2**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#T2).
+
+#### Table 2.
+
+Advantages/disadvantages of each vaccine platform.
+
+|  | Advantages | Disadvantages |
+| --- | --- | --- |
+| **DNA** | * No handling of infectious material * Can be used in immunocompromised subjects * Reasonable and enduring immune response, both humoral and cell-mediated * No anti-plasmid immune responses allowing for effective boosting (reported by Inovio) * Rapid and scalable manufacturing * Long-term stability * Options for multivalent formulation * Oral formulation possible (Symvivo) | * No approved DNA vaccines, along with real-world experience in the global population * Variable mucosal immunity and other immune responses * Some require special tools for delivery to the sub-dermal layer (Inovio) * Potential risk for host cell genomic integration (though likely small for plasmids) |
+| **RNA** | * Rapid design and production * No handling of infectious material * No potential for insertional mutagenesis * Strong early antiviral responses, both humoral and cell-mediated * Options for multivalent formulation * Scaling up to global-wide production appears feasible but not yet tested | * No approved RNA vaccines, but some clinical testing for other viruses (rabies, influenza) * Inflammatory reactions possible * Most formulations require a cold chain for longevity and stability * Ubiquitous ribonucleases require careful design with substituted nucleosides and skilled formulation of lipid nanoparticle carriers for effective delivery * Boosting likely necessary to achieve robust and long-lasting immunity |
+| **Protein** | * No handling of infectious material * Strong antibody responses * Precedent for successful vaccines of this platform * Viral protein complexes can be formulated to simulate virus patterning (VLPs) | * Need for adjuvants * Scale up of manufacturing can be challenging * Potentially lacking correct glycan shield of native virus |
+| **Viral Vector (both replicating/non-replicating)** | * Years of experience in the gene therapy field studying safety, immune responses * Strong antibody and cellular responses | * Risk for chromosomal integration and oncogenesis * Cannot be used in immunocompromised subjects * Preexisting antibodies to some vectors possible * Potential for inflammatory AEs * Variable immunogenicity * Significant manufacturing hurdles at scale |
+| **Live Virus (attenuated)** | * Proven technology * Strong immune response * Multivalent * Simple formulation, not requiring adjuvants * Proven track record for economical large-scale manufacturing | * Requires dedicated biosafety level facilities * Risk for attenuated virus to regain virulence * Can be complicated to scale up manufacturing |
+| **Virus (inactivated)** | * Proven technology * Strong immune response * Multivalent * Simple formulation, not requiring adjuvants | * Requires dedicated biosafety level facilities * Complicated to scale up manufacturing |
+
+This is by no means an exhaustive list of pros/cons. There exists an enormous challenge for bringing forward an ideal vaccine to treat SARS-CoV-2 infection.
+
+### Representative COVID-19 Vaccines
+
+In this section, we provide some specific details on 16 (of >125) vaccines in the pipeline that are registered for clinical trials or already being tested (as of May 25, 2020), in addition to those that are currently CEPI- and/or BARDA-sponsored from each platform that are, or not yet, in clinical trials. This is to provide a snapshot of the field in early endeavors to procure a functional SARS-CoV-2 vaccine in man and their proposed developmental pipeline ([**Figure 5**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#f5)). One can also refer to [**Table 3**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#T3) for an abbreviated account of the 16 candidates. Where the vaccine candidate's name has not been specified, we refer to it as “Lead.” We do not endorse any particular candidate. CEPI/WHO/BARDA/GAVI and governments are taking the pan-platform approach, recognizing that this is the best path forward.
+
+#### Figure 5.
+
+[![Image 5: Figure 5](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1fdd/7317023/965c5fc9ff4d/fphar-11-00937-g005.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7317023_fphar-11-00937-g005.jpg)
+
+Current 2020 and projected timelines (shown in four quarters, Q1–Q4) for 14 vaccine candidates, grouped by platform, either funded by (CEPI/BARDA, and currently in (or approaching) clinical development for COVID-19. The two candidates using viral vector (replicating) from Pasteur/Themis (Merck) and live attenuated virus (Univ Hong Kong) funded by CEPI, covered in the main text body, are not included here because they are still too early in development and without sufficient information. M, million; B, billion; Ph, Phase. Sources include publicly available company websites.
+
+#### Table 3.
+
+Some SARS-CoV-2 vaccine candidates in the pipeline in (or nearing) clinical trials.
+
+| Platform | Vaccine Name | Company/Research Group/Partners | Target | Stage |
+| --- | --- | --- | --- | --- |
+| DNA | INO-4800 | **Inovio** Pharmaceuticals; CEPI; Beijing Advaccine Biotechnology (China); International Vaccine Institute (Korea); VGXI Inc.; Ology Bioservices; Richter-Helm BioLogics | Spike | Phase I |
+| DNA | bacTRL-Spike | **Symvivo Corporation** | Spike | Phase I (not started yet) |
+| RNA | mRNA-1273 | **Moderna**/NIH-NIAID; CEPI; BARDA; Lonza; Operation Warp Speed | Spike | Phase I/II |
+| RNA | BNT162 (a1, b1, b2, c2) | **BioNTech SE/Pfizer;** Fosun Pharma (China); Operation Warp Speed | 3CLpro, NSP5, Mpro, other | Phase I/II |
+| RNA | “Lead” | **CureVac** AG/Paul Ehrlich Institute; CEPI | Undisclosed | Phase I/IIa (summer 2020) |
+| Protein-based | NVX-CoV2373 | **Novavax**; CEPI; Emergent BioSolutions; Praha Vaccines; Serum Institute of India | Spike (prefusion) | Phase I/II |
+| Protein-based | SCB-2019 | **Clover Biopharmaceuticals**; Clover Australia; CEPI; GSK; Dynavax; Chengdu Hi-Tech Park; Chengdu Clinical Center for Public Health | Spike trimer | Phase I (June 2020) |
+| Protein-based | “Lead” | **University of Queensland**; CEPI; GSK; Dynavax; Cytiva (previously GE Healthcare Life Sciences); Lonza;, Thermo Fisher Scientific; CSL/Seqirus | Spike trimer | Preclinical; Phase I not started |
+| Protein-based | “Lead” | **Sanofi and** GSK; BARDA | Spike | Preclinical; Phase I projected last half 2020 |
+| Viral vector (non-replicating) | AZD1222 (ChAdOx1 nCoV-19) | **University of Oxford (Jenner Institute)/Astra Zeneca** CEPI; Vaccitech Ltd; Serum Institute of India; WuXi Biologics Inc.; Vaccines Manufacturing and Innovation Centre (Pall Life Sciences, a unit of Danaher Corp.); Cobra Biologics AB; Dutch CDMO Halix B.V.; Merck; Oxford Biomedica plc; Advent Srl; Operation Warp Speed | Spike | Phase I/II, Phase II/III starting soon |
+| Viral vector (non-replicating) | Ad5-nCoV | **CanSino Biologics**; Beijing Institute of Biotechnology, Academy of Military Medical Sciences; PLA of China Jiangsu Province Centers for Disease Control and Prevention; Hubei Provincial Center for Disease Control and Prevention, Tongji Hospital; Jiangsu Provincial Center for Disease Control and Prevention; Canadian Immunization Research Network at the Canadian Center for Vaccinology | Spike | Phase II |
+| Viral vector (non-replicating) | Ad26 SARS-CoV-2 | **Johnson & Johnson – Janssen**; BARDA; Emergent BioSolutions Inc.; Beth Israel Deaconess Medical Center; Catalent; Operation Warp Speed | Undisclosed | Preclinical; Phase I projected Sept 2020 |
+| Viral vector (replicating) | “Lead” | **Institut Pasteur – Themis/Merck**; CEPI, University of Pittsburgh; ABL Europe | “selected, incorporated protein antigens from SARS-CoV-2” | Preclinical |
+| Virus (inactivated) | CoronaVac (PiCoVacc) | **Sinovac Biotech**/Sinovac R&D Co; Dynavax | Whole virus (Spike RBD main immunogen) | Phase I/II |
+| Virus (inactivated) | COVID-19 vaccine | China National Pharmaceutical Group, **Sinopharm**; Wuhan Institute of Virology (WIV) | Whole virus | Phase I/II |
+| Virus/Other (attenuated) | “Lead” | **University of Hong Kong**; CEPI | Undisclosed SARS-CoV-2 proteins | Preclinical |
+
+Sources include: WHO, CEPI, The Milken Institute, the COVID-19 Resource Center of Biocentury 6-9
+
+DNA Vaccines
+
+**(i) Name:** INO-4800 ([Smith et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B38)) **Company (Country):**[Inovio](https://www.inovio.com/our-focus-serving-patients/covid-19/) (USA)
+
+**Antigen**: SARS-CoV-2 Spike glycoprotein (S)
+
+**Details of platform**: DNA plasmid encoding S delivered by CELLECTRA® 2000 electroporator
+
+**Route/mode of administration**: intradermal injection followed by electroporation
+
+**Safety of Platform**: Inovio's method has been tested in >2,000 people with >6,000 administrations with a favorable safety and tolerability profile. However, DNA vaccines are not currently in use in humans
+
+**Advantages**: fast design/manufacturing; no cold chain for storage/distribution; robust immune response
+
+**Clinical Trial Registration**: [NCT04336410](https://clinicaltrials.gov/ct2/show/NCT04336410)**Start date**: April 6, 2020
+
+**Official Name of Trial**: Safety, Tolerability and Immunogenicity of INO-4800 for COVID-19 in Healthy Volunteers
+
+**Study design**: Phase I, non-randomized open label with Groups 1 and 2 for 18-50 y.o, n=40 at two clinics (in US); **Dosing Regimen**: Single 1 mg dose of INO-4800 followed by electroporation using the CELLECTRA® 2000 device (Group 1) and dual injections of 1 mg (total 2 mg) of INO-4800 followed by EP using the CELLECTRA® 2000 device per dosing visit at Days 0 and 28; **Endpoints**: Primary – General safety including percentage with adverse events (AEs) and local injection site reactions up to 52 weeks; Ag-specific binding titer and IFN-γ increase from baseline
+
+**Partners**: Beijing Advaccine Biotechnology (China) and International Vaccine Institute (Korea)
+
+**Funding Partners:** Coalition for Epidemic Preparedness Innovations (CEPI), the Bill & Melinda Gates Foundation, and the US Department of Defense
+
+**Manufacturing partners:** VGXI, Inc., Richter-Helm, and Ology Bioservices
+
+**Next stage**: Preliminary data end June 2020; starting Phase II/III late summer/Fall 2020
+
+**Timeline**: 1 million doses of INO-4800 by the end of 2020 (pending regulatory approval)
+
+**(ii) Name:** BacTRL-Spike (a trivalent version is in development) **Company (Country):**[Symvivo](https://www.symvivo.com/covid-19) (Canada)
+
+**Antigen**: SARS-CoV-2 Spike glycoprotein (S)
+
+**Details of platform**: DNA plasmid expressing trimeric S and a hybrid transporter protein within _Bifidobacterium longum_ delivered to colonic epithelial cells to prime an immune response _via_ colonic lymphoid tissues
+
+**Route/mode of administration**: oral ingestion of probiotic capsule
+
+**Safety of Platform**: Extensive worldwide use of probiotics. However, DNA vaccines are not currently on the market for use in humans and this particular strategy is untested.
+
+**Advantages**: fast design and manufacturing; no cold chain for storage and distribution; robust immune response and mucosal immunity predicted
+
+**Clinical Trial Registration**: [NCT04334980](https://clinicaltrials.gov/ct2/show/NCT04334980)**Start date**: June 2020 (projected)
+
+**Official Name of Trial**: A Phase 1, Randomized, Observer-Blind, Placebo-Controlled Trial to Evaluate the Safety, Tolerability and Immunogenicity of the bacTRL-Spike Oral Candidate Vaccine for the Prevention of COVID-19 in Healthy Adults
+
+**Study design**: Phase I, dose-escalating with three cohorts, n=84; **Dosing Regimen**: Single oral dose of BacTRL-Spike at three doses (1, 3, or 10 million bacteria) or placebo in each cohort (with n=63 for vaccine and n=21 for placebo); **Endpoints**: Primary – Incidence and severity of adverse events (AEs) Secondary: Seroconversion, virus stool shedding, protection from COVID-19
+
+**Partners**: none announced
+
+**Funding Partners:** none announced
+
+**Manufacturing partners:** none announced
+
+**Next stage**: Obtain results of Phase I study by end of the year and get 10,000+ enrolled in further Phase II/III studies
+
+**Timeline**: 5000 doses by July 2020 and goal of 10 million doses/week through manufacturing scale up
+
+RNA Vaccines
+
+**(i) Name:** mRNA-1273 (13 candidates in development) **Company (Country):**[Moderna](https://www.modernatx.com/modernas-work-potential-vaccine-against-covid-19) (USA)
+
+**Antigen**: Full-length prefusion stabilized SARS-CoV-2 Spike glycoprotein (S)
+
+**Details of platform**: Non-replicating RNA genetic material mixed with LNP formulation (proprietary ionizable lipid, SM-102, and three commercially available lipids, cholesterol, DSPC, and PEG2000 DMG)
+
+**Route/mode of administration**: i.m. deltoid
+
+**Safety of Platform**: >1500 injections with Moderna's RNA formulations for Zika, RSV, CMV, Chikungunya viruses have taken place in other Phase I and II clinical trials and are generally well-tolerated. No RNA vaccines are currently licensed and approved for use in humans
+
+**Advantages**: fast design and manufacturing; robust immune response
+
+**Clinical Trial Registration**: [NCT04283461](https://clinicaltrials.gov/ct2/show/NCT04283461) ([NCT04405076](https://clinicaltrials.gov/ct2/show/NCT04405076)) **Start date**: March 16, 2020 (IND for Phase II approved May 7 and started early June 2020)
+
+**Official Name of Trial**: Safety and Immunogenicity Study of 2019-nCoV Vaccine (mRNA-1273) for Prophylaxis of SARS-CoV-2 Infection (COVID-19)
+
+**Study design**: Phase I, non-randomized open label with Arms 1–3 for 18–54 y.o., n=15/arm, Arms 4–6 for 55–70 y.o., n=10/arm and Arms 7–9 for 71+ y.o., n=10/arm; **Dosing Regimen**: Dual 25, 100, or 250 μg in 0.5 ml on Days 1 and 29 followed up to 12 months after 2 nd injection; **Endpoints**: Primary – General safety including local reactogenicity and serious adverse events (SAEs) throughout the study duration; Secondary - mean increase general Ab and IgG titers from baseline, percentage subjects with seroconversion at Day 57
+
+**Partners**: NIAID/NIH; Operation Warp Speed
+
+**Funding Partners:** CEPI, BARDA
+
+**Manufacturing partners:** Lonza
+
+**Next stage**: Obtain complete results of Phase I (see interim results below) and get 10,000+ enrolled in Phase II/III studies
+
+**Timeline**: scaling up manufacturing capacity toward the production of millions of doses per month, in the potential form of individual or multidose vials, with goal of 1 billion doses/year
+
+**(ii) Name:** BNT162 **Company (Country):**[BioNtech SE](https://investors.biontech.de/news-releases/news-release-details/biontech-and-pfizer-announce-completion-dosing-first-cohort) (Germany)/Pfizer (USA)
+
+**Antigens**: SARS-CoV-2 3C-like protease (3CLpro), NSP5, SARS-CoV-2 main protease (Mpro)
+
+**Details of platform**: Uridine containing mRNA (uRNA) or nucleoside modified mRNA (modRNA) mixed with proprietary lipoplex formulation for the three antigens, as well as a fourth vaccine candidate self-amplifying mRNA (saRNA)
+
+**Route/mode of administration**: i.m. injection (0.5 ml) prime and boost
+
+**Safety of Platform**: No RNA vaccines are currently licensed and approved for use in humans
+
+**Advantages**: fast design and manufacturing; robust immune response
+
+**Clinical Trial Registration**: [NCT04368728](https://clinicaltrials.gov/ct2/show/NCT04368728) (also [NCT04380701](https://clinicaltrials.gov/ct2/show/NCT04380701); [2020-001038-36](https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-001038-36/DE)) **Start date**: April 29, 2020
+
+**Official Name of Trial**: Study to Describe the Safety, Tolerability, Immunogenicity, and Potential Efficacy of RNA Vaccine Candidates against COVID-19 in Healthy Adults
+
+**Study design**: Phase I/II, randomized, placebo-controlled, observer-blind, dose-finding, and vaccine candidate-selection study in healthy adults. 18 experimental arms each with four vaccine targets (BNT162a1, BNT162b1, BNT162b2, BNT162c2) x 3 age groups (18–55 y.o., 65–85 y.o. and 18–85 y.o.) × 2 dosing time points (timing not specified) × 3 doses (low-, mid-, high-; amounts not specified) + 3 placebo comparator arms carried out in three stages; Stage 1: to identify preferred vaccine candidate(s), dose level(s), number of doses, and schedule of administration (with the first 15 participants at each dose level of each vaccine candidate comprising a sentinel cohort); Stage 2: an expanded-cohort stage; and Stage 3; a final candidate/dose large-scale stage; n=7400; **Dosing Regimen**: Single and dual doses to be tested; **Endpoints**: Primary – General safety, incidence and severity of adverse events (AEs) up to a week after each dose and blood chemistry in sentinel cohort; Secondary: Various immune parameters and incidence of COVID-19
+
+**Partners**: Fosun Pharma (clinical trials in China); Operation Warp Speed
+
+**Funding Partners:** Pfizer
+
+**Manufacturing partners:** Pfizer (3 sites in USA and 1 in Belgium)
+
+**Next stage**: Move quickly through Phase I and recruit up to 8000 volunteers for Phase II
+
+**Timeline**: Millions of doses by year end (for clinical trials in China) and hundreds of millions by end of 2021
+
+**(iii) Name:** “Lead candidate” **Company (Country):**[CureVac AG](https://www.curevac.com/covid-19) (Germany)
+
+**Antigen**: undisclosed
+
+**Details of platform**: Engineered RNA genetic material mixed with LNPs (from either Acuitas or Arcturus) or proprietary CureVac Carrier Molecule
+
+**Route/mode of administration**: presumably i.m. injection
+
+**Safety of Platform**: No RNA vaccines are currently licensed and approved for use in humans but their platform has been tested for vaccine development directed toward other viruses
+
+**Advantages**: fast design and manufacturing; robust immune response
+
+**Clinical Trial Registration**: not yet registered **Start date**: June 2020 (projected)
+
+**Study design**: Phase I in two European sites; **Dosing Regimen**: Single and dual doses to be tested; **Endpoints**: Initial immunogenicity and safety results
+
+**Partners**: Paul Ehrlich Institute
+
+**Funding Partners:** CEPI $8.3M and the EU has promised 80M Euro for scale-up and production; Bill and Melinda Gates Foundation; Defense Advanced Research Projects Agency
+
+**Manufacturing partners:** not announced
+
+**Next stage**: Start Phase I studies in summer 2020 and Phase II projected for Fall 2020
+
+**Timeline**: up to several hundred million doses of bulk RNA/year with their current GMP III facility; a new GMP IV suite will be put into operation within two years where capacity for production of one billion or more doses per year is possible
+
+Recombinant Protein-Based Vaccines
+
+**(i) Name:** NVX-CoV2373 **Company (Country)**: [Novavax](http://ir.novavax.com/news-releases/news-release-details/novavax-receive-388-million-funding-cepi-covid-19-vaccine) (USA)
+
+**Antigen**: Recombinant SARS-CoV-2 Spike protein (S) in prefusion state
+
+**Details of platform**: Recombinant protein is expressed in genetically engineered Sf9 insect cells and the properly folded and post-translationally modified protein is incorporated into a nanoparticle formulation along with Novavax's saponin-based Matrix-M adjuvant
+
+**Route/mode of administration**: i.m. injection to deltoid muscle
+
+**Safety of Platform**: Novavax's platform has been tested in several Phase I, II, III trials for seasonal influenza, Ebola and RSV and appears to be safe
+
+**Advantages**: fast design and relatively rapid production possible
+
+**Clinical Trial Registration**: [NCT04368988](https://clinicaltrials.gov/ct2/show/NCT04368988) Start date: May 15, 2020
+
+**Official Name of Trial**: A 2-Part, Phase I/II, Randomized, Observer-Blinded Study to Evaluate the Safety and Immunogenicity of a SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine (SARS-CoV-2 rS) with or without MATRIX-M™ Adjuvant in Healthy Subjects
+
+**Study design**: Phase I clinical trial (starting in Australia) is a placebo-controlled observer blinded study of about 130 healthy adults followed by Phase II in multiple countries; **Dosing Regimen**: Single and dual doses to be tested at Day 0 and 21, either 5 or 25 μg with 50 μg Matrix M; **Endpoints**: include assessment of dosage amount and number of vaccinations, along with preliminary immunogenicity and safety results
+
+**Partners**: Emergent BioSolutions
+
+**Funding Partners**: CEPI $388 million
+
+**Manufacturing partner**: Emergent BioSolutions; Praha Vaccines and Serum Institute of India
+
+**Next stage**: Preliminary data from Phase I in July, then proceeding to Phase II (2200 volunteers in multiple countries) later in summer with results expected by the end of 2020
+
+**Timeline**: 100 million doses by year-end and a billion by end of 2021
+
+**(ii) Name:** SCB-2019 **Company (Country):**[Clover Biopharmaceuticals Inc.](http://www.cloverbiopharma.com/index.php?m=content&c=index&a=show&catid=11&id=44) (China)
+
+**Antigen**: Recombinant trimeric SARS-CoV-2 Spike protein (S)
+
+**Details of platform**: patented Trimer-Tag® technology to produce a S-Trimer protein subunit vaccine that resembles the native trimeric viral spike _via_ a rapid mammalian cell-culture based expression system
+
+**Route/mode of administration**: i.m. injection to deltoid muscle
+
+**Safety of Platform**: Clover has previously developed recombinant subunit-Trimer vaccines for RSV and Influenza viruses utilizing its Trimer-Tag® technology and has demonstrated that they are able to evoke protective neutralizing antibody responses in multiple animal models and appears to be safe.
+
+**Advantages**: fast design and relatively rapid production possible
+
+**Clinical Trial Registration**: [NCT04405908](https://clinicaltrials.gov/ct2/show/NCT04405908)**Start date**: June 20, 2020 (projected)
+
+**Official Name of Trial**: SCB-2019 as COVID-19 vaccine
+
+**Study design**: Phase I, Randomized, double blind, placebo controlled, n=150, SCB-2019 alone or with two different adjuvants; **Dosing Regimen**: twice (Day 1 and Day 22) at three doses (3, 9, or 30 μg); **Endpoints**: includes assessment of dosage amount, number of vaccinations, along with preliminary immunogenicity and safety results
+
+**Partners**: Chengdu Hi-Tech Park (R&D) and Chengdu Clinical Center for Public Health/Clover Australia (Clinical trials); both GSK and Dynavax (Adjuvants)
+
+**Funding Partners:** CEPI ($3.8 M)
+
+**Manufacturing partner:** Clover has one of the largest in-house, commercial-scale cGMP biomanufacturing capabilities in China and is partnering with GSK to use their Pandemic adjuvant System and Dynavax for their (TLR9 agonist) CpG 2018 adjuvant (the adjuvant used in HEPLISAV-B® [Hepatitis B Vaccine (Recombinant), Adjuvanted], an adult hepatitis B vaccine approved by FDA)
+
+**Next stage**: Get clinical trials underway and evaluate data
+
+**Timeline**: not disclosed yet
+
+**(iii) Name**: “Lead candidate” **Organization (Country):**[University of Queensland (Australia)](https://www.uq.edu.au/news/article/2020/04/uq-covid-19-vaccine-shown-induce-potent-protective-response-pre-clinical-trials)
+
+**Antigen**: Recombinant trimeric SARS-CoV-2 Spike protein (S)
+
+**Details of platform**: molecular clamp platform by synthesizing viral surface proteins, which attach to host cells during infection, and “clamping” them into shape, making it easier for the immune system to recognize them as the correct antigen
+
+**Route/mode of administration**: presumably i.m. injection
+
+**Safety of Platform**: unknown details for this specific platform
+
+**Advantages**: fast design and relatively rapid production possible
+
+**Clinical Trial Registration**: not yet registered **Start date**: July 2020 projected
+
+**Official Name of Trial**: not yet started but will take place in Australia
+
+**Study design**: Phase I not started yet; **Dosing Regimen**: not known; **Endpoints**: not known
+
+**Partners**: Peter Doherty Institute for Infection and Immunity, Melbourne (Vaccine development), Viroclinics Xplore (Preclinical animal studies), GSK (Adjuvant)
+
+**Funding Partners:** CEPI $10.6 M
+
+**Manufacturing partner:** Cytiva (previously GE Healthcare Life Sciences), as well as Lonza and Thermo Fisher Scientific; CSL/Seqirus, Dynavax and GSK will supply adjuvants
+
+**Next stage**: Get clinical trials underway
+
+**Timeline**: not disclosed yet
+
+**(iv) Name**: “Lead candidate” **Company (Country):**[Sanofi/GSK collaboration](https://ca.gsk.com/en-ca/media/press-releases/2020/sanofi-and-gsk-to-join-forces-in-unprecedented-vaccine-collaboration-to-fight-covid-19/) (France/UK)
+
+**Antigen**: Recombinant trimeric SARS-CoV-2 Spike protein (S)
+
+**Details of platform**: Sanofi's recombinant DNA technology and their Sf9 insect cell expression system
+
+**Route/mode of administration**: presumably i.m. injection
+
+**Safety of Platform**: the combination of a protein-based antigen together with an adjuvant, is well-established and used in a number of vaccines available today
+
+**Advantages**: fast design and relatively rapid production possible
+
+**Clinical Trial Registration**: not yet registered **Start date**: July-September 2020 projected
+
+**Official Name of Trial**: not yet named
+
+**Study design**: Phase I not started yet; **Dosing Regimen**: not known; **Endpoints**: not disclosed yet
+
+**Funding Partners:** BARDA
+
+**Manufacturing partners:** both Sanofi and GSK are global leaders in vaccine development and they have the capacity to generate millions of doses
+
+**Next stage**: Get clinical trials underway and complete the development required for availability of a vaccine by the second half of 2021
+
+**Timeline**: not disclosed yet
+
+Viral Vector-Based (Nonreplicating)
+
+(i) **Name**: AZD1222 (formerly ChAdOx1 nCoV-19) **Company (Country):**[University of Oxford/Astra Zeneca collaboration](https://www.astrazeneca.com/media-centre/press-releases/2020/astrazeneca-and-oxford-university-announce-landmark-agreement-for-covid-19-vaccine.html) (UK)
+
+**Antigen**: SARS-CoV-2 Spike glycoprotein (S)
+
+**Details of platform**: AZD1222 derives from a chimpanzee viral vector (ChAdOx1), which is a weakened version of a common cold adenovirus with the Spike-encoding region cloned into the E1 locus. Although it infects this primate, it is genetically altered so that it is incapable of viral spread in humans. The same vector modality is in vaccine candidates for influenza, tuberculosis, Chikungunya and Zika viruses.
+
+**Route/mode of administration**: i.m. injection
+
+**Safety of Platform**: Vaccines made from the ChAdOx1 viral vector platform for over 10 different pathogens have been tested in thousands of volunteers (1 week to 90 y.o.) to date and are safe and well tolerated, although they can cause temporary side effects, such as a temperature elevation, headache or sore arm
+
+**Advantages**: favorable safety and tolerability profile of the platform
+
+**Clinical Trial Registration**: [NCT04324606](https://clinicaltrials.gov/ct2/show/NCT04324606) ([NCT04400838](https://clinicaltrials.gov/ct2/show/NCT04400838); PhII/III) **Start date**: April 23, 2020
+
+**Official Name of Trial**: A Phase I/II Study to Determine Efficacy, Safety and Immunogenicity of the Candidate Coronavirus Disease (COVID-19) Vaccine ChAdOx1 nCoV-19 in UK Healthy Adult Volunteers
+
+**Study design**: Phase I/II single-blinded, randomized multicenter participants recruited in UK; n=1102 volunteers 18–55 y.o. good health, n=551 in active arm ChAdOx1 nCoV-19 and n=551 in control arm using MenACWY vaccine (same vector but against meningitis); **Dosing Regimen**: Single 5 × 10 10 vp (a few dual dose with boost of 2.5 × 10 10 vp) **Endpoints**: Primary - Number of virologically confirmed (PCR positive) symptomatic cases of COVID-19; Occurrence of serious adverse events (SAEs) throughout the study duration; Secondary - safety/tolerability/reactogenicity/immunogenicity
+
+**Partners:** Vaccitech (role taken over by Astra Zeneca); Operation Warp Speed
+
+**Funding Partners:** CEPI, GAVI, BARDA
+
+**Manufacturing partners:** Serum Institute of India and WuXi Biologics Inc., Vaccines Manufacturing and Innovation Centre (Pall Life Sciences, a unit of Danaher Corp.; Cobra Biologics AB; Dutch CDMO Halix B.V.; Merck; and Oxford Biomedica plc, Advent Srl)
+
+**Next stage**: Preliminary human data June 2020; Phase III efficacy of 5000 volunteers by Fall 2020
+
+**Timeline**: 20-40 million doses of AZD1222 by September 2020 and 400 million by end 2020
+
+(ii) **Name**: Ad5-nCoV **Company (Country):**[CanSino Biologics Inc.](http://www.cansinotech.com/) (China)
+
+**Antigen**: Full-length SARS-CoV-2 Spike glycoprotein (S)
+
+**Details of platform**: Ad5 vectors are well studied and can be grown into high titer stable stocks, they infect non-dividing and dividing cells, they are maintained in cells as an episome; the essential E1A and E1B genes are deleted and replaced by an expression cassette with a high activity cytomegalovirus immediate early (CMV) promoter, which drives expression of the target S protein
+
+**Route/mode of administration**: i.m. injection into deltoid
+
+**Safety of Platform**: In general, safe and well tolerated; however, can be dangerous in immunocompromised individuals. One drawback is that there could be pre-existing neutralizing Abs to the Ad5 vector in some adults
+
+**Advantages**: well-tested vector in gene therapy and vaccination trials (MERS and Ebola) but could be difficult for large-scale manufacturing
+
+**Clinical Trial Registration**: (i) [NCT04313127](https://clinicaltrials.gov/ct2/show/NCT04313127); (ii) [ChiCTR2000031781](http://www.chictr.org.cn/showprojen.aspx?proj=52006)/([NCT04341389](https://clinicaltrials.gov/ct2/show/NCT04341389)) **Start date**: (i) March 16, 2020; (ii) April 12, 2020
+
+**Official Name of Trial**: (i) A Single-center, Open-label Dose-escalating Phase I Clinical Trial to Evaluate Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector) in Healthy Adults Aged 18-60 Years Old (ii) A randomized, double-blinded, placebo-controlled phase II clinical trial for Recombinant Novel Coronavirus (2019-nCOV) Vaccine (Adenovirus Vector) in healthy adults aged above 18 years
+
+**Study design**: (i) Phase I, non-randomized open label dose-escalating with three cohorts (low-, middle, high-dose for 18-60 y.o, n=108; (ii) Phase II randomized, double-blinded, placebo-controlled with 3 groups (low- and middle-dose, placebo) n=500; **Dosing Regimen**: (i) Single dose (5 x 10 10, 10 11, 1.5 x 10 11 vp Ad5-nCoV n=36/cohort (ii) single dose (5 x 10 10 vp, n=125; 10 11 vp, n=250; placebo n=125); **Endpoints**: Primary – General safety including any adverse events (AEs) up to 7 (or 14 for Phase II) days after injection; Secondary – Safety up to 6 months and various immunogenicity indices up to 6 months for both Phase I and II trials
+
+**Partners:** vaccine co-developed with Beijing Institute of Biotechnology; Academy of Military Medical Sciences. PLA of China Jiangsu Province Centers for Disease Control and Prevention, Hubei Provincial Center for Disease Control and Prevention, Tongji Hospital);(ii) Jiangsu Provincial Center for Disease Control and Prevention; Canadian Immunization Research Network at the Canadian Center for Vaccinology; (iii) Canadian Center for Vaccinology ([NCT04398147](https://clinicaltrials.gov/ct2/show/NCT04398147))
+
+Funding Partners: CanSino
+
+**Manufacturing partners:** CanSino, others (not known)
+
+**Next stage**: evaluate Phase II trial data and scale-up production
+
+**Timeline**: preliminary data from Phase I just published (see below) but no exact timelines on production and scale-up reported
+
+(iii) **Name**: Ad26 SARS-CoV-2 (+ 2 back ups) **Company (Country):**[Johnson and Johnson](https://www.jnj.com/coronavirus/prevention-and-treatment) (USA)
+
+**Antigen**: undisclosed
+
+**Details of platform**: Janssen's AdVac® and PER.C6® technologies allow for over a million doses to be produced from a 1000 liter bioreactor since the cells grow to high density in suspension culture; the non-replicating Ad26 vector (E1/E3 genes deleted) is likely better than Ad5 since less likelihood of preexisting antibodies to the vector
+
+**Route/mode of administration**: i.m. injection into deltoid
+
+**Safety of Platform**: their particular platform technology is used for an investigational Ebola vaccine in Africa and has also been used for their Zika, RSV and HIV vaccine candidates and appears to be safe
+
+**Advantages**: well-tested vector in gene therapy and vaccination trials with transport/storage at 2-8 °C for 6 months
+
+**Clinical Trial Registration**: not yet registered **Start date**: September 2020 projected
+
+**Official Name of Trial**: not known yet
+
+**Partners:** Janssen Pharmaceutical Companies of Johnson & Johnson, Beth Israel Deaconess Medical Center; Operation Warp Speed
+
+**Funding Partners:** BARDA cofunding $1 billion+
+
+**Manufacturing partners:** Emergent BioSolutions Inc., Catalent
+
+**Next stage**: Quick rollout of Phase I in September and EUA by early 2021
+
+**Timeline**: goal of providing global supply of more than one billion doses of a vaccine (unspecified timing)
+
+Viral Vector-Based (Replicating)
+
+(i) **Name**: “Lead candidate” **Company (Country):**[Institut Pasteur](https://www.pasteur.fr/en/press-area/press-documents/cepi-collaborates-institut-pasteur-consortium-develop-covid-19-vaccine) (France)/Merck (USA)
+
+**Antigen**: undisclosed (“selected, incorporated protein antigens from SARS-CoV-2”)
+
+**Details of platform**: measles vaccine vector exclusively licensed to Themis (purchased by Merck) from Institut Pasteur, with the capacity to insert multiple large recombinant protein antigens includes auto-adjuvant effect by live attenuated replicating vector
+
+**Route/mode of administration**: i.m. injection into deltoid presumably
+
+**Safety of Platform**: the technology that Themis uses to develop its vaccine candidates is based on the measles vaccine, which has been used for decades to immunize safely millions around the world; their approach was used to develop a vaccine candidate against SARS, and CEPI has previously partnered with Themis and Institut Pasteur to harness this technology to develop vaccine candidates against Chikungunya, MERS, and Lassa fever
+
+**Advantages**: proven advanced development and manufacturing capabilities for this platform
+
+**Clinical Trial Registration**: not yet registered **Start date**: September 2020 projected
+
+**Official Name of Trial**: still in preclinical testing phase
+
+**Partners:** University of Pittsburgh
+
+**Funding Partners:** CEPI $4.9 M
+
+**Manufacturing partners:** Merck**/**Themis/ABL Europe
+
+**Next stage**: rollout of Phase I this year
+
+**Timeline**: unspecified timing
+
+Inactivated Virus
+
+(i) **Name**: CoronaVac (formerly PiCoVacc) **Company (Country):**[Sinovac Biotech](https://www.pharmaceutical-business-review.com/news/sinovac-biotech-covid-19-vaccine-trial/) (China)
+
+**Antigen**: whole virus, with initial reports that the RBD within the Spike protein is the main immunogen ([Gao et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B18))
+
+**Details of platform**: the inactivated viral vaccine platform is straightforward and used extensively; here, the CN-2 SARS-CoV-2 virus was plaque-purified and passaged several times in Vero cells prior to inactivation with β-propiolactone, verification of inactivation, followed by stringent purification protocols and mixing with an alum adjuvant ([Gao et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B18))
+
+**Route/mode of administration**: i.m. injection
+
+**Safety of Platform**: vaccines made from inactivated virus are used throughout the world with a generally excellent safety profile
+
+**Advantages**: straightforward process; favorable safety and tolerability profile
+
+**Clinical Trial Registration**: [NCT04352608](https://clinicaltrials.gov/ct2/show/NCT04352608); ([NCT04383574](https://clinicaltrials.gov/ct2/show/NCT04383574)) **Start date**: April 16, 2020
+
+**Official Name of Trial**: A Randomized, Double-Blinded, Placebo-Controlled, Phase I/II Clinical Trial, to Evaluate the Safety and Immunogenicity of the SARS-CoV-2 Inactivated Vaccine in Healthy Adults Aged 18-59 Years
+
+**Study design**: Phase I/II, randomized double-blinded, placebo-controlled with various groups of 18–59 y.o. volunteers, n=744 (n=144 for Phase I and n=600 for Phase II); **Dosing Regimen**: Dual dosing at Day 0 and Day 14 or 28 of medium dose or high dose or placebo in 0.5 ml; **Endpoints**: Primary – General safety including adverse events (AEs) to 28 days and immunogenicity indices compared between day 0 and day 28; Secondary: Safety and various immunogenicity indices up to Day 56
+
+**Partners:** Sinovac Research and Development Co., Ltd.
+
+**Funding Partners:** Advantech Capital and Vivo Capital ($15M)
+
+**Manufacturing partners:** partnering with Dynavax Technologies Corp for use of their adjuvant CpG 1018, which is currently used in an FDA-approved Hepatitis B Vaccine (Recombinant)
+
+**Next stage**: starting Phase III by end of 2020
+
+**Timeline**: 100 million doses/year projected
+
+(ii) **Name**: COVID-19 vaccine **Company (Country):**[Sinopharm](https://www.clinicaltrialsarena.com/news/china-third-covid-19-vaccine-trial/) (China)
+
+**Antigen**: whole virus
+
+**Details of platform**: The inactivated viral vaccine platform is straightforward and used extensively; no details on this particular vaccine could be found
+
+**Route/mode of administration**: i.m. injection
+
+**Safety of Platform**: vaccines made from inactivated virus are used throughout the world with a generally excellent safety profile
+
+**Advantages**: straightforward process; favorable safety and tolerability profile
+
+**Clinical Trial Registration**: [ChiCTR2000031809](http://www.chictr.org.cn/showprojen.aspx?proj=52227); ChiCTR2000032459* **Start date**: April 11, 2020
+
+**Official Name of Trial**: A randomized, double-blind, placebo parallel-controlled phase I/II clinical trial for inactivated Novel Coronavirus Pneumonia vaccine (Vero cells)
+
+**Study design**: Phase I/II randomized, double-blinded, placebo-controlled conducted in Jiaozuo, Henan Province on healthy 6 y.o. and up; 96 volunteers injected by April 23; with n=216 to be injected with either low-, mid-, or hi-doses or placebo n=72 in Phase I; multiple groups in Phase II n=876 to be injected with either low-, mid-, or hi-doses or placebo n=292; **Endpoints**: Primary – adverse events; Secondary – Multiple safety and immunogenicity parameters up to 1 year post-injection
+
+**Partners:** Wuhan Institute of Biological Products under the China National Pharmaceutical Group, Sinopharm, and the Wuhan Institute of Virology (WIV)/Beijing Institute of Biological Products*
+
+**Funding Partners:** not known
+
+**Manufacturing partners:** unknown
+
+**Next stage**: unknown
+
+**Timeline**: unknown
+
+*Two trials are registered in China with different clinical research groups but under “Sinopharm” and it is unclear if they are using the same vaccine candidate*
+
+Live Attenuated Virus/Other
+
+(i) **Name**: “Lead” **Organization (Country):**[University of Hong Kong](https://www.biospectrumasia.com/news/91/15632/cepi-partners-with-hku-for-covid-19-vaccine.html) (China)
+
+**Antigen**: undisclosed which SARS-CoV-2 protein(s) used
+
+**Details of platform**: a weakened version of the flu virus adapted to express surface protein of the COVID-19 virus
+
+**Route/mode of administration**: intranasal
+
+**Safety of Platform**: approach has been used previously to develop preclinical vaccine candidates against MERS
+
+**Advantages**: straightforward process used for several licensed human vaccines; existing infrastructure can be used
+
+**Clinical Trial Registration**: not yet registered **Start date**: July 2020 projected
+
+**Official Name of Trial**: still in preclinical phase
+
+**Funding Partners:** CEPI
+
+**Manufacturing partners:** dependent on mainland China for manufacturing, no specific partner mentioned
+
+**Next stage**: getting Phase I trials underway by summer 2020
+
+**Timeline**: unknown
+
+### Data From First Clinical Trials and NHPs for COVID-19 Vaccines in Development
+
+#### mRNA-1273 Moderna Study
+
+In a May 18 press release of interim data[15](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn15) and ensuing evaluation ([Callaway, 2020c](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B9)), the company reported that in the initial eight participants mRNA-1273 on the two lower doses (25 and 100 µg) evoked neutralizing antibody titer levels reaching or exceeding neutralizing antibody titers generally seen in convalescent sera as measured by a plaque reduction neutralization assay against live SARS-CoV-2. mRNA-1273 was generally safe and well tolerated and provided full protection against viral replication in the lungs in a mouse challenge model. In view of these data, the company is forging on with Phase II and III studies with an anticipated dose for Phase III using between 25 µg and 100 µg RNA. Since the level of neutralizing antibodies against SARS-CoV-2 is generally quite variable, and in some cases undetectable, in people who have recovered from COVID-19 without hospitalization ([Wu et al., 2020b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B54)), it remains to be seen how effective the Moderna vaccine candidate will be at providing long-term immunity. This should come into focus in the upcoming large clinical trials.
+
+#### AZD1222 (ChAdOx1 nCoV-19) University of Oxford Study
+
+In this preclinical trial ([van Doremalen et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B43)), NHPs (rhesus macaques) were administered a very high dose of SARS-CoV-2 after receiving a single dose of the vaccine (very similar to regimen being used in the current clinical trials). The active treatment group of animals (n=6) produced elevated levels of SARS-CoV-2 neutralizing antibodies compared to no increase in the control group (n=3). There were indistinguishable amounts of virus in the nasal compartment compared to control animals but significantly reduced viral load in the lungs. The vaccinated NHPs were free of clinical-grade pneumonia, in contrast to the controls. Although the levels of antibodies and cell-mediated cytokine responses in the vaccinated NHPs were substantial, nobody knows yet whether this level of immune response will be protective in humans and how long that protection will last.
+
+#### Ad5-nCoV CanSino Study
+
+In this complete analysis of Phase I data ([Zhu F. et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B59)) obtained between March 16 and March 27, 2020, n=108 participants (51% male, 49% female; mean age 36 y.o.) with equal numbers receiving low-, mid- and high-doses of the vaccine, there were mild-moderate AEs in 75%–83% in each group (injection site pain, fever, fatigue, headache, and muscle pain) with no SAEs within the first 28 days post-vaccination. Neutralizing antibodies increased significantly in the 14–28 day timeframe post-vaccination, along with specific T-cell responses. The data indicate that this Ad5-vectored COVID-19 vaccine warrants further investigation and they will continue with their Phase II randomized, double-blinded, placebo-controlled study (see above).
+
+#### CoronaVac (PiCoVacc) Sinovac Biotech Study
+
+In this preclinical NHP study ([Gao et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B18)) there was robust SARS-CoV-2-specific neutralizing antibody responses in the rhesus macaques that received three doses of the inactivated virus, which importantly afforded partial to full protection from clinical signs of lung injury after viral challenge. In addition, there were no signs of ADE.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Concluding Remarks
+--------------------------------------------------------------------------
+
+The world is anxiously awaiting a safe, effective vaccine to protect against COVID-19 in order to resume a “normal” lifestyle, free from public health agency/government lockdowns and fear of ongoing pandemic waves over the coming months-years. Never before in the modern era of science has the accumulation of scientific papers in preprint archives (BioRxiv/MedRxiv, ≈5000 preprints) and peer-reviewed publications (PubMed, ≈22,000 papers) reached such exponential heights in such a short period with thousands of “all-things-considered” COVID topics. Mobilization of data sharing and joint global efforts toward this vaccine goal are monumental. It is hoped that the collaborative framework (such as ACTIV, and others around the world) for prioritizing vaccine and drug candidates, streamlining clinical trials, coordinating regulatory processes and/or leveraging assets among various partners to rapidly respond to the COVID-19 and future pandemics will soon be a reality. However, a successful path forward will be challenging and is certainly not guaranteed. For instance, no efficacious and approved vaccine for HIV/AIDS has come forward in over 30 years. The main HIV surface protein for host cell entry is covered in sugars, as is the Spike protein of SARS-CoV-2, but to a lesser extent ([Watanabe et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B51)). Will this site-specific glycan shield provide difficulties in target antigen recognition, if not properly reconstituted, in some of the vaccine platforms? Will it be necessary to target more than just the Spike protein, which most approaches are banking on? Cryptic epitopes for antibody recognition need to be considered ([Yuan et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#B56)) and multivalent formulations may be required to generate effective long-lasting immunity with the ideal target product profile ([**Table 1**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#T1)). SARS-CoV-2 antibody-based therapeutics derived from consortia such as CoVIC[16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn16) (Coronavirus Immunotherapy Consortium) and other research groups/biopharma for COVID-19 have already entered clinical trials[17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#fn17). These biologics, as well as repurposed drugs, will likely provide mid-term solutions while we wait patiently for the much-anticipated vaccine.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Author Contributions
+----------------------------------------------------------------------------
+
+CF and AA conceived the design and concepts. CF wrote the manuscript. CL contributed key information for [**Table 1**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023#T1). All authors contributed to the article and approved the submitted version.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Funding
+---------------------------------------------------------------
+
+This research was funded by Queen's University Special Research Project 379415 (CDF).
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Conflict of Interest
+----------------------------------------------------------------------------
+
+AA is the founder and managing director of Novateur Ventures, Inc. CL is a consultant with Novateur Ventures Inc. CF is a scientific advisor for Novateur Ventures Inc.
+
+CF declares that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Acknowledgments
+-----------------------------------------------------------------------
+
+We thank Ian Dennis for preparation of figures.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Footnotes
+-----------------------------------------------------------------
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)Abbreviations
+---------------------------------------------------------------------
+
+COVID-19, Coronavirus disease 2019; SARS, Severe Acute Respiratory Syndrome; SARS-CoV-1, Severe acute respiratory syndrome coronavirus 1; SARS-CoV-2, Severe acute respiratory syndrome coronavirus 2; MERS, Middle East Respiratory Syndrome; S, SARS-CoV-2 Spike protein; E, SARS-CoV-2 Envelope protein; M, SARS-CoV-2 Membrane protein; N, SARS-CoV-2 Nucleocapsid protein; RBD, receptor-binding domain; TMPRSS-2, transmembrane protease, serine 2; Ab, antibody; Ad, adenovirus; ACE2, angiotensin converting enzyme 2; CMV, cytomegalovirus; RSV, respiratory syncytial virus; CEPI, Coalition for Epidemic Preparedness Innovations; GAVI, GAVI The Vaccine Alliance (formerly Global Alliance for Vaccines and Immunization); BARDA, Biomedical Advanced Research and Development Authority; WHO, World Health Organization; EMA, European Medicines Agency; FDA, Food and Drug Administration; NIH, National Institutes of Health; NIAID, National Institute of Allergy and Infectious Diseases; EUA, emergency use authorization; ACTIV, Accelerating COVID-19 Therapeutic Interventions and Vaccines; EU, European Union; CRP, C-reactive protein; MIS-C, multisystem inflammatory syndrome in children; ORF, open-reading frame; VAERD, vaccine-associated enhanced respiratory disease; ADE, antibody-dependent enhancement; ADCC, antibody-dependent cellular cytotoxicity; CDCC, complement-dependent cellular cytotoxicity; IL-6, interleukin 6; IFN, interferon; LNP, lipid nanoparticle; VLP, virus-like particle; PCR, polymerase chain reaction; EP, electroporation; MenACWY, meningococcal vaccine that protects against four strains of the bacteria – A, C, W and Y; NHP, non-human primate; AE, adverse event; SAE, serious adverse event; HCW, health-care worker; COGS, cost of goods sold; i.m., intramuscular; i.d., intradermal; vp, viral particles; y.o., years old.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7317023)References
+------------------------------------------------------------------
+
+1.    Ahn D. G., Shin H. J., Kim M. H., Lee S., Kim H. S., Myoung J., et al. (2020). Current status of epidemiology, diagnosis, therapeutics, and vaccines for novel coronavirus disease 2019 (COVID-19). J. Microbiol. Biotechnol. 30, 313–324.  10.4014/jmb.2003.03011  [[DOI](https://doi.org/10.4014/jmb.2003.03011)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC9728410/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32238757/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Microbiol.%20Biotechnol.&title=Current%20status%20of%20epidemiology,%20diagnosis,%20therapeutics,%20and%20vaccines%20for%20novel%20coronavirus%20disease%202019%20(COVID-19)&author=D.%20G.%20Ahn&author=H.%20J.%20Shin&author=M.%20H.%20Kim&author=S.%20Lee&author=H.%20S.%20Kim&volume=30&publication_year=2020&pages=313-324&pmid=32238757&doi=10.4014/jmb.2003.03011&)]
+2.    Amanat F., Krammer F. (2020). SARS-CoV-2 vaccines: status report. Immunity 52, 583–589.  10.1016/j.immuni.2020.03.007  [[DOI](https://doi.org/10.1016/j.immuni.2020.03.007)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7136867/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32259480/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Immunity&title=SARS-CoV-2%20vaccines:%20status%20report&author=F.%20Amanat&author=F.%20Krammer&volume=52&publication_year=2020&pages=583-589&pmid=32259480&doi=10.1016/j.immuni.2020.03.007&)]
+3.    Andersen K. G., Rambaut A., Lipkin W. I., Holmes E. C., Garry R. F. (2020). The proximal origin of SARS-CoV-2. Nat. Med. 26, 450–452.  10.1038/s41591-020-0820-9  [[DOI](https://doi.org/10.1038/s41591-020-0820-9)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7095063/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32284615/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Med.&title=The%20proximal%20origin%20of%20SARS-CoV-2&author=K.%20G.%20Andersen&author=A.%20Rambaut&author=W.%20I.%20Lipkin&author=E.%20C.%20Holmes&author=R.%20F.%20Garry&volume=26&publication_year=2020&pages=450-452&pmid=32284615&doi=10.1038/s41591-020-0820-9&)]
+4.    Bao L., Deng W., Huang B., Gao H., Liu J., Ren L., et al. (2020). The pathogenicity of SARS-CoV-2 in hACE2 transgenic mice. Nature.  10.1038/s41586-020-2312-y  [[DOI](https://doi.org/10.1038/s41586-020-2312-y)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32380511/)]
+5.    Becerra-Flores M., Cardozo T. (2020). SARS-CoV-2 viral spike G614 mutation exhibits higher case fatality rate. Int. J. Clin. Pract. e13525.  10.1111/ijcp.13525  [[DOI](https://doi.org/10.1111/ijcp.13525)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7267315/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32374903/)]
+6.    Caddy S. (2020). Developing a vaccine for covid-19. BMJ 369, m1790.  10.1136/bmj.m1790  [[DOI](https://doi.org/10.1136/bmj.m1790)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32366511/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Developing%20a%20vaccine%20for%20covid-19&author=S.%20Caddy&volume=369&publication_year=2020&pages=m1790&pmid=32366511&doi=10.1136/bmj.m1790&)]
+7.    Callaway E. (2020. a). Scores of coronavirus vaccines are in competition - how will scientists choose the best? Nature.  10.1038/d41586-020-01247-2  [[DOI](https://doi.org/10.1038/d41586-020-01247-2)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32355243/)]
+8.    Callaway E. (2020. b). The race for coronavirus vaccines: a graphical guide. Nature 580, 576–577.  10.1038/d41586-020-01221-y  [[DOI](https://doi.org/10.1038/d41586-020-01221-y)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32346146/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=The%20race%20for%20coronavirus%20vaccines:%20a%20graphical%20guide&author=E.%20Callaway&volume=580&publication_year=2020&pages=576-577&pmid=32346146&doi=10.1038/d41586-020-01221-y&)]
+9.    Callaway E. (2020. c). Coronavirus vaccine trials have delivered their first results - but their promise is still unclear. Nature 581, 363–364.  10.1038/d41586-020-01092-3  [[DOI](https://doi.org/10.1038/d41586-020-01092-3)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32433634/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Coronavirus%20vaccine%20trials%20have%20delivered%20their%20first%20results%20-%20but%20their%20promise%20is%20still%20unclear&author=E.%20Callaway&volume=581&publication_year=2020&pages=363-364&pmid=32433634&doi=10.1038/d41586-020-01092-3&)]
+10.    Chen G., Wu D., Guo W., Cao Y., Huang D., Wang H., et al. (2020). Clinical and immunological features of severe and moderate coronavirus disease 2019. J. Clin. Invest. 130, 2620–2629.  10.1172/JCI137244  [[DOI](https://doi.org/10.1172/JCI137244)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190990/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32217835/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Clin.%20Invest.&title=Clinical%20and%20immunological%20features%20of%20severe%20and%20moderate%20coronavirus%20disease%202019&author=G.%20Chen&author=D.%20Wu&author=W.%20Guo&author=Y.%20Cao&author=D.%20Huang&volume=130&publication_year=2020&pages=2620-2629&pmid=32217835&doi=10.1172/JCI137244&)]
+11.    Chen W. H., Strych U., Hotez P. J., Bottazzi M. E. (2020). The SARS-CoV-2 vaccine pipeline: an overview. Trop. Med. Rep. 3, 1–4.  10.1007/s40475-020-00201-6  [[DOI](https://doi.org/10.1007/s40475-020-00201-6)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7094941/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32219057/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Trop.%20Med.%20Rep.&title=The%20SARS-CoV-2%20vaccine%20pipeline:%20an%20overview&author=W.%20H.%20Chen&author=U.%20Strych&author=P.%20J.%20Hotez&author=M.%20E.%20Bottazzi&volume=3&publication_year=2020&pages=1-4&pmid=32219057&doi=10.1007/s40475-020-00201-6&)]
+12.    Cohen J. (2020). Vaccine designers take first shots at COVID-19. Science 368, 14–16.  10.1126/science.368.6486.14  [[DOI](https://doi.org/10.1126/science.368.6486.14)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32241928/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Science&title=Vaccine%20designers%20take%20first%20shots%20at%20COVID-19&author=J.%20Cohen&volume=368&publication_year=2020&pages=14-16&pmid=32241928&doi=10.1126/science.368.6486.14&)]
+13.    Cyranoski D. (2020). Profile of a killer: the complex biology powering the coronavirus pandemic. Nature 581, 22–26.  10.1038/d41586-020-01315-7  [[DOI](https://doi.org/10.1038/d41586-020-01315-7)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32367025/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=Profile%20of%20a%20killer:%20the%20complex%20biology%20powering%20the%20coronavirus%20pandemic&author=D.%20Cyranoski&volume=581&publication_year=2020&pages=22-26&pmid=32367025&doi=10.1038/d41586-020-01315-7&)]
+14.    Danchin A., Timmis K. (2020). SARS-CoV-2 variants: Relevance for symptom granularity, epidemiology, immunity (herd, vaccines), virus origin and containment? Environ. Microbiol. 22, 2001–2006.  10.1111/1462-2920.15053  [[DOI](https://doi.org/10.1111/1462-2920.15053)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7267449/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32367648/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Environ.%20Microbiol.&title=SARS-CoV-2%20variants:%20Relevance%20for%20symptom%20granularity,%20epidemiology,%20immunity%20(herd,%20vaccines),%20virus%20origin%20and%20containment&author=A.%20Danchin&author=K.%20Timmis&volume=22&publication_year=2020&pages=2001-2006&pmid=32367648&doi=10.1111/1462-2920.15053&)]
+15.    de Wit E., van Doremalen N., Falzarano D., Munster V. J. (2016). SARS and MERS: recent insights into emerging coronaviruses. Nat. Rev. Microbiol. 14, 523–534.  10.1038/nrmicro.2016.81  [[DOI](https://doi.org/10.1038/nrmicro.2016.81)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7097822/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27344959/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Rev.%20Microbiol.&title=SARS%20and%20MERS:%20recent%20insights%20into%20emerging%20coronaviruses&author=E.%20de%20Wit&author=N.%20van%20Doremalen&author=D.%20Falzarano&author=V.%20J.%20Munster&volume=14&publication_year=2016&pages=523-534&pmid=27344959&doi=10.1038/nrmicro.2016.81&)]
+16.    Du Y., Tu L., Zhu P., Mu M., Wang R., Yang P., et al. (2020). Clinical Features of 85 Fatal Cases of COVID-19 from Wuhan: A retrospective observational study. Am. J. Respir. Crit. Care Med. 201, 1372–1379.  10.1164/rccm.202003-0543OC  [[DOI](https://doi.org/10.1164/rccm.202003-0543OC)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7258652/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32242738/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am.%20J.%20Respir.%20Crit.%20Care%20Med.&title=Clinical%20Features%20of%2085%20Fatal%20Cases%20of%20COVID-19%20from%20Wuhan:%20A%20retrospective%20observational%20study&author=Y.%20Du&author=L.%20Tu&author=P.%20Zhu&author=M.%20Mu&author=R.%20Wang&volume=201&publication_year=2020&pages=1372-1379&pmid=32242738&doi=10.1164/rccm.202003-0543OC&)]
+17.    Ferner R. E., Aronson J. K. (2020). Chloroquine and hydroxychloroquine in covid-19. BMJ 369, m1432.  10.1136/bmj.m1432  [[DOI](https://doi.org/10.1136/bmj.m1432)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32269046/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Chloroquine%20and%20hydroxychloroquine%20in%20covid-19&author=R.%20E.%20Ferner&author=J.%20K.%20Aronson&volume=369&publication_year=2020&pages=m1432&pmid=32269046&doi=10.1136/bmj.m1432&)]
+18.    Gao Q., Bao L., Mao H., Wang L., Xu K., Yang M., et al. (2020). Rapid development of an inactivated vaccine candidate for SARS-CoV-2. Science, eabc1932.  10.1126/science.abc1932  [[DOI](https://doi.org/10.1126/science.abc1932)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7202686/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32376603/)]
+19.    Ghaffari A., McGill I., Ardakani A. (2020). Trends in COVID-19 diagnostic test development. BioProcess Int. 18 (6), 34–45.  [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BioProcess%20Int.&title=Trends%20in%20COVID-19%20diagnostic%20test%20development&author=A.%20Ghaffari&author=I.%20McGill&author=A.%20Ardakani&volume=18&issue=6&publication_year=2020&pages=34-45&)]
+20.    Graham B. S. (2020). Rapid COVID-19 vaccine development. Science 368, 945–946.  10.1126/science.abb8923  [[DOI](https://doi.org/10.1126/science.abb8923)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32385100/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Science&title=Rapid%20COVID-19%20vaccine%20development&author=B.%20S.%20Graham&volume=368&publication_year=2020&pages=945-946&pmid=32385100&doi=10.1126/science.abb8923&)]
+21.    Guan W. J., Ni Z. Y., Hu Y., Liang W. H., Ou C. Q., He J. X., et al. (2020). Clinical characteristics of coronavirus disease 2019 in China. N. Engl. J. Med. 382, 1708–1720.  10.1056/NEJMoa2002032  [[DOI](https://doi.org/10.1056/NEJMoa2002032)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7092819/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32109013/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N.%20Engl.%20J.%20Med.&title=Clinical%20characteristics%20of%20coronavirus%20disease%202019%20in%20China&author=W.%20J.%20Guan&author=Z.%20Y.%20Ni&author=Y.%20Hu&author=W.%20H.%20Liang&author=C.%20Q.%20Ou&volume=382&publication_year=2020&pages=1708-1720&pmid=32109013&doi=10.1056/NEJMoa2002032&)]
+22.    Hoffmann M., Kleine-Weber H., Pöhlmann S. (2020). A multibasic cleavage site in the spike protein of SARS-CoV-2 is essential for infection of human lung cells. Mol. Cell. 78, 779–784.e5.  10.1016/j.molcel.2020.04.022  [[DOI](https://doi.org/10.1016/j.molcel.2020.04.022)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7194065/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32362314/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Mol.%20Cell.&title=A%20multibasic%20cleavage%20site%20in%20the%20spike%20protein%20of%20SARS-CoV-2%20is%20essential%20for%20infection%20of%20human%20lung%20cells&author=M.%20Hoffmann&author=H.%20Kleine-Weber&author=S.%20P%C3%B6hlmann&volume=78&publication_year=2020&pages=779-784.e5&pmid=32362314&doi=10.1016/j.molcel.2020.04.022&)]
+23.    Hotez P. J., Corry D. B., Bottazzi M. E. (2020). COVID-19 vaccine design: the Janus face of immune enhancement. Nat. Rev. Immunol. 20, 347–348.  10.1038/s41577-020-0323-4  [[DOI](https://doi.org/10.1038/s41577-020-0323-4)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7187801/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32346094/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Rev.%20Immunol.&title=COVID-19%20vaccine%20design:%20the%20Janus%20face%20of%20immune%20enhancement&author=P.%20J.%20Hotez&author=D.%20B.%20Corry&author=M.%20E.%20Bottazzi&volume=20&publication_year=2020&pages=347-348&pmid=32346094&doi=10.1038/s41577-020-0323-4&)]
+24.    Jones S. M., Feldmann H., Ströher U., Geisbert J. B., Fernando L., Grolla A., et al. (2005). Live attenuated recombinant vaccine protects nonhuman primates against Ebola and Marburg viruses. Nat. Med. 11, 786–790.  10.1038/nm1258  [[DOI](https://doi.org/10.1038/nm1258)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/15937495/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Med.&title=Live%20attenuated%20recombinant%20vaccine%20protects%20nonhuman%20primates%20against%20Ebola%20and%20Marburg%20viruses&author=S.%20M.%20Jones&author=H.%20Feldmann&author=U.%20Str%C3%B6her&author=J.%20B.%20Geisbert&author=L.%20Fernando&volume=11&publication_year=2005&pages=786-790&pmid=15937495&doi=10.1038/nm1258&)]
+25.    Kim Y. C., Dema B., Reyes-Sandoval A. (2020). COVID-19 vaccines: breaking record times to first-in-human trials. NPJ Vaccines. 5, 34.  10.1038/s41541-020-0188-3  [[DOI](https://doi.org/10.1038/s41541-020-0188-3)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7193619/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32377399/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=NPJ%20Vaccines.&title=COVID-19%20vaccines:%20breaking%20record%20times%20to%20first-in-human%20trials&author=Y.%20C.%20Kim&author=B.%20Dema&author=A.%20Reyes-Sandoval&volume=5&publication_year=2020&pages=34&pmid=32377399&doi=10.1038/s41541-020-0188-3&)]
+26.    Konno Y., Kimura I., Uriu K., Fukushi M., Irie T., Koyanagi Y., et al. (2020). SARS-CoV-2 ORF3b is a potent interferon antagonist whose activity is further increased by a naturally occurring elongation variant. bioRxiv preprint.  10.1101/2020.05.11.088179  [[DOI](https://doi.org/10.1101/2020.05.11.088179)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7473339/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32941788/)]
+27.    Lamers M. M., Beumer J., van der Vaart J., Knoops K., Puschhof J., Breugem T.I., et al. (2020). SARS-CoV-2 productively infects human gut enterocytes. Science, eabc1669.  10.1126/science.abc1669  [[DOI](https://doi.org/10.1126/science.abc1669)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7199907/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32358202/)]
+28.    Lurie N., Saville M., Hatchett R., Halton J. (2020). Developing Covid-19 vaccines at pandemic speed. N. Engl. J. Med. 382, 1969–1973.  10.1056/NEJMp2005630  [[DOI](https://doi.org/10.1056/NEJMp2005630)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32227757/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N.%20Engl.%20J.%20Med.&title=Developing%20Covid-19%20vaccines%20at%20pandemic%20speed&author=N.%20Lurie&author=M.%20Saville&author=R.%20Hatchett&author=J.%20Halton&volume=382&publication_year=2020&pages=1969-1973&pmid=32227757&doi=10.1056/NEJMp2005630&)]
+29.    Magro C., Mulvey J. J., Berlin D., Nuovo G., Salvatore S., Harp J., et al. (2020). Complement associated microvascular injury and thrombosis in the pathogenesis of severe COVID-19 infection: a report of five cases. Transl. Res. 5, S1931–S5244.  10.1016/j.trsl.2020.04.007  [[DOI](https://doi.org/10.1016/j.trsl.2020.04.007)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7158248/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32299776/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Transl.%20Res.&title=Complement%20associated%20microvascular%20injury%20and%20thrombosis%20in%20the%20pathogenesis%20of%20severe%20COVID-19%20infection:%20a%20report%20of%20five%20cases&author=C.%20Magro&author=J.%20J.%20Mulvey&author=D.%20Berlin&author=G.%20Nuovo&author=S.%20Salvatore&volume=5&publication_year=2020&pages=S1931-S5244&pmid=32299776&doi=10.1016/j.trsl.2020.04.007&)]
+30.    Mavian C., Marini S., Prosperi M., Salemi M. (2020). A snapshot of SARS-CoV-2 genome availability up to April 2020 and its implications. JMIR Public Health Surveill. 6, e19170.  10.2196/19170  [[DOI](https://doi.org/10.2196/19170)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7265655/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32412415/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=JMIR%20Public%20Health%20Surveill.&title=A%20snapshot%20of%20SARS-CoV-2%20genome%20availability%20up%20to%20April%202020%20and%20its%20implications&author=C.%20Mavian&author=S.%20Marini&author=M.%20Prosperi&author=M.%20Salemi&volume=6&publication_year=2020&pages=e19170&pmid=32412415&doi=10.2196/19170&)]
+31.    Melnick J. L. (1996). Current status of poliovirus infections. Clin. Microbiol. Rev. 9, 293–300. 10.1128/CMR.9.3.293  [[DOI](https://doi.org/10.1128/CMR.9.3.293)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC172894/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/8809461/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Clin.%20Microbiol.%20Rev.&title=Current%20status%20of%20poliovirus%20infections&author=J.%20L.%20Melnick&volume=9&publication_year=1996&pages=293-300&pmid=8809461&doi=10.1128/CMR.9.3.293&)]
+32.    Mueller S., Stauft C. B., Kalkeri R., Koidei F., Kushnir A., Tasker S., et al. (2020). A codon-pair deoptimized live-attenuated vaccine against respiratory syncytial virus is immunogenic and efficacious in non-human primates. Vaccine 38, 2943–2948.  10.1016/j.vaccine.2020.02.056  [[DOI](https://doi.org/10.1016/j.vaccine.2020.02.056)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7092643/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32107060/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Vaccine&title=A%20codon-pair%20deoptimized%20live-attenuated%20vaccine%20against%20respiratory%20syncytial%20virus%20is%20immunogenic%20and%20efficacious%20in%20non-human%20primates&author=S.%20Mueller&author=C.%20B.%20Stauft&author=R.%20Kalkeri&author=F.%20Koidei&author=A.%20Kushnir&volume=38&publication_year=2020&pages=2943-2948&pmid=32107060&doi=10.1016/j.vaccine.2020.02.056&)]
+33.    O'Neill L. A. J., Netea M. G. (2020). BCG-induced trained immunity: can it offer protection against COVID-19? Nat. Rev. Immunol. 20, 335–337.  10.1038/s41577-020-0337-y  [[DOI](https://doi.org/10.1038/s41577-020-0337-y)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7212510/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32393823/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Rev.%20Immunol.&title=BCG-induced%20trained%20immunity:%20can%20it%20offer%20protection%20against%20COVID-19&author=L.%20A.%20J.%20O%27Neill&author=M.%20G.%20Netea&volume=20&publication_year=2020&pages=335-337&pmid=32393823&doi=10.1038/s41577-020-0337-y&)]
+34.    Oberfeld B., Achanta A., Carpenter K., Chen P., Gilette N. M., Langat P., et al. (2020). SnapShot: COVID-19. Cell 181, 954.  10.1016/j.cell.2020.04.013  [[DOI](https://doi.org/10.1016/j.cell.2020.04.013)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190493/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32413300/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=SnapShot:%20COVID-19&author=B.%20Oberfeld&author=A.%20Achanta&author=K.%20Carpenter&author=P.%20Chen&author=N.%20M.%20Gilette&volume=181&publication_year=2020&pages=954&pmid=32413300&doi=10.1016/j.cell.2020.04.013&)]
+35.    Oikonomopoulou K., Ricklin D., Ward P. A., Lambris J. D. (2012). Interactions between coagulation and complement–their role in inflammation. Semin. Immunopathol. 34, 151–165.  10.1007/s00281-011-0280-x  [[DOI](https://doi.org/10.1007/s00281-011-0280-x)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3372068/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/21811895/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Semin.%20Immunopathol.&title=Interactions%20between%20coagulation%20and%20complement%E2%80%93their%20role%20in%20inflammation&author=K.%20Oikonomopoulou&author=D.%20Ricklin&author=P.%20A.%20Ward&author=J.%20D.%20Lambris&volume=34&publication_year=2012&pages=151-165&pmid=21811895&doi=10.1007/s00281-011-0280-x&)]
+36.    Pambuccian S. E. (2020). The COVID-19 pandemic: implications for the cytology laboratory. J. Am. Soc Cytopathol. 9, 202–211.  10.1016/j.jasc.2020.03.001  [[DOI](https://doi.org/10.1016/j.jasc.2020.03.001)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7104051/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32284276/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Am.%20Soc%20Cytopathol.&title=The%20COVID-19%20pandemic:%20implications%20for%20the%20cytology%20laboratory&author=S.%20E.%20Pambuccian&volume=9&publication_year=2020&pages=202-211&pmid=32284276&doi=10.1016/j.jasc.2020.03.001&)]
+37.    Sardu C., Gambardella J., Morelli M. B., Wang X., Marfella R., Santulli G. (2020). Hypertension, thrombosis, kidney failure, and diabetes: is COVID-19 an endothelial disease? A comprehensive evaluation of clinical and basic evidence. J. Clin. Med. 9, E1417.  10.3390/jcm9051417  [[DOI](https://doi.org/10.3390/jcm9051417)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7290769/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32403217/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Clin.%20Med.&title=Hypertension,%20thrombosis,%20kidney%20failure,%20and%20diabetes:%20is%20COVID-19%20an%20endothelial%20disease?%20A%20comprehensive%20evaluation%20of%20clinical%20and%20basic%20evidence&author=C.%20Sardu&author=J.%20Gambardella&author=M.%20B.%20Morelli&author=X.%20Wang&author=R.%20Marfella&volume=9&publication_year=2020&pages=E1417&pmid=32403217&doi=10.3390/jcm9051417&)]
+38.    Smith T. R. F., Patel A., Ramos S., Elwood D., Zhu X., Yan J., et al. (2020). Immunogenicity of a DNA vaccine candidate for COVID-19. Nat. Commun. 11, 2601.  10.1038/s41467-020-16505-0  [[DOI](https://doi.org/10.1038/s41467-020-16505-0)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7239918/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32433465/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Commun.&title=Immunogenicity%20of%20a%20DNA%20vaccine%20candidate%20for%20COVID-19&author=T.%20R.%20F.%20Smith&author=A.%20Patel&author=S.%20Ramos&author=D.%20Elwood&author=X.%20Zhu&volume=11&publication_year=2020&pages=2601&pmid=32433465&doi=10.1038/s41467-020-16505-0&)]
+39.    Sohrabi C., Alsafi Z., O'Neill N., Khan M., Kerwan A., Al-Jabir A., et al. (2020). World Health Organization declares global emergency: A review of the 2019 novel coronavirus (COVID-19). Int. J. Surg. 76, 71–76.  10.1016/j.ijsu.2020.02.034  [[DOI](https://doi.org/10.1016/j.ijsu.2020.02.034)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7105032/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32112977/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int.%20J.%20Surg.&title=World%20Health%20Organization%20declares%20global%20emergency:%20A%20review%20of%20the%202019%20novel%20coronavirus%20(COVID-19)&author=C.%20Sohrabi&author=Z.%20Alsafi&author=N.%20O%27Neill&author=M.%20Khan&author=A.%20Kerwan&volume=76&publication_year=2020&pages=71-76&pmid=32112977&doi=10.1016/j.ijsu.2020.02.034&)]
+40.    Song Z., Xu Y., Bao L., Zhang L., Yu P., Qu Y., et al. (2019). From SARS to MERS, thrusting coronaviruses into the spotlight. Viruses 11, 59.  10.3390/v11010059  [[DOI](https://doi.org/10.3390/v11010059)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC6357155/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/30646565/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Viruses&title=From%20SARS%20to%20MERS,%20thrusting%20coronaviruses%20into%20the%20spotlight&author=Z.%20Song&author=Y.%20Xu&author=L.%20Bao&author=L.%20Zhang&author=P.%20Yu&volume=11&publication_year=2019&pages=59&pmid=30646565&doi=10.3390/v11010059&)]
+41.    Tang W., Cao Z., Han M., Wang Z., Chen J., Sun W., et al. (2020). Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial. BMJ 369, m1849.  10.1136/bmj.m1849  [[DOI](https://doi.org/10.1136/bmj.m1849)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7221473/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32409561/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Hydroxychloroquine%20in%20patients%20with%20mainly%20mild%20to%20moderate%20coronavirus%20disease%202019:%20open%20label,%20randomised%20controlled%20trial&author=W.%20Tang&author=Z.%20Cao&author=M.%20Han&author=Z.%20Wang&author=J.%20Chen&volume=369&publication_year=2020&pages=m1849&pmid=32409561&doi=10.1136/bmj.m1849&)]
+42.    Thanh Le T., Andreadakis Z., Kumar A., Gómez Román R., Tollefsen S., Saville M., et al. (2020). The COVID-19 vaccine development landscape. Nat. Rev. Drug Discovery 19, 305–306.  10.1038/d41573-020-00073-5  [[DOI](https://doi.org/10.1038/d41573-020-00073-5)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32273591/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Rev.%20Drug%20Discovery&title=The%20COVID-19%20vaccine%20development%20landscape&author=T.%20Thanh%20Le&author=Z.%20Andreadakis&author=A.%20Kumar&author=R.%20G%C3%B3mez%20Rom%C3%A1n&author=S.%20Tollefsen&volume=19&publication_year=2020&pages=305-306&pmid=32273591&doi=10.1038/d41573-020-00073-5&)]
+43.    van Doremalen N., Lambe T., Spencer A., Belij-Rammerstorfer S., Purushotham J. N., Port J. R., et al. (2020). ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques. bioRxiv preprint.  10.1101/2020.05.13.093195  [[DOI](https://doi.org/10.1101/2020.05.13.093195)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33469217/)]
+44.    Vardhana S. A., Wolchok J. D. (2020). The many faces of the anti-COVID immune response. J. Exp. Med. 217, e20200678.  10.1084/jem.20200678  [[DOI](https://doi.org/10.1084/jem.20200678)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7191310/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32353870/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J.%20Exp.%20Med.&title=The%20many%20faces%20of%20the%20anti-COVID%20immune%20response&author=S.%20A.%20Vardhana&author=J.%20D.%20Wolchok&volume=217&publication_year=2020&pages=e20200678&pmid=32353870&doi=10.1084/jem.20200678&)]
+45.    Vetter P., Vu D. L., L'Huillier A. G., Schibler M., Kaiser L., Jacquerioz F. (2020). Clinical features of covid-19. BMJ 369, m1470.  10.1136/bmj.m1470  [[DOI](https://doi.org/10.1136/bmj.m1470)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32303495/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Clinical%20features%20of%20covid-19&author=P.%20Vetter&author=D.%20L.%20Vu&author=A.%20G.%20L%27Huillier&author=M.%20Schibler&author=L.%20Kaiser&volume=369&publication_year=2020&pages=m1470&pmid=32303495&doi=10.1136/bmj.m1470&)]
+46.    Viner R. M., Whittaker E. (2020). Kawasaki-like disease: emerging complication during the COVID-19 pandemic. Lancet 395, 1741–1743.  10.1016/S0140-6736(20)31129-6  [[DOI](https://doi.org/10.1016/S0140-6736(20)31129-6)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7220168/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32410759/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=Kawasaki-like%20disease:%20emerging%20complication%20during%20the%20COVID-19%20pandemic&author=R.%20M.%20Viner&author=E.%20Whittaker&volume=395&publication_year=2020&pages=1741-1743&pmid=32410759&doi=10.1016/S0140-6736(20)31129-6&)]
+47.    Walls A. C., Park Y. J., Tortorici M. A., Wall A., McGuire A. T., Veesler D. (2020). Structure, function, and antigenicity of the SARS-CoV-2 spike glycoprotein. Cell 181, 281–292.e6.  10.1016/j.cell.2020.02.058  [[DOI](https://doi.org/10.1016/j.cell.2020.02.058)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7102599/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32155444/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Cell&title=Structure,%20function,%20and%20antigenicity%20of%20the%20SARS-CoV-2%20spike%20glycoprotein&author=A.%20C.%20Walls&author=Y.%20J.%20Park&author=M.%20A.%20Tortorici&author=A.%20Wall&author=A.%20T.%20McGuire&volume=181&publication_year=2020&pages=281-292.e6&pmid=32155444&doi=10.1016/j.cell.2020.02.058&)]
+48.    Wang C., Li W., Drabek D., Okba N. M. A., van Haperen R., Osterhaus A. D. M. E., et al. (2020). A human monoclonal antibody blocking SARS-CoV-2 infection. Nat. Commun. 11, 2251.  10.1038/s41467-020-16256-y  [[DOI](https://doi.org/10.1038/s41467-020-16256-y)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7198537/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32366817/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nat.%20Commun.&title=A%20human%20monoclonal%20antibody%20blocking%20SARS-CoV-2%20infection&author=C.%20Wang&author=W.%20Li&author=D.%20Drabek&author=N.%20M.%20A.%20Okba&author=R.%20van%20Haperen&volume=11&publication_year=2020&pages=2251&pmid=32366817&doi=10.1038/s41467-020-16256-y&)]
+49.    Wang F., Kream R. M., Stefano G. B. (2020). An evidence based perspective on mRNA-SARS-CoV-2 vaccine development. Med. Sci. Monit. 26, e924700.  10.12659/MSM.924700  [[DOI](https://doi.org/10.12659/MSM.924700)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7218962/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32366816/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Med.%20Sci.%20Monit.&title=An%20evidence%20based%20perspective%20on%20mRNA-SARS-CoV-2%20vaccine%20development&author=F.%20Wang&author=R.%20M.%20Kream&author=G.%20B.%20Stefano&volume=26&publication_year=2020&pages=e924700&pmid=32366816&doi=10.12659/MSM.924700&)]
+50.    Wang Y., Zhang D., Du G., Du R., Zhao J., Jin Y., et al. (2020). Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial. Lancet 395, 1569–1578.  10.1016/S0140-6736(20)31022-9  [[DOI](https://doi.org/10.1016/S0140-6736(20)31022-9)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190303/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32423584/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=Remdesivir%20in%20adults%20with%20severe%20COVID-19:%20a%20randomised,%20double-blind,%20placebo-controlled,%20multicentre%20trial&author=Y.%20Wang&author=D.%20Zhang&author=G.%20Du&author=R.%20Du&author=J.%20Zhao&volume=395&publication_year=2020&pages=1569-1578&pmid=32423584&doi=10.1016/S0140-6736(20)31022-9&)]
+51.    Watanabe Y., Allen J. D., Wrapp D., McLellan J. S., Crispin M. (2020). Site-specific glycan analysis of the SARS-CoV-2 spike. Science, eabb9983.  10.1126/science.abb9983  [[DOI](https://doi.org/10.1126/science.abb9983)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7199903/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32366695/)]
+52.    Wrapp D., Wang N., Corbett K. S., Goldsmith J. A., Hsieh C. L., Abiona O., et al. (2020). Cryo-EM structure of the 2019-nCoV spike in the prefusion conformation. Science 367, 1260–1263.  10.1126/science.abb2507  [[DOI](https://doi.org/10.1126/science.abb2507)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7164637/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32075877/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Science&title=Cryo-EM%20structure%20of%20the%202019-nCoV%20spike%20in%20the%20prefusion%20conformation&author=D.%20Wrapp&author=N.%20Wang&author=K.%20S.%20Corbett&author=J.%20A.%20Goldsmith&author=C.%20L.%20Hsieh&volume=367&publication_year=2020&pages=1260-1263&pmid=32075877&doi=10.1126/science.abb2507&)]
+53.    Wu F., Zhao S., Yu B., Chen Y. M., Wang W., Song Z. G., et al. (2020. a). A new coronavirus associated with human respiratory disease in China. Nature 579, 265–269.  10.1038/s41586-020-2008-3  [[DOI](https://doi.org/10.1038/s41586-020-2008-3)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7094943/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32015508/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=A%20new%20coronavirus%20associated%20with%20human%20respiratory%20disease%20in%20China&author=F.%20Wu&author=S.%20Zhao&author=B.%20Yu&author=Y.%20M.%20Chen&author=W.%20Wang&volume=579&publication_year=2020&pages=265-269&pmid=32015508&doi=10.1038/s41586-020-2008-3&)]
+54.    Wu F., Wang A., Liu M., Wang Q., Chen J., Xia S., et al. (2020. b). Neutralizing antibody responses to SARS-CoV-2 in a COVID-19 recovered patient cohort and their implications. medRxiv preprint.  10.1101/2020.03.30.20047365  [[DOI](https://doi.org/10.1101/2020.03.30.20047365)]
+55.    Wu S. C. (2020). Progress and concept for COVID-19 vaccine development. Biotechnol. J. 15, e2000147.  10.1002/biot.202000147  [[DOI](https://doi.org/10.1002/biot.202000147)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7235517/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32304139/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biotechnol.%20J.&title=Progress%20and%20concept%20for%20COVID-19%20vaccine%20development&author=S.%20C.%20Wu&volume=15&publication_year=2020&pages=e2000147&pmid=32304139&doi=10.1002/biot.202000147&)]
+56.    Yuan M., Wu N. C., Zhu X., Lee C. D., So R. T. Y., Lv H., et al. (2020). A highly conserved cryptic epitope in the receptor binding domains of SARS-CoV-2 and SARS-CoV. Science 368, 630–633.  10.1126/science.abb7269  [[DOI](https://doi.org/10.1126/science.abb7269)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7164391/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32245784/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Science&title=A%20highly%20conserved%20cryptic%20epitope%20in%20the%20receptor%20binding%20domains%20of%20SARS-CoV-2%20and%20SARS-CoV&author=M.%20Yuan&author=N.%20C.%20Wu&author=X.%20Zhu&author=C.%20D.%20Lee&author=R.%20T.%20Y.%20So&volume=368&publication_year=2020&pages=630-633&pmid=32245784&doi=10.1126/science.abb7269&)]
+57.    Zhou P., Yang X. L., Wang X. G., Hu B., Zhang L., Zhang W., et al. (2020). A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature 579, 270–273.  10.1038/s41586-020-2012-7  [[DOI](https://doi.org/10.1038/s41586-020-2012-7)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7095418/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32015507/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Nature&title=A%20pneumonia%20outbreak%20associated%20with%20a%20new%20coronavirus%20of%20probable%20bat%20origin&author=P.%20Zhou&author=X.%20L.%20Yang&author=X.%20G.%20Wang&author=B.%20Hu&author=L.%20Zhang&volume=579&publication_year=2020&pages=270-273&pmid=32015507&doi=10.1038/s41586-020-2012-7&)]
+58.    Zhou Q., Chen V., Shannon C. P., Wei X. S., Xiang X., Wang X., et al. (2020). Interferon-α2b treatment for COVID-19. Front. Immunol.  10.3389/fimmu.2020.01061  [[DOI](https://doi.org/10.3389/fimmu.2020.01061)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7242746/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32574262/)]
+59.    Zhu F. C., Li Y. H., Guan X. H., Hou L. H., Wang W. H., Li J. X., et al. (2020). Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial. Lancet 395, 1845–1854.  10.1016/S0140-6736(20)31208-3  [[DOI](https://doi.org/10.1016/S0140-6736(20)31208-3)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7255193/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32450106/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=Safety,%20tolerability,%20and%20immunogenicity%20of%20a%20recombinant%20adenovirus%20type-5%20vectored%20COVID-19%20vaccine:%20a%20dose-escalation,%20open-label,%20non-randomised,%20first-in-human%20trial&author=F.%20C.%20Zhu&author=Y.%20H.%20Li&author=X.%20H.%20Guan&author=L.%20H.%20Hou&author=W.%20H.%20Wang&volume=395&publication_year=2020&pages=1845-1854&pmid=32450106&doi=10.1016/S0140-6736(20)31208-3&)]
+60.    Zhu N., Zhang D., Wang W., Li X., Yang B., Song J., et al. (2020). A Novel coronavirus from patients with pneumonia in China. N. Engl. J. Med. 382, 727–733.  10.1056/NEJMoa2001017  [[DOI](https://doi.org/10.1056/NEJMoa2001017)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7092803/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/31978945/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N.%20Engl.%20J.%20Med.&title=A%20Novel%20coronavirus%20from%20patients%20with%20pneumonia%20in%20China&author=N.%20Zhu&author=D.%20Zhang&author=W.%20Wang&author=X.%20Li&author=B.%20Yang&volume=382&publication_year=2020&pages=727-733&pmid=31978945&doi=10.1056/NEJMoa2001017&)]

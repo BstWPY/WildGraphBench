@@ -1,0 +1,439 @@
+# Valve announce language-specific user review scores for Steam games
+
+Valve announce language-specific user review scores for Steam games | GamingOnLinux
+
+===============
+
+This website makes use of cookies to enhance your browsing experience and provide additional functionality ->[More info](https://www.gamingonlinux.com/privacy.html)[Deny Cookies](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/#) - [Allow Cookies](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/#)
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/#)
+
+*   [Login](https://www.gamingonlinux.com/index.php?module=login)
+*   [Register](https://www.gamingonlinux.com/register)
+*   [Anti-Cheat](https://www.gamingonlinux.com/anticheat/)
+*   [Mailing List](https://www.gamingonlinux.com/mailinglist/)
+*   [Steam Tracker](https://www.gamingonlinux.com/steam-tracker/)
+*   [Support Us](https://www.gamingonlinux.com/support-us/)
+*   [Tips & Guides](https://www.gamingonlinux.com/guides/)
+*   [Steam Play](https://www.gamingonlinux.com/steamplay/)
+*   [Search Articles](https://www.gamingonlinux.com/search-articles/)
+*   [Contact Us](https://www.gamingonlinux.com/contact-us/)
+*   [Bluesky](https://bsky.app/profile/gamingonlinux.com)
+*   [Discord](https://discord.gg/AghnYbMjYg)
+*   [Search](https://www.gamingonlinux.com/search-articles/)
+*   Theme: - [x]   
+
+*   [![Image 3: GamingOnLinux](https://www.gamingonlinux.com/templates/default/images/logos/icon_xmas.png)](https://www.gamingonlinux.com/ "GamingOnLinux Home")
+*   [GamingOnLinux](https://www.gamingonlinux.com/)
+*   [Sections](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/#)
+    *   [Anti-Cheat](https://www.gamingonlinux.com/anticheat/)
+    *   [Mailing List](https://www.gamingonlinux.com/mailinglist/)
+    *   [Steam Tracker](https://www.gamingonlinux.com/steam-tracker/)
+    *   [Support Us](https://www.gamingonlinux.com/support-us/)
+    *   [Tips & Guides](https://www.gamingonlinux.com/guides/)
+    *   [Steam Play](https://www.gamingonlinux.com/steamplay/)
+    *   [Search Articles](https://www.gamingonlinux.com/search-articles/)
+    *   [Crowdfunded Games](https://www.gamingonlinux.com/crowdfunders)
+
+*   [Contact Us](https://www.gamingonlinux.com/contact-us/)
+    *   [Email Us](https://www.gamingonlinux.com/email-us/)
+    *   [Meet The Team](https://www.gamingonlinux.com/about-us/)
+
+*   [Bluesky](https://bsky.app/profile/gamingonlinux.com)
+*   [Discord](https://discord.gg/AghnYbMjYg)
+
+[![Image 4: search articles](https://www.gamingonlinux.com/templates/default/images/search.svg)](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/#)
+
+Go
+
+[![Image 5: Login](https://www.gamingonlinux.com/templates/default/images/blank_user.svg)](https://www.gamingonlinux.com/index.php?module=login)
+
+*   [Login](https://www.gamingonlinux.com/index.php?module=login)
+
+*   [Register](https://www.gamingonlinux.com/register/)
+
+*   Theme: - [x]   
+
+[![Image 6: Patreon Logo](https://www.gamingonlinux.com/templates/default/images/network-icons/patreon.png) Support us on Patreon](https://www.patreon.com/liamdawe) to keep GamingOnLinux alive. This ensures all of our main content remains free for everyone. Just good, fresh content! Alternatively, you can donate through [![Image 7: PayPal Logo](https://www.gamingonlinux.com/templates/default/images/network-icons/paypal.png) PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P85ZZX9W8HFMW). You can also buy games using our partner links for [GOG](https://af.gog.com/?as=1636858786) and [Humble Store](https://humblebundleinc.sjv.io/rQjXdj). 
+
+We use affiliate links to earn us some pennies. [Learn more](https://www.gamingonlinux.com/ethics.html).
+
+[Valve announce language-specific user review scores for Steam games](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+=================================================================================================================================================================================
+
+By **[Liam Dawe](https://www.gamingonlinux.com/profiles/1/)** - 18 Aug 2025 at 5:34 pm UTC
+
+[11 comments](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/#comments "Comments Link")
+
+Last updated: 18 Aug 2025 at 7:17 pm UTC 
+
+Valve have carefully tweaked the user review system for Steam games, to now include language-specific user review scores.
+
+This new system is on by default for all Steam users, however Valve said they realise changes will bring scrutiny and so there is a [dedicated setting](https://store.steampowered.com/account/preferences/#review_score_preferences) to disable it. If you do disable it, your Steam account will go back to seeing the overall review score from _all_ languages posting Steam reviews.
+
+Why have they done this? As Valve explained, they've grown a lot into having a massive global presence from users from all difference regions. Some games may have translation issues, specific cultural references and so on. Valve feel this language-based review score will help to capture these issues and that "Calculating a language-specific review score means that we can better distil the sentiment of these different groups of customers, and in doing so, better serve potential customers that belong to those groups".
+
+Keeping it all rather transparent, there's a whole new language breakdown section for Steam reviews you can click to open. At the top of the reviews section is this now:
+
+![Image 8: The Steam customer reviews data for Stardew Valley shows overwhelmingly positive reviews, with a total of 786,466 reviews in all languages and 360,169 reviews in English, also overwhelmingly positive; further breakdown and preferences are available](https://uploads.golmedia.net/uploads/articles/article_media/3636359071755538170gol1.jpg)
+
+And when you open the language breakdown you'll get to see the overall score as well:
+
+![Image 9: Steam User Reviews - Language Breakdown of Stardew Valley, with the English review score listed as Overwhelmingly Positive (360,169 reviews)](https://uploads.golmedia.net/uploads/articles/article_media/13438406311755538200gol1.jpg)
+
+Source: [Valve](https://store.steampowered.com/news/app/593110/view/500579345320904529)
+
+Article taken from [GamingOnLinux.com.](https://www.gamingonlinux.com/)
+
+ Tags: [Misc](https://www.gamingonlinux.com/articles/category/misc/), [Steam](https://www.gamingonlinux.com/articles/category/steam/), [Valve](https://www.gamingonlinux.com/articles/category/valve/)
+
+[10 Likes](https://www.gamingonlinux.com/index.php?module=who_likes&article_id=27394)
+
+Share
+
+[![Image 10: Bluesky](https://www.gamingonlinux.com/templates/default/images/network-icons/bluesky.svg)](https://bsky.app/intent/compose?text=Valve%20announce%20language-specific%20user%20review%20scores%20for%20Steam%20games%20https%3A%2F%2Fwww.gamingonlinux.com%2F2025%2F08%2Fvalve-announce-language-specific-user-review-scores-for-steam-games%2F%20via%20%40gamingonlinux.com "Share to Bluesky")
+
+[![Image 11: Mastodon](https://www.gamingonlinux.com/templates/default/images/network-icons/mastodon.svg)](https://toot.kytta.dev/?text=Valve%20announce%20language-specific%20user%20review%20scores%20for%20Steam%20games%20%2D%20https%3A%2F%2Fwww.gamingonlinux.com%2F2025%2F08%2Fvalve-announce-language-specific-user-review-scores-for-steam-games%2F%20%23Linux&url=https%3A%2F%2Fwww.gamingonlinux.com%2F2025%2F08%2Fvalve-announce-language-specific-user-review-scores-for-steam-games%2F&via=@gamingonlinux "Share to Mastodon")
+
+[![Image 12: Reddit](https://www.gamingonlinux.com/templates/default/images/network-icons/reddit.svg)](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.gamingonlinux.com%2F2025%2F08%2Fvalve-announce-language-specific-user-review-scores-for-steam-games%2F&title=Valve+announce+language-specific+user+review+scores+for+Steam+games "Share to Reddit")
+
+[![Image 13: Facebook](https://www.gamingonlinux.com/templates/default/images/network-icons/facebook.svg)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.gamingonlinux.com%2F2025%2F08%2Fvalve-announce-language-specific-user-review-scores-for-steam-games%2F "Share to Facebook")
+
+[![Image 14: Telegram](https://www.gamingonlinux.com/templates/default/images/network-icons/telegram.svg)](https://telegram.me/share/url?url=https%3A%2F%2Fwww.gamingonlinux.com%2F2025%2F08%2Fvalve-announce-language-specific-user-review-scores-for-steam-games%2F&text=Valve+announce+language-specific+user+review+scores+for+Steam+games "Share to Telegram")
+
+**About the author - [Liam Dawe](https://www.gamingonlinux.com/profiles/1/)**
+
+![Image 15: author picture](https://www.gamingonlinux.com/uploads/avatars/author_pictures/Liam%20Dawe963_avatar.jpg)
+
+I am the owner of GamingOnLinux. After discovering Linux back in the days of Mandrake in 2003, I constantly checked on the progress of Linux until Ubuntu appeared on the scene and it helped me to really love it. You can reach me easily by [emailing GamingOnLinux directly](https://www.gamingonlinux.com/email-us/). 
+
+[See more from me](https://www.gamingonlinux.com/search-articles/author/1)
+
+**Some you may have missed, popular articles from the last month:**
+
+[![Image 16: The HP Reverb G2 Omnicept VR headset and its controller are on a beige surface](https://www.gamingonlinux.com/uploads/tagline_gallery/steamframe.jpg)](https://www.gamingonlinux.com/2025/11/hot-on-the-heels-of-the-steam-frame-announcement-steamvr-beta-2-14-1-brings-more-fixes/)
+
+**[Hot on the heels of the Steam Frame announcement, SteamVR Beta 2.14.1 brings more fixes](https://www.gamingonlinux.com/2025/11/hot-on-the-heels-of-the-steam-frame-announcement-steamvr-beta-2-14-1-brings-more-fixes/)**
+
+[![Image 17: Total War: Warhammer III battle scene showcasing a large army clash with flying units, monsters, and traditional troops, under a foggy sky near a fortress-like structure](https://www.gamingonlinux.com/uploads/articles/tagline_images/1270509077id27942gol.jpg)](https://www.gamingonlinux.com/2025/11/humble-choice-for-november-2025-has-total-war-warhammer-iii/)
+
+**[Humble Choice for November 2025 has Total War: WARHAMMER III](https://www.gamingonlinux.com/2025/11/humble-choice-for-november-2025-has-total-war-warhammer-iii/)**
+
+[![Image 18: A field of green grass and purple flowers with mechanical structures and robots](https://www.gamingonlinux.com/uploads/articles/tagline_images/274656372id28004gol.jpg)](https://www.gamingonlinux.com/2025/11/proton-10-0-3-released-bringing-lots-of-improvements-for-gaming-on-linux-steamos-steam-machine/)
+
+**[Proton 10.0-3 released bringing lots of improvements for gaming on Linux, SteamOS, Steam Machine](https://www.gamingonlinux.com/2025/11/proton-10-0-3-released-bringing-lots-of-improvements-for-gaming-on-linux-steamos-steam-machine/)**
+
+[![Image 19: Sandspiel open source logo](https://www.gamingonlinux.com/uploads/articles/tagline_images/439476549id28082gol.jpg)](https://www.gamingonlinux.com/2025/11/sandbox-from-rust-developer-facepunch-is-now-open-source/)
+
+**[s&box from Rust developer Facepunch is now open source](https://www.gamingonlinux.com/2025/11/sandbox-from-rust-developer-facepunch-is-now-open-source/)**
+
+Discover more
+
+gaming
+
+Games
+
+Best video game consoles
+
+Steam
+
+SteamOS
+
+steam
+
+Video game
+
+Gaming Articles
+
+GOG partner game links
+
+New Indie Games
+
+![Image 20: Comments icon](https://www.gamingonlinux.com/templates/default/images/forum_icon.svg) You can also find comments for this article on social media: 
+
+[Mastodon](https://mastodon.social/@gamingonlinux/115050967704625011)[Bluesky](https://bsky.app/profile/gamingonlinux.com/post/3lwowmsn46p2b)
+
+**All posts need to [follow our rules](https://www.gamingonlinux.com/index.php?module=rules). Please hit the Report Flag icon on any post that breaks the rules or contains illegal / harmful content. Readers can also [email us](https://www.gamingonlinux.com/email-us/) for any issues or concerns.**
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+11 comments [Subscribe](https://www.gamingonlinux.com/index.php?module=articles_full&go=subscribe&article_id=27394)
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+![Image 21: Ubuntu](https://www.gamingonlinux.com/templates/default/images/distros/Ubuntu.svg)[elmapul](https://www.gamingonlinux.com/profiles/1794)18 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282354 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282354 "Link to this comment")
+
+ when we think steam is feature complete, they find another way to inovate, and in this case, this sound like an obvious feature to add, im surprised no one thought of that before. 
+
+1 Likes, [Who?](https://www.gamingonlinux.com/index.php?module=who_likes&comment_id=282354)
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+![Image 22: Void](https://www.gamingonlinux.com/templates/default/images/distros/Void.svg)[Vigil](https://www.gamingonlinux.com/profiles/15873)18 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282355 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282355 "Link to this comment")
+
+*   Supporter
+[View PC info](javascript:;)
+
+ In the settings, I see:
+
+> * Exclude reviews that are off-topic and from other languages
+> 
+> * Include reviews from all Steam purchases
+
+ No option to "include all languages, exclude off-topic"? 
+
+2 Likes, [Who?](https://www.gamingonlinux.com/index.php?module=who_likes&comment_id=282355)
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+![Image 23: Debian](https://www.gamingonlinux.com/templates/default/images/distros/Debian.svg)[Eike](https://www.gamingonlinux.com/profiles/1207)18 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282357 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282357 "Link to this comment")
+
+*   Supporter Plus
+
+ I think I'd usually be not interested in the language specific score. 
+
+> No option to "include all languages, exclude off-topic"?
+
+ I guess that's still the default (first picture upper left)? 
+
+0 Likes
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+![Image 24: Void](https://www.gamingonlinux.com/templates/default/images/distros/Void.svg)[Vigil](https://www.gamingonlinux.com/profiles/15873)18 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282358 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282358 "Link to this comment")
+
+*   Supporter
+[View PC info](javascript:;)
+
+> Quoting: Eike
+> > Quoting: VigilNo option to "include all languages, exclude off-topic"?
+> 
+> 
+> 
+> I guess that's still the default (first picture upper left)?
+
+ Default is "Exclude reviews that are off-topic and from other languages".
+
+_Last edited by Vigil on 18 Aug 2025 at 8:46 pm UTC_
+
+0 Likes
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+![Image 25: openSUSE](https://www.gamingonlinux.com/templates/default/images/distros/openSUSE.svg)[FutureSuture](https://www.gamingonlinux.com/profiles/204)18 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282360 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282360 "Link to this comment")
+
+[View PC info](javascript:;)
+
+> when we think steam is feature complete, they find another way to inovate, and in this case, this sound like an obvious feature to add, im surprised no one thought of that before.
+
+This feature has existed on GOG for several years. 
+
+1 Likes, [Who?](https://www.gamingonlinux.com/index.php?module=who_likes&comment_id=282360)
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+[Firehawke](https://www.gamingonlinux.com/profiles/16992)18 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282361 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282361 "Link to this comment")
+
+ I'd definitely prefer to be able to filter offtopic but keep all languages in the final scoring, but I guess being in the USA it's not exactly a huge problem if it defaults to limiting things to English since most reviews I see will be in English anyway. 
+
+0 Likes
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+![Image 26: Mint](https://www.gamingonlinux.com/templates/default/images/distros/Mint.svg)[Salvatos](https://www.gamingonlinux.com/profiles/4695)18 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282363 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282363 "Link to this comment")
+
+ Very nice. I've seen a few instances of indie games outsourcing localization to untrustworthy companies and getting flak for it, leading to bad reviews overall in the critical post-release window. Having negative reviews be limited to the poorly translated languages will help them notice these issues and not be penalized for it sales-wise in other languages.
+
+ And of course, for consumers, it makes it easier than looking for reviews mentioning this specifically.
+
+_Last edited by Salvatos on 18 Aug 2025 at 11:01 pm UTC_
+
+1 Likes, [Who?](https://www.gamingonlinux.com/index.php?module=who_likes&comment_id=282363)
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+![Image 27: Arch](https://www.gamingonlinux.com/templates/default/images/distros/Arch.svg)[pb](https://www.gamingonlinux.com/profiles/1062)19 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282367 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282367 "Link to this comment")
+
+![Image 28: User Avatar](https://www.gamingonlinux.com/uploads/avatars/generated/1062_generated_1753100641.png)
+
+ What about platform-specific reviews? For Linux and/or SteamOS... 
+
+3 Likes, [Who?](https://www.gamingonlinux.com/index.php?module=who_likes&comment_id=282367)
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+![Image 29: Arch](https://www.gamingonlinux.com/templates/default/images/distros/Arch.svg)[Termy](https://www.gamingonlinux.com/profiles/6307)19 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282368 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282368 "Link to this comment")
+
+![Image 30: User Avatar](https://www.gamingonlinux.com/uploads/avatars/generated/6307_generated_1736690756.png)
+
+ Not a bad idea. Would love to be able to select, which languages/regions are included by default. But i guess being bi-/multilingual is too foreign of a concept for US-Americans - again... ^^ 
+
+3 Likes, [Who?](https://www.gamingonlinux.com/index.php?module=who_likes&comment_id=282368)
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+[_wojtek](https://www.gamingonlinux.com/profiles/16241)19 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282375 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282375 "Link to this comment")
+
+ Uhm... I'm not so sure about this. If they really want to tweak it then allow selecting languages that we care about, whether we want to include "off topic" and then maybe per-platform (steam-deck, linux, etc).
+
+ Also, they could at least add "neutral" score, if they don't want to extend it to full 5 score (which I kinda understand, because people can't comprehand it and can't give 3/5 for "OK title that's neither good nor bad" and everything is inflated upwards 🤦‍♂️) 
+
+0 Likes
+
+[](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/)
+
+![Image 31: CachyOS](https://www.gamingonlinux.com/templates/default/images/distros/CachyOS.svg)[Jarmer](https://www.gamingonlinux.com/profiles/12566)19 Aug 2025
+
+*   [Flag](https://www.gamingonlinux.com/index.php?module=articles_full&go=report_comment&article_id=27394&comment_id=282384 "Report")
+*   [Link](https://www.gamingonlinux.com/2025/08/valve-announce-language-specific-user-review-scores-for-steam-games/?comment_id=282384 "Link to this comment")
+
+![Image 32: User Avatar](https://www.gamingonlinux.com/uploads/avatars/R%20Daneel%20Olivaw8_avatar.png)
+
+*   Supporter
+[View PC info](javascript:;)
+
+ I see a lot of upset posts on bluesky about this, and I'm kind of on the fence myself. If a game isn't specifically about a certain region or people in present times, then why would I care what language gamers review it in?
+
+ Like for instance, I love playing fantasy or scifi rpgs. None of them are based in any semblance of present day places or people. So ... again, I don't care if a person speaks spanish or english, or whatever, why would I?
+
+ Also, as someone who wants to be LESS insular (especially in these horrible united states right now) wouldn't it be good to get some gaming thoughts and reviews from people from different cultures all over the world? Why would I want to remove all that?
+
+ I see specific "this game isn't translated well" negative reviews totally separate, and feel they could have tackled that issue differently. 
+
+1 Likes, [Who?](https://www.gamingonlinux.com/index.php?module=who_likes&comment_id=282384)
+
+ While you're here, please consider **supporting GamingOnLinux** on:
+
+**Reward Tiers: [![Image 33: Patreon Logo](https://www.gamingonlinux.com/templates/default/images/network-icons/patreon.png) Patreon](https://www.patreon.com/liamdawe)**. Plain Donations: [![Image 34: PayPal Logo](https://www.gamingonlinux.com/templates/default/images/network-icons/paypal.png) PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P85ZZX9W8HFMW).
+
+ This ensures all of our main content remains totally free for everyone! Patreon supporters can also remove all adverts and sponsors! Supporting us helps bring good, fresh content. Without your continued support, we simply could not continue!
+
+ You can find **even more ways** to support us **[on this dedicated page](https://www.gamingonlinux.com/support-us/)** any time. If you already are, thank you! 
+
+Login / Register
+
+- [x]  Stay logged in. _Note: Checking this box requires a cookie. It is not required._ 
+
+* * *
+
+Login
+
+* * *
+
+[Register](https://www.gamingonlinux.com/register)[Forgot Login?](https://www.gamingonlinux.com/index.php?module=login&forgot)
+
+[★ Support Us](https://www.gamingonlinux.com/support-us/)
+
+[Popular this week](https://www.gamingonlinux.com/hot-articles-weekly/)
+
+*   [s&box from Rust developer Facepunch is now open source](https://www.gamingonlinux.com/2025/11/sandbox-from-rust-developer-facepunch-is-now-open-source/)
+*   [KDE Plasma going all-in on Wayland and will drop the X11 session completely](https://www.gamingonlinux.com/2025/11/kde-plasma-going-all-in-on-wayland-and-will-drop-the-x11-session-completely/)
+*   [According to Epic CEO Tim Sweeney - game stores don't need an AI label as it will be everywhere](https://www.gamingonlinux.com/2025/11/according-to-epic-ceo-tim-sweeney-game-stores-dont-need-an-ai-label-as-it-will-be-everywhere/)
+*   [itch.io is hosting a creator day today where they take no fee from developers](https://www.gamingonlinux.com/2025/11/itch-io-is-hosting-a-creator-day-today-where-they-take-no-fee-from-developers/)
+*   [Fedora proposal put forward to improve "production stability and incident management"](https://www.gamingonlinux.com/2025/11/fedora-proposal-put-forward-to-improve-production-stability-and-incident-management/)
+*   [> See more over 30 days here](https://www.gamingonlinux.com/hot-articles/)
+
+[Search or view by category](https://www.gamingonlinux.com/search-articles/)
+
+[Contact](https://www.gamingonlinux.com/contact-us/)
+
+*   [Email Us](https://www.gamingonlinux.com/email-us/)
+
+[Latest Guides](https://www.gamingonlinux.com/guides/)
+
+[![Image 35: Morrowind](https://www.gamingonlinux.com/uploads/articles/tagline_images/1260050536id27690gol.jpg)How to setup OpenMW for modern Morrowind on Linux / SteamOS and Steam Deck](https://www.gamingonlinux.com/guides/view/how-to-setup-openmw-for-modern-morrowind-on-linux-steamos-and-steam-deck/)
+
+By [Liam Dawe](https://www.gamingonlinux.com/profiles/1/), 29 Sep 2025
+
+[9](https://www.gamingonlinux.com/guides/view/how-to-setup-openmw-for-modern-morrowind-on-linux-steamos-and-steam-deck/#comments)
+
+[![Image 36: Hollow Knight: Silksong](https://www.gamingonlinux.com/uploads/articles/tagline_images/1321750977id27614gol.jpg)How to install Hollow Knight: Silksong mods on Linux, SteamOS and Steam Deck](https://www.gamingonlinux.com/guides/view/how-to-install-hollow-knight-silksong-mods-on-linux-steamos-and-steam-deck/)
+
+By [Liam Dawe](https://www.gamingonlinux.com/profiles/1/), 18 Sep 2025
+
+[1](https://www.gamingonlinux.com/guides/view/how-to-install-hollow-knight-silksong-mods-on-linux-steamos-and-steam-deck/#comments)
+
+[> View more Tips & Guides](https://www.gamingonlinux.com/guides/)
+
+[Latest Comments](https://www.gamingonlinux.com/latest-comments/)
+
+*   [Arch-based distro EndeavourOS gets a new Ganymede relea…](https://www.gamingonlinux.com/2025/12/arch-based-distro-endeavouros-gets-a-new-ganymede-release/comment_id=286522)
+
+15 minutes ago - vox
+*   [Linux players on Steam hit an all-time high for Novembe…](https://www.gamingonlinux.com/2025/12/linux-players-on-steam-hit-an-all-time-high-for-november-2025/comment_id=286521)
+
+19 minutes ago - CatKiller
+*   [Star Fox spiritual successor Wild Blue Skies gets a fre…](https://www.gamingonlinux.com/2025/12/star-fox-spiritual-successor-wild-blue-skies-gets-a-fresh-gameplay-trailer/comment_id=286520)
+
+24 minutes ago - GustyGhost
+*   [Valve's version of Android on Linux (based on Waydroid)…](https://www.gamingonlinux.com/2025/12/valves-version-of-android-on-linux-based-on-waydroid-is-now-called-lepton/comment_id=286519)
+
+45 minutes ago - GustyGhost
+*   [Linux players on Steam hit an all-time high for Novembe…](https://www.gamingonlinux.com/2025/12/linux-players-on-steam-hit-an-all-time-high-for-november-2025/comment_id=286518)
+
+49 minutes ago - GustyGhost
+*   [> See more comments](https://www.gamingonlinux.com/latest-comments/)
+
+Buy Games
+
+Buy games with our affiliate / partner links:
+
+*   [Fanatical](https://www.fanatical.com/en/?ref=gol)
+*   [GOG](https://af.gog.com/?as=1636858786)
+*   [Humble Bundles](https://humblebundleinc.sjv.io/rQjXdj)
+
+Misc
+
+*   [Anti-Cheat Compatibility](https://www.gamingonlinux.com/anticheat/)
+*   [Cookie Preferences](https://www.gamingonlinux.com/index.php?module=cookie_prefs)
+*   [Support Us](https://www.gamingonlinux.com/support-us/)
+*   [Contact Us](https://www.gamingonlinux.com/email-us/)
+*   [About Us](https://www.gamingonlinux.com/about-us/)
+*   [Website Statistics](https://www.gamingonlinux.com/website_stats/)
+
+Join us
+
+*   [![Image 37: RSS Feeds](https://www.gamingonlinux.com/templates/default/images/network-icons/white/rss-website.svg)](https://www.gamingonlinux.com/rss/ "RSS Feeds")
+*   [![Image 38: Mastodon](https://www.gamingonlinux.com/templates/default/images/network-icons/white/mastodon.svg)](https://mastodon.social/@gamingonlinux "Mastodon")
+*   [![Image 39: Threads](https://www.gamingonlinux.com/templates/default/images/network-icons/white/bluesky.svg)](https://bsky.app/profile/gamingonlinux.com "Bluesky")
+*   [![Image 40: Telegram](https://www.gamingonlinux.com/templates/default/images/network-icons/white/telegram.svg)](https://t.me/linux_gaming "Telegram")
+*   [![Image 41: GOL Discord](https://www.gamingonlinux.com/templates/default/images/network-icons/white/discord.svg)](https://discord.gg/AghnYbMjYg "Discord")
+*   [![Image 42: WhatsApp](https://www.gamingonlinux.com/templates/default/images/network-icons/white/WhatsApp.svg)](https://whatsapp.com/channel/0029VaEDbO8KLaHp1wMOrR0Z "WhatsApp")
+*   [![Image 43: Steam](https://www.gamingonlinux.com/templates/default/images/network-icons/white/steam.svg)](https://steamcommunity.com/groups/gamingonlinux "Steam Community")
+*   [![Image 44: YouTube](https://www.gamingonlinux.com/templates/default/images/network-icons/white/youtube.svg)](https://www.youtube.com/@gamingonlinux "Youtube")
+
+[GamingOnLinux © 2025](https://www.gamingonlinux.com/)
+
+[About Us](https://www.gamingonlinux.com/about-us/), [Contact Us](https://www.gamingonlinux.com/email-us/), [Privacy Policy](https://www.gamingonlinux.com/privacy.html), [Ethics Policy](https://www.gamingonlinux.com/ethics.html), [User Safety Policy](https://www.gamingonlinux.com/safety.html)
+
+![Image 45: GamingOnLinux](https://www.gamingonlinux.com/templates/default/images/logos/icon_xmas.png)

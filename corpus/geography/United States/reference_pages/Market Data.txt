@@ -1,0 +1,222 @@
+# Market Data
+
+Domestic Movie Theatrical Market Summary 1995 to 2025
+-----------------------------------------------------
+
+Welcome to our reference library analyzing trends in the domestic movie industry since 1995. In this area of the site, you'll find over 2,000 pages of information detailing the changes that have shaped the industry.
+
+Our market analysis is built on The Numbers' unique categorization system, which uses six different criteria to identify a movie. Every movie released since 1995 is categorized according to the following attributes: Creative Type (factual, contemporary fiction, fantasy etc.), Source (book, play, original screenplay...), Genre (drama, horror, documentary etc.), MPAA Rating, Production Method (live action, digital animation etc.) and Distributor. Our market charts provide year-by-year analysis across these categories, allowing analysis of market trends. See, for example, how [horror movie revenues have varied](https://www.the-numbers.com/market/genre/Horror), the [emergence of digital animation](https://www.the-numbers.com/market/production-method/Digital-Animation) and [live action/CGI animated](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) movies, and [the decline (and possible rebound) of R-rated movies](https://www.the-numbers.com/market/mpaa-rating/R-(US)). To explore, click on an individual year, distributor, genre, creative type, production method or MPAA rating to see annual trends in a particular category.
+
+**Note:** in order to provide a fair comparison between movies released in different years, all rankings are based on ticket sales, which are calculated using average ticket prices. Before 2020, these were announced by the MPAA and/or NATO in their annual state of the industry report. Since 2020, we have been [estimating the average ticket price](https://www.the-numbers.com/news/258910830-Movie-theater-ticket-prices-rose-3-to-11-31-in-2024) based on SEC filings from the major theater owners.
+
+Annual Ticket Sales
+-------------------
+
+**Note:** Figures for 2025 are at an annualized rate (both in the graph above and the table below). The Box Office Totals in the graph above are _not_ adjusted for inflation. 
+
+| Year | Tickets Sold | Total Box Office | Total Inflation Adjusted Box Office | Average Ticket Price |
+| --- | --- | --- | --- | --- |
+| [2025](https://www.the-numbers.com/market/2025/summary) | _762,231,592_ | _$8,620,839,309_ | _$8,620,839,309_ | $11.31 |
+| [2024](https://www.the-numbers.com/market/2024/summary) | 760,482,781 | $8,606,444,382 | $8,601,467,465 | $11.31 |
+| [2023](https://www.the-numbers.com/market/2023/summary) | 939,624,845 | $9,901,982,107 | $10,627,156,990 | $10.94 |
+| [2022](https://www.the-numbers.com/market/2022/summary) | 702,373,460 | $7,406,698,381 | $7,943,843,838 | $10.53 |
+| [2021](https://www.the-numbers.com/market/2021/summary) | 444,250,543 | $4,519,549,580 | $5,024,473,637 | $10.17 |
+| [2020](https://www.the-numbers.com/market/2020/summary) | 219,986,842 | $2,019,481,070 | $2,488,051,184 | $9.18 |
+| [2019](https://www.the-numbers.com/market/2019/summary) | 1,225,563,974 | $11,229,258,989 | $13,861,128,548 | $9.16 |
+| [2018](https://www.the-numbers.com/market/2018/summary) | 1,311,558,716 | $11,948,302,425 | $14,833,727,968 | $9.11 |
+| [2017](https://www.the-numbers.com/market/2017/summary) | 1,225,762,392 | $10,995,091,460 | $13,863,372,665 | $8.97 |
+| [2016](https://www.the-numbers.com/market/2016/summary) | 1,302,610,878 | $11,267,792,299 | $14,732,529,022 | $8.65 |
+| [2015](https://www.the-numbers.com/market/2015/summary) | 1,336,743,967 | $11,287,238,182 | $15,118,574,269 | $8.43 |
+| [2014](https://www.the-numbers.com/market/2014/summary) | 1,257,327,489 | $10,272,368,745 | $14,220,373,900 | $8.17 |
+| [2013](https://www.the-numbers.com/market/2013/summary) | 1,339,166,251 | $10,887,448,067 | $15,145,970,298 | $8.13 |
+| [2012](https://www.the-numbers.com/market/2012/summary) | 1,382,840,535 | $11,007,642,631 | $15,639,926,442 | $7.96 |
+| [2011](https://www.the-numbers.com/market/2011/summary) | 1,282,915,590 | $10,173,523,046 | $14,509,775,320 | $7.93 |
+| [2010](https://www.the-numbers.com/market/2010/summary) | 1,328,787,540 | $10,481,257,115 | $15,028,586,742 | $7.89 |
+| [2009](https://www.the-numbers.com/market/2009/summary) | 1,418,567,388 | $10,639,257,284 | $16,043,988,821 | $7.50 |
+| [2008](https://www.the-numbers.com/market/2008/summary) | 1,358,069,603 | $9,750,941,820 | $15,359,767,200 | $7.18 |
+| [2007](https://www.the-numbers.com/market/2007/summary) | 1,420,164,148 | $9,770,731,899 | $16,062,056,511 | $6.88 |
+| [2006](https://www.the-numbers.com/market/2006/summary) | 1,401,392,669 | $9,179,124,447 | $15,849,751,091 | $6.55 |
+| [2005](https://www.the-numbers.com/market/2005/summary) | 1,462,122,921 | $9,373,848,652 | $16,453,306,942 | $6.41 |
+| [2004](https://www.the-numbers.com/market/2004/summary) | 1,496,253,578 | $9,332,715,980 | $16,922,627,987 | $6.21 |
+| [2003](https://www.the-numbers.com/market/2003/summary) | 1,525,189,405 | $9,154,959,161 | $17,249,892,183 | $6.03 |
+| [2002](https://www.the-numbers.com/market/2002/summary) | 1,575,921,670 | $9,197,745,345 | $17,823,674,086 | $5.81 |
+| [2001](https://www.the-numbers.com/market/2001/summary) | 1,466,351,713 | $8,254,448,139 | $16,584,437,879 | $5.66 |
+| [2000](https://www.the-numbers.com/market/2000/summary) | 1,401,848,498 | $7,555,963,414 | $15,854,906,518 | $5.39 |
+| [1999](https://www.the-numbers.com/market/1999/summary) | 1,444,661,989 | $7,338,884,198 | $16,339,127,088 | $5.08 |
+| [1998](https://www.the-numbers.com/market/1998/summary) | 1,454,585,697 | $6,822,007,916 | $16,451,364,229 | $4.69 |
+| [1997](https://www.the-numbers.com/market/1997/summary) | 1,349,765,352 | $6,195,423,856 | $15,265,846,145 | $4.59 |
+| [1996](https://www.the-numbers.com/market/1996/summary) | 1,305,793,554 | $5,771,608,313 | $14,768,506,285 | $4.42 |
+| [1995](https://www.the-numbers.com/market/1995/summary) | 1,221,788,544 | $5,314,780,870 | $13,818,428,426 | $4.35 |
+
+Number of Wide Releases Each Year
+---------------------------------
+
+Find below information about the number of movies released wide each year.
+
+| Year | Warner Bros | Walt Disney | 20th Century Fox | Paramount Pictures | Sony Pictures | Universal | Total Major 6 | Total Other Studios |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [2025](https://www.the-numbers.com/market/2025/summary) | 11 | 10 | 0 | 8 | 21 | 27 | 77 | 118 |
+| [2024](https://www.the-numbers.com/market/2024/summary) | 10 | 5 | 0 | 8 | 18 | 21 | 62 | 113 |
+| [2023](https://www.the-numbers.com/market/2023/summary) | 12 | 9 | 0 | 9 | 18 | 20 | 68 | 81 |
+| [2022](https://www.the-numbers.com/market/2022/summary) | 6 | 5 | 0 | 9 | 13 | 25 | 58 | 52 |
+| [2021](https://www.the-numbers.com/market/2021/summary) | 17 | 7 | 0 | 4 | 15 | 15 | 58 | 35 |
+| [2020](https://www.the-numbers.com/market/2020/summary) | 5 | 3 | 1 | 3 | 9 | 13 | 34 | 21 |
+| [2019](https://www.the-numbers.com/market/2019/summary) | 18 | 10 | 11 | 9 | 18 | 21 | 87 | 43 |
+| [2018](https://www.the-numbers.com/market/2018/summary) | 19 | 10 | 11 | 10 | 16 | 20 | 86 | 58 |
+| [2017](https://www.the-numbers.com/market/2017/summary) | 18 | 8 | 14 | 10 | 16 | 16 | 82 | 50 |
+| [2016](https://www.the-numbers.com/market/2016/summary) | 17 | 12 | 16 | 12 | 16 | 22 | 95 | 46 |
+| [2015](https://www.the-numbers.com/market/2015/summary) | 22 | 11 | 18 | 10 | 13 | 20 | 94 | 32 |
+| [2014](https://www.the-numbers.com/market/2014/summary) | 18 | 12 | 17 | 10 | 17 | 15 | 89 | 37 |
+| [2013](https://www.the-numbers.com/market/2013/summary) | 17 | 8 | 15 | 8 | 14 | 17 | 79 | 42 |
+| [2012](https://www.the-numbers.com/market/2012/summary) | 16 | 11 | 15 | 13 | 18 | 17 | 90 | 42 |
+| [2011](https://www.the-numbers.com/market/2011/summary) | 20 | 13 | 15 | 13 | 21 | 19 | 101 | 35 |
+| [2010](https://www.the-numbers.com/market/2010/summary) | 20 | 12 | 18 | 12 | 17 | 17 | 96 | 30 |
+| [2009](https://www.the-numbers.com/market/2009/summary) | 25 | 14 | 20 | 10 | 21 | 21 | 111 | 31 |
+| [2008](https://www.the-numbers.com/market/2008/summary) | 19 | 11 | 22 | 14 | 19 | 19 | 104 | 48 |
+| [2007](https://www.the-numbers.com/market/2007/summary) | 30 | 13 | 17 | 16 | 22 | 20 | 118 | 50 |
+| [2006](https://www.the-numbers.com/market/2006/summary) | 26 | 17 | 25 | 13 | 26 | 21 | 128 | 31 |
+| [2005](https://www.the-numbers.com/market/2005/summary) | 21 | 20 | 19 | 12 | 19 | 17 | 108 | 30 |
+| [2004](https://www.the-numbers.com/market/2004/summary) | 27 | 25 | 18 | 14 | 15 | 14 | 113 | 25 |
+| [2003](https://www.the-numbers.com/market/2003/summary) | 28 | 19 | 13 | 14 | 19 | 13 | 106 | 23 |
+| [2002](https://www.the-numbers.com/market/2002/summary) | 32 | 23 | 15 | 16 | 20 | 13 | 119 | 21 |
+| [2001](https://www.the-numbers.com/market/2001/summary) | 30 | 16 | 16 | 14 | 17 | 10 | 103 | 25 |
+| [2000](https://www.the-numbers.com/market/2000/summary) | 29 | 22 | 13 | 12 | 15 | 13 | 104 | 27 |
+| [1999](https://www.the-numbers.com/market/1999/summary) | 27 | 20 | 15 | 13 | 22 | 16 | 113 | 19 |
+| [1998](https://www.the-numbers.com/market/1998/summary) | 27 | 21 | 11 | 11 | 20 | 16 | 106 | 20 |
+| [1997](https://www.the-numbers.com/market/1997/summary) | 31 | 22 | 12 | 16 | 22 | 11 | 114 | 22 |
+| [1996](https://www.the-numbers.com/market/1996/summary) | 31 | 23 | 13 | 16 | 24 | 13 | 120 | 22 |
+| [1995](https://www.the-numbers.com/market/1995/summary) | 26 | 22 | 11 | 13 | 20 | 17 | 109 | 27 |
+
+Top Movie of Each Year
+----------------------
+
+This table lists the top-grossing movie for each year, based on tickets sold for each movie during the course of the year. Click on the year to see a detailed breakdown for the market as a whole in that year.
+
+| Year | Movie | Categorization Creative Type Production Method Source Genre | MPAA Rating | Distributor | Total for Year | Total in 2024 dollars | Tickets Sold |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [1995](https://www.the-numbers.com/market/1995/summary) | **[Batman Forever](https://www.the-numbers.com/movie/Batman-Forever-(1995)#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Warner Bros.](https://www.the-numbers.com/market/distributor/Warner-Bros) | $184,137,034 | $478,756,281 | 42,330,352 |
+| [1996](https://www.the-numbers.com/market/1996/summary) | **[Independence Day](https://www.the-numbers.com/movie/Independence-Day#tab=summary)** | [Science Fiction](https://www.the-numbers.com/market/creative-type/Science-Fiction) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [20th Century Fox](https://www.the-numbers.com/market/distributor/20th-Century-Fox) | $306,169,255 | $783,433,091 | 69,269,062 |
+| [1997](https://www.the-numbers.com/market/1997/summary) | **[Men in Black](https://www.the-numbers.com/movie/Men-in-Black#tab=summary)** | [Science Fiction](https://www.the-numbers.com/market/creative-type/Science-Fiction) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Sony Pictures](https://www.the-numbers.com/market/distributor/Sony-Pictures) | $250,650,052 | $617,614,829 | 54,607,854 |
+| [1998](https://www.the-numbers.com/market/1998/summary) | **[Titanic](https://www.the-numbers.com/movie/Titanic-(1997)#tab=summary)** | [Historical Fiction](https://www.the-numbers.com/market/creative-type/Historical-Fiction) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Drama](https://www.the-numbers.com/market/genre/Drama) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Paramount Pictures](https://www.the-numbers.com/market/distributor/Paramount-Pictures) | $488,192,879 | $1,177,283,890 | 104,092,298 |
+| [1999](https://www.the-numbers.com/market/1999/summary) | **[Star Wars Ep. I: The Phantom Menace](https://www.the-numbers.com/movie/Star-Wars-Ep-I-The-Phantom-Menace#tab=summary)** | [Science Fiction](https://www.the-numbers.com/market/creative-type/Science-Fiction) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG](https://www.the-numbers.com/market/mpaa-rating/PG-(US)) | [20th Century Fox](https://www.the-numbers.com/market/distributor/20th-Century-Fox) | $430,443,350 | $958,329,574 | 84,732,942 |
+| [2000](https://www.the-numbers.com/market/2000/summary) | **[How the Grinch Stole Christmas](https://www.the-numbers.com/movie/How-the-Grinch-Stole-Christmas-(2000)#tab=summary)** | [Kids Fiction](https://www.the-numbers.com/market/creative-type/Kids-Fiction) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Fiction Book/Short Story](https://www.the-numbers.com/market/source/Based-on-Fictional-Book-or-Short-Story) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG](https://www.the-numbers.com/market/mpaa-rating/PG-(US)) | [Universal](https://www.the-numbers.com/market/distributor/Universal) | $251,629,105 | $528,000,960 | 46,684,435 |
+| [2001](https://www.the-numbers.com/market/2001/summary) | **[Harry Potter and the Sorcerer’s Stone](https://www.the-numbers.com/movie/Harry-Potter-and-the-Sorcerers-Stone#tab=summary)** | [Fantasy](https://www.the-numbers.com/market/creative-type/Fantasy) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Based on Fiction Book/Short Story](https://www.the-numbers.com/market/source/Based-on-Fictional-Book-or-Short-Story) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG](https://www.the-numbers.com/market/mpaa-rating/PG-(US)) | [Warner Bros.](https://www.the-numbers.com/market/distributor/Warner-Bros) | $300,404,434 | $600,278,114 | 53,074,988 |
+| [2002](https://www.the-numbers.com/market/2002/summary) | **[Spider-Man](https://www.the-numbers.com/movie/Spider-Man#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Sony Pictures](https://www.the-numbers.com/market/distributor/Sony-Pictures) | $403,706,375 | $785,872,477 | 69,484,746 |
+| [2003](https://www.the-numbers.com/market/2003/summary) | **[Finding Nemo](https://www.the-numbers.com/movie/Finding-Nemo#tab=summary)** | [Kids Fiction](https://www.the-numbers.com/market/creative-type/Kids-Fiction) [Digital Animation](https://www.the-numbers.com/market/production-method/Digital-Animation) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [G](https://www.the-numbers.com/market/mpaa-rating/G-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $339,714,367 | $637,175,700 | 56,337,374 |
+| [2004](https://www.the-numbers.com/market/2004/summary) | **[Shrek 2](https://www.the-numbers.com/movie/Shrek-2#tab=summary)** | [Kids Fiction](https://www.the-numbers.com/market/creative-type/Kids-Fiction) [Digital Animation](https://www.the-numbers.com/market/production-method/Digital-Animation) [Based on Fiction Book/Short Story](https://www.the-numbers.com/market/source/Based-on-Fictional-Book-or-Short-Story) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG](https://www.the-numbers.com/market/mpaa-rating/PG-(US)) | [Dreamworks SKG](https://www.the-numbers.com/market/distributor/Dreamworks-SKG) | $439,496,836 | $800,436,262 | 70,772,437 |
+| [2005](https://www.the-numbers.com/market/2005/summary) | **[Star Wars Ep. III: Revenge of the Sith](https://www.the-numbers.com/movie/Star-Wars-Ep-III-Revenge-of-the-Sith#tab=summary)** | [Science Fiction](https://www.the-numbers.com/market/creative-type/Science-Fiction) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [20th Century Fox](https://www.the-numbers.com/market/distributor/20th-Century-Fox) | $380,270,577 | $670,961,022 | 59,324,582 |
+| [2006](https://www.the-numbers.com/market/2006/summary) | **[Pirates of the Caribbean: Dead Man’s Chest](https://www.the-numbers.com/movie/Pirates-of-the-Caribbean-Dead-Mans-Chest#tab=summary)** | [Historical Fiction](https://www.the-numbers.com/market/creative-type/Historical-Fiction) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Theme Park Ride](https://www.the-numbers.com/market/source/Based-on-Theme-Park-Ride) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $423,315,812 | $730,946,842 | 64,628,368 |
+| [2007](https://www.the-numbers.com/market/2007/summary) | **[Spider-Man 3](https://www.the-numbers.com/movie/Spider-Man-3#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Sony Pictures](https://www.the-numbers.com/market/distributor/Sony-Pictures) | $336,530,303 | $553,220,597 | 48,914,288 |
+| [2008](https://www.the-numbers.com/market/2008/summary) | **[The Dark Knight](https://www.the-numbers.com/movie/Dark-Knight-The#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Warner Bros.](https://www.the-numbers.com/market/distributor/Warner-Bros) | $531,001,578 | $836,438,424 | 73,955,652 |
+| [2009](https://www.the-numbers.com/market/2009/summary) | **[Transformers: Revenge of the Fallen](https://www.the-numbers.com/movie/Transformers-Revenge-of-the-Fallen#tab=summary)** | [Science Fiction](https://www.the-numbers.com/market/creative-type/Science-Fiction) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Based on TV](https://www.the-numbers.com/market/source/Based-on-TV) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Paramount Pictures](https://www.the-numbers.com/market/distributor/Paramount-Pictures) | $402,111,870 | $606,384,700 | 53,614,916 |
+| [2010](https://www.the-numbers.com/market/2010/summary) | **[Toy Story 3](https://www.the-numbers.com/movie/Toy-Story-3#tab=summary)** | [Kids Fiction](https://www.the-numbers.com/market/creative-type/Kids-Fiction) [Digital Animation](https://www.the-numbers.com/market/production-method/Digital-Animation) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [G](https://www.the-numbers.com/market/mpaa-rating/G-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $415,004,880 | $594,892,926 | 52,598,844 |
+| [2011](https://www.the-numbers.com/market/2011/summary) | **[Harry Potter and the Deathly Hallows: Part II](https://www.the-numbers.com/movie/Harry-Potter-and-the-Deathly-Hallows-Part-II#tab=summary)** | [Fantasy](https://www.the-numbers.com/market/creative-type/Fantasy) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Based on Fiction Book/Short Story](https://www.the-numbers.com/market/source/Based-on-Fictional-Book-or-Short-Story) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Warner Bros.](https://www.the-numbers.com/market/distributor/Warner-Bros) | $381,011,219 | $543,409,444 | 48,046,812 |
+| [2012](https://www.the-numbers.com/market/2012/summary) | **[The Avengers](https://www.the-numbers.com/movie/Avengers-The-(2012)#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $623,357,910 | $885,700,746 | 78,311,295 |
+| [2013](https://www.the-numbers.com/market/2013/summary) | **[Iron Man 3](https://www.the-numbers.com/movie/Iron-Man-3#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $408,992,272 | $568,967,103 | 50,306,552 |
+| [2014](https://www.the-numbers.com/market/2014/summary) | **[Guardians of the Galaxy](https://www.the-numbers.com/movie/Guardians-of-the-Galaxy#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $333,055,258 | $461,059,354 | 40,765,637 |
+| [2015](https://www.the-numbers.com/market/2015/summary) | **[Star Wars Ep. VII: The Force Awakens](https://www.the-numbers.com/movie/Star-Wars-Ep-VII-The-Force-Awakens#tab=summary)** | [Science Fiction](https://www.the-numbers.com/market/creative-type/Science-Fiction) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $742,208,942 | $995,774,982 | 88,043,765 |
+| [2016](https://www.the-numbers.com/market/2016/summary) | **[Finding Dory](https://www.the-numbers.com/movie/Finding-Dory#tab=summary)** | [Kids Fiction](https://www.the-numbers.com/market/creative-type/Kids-Fiction) [Digital Animation](https://www.the-numbers.com/market/production-method/Digital-Animation) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG](https://www.the-numbers.com/market/mpaa-rating/PG-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $486,295,561 | $635,838,473 | 56,219,140 |
+| [2017](https://www.the-numbers.com/market/2017/summary) | **[Star Wars Ep. VIII: The Last Jedi](https://www.the-numbers.com/movie/Star-Wars-Ep-VIII-The-Last-Jedi#tab=summary)** | [Science Fiction](https://www.the-numbers.com/market/creative-type/Science-Fiction) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $517,218,368 | $652,144,892 | 57,660,910 |
+| [2018](https://www.the-numbers.com/market/2018/summary) | **[Black Panther](https://www.the-numbers.com/movie/Black-Panther-(2018)#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $700,059,566 | $869,118,952 | 76,845,177 |
+| [2019](https://www.the-numbers.com/market/2019/summary) | **[Avengers: Endgame](https://www.the-numbers.com/movie/Avengers-Endgame-(2019)#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $858,373,000 | $1,059,847,014 | 93,708,843 |
+| [2020](https://www.the-numbers.com/market/2020/summary) | **[Bad Boys For Life](https://www.the-numbers.com/movie/Bad-Boys-For-Life-(Bad-Boys-3)-(2020)#tab=summary)** | [Contemporary Fiction](https://www.the-numbers.com/market/creative-type/Contemporary-Fiction) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Action](https://www.the-numbers.com/market/genre/Action) | [R](https://www.the-numbers.com/market/mpaa-rating/R-(US)) | [Sony Pictures](https://www.the-numbers.com/market/distributor/Sony-Pictures) | $204,417,855 | $251,848,139 | 22,267,740 |
+| [2021](https://www.the-numbers.com/market/2021/summary) | **[Spider-Man: No Way Home](https://www.the-numbers.com/movie/Spider-Man-No-Way-Home-(2021)#tab=summary)** | [Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero) [Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action) [Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Sony Pictures](https://www.the-numbers.com/market/distributor/Sony-Pictures) | $572,984,769 | $637,213,147 | 56,340,685 |
+| [2022](https://www.the-numbers.com/market/2022/summary) | **[Top Gun: Maverick](https://www.the-numbers.com/movie/Top-Gun-Maverick-(2022)#tab=summary)** | [Contemporary Fiction](https://www.the-numbers.com/market/creative-type/Contemporary-Fiction) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Action](https://www.the-numbers.com/market/genre/Action) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Paramount Pictures](https://www.the-numbers.com/market/distributor/Paramount-Pictures) | $718,732,821 | $771,972,284 | 68,255,728 |
+| [2023](https://www.the-numbers.com/market/2023/summary) | **[Barbie](https://www.the-numbers.com/movie/Barbie-(2023)#tab=summary)** | [Contemporary Fiction](https://www.the-numbers.com/market/creative-type/Contemporary-Fiction) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Toy](https://www.the-numbers.com/market/source/Based-on-Toy) [Comedy](https://www.the-numbers.com/market/genre/Comedy) | [PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US)) | [Warner Bros.](https://www.the-numbers.com/market/distributor/Warner-Bros) | $636,225,983 | $657,743,681 | 58,155,940 |
+| [2024](https://www.the-numbers.com/market/2024/summary) | **[Inside Out 2](https://www.the-numbers.com/movie/Inside-Out-2-(2024)#tab=summary)** | [Kids Fiction](https://www.the-numbers.com/market/creative-type/Kids-Fiction) [Digital Animation](https://www.the-numbers.com/market/production-method/Digital-Animation) [Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG](https://www.the-numbers.com/market/mpaa-rating/PG-(US)) | [Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney) | $652,980,194 | $652,980,192 | 57,734,765 |
+| [2025](https://www.the-numbers.com/market/2025/summary) | **[A Minecraft Movie](https://www.the-numbers.com/movie/Minecraft-Movie-A-(2025)#tab=summary)** | [Kids Fiction](https://www.the-numbers.com/market/creative-type/Kids-Fiction) [Live Action](https://www.the-numbers.com/market/production-method/Live-Action) [Based on Game](https://www.the-numbers.com/market/source/Based-on-Game) [Adventure](https://www.the-numbers.com/market/genre/Adventure) | [PG](https://www.the-numbers.com/market/mpaa-rating/PG-(US)) | [Warner Bros.](https://www.the-numbers.com/market/distributor/Warner-Bros) | $423,949,195 | $423,949,195 | 37,484,456 |
+
+Top-Grossing Distributors 1995 to 2025
+--------------------------------------
+
+|  |  | Total Gross | Average Gross | Market Share |
+| --- | --- | --- | --- | --- |
+| 1 | **[Walt Disney](https://www.the-numbers.com/market/distributor/Walt-Disney)** | $47,062,704,202 | $74,231,395 | 17.22% |
+| 2 | **[Warner Bros.](https://www.the-numbers.com/market/distributor/Warner-Bros)** | $41,546,164,259 | $46,786,221 | 15.20% |
+| 3 | **[Universal](https://www.the-numbers.com/market/distributor/Universal)** | $35,147,054,076 | $55,700,561 | 12.86% |
+| 4 | **[Sony Pictures](https://www.the-numbers.com/market/distributor/Sony-Pictures)** | $33,240,442,986 | $39,060,450 | 12.16% |
+| 5 | **[Paramount Pictures](https://www.the-numbers.com/market/distributor/Paramount-Pictures)** | $27,866,037,744 | $51,603,774 | 10.19% |
+| 6 | **[20th Century Fox](https://www.the-numbers.com/market/distributor/20th-Century-Fox)** | $25,850,947,036 | $49,617,941 | 9.46% |
+| 7 | **[Lionsgate](https://www.the-numbers.com/market/distributor/Lionsgate)** | $10,792,694,038 | $22,817,535 | 3.95% |
+| 8 | **[New Line](https://www.the-numbers.com/market/distributor/New-Line)** | $6,278,955,327 | $30,042,848 | 2.30% |
+| 9 | **[Dreamworks SKG](https://www.the-numbers.com/market/distributor/Dreamworks-SKG)** | $4,291,878,745 | $53,648,484 | 1.57% |
+| 10 | **[MGM](https://www.the-numbers.com/market/distributor/MGM)** | $3,875,940,935 | $15,885,004 | 1.42% |
+[See complete chart](https://www.the-numbers.com/market/distributors)
+Top-Grossing Genres 1995 to 2025
+--------------------------------
+
+|  |  | Total Gross | Average Gross | Market Share |
+| --- | --- | --- | --- | --- |
+| 1 | **[Adventure](https://www.the-numbers.com/market/genre/Adventure)** | $67,999,133,122 | $55,645,772 | 24.88% |
+| 2 | **[Action](https://www.the-numbers.com/market/genre/Action)** | $63,373,564,225 | $45,691,106 | 23.18% |
+| 3 | **[Drama](https://www.the-numbers.com/market/genre/Drama)** | $38,478,961,747 | $6,254,708 | 14.08% |
+| 4 | **[Comedy](https://www.the-numbers.com/market/genre/Comedy)** | $38,221,157,937 | $13,843,230 | 13.98% |
+| 5 | **[Thriller/Suspense](https://www.the-numbers.com/market/genre/Thriller-or-Suspense)** | $19,979,073,190 | $13,637,593 | 7.31% |
+| 6 | **[Horror](https://www.the-numbers.com/market/genre/Horror)** | $17,480,826,759 | $18,342,945 | 6.40% |
+| 7 | **[Romantic Comedy](https://www.the-numbers.com/market/genre/Romantic-Comedy)** | $11,830,152,300 | $16,205,688 | 4.33% |
+| 8 | **[Musical](https://www.the-numbers.com/market/genre/Musical)** | $7,682,696,417 | $30,010,533 | 2.81% |
+| 9 | **[Black Comedy](https://www.the-numbers.com/market/genre/Black-Comedy)** | $2,993,704,343 | $9,945,862 | 1.10% |
+| 10 | **[Documentary](https://www.the-numbers.com/market/genre/Documentary)** | $2,500,115,557 | $906,167 | 0.91% |
+[See complete chart](https://www.the-numbers.com/market/genres)
+Top-Grossing MPAA Ratings 1995 to 2025
+--------------------------------------
+
+|  |  | Total Gross | Average Gross | Market Share |
+| --- | --- | --- | --- | --- |
+| 1 | **[PG-13](https://www.the-numbers.com/market/mpaa-rating/PG-13-(US))** | $129,766,196,819 | $35,426,207 | 47.47% |
+| 2 | **[R](https://www.the-numbers.com/market/mpaa-rating/R-(US))** | $72,254,024,307 | $11,708,641 | 26.43% |
+| 3 | **[PG](https://www.the-numbers.com/market/mpaa-rating/PG-(US))** | $58,836,774,416 | $32,614,620 | 21.52% |
+| 4 | **[G](https://www.the-numbers.com/market/mpaa-rating/G-(US))** | $9,677,318,045 | $22,401,199 | 3.54% |
+| 5 | **[Not Rated](https://www.the-numbers.com/market/mpaa-rating/Not-Rated-(US))** | $2,286,085,820 | $371,540 | 0.84% |
+| 6 | **[NC-17](https://www.the-numbers.com/market/mpaa-rating/NC-17-(US))** | $44,848,564 | $1,868,690 | 0.02% |
+| 7 | **[Open](https://www.the-numbers.com/market/mpaa-rating/Open-(US))** | $5,489,687 | $1,097,937 | 0.00% |
+| 8 | **[GP](https://www.the-numbers.com/market/mpaa-rating/GP-(US))** | $729,833 | $91,229 | 0.00% |
+[See complete chart](https://www.the-numbers.com/market/mpaa-ratings)
+Top-Grossing Sources 1995 to 2025
+---------------------------------
+
+|  |  | Total Gross | Average Gross | Market Share |
+| --- | --- | --- | --- | --- |
+| 1 | **[Original Screenplay](https://www.the-numbers.com/market/source/Original-Screenplay)** | $127,111,732,248 | $13,205,042 | 46.50% |
+| 2 | **[Based on Fiction Book/Short Story](https://www.the-numbers.com/market/source/Based-on-Fictional-Book-or-Short-Story)** | $55,379,282,228 | $21,777,146 | 20.26% |
+| 3 | **[Based on Comic/Graphic Novel](https://www.the-numbers.com/market/source/Based-on-Comic-or-Graphic-Novel)** | $28,404,582,999 | $84,286,596 | 10.39% |
+| 4 | **[Based on Real Life Events](https://www.the-numbers.com/market/source/Based-on-Real-Life-Events)** | $13,435,855,585 | $3,600,176 | 4.92% |
+| 5 | **[Based on TV](https://www.the-numbers.com/market/source/Based-on-TV)** | $12,513,209,057 | $48,313,548 | 4.58% |
+| 6 | **[Based on Factual Book/Article](https://www.the-numbers.com/market/source/Based-on-Factual-Book-or-Article)** | $8,551,947,977 | $21,928,072 | 3.13% |
+| 7 | **[Spin-Off](https://www.the-numbers.com/market/source/Spin-Off)** | $7,956,569,613 | $99,457,120 | 2.91% |
+| 8 | **[Based on Folk Tale/Legend/Fairytale](https://www.the-numbers.com/market/source/Based-on-Folk-Tale-Legend-or-Fairytale)** | $4,803,190,872 | $53,368,787 | 1.76% |
+| 9 | **[Based on Game](https://www.the-numbers.com/market/source/Based-on-Game)** | $3,832,994,537 | $58,075,675 | 1.40% |
+| 10 | **[Based on Play](https://www.the-numbers.com/market/source/Based-on-Play)** | $2,623,336,204 | $8,301,697 | 0.96% |
+[See complete chart](https://www.the-numbers.com/market/sources)
+Top-Grossing Production Methods 1995 to 2025
+--------------------------------------------
+
+|  |  | Total Gross | Average Gross | Market Share |
+| --- | --- | --- | --- | --- |
+| 1 | **[Live Action](https://www.the-numbers.com/market/production-method/Live-Action)** | $201,841,767,126 | $11,905,962 | 73.84% |
+| 2 | **[Animation/Live Action](https://www.the-numbers.com/market/production-method/Animation-and-Live-Action)** | $37,862,441,194 | $115,083,408 | 13.85% |
+| 3 | **[Digital Animation](https://www.the-numbers.com/market/production-method/Digital-Animation)** | $29,677,647,331 | $56,636,732 | 10.86% |
+| 4 | **[Hand Animation](https://www.the-numbers.com/market/production-method/Hand-Animation)** | $3,048,766,016 | $15,397,808 | 1.12% |
+| 5 | **[Stop-Motion Animation](https://www.the-numbers.com/market/production-method/Stop-Motion-Animation)** | $738,967,928 | $14,779,359 | 0.27% |
+| 6 | **[Multiple Production Methods](https://www.the-numbers.com/market/production-method/Multiple-Production-Methods)** | $55,360,589 | $1,628,253 | 0.02% |
+| 7 | **[Rotoscoping](https://www.the-numbers.com/market/production-method/Rotoscoping)** | $8,468,385 | $2,117,096 | 0.00% |
+[See complete chart](https://www.the-numbers.com/market/production-methods)
+Top-Grossing Creative Types 1995 to 2025
+----------------------------------------
+
+|  |  | Total Gross | Average Gross | Market Share |
+| --- | --- | --- | --- | --- |
+| 1 | **[Contemporary Fiction](https://www.the-numbers.com/market/creative-type/Contemporary-Fiction)** | $107,048,946,079 | $12,234,165 | 39.16% |
+| 2 | **[Kids Fiction](https://www.the-numbers.com/market/creative-type/Kids-Fiction)** | $38,668,991,599 | $56,866,164 | 14.15% |
+| 3 | **[Science Fiction](https://www.the-numbers.com/market/creative-type/Science-Fiction)** | $35,426,500,259 | $37,768,124 | 12.96% |
+| 4 | **[Super Hero](https://www.the-numbers.com/market/creative-type/Super-Hero)** | $27,366,036,519 | $138,913,891 | 10.01% |
+| 5 | **[Fantasy](https://www.the-numbers.com/market/creative-type/Fantasy)** | $22,068,485,478 | $27,077,896 | 8.07% |
+| 6 | **[Historical Fiction](https://www.the-numbers.com/market/creative-type/Historical-Fiction)** | $20,703,352,471 | $11,723,303 | 7.57% |
+| 7 | **[Dramatization](https://www.the-numbers.com/market/creative-type/Dramatization)** | $18,222,627,524 | $12,760,944 | 6.67% |
+| 8 | **[Factual](https://www.the-numbers.com/market/creative-type/Factual)** | $3,511,672,917 | $1,237,812 | 1.28% |
+| 9 | **[Multiple Creative Types](https://www.the-numbers.com/market/creative-type/Multiple-Creative-Types)** | $135,789,541 | $2,468,901 | 0.05% |
+[See complete chart](https://www.the-numbers.com/market/creative-types)
+
+Our Theatrical Market pages are based on the Domestic Theatrical Market performance only. The Domestic Market is defined as the North American movie territory (consisting of the United States, Canada, Puerto Rico and Guam).
+
+The yearly amounts on our Theatrical Market pages are based on box office years. Each box office year starts on the first Monday of the year, so the previous year ends on the Sunday before the first Monday. For example, the "2017 box office year" started on January 2, 2017 so the "2016 box office year" ended on Sunday, January 1, 2017.

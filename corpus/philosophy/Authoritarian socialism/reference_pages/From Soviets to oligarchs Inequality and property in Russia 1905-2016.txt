@@ -1,0 +1,95 @@
+# From Soviets to oligarchs: Inequality and property in Russia, 1905-2016
+
+Russia has undergone a dramatic economic and political transformation since the fall of the Soviet Union. This unique experience makes Russia an especially compelling case study in inequality research agenda. With such episodes as a failure of Soviet egalitarian ideology, the ‘big bang’ transition to the market economy, or the emergence of the so-called oligarchs (Guriev and Rachinsky 2005), charting Russian inequality patterns may cast additional light on the role of policies, institutions and ideology for understanding inequality dynamics. At the same time, recent inequality development needs to be also considered in the convergence discourse and regarding the possibility of inclusive growth.
+
+In a recent paper, we focus on measuring inequality and explaining how the various existing sources can be combined in order to put Russia’s inequality trajectory in historical and comparative perspective (Novokmet et al. 2017).1 We find that official inequality estimates vastly underestimate the concentration of income in Russia. We also provide the first complete balance sheets for private, public, and national wealth in post-Soviet Russia, including an estimate for offshore wealth. This paper is part of a broader project that attempts to produce distributional statistics that are comparable across countriebs (Alvaredo et al. 2016).
+
+The rise of private property in Russia
+--------------------------------------
+
+The major change that occurred between 1990 and 2015 is of course the transition from communism to capitalism, i.e. from public to private property. The net national wealth amounted to slightly more than 400% of national income in 1990, including about 300% for net public wealth (roughly three quarters) and little more than 100% for net private wealth (one quarter). In 2015, the proportions are basically reversed: net national wealth amounts to 450% of national income, including more than 350% for net private wealth and less than 100% for net public wealth (Figure 1). The dramatic fall in net public wealth happened in a couple of years only, between 1990 and 1995, following the so-called shock therapy and voucher privatisation.
+
+**Figure 1**Public versus private property in Russia 1990-2015 (% national income)
+
+One key finding is the critical role played by housing for the rise of private wealth (see Figure 2). Private housing increased from less than 50% of national income in 1990 to 250% of national income in 2008-2009, and decreased to about 200% of national income by 2015. This rise has been a result of both the volume effect, stemming from the huge housing privatisation transfer, and the price effect induced by the rise of real estate prices.2
+
+But what is particularly striking is the very low level of recorded financial assets owned by Russian households. Household financial assets have always been less than 70-80% of national income throughout the 1990-2015 period, and they have often been less than 50% of national income. In effect, it is as if the privatisation of Russian companies did not lead to any significant long-run rise in the value of household financial assets. The initial decline in financial assets was predictable, when Soviet-era savings were literally wiped out by the hyper-inflation of the early 1990s. And more generally, one can argue that in the chaotic monetary and political context of the 1990s it is not too surprising that the market value of household financial assets remained relatively low until the mid to late 1990s. What is more difficult to understand is why such extremely low valuations persisted well after, in particular, in spite of the spectacular Russian stock market boom that occurred between 1998 and 2008.
+
+In our view, the main explanation for this paradox is the fact that a small subset of Russian households own very substantial offshore wealth, i.e. unrecorded financial assets in offshore centres. In particular, there is a large gap between very high trade surpluses during the 1990-2015 period – mostly driven by exports in oil and gas – and relatively limited accumulation of net foreign assets. According to our benchmark estimates, offshore wealth has gradually increased between 1990 and 2015, and represents about 75% of national income by 2015,3 i.e. roughly as much as the recorded financial assets of Russian households. That is, there is as much financial wealth held by rich Russians abroad – in the UK, Switzerland, Cyprus, and similar offshore centres – as is held by the entire Russian population in Russia itself. Moreover, the wealth held offshore by rich Russians is about three times larger than official net foreign reserves.
+
+**Figure 2** The rise of private wealth in Russia, 1990-2015 (% national income)
+
+When considered in international comparison, the evolution of aggregate wealth in Russia – together with that of China and other ex-communist countries – can be viewed as an extreme case of the general trends documented in all developed countries since the 1970s-1980s, notably a general rise of private wealth relative to national income, accompanied by the fall of public property (Piketty and Zucman 2014, Piketty 2014). In Russia, private wealth has increased enormously relative to national income, but the ratio is ‘only’ of the order of 350-400% in 2015, i.e. at a markedly lower level than in China and in Western countries (see Figure 3). We should stress that the gap would be even larger if we did not include our estimates of offshore wealth in Russia’s private wealth. Moreover, the rise of Russian private wealth has been almost exclusively at the expense of public wealth, in the sense that national wealth – the sum of private and public wealth – almost did not increase relative to national income (from 400% in 1990 to 450% by 2015) (Figure 1). In contrast, China’s national wealth reached 700% of national income by 2015.
+
+**Figure 3** The rise of private wealth: Russia vs China and rich countries (private wealth, households) (in % national income)
+
+The rise of income inequality in Russia
+---------------------------------------
+
+We construct new income distribution series by combining national accounts, survey, wealth, and fiscal data. To our knowledge, this is the first attempt to exploit Russian national income tax tabulations to correct official survey-based inequality estimates. We find that surveys vastly under-estimate the rise of inequality since 1990. According to our benchmark estimates, the top 10% income share rose from less than 25% in 1990-1991 to more than 45% by 2015 (as opposed to around 35% suggested by surveys), and the top 1% income share from less than 5% at the outset of the transition to around 20-25% (as opposed to around 10% suggested by surveys). It is also worth pointing out that this enormous rise came together with a massive collapse of the bottom 50% share, which dropped from about 30% of total income in 1990-1991 to less than 10% in mid-1990s, before gradually returning to about 18% by 2015.
+
+If we consider the period 1989-2016 as a whole, average per adult national income has increased by 41% according to our benchmark estimates, i.e. at about 1.3% per year. As noted, the different income groups have enjoyed widely different growth experiences. The bottom 50% earners benefited from very small or negative growth, the middle 40% from positive but relatively modest growth, and the top 10% from very large growth rates (see Figure 4).
+
+**Figure 4** Cumulative real growth by percentile, Russia, 1989-2016
+
+In the long run, the evolution of income inequality in Russia appears like an extreme version of the long-run U-shaped pattern observed in the West during the 20th century (Figure 5). Income inequality was high under Tsarist Russia, then dropped to very low levels during the Soviet period, and finally rose back to very high levels after the fall of the Soviet Union. Top income shares are now similar to (or higher than) the levels observed in the US. On the other hand, inequality has increased substantially more in Russia than in China and other ex-communist countries in Eastern Europe.4 Figure 6 shows the marked divergence after the fall of Communism in the top 1% income share in Russia as compared to Poland, Hungary, and the Czech Republic.5
+
+**Figure 5** Top 10% income share: Russia vs US and France
+
+**Figure 6**Top 1% income share: Russia vs Eastern Europe
+
+In conclusion, our new findings reveal an extreme level of inequality in Russia and a persistent concentration of rent-based resources – which are unlikely to be the best recipes for sustainable development and growth. However, we should stress that the lack of data access and financial transparency makes it very difficult to properly analyse inequality dynamics in Russia. We have done our best to combine the various existing data sources in the most plausible manner, but the quality of raw available data remains highly insufficient. This is an ongoing project, and we have no doubt that the Russian series reported here will be improved in the future, as refined methods are designed and better data sources (hopefully) become available.
+
+References
+----------
+
+Alvaredo, F, T Atkinson, L Chancel, T Piketty, E Saez and G Zucman (2016), "Distributional National Accounts (DINA) Guidelines: Concepts and Methods used in WID.world", WID.world Working Paper 2016/02
+
+Atkinson, A B and J Micklewright (1992), Economic transformation in Eastern Europe and the distribution of income. Cambridge University Press
+
+Berglof,E and P Bolton (2002), “The Great Divide and Beyond: Financial Architecture in Transition”, Journal of Economic Perspectives 16(1): 77–100.
+
+Bukowski, P and F Novokmet (2017), “Top Incomes during Wars, Communism and Capitalism: Poland 1892-2015”, LSE III Working Paper 17.
+
+Garbinti, B, J Goupille and T Piketty (2017), "Income Inequality in France, 1900-2014: Evidence from Distributional National Accounts (DINA)", WID.world Working Paper 2017/04.
+
+Guriev, S and A Rachinsky (2005), “The Role of Oligarchs in Russian Capitalism”, Journal of Economic Perspectives, 19(1): 131-150.
+
+Flemming, J and J Micklewright, J. (2000), “Income Distribution, Economic Systems and Transition”, in A B Atkinson and F Bourguignon (eds.), Handbook of Income Distribution, North-Holland, pp. 843-918
+
+Mavridis, D and P Mosberger (2017), “Income Inequality and Incentives The Quasi-Natural Experiment of Hungary, 1914-2008”, mimeo.
+
+Milanović, B (1998), Income, Inequality, and Poverty During the Transition from Planned to Market Economy. Washington DC: The World Bank.
+
+Milanović,B and L Ersado (2010), “Reform and inequality during the transition: An analysis using panel houshold survey data, 1990-2005”, UNU-WIDER, 2010/62
+
+Novokmet, F, T Piketty and G and Zucman (2017), “From Soviets to Oligarchs: Inequality and Property in Russia, 1905-2016”. NBER Working Paper 23712
+
+Novokmet,F (2017), “Between Communism and Capitalism: essays on the evolution of income and wealth inequality in Eastern Europe 1890-2015 (Czech Republic, Poland, Bulgaria, Croatia, Slovenia and Russia)”, PhD Dissertation, PSE
+
+Piketty, T (2014), Capital in the 21st century. Harvard: Harvard University Press
+
+Piketty,T, E Saez and G Zucman (2016), "Distributional National Accounts: Methods and Estimates for the U.S.", WID.world Working Paper
+
+Piketty,T, L Yang and G Zucman (2017), “Capital Accumulation, Private Property and Rising Inequality in China, 1978-2015”, WID.world Working Paper 2017/06
+
+Piketty,T and G Zucman (2014), “Capital is Back: Wealth-Income Ratios in Rich Countries 1700-2010.” The Quarterly Journal of Economics, 129(3): 1255-1310.
+
+Roland, G (2000), Transition and Economics: Politics, Markets and Firms. Cambridge, MA: MIT Press.
+
+Yemtsov, R (2008), “Housing Privatization and Household Wealth in Transition”, in J B Davies (ed.), Personal Wealth from a Global Perspective, Oxford: Oxford University Press, pp. 312-333.
+
+Zucman, G (2015), The Hidden Wealth of Nations. Chicago: University of Chicago Press
+
+Endnotes
+--------
+
+(1) This methodology was already applied in the United States (Saez and Zucman 2016, Piketty et al. 2016), France (Garbinti et al. 2016, 2017) and China (Piketty et al. 2017).
+
+(2) See Yemtsov 2008 for the distributional effects of the housing privatization
+
+(3) Our estimate of annual capital flight is computed as the sum of net errors and omissions and capital transfer outflows in the balance of payments. We then cumulate yearly capital flight making various assumptions on the rate of return. See Zucman (2015) in general on the importance of offshore wealth.
+
+(4) There are a number of studies on income inequality in Eastern Europe during the socialist period and the transition (e.g. Atkinson and Micklewright 1992, Milanović 1998, Milanović and Ersado 2010, Flemming and Micklewright 2000, among others).
+
+(5) Frequently, the institutional divergence has been advanced as the main reason underlying divergent post-communist inequality patterns in Russia and Central European countries (such as the role of the European Union as the ‘institutional anchor’ in the case of the latter) (e.g. Berglof and Bolton 2002, Roland 2000).

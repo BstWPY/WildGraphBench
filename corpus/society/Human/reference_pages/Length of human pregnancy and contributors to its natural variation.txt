@@ -1,0 +1,331 @@
+# Length of human pregnancy and contributors to its natural variation
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Abstract
+----------------------------------------------------------------
+
+### STUDY QUESTION
+
+How variable is the length of human pregnancy, and are early hormonal events related to gestational length?
+
+### SUMMARY ANSWER
+
+Among natural conceptions where the date of conception (ovulation) is known, the variation in pregnancy length spanned 37 days, even after excluding women with complications or preterm births.
+
+### WHAT IS KNOWN ALREADY
+
+Previous studies of length of gestation have either estimated gestational age by last menstrual period (LMP) or ultrasound (both imperfect measures) or included pregnancies conceived through assisted reproductive technology.
+
+### STUDY DESIGN, SIZE, DURATION
+
+The Early Pregnancy Study was a prospective cohort study (1982–85) that followed 130 singleton pregnancies from unassisted conception to birth, with detailed hormonal measurements through the conception cycle; 125 of these pregnancies were included in this analysis.
+
+### PARTICIPANTS/MATERIALS, SETTING, METHODS
+
+We calculated the length of gestation beginning at conception (ovulation) in 125 naturally conceived, singleton live births. Ovulation, implantation and corpus luteum (CL) rescue pattern were identified with urinary hormone measurements. We accounted for events that artificially shorten the natural length of gestation (Cesarean delivery or labor induction, i.e. ‘censoring’) using Kaplan–Meier curves and proportional hazards models. We examined hormonal and other factors in relation to length of gestation. We did not have ultrasound information to compare with our gold standard measure.
+
+### MAIN RESULTS AND THE ROLE OF CHANCE
+
+The median time from ovulation to birth was 268 days (38 weeks, 2 days). Even after excluding six preterm births, the gestational length range was 37 days. The coefficient of variation was higher when measured by LMP (4.9%) than by ovulation (3.7%), reflecting the variability of time of ovulation. Conceptions that took longer to implant also took longer from implantation to delivery (_P_ = 0.02). CL rescue pattern (reflecting ovarian response to implantation) was predictive (_P_ = 0.006): pregnancies with a rapid progesterone rise were longer than those with delayed rise (a 12-day difference in the median gestational length). Mothers with longer gestations were older (_P_ = 0.02), had longer pregnancies in other births (_P_< 0.0001) and were heavier at birth (_P_ = 0.01). We did not see an association between the length of gestation and several factors that have been associated with gestational length in previous studies: body mass index, alcohol intake, parity or offspring sex.
+
+### LIMITATIONS, REASONS FOR CAUTION
+
+The sample size was small and some exposures were rare, reducing power to detect weak associations.
+
+### WIDER IMPLICATIONS OF THE FINDINGS
+
+Human gestational length varies considerably even when measured exactly (from ovulation). An individual woman's deliveries tend to occur at similar gestational ages. Events in the first 2 weeks after conception are predictive of subsequent pregnancy length, and may suggest pathways underlying the timing of delivery.
+
+### STUDY FUNDING/COMPETING INTEREST
+
+This research was supported by the Intramural Research Program of the NIH, National Institute of Environmental Health Sciences. None of the authors has any conflict of interest to declare.
+
+**Keywords:** gestational length, pregnancy, variability, implantation, corpus luteum
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Introduction
+--------------------------------------------------------------------
+
+Pregnant women are routinely assigned a delivery date of about 280 days after the onset of their last menstrual period (LMP). Only 4% of women deliver at 280 days and only 70% deliver within 10 days of their estimated due date, even when the date is estimated by ultrasound ([Mongelli _et al_., 1996](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C20)).
+
+The observed variability in the gestational length may be due to errors in gestational age estimation. Natural conception is unobservable, and all estimates of the start of pregnancy (by LMP or ultrasound) are approximate. Another source of variability—and perhaps the least understood—is normal variation in the pace of fetal maturation and the timing of natural delivery. The possibility of natural variability is plausible, but little discussed in the literature (see [Pemberton _et al_., 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C36)). Error and natural variability are indistinguishable without an exact measure of gestational age. Thus, in previous studies, characteristics that have been associated with the length of gestation may have arisen from errors in gestational age estimation or natural length of pregnancy or both. Without an exact measure of gestational age, these are impossible to separate.
+
+Although natural conception is not directly observable in humans, there is evidence that conception occurs within 24 h after ovulation (see [Winston _et al_., 1993](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C35); [Wilcox _et al_., 1998](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C33)). Thus, the day of ovulation in a conception cycle can be taken to mark the beginning of a pregnancy. Four previous studies of spontaneously conceived pregnancies have attempted to estimate the length of gestation based on ovulation ([Stewart, 1952](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C28); [Doering, 1962](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C9); [Guerrero and Florez, 1969](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C11); [Saito _et al_., 1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C25)). All of these studies estimated ovulation by basal body temperature—an inexact measure ([Moghissi, 1976](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C19); [Lenton _et al_., 1977](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C15); [Bauman, 1981](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C5); [Quagliarello and Arny, 1986](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C23)). Moreover, none of these studies explored the maternal or pregnancy characteristics that might be associated with length of gestation.
+
+We explored the length of gestation in a cohort of spontaneously conceived pregnancies, using hormone assays of daily urine samples to identify the day of ovulation. We used survivorship methods to account for births that occurred after a medical intervention (induced labor or Caesarean delivery). We also examined possible predictors of gestational length, particularly hormonal events in the earliest stages of pregnancy.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Methods
+---------------------------------------------------------------
+
+### Original study
+
+The North Carolina Early Pregnancy Study (1982–1985) enrolled 221 women who discontinued contraception in order to become pregnant ([Wilcox _et al_., 1988](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C31)). Participants were healthy with no known fertility problems. Women completed daily diaries and collected daily first-morning urine specimens for 6 months, or through the eighth week past LMP if they conceived. Women who became pregnant were followed to determine their delivery date.
+
+Urine specimens were analyzed for estrone-3-glucuronide, pregnanediol-3-glucuronide and hCG. The day of ovulation was identified using the associated rapid drop in the ratio of estrogen to progesterone ([Baird _et al_., 1991](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C2)), which corresponds well with ultrasound-detected ovulation ([Ecochard _et al_., 2001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C10)). Implantation was defined as the first day of a sustained rise in hCG >0.015 ng/ml ([Wilcox _et al_., 1999](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C34)).
+
+One hundred and thirty conceptions during the study resulted in singleton live births. Ten pregnancies were missing data on ovulation, implantation or both. These days could be imputed for 9 ([Supplementary data](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)), leaving 129 births.
+
+### Follow-up study
+
+In 2010, we re-contacted the mothers in order to obtain information on labor induction or Caesarean delivery without labor. Of the 129 women, 9 were deceased. Possible addresses were found for the remaining 120. Among these survivors, 102 (85%) responded to our follow-up questionnaire.
+
+### Missing medical intervention data and imputation of censoring status
+
+Twenty-four percent of respondents reported medical interventions that had artificially shortened their pregnancy. We used data from the 102 re-contacted women to carry out multiple imputation ([Little and Rubin, 2002](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C17)) to assign medical interventions that shortened pregnancy (censoring: yes/no) for the 27 of 129 births missing this information ([Supplementary data](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)). The imputation resulted in 400 data sets, each containing complete censoring information for all 129 births.
+
+### Length of gestation
+
+We considered ovulation-based length of gestation as spontaneous birth date minus ovulation date. Non-spontaneous births were censored on their delivery date. We calculated LMP-based and implantation-based lengths of gestation in the same way.
+
+Standard definitions of preterm and post-term birth are in relation to the LMP-based due date of 280 days. Preterm birth is delivery more than 3 weeks before the LMP due date; post-term is at least 2 weeks after the due date. Given ovulation on LMP day 14, an analogous ovulation-based gestation would last 266 days. Preterm births would be before 245 days of gestation and post-term births would be after 280 days of ovulation-based gestation.
+
+### Exclusions
+
+In the original study, four women had reported _in utero_ diethylstilbestrol (DES) exposure. These women had shorter (ovulation-based) gestations (median 262 versus 268 days), which is consistent with previous studies ([Hoover _et al_., 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C13)). We excluded these pregnancies, leaving 125 singleton live births.
+
+### Calculation of mean gestational length and its variability
+
+We used life-table methods to account for medical interventions that interrupt natural pregnancy (i.e. ‘censoring’ of the length that would otherwise have been observed). We calculated the probability of birth on each day of gestation (from 208 to 284) (averaged across the 400 imputation data sets). We then estimated the overall mean length of gestation by multiplying each gestational day by its associated probability and summing across days (i.e. the mean of the distribution is calculated by multiplying each day of the distribution by the probability of its occurrence and summing over all of those products) ([Supplementary data](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)).
+
+### Identification of predictors of gestational length
+
+We examined several parental and early pregnancy factors to assess their association with gestational length. These factors were primarily from the original study, e.g. age, pre-pregnancy body mass index, height, smoking, alcohol use and parity. We also investigated characteristics of the pregnancy as measured in the original study: early pregnancy bleeding ([Harville _et al_., 2003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C12)), time from ovulation to implantation ([Jukic _et al_., 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C14)), level of hCG on the day of implantation and rate of rise of hCG in the first 7 days beginning at implantation ([Nepomnaschy _et al_., 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C22)) and pattern of corpus luteum (CL) rescue ([Baird _et al_., 2003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C4)).
+
+‘Corpus luteum rescue’ refers to the process by which hCG from the embryo prevents regression of the CL and stimulates its continued production of progesterone. In non-human primates, the CL responds to chorionic gonadotrophin with an abrupt rise of progesterone ([Neill and Knobil, 1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C21); [Atkinson _et al_., 1975](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C1)). In our data, most pregnancies followed this primate pattern of early abrupt rise of progesterone. There were, however, some pregnancies that showed a late rise (3–6 days after implantation), and others that maintained mid-luteal reference levels with no rise in the 6 days after implantation ([Baird _et al_., 2003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C4)). We compared gestational lengths for those three categories of CL response. Hormonal measurements to assess CL rescue were conducted on only a subset of conception cycles and included only 60 of the births.
+
+From the follow-up interview in 2010 we had data on pregnancy-related medical conditions, neonatal medical conditions, the woman's birthweight and her recalled gestational lengths of all her singleton live births before and after the study birth (which we averaged). We wanted to explore to what extent natural variability in the length of gestation might be due to inherent woman-specific factors that would tend to produce similar lengths across a given woman's pregnancies. We therefore examined the average reported length of each woman's non-study pregnancies to test whether, for example, women with a longer average gestational length would tend to have a longer study pregnancy (or in terms of our model, would be less likely to deliver at each gestational age). While it may seem unusual to use data from the future (implied by inclusion of future pregnancies) to predict an event, our purpose here is not prediction but assessment of variability in the natural length of gestation among women. The null hypothesis for such a test is that there is no inherent difference among women in their tendency to have a certain length of gestation. (Six women had no live births other than the study pregnancy and were excluded from this analysis.) We weighted the average gestational length by the woman's number of births. Women who did not participate in the follow-up were excluded from analysis of these factors. Additional factors that were examined are listed in the [Supplementary data, Table SI](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1). All variables were from the original study except where indicated. Respondents to the follow-up tended to be older than non-respondents; 90% were in the older age categories compared with 73% among non-respondents. Respondents also had shorter times to pregnancy than non-respondents (37% conceived in the first cycle compared with 23%), had greater than a high school education (97 compared with 81%), tended to be overweight at the time of the original study (7 compared with 19%) and more had been nulliparous at the time of study entry (48 compared with 35%).
+
+Median lengths of gestation and interquartile ranges were calculated for each of these variables using univariable Kaplan–Meier curves on non-imputed data. Kaplan–Meier curves cannot be drawn for continuous stratification variables, and thus they were categorized. Variables with at least borderline statistical significance (_P_< 0.1) were further examined with the 400 data sets that contained imputed censoring information, and are presented in the results. Results of Kaplan–Meier analyses for the other variables considered are shown in the [Supplementary data, Table SI](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1). We calculated the probability of birth for each day of gestation (averaged across the 400 imputation data sets) as mentioned previously. These probabilities were also used to calculate survival curves using life-table methods.
+
+We used single-variable proportional hazards models to calculate _P_-values for the associations between maternal and pregnancy characteristics and length of gestation (across imputations), where we model the ‘hazard’ of giving birth over the days of gestation. A hazard ratio (HR) of <1 indicates that the ‘exposed’ group was less likely to deliver on any given day (i.e. a longer gestation). The variance of the HR was estimated as, the average of the estimated variances across imputations + [(1 + 1/(number of imputations)] × the variance among the estimated betas). To estimate _P_-values, the beta estimate squared was divided by the total variance and compared with a _χ_ 2 distribution with 1 degree of freedom. Multivariable models were examined as sensitivity analyses and are described in the results. To evaluate the proportional hazards assumption, interactions with time were investigated for age, CL rescue and implantation timing; none was significant (_P_> 0.1), indicating that the assumption was supported.
+
+Our use of survival analysis techniques is based on the assumption that the non-spontaneous births (those that experienced medical intervention) were part of the same distribution as the spontaneous births, and that censoring was not informative with regard to gestational length. This assumption is supported by the fact that (1) there were few medical conditions in our sample that would have led to a shortened gestation and (2) the exclusion of the six preterm births or the women with pregnancy-related medical conditions (simultaneously or individually) did not materially change the average length of gestation.
+
+### Ethical approval
+
+This study was approved by the NIEHS IRB and the Copernicus IRB, and all participants provided informed consent.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Results
+---------------------------------------------------------------
+
+### Study population
+
+The women's median age was 29 years at enrollment. Most women in our sample were white (95%) and non-smokers (94%); most had a college degree (71%) ([Supplementary data, Table SI](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)). About half were parous at enrollment (54%) and most had normal body mass index (80%).
+
+Few neonatal problems were reported; the most common was elevated infant bilirubin or jaundice (_n_ = 9). Similarly, few women had pregnancy-related problems. Five reported toxemia/pre-eclampsia/hypertension (three of whom were prescribed bed rest) and five reported gestational diabetes. One woman was prescribed bed rest for premature labor and another for placenta previa. None reported taking hormones, receiving cervical cerclage or being diagnosed with chorioamnionitis.
+
+### Length of gestation
+
+The ovulation-based gestational ages for the 125 singleton live births ranged from 208 to 284 days (29 weeks, 5 days to 40 weeks, 4 days) (Table[I](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297TB1) and [Supplementary data, Table SII](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)). Six were preterm (≤245 days from ovulation) and four were post-term (>280 days from ovulation). After excluding preterm births or women with pregnancy-related medical conditions (_n_ = 12) (either alone or in combination), ovulation-based gestation ranged from 247 to 284 days—a span of 37 days. The range was 35 days when limited to term deliveries that were not induced or had not undergone a Cesarean delivery prior to the onset of labor. We refer to these medically interrupted gestations as ‘censored’.
+
+#### Table I.
+
+Distribution of length of gestation as measured by LMP, ovulation and implantation, accounting for medical interventions that truncated gestation.
+
+|  | Mean (SD) | Coefficient of variation (%) | Percentiles * * * |
+| --- | --- | --- | --- |
+| Range | 10 | 25 | 50 | 75 | 90 |
+| All births |
+| LMP | 285 (14) | 4.9 | 229–321 | 269 | 277 | 285 | 290 | 308 |
+| Ovulation | 267 (10)a | 3.7 | 208–284 | 253 | 262 | 268 | 275 | 280 |
+| Implantation | 258 (10)a | 3.9 | 199–275 | 244 | 253 | 259 | 265 | 271 |
+| Term births b |
+| LMP | 285 (13) | 4.6 | 258–321 | 271 | 278 | 285 | 289 | 308 |
+| Ovulation | 268 (9)a | 3.4 | 247–284 | 256 | 262 | 268 | 275 | 280 |
+| Implantation | 259 (9)a | 3.5 | 237–274 | 247 | 253 | 260 | 265 | 271 |
+
+LMP, last menstrual period.
+
+a The last pregnancy in the cohort was censored; to calculate the mean and standard deviation this pregnancy was assumed to deliver spontaneously on the delivery date.
+
+b Ovulation-based gestation >245 days.
+
+The distribution of all pregnancy lengths, adjusted for censoring, is shown in Fig.[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297F1). Table[I](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297TB1) shows mean lengths, coefficients of variation and percentile values. The median time from ovulation to birth was 268 days (38 weeks, 2 days) and the mean was 267 days (38 weeks, 1 day, SD: 10 days). Implantation-based gestational age had similar variability (SD: 10 days), while LMP-based gestation was more variable (SD = 14 days). The coefficient of variation was 3.7% for ovulation-based gestational length and 4.9% for LMP-based gestational length.
+
+#### Figure 1.
+
+[![Image 1: Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/202b/3777570/cb813bbac93e/det29701.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3777570_det29701.jpg)
+
+Smoothed distribution of length of gestation (accounting for medical interventions that shortened gestation) derived from 125 singleton live births, North Carolina Early Pregnancy Study, 1982–1985. Though the day-specific percents were calculated from all births, the illustrated curves show only gestational ages with sufficient data for meaningful smoothing. Solid line: ovulation-based length of gestation [excludes 5 (4%) births before 245 days]; this line does not go to zero because the last birth in the cohort was a planned Cesarean delivery, i.e. a censored birth. Dashed line: LMP-based length of gestation (excludes 3 (2%) births before Day 253 and 5 (4%) births after 300 days of gestation). [Supplementary data, Table SII](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1) shows the ovulation-based gestational age data.
+
+The means and standard deviations of ovulation-based gestations were little changed when the 12 women with pregnancy-related medical conditions were excluded. These exclusions reduced the average LMP-based gestation length by <1 day, while the standard deviation remained 14 days.
+
+After excluding the six preterm births or the women with pregnancy-related medical conditions (simultaneously or individually), the estimated average ovulation-based gestation was 268 days (SD: 9 days).
+
+### Predictors of ovulation-based gestational length
+
+Women who were older delivered later on average, with each year of age adding roughly 1 day to their pregnancy (_P_ = 0.03, Table[II](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297TB2), [Supplementary data, Fig. S1](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)). Women who had themselves been heavier at birth had longer gestations, with each 100 g increase in the mother's own birthweight corresponding to roughly a 1-day longer pregnancy (_P_ = 0.01). The association between mother's birthweight and length of gestation was not explained by her adult height or body mass index [adjusted HR (95% confidence intervals (CI): 0.92 (0.86, 0.98), _P_ = 0.01 compared with unadjusted 0.92 (0.87, 0.98), Table[II](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297TB2)]. A longer average gestation for a woman's non-study births was associated with a longer study gestation, with a 1-week increase in the average length corresponding to about a 2.5-day longer pregnancy (_P_< 0.0001).
+
+#### Table II.
+
+Maternal and pregnancy characteristics associated with ovulation-based length of gestation for 125 singleton live births, North Carolina Early Pregnancy Study.
+
+|  | _n_ (%) | Gestational length a (days) Median (IQR)b | HR (95% CI) | _P_-value |
+| --- | --- | --- | --- | --- |
+| Participant's age |
+| 23–25 | 17 (14) | 264 (261, 275) | Per 3-year increase: 0.81 (0.67, 0.98) | 0.03 |
+| 26–28 | 46 (37) | 267 (261, 272) |  |  |
+| 29–31 | 34 (27) | 270 (262, 276) |  |  |
+| 32–40 | 28 (22) | 274 (266, 278) |  |  |
+| Participant's birthweight c |
+| <2500 g | 5 (6) | 260 (259, 270) | Per 100 g increase: 0.92 (0.87, 0.98) | 0.01 |
+| 2500–<3000 g | 17 (22) | 266 (262, 267) |  |  |
+| 3000–<3500 | 25 (32) | 269 (262, 272) |  |  |
+| ≥3500 | 31 (40) | 273 (265, 279) |  |  |
+| Average length of gestation for non-study singleton live births c |
+| ≤37 weeks | 8 (9) | 255 (251, 261) | Per one-week increase: 0.67 (0.60, 0.75) | <0.0001 |
+| >37–39 weeks | 18 (19) | 262 (251, 268) |  |  |
+| >39–41 weeks | 57 (61) | 271 (264, 276) |  |  |
+| >41 weeks | 11 (12) | 270 (267, 276) |  |  |
+| Days from ovulation to implantation a |
+| 6, 7, 8 | 29 (23) | 258 (250, 260) | Per one-day increase: 0.79 (0.64, 0.99) | 0.04 |
+| 9 | 53 (42) | 259 (252, 265) |  |  |
+| 10, 11, 12 | 43 (34) | 264 (256, 267) |  |  |
+| CL rescue pattern d |
+| Early | 33 (55) | 275 (262, 278) | Ref | 0.006 |
+| Late | 14 (23) | 263 (253, 273) | 3.0 (1.4, 6.5) | 0.28 |
+| Maintenance | 13 (22) | 268 (266, 275) | 1.6 (0.68, 3.8) |  |
+
+a Length of gestation is the time from ovulation to birth, corrected for medical interventions that truncated gestation, except for the row with time from ovulation to implantation. For this measure length of gestation was the time from implantation to birth.
+
+b Medians are derived from a lifetable analysis combining imputed data sets.
+
+c This variable was assessed on the 2010 follow-up questionnaire and only includes women who provided these data.
+
+d Post-implantation estrogen and progesterone metabolite assays were done for only a subset of pregnancies (_n_ = 60) ([Baird _et al_., 2003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C4)).
+
+Two characteristics of early pregnancy were predictive of length of gestation. Conceptuses that took longer to implant also took longer from implant to delivery (_P_ = 0.04, Fig.[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297F2)). Pregnancies with a CL rescue pattern showing a late progesterone rise (_n_ = 14) were strikingly shorter (12-day difference in medians) than pregnancies with an early rise (_P_ = 0.006, Fig.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297F3)).
+
+#### Figure 2.
+
+[![Image 2: Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/202b/3777570/2f506f1e90e4/det29702.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3777570_det29702.jpg)
+
+Association of the time from ovulation to implantation with the time from implantation to birth, accounting for medical interventions that shortened gestation. Solid line: 6, 7 or 8 days between ovulation and implantation. Dotted line: 9 days. Dashed line: 10, 11 or 12 days. HR for delivery per one-day increase in time from ovulation to implantation (95% CIs): 0.8 (0.6, 1.0), linear trend _P_ = 0.04.
+
+#### Figure 3.
+
+[![Image 3: Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/202b/3777570/dc97db941d3d/det29703.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=3777570_det29703.jpg)
+
+Association of the pattern of CL rescue with ovulation-based length of gestation, accounting for medical interventions that shortened gestation. Solid line: early progesterone rise; dashed line: late progesterone rise; dotted line: maintenance. Late rise versus early rise, HR (95% CI): 3.0 (1.4, 6.5), _P_ = 0.006. Maintenance versus early rise, HR (CI): 1.6 (0.7, 3.8), _P_ = 0.28.
+
+None of the above-described associations materially changed after adjustments for one another. We found no evidence that other participant characteristics (e.g. alcohol, parity) or other conception-cycle characteristics (e.g. follicular phase length or hCG levels early in pregnancy) were associated with ovulation-based gestational length (all had _P_> 0.1, [Supplementary data, Table SI](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)).
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Discussion
+------------------------------------------------------------------
+
+### Variation in length of human pregnancy
+
+We assessed ovulation-based length of gestation for 125 naturally conceived singleton live births born to mothers with no known fertility problems, taking into account obstetric interventions that shortened pregnancy. These pregnancies occurred to a self-selected group of well-educated women who were intending to conceive and had low rates of obesity and smoking. There was, nonetheless, substantial variability in pregnancy length as measured from ovulation. Even after excluding preterm births or pregnancies with medical conditions, the gestational length varied by 37 days, suggesting that much of the variability observed in this study reflects natural variation.
+
+We are not aware of previous data on length of human pregnancy based on precise measures of ovulation in naturally conceiving women. Four studies conducted 40–60 years ago provided estimates for term births based on basal body temperature ([Supplementary data, Table SIII](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)). The estimates from these studies were similar to ours, with the mean gestational lengths ranging from 0 to 4 days shorter than we report. Some of this difference may be due to the fact that these studies did not account for medical interventions, although the studies were carried out in an era when medical interventions were less common. In our data, the estimated average gestational length for term births was extended by 3 days when accounting for medical intervention. As medical interventions become more prevalent, such statistical adjustments will become increasingly important in analyses of gestational age.
+
+Variability in the length of human gestation limits the ability to predict delivery dates. Nonetheless, it is common clinical practice to assign pregnant women a due date based on 280 days from the LMP. A more evidence-based approach might be to assign a range of due dates (perhaps the interquartile range, in which half of women will deliver) or to describe the due date as a median (before which half of women will deliver). Clinical prediction of dates might also consider the lengths of a woman's other pregnancies. In our data, the average length of a woman's other pregnancies was strongly related to gestational length in her study pregnancy. This average is not a traditional ‘predictor’, in that we used the lengths of pregnancies occurring both before and after the study pregnancy. In effect, the duration of other pregnancies provides information about a given woman's ‘natural’ length of pregnancy.
+
+### Comparisons with other mammalian species
+
+The variability in the gestational length within a species tends to be similar across eutherian mammal species. In a review, the coefficient of variation (CV) for the gestational length among several non-primate mammals was <3% ([Martin _et al_., 1992](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C18)). Prosimian primates fit into this range, while simian primates, including humans, had larger variability (mean CV = 4%) ([Martin _et al_., 1992](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C18)). The authors suggested that increased variability in the length of gestation among simians may be due to measurement error, given the uncertainty in identifying the start of gestation in these species (simian primates do not have a clear estrus period) ([Martin _et al_., 1992](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C18)). Our data (CV of 4.9% based on LMP reduced to 3.7% based on ovulation) reflect the influence of measurement error, but also suggest that humans tend toward the upper range of mammalian variability.
+
+### Causes of variation in length of human pregnancy
+
+In addition to the gestational length for other pregnancies, two other maternal characteristics were associated with a longer gestation: older maternal age (but not parity) and higher maternal birthweight (reported at follow-up). Older maternal age (greater than 35) has been associated with both preterm ([Damus, 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C8)) and post-term birth ([Caughey _et al_., 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C7); [Roos _et al_., 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C24)), with the post-term association being less consistent ([Campbell _et al_., 1997](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C6)). The use of LMP in examining an age association with the gestational length is confounded by the fact that follicular phase length decreases with age ([Treloar _et al_., 1967](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C29)).
+
+The association of pregnancy length with maternal birthweight was also seen in a large study from the Norwegian national birth registry ([Lie _et al_., 2006](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C16)). In the Norwegian data, the association was not explained by the mother's own gestational length (we could not examine mother's gestational length in the current study). The authors of the Norwegian study suggested that maternal birthweight could be correlated specifically with adult pelvic size or uterine capacity (independent of height), leading to longer gestation.
+
+Physiologic events in early pregnancy were predictive of its length. Conceptuses that took longer to progress from fertilization to implantation also had longer gestations from implantation to delivery. This observation suggests not only that the pace of development may vary among fetuses, but that such differences may be expressed at the very earliest stages of development. Such variation may be intrinsic to the conceptus, or might reflect aspects of the maternal host environment. As mentioned previously, the length of a woman's other pregnancies showed the strongest association with the gestational length.
+
+It is notable that the rate of rise in hCG during the first 7 days after implantation did not predict the length of gestation, but the CL rescue pattern was strongly associated. Practically nothing is known about the reasons for variation in CL rescue in human pregnancy. In other primates, an abrupt progesterone rise at implantation has been reported ([Neill and Knobil, 1972](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C21); [Atkinson _et al_., 1975](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C1)). Among our pregnancies, 45% did not show this pattern of early rise, and these tended to have shorter gestations.
+
+We did not see associations between length of gestation and alcohol use or bleeding during early pregnancy, which have been reported to be associated with preterm birth ([Damus, 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C8)). We also did not find an association with nulliparity, which has been associated with post-term birth ([Campbell _et al_., 1997](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C6); [Caughey _et al_., 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C7); [Roos _et al_., 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C24)) or with male sex, which is associated with risk of preterm birth ([Vatten and Skjaerven, 2004](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C30)). Women with higher body mass index tended in our data to have a longer gestation, as in previous studies ([Caughey _et al_., 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C7); [Roos _et al_., 2010](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C24) ), although this association was not statistically significant. Other than parity and sex of the baby, these exposures were relatively uncommon in our population, diminishing our power to detect associations. Similarly, we did not have enough smokers to evaluate the association of smoking with length of gestation.
+
+### Strengths and weaknesses
+
+The North Carolina Early Pregnancy Study provides a detailed record of events in early pregnancy for a group of naturally conceived pregnancies. The analyses in this paper are built on an extensive foundation of laboratory assays from which markers of physiologic events in early pregnancy have been constructed. While the sample is small and self-selected, the data have provided an informative window on normal physiology ([Wilcox _et al_., 1995](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C32), [1999](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C34); [Baird _et al_., 1999](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C3); [Baird _et al_., 2003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C4); [Nepomnaschy _et al_., 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C22); [Jukic _et al_., 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C14)). Our measure of ovulation has been validated ([Ecochard _et al_., 2001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C10)). The fact that the probability of pregnancy drops to zero for intercourse occurring on the day after ovulation suggests that our measure of ovulation has little error ([Wilcox _et al_., 1995](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C32)). The identification of the timing of implantation is likely accurate given that the rise of hCG is extremely rapid. However, ours is the only study that has defined and examined the CL rescue pattern in humans, and unfortunately we could do this for only a subset of our pregnancies.
+
+Our information on obstetric interventions at delivery was obtained by self-report many years after the event, and we used multiple imputation to allow for unknown mode of delivery for pregnancies in women who could not be re-contacted. We regard our obstetric intervention information as accurately reported, given that almost 90% of the women in the follow-up correctly selected the study birth from their parity history without any prompting as to the dates of their participation. Small qualitative research reports support the idea that women can correctly remember their labor experiences ([Simkin, 1991](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C26), [1992](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570#DET297C27)).
+
+Because the results presented here for predictors of length of pregnancy are a subset of a larger set of characteristics examined ([see Supplementary data, Table SI](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)), and we did not correct for multiple comparisons, some findings could emerge by chance. Replication of these associations will be necessary. Also, we were unable to examine genetic and chromosomal factors in either the father or the mother as these were not measured in this study. It would also have been of interest to compare ultrasound-based gestational length to our gold standard: ovulation-based gestational length. However, ultrasound dating was not a universal standard of prenatal care at the time of our study.
+
+The pregnancies in our study were observed 30 years ago. While we do not expect changes in biology over time, there may be cohort-level changes in environmental or lifestyle factors that would influence length of gestation.
+
+Finally, all of the conceptions in our study occurred within 6 months of the beginning of the pregnancy attempt in a cohort of healthy women who reported few pregnancy-related conditions or neonatal conditions. Our results may not be generalizable to more diverse populations with a higher frequency of medical conditions or lower fecundability.
+
+### Implications
+
+The length of human gestation varies considerably among healthy pregnancies, even when onset of pregnancy is measured by an accurate marker of ovulation. This variability is greater than suggested by the clinical assignment of a single ‘due date’. The duration of previous pregnancies may provide a useful measure of a woman's ‘natural’ length of pregnancy and may help in predicting an individual woman's due date. We also found that events in the first 2 weeks after conception were strongly predictive of the total length of pregnancy, suggesting that the trajectory for the timing of delivery may be set in early pregnancy.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Supplementary data
+--------------------------------------------------------------------------
+
+[Supplementary data are available at http://humrep.oxfordjournals.org/.](http://humrep.oxfordjournals.org/lookup/suppl/doi:10.1093/humrep/det297/-/DC1)
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Authors’ roles
+----------------------------------------------------------------------
+
+Each author made substantial contributions to the design of the analysis, the interpretation of the data and the drafting and revising of the submitted manuscript. A.J.W. designed the original study and C.R.W. and D.D.B. contributed to data collection. A.M.J., D.R.M., A.J.W., C.R.W. and D.D.B. all contributed to the follow-up study design, data collection and manuscript preparation. All authors have seen and approved the final submitted manuscript.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Funding
+---------------------------------------------------------------
+
+This research was supported by the Intramural Research Program of the NIH, National Institute of Environmental Health Sciences.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Conflict of interest
+----------------------------------------------------------------------------
+
+None declared.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Supplementary Material
+------------------------------------------------------------------------------
+
+Supplementary Data
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Acknowledgements
+------------------------------------------------------------------------
+
+We thank Drs Hazel Nichols and Carmen Williams for their comments on an earlier draft of this manuscript. This research was supported by the Intramural Research Program of the NIH, National Institute of Environmental Health Sciences.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)References
+------------------------------------------------------------------
+
+1.   Atkinson LE, Hotchkiss J, Fritz GR, Surve AH, Neill JD, Knobil E. Circulating levels of steroids and chorionic gonadotropin during pregnancy in the rhesus monkey, with special attention to the rescue of the corpus luteum in early pregnancy. Biol Reprod. 1975;12:335–345. doi: 10.1095/biolreprod12.3.335. [[DOI](https://doi.org/10.1095/biolreprod12.3.335)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/1222158/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biol%20Reprod&title=Circulating%20levels%20of%20steroids%20and%20chorionic%20gonadotropin%20during%20pregnancy%20in%20the%20rhesus%20monkey,%20with%20special%20attention%20to%20the%20rescue%20of%20the%20corpus%20luteum%20in%20early%20pregnancy&author=LE%20Atkinson&author=J%20Hotchkiss&author=GR%20Fritz&author=AH%20Surve&author=JD%20Neill&volume=12&publication_year=1975&pages=335-345&pmid=1222158&doi=10.1095/biolreprod12.3.335&)]
+2.   Baird DD, Weinberg CR, Wilcox AJ, McConnaughey DR, Musey PI. Using the ratio of urinary oestrogen and progesterone metabolites to estimate day of ovulation. Stat Med. 1991;10:255–266. doi: 10.1002/sim.4780100209. [[DOI](https://doi.org/10.1002/sim.4780100209)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/2052803/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Stat%20Med&title=Using%20the%20ratio%20of%20urinary%20oestrogen%20and%20progesterone%20metabolites%20to%20estimate%20day%20of%20ovulation&author=DD%20Baird&author=CR%20Weinberg&author=AJ%20Wilcox&author=DR%20McConnaughey&author=PI%20Musey&volume=10&publication_year=1991&pages=255-266&pmid=2052803&doi=10.1002/sim.4780100209&)]
+3.   Baird DD, Weinberg CR, Zhou H, Kamel F, McConnaughey DR, Kesner JS, Wilcox AJ. Preimplantation urinary hormone profiles and the probability of conception in healthy women. Fertil Steril. 1999;71:40–49. doi: 10.1016/s0015-0282(98)00419-1. [[DOI](https://doi.org/10.1016/s0015-0282(98)00419-1)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/9935114/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Fertil%20Steril&title=Preimplantation%20urinary%20hormone%20profiles%20and%20the%20probability%20of%20conception%20in%20healthy%20women&author=DD%20Baird&author=CR%20Weinberg&author=H%20Zhou&author=F%20Kamel&author=DR%20McConnaughey&volume=71&publication_year=1999&pages=40-49&pmid=9935114&doi=10.1016/s0015-0282(98)00419-1&)]
+4.   Baird DD, Weinberg CR, McConnaughey DR, Wilcox AJ. Rescue of the corpus luteum in human pregnancy. Biol Reprod. 2003;68:448–456. doi: 10.1095/biolreprod.102.008425. [[DOI](https://doi.org/10.1095/biolreprod.102.008425)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/12533407/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Biol%20Reprod&title=Rescue%20of%20the%20corpus%20luteum%20in%20human%20pregnancy&author=DD%20Baird&author=CR%20Weinberg&author=DR%20McConnaughey&author=AJ%20Wilcox&volume=68&publication_year=2003&pages=448-456&pmid=12533407&doi=10.1095/biolreprod.102.008425&)]
+5.   Bauman JE. Basal body temperature: unreliable method of ovulation detection. Fertil Steril. 1981;36:729–733. doi: 10.1016/s0015-0282(16)45916-9. [[DOI](https://doi.org/10.1016/s0015-0282(16)45916-9)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/7308516/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Fertil%20Steril&title=Basal%20body%20temperature:%20unreliable%20method%20of%20ovulation%20detection&author=JE%20Bauman&volume=36&publication_year=1981&pages=729-733&pmid=7308516&doi=10.1016/s0015-0282(16)45916-9&)]
+6.   Campbell MK, Ostbye T, Irgens LM. Post-term birth: risk factors and outcomes in a 10-year cohort of Norwegian births. Obstet Gynecol. 1997;89:543–548. doi: 10.1016/s0029-7844(97)00049-5. [[DOI](https://doi.org/10.1016/s0029-7844(97)00049-5)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/9083310/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Obstet%20Gynecol&title=Post-term%20birth:%20risk%20factors%20and%20outcomes%20in%20a%2010-year%20cohort%20of%20Norwegian%20births&author=MK%20Campbell&author=T%20Ostbye&author=LM%20Irgens&volume=89&publication_year=1997&pages=543-548&pmid=9083310&doi=10.1016/s0029-7844(97)00049-5&)]
+7.   Caughey AB, Stotland NE, Washington AE, Escobar GJ. Who is at risk for prolonged and postterm pregnancy? Am J Obstet Gynecol. 2009;200:e681–685. doi: 10.1016/j.ajog.2009.02.034. 683. [[DOI](https://doi.org/10.1016/j.ajog.2009.02.034)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/19380120/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Obstet%20Gynecol&title=Who%20is%20at%20risk%20for%20prolonged%20and%20postterm%20pregnancy?&author=AB%20Caughey&author=NE%20Stotland&author=AE%20Washington&author=GJ%20Escobar&volume=200&publication_year=2009&pages=e681-685&pmid=19380120&doi=10.1016/j.ajog.2009.02.034&)]
+8.   Damus K. Prevention of preterm birth: a renewed national priority. Curr Opin Obstet Gynecol. 2008;20:590–596. doi: 10.1097/GCO.0b013e3283186964. [[DOI](https://doi.org/10.1097/GCO.0b013e3283186964)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/18989136/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Curr%20Opin%20Obstet%20Gynecol&title=Prevention%20of%20preterm%20birth:%20a%20renewed%20national%20priority&author=K%20Damus&volume=20&publication_year=2008&pages=590-596&pmid=18989136&doi=10.1097/GCO.0b013e3283186964&)]
+9.   Doering GK. On the gestation period post ovulation. Geburtshilfe und Frauenheilkunde. 1962;22:1191–1194. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/14028349/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Geburtshilfe%20und%20Frauenheilkunde&title=On%20the%20gestation%20period%20post%20ovulation&author=GK%20Doering&volume=22&publication_year=1962&pages=1191-1194&pmid=14028349&)]
+10.   Ecochard R, Boehringer H, Rabilloud M, Marret H. Chronological aspects of ultrasonic, hormonal, and other indirect indices of ovulation. BJOG. 2001;108:822–829. doi: 10.1111/j.1471-0528.2001.00194.x. [[DOI](https://doi.org/10.1111/j.1471-0528.2001.00194.x)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/11510707/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BJOG&title=Chronological%20aspects%20of%20ultrasonic,%20hormonal,%20and%20other%20indirect%20indices%20of%20ovulation&author=R%20Ecochard&author=H%20Boehringer&author=M%20Rabilloud&author=H%20Marret&volume=108&publication_year=2001&pages=822-829&pmid=11510707&doi=10.1111/j.1471-0528.2001.00194.x&)]
+11.   Guerrero R, Florez PE. The duration of pregnancy. Lancet. 1969;2:268–269. doi: 10.1016/s0140-6736(69)90034-8. [[DOI](https://doi.org/10.1016/s0140-6736(69)90034-8)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/4184129/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=The%20duration%20of%20pregnancy&author=R%20Guerrero&author=PE%20Florez&volume=2&publication_year=1969&pages=268-269&pmid=4184129&doi=10.1016/s0140-6736(69)90034-8&)]
+12.   Harville EW, Wilcox AJ, Baird DD, Weinberg CR. Vaginal bleeding in very early pregnancy. Hum Reprod. 2003;18:1944–1947. doi: 10.1093/humrep/deg379. [[DOI](https://doi.org/10.1093/humrep/deg379)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/12923154/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hum%20Reprod&title=Vaginal%20bleeding%20in%20very%20early%20pregnancy&author=EW%20Harville&author=AJ%20Wilcox&author=DD%20Baird&author=CR%20Weinberg&volume=18&publication_year=2003&pages=1944-1947&pmid=12923154&doi=10.1093/humrep/deg379&)]
+13.   Hoover RN, Hyer M, Pfeiffer RM, Adam E, Bond B, Cheville AL, Colton T, Hartge P, Hatch EE, Herbst AL, et al. Adverse health outcomes in women exposed in utero to diethylstilbestrol. N Engl J Med. 2011;365:1304–1314. doi: 10.1056/NEJMoa1013961. [[DOI](https://doi.org/10.1056/NEJMoa1013961)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/21991952/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Adverse%20health%20outcomes%20in%20women%20exposed%20in%20utero%20to%20diethylstilbestrol&author=RN%20Hoover&author=M%20Hyer&author=RM%20Pfeiffer&author=E%20Adam&author=B%20Bond&volume=365&publication_year=2011&pages=1304-1314&pmid=21991952&doi=10.1056/NEJMoa1013961&)]
+14.   Jukic AM, Weinberg CR, Baird DD, Wilcox AJ. The association of maternal factors with delayed implantation and the initial rise of urinary human chorionic gonadotrophin. Hum Reprod. 2011;26:920–926. doi: 10.1093/humrep/der009. [[DOI](https://doi.org/10.1093/humrep/der009)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC3057753/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/21292636/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hum%20Reprod&title=The%20association%20of%20maternal%20factors%20with%20delayed%20implantation%20and%20the%20initial%20rise%20of%20urinary%20human%20chorionic%20gonadotrophin&author=AM%20Jukic&author=CR%20Weinberg&author=DD%20Baird&author=AJ%20Wilcox&volume=26&publication_year=2011&pages=920-926&pmid=21292636&doi=10.1093/humrep/der009&)]
+15.   Lenton EA, Weston GA, Cooke ID. Problems in using basal body temperature recordings in an infertility clinic. Br Med J. 1977;1:803–805. doi: 10.1136/bmj.1.6064.803. [[DOI](https://doi.org/10.1136/bmj.1.6064.803)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC1606197/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/856386/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Br%20Med%20J&title=Problems%20in%20using%20basal%20body%20temperature%20recordings%20in%20an%20infertility%20clinic&author=EA%20Lenton&author=GA%20Weston&author=ID%20Cooke&volume=1&publication_year=1977&pages=803-805&pmid=856386&doi=10.1136/bmj.1.6064.803&)]
+16.   Lie RT, Wilcox AJ, Skjaerven R. Maternal and paternal influences on length of pregnancy. Obstet Gynecol. 2006;107:880–885. doi: 10.1097/01.AOG.0000206797.52832.36. [[DOI](https://doi.org/10.1097/01.AOG.0000206797.52832.36)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/16582127/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Obstet%20Gynecol&title=Maternal%20and%20paternal%20influences%20on%20length%20of%20pregnancy&author=RT%20Lie&author=AJ%20Wilcox&author=R%20Skjaerven&volume=107&publication_year=2006&pages=880-885&pmid=16582127&doi=10.1097/01.AOG.0000206797.52832.36&)]
+17.   Little RJA, Rubin DB. Statistical Analysis with Missing Data. 2nd edn. Hoboken, USA: John Wiley & Sons, Inc.; 2002.  [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Statistical%20Analysis%20with%20Missing%20Data&author=RJA%20Little&author=DB%20Rubin&publication_year=2002&)]
+18.   Martin R, Dixson A, Wickings E. Paternity in Primates: Genetic Tests and Theories. Basel, SZ: Karger; 1992. pp. 238–274. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Paternity%20in%20Primates:%20Genetic%20Tests%20and%20Theories&author=R%20Martin&author=A%20Dixson&author=E%20Wickings&publication_year=1992&)]
+19.   Moghissi KS. Accuracy of basal body temperature for ovulation detection. Fertil Steril. 1976;27:1415–1421. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/1001528/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Fertil%20Steril&title=Accuracy%20of%20basal%20body%20temperature%20for%20ovulation%20detection&author=KS%20Moghissi&volume=27&publication_year=1976&pages=1415-1421&pmid=1001528&)]
+20.   Mongelli M, Wilcox M, Gardosi J. Estimating the date of confinement: ultrasonographic biometry versus certain menstrual dates. Am J Obstet Gynecol. 1996;174:278–281. doi: 10.1016/s0002-9378(96)70408-8. [[DOI](https://doi.org/10.1016/s0002-9378(96)70408-8)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/8572021/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Obstet%20Gynecol&title=Estimating%20the%20date%20of%20confinement:%20ultrasonographic%20biometry%20versus%20certain%20menstrual%20dates&author=M%20Mongelli&author=M%20Wilcox&author=J%20Gardosi&volume=174&publication_year=1996&pages=278-281&pmid=8572021&doi=10.1016/s0002-9378(96)70408-8&)]
+21.   Neill JD, Knobil E. On the nature of the initial luteotropic stimulus of pregnancy in the Rhesus monkey. Endocrinology. 1972;90:34–38. doi: 10.1210/endo-90-1-34. [[DOI](https://doi.org/10.1210/endo-90-1-34)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/4621541/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Endocrinology&title=On%20the%20nature%20of%20the%20initial%20luteotropic%20stimulus%20of%20pregnancy%20in%20the%20Rhesus%20monkey&author=JD%20Neill&author=E%20Knobil&volume=90&publication_year=1972&pages=34-38&pmid=4621541&doi=10.1210/endo-90-1-34&)]
+22.   Nepomnaschy PA, Weinberg CR, Wilcox AJ, Baird DD. Urinary hCG patterns during the week following implantation. Hum Reprod. 2008;23:271–277. doi: 10.1093/humrep/dem397. [[DOI](https://doi.org/10.1093/humrep/dem397)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5330618/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/18083748/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hum%20Reprod&title=Urinary%20hCG%20patterns%20during%20the%20week%20following%20implantation&author=PA%20Nepomnaschy&author=CR%20Weinberg&author=AJ%20Wilcox&author=DD%20Baird&volume=23&publication_year=2008&pages=271-277&pmid=18083748&doi=10.1093/humrep/dem397&)]
+23.   Pemberton LK, Burd I, Wang E. Reports in Medical Imaging. 2010;3:11–15. [[Google Scholar](https://scholar.google.com/scholar_lookup?Pemberton%20LK,%20Burd%20I,%20Wang%20E.%20Reports%20in%20Medical%20Imaging.%202010;3:11%E2%80%9315.)]
+24.   Quagliarello J, Arny M. Inaccuracy of basal body temperature charts in predicting urinary luteinizing hormone surges. Fertil Steril. 1986;45:334–337. doi: 10.1016/s0015-0282(16)49212-5. [[DOI](https://doi.org/10.1016/s0015-0282(16)49212-5)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/3949032/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Fertil%20Steril&title=Inaccuracy%20of%20basal%20body%20temperature%20charts%20in%20predicting%20urinary%20luteinizing%20hormone%20surges&author=J%20Quagliarello&author=M%20Arny&volume=45&publication_year=1986&pages=334-337&pmid=3949032&doi=10.1016/s0015-0282(16)49212-5&)]
+25.   Roos N, Sahlin L, Ekman-Ordeberg G, Kieler H, Stephansson O. Maternal risk factors for postterm pregnancy and cesarean delivery following labor induction. Acta Obstet Gynecol Scand. 2010;89:1003–1010. doi: 10.3109/00016349.2010.500009. [[DOI](https://doi.org/10.3109/00016349.2010.500009)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20636240/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Acta%20Obstet%20Gynecol%20Scand&title=Maternal%20risk%20factors%20for%20postterm%20pregnancy%20and%20cesarean%20delivery%20following%20labor%20induction&author=N%20Roos&author=L%20Sahlin&author=G%20Ekman-Ordeberg&author=H%20Kieler&author=O%20Stephansson&volume=89&publication_year=2010&pages=1003-1010&pmid=20636240&doi=10.3109/00016349.2010.500009&)]
+26.   Saito M, Yazawa K, Hashiguchi A, Kumasaka T, Nishi N, Kato K. Time of ovulation and prolonged pregnancy. Am J Obstet Gynecol. 1972;112:31–38. doi: 10.1016/0002-9378(72)90525-x. [[DOI](https://doi.org/10.1016/0002-9378(72)90525-x)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/5007506/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Am%20J%20Obstet%20Gynecol&title=Time%20of%20ovulation%20and%20prolonged%20pregnancy&author=M%20Saito&author=K%20Yazawa&author=A%20Hashiguchi&author=T%20Kumasaka&author=N%20Nishi&volume=112&publication_year=1972&pages=31-38&pmid=5007506&doi=10.1016/0002-9378(72)90525-x&)]
+27.   Simkin P. Just another day in a woman's life? Women's long-term perceptions of their first birth experience. Part I. Birth. 1991;18:203–210. doi: 10.1111/j.1523-536x.1991.tb00103.x. [[DOI](https://doi.org/10.1111/j.1523-536x.1991.tb00103.x)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/1764149/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Birth&title=Just%20another%20day%20in%20a%20woman%27s%20life?%20Women%27s%20long-term%20perceptions%20of%20their%20first%20birth%20experience.%20Part%20I&author=P%20Simkin&volume=18&publication_year=1991&pages=203-210&pmid=1764149&doi=10.1111/j.1523-536x.1991.tb00103.x&)]
+28.   Simkin P. Just another day in a woman's life? Part II: Nature and consistency of women's long-term memories of their first birth experiences. Birth. 1992;19:64–81. doi: 10.1111/j.1523-536x.1992.tb00382.x. [[DOI](https://doi.org/10.1111/j.1523-536x.1992.tb00382.x)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/1388434/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Birth&title=Just%20another%20day%20in%20a%20woman%27s%20life?%20Part%20II:%20Nature%20and%20consistency%20of%20women%27s%20long-term%20memories%20of%20their%20first%20birth%20experiences&author=P%20Simkin&volume=19&publication_year=1992&pages=64-81&pmid=1388434&doi=10.1111/j.1523-536x.1992.tb00382.x&)]
+29.   Stewart HL., Jr Duration of pregnancy and postmaturity. J Am Med Assoc. 1952;148:1079–1083. doi: 10.1001/jama.1952.02930130007002. [[DOI](https://doi.org/10.1001/jama.1952.02930130007002)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/14907330/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Am%20Med%20Assoc&title=Duration%20of%20pregnancy%20and%20postmaturity&author=HL%20Stewart&volume=148&publication_year=1952&pages=1079-1083&pmid=14907330&doi=10.1001/jama.1952.02930130007002&)]
+30.   Treloar AE, Boynton RE, Behn BG, Brown BW. Variation of the human menstrual cycle through reproductive life. Int J Fertil. 1967;12:77–126. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/5419031/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Int%20J%20Fertil&title=Variation%20of%20the%20human%20menstrual%20cycle%20through%20reproductive%20life&author=AE%20Treloar&author=RE%20Boynton&author=BG%20Behn&author=BW%20Brown&volume=12&publication_year=1967&pages=77-126&pmid=5419031&)]
+31.   Vatten R, Skjaerven R. Offspring sex and pregnancy outcome by length of gestation. Early Hum Dev. 2004;76:47–54. doi: 10.1016/j.earlhumdev.2003.10.006. [[DOI](https://doi.org/10.1016/j.earlhumdev.2003.10.006)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/14729162/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Early%20Hum%20Dev&title=Offspring%20sex%20and%20pregnancy%20outcome%20by%20length%20of%20gestation&author=R%20Vatten&author=R%20Skjaerven&volume=76&publication_year=2004&pages=47-54&pmid=14729162&doi=10.1016/j.earlhumdev.2003.10.006&)]
+32.   Wilcox AJ, Weinberg CR, O'Connor JF, Baird DD, Schlatterer JP, Canfield RE, Armstrong EG, Nisula BC. Incidence of early loss of pregnancy. N Engl J Med. 1988;319:189–194. doi: 10.1056/NEJM198807283190401. [[DOI](https://doi.org/10.1056/NEJM198807283190401)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/3393170/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Incidence%20of%20early%20loss%20of%20pregnancy&author=AJ%20Wilcox&author=CR%20Weinberg&author=JF%20O%27Connor&author=DD%20Baird&author=JP%20Schlatterer&volume=319&publication_year=1988&pages=189-194&pmid=3393170&doi=10.1056/NEJM198807283190401&)]
+33.   Wilcox AJ, Weinberg CR, Baird DD. Timing of sexual intercourse in relation to ovulation. Effects on the probability of conception, survival of the pregnancy, sex of the baby. N Engl J Med. 1995;333:1517–1521. doi: 10.1056/NEJM199512073332301. [[DOI](https://doi.org/10.1056/NEJM199512073332301)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/7477165/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Timing%20of%20sexual%20intercourse%20in%20relation%20to%20ovulation.%20Effects%20on%20the%20probability%20of%20conception,%20survival%20of%20the%20pregnancy,%20sex%20of%20the%20baby&author=AJ%20Wilcox&author=CR%20Weinberg&author=DD%20Baird&volume=333&publication_year=1995&pages=1517-1521&pmid=7477165&doi=10.1056/NEJM199512073332301&)]
+34.   Wilcox AJ, Weinberg CR, Baird DD. Post-ovulatory ageing of the human oocyte and embryo failure. Hum Reprod. 1998;13:394–397. doi: 10.1093/humrep/13.2.394. [[DOI](https://doi.org/10.1093/humrep/13.2.394)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/9557845/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hum%20Reprod&title=Post-ovulatory%20ageing%20of%20the%20human%20oocyte%20and%20embryo%20failure&author=AJ%20Wilcox&author=CR%20Weinberg&author=DD%20Baird&volume=13&publication_year=1998&pages=394-397&pmid=9557845&doi=10.1093/humrep/13.2.394&)]
+35.   Wilcox AJ, Baird DD, Weinberg CR. Time of implantation of the conceptus and loss of pregnancy. N Engl J Med. 1999;340:1796–1799. doi: 10.1056/NEJM199906103402304. [[DOI](https://doi.org/10.1056/NEJM199906103402304)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/10362823/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&title=Time%20of%20implantation%20of%20the%20conceptus%20and%20loss%20of%20pregnancy&author=AJ%20Wilcox&author=DD%20Baird&author=CR%20Weinberg&volume=340&publication_year=1999&pages=1796-1799&pmid=10362823&doi=10.1056/NEJM199906103402304&)]
+36.   Winston NJ, Braude PR, Johnson MH. Are failed-fertilized human oocytes useful? Hum Reprod. 1993;8:503–507. doi: 10.1093/oxfordjournals.humrep.a138084. [[DOI](https://doi.org/10.1093/oxfordjournals.humrep.a138084)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/8501174/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Hum%20Reprod&title=Are%20failed-fertilized%20human%20oocytes%20useful?&author=NJ%20Winston&author=PR%20Braude&author=MH%20Johnson&volume=8&publication_year=1993&pages=503-507&pmid=8501174&doi=10.1093/oxfordjournals.humrep.a138084&)]
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3777570)Associated Data
+-----------------------------------------------------------------------
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Supplementary Materials
+
+Supplementary Data

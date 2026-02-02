@@ -1,0 +1,49 @@
+# Overgrowth developer Wolfire Games files antitrust lawsuit against Valve
+
+1.   [Home](https://www.pcgamer.com/)
+2.   [News](https://www.pcgamer.com/news/)
+3.   [Indie](https://www.pcgamer.com/tag/genre/indie/)
+
+![Image 1: Overgrowth](https://cdn.mos.cms.futurecdn.net/X9DbpcSr7NbvPCsEJrceF7-320-80.jpg)
+
+(Image credit: Wolfire Games)
+
+Wolfire Games, the developer of [Overgrowth](https://www.pcgamer.com/overgrowth/) and [Receiver](https://www.pcgamer.com/receiver-2/), has filed an antitrust lawsuit against Valve, alleging that it uses its dominance over the PC gaming market through Steam to suppress competition while it extracts "an extraordinarily high cut from nearly every sale that passes through its store."
+
+The ubiquity of Steam means that if developers and publishers want to reach the largest possible audience on PC, they must make use of it, and thus must also abide by Valve's terms of service. That means not only forking over a 30 percent cut of all sales (unless they make [over $10 million](https://www.pcgamer.com/valves-new-revenue-sharing-favours-big-budget-games-and-indie-devs-arent-happy/)), but also agreeing to restrictions on pricing that ensure that other storefronts are unable to compete on price. Valve can (and does, according to the suit) prevent developers from setting lower prices on non-Steam storefronts, and from selling Steam keys at lower prices through other distributors.
+
+In Wolfire's estimation, that sucks for game makers, but also for gamers. "In order to afford Valve's 30 percent commission, game publishers must raise their prices to consumers and can afford to invest fewer resources in innovation and creation," the suit states. "Gamers are injured by paying higher retail prices caused by Valve's high commissions. Competition, output, and innovation are suppressed, in ways that can never be fully redressed by damages alone."
+
+The lawsuit claims that Steam's domination of the market can be seen in the fact that no other storefront, including those operated by deep-pocketed heavy hitters like Electronic Arts and Microsoft, have been able to make meaningful headway against it. Origin, the Microsoft Store, and others like Ubisoft and GOG have survived but hold relatively tiny slices of the market, and both [Electronic Arts](https://www.pcgamer.com/dragon-age-inquisition-need-for-speed-and-more-ea-games-are-now-on-steam-and-on-sale/) and [Microsoft](https://www.pcgamer.com/microsoft-games-on-steam-announced/) have brought their games back to Steam after attempting to go solo.
+
+Even the Epic Games Store is cited in the lawsuit as a failure because, while it is currently Valve's chief competitor in the digital PC marketplace, it has only been able to do so by spending [hundreds of millions of dollars](https://www.pcgamer.com/epic-games-store-exclusives-apple-lawsuit/) on exclusive deals with publishers. Even after that, it still holds a relatively tiny share of the market—roughly [15 percent](https://www.pcgamer.com/tim-sweeney-says-epic-games-store-giveaways-help-boost-sales-on-other-platforms/), as of June 2020.
+
+Presumably intending to point out the less obvious hurdles that putative Steam competitors face, the lawsuit also notes that Epic's efforts have prompted significant blowback against it.
+
+"The release of Borderlands 3 as enabled for the EGS Platform (rather than the Steam Gaming Platform), for example, triggered a backlash among some gamers, with reactions including 'calls for boycotts, YouTube rants, conspiracy theories, and review bombing'," it states. "One user started a petition on the 'r/gaming' online Reddit community. That user argued, 'We can't just let Epic Games keep buying out exclusives to their [expletive] launcher. This is very anti consumer and it is literally Epic paying millions to 2K just to [expletive] over us the buyers. I really suggest everyone on PC to boycott the game until it releases on Steam so Epic does not get any of our money.'"
+
+(It's worth remembering, however, that despite the unhappiness, Borderlands 3 was a big hit, and became 2K Games' [best-selling PC game of all time](https://www.pcgamer.com/borderlands-3-is-2ks-best-selling-pc-game/).)
+
+In fact, the suit quotes Epic Games CEO Tim Sweeney as saying the company "would hastily organize a retreat from exclusives" and possibly even put its own games on Steam if Valve offered a more competitive platform.
+
+> If Steam committed to a permanent 88% revenue share for all developers and publishers without major strings attached, Epic would hastily organize a retreat from exclusives (while honoring our partner commitments) and consider putting our own games on Steam.[April 25, 2019](https://twitter.com/TimSweeneyEpic/status/1121218551342350336)
+
+See more
+
+RECOMMENDED VIDEOS FOR YOU...
+
+Wolfire and co-defendants William Herbert and Daniel Escobar (residents of Florida and New York respectively, who have made purchases through Steam and thus "paid supracompetitive prices for PC desktop games") are seeking the usual blend of damages, costs, and legal fees. But they're also looking for "injunctive relief removing Valve's anticompetitive provisions," which the suit says "is necessary to bring competition to the market and benefit the public as a whole."
+
+Seeking what would effectively be a wholesale reconstruction of Steam's business practices is a big ask, but may not be completely out of reach. Epic's willingness to eat losses has enabled it to push back against Steam in ways that other competing storefronts never have, and we're starting to see a ripple effect as a result: The vast majority of respondents to a recent GDC survey said that Steam's [30/70 revenue split is out of line](https://www.pcgamer.com/most-game-devs-dont-think-steam-earns-its-30-revenue-cut/), and earlier today Microsoft [reduced the cut it takes](https://www.pcgamer.com/microsoft-is-slashing-the-cut-it-takes-from-developers-by-18/) from game sales on its store by more than half, from 30 percent to 12—the same percentage that Epic charges. Apple has also halved its 30 percent App Store cut for developers who make under $1 million per year, and the Google Play store is following suit this summer.
+
+This is the second such lawsuit filed against Valve this year: In January, a [similar suit](https://www.pcgamer.com/lawsuit-claims-valve-is-abusing-its-market-dominance-to-keep-prices-high/) was filed on behalf of five individuals accusing Valve of using its dominant position in the market to keep game prices high, although several developers and publishers were named in that action as well, including CD Projekt, Ubisoft, and Devolver Digital.
+
+Wolfire's full lawsuit against Valve is available on [Scribd](https://go.redirectingat.com/?id=92X590208&xcust=pcg_us_9718255731280224000&xs=1&url=https%3A%2F%2Fwww.scribd.com%2Fdocument%2F505496523%2FCOMPLAINT-filed-by-Wolfire-Games-against-Valve-Corporation-CASE-NO-2-21-CV-563&sref=https%3A%2F%2Fwww.pcgamer.com%2Fovergrowth-developer-wolfire-games-files-antitrust-lawsuit-against-valve/). I've reached out to Valve for comment, and will update if I receive a reply.
+
+Andy covers the day-to-day happenings in the big, wide world of PC gaming—the stuff we call "news." In his off hours, he wishes he had time to play the 80-hour RPGs and immersive sims he used to love so much.
+
+Latest
+
+Most Popular
+
+Topics

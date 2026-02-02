@@ -1,0 +1,65 @@
+# Valve's gaming handheld is called the Steam Deck and it's shipping in December
+
+[Valve just announced the Steam Deck](https://www.steamdeck.com/en/), its [long-rumored](https://www.theverge.com/2021/5/25/22453584/valve-portable-gaming-pc-switch-rumor-report) Switch-like handheld gaming device. It will [begin shipping in December](https://store.steampowered.com/steamdeck) and reservations open July 16th at 1PM ET. It starts at $399, and you can buy it in $529 and $649 models as well.
+
+The device has an AMD APU containing a quad-core Zen 2 CPU with eight threads and eight compute units’ worth of AMD RDNA 2 graphics, alongside 16GB of LPDDR5 RAM. There are three different storage tiers: 64GB eMMC storage for $399, 256GB NVMe SSD storage for $529, and 512GB of high-speed NVME SSD storage for $649, according to Valve. You can also expand the available storage using the high-speed microSD card slot.
+
+![Image 1: A 1x1 image, likely be a tacker probe](blob:https://www.theverge.com/c2c57999418ebc49f4ecabfe5ec5d69d)
+
+_The Steam Deck._
+
+Image: Valve
+The Steam Deck has a huge number of control options. There are two thumbsticks, but also two small, [Steam Controller-style](https://www.theverge.com/good-deals/2019/11/26/20984123/valve-steam-controller-discontinued-sale-price) trackpads beneath the thumbsticks, which could give you more precision for things like first-person shooters. The front of the Steam Deck also has ABXY buttons, a D-pad, and a 7-inch 1280 x 800 touchscreen for 720p gameplay. The device also has a gyroscope for motion controls. Like the Switch, it has two shoulder triggers on each side, and there are four back buttons (two on each side) as well as built-in microphones.
+
+Here’s a legend to all of the Deck’s ports and controls:
+
+![Image 2: The figure depicts the components of the Steam Deck video game console](https://cdn.vox-cdn.com/thumbor/KUurH-Ith7IX0DF_iwyEsKOB8ao=/0x0:970x1346/1200x0/filters:focal(0x0:970x1346):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22719692/steam_deck_ports_controls.jpg)
+
+_The Steam Deck’s external hardware features._
+
+Image: Valve
+As for the battery, “Steam Deck’s onboard 40 watt-hour battery provides several hours of play time for most games,” Valve says. “For lighter use cases like game streaming, smaller 2D games, or web browsing, you can expect to get the maximum battery life of approximately 7-8 hours.” [Valve tells _IGN_](https://www.ign.com/articles/steam-deck-valve-faq-big-questions-answered) that “You can play _Portal 2_ for four hours on this thing. If you limit it to 30 FPS, you’re going to be playing for 5-6 hours.”
+
+And if you need to pause your game, the Steam Deck offers a quick suspend / resume feature built into SteamOS that will let you put the device into sleep mode and pick up where you left off later.
+
+![Image 3: A gaming device shows a fighting game being played](https://cdn.vox-cdn.com/thumbor/7LRxH9tQTYL0Vi3akWwxTD3h3EU=/0x0:1612x1075/1200x0/filters:focal(0x0:1612x1075):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22719843/steam_deck_004.jpg)
+Valve will also sell a dock you can use to prop up a Steam Deck and plug it into external displays like a TV. You won’t need a dock to plug it into a TV, though — Valve says that the “Deck can be plugged in to your TV, monitor, or even your old CRT if you have the right cables.” The Deck comes with fully-fledged USB-C ports that contain HDMI, Ethernet and USB data, as well as standard Bluetooth. You’ll have native Bluetooth audio, something that’s missing from the Nintendo Switch.
+
+On the software side of things, the Steam Deck runs what Valve is calling “a new version of SteamOS,” that it’s optimized for the handheld’s mobile form factor. But the actual OS is based on Linux, and [will use Proton](https://en.wikipedia.org/wiki/Proton_(software)) as a compatibility layer to allow Windows-based games to run without requiring that developers specifically port them for the Steam Deck.
+
+![Image 4: Steam Deck from Valve, rear view](https://cdn.vox-cdn.com/thumbor/y1HUXsl6P1CfNrNQkyCm8G-sG3E=/0x0:1931x1336/1200x0/filters:focal(0x0:1931x1336):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22719673/Image_from_iOS__5_.jpg)
+
+_A rear view of the device showing off its four grip buttons, triggers, bumpers, vents and Switch-esque design._
+
+Image: Valve
+Ultimately, though, the Steam Deck is still a full-fledged Linux computer, meaning that more technical users will be able to jump out to the regular Linux desktop, too. Valve notes that you’ll be able to plug in a mouse, keyboard, and monitor, and install other game stores, regular PC software, browse the web, and more.
+
+Valve says the Steam Deck’s features are designed to emulate the regular Steam app on desktop, complete with chat, notifications, cloud save support, and all of your library, collections, and favorites kept in sync. And if you want more power, you’ll be able to stream games to the Steam Deck directly from your gaming PC using Valve’s Remote Play feature.
+
+![Image 5](https://www.theverge.com/2021/7/15/22578783/valve-steam-deck-gaming-handheld-pc)
+
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719841/steam_deck_002.jpg) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719844/steam_deck_005.jpg) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719843/steam_deck_004.jpg) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719842/steam_deck_003.jpg) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719840/steam_deck_001.jpg) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719718/Screen_Shot_2021_07_15_at_1.18.17_PM.png) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719719/Screen_Shot_2021_07_15_at_1.18.36_PM.png) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719720/Screen_Shot_2021_07_15_at_1.18.43_PM.png) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719721/Screen_Shot_2021_07_15_at_1.17.51_PM.png) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719722/Screen_Shot_2021_07_15_at_1.18.04_PM.png) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719723/Screen_Shot_2021_07_15_at_1.19.29_PM.png) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719724/Screen_Shot_2021_07_15_at_1.19.21_PM.png) Images: Valve 
+*   [](https://cdn.vox-cdn.com/uploads/chorus_asset/file/22719725/Screen_Shot_2021_07_15_at_1.18.55_PM.png) Images: Valve 
+
+When reservations for all three versions [open on Friday afternoon](https://store.steampowered.com/steamdeck), they’ll initially be available only to accounts with purchases on Steam before June 2021, in a bid to keep reseller bots at bay. There’s also a refundable $5 reservation fee, and one reservation per person. Your reservation isn’t exactly a preorder, but it does put you in line to preorder the system once there’s inventory available.
+
+In December, the first units will be available in the United States, Canada, the European Union, and the United Kingdom, with other areas following in 2022. The preorder invitations are supposed to go out before December, and if you miss your window on the invite, your reservation fee will be refunded to your Steam Wallet.
+
+[_IGN_ got an early, exclusi](https://www.ign.com/articles/steam-deck-hands-on-impressions-details-valve-handheld-gaming-pc)[ve hands-on](https://www.ign.com/videos/valve-announces-the-steam-deck-a-400-handheld-gaming-pc) with the Steam Deck, which you can watch below:
+
+IGN also got an interview with Valve’s Gabe Newell, who said that Valve designed the whole system with “very aggressive” pricing in mind, [calling it a “critical” and “painful” aspect](https://www.ign.com/articles/steam-deck-price-valve-gabe-newell-400-dollars-painful-but-critical) of development. That’s a different strategy than Valve took with [the Valve Index VR headset](https://www.theverge.com/2019/6/28/19102584/valve-index-steamvr-headset-review-shipping-today), when it intentionally tried to push the industry forward with what was then the most expensive consumer-grade VR experience, at $999. Here, a $400 entry-level Steam Deck comes in just $50 more expensive than Nintendo’s new OLED-equipped Switch, [which goes on preorder for $350 today](https://www.theverge.com/2021/7/15/22578368/nintendo-switch-oled-preorder-time-price-release-date) and ships October 8th. (Valve swooped in on that.)
+
+Valve’s Greg Coomer told _IGN_ that should the Steam Deck succeed, the company’s already thinking about future models, and offering the “building blocks” to other manufacturers as well. “We look at this as just a new category of device in the PC space,” he said. That might bring back echoes of [Valve’s failed Steam Machines initiative](https://www.theverge.com/2018/4/2/17190394/valve-steam-machines-steamos-section-hidden-pc-gaming-living-room), in which it tried to encourage partners to build desirable Linux gaming desktops, but with key differences.
+
+This time, Valve has created its own hardware first, it doesn’t need to sell every game developer on Linux ports, and this “category” of PC already exists to some degree: we’ve written about how Windows portables [have been edging closer to the dream of a Nintendo Switch-like gaming PC](https://www.theverge.com/circuitbreaker/2021/1/18/22237379/aya-neo-gpd-win-3-nintendo-switch-gaming-pc-handheld-specs-comparison).

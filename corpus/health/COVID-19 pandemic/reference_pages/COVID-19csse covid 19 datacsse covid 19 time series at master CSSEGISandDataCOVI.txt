@@ -1,0 +1,381 @@
+# COVID-19/csse_covid_19_data/csse_covid_19_time_series at master · CSSEGISandData/COVID-19
+
+COVID-19/csse_covid_19_data/csse_covid_19_time_series at master · CSSEGISandData/COVID-19 · GitHub
+
+===============
+
+[Skip to content](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series#start-of-content)
+Navigation Menu
+---------------
+
+Toggle navigation
+
+[](https://github.com/)
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCSSEGISandData%2FCOVID-19%2Ftree%2Fmaster%2Fcsse_covid_19_data%2Fcsse_covid_19_time_series)
+
+Appearance settings
+
+*   
+Platform
+
+    *   
+AI CODE CREATION
+        *   [GitHub Copilot Write better code with AI](https://github.com/features/copilot)
+        *   [GitHub Spark Build and deploy intelligent apps](https://github.com/features/spark)
+        *   [GitHub Models Manage and compare prompts](https://github.com/features/models)
+        *   [MCP Registry New Integrate external tools](https://github.com/mcp)
+
+    *   
+DEVELOPER WORKFLOWS
+        *   [Actions Automate any workflow](https://github.com/features/actions)
+        *   [Codespaces Instant dev environments](https://github.com/features/codespaces)
+        *   [Issues Plan and track work](https://github.com/features/issues)
+        *   [Code Review Manage code changes](https://github.com/features/code-review)
+
+    *   
+APPLICATION SECURITY
+        *   [GitHub Advanced Security Find and fix vulnerabilities](https://github.com/security/advanced-security)
+        *   [Code security Secure your code as you build](https://github.com/security/advanced-security/code-security)
+        *   [Secret protection Stop leaks before they start](https://github.com/security/advanced-security/secret-protection)
+
+    *   
+EXPLORE
+        *   [Why GitHub](https://github.com/why-github)
+        *   [Documentation](https://docs.github.com/)
+        *   [Blog](https://github.blog/)
+        *   [Changelog](https://github.blog/changelog)
+        *   [Marketplace](https://github.com/marketplace)
+
+[View all features](https://github.com/features)
+
+*   
+Solutions
+
+    *   
+BY COMPANY SIZE
+        *   [Enterprises](https://github.com/enterprise)
+        *   [Small and medium teams](https://github.com/team)
+        *   [Startups](https://github.com/enterprise/startups)
+        *   [Nonprofits](https://github.com/solutions/industry/nonprofits)
+
+    *   
+BY USE CASE
+        *   [App Modernization](https://github.com/solutions/use-case/app-modernization)
+        *   [DevSecOps](https://github.com/solutions/use-case/devsecops)
+        *   [DevOps](https://github.com/solutions/use-case/devops)
+        *   [CI/CD](https://github.com/solutions/use-case/ci-cd)
+        *   [View all use cases](https://github.com/solutions/use-case)
+
+    *   
+BY INDUSTRY
+        *   [Healthcare](https://github.com/solutions/industry/healthcare)
+        *   [Financial services](https://github.com/solutions/industry/financial-services)
+        *   [Manufacturing](https://github.com/solutions/industry/manufacturing)
+        *   [Government](https://github.com/solutions/industry/government)
+        *   [View all industries](https://github.com/solutions/industry)
+
+[View all solutions](https://github.com/solutions)
+
+*   
+Resources
+
+    *   
+EXPLORE BY TOPIC
+        *   [AI](https://github.com/resources/articles?topic=ai)
+        *   [Software Development](https://github.com/resources/articles?topic=software-development)
+        *   [DevOps](https://github.com/resources/articles?topic=devops)
+        *   [Security](https://github.com/resources/articles?topic=security)
+        *   [View all topics](https://github.com/resources/articles)
+
+    *   
+EXPLORE BY TYPE
+        *   [Customer stories](https://github.com/customer-stories)
+        *   [Events & webinars](https://github.com/resources/events)
+        *   [Ebooks & reports](https://github.com/resources/whitepapers)
+        *   [Business insights](https://github.com/solutions/executive-insights)
+        *   [GitHub Skills](https://skills.github.com/)
+
+    *   
+SUPPORT & SERVICES
+        *   [Documentation](https://docs.github.com/)
+        *   [Customer support](https://support.github.com/)
+        *   [Community forum](https://github.com/orgs/community/discussions)
+        *   [Trust center](https://github.com/trust-center)
+        *   [Partners](https://github.com/partners)
+
+*   
+Open Source
+
+    *   
+COMMUNITY
+        *   [GitHub Sponsors Fund open source developers](https://github.com/sponsors)
+
+    *   
+PROGRAMS
+        *   [Security Lab](https://securitylab.github.com/)
+        *   [Maintainer Community](https://maintainers.github.com/)
+        *   [Accelerator](https://github.com/accelerator)
+        *   [Archive Program](https://archiveprogram.github.com/)
+
+    *   
+REPOSITORIES
+        *   [Topics](https://github.com/topics)
+        *   [Trending](https://github.com/trending)
+        *   [Collections](https://github.com/collections)
+
+*   
+Enterprise
+
+    *   
+ENTERPRISE SOLUTIONS
+        *   [Enterprise platform AI-powered developer platform](https://github.com/enterprise)
+
+    *   
+AVAILABLE ADD-ONS
+        *   [GitHub Advanced Security Enterprise-grade security features](https://github.com/security/advanced-security)
+        *   [Copilot for Business Enterprise-grade AI features](https://github.com/features/copilot/copilot-business)
+        *   [Premium Support Enterprise-grade 24/7 support](https://github.com/premium-support)
+
+*   [Pricing](https://github.com/pricing)
+
+Search or jump to...
+
+Search code, repositories, users, issues, pull requests...
+==========================================================
+
+ Search  
+
+Clear
+
+[Search syntax tips](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax)
+
+Provide feedback
+================
+
+We read every piece of feedback, and take your input very seriously.
+
+- [x] Include my email address so I can be contacted 
+
+ Cancel  Submit feedback 
+
+Saved searches
+==============
+
+Use saved searches to filter your results more quickly
+------------------------------------------------------
+
+Name 
+
+Query 
+
+To see all available qualifiers, see our [documentation](https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax).
+
+ Cancel  Create saved search 
+
+[Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FCSSEGISandData%2FCOVID-19%2Ftree%2Fmaster%2Fcsse_covid_19_data%2Fcsse_covid_19_time_series)
+
+[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&source=header-repo&source_repo=CSSEGISandData%2FCOVID-19)
+
+Appearance settings
+
+Resetting focus
+
+You signed in with another tab or window. [Reload](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) to refresh your session.You signed out in another tab or window. [Reload](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) to refresh your session.You switched accounts on another tab or window. [Reload](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) to refresh your session.Dismiss alert
+
+{{ message }}
+
+ This repository was archived by the owner on Mar 10, 2023. It is now read-only. 
+
+[CSSEGISandData](https://github.com/CSSEGISandData)/**[COVID-19](https://github.com/CSSEGISandData/COVID-19)**Public archive
+
+*   [Notifications](https://github.com/login?return_to=%2FCSSEGISandData%2FCOVID-19)You must be signed in to change notification settings
+*   [Fork 18.2k](https://github.com/login?return_to=%2FCSSEGISandData%2FCOVID-19)
+*   [Star 29k](https://github.com/login?return_to=%2FCSSEGISandData%2FCOVID-19) 
+
+*   [Code](https://github.com/CSSEGISandData/COVID-19)
+*   [Issues 1.7k](https://github.com/CSSEGISandData/COVID-19/issues)
+*   [Pull requests 278](https://github.com/CSSEGISandData/COVID-19/pulls)
+*   [Actions](https://github.com/CSSEGISandData/COVID-19/actions)
+*   [Projects 0](https://github.com/CSSEGISandData/COVID-19/projects)
+*   [Security](https://github.com/CSSEGISandData/COVID-19/security)[](https://github.com/CSSEGISandData/COVID-19/security)[](https://github.com/CSSEGISandData/COVID-19/security)[](https://github.com/CSSEGISandData/COVID-19/security)[### Uh oh!](https://github.com/CSSEGISandData/COVID-19/security)
+[There was an error while loading.](https://github.com/CSSEGISandData/COVID-19/security)[Please reload this page](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).    
+*   [Insights](https://github.com/CSSEGISandData/COVID-19/pulse)
+
+Additional navigation options
+
+*   [Code](https://github.com/CSSEGISandData/COVID-19)
+*   [Issues](https://github.com/CSSEGISandData/COVID-19/issues)
+*   [Pull requests](https://github.com/CSSEGISandData/COVID-19/pulls)
+*   [Actions](https://github.com/CSSEGISandData/COVID-19/actions)
+*   [Projects](https://github.com/CSSEGISandData/COVID-19/projects)
+*   [Security](https://github.com/CSSEGISandData/COVID-19/security)
+*   [Insights](https://github.com/CSSEGISandData/COVID-19/pulse)
+
+Collapse file tree
+------------------
+
+Files
+-----
+
+master
+
+Search this repository
+
+*         archived_data  
+*         csse_covid_19_data  
+    *          csse_covid_19_daily_reports  
+    *          csse_covid_19_daily_reports_us  
+    *          csse_covid_19_time_series  
+        *         .gitignore  
+        *         Errata.csv  
+        *         README.md  
+        *         time_series_covid19_confirmed_US.csv  
+        *         time_series_covid19_confirmed_global.csv  
+        *         time_series_covid19_deaths_US.csv  
+        *         time_series_covid19_deaths_global.csv  
+        *         time_series_covid19_recovered_global.csv  
+
+    *        README.md  
+    *        UID_ISO_FIPS_LookUp_Table.csv  
+
+*         who_covid_19_situation_reports  
+*       .gitignore  
+*       README.md  
+
+Breadcrumbs
+-----------
+
+1.   [COVID-19](https://github.com/CSSEGISandData/COVID-19/tree/master)
+2.   /[csse_covid_19_data](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
+
+/
+csse_covid_19_time_series
+=========================
+
+/
+
+Copy path
+
+Directory actions
+-----------------
+
+More options
+------------
+
+More options[](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)[](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+
+Directory actions
+-----------------
+
+More options
+------------
+
+More options[](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)[](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
+
+Latest commit
+-------------
+
+[![Image 1: CSSEGISandData](https://avatars.githubusercontent.com/u/60674295?v=4&size=40)](https://github.com/CSSEGISandData)[CSSEGISandData](https://github.com/CSSEGISandData/COVID-19/commits?author=CSSEGISandData)
+
+[Automated update](https://github.com/CSSEGISandData/COVID-19/commit/246b73fd28ebab168a764380a5cb62cb375c298d)
+
+Mar 10, 2023
+
+[246b73f](https://github.com/CSSEGISandData/COVID-19/commit/246b73fd28ebab168a764380a5cb62cb375c298d)·Mar 10, 2023
+
+History
+-------
+
+[History](https://github.com/CSSEGISandData/COVID-19/commits/master/csse_covid_19_data/csse_covid_19_time_series)
+
+Open commit details
+
+[](https://github.com/CSSEGISandData/COVID-19/commits/master/csse_covid_19_data/csse_covid_19_time_series)
+
+Breadcrumbs
+-----------
+
+1.   [COVID-19](https://github.com/CSSEGISandData/COVID-19/tree/master)
+2.   /[csse_covid_19_data](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data)
+
+/
+csse_covid_19_time_series
+=========================
+
+/
+
+Top
+
+Folders and files
+-----------------
+
+| Name | Name | Last commit message | Last commit date |
+| --- | --- | --- | --- |
+| ### parent directory [..](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) |
+| [.gitignore](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/.gitignore ".gitignore") | [.gitignore](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/.gitignore ".gitignore") | [update](https://github.com/CSSEGISandData/COVID-19/commit/ddd8cf43bd6a3c40d12f48668f5ea39e7c42f708 "update") | Feb 14, 2020 |
+| [Errata.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/Errata.csv "Errata.csv") | [Errata.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/Errata.csv "Errata.csv") | [patch Unassigned, Oaklahoma data from 03-02-2023 to 03-05-2023](https://github.com/CSSEGISandData/COVID-19/commit/4477f544a6971f9bc6a2ff8709444b96f6163707 "patch Unassigned, Oaklahoma data from 03-02-2023 to 03-05-2023") | Mar 6, 2023 |
+| [README.md](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/README.md "README.md") | [README.md](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/README.md "README.md") | [Update README.md](https://github.com/CSSEGISandData/COVID-19/commit/da4dc6f290d4f80c95a145aff3149b3f6b49680d "Update README.md") | Oct 17, 2021 |
+| [time_series_covid19_confirmed_US.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv "time_series_covid19_confirmed_US.csv") | [time_series_covid19_confirmed_US.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv "time_series_covid19_confirmed_US.csv") | [Automated update](https://github.com/CSSEGISandData/COVID-19/commit/246b73fd28ebab168a764380a5cb62cb375c298d "Automated update") | Mar 10, 2023 |
+| [time_series_covid19_confirmed_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv "time_series_covid19_confirmed_global.csv") | [time_series_covid19_confirmed_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv "time_series_covid19_confirmed_global.csv") | [Automated update](https://github.com/CSSEGISandData/COVID-19/commit/246b73fd28ebab168a764380a5cb62cb375c298d "Automated update") | Mar 10, 2023 |
+| [time_series_covid19_deaths_US.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv "time_series_covid19_deaths_US.csv") | [time_series_covid19_deaths_US.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv "time_series_covid19_deaths_US.csv") | [Automated update](https://github.com/CSSEGISandData/COVID-19/commit/246b73fd28ebab168a764380a5cb62cb375c298d "Automated update") | Mar 10, 2023 |
+| [time_series_covid19_deaths_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv "time_series_covid19_deaths_global.csv") | [time_series_covid19_deaths_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv "time_series_covid19_deaths_global.csv") | [Automated update](https://github.com/CSSEGISandData/COVID-19/commit/246b73fd28ebab168a764380a5cb62cb375c298d "Automated update") | Mar 10, 2023 |
+| [time_series_covid19_recovered_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv "time_series_covid19_recovered_global.csv") | [time_series_covid19_recovered_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv "time_series_covid19_recovered_global.csv") | [Automated update](https://github.com/CSSEGISandData/COVID-19/commit/246b73fd28ebab168a764380a5cb62cb375c298d "Automated update") | Mar 10, 2023 |
+| View all files |
+
+[README.md](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series#readme)
+-----------------------------------------------------------------------------------------------------------------------
+
+Outline
+
+Time series summary (csse_covid_19_time_series)
+-----------------------------------------------
+
+[](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series#time-series-summary-csse_covid_19_time_series)
+
+This folder contains daily time series summary tables, including confirmed, deaths and recovered. All data is read in from the daily case report. The time series tables are subject to be updated if inaccuracies are identified in our historical data.
+
+Two time series tables are for the US confirmed cases and deaths, reported at the county level. They are named `time_series_covid19_confirmed_US.csv`, `time_series_covid19_deaths_US.csv`, respectively.
+
+Three time series tables are for the global confirmed cases, recovered cases and deaths. Australia, Canada and China are reported at the province/state level. Dependencies of the Netherlands, the UK, France and Denmark are listed under the province/state level. The US and other countries are at the country level. The tables are renamed `time_series_covid19_confirmed_global.csv` and `time_series_covid19_deaths_global.csv`, and `time_series_covid19_recovered_global.csv`, respectively.
+
+### Update frequency
+
+[](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series#update-frequency)
+
+*   Once a day around 23:59 (UTC).
+
+### Deprecated warning
+
+[](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series#deprecated-warning)
+
+The files below were archived [here](https://github.com/CSSEGISandData/COVID-19/tree/master/archived_data/archived_time_series), and will no longer be updated. With the release of the new data structure, we are updating our time series tables to reflect these changes. Please reference `time_series_covid19_confirmed_global.csv` and `time_series_covid19_deaths_global.csv` for the latest time series data.
+
+*   `time_series_19-covid-Confirmed.csv`
+*   `time_series_19-covid-Deaths.csv`
+*   `time_series_19-covid-Recovered.csv`
+
+### Vaccination Data
+
+[](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series#vaccination-data)
+
+Please find the JHU COVID-19 vaccination data hosted on the [JHU GovEx GitHub repository](https://github.com/govex/COVID-19/tree/master/data_tables/vaccine_data). This repository includes both our [global vaccination sources](https://github.com/govex/COVID-19/blob/master/data_tables/vaccine_data/global_data/readme.md) and [US vaccination sources](https://github.com/govex/COVID-19/blob/master/data_tables/vaccine_data/us_data/readme.md).
+
+Footer
+------
+
+[](https://github.com/) © 2025 GitHub,Inc. 
+
+### Footer navigation
+
+*   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)
+*   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)
+*   [Security](https://github.com/security)
+*   [Status](https://www.githubstatus.com/)
+*   [Community](https://github.community/)
+*   [Docs](https://docs.github.com/)
+*   [Contact](https://support.github.com/?tags=dotcom-footer)
+*    Manage cookies 
+*    Do not share my personal information 
+
+ You can’t perform that action at this time.

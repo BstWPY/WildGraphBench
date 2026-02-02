@@ -1,0 +1,125 @@
+# China Meteorological Agency
+
+TCs message
+
+===============
+
+[World Meteorological Organization Weather · Climate · Water](https://public.wmo.int/)
+
+ REGIONAL SPECIALIZED METEOROLOGICAL CENTER (BEIJING) FOR MARINE METEOROLOGICAL SERVICES 
+
+[](http://www.cma.gov.cn/en2014)
+
+[](http://eng.nmc.cn/typhoon/index.html)
+
+*   [Home](http://eng.nmc.cn/typhoon)
+*   [Observation](http://eng.nmc.cn/typhoon/publish/observations/radar/xisha-basic.html)
+*   [Forecast](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-text.htm)
+*   [Analysis](http://eng.nmc.cn/typhoon/publish/analysis/index/Subtropical_High_Index/eastern_ridge.htm)
+*   [Model](http://eng.nmc.cn/typhoon/publish/South-China-Sea-Typhoon-numerical-model-guidance-products/10m-wind-forecast.htm)
+*   [R&D](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-message.html#)[Project overview](http://eng.nmc.cn/typhoon/publish/cms/view/project-overview.html "Project overview")  [Research Themes](http://eng.nmc.cn/typhoon/publish/cms/research-themes/index.html "Research Themes")   Realtime Products  TC warning [TCs track and intensity](http://eng.nmc.cn/typhoon/publish/RD/Realtime-Products/TC-warning/TCs-track-and-intensity-new/index.html "TCs track and intensity") [DeepTCNet Products](http://eng.nmc.cn/typhoon/publish/tdp/tc-warning/deeptcnet-products/index.html "DeepTCNet Products")   Track Forecast [TRAPS](http://eng.nmc.cn/typhoon/publish/tdp/track-forecast/traps.html "TRAPS") [AI algorithm](http://eng.nmc.cn/typhoon/publish/tdp/track-forecast/ai-algorithm.html "AI algorithm") [Integrated algorithm](http://eng.nmc.cn/typhoon/publish/tdp/track-forecast/integrated-algorithm.html "Integrated algorithm")   Intensity Forecast [TRAPS](http://eng.nmc.cn/typhoon/publish/tdp/intensity-forecast/traps.html "TRAPS") [LGEM](http://eng.nmc.cn/typhoon/publish/tdp/intensity-forecast/legm.html "LGEM") [EBDS](http://eng.nmc.cn/typhoon/publish/tdp/intensity-forecast/ebds.html "EBDS")   Structure/Size Forecast [TRAPS](http://eng.nmc.cn/typhoon/publish/tdp/structure/size-forecast/traps.html "TRAPS") [CLIPER](http://eng.nmc.cn/typhoon/publish/tdp/structure/size-forecast/cliper.html "CLIPER") [Parameters algorithm](http://eng.nmc.cn/typhoon/publish/tdp/structure/size-forecast/parameters-algorithm/index.html "Parameters algorithm") [Model algorithm](http://eng.nmc.cn/typhoon/publish/rd/realtime-product/structure/model-algorithm.html "Model algorithm")    Other Products [TC Ensemble Forecast](http://eng.nmc.cn/typhoon/publish/cms/view/783e34831f6d4eb8b99371e9599270f2.html "TC Ensemble Forecast") [Data repository description for WRF/EnKF](http://eng.nmc.cn/typhoon/publish/cms/view/b9710547208340699794a65803836d55.html "Data repository description for WRF/EnKF")   
+
+#### [Typhoon News](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-message.html#collapse_2688)
+
+*   [TCs message](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-message.html "TCs message")
+
+#### [Observation](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-message.html#collapse_2716)
+
+*   [Radar images](http://eng.nmc.cn/typhoon/publish/observation/radar/map.htm "Radar images")
+*   [Satellite images](http://eng.nmc.cn/typhoon/publish/Observation/Statellite/fy4a/infrared.html "Satellite images")
+
+#### [Forecast](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-message.html#collapse_2690)
+
+*   [TCs text](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-text.htm "TCs text")
+*   [TCs track and intensity](http://eng.nmc.cn/typhoon/publish/typhoon/probability-img1.html "TCs track and intensity")
+*   [Precipitation](http://eng.nmc.cn/typhoon/publish/forecasts/qpf/south-china-sea.htm "Precipitation")
+*   [High Seas Forecasts](http://eng.nmc.cn/typhoon/publish/Forecast/%EF%BC%ADarine-Meteorological-Bulletin/index.html "High Seas Forecasts")
+*   [Forecasts for North Pacific Ocean](http://eng.nmc.cn/typhoon/publish/Analysis/Forecasts-for-North-Pacific-Ocean/24H-SURFACE-FORECAST/index.html "Forecasts for North Pacific Ocean")
+*   [India ocean Track and intensity](http://eng.nmc.cn/typhoon/publish/typhoon/0B/path2.html "India ocean Track and intensity")
+*   [India ocean extreme preciptation & gale forecasts](http://eng.nmc.cn/typhoon/publish/Forecast/India-ocean-extreme-preciptation/PRE-80/index.html "India ocean extreme preciptation & gale forecasts")
+
+#### [Analysis](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-message.html#collapse_3444)
+
+*   [SH & Monsoon Index](http://eng.nmc.cn/typhoon/publish/analysis/index/Subtropical_High_Index/eastern_ridge.htm "SH & Monsoon Index")
+*   [Synopsis for North Pacific Ocean](http://eng.nmc.cn/typhoon/publish/Analysis/Synopsis-for-North-Pacific-Ocean/SURFACE/index.html "Synopsis for North Pacific Ocean")
+
+#### [Model](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-message.html#collapse_3450)
+
+*   [Model introduction](http://eng.nmc.cn/typhoon/publish/cms/view/5047937a42d740a0ae2669a30da9e749.html "Model introduction")
+*   [10m wind](http://eng.nmc.cn/typhoon/publish/South-China-Sea-Typhoon-numerical-model-guidance-products/10m-wind-forecast.htm "10m wind")
+*   [precipitation](http://eng.nmc.cn/typhoon/publish/model/precipitation.htm "precipitation")
+*   [Sea level pressure](http://eng.nmc.cn/typhoon/publish/South-China-Sea-Typhoon-numerical-model-guidance-products/Sea-level-pressure-forecast.htm "Sea level pressure")
+*   [Geopotential height](http://eng.nmc.cn/typhoon/publish/South-China-Sea-Typhoon-numerical-model-guidance-products/200hPa-geopotential-height-forecast.htm "Geopotential height")
+*   [GRAPES_WW3](http://eng.nmc.cn/typhoon/publish/ww3/globalOcean.html "GRAPES_WW3")
+
+[Online Discussion](http://webchat.nmc.cn/)
+
+1.   [Home](http://eng.nmc.cn/typhoon)
+2.   [Typhoon News](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-message.html)
+3.   TCs message
+
+ Typhoon Message 
+
+ 20251201 20:15 
+
+* * *
+
+ National Meteorological Center No.3896 
+
+ Analysis Time:**Dec. 01th 09 UTC**
+
+ Name of TC:**KOTO**
+
+ Num. of TC:**2527**
+
+ Final Report 
+
+*   20251201 20:15
+
+*   20251201 20:04
+
+*   20251201 17:21
+
+*   20251201 16:21
+
+*   20251201 15:23
+
+*   20251201 14:13
+
+*   20251201 13:17
+
+*   20251201 12:06
+
+*   20251201 11:23
+
+*   20251201 10:13
+
+*   20251201 09:09
+
+*   20251201 08:19
+
+*   20251201 07:13
+
+*   20251201 05:26
+
+*   20251201 04:01
+
+*   20251201 03:08
+
+*   20251201 01:05
+
+*   20251201 00:07
+
+*   20251130 23:19
+
+*   20251130 22:04
+
+*   20251130 21:00
+
+ National Meteorological Center Copyright Copyright @ 2016-2020 Beijing ICP 05055842 
+
+ Powered by the published news, information and a variety of column material without authorization is prohibited download 
+
+ Maintenance: National Meteorological Center forecast system Laboratory Address: Beijing Zhongguancun South Street 46 Zip: 100081
+
+[](http://eng.nmc.cn/typhoon/publish/forecasts/tcs-message.html#top)

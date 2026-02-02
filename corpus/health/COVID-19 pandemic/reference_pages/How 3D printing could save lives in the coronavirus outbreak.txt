@@ -1,0 +1,53 @@
+# How 3D printing could save lives in the coronavirus outbreak
+
+The company will soon begin shipping the swabs to hospitals across the country that have been struggling to obtain the necessary tools and kits to diagnose a crush of patients amid the coronavirus outbreak, including Northwell Health in New York City and Tampa General Hospital in Tampa, Florida.
+
+![Image 1: Formlabs' nasal swabs.](https://wp.technologyreview.com/wp-content/uploads/2020/03/formlabs-nasal-swabs.jpeg?w=700)
+
+Formlabs' nasal swabs.
+
+COURTESY: FORMLABS
+
+“I can’t even tell you how many hospitals, and various other health institutions and health-care providers and governments, have asked us to help out with the situation,” says David Lakatos, chief product officer at Formlabs, which is based in Somerville, Massachusetts.
+
+As the pandemic strains global supply chains for critical medical products, a number of digital manufacturing companies are rushing in to meet immediate needs.
+
+In the absence of a [clear and organized federally directed effort to ramp up production](https://www.nytimes.com/2020/03/26/us/politics/coronavirus-ventilators-trump.html), much of the response is unfolding in an ad hoc way. Manufacturers, universities, health-care providers, and state and local agencies are scrambling to locate companies with the necessary capacity and expertise, either by dialing directly or by leaning on informal business networks to identify them. Some businesses, researchers, and medical centers are forming makeshift coalitions to coordinate responses as well.
+
+Plugging these critical gaps in the supply chain could help ensure that some level of [face shields](https://wkow.com/2020/03/26/3d-printing-business-in-waunakee-changes-focus-from-violins-to-face-shields/), nasal swabs, ventilators, and other products continue to reach hospitals in the next few weeks, when caseloads are likely to skyrocket. But 3D printing is largely seen as a stopgap measure, and an imperfect one at that. Such a frantic, scattered approach is [far from an ideal way](http://news.mit.edu/2020/3q-risks-using-3d-printing-make-personal-protective-equipment-0326) of producing components and products that could mean the difference between life and death for many patients.
+
+In the end, how big a role 3D printing plays in saving lives will depend on how rapidly the disease spreads, and how quickly manufacturers and suppliers throughout the world can take steps to retool and expand capacity.
+
+“We don’t have a lot of time to get ready,” says Vicki Holt, chief executive of Protolabs, a custom manufacturing company based in Maple Plain, Minnesota, that does 3D printing and injection molding. “We’ve got to add enough hospital beds and ICU equipment to be ready when the peak hits. So we’re trying to give the supply chains additional time to get geared up.”
+
+An ad hoc group of researchers at institutions including the University of South Florida, Harvard, Stanford and Beth Israel Deaconess Medical Center have been openly collaborating, in [an effort organized on GitHub](https://github.com/rarnaout/Covidswab), to produce general guidelines for producing 3D-printed test swabs, in consultation with the FDA. On Thursday, it was announced a handful of companies involved in the project—including Formlabs, [Carbon](https://www.carbon3d.com/covid19/), HP, and [EnvisionTec](https://envisiontec.com/)—were prepared to begin making specific varieties of swabs and could quickly ramp up to manufacture as many as 4 million per week.
+
+Hospitals can contact their state emergency management agencies to request immediate supplies, according to the announcement.
+
+Among other 3D printing efforts:
+
+Desktop Metal of Burlington, Mass. has launched a site for manufacturers to [submit requests for metal components](https://learn.desktopmetal.com/covid) needed for medical devices amid the supply chain constraints.
+
+In recent days, Carbon of Redwood City, California, has collaborated with Verily, Alphabet’s life sciences business, to [design face shields.](https://www.carbon3d.com/covid19/#face-shield) The protective equipment helps prevent health-care workers from becoming infected and spreading the disease, but it is running in short supply at a number of US hospitals. The team has already produced prototypes and sent them for evaluation to several San Francisco Bay Area hospitals, [Forbes reported](https://www.forbes.com/sites/amyfeldman/2020/03/25/inside-a-silicon-valley-unicorns-urgent-dash-to-3d-print-face-shields-and-test-swabs-to-battle-covid-19/#5f01a3534370).
+
+Prisma Health, a major health-care system in South Carolina, [announced](https://www.ghs.org/healthcenter/ghsblog/prisma-health-ventilator-covid19/) it had secured emergency authorization from the FDA for 3D-printed splitter tubing, called VESper, that could allow one ventilator to help up to four patients with critical respiratory problems when supplies of the machines run tight.
+
+Formlabs is also evaluating designs for ventilator splitters, though the company stresses they should only be used as a last resort, if at all. Indeed, in a joint statement on Thursday, the Society of Critical Care Medicine, American Association for Respiratory Care and other medical groups [advised against the sharing of mechanical ventilators](https://www.asahq.org/about-asa/newsroom/news-releases/2020/03/joint-statement-on-multiple-patients-per-ventilator) for COVID-19 patients, stressing that "it is better to purpose the ventilator to the patient most likely to benefit than fail to prevent, or even cause, the demise of multiple patients."
+
+Protolabs has also shifted its business to meet spikes in orders for medical products from across the US and Europe in recent weeks, Holt says.
+
+Among other efforts, the company worked with a team at the University of Minnesota to develop, test, and tweak six parts for [a low-cost ventilator](https://cse.umn.edu/me/news/medical-devices-center-creates-new-ventilator)in a matter of days. The researchers [may openly publish the design](https://www.startribune.com/university-of-minnesota-is-going-full-on-macgyver-against-covid-19/569000032/), which relies on a motor to pump widely available manual “ambu” bags, so that hospitals could produce their own in the event of life-or-death shortages. (An MIT team [is pursuing a similar project](https://www.technologyreview.com/s/615374/an-mit-team-hopes-to-publish-open-source-designs-for-a-low-cost-ventilator/).)
+
+Protolabs is also producing components for a large ventilator manufacturer, but Holt says the company can’t disclose the name or provide additional details at this stage.
+
+Asked about the safety of printed components for devices that could doom patients should they fail in emergencies, she said it’s the duty of customers to create the proper design, conduct the necessary testing, and take the appropriate regulatory steps.
+
+But manufacturing end products that actually intrude into the human body, like nasal swabs, does require 3D-printing companies themselves to clear a higher regulatory bar.
+
+Formlabs was able to quickly begin producing the swabs at its Ohio facility only because it had already registered with the FDA to manufacture certain types of medical products, specifically its dental product samples that go into people’s mouths, like 3D-printed night guards and crowns, Lakatos says.
+
+Formlabs worked with medical experts at USF Health in Tampa and Northwell Health to rapidly develop and test the nasal swabs. While they’re a relatively simple device, they do need to be thin, long, and flexible enough to reach deep into the nasal cavity to detect early indications of Covid-19. If they don’t extend far enough, they could produce false negative results that encourage infected patients to behave in ways that further spread the disease, Lakatos says.
+
+Formlabs says it could rapidly add more printers and scale up daily production of swabs well beyond 100,000, depending on the medical needs as the outbreak escalates in the weeks to come.
+
+_Update: This story was updated to provide additional context concerning the collaborative effort to produce guidelines for producing 3D-printed test swabs, and clarify that Formlabs was already able to manufacture this type of medical product._

@@ -1,0 +1,101 @@
+# The Top Twenty: Twin Primes
+
+The Top Twenty: Twin Primes
+
+===============
+
+The Wayback Machine - http://primes.utm.edu:80/top20/page.php?id=1
+
+![Image 3: The Top Twenty--a Prime Page Collection](http://primes.utm.edu/top20/includes/gifs/top_twenty.gif)Twin Primes
+===========
+
+This page : [Definition(s)](http://primes.utm.edu/top20/page.php?id=1#notes) | [Records](http://primes.utm.edu/top20/page.php?id=1#records) | [References](http://primes.utm.edu/top20/page.php?id=1#references) | [Related Pages](http://primes.utm.edu/top20/page.php?id=1#related) | [![Image 4: RSS 2.0 Feed](http://primes.utm.edu/top20/includes/gifs/rss2.gif)](http://primes.utm.edu/top20/rss.php?id=1)
+
+*   [Home](http://primes.utm.edu/top20/home.php)
+*   [Index](http://primes.utm.edu/top20/index.php)
+*   [Search](http://primes.utm.edu/top20/search.php)
+*   [Sizes](http://primes.utm.edu/top20/sizes.php)
+*   [Trends](http://primes.utm.edu/top20/trends.php)
+*   [id=1](http://primes.utm.edu/top20/)
+
+ View this page in: [![Image 5: language help](http://primes.utm.edu/assets/question.gif)](http://primes.utm.edu/top20/help/translating.php)
+
+### The Prime Pages
+
+*   [Prime Pages' Home](http://primes.utm.edu/)
+*   [Top 5000's Primes](http://primes.utm.edu/primes/)
+*   [Top 5000's Persons](http://primes.utm.edu/bios/)
+*   [Finding Primes](http://primes.utm.edu/prove/)
+*   [Prime Glossary](http://primes.utm.edu/glossary/)
+*   [Prime Curios!](http://primes.utm.edu/curios/)
+
+[](http://primes.utm.edu/top20/page.php?id=1)The Prime Pages keeps a list of the 5000 largest known primes, plus a few each of certain selected archivable forms and classes. These forms are defined in this collection's home page. This page is about one of those forms. Comments and suggestions [requested](mailto:caldwell@utm.edu).[](http://primes.utm.edu/top20/page.php?id=1)
+### [![Image 6: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=1#top) Definitions and Notes
+
+Twin [primes](http://primes.utm.edu/glossary/xpage/Prime.html) are pairs of primes which differ by two. The first [twin primes](http://primes.utm.edu/glossary/xpage/TwinPrime.html) are {3,5}, {5,7}, {11,13} and {17,19}. It has been [conjectured](http://primes.utm.edu/glossary/xpage/Conjecture.html) (but never proven) that there are infinitely many twin primes. _If_ the probability of a random [integer](http://primes.utm.edu/glossary/xpage/Integer.html)_n_ and the integer _n_+2 being prime were statistically independent events, then it would follow from the [prime number theorem](http://primes.utm.edu/glossary/xpage/PrimeNumberThm.html) that there are about _n_/([log](http://primes.utm.edu/glossary/xpage/Log.html)_n_)2 twin primes less than or equal to _n_. These probabilities are not independent, so Hardy and Littlewood conjectured that the correct estimate should be the following. 
+> ![Image 7: It's a black image](http://primes.utm.edu/gifs/HardyLittlewood2.gif)
+
+ Here the [infinite](http://primes.utm.edu/glossary/xpage/Infinite.html) product is the [twin prime constant](http://primes.utm.edu/glossary/xpage/TwinPrimeConstant.html) (estimated by Wrench and others to be approximately 0.6601618158...), and we introduce an integral to improve the quality of the estimate. This estimate works quite well! For example: 
+The number of twin primes
+
+less than _N_| _N_ | actual | estimate |
+| --- | --- | --- |
+| 10 6 | 8169 | 8248 |
+| 10 8 | 440312 | 440368 |
+| 10 10 | 27412679 | 27411417 |
+
+There is a longer table by Kutnib and Richstein available online.
+
+In 1919 Brun showed that the sum of the reciprocals of the twin primes converges to a sum now called Brun's Constant. (Recall that the [sum of the reciprocals of all primes diverges](http://primes.utm.edu/infinity.shtml#punchline).) By calculating the twin primes up to 10 14 (and discovering the [infamous pentium bug](http://www.trnicely.net/#PENT) along the way), [Thomas Nicely](http://www.trnicely.net/index.html)_[heuristically](http://primes.utm.edu/glossary/xpage/Heuristic.html)_ estimates [Brun's constant](http://primes.utm.edu/glossary/xpage/BrunsConstant.html) to be 1.902160578.
+
+As an exercise you might want to prove the following version of [Wilson's theorem](http://primes.utm.edu/glossary/xpage/WilsonsTheorem.html).
+
+**Theorem:** (Clement 1949) The integers _n_, _n_+2, form a pair of twin primes if and only if 
+> 4[(_n_-1)!+1] ![Image 8: =](http://primes.utm.edu/gifs/congruent.gif)-_n_([mod](http://primes.utm.edu/glossary/xpage/Congruence.html)_n_(_n_+2)).
+
+ Nice--too bad it is of virtually no practical value!
+
+[](http://primes.utm.edu/top20/page.php?id=1)
+### [![Image 9: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=1#top) Record Primes of this Type
+
+> | rank | prime | digits | who | when | comment |
+> | --- | --- | --- | --- | --- | --- |
+> | [1](http://primes.utm.edu/primes/page.php?id=103792) | **3756801695685 · 2 666669 - 1** | 200700 | [L1921](http://primes.utm.edu/bios/code.php?code=L1921) | Dec 2011 | Twin (p) |
+> | [2](http://primes.utm.edu/primes/page.php?id=89650) | **65516468355 · 2 333333 - 1** | 100355 | [L923](http://primes.utm.edu/bios/code.php?code=L923) | Aug 2009 | Twin (p) |
+> | [3](http://primes.utm.edu/primes/page.php?id=79210) | **2003663613 · 2 195000 - 1** | 58711 | [L202](http://primes.utm.edu/bios/code.php?code=L202) | Jan 2007 | Twin (p) |
+> | [4](http://primes.utm.edu/primes/page.php?id=81184) | **194772106074315 · 2 171960 - 1** | 51780 | [x24](http://primes.utm.edu/bios/code.php?code=x24) | Jun 2007 | Twin (p) |
+> | [5](http://primes.utm.edu/primes/page.php?id=77996) | **100314512544015 · 2 171960 - 1** | 51780 | [x24](http://primes.utm.edu/bios/code.php?code=x24) | Jun 2006 | Twin (p) |
+> | [6](http://primes.utm.edu/primes/page.php?id=75542) | **16869987339975 · 2 171960 - 1** | 51779 | [x24](http://primes.utm.edu/bios/code.php?code=x24) | Sep 2005 | Twin (p) |
+> | [7](http://primes.utm.edu/primes/page.php?id=883) | **33218925 · 2 169690 - 1** | 51090 | [g259](http://primes.utm.edu/bios/code.php?code=g259) | Sep 2002 | Twin (p) |
+> | [8](http://primes.utm.edu/primes/page.php?id=96137) | **22835841624 · 7 54321 - 1** | 45917 | [p296](http://primes.utm.edu/bios/code.php?code=p296) | Nov 2010 | Twin (p) |
+> | [9](http://primes.utm.edu/primes/page.php?id=104892) | **1679081223 · 2 151618 - 1** | 45651 | [L527](http://primes.utm.edu/bios/code.php?code=L527) | Feb 2012 | Twin (p) |
+> | [10](http://primes.utm.edu/primes/page.php?id=106537) | **84966861 · 2 140219 - 1** | 42219 | [L3121](http://primes.utm.edu/bios/code.php?code=L3121) | Apr 2012 | Twin (p) |
+> | [11](http://primes.utm.edu/primes/page.php?id=97117) | **12378188145 · 2 140002 - 1** | 42155 | [L95](http://primes.utm.edu/bios/code.php?code=L95) | Dec 2010 | Twin (p) |
+> | [12](http://primes.utm.edu/primes/page.php?id=97115) | **23272426305 · 2 140001 - 1** | 42155 | [L95](http://primes.utm.edu/bios/code.php?code=L95) | Dec 2010 | Twin (p) |
+> | [13](http://primes.utm.edu/primes/page.php?id=92613) | **8151728061 · 2 125987 - 1** | 37936 | [p35](http://primes.utm.edu/bios/code.php?code=p35) | May 2010 | Twin (p) |
+> | [14](http://primes.utm.edu/primes/page.php?id=92388) | **598899 · 2 118987 - 1** | 35825 | [L983](http://primes.utm.edu/bios/code.php?code=L983) | Apr 2010 | Twin (p) |
+> | [15](http://primes.utm.edu/primes/page.php?id=86133) | **307259241 · 2 115599 - 1** | 34808 | [g336](http://primes.utm.edu/bios/code.php?code=g336) | Jan 2009 | Twin (p) |
+> | [16](http://primes.utm.edu/primes/page.php?id=60809) | **60194061 · 2 114689 - 1** | 34533 | [g294](http://primes.utm.edu/bios/code.php?code=g294) | Nov 2002 | Twin (p) |
+> | [17](http://primes.utm.edu/primes/page.php?id=99329) | **5558745 · 10 33334 - 1** | 33341 | [p311](http://primes.utm.edu/bios/code.php?code=p311) | Apr 2011 | Twin (p) |
+> | [18](http://primes.utm.edu/primes/page.php?id=85132) | **108615 · 2 110342 - 1** | 33222 | [L113](http://primes.utm.edu/bios/code.php?code=L113) | Jun 2008 | Twin (p) |
+> | [19](http://primes.utm.edu/primes/page.php?id=3164) | **1765199373 · 2 107520 - 1** | 32376 | [g182](http://primes.utm.edu/bios/code.php?code=g182) | Oct 2002 | Twin (p) |
+> | [20](http://primes.utm.edu/primes/page.php?id=4000) | **318032361 · 2 107001 - 1** | 32220 | [p100](http://primes.utm.edu/bios/code.php?code=p100) | May 2001 | Twin (p) |
+
+[](http://primes.utm.edu/top20/page.php?id=1)
+### [![Image 10: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=1#top) Related Pages
+
+*   [Twin Primes](http://mathworld.wolfram.com/TwinPrimes.html) from the World of Mathematics
+*   The Prime Glossary's: [Twin primes](http://primes.utm.edu/glossary/page.php?sort=TwinPrime)
+
+[](http://primes.utm.edu/top20/page.php?id=1)
+### [![Image 11: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=1#top) References
+
+> Forbes97**T. Forbes**, "A large pair of twin primes," _Math. Comp._, **66** (1997) 451-455.**[MR 97c:11111](http://www.ams.org/mathscinet-getitem?mr=97c:11111)**
+> > **Abstract:**We describe an efficient integer squaring algorithm (involving the fast Fourier transform modulo _F_8) that was used on a 486 computer to discover a large pair of twin primes.
+> 
+> [The twin primes 6797727 · 2 15328± 1 are found on a 486 microcomputer]IJ96**K. Indlekofer** and **A. Járai**, "Largest known twin primes," _Math. Comp._, **65** (1996) 427-428.**[MR 96d:11009](http://www.ams.org/mathscinet-getitem?mr=96d:11009)**
+> > **Abstract:**The numbers 697053813 · 216352± 1 are twin primes.
+> 
+> PSZ90**B. K. Parady**, **J. F. Smith** and **S. E. Zarantonello**, "Largest known twin primes," _Math. Comp._, **55** (1990) 381-382.**[MR 90j:11013](http://www.ams.org/mathscinet-getitem?mr=90j:11013)** ([Annotation available](http://primes.utm.edu/references/refs.cgi?long=PSZ90 "Entry with annotation"))
+
+[Chris K. Caldwell](http://www.utm.edu/~caldwell/) © 1996-2013 ([all rights reserved](http://primes.utm.edu/top20/includes/copyright.php))

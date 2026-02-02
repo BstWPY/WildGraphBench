@@ -1,0 +1,175 @@
+# The Last of the Independents?
+
+_Valve, the developer of the Half-Life franchise, was one of the pioneers of digital distribution with its Steam delivery service. The company has managed to remain independent in this time of industry consolidation, and kept its focus on PC gaming at a time when some have declared it dead._
+
+_**GamesIndustry.biz** spoke to Valve's VP of marketing, Doug Lombardi at a recent EA press event, about the challenges the company has faced, the boost it has given to indie game development and the changing PC market._
+
+**Q:**You mentioned that there was a hole in the market for team tactical shooters. Why is that, and how does Valve develop to fill that niche?
+
+**Doug Lombardi:**Multiplayer gaming has evolved to the point where ten years ago it was kind of painful to find a good multiplayer game. Just finding servers in the first place was difficult for a while.
+
+Then people finally started putting server browsers in games, but you had no idea who you were going to play, what kind of players they were going to be - whether they were good or bad, where they were, you know, skill-wise, or whether they were there to just goof around or they really wanted to play the game.
+
+Things like Steam and Xbox Live have really sort of made that the days of the dinosaur now. You've got your friends lists - server browsers are almost going away just by being replaced by things like your friends list and what have you. So you have people of the same skill and mindset getting together who want to play games together.
+
+Things like deathmatches become extinct, and things like simple team play that are a glorified version of a deathmatch are also becoming extinct. We see that people want to play games together that are a bit deeper that are a bit more intelligent, that maybe have a little bit of story, that have a wider variety of moments that have a wider variety of pacing et cetera and are also fun to play over and over again - just like CounterSstrike's been fun to play for eight or nine years now.
+
+Those are some of the things that we're looking at where we say "Okay, co-op is just this phrase we have to describe something and maybe it's something more than that." You know, when we're looking at it, it's like we're taking the group experience to a place that is as evolved, hopefully, as single player games are - where you have pacing, you have story, and you have dynamic characters and you have big moments.
+
+It's nice to say "It's a multiplayer game and it can have this great set piece"...That's the evolution that we're hoping to do with Left 4 Dead.
+
+**Q:**EA seems to have really pushed PC at this event, but you do hear people saying "PC is dead"? How is developing for the PC these days?
+
+**Doug Lombardi:**We've always been very PC-centric at Valve. You know Gabe [Newell] was the lead on the first three releases of Windows before he started Valve, so we're pretty deeply rooted in the PC.
+
+But I think a lot of what's happening now in the public perception and the press perception is fuelled by thing like NPD releasing sales data from retail in the States that says "Oh, PC games were only 12 per cent of sales at the holiday" - or last year, or whenever it was - and everybody grabs hold of that and all of a sudden declares that PC gaming is on the way out and what-not.
+
+But that ignores all the subscription revenue from World of Warcraft, which just by itself would change that number, that perception that's its only 12 per cent of the business. Just add that in and all of a sudden I'm guessing it's over 20 per cent of the business. Throw in things like Steam sales - that's going to move it again. Then there are different models, like the DICE guys are doing.
+
+Meanwhile, the other reason why that is propagated so much is that Microsoft, Nintendo and Sony are spending millions of dollars setting armies of PR people on you guys to tell you how great their platforms are and nobody's doing that for the PC.
+
+I think that there's this push from the console guys to glorify their position and a lack of data, so to speak, or a lack of knowledge of the other opportunities that are offered on the PC pretty much exclusively right now. And, you know, maybe we'll see those things spill over to the console the same way that multi-player stuff spilled over to the consoles as the consoles matured.
+
+Folks on the industry side of things - publishers and developers - are seeing these things and they know that some of the stories that are being propagated are half truths. Yes, retail sales of PC games in the States are down, no question about it. Steam sales are up on PC games - we sold more copies of Episode 2 on Steam than we did of Episode 1, and we sold less at retail.
+
+It's just a matter of how much shelf space is being awarded to the PC in the States. It's kind of hard to find PC games at most stores, but you go to Germany and PC games are at the checkout counter at the freaking drug store. Literally.
+
+So, I think if people looked at all the markets - whether it's Germany versus the UK or online versus retail - you'd get a much different picture, and I think that folks like EA and ourselves have the benefit of being able to see all these things and that's why you see something like six out of the seven games here are PC games today.
+
+**Q:**How much is piracy a concern for Valve?
+
+**Doug Lombardi:**Well, Steam allows us to eliminate "Day Zero" piracy - which is between gold and when the game's on the store shelves - and that's when all the real piracy, the damaging piracy happens.
+
+Gamers are generally good people, right? They're pretty intelligent, you know, they usually have a job. They're not derelicts out on the street, looting and robbing all of the time. But when they've been hyped up on a project and they really want to play this game and they can't wait to play it...Maybe they bought a new computer or console just to play it, and it shows up on a torrent site and it's not at the store...Temptation's going to come into play.
+
+But with Steam you can't, right? We tell you to pre-load the game, regardless of where you're going to buy it. Download it now so you're ready to play it the day it comes out. The disc that we send out is useless until we turn it on on launch day. So we don't have the problem of sending the disc to replication and having some punk grab it and put it on a bit torrent site and take the sales away from us.
+
+We saw that in 2004 when we released Half-Life 2. Doom 3, Halo 2 and whichever version of GTA came out that year were all available on the pirate network before they came out at stores. The final version of the games. Half-Life 2 wasn't. The only difference was that Half-Life 2 had Steam anti-piracy stuff in place.
+
+**Q:**What do you think of the PC landscape and developing FPS titles?
+
+**Doug Lombardi:**I think there are too many people chasing the shiny objects and not paying enough attention to gameplay.
+
+We didn't win any big awards for graphics in 2007, but we won some big awards for Portal being really innovative and Orange Box being a great value and a collection of interesting games. We're at a point now, I would argue, where division returns to graphics and things like multi-core CPUs are far more interesting than anything that's going on in the graphics world because we can do more things with physics, with AI, with getting more things on the screen, et cetera, and those are really going to relate back to gameplay.
+
+I was demoing GL Quake to people in January of 1997 when Carmack released the update because we needed it. Games looked ugly before that - they were terrible - and you look at games even two or three years after GL Quake, and you look at games that came out even the day before GL Quake, and it's like a night and day difference.
+
+But if you look at games that are coming out now versus a Half-Life 2 or an earlier version of Call of Duty or any other FPS that you thought looked good...I mean they're better, but its not a night and day difference. But if you look at the gameplay stuff, you know that evolution hasn't happened as dramatically.
+
+A lot of people very kindly say "before Half-Life" and "after Half-Life" in terms of single player FPS games and "before Counter-strike" and "after Counter-strike" in terms of FPS multi-player games, but those are sort of individual moments.
+
+I mean, BioShock was a really good game that I thought moved first person single player games forward quite a bit, but we haven't seen enough of those. In general, the idea of innovation - things like Portal, things like BioShock - last year was a really good year for that. Hopefully that trend will continue.
+
+**Q:**Are you guys looking at using PSN or Xbox Live to download games directly on to consoles?
+
+**Doug Lombardi:**We'd love to do that. Right now it's something we'd love to do. I'd love to sell Portal on Xbox live.
+
+**Q:**What is holding you back from doing that?
+
+**Doug Lombardi:**The platform holders aren't doing that right now. There's a size limit and all kinds of other things. We've asked them. We said we were open to it. So, it's a decision of the platform holder and how they want to make the games available and how much bandwidth they want to, you know...
+
+I think it's a trade off. We'll see it, one day. It always happens once its been proven and I think its been proven now on Steam, so I'm sure it'll migrate back to the consoles just like everything else does.
+
+**Q:**When developing Steam, did you make a conscious decision to look at what Microsoft was developing with Live and try to match that?
+
+**Doug Lombardi:**You know, we went around to Yahoo, Microsoft...Who else was around at that time? Probably Real Networks and anybody who seemed like a likely candidate to build something like Steam.
+
+We basically had our feature list that we wanted. We wanted auto-updating, we wanted better anti-piracy, better anti-cheat, and selling the games over the wire was something we came up with later. But we had like real world problems because Counter-Strike was getting huge and we would release these updates that would knock the 70 - 80 thousand simultaneous players right down to zero and it would take 48 - 72 hours for it to come back up and that was like this huge anxiety roller coaster that we would take every two or three months.
+
+It also limited our ability to put those updates up because of that. It was like..."Well, if we're going to turn the lights off for 48 hours in the player community, the update needs to be worthy of that." So, you had to bundle up the things you were going to put up in the update or you're going to pull it out because you didn't want to take the roller coaster ride. So that was really the impetus to why we did [Steam].
+
+We went around to everybody and said "Are you guys doing anything like this? We need this for our games, and therefore other people are going to need it someday soon." And everyone was like: "Blah, blah, blah...That's a million miles in the future." So we said "We need it now" and everyone said "Well, we can't help you."
+
+So we just went off and started doing it. Once we pick something we just start going after it and we're not really too concerned with what other people are doing because that's just an easy way to get distracted.
+
+**Q:**How do you manage that with a staff of only 160?
+
+**Doug Lombardi:**Our philosophy - Gabe's philosophy that's been projected and everybody shares in the company now - is that anybody we hire should be a first chair type of person. They were a lead somewhere else, or they were the head of whatever else before they came to us. We have some talented young folks who come our way too but they're also best of breed as well.
+
+I think you can be more efficient with fewer higher calibre people than with hiring a bunch of people who are kind of mediocre. I think we get a lot of stuff done because of that - we also don't spend a lot of time doing other stuff. We tend to, you know...These guys are the Steam team! Drive until Steam is great! Go!
+
+And we get a bunch of smart people trying to do that. It's worked for us. We've been lucky that way.
+
+**Q:**Do you believe you would lose your independence if you became an owned studio?
+
+**Doug Lombardi:**Oh, of course. Right now we make decisions faster than pretty much any other company that I know of, just because we can get the five or six or seven people in the room that are working on it and say "Let's do it!" We just make those decisions.
+
+That's one of the benefits of only having really senior people on staff - you don't have to marshal the forces and all that kind of stuff. If we were entered into a much larger organization there would be change and I'm sure some of that change would probably slow us down. There could be positive sides to it as well, but I'm sure there would be a host of negatives that would come as well - and one of them would be slowing us down because everything would have to go through the approval process.
+
+I've worked at big companies before. I was at Sierra before I was at Valve, and Sierra was much smaller than Sierra is now, but you know, things happen slower. It's just part of the beast right? But there are upsides to it as well. I mean, Sierra had offices all around the world and I'm sure Vivendi/Activision has that benefit. If we need to know something in Germany we have to go ask somebody. Those guys just call their guy in Germany and they know. So there are upsides and there are downsides, so it would be different for sure. Whether or not it would be wholly better or wholly worse we don't know because we're not there.
+
+**Q:**With Steam you seem to be bringing a lot of console elements to the PC. Was there a conscious effort to do that?
+
+**Doug Lombardi:**I think there are just things that work and regardless of the platform they were born on, there are options all around. Consoles adopted multi-player - that was a PC thing in the olden days. Voice over IP is something that was, again, born on the PC and migrated over on the consoles. But there are good things on the console that we can also learn from and bring back over. It's just sort of the shared gaming experience, if you will, of just moving the experience forward both in the game and around the game.
+
+**Q:**What's your working relationship like with EA?
+
+**Doug Lombardi:**It's been great because we're actually part of the group that they call "EA partners" which is headed up by David DeMartini who's a great guy. They're also a very progressive organization.
+
+We got divorced from Vivendi in April or May of 2005 and Valve was a pretty different beast. Steam was already established, we had a lot of IP, we had been funding our own development since Half-Life days. We owned everything from end to end. We had sort of been socialised because of the nasty divorce with Vivendi to do a lot of the business functions that a lot of companies do. Most studios don't have a VP department, most studios don't have finance guys or whatever. We're one of the developers that's good at that and talks to the publisher to do that stuff.
+
+So, when we came to [EA] and said we need retail distribution and there's probably some other things that we could plug into, but we don't need the old deal - the standard publishing deal. We need something that looks like a retail distribution deal plus other kinds of things, and they were totally cool about that. They were like "We want to work with you guys, and if that's how we can benefit then here's what we need for that to make sense on the business side." Okay, that sounds fair. Let's do it!
+
+It's been really great to do that. At the end of the divorce, we had a lights out on September 1 of 2005 where we were basically on our way out of stock with Counter-Strike 1, Counter-Strike Source, Half-Life 2 and the old Half-Life collection and we had Half-Life 2 coming to the Xbox and we were able to ship all of our new stuff in, I think, fewer than 6 weeks.
+
+We were back out with EA. We basically shipped five or six games in a couple months. That's a testament to their organization and the well oiled machine that they are. They get a bad rep for a lot of this but I think it's maybe a generalisation or people isolating something and sort of blowing up that story because it's the more interesting one to write, rather than saying "They're actually really smart guys with really solid distribution around them." You know, that's a boring story to write. But saying they're the big evil ugly giant - that's a really sexy story to write.
+
+I'm sure bad things have happened and there have been bad projects and bad people, but to say EA is bad in a global sense, that can't be true. They wouldn't be the leader in so many different genres and in so many different platforms if they were just this big evil thing. Nobody would work there.
+
+**Q:**How is it being an independent studio? Do you have fears?
+
+**Doug Lombardi:**If Orange Box had bombed or Steam wasn't selling 300 plus titles to 15 million accounts then, yeah, we'd totally be worried. But Orange Box is a success and Steam is selling over 300 games to 15 million accounts. So we feel like the company has never been stronger.
+
+I can remember after Half-Life 2 shifted, when we finally settled the law suit with Vivendi, I said to Gabe and a couple of the other guys "Okay, this is it. Valve is never going to have another higher moment than this." We had our freedom, Half-Life 2 finally shipped, it was a huge success, there was a lot of money in the bank and I was wrong actually.
+
+This past Christmas we hit a whole different high. We sold a lot of copies of Orange Box and Steam sold a lot of copies of BioShock and Call of Duty and more recently Audiosurf, which was this great breakthrough indie game from basically one guy in the north side of Seattle. And Portal was highly decorated for its innovation so it's a really good time for us.
+
+I'm a little bit bummed out about the fact that we're sort of becoming the last of the independents, and that probably isn't necessarily great. But, at the same time, we're seeing things like Audiosurf and so there's a different sort of indie scene if you will, than the old days of it just being us, Epic and id as the independent guys who are making games over the long haul.
+
+**Q:**What is your reaction when people say that traditional titles are on their way out and that indie games are the future of PC gaming?
+
+**Doug Lombardi:**I think it's the expansion of it. Orange Box sold really, really well on the PC and in some places it sold really well at retail and in some places it sold really, really well on Steam. And in some places it did pretty good in each one and together that was great.
+
+Different markets have different buying behaviours. Meanwhile, I think that one of the great expansions of the PC are things like Audiosurf, and I think Steam has kind of enabled that because retail would look at Audiosurf and say "A USD 10 game? There's not enough margin in there for me to do that. It's a weird and wacky music thing, and it needs to have 15 hours of gameplay and multi-player" and all these things - you know the retail trappings.
+
+But Steam has sort of broken that mold, you know? Darwinia did it two years ago. They had limited UK distribution at retail - we put it up on Steam, it won a bunch of awards at GDC, it started selling really well and they got a world wide distribution deal. So it was like, okay, we can change the model and Darwinia and Audiosurf are part of that expansion as we move into the new worlds.
+
+So is it the future of PC gaming? That's probably an overstatement. But is it part of the future of PC games? Yeah absolutely, and I think it's a really cool one. Definitely part of the independent future of PC games are going to be things that look more like Darwinias and Audiosurfs and the Introversion guys and the Dillan Fitters of the world are going to be the great indies of the world - as opposed to the Epics and the ids and the Valves of the world.
+
+I doubt we'll see, unfortunately, days of 50- to 100-person companies being independent forever.
+
+**Q:**Why do you think games like Audiosurf do so much better on Steam?
+
+**Doug Lombardi:**Because of the length and the design and stuff like that. I think that publishers are still very retail focused and there's a lot of cost in bringing a title to retail. You've got to burn a disc - that costs money. You've got to put it in a box - that costs money. You've got to ship to the store - that costs money. You've got to pay for ads and retail promotional items, whether it's T-shirts for pre-sales or standees of the characters and posters in the window. All that stuff costs money.
+
+Then you look at an Audiosurf and you say "USD 10? And we've got to pay for all this other stuff?" That's pretty hard. And "by the way this doesn't look like Call of Duty or Half-Life or World of Warcraft, so I'm not really sure if anybody really wants this thing that's going to be really hard for me to monetise."
+
+I think that's what gets in the way of [retail publishing], and with Steam there's no disc to burn, so you save that money. There's no box to make, so you save that money, and your shipping is done over the wire which is a lot cheaper than putting stuff on trucks. It's a platform that allows for those games to make their debut there and, like Darwinia, once they hit a certain level then maybe they can come back into retail because it's already been proven.
+
+**Q:**Does retail represent an obstacle to setting the prices to where you want?
+
+**Doug Lombardi:**We set the prices that we want. I mean, we sold episode one for 20 bucks. We put three games in one box on Orange Box and sold it for a price that we thought was right. Steam's allowed us to make that change. Before Steam, the idea of an episode one at 20 bucks would have been, well like, "Is it an add-on pack or what is it?"
+
+That's just a product of Steam allowing us to liberate not only ourselves but other people in the industry to try and do things at different price points.
+
+**Q:**So you think something like Steam will help keep independents around?
+
+**Doug Lombardi:**Yeah. I think it's actually a great platform to launch off of, you know, and then achieve greater success.
+
+Red Orchestra, Darwinia - and there's probably one or two other titles that I'm not thinking of - they were first available in many parts of the world. Darwinia was here in the UK at retail out of the Introversion guys' website, but most of the rest of the world had no idea who the hell those four guys were or why they mattered, but Steam allowed them to get a lot of recognition and build up demand and put it out and they got a retail deal.
+
+Red Orchestra, the guys that did the "make something unreal" contest, the world war two game - same thing! They were shopping around for a publishing deal and everybody was like "I don't know. It's kind of niche-y. It's super hardcore. It's not like the big fun arcade-y shooter, and you guys are this mod team that won something." They were getting either no offers or really crappy offers, you know, that they wouldn't have seen any money at the end of the day but the publisher might have been sold.
+
+They didn't want to do this, so they called us and said "Do you guys want to put an Unreal game on Steam?" and we were like "Yeah, of course. Why not?" And then it came out, it sold a bunch and they got a distribution deal that made more sense to them. That was sort of the springboard, if you will, or the platform for those indie guys to jump off of. You know, I hope to see Dillon do the same thing with Audiosurf...And other people that we don't know about yet.
+
+**Q:**Do you think that digital distribution will replace retail entirely?
+
+**Doug Lombardi:**No. I mean, look what's happened with the music world. We see each year there's more people buying music online. I think like four years ago it was something like 6 per cent and now it's over 10 per cent. So you can see that trending up, but if you look at those numbers the retail numbers are kind of staying the same.
+
+Maybe they've gone down a little bit but they haven't one-to-one. Like, this one's up five per cent so this one is down five per cent. There's not a one-to-one correlation. I think there are still people that like to go to the store. There are still people that like to buy the box and put it on their shelf or what have you.
+
+We're happy for that to happen - we still put our games out in both places for that very reason and we have no plans of changing that. I mean, we wouldn't have done the deal with EA if we thought retail was dead or that we could overpower it.
+
+In places like Germany, for example, the games are offered...They have much better shelf space and therefore that audience is much more in tune with buying stuff at retail. In the States, shelf space for PC games is dwindling from a bad place to a terrible place, so gamers over there are getting more socialised to getting games online. So it's just giving people more choices and doorways into the experience.
+
+_**Doug Lombardi** is Valve's VP of marketing. Interview by James Lee._

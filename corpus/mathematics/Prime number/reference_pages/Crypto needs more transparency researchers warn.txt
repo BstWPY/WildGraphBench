@@ -1,0 +1,225 @@
+# Crypto needs more transparency, researchers warn
+
+Crypto needs more transparency, researchers warn • The Register
+
+===============
+
+The Wayback Machine - https://www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/
+
+[Log in](https://account.theregister.co.uk/login/?&r=https%3A/www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/)[Sign up](https://account.theregister.co.uk/register/?product=theregister_newsletter&r=https%3A/www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/)[Forums](https://forums.theregister.co.uk/)
+
+*   [Serverless](https://serverlesscomputing.london/ "The Serverless Computing Conference London")
+*   [M³](http://www.mcubed.london/ "Minds Mastering Machines - The ML and AI Conference")
+*   [CLL](https://continuouslifecycle.london/ "Continuous Lifecycle London 2018")
+*   [Events](https://whitepapers.theregister.co.uk/events/list "Webcasts and Events from The Register")
+*   [Whitepapers](https://whitepapers.theregister.co.uk/ "Whitepapers and tech resources from The Register")
+*   [The Next Platform](https://www.nextplatform.com/ "High-end computing in-depth")
+
+[![Image 6: The Register® — Biting the hand that feeds IT](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/reg_logo.svg)](https://www.theregister.co.uk/)
+
+[![Image 7: Twitter](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/twitter.svg)](https://twitter.com/intent/user?screen_name=theregister "Follow us on twitter")[![Image 8: Facebook](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/facebook.svg)](https://www.facebook.com/VultureCentral "Like us on Facebook")[![Image 9: LinkedIn](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/linkedin.svg)](https://www.linkedin.com/company/the-register "Follow us on LinkedIn")
+
+[![Image 10: Home](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/vulture.svg)](https://www.theregister.co.uk/)[Data Centre](https://www.theregister.co.uk/data_centre/)[Software](https://www.theregister.co.uk/software/)[Security](https://www.theregister.co.uk/security/)[DevOps](https://www.theregister.co.uk/devops/)[Business](https://www.theregister.co.uk/business/)[Personal Tech](https://www.theregister.co.uk/personal_tech/)[Science](https://www.theregister.co.uk/science/)[Emergent Tech](https://www.theregister.co.uk/emergent_tech/)[Bootnotes](https://www.theregister.co.uk/bootnotes/)[Lectures](https://www.theregister.co.uk/lectures/)[![Image 11: search](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/search.svg)](https://search.theregister.co.uk/)![Image 12: search](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/search_white.svg)
+
+*   [Servers](https://www.theregister.co.uk/data_centre/servers/ "Enterprise server news, analysis and opinion")
+*   [HPC](https://www.theregister.co.uk/data_centre/hpc/ "High Performance Computing news, analysis and opinion")
+*   [Cloud](https://www.theregister.co.uk/data_centre/cloud/ "Cloud news, analysis and opinion")
+*   [Storage](https://www.theregister.co.uk/data_centre/storage/ "Enterprise Storage news, analysis and opinion")
+*   [Networks](https://www.theregister.co.uk/data_centre/networks/ "Networks news, analysis and opinion")
+*   [Virtualization](https://www.theregister.co.uk/data_centre/virtualization/ "Virtualization news, analysis and opinion")
+*   [BOFH](https://www.theregister.co.uk/data_centre/bofh/ "The Home of the Mighty BOFH")
+
+[![Image 13: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Oracle told to warp 9 out of court: Judge photon-torpedoes Big Red's Pentagon JEDI dream](https://www.theregister.co.uk/2019/07/12/oracle_defeated_in_fight_for_jedi_contract/)[![Image 14: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### With heroes like BT and Openreach, who needs villains? ISP lobbyists' awards continue to vex](https://www.theregister.co.uk/2019/07/12/ispa_hands_awards_to_bt_and_openreach_following_mozilla_gaffe/)[![Image 15: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Ofcom head Sharon White pocketed nearly £500k last year](https://www.theregister.co.uk/2019/07/12/ofcom_swings_230m_into_red/)[![Image 16: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Nvidia and friends: GPU giant's AI data centre network is going global](https://www.theregister.co.uk/2019/07/12/nvidia_data_centre_network/)
+
+[![Image 17: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Facebook devs devise Hermes to push cross-platform JavaScript to godlike speeds](https://www.theregister.co.uk/2019/07/12/facebook_hermes_javascript/)[![Image 18: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Microsoft cracks the whip over quality of code in software souk AppSource, orders devs to run the QA gauntlet](https://www.theregister.co.uk/2019/07/11/microsoft_inspire_appsource_qa/)[![Image 19: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### JavaScript tracking punks given a thrashing by good old-fashioned server log analytics](https://www.theregister.co.uk/2019/07/10/netlify_log_analytics/)[![Image 20: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Firefox 68 arrives with darker dark mode, redesigned extensions dashboard](https://www.theregister.co.uk/2019/07/10/firefox_68_arrives_with_darker_dark_and_redesigned_extensions_dashboard/)
+
+[![Image 21: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### UK Home Secretary doubles down on cops' deeply flawed facial recognition trials](https://www.theregister.co.uk/2019/07/12/home_sec_backs_cops_use_of_facial_recognition/)[![Image 22: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Train maker's coder goes loco, choo-choo-chooses to flee to China with top-secret code – allegedly](https://www.theregister.co.uk/2019/07/12/train_software_theft/)[![Image 23: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Oh, lovely, a bipartisan election hack alert law bill for Mitch McConnell to feed into the shredder](https://www.theregister.co.uk/2019/07/11/election_security_bill/)[![Image 24: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### London cop illegally used police database to monitor investigation into himself](https://www.theregister.co.uk/2019/07/11/met_police_sgt_pleads_guilty_computer_misuse_crimes/)
+
+[![Image 25: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Want to get deep into AWS Lambda or Azure Functions? Spend the day with us...](https://www.theregister.co.uk/2019/07/09/serverless_conference/)[![Image 26: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Front-end dev cops to billing NSA $220,000 for hours he didn't work](https://www.theregister.co.uk/2019/07/04/developer_nsa_hours_guilty/)[![Image 27: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Kubernetes goes in for nip and tuck, comes out with 25 'enhancements': We take a look at v1.15](https://www.theregister.co.uk/2019/06/20/kubernetes_update_115/)[![Image 28: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### With speakers from iRobot, BBC, Lego, the worlds of Google, AWS and Azure, and more, do not miss Serverless Computing London 2019](https://www.theregister.co.uk/2019/06/19/serverless_computing_london/)
+
+*   [Policy](https://www.theregister.co.uk/business/policy/ "Policy News, analysis and opinion")
+*   [The Channel](https://www.theregister.co.uk/business/channel/ "The Channel news, analysis and opinion")
+
+[![Image 29: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Accounts whistleblower blackmailed Autonomy for a payoff, Mike Lynch tells High Court](https://www.theregister.co.uk/2019/07/12/mike_lynch_trashes_autonomy_accounts_whistleblower/)[![Image 30: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Usenet file-swapping was acceptable in the '80s – but not so much now: Pirate pair sent down for 66 months](https://www.theregister.co.uk/2019/07/12/a_pair_of_usenet_pirates_get_66_months_behind_bars/)[![Image 31: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Microsoft tells resellers: 'We listened to you, and we have acted' – please keep making us money](https://www.theregister.co.uk/2019/07/12/microsoft_backs_down_on_licence_plans/)[![Image 32: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### We have the best trade wars: US investigating French tech tax plan over fears it unfairly targets American biz](https://www.theregister.co.uk/2019/07/12/france_us_trade_war/)
+
+[![Image 33: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Farewell to function keys and swappable SSDs in the new two-port MacBook Pro](https://www.theregister.co.uk/2019/07/12/apple_macbook_pro_teardown/)[![Image 34: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### PC shipments back in black: Desktops to the rescue, aided by Win10](https://www.theregister.co.uk/2019/07/12/pc_shipments_into_channel_rise_again/)[![Image 35: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### At $1k a page, take care when RTFM: Apple-1 documentation sells for nearly $13,000 at auction](https://www.theregister.co.uk/2019/07/12/apple1_manual_13k/)[![Image 36: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Facebook: The future is private! So private, we designed some handy new fingercams for y'all!](https://www.theregister.co.uk/2019/07/11/facebook_finger_cameras/)
+
+*   [Geek's Guide](https://www.theregister.co.uk/science/geeks_guide/ "Geek's Guide to Britain")
+
+[![Image 37: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Hayabusa2 stirs up rubble on surface of Ryugu, pokes asteroid with sampling horn](https://www.theregister.co.uk/2019/07/12/hayabusa_2_stirs_up_rubble/)[![Image 38: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Gone in 120 seconds: Arianespace aims for stars, misses, as UAE satellite launch fails](https://www.theregister.co.uk/2019/07/11/arianespace_vega_failure/)[![Image 39: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Apollo at 50? How about 40 years since Skylab smacked into Australia](https://www.theregister.co.uk/2019/07/11/skylab_reentry_at_40/)[![Image 40: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Grav-wave eggheads come closer to nailing down Hubble's Constant – the universe's speedy rate of expansion](https://www.theregister.co.uk/2019/07/10/astroboffins_hubles_constant/)
+
+*   [Artificial Intelligence](https://www.theregister.co.uk/emergent_tech/artificial_intelligence/ "Artificial Intelligence")
+*   [Internet of Things](https://www.theregister.co.uk/emergent_tech/internet_of_things/ "Internet of Things")
+
+[![Image 41: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Loose tongues and oily seamen: Lost in machine translation yet again](https://www.theregister.co.uk/2019/07/12/loose_tongues_and_oily_seamen_lost_in_machine_translation_yet_again/)[![Image 42: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### It's 2019. Network and application performance management ought to be married. But how? Hear us out – what about.. AI?](https://www.theregister.co.uk/2019/07/12/ai_network_application_performance_management/)[![Image 43: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### How an ace-hole AI bot built by Facebook, CMU boffins whipped a table of human poker pros](https://www.theregister.co.uk/2019/07/12/pluribus_ai_poker_human_pros/)[![Image 44: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### 'It’s not a surveillance program'... US govt isn't going all Beijing on us with border face-recog, official tells Congress](https://www.theregister.co.uk/2019/07/11/dhs_facial_recognition/)
+
+*   [Verity Stob](https://www.theregister.co.uk/bootnotes/stob/ "Verity Stob")
+
+[![Image 45: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Now that's just offal: Heap of pig guts hog road after truck spills load in Kansas City](https://www.theregister.co.uk/2019/07/12/now_thats_just_offal_heap_of_pig_guts_hog_road_after_truck_spills_load_in_kansas_city/)[![Image 46: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### 300,000 edgy folk pledge themselves on Facebook to storming supposedly UFO-tastic Area 51](https://www.theregister.co.uk/2019/07/11/aliens/)[![Image 47: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Queen Elizabeth has a soggy bottom: No, the £3.1bn aircraft carrier, what the hell did you think we meant?](https://www.theregister.co.uk/2019/07/10/queen_elizabeth_is_leaking/)[![Image 48: A 1x1 image, likely be a tacker probe](https://regmedia.co.uk/2016/04/14/dl.gif) ##### Yorkshire bloke's Jolly Roger flag given the heave-ho after council receives one complaint](https://www.theregister.co.uk/2019/07/09/yorkshire_jolly_roger_flag_complaint/)
+
+![Image 49: search](https://www.theregister.co.uk/design_picker/c00f80f04b0eaf0123d821f6c9488fc1cb55fd0a/graphics/icons/search.svg)[Data Centre](https://www.theregister.co.uk/data_centre/)[Software](https://www.theregister.co.uk/software/)[Security](https://www.theregister.co.uk/security/)[DevOps](https://www.theregister.co.uk/devops/)[Business](https://www.theregister.co.uk/business/)[Personal Tech](https://www.theregister.co.uk/personal_tech/)[Science](https://www.theregister.co.uk/science/)[Emergent Tech](https://www.theregister.co.uk/emergent_tech/)[Bootnotes](https://www.theregister.co.uk/bootnotes/)
+
+[BOFH](https://www.theregister.co.uk/data_centre/bofh/ "The Home of the Mighty BOFH")
+
+[Lectures](https://www.theregister.co.uk/lectures/)
+
+[#### Security](https://www.theregister.co.uk/security/)
+
+Crypto needs more transparency, researchers warn
+================================================
+
+Publish primes with seeds, so we know there are no backdoors
+------------------------------------------------------------
+
+ By [Richard Chirgwin](https://www.theregister.co.uk/Author/Richard-Chirgwin "Read more by this author") 9 Oct 2016 at 22:04 
+
+[6![Image 51: Reg comments](https://www.theregister.co.uk/design_picker/029b461aa66d73b1e8cb351f99212507d4da660c/graphics/icon/rect_comment_bubble_white.svg)](https://forums.theregister.co.uk/forum/all/2016/10/09/crypto_needs_more_transparency_researchers_warn/)[SHARE ▼](https://www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/#)
+
+[![Image 52: reddit](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/reddit.svg)](https://www.reddit.com/submit?url=https://www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/&title=Crypto%20needs%20more%20transparency%2C%20researchers%20warn)[![Image 53: Twitter](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/twitter.svg)](https://twitter.com/share?text=Crypto%20needs%20more%20transparency%2C%20researchers%20warn&url=https://www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/&via=theregister)
+
+![Image 54: Facebook](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/facebook.svg)
+
+[![Image 55: linkedin](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/linkedin_alt.svg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/&title=Crypto%20needs%20more%20transparency%2C%20researchers%20warn&summary=Publish%20primes%20with%20seeds%2C%20so%20we%20know%20there%20are%20no%20backdoors)
+
+![Image 56: A person's eye enhanced with graphics](https://regmedia.co.uk/2015/01/13/privacy_eye.jpg?x=442&y=293&crop=1)
+
+Researchers with at the French Institute for Research in Computer Science and Automation (INRIA) and the University of Pennsylvania have called for security standards-setters to publish the seeds for the prime numbers on which their standards rely.
+
+The boffins also demonstrated again that 1,024-bit primes can no longer be considered secure, by publishing an attack using “special number field sieve” (SNFS) mathematics to show that an attacker could create a prime that looks secure, but isn't.
+
+Since the research is bound to get conspiracists over-excited, it's worth noting: their paper doesn't claim that any of the cryptographic primes it mentions _have_ been back-doored, only that they can no longer be considered secure.
+
+“There are opaque, standardised 1024-bit and 2048-bit primes in wide use today that cannot be properly verified”, the paper states.
+
+Joshua Fried and Nadia Heninger (University of Pennsylvania) worked with Pierrick Gaudry and Emmanuel Thomé (INRIA at the University of Lorraine on the paper, [here](http://eprint.iacr.org/2016/961).
+
+They call for 2,048-bit keys to be based on “standardised primes” using published seeds, because too many crypto schemes don't provide any way to verify that the seeds aren't somehow back-doored.
+
+Examples of re-used primes in the paper include:
+
+*   Many TLS implementations use some form of default, and as a result, “in May 2015, 56 per cent of HTTPS hosts selected one of the 10 most common 1024-bit groups when negotiating ephemeral Diffie-Hellman key exchange”;
+*   In IPSec, “66 per cent of IKE responder hosts preferred the 1024-bit Oakley Group 2 over other choices” for their Diffie-Hellman exchange; and
+*   OpenSSH implementations favour “a pre-generated list that is generally shipped with the software package”.
+
+If any of the “hard-coded” primes were maliciously produced – something that's [happened before](http://www.theregister.co.uk/2013/12/21/nsa_paid_rsa_10_million/), for those who remember RSA's NSA-funded Dual EC Deterministic Random Bit Generator – it would be hard to spot by looking at the numbers, but factorisation would be feasible.
+
+It might not necessarily be easy, however: the paper describing the SNFS computation notes it needed “a little over two months of calendar time on an academic cluster” (using between 500 and 3,000 cores in different phases in the operation – a total of around 400 core-years).
+
+Their experiments ran on France's [Grid'5000 testbed](https://www.grid5000.fr/mediawiki/index.php/Grid5000:Home), the University of Pennsylvania's Cisco UCS cluster, the University of Waterloo's CrySIP RIPPLE facility, and Technische Universiteit Eindhoven's Saber cluster.
+
+Earlier this year, INRIA researchers [turned up](http://www.theregister.co.uk/2016/08/29/big_data_busts_crypto_sweet32_captures_collisions_in_old_ciphers/) the Sweet32 birthday attack against old Blowfish and Triple DES ciphers, and in January the group [warned the world](http://www.theregister.co.uk/2016/01/06/get_md5_out_of_internet_protocols/) that the zombie MD5 and SHA1 hash protocols live on in too many TLS, IKE and SSH implementations. ®
+
+Sponsored: [Balancing consumerization and corporate control](https://go.theregister.co.uk/tl/1842/-7432/balancing-consumerization-and-corporate-control?td=wptl1842)
+
+[Tips and corrections](mailto:corrections@theregister.co.uk?subject=%5Bcorrection%5D%20Crypto%20needs%20more%20transparency%2C%20researchers%20warn&body=re:%20http%3A%2F%2Fwww.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/ "Spotted an error or have a tip? Let us know.")
+
+[6 Comments](https://forums.theregister.co.uk/forum/all/2016/10/09/crypto_needs_more_transparency_researchers_warn/ "View comments on this article")
+
+[![Image 57: newsletter_envelope](https://www.theregister.co.uk/design_picker/abc3c5e243ee56667184d6134cd9d346f5cd5b59/graphics/icons/envelope.svg) Sign up to our Newsletter Get IT in your inbox daily ----------------------------------------------------](https://account.theregister.co.uk/register/?product=thereg_daily_newsletter)
+
+*   **MORE**
+*   [Cryptography](https://www.theregister.co.uk/Tag/cryptography)
+
+[![Image 58: reddit](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/reddit.svg)](https://www.reddit.com/submit?url=https://www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/&title=Crypto%20needs%20more%20transparency%2C%20researchers%20warn)[![Image 59: Twitter](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/twitter.svg)](https://twitter.com/share?text=Crypto%20needs%20more%20transparency%2C%20researchers%20warn&url=https://www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/&via=theregister)
+
+![Image 60: Facebook](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/facebook.svg)
+
+[![Image 61: linkedin](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/linkedin_alt.svg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.theregister.co.uk/2016/10/09/crypto_needs_more_transparency_researchers_warn/&title=Crypto%20needs%20more%20transparency%2C%20researchers%20warn&summary=Publish%20primes%20with%20seeds%2C%20so%20we%20know%20there%20are%20no%20backdoors)
+
+### Most read
+
+1.   [![Image 63: Shut yor mouf](https://regmedia.co.uk/2019/02/15/edited_alotta_dosh.jpg?x=88&y=58&crop=1) #### It's happening, tech contractors: UK.gov is pushing IR35 off-payroll rules to private sector in Finance Bill](https://www.theregister.co.uk/2019/07/11/gov_extends_ir35_to_private_sector_in_finance_bill/)
+2.   [![Image 64: alien](https://regmedia.co.uk/2017/10/26/alien_shutterstock.jpg?x=88&y=58&crop=1) #### 300,000 edgy folk pledge themselves on Facebook to storming supposedly UFO-tastic Area 51](https://www.theregister.co.uk/2019/07/11/aliens/)
+3.   [![Image 65: A panorama of the Didcot Rail Centre yard, and a lineup of GWR locomotives, including 0-4-0ST No. 1338 near the coaling stage, during the railways Steam Gala.](https://regmedia.co.uk/2018/04/11/shutterstock_didcot_gwr32.jpg?x=88&y=58&crop=1) #### Train maker's coder goes loco, choo-choo-chooses to flee to China with top-secret code – allegedly](https://www.theregister.co.uk/2019/07/12/train_software_theft/)
+4.   [![Image 66: A 88x58 small image, likely a logo, icon or avatar](https://regmedia.co.uk/2017/02/24/shutterstock_coppers.jpg?x=88&y=58&crop=1) #### London cop illegally used police database to monitor investigation into himself](https://www.theregister.co.uk/2019/07/11/met_police_sgt_pleads_guilty_computer_misuse_crimes/)
+5.   [![Image 67: Google Home assistant](https://regmedia.co.uk/2019/07/11/shutterstock_google_home.jpg?x=88&y=58&crop=1) #### Just because you're paranoid doesn't mean Google isn't listening to everything you say](https://www.theregister.co.uk/2019/07/11/google_assistant_voice_eavesdropping_creepy/)
+
+* * *
+
+### More from The Register
+
+[![Image 70: Rusty chains are linked together in an overhead, close-up shot](https://regmedia.co.uk/2015/06/12/chains_834875.jpg?x=198&y=131&crop=1) #### Liberating SSH from Logjam leftovers IETF RFC writes-out weak Diffie-Hellman](https://www.theregister.co.uk/2017/12/19/liberating_ssh_from_logjam_leftovers/)
+
+[![Image 71: Characters from the classic television series Thunderbirds are shown](https://regmedia.co.uk/2015/12/01/thunderbirds.jpg?x=198&y=131&crop=1) #### Encryption? This time it'll be usable, Thunderbird promises A generation that tried the PGP plugin weeps](https://www.theregister.co.uk/2019/01/04/encryption_this_time_itll_be_usable_thunderbird_promises/)
+
+[![Image 72: A man with blood splattered on his face with his mouth wide open](https://regmedia.co.uk/2015/09/22/american-psycho.jpg?x=198&y=131&crop=1) #### Web browsers sharpen knives for TLS 1.0, 1.1, tell protocols to dig their own graves for 2019 IE, Edge, Safari, Firefox, Chrome, all planning to deprecate lousy old versions by 2020](https://www.theregister.co.uk/2018/10/16/browser_tls_killed/)
+
+[![Image 73: AMD underwater](https://regmedia.co.uk/2015/07/06/amd_sinking.jpg?x=198&y=131&crop=1) #### Epyc crypto flaw? AMD emits firmware fix for server processors after Googler smashes RAM encryption algorithms Updated SEV code cracked to leak secret keys](https://www.theregister.co.uk/2019/06/26/amd_epyc_key_security_flaw/)
+
+[![Image 74: An abstract, swirling background of mathematical symbols and equations in black and white](https://regmedia.co.uk/2015/10/23/math.jpg?x=198&y=131&crop=1) #### SEAL up your data just like Microsoft: Redmond open-sources 'simple' homomorphic encryption blueprints How to work on encrypted data without having to decrypt it first](https://www.theregister.co.uk/2018/12/04/seal_data_microsoft/)
+
+[![Image 75: Smartphone user photo via Shutterstock](https://regmedia.co.uk/2016/08/19/smartphone_user_photo_via_shutterstock.jpg?x=198&y=131&crop=1) #### Germany mulls giving end-to-end chat app encryption das boot: Law requiring decrypted plain-text is in the works Officials want to upgrade rules from device searching to message interception](https://www.theregister.co.uk/2019/05/28/german_government_encryption/)
+
+[![Image 76: mark_zuckerberg](https://regmedia.co.uk/2019/04/25/mark_zuckerberg.jpg?x=198&y=131&crop=1) #### Zuck it up: Facebook hit with triple whammy of legal probes, action in Canada, US, Ireland Ignoring privacy laws, storing plain text passwords, slurping millions of contact details come back to bite web giant](https://www.theregister.co.uk/2019/04/26/facebook_sued_again/)
+
+[![Image 77: RADARSAT Constellation Mission (pic: Canadian Space Agency)](https://regmedia.co.uk/2019/06/12/radarsat.jpg?x=198&y=131&crop=1) #### Break out the poutine! SpaceX flings triple serving of Canadian satellites into orbit Next up, Falcon Heavy and thinking about those Crew Dragons for Bigelow](https://www.theregister.co.uk/2019/06/12/radarsat_spacex/)
+
+### [Whitepapers](https://whitepapers.theregister.co.uk/)
+
+[![Image 78: Book Icon](https://www.theregister.co.uk/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/icon/whitepaper_book.png) #### Simplicity and Sophistication How do you know if simplified solutions actually do the job? This ebook answers that question for the realm of backup and recovery.](https://whitepapers.theregister.co.uk/paper/view/7570/simplicity-and-sophistication?td=s-uu)[![Image 79: Book Icon](https://www.theregister.co.uk/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/icon/whitepaper_book.png) #### Getting Your House in Order 1E have sponsored a large research project to determine whether the situation has improved since devastating cyber attacks swept through the world.](https://whitepapers.theregister.co.uk/paper/view/7438/getting-your-house-in-order?td=s-uu)[![Image 80: Book Icon](https://www.theregister.co.uk/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/icon/whitepaper_book.png) #### Time to transform your Oracle Journey!! See how Nutanix can transform the way you approach your Oracle workloads.](https://whitepapers.theregister.co.uk/paper/view/7581/time-to-transform-your-oracle-journey?td=s-uu)[![Image 81: Book Icon](https://www.theregister.co.uk/design_picker/4ee431b84ac2d23c13376f753522acd7ecbb9b47/graphics/icon/whitepaper_book.png) #### Enterprise Automation Checklist in a DevOps World An enterprise-wide automation strategy helps organizations improve existing processes and execute upon digital transformation.](https://whitepapers.theregister.co.uk/paper/view/7480/enterprise-automation-checklist-in-a-devops-world?td=s-uu)
+
+* * *
+
+You Might Also Like
+
+[](https://www.outbrain.com/what-is/default/en)
+
+[Sponsored Caitlyn BHV21240Z Washable Rug Runner Bring style and practicality to your home with our Washable Runner range. Crafted from 100% polyester, these runners are designed to stan...runrug](https://www.bing.com/api/v1/mediation/tracking?adUnit=11725462&auId=7385a7cf-854b-49ea-a725-0c897c469228&bidId=7&bidderId=4&cmExpId=RSV&impId=-1709299532&oAdUnit=11725462&publisherId=251868273&rId=394d6e86-46b9-4b1a-abbf-ff1dd7a8b789&region=na&rlink=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8tLDCjl08v6w-Tkwxju1FzjVUCUz0KNEARKx-7W-k-LRfE5HGKnzHuQX4URd1VBnQKHPkh7zJZkkCjAakiHfqlUeyrxSDJtUJbqXfb_TD64y3QxtQUFRd_ADWR6P_hVTBIUaEnLfkzObPCGhgRYs1LWdHaP-IF4LlG5snP9-ZeEeRSW-qGdB_WdZE2uXg20Ocxc3PtpgCI5jyAdnyXE_jSUahpN0%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cucnVucnVnLmNvbSUyZnVzJTJmcnVubmVyLXJ1Z3MtYzM3JTJmbWF2eS1pdm9yeS1iaHYyMTI0MHotcDMwMjc1JTJmczc3OTA4MyUzZndpZCUzZDIlMjZjaWQlM2RVU0QlMjZnbEN1cnJlbmN5JTNkVVNEJTI2Z2xDb3VudHJ5JTNkVVMlMjZtc2Nsa2lkJTNkZTRmMjQ5ODM5YzJhMTM3YTc4OTAyMGFhMGE4NTEwYjclMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RzaG9wcGluZyUyNTIwJTI1N0MlMjUyMGhhbGx3YXklMjUyMHJ1bm5lcnMlMjZ1dG1fdGVybSUzZDQ1ODI5MDE5NzMwMDgyMTYlMjZ1dG1fY29udGVudCUzZEFkJTI1MjBncm91cCUyNTIwJTI1MjMx%26rlid%3De4f249839c2a137a789020aa0a8510b7&rtype=targetURL&tagId=00000000-0070-61ff-0000-00000000033d&trafficGroup=bhgoenva&trafficSubGroup=zzf%3Abhgoenva_perngvirvq-ranoyr&uberGroup=hore_3c&uberSubGroup=erfreir&obOrigUrl=true)
+
+[Sponsored Results For Ai Assistant Online Learn More Find top results for ai assistants online Now Searcher](https://r1.outbrain.com/rp3/b1_outbrainrtb/70389727/199378521/7ee239f2-cc56-11f0-91bf-ec5110ddb17b/QDVCIU35QQWR7S3FN4ZAIXHGXQWBB5KN53IKM4ZK6UNPJD2HHLEKF7EEQJP6IE4NKFT5RH6O7SJ7Z4ZPKCJ6ZMDR4JS73EYHV5FAROGNYONU3O6C5CLRRZ4VB23XEKCRWSKQ4FJJ4H3QZDM57Z2KYOEDPECCMZ6XPVIR4UUMBP3OFESQDMF2S2JXVYFBPLZWSRNK6I2PWWKRLP6OP6QEY6CBLWOF25LYHJGOTKYGQIQJ5SX44PANCAX5NJRQ2UBHYP6SHJ3GN6DPG4OYATHZCHS4PBDIALLHSGGPLHDQVWAJQXGJ2GLN7TJBO3XSAXBFLBNPJM423ZPGCXJWKUKFCIE2AVUGOASE27ZUXKYJ2OX2SBHJIRRVXYHHD332NMJDDPFQKOAGKPFCBPH7NY6ACNA2JGPAFHBI3SYSCMRVXKCQ3CBVXRUP5HRQZIEKP6WOLQ6GM6LAPZI3HWXNI44N3WUUKH6PBJPWW72YC6U34EDW2PULWIYWQ2PCCA3FN2PZCGXWPIZHVISPC5JIE5MCV2MY27Y7MDZFI5GJOE7TR4KO6Z26CCKB5DIMJIIY55TQQSNBNRAIRCGB3XHAIY45ZCKGBGZXWO4CSDA3I6B6PZSWY27XPPSLHMG3EG4BLYP4Q7UU5TM5GLTLBKGL2RWWLYIISEOLTNNUAH2WQRCXLSHWQ2YHAZWZSYIOS4YXQERNNLVGQE4OZACBJ23CKSPUASKKOZLLIODXNM5ORMDDSLF7HK6QEIBM43OXRGKTFNQLFOXNMK2Y3OJ2I2DT44JGRGJN2R5RCN6ROSPEQVTHTL5TSLEVIGV7CWXLHA46H7DTPOYXEVL5ARLWFRRMNOXFQN6PC4N4CC73HQOVKT5JFG362VKZYIWKHN4F74664JUOGZ326ML6HQEMTRB4EKZT6MOVWXD52N3NSFXT2AMA7L3SHU63IOKWDJ7N4FTXX7JIPICQYU3ZVX4CXJSOTOURI6GTADYCUALJTXWXLZUKW54JJ45JD5NKDDS72OIRK42RKISVB3AM7IJAD4VRNFYQJCVC3WVAIJZLURHOD4KAXCEKVTOHZFPHC4VJI7VH5YR5YXHH2PPDY26X44RRFJP7RTRLNEMHOHKXGYXQEONQWX7NUPHWNY3BHR536WM7FR57IE5EOPUIFLQLYVHHX5WKJNYIA7UJ355ZS3VIYIC57MTPPFQMDDDFYEJAJ2YPCCAIP2VONMGB6OHZPG2ZL3HE73UZD62HT54J24GBVCIWEWDVON5W6IUKI7EARCARCN4FRP5OTUUXSLLVVVOV4DNILYCPV3JMFPJMB6NK37AI5G7EYVZBWDSWICPNQM53LY5LNTBLD2RFKC4FJ6QYA62TKS6NCDYL42AQTSKPCTKW6I2X733BAZZA7JHLLQPIRAXMHLVX2JQ4ST5LC2QVD65TNDHDPIXNXLTY4CIE576YEYF7YGM7FHDJVW724YIU7LO2NFYPSUBQBBDDR3TFEPKUY43ZUQ5NSMFJFRGA7UK5JSBISFXALERWMFPV6UKNYE36LZLF6XDJWLY6WJZL2IQQBA37AL3SZP7TXYX6XSHJNAKPGO662TAKGAKBDOEUZKWCYNVA4TK2E2QFET2RDOCXS5TJMVCASSZUJ4WY6UZSUK3W3HO36OCCPBV3TWDV3FZ2CQD5PUWEVHBYS6EC2QSUJPCR3BB5TCFF6C3UQCRQQMUONPVA6JFGACJLYL3ZPL6OBIL4WTOEI2MMPAJEJTIEXDUPX57D42YAE62YVW5AHAAKX27R37BUOCTYPHHYQKH7HN3YU5CKKZPRCJCDOMUQF5GMST77P53RPFW4QFIHTKYO5JPGYHJTOPR4C75KEEM7KZDENYXODWESUDB2SC2DRO32HXBNLJ7FILTUTRXEVWNQLITW6YOSVXXFBOUKSYBTI7PABOLY5T5H4O43MQQQZLEXM4TU6KT3XBIF5WCG6B2DXI5J6T2M3VXGVBA52ACBD6T234REP4XUEV3N7LPKTRWE5THFXMBBS7R2NOIGFPID6HDOOUPB24NVQVWAOZP3C4MCQ3BSX67VKYQEW4FIL7EP5U/?obOrigUrl=true)
+
+[![Image 82: Scientology threatens Wikileaks with injunction](https://images.outbrainimg.com/transform/v3/eyJpdSI6Ijc1YWM5MWE3YjliYTk4ZjA0MTg5NWVmMGQyNjBlN2JlNDRjOWZhNTcxYjUzYWRjZjhkNjNhOTg4NzJjMWM3NzEiLCJ3IjoyODYsImgiOjIxNSwiZCI6MS41LCJjcyI6MCwiZiI6MH0.jpg)Scientology threatens Wikileaks with injunction](http://www.theregister.co.uk/2008/04/08/church_of_scientology_contacts_wikileaks/?obOrigUrl=true)
+
+[Sponsored Get Your Free Government Phone! Read More Experience top-notch connectivity! Secure your 100% free government phone today.services-abc.com](https://r1.outbrain.com/rp3/b1_outbrainrtb/69774327/195651112/7ee239f2-cc56-11f0-91bf-b4ada3984a7b/YVEAB5FDSCZ7QDLBBHU27YDAJI257JMMOQZYJBJQ7PNP7V42QB4RMO5KA3UVF73V3D3CWZAHY7WEHOR2KUDEA6QFZXGAMV3PJU3BI2UBHVCS64FGS2OWJLRYZ3D2T3NJZ4YSB7VC7DICWUNJFYA2EODEYDINILCR6Z254LZWCO7TON75A67JQPV4IEWHPNTSWGTYFRZDIBDE2P4K6RUX2UANOLNPW6KX7T4BDLKUBRYGFQSK3G3ZDXJJHBJ4KOX65V6TCUWVFQW5CZEIYPFGOLUMJLTORSFKQBBYXRZTJJJ2WMSLGFF64V4WJAAURHVM43CYAXWJD7NJMYILLV2JWGM72GUTG2GZOD234AOXWNRAMXQ2O4DAXEKLPGFCIFIDYBAKI3S47TZ4NIN4YNSEIXYJ6TVR63IRFWYQBPFHF6A7WZRQBIFUYGLKV3JHKZTO7D46LPAIBYJUNGKETDUTUQ4Y2TFHQASLGZ22R32GRGGOIOSNRKYU3PCVSAZJAUY7OSQAFYOOIGMSGQSQJTZ5LGZIO3GOBO7JQEQ7PAEBD5SFH3XOFDVMS2L7ITIZ3TXKJS6O74PZ2ABP5CBANYF5ZUOOP56NZZ2GXF3IE43ZKF5EEZDAU5MH2PFZY3TO72N5AJAHL67BWVHOWFLZH2I4DT2YA6I6EJ27SPAEIS3QRUDYRPHYT2VO557TN73CFCQOTTXTGSN4LPAKTEVFABJ5RN22TABGRRWYS6WKO2D7N527D462TUEGVW3ZKAPFEEFUXDOFUEN3SN47TD7JDNCTRS3GZLSTI4QGUUK6SYIEKHMYMHNWUTW2VHZJGLLYFYD6EXDTSKF4C4U5IOGRDK64JIS3DQOBBVDHZJJCF6V2DMLUAYW3754S2B7SNBH2LRIBLJVOA7AANQL2MXXRO23CEI6TTLP4M2HJHYAU2A4P6A2KEOXU2SCST2XWX27NVLOQED52FXBQ4C2SLC4WTNDJEQWAQMTBHIKBPXM7CJ5ZNQFUMRPW2TCEICDU2F42OXPYLNEYKAOI45IW474OL4EU3R4UAQDFXU2XHKHXMQMZHZBZ3FXOQBIWPV3OMB5L4JYFQPJ354BYVXG5Z3YZZUI4H6VBSA6RAURJWYT6AITGNRWLBUMOTJBSVSKYASVLG6CNSDTTWN4YTAHWGH5O7DJIMVQYT326FIZ7IAX555R3SJWHNZIXSBRMW7B3OE7D7WQESGQS65ALM3XLHRXDNVR4BZATOMOQT5XI4GE64EWZVP5M3YPUT55YMHO73VYARGQSAYQMPS7HZFJXXOLVVA7I5GIGR2M6R7W567NN2XKHEPPS4UZL7X3AQQIN3TOTAFLGDHOSBS7DTAFHQ56AMOUSDWOKMAKTWMLPJ6ESKBH77NCYHSI57B3LPRTBGDZ33PJZ25XZR42JLZG7ZMGTUKZMF7SXXLAVMIIQUB3EOLAF7LNPU2NUWUKV427BKY4Q2UADYQD4Q74GZUW5U75342JLG4ST4MGGMG3ZNCAIO2DOUKS77RWWKJBBXF6IZMW4WWS3WTDFK75VREY76KPNBPAPWIIZN7AST7J6HOWTZTRTK3JFLAGRWGU2WNQTTAZ6FJOYJP2PMR3CS7JS5BY37MVPZNYJ6T3564QJPRCCGKV6NQQZFH7YWACXWMWHDV74WXUZZ3LZCALXFMTEP6VJP235PSHLRN53V6SNF3UMMBVNOBKOSQ2SJYWJ7JZIOXJG2PBGRABI23726OGQD7NDPZ5T3RROXNTRUQLFDO57WBTQIKJIZNSDV6AYJ6SYJBTWPOHDXRI62L5ULUZINNYB6RSO2WBS3SAAWUPLLZ2U364GLFRX6P77BWMJJ3Q4IWU76FNH3WTVZU2Z5PC6MGTXOTKSRUWADG4SQCQCRJZCVJFQ3OYJ53JG4UEPT47HPIZTHBF6J3IGSBUT574U365LZI536JV7UUK7UOZNZ4U5EXDKHKCUVZQJP6RVZ22FWZ3ETUFKHDGK2MNS3GOGZMJRO6QWHQ4EPYUJMVD3PUDT6OH6GQVTDUIGBNPIT7QQ6INCBL66A3A7YQXEWRWHQNM36D2PMZ7ZTUX6HHP3VHEESZHOB2X5IL4EUU3PSBJH4VY2WUO7OM36CS6M4OCZQCTVRXCYR63GV4/?obOrigUrl=true)
+
+[Sponsored Latest SUV EV Cars Here! Read More Explore our selection of eco-friendly SUV EV cars. Get ready for a high-tech ride!travel.rocks](https://r1.outbrain.com/rp3/b1_outbrainrtb/69774296/195651022/7ee239f2-cc56-11f0-91bf-6c87ef92947b/2ABEAHY3VJDYYKCM7MF2OKZ3MA257JMMOQZYJBKYRG4XEC6VO43VQU22WGCLXKVK53E4SKRR7BJ3FJQ24YBANEAAIKFBIP52AZPX57ZWSWSYSAI33Y6TE3DCSX74B5FGN5LARAVUJIL6LQ6XCJ636Q6ZREHGWN3HAWUKXYFS2MTH4FQGBXXJJI3DIRMQQPG72ORXB7H4IIKCVVYR2XG2EBPB3AJWCPKOURX6FXQDKYYWNFPZKYPNYSATWLY2YH5NWSYEV6JRXK5XRMBG7MESJLCCZVYQKVCFENQONVDB455RCHN5Z3QQX3743NWQJRZWYEF2J4EUSRKU4INLXNATXI5J3HRIEYHMQLVRHC5LXLG7DPUBDMJQXEKLPGFCIFIDB5I7RQVWAVJ62IAM4S5V7OWF7VN2KB574LUL7KVYXLS6X2DK64DFZOLWJYE2GDXMZT2BQYH6FHOAMC7WUU4GA7USX6RWURJNUXP6WLEFPQRSRFZ4XLAEIZTZZLBSNUD7A6L3MFUCT2ELYAEU6AEVWUBAFYYI34SMFLGT6OYPJLN34T6B5JRBR4HUTXG3T55PXT66YATQVE6WIXY7NEWYLZPDYDVYMIOFDCDWJXC33DZPWZFO6ADXYHLDIFQQ3TAHPLZHVXWGOEEDUJ25VVVUXSGR2ZLBH6XXX3GIIAAGEZUHL44OFXNYEHHZ6FXCGQ54ACLH7PKL4KG666OSARH5S4O5TO5OD7TZXXL7SP4ZJQYSMLCIA53SRASKIXXCLIRPBC7IS3AVUXGHK2DRE5EMC5BAGVC5G2XCCRNNMNVTHAWCQHSQHADK54SFM6XFLYLJ4JUBGPVYTRTXXBT6H7XO32VWHPLZFEH4XGOTBIXDNDV2XYCZEZVHBKRCWTMHZPHVGNL7UHBQ2TTANSKYOVSYWMNJNK4FLGHOBFK6IPCW2ZP5SFJHJGU2DK5JHJ6SM6W4W77H6DHQT7DFOJQ4MW4BBCK4NMEN2KEVCC6L3JWGLHR2GRMJ5AUSNGPIQIQUICIJJJQH6UOMDUBHSMH2E3QDXYU5IC67AASTAFCGB3UYNSB5BWTWYRJOBA56M2A3G4F2OZK5FTT3UXKNRMNBSHPVBV2JBHGKMWNN5ZNKP2WEBJ44NUTTNANLCPD5CTGMNWRZ6GEPOYWSPJA2FFEGUFHH3PLVWLP3RV7D3SGWX4FOAKW7NXQXYM7X4DEPZAI5EPXLVLF6MC3CWIW7TTATHFZP3I4IDJN7PL3MYJCMDMRDSYAW6YQMPUXXYCQYFDHOKPVMUT2T5KMSCPWNSGKHAMWGVMPQ6NC3FX6US7FJQ2JTRJRUGHTII22KTLDP37RFNDTXN6F6K2YHLMV6H3R2FSY4DN7AQRQGAUINSWHUCJB6CQ3SFDI62IV5M5SYEK2QF4EDXIYI6PAYWL3E3OWP4UIRNNIJ6JLDBBL3KF3SHJBZN4CHDFUWPP47VHOGLS3IF5EMZIH4HCN7S2HZHMSLCIM6I6WBVXQFXU2VH5TYSZZDALOYZ2PO2KZEIO66ACFO5334FHBJL6CTC33KRLQEV7XFBRXC4ASHH4OBHXII4CORQBTVUNGANIDVJQ4535ENI5LXGYU5PLMJRLNE2ZMDTL3VVS6QWCTHDLYZ4QFNICT5I7U4TBIZQBTB7RVJAOBOX36EPHTFFA5HHVEDEEMWKZKRV2UMJDPN62LJUVQWKQWHOX76NVCV4D7RMHXUVI45E3NEQL3NGTINLIODGP4HRRH5W6ZUMSPLIFP4XYFGBEATHINOUXK2EMP4Y5GX5VL72F4BT55JWITT2URCUCD6URYAICBIEMC7FUL6ENMETPLBB2WFZ7535KLMGUJXN4SAWRRASN7KTWXEKQ7QYTHAKKCQNIPN4T2PHQX2E7FT74RB6E3JEWJYN6AJUYNHT2YXABW3P5CTHS65ZVQTPQ57DAJAWIIDTGF5UTGF2RIHVHW2HCMZ4JEZD7BIP3A6K4S2UHKSOGCMBUUBVWVFYK2PYCPQNG3THQSCS74CLGFQJPYYNMGUQ4BRFTCDPTLYRBWNJVAEIZ5L7ZUDCXBMJB57NJ7AGL3AXNAOQ4O46BZGGGEJHXEJE6F6SMGA/?obOrigUrl=true)
+
+[![Image 83: Scientology threatens Wikileaks with injunction](https://images.outbrainimg.com/transform/v3/eyJpdSI6Ijc1YWM5MWE3YjliYTk4ZjA0MTg5NWVmMGQyNjBlN2JlNDRjOWZhNTcxYjUzYWRjZjhkNjNhOTg4NzJjMWM3NzEiLCJ3IjoyODYsImgiOjIxNSwiZCI6MS41LCJjcyI6MCwiZiI6MH0.jpg)F***=off, Google tells its staff: Any mention of nookie now banned from internal files, URLs](https://www.theregister.co.uk/2018/10/22/google_bans_naughty_language/?obOrigUrl=true)
+
+[Sponsored Top Efficient Small AWD SUVs Read More Discover the best compact AWD SUVs that offer remarkable fuel efficiency. Explore now!services-abc.com](https://r1.outbrain.com/rp3/b1_outbrainrtb/69774439/195651370/7ee20a68-cc56-11f0-91ba-24184cb27fc2/AUPUIWNQUMZEEXW2FQKZ2UOE5SPTMGF5M2XSAC4CUZZIVSGNGJXUGVLMO75ZIL3RSPGTUDP7CQL7O6URZDHDOX7YFFFRV4EKNTYNGTSKVPMN7S6KB7D2722BWOP3JZ56TRWXLDQAHP4S3ZWXDTSRKBQ6EHVKP2EYPOPHFAAMJKSAKW7DJ6VBYJLGKMDGYJLDAXMOV5MTLI3K4BRDJVNMHFU7KXND3FQDLXW6N3IL4OMC2IXKEVGYMW4EBEV25F3GI77GDC43XVW4SY2BTCDH3MN7LFDZQANUIARP7NFYM3L4OGSSGN36CBI6JIY35XZU3QWWXNX3NKJRI5JIK4C4UKUCJDV5ZFUO5OR5HEBOWWPQXFWXPSMRRLH66AAO36LPFYAA4N6TRKXGGEQ22JVHSH6GLNH7ROUVBCYVLG7DTJBMRTPMBKTOJWHOB65DLGC2UZMYYVP26ZO6O3PZ2YNEPFQSOTOZJUR7RWVOVNN7XFZBKTR2B7P5DU34UNYTH3OWODQVJSVBWIKQXPYEMX35YMOSXY2IJOFHD5TWCBGYVZM7B5C7U3JQJUSZD2X5KTQFMJ6EKRNSICMKIEAKXBMXEWR7A3MNFNRBXACW7O6JFOXCL5XDJZ2MLCE2WYQO5EMRM3S5JU2ZMUJ3PDYFI636SFTK3OMHEYQZDMZDUMWFJTHHVNUJNZWSLNN7WNSPP5YCWMBPOA4PLIEZD7AFSA2OCC3TI3X6LKCZFMWYGOJFZYTLVPF43YGGTG6OT5OB5X5HPXFVCWMFBYU56DEBTOHDR5HPJ3XPVHQ4WPF7HI52IGL4NAMLXHVDB2O4BM3Q6YNRDRPKPOMQMNKRPZ63II56X3STU2QR3DL6ACLA7ZMD3NFUNNLBP5CNYPOMR634EFWP2GBBU5LVGGSJQUWBCKVULCQU3S245RHPGXWK2EEQKPMLHYFZXJPGPQMAXF4PMQ7TDL6XNMK32NRZ6AKBFADZYMS3WDP3ZSXZ2WPIDEVQB2VPBGZ3YMO7IW222LLCDIAB5XOLQ7UODJ34RMEXCLNHUHC242DVFGUW3TR2XWJV4IEOFMHP2SLB3A6FRK3YHSU66YWDEIUKBLW64TXANHYSOH43ULCCZFOG3TVVKXLZXCNLW5CWZPNSTP263ZJ57QJMF4BLNPS7T7DU7E4AYDD363N5MOYXELTNYP5KBBVYBHZZJA57XKLXVDHV2XZSLZZNGUXFX2RPTISYQBTHYPLS62UVYMSUYH72VZXUBAIP6LGOH724I7FZ4KD3DHQCXZ5JQZQFMUE3WLYRMJV7GJWACC7K4DGYTB67CTFER744D7SIAUACVLOQVY5XX7ODBQBOLJIXCP6VBUYPPS3GGRBGSHFE2KWQUFKAR7TBAXJNHJT4DAJH7HM2FT3QLNWDSEEW2OSWDN32D7OKQH2NDECX6DKTEZTDW62L4QX7A7Q66K3IXPOWZM7CDFE5JQY6GKL4Z725EVV6A5GYLZFZXYXW4BKCMB6EYKZORLWROCNTECJSCDDMUHIYM2QG2WMUBCOTKK3RLVE5MXBUCH7WSZS2LFDZUPGTEJI6V2347PXW2X7FGRN2F2WSPRGV7ER24QWA4W2MVNAFSCKHM7GEJJMHCLPJBKQVE2QGJQFZYMB7QSRIKNHFBAYNUIZGVG4NJJNCDM7S3AON5OF3OXMUUXT3NECP4IJQ3EBTPM25ZSYI6XMK7XPFZ5IFKOHZJRXZ7KHWAJQ6Y53XQ4DNXMYMYD6J7YDKW4RTQDHXP4JJ2JIPPD3Z3XHKSTMTZEPBIBIJ5FGB756O3SG7KPARKEXN4OQKDCW4W7FIFA7ZUCRW3UJ2H5RPDZF3ACMYS43ABLHXKRSFADJHZQWPVFSVJ64AJSRZIFJSVPODVNJ3Z7KGXYNAMPNRJOU53ZZ7HFB5VJLVLDPKFY4AXTUJRDL2FH3LTW4BBX62JDQQVXINDZ7BPFK7PTI6N7BNT3QZK2QZVQHI3BOI76CPTQ4UDRC6KNWXI3XHCD2UAJ6WCJ6SQZBJQV42SLJL3WGWKRH72LF6EOG2S3CBTHW2O35QDN72PSU3QWVWHC2I23WSKTVAY6U6UNVONZWMVDNHTN5SKDCXHVU3SOHXYTNFW3HEPLOVR6NU6DTCW7DEEEDVVMDUDHQ4HDY/?obOrigUrl=true)
+
+[![Image 84: Scientology threatens Wikileaks with injunction](https://images.outbrainimg.com/transform/v3/eyJpdSI6Ijc1YWM5MWE3YjliYTk4ZjA0MTg5NWVmMGQyNjBlN2JlNDRjOWZhNTcxYjUzYWRjZjhkNjNhOTg4NzJjMWM3NzEiLCJ3IjoyODYsImgiOjIxNSwiZCI6MS41LCJjcyI6MCwiZiI6MH0.jpg)The Central Telegraph Office was serving spam 67 years before vikings sang about it on telly](https://www.theregister.co.uk/2019/09/19/geeks_guide_to_the_central_telegraph_office_and_bt_centre/?obOrigUrl=true)
+
+[![Image 85: Scientology threatens Wikileaks with injunction](https://images.outbrainimg.com/transform/v3/eyJpdSI6Ijc1YWM5MWE3YjliYTk4ZjA0MTg5NWVmMGQyNjBlN2JlNDRjOWZhNTcxYjUzYWRjZjhkNjNhOTg4NzJjMWM3NzEiLCJ3IjoyODYsImgiOjIxNSwiZCI6MS41LCJjcyI6MCwiZiI6MH0.jpg)Archive.org's Wayback Machine is legit legal evidence, US appeals court judges rule](https://www.theregister.com/2018/09/04/wayback_machine_legit/?obOrigUrl=true)
+
+* * *
+
+### Sponsored links
+
+*   [**Get The Register's Headlines in your inbox daily - quick signup!**](https://account.theregister.co.uk/register/?product=thereg_daily_newsletter)
+
+#### About us![Image 87: A 7x150 small image, likely a logo, icon or avatar](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/footer_mob_nav_arrow_black.svg)
+
+*   [Who we are](https://www.theregister.co.uk/Profile/about_the_register/)
+*   [Under the hood](https://www.theregister.co.uk/about/company/website/)
+*   [Contact us](https://www.theregister.co.uk/about/company/contact/)
+*   [Advertise with us](https://situationpublishing.com/home/contact-us/)
+
+#### More content![Image 88: A 7x150 small image, likely a logo, icon or avatar](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/footer_mob_nav_arrow_black.svg)
+
+*   [Week’s headlines](https://www.theregister.co.uk/Week/)
+*   [Top 20 stories](https://www.theregister.co.uk/Popular/)
+*   [Alerts](https://account.theregister.co.uk/alert/?create=1)
+*   [Whitepapers](https://whitepapers.theregister.co.uk/)
+
+#### Situation Publishing![Image 89: A 7x150 small image, likely a logo, icon or avatar](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/footer_mob_nav_arrow_black.svg)
+
+*   [The Next Platform](https://www.nextplatform.com/)
+*   [Continuous Lifecycle London](https://continuouslifecycle.london/)
+*   [M-cubed](http://www.mcubed.london/)
+*   [Webinars](https://whitepapers.theregister.co.uk/events/list)
+
+[![Image 90: Situation Publishing](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/sitpub_footer.svg)](https://situationpublishing.com/)
+**The Register** - Independent news and views for the tech community. Part of Situation Publishing
+
+#### Sign up to our Newsletters
+
+Join our daily or weekly newsletters, subscribe to a specific section or set [News alerts](https://account.theregister.co.uk/alert/?create=1)
+
+[Subscribe![Image 91: A 7x11 small image, likely a logo, icon or avatar](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/footer_mob_nav_arrow_white.svg)](https://account.theregister.co.uk/register/?product=thereg_daily_newsletter)
+
+[![Image 92: Twitter](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/twitter.svg)](https://twitter.com/intent/user?screen_name=theregister "Follow us on twitter")[![Image 93: Facebook](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/facebook.svg)](https://www.facebook.com/VultureCentral "Like us on Facebook")[![Image 94: LinkedIn](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/linkedin_white.svg)](https://www.linkedin.com/company/the-register "Follow us on LinkedIn")[![Image 95: feeds](https://www.theregister.co.uk/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/rss.svg)](https://www.theregister.co.uk/Design/page/feeds.html "Follow our RSS")
+
+Biting the hand that feeds IT © 1998–2019
+
+[Cookies](https://www.theregister.co.uk/Profile/cookies/)[Privacy](https://www.theregister.co.uk/about/company/privacy/)[Ts&Cs](https://www.theregister.co.uk/Profile/terms_and_conditions_of_use/)

@@ -1,0 +1,173 @@
+# Seasonally Adjusted Transportation Data
+
+The Wayback Machine - https://www.transtats.bts.gov/osea/seasonaladjustment/?PageVar=RAIL_PM
+
+Seasonally Adjusted Transportation Data
+
+===============
+
+[![Image 1: d o t logo](https://cms7.bts.dot.gov/sites/bts.dot.gov/themes/bts_standalone/images/dot_ribbon_logo.png)United States Department of Transportation](http://www.transportation.gov/)
+
+[![Image 2: BTS Logo](https://cms7.bts.dot.gov/sites/bts.dot.gov/themes/bts_standalone/images/BTSLogo_x2.png)](https://www.bts.gov/ "Home")
+
+*   [Ask-A-Librarian](http://transportation.libanswers.com/)
+*   [A-Z Index](https://www.bts.gov/browse-statistical-products-and-data/bts-publications/z-index)
+
+*   [Topics and Geography](https://www.bts.dot.gov/explore-topics-and-geography)
+
+### Topics
+
+    *   [Airlines and Airports](https://www.bts.dot.gov/topics/airlines-airports-and-aviation)
+    *   [Energy and Environment](https://www.bts.dot.gov/topics/energy-and-environment)
+    *   [Freight Transportation](https://www.bts.dot.gov/topics/freight-transportation)
+    *   [Infrastructure](https://www.bts.dot.gov/topics/infrastructure)
+    *   [Passenger Travel](https://www.bts.dot.gov/topics/passenger-travel)
+    *   [Safety](https://www.bts.dot.gov/topics/transportation-safety)
+    *   [Statistical Policies and Methods](https://www.bts.dot.gov/statistical-policy)
+    *   [System Performance](https://www.bts.dot.gov/topics/transportation-system-performance)
+    *   [Transportation and the Economy](https://www.bts.dot.gov/topics/transportation-and-economy)
+
+### Geography
+
+    *   [Transportation Maps and Geospatial Data](https://www.bts.dot.gov/maps)
+    *   [Map Gallery](https://www.bts.dot.gov/product/geospatial-application-and-map-gallery)
+    *   [International](https://www.bts.dot.gov/topics/international)
+    *   [National](https://www.bts.dot.gov/topics/national)
+    *   [By State](https://www.bts.dot.gov/content/state-transportation-numbers)
+    *   [By County](https://www.bts.dot.gov/ctp)
+
+### Modes
+
+    *   [Aviation](https://www.bts.dot.gov/topics/airlines-and-airports)
+    *   [Highway](https://www.bts.dot.gov/topics/highway)
+    *   [Rail](https://www.bts.dot.gov/topics/rail)
+    *   [Maritime and Inland Waterways](https://www.bts.dot.gov/topics/maritime-and-inland-waterways)
+    *   [Pipelines](https://www.bts.dot.gov/topics/pipelines)
+    *   [Transit](https://www.bts.dot.gov/topics/transit)
+    *   [Bicycles and Pedestrian](https://www.bts.dot.gov/topics/bicycle-and-pedestrian)
+
+*   [Statistical Products and Data](https://www.bts.dot.gov/browse-statistical-products-and-data)
+
+### Statistical Products
+
+    *   [Information Gallery](https://www.bts.dot.gov/information-gallery)
+    *   [A-Z Index](https://www.bts.dot.gov/browse-statistical-products-and-data/bts-publications/z-index)
+    *   [Airline Information for Download](https://www.bts.dot.gov/airline-data-downloads)
+    *   [Border Crossing Data](https://www.bts.dot.gov/browse-statistical-products-and-data/border-crossing-data/border-crossingentry-data)
+    *   [Commodity Flow Survey](https://www.bts.dot.gov/cfs)
+    *   [Confidential Close Calls Reporting](https://www.bts.dot.gov/close-call)
+    *   [County Transportation Profiles](https://www.bts.dot.gov/ctp)
+    *   [COVID-19 Transportation Statistics](https://www.bts.dot.gov/covid-19)
+    *   [Data Inventory](https://data.bts.gov/)
+    *   [Data Spotlights](https://www.bts.dot.gov/data-spotlights)
+    *   [Freight Analysis Framework](https://www.bts.dot.gov/faf)
+    *   [Freight Facts and Figures](https://www.bts.dot.gov/product/freight-facts-and-figures)
+
+### Tools and Apps
+
+    *   [GIS Applications](https://www.bts.dot.gov/product/geospatial-application-and-map-gallery)
+    *   [Government Transportation Financial Statistics](https://www.bts.dot.gov/gtfs)
+    *   [Intermodal Transportation Database](https://www.bts.dot.gov/browse-statistical-products-and-data/statistical-products/intermodal-transportation-database)
+    *   [Local Area Transportation Characteristics (LATCH dataset)](https://www.bts.dot.gov/latch)
+    *   [Monthly Transportation Statistics](https://data.bts.gov/stories/s/m9eb-yevh)
+    *   [National Census of Ferry Operators](https://www.bts.dot.gov/NCFO)
+    *   [National Transportation Statistics](https://www.bts.dot.gov/topics/national-transportation-statistics)
+    *   [National Transportation Atlas Database](https://www.bts.dot.gov/geospatial/national-transportation-atlas-database)
+    *   [National Transportation Data Archives](https://www.bts.dot.gov/browse-statistical-products-and-data/statistical-products/national-transportation-data-archive)
+
+### BTS Publications
+
+    *   [Passenger Travel Facts and Figures](https://www.bts.dot.gov/product/passenger-travel-facts-and-figures)
+    *   [Pocket Guide App](https://www.bts.dot.gov/pocketguide)
+    *   [Port Performance Freight Statistics](https://www.bts.dot.gov/ports)
+    *   [SafeOCS](https://safeocs.gov/index.htm)
+    *   [State Transportation Statistics](https://www.bts.dot.gov/product/state-transportation-statistics)
+    *   [Tank Car Data](https://www.bts.dot.gov/surveys/annual-tank-car-facility-survey/annual-tank-car-facility-survey-program)
+    *   [TransBorder Freight Data](https://www.bts.dot.gov/transborder)
+    *   [Transportation Economic Trends](https://data.bts.gov/stories/s/28tb-cpjy)
+    *   [Transportation Services Index](https://www.transtats.bts.gov/OSEA/TSI/)
+    *   [Transportation Statistics Annual Reports](https://www.bts.dot.gov/tsar)
+    *   [Vehicle Inventory and Use Survey (VIUS)](https://www.bts.dot.gov/vius)
+
+*   [National Transportation Library](https://ntl.bts.gov/)
+
+### Statistical Methods and Policies
+
+    *   [OMB Statistical Policy Directives](https://cms7.bts.dot.gov//learn-about-bts-and-our-work/statistical-methods-and-policies/statistical-policy-directives)
+    *   [BTS Guidelines for Data Collection, Confidentiality, and Statistical Quality](https://cms7.bts.dot.gov//learn-about-bts-and-our-work/statistical-methods-and-policies/bts-guidelines-data-collection)
+    *   [Seasonal Adjustment Methods](https://cms7.bts.dot.gov//explore-topics-and-geography/topics/seasonally-adjusted-transportation-data)
+    *   [Federal Register Notices](https://cms7.bts.dot.gov//regulations-fr/notices)
+    *   [Rulemaking](https://cms7.bts.dot.gov//learn-about-bts-and-our-work/about-bts/rulemaking)
+    *   [Behind The Numbers: BTS Webinar Series](https://cms7.bts.dot.gov/newsroom/behind-numbers-bts-webinar-series)
+
+### About BTS
+
+    *   [Overview](https://www.bts.dot.gov/about-BTS)
+    *   [Staff Directory](https://www.bts.dot.gov/staff-directory)
+    *   [Jobs and Internships](https://www.bts.dot.gov/learn-about-bts-and-our-work/about-bts/jobs-and-internships)
+    *   [Advisory Council on Transportation Statistics](https://www.bts.dot.gov/acts)
+    *   [Port Performance Working Group](https://www.bts.dot.gov/learn-about-bts-and-our-work/about-bts/port-performance-working-group)
+    *   [Legislative Mandates](https://www.bts.dot.gov/learn-about-bts-and-our-work/about-bts/legislative-mandates)
+    *   [BTS Strategic Plan](https://www.bts.dot.gov/learn-about-bts-and-our-work/bts-strategic-plan-0)
+    *   [History of BTS](https://www.bts.dot.gov/learn-about-bts-and-our-work/history-bts)
+
+*   [Newsroom](https://www.bts.dot.gov/statistical-releases)
+
+    *   [News and Statistical Releases](https://www.bts.dot.gov/statistical-releases)
+    *   [Calendar](https://www.bts.dot.gov/events)
+
+[OST-R](https://www.transportation.gov/administrations/assistant-secretary-research-and-technology/office-assistant-secretary-research-0)>[BTS](https://www.bts.gov/)
+
+Seasonally Adjusted Transportation Data
+Related Links:
+*   [Seasonally-Adjusted Data: What it Really Means](https://www.bts.gov/explore-topics-and-geography/topics/seasonally-adjusted-data-what-it-really-means)
+*   [More Seasonally-Adjusted Data](https://www.bts.gov/seasonally-adjusted-data)
+* * *
+**Variable:**[Get All Metadata](javascript:__doPostBack('HyperLink1',''))
+* * *
+
+**Source:**
+**Rail passenger miles -**U.S. Department of Transportation, Federal Railroad Administration available at: http://safetydata.fra.dot.gov/OfficeofSafety/
+**Seasonally-adjusted rail passenger miles -**U.S. Department of Transportation, Bureau of Transportation Statistics (BTS) calculation from data collected by U.S. Department of Transportation, Federal Railroad Administration available at: http://safetydata.fra.dot.gov/OfficeofSafety/
+
+BUREAU OF TRANSPORTATION STATISTICS
+
+U.S. Department of Transportation
+
+1200 New Jersey Avenue, SE
+
+Washington, DC 20590
+
+855-368-4200
+
+[![Image 3: Twitter](https://cms7.bts.dot.gov//sites/bts.dot.gov/themes/bts_standalone/images/Twitter_2x.png)](https://twitter.com/TransportStats)
+
+[![Image 4: A 56x36 small image, likely a logo, icon or avatar](https://cms7.bts.dot.gov//sites/bts.dot.gov/themes/bts_standalone/images/Email_2x.png)Sign up for Email Updates](https://service.govdelivery.com/accounts/USDOT/subscriber/new?topic_id=USDOT_39)
+
+*   [Contact Us](https://www.bts.dot.gov/learn-about-bts-and-our-work/contact-us)
+*   [Acronym Guide](https://www.bts.dot.gov/archive/publications/the_changing_face_of_transportation/appendix_b)
+*   [Ask a Librarian](https://transportation.libanswers.com/form.php?queue_id=1810)
+*   [DOT Data Inventory](https://www.transportation.gov/data)
+*   [FAQs](https://transportation.libanswers.com/)
+*   [Connections Blog](https://www.transportation.gov/blog/connections)
+*   [Fedstats](http://www.cs.umd.edu/hcil/govstat/fedstats/fedstats3.htm)
+*   [Jobs and Internships](https://www.bts.dot.gov/learn-about-bts-and-our-work/about-bts/jobs-and-internships)
+*   [National Transportation Library](https://ntl.bts.gov/)
+*   [Office of the Assistant Secretary for Research and Technology (OST-R)](https://www.transportation.gov/administrations/research-and-technology)
+*   [U.S. DOT](https://www.transportation.gov/)
+*   [Search for on-time flight data](https://www.transtats.bts.gov/ONTIME/)
+
+*   [Accessibility](https://www.transportation.gov/accessibility)
+*   [Privacy Policy](https://www.transportation.gov/dot-website-privacy-policy)
+*   [Information Quality](https://www.transportation.gov/dot-information-dissemination-quality-guidelines)
+*   [Web Policies](https://www.transportation.gov/web-policies)
+*   [FOIA](https://www.transportation.gov/foia)
+*   [Civil Rights](https://www.civilrights.dot.gov/)
+*   [Ethics](https://www.transportation.gov/ethics)
+*   [OIG Hotline](https://www.oig.dot.gov/Hotline)
+*   [Office of the Inspector General](https://www.oig.dot.gov/)
+*   [No Fear Act](https://www.transportation.gov/civil-rights/civil-rights-awareness-enforcement/no-fear-act)
+*   [Buy America](https://www.transportation.gov/highlights/buyamerica)
+*   [BusinessUSA](https://business.usa.gov/)
+*   [USA.gov](https://www.usa.gov/)
+*   [Whitehouse.gov](https://whitehouse.gov/)

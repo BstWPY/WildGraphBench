@@ -1,0 +1,40 @@
+# Number of Devs Aged 45 or Older Has Tripled Since 2015
+
+Junior Market Research Analyst
+
+25 March 2025
+
+To celebrate our 10th anniversary, we’re continuing the series of articles about the significant changes the game industry has experienced over the past decade. Let's analyze how game developers' demographics and interests have influenced the market.
+
+![Image 1: A decade of changes for game developers is written in bold text on a cream colored background](https://cdn.80.lv/api/upload/content/2d/images/67e26548002a1/widen_920x0.jpg)
+
+### Who Makes Games?
+
+The average age of game developers has increased over the last 10 years. According to [IGDA Developers Satisfaction Survey 2015](https://s3-us-east-2.amazonaws.com/igda-website/wp-content/uploads/2020/09/09141806/DSS-2015-and-2016-Employment-Report_Feb-2018.pdf) and [GDC: The State of the Game Industry in 2025](https://gamedevreports.substack.com/p/gdc-the-state-of-the-game-industry?r=1fg9ik&utm_medium=ios&triedRedirect=true), the percentage of developers aged 35-44 increased from 28% to 33%, while the percentage of developers aged 25-34 decreased from 58% to 36%. Moreover, the number of game developers over 45 has more than tripled! This shift indicates a maturing industry where professionals are not only entering at older ages but also staying longer in their careers.
+
+It's also interesting to look at the industry's gender distribution changes. In 2015, only 19% of all game developers were women, but the figure jumped by 6% in 2025.
+
+![Image 2: Game developers' demographics in 2015 and 2025, showing that the age groups are older in 2025 compared to 2015, and also the gender ratio of women has increased from 19% to 25% and others from 2% to 9%](https://cdn.80.lv/api/upload/content/0b/images/67e2667c6d445/widen_920x0.jpg)
+
+### The Game Development Scene
+
+The United States has been the top location for game developers for over a decade, with [57%](https://igda-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2019/04/21174418/IGDA_DSS_2015-Summary_Report.pdf) of all respondents working there in 2015 and 58% in 2025. According to [Zippia](https://www.zippia.com/game-developer-jobs/best-cities/), the average game developer salary and job availability per capita are now better in cities like Las Vegas, Henderson, and San Francisco.
+
+Besides the US, Canada was second in popularity among respondents, with a share of 11% in 2015. However, by 2025, its figure had dropped to 6%, and the United Kingdom had taken second place.
+
+### What Game Developers Want Now
+
+Four job roles have consistently topped the list of the most popular among game developers. Of those four, game design has really taken off, doubling in popularity from [15%](https://igda-website.s3.us-east-2.amazonaws.com/wp-content/uploads/2019/04/21174418/IGDA_DSS_2015-Summary_Report.pdf)to [35%](https://gamedevreports.substack.com/p/gdc-the-state-of-the-game-industry?r=1fg9ik&utm_medium=ios&triedRedirect=true). Programming/engineering became the second most popular job role, with an overall growth of 8%, while the percentage of respondents in production & team management increased by 19%.
+
+The preference towards visual arts as a career has also grown over time. In 2015, real-time rendering engines like Unity and Unreal Engine were already influential among game developers but were less sophisticated than today. Nowadays, capabilities like [real-time ray tracing](https://novedge.com/blogs/design-news/design-software-history-the-evolution-of-real-time-rendering-in-cad-software-from-sketchpad-to-gpu-innovations-and-beyond) and advanced lighting systems help game developers create highly detailed and realistic graphics.
+
+Additionally, in 2015, AAA developers were generally more prominent and popular than indie developers. Despite this fact, at that time, indie game developers started gaining significant attention for their games like Rocket League, Undertale, and Five Nights at Freddy's. These titles showed the potential for indie games to achieve mainstream success. As a result, the trend continued in 2025, and as the [State of the Game Industry report](https://gamedevreports.substack.com/p/gdc-the-state-of-the-game-industry?r=1fg9ik&utm_medium=ios&triedRedirect=true) states, nowadays, nearly one-third of developers (32%) are employed by indie studios; this is followed by AAA companies (15%) and AA studios (10%).The indie developers drive innovation and creativity in the gaming industry. They are open to experimenting with new technologies and game mechanics.
+
+In our next anniversary article, we will concentrate on the top games that have captured worldwide attention throughout the decade and explain the factors that determined their success. Stay tuned to learn more about the major titles over these ten years!
+
+[![Image 3: Digital art course by CGMatter and 80 Level introducing geometry nodes](https://cdn.80.lv/api/upload/promo/2866/68e3c47646267.jpg)](https://80lv.gumroad.com/l/intro-to-geometry-nodes?utm_source=website_80lv&utm_medium=image-banner&utm_campaign=80levelcourses3)
+
+> Chris Reilly will walk you through the process from start to finish, delivering a stunning VFX experience.
+
+[![Image 4: An advertisement by Rebelway offering epic VFX courses on Friday, featuring a giant robot figure](https://cdn.80.lv/api/upload/promo/2927/6925d837b65fe.gif)](https://www.rebelway.net/learn)
+Sponsored Ad

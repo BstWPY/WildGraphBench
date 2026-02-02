@@ -1,0 +1,1283 @@
+# 1.7 The Lucas–Lehmer test for Mersenne primes
+
+The Lucas-Lehmer test for Mersenne primes | What's new
+
+===============
+
+The Wayback Machine - https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/
+
+[![Image 184: Text reads, Keep ancient lands, your storied pomp! Cries she with silent lips. Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore, send these, the homeless, tempest-tost to me, I lift my lamp beside the golden door](https://terrytao.files.wordpress.com/2017/01/cropped-american4.jpg)](https://terrytao.wordpress.com/ "Return to front page")
+
+[What's new](https://terrytao.wordpress.com/ "Return to front page")
+Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao
+
+*   [Home](https://terrytao.wordpress.com/ "Return to front page")
+*   [About](https://terrytao.wordpress.com/about/)
+*   [Career advice](https://terrytao.wordpress.com/career-advice/)
+*   [On writing](https://terrytao.wordpress.com/advice-on-writing-papers/)
+*   [Books](https://terrytao.wordpress.com/books/)
+*   [Applets](https://terrytao.wordpress.com/applets/)
+
+*   [Subscribe to feed](https://terrytao.wordpress.com/feed/ "Subscribe to the What's new feed")
+
+The Lucas-Lehmer test for Mersenne primes
+=========================================
+
+2 October, 2008 in [expository](https://terrytao.wordpress.com/category/expository/), [math.NT](https://terrytao.wordpress.com/category/mathematics/mathnt/) | Tags: [Galois theory](https://terrytao.wordpress.com/tag/galois-theory/), [Lagrange's theorem](https://terrytao.wordpress.com/tag/lagranges-theorem/), [Lucas-Lehmer test](https://terrytao.wordpress.com/tag/lucas-lehmer-test/), [Mersenne primes](https://terrytao.wordpress.com/tag/mersenne-primes/), [primality testing](https://terrytao.wordpress.com/tag/primality-testing/)
+
+In the last few weeks, the [Great Internet Mersenne Prime Search](http://www.mersenne.org/) (GIMPS) announced the discovery of two new [Mersenne primes](http://en.wikipedia.org/wiki/Mersenne_prime), both over ten million digits in length, including one discovered by the computing team right here at UCLA (see [this page](http://www.math.ucla.edu/~edson/prime/) for more information). [I was not involved in this computing effort.] As for the question “Why do we want to find such big primes anyway?”, see [this page](http://primes.utm.edu/notes/faq/why.html), though this is not the focus of my post today.
+
+The GIMPS approach to finding Mersenne primes relies of course on modern computing power, parallelisation, and efficient programming, but the number-theoretic heart of it – aside from some basic optimisation tricks such as [fast multiplication](http://en.wikipedia.org/wiki/Sch%C3%B6nhage-Strassen_algorithm) and preliminary sieving to eliminate some obviously non-prime Mersenne number candidates – is the [Lucas-Lehmer primality test](http://en.wikipedia.org/wiki/Lucas%E2%80%93Lehmer_test_for_Mersenne_numbers) for Mersenne numbers, which is much faster for this special type of number than any known general-purpose (deterministic) primality test (such as, say, the [AKS test](http://en.wikipedia.org/wiki/AKS_primality_test)). This test is easy enough to describe, and I will do so later in this post, and also has some short elementary proofs of correctness; but the proofs are sometimes presented in a way that involves pulling a lot of rabbits out of hats, giving the argument a magical feel rather than a natural one. In this post, I will try to explain the basic ideas that make the primality test work, seeking a proof which is perhaps less elementary and a little longer than some of the proofs in the literature, but is perhaps a bit better motivated.
+
+— Order —
+
+We begin with a general discussion of how to tell when a given number n (which is not necessarily of the Mersenne form ![Image 185: n = 2^m-1](https://s0.wp.com/latex.php?latex=n+%3D+2%5Em-1&bg=ffffff&fg=545454&s=0)) is prime or not. One should think of n as being moderately large, e.g. ![Image 186: n \sim 10^{10^7}](https://s0.wp.com/latex.php?latex=n+%5Csim+10%5E%7B10%5E7%7D&bg=ffffff&fg=545454&s=0) (which is broadly the size of the Mersenne primes discovered recently).
+
+Our starting point will be [Lagrange’s theorem](http://en.wikipedia.org/wiki/Lagrange%27s_theorem_(group_theory)), which asserts that
+
+![Image 187: a^{|G|} = 1](https://s0.wp.com/latex.php?latex=a%5E%7B%7CG%7C%7D+%3D+1&bg=ffffff&fg=545454&s=0) (1)
+
+for any finite group G and any ![Image 188: a \in G](https://s0.wp.com/latex.php?latex=a+%5Cin+G&bg=ffffff&fg=545454&s=0), thus the [order](http://en.wikipedia.org/wiki/Order_of_a_group)![Image 189: \hbox{ord}_G(a)](https://s0.wp.com/latex.php?latex=%5Chbox%7Bord%7D_G%28a%29&bg=ffffff&fg=545454&s=0) of a in G divides |G|. Specialising this to the multiplicative group ![Image 190: {\Bbb F}_p^\times](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_p%5E%5Ctimes&bg=ffffff&fg=545454&s=0) of a [finite field](http://en.wikipedia.org/wiki/Finite_field) of prime order p, we obtain [Fermat’s little theorem](http://en.wikipedia.org/wiki/Fermat%27s_little_theorem)
+
+![Image 191: a^{p-1} = 1 \hbox{ mod } p](https://s0.wp.com/latex.php?latex=a%5E%7Bp-1%7D+%3D+1+%5Chbox%7B+mod+%7D+p&bg=ffffff&fg=545454&s=0) (2)
+
+for ![Image 192: p](https://s0.wp.com/latex.php?latex=p&bg=ffffff&fg=545454&s=0) prime and ![Image 193: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) coprime to ![Image 194: p](https://s0.wp.com/latex.php?latex=p&bg=ffffff&fg=545454&s=0); applying it instead to the multiplicative group ![Image 195: ({\Bbb Z}/n{\Bbb Z})^\times](https://s0.wp.com/latex.php?latex=%28%7B%5CBbb+Z%7D%2Fn%7B%5CBbb+Z%7D%29%5E%5Ctimes&bg=ffffff&fg=545454&s=0) of a cyclic group of order ![Image 196: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0), we obtain [Euler’s theorem](http://en.wikipedia.org/wiki/Euler%27s_theorem)
+
+![Image 197: a^{\phi(n)} = 1 \hbox{ mod } n](https://s0.wp.com/latex.php?latex=a%5E%7B%5Cphi%28n%29%7D+%3D+1+%5Chbox%7B+mod+%7D+n&bg=ffffff&fg=545454&s=0) (3)
+
+whenever ![Image 198: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) is coprime to n, where ![Image 199: \phi(n) := |({\Bbb Z}/n{\Bbb Z})^\times|](https://s0.wp.com/latex.php?latex=%5Cphi%28n%29+%3A%3D+%7C%28%7B%5CBbb+Z%7D%2Fn%7B%5CBbb+Z%7D%29%5E%5Ctimes%7C&bg=ffffff&fg=545454&s=0) is the [Euler totient function](http://en.wikipedia.org/wiki/Euler%27s_totient_function) of n.
+
+Fermat’s little theorem (2) already gives a necessary condition for the primality of a candidate prime ![Image 200: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0): take any ![Image 201: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) coprime to ![Image 202: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) (typically one picks a small number such as ![Image 203: a=2](https://s0.wp.com/latex.php?latex=a%3D2&bg=ffffff&fg=545454&s=0) or ![Image 204: a=3](https://s0.wp.com/latex.php?latex=a%3D3&bg=ffffff&fg=545454&s=0)), and compute ![Image 205: a^{n-1}](https://s0.wp.com/latex.php?latex=a%5E%7Bn-1%7D&bg=ffffff&fg=545454&s=0) modulo ![Image 206: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0). If it is not equal to 1, then ![Image 207: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) cannot be prime. This is a (barely) feasible test to execute for ![Image 208: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) as large as ![Image 209: 10^{10^7}](https://s0.wp.com/latex.php?latex=10%5E%7B10%5E7%7D&bg=ffffff&fg=545454&s=0), because one can compute exponents such as ![Image 210: a^{n-1}](https://s0.wp.com/latex.php?latex=a%5E%7Bn-1%7D&bg=ffffff&fg=545454&s=0) relatively quickly, by the trick of repeatedly squaring a modulo n to obtain ![Image 211: a, a^2, a^{2^2}, a^{2^3}, \ldots \hbox{ mod } n](https://s0.wp.com/latex.php?latex=a%2C+a%5E2%2C+a%5E%7B2%5E2%7D%2C+a%5E%7B2%5E3%7D%2C+%5Cldots+%5Chbox%7B+mod+%7D+n&bg=ffffff&fg=545454&s=0), and then decomposing ![Image 212: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0) into binary to compute ![Image 213: a^{n-1}](https://s0.wp.com/latex.php?latex=a%5E%7Bn-1%7D&bg=ffffff&fg=545454&s=0). (If ![Image 214: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is a Mersenne number, then there are some pretty obvious shortcuts one can take for this last step, using division instead of multiplication.) Unfortunately, while this test is necessary for primality, it is not sufficient, due to the existence of [pseudoprimes](http://en.wikipedia.org/wiki/Pseudoprime). So Fermat’s little theorem alone does not provide the answer, at least if one wants a _deterministic_ certificate of primality rather than a _probabilistic_ one.
+
+Nevertheless, the above facts do provide some important information about the order ![Image 215: \hbox{ord}_n(a) := \hbox{ord}_{({\Bbb Z}/n{\Bbb Z})^*}(a)](https://s0.wp.com/latex.php?latex=%5Chbox%7Bord%7D_n%28a%29+%3A%3D+%5Chbox%7Bord%7D_%7B%28%7B%5CBbb+Z%7D%2Fn%7B%5CBbb+Z%7D%29%5E%2A%7D%28a%29&bg=ffffff&fg=545454&s=0) of a modulo ![Image 216: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0). If ![Image 217: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is prime, Fermat’s little theorem (2) tells us that ![Image 218: \hbox{ord}_n(a)](https://s0.wp.com/latex.php?latex=%5Chbox%7Bord%7D_n%28a%29&bg=ffffff&fg=545454&s=0) is at most ![Image 219: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0) (in fact, it divides ![Image 220: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0)). On the other hand, if ![Image 221: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is not prime, then Euler’s theorem (3) tells us that ![Image 222: \hbox{ord}_n(a)](https://s0.wp.com/latex.php?latex=%5Chbox%7Bord%7D_n%28a%29&bg=ffffff&fg=545454&s=0) cannot be as large as ![Image 223: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0), but is instead at most ![Image 224: \phi(n)](https://s0.wp.com/latex.php?latex=%5Cphi%28n%29&bg=ffffff&fg=545454&s=0), which is now strictly less than ![Image 225: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0). Thus: if we can find a number ![Image 226: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) coprime to ![Image 227: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) such that ![Image 228: \hbox{ord}_n(a)](https://s0.wp.com/latex.php?latex=%5Chbox%7Bord%7D_n%28a%29&bg=ffffff&fg=545454&s=0) is exactly ![Image 229: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0), we have certified that ![Image 230: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is prime.
+
+Testing whether a given number ![Image 231: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) is coprime to ![Image 232: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is very easy and fast (thanks to the [Euclidean algorithm](http://en.wikipedia.org/wiki/Euclidean_algorithm)). Unfortunately, it is difficult in general to compute the order ![Image 233: \hbox{ord}_n(a)](https://s0.wp.com/latex.php?latex=%5Chbox%7Bord%7D_n%28a%29&bg=ffffff&fg=545454&s=0) of a number ![Image 234: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) if the base ![Image 235: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is large; a brute-force approach would require one to compute up to ![Image 236: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0) powers of ![Image 237: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0), which is prohibitively expensive if ![Image 238: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) has size comparable to ![Image 239: 10^{10^7}](https://s0.wp.com/latex.php?latex=10%5E%7B10%5E7%7D&bg=ffffff&fg=545454&s=0). (More generally, the problem of computing order exactly in general is closely related to the [discrete logarithm](http://en.wikipedia.org/wiki/Discrete_logarithm) problem, which is notoriously difficult.) However, there are a few cases in which the order can be found very quickly. Suppose that we somehow find positive integers ![Image 240: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0), ![Image 241: k](https://s0.wp.com/latex.php?latex=k&bg=ffffff&fg=545454&s=0) such that
+
+![Image 242: a^{2^k} = - 1 \hbox{ mod } n](https://s0.wp.com/latex.php?latex=a%5E%7B2%5Ek%7D+%3D+-+1+%5Chbox%7B+mod+%7D+n&bg=ffffff&fg=545454&s=0) (4)
+
+(which in particular implies that ![Image 243: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) is coprime to ![Image 244: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0)). Squaring this, we obtain
+
+![Image 245: a^{2^{k+1}} = 1 \hbox{ mod } n](https://s0.wp.com/latex.php?latex=a%5E%7B2%5E%7Bk%2B1%7D%7D+%3D+1+%5Chbox%7B+mod+%7D+n&bg=ffffff&fg=545454&s=0)
+
+and so we see that ![Image 246: \hbox{ord}_n(a)](https://s0.wp.com/latex.php?latex=%5Chbox%7Bord%7D_n%28a%29&bg=ffffff&fg=545454&s=0) divides ![Image 247: 2^{k+1}](https://s0.wp.com/latex.php?latex=2%5E%7Bk%2B1%7D&bg=ffffff&fg=545454&s=0) but not ![Image 248: 2^k](https://s0.wp.com/latex.php?latex=2%5Ek&bg=ffffff&fg=545454&s=0), and thus must be exactly equal to ![Image 249: 2^{k+1}](https://s0.wp.com/latex.php?latex=2%5E%7Bk%2B1%7D&bg=ffffff&fg=545454&s=0). Conversely, if ![Image 250: \hbox{ord}_n(a) = 2^{k+1}](https://s0.wp.com/latex.php?latex=%5Chbox%7Bord%7D_n%28a%29+%3D+2%5E%7Bk%2B1%7D&bg=ffffff&fg=545454&s=0), then we must have (4). So in the special case when the order of ![Image 251: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) is a power of 2, we can compute the order using only one exponentiation, which is computationally feasible for the orders of magnitude we are considering.
+
+Unfortunately, this is not quite what we need for the Mersenne prime problem, because if ![Image 252: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is a Mersenne number, then it is ![Image 253: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0)_plus_ 1 which is a power of 2, rather than ![Image 254: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0)_minus_ 1. (The above method would be ideal for finding [Fermat primes](http://en.wikipedia.org/wiki/Fermat_prime) rather than Mersenne primes, but it is likely that in fact there are no more such primes to be found.)
+
+So this is a frustrating near miss: if ![Image 255: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is a Mersenne number, we can easily check if a number has order ![Image 256: n+1](https://s0.wp.com/latex.php?latex=n%2B1&bg=ffffff&fg=545454&s=0) modulo ![Image 257: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0), but we needed a test for when a number has order ![Image 258: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0) instead. And indeed, even when ![Image 259: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is prime, Fermat’s little theorem (2) shows that it is impossible for a number to have order ![Image 260: n+1](https://s0.wp.com/latex.php?latex=n%2B1&bg=ffffff&fg=545454&s=0) modulo ![Image 261: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0), since the order needs to divide ![Image 262: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0). So we seem to be a bit stuck.
+
+But while ![Image 263: n+1](https://s0.wp.com/latex.php?latex=n%2B1&bg=ffffff&fg=545454&s=0) clearly does not divide ![Image 264: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0), it _does_ divide ![Image 265: n^2-1](https://s0.wp.com/latex.php?latex=n%5E2-1&bg=ffffff&fg=545454&s=0). Looking at Lagrange’s theorem (1), we then see that it could be possible to find elements of order ![Image 266: n+1](https://s0.wp.com/latex.php?latex=n%2B1&bg=ffffff&fg=545454&s=0) in a multiplicative group of order ![Image 267: n^2-1](https://s0.wp.com/latex.php?latex=n%5E2-1&bg=ffffff&fg=545454&s=0) rather than ![Image 268: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0). Recall that if ![Image 269: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) was prime, then the multiplicative group ![Image 270: {\Bbb F}_n^\times](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_n%5E%5Ctimes&bg=ffffff&fg=545454&s=0) of the finite field ![Image 271: {\Bbb F}_n](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_n&bg=ffffff&fg=545454&s=0) had order ![Image 272: n-1](https://s0.wp.com/latex.php?latex=n-1&bg=ffffff&fg=545454&s=0). But ![Image 273: {\Bbb F}_{n^2}](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_%7Bn%5E2%7D&bg=ffffff&fg=545454&s=0) is also a finite field, and its multiplicative group ![Image 274: {\Bbb F}_{n^2}^\times](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_%7Bn%5E2%7D%5E%5Ctimes&bg=ffffff&fg=545454&s=0) has order ![Image 275: n^2-1](https://s0.wp.com/latex.php?latex=n%5E2-1&bg=ffffff&fg=545454&s=0). Aha!
+
+So the plan (assuming for sake of argument that ![Image 276: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is prime) is to somehow work in the finite field ![Image 277: {\Bbb F}_{n^2}](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_%7Bn%5E2%7D&bg=ffffff&fg=545454&s=0) instead of ![Image 278: {\Bbb F}_n](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_n&bg=ffffff&fg=545454&s=0), in order to find elements of order ![Image 279: n+1](https://s0.wp.com/latex.php?latex=n%2B1&bg=ffffff&fg=545454&s=0). We can get our hands on this larger finite field more concretely by viewing it as a [quadratic extension](http://en.wikipedia.org/wiki/Quadratic_extension)![Image 280: {\Bbb F}_n[\sqrt{a}]](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_n%5B%5Csqrt%7Ba%7D%5D&bg=ffffff&fg=545454&s=0), where a is a [quadratic non-residue](http://en.wikipedia.org/wiki/Quadratic_residue) of ![Image 281: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0).
+
+Let’s now take n to be a Mersenne prime. What numbers are quadratic non-residues? A quick appeal to [quadratic reciprocity](http://en.wikipedia.org/wiki/Quadratic_reciprocity) and some elementary number theory soon reveals that 2 is a quadratic residue of ![Image 282: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0), but that 3 is not. Thus we can take ![Image 283: {\Bbb F}_{n^2} \equiv {\Bbb F}_n[\sqrt{3}]](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_%7Bn%5E2%7D+%5Cequiv+%7B%5CBbb+F%7D_n%5B%5Csqrt%7B3%7D%5D&bg=ffffff&fg=545454&s=0). (One could work with other numbers than 3 here, but being the smallest quadratic non-residue available, it is the simplest one to use, and the one which is most likely to be able to take advantage of the [strong law of small numbers](http://en.wikipedia.org/wiki/Strong_law_of_small_numbers).) Henceforth all calculations will be in this field ![Image 284: {\Bbb F}_n[\sqrt{3}]](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_n%5B%5Csqrt%7B3%7D%5D&bg=ffffff&fg=545454&s=0), which of course contains ![Image 285: {\Bbb F}_n](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_n&bg=ffffff&fg=545454&s=0) as a subfield.
+
+Now we need to look for a field element ![Image 286: a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=545454&s=0) of order ![Image 287: n+1](https://s0.wp.com/latex.php?latex=n%2B1&bg=ffffff&fg=545454&s=0), which is a power of 2. Thus (by adapting (4) to ![Image 288: {\Bbb F}_n[\sqrt{3}]](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_n%5B%5Csqrt%7B3%7D%5D&bg=ffffff&fg=545454&s=0)) we need to find a solution to the equation
+
+![Image 289: a^{(n+1)/2} = -1](https://s0.wp.com/latex.php?latex=a%5E%7B%28n%2B1%29%2F2%7D+%3D+-1&bg=ffffff&fg=545454&s=0) (5)
+
+in this field.
+
+Let’s compute some expressions of the form ![Image 290: a^{(n+1)/2}](https://s0.wp.com/latex.php?latex=a%5E%7B%28n%2B1%29%2F2%7D&bg=ffffff&fg=545454&s=0). From Fermat’s little theorem (2) we have
+
+![Image 291: 3^{n-1} = 1](https://s0.wp.com/latex.php?latex=3%5E%7Bn-1%7D+%3D+1&bg=ffffff&fg=545454&s=0);
+
+because 3 is not a quadratic residue, we see (from taking [discrete logarithms](http://en.wikipedia.org/wiki/Discrete_logarithm)) that
+
+![Image 292: 3^{(n-1)/2} = -1](https://s0.wp.com/latex.php?latex=3%5E%7B%28n-1%29%2F2%7D+%3D+-1&bg=ffffff&fg=545454&s=0) (6)
+
+and thus
+
+![Image 293: 3^{(n+1)/2} = -3](https://s0.wp.com/latex.php?latex=3%5E%7B%28n%2B1%29%2F2%7D+%3D+-3&bg=ffffff&fg=545454&s=0).
+
+Similarly we have
+
+![Image 294: 2^{(n+1)/2} = +2](https://s0.wp.com/latex.php?latex=2%5E%7B%28n%2B1%29%2F2%7D+%3D+%2B2&bg=ffffff&fg=545454&s=0) (7).
+
+These are pretty close to (5), but not quite right. To go further, it is convenient to work with ![Image 295: n^{th}](https://s0.wp.com/latex.php?latex=n%5E%7Bth%7D&bg=ffffff&fg=545454&s=0) powers rather than ![Image 296: ((n+1)/2)^{th}](https://s0.wp.com/latex.php?latex=%28%28n%2B1%29%2F2%29%5E%7Bth%7D&bg=ffffff&fg=545454&s=0) powers – i.e. we work with the [Frobenius automorphism](http://en.wikipedia.org/wiki/Frobenius_endomorphism)![Image 297: x \mapsto x^n](https://s0.wp.com/latex.php?latex=x+%5Cmapsto+x%5En&bg=ffffff&fg=545454&s=0). Indeed, since ![Image 298: {\Bbb F}_n[\sqrt{3}]](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_n%5B%5Csqrt%7B3%7D%5D&bg=ffffff&fg=545454&s=0) has characteristic n, we have the automorphism properties
+
+![Image 299: (x+y)^n = x^n + y^n](https://s0.wp.com/latex.php?latex=%28x%2By%29%5En+%3D+x%5En+%2B+y%5En&bg=ffffff&fg=545454&s=0); ![Image 300: (xy)^n = x^n y^n](https://s0.wp.com/latex.php?latex=%28xy%29%5En+%3D+x%5En+y%5En&bg=ffffff&fg=545454&s=0). (8)
+
+From (6) we have ![Image 301: (\sqrt{3})^n = - \sqrt{3}](https://s0.wp.com/latex.php?latex=%28%5Csqrt%7B3%7D%29%5En+%3D+-+%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0), while from (2) we have ![Image 302: a^n = a](https://s0.wp.com/latex.php?latex=a%5En+%3D+a&bg=ffffff&fg=545454&s=0) for ![Image 303: a \in {\Bbb F}_n](https://s0.wp.com/latex.php?latex=a+%5Cin+%7B%5CBbb+F%7D_n&bg=ffffff&fg=545454&s=0). From (8) we thus see that
+
+![Image 304: (a + b \sqrt{3})^n = a - b \sqrt{3}](https://s0.wp.com/latex.php?latex=%28a+%2B+b+%5Csqrt%7B3%7D%29%5En+%3D+a+-+b+%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0)
+
+for ![Image 305: a, b \in {\Bbb F_n}](https://s0.wp.com/latex.php?latex=a%2C+b+%5Cin+%7B%5CBbb+F_n%7D&bg=ffffff&fg=545454&s=0); thus the Frobenius automorphism is nothing more than Galois conjugation. (Actually, this can be deduced quite readily from standard [Galois theory](http://en.wikipedia.org/wiki/Galois_theory).)
+
+Now we go back from ![Image 306: n^{th}](https://s0.wp.com/latex.php?latex=n%5E%7Bth%7D&bg=ffffff&fg=545454&s=0) powers to ![Image 307: ((n+1)/2)^{th}](https://s0.wp.com/latex.php?latex=%28%28n%2B1%29%2F2%29%5E%7Bth%7D&bg=ffffff&fg=545454&s=0) powers. Multiplying both sides of the preceding equation by ![Image 308: a + b \sqrt{3}](https://s0.wp.com/latex.php?latex=a+%2B+b+%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0), we obtain
+
+![Image 309: (a+b \sqrt{3})^{n+1} = a^2 - 3b^2](https://s0.wp.com/latex.php?latex=%28a%2Bb+%5Csqrt%7B3%7D%29%5E%7Bn%2B1%7D+%3D+a%5E2+-+3b%5E2&bg=ffffff&fg=545454&s=0).
+
+Squaring ![Image 310: a+b\sqrt{3}](https://s0.wp.com/latex.php?latex=a%2Bb%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0), we conclude
+
+![Image 311: (a^2+3b^2 + 2ab\sqrt{3})^{(n+1)/2} = a^2-3b^2](https://s0.wp.com/latex.php?latex=%28a%5E2%2B3b%5E2+%2B+2ab%5Csqrt%7B3%7D%29%5E%7B%28n%2B1%29%2F2%7D+%3D+a%5E2-3b%5E2&bg=ffffff&fg=545454&s=0).
+
+Now we in a good position to solve the equation (5). We cannot make ![Image 312: a^2 - 3b^2](https://s0.wp.com/latex.php?latex=a%5E2+-+3b%5E2&bg=ffffff&fg=545454&s=0) equal to -1 – since -1 is not a quadratic residue modulo 3 – but we can make it equal to, say, -2, by setting a=1 and b=-1 (say):
+
+![Image 313: (4 + 2 \sqrt{3})^{(n+1)/2} = -2](https://s0.wp.com/latex.php?latex=%284+%2B+2+%5Csqrt%7B3%7D%29%5E%7B%28n%2B1%29%2F2%7D+%3D+-2&bg=ffffff&fg=545454&s=0).
+
+Dividing this by (7) we obtain the desired solution
+
+![Image 314: \omega^{(n+1)/2} = -1](https://s0.wp.com/latex.php?latex=%5Comega%5E%7B%28n%2B1%29%2F2%7D+%3D+-1&bg=ffffff&fg=545454&s=0) (9)
+
+to (5), where ![Image 315: \omega := 2 + \sqrt{3}](https://s0.wp.com/latex.php?latex=%5Comega+%3A%3D+2+%2B+%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0). (Note that one could also use ![Image 316: \omega^{-1} = 2-\sqrt{3}](https://s0.wp.com/latex.php?latex=%5Comega%5E%7B-1%7D+%3D+2-%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0) here; indeed, [Galois theory](http://en.wikipedia.org/wiki/Galois_theory) tells us that ![Image 317: +\sqrt{3}](https://s0.wp.com/latex.php?latex=%2B%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0) and ![Image 318: -\sqrt{3}](https://s0.wp.com/latex.php?latex=-%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0) are interchangeable in these computations.)
+
+To summarise, we have shown that
+
+If ![Image 319: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is a Mersenne prime, then (9) holds.
+
+Based on our previous discussion, we expect to be able to reverse this implication. Indeed, we have the following converse:
+
+> **Lemma 1.** Let ![Image 320: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) be a Mersenne number. If (9) holds (in the ring ![Image 321: ({\Bbb Z}/n{\Bbb Z})[\sqrt{3}]](https://s0.wp.com/latex.php?latex=%28%7B%5CBbb+Z%7D%2Fn%7B%5CBbb+Z%7D%29%5B%5Csqrt%7B3%7D%5D&bg=ffffff&fg=545454&s=0)), then ![Image 322: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is prime.
+
+**Proof.** Let ![Image 323: q](https://s0.wp.com/latex.php?latex=q&bg=ffffff&fg=545454&s=0) be a prime divisor of ![Image 324: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0). Then ![Image 325: \omega^{(n+1)/2}=-1](https://s0.wp.com/latex.php?latex=%5Comega%5E%7B%28n%2B1%29%2F2%7D%3D-1&bg=ffffff&fg=545454&s=0) in the field ![Image 326: {\Bbb F}_q[\sqrt{3}]](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_q%5B%5Csqrt%7B3%7D%5D&bg=ffffff&fg=545454&s=0) (which we define as ![Image 327: {\Bbb F}_q](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_q&bg=ffffff&fg=545454&s=0) if 3 is a quadratic residue there), thus ![Image 328: \omega](https://s0.wp.com/latex.php?latex=%5Comega&bg=ffffff&fg=545454&s=0) has order exactly n+1 (cf. (4)). By Lagrange’s theorem (1), this means that ![Image 329: n+1](https://s0.wp.com/latex.php?latex=n%2B1&bg=ffffff&fg=545454&s=0) divides the multiplicative order of ![Image 330: {\Bbb F}_q[\sqrt{3}]^\times](https://s0.wp.com/latex.php?latex=%7B%5CBbb+F%7D_q%5B%5Csqrt%7B3%7D%5D%5E%5Ctimes&bg=ffffff&fg=545454&s=0), which is ![Image 331: q^2-1](https://s0.wp.com/latex.php?latex=q%5E2-1&bg=ffffff&fg=545454&s=0) (if 3 is a non-residue modulo ![Image 332: q](https://s0.wp.com/latex.php?latex=q&bg=ffffff&fg=545454&s=0)) or ![Image 333: q-1](https://s0.wp.com/latex.php?latex=q-1&bg=ffffff&fg=545454&s=0) (if 3 is a residue modulo ![Image 334: q](https://s0.wp.com/latex.php?latex=q&bg=ffffff&fg=545454&s=0)). In particular, ![Image 335: q](https://s0.wp.com/latex.php?latex=q&bg=ffffff&fg=545454&s=0) has to exceed ![Image 336: \sqrt{n}](https://s0.wp.com/latex.php?latex=%5Csqrt%7Bn%7D&bg=ffffff&fg=545454&s=0). Thus the only prime divisors of ![Image 337: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) exceed ![Image 338: \sqrt{n}](https://s0.wp.com/latex.php?latex=%5Csqrt%7Bn%7D&bg=ffffff&fg=545454&s=0), and so by the [sieve of Eratosthenes](http://en.wikipedia.org/wiki/Sieve_of_eratosthenes), ![Image 339: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0) is prime. (This proof is due [to Bruce](http://www.ams.org/mathscinet-getitem?mr=1209464).) ![Image 340: \Box](https://s0.wp.com/latex.php?latex=%5CBox&bg=ffffff&fg=545454&s=0)
+
+We have thus shown
+
+> **Corollary 1.** (Lucas-Lehmer test, preliminary version) Let ![Image 341: n = 2^m-1](https://s0.wp.com/latex.php?latex=n+%3D+2%5Em-1&bg=ffffff&fg=545454&s=0) with m odd. Then n is prime if and only if (9) holds in ![Image 342: {\Bbb Z}/n{\Bbb Z}[\sqrt{3}]](https://s0.wp.com/latex.php?latex=%7B%5CBbb+Z%7D%2Fn%7B%5CBbb+Z%7D%5B%5Csqrt%7B3%7D%5D&bg=ffffff&fg=545454&s=0).
+
+This is already a reasonable criterion, but it is a little non-elementary (and also a little unpleasant numerically) due to the presence of the quadratic extension by ![Image 343: \sqrt{3}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0). One can get rid of this extension by the Galois theory trick of taking [traces](http://en.wikipedia.org/wiki/Field_trace). Indeed, observe that ![Image 344: \omega^{-1} = 2 - \sqrt{3}](https://s0.wp.com/latex.php?latex=%5Comega%5E%7B-1%7D+%3D+2+-+%5Csqrt%7B3%7D&bg=ffffff&fg=545454&s=0) is the [Galois conjugate](http://en.wikipedia.org/wiki/Galois_conjugate) of ![Image 345: \omega](https://s0.wp.com/latex.php?latex=%5Comega&bg=ffffff&fg=545454&s=0). Basic [Galois theory](http://en.wikipedia.org/wiki/Galois_theory) tells us that ![Image 346: \omega^{(n+1)/4} + \omega^{-(n+1)/4}](https://s0.wp.com/latex.php?latex=%5Comega%5E%7B%28n%2B1%29%2F4%7D+%2B+%5Comega%5E%7B-%28n%2B1%29%2F4%7D&bg=ffffff&fg=545454&s=0) lies in ![Image 347: {\Bbb Z}/n{\Bbb Z}](https://s0.wp.com/latex.php?latex=%7B%5CBbb+Z%7D%2Fn%7B%5CBbb+Z%7D&bg=ffffff&fg=545454&s=0), and vanishes precisely when ![Image 348: \omega^{(n+1)/2}](https://s0.wp.com/latex.php?latex=%5Comega%5E%7B%28n%2B1%29%2F2%7D&bg=ffffff&fg=545454&s=0) is equal to -1. So it suffices to show that
+
+![Image 349: \omega^{(n+1)/4} + \omega^{-(n+1)/4} = \omega^{2^{m-2}} + \omega^{-2^{m-2}} =: S_{m-2}](https://s0.wp.com/latex.php?latex=%5Comega%5E%7B%28n%2B1%29%2F4%7D+%2B+%5Comega%5E%7B-%28n%2B1%29%2F4%7D+%3D+%5Comega%5E%7B2%5E%7Bm-2%7D%7D+%2B+%5Comega%5E%7B-2%5E%7Bm-2%7D%7D+%3D%3A+S_%7Bm-2%7D&bg=ffffff&fg=545454&s=0)
+
+vanishes in ![Image 350: {\Bbb Z}/n{\Bbb Z}](https://s0.wp.com/latex.php?latex=%7B%5CBbb+Z%7D%2Fn%7B%5CBbb+Z%7D&bg=ffffff&fg=545454&s=0).
+
+The quantity ![Image 351: \omega^{(n+1)/4} = \omega^{2^{m-2}}](https://s0.wp.com/latex.php?latex=%5Comega%5E%7B%28n%2B1%29%2F4%7D+%3D+%5Comega%5E%7B2%5E%7Bm-2%7D%7D&bg=ffffff&fg=545454&s=0) could be computed by repeated squaring in ![Image 352: {\Bbb Z}/n{\Bbb Z}[\sqrt{3}]](https://s0.wp.com/latex.php?latex=%7B%5CBbb+Z%7D%2Fn%7B%5CBbb+Z%7D%5B%5Csqrt%7B3%7D%5D&bg=ffffff&fg=545454&s=0). The quantity ![Image 353: S_{m-2}](https://s0.wp.com/latex.php?latex=S_%7Bm-2%7D&bg=ffffff&fg=545454&s=0) can be computed by a similar device in ![Image 354: {\Bbb Z}/n{\Bbb Z}](https://s0.wp.com/latex.php?latex=%7B%5CBbb+Z%7D%2Fn%7B%5CBbb+Z%7D&bg=ffffff&fg=545454&s=0). Indeed, the sequence ![Image 355: S_j := \omega^{2^j} + \omega^{-2^j}](https://s0.wp.com/latex.php?latex=S_j+%3A%3D+%5Comega%5E%7B2%5Ej%7D+%2B+%5Comega%5E%7B-2%5Ej%7D&bg=ffffff&fg=545454&s=0) is easily seen to obey the recursion
+
+![Image 356: S_j = S_{j-1}^2 - 2; \quad S_0 = 4](https://s0.wp.com/latex.php?latex=S_j+%3D+S_%7Bj-1%7D%5E2+-+2%3B+%5Cquad+S_0+%3D+4&bg=ffffff&fg=545454&s=0) (10)
+
+and so we have
+
+> **Theorem 1.**(Lucas-Lehmer test, final version) Let ![Image 357: n = 2^m-1](https://s0.wp.com/latex.php?latex=n+%3D+2%5Em-1&bg=ffffff&fg=545454&s=0) with m odd. Then n is prime if and only if ![Image 358: S_{m-2}](https://s0.wp.com/latex.php?latex=S_%7Bm-2%7D&bg=ffffff&fg=545454&s=0) vanishes modulo n, where ![Image 359: S_{m-2}](https://s0.wp.com/latex.php?latex=S_%7Bm-2%7D&bg=ffffff&fg=545454&s=0) is given by the recursion (10).
+
+To apply this test, one needs to perform about ![Image 360: m](https://s0.wp.com/latex.php?latex=m&bg=ffffff&fg=545454&s=0) squaring operations modulo ![Image 361: n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=545454&s=0). Doing everything as efficiently as possible (in particular, using [fast multiplication](http://en.wikipedia.org/wiki/Sch%C3%B6nhage-Strassen_algorithm)), the total cost of testing a single Mersenne number ![Image 362: n = 2^m-1](https://s0.wp.com/latex.php?latex=n+%3D+2%5Em-1&bg=ffffff&fg=545454&s=0) for primality is about ![Image 363: O(m^2)](https://s0.wp.com/latex.php?latex=O%28m%5E2%29&bg=ffffff&fg=545454&s=0) (modulo some ![Image 364: \log m](https://s0.wp.com/latex.php?latex=%5Clog+m&bg=ffffff&fg=545454&s=0) terms). This turns out to barely be within reach of modern computers for ![Image 365: m \sim 10^7](https://s0.wp.com/latex.php?latex=m+%5Csim+10%5E7&bg=ffffff&fg=545454&s=0), especially since the algorithm is somewhat [parallelisable](http://en.wikipedia.org/wiki/Parallel_computing). (In contrast, the best known general-purpose deterministic primality testing algorithm, the [AKS algorithm](http://en.wikipedia.org/wiki/AKS_primality_test), has a run time of about ![Image 366: O(m^6)](https://s0.wp.com/latex.php?latex=O%28m%5E6%29&bg=ffffff&fg=545454&s=0) (with a sizable implicit constant), which is not feasible for ![Image 367: m \sim 10^7](https://s0.wp.com/latex.php?latex=m+%5Csim+10%5E7&bg=ffffff&fg=545454&s=0).) There are general-purpose probabilistic tests (such as [Miller-Rabin](http://en.wikipedia.org/wiki/Miller-Rabin_primality_test)) which have run-time comparable to the Lucas-Lehmer test, but as mentioned at the beginning, we are only interested here in deterministic (and unconditional, e.g. not relying on [GRH](http://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis)) certificates of primality.
+
+[_Updated_, Nov 16: Lemma 1 corrected.]
+
+### Share this:
+
+*   [Print](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#print "Click to print")
+*   [Email](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?share=email&nb=1 "Click to email")
+*   [More](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#)
+
+*   [Twitter](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?share=twitter&nb=1 "Click to share on Twitter")
+*   [Facebook](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?share=facebook&nb=1 "Share on Facebook")
+
+*   [Reddit](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?share=reddit&nb=1 "Click to share on Reddit")
+*   [Google](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?share=google-plus-1&nb=1 "Click to share on Google+")
+
+*   [Pinterest](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?share=pinterest&nb=1 "Click to share on Pinterest")
+
+### Like this:
+
+Like Loading...
+
+[](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/)
+
+### Recent Comments
+
+[![Image 368: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/f2c6b0bd573c7aef293673784007fd96?s=32&d=identicon&r=PG)](http://noncommutativeanalysis.wordpress.com/)[Orr Shalit](http://noncommutativeanalysis.wordpress.com/) on [Schur convexity and positive d…](https://terrytao.wordpress.com/2017/08/06/schur-convexity-and-positive-definiteness-of-the-even-degree-complete-homogeneous-symmetric-polynomials/#comment-484719)
+[![Image 369: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/616050432cc65fb054bf037f8c7a6453?s=32&d=identicon&r=PG)](http://andrescaicedo.wordpress.com/)[andrescaicedo](http://andrescaicedo.wordpress.com/) on [Schur convexity and positive d…](https://terrytao.wordpress.com/2017/08/06/schur-convexity-and-positive-definiteness-of-the-even-degree-complete-homogeneous-symmetric-polynomials/#comment-484713)
+![Image 370: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/04b4b76fc27011a0452892e93c534ec0?s=32&d=identicon&r=PG)Fan on [Nonlinear dispersive equations…](https://terrytao.wordpress.com/books/nonlinear-dispersive-equations-local-and-global-analysis/#comment-484710)
+[![Image 371: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/ace632bf311c581d65d3f525fca0f040?s=32&d=identicon&r=PG)](http://unowatblog.wordpress.com/)[unowatblog](http://unowatblog.wordpress.com/) on [Schur convexity and positive d…](https://terrytao.wordpress.com/2017/08/06/schur-convexity-and-positive-definiteness-of-the-even-degree-complete-homogeneous-symmetric-polynomials/#comment-484709)
+![Image 372: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/c569f60d641e3bb51ff0c46402ce97aa?s=32&d=identicon&r=PG)kingrat on [Don’t prematurely obsess…](https://terrytao.wordpress.com/career-advice/dont-prematurely-obsess-on-a-single-big-problem-or-big-theory/#comment-484704)
+![Image 373: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)MathSciNet on [What are some useful, but litt…](https://terrytao.wordpress.com/2017/07/07/what-are-some-useful-but-little-known-features-of-the-tools-used-in-professional-mathematics/#comment-484699)
+![Image 374: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/051472751e082ee48f7af3edb97502c7?s=32&d=identicon&r=PG)Antonio Russo on [What are some useful, but litt…](https://terrytao.wordpress.com/2017/07/07/what-are-some-useful-but-little-known-features-of-the-tools-used-in-professional-mathematics/#comment-484678)
+[![Image 375: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/956bd4c63825dbaf950af9d72e077828?s=32&d=identicon&r=PG)](http://www.cnblogs.com/iMath/)[Philip](http://www.cnblogs.com/iMath/) on [Analysis I](https://terrytao.wordpress.com/books/analysis-i/#comment-484664)
+![Image 376: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/0a21ddea3f936c8599418aaec8208938?s=32&d=identicon&r=PG)leopold on [The blue-eyed islanders puzzle…](https://terrytao.wordpress.com/2011/04/07/the-blue-eyed-islanders-puzzle-repost/#comment-484661)
+[![Image 377: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/86590256b179451e221670d0630fd497?s=32&d=identicon&r=PG)](http://zsubo.wordpress.com/)[dpietrobon](http://zsubo.wordpress.com/) on [On the universality of the inc…](https://terrytao.wordpress.com/2017/07/25/on-the-universality-of-the-incompressible-euler-equation-on-compact-manifolds/#comment-484636)
+[![Image 378: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/86590256b179451e221670d0630fd497?s=32&d=identicon&r=PG)](http://zsubo.wordpress.com/)[dpietrobon](http://zsubo.wordpress.com/) on [On the universality of the inc…](https://terrytao.wordpress.com/2017/07/25/on-the-universality-of-the-incompressible-euler-equation-on-compact-manifolds/#comment-484625)
+[![Image 379: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/4b4acebb179087af2967fc22d798db3e?s=32&d=identicon&r=PG)](http://itaibn.wordpress.com/)[itaibn](http://itaibn.wordpress.com/) on [On the universality of the inc…](https://terrytao.wordpress.com/2017/07/25/on-the-universality-of-the-incompressible-euler-equation-on-compact-manifolds/#comment-484566)
+![Image 380: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)Jason M. on [What are some useful, but litt…](https://terrytao.wordpress.com/2017/07/07/what-are-some-useful-but-little-known-features-of-the-tools-used-in-professional-mathematics/#comment-484565)
+![Image 381: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/d4d114aa31a1bc6dc9f0cb12ff843186?s=32&d=identicon&r=PG)David Ricketts on [The blue-eyed islanders puzzle…](https://terrytao.wordpress.com/2011/04/07/the-blue-eyed-islanders-puzzle-repost/#comment-484530)
+![Image 382: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/45ce9c50332c8d964714ea45c5b4ca3a?s=32&d=identicon&r=PG)nmks on [The blue-eyed islanders puzzle…](https://terrytao.wordpress.com/2011/04/07/the-blue-eyed-islanders-puzzle-repost/#comment-484512)
+
+### Articles by others
+
+*   [Gene Weingarten – Pearls before breakfast](http://www.washingtonpost.com/wp-dyn/content/article/2007/04/04/AR2007040401721.html)
+*   [Isaac Asimov – The relativity of wrong](http://chem.tufts.edu/AnswersInScience/RelativityofWrong.htm)
+*   [Jonah Lehrer – Don't! – the secret of self-control](http://www.newyorker.com/reporting/2009/05/18/090518fa_fact_lehrer?currentPage=all "The marshmallow experiment")
+*   [Julianne Dalcanton – The cult of genius](http://blogs.discovermagazine.com/cosmicvariance/2007/02/25/the-cult-of-genius/)
+*   [Nassim Taleb – The fourth quadrant: a map of the limits of statistics](http://www.edge.org/3rd_culture/taleb08/taleb08_index.html)
+*   [Paul Graham – What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
+*   [Po Bronson – How not to talk to your kids](http://nymag.com/news/features/27840/)
+*   [Scott Aaronson – Ten signs a claimed mathematical proof is wrong](http://scottaaronson.com/blog/?p=304)
+*   [Timothy Gowers – Elsevier — my part in its downfall](http://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/)
+*   [Timothy Gowers – The two cultures of mathematics](http://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf)
+*   [William Thurston – On proof and progress in mathematics](http://arxiv.org/abs/math.HO/9404236)
+
+### Diversions
+
+*   [Abstruse Goose](http://abstrusegoose.com/)
+*   [Assembler](http://www.gamereclaim.com/2008/10/128/ "A game with real-world physics")
+*   [BoxCar2D](http://boxcar2d.com/ "Genetic Algorithm Car Evolution Using Box2D Physics")
+*   [Factcheck.org](http://www.factcheck.org/)
+*   [FiveThirtyEight](http://www.fivethirtyeight.com/ "Politics done right")
+*   [Gapminder](http://www.gapminder.org/ "A good example of the power of graphical presentation software")
+*   [Literally Unbelievable](http://literallyunbelievable.org/ "Stories from The Onion as interpreted by Facebook")
+*   [Planarity](http://www.planarity.net/ "A simple game based on planar graphs")
+*   [PolitiFact](http://politifact.com/truth-o-meter/ "Sorting out the truth in politics")
+*   [Quite Interesting](http://www.qi.com/ "An eclectic quiz show, hosted by Stephen Fry.")
+*   [snopes](http://www.snopes.com/ "Urban legends reference pages")
+*   [Strange maps](http://strangemaps.wordpress.com/)
+*   [Television tropes and idioms](http://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes "A wiki for standardised tropes in storytelling, especially in television")
+*   [The Economist](http://www.economist.com/ "Analysis of world business and current affairs")
+*   [The Onion](http://www.theonion.com/content/index "America’s finest news source")
+*   [The Straight Dope](http://www.straightdope.com/ "Fighting ignorance since 1973")
+*   [This American Life on the financial crisis I](http://www.thislife.org/Radio_Episode.aspx?episode=355 "An hour in length, but well worth it")
+*   [This American Life on the financial crisis II](http://www.thislife.org/Radio_Episode.aspx?sched=1263 "Another hour in length, but also well worth it")
+*   [What if? (xkcd)](http://what-if.xkcd.com/ "Answering your hypothetical questions with physics.  Every Tuesday.")
+*   [White whine](http://whitewhine.com/ "A collection of first-world problems, updated daily.")
+*   [xkcd](http://www.xkcd.com/ "A webcomic of romance, sarcasm, math, and language")
+
+### Mathematics
+
+*   [0xDE](https://11011110.github.io/blog/ "David Eppstein’s blog")
+*   [A Mind for Madness](http://hilbertthm90.wordpress.com/ "Musings on art, philosophy, mathematics, and physics")
+*   [A Portion of the Book](http://mzargar.wordpress.com/ "Olympiad level mathematical problems")
+*   [Absolutely useless](http://sunejakobsen.wordpress.com/)
+*   [Alex Sisto](http://alexsisto.wordpress.com/ "Alessandro Sisto’s math blog")
+*   [AMS blogs](http://blogs.ams.org/ "Blogs offered by or in cooperation with the American Mathematical Society")
+*   [AMS Graduate Student Blog](http://mathgradblog.williams.edu/ "by and for math grad students")
+*   [Analysis & PDE](http://pjm.math.berkeley.edu/apde/about/journal/about.html "A new journal in analysis & PDE (I am one of the editors), run by and for mathematicians")
+*   [Analysis & PDE Conferences](http://tosio.math.utoronto.ca/wiki/index.php/Conferences "A list of upcoming conferences in analysis & PDE")
+*   [Annoying Precision](http://qchu.wordpress.com/ "Mathematicians are annoyingly precise.")
+*   [Area 777](http://conan777.wordpress.com/ "Conan Wu’s mathematical blog")
+*   [Ars Mathematica](http://www.arsmathematica.net/ "Dedicated to the mathematical arts.")
+*   [ATLAS of Finite Group Representations](http://brauer.maths.qmul.ac.uk/Atlas/v3/)
+*   [Automorphic forum](http://automorphicforum.wordpress.com/ "Automorphic forms, number theory, representation theory, algebraic geometry, and other mathematics")
+*   [Avzel's journal](http://avzel.blogspot.com/ "Andrei Zelevinsky’s blog (in Russian)")
+*   [Blog on Math Blogs](http://blogs.ams.org/blogonmathblogs/ "Two mathematicians tour the mathematical blogosphere (hosted by the American Mathematical Society)")
+*   [Blog On Mathematical Journals](http://blog.mathunion.org/journals/?no_cache=1 "Run by the International Mathematical Union.")
+*   [blogderbeweise](https://blogderbeweise.wordpress.com/ "This one is from the book !")
+*   [Bubbles Bad; Ripples Good](http://williewong.wordpress.com/)
+*   [Cédric Villani](http://cedricvillani.org/)
+*   [Climbing Mount Bourbaki](http://amathew.wordpress.com/ "Thoughts on mathematics")
+*   [Coloquio Oleis](http://coloquiooleis.wordpress.com/ "los seguidores de Manolo (Spanish)")
+*   [Combinatorics and more](http://gilkalai.wordpress.com/ "Gil Kalai’s blog")
+*   [Compressed sensing resources](http://www.compressedsensing.com/ "Maintained by Rice university")
+*   [Computational Complexity](http://weblog.fortnow.com/ "by Lance Fortnow and Bill Gasarch")
+*   [Concrete nonsense](http://concretenonsense.wordpress.com/ "A group blog about mathematics")
+*   [David Mumford's blog](http://www.dam.brown.edu/people/mumford/blog.html)
+*   [Delta epsilons](http://deltaepsilons.wordpress.com/ "Mathematical research and problem solving")
+*   [DispersiveWiki](http://tosio.math.toronto.edu/wiki/index.php/Main_Page "A wiki for nonlinear dispersive and wave equations")
+*   [Disquisitiones Mathematicae](http://matheuscmss.wordpress.com/ "Carlos Matheus’ blog")
+*   [Embûches tissues](http://embuchestissues.wordpress.com/)
+*   [Emmanuel Kowalski’s blog](http://blogs.ethz.ch/kowalski/ "Emmanuel Kowalski’s blog")
+*   [Encyclopedia of Mathematics](http://www.encyclopediaofmath.org/index.php/Main_Page "A wiki run by Springer and the EMS")
+*   [Equatorial Mathematics](http://equatorialmaths.wordpress.com/ "Mathematics, teaching, brain meltdown")
+*   [fff](https://ffbandf.wordpress.com/ "Forking, Forcing and back&Forthing")
+*   [Floer Homology](http://floerhomology.wordpress.com/ "Michael Hutchings’ blog")
+*   [Frank Morgan’s blog](http://blogs.williams.edu/Morgan/ "Math, Teaching, and Other Items of Interest")
+*   [Gérard Besson's Blog](http://gerardbesson.wordpress.com/)
+*   [Gödel’s Lost Letter and P=NP](http://rjlipton.wordpress.com/ "http://rjlipton.wordpress.com/")
+*   [Geometric Group Theory](http://392c.wordpress.com/ "Residual finiteness and word-hyperbolic groups")
+*   [Geometry and the imagination](http://lamington.wordpress.com/ "Geometry, explored in examples; and commentary on recent developments (by Danny Calegari)")
+*   [Geometry Bulletin Board](http://burttotaro.wordpress.com/)
+*   [Girl's Angle](http://girlsangle.wordpress.com/ "A Math Club for Girls")
+*   [God Plays Dice](http://godplaysdice.blogspot.com/ "A random walk through mathematics — mostly through the random part.")
+*   [Good Math, Bad Math](http://scientopia.org/blogs/goodmath/ "Finding the fun in good math; squashing bad math and the fools who promote it")
+*   [Graduated Understanding](http://damekdavis.wordpress.com/ "Damek Davis’ blog")
+*   [Hydrobates](http://alanrendall.wordpress.com/ "Alan Rendall’s blog")
+*   [I Woke Up In A Strange Place](http://yannisparissis.wordpress.com/ "A day in the life of a mathematician. From an analysis point of view.")
+*   [Igor Pak's blog](http://igorpak.wordpress.com/ "Views on life and math")
+*   [Images des mathématiques](http://images.math.cnrs.fr/ "La recherches mathématiques en mots et en images (in French)")
+*   [In theory](http://lucatrevisan.wordpress.com/ "Luca Trevisan’s blog")
+*   [James Colliander's Blog](http://blog.math.toronto.edu/colliand/)
+*   [Jérôme Buzzi’s Mathematical Ramblings](http://jbuzzi.wordpress.com/)
+*   [Joel David Hamkins](http://jdh.hamkins.org/ "mathematics and philosophy of the infinite")
+*   [Journal of the American Mathematical Society](http://www.ams.org/jams/ "A premier journal in mathematics;I am one of the editors")
+*   [Kill Math](http://worrydream.com/#!/KillMath "Mathematical visualization applets and essays by Bret Victor")
+*   [Le Petit Chercheur Illustré](http://yetaspblog.wordpress.com/ "Yet Another Signal Processing (and Applied Math) blog")
+*   [Lemma Meringue](http://lemmameringue.wordpress.com/ "The proof is in the pudding")
+*   [Lewko's blog](http://lewko.wordpress.com/)
+*   [Libres pensées d’un mathématicien ordinaire](http://blog.djalil.chafai.net/ "WordPress weblog of Djalil Chafaï")
+*   [LMFDB – L-functions and modular forms database](http://www.lmfdb.org/ "database of L-functions, modular forms, and related objects")
+*   [LMS blogs page](http://www.lms.ac.uk/content/lms-blogs-page)
+*   [London number theory](http://londonnumbertheory.wordpress.com/ "Things for number theorists to do in London")
+*   [Low Dimensional Topology](http://ldtopology.wordpress.com/ "Recent Progress and Open Problems")
+*   [M-Phi](http://m-phi.blogspot.com/ "A blog dedicated to mathematical philosophy.")
+*   [MAA MinuteMath](http://maaminutemath.blogspot.com/ "Daily problems from the AMC")
+*   [Mark Sapir's blog](https://marksapir.wordpress.com/ "A blog about math")
+*   [Math Overflow](http://mathoverflow.net/)
+*   [Mathbabe](http://mathbabe.wordpress.com/ "Exploring and venting about quantitative issues")
+*   [Mathblogging](http://www.mathblogging.org/ "An aggregator for maths blogs")
+*   [Mathematical musings](http://matthewkahle.wordpress.com/ "Mathematical musings, a place for informal mathematical writings: expository, puzzles, art, and open problems. By Matthew Kahle.")
+*   [Mathematics Illuminated](http://www.learner.org/courses/mathilluminated/ "A thirteen-part series for adult learners and high school teachers")
+*   [Mathematics in Australia](http://austmaths.wordpress.com/ "Current issues, news, and events in Australian mathematical research and education")
+*   [Mathematics Jobs Wiki](http://notable.math.ucdavis.edu/wiki/Mathematics_Jobs_Wiki "Rumours and authoritative information about the mathematics jobs market")
+*   [Mathematics Stack Exchange](http://math.stackexchange.com/)
+*   [Mathematics under the Microscope](http://micromath.wordpress.com/ "Atomic objects, structures and concepts of mathematics")
+*   [Mathematics without apologies](https://mathematicswithoutapologies.wordpress.com/ "An unapologetic guided tour of the mathematical life, by Michael Harris")
+*   [Mathlog](http://www.scienceblogs.de/mathlog/ "Thilo Kuessner’s blog (in German)")
+*   [MathOnline](http://mathonline.andreaferretti.it/)
+*   [Mathtube](http://www.mathtube.org/)
+*   [Matt Baker's Math Blog](http://mattbakerblog.wordpress.com/ "Thoughts on number theory, graphs, dynamical systems, tropical geometry, pedagogy, puzzles, and the p-adics")
+*   [Mixedmath](http://mixedmath.wordpress.com/)
+*   [Motivic stuff](http://homotopical.wordpress.com/ "Cohomology in algebraic geometry")
+*   [Much ado about nothing](http://muchado.blogli.co.il/ "On mathematics and other animals (in Hebrew)")
+*   [Multiple Choice Quiz Wiki](http://scherk.pbwiki.com/ "A wiki for online multiple choice quizzes")
+*   [neverendingbooks](http://www.neverendingbooks.org/ "lieven le bruyn’s blog")
+*   [nLab](http://ncatlab.org/nlab/show/HomePage "Collaborative work on Mathematics, Physics and Philosophy")
+*   [Noncommutative geometry blog](http://noncommutativegeometry.blogspot.com/ "A group blog by several mathematicians, including Alain Connes")
+*   [Nonlocal equations wiki](http://www.ma.utexas.edu/mediawiki/index.php/Starting_page)
+*   [Not "Not Even Wrong"](http://www.liuxiaochuan.org/ "mathematics and other aspects of life")
+*   [Nuit-blanche](http://nuit-blanche.blogspot.com/ "Focused on technical issues in compressed sensing and related topics")
+*   [Number theory web](http://www.numbertheory.org/ "Resources for number theorists")
+*   [outofprintmath](http://outofprintmath.blogspot.com/ "Bringing out-of-print math books into print – Vote for which book you would like to see come back into print")
+*   [Pattern of Ideas](https://patternsofideas.wordpress.com/)
+*   [PDE blog](http://partialdifferentialequations.wordpress.com/ "a web log discussing topics in partial differential equations as seen from the sophomoric perspective of a mathematician fresh out of grad school")
+*   [Pengfei Zhang's blog](http://pfzhang.wordpress.com/ "Discussions related to Dynamics")
+*   [Peter Cameron's Blog](http://cameroncounts.wordpress.com/ "Counting the things that need to be counted")
+*   [Phillipe LeFloch's blog](http://philippelefloch.wordpress.com/)
+*   [ProofWiki](http://www.proofwiki.org/wiki/Main_Page " the online compendium of mathematical proofs")
+*   [Quomodocumque](http://quomodocumque.wordpress.com/ "Jordan Ellenberg’s blog")
+*   [Random Math](http://mathramble.wordpress.com/)
+*   [Reasonable Deviations](http://stochastix.wordpress.com/ "scientia potentia est")
+*   [Regularize](http://regularize.wordpress.com/ "Trying to keep track of what I stumble upon")
+*   [Rigorous Trivialities](http://rigtriv.wordpress.com/ "A group blog in mathematics")
+*   [Roots of unity](http://blogs.scientificamerican.com/roots-of-unity/ "Mathematics: learning it, doing it, celebrating it.")
+*   [Secret Blogging Seminar](http://sbseminar.wordpress.com/ "A group maths blog at Berkeley")
+*   [Selected Papers Network](https://selectedpapers.net/)
+*   [Sergei Denisov's blog](http://sdenisov.wordpress.com/)
+*   [Short, Fat Matrices](https://dustingmixon.wordpress.com/)
+*   [Shtetl-Optimized](http://www.scottaaronson.com/blog/ "Scott Aaronson’s blog")
+*   [Shuanglin's Blog](http://shaoshuanglin.wordpress.com/)
+*   [Since it is not…](http://ifwisdomwereteachable.wordpress.com/ "… we simply try to teach mathematics.")
+*   [Sketches of topology](http://sketchesoftopology.wordpress.com/ "Visualizations of low dimensional topology")
+*   [Soft questions](http://kovaquestions.blogspot.com/ "Cultural musings from a sometime mathematician.")
+*   [Stacks Project Blog](http://math.columbia.edu/~dejong/wordpress/)
+*   [SymOmega](http://symomega.wordpress.com/)
+*   [tcs math](http://tcsmath.wordpress.com/ "Some mathematics of theoretical computer science")
+*   [TeX, LaTeX, and friends](http://tex.stackexchange.com/ "A MathOverflow-like site for TeX")
+*   [The accidental mathematician](http://ilaba.wordpress.com/ "Izabella Laba’s blog")
+*   [The capacity to be alone](https://etreseul.wordpress.com/ "…cette capacité qui était leur à leur naissance, tout comme elle était mienne: la capacité d’être seul")
+*   [The Cost of Knowledge](http://thecostofknowledge.com/ "Researchers taking a stand against Elsevier.")
+*   [The Everything Seminar](http://cornellmath.wordpress.com/ "A group maths blog at Cornell")
+*   [The Geomblog](http://geomblog.blogspot.com/ "Ruminations on computational geometry, algorithms, theoretical computer science and life")
+*   [The L-function and modular forms database](http://www.lmfdb.org/ "The LMFDB is an extensive database of mathematical objects arising in Number Theory.")
+*   [The Mathematics Literature Project](http://tqft.net/mlp/wiki/The_Mathematics_Literature_Project "Indexing freely available links to published mathematical articles")
+*   [The n-Category Café](http://golem.ph.utexas.edu/category/ "A group blog on math, physics and philosophy")
+*   [The n-geometry cafe](http://www.noncommutative.org/ "A noncommutative geometry group blog")
+*   [The On-Line Blog of Integer Sequences](http://obis.tumblr.com/)
+*   [The polylogblog](http://polylogblog.wordpress.com/ "streams, sketches, samples, sensing etc.")
+*   [The polymath blog](http://polymathprojects.wordpress.com/ "A central location for proposing, planning, and running polymath projects")
+*   [The polymath wiki](http://michaelnielsen.org/polymath1/index.php?title=Main_Page "The wiki for polymath projects.")
+*   [The Tricki](http://www.tricki.org/ "A repository of mathematical know-how")
+*   [The twofold gaze](http://twofoldgaze.wordpress.com/)
+*   [The Unapologetic Mathematician](http://unapologetic.wordpress.com/ "Mathematics for the interested.")
+*   [The value of the variable](http://valuevar.wordpress.com/ "Harald Helfgott’s blog")
+*   [The World Digital Mathematical Library](http://blog.wias-berlin.de/imu-icm-panel-wdml/ "IMU blog")
+*   [Theoretical Computer Science – StackExchange](http://cstheory.stackexchange.com/ "A MathOverflow-like site for TCS")
+*   [Tim Gowers’ blog](http://gowers.wordpress.com/ "Mathematics related discussions (and the Princeton Companion to Mathematics)")
+*   [Tim Gowers’ mathematical discussions](http://www.dpmms.cam.ac.uk/~wtg10/mathsindex.html "Informal discussions of elementary (and sometimes deep) mathematics")
+*   [Todd and Vishal’s blog](http://topologicalmusings.wordpress.com/ "Just another mathematical blog")
+*   [Van Vu's blog](http://vuhavan.wordpress.com/ "In vietnamese")
+*   [Vaughn Climenhaga](http://vaughnclimenhaga.wordpress.com/)
+*   [Vieux Girondin](http://vieuxgirondin.wordpress.com/ "A lazy mathematician’s blog")
+*   [Visual Insight](http://blogs.ams.org/visualinsight/ "Mathematics made visible")
+*   [Vivatsgasse 7](http://vivatsgasse7.wordpress.com/ "A group maths blog at Bonn")
+*   [Williams College Math/Stat Blog](http://blogs.williams.edu/math/ "Mathematics and Statistics at Williams College")
+*   [Windows on Theory](http://windowsontheory.org/ "A research blog")
+*   [Wiskundemeisjes](http://www.wiskundemeisjes.nl/ "A group maths blog from U. Leiden (in Dutch)")
+*   [XOR’s hammer](http://xorshammer.wordpress.com/)
+*   [Yufei Zhao's blog](https://yufeizhao.wordpress.com/)
+*   [Zhenghe's Blog](http://zhenghezhang.wordpress.com/)
+
+### Selected articles
+
+*   [A cheap version of nonstandard analysis](https://terrytao.wordpress.com/2012/04/02/a-cheap-version-of-nonstandard-analysis/)
+*   [A review of probability theory](https://terrytao.wordpress.com/2010/01/01/254a-notes-0-a-review-of-probability-theory/)
+*   [American Academy of Arts and Sciences speech](https://terrytao.wordpress.com/2009/09/17/a-speech-for-the-american-academy-of-arts-and-sciences/)
+*   [Amplification, arbitrage, and the tensor power trick](https://terrytao.wordpress.com/2007/09/05/amplification-arbitrage-and-the-tensor-power-trick/ "A discussion of one of my favourite types of trick in analysis")
+*   [An airport-inspired puzzle](https://terrytao.wordpress.com/2008/12/09/an-airport-inspired-puzzle/)
+*   [Benford's law, Zipf's law, and the Pareto distribution](https://terrytao.wordpress.com/2009/07/03/benfords-law-zipfs-law-and-the-pareto-distribution/)
+*   [Compressed sensing and single-pixel cameras](https://terrytao.wordpress.com/2007/04/13/compressed-sensing-and-single-pixel-cameras/ "A non-technical introduction to compressed sensing")
+*   [Einstein’s derivation of E=mc^2](https://terrytao.wordpress.com/2007/12/28/einsteins-derivation-of-emc2/)
+*   [On multiple choice questions in mathematics](https://terrytao.wordpress.com/2008/12/14/on-multiple-choice-questions-in-mathematics/)
+*   [Quantum mechanics and Tomb Raider](https://terrytao.wordpress.com/2007/02/26/quantum-mechanics-and-tomb-raider/ "Uses Tomb Raider to construct a world with quantum-like effects.")
+*   [Real analysis problem solving strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies)
+*   [Sailing into the wind, or faster than the wind](https://terrytao.wordpress.com/2009/03/23/sailing-into-the-wind-or-faster-than-the-wind/ "An idealised mathematical model of sailing")
+*   [Simons lectures on structure and randomness](https://terrytao.wordpress.com/2007/04/05/simons-lecture-i-structure-and-randomness-in-fourier-analysis-and-number-theory/ "A set of three lectures on structure and randomness in mathematics")
+*   [Small samples, and the margin of error](https://terrytao.wordpress.com/2008/10/10/small-samples-and-the-margin-of-error/)
+*   [Soft analysis, hard analysis, and the finite convergence principle](https://terrytao.wordpress.com/2007/05/23/soft-analysis-hard-analysis-and-the-finite-convergence-principle/ "A discussion of soft and hard analysis")
+*   [The blue-eyed islanders puzzle](https://terrytao.wordpress.com/2008/02/05/the-blue-eyed-islanders-puzzle/ "A remarkably subtle and unintuitive logic puzzle")
+*   [The cosmic distance ladder](https://terrytao.wordpress.com/2009/09/03/the-cosmic-distance-ladder-2/ "Some slides on the cosmic distance ladder in astronomy")
+*   [The federal budget, rescaled](https://terrytao.wordpress.com/2009/05/04/the-federal-budget-rescaled/)
+*   [Ultrafilters, non-standard analysis, and epsilon management](https://terrytao.wordpress.com/2007/06/25/ultrafilters-nonstandard-analysis-and-epsilon-management/ "Nonstandard analysis, from a hard analysis perspective.")
+*   [What is a gauge?](https://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/)
+*   [What is good mathematics?](http://arxiv.org/abs/math.HO/0702396 "An essay on what good mathematics is, and whether we should define it at all")
+*   [Why global regularity for Navier-Stokes is hard](https://terrytao.wordpress.com/2007/03/18/why-global-regularity-for-navier-stokes-is-hard/ "A detailed discussion of the global regularity problem for Navier-Stokes")
+
+### Software
+
+*   [Detexify](http://detexify.kirelabs.org/classify.html "Latex symbol classifier")
+*   [GmailTeX](http://alexeev.org/gmailtex.html "An easy way to render LaTeX snippets in Gmail or Gmail chat")
+*   [Inverse Symbolic Calculator](http://oldweb.cecm.sfu.ca/projects/ISC/ISCmain.html "Converts a floating point decimal into a symbolic expression")
+*   [jfig](http://tams-www.informatik.uni-hamburg.de/applets/jfig/webstart.html "A java applet for drawing xfig-like figures")
+*   [LaTeX to Wordpress](http://lucatrevisan.wordpress.com/latex-to-wordpress/ "Luca Trevisan’s python script for converting LaTeX to wordpress posts")
+*   [Online LaTeX Equation Editor](http://www.codecogs.com/latex/eqneditor.php)
+*   [Papers](http://www.mekentosj.com/papers/ "An organiser for electronically downloaded papers")
+*   [Sage: Open Source Mathematical Software](http://sagemath.blogspot.com/ "A blog by William Stein")
+*   [Subverting the system](http://sbseminar.wordpress.com/2008/06/18/subverting-the-system/ "A description of the version control software “Subversion”.")
+
+### The sciences
+
+*   [Academic blogs](http://wiki.henryfarrell.net/wiki/index.php/Main_Page "A wiki for academic blogs")
+*   [American Academy of Arts and Sciences](http://www.amacad.org/)
+*   [Australian Academy of Science](http://www.science.org.au/)
+*   [Bad Astronomy](http://blogs.discovermagazine.com/badastronomy/ "Phil Plait’s blog")
+*   [National Academy of Science](http://www.nasonline.org/site/PageServer)
+*   [RealClimate](http://www.realclimate.org/ "Climate science, minus (most of the) politics")
+*   [Schneier on security](http://www.schneier.com/blog/ "Bruce Schneier on security issues")
+*   [Science-Based Medicine](http://www.sciencebasedmedicine.org/ "Exploring issues and controversies in the relationship between science and medicine")
+*   [Seven warning signs of bogus science](http://chronicle.com/free/v49/i21/21b02001.htm "A Chronicle article from 2003; still timely")
+*   [The Royal Society](http://royalsociety.org/)
+*   [This week in evolution](http://blog.lib.umn.edu/denis036/thisweekinevolution/ "Recent papers in evolutionary biology")
+*   [Tree of Life Web Project](http://www.tolweb.org/tree/ "Explore the tree of life")
+
+### Top Posts
+
+*   [What is a gauge?](https://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/)
+*   [Career advice](https://terrytao.wordpress.com/career-advice/)
+*   [Schur convexity and positive definiteness of the even degree complete homogeneous symmetric polynomials](https://terrytao.wordpress.com/2017/08/06/schur-convexity-and-positive-definiteness-of-the-even-degree-complete-homogeneous-symmetric-polynomials/)
+*   [On the universality of the incompressible Euler equation on compact manifolds](https://terrytao.wordpress.com/2017/07/25/on-the-universality-of-the-incompressible-euler-equation-on-compact-manifolds/)
+*   [On writing](https://terrytao.wordpress.com/advice-on-writing-papers/)
+*   [Maryam Mirzakhani](https://terrytao.wordpress.com/2017/07/15/maryam-mirzakhani/)
+*   [Books](https://terrytao.wordpress.com/books/)
+*   [What are some useful, but little-known, features of the tools used in professional mathematics?](https://terrytao.wordpress.com/2017/07/07/what-are-some-useful-but-little-known-features-of-the-tools-used-in-professional-mathematics/)
+*   [Does one have to be a genius to do maths?](https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/)
+*   [About](https://terrytao.wordpress.com/about/)
+
+### Archives
+
+*   [August 2017](https://terrytao.wordpress.com/2017/08/)(1)
+*   [July 2017](https://terrytao.wordpress.com/2017/07/)(5)
+*   [June 2017](https://terrytao.wordpress.com/2017/06/)(1)
+*   [May 2017](https://terrytao.wordpress.com/2017/05/)(3)
+*   [April 2017](https://terrytao.wordpress.com/2017/04/)(2)
+*   [March 2017](https://terrytao.wordpress.com/2017/03/)(3)
+*   [February 2017](https://terrytao.wordpress.com/2017/02/)(1)
+*   [January 2017](https://terrytao.wordpress.com/2017/01/)(2)
+*   [December 2016](https://terrytao.wordpress.com/2016/12/)(2)
+*   [November 2016](https://terrytao.wordpress.com/2016/11/)(2)
+*   [October 2016](https://terrytao.wordpress.com/2016/10/)(5)
+*   [September 2016](https://terrytao.wordpress.com/2016/09/)(4)
+*   [August 2016](https://terrytao.wordpress.com/2016/08/)(4)
+*   [July 2016](https://terrytao.wordpress.com/2016/07/)(1)
+*   [June 2016](https://terrytao.wordpress.com/2016/06/)(3)
+*   [May 2016](https://terrytao.wordpress.com/2016/05/)(5)
+*   [April 2016](https://terrytao.wordpress.com/2016/04/)(2)
+*   [March 2016](https://terrytao.wordpress.com/2016/03/)(6)
+*   [February 2016](https://terrytao.wordpress.com/2016/02/)(2)
+*   [January 2016](https://terrytao.wordpress.com/2016/01/)(1)
+*   [December 2015](https://terrytao.wordpress.com/2015/12/)(4)
+*   [November 2015](https://terrytao.wordpress.com/2015/11/)(6)
+*   [October 2015](https://terrytao.wordpress.com/2015/10/)(5)
+*   [September 2015](https://terrytao.wordpress.com/2015/09/)(5)
+*   [August 2015](https://terrytao.wordpress.com/2015/08/)(4)
+*   [July 2015](https://terrytao.wordpress.com/2015/07/)(7)
+*   [June 2015](https://terrytao.wordpress.com/2015/06/)(1)
+*   [May 2015](https://terrytao.wordpress.com/2015/05/)(5)
+*   [April 2015](https://terrytao.wordpress.com/2015/04/)(4)
+*   [March 2015](https://terrytao.wordpress.com/2015/03/)(3)
+*   [February 2015](https://terrytao.wordpress.com/2015/02/)(4)
+*   [January 2015](https://terrytao.wordpress.com/2015/01/)(4)
+*   [December 2014](https://terrytao.wordpress.com/2014/12/)(6)
+*   [November 2014](https://terrytao.wordpress.com/2014/11/)(5)
+*   [October 2014](https://terrytao.wordpress.com/2014/10/)(4)
+*   [September 2014](https://terrytao.wordpress.com/2014/09/)(3)
+*   [August 2014](https://terrytao.wordpress.com/2014/08/)(4)
+*   [July 2014](https://terrytao.wordpress.com/2014/07/)(5)
+*   [June 2014](https://terrytao.wordpress.com/2014/06/)(5)
+*   [May 2014](https://terrytao.wordpress.com/2014/05/)(5)
+*   [April 2014](https://terrytao.wordpress.com/2014/04/)(2)
+*   [March 2014](https://terrytao.wordpress.com/2014/03/)(4)
+*   [February 2014](https://terrytao.wordpress.com/2014/02/)(5)
+*   [January 2014](https://terrytao.wordpress.com/2014/01/)(4)
+*   [December 2013](https://terrytao.wordpress.com/2013/12/)(4)
+*   [November 2013](https://terrytao.wordpress.com/2013/11/)(5)
+*   [October 2013](https://terrytao.wordpress.com/2013/10/)(4)
+*   [September 2013](https://terrytao.wordpress.com/2013/09/)(5)
+*   [August 2013](https://terrytao.wordpress.com/2013/08/)(1)
+*   [July 2013](https://terrytao.wordpress.com/2013/07/)(7)
+*   [June 2013](https://terrytao.wordpress.com/2013/06/)(12)
+*   [May 2013](https://terrytao.wordpress.com/2013/05/)(4)
+*   [April 2013](https://terrytao.wordpress.com/2013/04/)(2)
+*   [March 2013](https://terrytao.wordpress.com/2013/03/)(2)
+*   [February 2013](https://terrytao.wordpress.com/2013/02/)(6)
+*   [January 2013](https://terrytao.wordpress.com/2013/01/)(1)
+*   [December 2012](https://terrytao.wordpress.com/2012/12/)(4)
+*   [November 2012](https://terrytao.wordpress.com/2012/11/)(7)
+*   [October 2012](https://terrytao.wordpress.com/2012/10/)(6)
+*   [September 2012](https://terrytao.wordpress.com/2012/09/)(4)
+*   [August 2012](https://terrytao.wordpress.com/2012/08/)(3)
+*   [July 2012](https://terrytao.wordpress.com/2012/07/)(4)
+*   [June 2012](https://terrytao.wordpress.com/2012/06/)(3)
+*   [May 2012](https://terrytao.wordpress.com/2012/05/)(3)
+*   [April 2012](https://terrytao.wordpress.com/2012/04/)(4)
+*   [March 2012](https://terrytao.wordpress.com/2012/03/)(5)
+*   [February 2012](https://terrytao.wordpress.com/2012/02/)(5)
+*   [January 2012](https://terrytao.wordpress.com/2012/01/)(4)
+*   [December 2011](https://terrytao.wordpress.com/2011/12/)(8)
+*   [November 2011](https://terrytao.wordpress.com/2011/11/)(8)
+*   [October 2011](https://terrytao.wordpress.com/2011/10/)(7)
+*   [September 2011](https://terrytao.wordpress.com/2011/09/)(6)
+*   [August 2011](https://terrytao.wordpress.com/2011/08/)(8)
+*   [July 2011](https://terrytao.wordpress.com/2011/07/)(9)
+*   [June 2011](https://terrytao.wordpress.com/2011/06/)(8)
+*   [May 2011](https://terrytao.wordpress.com/2011/05/)(11)
+*   [April 2011](https://terrytao.wordpress.com/2011/04/)(3)
+*   [March 2011](https://terrytao.wordpress.com/2011/03/)(10)
+*   [February 2011](https://terrytao.wordpress.com/2011/02/)(3)
+*   [January 2011](https://terrytao.wordpress.com/2011/01/)(5)
+*   [December 2010](https://terrytao.wordpress.com/2010/12/)(5)
+*   [November 2010](https://terrytao.wordpress.com/2010/11/)(6)
+*   [October 2010](https://terrytao.wordpress.com/2010/10/)(9)
+*   [September 2010](https://terrytao.wordpress.com/2010/09/)(9)
+*   [August 2010](https://terrytao.wordpress.com/2010/08/)(3)
+*   [July 2010](https://terrytao.wordpress.com/2010/07/)(4)
+*   [June 2010](https://terrytao.wordpress.com/2010/06/)(8)
+*   [May 2010](https://terrytao.wordpress.com/2010/05/)(8)
+*   [April 2010](https://terrytao.wordpress.com/2010/04/)(8)
+*   [March 2010](https://terrytao.wordpress.com/2010/03/)(8)
+*   [February 2010](https://terrytao.wordpress.com/2010/02/)(10)
+*   [January 2010](https://terrytao.wordpress.com/2010/01/)(12)
+*   [December 2009](https://terrytao.wordpress.com/2009/12/)(11)
+*   [November 2009](https://terrytao.wordpress.com/2009/11/)(8)
+*   [October 2009](https://terrytao.wordpress.com/2009/10/)(15)
+*   [September 2009](https://terrytao.wordpress.com/2009/09/)(6)
+*   [August 2009](https://terrytao.wordpress.com/2009/08/)(13)
+*   [July 2009](https://terrytao.wordpress.com/2009/07/)(10)
+*   [June 2009](https://terrytao.wordpress.com/2009/06/)(11)
+*   [May 2009](https://terrytao.wordpress.com/2009/05/)(9)
+*   [April 2009](https://terrytao.wordpress.com/2009/04/)(11)
+*   [March 2009](https://terrytao.wordpress.com/2009/03/)(14)
+*   [February 2009](https://terrytao.wordpress.com/2009/02/)(13)
+*   [January 2009](https://terrytao.wordpress.com/2009/01/)(18)
+*   [December 2008](https://terrytao.wordpress.com/2008/12/)(8)
+*   [November 2008](https://terrytao.wordpress.com/2008/11/)(9)
+*   [October 2008](https://terrytao.wordpress.com/2008/10/)(10)
+*   [September 2008](https://terrytao.wordpress.com/2008/09/)(5)
+*   [August 2008](https://terrytao.wordpress.com/2008/08/)(6)
+*   [July 2008](https://terrytao.wordpress.com/2008/07/)(7)
+*   [June 2008](https://terrytao.wordpress.com/2008/06/)(8)
+*   [May 2008](https://terrytao.wordpress.com/2008/05/)(11)
+*   [April 2008](https://terrytao.wordpress.com/2008/04/)(12)
+*   [March 2008](https://terrytao.wordpress.com/2008/03/)(12)
+*   [February 2008](https://terrytao.wordpress.com/2008/02/)(13)
+*   [January 2008](https://terrytao.wordpress.com/2008/01/)(17)
+*   [December 2007](https://terrytao.wordpress.com/2007/12/)(10)
+*   [November 2007](https://terrytao.wordpress.com/2007/11/)(9)
+*   [October 2007](https://terrytao.wordpress.com/2007/10/)(9)
+*   [September 2007](https://terrytao.wordpress.com/2007/09/)(7)
+*   [August 2007](https://terrytao.wordpress.com/2007/08/)(9)
+*   [July 2007](https://terrytao.wordpress.com/2007/07/)(9)
+*   [June 2007](https://terrytao.wordpress.com/2007/06/)(6)
+*   [May 2007](https://terrytao.wordpress.com/2007/05/)(10)
+*   [April 2007](https://terrytao.wordpress.com/2007/04/)(11)
+*   [March 2007](https://terrytao.wordpress.com/2007/03/)(9)
+*   [February 2007](https://terrytao.wordpress.com/2007/02/)(4)
+
+### Categories
+
+*   [expository](https://terrytao.wordpress.com/category/expository/ "Expository papers, notes, discussions, etc.") (254) 
+    *   [tricks](https://terrytao.wordpress.com/category/expository/tricks/ "Articles for the Tricks Wiki") (9) 
+
+*   [guest blog](https://terrytao.wordpress.com/category/guest-blog/ "Posts by a guest speaker") (10) 
+*   [Mathematics](https://terrytao.wordpress.com/category/mathematics/ "All posts and links of a mathematical nature") (690) 
+    *   [math.AC](https://terrytao.wordpress.com/category/mathematics/mathac/ "Commutative rings, modules, ideals, homological algebra, computational aspects, invariant theory, connections to algebraic geometry and combinatorics") (6) 
+    *   [math.AG](https://terrytao.wordpress.com/category/mathematics/mathag/ "Algebraic varieties, stacks, sheaves, schemes, moduli spaces, complex geometry, quantum cohomology
+") (37) 
+    *   [math.AP](https://terrytao.wordpress.com/category/mathematics/mathap/ "Existence and uniquness, boundary conditions, linear and non-linear operators, stability, soliton theory, integrable PDE's, conservation laws, qualitative dynamics
+") (92) 
+    *   [math.AT](https://terrytao.wordpress.com/category/mathematics/mathat/ "Homotopy theory, homological algebra, algebraic treatments of manifolds") (17) 
+    *   [math.CA](https://terrytao.wordpress.com/category/mathematics/mathca/ "Special functions, orthogonal polynomials, harmonic analysis, ODE's, differential relations, calculus of variations, approximations, expansions, asymptotics
+") (137) 
+    *   [math.CO](https://terrytao.wordpress.com/category/mathematics/mathco/ "Discrete mathematics, graph theory, enumeration, combinatorial optimization, Ramsey theory, combinatorial game theory") (160) 
+    *   [math.CT](https://terrytao.wordpress.com/category/mathematics/mathct/ "Enriched categories, topoi, abelian categories, monoidal categories, homological algebra") (6) 
+    *   [math.CV](https://terrytao.wordpress.com/category/mathematics/mathcv/ "Holomorphic functions, automorphic group actions and forms, pseudoconvexity, complex geometry, analytic spaces, analytic sheaves") (20) 
+    *   [math.DG](https://terrytao.wordpress.com/category/mathematics/mathdg/ "Complex, contact, Riemannian, pseudo-Riemannian and Finsler geometry, relativity, gauge theory, global analysis
+") (35) 
+    *   [math.DS](https://terrytao.wordpress.com/category/mathematics/mathds/ "Dynamics of differential equations and flows, mechanics, classical few-body problems, iterations, complex dynamics, delayed differential equations") (72) 
+    *   [math.FA](https://terrytao.wordpress.com/category/mathematics/mathfa/ "Banach spaces, function spaces, real functions, integral transforms, theory of distributions, measure theory") (23) 
+    *   [math.GM](https://terrytao.wordpress.com/category/mathematics/mathgm/ "Mathematical material of general interest, topics not covered elsewhere") (9) 
+    *   [math.GN](https://terrytao.wordpress.com/category/mathematics/mathgn/ "Continuum theory, point-set topology, spaces with algebraic structure, foundations, dimension theory, local and global properties
+") (21) 
+    *   [math.GR](https://terrytao.wordpress.com/category/mathematics/mathgr/ "Finite groups, topological groups, representation theory, cohomology, classification and structure
+") (79) 
+    *   [math.GT](https://terrytao.wordpress.com/category/mathematics/mathgt/ "Manifolds, orbifolds, polyhedra, cell complexes, foliations, geometric structures
+") (15) 
+    *   [math.HO](https://terrytao.wordpress.com/category/mathematics/mathho/ "Biographies, philosophy of mathematics, mathematics education, recreational mathematics, communication of mathematics
+") (10) 
+    *   [math.IT](https://terrytao.wordpress.com/category/mathematics/mathit/ "Covers theoretical and experimental aspects of information theory and coding.") (11) 
+    *   [math.LO](https://terrytao.wordpress.com/category/mathematics/mathlo/ "Logic, set theory, point-set topology, formal mathematics
+") (46) 
+    *   [math.MG](https://terrytao.wordpress.com/category/mathematics/mathmg/ "Euclidean, hyperbolic, discrete, convex, coarse geometry, comparisons in Riemannian geometry, symmetric spaces
+") (36) 
+    *   [math.MP](https://terrytao.wordpress.com/category/mathematics/mathmp/ "Mathematical methods in quantum field theory, quantum mechanics, statistical mechanics, condensed matter, nuclear and atomic physics
+") (25) 
+    *   [math.NA](https://terrytao.wordpress.com/category/mathematics/mathna/ "Numerical algorithms for problems in analysis and algebra, scientific computation
+") (13) 
+    *   [math.NT](https://terrytao.wordpress.com/category/mathematics/mathnt/ "Prime numbers, diophantine equations, analytic number theory, algebraic number theory, arithmetic geometry, Galois theory
+") (142) 
+    *   [math.OA](https://terrytao.wordpress.com/category/mathematics/mathoa/ "Algebras of operators on Hilbert space, C^*-algebras, von Neumann algebras, non-commutative geometry") (17) 
+    *   [math.PR](https://terrytao.wordpress.com/category/mathematics/mathpr/ "Theory and applications of probability and stochastic processes: e.g. central limit theorems, large deviations, stochastic differential equations, models from statistical mechanics, queuing theory") (91) 
+    *   [math.QA](https://terrytao.wordpress.com/category/mathematics/mathqa/ "Quantum groups, skein theories, operadic and diagrammatic algebra, quantum field theory") (5) 
+    *   [math.RA](https://terrytao.wordpress.com/category/mathematics/mathra/ "Non-commutative rings and algebras, non-associative algebras, universal algebra and lattice theory, linear algebra, semigroups
+") (31) 
+    *   [math.RT](https://terrytao.wordpress.com/category/mathematics/mathrt/ "Linear representations of algebras and groups, Lie theory, associative algebras, multilinear algebra") (21) 
+    *   [math.SG](https://terrytao.wordpress.com/category/mathematics/mathsg/ "Hamiltonian systems, symplectic flows, classical integrable systems") (4) 
+    *   [math.SP](https://terrytao.wordpress.com/category/mathematics/mathsp/ "Schrodinger operators, operators on manifolds, general differential operators, numerical studies, integral operators, discrete models, resonances, non-self-adjoint operators, random operators/matrices") (45) 
+    *   [math.ST](https://terrytao.wordpress.com/category/mathematics/mathst/ "Applied, computational and theoretical statistics: e.g. statistical inference, regression, time series, multivariate analysis, data analysis, Markov chain Monte Carlo, design of experiments, case studies") (6) 
+
+*   [non-technical](https://terrytao.wordpress.com/category/non-technical/ "Articles intended for a lay audience") (136) 
+    *   [admin](https://terrytao.wordpress.com/category/non-technical/admin/ "Posts relating to the structure of the blog itself") (43) 
+    *   [advertising](https://terrytao.wordpress.com/category/non-technical/advertising/) (26) 
+    *   [diversions](https://terrytao.wordpress.com/category/non-technical/diversions-non-technical/) (4) 
+    *   [media](https://terrytao.wordpress.com/category/non-technical/media/ "Posts relating to non-technical media, such as print journalism") (12) 
+        *   [journals](https://terrytao.wordpress.com/category/non-technical/media/journals/ "Academic journals and publishing") (3) 
+
+    *   [obituary](https://terrytao.wordpress.com/category/non-technical/obituary/ "Notable deaths") (10) 
+
+*   [opinion](https://terrytao.wordpress.com/category/opinion/ "Personal and subjective thoughts on various topics") (29) 
+*   [paper](https://terrytao.wordpress.com/category/paper/ "My research and survey papers") (176) 
+    *   [book](https://terrytao.wordpress.com/category/paper/book/ "Posts concerning my books") (16) 
+    *   [Companion](https://terrytao.wordpress.com/category/paper/companion/ "Articles relating to the Princeton Companion to Mathematics") (13) 
+    *   [update](https://terrytao.wordpress.com/category/paper/update/ "Updates and errata for previously announced, uploaded, or published papers or other results") (17) 
+
+*   [question](https://terrytao.wordpress.com/category/question/ "Open problems and questions") (102) 
+    *   [polymath](https://terrytao.wordpress.com/category/question/polymath/ "Massively collaborative mathematical projects") (70) 
+
+*   [talk](https://terrytao.wordpress.com/category/talk/ "Reports on talks given by myself or other speakers") (64) 
+    *   [DLS](https://terrytao.wordpress.com/category/talk/dls/ "Distinguished Lecture Series at UCLA") (19) 
+
+*   [teaching](https://terrytao.wordpress.com/category/teaching/ "Classes and other topics related to teaching") (159) 
+    *   [245A – Real analysis](https://terrytao.wordpress.com/category/teaching/245a-real-analysis/) (11) 
+    *   [245B – Real analysis](https://terrytao.wordpress.com/category/teaching/245b-real-analysis/) (21) 
+    *   [245C – Real analysis](https://terrytao.wordpress.com/category/teaching/245c-real-analysis/) (6) 
+    *   [246A – complex analysis](https://terrytao.wordpress.com/category/teaching/246a-complex-analysis/) (9) 
+    *   [254A – analytic prime number theory](https://terrytao.wordpress.com/category/teaching/254a-analytic-prime-number-theory/) (16) 
+    *   [254A – ergodic theory](https://terrytao.wordpress.com/category/teaching/254a-ergodic-theory/ "My winter 2008 class on topics in ergodic theory") (18) 
+    *   [254A – Hilbert's fifth problem](https://terrytao.wordpress.com/category/teaching/254a-hilberts-fifth-problem/) (12) 
+    *   [254A – random matrices](https://terrytao.wordpress.com/category/teaching/254a-random-matrices/) (14) 
+    *   [254B – expansion in groups](https://terrytao.wordpress.com/category/teaching/254b-expansion-in-groups/) (8) 
+    *   [254B – Higher order Fourier analysis](https://terrytao.wordpress.com/category/teaching/254b-higher-order-fourier-analysis/) (9) 
+    *   [275A – probability theory](https://terrytao.wordpress.com/category/teaching/275a-probability-theory/) (6) 
+    *   [285G – poincare conjecture](https://terrytao.wordpress.com/category/teaching/285g-poincare-conjecture/ "My Spring 2008 class on Perelman's proof of the Poincare conjecture") (20) 
+    *   [Logic reading seminar](https://terrytao.wordpress.com/category/teaching/logic-reading-seminar/) (8) 
+
+*   [travel](https://terrytao.wordpress.com/category/travel/ "Posts relating to places that I am visiting") (25) 
+*   [Uncategorized](https://terrytao.wordpress.com/category/uncategorized/) (1) 
+
+[additive combinatorics](https://terrytao.wordpress.com/tag/additive-combinatorics/)[approximate groups](https://terrytao.wordpress.com/tag/approximate-groups/)[arithmetic progressions](https://terrytao.wordpress.com/tag/arithmetic-progressions/)[Ben Green](https://terrytao.wordpress.com/tag/ben-green/)[Cauchy-Schwarz](https://terrytao.wordpress.com/tag/cauchy-schwarz/)[Cayley graphs](https://terrytao.wordpress.com/tag/cayley-graphs/)[central limit theorem](https://terrytao.wordpress.com/tag/central-limit-theorem/)[Chowla conjecture](https://terrytao.wordpress.com/tag/chowla-conjecture/)[circular law](https://terrytao.wordpress.com/tag/circular-law/)[compressed sensing](https://terrytao.wordpress.com/tag/compressed-sensing/)[concentration compactness](https://terrytao.wordpress.com/tag/concentration-compactness/)[correspondence principle](https://terrytao.wordpress.com/tag/correspondence-principle/)[eigenvalues](https://terrytao.wordpress.com/tag/eigenvalues/)[Elias Stein](https://terrytao.wordpress.com/tag/elias-stein/)[Emmanuel Breuillard](https://terrytao.wordpress.com/tag/emmanuel-breuillard/)[entropy](https://terrytao.wordpress.com/tag/entropy/)[equidistribution](https://terrytao.wordpress.com/tag/equidistribution/)[ergodic theory](https://terrytao.wordpress.com/tag/ergodic-theory/)[expander graphs](https://terrytao.wordpress.com/tag/expander-graphs/)[exponential sums](https://terrytao.wordpress.com/tag/exponential-sums/)[finite fields](https://terrytao.wordpress.com/tag/finite-fields/)[Fourier transform](https://terrytao.wordpress.com/tag/fourier-transform/)[Four Moment Theorem](https://terrytao.wordpress.com/tag/four-moment-theorem/)[Freiman's theorem](https://terrytao.wordpress.com/tag/freimans-theorem/)[Gowers uniformity norm](https://terrytao.wordpress.com/tag/gowers-uniformity-norm/)[Gowers uniformity norms](https://terrytao.wordpress.com/tag/gowers-uniformity-norms/)[graph theory](https://terrytao.wordpress.com/tag/graph-theory/)[Gromov's theorem](https://terrytao.wordpress.com/tag/gromovs-theorem/)[GUE](https://terrytao.wordpress.com/tag/gue/)[Hilbert's fifth problem](https://terrytao.wordpress.com/tag/hilberts-fifth-problem/)[hypergraphs](https://terrytao.wordpress.com/tag/hypergraphs/)[inverse conjecture](https://terrytao.wordpress.com/tag/inverse-conjecture/)[Kakeya conjecture](https://terrytao.wordpress.com/tag/kakeya-conjecture/)[Lie algebras](https://terrytao.wordpress.com/tag/lie-algebras/)[Lie groups](https://terrytao.wordpress.com/tag/lie-groups/)[Littlewood-Offord problem](https://terrytao.wordpress.com/tag/littlewood-offord-problem/)[Mobius function](https://terrytao.wordpress.com/tag/mobius-function/)[moment method](https://terrytao.wordpress.com/tag/moment-method/)[multiple recurrence](https://terrytao.wordpress.com/tag/multiple-recurrence/)[Navier-Stokes equations](https://terrytao.wordpress.com/tag/navier-stokes-equations/)[nilmanifolds](https://terrytao.wordpress.com/tag/nilmanifolds/)[nilpotent groups](https://terrytao.wordpress.com/tag/nilpotent-groups/)[nilsequences](https://terrytao.wordpress.com/tag/nilsequences/)[NLS](https://terrytao.wordpress.com/tag/nls/)[nonstandard analysis](https://terrytao.wordpress.com/tag/nonstandard-analysis/)[parity problem](https://terrytao.wordpress.com/tag/parity-problem/)[politics](https://terrytao.wordpress.com/tag/politics/)[polymath1](https://terrytao.wordpress.com/tag/polymath1/)[polymath8](https://terrytao.wordpress.com/tag/polymath8/)[polynomial method](https://terrytao.wordpress.com/tag/polynomial-method/)[polynomials](https://terrytao.wordpress.com/tag/polynomials/)[prime gaps](https://terrytao.wordpress.com/tag/prime-gaps/)[prime numbers](https://terrytao.wordpress.com/tag/prime-numbers/)[prime number theorem](https://terrytao.wordpress.com/tag/prime-number-theorem/)[project heatwave](https://terrytao.wordpress.com/tag/project-heatwave/)[pseudorandomness](https://terrytao.wordpress.com/tag/pseudorandomness/)[random matrices](https://terrytao.wordpress.com/tag/random-matrices/)[randomness](https://terrytao.wordpress.com/tag/randomness/)[random walks](https://terrytao.wordpress.com/tag/random-walks/)[Ratner's theorem](https://terrytao.wordpress.com/tag/ratners-theorem/)[regularity lemma](https://terrytao.wordpress.com/tag/regularity-lemma/)[Ricci flow](https://terrytao.wordpress.com/tag/ricci-flow/)[Riemann zeta function](https://terrytao.wordpress.com/tag/riemann-zeta-function/)[Schrodinger equation](https://terrytao.wordpress.com/tag/schrodinger-equation/)[sieve theory](https://terrytao.wordpress.com/tag/sieve-theory/)[spectral theorem](https://terrytao.wordpress.com/tag/spectral-theorem/)[structure](https://terrytao.wordpress.com/tag/structure/)[Szemeredi's theorem](https://terrytao.wordpress.com/tag/szemeredis-theorem/)[Tamar Ziegler](https://terrytao.wordpress.com/tag/tamar-ziegler/)[ultrafilters](https://terrytao.wordpress.com/tag/ultrafilters/)[ultraproducts](https://terrytao.wordpress.com/tag/ultraproducts/)[universality](https://terrytao.wordpress.com/tag/universality/)[Van Vu](https://terrytao.wordpress.com/tag/van-vu/)[wave maps](https://terrytao.wordpress.com/tag/wave-maps/)[Yitang Zhang](https://terrytao.wordpress.com/tag/yitang-zhang/)
+
+### [![Image 383: RSS](https://s-ssl.wordpress.com/wp-includes/images/rss.png?m=1354137473h)](https://polymathprojects.org/feed/ "Syndicate this content")[The Polymath Blog](https://polymathprojects.org/ "Massively collaborative mathematical projects")
+
+*   [Non-transitive Dice over Gowers’s Blog](https://polymathprojects.org/2017/05/15/non-transitive-dice-over-gowerss-blog/ "A polymath-style project on non transitive dice (Wikipedea) is now running over Gowers blog. (Here is the link to the first post.)   Filed under: polymath proposals")15 May, 2017
+*   [Rota’s Basis Conjecture: Polymath 12, post 3](https://polymathprojects.org/2017/05/05/rotas-basis-conjecture-polymath-12-post-3/ "We haven’t quite hit the 100-comment mark on the second Polymath 12 blog post, but this seems like a good moment to take stock.  The project has lost some of its initial momentum, perhaps because other priorities have intruded into the lives of the main participants (I know that this is true of myself).  However, […]")5 May, 2017
+*   [Rota’s Basis Conjecture: Polymath 12](https://polymathprojects.org/2017/03/06/rotas-basis-conjecture-polymath-12-2/ "There has been enough interest that I think we can formally declare Rota’s Basis Conjecture to be Polymath 12. I am told that it is standard Polymath practice to start a new blog post whenever the number of comments reaches about 100, and we have reached that point, so that is one reason I am […]")6 March, 2017
+*   [Blog theme changed](https://polymathprojects.org/2017/02/28/blog-theme-changed/ "Update from Gil: I managed to retrieve rubric but the subtitle disappeared. As you may have noticed, the layout of this blog has changed.  I was trying to address a request by one of the commenters here to try to enable the links to recent comments to change colour if they were clicked on; unfortunately […]")28 February, 2017
+*   [Rota’s Basis Conjecture: Polymath 12?](https://polymathprojects.org/2017/02/23/rotas-basis-conjecture-polymath-12/ "This post tentatively kicks off Polymath 12 on Rota’s basis conjecture. I proposed Rota’s basis conjecture as a possible Polymath project on MathOverflow last year. If you have not read my proposal, I strongly recommend that you read it now, because in it, I sketched some reasons why I thought this would make a good […]")23 February, 2017
+*   [MO Polymath question: Summary of Proposals](https://polymathprojects.org/2016/08/13/mo-polymath-question-summary-of-proposals/ "Here are the Math Overflow Polymath proposals given in response to the polymath question, Summary of proposals (updated: August 10, 2016) 1) The LogRank conjecture. Proposed by Arul. 2) The circulant Hadamard matrix conjecture. Proposed by Richard Stanley. 3) Finding combinatorial models for the Kronecker coefficients. Proposed by Per Alexandersson. 4) Eight […]")13 August, 2016
+*   [Polymath 11 is Now Open](https://polymathprojects.org/2016/02/07/polymath-11-is-now-open/ "       Two great Peter Frankls Tim Gowers launched polymath 11 aimed at Peter Frankl’s conjecture asserting that for every union-closed family there is an element that belongs to at lease half the sets in the family. Here are links to Post number 0 and Post number 1. (Meanwhile polymath10 continues to run on “Combinatorics […]")7 February, 2016
+*   [Polymath Proposals on Math Overflow](https://polymathprojects.org/2016/02/07/polymath-proposals-on-math-overflow/ "  Here is the link to a mathoverflow question asking for polymath proposals. There are some very  interesting proposals. I am quite curious to see some proposals in applied mathematics, and various areas of geometry, algebra, analysis and logic.Filed under: news, polymath proposals")7 February, 2016
+*   [Explaining Polynomials Identities – Success!](https://polymathprojects.org/2016/02/07/explaining-polynomials-identities-success/ "                                               Dinesh Thakur                                                             […]")7 February, 2016
+*   [“Crowdmath” project for high school students opens on March 1](https://polymathprojects.org/2016/01/02/crowdmath-project-for-high-school-students-opens-on-march-1/ "The MIT PRIMES program and the Art of Problem Solving are planning to run a “Crowdmath” project for high school students with advanced mathematical backgrounds, based on the polymath approach to mathematical research.  The project, which officially starts on March 1, will be devoted to original research on a mathematics problem to be specified at […]")2 January, 2016
+
+23 comments
+-----------
+
+[Comments feed for this article](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/feed/)
+
+[2 October, 2008 at 9:43 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32747 "Permalink to this comment")
+
+**[Prime Numbers: Mersenne Primes Edition « OU Math Club](http://oumathclub.wordpress.com/2008/09/28/prime-numbers-mersenne-primes-edition/)**
+
+[…] used by the GIMPS project to test if a Mersenne number is actually prime. You can check it out here. Note: UCLA computers were used to find one of the new […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32747#respond)
+
+[2 October, 2008 at 10:33 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32751 "Permalink to this comment")
+
+**Anonymous**
+
+![Image 384: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)
+I think there is a typo in the third paragraph, in the phrase: “prime our not.”
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32751#respond)
+
+[2 October, 2008 at 10:44 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32752 "Permalink to this comment")
+
+**[Terence Tao](http://www.math.ucla.edu/~tao)**
+
+![Image 385: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/3c795880f3b73784a9b75fbff3772701?s=32&d=identicon&r=PG)
+Thanks for the correction!
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32752#respond)
+
+[3 October, 2008 at 12:21 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32768 "Permalink to this comment")
+
+**François Brunault**
+
+![Image 386: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/a2ce17652a4b64ecb49fe26e2960c783?s=32&d=identicon&r=PG)
+Thank you for this nice exposition! I should add that B. H. Gross recently devised a beautiful primality test for Mersenne numbers which is based on elliptic curves. The idea is to replace the multiplicative group of a finite field by the group of points of a suitable elliptic curve E over F_p. Here E is given by the Weierstrass equation y^2 = x^3 – 12x. This elliptic curve has complex multiplication, which makes the group of points over F_p easier to compute. It turns out that if p is a Mersenne prime then this group is cyclic of order p+1, which is exactly what one wants. Then successive squaring is replaced by the duplication map on the elliptic curve. Unfortunately, the formula for the duplication map on an elliptic curve is more complicated, so this test seems to be mainly interesting from a theoretical point of view.
+
+1
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32768#respond)
+
+[3 October, 2008 at 6:28 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32769 "Permalink to this comment")
+
+**Anonymous**
+
+![Image 387: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)
+Dear Prof. Tao,
+
+Thank you for another interesting post. This is the clearest exposition of the Lucas-Lehmer test I have read. I think there is a typo about 8 lines after formula (8). In the formula following “Squaring a+b\sqrt{3}…” should be (a^2+3b^2+2ab\sqrt{3})…. Also 2 lines after that a^2-3b^2 instead of a^2=3b^2.
+
+Also of couse in looking for Mersenne prime, one needs only consider Mersenne number n=2^m-1, where m is prime since 2^a-1 divides
+
+ 2^(ab)-1. _[Corrected – T.]_
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32769#respond)
+
+[3 October, 2008 at 1:16 pm](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32772 "Permalink to this comment")
+
+**Anonymous**
+
+![Image 388: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)
+Thanks for a very enjoyable read. A very minor correction: in the sentence beginning “We cannot make ![Image 389: a^2 = 3b^2](https://s0.wp.com/latex.php?latex=a%5E2+%3D+3b%5E2&bg=ffffff&fg=545454&s=0) equal to ![Image 390: -1](https://s0.wp.com/latex.php?latex=-1&bg=ffffff&fg=545454&s=0),” I think you mean ![Image 391: a^2 - 3b^2](https://s0.wp.com/latex.php?latex=a%5E2+-+3b%5E2&bg=ffffff&fg=545454&s=0). _[Corrected – T.]_
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32772#respond)
+
+[6 October, 2008 at 2:44 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32788 "Permalink to this comment")
+
+**david**
+
+![Image 392: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)
+Very happy to visit you blog, young hero!
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32788#respond)
+
+[6 October, 2008 at 11:06 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32793 "Permalink to this comment")
+
+**Jernej**
+
+![Image 393: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/e5ad2a9031afacaa65ddc921e593d34b?s=32&d=identicon&r=PG)
+Hello, I think there’s a small mistake in the text :
+
+===
+
+ Fermat’s little theorem (2) already gives a necessary condition for the primality of a candidate prime : take any a coprime to n (typically one picks a small number such as a = 2 or a = 3 ), and compute a^{n-1} modulo n . If it is not equal to 1, then p cannot be prime.
+
+ ===
+
+You probably meant n instead of p.
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32793#respond)
+
+[6 October, 2008 at 11:20 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32794 "Permalink to this comment")
+
+**[Terence Tao](http://www.math.ucla.edu/~tao)**
+
+![Image 394: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/3c795880f3b73784a9b75fbff3772701?s=32&d=identicon&r=PG)
+Dear Jernej: thanks for the correction!
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32794#respond)
+
+[7 October, 2008 at 2:54 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32810 "Permalink to this comment")
+
+**Anonymous**
+
+![Image 395: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)
+Thank you for your beautiful exposition.
+
+Another tiny misprint. In the statement Fermat’s little theorem, the “a” in
+
+ ==
+
+ for ![Image 396: p](https://s0.wp.com/latex.php?latex=p&bg=ffffff&fg=545454&s=0) prime and a coprime to ![Image 397: p](https://s0.wp.com/latex.php?latex=p&bg=ffffff&fg=545454&s=0)
+
+ ==
+
+ should be in math mode. _[Corrected – T.]_
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32810#respond)
+
+[8 October, 2008 at 7:53 pm](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-32849 "Permalink to this comment")
+
+**Anonymous**
+
+![Image 398: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/?s=32&d=identicon&r=PG)
+Great explanation!
+
+As another possible justification for why people are searching for larger mersenne primes, there’s a clever construction of Locally Decodable Codes by Yekhanin that works in ![Image 399: \mathbb{Z}/p\mathbb{Z}](https://s0.wp.com/latex.php?latex=%5Cmathbb%7BZ%7D%2Fp%5Cmathbb%7BZ%7D&bg=ffffff&fg=545454&s=0) where ![Image 400: p](https://s0.wp.com/latex.php?latex=p&bg=ffffff&fg=545454&s=0) is a Mersenne prime. Since his bounds get better as ![Image 401: p](https://s0.wp.com/latex.php?latex=p&bg=ffffff&fg=545454&s=0) increases, he specifically cites the (then) largest Mersenne prime in his bounds.
+
+[http://portal.acm.org/citation.cfm?id=1250830#](http://portal.acm.org/citation.cfm?id=1250830)
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=32849#respond)
+
+[25 October, 2008 at 10:17 pm](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-33277 "Permalink to this comment")
+
+**Jaime Montuerto**
+
+![Image 402: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/45d8421e41e6aa91cf35c00fbeb99ab3?s=32&d=identicon&r=PG)
+Dear Terry,
+
+Your posts on Mersenne Numbers and your following post about Galois groups and the order in the group gave me several insights for my proposed hypothesis. This hypothesis is that every prime number (in fact all integers) divide a Mersenne number. It is also true that every Mersenne number is a multiple of a prime and sometimes some Mersennes have more prime divisors.
+
+One of the consequences of this is that the number of primes is almost equal to the number of Mersenne numbers. Almost equal because some Mersennes give off two primes and these Mersennes are those that have prime orders and themselves are composite e.g. M11, M23, and M47. And possibly some Mersennes whose order is a square e.g. M25 = 601 * 1801 * 31, both 601 and 1801 divides M25 as minimum Mersenne whereas 31 divides M5 (which is itself) therefore not the prime in question. There are almost an equal number of Mersennes and primes, primes are a bit more over some given range.
+
+A further consequence is that there are infinite Mersennes, that is, for every integer there is corresponding Mersenne i.e. integer n means Mn therefore a new prime that divides that. Hence there are infinite primes.
+
+Another consequence is that the distribution of Mersennes is a recurrence relation, Mnext = Mprevious *2 + 1, i.e. the present Mersennne is almost double the previous one. Therefore the ordering of Mersenne is so predictable and almost so ordered, given a range ‘n’ the number of Mersennes in that range is ‘log n’ on base 2. Then the number of primes in that range is also ‘log n’ almost. I believed this is what Friedrick Gauss has observed in the distribution of primes.
+
+I am developing two major areas of research in factoring Mersennes:
+
+(1) Following your post about discrete logarithms I realized that the first algorithm is exactly based on that – it looks for 2^x where the remainder is 1 modulo n or looking for a pair of 2^x and 2^y where there remainder is the same hence the cycle is a difference of x and y, the difference is actually either a multiple, equal or a fraction of this cycle.
+
+(2) The other algorithm is base on the grammar of partitions. A good metaphor I used is the monetary system, as, some reason, almost everyone can calculate when money is involved. Imagine all notes or bills are doubles of the previous one. The smallest is a dollar ‘1’, next is 2 dollars, and so on – essentially the binary system. The question is, given a certain amount, can we break/partition the bills in such a way that the relationship of each adjacent bills (binary bits) forms a set of predefined law (grammatical laws)? The essence of these is that if a sentence (grammatical sentence) is formed or produced by these laws then we can find the factors of that amount. Prime number amounts do not produce well-formed sentences.
+
+It is very hard to explain all the details of what I am doing. I only hope that it is clear enough for you to be able to understand a little of my work. There is of course much more that could be said about this.
+
+I would be very grateful for any comments you could make.
+
+Thanking you in anticipation.
+
+Best
+
+Jaime Montuerto
+
+1
+
+4
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=33277#respond)
+
+[16 November, 2008 at 2:17 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-33551 "Permalink to this comment")
+
+**Rene' Schoof**
+
+![Image 403: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/b5eec51effd208523710232bcedf18a3?s=32&d=identicon&r=PG)
+Dear Prof. Tao,
+
+I have a question about the proof of
+
+ your Lemma 1. You seem to assume that under the conditions
+
+ of the lemma, automatically 3 is a non-square modulo q for
+
+ any prime divisor q of n.
+
+ How do you see that?
+
+Best
+
+Rene’ Schoof
+
+2
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=33551#respond)
+
+[17 November, 2008 at 2:56 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-33563 "Permalink to this comment")
+
+**[Terence Tao](http://www.math.ucla.edu/~tao)**
+
+![Image 404: A 32x32 small image, likely a logo, icon or avatar](https://0.gravatar.com/avatar/3c795880f3b73784a9b75fbff3772701?s=32&d=identicon&r=PG)
+Dear Rene’,
+
+Thanks for pointing that out! Actually, it turns out that the argument works just as well when 3 is a square modulo q (one simply replaces ![Image 405: F_q[\sqrt(3)]](https://s0.wp.com/latex.php?latex=F_q%5B%5Csqrt%283%29%5D&bg=ffffff&fg=545454&s=0) with ![Image 406: F_q](https://s0.wp.com/latex.php?latex=F_q&bg=ffffff&fg=545454&s=0) in this case). I’ve modified the discussion to reflect this.
+
+2
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=33563#respond)
+
+[12 December, 2008 at 12:31 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-33875 "Permalink to this comment")
+
+**Tarandeep Singh**
+
+![Image 407: A 32x32 small image, likely a logo, icon or avatar](https://1.gravatar.com/avatar/de68e80d83bfa388f549dfc639069c74?s=32&d=identicon&r=PG)
+Dear Professor Tao,
+
+I was working on the Mersenne primes and it appears there is “some pattern” in all the known Mersenne primes. I have verified it for the 46 known Mersenne Primes and it holds.
+
+I am not sure if its something “easily provable” or we do have something that has gone unnoticed before.
+
+Need to know if you would be interested to see the pattern/conjecture and comment on the same.
+
+Thanks in advance.
+
+Tarandeep Singh
+
+1
+
+4
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=33875#respond)
+
+[6 January, 2009 at 12:54 pm](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-34729 "Permalink to this comment")
+
+**Tony Reix**
+
+![Image 408: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/e25792c06a5c77dfb464962cc2b697ff?s=32&d=identicon&r=PG)
+Hi Sir,
+
+Thanks for the proof. I’ll study it and see if it can help me.
+
+I’m one of the crazy guys who contribute to the GIMPS project, since ages.
+
+ I’ve contributed to checking the last 6 Mersenne primes, on a big Itanium2 machine, with the wonderful Glucas program written by Guillermo Ballester Valor.
+
+I also spent a lot of time studying the LLT, reading E. Lucas books, HC Williams book about E. Lucas work, Ribenboim famous book about primes, and so on.
+
+ I’ve also found some properties of Mersenne numbers and of the LLT, with proof of myself or by other people. Mq=(8x)^2-(3qy)^2. As an example for LLT, since it is not well known that the LLT can be used to prove that a Fermat number is prime (a number N such that N-1 is easily factorized), I wrote such a proof, based on Ribenboim technic and on Williams’ book.
+
+ So, though I am an “amateur”, I have some knowledge of the LLT test.
+
+The LLT test makes use of the tree that appears in the DiGraph under x^2-2 modulo a Mersenne prime (see Shallit & Vasiga for details). This DiGraph also has many cycles, of lengh dividing q-1. I found the formula that gives the number of cycles of lengh L, under x^2 and x^2-2 modulo a Mersenne prime. Someone else built the proof.
+
+I also have conjectured a test that makes use of such a cycle of length q-1 (with a fix seed) instead of the tree (with seed 4). The main difference with the basic LLT test is that the last step of the iteration, instead of leading to 0 (mod Mq), leads to the seed of the iteration: S_0. Thanks to some help of Mr Williams, I’ve been able to prove that, if Mq is prime, then the property holds. But I failed finding a way to prove the reverse…
+
+In short, the x^2-2 builds trees and cycles modulo a number. If the number is prime, there is symmetry. If the number is composite, then trees and cycles are not symmetric. My idea is that cycles can be used as the tree is used for proving that a number is prime.
+
+This would not be very interesting to have another test for Mersenne numbers, since it would not be faster than LLT.
+
+But Anton Vrba built a conjecture about using the same technique for a primality proof for Fermat 2^2^n+1 and Wagstaff (2^q+1)/3 numbers. And he provided a proof for the first (easy) part: a Prime number HAS this property.
+
+About Wagstaff numbers, proving the conjecture would lead to a brand new primality test as efficient as the LLT is for Mersenne numbers. That would be the first VERY efficient test for a number not N-1 nor N+1. But Anton failed to prove the reverse… Some Mathematician contributing to the GIMPS Math forum think that, though it should be possible for the Mersenne, it does not seem possible to prove the conjecture for Wagstaffs. However, the DiGraph under x^2-2 modulo a Wagstaff prime only has cycles. No tree.
+
+About Fermat numbers (tree and cycles), I guess (just a guess…) that it could be possible to build a test that could be used to prove that a Fermat number is NOT prime, much faster than running the full Pépin’s test. This could be possible since the Digraph under x^2-2 modulo a Fermat prime generates cycles of length dividing 2^n-1. I expect that a Fermat number that does not verify such a (much shorter) test could not be a prime. Just an idea… but it could help to know what is the status of F33.
+
+So, there is here an area of research. Simply studying the properties of the cyles and trees for the Mersenne, Fermat and Wagstaff numbers under x^2 or x^2-2 would be very interesting, and useful for further reseach. It could be the subject of a study for a Math student (too hard for me…).
+
+ Succeeding in proving the conjectures would be a great success !
+
+If you are interested by this subject, just contact me at
+
+ tony . reix @ laposte . net .
+
+Regards,
+
+ Tony
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=34729#respond)
+
+[11 August, 2009 at 11:50 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-40964 "Permalink to this comment")
+
+**[The AKS primality test « What’s new](https://terrytao.wordpress.com/2009/08/11/the-aks-primality-test/)**
+
+![Image 409: A 32x32 small image, likely a logo, icon or avatar](https://secure.gravatar.com/blavatar/9ecc6262507441727044ba5428d2d2b7?s=32)
+[…] numbers. (The situation improves though for more special types of , such as Mersenne numbers; see my earlier post on the Lucas-Lehmer test for more […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=40964#respond)
+
+[29 November, 2009 at 12:56 pm](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-42584 "Permalink to this comment")
+
+**trex58**
+
+![Image 410: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/e25792c06a5c77dfb464962cc2b697ff?s=32&d=identicon&r=PG)
+OK.
+
+ Look at: [http://tony.reix.free.fr/Mersenne/SummaryOfThe3Conjectures.pdf](http://tony.reix.free.fr/Mersenne/SummaryOfThe3Conjectures.pdf)
+
+ and: [http://trex58.wordpress.com/math2matiques/](http://trex58.wordpress.com/math2matiques/)
+
+ for more information.
+
+ Tony
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=42584#respond)
+
+[28 February, 2010 at 3:25 pm](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-43746 "Permalink to this comment")
+
+**trex58**
+
+![Image 411: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/e25792c06a5c77dfb464962cc2b697ff?s=32&d=identicon&r=PG)
+Thanks to the Vrba-Reix conjecture based on the ideas I talked previously in this page, and thanks to the version 3.8.0 of LLR by Jean Penné, I’ve been able to find a new Wagstaff PRP : (2^4031399+1)/3 , which is today the 3rd biggest PRP number ever found, with 1,213,572 digits. With a proof of Vrba’s conjecture, it would turn into a prime, the 22th biggest one.
+
+ See: [http://www.primenumbers.net/prptop/prptop.php?page=1#haut](http://www.primenumbers.net/prptop/prptop.php?page=1#haut)
+
+Regards,
+
+ Tony Reix
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=43746#respond)
+
+[21 March, 2011 at 11:57 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-50927 "Permalink to this comment")
+
+**Guntram Hainke**
+
+![Image 412: A 32x32 small image, likely a logo, icon or avatar](https://2.gravatar.com/avatar/b54b25103827d1df3626ef5c58042665?s=32&d=identicon&r=PG)
+I think one can even do with less magic than in the text. Suppose that $q=2^n-1$ is a Mersenne prime.
+
+ Consider the field $F=F_{q^2}$ and recall that there is a homomorphism $n: F^\times \to F_q$ given by $N(x)=x\cdot x^q$, the norm. Let $N$ denote the kernel of this homomorphism, i.e. the subgroup of elements of norm 1.
+
+ Then $N$ has order $p+1$ and is cyclic as it is a finite subgroup of the multiplicative group of a field.
+
+ The magic of the Lucas-Lehmer test is that $2+\sqrt{3}$ is a generator for this group, regardless of which Mersenne prime we consider.
+
+ But let me stress that the fact that there is such an element (of norm 1) follows from general theory.
+
+2
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=50927#respond)
+
+[28 November, 2013 at 1:20 pm](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-253782 "Permalink to this comment")
+
+**[Two applications of finite fields to computational number theory | Matt Baker's Math Blog](http://mattbakerblog.wordpress.com/2013/11/28/two-applications-of-finite-fields-to-computational-number-theory/)**
+
+![Image 413: A 32x32 small image, likely a logo, icon or avatar](https://secure.gravatar.com/blavatar/5b497caab8106609b109b4ba11e934c3?s=32)
+[…] is due to Michael Rosen, with simplifications by J.W. Bruce. Our exposition was influenced by this blog post written by Terry Tao, which the interested reader should definitely […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=253782#respond)
+
+[26 September, 2014 at 4:12 am](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-420737 "Permalink to this comment")
+
+**[My great WordPress blog – Econlinks](http://new.sebastianbuhai.com/?p=173)**
+
+[…] are interested in finding prime numbers with tens of millions of digits. And a nice exposition of the Lucas-Lehmer test for Mersenne primes by Terry Tao, to whom I owe also the previous […]
+
+0
+
+0
+
+i
+
+Rate This
+
+[Reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/?replytocom=420737#respond)
+
+### Leave a Reply [Cancel reply](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#respond)
+
+Fill in your details below or click an icon to log in:
+
+*   [](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-form-guest "Guest")
+*   [](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-form-load-service:WordPress.com "WordPress.com")
+*   [](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-form-load-service:Twitter "Twitter")
+*   [](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#comment-form-load-service:Facebook "Facebook")
+
+[![Image 414: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)](https://gravatar.com/site/signup/)
+
+Email (Address never made public) 
+
+Name 
+
+Website 
+
+![Image 415: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)
+
+You are commenting using your WordPress.com account. ([Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );)/[Change](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#))
+
+![Image 416: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)
+
+You are commenting using your Twitter account. ([Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );)/[Change](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#))
+
+![Image 417: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)
+
+You are commenting using your Facebook account. ([Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );)/[Change](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#))
+
+![Image 418: Gravatar](https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon&forcedefault=y&r=PG)
+
+You are commenting using your Google+ account. ([Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );)/[Change](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#))
+
+[Cancel](javascript:HighlanderComments.cancelExternalWindow();)
+
+Connecting to %s
+
+- [x] Notify me of new comments via email.
+
+- [x] Notify me of new posts via email.
+
+### For commenters
+
+To enter in LaTeX in comments, use $latex _<Your LaTeX code>_$ (without the < and > signs, of course; in fact, these signs should be avoided as they can cause formatting errors). See the [about page](https://terrytao.wordpress.com/about/) for details and for other commenting policy.
+
+[« Princeton Companion to Mathematics](https://terrytao.wordpress.com/2008/09/29/princeton-companion-to-mathematics/)
+
+[Finite subsets of groups with no finite models »](https://terrytao.wordpress.com/2008/10/06/finite-subsets-of-groups-with-no-finite-models/)
+
+[Create a free website or blog at WordPress.com.](https://wordpress.com/?ref=footer_website)Ben Eastaugh and Chris Sternal-Johnson.
+
+[Subscribe to feed.](https://terrytao.wordpress.com/feed/ "Subscribe to the What's new feed")
+
+Post to 
+
+[Cancel](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#)
+
+*   [Follow](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/)   
+*   
+ 
+
+    *   [![Image 419: A 50x50 small image, likely a logo, icon or avatar](https://secure.gravatar.com/blavatar/9ecc6262507441727044ba5428d2d2b7?s=50&d=https%3A%2F%2Fs1.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png) What's new](http://terrytao.wordpress.com/)
+    *   [Customize](https://terrytao.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fterrytao.wordpress.com%2F2008%2F10%2F02%2Fthe-lucas-lehmer-test-for-mersenne-primes%2F)
+    *   [Follow](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/)
+    *   [Sign up](https://wordpress.com/start/)
+    *   [Log in](https://terrytao.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fterrytao.wordpress.com%2F2008%2F10%2F02%2Fthe-lucas-lehmer-test-for-mersenne-primes%2F)
+    *   [Copy shortlink](http://wp.me/p3qzP-ca)
+    *   [Report this content](http://en.wordpress.com/abuse/)
+    *   [Manage subscriptions](https://subscribe.wordpress.com/)
+    *   [Collapse this bar](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/)
+
+%d bloggers like this:
+
+Send to Email Address Your Name Your Email Address ![Image 421: loading](https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif)[Cancel](https://terrytao.wordpress.com/2008/10/02/the-lucas-lehmer-test-for-mersenne-primes/#cancel)
+
+ Post was not sent - check your email addresses! 
+
+ Email check failed, please try again 
+
+ Sorry, your blog cannot share posts by email. 
+
+![Image 422: :)](http://pixel.wp.com/g.gif?blog=817149&v=wpcom&tz=-8&user_id=0&post=754&subd=terrytao&host=web.archive.org&ref=&rand=0.49724365569272977)

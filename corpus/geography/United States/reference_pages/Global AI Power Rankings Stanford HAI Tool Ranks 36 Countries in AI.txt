@@ -1,0 +1,39 @@
+# Global AI Power Rankings: Stanford HAI Tool Ranks 36 Countries in AI
+
+The Global Vibrancy Tool 2024 from the Stanford Institute for Human-Centered AI shows that the U.S. is the global leader in artificial intelligence, followed by China and the United Kingdom.
+
+The [**tracking tool**](https://aiindex.stanford.edu/vibrancy/), which measures a country’s AI ecosystem on key indicators including research papers, private investment, patents, and more, analyzed data from 36 countries to find that the United States leads in several core areas. It has released more notable machine learning models, invested more private capital in AI, and published more responsible AI research than any other country. While China holds second place, it remains a distant second to the U.S.
+
+The Global Vibrancy Tool 2024, developed by the[**AI Index**](https://aiindex.stanford.edu/report/) research team, aggregates 42 AI-specific indicators to provide a comprehensive, quantitative view of which nations lead in AI. The tool also reveals how the robustness of national AI ecosystems has evolved over time and highlights where individual countries excel and lag in AI.
+
+“AI has increased as a topic of national interest for countries across the globe, and correspondingly narratives about which countries lead in AI have become more prominent than ever,” said Nestor Maslej, project manager of the AI Index. “However, there’s limited data providing a clear, quantitative view of where countries actually stand in AI. At the AI Index, we wanted to address this gap with a rigorous tool that could help policymakers, business leaders, and the public ground these geopolitical AI narratives in fact.”
+
+U.S. Leads by a Wide Margin
+---------------------------
+
+The U.S. has the world’s most robust AI ecosystem and outperforms every other country by significant margins. The Global Vibrancy Tool ranks countries across various pillars of AI significance, including research and development (AI research output), economy (level of AI-related economic activity), and infrastructure (underlying AI infrastructure). The U.S. leads in virtually every pillar. In 2023, it produced the highest quality AI research, built the most notable machine learning models, spent the most in private investment, and had the most AI merger/acquisition activity. The country also boasted the highest number of AI job postings and newly funded AI startups.
+
+China in Second, But Falling Behind
+-----------------------------------
+
+In recent years, there has been much focus on how the U.S. compares to China in AI. This tool indicates that while the two superpowers used to be competitors, the U.S. is quickly pulling away. On several key indicators, the U.S. outpaces China: In 2023, it attracted more AI-related private investment (US$67.2 billion vs. US$7.8 billion), and produced more notable machine learning models (61 vs. 15). However, China leads in AI patenting, having produced more AI-related patents than the U.S.
+
+Nations Across the World Increasingly Prioritizing AI
+-----------------------------------------------------
+
+The Global Vibrancy Tool illustrates how AI has increasingly become a political priority for various nations and how this focus can improve a country’s AI vibrancy. For example, in recent years, the United Arab Emirates has publicly committed to becoming a global leader in AI, investing heavily in quality research institutes like the Technology Innovation Institute. According to the Global Vibrancy Tool, the UAE this year ranked fifth.
+
+The United Kingdom, ranked third this year, also took a global leadership position on AI, hosting the world's first AI safety summit in 2023. South Korea, ranked seventh, hosted the most recent summit in 2024, while France, ranked sixth, is set to host the next summit in early 2025. Tools like the Global Vibrancy Tool will be invaluable for tracking the evolution of national positions as countries increasingly prioritize AI.
+
+Flexibility, Transparency, and a Call for More Data
+---------------------------------------------------
+
+The Global Vibrancy Tool, which first launched in 2017, was relaunched this year to feature more data and a more user-friendly, flexible interface.
+
+“The Global Vibrancy Tool, unlike any other AI-related national index, is unique in allowing users to adjust weights and assign varying values to indicators,” says Vanessa Parli, director of research at Stanford HAI and a member of the AI Index Steering Committee. “We recognize there are different perspectives on what defines a country’s AI standing, so we built that flexibility into the system.”
+
+Parli also expressed her hope that the tool will raise attention to the importance of better data tracking in the AI ecosystem. “The launch of the Global Vibrancy Tool is just a start,” she said. “We are optimistic that the tool will encourage improvements in AI-related data collection efforts. In fact, we are crossing our fingers that the tool can open the door to new data-driven collaborations between HAI and countries across the world.”
+
+The team behind the Global Vibrancy Tool also hopes to grow its dataset and represent more countries in future versions. “We are continually adding new data and adding new countries as countries build out their AI ecosystems,” Maslej notes.
+
+[**_Visit the Global Vibrancy Tool._**](https://aiindex.stanford.edu/vibrancy/)

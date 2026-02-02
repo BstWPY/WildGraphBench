@@ -1,0 +1,539 @@
+# How Qatar hacked the World Cup
+
+How Qatar hacked the World Cup | TBIJ
+
+===============
+
+![Image 5: logo](blob:http://localhost/1107f3ab57423beae88a4f7cab1482db)
+
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/)
+
+*   [Consent](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)
+*   [Details](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)
+*   [[#IABV2SETTINGS#]](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)
+*   [About](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)
+
+This website uses cookies
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. 
+
+Consent Selection
+
+**Necessary** 
+
+- [x] 
+
+**Preferences** 
+
+- [x] 
+
+**Statistics** 
+
+- [x] 
+
+**Marketing** 
+
+- [x] 
+
+[Show details](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)
+
+Details
+
+*   
+Necessary  61- [x]   Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. 
+
+    *   [Cloudflare 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 6: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cloudflare.com/privacypolicy/ "Cloudflare's privacy policy")**cf.turnstile.u**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Crowdcast.io 3](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 7: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.crowdcast.io/privacy-policy "Crowdcast.io's privacy policy")**firebase-heartbeat-database#firebase-heartbeat-store**Used in order to detect spam and improve the website's security. **Maximum Storage Duration**: Persistent**Type**: IndexedDB  **ld:$anonUserId**Used to deliver anonymous user details when authorising applications on the website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **localforage#local-forage-detect-blob-support**Detects whether the visitor’s browser allows for blob-format-storage.**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+    *   [DocumentCloud 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 8: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.documentcloud.org/privacy "DocumentCloud's privacy policy")**csrftoken**Helps prevent Cross-Site Request Forgery (CSRF) attacks.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [Dropbox 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 9: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://help.dropbox.com/security/cookies "Dropbox's privacy policy")**uc_session**Used to implement or transfer content through Dropbox. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Google 4](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 10: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Google's privacy policy")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**test_cookie**Used to check if the user's browser supports cookies.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **docs/common/netcheck.gif**Necessary for the general functionality of the website. **Maximum Storage Duration**: Session**Type**: Pixel Tracker  **rc::a**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **rc::c**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [ID5 2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 11: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.id5.io/privacy "ID5's privacy policy")**id5id_cached_consent_data**Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **id5id_cached_consent_data_exp**Contains the expiry-date for the cookie with corresponding name. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [LinkedIn 2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 12: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy")**bcookie**Used in order to detect spam and improve the website's security. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **li_gc**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [OneTrust 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 13: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.onetrust.com/privacy/ "OneTrust's privacy policy")**OptanonConsent**Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [Scribd 6](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 14: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://support.scribd.com/hc/en-us/articles/210129366-Privacy-policy "Scribd's privacy policy")**_ab**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **_mf**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **id**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **osano_consentmanager_tattles-cookie**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **osano_consentmanager_tattles-iframe**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **osano_consentmanager_tattles-script**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Stripe 5](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 15: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://stripe.com/privacy "Stripe's privacy policy")**m**Determines the device used to access the website. This allows the website to be formatted accordingly. **Maximum Storage Duration**: 400 days**Type**: HTTP Cookie  **__stripe_mid[x2]**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **__stripe_sid[x2]**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [Sutori 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 16: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.sutori.com/privacy-policy "Sutori's privacy policy")**object(#-#-##:#:#.#)**Holds the users timezone.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [The Defense Visual Information Distribution Service 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 17: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.dvidshub.net/about/privacy "The Defense Visual Information Distribution Service's privacy policy")**PHPSESSID**Preserves user session state across page requests.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [api.hcaptcha.com 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**hmt_id**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: 30 days**Type**: HTTP Cookie   
+    *   [beehiiv.com 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**cf_clearance**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [beehiiv.com hcaptcha.com joshrobbinsuk.carto.com hubspot.com vimeo.com 6](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**__cf_bm[x6]**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [challenges.cloudflare.com embed.ly hsforms.com vimeo.com 5](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**_cfuvid[x5]**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [client.px-cloud.net 5](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**_px3**Used in context with the website's BotManager. The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **_pxttld[x2]**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **_pxvid**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **pxcts**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [embeds.beehiiv.com 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**pxcookie**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [forcedlabourchina.thebureauinvestigates.com indigenousvoices.thebureauinvestigates.com labs.thebureauinvestigates.com consent.cookiebot.com 4](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**CookieConsent[x4]**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [trinitymedia.ai 4](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**AWSALB**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie  **AWSALBCORS**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie  **AWSALBTG**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie  **AWSALBTGCORS**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie   
+    *   [watercolormaps.collection.cooperhewitt.org 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**TS#**Used to ensure website security and fraud detection.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [widget.sndcdn.com 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**sc_anonymous_id**Used in context with the 3D-view-function on the website.**Maximum Storage Duration**: 10 years**Type**: HTTP Cookie   
+    *   [www.thebureauinvestigates.com 4](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**CRAFT_CSRF_TOKEN**Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **CraftCookieTest**Registers whether the user is logged in. This allows the website owner to make parts of the website inaccessible, based on the user's log-in status. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **CraftSessionId**Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **UnityCache#XMLHttpRequest**This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser.**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+
+*   
+Preferences  10- [x]   Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. 
+
+    *   [Crowdcast.io 4](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 18: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.crowdcast.io/privacy-policy "Crowdcast.io's privacy policy")**chakra-ui-color-mode**Necessary for the functionality of the website's chat-box function. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **firebaseLocalStorageDb#firebaseLocalStorage**Facilitates the notification function within the chatbox, allowing the website’s support team to notify the user, when a reply has been given in the chatbox.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **localforage#keyvaluepairs**Used to maintain filter settings on the website.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **loglevel**Maintains settings and outputs when using the Developer Tools Console on current session.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Datawrapper 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 19: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.datawrapper.de/privacy/ "Datawrapper's privacy policy")**#/datawrapper.gif**Counts the total number of views for embedded visualizations.**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Dropbox 3](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 20: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://help.dropbox.com/security/cookies "Dropbox's privacy policy")**locale**The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.**Maximum Storage Duration**: 5 years**Type**: HTTP Cookie  **gvc[x2]**Used to implement or transfer content through Dropbox. **Maximum Storage Duration**: 400 days**Type**: HTTP Cookie   
+    *   [LinkedIn 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 21: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy")**lidc**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [Scribd 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 22: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://support.scribd.com/hc/en-us/articles/210129366-Privacy-policy "Scribd's privacy policy")**1**This cookie is used in conjunction with the payment window - The cookie is necessary for making secure transactions on the website. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+
+*   
+Statistics  28- [x]   Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. 
+
+    *   [Adobe Inc.1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 23: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.adobe.com/privacy.html "Adobe Inc.'s privacy policy")**p.gif**Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data. **Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Crowdcast.io 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 24: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.crowdcast.io/privacy-policy "Crowdcast.io's privacy policy")**ld:#:$diagnostics**Used to monitor website performance for statistical purposes.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Dropbox 3](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 25: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://help.dropbox.com/security/cookies "Dropbox's privacy policy")**t**Stores data on which websites the user has visited.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **__Host-#[x2]**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [HubSpot 4](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 26: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "HubSpot's privacy policy")**__hssc**Identifies if the cookie data needs to be updated in the visitor's browser.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **__hssrc**Used to recognise the visitor's browser upon reentry on the website.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__hstc**Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **hubspotutk**Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [Scribd 2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 27: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://support.scribd.com/hc/en-us/articles/210129366-Privacy-policy "Scribd's privacy policy")**__CJ_session_metadata**Contains data about the user’s interaction with the audiobook- and document-presentation-tool for statistical purposes.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **_scribd_session**Implements audio-files on the website, and determines how many and who have listened to these files. **Maximum Storage Duration**: 3 years**Type**: HTTP Cookie   
+    *   [Sutori 6](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 28: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.sutori.com/privacy-policy "Sutori's privacy policy")**amp_#**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **amplitude_unsent_#**Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **amplitude_unsent_identify_#**Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_tldtest_#[x2]**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **amp_cookie_test#**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [VWO 3](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 29: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://vwo.com/privacy-policy/ "VWO's privacy policy")**ee.gif**Pending**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **eu01/v.gif**This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. **Maximum Storage Duration**: Session**Type**: Pixel Tracker  **vwo_apm_sent**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Vimeo 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 30: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://vimeo.com/privacy "Vimeo's privacy policy")**vuid**Collects data on the user's visits to the website, such as which pages have been read.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie   
+    *   [WNYC 3](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 31: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.wnyc.org/privacy/ "WNYC's privacy policy")**browser_id**Used to recognise the visitor's browser upon reentry on the website.**Maximum Storage Duration**: 10 years**Type**: HTTP Cookie  **user_id**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: 10 years**Type**: HTTP Cookie  **browserId**Sets a ID for the visitor. This serves to count the number of specific visitors on the website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [forcedlabourchina.thebureauinvestigates.com 2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**mapbox.eventData.uuid:#**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **mapbox.eventData:#**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [thebureauinvestigates.com 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**_vwo_uuid_v2**This cookie is set to make split-tests on the website, which optimizes the website's relevance towards the visitor – the cookie can also be set to improve the visitor's experience on a website.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [widget.sndcdn.com 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**number(#)**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+
+*   
+Marketing  109- [x]   Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. 
+
+    *   [Meta Platforms, Inc.2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 32: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.facebook.com/policy.php/ " Meta Platforms, Inc.'s privacy policy")**_fbp**Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **fbsr_#**Used to track the user’s interaction with the website’s Facebook chat-widget. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Carto 3](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 33: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://carto.com/privacy/ "Carto's privacy policy")**lastExternalReferrer**Detects how the user reached the website by registering their last URL-address.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **lastExternalReferrerTime**Detects how the user reached the website by registering their last URL-address.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **topicsLastReferenceTime**Collects data on the user across websites - This data is used to make advertisement more relevant.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Google 42](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 34: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Google's privacy policy")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**_ga[x15]**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_gid[x7]**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **_ga_#[x12]**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **COMPASS**Pending**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **GFE_RTT**Used to implement the content through Google Docs. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **punchv-e-f**Used to implement the content through Google Docs. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **punchv-e-n**Used to implement the content through Google Docs. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **punchv-e-v**Used to implement the content through Google Docs. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **NID**Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.**Maximum Storage Duration**: 6 months**Type**: HTTP Cookie  **_gcl_au**Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. **Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **_gcl_ls**Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [ID5 4](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 35: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.id5.io/privacy "ID5's privacy policy")**id5**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **id5id_***Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **id5id_extensions**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **id5id_v2_394228896571102**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Kumu 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 36: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://kumu.io/privacy "Kumu's privacy policy")**_session_id**Stores visitors' navigation by registering landing pages - This allows the website to present relevant products and/or measure their advertisement efficiency on other websites. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Optimizely 2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 37: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.optimizely.com/privacy/ "Optimizely's privacy policy")**optimizelyOptOut[x2]**Collects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Scribd 2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 38: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://support.scribd.com/hc/en-us/articles/210129366-Privacy-policy "Scribd's privacy policy")**fbssls_#**Collects data on the visitor’s use of the comment system on the website, and what blogs/articles the visitor has read. This can be used for marketing purposes. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **scribd_ubtc**Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.**Maximum Storage Duration**: 400 days**Type**: HTTP Cookie   
+    *   [The Guardian 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 39: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.theguardian.com/info/privacy "The Guardian's privacy policy")**bwid**Used to implement blog or article content onto the website from other websites. This implementation also allows the origin-website to track on the website. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [TikTok 3](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 40: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.tiktok.com/legal/privacy-policy?lang=en "TikTok's privacy policy")**ttwid**Used by the social networking service, TikTok, for tracking the use of embedded services.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **__tt_embed__mounting**Registers data on the performance of the website’s embedded video-content. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **__tt_embed__storage_test**Registers data on the performance of the website’s embedded video-content. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [Twitter Inc.2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 41: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://twitter.com/en/privacy "Twitter Inc.'s privacy policy")**i/jot/embeds**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **RichHistory**Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [YouTube 33](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 42: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "YouTube's privacy policy")**LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **nextId**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **requests**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **yt.innertube::nextId**Registers a unique ID to keep statistics of what videos from YouTube the user has seen.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **yt.innertube::requests**Registers a unique ID to keep statistics of what videos from YouTube the user has seen.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ytidb::LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **YtIdbMeta#databases[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **yt-remote-cast-available[x2]**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **yt-remote-cast-installed[x2]**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **yt-remote-connected-devices[x2]**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **yt-remote-device-id[x2]**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **yt-remote-fast-check-period[x2]**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **yt-remote-session-app[x2]**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **yt-remote-session-name[x2]**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **__Secure-ROLLOUT_TOKEN**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **__Secure-YEC**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__Secure-YNID**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **LogsDatabaseV2:V#||LogsRequestsStore**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **remote_sid**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **ServiceWorkerLogsDatabase#SWHealthLog**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: IndexedDB  **TESTCOOKIESENABLED**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **VISITOR_INFO1_LIVE**Tries to estimate the users' bandwidth on pages with integrated YouTube videos.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **YSC**Registers a unique ID to keep statistics of what videos from YouTube the user has seen.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [embeds.beehiiv.com 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**pxsid**Registers data on visitor such as IP addresses, geographical location and advertisement interaction. This information is used optimize the advertisement on websites that make use of Rubicon Project-services. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [sf16-website-login.neutral.tiktokcdn-eu.com 7](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**__tea_cache_first_#**Used by the social networking service, TikTok, for tracking the use of embedded services.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **__tea_cache_tokens_#**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **__tea_sdk_ab_version_#**Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **PUMBAA_FREQ**Used by the social networking service, TikTok, for tracking the use of embedded services.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **SLARDARtiktok_web_embed**Used by the social networking service, TikTok, for tracking the use of embedded services.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **xmsi**Used by the social networking service, TikTok, for tracking the use of embedded services.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **xmst**Used by the social networking service, TikTok, for tracking the use of embedded services.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [sf16-website-login.neutral.ttwstatic.com 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**__tea_session_id_#**Used by the social networking service, TikTok, for tracking the use of embedded services.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [sf16-website-login.neutral.ttwstatic.com sf16-website-login.neutral.tiktokcdn-eu.com 2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**msToken[x2]**Used by the social networking service, TikTok, for tracking the use of embedded services.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [tiktokw.eu sf16-website-login.neutral.ttwstatic.com 2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**msToken[x2]**Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.**Maximum Storage Duration**: 10 days**Type**: HTTP Cookie   
+    *   [trinitymedia.ai 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**AUID**Registers user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.**Maximum Storage Duration**: 400 days**Type**: HTTP Cookie   
+
+*   Unclassified 25 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.  
+
+    *   [Carto 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 43: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://carto.com/privacy/ "Carto's privacy policy")**hs-cta-interactions#cta**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+    *   [Crowdcast.io 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 44: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.crowdcast.io/privacy-policy "Crowdcast.io's privacy policy")**hlsMirrorStore**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [DocumentCloud 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 45: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.documentcloud.org/privacy "DocumentCloud's privacy policy")**__documentcloud_document-browser_visibleFields**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Flourish 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 46: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://flourish.studio/privacy/ "Flourish's privacy policy")**inbound_fields**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Gettyimages 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 47: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.gettyimages.co.uk/company/privacy-policy "Gettyimages's privacy policy")**vis**Pending**Maximum Storage Duration**: 25 years**Type**: HTTP Cookie   
+    *   [Kumu 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 48: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://kumu.io/privacy "Kumu's privacy policy")**_pouch_check_localstorage**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Poool 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 49: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](http://poool.fr/rgpd "Poool's privacy policy")**poool-engage**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Scribd 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 50: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://support.scribd.com/hc/en-us/articles/210129366-Privacy-policy "Scribd's privacy policy")**ssuuid**Pending**Maximum Storage Duration**: 15 years**Type**: HTTP Cookie   
+    *   [The Guardian 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)[Learn more about this provider![Image 51: A 18x18 small image, likely a logo, icon or avatar](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.theguardian.com/info/privacy "The Guardian's privacy policy")**bwid_withoutSameSiteForIncompatibleClients**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [datawrapper.dwcdn.net 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**#/pixel.gif**Pending**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [embeds.beehiiv.com 5](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**PXeBumDLwe_px_c_p_PXeBumDLwe**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **PXeBumDLwe_px_fp**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **PXeBumDLwe_px_hvd**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **PXeBumDLwe_px_nfsp**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **PXeBumDLwe_px-ff**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [flo.uri.sh 2](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**__probe-deck__**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **__probe-luma__**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [sf16-website-login.neutral.tiktokcdn-eu.com 1](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**HYBRID_SLARDAR_WEBtiktok_pns_web_runtime**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [vd.trinitymedia.ai 4](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**__testPartitioning[x2]**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **TRINITY_USER_DATA**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **TRINITY_USER_ID**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [www.thebureauinvestigates.com 3](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)**Saved Session**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **/idbfs#FILE_DATA**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **UnityCache#WebAssembly**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+
+[Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#) [#BULK_CONSENT_TITLE#]
+
+List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
+
+Cookie declaration last updated on 11/21/25 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot")
+
+[#IABV2_TITLE#]
+
+[#IABV2_BODY_INTRO#]
+
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+
+[#IABV2_BODY_PREFERENCE_INTRO#]
+
+[#IABV2_LABEL_PURPOSES#]
+
+[#IABV2_BODY_PURPOSES_INTRO#]
+
+[#IABV2_BODY_PURPOSES#]
+
+[#IABV2_LABEL_FEATURES#]
+
+[#IABV2_BODY_FEATURES_INTRO#]
+
+[#IABV2_BODY_FEATURES#]
+
+[#IABV2_LABEL_PARTNERS#]
+
+[#IABV2_BODY_PARTNERS_INTRO#]
+
+[#IABV2_BODY_PARTNERS#]
+
+About
+
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+
+ Please state your consent ID and date when you contact us regarding your consent.
+
+- [x] **Do not sell or share my personal information** 
+
+Deny Allow selection Customize Allow all
+
+[![Image 52: The Bureau of Investigative Journalism](https://www.thebureauinvestigates.com/assets/img/tbij-logo.svg)](https://www.thebureauinvestigates.com/)
+
+[Search The Bureau Website](https://www.thebureauinvestigates.com/search)
+
+[Stories](https://www.thebureauinvestigates.com/stories)
+
+[Explore](https://www.thebureauinvestigates.com/topics)
+
+[Global Health](https://www.thebureauinvestigates.com/projects/global-health)[Big Tech](https://www.thebureauinvestigates.com/projects/big-tech)[Environment](https://www.thebureauinvestigates.com/projects/environment)[The Enablers](https://www.thebureauinvestigates.com/projects/the-enablers)[Family Court Files](https://www.thebureauinvestigates.com/projects/family-justice)[Global Superbugs](https://www.thebureauinvestigates.com/projects/superbugs)[All Investigations…](https://www.thebureauinvestigates.com/projects)[Bureau Local](https://www.thebureauinvestigates.com/local)[Open Resources](https://www.thebureauinvestigates.com/local/open-resources)[News](https://www.thebureauinvestigates.com/blog)
+
+[About Us](https://www.thebureauinvestigates.com/about-us)
+
+[Our Mission](https://www.thebureauinvestigates.com/about-us)[Impact](https://www.thebureauinvestigates.com/projects/impact)[Our People](https://www.thebureauinvestigates.com/about-us/our-people)[Use Our Work](https://www.thebureauinvestigates.com/about-us/use-our-work)[Our Funding](https://www.thebureauinvestigates.com/about-us/our-funding)[Fact-checking at TBIJ](https://www.thebureauinvestigates.com/about-us/fact-checking)[The Trust for TBIJ](https://www.thebureauinvestigates.com/about-us/the-trust-for-tbij)[Employment](https://www.thebureauinvestigates.com/about-us/employment)
+
+[Newsletter](https://www.thebureauinvestigates.com/general/newsletters)[Support Us](https://www.thebureauinvestigates.com/support-us)[Search](https://www.thebureauinvestigates.com/search)
+
+![Image 53: An illustration representing Qatar's human rights violations related to the 2022 FIFA World Cup, featuring a large World Cup trophy and two silhouettes shaking hands above silhouettes of workers using computers](https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain,gravity=0.5081x0.5753/filestore/images/Daniel-Stolle-illustration-brightened.jpg)
+
+05.11.22[State Scrutiny](https://www.thebureauinvestigates.com/topics/state-scrutiny)[The Enablers](https://www.thebureauinvestigates.com/projects/the-enablers)
+
+How Qatar hacked the World Cup
+==============================
+
+We expose injustice and spark change. Help change the world by becoming a Bureau Insider
+
+[Support TBIJ](https://www.thebureauinvestigates.com/support-us)
+
+Published **November 5 2022**
+
+By [Franz Wild](https://www.thebureauinvestigates.com/profile/franzwild), [Ed Siddons](https://www.thebureauinvestigates.com/profile/EdSiddons), [Simon Lock](https://www.thebureauinvestigates.com/profile/SimonLock), [Jonathan Calvert](https://www.thebureauinvestigates.com/profile/jonathancalvert), [George Arbuthnott](https://www.thebureauinvestigates.com/profile/georgearbuthnott)
+
+This story was published in partnership with:
+
+![Image 54: The Sunday Times](https://www.thebureauinvestigates.com/cdn-cgi/image/width=340,height=80,quality=82,format=auto,fit=contain/filestore/images/article-partner-logos/ST-nobackground.png)
+
+ The Sunday Times 
+
+[Find out how to use the Bureau’s work](https://www.thebureauinvestigates.com/about-us/use-our-work)
+
+Private investigators linked to the City of London are using an India-based computer hacking gang to target British businesses, government officials and journalists.
+
+The Bureau of Investigative Journalism and the Sunday Times have been given access to the gang’s database, which reveals the extraordinary scale of the attacks.
+
+It shows the criminals targeted the private email accounts of more than 100 victims on behalf of investigators working for autocratic states, British lawyers and their wealthy clients.
+
+Critics of Qatar who threatened to expose wrongdoing by the Gulf state in the run-up to this month’s World Cup were among those hacked.
+
+It is the first time the inner workings of a major “hack-for-hire” gang have been leaked to the media and it reveals multiple criminal conspiracies. Some of the hackers’ clients are private investigators used by major law firms with bases in the City of London.
+
+Our investigation – based on the leaked documents and undercover work in India – can reveal:
+
+*   Orders went out to the gang to target the BBC’s political editor Chris Mason in May, three weeks after his appointment was announced.
+
+*   The president of Switzerland and his deputy were targeted just days after he met Boris Johnson and Liz Truss in Downing Street to discuss Russian sanctions.
+
+*   Philip Hammond, then chancellor, was hacked as he was dealing with the fallout of Russia’s novichok poisonings in Salisbury.
+
+*   A private investigator hired by a London law firm acting for the Russian state ordered the gang to target a British-based oligarch fleeing Vladimir Putin.
+*   Michel Platini, the former head of European football, was hacked shortly before he was due to talk to French police about corruption allegations relating to the 2022 World Cup.
+*   The hackers broke into the email inboxes of Formula One motor racing bosses Ruth Buscombe, the British head of race strategy at the Alfa Romeo team, and Otmar Szafnauer, who was chief executive of the Aston Martin team.
+*   The gang seized control of computers owned by Pakistan’s politicians, generals and diplomats and eavesdropped on their private conversations, apparently at the behest of the Indian secret services.
+
+ ‘It paints a grim picture of a network of criminal hacking that threatens justice and privacy here in the UK and across the world’ 
+
+The commissioning of hacking is a criminal offence punishable with a maximum sentence of 10 years in jail in Britain. The Metropolitan Police was tipped off about the allegations regarding Qatar in October last year yet chose not to take any action.
+
+David Davis, the former cabinet minister, said the force should reopen its investigation into potential criminal cyberattacks against British citizens.
+
+Davis said the investigation exposed how London has become “the global centre of hacking”. He added: “It paints a grim picture of a network of criminal hacking that threatens justice and privacy here in the UK and across the world.”
+
+![Image 55: A man rides his bike through Delhi](https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Getty-Delhi-brightened.jpg)
+
+ Undercover reporters travelled to India to investigate hackers offering services to British investigators  Sanjeev Verma/Hindustan Times via Getty Images 
+
+The hacking gang, which operates under the name WhiteInt, is run from a fourth-floor apartment in a suburb of the Indian tech city Gurugram. Its mastermind is 31-year-old Aditya Jain – an occasional TV cybersecurity pundit who also holds down a day job at the Indian office of the British accountancy firm Deloitte.
+
+For seven years, Jain has run a network of computer hackers who have been hired by British private detectives to steal the email inboxes of their targets using “phishing” techniques. Sometimes his team deploy malicious software which takes control of computer cameras and microphones, and allows them to view and listen to their victims.
+
+Aditya Jain, the hacker for hire
+
+![Image 56: Man with a flower garland and a white turban with a feather smiling in front of a flower wall](https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/ctas/aditya.png)
+
+Earlier this year undercover reporters from the Sunday Times travelled to India posing as corporate investigators seeking to hire a computer hacker and approached a number of suspected cybercriminals. The reporters contacted Jain and began a lengthy exchange of messages.
+
+Jain told them: “I offer access to closed source information of email and computers of the POI [person of interest] anywhere across the globe … an average timeline is around 20 to 30 days.”
+
+Then, he volunteered details about one of his projects that related to Fifa, football’s governing body and the organisers of the World Cup. “I have successfully worked on obtaining email data of [a] few high profile individuals (in relation to Fifa) based in [the] UK on the behest of a client sponsored by a Gulf country,” he wrote.
+
+He went on to confirm that the ultimate client was Qatar, in response to questions from the undercover reporters. He said he had been hired for the project by a Swiss-based investigator called Jonas Rey.
+
+Later the Bureau and the Sunday Times were given sight of the secret database detailing Jain’s clients and hacking targets. Seven clients are named on the list and they include British private investigators.
+
+The former Metropolitan Police officer Nick Del Rosso appears to have provided the gang with the targets for at least 40 of the cyberattacks.
+
+Rey was the gang’s most prolific client. He was working for the Swiss corporate intelligence company Diligence Global Business Intelligence, which is owned and run by the former MI5 officer Nick Day. The firm was the sister company of the well-known City of London corporate intelligence firm Diligence.
+
+In January 2019, Diligence Global had been hired to work on a World Cup project, according to court documents. Over the following year Rey began to commission the gang to target people who had exposed wrongdoing by hosts Qatar.
+
+#### Read the undercover investigation
+
+Inside the global hack-for-hire industry
+
+[Find out more](https://www.thebureauinvestigates.com/stories/2022-11-05/inside-the-global-hack-for-hire-industry)
+
+The targets included Jonathan Calvert, the editor of the Sunday Times Insight team which had been at the forefront of exposing the corruption that led Fifa to award the World Cup to Qatar in 2010.
+
+According to the database, Rey instructed Jain to target Calvert on 22 April 2019. Just weeks before, Insight had written a story revealing the rule-breaking $100m “success fee” Qatar offered to Fifa in return for being given the right to host the World Cup.
+
+There is a note on the database saying the hack of Calvert’s inbox was “completed”. Lawyers for Qatar’s government deny commissioning hacking. Last month they accused Calvert of a “politically motivated crusade” linked to Qatar’s Gulf UAE rival when they were questioned about the hacking of his email account ahead of this article.
+
+“Your readers deserve to know that for several years, Mr Calvert has retained close links with Qatar’s neighbour, the United Arab Emirates,” they wrote. There is no truth in the claim.
+
+Rey also instructed the gang to target Platini, the famous former footballer, on 10 May 2019. Platini had been one of the Fifa executive committee members that had backed Qatar’s winning bid to host this year’s World Cup. There had been rumours that he had been pressured to do so during a lunch meeting with the then French president Nicolas Sarkozy and Qatar’s ruler Sheikh Tamim bin Hamad Al Thani, who was then a prince, a few days before he voted.
+
+At the time Platini was hacked, the Parquet National Financier (PNF), France’s serious and economic crime enforcement unit, were poised to talk to him about the lunch as part of an investigation into corruption in the World Cup bid.
+
+A source close to the PNF’s investigation believes Qatar was “anxious” to find out what Platini was preparing to say when he was interviewed the following month. A representative for Platini said he was unaware he had been hacked but was concerned his private messages may have been compromised.
+
+![Image 57: Michel Platini leaves a Swiss court after the first day of his fraud trial in June](https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/Getty-Platini.jpg) Michel Platini leaves Swiss court after the first day of his fraud trial in June  Fabrice Coffrini / AFP via Getty 
+
+Rey left Diligence Global in November of that year to set up his own firm Athena Intelligence. By that time his name had appeared against 16 hacks carried out by the gang. After leaving Diligence Global, he told Jain to target several more individuals, according to the database.
+
+Jain hacked Ghanem Nuseibeh, a 45-year-old Mayfair-based businessman, who had become a target for Qatar after writing a report on corruption relating to the 2022 World Cup. His London-based lawyer Paul Tweed was also hacked that November.
+
+The hacker targeted two other people known to Nuseibeh at the same time. One was Mark Somos, a lawyer based in Germany who had made a complaint about the Qatari royal family to the United Nations Human Rights Council.
+
+The other was Nathalie Goulet, a French politician who has been a vocal critic of the Gulf state for allegedly financing Islamic terrorism. Jain even notes Goulet’s email password in the database, which she says was previously known only to her.
+
+The hacker also went after Yann Philippin, a journalist with the French investigative website Mediapart, shortly after he had written a story in December 2019 providing fresh details about the French judicial investigation into the awarding of the World Cup to Qatar. Rey is again listed as the client. The hack was unsuccessful because Philippin spotted the phishing emails and changed his phone and computer.
+
+![Image 58: A skyline picture shows the Lusail Stadium in Doha](https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Lusail-stadium-getty-crop-brightened-2.jpg)
+
+ The Lusail Stadium in Doha, built ahead of the Qatar World Cup  David Ramos / Fifa via Getty 
+
+Rey passed the hacking gang three more targets: Nick Raudenski, a former investigator for Fifa and Uefa; Alan Suderman, an Associated Press journalist who had written about Qatar’s underhand campaign to host the tournament; and Rokhaya Diallo, a prominent campaigner who had been publicly critical of the Gulf state’s failure to pay migrant workers building the World Cup stadiums. AP said last month that it found “no indication” that Suderman was hacked.
+
+Jonas Rey, the private investigator for whom numerous hacks were performed
+
+![Image 59: A man with a neatly trimmed beard stares forward, wearing a dark t-shirt, set against a light background](https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/ctas/Jonas.png)
+
+In all, Rey’s name is against a dozen Qatar-related hacks in the leaked database. In total, he is listed as commissioning Jain to target 48 people.
+
+Earlier this year, Rey sent a document to Jain containing a biography and email details of the BBC’s new political editor Chris Mason. The properties of the document state that it was prepared by Rey’s company Athena Intelligence and the last person to edit it is recorded as “JR”.
+
+Soon afterwards, on 18 May, Jain’s employees began attempting to hack Mason. He was sent phishing emails - seen by this newspaper and the Bureau - pretending to be from Twitter and Facebook and seeking to steal his username and password.
+
+The purpose of hacking Mason is unclear but his new role meant he was privy to sensitive briefings from leading members of the Cabinet and the prime minister’s office. Last month, Mason said: “It is worrying so much enterprise, energy and money goes into these hacking attempts.” He did not believe the hackers accessed his emails.
+
+It was also Rey who instructed Jain to target the Swiss president Ignazio Cassis and his deputy Alain Berset this May. Most recently, the “hack-for-hire” firm attempted to break into the email account of Stefan Quandt, the billionaire German industrialist who co-owns BMW.
+
+Several of the targets on the database are British lawyers and wealthy people involved in cases in London’s high court such as Boris Mints, a British-based oligarch who is on the run from the Russian state, and members of two of the UK’s richest families, Ashok Hinduja and Robert Tchenguiz. British courts do not automatically exclude dubiously obtained evidence.
+
+The London offices of three law firms have all hired investigators who went on to order the gang to target individuals related to cases the lawyers were working on. The law firms deny commissioning or knowing about the hacking.
+
+Del Rosso, who is now based in North Carolina in the United States, instructed the gang to target Mark Fullbrook, who was Liz Truss’s chief of staff when she was prime minister.
+
+Fullbrook was targeted by Jain in May 2016 during the Brexit referendum campaign when he was working for CT Group, the lobbying company run by Conservative elections strategist Lynton Crosby. A source close to Fullbrook believes he may have been a target for hacking because there was speculation that he and Crosby were secretly working on the Brexit campaign.
+
+The most high-profile British politician named on Jain’s database is the former MP Philip Hammond. Jain began hacking Hammond when he was the chancellor of the exchequer on 9 April 2018 and the database records the attempt as “completed”.
+
+The work appears to have been commissioned by a businessman who runs a European investment fund. At the time, Hammond was involved in the Brexit negotiations as well as the response to Russia’s Skripal chemical weapons attack perpetrated just weeks before the hack. Hammond said last month: “It’ll be something to do with Brexit. I wasn’t aware of this.”
+
+Several of Jain’s political targets seem to have arisen from the continued tensions between India and Pakistan.
+
+On 10 January this year he was tasked with breaking into the email account of Fawad Chaudhry, Pakistan’s then minister of information in prime minister Imran Khan’s government. Jain took a screenshot of Chaudhry’s inbox, which has been seen by this newspaper and the Bureau.
+
+Jain’s team used malware to take over his computers and targeted the country's senior generals as well as its embassies in Beijing, Shanghai and Kathmandu in a similar way. The most famous Pakistan-related target was Pervez Musharraf, the former president of the country.
+
+![Image 60: Pervez Musharraf with a tan jacket and glasses, looks up and to the right](https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/Pervez-Musharraf.jpg) Pakistan's former president Pervez Musharraf was targeted by Jain's team  David Levenson / Getty Images 
+
+Last month, Jain admitted that he had hacked people in the past but said he had not done so for several years. He claimed he did not know some of the people named on his database and denied hacking the others listed. “I can say categorically that I have not hacked, launched or attempted to hack any of these people,” he said.
+
+Rey strongly denied commissioning hacking and claimed that our journalists had been fed falsified information to discredit him. His former boss Nick Day said: “Diligence Global denies any allegation of wrongdoing. Diligence always works hard to ensure that its investigations are compliant with all applicable laws and regulations.”
+
+Del Rosso did not respond to attempts to contact him.
+
+_Reporters: Franz Wild, Ed Siddons, Simon Lock, Jonathan Calvert and George Arbuthnott
+
+Additional reporting: Fin Johnston, Misbah Khan and Rahul Meesaraganda_ _Finance editor: Franz Wild
+
+Impact Producer: Lucy Nash
+
+Global editor: James Ball
+
+Bureau editor: Meirion Jones
+
+Production editor: Alex Hess
+
+Fact checkers: \_Alice Milliken\_, Ben Stockton, Matthew Chapman and Soobin Kim
+
+Illustrations: Daniel Stolle
+
+Animations: Rhodri Andrews_
+
+_Our Enablers project is funded by Open Society Foundations, the Hollick Family Foundation, Sigrid Rausing Trust, the Joffe Trust and out of Bureau core funds. None of our funders have any influence over the Bureau’s editorial decisions or output._
+
+*   Subject:
+--------
+
+    *   [Corporate spies](https://www.thebureauinvestigates.com/tags/subject-corporate-spies)
+    *   [Surveillance](https://www.thebureauinvestigates.com/tags/subject-surveillance)
+    *   [Super rich](https://www.thebureauinvestigates.com/tags/subject-super-rich)
+    *   [Hacking](https://www.thebureauinvestigates.com/tags/subject-hacking)
+
+*   Area:
+-----
+
+    *   [Money](https://www.thebureauinvestigates.com/tags/area-money)
+
+#### About The Authors
+
+##### Franz Wild
+
+Franz is an award-winning journalist whose reporting on corruption, fraud and colourful billionaires has led to various criminal inquires
+
+[More by Franz Wild](https://www.thebureauinvestigates.com/profile/franzwild)
+
+[Twitter](https://twitter.com/@wildfranz)[Email](mailto:franzwild@tbij.com)[PGP](https://keys.mailvelope.com/pks/lookup?op=get&search=franzwild@tbij.com)
+
+##### Ed Siddons
+
+Ed investigates how the UK’s white-collar businesses facilitate oligarchs, dictators and organised criminals around the world
+
+[More by Ed Siddons](https://www.thebureauinvestigates.com/profile/EdSiddons)
+
+[Email](mailto:edwardsiddons@tbij.com)
+
+##### Simon Lock
+
+Simon reports on financial corruption for our Enablers team. Before joining TBIJ, he covered major commercial law firms for Legal Week
+
+[More by Simon Lock](https://www.thebureauinvestigates.com/profile/SimonLock)
+
+[Email](mailto:simonlock@tbij.com)
+
+##### Jonathan Calvert
+
+Jonathan is editor of the Sunday Times Insight team
+
+[More by Jonathan Calvert](https://www.thebureauinvestigates.com/profile/jonathancalvert)
+
+##### George Arbuthnott
+
+George is deputy editor of the Sunday Times Insight team
+
+[More by George Arbuthnott](https://www.thebureauinvestigates.com/profile/georgearbuthnott)
+
+### More From The Enablers
+
+[![Image 61: Parking sign on a pole reading Display ticket with a QR code, and a white car partially visible below](https://www.thebureauinvestigates.com/cdn-cgi/image/width=305,height=183,quality=82,format=auto,fit=cover/filestore/images/Quishing-impact.png) #### Police arrest 18 in anti-fraud operation linked to ‘quishing’ scam 6 November 2025](https://www.thebureauinvestigates.com/stories/2025-11-06/police-arrest-18-in-anti-fraud-operation-linked-to-quishing-scam)
+
+[![Image 62: Man with glasses, a beard and a suit in front of a blue background with a crown](https://www.thebureauinvestigates.com/cdn-cgi/image/width=305,height=183,quality=82,format=auto,fit=cover/filestore/images/HMRCfinal.png) #### HMRC won't admit how much tax is lost offshore 4 November 2025](https://www.thebureauinvestigates.com/stories/2025-11-04/hmrc-wont-admit-how-much-tax-is-lost-offshore)
+
+[![Image 63: Aerial view of an island with a network of lines around it](https://www.thebureauinvestigates.com/cdn-cgi/image/width=305,height=183,quality=82,format=auto,fit=cover/filestore/images/guernsey.png) #### Private finance vs public interest: inside Guernsey’s offshore challenge 27 October 2025](https://www.thebureauinvestigates.com/stories/2025-10-27/private-finance-vs-public-interest-inside-guernseys-offshore-challenge)
+
+[![Image 64: A group of City of London Police officers wearing yellow jackets patrol the streets](https://www.thebureauinvestigates.com/cdn-cgi/image/width=305,height=183,quality=82,format=auto,fit=cover/filestore/images/2_2025-10-03-090105_agja.png) #### City lawyers tried to ‘silence’ police fraud investigator 7 October 2025](https://www.thebureauinvestigates.com/stories/2025-10-07/city-lawyers-tried-to-silence-police-fraud-investigator)
+
+#### Projects
+
+[Environment](https://www.thebureauinvestigates.com/projects/environment)[Local Power](https://www.thebureauinvestigates.com/projects/local-power)[Big Tech](https://www.thebureauinvestigates.com/projects/big-tech)[The Enablers](https://www.thebureauinvestigates.com/projects/the-enablers)[Global Health](https://www.thebureauinvestigates.com/projects/global-health)[Family Court Files](https://www.thebureauinvestigates.com/projects/family-justice)[All Projects](https://www.thebureauinvestigates.com/projects)
+
+#### Got a Story?
+
+[For Journalists](https://www.thebureauinvestigates.com/got-a-story/journalists)[Contacting the Bureau](https://www.thebureauinvestigates.com/got-a-story/contacting-the-bureau)[How to Talk to a Journalist](https://www.thebureauinvestigates.com/got-a-story/how-to-talk-to-a-journalist)
+
+#### About
+
+[About Us](https://www.thebureauinvestigates.com/about-us)[Contact Us](https://www.thebureauinvestigates.com/about-us/contact-us)[Use Our Work](https://www.thebureauinvestigates.com/about-us/use-our-work)[Our Funding](https://www.thebureauinvestigates.com/about-us/our-funding)[Financials](https://www.thebureauinvestigates.com/about-us/our-financials)[Awards](https://www.thebureauinvestigates.com/about-us/our-news)[Privacy Policy](https://www.thebureauinvestigates.com/about-us/our-privacy-policy)[The Trust for TBIJ](https://www.thebureauinvestigates.com/about-us/the-trust-for-tbij)[Employment](https://www.thebureauinvestigates.com/about-us/employment)[Complaints](https://www.thebureauinvestigates.com/complaints)[Corrections](https://www.thebureauinvestigates.com/corrections)
+
+[![Image 65](https://www.thebureauinvestigates.com/assets/img/footer-logo.svg)](https://www.thebureauinvestigates.com/)
+
+The Bureau of Investigative Journalism PO Box 76421 London EC2P 2SH
+
+**Email:**[info@thebureauinvestigates.com](mailto:info@thebureauinvestigates.com)
+
+![Image 66: im regulated member white badge with the text regulated member under a stylized black im logo](https://www.thebureauinvestigates.com/assets/img/impress-regulated-member-trustmark-white.png)
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+
+[✕](https://www.thebureauinvestigates.com/stories/2022-11-05/how-qatar-hacked-the-world-cup#)
+
+[![Image 67: A 56x60 small image, likely a logo, icon or avatar](https://www.thebureauinvestigates.com/filestore/images/projects/icons/icon-topic-corporations.svg) Corporations](https://www.thebureauinvestigates.com/topics/corporations-1)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [Binary Options](https://www.thebureauinvestigates.com/projects/binary-options)
+*   [Corporate Watch](https://www.thebureauinvestigates.com/projects/corporations)
+*   [Fixed-Odds Betting Machines](https://www.thebureauinvestigates.com/projects/fixed-odds-betting-machines)
+*   [High Cost Credit](https://www.thebureauinvestigates.com/projects/high-cost-credit)
+*   [High Frequency Trading](https://www.thebureauinvestigates.com/projects/high-frequency-trading)
+*   [Smoke Screen](https://www.thebureauinvestigates.com/projects/smoke-screen-podcast)
+
+[![Image 68: A 60x51 small image, likely a logo, icon or avatar](https://www.thebureauinvestigates.com/filestore/images/projects/icons/icon-topic-amr.svg) Food and Drugs](https://www.thebureauinvestigates.com/topics/food-and-drugs)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [Big Tobacco](https://www.thebureauinvestigates.com/projects/big-tobacco)
+
+[![Image 69: A 60x47 small image, likely a logo, icon or avatar](https://www.thebureauinvestigates.com/filestore/images/projects/icons/icon-topic-justice.svg) Justice](https://www.thebureauinvestigates.com/topics/justice)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [Deaths in Police Custody](https://www.thebureauinvestigates.com/projects/deaths-in-police-custody)
+*   [Family Court Files](https://www.thebureauinvestigates.com/projects/family-justice)
+*   [Investigating Rape](https://www.thebureauinvestigates.com/projects/investigating-rape)
+*   [Joint Enterprise](https://www.thebureauinvestigates.com/projects/joint-enterprise)
+*   [Rough Justice](https://www.thebureauinvestigates.com/projects/secret-justice)
+
+[![Image 70: A 60x39 small image, likely a logo, icon or avatar](https://www.thebureauinvestigates.com/filestore/images/projects/icons/icon-topic-human-rights.svg) Human Rights](https://www.thebureauinvestigates.com/topics/human-rights)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [CIA Torture](https://www.thebureauinvestigates.com/projects/cia-torture)
+*   [Citizenship Revoked](https://www.thebureauinvestigates.com/projects/counter-terrorism)
+*   [Drone Warfare](https://www.thebureauinvestigates.com/projects/drone-war)
+*   [Iraq War Logs](https://www.thebureauinvestigates.com/projects/iraq-war-logs)
+*   [Marikana Massacre](https://www.thebureauinvestigates.com/projects/marikana)
+*   [Migration Crisis](https://www.thebureauinvestigates.com/projects/migration-crisis)
+*   [Privatised War](https://www.thebureauinvestigates.com/projects/privatised-war)
+*   [Shadow Wars](https://www.thebureauinvestigates.com/projects/shadow-wars)
+*   [Surveillance State](https://www.thebureauinvestigates.com/projects/surveillance-state)
+*   [Trapped in work](https://www.thebureauinvestigates.com/projects/trapped-in-work)
+
+[![Image 71: A 60x55 small image, likely a logo, icon or avatar](https://www.thebureauinvestigates.com/filestore/images/projects/icons/icon-topic-spin.svg) PR and Spin](https://www.thebureauinvestigates.com/topics/pr-and-spin)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [Fake News](https://www.thebureauinvestigates.com/projects/fake-news)
+*   [Lobbying’s Hidden Influence](https://www.thebureauinvestigates.com/projects/lobbyings-hidden-influence)
+
+[![Image 72: A 60x55 small image, likely a logo, icon or avatar](https://www.thebureauinvestigates.com/filestore/images/projects/icons/icon-topic-government.svg) State Scrutiny](https://www.thebureauinvestigates.com/topics/state-scrutiny)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [Care Sector](https://www.thebureauinvestigates.com/projects/care-sector)
+*   [Europe Under Scrutiny](https://www.thebureauinvestigates.com/projects/europe-under-scrutiny)
+*   [Health](https://www.thebureauinvestigates.com/projects/health)
+*   [Political Party Funding](https://www.thebureauinvestigates.com/projects/political-party-funding)
+*   [Public Sector Pay](https://www.thebureauinvestigates.com/projects/public-sector-pay)
+*   [Royal Mail](https://www.thebureauinvestigates.com/projects/royal-mail)
+*   [Rulers’ Riches](https://www.thebureauinvestigates.com/projects/rulers-riches)
+*   [Scrutinising Government](https://www.thebureauinvestigates.com/projects/scrutinising-government)
+*   [Teaching](https://www.thebureauinvestigates.com/projects/teaching)
+*   [The Enablers](https://www.thebureauinvestigates.com/projects/the-enablers)
+
+[![Image 73: A 60x37 small image, likely a logo, icon or avatar](https://www.thebureauinvestigates.com/assets/img/members-icon-white.svg) Bureau Local](https://www.thebureauinvestigates.com/local)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*   [Local Stories](https://www.thebureauinvestigates.com/local/local-stories)
+*   [Open Resources](https://www.thebureauinvestigates.com/local/open-resources)
+
+*   [Cost of living crisis](https://www.thebureauinvestigates.com/projects/cost-of-living-crisis)
+*   [Domestic Violence](https://www.thebureauinvestigates.com/projects/refuges)
+*   [Homelessness](https://www.thebureauinvestigates.com/projects/homelessness)
+*   [Is Work Working?](https://www.thebureauinvestigates.com/projects/is-work-working)
+*   [Local Power](https://www.thebureauinvestigates.com/projects/local-power)
+*   [The Housing Crisis](https://www.thebureauinvestigates.com/projects/the-housing-crisis)
+*   [The People’s Newsroom](https://www.thebureauinvestigates.com/projects/the-peoples-newsroom)
+*   [UK Elections](https://www.thebureauinvestigates.com/projects/elections-under-scrutiny)

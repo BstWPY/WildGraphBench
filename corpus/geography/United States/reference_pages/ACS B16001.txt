@@ -1,0 +1,256 @@
+# ACS B16001
+
+Missing data for your geographies? Try switching to ACS 5-year estimates instead.[Learn More](https://www.census.gov/programs-surveys/acs/guidance/estimates.html).
+
+Table controls. Navigate with tab or arrow keys. In a column header, press enter to toggle sorting. Press control enter to open the column menu. Row groups can be expanded or contracted with the enter key.
+
+![Image 1: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Total:
+
+Speak only English
+
+![Image 2: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Spanish:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 3: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)French (incl. Cajun):
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 4: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Haitian:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 5: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Italian:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 6: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Portuguese:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 7: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)German:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 8: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Yiddish, Pennsylvania Dutch or other West Germanic languages:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 9: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Greek:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 10: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Russian:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 11: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Polish:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 12: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Serbo-Croatian:
+
+Speak English "very well"
+
+Speak English less than "very well"
+
+![Image 13: A 32x32 small image, likely a logo, icon or avatar](https://data.census.gov/assets/chevron-down-38f57bb8.svg)Ukrainian or other Slavic languages:
+
+Speak English "very well"
+
+313,232,500
+
+±17,131
+
+245,478,064
+
+±170,291
+
+41,254,941
+
+±121,964
+
+24,955,072
+
+±104,398
+
+16,299,869
+
+±94,309
+
+1,175,318
+
+±27,711
+
+924,393
+
+±24,070
+
+250,925
+
+±12,935
+
+894,804
+
+±28,213
+
+550,290
+
+±25,053
+
+344,514
+
+±15,129
+
+512,803
+
+±15,834
+
+384,298
+
+±13,414
+
+128,505
+
+±6,838
+
+937,369
+
+±30,987
+
+595,164
+
+±19,851
+
+342,205
+
+±17,660
+
+857,426
+
+±20,523
+
+729,509
+
+±18,397
+
+127,917
+
+±7,450
+
+573,876
+
+±21,240
+
+380,117
+
+±17,672
+
+193,759
+
+±12,697
+
+253,366
+
+±14,929
+
+195,968
+
+±11,632
+
+57,398
+
+±5,716
+
+1,044,892
+
+±24,798
+
+618,161
+
+±19,897
+
+426,731
+
+±15,775
+
+533,367
+
+±19,628
+
+336,503
+
+±13,140
+
+196,864
+
+±10,926
+
+265,785
+
+±14,020
+
+176,490
+
+±11,913
+
+89,295
+
+±6,070
+
+384,906
+
+±16,540
+
+242,126
+
+±12,109
+
+* * *
+
+Although the American Community Survey (ACS) produces population, demographic and housing unit estimates, it is the Census Bureau's Population Estimates Program that produces and disseminates the official estimates of the population for the nation, states, counties, cities, and towns and estimates of housing units for states and counties.
+
+Supporting documentation on code lists, subject definitions, data accuracy, and statistical testing can be found on the American Community Survey website in the Technical Documentation section.
+
+Sample size and data quality measures (including coverage rates, allocation rates, and response rates) can be found on the American Community Survey website in the Methodology section.
+
+Source: U.S. Census Bureau, 2021 American Community Survey 1-Year Estimates
+
+Data are based on a sample and are subject to sampling variability. The degree of uncertainty for an estimate arising from sampling variability is represented through the use of a margin of error. The value shown here is the 90 percent margin of error. The margin of error can be interpreted roughly as providing a 90 percent probability that the interval defined by the estimate minus the margin of error and the estimate plus the margin of error (the lower and upper confidence bounds) contains the true value. In addition to sampling variability, the ACS estimates are subject to nonsampling error (for a discussion of nonsampling variability, see ACS Technical Documentation). The effect of nonsampling error is not represented in these tables.
+
+In 2016, changes were made to the languages and language categories presented in tables B16001, C16001, and B16002. For more information, see: 2016 Language Data User note.
+
+The 2021 American Community Survey (ACS) data generally reflect the March 2020 Office of Management and Budget (OMB) delineations of metropolitan and micropolitan statistical areas. In certain instances the names, codes, and boundaries of the principal cities shown in ACS tables may differ from the OMB delineations due to differences in the effective dates of the geographic entities.
+
+Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
+
+Explanation of Symbols:
+
+-The estimate could not be computed because there were an insufficient number of sample observations. For a ratio of medians estimate, one or both of the median estimates falls in the lowest interval or highest interval of an open-ended distribution. For a 5-year median estimate, the margin of error associated with a median was larger than the median itself.
+N The estimate or margin of error cannot be displayed because there were an insufficient number of sample cases in the selected geographic area.
+(X)The estimate or margin of error is not applicable or not available.
+median-The median falls in the lowest interval of an open-ended distribution (for example "2,500-")
+median+The median falls in the highest interval of an open-ended distribution (for example "250,000+").
+**The margin of error could not be computed because there were an insufficient number of sample observations.
+***The margin of error could not be computed because the median falls in the lowest interval or highest interval of an open-ended distribution.
+*****A margin of error is not appropriate because the corresponding estimate is controlled to an independent population or housing estimate. Effectively, the corresponding estimate has no sampling error and the margin of error may be treated as zero.

@@ -1,0 +1,433 @@
+# Outbreak of severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2): increased transmission beyond China – fourth update
+
+Suggested citation: European Centre for Disease Prevention and Control. Outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): increased transmission beyond China − fourth update, 14 February 2020. ECDC: Stockholm; 2020. © European Centre for Disease Prevention and Control, Stockholm, 2020 
+
+# RAPID RISK ASSESSMENT 
+
+# Outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): increased transmission beyond China – fourth update 
+
+# 14 February 2020 
+
+# Summary 
+
+On 31 December 2019, a cluster of pneumonia cases of unknown aetiology was reported in Wuhan, Hubei Province, China. On 9 January 2020, China CDC reported a novel coronavirus as the causative agent of this outbreak, which is phylogenetically in the SARS-CoV clade. The novel coronavirus has thus been named ‘severe acute respiratory syndrome coronavirus 2’ (SARS-CoV-2), while coronavirus disease associated with it is now referred to as COVID-19. 
+
+As of 13 February 2020, 9:00, more than 60 330 cases of COVID-19 have been reported worldwide, mainly in China and from all Chinese provinces; of these cases, more than 450 cases were reported from other countries. As of 13 February, 13 countries reported local transmission: the United Arab Emirates, Canada, France, Germany, Japan, Malaysia, South Korea, Singapore, Taiwan, Thailand, the United Kingdom, the United States of America and Vietnam. 
+
+In the EU/EEA and the UK, 44 cases have been reported as of 13 February. Among them, 21 are locally acquired: Germany (14), France (6) and the UK (1). All of these cases have epidemiological links to earlier identified clusters with importations from outside the EU/EEA and the UK. 
+
+Updates on the epidemiology of SARS-CoV-2 can be found on ECDC’s website. 
+
+According to available evidence, the transmissibility of this virus is assessed as sufficient for sustained community transmission. Further cases and deaths in China are expected in the coming days and weeks. Further cases or clusters are also expected from other countries that are already reporting increasing numbers of cases, including community transmission. Therefore, health authorities in the EU/EEA and the UK should remain vigilant and strengthen their capacity to respond to possible importation of cases from China or, potentially, other areas with presumed ongoing community transmission; increase their capacity for surveillance and review their pandemic preparedness plans. 
+
+There are considerable uncertainties in assessing the risk of this event, due to lack of detailed epidemiological analyses. 
+
+ECDC assesses the risk based on the probability of transmission and the impact of the disease. On the basis of the information currently available, the Centre’s assessment is as follows: 
+
+• The risk for healthcare systems capacity in the EU/EEA and the UK that would arise in the face of widespread transmission of SARS-CoV-2 at the peak of the influenza season is considered to be low to moderate. 
+
+• The risk associated with SARS-CoV-2 infection for the EU/EEA and UK population is currently low. 
+
+• The risk for people from the EU/EEA/UK travelling/resident in areas with presumed community transmission is currently high. RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+2
+
+# What is new in this update? 
+
+• Updated number of cases in and beyond China 
+
+• Description of cases and transmission reported in the EU/EEA and the UK 
+
+• Findings on disease and transmissibility from recent studies 
+
+• Risk to the healthcare systems in the EU/EEA and the UK 
+
+• Risk to citizens from the EU/EEA and UK travelling or living in areas with presumed community transmission 
+
+• ECDC guidance documents (listed under ‘Options for response’). 
+
+Information on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in China is being regularly updated on  ECDC’s website , the European Commission  website , and the World Health Organization’s (WHO)  website .
+
+This risk assessment is based on published information available as of 13 February 2020, 9:00. 
+
+# Event background 
+
+For event background information, please visit ECDC’s  website . For the most recent information on the current situation regarding SARS-CoV-2, please visit this  page .
+
+Since ECDC’s third update on novel coronavirus published on 31 January 2020 – and as of 13 February 2020, 9:00 – an additional 52 506 cases have been reported, with 375 additional cases in 21 countries outside of China, including seven in the EU/EEA and the UK. It is likely that the true number of infections, including those that are unreported and unrecognised due to mild symptoms or being asymptomatic, is much higher [1]. 
+
+The case definition was reported to have changed in China several times during the course of the outbreak and since the last risk assessment, which led to an increase in the number of more severe cases. The most recent case definition on 13 February includes not only laboratory-confirmed cases but also cases diagnosed on clinical grounds only. Both of these issues introduce great uncertainties regarding the exact number of cases and the extent of the spread of the virus. 
+
+On 7 February, France was informed about a COVID-19 case in a British citizen who visited France from 24 to 28 January 2020. This case had attended a meeting in Singapore between 20 and 22 January where he was in contact with Chinese citizens from Wuhan, travelled to France and then back to the UK, where he was laboratory confirmed for SARS-CoV-2 on 6 February 2020. French authorities identified 11 contacts, of which five tested positive for SARS-CoV-2, including one child for whom numerous school contacts were identified. All these cases were admitted to hospital and isolated [2]. On 9 February, Spanish authorities reported a confirmed case in a British citizen who stayed in the same resort as the British index case. This additional case was diagnosed in Mallorca, Spain [3]. On 10 February, the UK reported four additional confirmed cases, all linked to the British case who had travelled back from Singapore. Among the four additional cases, two are healthcare workers [4]. 
+
+As of 13 February 2020, 174 SARS-CoV-2 infections have been detected on a passenger cruise ship off the coast of Japan. 
+
+As of 13 February, outside of China, local transmission has been reported in 13 countries: United Arab Emirates, Canada, France, Germany, Japan, Malaysia, South Korea, Singapore, Taiwan, Thailand, the United Kingdom, the United States of America and Vietnam. There is evidence from several of these countries that local transmission has occurred, in some countries in multiple locations, without direct or indirect epidemiological link to China. 
+
+For detailed information regarding the cases detected in the EU/EEA, please visit the following  page  on ECDC’s website. 
+
+# Disease background 
+
+For information on novel coronavirus virus (SARS-CoV-2) and disease (COVID-19), please visit this  page  on ECDC’s website. 
+
+# Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections 
+
+In December 2019, a novel severe acute respiratory syndrome coronavirus (SARS-CoV-2) was first isolated from three patients with  pneumonia , connected to the cluster of acute respiratory illness cases from Wuhan, China. Genetic analysis revealed that SARS-CoV-2 is closely related to SARS-CoV and genetically clusters within the genus Betacoronavirus, forming a distinct clade in lineage B of the subgenus Sarbecovirus together with two bat-derived RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+3
+
+SARS-CoV-like strains [5,6]. The origin of the virus is not clear yet. A recent study confirmed that angiotensin-converting enzyme 2 (ACE 2), a membrane exopeptidase, is the receptor used by SARS-CoV-2 for entry into the human cells, similar to SARS-CoV [7]. 
+
+The virus was initially isolated in bronchoalveolar lavage fluid samples [6], and viral RNA has thereafter been detected in nasopharyngeal and throat swabs as well as in serum [8,9], blood [10], rectal swabs, saliva, urine [11] and stool [11,12]. 
+
+Information on the epidemiological and clinical characteristics of the infection caused by SARS-CoV-2 is accumulating. In the first published studies using patient data from Chinese hospitals, the most common clinical symptom in hospitalised patients was fever, followed by cough, dyspnoea and myalgia [8,10,13], one of the studies also reported fatigue as a very common symptom [8]. Diarrhoea and vomiting, however, were reported as uncommon symptoms. Approximately one-third of the patients developed dyspnoea after five days (interquartile range (IQR) 1-10) from the onset of symptoms, and 23–26% required admission to the intensive care unit (ICU) after a median of 10 days (IQR 6-12). Invasive mechanical ventilation was reported for 47% of the ICU patients in another study; extracorporeal membrane oxygenation (ECMO) was reported for seven patients in the two studies with over 200 patients [8,13]. Additionally, computed tomography imaging and x-ray of the chest identified 75% of the cases having bilateral abnormalities [13], while another study reported all patients showing bilateral involvement in computed tomography [8]. 
+
+Current estimates suggest a median incubation period from five to six days, with a range of up to 14 days. A recent modelling study confirmed that it remains prudent to consider the incubation period of at least 14 days [14,15]. The current estimates of R 0 are between 2 and 3 [1,14,16]. Updated estimates of these parameters are likely to be published as more information becomes available. 
+
+There remains considerable uncertainty regarding the overall severity and case fatality rate (CFR) of SARS-CoV-2 infections. Estimation of case fatality can be biased in different directions: upwards by under-ascertainment of mild or asymptomatic cases or downwards by the short follow-up period for recently identified cases for whom the outcome is not yet known [17]. There is little agreement between estimates published to date, with variation and uncertainty introduced by the choice of modelling method, denominator, population group and geographical area of reporting [18]. Published analyses using data for hospitalised patients reported from China have reported case fatality estimates in the range of 11–14%, also depending on the method used and the selected population [13,19]. 
+
+There is currently no specific treatment or vaccine against SARS-CoV-2 infection. 
+
+# Disease surveillance for COVID-19 in the EU 
+
+Surveillance of COVID-19 in the EU/EEA was established in January 2020 through The European Surveillance System (TESSy) based on the WHO interim case reporting form [20]. The EU case definition for probable and confirmed cases of COVID-19 reflects that recommended by the World Health Organization in their  interim guidance for global surveillance of novel coronavirus infection  [21]. 
+
+As of 13 February 2020, 31 cases have been reported in TESSy from six EU/EEA countries. Among the 25 cases where the place of infection was reported, seven were infected in China, including six in Hubei province, while the province was not reported for the remaining case. Of the 18 cases infected in the EU/EEA, 11 were part of the cluster in Bavaria, and seven cases were infected in France [2,22]. 
+
+The median age of reported cases is 40 years (range 2 to 81 years) and 65% are male. Among the 30 cases where hospitalisation data were reported, 29 were hospitalised but information for the reason of hospitalisation is not available. No deaths have been reported in the EU/EEA. 
+
+# Risk assessment questions 
+
+• What is the risk for healthcare systems in the EU/EEA and the UK during the peak of the flu season? 
+
+• What is the risk associated with SARS-CoV-2 infection for the EU/EEA and UK populations? 
+
+• What is the risk associated with SARS-CoV-2 infection for people from the EU/EEA and UK who are travelling or live in areas with presumed ongoing community transmission? 
+
+# ECDC risk assessment 
+
+Many unknowns remain regarding the virulence/pathogenicity of SARS-CoV-2, the mode of transmission, the reservoir and the source of infection. So far, detailed epidemiological data available are still limited, and therefore there are significant uncertainties in this risk assessment. 
+
+This assessment is based on facts known to ECDC at the time of publication. It is also based on an evaluation of the limited evidence available and on expert knowledge. It follows the ECDC rapid risk assessment methodology with relevant adaptations [23]. RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+4
+
+# Risk for healthcare systems capacity in the EU/EEA and the UK during the peak of the flu season 
+
+The risk for healthcare systems capacity in the EU/EEA and the UK that would arise in the face of widespread transmission of SARS-CoV-2 at the peak of the influenza season, is considered to be low to moderate. This is based on the assessment that although the impact of widespread cases could be moderate to high, the likelihood of such widespread transmission is assessed as low within the relevant timeframe .
+
+The assessment for the healthcare systems in the EU/EEA and the UK covers the short to medium term for the period of the estimated peak activity for the current influenza season. Seasonal influenza causes considerable stress on the healthcare system in both outpatient and inpatient care. An additional severe respiratory disease would have an even stronger impact now than during other times of the year [24,25]. In Europe in 2019, influenza activity for the season started earlier than in recent years. Influenza activity was still increasing in week 5 (27 January – 2 February 2020), with peak activity in Europe expected to continue for several weeks [26]. 
+
+Given that the number of reported COVID-19 cases in the EU/EEA and the UK remains low and the estimated median incubation time is between five and six days, ECDC considers that the probability of widespread SARS-CoV-2 infection remains low during the peak of the 2019–2020 influenza season. However, there is considerable uncertainty as to the extent of the spread in the population because the initial symptoms of COVID-19 are virtually indistinguishable from other acute respiratory illnesses. Mild and pre-symptomatic cases might easily remain undetected, especially during the influenza season when respiratory symptoms are common. 
+
+If there was a significant increase in COVID-19 cases during the peak of the influenza season, the potential impact on the public health and overall healthcare systems would be moderate to high. Increasing numbers of imported cases and local transmission chains would require additional resources for case management, surveillance, and contact tracing. Risk communication to concerned members of the public and healthcare professionals would tie up further resources. Further increased transmission could result in a significant increase of hospital admissions at a time when healthcare systems are already under pressure. This would be exacerbated if substantial numbers of healthcare workers became infected. During the influenza season, diagnostic laboratories are usually strained. Additional specimens for COVID-19 could, therefore, lead to bottlenecks not only in healthcare but also in diagnostic capacity. Containment measures intended to slow down the spread of the virus in the population are therefore extremely important during the peak of the 2019–2020 influenza season, as outlined below in the ‘Options for response’ and recent ECDC guidance documents [27]. 
+
+# Risk associated with SARS-CoV-2 infection for people from the EU/EEA and UK 
+
+The risk associated with SARS-CoV-2 infection for people from the EU/EEA and UK is currently considered to be low. 
+
+So far, imported cases have been reported from seven EU/EEA countries and from the UK, some of which have led to further transmission. Since all cases reported to date can be linked to these clusters, ongoing transmission in the community is very unlikely. However, as several countries have already reported cases imported from areas of presumed ongoing community transmission, both globally and in the EU/EEA and the UK, there is a moderate-to-high likelihood of additional imported cases in the EU/EEA and UK. This likelihood is further increased by the incubation period of SARS-CoV-2, which can last up to fourteen days. This implies that infected individuals might develop symptoms relatively late after their arrival in the EU/EEA and the UK. 
+
+Another factor directly affecting the likelihood of further importations is the volume of travellers from areas with presumed ongoing community transmission. More than 300 000 arrivals on direct flights, not accounting for indirect connections, were expected from China to EU/EEA Member States during the month of January, similar to other months of the year. Since late January, several international airline companies have suspended their flights from China (data acquired by email from EUROCONTROL, 10 February 2020) and the number of flights arriving directly from China had decreased by approximately 40% in the week of 3 February compared to the previous week. In addition to travellers from China, travellers arriving from other areas with potential ongoing transmission could import the infection into the EU/EEA. 
+
+The late detection of imported or secondary cases in the EU/EEA and the UK without the application of appropriate infection prevention and control measures could increase the likelihood of human-to-human transmission in the community and potentially also in healthcare settings. Similar to SARS-CoV and MERS-CoV, evidence is accumulating about the potential importance of healthcare-associated transmission of SARS-CoV-2. Healthcare workers have been reported among confirmed cases since the early stages of the outbreak [28]. In a report from a hospital in Wuhan, 41% (57/138) of the infections were suspected to be hospital acquired, and 29% of the confirmed cases were healthcare workers [8]. Based on earlier evidence from the SARS and MERS outbreaks, the likelihood of healthcare-associated transmission following management of a confirmed case is still considered low, provided that appropriate infection prevention and control measures are implemented for staff, patients and visitors [29]. However, without appropriate personal protection equipment, the risk of infection for healthcare staff RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+5
+
+who are involved in aerosol-generating procedures such as intubation, bronchial suctioning or bronchoscopy is considered high [30]. 
+
+As there have not been any documented cases without epidemiological links in the EU/EEA, the probability of transmission in the EU/EEA and the UK is considered to be very low. However, the impact of one or more infections resulting in sustained transmission in the EU/EEA would be moderate to high, especially if occurring during the peak of the influenza season as described above. This impact would be high especially in elderly populations with comorbidities for which severe infections requiring ICU admission and fatalities are more commonly reported. 
+
+# Risk associated with SARS-CoV-2 infection for EU/EEA and UK citizens travelling/resident in areas with presumed ongoing community transmission 
+
+The risk for people from the EU/EEA and UK travelling/resident in areas with presumed community transmission is currently high. Areas with presumed ongoing community transmission are detailed on the ECDC website; they are updated on daily basis [31]. 
+
+This assessment is based on the probability of infection for those travelling/resident in areas where ongoing sustained community transmission is considered moderate to high. For travellers/residents in areas with presumed ongoing community transmission, the impact of one or more infections is also considered high, especially for elderly populations with comorbidities, given that the reported case severity is high among these groups. The impact will also depend on the capacity and availability of healthcare during the epidemic. 
+
+Limitations to the assessment include artefacts in surveillance due to changes of case definitions during the course of the outbreak, limited availability of laboratory testing in different areas, and the uncertain positive and negative predictive value of the current tests. Also, large differences between surveillance systems and public health structures may affect the capacity of some areas to identify and respond to outbreaks and introduce uncertainties in assessing the impact on travellers/residents in areas with presumed ongoing community transmission. 
+
+To limit the epidemic, a number of extraordinary measures, including suspension of flight connections and public transportation systems, isolation and quarantine of people as well as other social distancing recommendations have been implemented. The scale of these measures is unprecedented and although the effectiveness and collateral effects of these measures are difficult to predict, they are expected to limit the immediate likelihood of further spread of the virus via travellers returning from affected areas. The impact of such measures on the transmission dynamics inside these cities is also difficult to predict. Maintaining appropriate healthcare services, including safe care for COVID-19 patients will be challenging under such circumstances. 
+
+An assessment of possible transmission of SARS-CoV-2 on an aircraft would need to be undertaken on a case-by-case basis. This individual risk assessment should take into account the index case classification, the severity of symptoms and disease during the flight, and the timing of possible contact tracing in relation to the flight. 
+
+# Options for response 
+
+During the current containment phase, it is crucial for EU/EEA countries to focus on measures that prevent and/or limit secondary transmission in the community and healthcare settings. Countries should ensure early detection, laboratory confirmation, appropriate management and isolation of  suspected, probable and confirmed cases 
+
+following appropriate infection prevention and control, along with rigorous tracing and follow-up of contacts. Should the number of imported and locally acquired secondary cases increase and the epidemiological situation evolve such that community transmission become established and widespread, containment measures will become increasingly ineffective and public health resources would be better used to focus on mitigation measures. 
+
+The following options for response include measures for the containment and mitigation phases. Links are provided to ECDC and other guidance and technical documents that provide further details on each measure. 
+
+# Testing guidance and reporting of SARS-CoV-2 in the EU/EEA 
+
+ECDC provides  information on laboratory testing  of suspected cases of novel coronavirus (SARS-CoV-2) using RT-PCR for the EU/EEA Member States, addressing issues such as how to identify suspected cases and when to initiate testing [32-34]. 
+
+Member States should establish national laboratory diagnostic capacity for coronaviruses and have developed procedures for transporting samples [35]. Based on a mapping of laboratory capacity, 38 laboratories in 24 EU/EEA countries had diagnostics in place for SARS-CoV-2 (as of 29 January 2020); it is expected that all EU/EEA countries have diagnostics for SARS-CoV-2 by mid-February [36]. RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+6
+
+For the National Influenza Centres, WHO has established a mechanism to support the rapid shipment of diagnostic specimens to the coronavirus ‘WHO referral’ laboratories through the Global Influenza Surveillance and Response System (GISRS) Shipping Fund Project (SFP) [37]. ECDC and EVD-LabNet, in collaboration with WHO, are developing an external quality assessment programme for national laboratories providing SARS-CoV-2 diagnostic services. 
+
+It is also important that countries consider the roll-out of primary diagnostic testing capacity to local clinical and diagnostic laboratories. Confirmatory testing remains the responsibility of the referral or reference laboratories and, therefore, positive specimens should still be shipped for second detection assay and possible sequencing to referral or reference laboratories. 
+
+For surveillance at the EU/EEA level, the WHO case definition and case reporting form described in the  interim guidance for global surveillance of novel coronavirus infection (2019-nCoV)  has been adopted for reporting in The European Surveillance System (TESSy) [21,38]. The European Commission, ECDC and the WHO Regional Office for Europe ask countries to report probable and confirmed cases of SARS-CoV-2 infections using the global case definition within 24 hours of identification through the Early Warning and Response System (EWRS) and IHR notification. The more detailed case reporting forms should be reported to TESSy within 72 hours [20]. Case reports should be updated once further details – particularly the outcome – are known. 
+
+## Additional epidemiological investigations 
+
+Public health authorities should encourage and support detailed epidemiological studies of the first case series encountered in Europe. In addition to the notifications using the WHO case reporting form on TESSy, the PREPARE network encourages data collection on European cases to further assess the clinical characteristics and effectiveness of treatment options using a standardised protocol [39]. A similar protocol and further guidance is provided by WHO through the ISARIC collaboration [40]. WHO has published a number of ‘early investigation’ study protocols for use in different settings (see:  https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations ) [41]. ECDC is currently recruiting countries to take part in a cohort study of repatriated EU/EEA citizens, for which a study protocol was circulated via email on 11 February 2020. 
+
+# Travel-related measures 
+
+ECDC  guidelines  for the use of non-pharmaceutical countermeasures to delay and mitigate the impact of the epidemic of COVID-19 include a description of travel-related countermeasures. ECDC has also published a template 
+
+leaflet  for travel advice relating to SARS-CoV-2 [27,42]. 
+
+Travel facilitates the spread of SARS-CoV-2 from affected to unaffected areas. Travel and trade restrictions during a public health event of international concern (PHEIC) are regulated under the International Health Regulations (IHR), part III. 
+
+Travellers visiting areas with presumed community transmission are advised to avoid contact with sick persons, in particular those with respiratory symptoms and fever. They should also practice good hand hygiene and avoid contact with animals, their excretions or droppings. Travellers who develop acute respiratory symptoms within 14 days of returning from areas with presumed ongoing community transmission should be advised to seek immediate medical attention and indicate their travel history to the healthcare specialist. Several EU/EEA countries have issued, or are considering, travel advice for travellers to China or areas of presumed community transmission. 
+
+EU/EEA countries should review their procedures for informing passengers from/to affected areas at all points of entry. They should a provide advice to people who develop COVID-19-compatible symptoms after their return, in accordance with national planning [35,43]. Member States may consider guiding these cases to a particular call centre or healthcare facility, depending on their planning. 
+
+## Entry screening of travellers 
+
+Screening for SARS-CoV-2 involves the use of thermal scanning and/or symptom screening. Although some imported COVID-19 cases have been detected through entry screening at destination airports, the available evidence suggests that entry screening is not effective in delaying or mitigating a pandemic [27,44] or detecting incoming travellers with infectious diseases. This is especially the case for COVID-19 because the symptoms are common to other respiratory diseases, and there is concurrent increased seasonal influenza activity in the affected areas [45]. 
+
+Modelling work by ECDC has assessed the effectiveness of entry screening in detecting travellers infected with SARS-CoV-2 to be low. Approximately 75% of cases from affected Chinese cities would arrive at their destination in the incubation period and remain undetected, even if the efficacy of the screening tests to detect symptomatic individuals were 80% for both exit and entry screening. RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+7
+
+# Contact tracing and isolation 
+
+EU/EEA countries should review their procedures for contact tracing and contact follow-up, and may wish to refer to the  technical report  and  algorithm  that ECDC has published on public health management of persons having had contact with probable and confirmed cases of SARS-CoV-2 infection [46]. 
+
+During the containment phase, extensive tracing and risk assessment of contacts of probable and confirmed cases detected in EU/EEA countries is required in order to minimise further spread and to strengthen the evidence base on the characteristics and transmission pattern of the disease. Suspected, probable or confirmed cases of COVID-19 should be reported to the public health authorities and managed in accordance with national guidance and/or WHO’s patient management guidelines [47,48]. 
+
+Mathematical modelling by the London School of Hygiene & Tropical Medicine has evaluated the scenarios in which contact tracing is likely to be an effective method of containment [49]. Assuming an R 0 of 2.2, a median incubation period of 6 days and no transmission before symptom onset, they predict that if 60% of contacts were traced and isolated then 80% of outbreaks could be brought under control within three months, with a maximum of 5000 cases. Identifying a further 20% of contacts would mean that, on average, 90% of outbreaks could be brought under control. This scenario assumes an introduction of five imported cases (a higher number would increase the number of contacts that must be traced) and that 10% of infections are subclinical (more subclinical infections would require the tracing of more contacts). The initial cases are assumed to be isolated within four days of symptom onset and their contacts to be isolated immediately at onset of symptoms but not before. Increasing the delay until isolation has a marked negative effect on the effectiveness of the approach. 
+
+The modelling analysis also highlights the potential value of contact tracing as part of a mixed package of response measures. It shows that the effective reproduction number in the above scenario could be reduced to less than one by identifying and monitoring only 40% of contacts allowing for other strategies, such as social distancing measures, to be used effectively. 
+
+# Infection prevention and control in the community 
+
+ECDC  guidelines  for the use of non-pharmaceutical countermeasures to delay and mitigate the impact of the epidemic of COVID-19 include a description of infection prevention and control in the community [27]. 
+
+The use of personal protective measures (i.e. rigorous hand hygiene, cough etiquette, and face masks) can contribute to reducing the risk of transmitting or acquiring SARS-CoV-2 infections. Rigorous hand-washing schemes, including washing of hands with soap and water for at least 20 seconds, or cleaning the hands with alcoholic solutions, gels or tissues is recommended in all community settings during containment and mitigation phases. Proper hand hygiene will also reduce the transmission of other communicable diseases. Covering the mouth and nose when coughing and sneezing (e.g. by using a paper tissue) may mechanically block the droplet transmission that is believed to be the principal transmission mode for SARS-CoV-2, although there is no evidence of effectiveness. The proper disposal of used tissues is important, together with immediate hand washing after coughing/sneezing. The use of face masks (e.g. a surgical mask) can work as a mitigation measure in community settings when worn by individuals with respiratory symptoms before seeking medical advice and while being assessed. If a symptomatic person cannot wear a face mask, close contacts should consider wearing one instead. There is no strong evidence on the usefulness of face masks worn by persons who are not ill as a community mitigation measure [27]. 
+
+# Social distancing measures 
+
+ECDC has published  guidelines  on the use of non-pharmaceutical countermeasures to delay and mitigate the impact of the epidemic of COVID-19, including social distancing measures [27]. 
+
+Different social distancing measures can be considered in the different phases of the SARS-CoV-2 epidemic. Self-isolation of close contacts is relevant in the containment phase, whereas during the mitigation phase self-isolation of symptomatic persons may be considered to reduce community transmission. In the absence of strong evidence on the infectious period, it is not possible to make evidence-based recommendations for the duration of isolation by case classification or stage of infection. It is assumed that infectiousness coincides with the symptomatic period, which is currently a reasonable assumption. (Guidelines may change as more information becomes available.) Additional steps to consider in the mitigation phase include school and day care measures or closures, measures at the workplace, and measures related to mass gatherings. 
+
+Due to the significant secondary effects (social, economic, etc.) of social distancing measures, the decision on their application should be based on a case-by-case risk assessment, depending on the impact of the epidemic and the local epidemiological situation [27]. 
+
+# Infection prevention and control in healthcare settings 
+
+ECDC has published a  technical report  on IPC for the care of patients with COVID-19 in healthcare settings as well as a  technical report  on personal protective equipment needs in healthcare settings for the care of patients with suspected or confirmed COVID-19 [50,51]. ECDC has also published a  leaflet  entitled ‘Advice to healthcare workers: management of patients with SARS-CoV-2 infection’ [52]. RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+8
+
+In order to prevent secondary transmission in healthcare settings, healthcare providers should be informed of the ongoing outbreak, and EU/EEA countries should ensure that timely and rigorous IPC measures are applied when dealing with suspect and confirmed cases, from the first suspicion of COVID-2019. ECDC recommends that suspected cases in primary and emergency care are isolated, or if this is not feasible, separated from other patients. If tolerated, suspected patients should be asked to wear a surgical mask in order to reduce the spread of respiratory droplets [50]. Although there is so far no evidence of airborne transmission, we recommend a cautious approach due to lack of studies excluding this mode of transmission. Confirmed cases requiring admission should be placed in an isolation room with a dedicated bathroom. The placement in airborne precaution single rooms with negative pressure and ante-room, if available, is encouraged until more information about transmission routes is available. Healthcare workers managing suspected or confirmed cases should wear personal protective equipment (PPE) for contact, droplet and airborne transmission. When using PPE, their correct donning and doffing should be followed; further information on the donning and doffing procedures can be found in the ECDC Technical Document ‘ Safe use of personal protective equipment in the treatment of infectious diseases of high consequence ’ [53]. 
+
+# Environmental cleaning and ventilation decontamination 
+
+ECDC has published an  Interim guidance for environmental cleaning in non-healthcare facilities exposed to 2019-nCoV  to provide options for environmental cleaning and decontamination in non-healthcare facilities (e.g. rooms, public offices, transports, schools, etc.) where COVID-19-confirmed cases have been before being diagnosed [54] and/or admitted to hospital. Although there is no evidence of effectiveness of mechanical or natural air ventilation to reduce SARS-CoV-2 transmission, there is mechanistic plausibility, and it should be applied, especially in settings where people gather regularly [45]. 
+
+# Substances of human origin (SoHO) safety 
+
+The potential for transmission of SARS-CoV-2 through substances of human origin (SoHO) remains unknown. So far, the transmission of respiratory viruses (including coronaviruses) by transfusion or transplantation has not been reported. Routine donor screening measures should prevent individuals with clinically manifest respiratory infections from donating SoHO. While it seems that the risk of SARS-CoV-2 transmission through SoHO is very low, uncertainties about viraemia during the incubation period, during an asymptomatic course of infection, or after symptom resolution continue to be of concern in relation to the safety of SoHO. 
+
+Until more information is available on the epidemiology and pathogenesis of this infection, SoHO safety authorities in the EU/EEA countries should apply a precautionary deferral from donation of blood, cells and tissues for 28 days (twice the maximum incubation period of 14 days) after possible exposure to a confirmed case or after returning from China or an area with presumed ongoing community transmission. Additionally, recovering confirmed cases positive for SARS-CoV-2 should be deferred as donors for at least 28 days after symptom resolution due to the current uncertainty regarding possible persistence of viraemia and/or viral shedding in body fluids. Several members of the coronavirus family are susceptible to inactivation with amotosalen or riboflavin and ultraviolet light when applied to platelets and plasma products [55-58]. Potential organ donors at risk of being infected should be laboratory-tested for the presence of the virus. 
+
+Large-size lipid-enveloped RNA viruses such as SARS-CoV-2 should be readily removed and/or inactivated during the manufacturing of plasma derivatives [59,60]. Thus, regular screening procedures for plasma donors and the established processes of virus inactivation and removal during manufacturing should mitigate SARS-CoV-2 transmission through plasma derivatives. 
+
+# Preparedness for possible sustained community transmission in the EU/EEA 
+
+Based on the evolution of the epidemic in China and elsewhere, including two clusters with local transmission in the EU/EEA, public health authorities are encouraged, as a precautionary measure, to review their preparedness for community transmission of novel respiratory and high-consequence pathogens. All EU/EEA Member States have pandemic preparedness plans, which will be well-suited for use in such situation. Consideration should be given to convening a multi-sectoral pandemic planning committee, as described in national plans. 
+
+The following critical elements of pandemic preparedness plans should be reviewed and considered in the current situation: crisis management system; healthcare capacity, including isolation capacity; and business continuity. More precisely, a dedicated crisis team should receive regular reports on capacities in the healthcare sector (primary, secondary and higher-level care, including isolation capacity in the country), occupancy rate, stockpiles, use and distribution of medical countermeasures (essential drugs, equipment for mechanical ventilation and oxygenation) and other supplies. 
+
+The existing and surge healthcare capacity should be regularly reviewed. In the case of sustained community transmission, primary, secondary and highly specialised healthcare facilities might experience a significant increase in the number of patients with respiratory symptoms, in addition to the number of people hospitalised with influenza. At the same time, healthcare workers may also become ill and become absent from work. In addition to staff shortages, other resources might be stretched as well. Shortages (beds, medicines, mechanical ventilators, RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+9
+
+etc.) could last for several weeks. Hospitals may face a situation where it becomes necessary to discharge non-critical patients to free up resources for severely ill patients and to cancel planned non-urgent treatments. Plans for surge capacity should be revised to accommodate needs. Arrangements should be made so healthcare system capacities can be increased on short notice and to an appropriate level. Moreover, healthcare professionals should be briefed with respect to emergency response arrangements in their facility. 
+
+Business continuity plans may need to be updated and made available for key healthcare providers and public health stakeholders to ensure continuity of essential services. Furthermore, all essential sectors should be involved in ensuring the continuity of their services. 
+
+Due to the potential increase in the number of patients infected with SARS-CoV-2, the relevant authorities in EU/EEA countries are encouraged to plan for sufficient PPE supplies for their health professionals [51] [35]. In addition, Member States are urged to review their procedures for in-country transportation, isolation and management of high-consequence infectious disease cases, including staffing and laboratory support [35]. 
+
+# Risk communication activities 
+
+Risk communication activities should be performed according to the epidemiological situation to ensure early and transparent communication with the population on the public health strategy adopted by the country. Reasons for strategic changes that may be required over the course of the epidemic should also be communicated. There should be emphasis on the importance of compliance with public health measures, including those that involve restrictions that may potentially affect personal freedom. Health authorities should provide comprehensive information about protective measures that individuals can take, both at the individual and the community level. This also includes updates on advances in treatments, vaccines and other preventive measures, including information on new scientific findings and factors that require further research. Messages between the different organisations and sectors involved in preparedness and response should be aligned. The importance of accessing reliable sources of information should be stressed so as to mitigate the spread of rumours and fears. 
+
+# Limitations 
+
+This assessment is undertaken based on facts known to ECDC at the time of publication. There is substantial uncertainty regarding the epidemiological characteristics of the SARS-CoV-2. There is limited epidemiological and clinical information on the cases of SARS-CoV-2 identified so far (e.g. infection sources, risk factors for infection, risk factors for severe illness, extent of person-to-person transmissibility, transmission modes, effective preventive measures, and clinical presentation and evolution). Therefore, the level of uncertainty of this risk assessment is high. 
+
+Given these limitations, ECDC will revise the current risk assessment as soon as more information becomes available. 
+
+# Source and date of request 
+
+ECDC internal decision, 10 February 2020. 
+
+# Consulted experts 
+
+ECDC experts (in alphabetical order): Cornelia Adlhoch, Julien Beaute, Eeva Broberg, Nick Bundle, Sergio Brusin, Orlando Cenciarelli, Bruno Ciancio, Edoardo Colzani, Dragoslav Domanovic, Laura Espinosa, Silvia Funke, Gaetan Guyodo, Emilie Finch, Helen Johnson, Tommi Karki, John Kinsman, Pasi Penttinen, Anastasia Pharris, Diamantis Plachouras, Angeliki Melidou, Thomas Mollet, Gianfranco Spiteri, Svetla Tsolova, Andrea Wurz 
+
+All experts have submitted declarations of interest, and a review of these declarations did not reveal any conflict of interest. 
+
+# Disclaimer 
+
+ECDC issues this risk assessment document based on an internal decision and in accordance with Article 10 of Decision No 1082/13/EC and Article 7(1) of Regulation (EC) No 851/2004 establishing a European centre for disease prevention and control (ECDC). In the framework of ECDC’s mandate, the specific purpose of an ECDC risk assessment is to present different options on a certain matter. The responsibility on the choice of which option to pursue and which actions to take, including the adoption of mandatory rules or guidelines, lies exclusively with the EU/EEA Member States. In its activities, ECDC strives to ensure its independence, high scientific quality, transparency and efficiency. 
+
+This report was written with the coordination and assistance of an Internal Response Team at the European Centre for Disease Prevention and Control. All data published in this risk assessment are correct to the best of our knowledge at the time of publication. Maps and figures published do not represent a statement on the part of ECDC or its partners on the legal or border status of the countries and territories shown. RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+10 
+
+# References 
+
+1. Wu JT, Leung K, Leung GM.  Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet. 2020 Jan 31. 
+
+2. Santé publique France. Epidémie de coronavirus Covid-19 au départ de Wuhan, Chine: Santé publique France; 2020. [Cited on 14 February 2020]. Available from:  https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine 
+
+3. Gobierno de Espana: Ministerio de Sanidad. Actualización nº 20. Neumonía por nuevo coronavirus 2019-nCoV 2020. [Cited 14 February 2020]. Available from: 
+
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_20_2019-nCoV_China.pdf 
+
+4. UK Department of Health & Social Care. Chief Medical Officer for England announces four further coronavirus cases 2020. Available from:  https://www.gov.uk/government/news/chief-medical-officer-for-england-announces-four-further-coronavirus-cases 
+
+5. WHO. WHO Statement Regarding Cluster of Pneumonia Cases in Wuhan, China Geneva2020 [Cited 14 February 2020]. Available from:  https://www.who.int/china/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wuhan-china 
+
+6. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. New England Journal of Medicine. 2020. 
+
+7. Zhou PX-L, Y; Xian-Guang, W; et al. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2 Feb  2020. 
+
+8. Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, et al.  Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 7 Feb 2020. 
+
+9. Kim JY, Choe PG, Oh Y, Oh KJ, Kim J, Park SJ, et al. The First Case of 2019 Novel Coronavirus Pneumonia Imported into Korea from Wuhan, China: Implication for Infection Prevention and Control Measures. J Korean Med Sci. 2020 Feb 10;35(5):e61. 
+
+10. Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet. 2020 January 24. 
+
+11. Wei-jie G, Zheng-yi N; Yu H, Wen-Hua L, Chun-Quan O, Jian-Xing H, et al.  Clinical characteristics of 2019 novel coronavirus infection in China. 2020. Available from: https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1 
+
+12. Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H, et al. First Case of 2019 Novel Coronavirus in the United States. New England Journal of Medicine.  2020. 
+
+13. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet. 29 January 2020. 
+
+14. Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019 Novel Coronavirus 28 January 2020 [cited 14 February 2020]. Available from: 
+
+http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf 
+
+15. Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20–28 January 2020. Eurosurveillance. 2020;25(5):2000062. 
+
+16. Riou J, Althaus CL. Pattern of early human-to-human transmission of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to January 2020. Eurosurveillance. 2020;25(4):2000058. 
+
+17. Lipsitch M, Donnelly CA, Fraser C, Blake IM, Cori A, Dorigatti I, et al. Potential Biases in Estimating Absolute and Relative Case-Fatality Risks during Outbreaks. PLoS Negl Trop Dis. 2015;9(7):e0003846. 
+
+18. Dorigatti I, Okell L, Cori A, Imai N, Baguelin M, Bhatia S, et al. Severity of 2019-novel coronavirus (nCoV) 10/2/20. [cited 14 February 2020]. Available from:  https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/ 
+
+19. Wu P, Hao X, Lau EHY, Wong JY, Leung KSM, Wu JT, et al. Real-time tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as at 22 January 2020. Eurosurveillance. 2020;25(3):2000044. 
+
+20. WHO. Interim case reporting form for 2019 Novel Coronavirus (2019-nCoV) of confirmed and probable cases: WHO; 2020. [cited 14 February 2020] Available from:  https://www.who.int/docs/default-source/coronaviruse/20200121-2019-ncov-reporting-form.pdf 
+
+21. WHO. Global Surveillance for human infection with novel coronavirus (2019-nCoV) 2020 [21 January 2020]. Available from:  https://www.who.int/docs/default-source/coronaviruse/20200121-global-surveillance-for-2019-ncov.pdf?sfvrsn=9d82f528_4&download=true 
+
+22. Bayerisches Landesamt fur Gesundheit und Lebensmittelsicherheit. Neuartiges Coronavirus 2019-nCoV in Wuhan 2020 [cited 29 January 2020]. Available from: https://www.lgl.bayern.de/gesundheit/infektionsschutz/infektionskrankheiten_a_z/coronavirus/2019_ncov.htm#erster. 
+
+23. European Centre for Disease Prevention and Control (ECDC). Operational tool on rapid risk assessment methodology: ECDC; 2019. Available from:  https://www.ecdc.europa.eu/sites/default/files/documents/operational-tool-rapid-risk-assessment-methodolgy-ecdc-2019.pdf 
+
+23. Feng L, Feng S, Chen T, Yang J, Lau YC, Peng Z, et al. Burden of influenza-associated outpatient influenza-like illness consultations in China, 2006-2015: A population-based study. Influenza Other Respir Viruses. 2019 Dec 23. 
+
+25. Centers for Disease Control and Prevention (CDC). Flu Season: Centers for Disease Control and Prevention (CDC); 2020. Available from:  https://www.cdc.gov/flu/season/index.html 
+
+26. European Centre for Disease Prevention and Control (ECDC) and WHO/Europe. Flu News Europe: European Centre for Disease Prevention and Control (ECDC) and WHO/Europe; 2020. Available from:  https://flunewseurope.org/ 
+
+27. European Centre for Disease Prevention and Control (ECDC). Guidelines for the use of non-pharmaceutical measures to delay and mitigate the impact of 2019-nCoV 2020. Available from: 
+
+https://www.ecdc.europa.eu/sites/default/files/documents/novel-coronavirus-guidelines-non-pharmaceutical-measures_0.pdf 
+
+28. Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. The Lancet. 2020. RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+11 
+
+29. WHO. Infection prevention and control during health care when novel coronavirus (nCoV) infection is suspected. Interim Guidance Geneva2020. WHO/2019-nCoV/IPC/v2020.1 Available from:  https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected 
+
+30. Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol generating procedures and risk of transmission of acute respiratory infections to healthcare workers: a systematic review. PLoS One. 2012;7(4):e35797-e. 
+
+31. European Centre for Disease Prevention and Control (ECDC). Areas with presumed ongoing community transmission of 2019-nCoV 2020. Available from:  https://www.ecdc.europa.eu/en/areas-presumed-ongoing-community-transmission-2019-ncov 
+
+32. WHO. Laboratory testing for 2019 novel coronavirus (2019-nCoV) in suspected human cases 2020 [17 January 2020]. Available from:  https://www.who.int/health-topics/coronavirus/laboratory-diagnostics-for-novel-coronavirus 
+
+33. Corman V, Bleicker T, Brünink S, Drosten C, Landt O, Koopmans M, et al. Diagnostic detection of Wuhan coronavirus 2019 by real-time RTPCR 2020 [17 January 2020]. Available from:  https://www.who.int/docs/default-source/coronaviruse/wuhan-virus-assay-v1991527e5122341d99287a1b17c111902.pdf?sfvrsn=d381fc88_2 
+
+34. European Centre for Disease Prevention and Control (ECDC). Case definition and European surveillance for human infection with novel coronavirus (2019-nCoV) 2020. Available from:  https://www.ecdc.europa.eu/en/case-definition-and-european-surveillance-human-infection-novel-coronavirus-2019-ncov 
+
+35. European Centre for Disease Prevention and Control (ECDC). Health emergency preparedness for imported cases of high-consequence infectious diseases 2019 [17 January 2020]. Available from:  https://www.ecdc.europa.eu/en/publications-data/health-emergency-preparedness-imported-cases-high-consequence-infectious-diseases 
+
+36. Reusken CB, E; Haagmans, G; et al. Laboratory readiness and response for novel coronavirus (2019-nCoV) in expert laboratories in 30 EU/EEA countries, January 2020. Eurosurveillance. 2020. 
+
+37. WHO/Europe. Well-prepared laboratories are first line of defence against novel coronavirus in Europe: WHO; 2020. Available from:  http://www.euro.who.int/en/countries/netherlands/news2/news/2020/02/well-prepared-laboratories-are-first-line-of-defence-against-novel-coronavirus-in-europe 
+
+38. European Centre for Disease Prevention and Control (ECDC). 2019 novel coronavirus (nCoV) disease data Reporting Protocol Version 1, 27 Jan 2020. Available from: 
+
+https://tessy.ecdc.europa.eu/TessyHelp/DataCalls/2020/nCoV_Reporting_Protocol.pdf 
+
+39. Platform for European Preparedness Against (Re-)emerging Epidemics. PRESS RELEASE - European response to outbreak with novel Coronavirus in China 2020 [cited 29 January 2020]. Available from:  https://www.prepare-europe.eu/News/News-items/ID/1209 
+
+40. International Severe Acute Respiratory and Emerging Infection Consortium (ISARIC). NOVEL CORONAVIRUS (nCoV) ACUTE RESPIRATORY INFECTION CLINICAL CHARACTERISATION DATA TOOL 2020 [cited 29 January 2020]. Available from:  https://isaric.tghn.org/site_media/media/medialibrary/2020/01/ISARIC_nCoV_CRF_V1.2_28Jan2020.pdf 
+
+41. World Health Organization (WHO). Household transmission investigation protocol for 2019-novel coronavirus (2019-nCoV) infection 2020 [cited 29 January 2020]. Available from:  https://www.who.int/publications-detail/household-transmission-investigation-protocol-for-2019-novel-coronavirus-(2019-ncov)-infection 
+
+42. European Centre for Disease Prevention and Control (ECDC). Advice for travellers: outbreak of a novel coronavirus 2019-nCoV: ECDC; 2020. Available from:  https://www.ecdc.europa.eu/en/publications-data/advice-travellers-outbreak-novel-coronavirus-2019-ncov 
+
+43. WHO. Risk communication and community engagement readiness and initial response for novel coronaviruses (nCoV) 2020 [17 January 2020]. Available from:  https://www.who.int/publications-detail/risk-communication-and-community-engagement-readiness-and-initial-response-for-novel-coronaviruses-(-ncov) 
+
+44. Quilty BC, S; et al. Effectiveness of airport screening at detecting travellers infected with novel coronavirus (2019-nCoV). Eurosurveillance. 2020. 
+
+45. World Health Organization (WHO). Non-pharmaceutical public health measures for mitigating the risk and impact of epidemic and pandemic influenza. Available from: 
+
+https://apps.who.int/iris/bitstream/handle/10665/329438/9789241516839-eng.pdf?ua=1 
+
+46. European Centre for Disease Prevention and Control (ECDC). Public health management of persons having had contact with novel coronavirus cases in the European Union 2020 [cited 30 January 2020]. Available from: 
+
+https://www.ecdc.europa.eu/en/publications-data/public-health-management-persons-having-had-contact-novel-coronavirus-cases 
+
+47. WHO. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected 2020 [17 January 2020]. Available from:  https://www.who.int/internal-publications-detail/clinical-management-of-severe-acute-respiratory-infection-when-novel-coronavirus-(ncov)-infection-is-suspected 
+
+48. World Health Organization (WHO). Home care for patients with suspected novel coronavirus (nCoV) infection presenting with mild symptoms and management of contacts. Interim guidance. 2020 [updated January 20]. Available from: 
+
+https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts 
+
+49. Centre for Mathematical Modelling of Infectious Diseases at London School of Hygiene & Tropical Medicine. Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts [preliminary analysis]/Additional simulation results reported via personal communication 2020. Available from: h ttps://cmmid.github.io/ncov/isolation_contact_tracing/. 
+
+50. European Centre for Disease Prevention and Control (ECDC). Infection prevention and control for the care of patients with 2019-nCoV in healthcare settings 2020. Available from: 
+
+https://www.ecdc.europa.eu/sites/default/files/documents/nove-coronavirus-infection-prevention-control-patients-healthcare-settings.pdf 
+
+51. European Centre for Disease Prevention and Control (ECDC). Personal protective equipment (PPE) needs in healthcare settings for the care of patients with suspected or confirmed novel coronavirus (2019-nCoV) 2020. Available from: 
+
+https://www.ecdc.europa.eu/sites/default/files/documents/novel-coronavirus-personal-protective-equipment-needs-healthcare-settings.pdf 
+
+52. European Centre for Disease Prevention and Control (ECDC). Advice to healthcare workers: management of patients with 2019-nCoV infection 2020. Available from:  https://www.ecdc.europa.eu/en/publications-data/advice-healthcare-workers-management-patients-2019-ncov-infection RAPID RISK ASSESSMENT Outbreak of SARS-CoV-2: increased transmission beyond China 
+
+12 
+
+53. European Centre for Disease Prevention and Control (ECDC). Safe use of personal protective equipment in the treatment of infectious diseases of high consequence Stockholm: ECDC; 2014. Available from: 
+
+https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/safe-use-of-ppe.pdf 
+
+54. European Centre for Disease Prevention and Control (ECDC). Interim guidance for environmental cleaning in non-healthcare facilities exposed to 2019-nCoV 2020. Available from: 
+
+https://www.ecdc.europa.eu/sites/default/files/documents/novel-coronavirus-guidance-environmental-cleaning-non-healthcare-facilities.pdf 
+
+55. Hashem AM, Hassan AM, Tolah AM, Alsaadi MA, Abunada Q, Damanhouri GA, et al. Amotosalen and ultraviolet A light efficiently inactivate MERS-coronavirus in human platelet concentrates.  Transfus Med. 2019 Dec;29(6):434-41. 
+
+56. Hindawi SI, Hashem AM, Damanhouri GA, El-Kafrawy SA, Tolah AM, Hassan AM, et al.  Inactivation of Middle East respiratory syndrome-coronavirus in human plasma using amotosalen and ultraviolet A light. Transfusion. 2018 Jan;58(1):52-9. 
+
+57. Pinna D, Sampson-Johannes A, Clementi M, Poli G, Rossini S, Lin L, et al.  Amotosalen photochemical inactivation of severe acute respiratory syndrome coronavirus in human platelet concentrates. Transfus Med. 2005 Aug;15(4):269-76. 
+
+58. Keil SD, Bowen R, Marschner S. Inactivation of Middle East respiratory syndrome coronavirus (MERS-CoV) in plasma products using a riboflavin-based and ultraviolet light-based photochemical treatment. Transfusion. 2016 Dec;56(12):2948-52. 
+
+59. Lamarre A, Talbot PJ. Effect of pH and temperature on the infectivity of human coronavirus 229E. Canadian Journal of Microbiology. 1989;35(10):972-4. 
+
+60. Bucknall RA, King LM, Kapikian AZ, Chanock RM. Studies with human coronaviruses II. Some properties of strains 229E and OC43. Proceedings of the Society for Experimental Biology and Medicine. 1972;139(3):722-7.

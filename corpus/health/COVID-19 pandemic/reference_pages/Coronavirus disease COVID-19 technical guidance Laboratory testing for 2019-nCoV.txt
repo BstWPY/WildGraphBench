@@ -1,0 +1,716 @@
+# Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans
+
+National laboratories 
+
+===============
+
+The Wayback Machine - https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance
+
+*   [](https://www.who.int/)[Global](https://www.who.int/)
+*   [Regions](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+
+WHO Regional websites   
+    *   [![Image 1: Africa](https://www.who.int/images/default-source/fallback/maps/africa.png?sfvrsn=3204f957_16)Africa](https://www.afro.who.int/)
+    *   [![Image 2: Americas](https://www.who.int/images/default-source/fallback/maps/americas.png?sfvrsn=9efd6df3_14)Americas](https://www.paho.org/hq/index.php?lang=en)
+    *   [![Image 3: South-East Asia](https://www.who.int/images/default-source/fallback/maps/south-east-asia.png?sfvrsn=68e76dc2_14)South-East Asia](https://who.int/southeastasia)
+    *   [![Image 4: Europe](https://www.who.int/images/default-source/fallback/maps/europe.png?sfvrsn=c7d5c5a5_14)Europe](http://www.euro.who.int/en/home)
+    *   [![Image 5: Eastern Mediterranean](https://www.who.int/images/default-source/fallback/maps/eastern-mediterranean.png?sfvrsn=71211e18_14)Eastern Mediterranean](http://www.emro.who.int/index.html)
+    *   [![Image 6: Western Pacific](https://www.who.int/images/default-source/fallback/maps/western-pacific.png?sfvrsn=88cbdcd5_14)Western Pacific](https://www.who.int/westernpacific/)
+
+×
+
+*   [العربية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+*   [中文](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+*   [English](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+*   [français](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+*   [русский](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+*   [español](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+
+[](https://www.who.int/ "Home")
+
+[](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+*       
+        *   [](https://www.who.int/)[Global](https://www.who.int/)
+        *   [Regions](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+
+WHO Regional websites   
+            *   [![Image 7: Africa](https://www.who.int/images/default-source/fallback/maps/africa.png?sfvrsn=3204f957_16)Africa](https://www.afro.who.int/)
+            *   [![Image 8: Americas](https://www.who.int/images/default-source/fallback/maps/americas.png?sfvrsn=9efd6df3_14)Americas](https://www.paho.org/hq/index.php?lang=en)
+            *   [![Image 9: South-East Asia](https://www.who.int/images/default-source/fallback/maps/south-east-asia.png?sfvrsn=68e76dc2_14)South-East Asia](https://who.int/southeastasia)
+            *   [![Image 10: Europe](https://www.who.int/images/default-source/fallback/maps/europe.png?sfvrsn=c7d5c5a5_14)Europe](http://www.euro.who.int/en/home)
+            *   [![Image 11: Eastern Mediterranean](https://www.who.int/images/default-source/fallback/maps/eastern-mediterranean.png?sfvrsn=71211e18_14)Eastern Mediterranean](http://www.emro.who.int/index.html)
+            *   [![Image 12: Western Pacific](https://www.who.int/images/default-source/fallback/maps/western-pacific.png?sfvrsn=88cbdcd5_14)Western Pacific](https://www.who.int/westernpacific/)
+
+*       *   [العربية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+    *   [中文](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+    *   [English](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+    *   [français](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+    *   [русский](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+    *   [español](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance)
+
+*   [Home](https://www.who.int/)
+*   [[Health Topics](https://www.who.int/redirect-pages/mega-menu/health-topics)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+    *   [[All topics »](https://www.who.int/health-topics/)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [All topics »](https://www.who.int/health-topics/)
+        *   [A](https://www.who.int/health-topics/#A)
+        *   [B](https://www.who.int/health-topics/#B)
+        *   [C](https://www.who.int/health-topics/#C)
+        *   [D](https://www.who.int/health-topics/#D)
+        *   [E](https://www.who.int/health-topics/#E)
+        *   [F](https://www.who.int/health-topics/#F)
+        *   [G](https://www.who.int/health-topics/#G)
+        *   [H](https://www.who.int/health-topics/#H)
+        *   [I](https://www.who.int/health-topics/#I)
+        *   [J](https://www.who.int/health-topics/#J)
+        *   [K](https://www.who.int/health-topics/#K)
+        *   [L](https://www.who.int/health-topics/#L)
+        *   [M](https://www.who.int/health-topics/#M)
+        *   [N](https://www.who.int/health-topics/#N)
+        *   [O](https://www.who.int/health-topics/#O)
+        *   [P](https://www.who.int/health-topics/#P)
+        *   [Q](https://www.who.int/health-topics/#Q)
+        *   [R](https://www.who.int/health-topics/#R)
+        *   [S](https://www.who.int/health-topics/#S)
+        *   [T](https://www.who.int/health-topics/#T)
+        *   [U](https://www.who.int/health-topics/#U)
+        *   [V](https://www.who.int/health-topics/#V)
+        *   [W](https://www.who.int/health-topics/#W)
+        *   [X](https://www.who.int/health-topics/#X)
+        *   [Y](https://www.who.int/health-topics/#Y)
+        *   [Z](https://www.who.int/health-topics/#Z)
+
+    *   [[Resources »](https://www.who.int/redirect-pages/mega-menu/health-topics/facts)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [Data](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/data)
+        *   [Fact sheets](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/fact-sheets)
+        *   [Facts in pictures](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/facts-in-pictures)
+        *   [Publications](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/publications)
+        *   [Questions & answers](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/questions-answers)
+
+    *   [[Popular »](https://www.who.int/redirect-pages/mega-menu/health-topics/popular)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [Ebola virus disease](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/ebola-virus-disease)
+        *   [Nutrition](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/nutrition)
+        *   [Hepatitis](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/hepatitis)
+        *   [Top 10 causes of death](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/top-10-causes-of-death)
+        *   [Coronavirus disease (COVID-19)](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/coronavirus-disease-(covid-19))
+
+*   [[Countries](https://www.who.int/redirect-pages/mega-menu/countries)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+    *   [[All countries»](https://www.who.int/countries/en/)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [All countries»](https://www.who.int/countries/en/)
+        *   [A](https://www.who.int/countries/en/#A)
+        *   [B](https://www.who.int/countries/en/#B)
+        *   [C](https://www.who.int/countries/en/#C)
+        *   [D](https://www.who.int/countries/en/#D)
+        *   [E](https://www.who.int/countries/en/#E)
+        *   [F](https://www.who.int/countries/en/#F)
+        *   [G](https://www.who.int/countries/en/#G)
+        *   [H](https://www.who.int/countries/en/#H)
+        *   [I](https://www.who.int/countries/en/#I)
+        *   [J](https://www.who.int/countries/en/#J)
+        *   [K](https://www.who.int/countries/en/#K)
+        *   [L](https://www.who.int/countries/en/#L)
+        *   [M](https://www.who.int/countries/en/#M)
+        *   [N](https://www.who.int/countries/en/#N)
+        *   [O](https://www.who.int/countries/en/#O)
+        *   [P](https://www.who.int/countries/en/#P)
+        *   [Q](https://www.who.int/countries/en/#Q)
+        *   [R](https://www.who.int/countries/en/#R)
+        *   [S](https://www.who.int/countries/en/#S)
+        *   [T](https://www.who.int/countries/en/#T)
+        *   [U](https://www.who.int/countries/en/#U)
+        *   [V](https://www.who.int/countries/en/#V)
+        *   [W](https://www.who.int/countries/en/#W)
+        *   [X](https://www.who.int/countries/en/#X)
+        *   [Y](https://www.who.int/countries/en/#Y)
+        *   [Z](https://www.who.int/countries/en/#Z)
+
+    *   [[Regions »](https://www.who.int/redirect-pages/mega-menu/countries/regions)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [Africa](https://www.who.int/redirect-pages/mega-menu/countries/regions/africa)
+        *   [Americas](https://www.who.int/redirect-pages/mega-menu/countries/regions/americas)
+        *   [South-East Asia](https://www.who.int/redirect-pages/mega-menu/countries/regions/south-east-asia)
+        *   [Europe](https://www.who.int/redirect-pages/mega-menu/countries/regions/europe)
+        *   [Eastern Mediterranean](https://www.who.int/redirect-pages/mega-menu/countries/regions/eastern-mediterranean)
+        *   [Western Pacific](https://www.who.int/redirect-pages/mega-menu/countries/regions/western-pacific)
+
+    *   [[WHO in countries »](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [Overview](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries/overview)
+        *   [Statistics](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries/data-statistics)
+        *   [Cooperation strategies](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries/cooperation-strategies)
+
+*   [[Newsroom](https://www.who.int/news-room)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+    *   [[All news »](https://www.who.int/redirect-pages/mega-menu/news/all-news)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [News releases](https://www.who.int/redirect-pages/mega-menu/news/all-news/releases)
+        *   [Statements](https://www.who.int/redirect-pages/mega-menu/news/all-news/statements)
+        *   [Notes for media](https://www.who.int/redirect-pages/mega-menu/news/all-news/notes-for-media)
+        *   [Commentaries](https://www.who.int/redirect-pages/mega-menu/news/all-news/commentaries)
+        *   [Events](https://www.who.int/redirect-pages/mega-menu/news/all-news/events)
+        *   [Feature stories](https://www.who.int/redirect-pages/mega-menu/news/all-news/feature-stories)
+        *   [Speeches](https://www.who.int/redirect-pages/mega-menu/news/all-news/speeches)
+        *   [Spotlights](https://www.who.int/redirect-pages/mega-menu/news/all-news/spotlights)
+        *   [Newsletters](https://www.who.int/redirect-pages/mega-menu/news/all-news/newsletters)
+        *   [Media distribution list](https://www.who.int/redirect-pages/mega-menu/news/all-news/media-distribution-list)
+
+    *   [Headlines»](https://www.who.int/news-room/headlines)
+    *   [Campaigns and initiatives»](https://www.who.int/news-room/campaigns)
+
+*   [[Emergencies](https://www.who.int/redirect-pages/mega-menu/emergencies)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+    *   [[Focus on »](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [Bangladesh Rohingya](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/bangladesh-rohingya)
+        *   [Democratic Republic of the Congo](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/democratic-republic-of-the-congo)
+        *   [Ebola virus disease](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/ebola-virus-disease)
+        *   [Iraq](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/iraq)
+        *   [Nigeria](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/nigeria)
+        *   [Coronavirus disease outbreak (COVID-2019)](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/novel-coronavirus-(2019-ncov))
+        *   [Somalia](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/somalia)
+        *   [South Sudan](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/south-sudan)
+        *   [Syrian Arab Republic](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/syrian-arab-republic)
+        *   [Yemen](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/yemen)
+
+    *   [All emergencies »](https://www.who.int/redirect-pages/mega-menu/emergencies/all-emergencies)
+    *   [[Latest »](https://www.who.int/redirect-pages/mega-menu/emergencies/news)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [By country](https://www.who.int/redirect-pages/mega-menu/emergencies/news/by-country)
+        *   [By disease](https://www.who.int/redirect-pages/mega-menu/emergencies/news/outbreaks-by-disease)
+        *   [Disease Outbreak News](https://www.who.int/redirect-pages/mega-menu/emergencies/news/disease-outbreak-news-(dons))
+        *   [Weekly Epidemiological Record](https://www.who.int/redirect-pages/mega-menu/emergencies/news/weekly-epidemiological-record)
+        *   [Health Emergency Highlights](https://www.who.int/redirect-pages/mega-menu/emergencies/news/health-emergency-highlights)
+        *   [Travel advice](https://www.who.int/redirect-pages/mega-menu/emergencies/news/travel-advice)
+        *   [Contact](https://www.who.int/redirect-pages/mega-menu/emergencies/news/contact)
+
+    *   [[WHO in emergencies »](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [Funding](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/funding)
+        *   [Training](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/contingency-fund)
+        *   [Partners & networks](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/partners-networks)
+        *   [Research & development](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/research-development)
+        *   [Attacks on health care](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/attacks-on-health-care)
+        *   [Health cluster](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/health-cluster)
+        *   [Public Health Emergency Dashboard](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/public-health-emergency-dashboard)
+
+    *   [Coronavirus disease outbreak (COVID-19) »](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/novel-coronavirus-(2019-ncov))
+
+*   [[About Us](https://www.who.int/redirect-pages/mega-menu/about-us)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+    *   [[About WHO »](https://www.who.int/redirect-pages/mega-menu/about-us/about)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [Our values](https://www.who.int/redirect-pages/mega-menu/about-us/about/our-values)
+        *   [Who we are](https://www.who.int/redirect-pages/mega-menu/about-us/about/who-we-are)
+        *   [What we do](https://www.who.int/redirect-pages/mega-menu/about-us/about/what-we-do)
+        *   [Where we work](https://www.who.int/redirect-pages/mega-menu/about-us/about/where-we-work)
+        *   [Programmes](https://www.who.int/redirect-pages/mega-menu/about-us/about/programmes)
+        *   [Collaboration and partnerships](https://www.who.int/redirect-pages/mega-menu/about-us/about/who-we-work-with)
+        *   [Ethics](https://www.who.int/redirect-pages/mega-menu/about-us/about/ethics)
+        *   [Director-General](https://www.who.int/redirect-pages/mega-menu/about-us/about/director-general)
+        *   [WHO Academy](https://www.who.int/redirect-pages/mega-menu/about-us/about/who-academy)
+
+    *   [Contact us »](https://www.who.int/redirect-pages/mega-menu/about-us/contact-us)
+    *   [[Governing bodies »](https://www.who.int/redirect-pages/mega-menu/about-us/governance)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [World Health Assembly](https://www.who.int/redirect-pages/mega-menu/about-us/governance/world-health-assembly)
+        *   [Executive Board](https://www.who.int/redirect-pages/mega-menu/about-us/governance/executive-board)
+
+    *   [[Accountability »](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/laboratory-guidance#)
+        *   [General Programme of Work](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/13th-general-programme-of-work-(gpw13))
+        *   [Programme Budget Portal](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/budget)
+        *   [Invest in WHO](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/funding)
+        *   [Financial reports](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/financial-programmatic-reports)
+
+*   [Home](https://www.who.int/)
+*   [Health Topics](https://www.who.int/redirect-pages/mega-menu/health-topics)
+*   [Countries](https://www.who.int/redirect-pages/mega-menu/countries)
+*   [Newsroom](https://www.who.int/news-room)
+*   [Emergencies](https://www.who.int/redirect-pages/mega-menu/emergencies)
+*   [About Us](https://www.who.int/redirect-pages/mega-menu/about-us)
+
+*   [Home](https://www.who.int/)
+*   [Health Topics](https://www.who.int/redirect-pages/mega-menu/health-topics)
+    *   [All topics »](https://www.who.int/health-topics/)
+        *   [All topics »](https://www.who.int/health-topics/)
+        *   [A](https://www.who.int/health-topics/#A)
+        *   [B](https://www.who.int/health-topics/#B)
+        *   [C](https://www.who.int/health-topics/#C)
+        *   [D](https://www.who.int/health-topics/#D)
+        *   [E](https://www.who.int/health-topics/#E)
+        *   [F](https://www.who.int/health-topics/#F)
+        *   [G](https://www.who.int/health-topics/#G)
+        *   [H](https://www.who.int/health-topics/#H)
+        *   [I](https://www.who.int/health-topics/#I)
+        *   [J](https://www.who.int/health-topics/#J)
+        *   [K](https://www.who.int/health-topics/#K)
+        *   [L](https://www.who.int/health-topics/#L)
+        *   [M](https://www.who.int/health-topics/#M)
+        *   [N](https://www.who.int/health-topics/#N)
+        *   [O](https://www.who.int/health-topics/#O)
+        *   [P](https://www.who.int/health-topics/#P)
+        *   [Q](https://www.who.int/health-topics/#Q)
+        *   [R](https://www.who.int/health-topics/#R)
+        *   [S](https://www.who.int/health-topics/#S)
+        *   [T](https://www.who.int/health-topics/#T)
+        *   [U](https://www.who.int/health-topics/#U)
+        *   [V](https://www.who.int/health-topics/#V)
+        *   [W](https://www.who.int/health-topics/#W)
+        *   [X](https://www.who.int/health-topics/#X)
+        *   [Y](https://www.who.int/health-topics/#Y)
+        *   [Z](https://www.who.int/health-topics/#Z)
+
+    *   [Resources »](https://www.who.int/redirect-pages/mega-menu/health-topics/facts)
+        *   [Data](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/data)
+        *   [Fact sheets](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/fact-sheets)
+        *   [Facts in pictures](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/facts-in-pictures)
+        *   [Publications](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/publications)
+        *   [Questions & answers](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/questions-answers)
+
+    *   [Popular »](https://www.who.int/redirect-pages/mega-menu/health-topics/popular)
+        *   [Ebola virus disease](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/ebola-virus-disease)
+        *   [Nutrition](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/nutrition)
+        *   [Hepatitis](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/hepatitis)
+        *   [Top 10 causes of death](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/top-10-causes-of-death)
+        *   [Coronavirus disease (COVID-19)](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/coronavirus-disease-(covid-19))
+
+*   [Countries](https://www.who.int/redirect-pages/mega-menu/countries)
+    *   [All countries»](https://www.who.int/countries/en/)
+        *   [All countries»](https://www.who.int/countries/en/)
+        *   [A](https://www.who.int/countries/en/#A)
+        *   [B](https://www.who.int/countries/en/#B)
+        *   [C](https://www.who.int/countries/en/#C)
+        *   [D](https://www.who.int/countries/en/#D)
+        *   [E](https://www.who.int/countries/en/#E)
+        *   [F](https://www.who.int/countries/en/#F)
+        *   [G](https://www.who.int/countries/en/#G)
+        *   [H](https://www.who.int/countries/en/#H)
+        *   [I](https://www.who.int/countries/en/#I)
+        *   [J](https://www.who.int/countries/en/#J)
+        *   [K](https://www.who.int/countries/en/#K)
+        *   [L](https://www.who.int/countries/en/#L)
+        *   [M](https://www.who.int/countries/en/#M)
+        *   [N](https://www.who.int/countries/en/#N)
+        *   [O](https://www.who.int/countries/en/#O)
+        *   [P](https://www.who.int/countries/en/#P)
+        *   [Q](https://www.who.int/countries/en/#Q)
+        *   [R](https://www.who.int/countries/en/#R)
+        *   [S](https://www.who.int/countries/en/#S)
+        *   [T](https://www.who.int/countries/en/#T)
+        *   [U](https://www.who.int/countries/en/#U)
+        *   [V](https://www.who.int/countries/en/#V)
+        *   [W](https://www.who.int/countries/en/#W)
+        *   [X](https://www.who.int/countries/en/#X)
+        *   [Y](https://www.who.int/countries/en/#Y)
+        *   [Z](https://www.who.int/countries/en/#Z)
+
+    *   [Regions »](https://www.who.int/redirect-pages/mega-menu/countries/regions)
+        *   [Africa](https://www.who.int/redirect-pages/mega-menu/countries/regions/africa)
+        *   [Americas](https://www.who.int/redirect-pages/mega-menu/countries/regions/americas)
+        *   [South-East Asia](https://www.who.int/redirect-pages/mega-menu/countries/regions/south-east-asia)
+        *   [Europe](https://www.who.int/redirect-pages/mega-menu/countries/regions/europe)
+        *   [Eastern Mediterranean](https://www.who.int/redirect-pages/mega-menu/countries/regions/eastern-mediterranean)
+        *   [Western Pacific](https://www.who.int/redirect-pages/mega-menu/countries/regions/western-pacific)
+
+    *   [WHO in countries »](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries)
+        *   [Overview](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries/overview)
+        *   [Statistics](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries/data-statistics)
+        *   [Cooperation strategies](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries/cooperation-strategies)
+
+*   [Newsroom](https://www.who.int/news-room)
+    *   [All news »](https://www.who.int/redirect-pages/mega-menu/news/all-news)
+        *   [News releases](https://www.who.int/redirect-pages/mega-menu/news/all-news/releases)
+        *   [Statements](https://www.who.int/redirect-pages/mega-menu/news/all-news/statements)
+        *   [Notes for media](https://www.who.int/redirect-pages/mega-menu/news/all-news/notes-for-media)
+        *   [Commentaries](https://www.who.int/redirect-pages/mega-menu/news/all-news/commentaries)
+        *   [Events](https://www.who.int/redirect-pages/mega-menu/news/all-news/events)
+        *   [Feature stories](https://www.who.int/redirect-pages/mega-menu/news/all-news/feature-stories)
+        *   [Speeches](https://www.who.int/redirect-pages/mega-menu/news/all-news/speeches)
+        *   [Spotlights](https://www.who.int/redirect-pages/mega-menu/news/all-news/spotlights)
+        *   [Newsletters](https://www.who.int/redirect-pages/mega-menu/news/all-news/newsletters)
+        *   [Media distribution list](https://www.who.int/redirect-pages/mega-menu/news/all-news/media-distribution-list)
+
+    *   [Headlines»](https://www.who.int/news-room/headlines)
+    *   [Campaigns and initiatives»](https://www.who.int/news-room/campaigns)
+
+*   [Emergencies](https://www.who.int/redirect-pages/mega-menu/emergencies)
+    *   [Focus on »](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies)
+        *   [Bangladesh Rohingya](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/bangladesh-rohingya)
+        *   [Democratic Republic of the Congo](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/democratic-republic-of-the-congo)
+        *   [Ebola virus disease](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/ebola-virus-disease)
+        *   [Iraq](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/iraq)
+        *   [Nigeria](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/nigeria)
+        *   [Coronavirus disease outbreak (COVID-2019)](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/novel-coronavirus-(2019-ncov))
+        *   [Somalia](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/somalia)
+        *   [South Sudan](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/south-sudan)
+        *   [Syrian Arab Republic](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/syrian-arab-republic)
+        *   [Yemen](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/yemen)
+
+    *   [All emergencies »](https://www.who.int/redirect-pages/mega-menu/emergencies/all-emergencies)
+    *   [Latest »](https://www.who.int/redirect-pages/mega-menu/emergencies/news)
+        *   [By country](https://www.who.int/redirect-pages/mega-menu/emergencies/news/by-country)
+        *   [By disease](https://www.who.int/redirect-pages/mega-menu/emergencies/news/outbreaks-by-disease)
+        *   [Disease Outbreak News](https://www.who.int/redirect-pages/mega-menu/emergencies/news/disease-outbreak-news-(dons))
+        *   [Weekly Epidemiological Record](https://www.who.int/redirect-pages/mega-menu/emergencies/news/weekly-epidemiological-record)
+        *   [Health Emergency Highlights](https://www.who.int/redirect-pages/mega-menu/emergencies/news/health-emergency-highlights)
+        *   [Travel advice](https://www.who.int/redirect-pages/mega-menu/emergencies/news/travel-advice)
+        *   [Contact](https://www.who.int/redirect-pages/mega-menu/emergencies/news/contact)
+
+    *   [WHO in emergencies »](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks)
+        *   [Funding](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/funding)
+        *   [Training](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/contingency-fund)
+        *   [Partners & networks](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/partners-networks)
+        *   [Research & development](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/research-development)
+        *   [Attacks on health care](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/attacks-on-health-care)
+        *   [Health cluster](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/health-cluster)
+        *   [Public Health Emergency Dashboard](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/public-health-emergency-dashboard)
+
+    *   [Coronavirus disease outbreak (COVID-19) »](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/novel-coronavirus-(2019-ncov))
+
+*   [About Us](https://www.who.int/redirect-pages/mega-menu/about-us)
+    *   [About WHO »](https://www.who.int/redirect-pages/mega-menu/about-us/about)
+        *   [Our values](https://www.who.int/redirect-pages/mega-menu/about-us/about/our-values)
+        *   [Who we are](https://www.who.int/redirect-pages/mega-menu/about-us/about/who-we-are)
+        *   [What we do](https://www.who.int/redirect-pages/mega-menu/about-us/about/what-we-do)
+        *   [Where we work](https://www.who.int/redirect-pages/mega-menu/about-us/about/where-we-work)
+        *   [Programmes](https://www.who.int/redirect-pages/mega-menu/about-us/about/programmes)
+        *   [Collaboration and partnerships](https://www.who.int/redirect-pages/mega-menu/about-us/about/who-we-work-with)
+        *   [Ethics](https://www.who.int/redirect-pages/mega-menu/about-us/about/ethics)
+        *   [Director-General](https://www.who.int/redirect-pages/mega-menu/about-us/about/director-general)
+        *   [WHO Academy](https://www.who.int/redirect-pages/mega-menu/about-us/about/who-academy)
+
+    *   [Contact us »](https://www.who.int/redirect-pages/mega-menu/about-us/contact-us)
+    *   [Governing bodies »](https://www.who.int/redirect-pages/mega-menu/about-us/governance)
+        *   [World Health Assembly](https://www.who.int/redirect-pages/mega-menu/about-us/governance/world-health-assembly)
+        *   [Executive Board](https://www.who.int/redirect-pages/mega-menu/about-us/governance/executive-board)
+
+    *   [Accountability »](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability)
+        *   [General Programme of Work](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/13th-general-programme-of-work-(gpw13))
+        *   [Programme Budget Portal](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/budget)
+        *   [Invest in WHO](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/funding)
+        *   [Financial reports](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/financial-programmatic-reports)
+
+*   [All topics »](https://www.who.int/health-topics/)
+*   [A](https://www.who.int/health-topics/#A)
+*   [B](https://www.who.int/health-topics/#B)
+*   [C](https://www.who.int/health-topics/#C)
+*   [D](https://www.who.int/health-topics/#D)
+*   [E](https://www.who.int/health-topics/#E)
+*   [F](https://www.who.int/health-topics/#F)
+*   [G](https://www.who.int/health-topics/#G)
+*   [H](https://www.who.int/health-topics/#H)
+*   [I](https://www.who.int/health-topics/#I)
+*   [J](https://www.who.int/health-topics/#J)
+*   [K](https://www.who.int/health-topics/#K)
+*   [L](https://www.who.int/health-topics/#L)
+*   [M](https://www.who.int/health-topics/#M)
+*   [N](https://www.who.int/health-topics/#N)
+*   [O](https://www.who.int/health-topics/#O)
+*   [P](https://www.who.int/health-topics/#P)
+*   [Q](https://www.who.int/health-topics/#Q)
+*   [R](https://www.who.int/health-topics/#R)
+*   [S](https://www.who.int/health-topics/#S)
+*   [T](https://www.who.int/health-topics/#T)
+*   [U](https://www.who.int/health-topics/#U)
+*   [V](https://www.who.int/health-topics/#V)
+*   [W](https://www.who.int/health-topics/#W)
+*   [X](https://www.who.int/health-topics/#X)
+*   [Y](https://www.who.int/health-topics/#Y)
+*   [Z](https://www.who.int/health-topics/#Z)
+
+*   [Resources »](https://www.who.int/redirect-pages/mega-menu/health-topics/facts)
+    *   [Data](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/data)
+    *   [Fact sheets](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/fact-sheets)
+    *   [Facts in pictures](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/facts-in-pictures)
+    *   [Publications](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/publications)
+    *   [Questions & answers](https://www.who.int/redirect-pages/mega-menu/health-topics/facts/questions-answers)
+
+*   [Popular »](https://www.who.int/redirect-pages/mega-menu/health-topics/popular)
+    *   [Ebola virus disease](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/ebola-virus-disease)
+    *   [Nutrition](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/nutrition)
+    *   [Hepatitis](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/hepatitis)
+    *   [Top 10 causes of death](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/top-10-causes-of-death)
+    *   [Coronavirus disease (COVID-19)](https://www.who.int/redirect-pages/mega-menu/health-topics/popular/coronavirus-disease-(covid-19))
+
+[**World Hearing Day»**](https://www.who.int/news-room/events/detail/2020/03/03/default-calendar/world-hearing-day-2020-hearing-for-life)
+
+[![Image 13: World Hearing Day](https://www.who.int/images/default-source/who-campaigns/world-hearing-day/whd-2020/202002-campaign-menu-world-hearing-day.tmb-340v.jpg?Culture=en&sfvrsn=f9397705_2)](https://www.who.int/news-room/initiatives/world-hearing-day-2020)
+
+*   [All countries»](https://www.who.int/countries/en/)
+*   [A](https://www.who.int/countries/en/#A)
+*   [B](https://www.who.int/countries/en/#B)
+*   [C](https://www.who.int/countries/en/#C)
+*   [D](https://www.who.int/countries/en/#D)
+*   [E](https://www.who.int/countries/en/#E)
+*   [F](https://www.who.int/countries/en/#F)
+*   [G](https://www.who.int/countries/en/#G)
+*   [H](https://www.who.int/countries/en/#H)
+*   [I](https://www.who.int/countries/en/#I)
+*   [J](https://www.who.int/countries/en/#J)
+*   [K](https://www.who.int/countries/en/#K)
+*   [L](https://www.who.int/countries/en/#L)
+*   [M](https://www.who.int/countries/en/#M)
+*   [N](https://www.who.int/countries/en/#N)
+*   [O](https://www.who.int/countries/en/#O)
+*   [P](https://www.who.int/countries/en/#P)
+*   [Q](https://www.who.int/countries/en/#Q)
+*   [R](https://www.who.int/countries/en/#R)
+*   [S](https://www.who.int/countries/en/#S)
+*   [T](https://www.who.int/countries/en/#T)
+*   [U](https://www.who.int/countries/en/#U)
+*   [V](https://www.who.int/countries/en/#V)
+*   [W](https://www.who.int/countries/en/#W)
+*   [X](https://www.who.int/countries/en/#X)
+*   [Y](https://www.who.int/countries/en/#Y)
+*   [Z](https://www.who.int/countries/en/#Z)
+
+*   [Regions »](https://www.who.int/redirect-pages/mega-menu/countries/regions)
+    *   [Africa](https://www.who.int/redirect-pages/mega-menu/countries/regions/africa)
+    *   [Americas](https://www.who.int/redirect-pages/mega-menu/countries/regions/americas)
+    *   [South-East Asia](https://www.who.int/redirect-pages/mega-menu/countries/regions/south-east-asia)
+    *   [Europe](https://www.who.int/redirect-pages/mega-menu/countries/regions/europe)
+    *   [Eastern Mediterranean](https://www.who.int/redirect-pages/mega-menu/countries/regions/eastern-mediterranean)
+    *   [Western Pacific](https://www.who.int/redirect-pages/mega-menu/countries/regions/western-pacific)
+
+*   [WHO in countries »](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries)
+    *   [Overview](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries/overview)
+    *   [Statistics](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries/data-statistics)
+    *   [Cooperation strategies](https://www.who.int/redirect-pages/mega-menu/countries/who-in-countries/cooperation-strategies)
+
+[Democratic Republic of the Congo»](https://www.who.int/emergencies/crises/cod/en/)
+
+[![Image 14: An old man in Tanzania, having his blood pressure checked](https://www.who.int/images/default-source/ebola-drc/ebola-drc-4-630px-jpg.tmb-340v.jpg?sfvrsn=d52a48d0_21) WHO ©Credits](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/democratic-republic-of-the-congo)
+
+*   [All news »](https://www.who.int/redirect-pages/mega-menu/news/all-news)
+    *   [News releases](https://www.who.int/redirect-pages/mega-menu/news/all-news/releases)
+    *   [Statements](https://www.who.int/redirect-pages/mega-menu/news/all-news/statements)
+    *   [Notes for media](https://www.who.int/redirect-pages/mega-menu/news/all-news/notes-for-media)
+    *   [Commentaries](https://www.who.int/redirect-pages/mega-menu/news/all-news/commentaries)
+    *   [Events](https://www.who.int/redirect-pages/mega-menu/news/all-news/events)
+    *   [Feature stories](https://www.who.int/redirect-pages/mega-menu/news/all-news/feature-stories)
+    *   [Speeches](https://www.who.int/redirect-pages/mega-menu/news/all-news/speeches)
+    *   [Spotlights](https://www.who.int/redirect-pages/mega-menu/news/all-news/spotlights)
+    *   [Newsletters](https://www.who.int/redirect-pages/mega-menu/news/all-news/newsletters)
+    *   [Media distribution list](https://www.who.int/redirect-pages/mega-menu/news/all-news/media-distribution-list)
+
+*   [Headlines»](https://www.who.int/news-room/headlines)
+
+[WHO, UN Foundation and partners launch first-of-its-kind COVID-19 Solidarity Response Fund](https://www.who.int/news-room/detail/13-03-2020-who-un-foundation-and-partners-launch-first-of-its-kind-covid-19-solidarity-response-fund)
+
+13 March 2020
+
+News release
+
+[COVID-19: IFRC, UNICEF and WHO issue guidance to protect children and support safe school operations](https://www.who.int/news-room/detail/10-03-2020-covid-19-ifrc-unicef-and-who-issue-guidance-to-protect-children-and-support-safe-school-operations)
+
+10 March 2020
+
+Joint News Release
+
+[Women's health and rights: 25 years of progress?](https://www.who.int/news-room/detail/08-03-2020-women-s-health-and-rights-25-years-of-progress)
+
+8 March 2020
+
+Departmental news
+
+*   [Campaigns and initiatives»](https://www.who.int/news-room/campaigns)
+
+[![Image 15: Year of the Nurse and the Midwife 2020](https://www.who.int/images/default-source/temporary/year-of-the-nurse-and-the-midwife/yomn-banner.tmb-340v.jpg?Culture=en&sfvrsn=681d964d_3)](https://www.who.int/news-room/campaigns/year-of-the-nurse-and-the-midwife-2020)
+
+[Year of the Nurse and the Midwife 2020](https://www.who.int/news-room/campaigns/year-of-the-nurse-and-the-midwife-2020)
+
+*   [Focus on »](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies)
+    *   [Bangladesh Rohingya](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/bangladesh-rohingya)
+    *   [Democratic Republic of the Congo](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/democratic-republic-of-the-congo)
+    *   [Ebola virus disease](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/ebola-virus-disease)
+    *   [Iraq](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/iraq)
+    *   [Nigeria](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/nigeria)
+    *   [Coronavirus disease outbreak (COVID-2019)](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/novel-coronavirus-(2019-ncov))
+    *   [Somalia](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/somalia)
+    *   [South Sudan](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/south-sudan)
+    *   [Syrian Arab Republic](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/syrian-arab-republic)
+    *   [Yemen](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/yemen)
+
+*   [All emergencies »](https://www.who.int/redirect-pages/mega-menu/emergencies/all-emergencies)
+
+*   [Latest »](https://www.who.int/redirect-pages/mega-menu/emergencies/news)
+    *   [By country](https://www.who.int/redirect-pages/mega-menu/emergencies/news/by-country)
+    *   [By disease](https://www.who.int/redirect-pages/mega-menu/emergencies/news/outbreaks-by-disease)
+    *   [Disease Outbreak News](https://www.who.int/redirect-pages/mega-menu/emergencies/news/disease-outbreak-news-(dons))
+    *   [Weekly Epidemiological Record](https://www.who.int/redirect-pages/mega-menu/emergencies/news/weekly-epidemiological-record)
+    *   [Health Emergency Highlights](https://www.who.int/redirect-pages/mega-menu/emergencies/news/health-emergency-highlights)
+    *   [Travel advice](https://www.who.int/redirect-pages/mega-menu/emergencies/news/travel-advice)
+    *   [Contact](https://www.who.int/redirect-pages/mega-menu/emergencies/news/contact)
+
+*   [WHO in emergencies »](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks)
+    *   [Funding](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/funding)
+    *   [Training](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/contingency-fund)
+    *   [Partners & networks](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/partners-networks)
+    *   [Research & development](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/research-development)
+    *   [Attacks on health care](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/attacks-on-health-care)
+    *   [Health cluster](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/health-cluster)
+    *   [Public Health Emergency Dashboard](https://www.who.int/redirect-pages/mega-menu/emergencies/partners-and-networks/public-health-emergency-dashboard)
+
+*   [Coronavirus disease outbreak (COVID-19) »](https://www.who.int/redirect-pages/mega-menu/emergencies/emergencies/novel-coronavirus-(2019-ncov))
+
+[![Image 16: Click here for the COVID-19 dashboard](https://www.who.int/images/default-source/default-album/covd-19map.tmb-340v.jpg?sfvrsn=16eafda_1) WHO ©Credits](https://www.who.int/redirect-pages/page/novel-coronavirus-(covid-19)-situation-dashboard)
+
+*   [About WHO »](https://www.who.int/redirect-pages/mega-menu/about-us/about)
+    *   [Our values](https://www.who.int/redirect-pages/mega-menu/about-us/about/our-values)
+    *   [Who we are](https://www.who.int/redirect-pages/mega-menu/about-us/about/who-we-are)
+    *   [What we do](https://www.who.int/redirect-pages/mega-menu/about-us/about/what-we-do)
+    *   [Where we work](https://www.who.int/redirect-pages/mega-menu/about-us/about/where-we-work)
+    *   [Programmes](https://www.who.int/redirect-pages/mega-menu/about-us/about/programmes)
+    *   [Collaboration and partnerships](https://www.who.int/redirect-pages/mega-menu/about-us/about/who-we-work-with)
+    *   [Ethics](https://www.who.int/redirect-pages/mega-menu/about-us/about/ethics)
+    *   [Director-General](https://www.who.int/redirect-pages/mega-menu/about-us/about/director-general)
+    *   [WHO Academy](https://www.who.int/redirect-pages/mega-menu/about-us/about/who-academy)
+
+*   [Contact us »](https://www.who.int/redirect-pages/mega-menu/about-us/contact-us)
+
+*   [Governing bodies »](https://www.who.int/redirect-pages/mega-menu/about-us/governance)
+    *   [World Health Assembly](https://www.who.int/redirect-pages/mega-menu/about-us/governance/world-health-assembly)
+    *   [Executive Board](https://www.who.int/redirect-pages/mega-menu/about-us/governance/executive-board)
+
+*   [Accountability »](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability)
+    *   [General Programme of Work](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/13th-general-programme-of-work-(gpw13))
+    *   [Programme Budget Portal](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/budget)
+    *   [Invest in WHO](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/funding)
+    *   [Financial reports](https://www.who.int/redirect-pages/mega-menu/about-us/planning-accountability/financial-programmatic-reports)
+
+[Better health for everyone»](https://www.who.int/about/what-we-do/who-brochure)
+
+[![Image 17: boy_malawi](https://www.who.int/images/default-source/publications/brochure/boy-malawi.tmb-340v.jpg?Culture=en&sfvrsn=41439f93_12) WHO ©Credits](https://www.who.int/about/what-we-do/who-brochure)
+
+*   [Home](https://www.who.int/)/
+*   [Emergencies](https://www.who.int/emergencies)/
+*   [Diseases](https://www.who.int/emergencies/diseases)/
+*   [Coronavirus disease 2019](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)/
+*   [Technical guidance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)/
+*   National laboratories
+
+Coronavirus disease (COVID-19) technical guidance: Laboratory testing for 2019-nCoV in humans
+=============================================================================================
+
+Section navigation
+------------------
+
+*   [Coronavirus disease 2019](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+    *   [Technical guidance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
+
+*    National laboratories 
+*   [Early investigations protocols](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/early-investigations)
+*   [Case management](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/patient-management)
+*   [Surveillance, rapid response teams, and case investigation](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/surveillance-and-case-definitions)
+*   [Infection prevention and control](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/infection-prevention-and-control)
+*   [Points of entry and mass gatherings](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/points-of-entry-and-mass-gatherings)
+*   [Naming the coronavirus disease (COVID-19) and the virus that causes it](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it)
+*   [Risk communication and community engagement](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/risk-communication-and-community-engagement)
+*   [Country-level coordination, planning, and monitoring](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/country-readiness)
+*   [Critical preparedness, readiness and response actions for COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/critical-preparedness-readiness-and-response-actions-for-covid-19)
+
+Overview
+--------
+
+On this page you will find information about:
+
+1.   Laboratory testing for coronavirus disease 2019 (COVID-19) in suspected human cases
+2.   WHO interim guidance for laboratory biosafety related to COVID-19 virus
+3.   Molecular assays to diagnose COVID-19 virus
+4.   WHO refence laboratories providing confirmatory testing for COVID-19
+
+1. WHO interim guidance for laboratory testing
+----------------------------------------------
+
+The purpose of this document is to provide interim guidance to laboratories and stakeholders involved in laboratory testing of COVID-19 virus.
+
+- [Read the document](https://www.who.int/publications-detail/laboratory-testing-for-2019-novel-coronavirus-in-suspected-human-cases-20200117)(updated 2 March 2020)
+
+2. WHO interim guidance for laboratory biosafety related to COVID-19 virus
+--------------------------------------------------------------------------
+
+The purpose of this document is to provide interim guidance on laboratory biosafety related to the COVID-19 virus to laboratories and stakeholders involved in COVID-19 virus laboratory work. This also includes the packaging and shipment requirements for sending specimens to WHO reference laboratories providing confirmatory testing for COVID-19.
+
+-[](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)[Read the document](https://apps.who.int/iris/bitstream/handle/10665/331138/WHO-WPE-GIH-2020.1-eng.pdf)(uploaded 12 February 2020)
+
+3. Molecular assays to diagnose 2019-nCoV
+-----------------------------------------
+
+Several assays that detect the 2019-nCoV have been and are currently under development, both _in-house_ and commercially. Some assays may detect only the novel virus and some may also detect other strains (e.g. SARS-CoV) that are genetically similar.
+
+**In-house developed molecular assays**
+
+Some groups shared their protocols which can be accessed below (Summary table and link to the protocols). In some cases, the groups will be willing to send reagents or reagent mixes prepared in their laboratories, with or without associated fees. It is strongly recommended to contact the developer if you need further assistance. The list is not exhaustive and is being updated regularly.
+
+**Summary table of available protocols**
+
+**Country****Institute****Gene targets**
+China China CDC ORF1ab and N
+Germany Charité RdRP, E, N
+Hong Kong SAR HKU ORF1b-nsp14, N
+Japan National Institute of Infectious Diseases, Department of Virology III Pancorona and multiple targets, Spike protein
+Thailand National Institute of Health N
+US US CDC Three targets in N gene
+France Institut Pasteur, Paris Two targets in RdRP
+
+[China CDC Primers and probes for detection 2019-nCoV](http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.html)(24 January 2020)
+
+[Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR – Charité, Berlin Germany](https://www.who.int/docs/default-source/coronaviruse/protocol-v2-1.pdf?sfvrsn=a9ef618c_2)(17 January 2020)
+
+[Detection of 2019 novel coronavirus (2019-nCoV) in suspected human cases by RT-PCR – Hong Kong University](https://www.who.int/docs/default-source/coronaviruse/peiris-protocol-16-1-20.pdf?sfvrsn=af1aac73_4)(23 January 2020)
+
+[PCR and sequencing protocol for 2019-nCoV - Department of Medical Sciences, Ministry of Public Health, Thailand](https://www.who.int/docs/default-source/coronaviruse/conventional-rt-pcr-followed-by-sequencing-for-detection-of-ncov-rirl-nat-inst-health-t.pdf?sfvrsn=42271c6d_4)(Updated 28 January 2020)
+
+[PCR and sequencing protocols for 2019-nCoV- National Institute of Infectious Diseases Japan](https://www.who.int/docs/default-source/coronaviruse/method-niid-20200123-2.pdf?sfvrsn=fbf75320_7)(24 January 2020)
+
+[US CDC Real-Time RT-PCR Panel for Detection 2019-Novel Coronavirus](https://www.who.int/docs/default-source/coronaviruse/uscdcrt-pcr-panel-for-detection-instructions.pdf?sfvrsn=3aa07934_2)(28 January 2020)
+
+[US CDC panel primer and probes– U.S. CDC, USA](https://www.who.int/docs/default-source/coronaviruse/uscdcrt-pcr-panel-primer-probes.pdf?sfvrsn=fa29cb4b_2)(28 January 2020)
+
+[Real-time RT-PCR assays for the detection of SARS-CoV-2 Institut Pasteur, Paris](https://www.who.int/docs/default-source/coronaviruse/real-time-rt-pcr-assays-for-the-detection-of-sars-cov-2-institut-pasteur-paris.pdf?sfvrsn=3662fcb6_2)(2 March 2020)
+
+**_Disclaimer_**_: The order on the list is by country of the hosting institution and does not imply any preference of WHO. Neither the names of vendors or manufacturers included in the protocols are preferred/endorsed by WHO. The protocols have not yet been validated through a WHO process._
+
+_**Assumptions:** Most procedures assume a basic familiarity with PCR/RT-PCR assays._
+
+_**Safety Information**: Specimen processing should be performed in accordance with pertaining national biological safety regulations and following the recommended WHO guidelines on biosafety and biosecurity._
+
+_**Protocol use limitations**: Optional clinical specimens for testing has not yet been validated._
+
+4. **WHO reference laboratories providing confirmatory testing for COVID-19**
+-----------------------------------------------------------------------------
+
+Countries who have no testing capacity and national COVID-19 laboratories with limited experience on COVID-19 virus testing are encouraged to send the first five positives and the first ten negative COVID-19 samples to WHO reference laboratories providing confirmatory testing for COVID-19.
+
+[Current list of WHO reference laboratories providing confirmatory testing for COVID-19](https://www.who.int/docs/default-source/coronaviruse/who-reference-laboratories-providing-confirmatory-testing-for-covid-19.pdf?sfvrsn=a03a01e6_2)(Updated 2 March 2020)
+
+[Guidance for laboratories shipping specimens to WHO reference laboratories that provide confirmatory testing for COVID-19 virus](https://www.who.int/publications-detail/guidance-for-laboratories-shipping-specimens-to-who-reference-laboratories-that-provide-confirmatory-testing-for-covid-19-virus) (Updated 2 March 2020)
+
+[](https://www.who.int/docs/default-source/coronaviruse/booking-form-2019-ncov-world-courier.pdf?sfvrsn=bec315e3_2)[Booking form for national laboratories](https://www.who.int/docs/default-source/coronaviruse/20200311booking-form-2019-ncov.pdf?sfvrsn=95d08287_2) (Updated 11 March 2020)
+
+For Word format or HAZGO booking form, please contact[roviraj@who.int](mailto:roviraj@who.int)and[fusterc@who.int](mailto:fusterc@who.int)
+
+Contact details of WHO reference laboratories providing confirmatory testing for COVID-19 can be obtained from the respective regional WHO offices.
+
+*   [What we do](https://www.who.int/redirect-pages/footer/quick-links) 
+    *   [Countries](https://www.who.int/redirect-pages/footer/quick-links/countries)
+    *   [Programmes](https://www.who.int/redirect-pages/footer/quick-links/programs)
+    *   [Frequently asked questions](https://www.who.int/redirect-pages/footer/quick-links/frequently-asked-questions)
+    *   [Employment](https://www.who.int/redirect-pages/footer/quick-links/employment)
+    *   [Procurement](https://www.who.int/redirect-pages/footer/quick-links/procurement)
+
+*   [Regions](https://www.who.int/redirect-pages/footer/regions) 
+    *   [Africa](https://www.who.int/redirect-pages/footer/regions/africa)
+    *   [Americas](https://www.who.int/redirect-pages/footer/regions/americas)
+    *   [South-East Asia](https://www.who.int/redirect-pages/footer/regions/south-east-asia)
+    *   [Europe](https://www.who.int/redirect-pages/footer/regions/europe)
+    *   [Eastern Mediterranean](https://www.who.int/redirect-pages/footer/regions/eastern-mediterranen)
+    *   [Western Pacific](https://www.who.int/redirect-pages/footer/regions/western-pacific)
+
+*   [About us](https://www.who.int/redirect-pages/footer/about-us) 
+    *   [Director-General](https://www.who.int/redirect-pages/footer/about-us/director-general)
+    *   [World Health Assembly](https://www.who.int/redirect-pages/footer/about-us/world-health-assembly)
+    *   [Executive Board](https://www.who.int/redirect-pages/footer/about-us/executive-board)
+    *   [Member States](https://www.who.int/redirect-pages/footer/about-us/member-states)
+    *   [Ethics](https://www.who.int/redirect-pages/footer/about-us/integrity-hotline)
+    *   [Permissions and licensing](https://www.who.int/redirect-pages/footer/about-us/copyright)
+    *   [Cyber security](https://www.who.int/redirect-pages/footer/about-us/copyright/cyber-security)
+
+[Subscribe to our newsletters](https://www.who.int/news-room/newsletters)
+
+[![Image 18: Home](https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg)](https://www.who.int/ "Home")
+
+[Privacy Legal Notice](https://www.who.int/about/privacy/en/)
+
+[Follow on RSS](http://www.who.int/about/licensing/rss/en/ "Follow on RSS")[Follow on YouTube](http://www.youtube.com/user/who?sub_confirmation=1 "Follow on YouTube")[Follow on Twitter](http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who "Follow on Twitter")[Follow on Facebook](http://www.facebook.com/WHO "Follow on Facebook")[Follow on Instagram](http://instagram.com/who "Follow on Instagram")[Follow on LinkedIn](http://www.linkedin.com/company/world-health-organization "Follow on LinkedIn")
+
+ ©  2020 
+
+[WHO](https://www.who.int/about/copyright/en/)

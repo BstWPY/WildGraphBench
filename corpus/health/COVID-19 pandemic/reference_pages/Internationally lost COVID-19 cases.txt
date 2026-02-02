@@ -1,0 +1,166 @@
+# Internationally lost COVID-19 cases
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Abstract
+----------------------------------------------------------------
+
+### Background
+
+With its epicenter in Wuhan, China, the COVID-19 outbreak was declared a pandemic by the World Health Organization (WHO). While many countries have implemented flight restrictions to China, an increasing number of cases with or without travel background to China are confirmed daily. These developments support concerns on possible unidentified and unreported international COVID-19 cases, which could lead to new local disease epicenters.
+
+### Methods
+
+We have analyzed all available data on the development of international COVID-19 cases from January 20th, 2020 until February 18th, 2020. COVID-19 cases with and without travel history to China were divided into cohorts according to the Healthcare Access and Quality Index (HAQ-Index) of each country. Chi-square and Post-hoc testing were performed.
+
+### Results
+
+While COVID-19 cases with travel history to China seem to peak for each HAQ-cohort, the number of non-travel related COVID-19 cases seem to continuously increase in the HAQ-cohort of countries with higher medical standards. Further analyses demonstrate a significantly lower proportion of reported COVID-19 cases without travel history to China in countries with lower HAQ (HAQ I vs. HAQ II, posthoc p<0.01).
+
+### Conclusions
+
+Our data indicate that countries with lower HAQ-index may either underreport COVID-19 cases or are unable to adequately detect them. Although our data may be incomplete and must be interpreted with caution, inconsistencies in reporting COVID-19 cases is a serious problem which might sabotage efforts to contain the virus.
+
+**Keywords:** Pandemic, Coronavirus, Unreported, International, COVID-19, Lost
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Introduction
+--------------------------------------------------------------------
+
+With continuously rising numbers of confirmed cases, the current outbreak of coronavirus (COVID-19) in Wuhan and the entire Hubei province has developed into a global health threat.
+
+Current knowledge on the biology and transmission of this virus is limited,[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#bib1),[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#bib2) and final mortality rates attributed to COVID-19 are subject to rough estimation. Consequently, international flight traffic has been reduced, and the Hubei province was placed under lockdown approximately 3 weeks after the start of the COVID-19 outbreak. According to some sources, the first estimated date of reported COVID-19 cases was in December 2019.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#bib3) Due to the continuous rise in confirmed international COVID-19 cases, it remains uncertain whether a further uncontrolled virus outbreak can be prevented. One probable scenario suggests that COVID-19 cases outside of China might spread and remain undetected for a relevant time period, resulting in delayed countermeasures in many countries. In fact, new current disease epicenters have formed in Italy, Japan, South Korea and Iran.
+
+However, these considerations are hypothetical since we have too limited information on transmission patterns of affected COVID-19 patients outside of China. Moreover, making any assumptions is difficult with only limited available data on international COVID-19 spread. The aim of this study is to assess the extent of undetected, missing, undiagnosed, or unreported COVID-19 cases on an international level. While some industrialized countries with high health standards report massively increased case numbers, reported cases in countries with lower health standards, except for Iran, remain low. By means of this study, we aim to evaluate if the analyzed data points to possible lost COVID-19 cases outside China, particularly in countries with lower Healthcare Access and Quality Indices (HAQ Index).
+
+If there are indeed unreported international cases, we assume these to be in countries with lower medical standards as measured by the Healthcare Access and Quality Index (HAQ Index). More specifically, we suspect countries without regular air traffic to China be more vulnerable, as they may feel an increased sense of safety and thus not pay enough attention to safety protocols and detection measures. Hence, by means of this study, we will analyze whether there is any indication of underreported COVID-19 cases in countries with a lower HAQ vs. higher HAQ-Index countries. We will compare the amount of COVID-19 cases in both groups by distinguishing the relation of non-travel associated COVID-19 cases vs. those with travel history to China. If our assumptions are incorrect, there should be no significant differences in the relation between these groups and these countries.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Material and methods
+----------------------------------------------------------------------------
+
+### Data sources
+
+#### Healthcare Access and Quality Index (HAQ index)
+
+The HAQ Index of 25 countries with confirmed COVID-19 cases reported by the WHO was sourced from a previously published study by the GBD 2016 Healthcare Access and Quality Collaborators.[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#bib4)
+
+#### Confirmed COVID-19 cases
+
+The total number of confirmed international COVID-19 cases with or without travel history to China were sourced from publicly available COVID-19 situation reports. This current study analyzed data from January 20th, 2020 until February 18th, 2020. In each situation report, cases with the description “transmission site under investigation” were excluded from the analysis as the original site of viral transmission was unknown.
+
+#### Development of international COVID-19 cases
+
+To identify the peak of new cases, we quantified the number of new confirmed international COVID-19 cases per day with and without travel history to China from January 20th, 2020 to February 18th, 2020 ([Fig.1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#fig1) ).
+
+##### Figure 1.
+
+[![Image 1: Figure 1](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8a21/7102572/029751553fb3/gr1_lrg.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7102572_gr1_lrg.jpg)
+
+Development of international COVID-19 cases from January 20th, 2020 to February 18th, 2020 according to travel history to China. Beginning of lockdown in Wuhan (Hubei province) and major international flight restrictions.
+
+#### Correlation of Healthcare Access and quality (HAQ) and reported COVID-19 cases
+
+We determined the correlation between the number of COVID-19 cases outside of China and the HAQ index of each country with confirmed COVID-19 cases using a least square regression line. We used three correlation studies: 1) total reported international cases vs. HAQ Index 2) cases with travel history and 3) cases without travel history to China.
+
+#### HAQ index, chi-square and post-hoc test
+
+Applying the decile set constructed by the GBD 2016 Healthcare Access and Quality Collaborators, we categorized countries with confirmed COVID-19 cases into three distinct groups based on their HAQ index (Group I: 82.2 - >91.3, Group 2: 63.2–82.2, Group 3: 35.9–63.2) We analyzed the relation between HAQ index and travel history of confirmed COVID-19 cases outside of China. For this purpose, a chi-square test with post-hoc analysis was performed on the cohorts.
+
+#### Development of international case numbers according to HAQ index
+
+For further graphical analyses, we classified confirmed COVID-19 cases with or without travel history to China into two groups according to their HAQ index (Group A: 68.9→91.3, group B: 35.9→68.9) and investigated the association between these. In group A, we quantified the number of new confirmed international COVID-19 cases per day with and without travel history to China from January 20th, 2020 to February 18th, 2020 ([Fig.2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#fig2) A). Then the same was applied to Group B ([Fig.2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#fig2)B). Lastly, we ran a chi-square test with post-hoc analysis on the two cohorts.
+
+##### Figure 2.
+
+[![Image 2: Figure 2](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8a21/7102572/8e2b9ae32b2c/gr2_lrg.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7102572_gr2_lrg.jpg)
+
+Development of international COVID-19 cases from January 20th, 2020 to February 18th, 2020 for HAQ-A (A) and HAQ-B (B) according to travel history to China. Beginning of lockdown in Wuhan (Hubei province) and major international flight restrictions.
+
+#### Statistical analysis
+
+Correlation analysis was performed using linear regression. A chi-square test with post-hoc analysis was used to determine the relationship between the HAQ index and travel history of confirmed international COVID-19 cases. P-values <0.05 were considered statistically significant. All statistical analyses were performed on IBM SPSS Statistics (SPSS Inc., version 25).
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Results
+---------------------------------------------------------------
+
+### Development of international COVID-19 cases
+
+Analysis of confirmed international COVID-19 cases show a shift from cases with travel history to China to cases with either confirmed or possible transmission outside of China. Cases with travel history to China peaked on February 1st, 2020 and seem to reach nearly zero after February 14th, 2020. Cases without travel history to China show no indication of peaking (see [Fig.1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#fig1)).
+
+### Correlation of Healthcare Access and Quality (HAQ) with reported COVID-19 cases
+
+The correlation analysis of the HAQ index of 25 countries and their respective total number of confirmed COVID-19 cases showed no significant correlation (r=0.28, r 2=0.077, p>0.05), Moreover, HAQ index was not correlated to number of confirmed international COVID-19 cases with travel history to China (r=0.2, r 2=0.04, p>0.05). Similarly, HAQ index had no significant correlation to the number of international COVID-19 cases without travel history to China (r=0.3, r 2=0.08, p>0.05).
+
+### Application of HAQ index, chi-square and post-hoc test
+
+An independent chi-square test indicated a significant relationship between HAQ index of 25 countries divided into 3 groups and travel history to China of confirmed COVID-19 cases (Chi-square=27.27, p<0.01). Post-hoc analysis further showed that countries in group HAQ Index I were linked to significantly more COVID-19 cases without travel history to China (p<0.01). On the other hand, countries in group HAQ Index II were more likely to have more cases with travel history to China (p<0.01).
+
+### Development of international case numbers according to HAQ index
+
+For Group A, the development of new confirmed international COVID-19 cases per day with and without travel history to China from January 20th, 2020 to February 18th, 2020 showed two main tendencies ([Fig.2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#fig2)A). Cases with travel history to China seem to peak while cases without travel history show a massive rise and surpass cases with travel history by February 18th, 2020 ([Fig.2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#fig2)A). In group B, the development of new confirmed international COVID-19 cases per day with and without travel history to China show a different pattern (observation period is January 20th, 2020 to February 18th, 2020, see [Fig.2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#fig2)A). Both cases with and without travel history to China seem to peak ([Fig.2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#fig2)B). Chi-square test reveals a significant difference between both HAQ- A and HAQ-B cases related to their background (Chi-square 8.9, p<0.01) ([Fig.3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#fig3) ).
+
+#### Figure 3.
+
+[![Image 3: Figure 3](https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8a21/7102572/ee9706850ad6/gr3_lrg.jpg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7102572_gr3_lrg.jpg)
+
+Total number of COVID-19 cases (for each HAQ A and B group). Case numbers according to the travel history with China and related statistical data.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Discussion
+------------------------------------------------------------------
+
+While it is very difficult to assess if and how many unidentified COVID-19 cases exist outside of China, our data indicate that unreported or undetected cases are likely, especially in countries with low HAQ index. Interestingly, most unidentified cases in these countries are not associated with travel history to China. This study is the first to investigate the role of unidentified COVID-19 cases with respect to the virus' spread pattern. Despite limited data and constantly changing case numbers available at the time of analysis, our findings indicate that despite enormous efforts launched by China to contain COVID-19 spread, there is a significant danger of a continuous undetected spread of COVID-19 cases. It is possible that, at later stages, multiple COVID-19 epicenters appear in developing countries as seen by the latest explosion of case numbers in Iran. This development in countries without sustainable medical surveillance can give further rise to both local and global virus outbreaks. In this case, despite continuous restrictions in air traffic, shipping, or other means of transportation, COVID-19 might further establish itself as a pandemic, especially since this virus shows exceptionally high transmission rates and structural stability on surfaces.[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#bib5),[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572#bib6) With only limited data available, results must be evaluated with caution. We also want to emphasize that results cannot be generalized. There will be exceptions to this depending on the local situation. For example, Taiwan has many more imported than locally transmitted COVID-19 cases but has also performed extensive laboratory studies among both groups of patients with and without travel background to China. Other reasons for potential increasing COVID-19 case numbers might be because infected travelers from China may have traveled to developed countries earlier as well as more frequently than to developing countries. This could have facilitated local spread much earlier than was detected, considering the incubation time of 7–14 days. Furthermore, developed countries more often hold international conferences and meetings with Chinese participants, another aspect which could have facilitated the spread of COVID-19. In these cases, conference participants would not be classified as individuals with travel background to China. All in all, our findings further support concerns of a continuous global COVID-19 spread.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Conclusion
+------------------------------------------------------------------
+
+Our data support the scenario of a continuous spread of COVID-19 cases. Especially in countries with low HAQ indices, undetected COVID-19 cases which are not attributed to travel to China may give rise to new virus epicenters across the globe. While enormous measures have been taken to prevent virus spread, including quarantine, lockdowns and travel restrictions, more efforts and resources should be dedicated toward developing a new vaccine as soon as possible.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Availability of data and materials
+------------------------------------------------------------------------------------------
+
+The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Author contribution
+---------------------------------------------------------------------------
+
+HL: data acquisition, data interpretation, final analysis, drafting of the manuscript, final approval for publication.
+
+VK: data acquisition, analysis and interpretation, drafting of the manuscript, final approval for publication.
+
+PK: data interpretation, drafting of the manuscript, final approval for publication.
+
+AM: data interpretation, drafting of the manuscript, final approval for publication.
+
+HI: data interpretation, critical revision for important intellectual content, final approval for publication.
+
+JS: data interpretation, drafting of the manuscript, final approval for publication.
+
+JB: data interpretation, critical revision for important intellectual content, final approval for publication.
+
+TK: data interpretation, conception and design of the work, critical revision for important intellectual content, final approval for publication.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Funding
+---------------------------------------------------------------
+
+The authors did not receive any funding for this study.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Declaration of Competing Interest
+-----------------------------------------------------------------------------------------
+
+The authors have no conflicts of interest to disclose.
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)References
+------------------------------------------------------------------
+
+*   1.Chen Nanshan, Zhou Min, Dong Xuan, Qu Jieming, Gong Fengyun, Han Yang. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020;395(10223):507–513. doi: 10.1016/S0140-6736(20)30211-7. [[DOI](https://doi.org/10.1016/S0140-6736(20)30211-7)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7135076/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32007143/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=Epidemiological%20and%20clinical%20characteristics%20of%2099%20cases%20of%202019%20novel%20coronavirus%20pneumonia%20in%20Wuhan,%20China:%20a%20descriptive%20study&author=Nanshan%20Chen&author=Min%20Zhou&author=Xuan%20Dong&author=Jieming%20Qu&author=Fengyun%20Gong&volume=395&issue=10223&publication_year=2020&pages=507-513&pmid=32007143&doi=10.1016/S0140-6736(20)30211-7&)]
+*   2.Pan F., Ye T., Sun P., Gui S., Liang B., Li L. Time course of lung changes on chest CT during recovery from 2019 novel coronavirus (COVID-19) pneumonia. Radiology. 2020;13:200370. doi: 10.1148/radiol.2020200370. [[DOI](https://doi.org/10.1148/radiol.2020200370)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7233367/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32053470/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Radiology&title=Time%20course%20of%20lung%20changes%20on%20chest%20CT%20during%20recovery%20from%202019%20novel%20coronavirus%20(COVID-19)%20pneumonia&author=F.%20Pan&author=T.%20Ye&author=P.%20Sun&author=S.%20Gui&author=B.%20Liang&volume=13&publication_year=2020&pages=200370&pmid=32053470&doi=10.1148/radiol.2020200370&)]
+*   3.Wu Joseph T., Leung Kathy, Leung Gabriel M. Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. Lancet. 2020 doi: 10.1016/S0140-6736(20)30260-9. [[DOI](https://doi.org/10.1016/S0140-6736(20)30260-9)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7159271/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32014114/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=Nowcasting%20and%20forecasting%20the%20potential%20domestic%20and%20international%20spread%20of%20the%202019-nCoV%20outbreak%20originating%20in%20Wuhan,%20China:%20a%20modelling%20study&author=Joseph%20T.%20Wu&author=Kathy%20Leung&author=Gabriel%20M.%20Leung&publication_year=2020&pmid=32014114&doi=10.1016/S0140-6736(20)30260-9&)]
+*   4.Fulman N., Yearwood J., Abay S.M., Abbafati C., Abd-Allah F., Abdela J. Measuring performance on the Healthcare access and quality index for 195 countries and territories and selected subnational locations: a systematic analysis from the global burden of disease study 2016. Lancet. 2018;391(10136):2236–2271. doi: 10.1016/S0140-6736(18)30994-2. [[DOI](https://doi.org/10.1016/S0140-6736(18)30994-2)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC5986687/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/29893224/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=Measuring%20performance%20on%20the%20Healthcare%20access%20and%20quality%20index%20for%20195%20countries%20and%20territories%20and%20selected%20subnational%20locations:%20a%20systematic%20analysis%20from%20the%20global%20burden%20of%20disease%20study%202016&author=N.%20Fulman&author=J.%20Yearwood&author=S.M.%20Abay&author=C.%20Abbafati&author=F.%20Abd-Allah&volume=391&issue=10136&publication_year=2018&pages=2236-2271&pmid=29893224&doi=10.1016/S0140-6736(18)30994-2&)]
+*   5.Rothe C., Schunk M., Sothmann P., Bretzel G., Froeschl G., Wallrauch C. Transmission of 2019-nCoV infection from an asymptomatic contact in Germany. NEJM. 2020 doi: 10.1056/NEJMc2001468. [[DOI](https://doi.org/10.1056/NEJMc2001468)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7120970/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32003551/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=NEJM&title=Transmission%20of%202019-nCoV%20infection%20from%20an%20asymptomatic%20contact%20in%20Germany&author=C.%20Rothe&author=M.%20Schunk&author=P.%20Sothmann&author=G.%20Bretzel&author=G.%20Froeschl&publication_year=2020&pmid=32003551&doi=10.1056/NEJMc2001468&)]
+*   6.Kampf G., Todt D., Pfaender S., Steinmann E. Persistence of coronavirus on inanimate surfaces and its inactivation with biocidal agents. J Hosp Infect. 2020 doi: 10.1016/j.jhin.2020.01.022. [[DOI](https://doi.org/10.1016/j.jhin.2020.01.022)] [[PMC free article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7132493/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/32035997/)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=J%20Hosp%20Infect&title=Persistence%20of%20coronavirus%20on%20inanimate%20surfaces%20and%20its%20inactivation%20with%20biocidal%20agents&author=G.%20Kampf&author=D.%20Todt&author=S.%20Pfaender&author=E.%20Steinmann&publication_year=2020&pmid=32035997&doi=10.1016/j.jhin.2020.01.022&)]
+
+[](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102572)Associated Data
+-----------------------------------------------------------------------
+
+_This section collects any data citations, data availability statements, or supplementary materials included in this article._
+
+### Data Availability Statement
+
+The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.

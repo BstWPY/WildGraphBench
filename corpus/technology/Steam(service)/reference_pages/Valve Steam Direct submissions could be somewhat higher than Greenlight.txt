@@ -1,0 +1,21 @@
+# Valve: Steam Direct submissions could be "somewhat higher" than Greenlight
+
+Steam Direct is now live, and Valve expects the rate of submissions to be "somewhat higher" than with the Greenlight submissions process it has replaced.
+
+In [a blog post published yesterday](http://steamcommunity.com/games/593110/announcements/detail/1328973169870947116), Valve said that it has greenlit "many" of the 3,400 titles left in the Greenlight system when new submissions and voting were disabled last week - the decision to close Greenlight was [announced in February](http://www.gamesindustry.biz/articles/2017-02-10-steam-kills-greenlight). Valve said that games that were not greenlit - due to lack of voter data, among other reasons - can be resubmitted through Steam Direct, "provided they meet our basic criteria of legality and appropriateness."
+
+That number, 3,400, offers an idea of the volume of games lining up for space on Valve's storefront. More than a third of all games on Steam were submitted in 2016 alone, [according to data from SteamSpy](http://www.gamesindustry.biz/articles/2016-12-01-new-games-on-steam-up-40-percent-over-last-year), but Valve has said that dropping Greenlight for [a paid service](http://www.gamesindustry.biz/articles/2017-06-02-steam-direct-fee-set-at-USD100) is not about reducing the number of submissions.
+
+> "There will be an initial surge of new submissions and then a new rate somewhat higher than what was coming through Greenlight"
+
+"With this transition to Steam Direct, we'll be keeping an eye on new submissions and making adjustments as necessary," the company's blog post read. "We aren't quite sure whether there will be a lot more new submissions, just a bit more, or even fewer. It's most likely that there will be an initial surge of new submissions and then a new rate somewhat higher than what was coming through Greenlight."
+
+Indeed, the real motivation seems to be about ensuring that a greater proportion of submissions are genuine. According to Valve, "quite a bit of the previous volume of submissions to Greenlight was motivated by trading card abuse," an [issue that the company addressed](http://www.gamesindustry.biz/articles/2017-05-17-steam-cracks-down-on-trading-card-abuse-to-combat-fake-games) in May this year. With Steam Direct's fee, Valve believes it will eradicate, "a category of game-shaped objects that are unlikely to be worth someone paying even $100 to bring to Steam."
+
+If the submissions do settle at a rate "somewhat higher" than that on Greenlight, it will be down to Steam Direct being "more transparent and predictable" for studios that were new to Steam - "something we heard held back many developers, especially in non-Western countries," Valve said.
+
+The blog post details new additions to the Steam Direct process that were not clear before, including the digital paperwork and verification processes involved, details of the $100 fee, and Valve's system for reviewing submissions - these will be "brief", the company said, involving the Steam team playing each game to check configuration, that it matches the store-page description, and doesn't feature malicious content.
+
+"These processes shouldn't take more than a day or two unless we find something configured incorrectly or problematic."
+
+There's [plenty of detail in the full blog post](http://steamcommunity.com/games/593110/announcements/detail/1328973169870947116), which any developer wishing to sell products through Steam should read.

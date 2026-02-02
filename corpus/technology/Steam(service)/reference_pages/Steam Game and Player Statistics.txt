@@ -1,0 +1,105 @@
+# Steam: Game and Player Statistics
+
+Steam: Game and Player Statistics
+
+===============
+
+[![Image 1: Link to the Steam Homepage](https://store.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016)](https://store.steampowered.com/?snr=1_26_content__global-header)
+
+[STORE](https://store.steampowered.com/?snr=1_26_content__global-header)
+
+[Home](https://store.steampowered.com/?snr=1_26_content__global-header)[Discovery Queue](https://store.steampowered.com/explore/?snr=1_26_content__global-header)[Wishlist](https://steamcommunity.com/my/wishlist/)[Points Shop](https://store.steampowered.com/points/shop/?snr=1_26_content__global-header)[News](https://store.steampowered.com/news/?snr=1_26_content__global-header)[Stats](https://store.steampowered.com/stats/?snr=1_26_content__global-header)
+
+[COMMUNITY](https://steamcommunity.com/)
+
+[Home](https://steamcommunity.com/)[Discussions](https://steamcommunity.com/discussions/)[Workshop](https://steamcommunity.com/workshop/)[Market](https://steamcommunity.com/market/)[Broadcasts](https://steamcommunity.com/?subsection=broadcasts)
+
+[About](https://store.steampowered.com/about/?snr=1_26_content__global-header)[SUPPORT](https://help.steampowered.com/en/)
+
+[Install Steam](https://store.steampowered.com/about/?snr=1_26_content__global-header)[login](https://store.steampowered.com/login/?redir=stats%2Fcontent&redir_ssl=1&snr=1_26_content__global-header)|language
+
+[简体中文 (Simplified Chinese)](http://store.steampowered.com/stats/content?l=schinese)[繁體中文 (Traditional Chinese)](http://store.steampowered.com/stats/content?l=tchinese)[日本語 (Japanese)](http://store.steampowered.com/stats/content?l=japanese)[한국어 (Korean)](http://store.steampowered.com/stats/content?l=koreana)[ไทย (Thai)](http://store.steampowered.com/stats/content?l=thai)[Български (Bulgarian)](http://store.steampowered.com/stats/content?l=bulgarian)[Čeština (Czech)](http://store.steampowered.com/stats/content?l=czech)[Dansk (Danish)](http://store.steampowered.com/stats/content?l=danish)[Deutsch (German)](http://store.steampowered.com/stats/content?l=german)[Español - España (Spanish - Spain)](http://store.steampowered.com/stats/content?l=spanish)[Español - Latinoamérica (Spanish - Latin America)](http://store.steampowered.com/stats/content?l=latam)[Ελληνικά (Greek)](http://store.steampowered.com/stats/content?l=greek)[Français (French)](http://store.steampowered.com/stats/content?l=french)[Italiano (Italian)](http://store.steampowered.com/stats/content?l=italian)[Bahasa Indonesia (Indonesian)](http://store.steampowered.com/stats/content?l=indonesian)[Magyar (Hungarian)](http://store.steampowered.com/stats/content?l=hungarian)[Nederlands (Dutch)](http://store.steampowered.com/stats/content?l=dutch)[Norsk (Norwegian)](http://store.steampowered.com/stats/content?l=norwegian)[Polski (Polish)](http://store.steampowered.com/stats/content?l=polish)[Português (Portuguese - Portugal)](http://store.steampowered.com/stats/content?l=portuguese)[Português - Brasil (Portuguese - Brazil)](http://store.steampowered.com/stats/content?l=brazilian)[Română (Romanian)](http://store.steampowered.com/stats/content?l=romanian)[Русский (Russian)](http://store.steampowered.com/stats/content?l=russian)[Suomi (Finnish)](http://store.steampowered.com/stats/content?l=finnish)[Svenska (Swedish)](http://store.steampowered.com/stats/content?l=swedish)[Türkçe (Turkish)](http://store.steampowered.com/stats/content?l=turkish)[Tiếng Việt (Vietnamese)](http://store.steampowered.com/stats/content?l=vietnamese)[Українська (Ukrainian)](http://store.steampowered.com/stats/content?l=ukrainian)[Report a translation problem](https://www.valvesoftware.com/en/contact?contact-person=Translation%20Team%20Feedback)
+
+[Steam Stats](https://store.steampowered.com/stats/?snr=1_26_content_)> Steam Download Stats 
+
+Steam Download Stats
+--------------------
+
+Steam Global Traffic Map (most recent 7 days)
+
+[Interactive Map](http://store.steampowered.com/stats/content) | [Satellite View](http://store.steampowered.com/stats/content)
+
+Loading data. . .
+
+Select Data:[Total Bytes](http://store.steampowered.com/stats/content)[Average Download Rate](http://store.steampowered.com/stats/content)
+
+[Show US States](http://store.steampowered.com/stats/content)
+
+### Click any region to see details
+
+ No Data Available. 
+
+Total Bytes:
+Average Download Rate:
+Percentage of global Steam Traffic:
+
+Performance by Internet Service Provider (ISP)
+----------------------------------------------
+
+Shown below are the average download rates for Steam clients on the most popular Internet Service Providers for , sorted by the number of bytes delivered to that network.
+
+| Network | Average Download Rate |
+| :--- | ---: |
+
+[![Image 2: World map showing the distribution of the human population as green dots](https://cdn.akamai.steamstatic.com/steam/publicstats/global_traffic.png?v=12-02-2025-18)](https://cdn.akamai.steamstatic.com/steam/publicstats/global_traffic.png?v=12-02-2025-18)
+
+Each point represents Steam download activity from at least one Steam user during a recent 24-hour period. 
+
+Steam Download Bandwidth Used (most recent 48 hours)
+
+0 Gbps
+
+10,000 Gbps
+
+20,000 Gbps
+
+30,000 Gbps
+
+40,000 Gbps
+
+50,000 Gbps
+
+current peak
+Total Bandwidth Used:37.6 Tbps 41.1 Tbps
+
+North America 8.5 Tbps 11.6 Tbps
+Europe 14.3 Tbps 14.3 Tbps
+Asia 6.9 Tbps 15 Tbps
+Russia 3.3 Tbps 3.3 Tbps
+South America 2.4 Tbps 3.9 Tbps
+Oceania 288.1 Gbps 1.1 Tbps
+Middle East 1.5 Tbps 1.5 Tbps
+Africa 239 Gbps 239 Gbps
+Central America 139.1 Gbps 190.1 Gbps
+
+Steam Hardware & Software Survey
+
+[Steam Hardware & Software Survey](https://store.steampowered.com/hwsurvey)
+
+Steam Stats
+
+[](https://store.steampowered.com/stats/)
+
+[Steam Support Stats](https://store.steampowered.com/stats/support)
+
+![Image 3: Valve Software](https://store.akamai.steamstatic.com/public/images/v6/logo_steam_footer.png)
+
+[![Image 4: Valve Software](https://store.akamai.steamstatic.com/public/images/footerLogo_valve_new.png)](http://www.valvesoftware.com/)
+
+© 2025 Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.
+
+VAT included in all prices where applicable.[Privacy Policy](https://store.steampowered.com/privacy_agreement/?snr=1_44_44_)|[Legal](https://store.steampowered.com/legal/?snr=1_44_44_)|[Accessibility](https://help.steampowered.com/faqs/view/10BB-D27A-6378-4436?snr=1_44_44_)|[Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/?snr=1_44_44_)|[Refunds](https://store.steampowered.com/steam_refunds/?snr=1_44_44_)|[Cookies](https://store.steampowered.com/account/cookiepreferences/?snr=1_44_44_)
+
+View mobile website
+
+[About Valve](http://www.valvesoftware.com/about)|[Jobs](http://www.valvesoftware.com/)|[Steamworks](http://www.steampowered.com/steamworks/)|[Steam Distribution](https://partner.steamgames.com/steamdirect)|[Support](https://help.steampowered.com/en/?snr=1_44_44_)|[Recycling](https://store.steampowered.com/hardware_recycling/?snr=1_44_44_)|[Gift Cards](https://store.steampowered.com/digitalgiftcards/?snr=1_44_44_)|[![Image 5: Facebook: Steam](https://store.akamai.steamstatic.com/public/images/ico/ico_facebook.png)](https://steamcommunity.com/linkfilter/?u=http%3A%2F%2Fwww.facebook.com%2FSteam)|[![Image 6: X: @Steam](https://store.akamai.steamstatic.com/public/images/ico/ico_twitter.png)](http://twitter.com/steam)|[![Image 7: Bluesky: Steampowered](https://store.akamai.steamstatic.com/public/images/ico/ico_bsky.png)](https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fbsky.app%2Fprofile%2Fsteampowered.com)

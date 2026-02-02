@@ -1,0 +1,1584 @@
+# Life expectancy at birth, male (years)
+
+Life expectancy at birth, male (years) | Data
+
+===============
+
+The Wayback Machine - https://data.worldbank.org/indicator/SP.DYN.LE00.MA.IN
+
+Learn how the World Bank Group is helping countries with COVID-19 (coronavirus). [Find Out](https://www.worldbank.org/en/who-we-are/news/coronavirus-covid19?intcid=wbw_xpl_banner_en_ext_Covid19)
+
+[![Image 1: The World Bank](https://data.worldbank.org/assets/images/logo-wb-header-en.svg)](http://www.worldbank.org/)[Data](https://data.worldbank.org/)![Image 2: A 55x54 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/logo-grey.jpg)
+
+This page in:
+*   [English](https://data.worldbank.org/indicator/SP.DYN.LE00.MA.IN)
+*   [Español](https://datos.bancomundial.org/indicador/SP.DYN.LE00.MA.IN)
+*   [Français](https://donnees.banquemondiale.org/indicateur/SP.DYN.LE00.MA.IN)
+*   [العربية](https://data.albankaldawli.org/indicator/SP.DYN.LE00.MA.IN)
+*   [中文](https://data.worldbank.org.cn/indicator/SP.DYN.LE00.MA.IN)
+
+Life expectancy at birth, male (years)
+
+Close
+
+Browse by[Country](https://data.worldbank.org/country)or[Indicator](https://data.worldbank.org/indicator)
+
+[](https://data.worldbank.org/)[DataBank](http://databank.worldbank.org/data/home.aspx)[Microdata](http://microdata.worldbank.org/index.php/home)[Data Catalog](https://datacatalog.worldbank.org/)
+
+Menu
+
+This page in:
+*   [English](https://data.worldbank.org/indicator/SP.DYN.LE00.MA.IN)
+*   [Español](https://datos.bancomundial.org/indicador/SP.DYN.LE00.MA.IN)
+*   [Français](https://donnees.banquemondiale.org/indicateur/SP.DYN.LE00.MA.IN)
+*   [العربية](https://data.albankaldawli.org/indicator/SP.DYN.LE00.MA.IN)
+*   [中文](https://data.worldbank.org.cn/indicator/SP.DYN.LE00.MA.IN)
+
+*   [Microdata](http://microdata.worldbank.org/index.php/home)
+*   [Data Catalog](http://datacatalog.worldbank.org/)
+*   [DataBank](http://databank.worldbank.org/data/home.aspx)
+
+Browse by[Country](https://data.worldbank.org/country)[Indicator](https://data.worldbank.org/indicator)
+
+*   [About Us](https://data.worldbank.org/about)
+    *   [Get Started](https://data.worldbank.org/about/get-started)
+    *   [FAQ](https://data.worldbank.org/about/faq)
+    *   [Help Desk](http://datahelpdesk.worldbank.org/)
+    *   [Contact](https://data.worldbank.org/about/contact)
+
+*   [Data Programs](https://data.worldbank.org/about/data-programs)
+    *   [Improving Statistical Capacity](https://data.worldbank.org/about/data-programs#statcap)
+    *   [International Comparison Program & Purchasing Power Parity](https://data.worldbank.org/about/data-programs#icp)
+    *   [International Household Survey Network (IHSN)](https://data.worldbank.org/about/data-programs#ihsn)
+    *   [Joint External Debt Hub](https://data.worldbank.org/about/data-programs#jedh)
+    *   [Open Data Toolkit](https://data.worldbank.org/about/data-programs#ogd-toolkit)
+    *   [Quarterly External Debt Statistics](https://data.worldbank.org/about/data-programs#qeds)
+    *   [Trust Fund for Statistical Capacity Building](https://data.worldbank.org/about/data-programs#statcap)
+
+*   [Products](https://data.worldbank.org/products)
+    *   [World Development Indicators](http://datatopics.worldbank.org/world-development-indicators)
+    *   [International Debt Statistics](https://data.worldbank.org/products/ids)
+    *   [Other Books and Reports](https://data.worldbank.org/products/data-books)
+    *   [Country & Lending Groups](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519)
+    *   [Data Portals and Tools](https://data.worldbank.org/products/tools)
+
+*   [Development Goals](http://datatopics.worldbank.org/sdgs)
+*   [Terms of Use](https://data.worldbank.org/summary-terms-of-use)
+*   [For Developers](https://datahelpdesk.worldbank.org/knowledgebase/articles/889386)
+
+[Life expectancy at birth, male (years) ======================================](https://data.worldbank.org/indicator/SP.DYN.LE00.MA.IN)
+
+( 1 ) United Nations Population Division. World Population Prospects: 2019 Revision. ( 2 ) Census reports and other statistical publications from national statistical offices, ( 3 ) Eurostat: Demographic Statistics, ( 4 ) United Nations Statistical Division. Population and Vital Statistics Reprot ( various years ), ( 5 ) U.S. Census Bureau: International Database, and ( 6 ) Secretariat of the Pacific Community: Statistics and Demography Programme.
+
+_License_ : CC BY-4.0[](https://datacatalog.worldbank.org/public-licenses#cc-by)
+
+[Line](https://data.worldbank.org/indicator/SP.DYN.LE00.MA.IN)[Bar](https://data.worldbank.org/indicator/SP.DYN.LE00.MA.IN)[Map](https://data.worldbank.org/indicator/SP.DYN.LE00.MA.IN)
+
+Share Details
+
+Label - [x] 
+
+![Image 3: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)
+
+**1960** - **2018**
+
+*   [Life expectancy at birth, total (years)![Image 4: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/SP.DYN.LE00.IN)
+*   [Life expectancy at birth, female (years)![Image 5: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/SP.DYN.LE00.FE.IN)
+*   [Survival to age 65, female (% of cohort)![Image 6: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/SP.DYN.TO65.FE.ZS)
+*   [Death rate, crude (per 1,000 people)![Image 7: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/SP.DYN.CDRT.IN)
+*   [Contraceptive prevalence, any methods (% of women ages 15-49)![Image 8: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/SP.DYN.CONU.ZS)
+*   [Mortality rate, adult, male (per 1,000 male adults)![Image 9: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/SP.DYN.AMRT.MA)
+*   [Mortality rate, infant (per 1,000 live births)![Image 10: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/SP.DYN.IMRT.IN)
+*   [Mortality rate, infant, male (per 1,000 live births)![Image 11: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/SP.DYN.IMRT.MA.IN)
+
+#### Download
+
+[CSV](http://api.worldbank.org/v2/en/indicator/SP.DYN.LE00.MA.IN?downloadformat=csv)[XML](http://api.worldbank.org/v2/en/indicator/SP.DYN.LE00.MA.IN?downloadformat=xml)[EXCEL](http://api.worldbank.org/v2/en/indicator/SP.DYN.LE00.MA.IN?downloadformat=excel)
+
+[#### DataBank Online tool for visualization and analysis](http://databank.worldbank.org/data/reports.aspx?source=2&series=SP.DYN.LE00.MA.IN&country=)
+
+[#### WDI Tables Thematic data tables from WDI](http://wdi.worldbank.org/table/1.5)
+
+All Countries and Economies
+---------------------------
+
+Country
+
+Most Recent Year
+
+Most Recent Value
+
+[Afghanistan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AF)
+
+2018
+
+63
+
+[Albania](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AL)
+
+2018
+
+77
+
+[Algeria](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=DZ)
+
+2018
+
+75
+
+[American Samoa](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AS)
+
+[Andorra](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AD)
+
+[Angola](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AO)
+
+2018
+
+58
+
+[Antigua and Barbuda](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AG)
+
+2018
+
+76
+
+[Argentina](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AR)
+
+2018
+
+73
+
+[Armenia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AM)
+
+2018
+
+71
+
+[Aruba](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AW)
+
+2018
+
+74
+
+[Australia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AU)
+
+2018
+
+81
+
+[Austria](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AT)
+
+2018
+
+79
+
+[Azerbaijan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AZ)
+
+2018
+
+70
+
+[Bahamas, The](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BS)
+
+2018
+
+71
+
+[Bahrain](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BH)
+
+2018
+
+76
+
+[Bangladesh](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BD)
+
+2018
+
+71
+
+[Barbados](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BB)
+
+2018
+
+78
+
+[Belarus](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BY)
+
+2018
+
+69
+
+[Belgium](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BE)
+
+2018
+
+79
+
+[Belize](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BZ)
+
+2018
+
+72
+
+[Benin](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BJ)
+
+2018
+
+60
+
+[Bermuda](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BM)
+
+2018
+
+78
+
+[Bhutan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BT)
+
+2018
+
+71
+
+[Bolivia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BO)
+
+2018
+
+68
+
+[Bosnia and Herzegovina](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BA)
+
+2018
+
+75
+
+[Botswana](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BW)
+
+2018
+
+66
+
+[Brazil](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BR)
+
+2018
+
+72
+
+[British Virgin Islands](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=VG)
+
+[Brunei Darussalam](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BN)
+
+2018
+
+75
+
+[Bulgaria](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BG)
+
+2018
+
+72
+
+[Burkina Faso](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BF)
+
+2018
+
+60
+
+[Burundi](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=BI)
+
+2018
+
+59
+
+[Cabo Verde](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CV)
+
+2018
+
+69
+
+[Cambodia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KH)
+
+2018
+
+67
+
+[Cameroon](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CM)
+
+2018
+
+58
+
+[Canada](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CA)
+
+2018
+
+80
+
+[Cayman Islands](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KY)
+
+2010
+
+80
+
+[Central African Republic](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CF)
+
+2018
+
+51
+
+[Chad](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TD)
+
+2018
+
+53
+
+[Channel Islands](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=JG)
+
+2018
+
+81
+
+[Chile](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CL)
+
+2018
+
+78
+
+[China](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CN)
+
+2018
+
+75
+
+[Colombia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CO)
+
+2018
+
+74
+
+[Comoros](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KM)
+
+2018
+
+62
+
+[Congo, Dem. Rep.](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CD)
+
+2018
+
+59
+
+[Congo, Rep.](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CG)
+
+2018
+
+63
+
+[Costa Rica](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CR)
+
+2018
+
+78
+
+[Cote d'Ivoire](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CI)
+
+2018
+
+56
+
+[Croatia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=HR)
+
+2018
+
+75
+
+[Cuba](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CU)
+
+2018
+
+77
+
+[Curacao](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CW)
+
+2017
+
+75
+
+[Cyprus](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CY)
+
+2018
+
+79
+
+[Czech Republic](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CZ)
+
+2018
+
+76
+
+[Denmark](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=DK)
+
+2018
+
+79
+
+[Djibouti](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=DJ)
+
+2018
+
+65
+
+[Dominica](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=DM)
+
+2002
+
+75
+
+[Dominican Republic](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=DO)
+
+2018
+
+71
+
+[Ecuador](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=EC)
+
+2018
+
+74
+
+[Egypt, Arab Rep.](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=EG)
+
+2018
+
+70
+
+[El Salvador](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SV)
+
+2018
+
+68
+
+[Equatorial Guinea](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GQ)
+
+2018
+
+57
+
+[Eritrea](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ER)
+
+2018
+
+64
+
+[Estonia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=EE)
+
+2018
+
+74
+
+[Eswatini](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SZ)
+
+2018
+
+55
+
+[Ethiopia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ET)
+
+2018
+
+64
+
+[Faroe Islands](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=FO)
+
+2018
+
+81
+
+[Fiji](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=FJ)
+
+2018
+
+66
+
+[Finland](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=FI)
+
+2018
+
+79
+
+[France](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=FR)
+
+2018
+
+80
+
+[French Polynesia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PF)
+
+2018
+
+75
+
+[Gabon](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GA)
+
+2018
+
+64
+
+[Gambia, The](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GM)
+
+2018
+
+60
+
+[Georgia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GE)
+
+2018
+
+69
+
+[Germany](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=DE)
+
+2018
+
+79
+
+[Ghana](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GH)
+
+2018
+
+63
+
+[Gibraltar](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GI)
+
+[Greece](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GR)
+
+2018
+
+79
+
+[Greenland](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GL)
+
+2016
+
+69
+
+[Grenada](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GD)
+
+2018
+
+70
+
+[Guam](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GU)
+
+2018
+
+77
+
+[Guatemala](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GT)
+
+2018
+
+71
+
+[Guinea](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GN)
+
+2018
+
+60
+
+[Guinea-Bissau](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GW)
+
+2018
+
+56
+
+[Guyana](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GY)
+
+2018
+
+67
+
+[Haiti](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=HT)
+
+2018
+
+62
+
+[Honduras](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=HN)
+
+2018
+
+73
+
+[Hong Kong SAR, China](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=HK)
+
+2018
+
+82
+
+[Hungary](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=HU)
+
+2018
+
+73
+
+[Iceland](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=IS)
+
+2018
+
+81
+
+[India](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=IN)
+
+2018
+
+68
+
+[Indonesia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ID)
+
+2018
+
+69
+
+[Iran, Islamic Rep.](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=IR)
+
+2018
+
+75
+
+[Iraq](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=IQ)
+
+2018
+
+68
+
+[Ireland](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=IE)
+
+2018
+
+81
+
+[Isle of Man](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=IM)
+
+2002
+
+75
+
+[Israel](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=IL)
+
+2018
+
+81
+
+[Italy](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=IT)
+
+2018
+
+81
+
+[Jamaica](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=JM)
+
+2018
+
+73
+
+[Japan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=JP)
+
+2018
+
+81
+
+[Jordan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=JO)
+
+2018
+
+73
+
+[Kazakhstan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KZ)
+
+2018
+
+69
+
+[Kenya](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KE)
+
+2018
+
+64
+
+[Kiribati](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KI)
+
+2018
+
+64
+
+[Korea, Dem. People’s Rep.](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KP)
+
+2018
+
+68
+
+[Korea, Rep.](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KR)
+
+2018
+
+80
+
+[Kosovo](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XK)
+
+2018
+
+70
+
+[Kuwait](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KW)
+
+2018
+
+75
+
+[Kyrgyz Republic](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KG)
+
+2018
+
+67
+
+[Lao PDR](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LA)
+
+2018
+
+66
+
+[Latvia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LV)
+
+2018
+
+70
+
+[Lebanon](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LB)
+
+2018
+
+77
+
+[Lesotho](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LS)
+
+2018
+
+51
+
+[Liberia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LR)
+
+2018
+
+62
+
+[Libya](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LY)
+
+2018
+
+70
+
+[Liechtenstein](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LI)
+
+2018
+
+81
+
+[Lithuania](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LT)
+
+2018
+
+71
+
+[Luxembourg](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LU)
+
+2018
+
+80
+
+[Macao SAR, China](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MO)
+
+2018
+
+81
+
+[Madagascar](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MG)
+
+2018
+
+65
+
+[Malawi](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MW)
+
+2018
+
+61
+
+[Malaysia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MY)
+
+2018
+
+74
+
+[Maldives](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MV)
+
+2018
+
+77
+
+[Mali](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ML)
+
+2018
+
+58
+
+[Malta](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MT)
+
+2018
+
+80
+
+[Marshall Islands](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MH)
+
+2000
+
+63
+
+[Mauritania](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MR)
+
+2018
+
+63
+
+[Mauritius](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MU)
+
+2018
+
+71
+
+[Mexico](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MX)
+
+2018
+
+72
+
+[Micronesia, Fed. Sts.](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=FM)
+
+2018
+
+66
+
+[Moldova](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MD)
+
+2018
+
+68
+
+[Monaco](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MC)
+
+[Mongolia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MN)
+
+2018
+
+66
+
+[Montenegro](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ME)
+
+2018
+
+74
+
+[Morocco](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MA)
+
+2018
+
+75
+
+[Mozambique](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MZ)
+
+2018
+
+57
+
+[Myanmar](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MM)
+
+2018
+
+64
+
+[Namibia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NA)
+
+2018
+
+60
+
+[Nauru](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NR)
+
+[Nepal](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NP)
+
+2018
+
+69
+
+[Netherlands](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NL)
+
+2018
+
+80
+
+[New Caledonia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NC)
+
+2018
+
+75
+
+[New Zealand](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NZ)
+
+2018
+
+80
+
+[Nicaragua](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NI)
+
+2018
+
+71
+
+[Niger](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NE)
+
+2018
+
+61
+
+[Nigeria](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NG)
+
+2018
+
+53
+
+[North Macedonia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MK)
+
+2018
+
+74
+
+[Northern Mariana Islands](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MP)
+
+[Norway](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=NO)
+
+2018
+
+81
+
+[Oman](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=OM)
+
+2018
+
+76
+
+[Pakistan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PK)
+
+2018
+
+66
+
+[Palau](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PW)
+
+2005
+
+66
+
+[Panama](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PA)
+
+2018
+
+75
+
+[Papua New Guinea](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PG)
+
+2018
+
+63
+
+[Paraguay](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PY)
+
+2018
+
+72
+
+[Peru](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PE)
+
+2018
+
+74
+
+[Philippines](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PH)
+
+2018
+
+67
+
+[Poland](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PL)
+
+2018
+
+74
+
+[Portugal](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PT)
+
+2018
+
+78
+
+[Puerto Rico](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PR)
+
+2018
+
+76
+
+[Qatar](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=QA)
+
+2018
+
+79
+
+[Romania](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=RO)
+
+2018
+
+72
+
+[Russian Federation](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=RU)
+
+2018
+
+68
+
+[Rwanda](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=RW)
+
+2018
+
+67
+
+[Samoa](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=WS)
+
+2018
+
+71
+
+[San Marino](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SM)
+
+2012
+
+84
+
+[Sao Tome and Principe](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ST)
+
+2018
+
+68
+
+[Saudi Arabia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SA)
+
+2018
+
+74
+
+[Senegal](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SN)
+
+2018
+
+66
+
+[Serbia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=RS)
+
+2018
+
+74
+
+[Seychelles](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SC)
+
+2018
+
+69
+
+[Sierra Leone](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SL)
+
+2018
+
+53
+
+[Singapore](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SG)
+
+2018
+
+81
+
+[Sint Maarten (Dutch part)](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SX)
+
+2016
+
+74
+
+[Slovak Republic](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SK)
+
+2018
+
+74
+
+[Slovenia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SI)
+
+2018
+
+79
+
+[Solomon Islands](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SB)
+
+2018
+
+71
+
+[Somalia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SO)
+
+2018
+
+55
+
+[South Africa](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ZA)
+
+2018
+
+60
+
+[South Sudan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SS)
+
+2018
+
+56
+
+[Spain](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ES)
+
+2018
+
+81
+
+[Sri Lanka](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LK)
+
+2018
+
+73
+
+[St. Kitts and Nevis](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=KN)
+
+2002
+
+69
+
+[St. Lucia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=LC)
+
+2018
+
+75
+
+[St. Martin (French part)](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=MF)
+
+2018
+
+77
+
+[St. Vincent and the Grenadines](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=VC)
+
+2018
+
+70
+
+[Sudan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SD)
+
+2018
+
+63
+
+[Suriname](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SR)
+
+2018
+
+68
+
+[Sweden](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SE)
+
+2018
+
+81
+
+[Switzerland](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=CH)
+
+2018
+
+82
+
+[Syrian Arab Republic](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=SY)
+
+2018
+
+67
+
+[Tajikistan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TJ)
+
+2018
+
+69
+
+[Tanzania](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TZ)
+
+2018
+
+63
+
+[Thailand](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TH)
+
+2018
+
+73
+
+[Timor-Leste](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TL)
+
+2018
+
+67
+
+[Togo](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TG)
+
+2018
+
+60
+
+[Tonga](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TO)
+
+2018
+
+69
+
+[Trinidad and Tobago](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TT)
+
+2018
+
+71
+
+[Tunisia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TN)
+
+2018
+
+74
+
+[Turkey](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TR)
+
+2018
+
+74
+
+[Turkmenistan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TM)
+
+2018
+
+65
+
+[Turks and Caicos Islands](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TC)
+
+[Tuvalu](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=TV)
+
+[Uganda](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=UG)
+
+2018
+
+61
+
+[Ukraine](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=UA)
+
+2018
+
+67
+
+[United Arab Emirates](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=AE)
+
+2018
+
+77
+
+[United Kingdom](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=GB)
+
+2018
+
+80
+
+[United States](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=US)
+
+2018
+
+76
+
+[Uruguay](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=UY)
+
+2018
+
+74
+
+[Uzbekistan](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=UZ)
+
+2018
+
+69
+
+[Vanuatu](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=VU)
+
+2018
+
+69
+
+[Venezuela, RB](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=VE)
+
+2018
+
+68
+
+[Vietnam](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=VN)
+
+2018
+
+71
+
+[Virgin Islands (U.S.)](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=VI)
+
+2018
+
+76
+
+[West Bank and Gaza](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=PS)
+
+2018
+
+72
+
+[Yemen, Rep.](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=YE)
+
+2018
+
+64
+
+[Zambia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ZM)
+
+2018
+
+61
+
+[Zimbabwe](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ZW)
+
+2018
+
+60
+
+[World](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=1W)
+
+2018
+
+70
+
+[Arab World](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=1A)
+
+2018
+
+70
+
+[Caribbean small states](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=S3)
+
+2018
+
+71
+
+[Central Europe and the Baltics](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=B8)
+
+2018
+
+73
+
+[East Asia & Pacific](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=Z4)
+
+2018
+
+74
+
+[East Asia & Pacific (excluding high income)](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=4E)
+
+2018
+
+73
+
+[Euro area](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XC)
+
+2018
+
+80
+
+[Europe & Central Asia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=Z7)
+
+2018
+
+75
+
+[Europe & Central Asia (excluding high income)](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=7E)
+
+2018
+
+70
+
+[European Union](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=EU)
+
+2018
+
+78
+
+[Fragile and conflict affected situations](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=F1)
+
+2018
+
+60
+
+[Heavily indebted poor countries (HIPC)](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XE)
+
+2018
+
+61
+
+[Latin America & Caribbean](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ZJ)
+
+2018
+
+72
+
+[Latin America & Caribbean (excluding high income)](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XJ)
+
+2018
+
+72
+
+[Least developed countries: UN classification](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XL)
+
+2018
+
+63
+
+[Middle East & North Africa](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ZQ)
+
+2018
+
+72
+
+[Middle East & North Africa (excluding high income)](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XQ)
+
+2018
+
+72
+
+[North America](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XU)
+
+2018
+
+76
+
+[OECD members](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=OE)
+
+2018
+
+77
+
+[Other small states](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=S4)
+
+2018
+
+67
+
+[Pacific island small states](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=S2)
+
+2018
+
+68
+
+[Small states](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=S1)
+
+2018
+
+68
+
+[South Asia](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=8S)
+
+2018
+
+68
+
+[Sub-Saharan Africa](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ZG)
+
+2018
+
+60
+
+[Sub-Saharan Africa (excluding high income)](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=ZF)
+
+2018
+
+60
+
+[High income](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XD)
+
+2018
+
+78
+
+[Low & middle income](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XO)
+
+2018
+
+69
+
+[Low income](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XM)
+
+2018
+
+62
+
+[Lower middle income](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XN)
+
+2018
+
+67
+
+[Middle income](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XP)
+
+2018
+
+70
+
+[Upper middle income](https://data.worldbank.org/data.worldbank.org/indicator/SP.DYN.LE00.MA.IN?locations=XT)
+
+2018
+
+73
+
+[Help us improve this site](http://goo.gl/forms/Hw4zfOQufm)Help / Feedback
+
+*   [![Image 12: The World Bank Working for a World Free of Poverty](https://data.worldbank.org/assets/images/logo-wbg-footer-en.svg)](http://www.worldbank.org/)
+*   [IBRD](http://www.worldbank.org/en/about/what-we-do/brief/ibrd)
+*   [IDA](http://www.worldbank.org/ida)
+*   [IFC](http://www.ifc.org/)
+*   [MIGA](http://www.miga.org/)
+*   [ICSID](http://icsid.worldbank.org/)
+
+*   [Legal](http://www.worldbank.org/en/about/legal)
+*   [Privacy Notice](https://www.worldbank.org/en/about/legal/privacy-notice)
+*   [Access to Information](http://www.worldbank.org/en/access-to-information)
+*   [Jobs](http://www.worldbank.org/jobs)
+*   [Contact](http://www.worldbank.org/contacts)
+
+© 2021 The World Bank Group, All Rights Reserved.
+
+[REPORT FRAUD OR CORRUPTION](http://www.worldbank.org/fraudandcorruption?clear)
+
+This site uses cookies to optimize functionality and give you the best possible experience. If you continue to navigate this website beyond this page, cookies will be placed on your browser. To learn more about cookies, [click here.](https://www.worldbank.org/en/about/legal/privacy-notice)
+
+×

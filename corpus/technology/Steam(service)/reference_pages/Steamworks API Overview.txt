@@ -1,0 +1,159 @@
+# Steamworks API Overview
+
+API overview
+------------
+
+![Image 1: A 1x1 image, likely be a tacker probe](https://partner.steamgames.com/public/images/hr.gif)
+
+Steamworks provides a host of features and solutions for your game. The following overview highlights each of the core features and how they are implemented. More details are available once you've signed up for Steamworks and have logged into this site.
+
+Stats & Achievements
+--------------------
+
+**header: ISteamUserStats.h**
+
+The Steam Stats and Achievements API provides an easy way for your game to provide persistent, roaming achievement and statistics tracking for your users.
+
+See the [documentation page about Steam Stats and Achievements.](https://partner.steamgames.com/documentation/ugs)
+
+User Authentication & Ownership
+-------------------------------
+
+**header: steam_gameserver.h, ISteamGameServer.h, ISteamUser.h**
+
+Steamworks provides a variety of methods for authenticating a Steam user between game clients, game servers, and websites.
+
+See the [documentation page about User Authentication & Ownership.](https://partner.steamgames.com/documentation/auth)
+
+Matchmaking
+-----------
+
+**headers: ISteamMatchmaking.h, ISteamGameServer.h, ISteamMasterServerUpdater.h**
+
+Matchmaking allows users to find existing games via server listings, or to start new games with a group through a lobby. See [Peer-to-Peer Matchmaking](https://partner.steamgames.com/documentation/matchmaking) for more information on using lobby-based matchmaking.
+
+There are both game server and game client components to matchmaking. A game server (which can be a dedicated server or any client that will accept connections to other users) can publish information about itself to a Steam server (called the Master Server). There are a set of details it can share - server name, player count, map/scenario name, IP address. This is detailed in the `ISteamMasterServerUpdater` interface. The game client then uses the `ISteamMatchmakingServers` interface to get the raw lists of these game servers and their details. It first requests a base list from the master server via one on the `SteamMatchmakingServers()->Request*()` functions for the source it wants.
+
+There are a few different sets of servers that can be retrieved:
+
+*   **Internet server list** - game servers hosted on and accessible via the public Internet
+*   **LAN server list** - game servers found on the local class C network via UDP broadcast
+*   **Friends server list** - game servers where your friends are currently playing
+*   **Favorites server list** - game servers that the current user has explicitly marked as a favorite
+*   **History server list** - game servers that the current user has played on recently
+*   **Spectator server list** - game servers marked in a special 'spectate' mode, which means they are actually a proxy that allows the user to observe a different multi-player game via a relay.
+
+The result is a (potentially huge) list of game servers. The game client receives a callback when the list is received. The initial result is a flat list of IP addresses to query, returned approximately in order of how close the game server is to the requesting client.
+
+The client can then request more information on each of those servers, getting both more detailed server information and ping time to that game server. It can take a while to query the information from servers (typically 50-100 servers per second can be queried), so most games choose to start displaying the information as it arrives.
+
+The Steam client's built-in server browser will display basic information about the game server and give the option the user to join, but the information it can show is fairly limited and should be considered a secondary means of joining games, with your own in-game server browser being the primary.
+
+Notes:
+
+*   When a user tries to join a game via the Steam client's server browser, or from a friends list, Steam will launch your game with the following parameters: "`+connect <ip:port>`"
+*   If the game server is flagged as requiring a password, the command line "`+password <password>`" will also be put on the command line.
+*   If your game is already running, Steam will instead send the callback signal `GameServerChangeRequested_t` to the game, which contains both an IP address and a port if necessary. 
+
+Community
+---------
+
+**header: ISteamFriends.h, ISteamUtils.h**
+
+The Steam Community API is a set of functions to access details about other players in the system. There are several bits of data you can query of a user:
+
+*   **SteamID** - their unique identifier in the system
+*   **Persona name** - their nick name / display name / player name
+*   **Persona state** - offline or online
+*   **Avatar** - the image associated with this user
+*   **Game info** - which game a user is running, and which game server they are connected to, if any
+*   **Clan memberships** - which groups the user is a member of
+
+The API will only have information about other users that the local user has come in contact with. A user always knows the state of all their friends, users with whom they share a lobby, and users who are in their groups. Users also have the details of other users on a game server, if the game server is connected to Steam and using the Multi-Player Authentication API. Each of these entities (users, game servers, lobbies, and clans) are all referenced by a SteamID. You can tell what type of entity this is by calling `CSteamID::GetAccountType()`.
+
+To iterate users in these various groups, use the functions `SteamFriends()->GetFriendCountFromSource()` / `SteamFriends()->GetFriendFromSourceByIndex()`. The 'source' referred to is the SteamID of the game server, lobby or clan you want to get a member list for. For example, to iterate all the other users in a lobby:
+
+```
+CSteamID steamIDLobby = steamIDLobbyWeHaveGottenPreviously;
+				int cLobbyMembers = SteamFriends()->GetFriendCountFromSource( steamIDLobby );
+				for ( int i = 0; i < cLobbyMembers; i++ )
+				{
+				  CSteamID steamIDLobbyMember = SteamFriends()->GetFriendFromSourceByIndex( steamIDLobby, i );
+				  const char *pchName = SteamFriends()->GetPersonaName( steamIDLobbyMember );
+				  ...
+				}
+```
+
+ The same method applies to looking at all the users on a game server, or members of a clan.
+
+To iterate the friends of a local user, use `GetFriendCount()` and `GetFriendByIndex()`. To quickly check if another user is a friend (to mark friends specially in the scoreboard for example), use `SteamFriends()->HasFriend()`. All three of these functions take a set of _friend flags_, which is an enum defined at the top of `ISteamFriends.h` that lets you control the set of users to return.
+
+All persona names are returned as UTF-8. If you use wide chars (UTF-16) for localized text in your code base, use `MultiByteToWideChar()` with the CP_UTF8 code page to do conversion.
+
+The avatar of a user is returned as an int, which is a unique texture ID. The functions `SteamUtils()->GetImageSize()` / `SteamUtils()->GetImageRGBA()` take this texture ID and return the texture data as an RGBA stream.
+
+The most commonly posted callback from the community API is `PersonaStateChanged_t`. This is triggered whenever new information about an existing or new user is received. Most commonly, this will be a friend of the local user changing their name, avatar, or online status; but the more interesting case is when joining a lobby or game server. In that case, the following sequence occurs:
+
+*   Local user joins a lobby
+*   Local user receives list of the SteamIDs of other lobby members
+*   At first, the local user knows nothing about the other users, and has to ask the servers about them
+*   When the local user receives that information (usually name first) a `PersonaStateChanged_t` will be posted to the game, with a flag indicating that it's a name change.
+*   Avatar information will also be downloaded at this time, and since it's a bit bigger may take several seconds. Once that's complete, another `PersonaStateChanged_t` callback will be posted indicating the avatar has changed.
+
+Users can also change their name or avatar at any time, so your UI needs to handle these updates. The typical pattern is for every UI widget that displays user information to register for the `PersonaStateChanged_t` callback, and update on any change.
+
+There are a couple of other useful, but not directly related to community, functions also exposed here.
+
+If you have push-to-talk voice in your game, you should call `SteamFriends()->SetInGameVoiceSpeaking()` whenever the push-to-talk key is pressed and released. This tells the Steam client that any voice chat via the friends system should be suppressed, so the user doesn't end up sending the voice to two sources.
+
+If you want your game to activate a dialog in the Steam overlay, use the function `SteamFriends()->ActivateGameOverlay()`. It takes the name of the dialog to open, or just activates the overlay if nothing specified. See `ISteamFriends.h` for more details.
+
+Peer-to-peer networking
+-----------------------
+
+**header: ISteamNetworking.h**
+
+The Steam networking API is a simple set of functions to let the game send data directly between two Steam users. To make connections from behind home NAT's, it uses the [libjingle](http://www.google.com/search?q=libjingle) NAT-punching library or, if no direct connection can be made, through the Steam relay servers.
+
+ See the [documentation page about Steam peer-to-peer networking.](https://partner.steamgames.com/documentation/networking)
+
+Steam Cloud
+-----------
+
+**header: ISteamRemoteStorage.h**
+
+The Steam Cloud API provides the game, and therefore the player, with access to file storage that follows the player from computer to computer. Game settings, savegames, and other user-specific bits can be replicated to the Steam Cloud to provide the player with a continuous and hassle-free experience.
+
+Using the Steam cloud is simple, all it takes is using the API to read and write the files in question.
+
+ See the [documentation page about Steam Cloud remote file storage.](https://partner.steamgames.com/documentation/cloud)
+
+Valve Anti-Cheat
+----------------
+
+**see multiplayer auth headers: steam_gameserver.h, ISteamGameServer.h, ISteamUser.h**
+
+Integration work with the VAC Steamworks C++ API is simple, because the heavy-lifting is left to Steam. An advantage is that cheat detection is not handled directly by your game client. The only thing your game needs to do is use the API to find out whether or not a given user is VAC banned.
+
+VAC is a component of Steamworks and the Steam client, and works by scanning the users system for cheats while your game is running. It works a lot like a virus scanner, and has a database of known cheats to detect.
+
+Voice
+-----
+
+Steamworks offers a solution for integrated in-game voice communication, including technology to connect peers directly across NAT devices. This provides a dependable framework for players to communicate.
+
+In addition, the Steam Community offers voice chat capabilities to players which can be used while playing any game.
+
+DRM
+---
+
+Steamworks Digital Rights Management wraps your game's compiled executable and checks to make sure that it is running under an authenticated instance of Steam. This DRM solution is the same as the one used to protect games like Half-Life 2 and Counter-Strike: Source. Steamworks DRM has been heavily road-tested and is customer-friendly.
+
+In addition to DRM solutions, Steamworks also offers protection for game through day one release by shipping encrypted media to stores worldwide. There's no worry that your game will leak early from the manufacturing path, because your game stays encrypted until the moment you decide to release it. This protection can be added to your game simply by handing us finished bits or a gold master.
+
+CEG Overview
+------------
+
+#### How It works
+
+The Steamworks CEG system generates a custom binary for each customer. When you link your application with the Steamworks CEG, we provide you with several tools that you use to generate metadata about your executable file. This metadata is stored on the Steam 3 DRMS Server. When a user installs your game, the DRMS server collects information from the customer's computer that uniquely identifies it. The collected information is used in combination with the metadata regarding your executable file to generate a custom binary, that checks that it is running on the user's computer. If the user changes the configuration of their computer such that the CEG checks would fail to identify the computer, the CEG system will automatically generate a new executable file for the user, and update their game installation. These checks occur whenever your game is run, regardless of whether the computer is connected to the Internet or not. In addition to examining the user's computer, the CEG system will detect tampering with the executable file, and will conceal its workings from reverse engineering.

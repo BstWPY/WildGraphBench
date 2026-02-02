@@ -1,0 +1,161 @@
+# Mortality in the United States, 2023
+
+NCHS Data Brief No. 521, December 2024
+
+[PDF Version](https://www.cdc.gov/nchs/data/databriefs/db521.pdf) (522 KB)
+
+Sherry L. Murphy, B.S., Kenneth D. Kochanek, M.A., Jiaquan Xu, M.D., and Elizabeth Arias, Ph.D.
+
+This report presents final 2023 U.S. mortality data on deaths and death rates by demographic and medical characteristics. These data provide information on mortality patterns among U.S. residents by variables such as sex, age, race and Hispanic origin, and cause of death. Life expectancy estimates, age-adjusted death rates, age-specific death rates, the 10 leading causes of death, infant mortality rates, and the 10 leading causes of infant death were analyzed by comparing 2023 and 2022 final data ([1)](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref1).
+
+**Keywords**: _life expectancy, leading cause, National Vital Statistics System, heart disease, infant mortality_
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "How long can we expect to live?")How long can we expect to live?
+
+In 2023, life expectancy at birth was 78.4 years for the total U.S. population—an increase of 0.9 year from 77.5 in 2022 ([Figure 1](https://www.cdc.gov/nchs/products/databriefs/db521.htm#fig1), [Table 1](https://www.cdc.gov/nchs/products/databriefs/db521.htm#table1)). For males, life expectancy increased 1.0 year from 74.8 in 2022 to 75.8 in 2023. For females, life expectancy increased 0.9 year from 80.2 in 2022 to 81.1 in 2023. In 2023, the difference in life expectancy between females and males was 5.3 years, a decrease of 0.1 year from 2022.
+
+In 2023, life expectancy at age 65 for the total population was 19.5 years, an increase of 0.6 year from 2022. For males, life expectancy at age 65 increased 0.7 year from 17.5 in 2022 to 18.2 in 2023. For females, life expectancy at age 65 increased 0.5 year from 20.2 in 2022 to 20.7 in 2023. The difference in life expectancy at age 65 between females and males was 2.5 years in 2023, a decrease of 0.2 year from 2022.
+
+[](https://www.cdc.gov/nchs/products/databriefs/db521.htm)**Figure 1. Life expectancy at birth and age 65, by sex: United States, 2022 and 2023**
+
+[![Image 1: Figure 1 is a bar graph showing the life expectancy at birth and at age 65 by sex in the United States in 2022 and 2023.](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig1.gif)](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig1.png)
+
+ SOURCE: National Center for Health Statistics, National Vital Statistics System, mortality data file.
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "What are the age-adjusted death rates for race-ethnicity-sex groups?")What are the age-adjusted death rates for race-ethnicity-sex groups?
+
+The age-adjusted death rate for the total population decreased 6.0% from 798.8 deaths per 100,000 U.S. standard population in 2022 to 750.5 in 2023 ([Figure 2](https://www.cdc.gov/nchs/products/databriefs/db521.htm#fig2), [Table 2](https://www.cdc.gov/nchs/products/databriefs/db521.htm#table2)).
+
+From 2022 to 2023, age-adjusted death rates, corrected for race and ethnicity misclassification, decreased 10.5% for Hispanic males (774.2 to 692.8) and 7.9% for Hispanic females (512.9 to 472.4). Among the non-Hispanic population, death rates decreased 11.5% for American Indian and Alaska Native males (1,444.1 to 1,277.7), 13.5% for American Indian and Alaska Native females (1,063.6 to 920.3), 8.8% for Asian males (522.2 to 476.1), 5.7% for Asian females (354.9 to 334.6), 8.8% for Black males (1,263.3 to 1,151.6), 7.3% for Black females (813.2 to 753.6), 6.7% for White males (971.9 to 906.4), and 4.2% for White females (691.9 to 662.8).
+
+[](https://www.cdc.gov/nchs/products/databriefs/db521.htm)**Figure 2. Age-adjusted death rate, by race and Hispanic origin and sex: United States, 2022 and 2023**
+
+[![Image 2: Figure 2 is a bar graph showing the age-adjusted death rate by race and Hispanic origin and sex in the United States in 2022 and 2023.](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig2.gif)](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig2.png)
+
+1 Includes races and origins not shown separately.
+
+2 Statistically significant decrease from 2022 to 2023 (_p_< 0.05).
+
+ NOTES: AIAN is American Indian and Alaska Native. Race groups are single race. People of Hispanic origin may be of any race. Data by race and Hispanic origin are adjusted for race and Hispanic-origin misclassification on death certificates. Adjusted data may differ from data shown in other reports that have not been adjusted for misclassification on death certificates.
+
+ SOURCE: National Center for Health Statistics, National Vital Statistics System, mortality data file.
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "Did age-specific death rates in 2023 change from 2022 for people age 1 year and older?")Did age-specific death rates in 2023 change from 2022 for people age 1 year and older?
+
+From 2022 to 2023, death rates decreased 3.9% for age group 5–14 (15.3 to 14.7), 3.4% for 15–24 (79.5 to 76.8), 9.4% for 25–34 (163.4 to 148.1), 7.1% for 35–44 (255.4 to 237.3), 9.2% for 45–54 (453.3 to 411.8), 9.3% for 55–64 (992.1 to 899.6), 8.5% for 65–74 (1,978.7 to 1,809.6), 7.7% for 75–84 (4,708.2 to 4,345.5), and 0.7% for 85 and older (14,389.6 to 14,285.8) ([Figure 3](https://www.cdc.gov/nchs/products/databriefs/db521.htm#fig3), [Table 3](https://www.cdc.gov/nchs/products/databriefs/db521.htm#table3)).
+
+The age-specific rate for age group 1–4 did not change significantly between 2022 and 2023.
+
+[](https://www.cdc.gov/nchs/products/databriefs/db521.htm)**Figure 3. Death rate for age 1 year and older: United States, 2022 and 2023**
+
+[![Image 3: Figure 3 is a bar graph showing the age-specific death rate for age 1 year and older for the total population in the United States in 2022 and 2023.](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig3.gif)](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig3.png)
+
+1 Statistically significant decrease from 2022 to 2023 (_p_< 0.05).
+
+ NOTES: Rates are plotted on a logarithmic scale. Data table for Figure 3 includes the number of deaths.
+
+ SOURCE: National Center for Health Statistics, National Vital Statistics System, mortality data file.
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "What are the death rates for the 10 leading causes of death?")What are the death rates for the 10 leading causes of death?
+
+In 2023, the 10 leading causes of death remained the same as in 2022. The top leading cause in 2023 was heart disease, followed by cancer and unintentional injuries ([Figure 4](https://www.cdc.gov/nchs/products/databriefs/db521.htm#fig4), [Table 4](https://www.cdc.gov/nchs/products/databriefs/db521.htm#table4)).
+
+The remaining leading causes changed rank in 2023 from 2022. The most notable change was for COVID-19, which dropped from the 4th leading cause in 2022 to the 10th leading cause in 2023. The remaining leading causes moved up one position in rank from 2022 to 2023. Stroke became the 4th leading cause in 2023, chronic lower respiratory diseases became the 5th, Alzheimer disease became the 6th, diabetes became the 7th, kidney disease became the 8th, and chronic liver disease and cirrhosis became the 9th.
+
+From 2022 to 2023, age-adjusted death rates decreased for 9 of the 10 leading causes of death. The rate decreased 3.1% for heart disease (from 167.2 in 2022 to 162.1 in 2023), 2.7% for unintentional injuries (64.0 to 62.3), 1.3% for stroke (39.5 to 39.0), 2.6% for chronic lower respiratory diseases (34.3 to 33.4), 4.2% for Alzheimer disease (28.9 to 27.7), 7.1% for diabetes (24.1 to 22.4), 5.1% for kidney disease (13.8 to 13.1), 5.8% for chronic liver disease and cirrhosis (13.8 to 13.0), and 73.3% for COVID-19 (44.5 to 11.9).
+
+The rate for cancer did not change significantly from 2022 to 2023.
+
+[](https://www.cdc.gov/nchs/products/databriefs/db521.htm)**Figure 4. Age-adjusted death rate for the 10 leading causes of death in 2023: United States, 2022 and 2023**
+
+[![Image 4: Figure 4 is a bar chart showing the percentage of emergency department visits with an influenza test ordered or provided by geographic region in the United States in 2013 and 2022. Figure 4 is a bar graph showing the age-adjusted death rates for the 10 leading causes of death in the United States in 2022 and 2023.](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig4.gif)](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig4.png)
+
+1 Statistically significant decrease from 2022 to 2023 (_p_< 0.05).
+
+ NOTES: A total of 3,090,964 resident deaths were registered in the United States in 2023. The 10 leading causes of death accounted for 70.9% of all U.S. deaths in 2023. Causes of death are ranked according to number of deaths in 2023. Rankings for 2022 data are not shown. Data table for Figure 4 includes the number of deaths for leading causes and the percentage of total deaths.
+
+ SOURCE: National Center for Health Statistics, National Vital Statistics System, mortality data file.
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "What are the mortality rates for the 10 leading causes of infant death and for infant deaths overall?")What are the mortality rates for the 10 leading causes of infant death and for infant deaths overall?
+
+The infant mortality rate (IMR) of 560.2 infant deaths per 100,000 live births in 2023 was not significantly different from the rate in 2022 (560.4).
+
+Causes of infant death are ranked according to number of infant deaths. The 10 leading causes of infant death in 2023 (congenital malformations, low birth weight, sudden infant death syndrome, unintentional injuries, maternal complications, bacterial sepsis of newborn, cord and placental complications, respiratory distress of newborn, intrauterine hypoxia and birth asphyxia, and diseases of the circulatory system) accounted for 65.3% of all infant deaths in the United States ([Figure 5](https://www.cdc.gov/nchs/products/databriefs/db521.htm#fig5), [Table 5](https://www.cdc.gov/nchs/products/databriefs/db521.htm#table5)).
+
+In 2023, bacterial sepsis of newborn moved from the seventh leading cause of infant death to the sixth leading cause, while cord and placental complications dropped from the sixth to the seventh leading cause. The IMR for cord and placental complications decreased 10.7% from 17.7 in 2022 to 15.8 in 2023. Mortality rates for the other leading causes of infant death did not change significantly.
+
+[](https://www.cdc.gov/nchs/products/databriefs/db521.htm)**Figure 5. Infant mortality rate for the 10 leading causes of infant death in 2023: United States, 2022 and 2023**
+
+[![Image 5: Figure 5 is a bar graph showing the infant mortality rate for the 10 leading causes of infant death in the United States in 2022 and 2023.](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig5.gif)](https://www.cdc.gov/nchs/images/databriefs/501-550/db521-fig5.png)
+
+1 Statistically significant decrease from 2022 to 2023 (_p_< 0.05).
+
+ NOTES: A total of 20,145 deaths occurred in children younger than age 1 year in the United States in 2023, with an infant mortality rate of 560.2 infant deaths per 100,000 live births. The 10 leading causes of infant death in 2023 accounted for 65.3% of all infant deaths in the United States. A total of 20,553 infant deaths occurred in 2022, with an infant mortality rate of 560.4 infant deaths per 100,000 live births. Causes of death are ranked according to number of deaths in 2023. Rankings for 2022 data are not shown. Data table for Figure 5 includes the number of deaths in children younger than age 1 year for leading causes of infant death and the percentage of total infant deaths.
+
+ SOURCE: National Center for Health Statistics, National Vital Statistics System, mortality data file.
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "Summary")Summary
+
+In 2023, a total of 3,090,964 resident deaths were registered in the United States—188,893 fewer deaths than in 2022. The number of deaths for which COVID-19 was the underlying cause of death decreased 73.2% from 186,552 in 2022 to 49,932 in 2023. COVID-19 dropped from the 4th leading cause of death in 2022 to the 10th leading cause in 2023. The age-adjusted death rate for the total population decreased 6.0% in 2023 from 2022 ([1](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref1)). Life expectancy for the total population increased 0.9 year from 2022 to 2023 ([1](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref1)). Age-specific death rates decreased in 2023 from 2022 for age groups 5–14 and older. Age-adjusted death rates decreased in 2023 from 2022 for all race and Hispanic-origin groups for both males and females.
+
+The 10 leading causes of death in 2023 remained the same as in 2022, although some causes changed ranks. Heart disease and cancer remained the top two leading causes of death. Age-adjusted death rates decreased for nine of the leading causes. Life expectancy at birth increased 0.9 year from 77.5 in 2022 to 78.4 in 2023, largely because of decreases in mortality due to COVID-19, heart disease, unintentional injuries, cancer, and diabetes.
+
+In 2023, the number of infant deaths was 20,145, which was 408 fewer infant deaths than in 2022. The IMR of 560.2 infant deaths per 100,000 live births in 2023 did not change significantly from 2022 (560.4). Among the 10 leading causes of infant death, the only significant change in IMR from 2022 to 2023 was the 10.7% decrease for cord and placental complications.
+
+Data and findings in this report are based on final mortality data and may differ from provisional data and findings previously published.
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "Definitions")Definitions
+
+**Cause of death**: Based on medical information—including injury diagnoses and external causes of injury—entered on death certificates filed in the United States. This information is classified and coded according to the _International Statistical Classification of Diseases and Related Health Problems, 10th Revision_ ([2](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref2)).
+
+**Death rates**: For 2023, based on population estimates for July 1, 2023, that are based on the blended base produced by the U.S. Census Bureau in place of the April 1, 2020, decennial population count. The blended base consists of Vintage 2020 population estimates for April 1, 2020 (based on the April 1, 2010, decennial census), blended with the 2020 Demographic Analysis estimates and the 2020 Census Edited File (see: [https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2020-2023/methods-statement-v2023.pdf](https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/2020-2023/methods-statement-v2023.pdf)). These population estimates are available from the CDC WONDER website ([3](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref3)). Age-adjusted death rates are useful when comparing different populations because they remove the potential bias that can occur when the populations being compared have different age structures. The National Center for Health Statistics uses the direct method of standardization; see the Technical Notes of “Deaths: Final Data for 2022” ([4](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref4)) for more information.
+
+**Infant mortality rate (IMR)**: Computed by dividing the number of infant deaths in a calendar year by the number of live births registered for the same period. IMR is the most widely used index for measuring the risk of dying during the first year of life.
+
+**Leading causes of death**: Ranked according to the number of deaths assigned to rankable causes ([5](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref5)).
+
+**Life expectancy**: The expected average number of years of life remaining at a given age. It is denoted by e _x_, which means the average number of subsequent years of life for someone now age _x_. Life expectancy estimates for 2023 are based on a methodology first implemented with 2008 final mortality data ([6](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref6)).
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "Data source and methods")Data source and methods
+
+The data shown in this report reflect information collected by the National Center for Health Statistics for 2022 and 2023 from death certificates filed in all 50 states and the District of Columbia and compiled into national data known as the National Vital Statistics System. Differences between death rates were evaluated using a two-tailed _z_ test.
+
+The race and Hispanic-origin groups shown in this report follow the 1997 Office of Management and Budget standards and differ from the bridged-race categories shown in reports for data years before 2018 ([4](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref4)).
+
+Death rates for the Hispanic, non-Hispanic American Indian and Alaska Native, and non-Hispanic Asian populations are affected by inconsistencies in reporting Hispanic origin and race on the death certificate compared with censuses and surveys ([7](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref7),[8](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref8)). As a result, death rates are underestimated by 3% for the Hispanic and non-Hispanic Asian populations and by 34% for the non-Hispanic American Indian and Alaska Native population. Age-adjusted death rates by race and ethnicity in this report are adjusted for race and Hispanic-origin misclassification on death certificates ([7](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref7),[8](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref8)). Adjusted data may differ from data shown in other reports that have not been adjusted for misclassification. The classification ratios used for the adjustment of race and Hispanic-origin misclassification on death certificates can be found elsewhere ([9](https://www.cdc.gov/nchs/products/databriefs/db521.htm#ref9)). The classification ratios for the Native Hawaiian or Other Pacific Islander non-Hispanic population were not produced because the data needed to evaluate race and ethnicity misclassification on death certificates are not currently available for this population; consequently, rates for this group are not included in this report.
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "About the authors")About the authors
+
+Sherry L. Murphy, Kenneth D. Kochanek, Jiaquan Xu, and Elizabeth Arias are with the National Center for Health Statistics, Division of Vital Statistics. The authors would like to acknowledge Arialdi Miniño and Brigham Bastian, Division of Vital Statistics, for providing content review of data and tables.
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "References")References
+
+1.   [](https://www.cdc.gov/nchs/products/databriefs/db521.htm)Kochanek, KD, Murphy SL, Xu JQ, Arias E. Mortality in the United States, 2022. NCHS Data Brief, no 492. Hyattsville, MD: National Center for Health Statistics. 2024. DOI: [https://dx.doi.org/10.15620/cdc:135850](https://dx.doi.org/10.15620/cdc:135850).
+2.   [](https://www.cdc.gov/nchs/products/databriefs/db521.htm)World Health Organization. International statistical classification of diseases and related health problems, 10th revision (ICD–10). 5th ed. 2016. 
+3.   [](https://www.cdc.gov/nchs/products/databriefs/db521.htm)Centers for Disease Control and Prevention. CDC WONDER. [Single-race population estimates, 2010–2023](https://wonder.cdc.gov/single-race-population.html). 
+4.   [](https://www.cdc.gov/nchs/products/databriefs/db521.htm)Xu JQ, Murphy SL, Kochanek KD, Arias E. Deaths: Final data for 2022. National Vital Statistics Reports. Hyattsville, MD: National Center for Health Statistics. 2025. [Forthcoming]. 
+5.   [](https://www.cdc.gov/nchs/products/databriefs/db521.htm)Curtin SC, Tejada-Vera B, Bastian BA. Deaths: Leading causes for 2022. National Vital Statistics Reports; vol 73 no 10. Hyattsville, MD: National Center for Health Statistics. 2025. [Forthcoming].
+6.   [](https://www.cdc.gov/nchs/products/databriefs/db521.htm)Arias E. United States life tables, 2008. [National Vital Statistics Reports; vol 61 no 3. Hyattsville, MD: National Center for Health Statistics](https://www.cdc.gov/nchs/data/nvsr/nvsr61/nvsr61_03.pdf). 2012. 
+7.   [](https://www.cdc.gov/nchs/products/databriefs/db521.htm)Arias E, Heron M, Hakes JK. [The validity of race and Hispanic-origin reporting on death certificates in the United States: An update](https://www.cdc.gov/nchs/data/series/sr_02/sr02_172.pdf). National Center for Health Statistics. Vital Health Stat 2(172). 2016. 
+8.   [](https://www.cdc.gov/nchs/products/databriefs/db521.htm)Arias E, Xu JQ, Curtin S, Bastian B, Tejada-Vera B. Mortality profile of the non-Hispanic American Indian or Alaska Native population, 2019. National Vital Statistics Reports; vol 70 no 12. Hyattsville, MD: National Center for Health Statistics. 2021. DOI: [https://dx.doi.org/10.15620/cdc:110370](https://dx.doi.org/10.15620/cdc:110370). 
+9.   [](https://www.cdc.gov/nchs/products/databriefs/db521.htm)Arias E, Xu JQ, Kochanek KD. United States life tables, 2022. National Vital Statistics Reports. Hyattsville, MD: National Center for Health Statistics. 2025. [Forthcoming].
+
+### [](https://www.cdc.gov/nchs/products/databriefs/db521.htm "Suggested citation")Suggested citation
+
+Murphy SL, Kochanek KD, Xu JQ, Arias E. Mortality in the United States, 2023. NCHS Data Brief, no 521. Hyattsville, MD: National Center for Health Statistics. 2024. DOI: [https://dx.doi.org/10.15620/cdc/170564](https://dx.doi.org/10.15620/cdc/170564).
+
+#### Copyright information
+
+All material appearing in this report is in the public domain and may be reproduced or copied without permission; citation as to source, however, is appreciated.
+
+#### National Center for Health Statistics
+
+Brian C. Moyer, Ph.D., _Director_
+
+ Amy M. Branum, Ph.D., _Associate Director for Science_
+
+##### Division of Vital Statistics
+
+Paul D. Sutton, Ph.D., _Director_
+
+ Andrés A. Berruti, Ph.D., M.A., _Associate Director for Science_

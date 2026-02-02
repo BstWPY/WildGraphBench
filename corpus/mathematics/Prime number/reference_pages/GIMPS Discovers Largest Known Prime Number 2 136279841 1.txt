@@ -1,0 +1,94 @@
+# GIMPS Discovers Largest Known Prime Number: 2 136,279,841 − 1
+
+52nd Known Mersenne Prime Discovered
+
+[GIMPS](http://www.mersenne.org/) Discovers
+
+ Largest Known Prime Number: 2 136,279,841-1
+-----------------------------------------------------------------------------------------
+
+**BLOWING ROCK, NC, October 21, 2024** -- The [Great Internet Mersenne Prime Search (GIMPS)](https://mersenne.org/) has discovered the largest known prime number, 2 136,279,841-1, having [41,024,320 decimal digits](https://www.mersenne.org/primes/digits/M136279841.zip). Luke Durant, from San Jose, California, found the prime on October 12th.
+
+Luke is currently GIMPS' most prolific contributor. He is joined by thousands of volunteers using free GIMPS software available at [www.mersenne.org/download/](https://www.mersenne.org/download/).
+
+The new prime number, also known as M136279841, is calculated by multiplying together 136,279,841 twos, and then subtracting 1. It is over 16 million digits larger than the [previous record prime number](https://www.mersenne.org/primes/?press=M82589933), in a special class of extremely rare prime numbers known as Mersenne primes. It is only the 52nd known Mersenne prime ever discovered, each increasingly more difficult to find. Mersenne primes were named for the French monk [Marin Mersenne](https://en.wikipedia.org/wiki/Marin_Mersenne), who studied these numbers more than 350 years ago. GIMPS, founded in 1996, has discovered the last 18 Mersenne primes. Volunteers [download a free program](https://www.mersenne.org/download/) to search for these primes, with a $3000 award offered to anyone lucky enough to find a new prime. Prof. Chris Caldwell founded an authoritative web site on [the largest known primes](https://t5k.org/) which is now maintained by volunteers, and has an excellent [history of Mersenne primes](https://t5k.org/mersenne/index.html).
+
+**Rise of the GPU**
+
+This prime ends the 28-year reign of ordinary personal computers finding these huge prime numbers. In 2017, Mihai Preda saw the ever increasing power of GPUs in PCs and wrote the GpuOwl program to test Mersenne numbers for primality, making his software available to all GIMPS users.
+
+Luke Durant, a 36 year-old researcher and former NVIDIA employee, also understands the power of the GPUs he helped design. Luke decided that finding a new Mersenne prime would be a great demonstration that GPUs can be used for more than AI. GPUs are well suited to fundamental math and science research as well.
+
+Luke began contributing to GIMPS in October 2023, and believed the explosive growth of GPU availability in the cloud presented a unique opportunity for the software developed by Mihai. Luke developed infrastructure to run and maintain a suite of GIMPS software across many GPU servers. At time of discovery, Luke's "cloud supercomputer" was comprised of thousands of server GPUs, spanning 24 datacenter regions over 17 countries.
+
+After nearly a year of testing, Luke finally struck paydirt. On October 11, an NVIDIA A100 GPU in Dublin, Ireland, reported that M136279841 is probably prime. On October 12, an NVIDIA H100 in San Antonio, Texas, USA, confirmed primality with a Lucas-Lehmer test.
+
+**Verifying the new prime**
+
+The programs that GIMPS users run perform a Fermat probable prime test. A successful test almost certainly is a new prime number. Once the GIMPS server is notified of a probable prime, several definitive Lucas-Lehmer primality tests are run using different programs on different hardware.
+
+Prime95, used to find the previous Mersenne primes, was run on Intel CPUs by Aaron Blosser to verify the new prime. PRPLL/GpuOwl (PRPLL is an offshoot of GpuOwl), was run on both AMD and NVIDIA GPUs by Luke Durant, James Heinrich, Serge Batalov, Ken Kriesel, and Mihai Preda to confirm the new prime. Mlucas, written by the late Ernst Mayer, was run by Serge Batalov on an Intel CPU and confirmed the prime on October 19. CUDALucas, an older GPU program, was run on an NVIDIA GPU by Luke Durant and Serge Batalov to also confirm the new prime.
+
+This is the first GIMPS prime discovered using a probable prime test which sparked some debate as to whether the official discovery date should be the date the probable prime test was run or the date the Lucas-Lehmer primality test was run. We have chosen the Lucas-Lehmer date.
+
+**About Mersenne.org's Great Internet Mersenne Prime Search**
+
+The [Great Internet Mersenne Prime Search (GIMPS)](https://www.mersenne.org/) was formed in January 1996 by George Woltman to discover new world record size Mersenne primes. In 1997 Scott Kurowski enabled GIMPS to automatically harness the power of thousands of ordinary computers to search for these "rare mathematical gems". Most GIMPS members join the search for the thrill of possibly discovering a record-setting, rare, and historic new Mersenne prime. The search for more Mersenne primes is already under way. There may be smaller, as yet undiscovered Mersenne primes, and there almost certainly are larger Mersenne primes waiting to be found. Anyone with a reasonably powerful PC or GPU can join GIMPS and become a big prime hunter, and possibly earn a research discovery award. All the necessary software can be downloaded for free at [www.mersenne.org/download/](https://www.mersenne.org/download/). GIMPS is organized as Mersenne Research, Inc., a 501(c)(3) science research charity. Additional information may be found at [www.mersenneforum.org](https://www.mersenneforum.org/) and [www.mersenne.org](https://www.mersenne.org/); donations are welcome.
+
+GIMPS is one of the longest-lived distributed projects in the world. It began with software that only ran on Intel PCs. Within a few years Ernst Mayer authored a program that runs on a variety of non-Intel processors. His program was instrumental in independently verifying nearly every GIMPS prime. Ten years ago specialized software for GPUs was added to GIMPS lineup. A few years later Mihai Preda's ground-breaking gpuowl program arrived. GIMPS now provides a full suite of programs for a wide variety of CPUs and GPUs.
+
+Credit for this prime goes not only to Luke Durant for discovering the prime, Preda and Woltman for software development, and Blosser for maintaining the Primenet server, but also the thousands of GIMPS volunteers that sifted through millions of non-prime candidates. In recognition of all the above people, official credit for this discovery goes to "L. Durant, M. Preda, G. Woltman, A. Blosser, et al."
+
+George Woltman is in charge of software at GIMPS, developing the Prime95 client software used to find GIMPS' first 17 primes. Mihai Preda authored and maintains the GpuOwl GPU software, with Woltman later contributing to program development, which found this prime. Aaron Blosser is the system administrator, upgrading and maintaining the PrimeNet server as needed. Volunteers have a chance to earn [research discovery awards of $3,000 or $50,000](https://www.mersenne.org/legal/#awards) if their computer or GPU discovers a new Mersenne prime. The [Electronic Frontier Foundation administers a $150,000 award](https://www.eff.org/awards/coop-prime-info.php) (funded by an anonymous donor) for discovery of a 100 million digit prime number. Luke Durant's find is eligible for the $3,000 GIMPS research discovery award. He plans to donate the award to the math department at the Alabama School of Math and Science.
+
+There is a unique history to the arithmetic algorithms underlying the GIMPS project. The programs that found the recent big Mersenne primes are based on a special algorithm. In the early 1990's, the late [Richard Crandall](https://en.wikipedia.org/wiki/Richard_Crandall), Apple Distinguished Scientist, discovered ways to double the speed of what are called convolutions -- essentially big multiplication operations. The method is applicable not only to prime searching but other aspects of computation. During that work he also patented the Fast Elliptic Encryption system, now owned by Apple Computer, which uses Mersenne primes to quickly encrypt and decrypt messages. George Woltman implemented Crandall's algorithm in assembly language, thereby producing a prime-search program of unprecedented efficiency, and that work led to the successful GIMPS project.
+
+School teachers from elementary through high-school grades have used GIMPS to get their students excited about mathematics. Students who run the free software are contributing to mathematical research.
+
+**For More Information on Mersenne Primes**
+
+Prime numbers have long fascinated both amateur and professional mathematicians. An integer greater than one is called a prime number if its only divisors are one and itself. The first prime numbers are 2, 3, 5, 7, 11, etc. For example, the number 10 is not prime because it is divisible by 2 and 5. A Mersenne prime is a prime number of the form 2 P-1. The first Mersenne primes are 3, 7, 31, and 127 corresponding to P = 2, 3, 5, and 7 respectively. There are now 52 known Mersenne primes.
+
+[Mersenne primes](https://t5k.org/mersenne/index.html) have been central to number theory since they were first discussed by Euclid about 350 BC. The man whose name they now bear, the French monk [Marin Mersenne](http://www-groups.dcs.st-and.ac.uk/~history/Mathematicians/Mersenne.html) (1588-1648), made a famous conjecture on which values of P would yield a prime. It took 300 years and several important discoveries in mathematics to settle his conjecture.
+
+Euclid proved that every Mersenne prime generates a perfect number. A perfect number is one whose proper divisors add up to the number itself. The smallest perfect number is 6 = 1 + 2 + 3 and the second perfect number is 28 = 1 + 2 + 4 + 7 + 14. Euler (1707-1783) proved that all even perfect numbers come from Mersenne primes. The newly discovered perfect number is 2 136,279,840 x (2 136,279,841-1). This number is over [82 million digits](https://www.mersenne.org/primes/perfect/perfect136279841.zip) long! It is still unknown if any odd perfect numbers exist.
+
+At present there are few practical uses for these large Mersenne primes, prompting some to ask "why search for these large primes"? Those same doubts existed a few decades ago until important cryptography algorithms were developed based on prime numbers. For more good reasons to search for large prime numbers, [see here.](https://www.mersenne.org/why_join/)
+
+**Previous GIMPS discoveries**
+
+Previous GIMPS Mersenne prime discoveries were made by members in various countries. 
+
+In December 2018, Patrick Laroche et al. discovered the [51st known Mersenne prime](https://www.mersenne.org/82589933.htm) in the U.S. 
+
+In December 2017, Jonathan Pace et al. discovered the [50th known Mersenne prime](https://www.mersenne.org/77232917.htm) in the U.S. 
+
+In January 2016, Curtis Cooper et al. discovered the [49th known Mersenne prime](https://www.mersenne.org/74207281.htm) in the U.S. 
+
+In January 2013, Curtis Cooper et al. discovered the [48th Mersenne prime](https://www.mersenne.org/57885161.htm) in the U.S. 
+
+In April 2009, Odd Magnar Strindmo et al. discovered the [46th Mersenne (47th known) prime](https://www.mersenne.org/various/42643801.htm) in Norway. 
+
+In September 2008, Hans-Michael Elvenich et al. discovered the [45th Mersenne (46th known) prime](https://www.mersenne.org/m45and46.htm) in Germany. 
+
+In August 2008, Edson Smith et al. discovered the [47th Mersenne (45th known) prime](https://www.mersenne.org/m45and46.htm) in the U.S. 
+
+In September 2006, Curtis Cooper and Steven Boone et al. discovered the [44th Mersenne prime](https://www.mersenne.org/various/32582657.htm) in the U.S. 
+
+In December 2005, Curtis Cooper and Steven Boone et al. discovered the [43rd Mersenne prime](https://www.mersenne.org/various/30402457.htm) in the U.S. 
+
+In February 2005, Dr. Martin Nowak et al. discovered the [42nd Mersenne prime](https://www.mersenne.org/various/25964951.htm) in Germany. 
+
+In May 2004, Josh Findley et al. discovered the [41st Mersenne prime](https://www.mersenne.org/various/24036583.htm) in the U.S. 
+
+In November 2003, Michael Shafer et al. discovered the [40th Mersenne prime](https://www.mersenne.org/various/20996011.htm) in the U.S. 
+
+In November 2001, Michael Cameron et al. discovered the [39th Mersenne prime](https://www.mersenne.org/various/13466917.htm) in Canada. 
+
+In June 1999, Nayan Hajratwala et al. discovered the [38th Mersenne prime](https://www.mersenne.org/various/6972593.htm) in the U.S. 
+
+In January 1998, Roland Clarkson et al. discovered the [37th Mersenne prime](https://www.mersenne.org/various/3021377.htm) in the U.S. 
+
+In August 1997, Gordon Spence et al. discovered the [36th Mersenne prime](https://www.mersenne.org/various/2976221.htm) in the U.K. 
+
+In November 1996, Joel Armengaud et al. discovered the [35th Mersenne prime](https://www.mersenne.org/various/1398269.htm) in France.

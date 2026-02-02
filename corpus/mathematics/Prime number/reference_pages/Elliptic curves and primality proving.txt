@@ -1,0 +1,3556 @@
+# Elliptic curves and primality proving
+
+mathematics of computation     
+
+> volume 61,number 203
+> july 1993,pages 29-68
+
+ELLIPTIC CURVES AND PRIMALITY PROVING 
+
+A. O. L. ATKIN AND F. MORAIN  
+
+> Dedicated to the memory ofD. H. Lehmer
+> Abstract. The aim of this paper is to describe the theory and implementation
+
+of the Elliptic Curve Primality Proving algorithm.           
+
+> Problema, números primos a compositis dignoscendi, hosque in factores suos
+> primos resolvendi, ad gravissima ac utilissima totius arithmeticae pertinere, et
+> geometrarum turn veterum turn recentiorum industriam ac sagacitatem occu-
+> pavisse, tarn notum est, ut de hac re copióse loqui superfluum foret.
+
+C. F. Gauss [38, Art. 329] 
+
+1. Introduction 
+
+Primality testing is one of the most flourishing fields in computational num-
+
+ber theory. Dating back to Gauss, the interest has recently risen with modern cryptology [16]. For quite a long time, it has been known that one could quickly 
+
+recognize most composite numbers using Fermat's little theorem. For crypto-graphical purposes, this idea was extended and it has yielded some fast prob-
+
+abilistic compositeness algorithms (for this, we refer to [52], the introduction 
+
+of [28], and [9]). On the other hand, testing an arbitrary number for primality 
+
+depended on integer factorization. For this era, see [18, 92, 95]. The reader 
+
+interested in large or curious primes is referred to [80] as well as [68]. 
+
+The year 1979 saw the appearance of the first general-purpose primality test-
+
+ing algorithm, designed by Adleman, Pomerance, and Rumely [3]. The running time of the algorithm was proved to be (^((logA'y108108108^) for some effective c > 0. This algorithm was simplified and made practical by H. W. Lenstra and H. Cohen [28] and then successfully implemented by H. Cohen and A. K. Lenstra [27]. Motivated by our results with elliptic curves (see below), the algo-
+
+rithm was recently optimized by Bosma and Van der Hülst [15] (see also [60]). 
+
+However, it is not possible to check the results of this algorithm independently 
+
+without rewriting and rerunning the entire program; by contrast, our algorithm 
+
+gives a "certificate" which enables a second programmer to verify our proof in 
+
+a time much shorter than the original time. 
+
+Received by the editor May 31, 1990 and, in revised form, December 3, 1992. 
+
+1991 Mathematics Subject Classification.Primary 11Y11, 14H52; Secondary 11E25, 11F11, 11R37.     
+
+> The second author is on leave from the French Department of Defense, Délégation Générale
+> pour l'Armement.
+> © 1993 American Mathematical Society
+> 0025-5718/93 $1.00+ $.25 per page
+> 29 30 A. O. L. ATKJN AND F. MORAIN
+
+In 1985, H. W. Lenstra (Jr.) introduced the use of elliptic curves in fac-
+
+torization. There was then hope to find a similar use for primality testing. This was first done by Goldwasser and Kilian [40] using the architecture of 
+
+the DOWNRUN algorithm of [97] together with a theoretical algorithm due 
+
+to Schoof [83]. They found that this algorithm recognizes primes in expected 
+
+random polynomial time, at least assuming some very plausible conjectures in analytic number theory. Almost simultaneously, the first author [4] designed a 
+
+practical algorithm based on the same ideas, but using results from the theory 
+
+of elliptic curves over finite fields (see also [25] and [14] for a first insight). From a practical point of view, this algorithm is faster and yields a proof that 
+
+the computation is correct in the form of a list of numbers by means of which 
+
+one can easily check the primality properties (see §10). In another direction, the 
+
+theory of elliptic pseudoprimality tests and elliptic pseudoprimes was introduced 
+
+[41,61,8]. 
+
+Shortly afterwards, Adleman and Huang announced [2] that they designed a 
+
+primality testing algorithm using curves of genus two whose expected running 
+
+time is also polynomial, but without any unproven hypothesis. As for now, it 
+
+seems that this algorithm has not been implemented. 
+
+The purpose of this paper is to describe the test due to the first author (which 
+
+is known as the Elliptic Curve Primality Proving—ECPP—algorithm), together 
+
+with the implementations made by the authors (other implementations include that of D. Bernardi for the class number one case and more recently that of 
+
+Kaltofen, Valente and Yui [49] and that of Vardi (personal communication, 
+
+August 1989) for the Mathematica system). 
+
+Since there are considerable differences of detail between the implementa-
+
+tions of the two authors, we have decided for the sake of clarity to present the 
+
+algorithm solely as implemented by the second author. We make a few historical 
+
+remarks in §8.1.         
+
+> The plan of the paper is as follows. In §2, we recall some well-known prop-
+
+erties of quadratic forms and fields necessary for presenting §3, which deals 
+
+with the theory of Hubert class fields of imaginary quadratic fields via modular 
+
+forms. At this point, we introduce Weber's functions as well as Dedekind's n . 
+
+In §4, we present the relevant theory of elliptic curves in a manner similar to 
+
+that of [57]: This unified approach is well suited for our purpose, which goes 
+
+from classical elliptic curves over C to curves over a finite field. Section 5 is concerned with primality testing using elliptic curves as used by Goldwasser and Kilian on the one hand, and the first author in his designing the ECPP algorithm on the other. A path towards analyzing ECPP is made in §6: We present some heuristic arguments concerning the ability for a number to be good with respect 
+
+to ECPP as well as the probability of failure of a weak version of ECPP. In 
+
+§7, we develop an efficient algorithm for constructing the Hubert class field of 
+
+an imaginary quadratic field by means of the functions introduced in §3. At this point, we introduce the concept of Weber polynomials and we detail a fast 
+
+algorithm to compute the factorization of Weber polynomials over their genus   
+
+> field. In §8, we detail the computational routines we use in the implementation:
+
+Section 9 contains some typical running times for numbers of less than 300 dig-
+
+its and also some running times for larger numbers, most of all taken from [19] 
+
+or discovered by the authors. Section 10 is briefly concerned with the second 
+
+problem mentioned above, namely that of the actual proof we get by ECPP. ELLIPTICCURVESAND PRIMALITYPROVING 31 
+
+Notation. Throughout the paper, N will denote a probable prime, which means 
+
+that A^ was not declared composite by any of the probabilistic primality testing 
+
+algorithms which were used. 
+
+Historical note. The basic algorithm was designed and implemented by the 
+
+first author in 1986. In 1987, the second author implemented a version of the 
+
+algorithm based on a paper of Cohen [26]. In May 1989, the two authors met 
+
+and merged part of their ideas to come up with the present paper, a longer version of which is available as [6]. 
+
+2. Some properties of quadratic forms and fields 
+
+Our aim is to recall basic properties of quadratic forms and fields that are 
+
+necessary for the following sections. We introduce first quadratic forms that are easy to compute with, and then quadratic fields that are well suited for explaining the theory. These are two sides of the same object. 
+
+2.1. Quadratic forms. The following results are well known and can be found 
+
+in [35, 30]. Let -D be a fundamental discriminant, i.e., D is a positive 
+
+integer which is not divisible by any square of an odd prime and which satisfies 
+
+D = 3mod4 or D = 4, 8mod 16. We can factor -D as q\---q* , where 
+
+q* = (-l)^q~x^2q if q is an odd prime and -4 or ±8 otherwise. In the 
+
+sequel, the q¡ 's are supposed to be ordered as follows: if D = 0 mod 4, then qx —4 or 8. Then the q 's with q* = q are listed in increasing order and finally the q 's with q* = -q , also in increasing order. We put / = #{/, q* = <?,}. It 
+
+is easy to see that 
+
+(1) t-l-1=0 mod2. 
+
+A quadratic form of discriminant -D is a 3-tuple of integers (a, b, c) such that b2 - 4ac = -D. There is a correspondence between the set of quadratic 
+
+forms and the set of 2x2 matrices with half integer coefficients. With Q = 
+
+(a, b, c), we associate the 2x2 matrix 
+
+Two forms Q and Q' of the same discriminant are said to be equivalent (or 
+
+Q ~ Q') if there exists N in SL2(Z) (i.e., a 2x2 integer matrix with deter-
+
+minant 1) such that M(Q') = N~lM(Q)N. 
+
+This clearly defines an equivalence relation on quadratic forms. It can be shown 
+
+that 
+
+Proposition 2.1. Each equivalence class contains exactly one form (a, b, c) with a, b, c relatively prime and satisfying \b\ < a < c and (\b\ = a or a = c => 
+
+b > 0). Such a form is called reduced. 
+
+There is an algorithm that computes a reduced form equivalent to a given 
+
+form: we refer to the literature for this [85]. 
+
+The set of primitive reduced quadratic forms of discriminant -D, denoted 
+
+by %?(-D), is finite (for \b\ < \fDß if (a, b, c) is reduced). Moreover, it is possible to define an operation on classes that gives to %?(-D) the structure 32 A. O. L. ATKIN AND F. MORAIN 
+
+of an Abelian group. This operation is called the composition of classes and is 
+
+ordinarily written multiplicatively. For the actual computation, we refer to [85]. 
+
+The order of %*(—D) is denoted by h(—D). The neutral element FD is called 
+
+the principal form. It is equal to (1,0, D/4) or (1, 1, (D + l)/4) according 
+
+as D = 0 or 3 (mod 4). 
+
+Let C = (a, b, c) be an element of %*(—D). For (x, y) in 7?, put 
+
+C(x, y) — ax2 + bxy + cy2 and assume that a is prime to D (otherwise 
+
+consider c instead of a, since a and c cannot both have a common factor with D). Let p be a rational prime. The equation p = C(x, y) has a solution 
+
+in (x, y) only if the following conditions are satisfied: 
+
+# <2> (tH - (f)-(f)- '«'-• 
+
+(¿fc'nfiwrite 4a/? = (2ax + èy)2 + Dy2.) 
+
+Put z,(a) = Xi(C) - (a/q¡) for all i. This defines a map from ß?(—D) to 
+
+Z, = {±1}' by 
+
+# (3) -H»-*. 
+
+The following theorem was proven by Gauss: 
+
+Theorem 2.1. The map E is onto: If we start from e = (ex, ... , et) satisfying 
+
+[[¡et — +1, we can find a C such that 3(C) = e. Moreover, E is a homo-morphism. The associated cosets are called the genera and they inherit the group law. Each coset has cardinality e = h/g, where g = 2'"1 . 
+
+We define the principal genus as Go = E~[(+l, ... , +1). For each genus 
+
+Gi, we can find C, in ßf(-D) such that G, = C¡Gq. Thus, the product of the 
+
+genera G, = C¡Go and G¡ = CjGq is G\ with C*.= C, • Cj. 
+
+A prime p which is representable by a form of G, is said to belong to (7, 
+
+(this is denoted by p € G¡(-D)). 
+
+2.2. Quadratic fields. Consider now K = Q(\/-D). The extension K/Q is 
+
+Abelian of degree 2, of Galois group {1, t} , where x denotes complex conju-
+
+gation. The ring of integers of K is @k = Z[co], where 
+
+^-Dj4 if/) = 0mod4, 
+
+y=^ 1 + s/^D otherwise. 
+
+The conjugate of an element a = x + yœ is a' = r(a) = x + yT(<y). The trace 
+
+(resp. the norm) of a is Tk(q) = a + x(a) (resp. Nk(q) — ax(a)). If a is 
+
+an element of K, its associates are the va, where v is any unit of K (that is, 
+
+N¡c(v) = 1). The number of units is denoted by w(-D) and is equal to 6, 4, 
+
+or 2 according to D equal to 3, 4, or > 4. 
+
+The decomposition of the ideal (p) in K is given by the following theorem: 
+
+Proposition 2.2. If (-D/p) = +1, the ideal (p) splits as the product of two 
+
+distinct ideals in K. If (-D/p) = 0, (p) ramifies, and if (-D/p) = -\ , it is 
+
+inert. 
+
+We conclude this section with ELLIPTIC CURVESAND PRIMALITYPROVING 33 
+
+Proposition 2.3. The equation p = Nk(ti) has a solution in cffc if and only if 
+
+(p) splits as the product of two principal ideals in K. This is equivalent to saying 
+
+that p is represented by the principal form of discriminant -D. In other words: 
+
+4p = A2 + DB2 with A and B in Z. 
+
+If p is representable by the principal form of discriminant -D, we shall 
+
+say that "/? is a norm in Q(y/-D) " or simply up is a norm" when the context is clear. Conversely, we shall say that " -D is good for p " if p is a norm. 
+
+Thus, in general, (-D/p) = 1, that p splits in Q(y/-D), and even that p is 
+
+representable by a form of the principal genus, are all necessary conditions for 
+
+p to be a norm. 
+
+2.3. Genus field. The genus field of K is Kg-= Q(^/qf, ... , s/qf), the q¡ 
+
+being described above. The field ¥,%> is the maximal unramified extension of K that is Abelian over Q. The Galois group of K^/Q is isomorphic to (Z/2Z)'. 
+
+We recall that the Artin symbol associated with the quadratic form C (in fact with the genus G containing C) is (see [29]): 
+
+## ^/K^/KV (Xl(G),...,x,(G)), 
+
+with Xi(G) = (q*/p), where (p) = pp' is any prime number represented by a 
+
+form of G and p the ideal above p in K. 
+
+3. Modular forms 
+
+3.1. The modular group and the modular invariant j. We follow [84]. The 
+
+modular group is defined to be T = SL2(Z)/{±1}. An element g = (acbd) of 
+
+T acts on H = {z e C, Im(z) > 0} by __ az + b 
+
+gz~cT+d~-
+
+It is known that Y is generated by S and T where 
+
+0 -1\ (1 1
+
+## 1 0 J ' \0 1
+
+A modular form of weight 2k (k any integer) is a function meromorphic ev-
+
+erywhere on H and at infinity, satisfying 
+
+## v(« J)eSL2(Z),VzeH, f(z) = (cz + d)-2kf(^±^j. 
+
+If the form is holomorphic everywhere (which implies k > 0 for nonconstant 
+
+forms), we say that the form is regular. 
+
+Let L( 1, co) = Z + coZ be a lattice in C (co e H). Put 
+
+G^= E (mco+ n)2k' 
+
+for k > 1. If k > 1, then G2k(L) is a regular modular form of weight 2k. 
+
+We put gi(L) = 6OG4, gi(L) = 140^6 , and A = g\ - 21 g2 : these are regular 
+
+modular forms of weight 4, 6, and 12, respectively. The modular invariant is 
+
+then j = 123g|/A. We have 34 A. o. l. atkin and f. morain 
+
+Proposition 3.1. The function j is a modular function (i.e., a modular form of 
+
+weight 0), is holomorphic in H, and has a simple pole at infinity. The function 
+
+j is a complex analytic isomorphism from H/r to C. 
+
+One can show that the ^-expansion of j is (cf. [84]) 
+
+## (4) ;(«) = ^ + 744+ J>„<7n, 
+
+> n>\
+
+where the cn are positive integers. For a survey of the arithmetical and numer-
+
+ical properties of the c„ , see, for instance, [84, 63]. 
+
+3.2. Complex multiplication for lattices. Let L = L( 1, co) be a lattice in C. 
+
+Put M(L) = {a e C, aL c L}. It is clear that Z c M(L). When M(L) is 
+
+greater than Z, we say that L has complex multiplication. It can be shown [53, Chapter 1] that if L has complex multiplication, then co belongs to a complex quadratic field K = Q(y/-D). Then M(L) is an order of K, that is, a ring 
+
+which is a free submodule of rank 2 over Z of cf¡c, the ring of integers of K. 
+
+3.3. Class field theory of imaginary quadratic fields. Class field theory is one of 
+
+the most remarkable achievements of mathematics. One of its motivating prob-
+
+lem was the construction of the maximal unramified Abelian extension of an 
+
+imaginary quadratic field (for a modern presentation of the classical approach, see [13]). An algebraic treatment was given by Deuring [34]. The theory was 
+
+generalized in [87]. In the present paper, we only need to use a comparatively 
+
+small part of the theory, which we specify below. 
+
+Let -D bea fundamental discriminant and K = Q(\/-D). The Hubert 
+
+Class Field of K is the maximal unramified Abelian extension of K and is 
+
+denoted by KH (see [34]). We have (see [13, 91]): 
+
+Theorem 3.1. The field Kh can be obtained by adjoining to K any value jr =                    
+
+> j(cor), where cor is the complex number associated with Cr, i.e., cor = co(Cr) =
+> (-br + iVD)/(2ar) with Cr = (ar, br, cr) in ß?(—D). The minimal polynomial
+
+of the jr 's is denoted by Hd(X) . It follows that KH is precisely the splitting 
+
+field of HD(X). 
+
+The Galois group Z// o/Kh/K is isomorphic to %?(—D). If C is an element 
+
+of %?\-D), the corresponding element oc ofLn acts on j(C') by 
+
+(5) ac(i(C)) = j(C-'-C). 
+
+We also require the following (see [31, 33]): 
+
+Theorem 3.2. A rational prime p is a norm in K if and only if (p) splits 
+
+completely in Kh . This is equivalent to saying that Hd(X) (mod/?) has only 
+
+simple roots and they are all in Z/pZ. Moreover, we have that 
+
+4p = A2 + DB2 
+
+has a solution in rational integers (A,B) if and only if Hd(X) splits completely 
+
+modulo p. 
+
+The last statement follows from Proposition 2.3. m>l    
+
+> ELLIPTIC CURVESAND PRIMALITY PROVING 35
+
+3.4. Dedekind's and Weber's functions. Let z be any complex number and 
+
+put q = exp(2inz). Dedekind's n function is defined by [91, §24, p. 85] 
+
+(6) t](z) = q1>24l[(l -qm). 
+
+We can expand n as [91, §34, p. 112]     
+
+> (7) n(z) = q1'24 [ 1 + ^(-l)"^"«3"-1)/2 + q"^"+iy2)
+
+The function n is a modular form of weight 1/2 with a complicated multiplier 
+
+function. 
+
+If we let C« stand for exp(2in/n), the Weber functions are [91, §34, p. 114] 
+
+## (8) f(z) = C, ,i?((z+l)/2) 
+
+## n(z) 
+
+# (9, M.)-*$. 
+
+# M.)-**$. (10) 
+
+and [91, §54, p. 179] 
+
+# (12) ».w+w-to. 
+
+We can reconstruct the modular invariant j through [91, §54, p. 179]: 
+
+We also note the following transformation formulas [91, §34, p. 113]. First, 
+
+(14) n(z + I) = ^»(z), t1(-l/z) = ^zTiri(z), from which 
+
+## (15) f(z+l) = Qslfx(z), fx(z+l) = C^f(z), f2(z + 1) = Ç24fi(z) 
+
+and 
+
+(16) f(-l/z) = f(z), f(-l/z) = f2(z), h(-l/z) = fx(z). 
+
+4. Elliptic curves 
+
+4.1. Definition. We follow Lenstra [57]. Let k be a field of characteristic 0
+
+or prime to 6. Let P2(k) be the projective plane over k. The equivalence class 
+
+containing (x, y, z) is denoted by (x : y : z). 
+
+An elliptic curve is a pair E = (a, b) (which we sometimes write as E(a, b)) 
+
+of elements of k such that A¿ = - 16(4a3 + 27è2) ^ 0. This quantity is called 
+
+the discriminant of the curve E. We also define the invariant of the curve 
+
+j(E) = 2833a3/(4a3 + 27¿>2). 36 A. O. l. atkin and f. morain 
+
+The set of points of E over k is: 
+
+E(k) = {(x : y : z) e P2(k), y2z = x3 + axz2 + bz3}. 
+
+There is exactly one point of E(k) with z = 0, namely (0:1:0), called the 
+
+point at infinity, denoted by Oe . The set E(k) can be made an Abelian group with an operation denoted by + using the tangent-and-chord method. Suppose temporarily that k = R. Then E(R) is a projective curve that we can look at. In order to add two points Mx and M2 resulting in Ms, we draw the line MXM2 (or the tangent if Mx = M2). This line intersects E in a third point, P, whose reflection in the x-axis yields the sum M-¡ = Mx + M2. The symmetric of a point M = (x : y : z) is -M = (x : -y : z), and the neutral element is the 
+
+point at infinity. From a practical point of view, the coordinates of a nontrivial M3 are   
+
+> X3 = A— XX — X2 ,
+
+y3 =k(xx -X))-yx, 
+
+where ¡_((y2-yi)(x2-xx)-] ifx2#x,, 
+
+\ (3x2+ a)(2yi)_1 otherwise. 
+
+We can compute kP using the binary method [52] (see also [27]) or addition-
+
+subtraction chains [71]. 
+
+Figure 1. An elliptic curve over R
+
+The same equations are used to define the group law for arbitrary k. 
+
+An isomorphism between E(a, b) and E(a!, b') is defined to be an element           
+
+> uin kx such that a' = u4a and b' = u6b. Such an isomorphism induces an
+
+isomorphism between E(a, b)(k) and E(a!, b')(k) by sending (x : y : z) to 
+
+(u2x : u3y : z). An automorphism of E is an isomorphism from E to E. The group of automorphisms has at most six elements [57]. For most of the 
+
+curves, it is of order 2. ELLIPTIC CURVESAND PRIMALITY PROVING 37 
+
+4.2. k = Z/pZ. Let p be a prime number greater than 3. Let E be an 
+
+elliptic curve defined over Z/pZ. We do not intend to explain Deuring's work 
+
+concerning its reduction modulo p , but the interested reader may consult [53, 
+
+Chapter 13] and the references given there. It can be shown that E can be 
+
+described as the reduction modulo p of an elliptic curve E(C) with complex 
+
+multiplication by an order of a quadratic field K = Q(\/-D). 
+
+From a practical point of view, one can construct a curve which has complex 
+
+multiplication by the ring of integers of Q(^-D) in the following way. Suppose that p is a norm in K: (p) = pp' = (?t)(?t') and p splits completely in KH as 
+
+p = <Pj...<pA (with h = h(-D)). The polynomial HD(X) splits completely 
+
+modulo p. Let j be any root of Ho modulo p and E an elliptic curve of 
+
+invariant /'. Then #E(Z/pZ) =p+l-TrK(n) =p+l-A with \A\ < 2^/p (this 
+
+theorem was originally proved by Hasse) and E has complex multiplication by 
+
+the ring tfK. 
+
+Concerning the structure of E(Z/pZ) as an Abelian group, we have [22]: 
+
+Theorem 4.1. The group E(Z/pZ) is either cyclic or the product of two cyclic groups of order mx and m2 that satisfy 
+
+(17) mx\m2, mx\gcd(m,p-l), 
+
+where m = #E(Z/pZ).  
+
+> 5. PRIMALITY TESTING
+
+5.1. Traditional primality testing and the DOWNRUN process. Before the 
+
+advent of the Jacobi sums algorithm, the main method for primality testing was 
+
+to use some known factors of N' - 1, ¿=1,2,3,4,6, involving either some 
+
+converse of Fermat's theorem, or Lucas sequences or a generalization thereof. The simplest way to prove that an odd number N is prime is to prove that the group (Z/NZ)X is cyclic (and that N is not a prime power). For this, we need only to exhibit a generator of this group. This yields the following theorem. 
+
+(This is not the optimal theorem, but we cite it for the sake of simplicity.)               
+
+> Theorem 5.1. If there exists an aprime to Nsuch that aN~l =1 mod N but
+
+a(N-i)/q ^ i mocj ^y for evety prime divisor q of N - 1, then N is prime. 
+
+Of course, we need to factor N - I. Starting with a number No, a favorable situation occurs whenever we can completely factor No - 1 or we find that 
+
+TVo - 1 has a large factor Nx which is probably prime: such a number No 
+
+we call probably factored. The problem is then reduced to proving that Nx is 
+
+prime. Also, we can use some factors of Nj - 1 to help us in our job. This idea forms the DOWNRUN process of [97]: Build a decreasing sequence 
+
+of probable primes No > Nx > ■ ■■> Nk such that the primality of Ni+X implies 
+
+that of N¡ (see [52, pp. 376-377]). Indeed, this is a factor and conquer method. 
+
+The problem is that for each A7,, there is only a limited number of candidates 
+
+that we can try to factor. We will see that this difficulty is overcome when using 
+
+elliptic curves. 
+
+5.2. The Goldwasser-Kilian algorithm. From [40], we have: 
+
+Theorem 5.2. Let N be an integer prime to 6, E an elliptic curve over Z/NZ,              
+
+> together with a point Pon Eand mand stwo integers with s \ m. For 38 A. O. L. ATKJN AND F. MORAIN
+
+each prime divisor q of s, we put (m/q)P = (xa : yq : za). We assume that 
+
+mP = Oe and gcd(z9, N) = 1 for all q. Then, if p is a prime divisor of N, 
+
+one has #E(Z/pZ) = Omodi. 
+
+We have also: 
+
+Corollary 5.1. With the same conditions, if s > (\/~Ñ + I)2, then N is prime. 
+
+Combining this theorem with Schoof s algorithm that computes #E(Z/pZ) 
+
+in time 0((logp)&+E) (see [56]), we obtain the Goldwasser-Kilian algorithm. 
+
+procedure GK(N) 
+
+1. choose an elliptic curve E over Z/NZ, for which the number of points 
+
+m (computed with Schoof s algorithm) satisfies m = 2q, with q a
+
+probable prime; 
+
+2. if (E, m) satisfies the conditions of the theorem with s = m , then N
+
+is prime, otherwise it is composite; 
+
+3. the primality of q is proved in the same way; 
+
+4. end. 
+
+We see that we have solved one of the problems arising in the ordinary DOWNRUN: this time, we have many numbers which we can try to factor. 
+
+The problem with GK is that Schoof s algorithm seems almost impossible 
+
+to implement (however, see [5]). We will use instead the properties of elliptic 
+
+curves over finite fields related to complex multiplication. 
+
+5.3. The ECPP algorithm. In algorithm GK, we begin by searching for a curve 
+
+and then compute its number of points. Here, we do exactly the contrary. We 
+
+get: 
+
+procedure ECPP(N) ; 
+
+(*N is a probable prime *) 
+
+1. set i:=0,N0:= N;   
+
+> 2. while N, > Vsmall
+
+1. find a fundamental discriminant -D¡ which is good for N¡; in 
+
+other words, N¡ = ■Kiríi in K = Q(\Z-D¡) (see §2);       
+
+> 2. if one of the w(-D¡) numbers mx,..., mw (mr — Na(vrni—l),
+
+where vr is a unit in K) is probably factored, go to step 2.3 else 
+
+go to 2.1;             
+
+> 3. store {/, N¡■,D¡, vrn¡, mr, Ff\, where mr =FjNi+x . Here, F,
+
+is a completely factored integer and A^+i a probable prime; set 
+
+i := i + I and go to step 2.1; 
+
+4. compute a root j of HDi(X) = OmodN¡ ; 
+
+5. compute an equation of the curve E¡ of invariant j and whose 
+
+cardinality modulo N, is m¡ ; 
+
+6. find a point P¡ on the curve E¡ ; 
+
+7. check the conditions of the theorem with 5 = Ni+X and m = m¡ : 
+
+in other words, check that Q, = F,Pi / 0E, but sQ, = Oe, ; 
+
+3. end. 
+
+Finding mr which is probably factored will be referred to as "finding a suit-
+
+able m ". ELLIPTIC CURVESAND PRIMALITYPROVING 39 
+
+6. Analysis 
+
+6.1. Theoretical results. The running time of GK is analyzed in the following 
+
+theorems [40, 56]. 
+
+Theorem 6.1. Suppose that there exist two positive constants cx and c2 such 
+
+that the number of primes in the interval [x; x + \/2x](x > 2) is greater than Civ/x(logx)_C2. Then GK proves the primality of N in expected time 
+
+> O((logA010+C2).
+
+Theorem 6.2. There exist two positive constants c^ and c¡, such that, for all 
+
+k > 2, the proportion of prime numbers N of k bits for which the expected time of GK is bounded by cs(lo%N)n is at least 1 - c$2~kin' * . 
+
+As for ECPP, we only have the heuristic analysis cited in [54]. These authors 
+
+find that the running time of the algorithm is roughly 0((log N)6+e) for some 
+
+e>0. 
+
+The remaining of this section is devoted to some practical considerations 
+
+concerning ECPP. 
+
+6.2. What is a good discriminant? Let p be a prime number. Then p is a norm 
+
+in Q(\/-D) if and only if p is represented by the principal form of ßt^(-D). 
+
+As in §2, let -D = q* • • • q*, its class number is h —h(-D), and the number of 
+
+genera is g = 2'_l . The prime p is represented by a form of Go if and only 
+
+if V/, Xi(p) = +1 (see §2), which occurs with probability 1/2'. Given this, p 
+
+is represented by Fd with conditional probability g/h . We deduce 
+
+Proposition 6.1. A prime p is represented by FD with probability l/(2h). 
+
+A proof with less handwaving can be found in [33, Chapter 8]. 
+
+6.3. Practical considerations: good and bad numbers. For practical purposes, 
+
+we are only interested in fundamental discriminants D (D < 106) with h(-D) 
+
+< 50 (the parameters 106 and 50 are somewhat arbitrary, and represent the                     
+
+> extreme limits of what we expect to need). They form a set 2¡. We have
+> (presumably) that §3) =10628. Let Hand Gbe two integers. We write
+
+ND(H, G) for the number of D in 3¡ for which h(-D) = H and g(-D) =
+
+G. In Table 1 (next page), we indicate the values of ND(H, G) for H < 50 
+
+(they agree with those of [20]). From this, we can deduce the number of D such          
+
+> that h(-D) < 50 and with given value of H/G. This quantity represents the degree of the final polynomial of which we want a root, and its inverse (G/H)
+
+is just the probability that N is a norm in K (provided that (-D/N) = +1). 
+
+This yields Table 2 (next page). 
+
+Let S be a finite set of primes (here 4 and 8 are assumed to be distinct 
+
+primes). We define NP(S) to be the number of D in 2¡ which are divisible 
+
+by at least one prime of S: This quantity is tabulated in Table 3 (see p. 41). From the above results, it is quite clear that bad numbers are those which are quadratic nonresidues modulo small primes, such as N = -1 mod 12, which kill off one third of our discriminants. As an example, it is interesting to compute 
+
+the smallest prime which does not split in any of the quadratic fields with class 
+
+number 1. This number is 3167 (the next one is 607823). 40 A. O. L. ATKIN AND F. MORAIN 
+
+Table 1. Statistics on the discriminants D with h(-D) < 50 // D„ 
+
+3
+
+15 
+
+23 
+
+39 
+
+> 84
+> 47
+
+87 
+
+> 71
+
+95 
+
+260 
+
+420 
+
+199 
+
+119 
+
+167 
+
+327 
+
+231 
+
+191 
+
+215 239 
+
+407 
+
+399 
+
+1140 
+
+5460 
+
+383 335 
+
+311 
+
+> 776
+
+455 
+
+431 
+
+> 591
+> 647
+
+695 
+
+759 
+
+> 2184
+
+479 
+
+551 
+
+> Dr,
+
+163 427 907 
+
+1555 
+
+1435 
+
+2683 
+
+3763 
+
+5923 
+
+5947 
+
+6307 
+
+3315 10627 
+
+13843 15667 
+
+17803 
+
+15283 
+
+20563 
+
+30067 
+
+34483 31243 
+
+27307 
+
+16555 
+
+5460 
+
+37123 
+
+48427 
+
+38707 
+
+58507 
+
+43747 
+
+61483 
+
+> 85507
+> 90787
+
+111763 
+
+62155 
+
+> 42427
+
+93307 
+
+103027 #
+
+9
+
+> 18
+
+16 
+
+30 24 25 
+
+> 51
+
+31 
+
+62 
+
+56 
+
+13 34 
+
+87 
+
+> 41
+
+88 118 
+
+37 
+
+95 
+
+68 101 
+
+160 
+
+60 
+
+1
+
+45 
+
+150 
+
+47 
+
+150 
+
+200 
+
+85 
+
+139 
+
+68 
+
+167 
+
+240 
+
+104 
+
+95 
+
+190 
+
+H Dr 
+
+983 
+
+831 
+
+935 
+
+887 
+
+671 719 791 
+
+1239 
+
+3080 
+
+7140 839 
+
+1079 
+
+1031 
+
+959 
+
+1295 
+
+1487 
+
+1199 
+
+1439 
+
+1271 
+
+2255 
+
+2415 
+
+1151 
+
+1959 
+
+1847 
+
+1391 2135 
+
+1319 
+
+2615 3023 
+
+> 1751
+
+3615 4935 11220 
+
+1511 
+
+1799 
+
+D„ 
+
+103387 
+
+126043 106723 
+
+166147 
+
+134467 
+
+133387 164803 
+
+136843 
+
+89947 
+
+40755 
+
+222643 
+
+189883 
+
+210907 
+
+217627 175123 
+
+158923 
+
+289963 
+
+253507 260947 250387 
+
+148603 
+
+296587 
+
+280267 
+
+300787 319867 
+
+319243 308323 308947 
+
+375523 
+
+> 333547
+
+335203 
+
+> 275587
+
+94395 
+
+393187 
+
+389467 #
+
+93 
+
+174 
+
+283 
+
+83 
+
+255 
+
+73 
+
+187 
+
+333 
+
+173 
+
+15 
+
+101 219 103 
+
+271 
+
+397 
+
+85 237 
+
+115 251 
+
+438 
+
+223 109 
+
+339 
+
+106 261 
+
+430 
+
+154 
+
+267 
+
+107 
+
+343 
+
+621 
+
+355 46 
+
+132 345 
+
+Table 2. Number of discriminants D with given H/G for H < 50 
+
+H/G #(g/g) H/G MB/G) H/G #(H/G) H/G #(H/G) H/G #(H/G) 
+
+65 
+
+161 
+
+335 
+
+395 
+
+535 
+
+> 67
+
+89
+
+10 
+
+683 
+
+409 
+
+434 
+
+581 
+
+588 
+
+> 11 12
+
+13 
+
+14 
+
+15 
+
+610 
+
+788 
+
+227 
+
+> 174
+
+323 
+
+16 
+
+> 17
+
+18 
+
+19 
+
+> 20
+
+187 264 271 
+
+284 
+
+251 
+
+21 
+
+22 
+
+23 
+
+> 24
+
+25 
+
+424 
+
+261 
+
+335 
+
+343 
+
+440 
+
+6.4. A theoretical failure case. Corollary 5.1 cannot be applied when 5 < 
+
+(ffp + I)2. In particular, we cannot use it when the number of points, m, is a perfect square and E(Z/pZ) is isomorphic to (Z/MZ) x (Z/MZ) with {3}  
+
+> {4}
+> ELLIPTIC CURVESAND PRIMALITYPROVING
+
+Table 3. Divisibility of the discriminants   
+
+> NP(S)
+> 2495
+> 1540 {3,4}
+> {5}
+> NP(S)
+> 3669
+> 1744 {3,5}
+> {4,5}
+
+NJS)  
+
+> 3825
+> 3020 {3,4,5}
+> {3,4,5,7,8}
+> 41
+
+# MS) 
+
+> 4803
+> 6382
+
+m = M2. A necessary condition for that is 
+
+(18) Ml/7-1. 
+
+We also have y/p-l<M<^+l,by Hasse's theorem. Put [i/pj - a and 
+
+p —a2 + r, with 
+
+(19) 
+
+Then 
+
+(20) 
+
+0< r < 2a+ 1. 
+
+a< M <a+ 1. 
+
+Suppose first that M = a. Then (18) implies a\a2 + r There are two cases. First, when r = 1, one has p =
+
+1, that is, a\r - 1 . 
+
+a2 + 1 and E has 
+
+complex multiplication by Q(\/-D), with -D = (m - p - I)2 - 4p - -4a2. 
+
+When r > 1, (19) implies r - 1 = a and thus p = a2 + a + 1. It is then easy 
+
+to see that E has complex multiplication by Q(\/^3). 
+
+7. Precomputations 
+
+This rather lengthy section deals with the effective construction of the Hubert 
+
+Class Field of K = Q(y/-D). This will be done using j and other modular 
+
+functions, especially Weber's class invariants. For this purpose, we introduce 
+
+the following notation. Let u be any complex function. We will denote by H¡)[u](X) the minimal polynomial of u(co) over Q (remember that cf^ -Z\co\, where co has been defined in §2). When u = j, we will abbreviate 
+
+HD[u] to HD. 7.1. Hubert polynomials. The determination of j as an algebraic integer in 
+
+Q(j) has been studied by many authors, including Weber [91], Greenhill [42], 
+
+Watson [90], Berwick [11], and more recently Gross and Zagier [44] (see also 
+
+[36]). 
+
+We first prefer a basic approach. The simplest way to compute j is to compute Hj)(X) using floating-point numbers (see [50, 31, 51]). In order to 
+
+recognize that we have the right polynomial, we use an easy corollary of the 
+
+work of Gross and Zagier, that can be stated as follows. 
+
+Proposition 7.1. The norm of j in Q(j), which is the same as HD(0), 
+
+cube of an integer in Z. 
+
+is the 
+
+It is worth remarking at this point that we do not need to prove that our calculations with j are correct. If in fact they are, they will lead to elliptic 
+
+curves which have the properties we need for proving primality, but the pri-
+
+mality proof depends only on our computations on those curves. Thus, we may 
+
+find it convenient in the algorithm to work to limited floating-point accuracy 
+
+and confirm our y'-value without formal proof using observations like Proposi-
+
+tion 7.1. 42 A. O. L. ATKJNAND F. MORAIN 
+
+We want to evaluate j(z) as fast as possible. For this, we compute in se-
+
+quence n(z), t](2z), f2(z), and j(z). The heart of the computation being the 
+
+evaluation of n(z), we now study the optimal choice of the parameters. Let us 
+
+define jf(q) = yjT(-i)n(<in{:i"~iy2 + qn{3n+l)/2), 
+
+> n>l
+
+and N
+
+JTN(q) = Y^(-l)n(qn(ln-X)l2 + qn(in+{)12), 
+
+> n=l
+
+where as usual q = exp(2/7iz). We want to compute the error made when 
+
+computing J^(q) instead of JV(q). We put q = p exp(/0) = /?(cos 6 + i sin 6). 
+
+The following proposition is easy to establish. 
+
+Proposition 7.2. There holds 
+
+(21) \yV(q)-^N(q)\<6piNll2. 
+
+We have to evaluate j for values of z of the form z = (-b + i\[D)/2a, 
+
+where (a, b, (b2 + D)/4a) is a primitive reduced form of discriminant -D. 
+
+When there is no ambiguity, we write j(a, b) for j((-b + i\f~D)/2a). We put 
+
+q = pe'e, with p = e~n^la and 8 = -nb/a. Since this form is reduced, 
+
+a < s/Dß. We deduce that p < e'*^ < 4.34 x 10"3. 
+
+Now, we remark that if (a, b, c) is an ambiguous form, then j(a, b) is a 
+
+real number. When (a, b, c) is nonambiguous, we get 
+
+j(a, -b) = j(a, b) 
+
+(conjugation in C), which halves the computation. After we have computed 
+
+the h -values of j, we build HD(X). 
+
+By means of the ^-expansion of j, it is not hard to see that log \j\ « Ti\fD/a . 
+
+The number of decimal digits of j(q) is asymptotically 7ty/~D/(alog 10). We 
+
+have to compute the coefficients of HD(X) to within 0.5. The precision required 
+
+is thus 
+
+## (22, prec(D)=(iA*2j)^Ei + „0, 
+
+where the sum is taken over all primitive reduced forms of discriminant -D ,and vq a positive constant that takes care of the rounding error and the error made in our estimation of log |_/"|(typically vq — 10). 
+
+Suppose we want to compute j(a, b). Then, using (7.2), we compute rj(kz) 
+
+to the order 
+
+## (23) V'Sxp 
+
+where 
+
+,,,. c _ 2 log6 + Prec(Z))log 10 
+
+# (24) S~3 WB •
+
+We then form all products of the form X —j, grouping terms of the type 
+
+(X - j) and (X-J), to get 
+
+## (X - j)(X -J) = X2 - (j +J)X + j!, 
+
+which reduces computational errors. ELLIPTIC CURVESAND PRIMALITY PROVING 43 
+
+We check the result with Proposition 7.1. If we find that HD(0) is the cube 
+
+of an integer to within 0.5, we are confident that the computed polynomial is 
+
+indeed the one we were looking for. The coefficients of these polynomials become very large. For example, D = 
+
+23 already yields H23(X) = X3 + 3491750X2 - 5151296875* + 233753. 
+
+Thus, it may be desirable to use subsidiary functions on subgroups of T. 
+
+7.2. Weber polynomials. Let u(z) denote any modular function: Weber calls 
+
+u(co) a class invariant if u(co) is in K(j(co)) = KH (co is the generator of cffc). 
+
+It turns out that there are a lot of alternative choices of class invariants other 
+
+than /'. 
+
+The following results can be found in [91, §125-144] or in [12, 82]. 
+
+Theorem 7.1 [91, §125, p. 459]. Let z be a quadratic number defined by Az2 + 
+
+Bz + C = 0. If 
+
+(25) 3 | B, 3\A, 2\B2-4AC, 
+
+we have 
+
+## Q(7i(z)) = Q(j(z)). 
+
+Note that the conditions are redundant, since A and B cannot be both 
+
+divisible by 3 (else D = 0 mod 3). Moreover, a careful look at the proof of this in [91, §125] shows that we can replace the above conditions by A = C = 
+
+0 mod 3 and 5^0 mod 3 . From this, we deduce a very simple algorithm to 
+
+compute the correct value of the conjugates of y2(co). We start from a form 
+
+(a, b, c) associated with zq and we compute an equivalent form satisfying 
+
+the above conditions, say (A, B, C) associated with z . We use the following 
+
+procedure. 
+
+procedure GAMMA2(a, b, c) 
+
+1. if a ^ 0 mod 3 , then choose k such that B = b + 2ak = 0 mod 3 ; take 
+
+k = -b/(2a) mod 3 and (a, b + 2ak, c + bk + ak2) satisfies one of the 
+
+above conditions; 
+
+2. if a = 0 mod 3, but b ^ 0 mod 3, then find k such that C = c + bk + 
+
+ak2 = 0 mod 3 ; a solution is given by k = -c/b mod 3 ; 
+
+3. compute y2(z) = e\p(2ink /3)y2(zo). This is valid because of (14) and 
+
+(11). 
+
+From a practical point of view, the computation of y2(z) is thus quite fast. 
+
+It turns out that its coefficients are smaller than those of the original Hp(X). 
+
+For example, for D = 23, we find 
+
+H23[y2](X) = X3+ 155A;2+ 650A"+ 23375. 
+
+When D = 3 mod 6, we have the following result. 
+
+Theorem 7.2 [91, §134, p. 502]. If Az2 + Bz + C = 0 with 2 \ A, then 
+
+Q(^Dy3(z)) = Q(j(z)). 
+
+For instance, if D = 15 , then 
+
+HD[^Dy3](X) = X2- 1575A - 218295. 44 A. O. L. ATKIN AND F. MORAIN 
+
+We can also use some power of the functions f, fx, or f2. We extract 
+
+the following results from [51] (alternatively, see the references above). It is assumed from now on that D ^ 0 mod 3 . With each value of D mod 32, we 
+
+have a canonical choice for u. Hence, we write WD(X) for the corresponding 
+
+minimal polynomial. 
+
+D WD(0) degTO 
+
+7 mod 8 
+
+3 mod 8 
+
+# f(V=D)/V2 
+
+# f(V^D) (-2)* 
+
+## h
+
+3h 
+
+0mod4 
+
+jD/4 = ±2mod8 
+
+5 mod 8 
+
+lmod8 
+
+# fx(V=D)/V2 
+
+# nv^D)4 
+
+## f(^D)2/V2 
+
+±1 
+
+±2h 
+
+(-1)" 
+
+hh
+
+h
+
+Weber also gives conditions for more general z to satisfy the same properties. (One should also consult [88].) By extension, we will call class invariant any 
+
+conjugate of u(co) for a suitable u. 
+
+Theorem 7.3. Suppose Az2 + 2Bz + C = 0 with 4B2 - 4AC = -4D, A and C 
+
+odd, 3 | B, or equivalently, A = C = 0 mod 3 and 5^0 mod 3. Then 
+
+1. in the case where D = 1, 5, ±2 mod 8 : if B = 2((2/A) - 1) mod 8, then 
+
+f(z)2/\[2 (resp. f(z)4, fx(z)/\/2) is a class invariant; 
+
+2. in the case where Dm 3, 7 mod 8 : if B = 4((2/A) - 1) mod 16, then f(z) 
+
+(resp. f(z)/\[2) is a class invariant. 
+
+We only sketch the proof in the case D = 1 mod 8 . We combine the following 
+
+results. 
+
+Proposition 7.3 [91, §127, p. 467]. Let z be a root of Az2 + 2Bz + C = 0, with 
+
+-4D = 4(B2 - AC). Assume that 3 | B and that A and C are both odd and 
+
+nondivisible by 3 (or A = C = 0mod3 and B £ 0). Then /8(z) is a class 
+
+invariant. 
+
+Proposition 7.4 [91, §127, p. 472]. Assume the same conditions as above and 
+
+also that 
+
+(26) C2 + CB-1 = 0 or 8 mod 16. 
+
+Then \/2p(z) is a class invariant. 
+
+Note that (26) implies that B is divisible by 8. Suppose now that all the 
+
+preceding conditions are satisfied for (A, 2B, C). Since AC = D = -1 mod 8 , we see that A = -Cmod8, and therefore (2/A) = (2/C). Assume first that 
+
+(2/C) = 1. Then C = ±1 mod8 , and if B = Omod 16, then 
+
+C2 + CB- 1=0 mod 16. 
+
+The case (2/C) = -1 is treated in the same way. We then write 
+
+f(z) 1 (V2p)3 
+
+# V2 4 P 'ELLIPTIC CURVESAND PRIMALITY PROVING 45 
+
+The other cases are dealt with using results from the same section of Weber's 
+
+book. D
+
+We now briefly describe the algorithm needed to compute H^D[f/\/2](X) 
+
+for £>= 7mod8. 
+
+procedure WEBER7(a,2b,c) 
+
+1. if a is even, replace (a, 2b, c) with (c, -2b, a) ; 
+
+2. put {(a) = 4((2/a) - 1) mod 16; 3. if a £ 0mod3, choose k such that B = b + ak = 0mod3 and B = 
+
+¿;(iz)mod 16; then (a, 2b + 2ak, c + bk + ak2) satisfies one of the 
+
+conditions of Theorem 7.3; 
+
+4. if a = 0mod3,but b ^ 0 mod 3, then find k suchthat C = c + 2bk + 
+
+ak2 = 0mod3 and b + ak = ¿¡(a)mod 16; 
+
+5. if zo (resp. z) is associated with (a,2b,c) (resp. (A, 2B, C)), then 
+
+z = z0-k and f(z) = t^f(zQ) (resp. f(z) = Çksfx(z0)) if k is even 
+
+(resp. odd), using (15). 
+
+As an example, we find 
+
+H4x2i[f/V2](X) = X3-X-l. 
+
+From this, it is easy to compute j(co) for co = (-1 + %/-23)/2 via f2(co) = 
+
+v/2C4g//(v/r23) (see [91, §34, (19)]). 
+
+Other cases yield the same kind of algorithms. 7.2.1. Alternative class invariants. The second author is indebted to J.-F. 
+
+Mestre who explained the following [59]. Let 5 be a prime positive integer 
+
+and Xq(s) be the modular curve [73]. It can be shown that (see, for example, 
+
+[37] or [58]), when Xo(s) is of genus 0 (i.e., í = 2,3,5,7, 13), it can be 
+
+parametrized by   
+
+> /n(z) ^^
+
+(27) xs(z) = ' ,f](sz)             
+
+> The modular invariant jis related to xs via the following formulae:
+> (x2 + 16)3 _ (x3 + 27)(x3 + 3)3 _ (x52+ 10x5 + 5)3
+
+J X2 X3 X5  
+
+> (x72+ 13x7 + 49)(x72 + 5x7+ 1)3
+> x7
+> _ (x23 + 5xi3 + 13)(x/3 + 7x33 + 20x23 + 19Xi3 + I)3
+
+Theorem 7.4. Let -D be a fundamental discriminant and s e {3, 5, 7, 13} 
+
+such that (-D/s) = 1. Let (s) = ss' in K = Q(y/-D). Let i be a reduced 
+
+ideal. Suppose we have found a basis (ex, e2) of i such that s x i = (ex, se2). 
+
+If we put x = -e2/ex, the number us(i) = xs(x) + si2^s^l^/xs(x) is a class 
+
+invariant. 
+
+For example, let D = 23 and 5=13. We have s = ( 13, 8 + co). There are 
+
+three reduced ideals. In the following table, we give the values of these ideals, 
+
+the values of the reduced ideals s x i and the values of ux3. 46 A. O. L. ATKJN AND F. MORAIN       
+
+> (2, l + (o)
+> (2, a»)
+> (13, 8 + tu) (26, 21 + <a)
+> (26, 8 + tu)
+> (gi, e2)
+> (8 + tu, 1)
+> (21 +tu, 2)
+> (8 +tu, 2)
+> *13(-g2/gl)_
+> -2.09988277-1.73159352/ -3.68503738-3.03873481/
+> -2.71507985 + 2.37241257/
+> "n(')_
+> -5.78492014+ 1.30714128/
+> -5.78492014-1.30714129/
+> -5.43015970
+
+We remark that, as soon as i = (a, b + co) and sx\ = (u, v + co), then (ex, e2) 
+
+is precisely (v + co, a), since u = as . 
+
+Finally, we get 
+
+Y[(X - wi3(i))= X3 + 16.99999999X2 + 97.99999994X+ 190.9999999, 
+
+and the minimal polynomial of w13is H23[uxi](X) = X3 + 17X2 + 98X + 191 
+
+It is easily seen that in this case the minimal polynomial of xx3 is 
+
+17 . 59 
+
+H23[xxi](X) =(X3 + —X1 + ^-X + 37 + 23 ^ + V + 6 •
+
+X2 5X 
+
+so that Xi3 and hence j could be found by solving a cubic equation modulo p (recall that >/-23mod/? will already have been found). The same situation 
+
+arises in all cases given by Theorem 7.4. 
+
+With more effort one can also use values of 5 for which To(s) does not have 
+
+genus 0. 
+
+7.2.2. Remarks. A naive approach to the computation of WD is to use poly-
+
+nomial factorization, or the LLL algorithm [51]. 
+
+One of the phases of ECPP is to factor the polynomials Ho over Z/pZ. This 
+
+can be expensive, since for a fixed large p the complexity of such computations is basically proportional to the square of the degree of the polynomial (see 
+
+§8.6.1): This explains why we discard the case D = 3 mod 8 , since in this case, 
+
+we might work on polynomials of degree 3/2. We shall see in the following section how this computation can be simplified 
+
+by factoring these equations over the genus field of K. In order to simplify 
+
+the notation, we will refer to WD(X) as the defining polynomial of KH cor-
+
+responding to whichever Hd[ ] we can use. We call Wp, a Weber polynomial 
+
+associated with -D. 
+
+Let us end this subsection by summarizing the strategy for computing Wo, 
+
+given D. 
+
+procedure Weber(D) 
+
+1. if Z)^0mod3 and D^3mod8 then 1. if D = 7 mod 8 then WD= H4D[f/y/2] ; 
+
+2. if D/4 = ±2 mod 8 then WD= HD[f/V2] ; 
+
+3. if D/4 = 5 mod 8 then WD= HD[f4] ; 
+
+4. if D/4 = 1mod8 then WD= HD[f2/V2] ; 
+
+if there exists 5 in {3, 5, 7, 13} such that (-D/s) = 1 then WD = 
+
+Hd[xs] ;
+
+if D = 3 mod 6 then WD = HD[^/^Dy3] ; 
+
+otherwise take Wp> = HD . 
+
+2. 
+
+3. 
+
+4. ELLIPTIC CURVESAND PRIMALITY PROVING 47 
+
+7.3. Factoring the equations over the genus field. The aim of this subsection 
+
+is to explain how it is possible to factor our Wp,'s over Kg. We will show that Wb has exactly g factors, each of degree e = h/g, with coefficients in Kg. 
+
+This reduces the time needed to compute a root of WDmod/? for large p , since 
+
+we have to find a root of degree e instead of h . 
+
+> KH
+
+## I e = h/g 
+
+Kg 
+
+# I S
+
+K
+
+We first give some properties of composite quadratic fields, including the 
+
+computation of an integral basis. Then, we set up an ordering on the genera of ^(-D) through the action of the Galois group of Kg/K. After proving the 
+
+preceding results, we detail our algorithm and give some examples. 
+
+7.3.1. Some properties of composite quadratic fields. Let ux, ... , un be n
+
+squarefree multiplicatively independent elements of Z. Suppose, moreover, 
+
+that they are multiplicatively independent (i.e., uax{x • • • x uann— 1 is possi-
+
+ble for some integers a¡ if and only if the a, 's are all zero). We put kn = 
+
+Q(V^7, ••• , V'w«) ano^ S = 2" . Following [23], we introduce the sequence 
+
+{Ai}o<i<gdefined by 
+
+A = Í Wjt+i Hj = 2k,     
+
+> j\A2k-lAi/ècd(A2k.i,Ai)2 ifj = 2k-l + iand0<i<2k-{.
+
+We also define a, = \fA¡. Then {1, ax, ... , ag_x} is a basis for kn/Q. 
+
+Proposition 7.5 [23]. The integers of kn are necessarily of the form 
+
+> 1 g~l
+
+# (28) * = ^EF<a"  
+
+> z/=o
+
+where the Pi 's are rational integers of the same parity, and all even if there is 
+
+an i in {0, ... , g - 1} such that A¡ ^ 1 mod 4. 
+
+7.3.2. Computations in Kg/K. As in §2, we write -D = q*---q*, where 
+
+q* = (-l)(9_1)/2<7 if q is an odd prime and -4 or ±8 otherwise. The <?,'s 
+
+are supposed to be ordered as follows: if D = 0 mod 4, then qx = 4 or 8. Then the q 's with q* = q are listed in increasing order and finally the q 's 
+
+with q* = -q, also in increasing order. Then / is the number of positive q* 's: 
+
+-D = qx ■■■q,(-ql+x) ■■■(-qt). 
+
+The genus field Kg = Q(^/qf, ... , s/qf) can be described as 
+
+(29) Kg = K(Vúx',...,^ütZx-), 
+
+where J q¡ for 1 < i < I, 
+
+\ qtqt for I < i < t. 48 A. O. L. ATKIN AND F. MORAIN 
+
+The Galois group of Kg/K is E<;= (<p\,... , (Pt-i), where 
+
+# , __. Í -Vul if j = i, 
+
+# V'^^Xvu] if;*/. 
+
+Hence, XG is isomorphic to (Z/2Z)'-1 , and we can represent an element tp of 
+
+"Lq by a (t — l)-tuple of signs (i.e., elements of {±1}). We decide to use the 
+
+following ordering of the cp¡. If i is an integer between 0 and 2'~l - 1, we 
+
+can write i —£j~¿ iVt-12* (u,•e {0, 1}) and we take 
+
+We represent <p¡ by (ex, ... , et-X), where es = 2us — 1. 
+
+With this ordering, the z'th conjugate of an integer 6 of K^ is 0('>= ç>,-(o). 
+
+7.3.3. Ordering the genera. We show how to express the ç>,'s in terms of s/G , 
+
+as described in §2. Let us write tp¡ = (ex, ... , et-X) and stfG= (ei, ... , e,). 
+
+What we have to solve is the system ( ex =ex, 
+
+(30) 
+
+We compute 
+
+si =e¡, 
+
+El+l£t = el+l ! 
+
+I e,_i£, e,_i. /-i ('/-i 
+
+# n^= n«.■ «r'-i=i i-i u'=l 
+
+> (-1
+
+With (1), we can simplify 
+
+# n^-=iie'=e'  
+
+> /=i (=1
+
+The solution of the system (30) is thus 
+
+for 1 < i 
+
+(31) e, ÏÏiZlet if i = t, 
+
+Vete, for /</</. 
+
+We take the ordering on the genera to be that induced by the preceding process. 
+
+Let us give an example. Suppose that -D = -308 = (-7) x (-11) x (-4). We 
+
+take «i = (-1) x (-7) and u2 = (-1) x (-11). The tp¡-'s and the associated 
+
+genera are given below. 
+
+## <Pi G, (+,+) (+,+,+) (+,-,-) (-,+,-) (-,-,+) ELLIPTIC CURVESAND PRIMALITY PROVING 49 
+
+It should be noted that the genus associated with cpo is always Go , the prin-cipal genus. Moreover, the ordering on the <p, 's depends only on g and not on 
+
+D, whereas the correspondence with the genera depends on D and /. With 
+
+each pair (t, I) satisfying / = t - 1 mod 2, we associate the generic ordering 
+
+defined by the above process. The example given above is the generic ordering 
+
+## (3,0). 
+
+We end this subsection by introducing 
+
+/, = J(Gi) = [j(C), C 6 C7,} = {jix,..., jie], 0<i<g, and 
+
+# (32) WD{i)(X) = P(Ji) = P(Gi)= f[(X - ;•>)• 
+
+> r=l
+
+We remark that WD = \[ WD(,)and that each WD{,)has only real coefficients, 
+
+since two conjugate / 's are in the same J . 
+
+The following fundamental theorem is now an easy consequence of Galois 
+
+theory. Theorem 7.5. For all i, WD(i)(X)is in Kg[X]. We also have 
+
+Corollary 7.1. For all i, <p¡(WD{0)) = WD(i). 
+
+This motivates our choice of the ordering on the G 's, since otherwise we 
+
+would have to justify that the <p 's permute the W¡ 's. 
+
+This result yields an algorithm for computing the expression of WD{0) over 
+
+Kg . We describe this algorithm in the next section. 
+
+7.3.4. Description of the algorithm. The preceding results make it clear that 
+
+the critical parameters are h and g ; the algorithm does not depend explicitly 
+
+on -D. Our purpose is now to explain how we can compute the coefficients of 
+
+Wp ' and to exemplify the use of symbolic manipulation in the process.          
+
+> We are looking for the coefficients of the polynomial Wr)°\X), which is a
+
+factor of WD over Kg . We shall write W¡ for WD(,)since there is no ambiguity. 
+
+In fact, since the coefficients of Wo are real, we can work over kt-X as defined 
+
+above. The results are still valid by using the canonical isomorphism between 
+
+the Galois groups of Kg/K and k,_x/Q. 
+
+We write 
+
+(33) 
+
+where all the asr are in (l/g)Z and the as 's as in §7.3.1. We will find these 
+
+coefficients by means of the resolution of a linear system. Let a^ = ft(as). 
+
+For any polynomial Q(X), let [Xr]Q denote the coefficient of degree r of 
+
+Q. Then g-\ 
+
+(34) Y,a'ras = WW0- 
+
+> s=0 50 A. O. L. ATKIN AND F. MORAIN
+
+Suppose now that r is fixed, 0 < r < e - 1 . If we apply <p¡ to (34), we find 
+
+## (35) 5=0 
+
+We do the same thing for i = 0, 
+
+solution of the linear system   
+
+> Xo + Xia(j0) + •+■-i)
+
+Y.as^ = [Xr]Wi. 
+
+, g - 1, and we see that (asr)o<s<g is the 
+
+(36) Xo+ Xial'' +
+
++ xg-xa{glll 
+
+> + xg-Xag_,
+
+Y0, 
+
+Yx, 
+
+> (Xo + Xxa\s
+
+where we replace Y, by [Xr]W¡. We call the preceding system the generic system 
+
+of order g, since it depends only on g . We see that we have just to solve this 
+
+system once for each different value of g, computing all the asr 's by replacing 
+
+the values of the a's by their corresponding floating-point approximations. 
+
+From a practical point of view, we compute an approximation to gasr, take 
+
+the nearest integer, and then divide out by the same g. When we have com-
+
+puted our Wq, we compute L, the 1cm of the denominators of the coefficients and we store the coefficients of LWq . As an example, let us treat the case of -D = -308 = (-7) x (-11) x (-4). 
+
+The generic system of order 4 is 
+
+(37) 
+
+where     
+
+> ' Xo+XiQ
+> Xo + Xia
+> x0 + Xia
+> k. Xq + Xi a
+> 0) + x2a20) + x3a30) = yo,
+> + x2a21) + x3a31) = Yx ,
+
+2) + x2a22) + x342) = y2,  
+
+> 3)
+
+J3) (3)   
+
+> a
+> + x2a2v + x3a3 ' = Y3,
+> *(0) M
+> (0) _
+
+ux, 
+
+# = \ful,   
+
+> 2j0) =y/UXU2.
+
+The generic ordering for D = 308 is (3, 0) and was given in §7.3.3. 
+
+We want to get the expression of //3o8[72](0)(^) over Kg*• We have 
+
+Hy»[yi\(X) = Xs - 95835320*7 - 923879753200*6 + 121516780240000X5 
+
+- 195287646706560000^4- 1627416205536000000a:3 
+
++ 35433687468608000000A2 + 1361283710251520000000* - 12937041027046400000000. 
+
+Suppose that we have built the sets of roots of H30s[y2] according to the genera. 
+
+We have in this case 
+
+/, =/(+, +, +) = {880456353882407955305050.260304,797.592915355}, 
+
+J2 = J(+, -, -) = {5648.96421088+ 8460.8161800511/}, 
+
+/3 = /(-,+,-) = {3456.226641, -938326357130.70446379}, /4 = /(-,-,+) = {-47921735.6519096497 ± 83004169.578235232/}. ELLIPTIC CURVES AND PRIMALITY PROVING SI 
+
+Finally, we obtain 
+
+#308[72](0)(*)= X2 + (-23958830 - 9057440a, - 7223840a2 - 2730910a3)X 
+
++ 222228600+ 84022400ai+ 66972800a2+ 25321800a3. 
+
+Numerous additional checks on the accuracy of our calculations are available, using the supersingular equation. For example, j —0 is the only supersingular 
+
+value modulo 5, so that for (-D/5) = -1 all the roots of HD must be zero modulo 5, as exemplified above. 
+
+8. Implementation details 8.1. Machines and languages. The algorithm as described in detail in this paper has been implemented by the second author on a SUN 3/60, using 
+
+Le.Lisp and the arithmetic described in [45]. 
+
+The first author implemented the main ideas in the spring of 1986, using an 
+
+IBM 3081 and his procedure LMA4064V. Most of the general-purpose number-theoretic routines were already available and 95% efficient, using a combination 
+
+of FORTRAN and ASSEMBLER. However, he did not at that time have his 
+
+(subsequently written) arbitrary-precision complex floating-point routines, and 
+
+was thus confined in the computation of the HD to IBM quadruple precision and some casual ingenuity. With a list of only 119 discriminants he was com-pelled to factorize the numbers of points excessively at great cost for large inputs. 
+
+However, the largest remaining prp343 in the Cunningham tables was done in 
+
+2.5 hours, and 250-digit numbers routinely in 3 to 8 minutes. 
+
+8.2. Strategies. 
+
+8.2.1. Architecture of the program. The first basic approach is the Factor and 
+
+Prove Strategy (FPS), following the direct application of the procedure ECPP. 
+
+In other words, as soon as we have found a probably factored number, we immediately verify the conditions of the corresponding theorem. This idea works fine with small numbers (less than 10300, say) since we are almost sure 
+
+to find a good candidate among our list of D 's. However, for large N 's, our           
+
+> finite lists of D 's can be too short and sometimes we are forced to backtrack
+
+in our sequence of intermediate primes. 
+
+The preferred one is the Factor All Strategy (FAS) which first builds the sequence of intermediate primes and then proves all the theorems. This enables backtracking, as well as a more rational distributed algorithm (see [67]). 
+
+8.2.2. Philosophy. We constantly use some principles: 1. the tests with N ± 1 are treated as a particular case of the elliptic curve 
+
+test; 
+
+2. it is understood that, if a probable prime is later proved composite, 
+
+then the program immediately returns to the preceding place in the DOWNRUN or exits if we were at the top. This of course involves the 
+
+possibility of backtracking inside the program. 
+
+8.2.3. Computing WD(X). In the proving part of our algorithm, we must 
+
+compute Wo(X) in order to find a zero modulo p. There are two strategies. The first one is to precompute a list of Wp>(X) for a subset of 2¡ and store 
+
+them in a file. The other is to compute WD(X) on the fly, as required by the 52 A. O. L. ATKIN AND F. MORAIN 
+
+factoring part of the algorithm. It is clearly impossible to store all the Wp, 
+
+for all Z)'s, and thus we mix the two ideas. We have computed Wp> for all 
+
+D with h(-D) < 20 and stored them. This makes about 1.5 Mbytes (on a 
+
+SUN 3/60). If necessary, other polynomials can be computed and introduced 
+
+in the program. The actual computation of WD is done by means of a MAPLE 
+
+program. If one has the desired complex multiprecision arithmetic, one can of course merge the two programs. 
+
+We have computed all WD(X) for all (known) D such that h < 20 and for 
+
+(h,g)€{(32, 16), (24, 8), (48, 16), (32, 8), (64, 16)}. This yields 4500 po-
+
+tential numbers of points for each probable prime in our DOWNRUN. These 
+
+are made up of 2 for ±1,6 for -3, 4 for -4 and 2 each for the remaining 
+
+2244 discriminants. 
+
+8.2.4. Ordering the data. We decide to use only the D less than 106 with 
+
+h(-D) < 50. We remark that there are two parts in deciding whether p is 
+
+a norm in Q(s/-D) or not. The first is checking that p e Go(-D) : this is easy because we have only Jacobi symbols to compute. At this point, p
+
+is represented by Fp with probability g(-D)/h(-D), but to be certain, we 
+
+must find a square root of -Dmodp and in effect reduce a quadratic form. So, we store our D 's in increasing order with respect to (h/g, h, D). The most interesting discriminants are those with h = g, which are called idoneal 
+
+numbers: Under the assumption of the Extended Riemann Hypothesis, there 
+
+are 65 of them (see [35, 24]). 
+
+8.3. Logistics and tactics. Many of the routines we use are explained and 
+
+codified in [27]. We mention here one or two additional points. 
+
+8.3.1. Multiprecision. It is obvious that we need the fastest algorithms pos-
+
+sible, especially a good routine for finding gcd's and multiplicative inversions. Also, the size of numbers we are currently tackling (more than twenty 32-bit 
+
+words) makes it worth using Karatsuba's algorithm. We refer to [52] for all this. 
+
+We add below some remarks which may be well known, but not easily found in 
+
+the literature. 
+
+We can use a special routine for squaring based on the following (trivial) 
+
+observation. Let m = ¿^,~¿ m¡B' be an integer written in base B . Then   
+
+> /-i i-i f-i
+
+## m2= ]T]m2B2i + 2^2m¡B¡ ^2 miB'•   
+
+> 1=0 1=1 y=/+l
+
+This yields an algorithm for squaring that is asymptotically twice as fast as (ordinary standard) multiplication. In order to speed up things, it is necessary to program it directly in assembly in order to minimize overhead. With this idea, we can replace multiplication by (a + b)2 - (a - b)2 _ (a + b)2-a2-b2 
+
+4 " 2
+
+both formulae being useful, the latter one in the case where we must multiply 
+
+many a's by the same b. Another application is given below. 8.3.2. Exponentiation over various rings. We use the exponentiation-by-blocks 
+
+method as described in [27] for Z/pZ (= GF(p)), GF(p2) (N + 1 primality ELLIPTICCURVESAND PRIMALITYPROVING 53 
+
+test), and for elliptic curves. The optimal value for the size of the block was 
+
+determined empirically. The value of 26 seems to be the right one for almost 
+
+all values of tV. 
+
+When using Berlekamp's algorithm (as well as Girstmair's ideas, see below), we have to compute P(z)e mod(p, f(z)) for a fixed monic f(z). Write f(z) =zd + fd-Xzd~l H-h fi,. We precompute 
+
+F« = z1'mod(p, f(z)) = F^l)_xzd-X + ■■■+ F0{i), 0<i<2d-2. The basic operation we have to perform is the multiplication of P(z) =        
+
+> Pd-izd~l + Pd-2zd~2 + ■■■+ Po by Q(z) =qd_xzd-[ + qd_2zd~2 + ■■ ■+ q0 .
+
+We have  
+
+> d-ld-l (i+j)
+> a — i a —i
+
+## P(z) x Q(z)mod(p, f(z)) = £ Y,MJZ'+J = Y,Y,P'QJF{Í~   
+
+> /=0 7=0 /7
+
+The evaluation of p¡qj is then done using the multiply-by-squaring method described above. If we precompute the pf and the qj (modulo p), we reduce 
+
+the cost of computing P x Q to 
+
+# JZ Tsi(P') + S T*iÜj) + S Tsi(P' + Qj)>   
+
+> i7i,j
+
+which is basically (d2 + 2d)Tsa compared to d2Tx . The gain is thus 
+
+d2 + 2dTJlxl_/+2\ 
+
+d2 Tx ~ 2 V d
+
+The most obvious gain is when we have to compute the square of a polynomial. 
+
+The cost of it is now (d2 + d) Tsq. 
+
+8.4. Finding a good D . We have decided to consider the N± 1 test as a special 
+
+case corresponding to a fictitious D = ± 1. These tests have been well studied, and many tricks are known to speed them up. In particular, we prefer the 
+
+description of [27] since we can apply very easily the exponentiation-by-blocks method when working directly over GF(/?2), but not with Lucas sequences. 
+
+We make here the remark that we use a trick of [21] to reduce the number of 
+
+computations needed when one of our A' ± 1 has many factors (this is also 
+
+valid for the elliptic case). 
+
+8.4.1. Looking for a splitting D. In the general case, we are looking for a 
+
+fundamental discriminant —D for which our probable prime N is a norm. The 
+
+first thing we do is to check that ;V e Go(-D). This is done by computing the 
+
+Jacobi symbols Xi(N) = (QÏ/N) in our notation. If all these symbols are equal 
+
+to +1, we proceed to the second phase, that is, computing a representation of 
+
+N by FD. 
+
+Though the computation of Jacobi symbols is very cheap, one can arrange 
+
+the D 's in such a way that if A^ is a nonresidue modulo 3 (say), then we only 
+
+look at those D which are not divisible by 3. In the same way, we can store the values of (N/q) for some small primes q (typically q < 100) so as not to 
+
+recompute the same objects. 54 A. O. L. ATKJN AND F. MORAIN 
+
+8.4.2. Solving p = NK(n). We want to get the representation of a prime p
+
+as a norm in K = Q(y/-D). Equivalently, we must solve 
+
+(38) 4/? = A2 + DB2 
+
+with A and B in Z. We can solve this problem using Shanks's algorithm [86] 
+
+or lattice reduction [89]. These two algorithms are basically the same and solve 
+
+the general case of representation of a prime number by a given quadratic form. 
+
+In the case where we want to represent p by the principal form only, one can do slightly better, using the work of Cornacchia. 
+
+We first make some remarks. If D = 0 mod 4, one puts D = 4d, and we 
+
+have to solve p = A2 + dB2. If D = -1 mod 8 , then 
+
+4p = A2 + (&d- l)B2^A2-B2 = 4 mod8, 
+
+which is possible if A2 = 0 mod 8 and B2 = 4 mod 8 and in particular A and 
+
+B even. So we actually solve p = A'2 + (Sd - 1)B'2. We can say nothing when 
+
+D = 3mod8. 
+
+Cornacchia's algorithm [32] finds the representation of p = u2 + dv2 when-
+
+ever one exists, with (p, u, v) = 1. A proof of its validity can be found in 
+
+[70]. It runs like this: 
+
+procedure CORNACCHIA(u,v,d,p); 
+
+(* solution of u2 + dv2 —p*) 
+
+1. let Xo be a solution of x2 = -dmodp that satisfies p > xq > p/2 ; 
+
+2. develop p/xo as a continued fraction:        
+
+> p = q0x0 + x,,
+> X0 = tflXi +x2,
+> Xr =qr+1 Xr+1 +Xr+2
+
+and stop when x2 < p < x2_ [ ; 
+
+3. put 
+
+u = xr and v = 
+
+4. if v is not an integer, p is not representable as u2 + dv2. In the case D = 3 mod 8, we can use the same algorithm, using for Xo a 
+
+solution of x2 + x + ^- modp . 
+
+8.4.3. Extracting a square root modulo N . In using the above procedure, we 
+
+have to compute square roots modulo N . We can benefit from some previous 
+
+computations as follows. 
+
+If we use Shanks's algorithm, we need a z such that z2 = -1 mod N , 
+
+where N = 1 + 2k x b, b odd. We can obtain z as a byproduct of the pseudoprimality test for tV as follows: first, find a such that (a/N) = -1 (if 
+
+after 50 trials, we have not found one, maybe AMs a square). Then, compute 
+
+z = ab : If z2*"' ^ -lmodA^, then N is composite. Otherwise, N is a probable prime, and we can use z in Shanks's algorithm. It should be noted 
+
+that succeeding in computing a square root with this algorithm is almost aguarantee that we have a prime. In other words, if a composite number passed ^ELLIPTIC CURVESAND PRIMALITYPROVING 55 
+
+the pseudoprimality test, it is very unlikely to pass this step (see [94] for the 
+
+combination of square roots with primality tests). 
+
+In many cases, a number of square roots can be found very cheaply at this 
+
+first stage. If N = 1 mod q for small odd q, we can usually find the square 
+
+root of (-l/q)q ; while if N = 1 mod8 , we find both s/^l and \/-2. 
+
+Also, it is possible to accumulate the square roots that we have to compute 
+
+until we find a suitable D. Hence, we can store y/q* mod N for some small 
+
+primes q . After that, we can use these values in the computation of / mod N 
+
+when Wo splits over an intermediate quadratic field of discriminant q*. We 
+
+also order our D 's in such a way that we compute less square roots modulo 
+
+p. For instance, we try D = 3, D = 4, then D = 15 by computing only 
+
+^5 = sf~5 modp , D = 20 by combining D —4 and r$, etc. 
+
+8.5. Factoring the number of points. 8.5.1. Finding all factors of an integer m which are less than B . It is well 
+
+known that the general problem of getting all factors of an arbitrarily large 
+
+number is very difficult (see [55]). However, the problem of getting small factors 
+
+of a number m isa little better understood. 
+
+What we want is an algorithm that can find small factors of a number in a 
+
+reasonable amount of time. Apart from trial division that is routinely used to 
+
+find all factors less than 106, the two best candidates are Pollard's p method 
+
+[62] and the ECM method of Lenstra [57]. According to [17], it seems that the 
+
+first one is worth using for finding factors less than 108, and the second for factors from 1010 to 1015 using various speedups [62, 7]. 
+
+However, the very best value among these probabilistic factoring methods is given by Pollard's p - 1, even though this can only be used once. 
+
+It should be noted that we do not store the intermediate factors found, only 
+
+their product. This is motivated by the fact that we do not need to have the 
+
+exact factorization of m (unless m is small). It can happen that a 20-digit 
+
+factor of a 1000-digit number is not prime, but we are only interested in having 
+
+a 980-digit probable prime. 
+
+We detail the choices we made in the following section. 
+
+8.5.2. Sieving with small primes. We begin by looking for small prime factors of m. Let Pi, ... , Pk be all the prime numbers less than a given B. We 
+
+suppose they are stored in a file. We extend a method already used in [18, §7, 
+
+Remark 1] and [27]. We first compute the quantities 
+
+r,■■ —(N + 1) mod/?, for i = 1,... , k. 
+
+Divisibility of N ± 1 is then tested as follows. If r¡■= 0, then yV+ 1 is 
+
+divisible by p¡, and if r¡ = 2, then /?, divides N - 1 . In the case of testing the 
+
+divisibility of m± = N + 1 ±t, with \t\ < 2\fÑ~, we first compute r - t mod/?, 
+
+and check whether r = ±r,mod/7,. We replaced 2k divisions of numbers of 
+
+size L with k divisions of integers of size L/2 . 
+
+However, there is yet a further factor of 2 to be gained. With 4p - A2 + DB2 we have 4m — (A ± 2)2 + DB2. For any sieving prime p¡ > 2 with (-D/p,) =
+
+-1, we have p,\m =>• p¡\B2 and p¡\(A ± 2)2, respectively. Thus, we first form 
+
+gcd(A + 2, B) and gcd(^ - 2, B) and remove the common factors from m ; 
+
+subsequently, only primes p¡ with (-D/p¡) = 1 are used in the sieve (and 
+
+recognized from a lookup table modulo D or 4D). 56 A. O. L. ATKIN AND F. MORAIN 
+
+8.5.3. Pollard's/). From [17], it is reasonable to find all factors less than 108 
+
+with this method. Using the ideas of [62], we decide to make 105 iterations of 
+
+this method. We accumulate the iterates of the function and do only two gcd's. 
+
+8.5.4. ECM. We use the algorithm as described in [17] with the parametriza-
+
+tions of [62, 7] for having curves with some prescribed small divisors. One of 
+
+the major problems is the storage that is prohibitive when dealing with 1000-digit numbers. This explains why the second stage is not performed on numbers 
+
+of size greater than 10700. 
+
+8.5.5. Pollard's p - 1. We note that this is reasonable when testing the Cun-
+
+ningham numbers which often have the property of being congruent to ±1 
+
+modulo some large known prime integer. So we can spend a little time to see 
+
+if we can get a factor (possibly large) of m this way. 
+
+8.5.6. Further improvements. The best discriminants are those for which 
+
+h = 1, because j is easy to compute and E is easy to find (see next section). Hence, we decide to use more factoring power on them. Say we multiply all 
+
+factorization parameters by 1.2, maybe with all possible methods as well. How-
+
+ever, in order for them to appear in the DOWNRUN, we must find a suitable 
+
+number of points. 
+
+Suppose we test tV,-and we get a candidate tV' for yV,-+i . First of all, we 
+
+can impose an upper bound on N'. More precisely, we want to go down in 
+
+our sequence of primes as fast as possible. Therefore, we decide to reject all 
+
+possible N' such that N¡/N' < I0minx , say. The exact value of minx is best 
+
+found by experiments. This results in many different strategies, which we do 
+
+not discuss here. We also try to have a next candidate that is as promising as possible. If we find an N' which is congruent to 1 modulo 3 or 4, we take it. On the contrary,           
+
+> when N' = -1 mod 24 , we prefer to try another one; the two strategies can be
+
+combined. 
+
+8.6. Finding j(E) mod/7 and a point on E(Z/pZ). The process is the follow-ing: first compute j(E), a root of HD(X) = Omod/7 , then find the equation of E and a point on E. In fact, we compute a root of WD(X) = Ornod/» and we 
+
+compute j. 
+
+8.6.1. Solving WD(X) = Omodp . The obvious approach to solving WD(X) = 
+
+Omod/) is to use Berlekamp's algorithm [10, 52]. The complexity of this algo-
+
+rithm is roughly 
+
+0((d2(logp) + d3)(logd)(logp)2), 
+
+if we use standard algorithms (with d = h(-D)/g(-D)). For small d , it is 
+
+possible to mimic the standard resolution over C (see [96, 65]). 
+
+Alternatively, one can use the fact that the Galois group of WD(X) is very       
+
+> often a dihedral group. Then, with Girstmair's ideas [39], it is possible to solve
+
+the equation Wp>(X)= 0 by radicals and use the resulting expressions modulo 
+
+(p, f(z)), where f(z) is any factor of the Ath cyclotomic polynomial modulo 
+
+p. For example, take p = 439 = l2 + 1 x 6 + 62 x (47 + l)/4, whose order 
+
+modulo 5 is 2. A root of W41(X) = X5 - X3 - 2X2 - 2X - 1 over C is given ELLIPTIC CURVESAND PRIMALITYPROVING 
+
+by 
+
+with: 
+
+> 4
+
+# 5*5= E tôt y 
+
+z« ,
+
+z(D' 
+
+fc=i ; 2z«>         
+
+> ^(H/^ - 650)C4+ (15v^47 - 975)£3+ (-975 -15^=47)C2 + (-650 - 80x/=47)C (ÎSV^??-105)C4 + (5v^47-185)C3 + (-185-5\/=47)i2 + (-105-15^47)C
+> (V^47 - 35)C4 + (-15 - 3x/=47)f3 + ^v/^ - 15)£2+ (-35 - >/=47)f
+> -2f4-8í3-8f2-2f,
+
+where Ç is a primitive 5th root of unity and y5 = zx. We work over 
+
+(Z/439Z)[z]/(z2 + 70z + 1) : The corresponding value of Ç is simply z . A
+
+square root of -47 mod 439 is 294. We extract a fifth root of y using an 
+
+extension of the algorithm of [1] as described in [47] (see also [46]). We find 
+
+y5 = 269z + 64 = (383z + 244)5 mod(439, z2 + 70z + 1), 
+
+and x = 15 is a root of W41 mod 439. The ideas are detailed at some length 
+
+in [64]. 
+
+In general, the Abelian Galois group KH/Kg is cyclic; when this is so and the 
+
+order is composite, the usual resolution into a sequence of equations of prime 
+
+degree (each with coefficients in the field defined by the previous equation) is 
+
+highly effective in solving for the (known) root modulo p . For example, with 
+
+D = -199 we find 
+
+H4xX99[f/V2](X) = X9- 5X* + 3X1 - IX6 - IX3 - X - 1, 
+
+whose roots are solved via 
+
+Y3-4Y2 + Y-l, X3-(Y2-3Y+l)X2-X-Y. 
+
+Further examples can be found in [66]. 
+
+8.6.2. Finding the right equation for E . We have to find an equation of the 
+
+curve E(Z/pZ) whose invariant is j (computed above) and whose Frobenius 
+
+is n with p a norm in Q(y/-D): p = nn'. In the general case D > 4, the 
+
+equation of E is of the form 
+
+(39) y2 = x3 + 3âx2x + 2Â:c3, 
+
+where k = /'/(1728 - j) with c any element of Z/pZ. 
+
+We can restate the problem as follows. By Deuring's work, we have 
+
+tAm T/. ^/x3 + 3fcc2x + 2/cc3\ 
+
+(40) I£(/7) = 2(-\=-Ttk(tic),   
+
+> x=0^ P'
+
+where nc is the actual Frobenius of E as parametrized by c. As a matter of 
+
+fact, it is always possible to write 
+
+(41) TTK(nc) = e(D,n)l-)TTK(n ">(§) 58 A. O. L. ATKIN AND F. MORAIN 
+
+where e(D, n)(e e {±1}) is a function of n and D. The equation we are 
+
+looking for is thus characterized by c such that 
+
+(£)-«D.«). 
+
+The aim of this section is to explain how we find the value of e(D, n) in some 
+
+cases. Before that, we treat two special cases. 
+
+The case h(—D) = 1. The first two cases are D = 3, 4. They are treated at length in [48, Chapter 18, §§3-4] and involve quartic and sextic symbols. For 
+
+the sake of self-containedness, we just give the algorithms used in each case. The validity of these come from [63]. Let us first consider D = 3 . 
+
+procedure FINDE3(p) 
+
+(*p = nn' with n = A + Bp, A, B in Z and p = ( 1 + v/r3)/2*) 
+
+(* the equation of E is y2 = x3 + b*) 
+
+1. let C = r + sp with r, s in {±1,0}, r = 2(A - B) mod 3, and 5 = 
+
+B mod 3 ; then Ç6= 1 and Çn = 2 mod 3 ; 
+
+2. determine £% in Z/pZ such that ¿%t= -Çmod7r: 
+
+1. solve (A - B)v + Bu = s in rational integers (u, v); 
+
+2. put 3S = -r + Au - Bv ; 
+
+3. any b such that (4b)(p~X)l(l = S§ mod/» yields a curve E: y2 = x3 + b 
+
+suchthat #E = NK(n - 1). 
+
+For D = 4, we have procedure FINDE4(/7, n) 
+
+(*p —nn' with n = A + Bi, A, B in Z and i2 = -1 *) 
+
+(* exactly one of A or B is even *) (* the equation of E is y2 —x3 + ax*) 
+
+1. let r and 5 be two integers in {±1, 0} such that rs = 0 and (r, 5) = 
+
+(0, (Ä-^)mod4) if A is even, and (r, s) = ((/I - 5)mod4, 0) if B 
+
+is even; then £4 = 1 and 7r = Çmod(2 + 2/) ; 
+
+2. determine j/ in Z/pZ such that j/ = C_1mod7r :     
+
+> 1. solve Av + Bu = s in rational integers (w, v) ;
+
+2. then sf —r + Au - Bv ;          
+
+> 3. any awith (-a)(p~X)lA = j/ mod/7 gives a curve £: y2 = x3 + ax with
+
+#E = NK(n- 1). 
+
+When D = 8 , we use a result from [78]. Write     
+
+> (42) Ed : y2 = x(x2 -4öx + 2û2)
+
+with û in Z. 
+
+Theorem 8.1. Le/ /? = tttc' = A2+ 2B2 = $k +1 (l G {1 , 3}) with A and B in 
+
+Z, A odd. Then 
+
+ZEAp) = -{^)(-\)K(Z})'frK(n).   
+
+> We can restate this in the form of (39). We have
+
+/'(y=2) = 203 and k = -^. ELLIPTIC CURVESAND PRIMALITY PROVING 59 
+
+Letting c = 140/15 , we find that E$ is isomorphic to (39). Hence, we deduce 
+
+that 
+
+(43) lE(p) = lEg(p) =
+
+We conclude that 
+
+£(8, n) = 
+
+15 x 14 x c 
+
+2.3.5.7 
+
+IVe -1 Tr^(Tc). 
+
+# ■r 
+
+For the remaining cases where h(-D) — 1 and D is odd, we refer to some 
+
+work of Rajwade. In [79], he has designed a method to solve the problem in 
+
+the case where D = 1 and later extended it to the cases D e {11, 19} (see also 
+
+the bibliography in [76]). He uses the action of the Frobenius of the curve on 
+
+the \/-Z)-division points to deduce the actual value of Z£ . For D in {43, 67, 163}, he quotes some unpublished results from Stark (see [74]). 
+
+All these results can be summarized by the following theorem: 
+
+Theorem 8.2. Suppose that D is odd and h(-D) - 1. Let j —j((-l + \J-D)/2) 
+
+be the invariant of the curve having complex multiplication by the maximal order 
+
+of the quadraticfield K = Q(\/-D), definedover Q. Let u and v be defined 
+
+## by  
+
+> ,3 _
+
+j,-Dv2 = j-172$. D v0, v0> 0. 
+
+Let p be a norm for -D: p = nn'. (In this case, this is merely the same as 
+
+(-D/p) = +l.) Then 
+
+(44) s(D,n) 3uv 
+
+P
+
+2TrK(n) 
+
+D DWe now give the numerical values of u and vq for all D, 
+
+D vo (2/D) 
+
+711 
+
+19 
+
+43 67 
+
+163 -3.5 
+
+> -25
+
+-25.3 
+
+-26.3.5 
+
+-25.3.5.11 
+
+-26.3.5.23.29 
+
+> 33
+
+23.7 
+
+23.33 
+
+23.34.7 
+
+23.33.7.31 
+
+23.33.7.11.19.127 
+
+Examples. Let p = 17401 = 1012+ 2 x 602. We choose n = 101 + 60isf^2 
+
+(m=p+ 1 -2x 101 = 17200). We find that /c = 2175 and 
+
+(45) ^2A^Z^(_1)^_L) 
+
+Therefore, the curve E: y2 = x3+15444x+10296mod 17401 has 17200 points. Let p = 107 and D = 7 . We find 
+
+107= 102 + 7x l2, 60 A. O. L. ATKIN AND F. MORAIN 
+
+so that (107) = (n)(n') with n = 10 +V^. We choose m = NK(n - 1) = 
+
+We compute 
+
+## f_c_\ /-3(3x5)(33)\ /20 
+
+## U07/ ~ V 107 M 7
+
+# -(-.>(&)(S)-<-.K-.„-„~.. 
+
+and the curve y2 = x3 + 60x + 80 mod 107 has 88 points. 
+
+The case h = 2. Let Z>= 3mod4 such that h(-D) = 2. Write -D =(Qi)(-Q2). Then ; lies in Q(y/q~ï). Let 
+
+j = a + bsfq[ and u = y/(j - 1728)/(-Z>). 
+
+Then u is also in Q(v^r) (see [44]). We conjecture the following: 
+
+Conjecture 8.1. Suppose that -D = qx(-q2) as above and v - A + By[q[ in 
+
+such a way that sign(ß) = - sign(è). Then 
+
+Example. Let -D = -403 = (13)(—31). We have 
+
+j= - 1226405694614665695989760000 
+
++ 340143739727246741938176000v/Ï3, 
+
+.„„.„«,„, 4447554048000 /-v = 1233529551576--=-v 13. 
+
+Remark. The above results are also related to the concept of Q-curve as intro-duced by Gross in [43]. Some of the methods used by him would yield the same 
+
+results, but using deep methods from algebraic geometry. 
+
+8.6.3. Finding P on E. Let (a, b) be two elements of Z/pZ. If Xo is any 
+
+element of Z/pZ, put 
+
+A = Xq + axo + b. 
+
+Then P = (Axo, a2) is on the curve Y2 = X3 + al2X + bX3. 
+
+We suppose that E : y2 = x3 + 3A:c2x+ 2A:c3. If we know something about (c/p) (typically when h(-D) = 1), then we choose xo such that (À/p) agrees 
+
+with (c/p). Then, we have simultaneously E, and P on E. Otherwise, we 
+
+choose Xo at random and test whether mP is on E. If it is not, then we try 
+
+the twist of E. In the general case, the time needed to find the right curve is 
+
+thus 1.5 times the time needed for the h = 1 case. In all cases, we have no 
+
+extraction of square roots modulo p . 
+
+9. Numerical results 
+
+9.1. Timings on random input numbers. We follow the protocol given in [27]. 
+
+That is, we obtain certain statistics on the behavior of our program for 20 
+
+numbers of w 32-bit words. The program is the DecStation 5000 version with ELLIPTIC CURVESAND PRIMALITY PROVING 61 
+
+the FAS strategy. We list the time for the first phase (building the sequence) 
+
+on the first line, the second one (proving) on the second line and the total 
+
+time on the third. Times are in seconds. The set 3¡ consists of all D 's with 
+
+## A(-D)<20. 
+
+For larger numbers, we use a distributed process with all D with h less than 51 and some others (see §8.2.3). The order of magnitude of the time needed is given in equivalent time for a DecStation 5000. 9.2. Some large primes. Both authors used their implementations to give 
+
+primality proofs for the probable primes of the Cunningham Tables [19]. The 
+
+first author did some with 212 to 343 digits (namely the cofactor of 2,1171+) 
+
+[19, Update #5] and the second author completed the long-standing list (about 50 numbers with more than 200 digits). The second author verified the primality 
+
+of the cofactor of Fxx (564 digits) [19, Update 2.2], and also (23539+1)/3(1065 
+
+digits) with a distributed version of ECPP [67]. 
+
+Table 4. Time for testing a number of w words for primality 
+
+> 10
+> 0.1 0.0
+> 0.1
+
+0.4 
+
+0.2 
+
+0.7 1.7 3.5 
+
+5.4 
+
+2.5 
+
+> 7.3
+
+10.2 7.6 20.6 
+
+> 28.2
+> 0.4
+> 0.3
+> 0.6
+
+2.6 2.7 
+
+5.3 
+
+55.2 
+
+8.9 
+
+61.6 
+
+13.7 
+
+> 24.4
+
+34.8 
+
+> 31.3
+
+54.6 
+
+85.0 0.2 
+
+0.1 
+
+0.3 
+
+1.2 
+
+1.5 
+
+2.7 6.1 5.8 
+
+12.0 
+
+7.7 
+
+> 14.9
+
+22.6 
+
+> 19.9
+
+35.3  
+
+> 55.2
+> st. dev.
+> 0.1
+
+0.1 
+
+> 0.1
+> 0.5 0.7
+> 1.1
+
+11.4 
+
+> 1.5
+
+11.7 
+
+3.0 
+
+> 4.8
+> 7.5 6.2
+
+9.2 
+
+> 14.2
+> 12
+> 14
+> 16
+
+18 
+
+> 20
+> nun
+> 14.9
+
+31.3 
+
+50.4 
+
+41.8 
+
+75.8 
+
+122.9 
+
+120.2 
+
+129.5 
+
+249.7 
+
+118.8 
+
+> 123.4
+> 242.1
+
+345.9 
+
+> 175.5
+> 561.0
+> 238.9
+
+88.3 
+
+> 301.9
+
+181.1 
+
+150.7 
+
+259.7 
+
+763.8 
+
+226.8 990.7 
+
+1699.1 
+
+> 339.5
+
+1973.8 
+
+> 5656.8 362.3
+> 5931.5
+
+45.6 
+
+61.1 
+
+106.6 75.5 
+
+107.3 
+
+182.8 
+
+261.1 
+
+174.9 
+
+436.0 
+
+657.3 
+
+> 214.7
+
+872.1 
+
+> 1598.0
+
+255.3  
+
+> 1853.3
+> st. dev.
+> 48.1
+
+14.2 
+
+49.4 36.8 21.4 
+
+49.3 
+
+138.2 
+
+26.6 
+
+154.1 
+
+420.2 
+
+53.6 447.5 
+
+> 1392.2
+
+52.3 
+
+> 1404.1
+
+Table 5. Time for testing a ¿/-digit number for primality 
+
+400 600 
+
+800 
+
+DOWNRUN 
+
+> 1 day
+> 6 days
+> 18 days
+> proving
+> 0.1 days
+> 0.5 days
+> 5 days
+
+Aside from the Cunningham project, the second author found all primes of 
+
+the form 
+
+N2(n, r) = r l-l 
+
+> (n times)
+
+(introduced in [93]) for r greater than 1 and all n between 100 and 1000. We indicate below these values (note that all numbers with n < 99 were found by 
+
+Williams). 62 A. O. L. ATKJN AND F. MORAIN 
+
+> 12,18,23,57,128,543,584,833
+> 5,10,11,13,34,47,52,77,88,554,580
+> 13,25,72,108,375,393,589,973 5,12,15,84,144,150
+> 5,7,25,31,112,199 7,55
+> 26,110,141,474 5,20,41,47,92,161,401,455
+
+In addition, some large probable primes were successfully tested. Among 
+
+these were S1493 (572 digits, three weeks on a SUN 3/60) and Si901 (728 
+
+digits, one month), thus solving the problem mentioned at the end of [72]. 
+
+Apart from these numbers with quite a lot of arithmetical properties, the second author is currently looking for large primes coming from the factor-
+
+ization of the numbers constructed from well-known constants such as n , e, 
+
+and y . To this date, the three largest proven primes found are the cofactor of 
+
+71137 = UO1137^ = 2x47x4231 x 7789xp1128 (with the distributed implemen-
+
+tation in equivalently about 1.75 years of CPU of a SUN 3/60); the cofactor 
+
+of eX2i0 = U0123Y| = 36037 x Px226(1.83 years of CPU); the partition num-
+
+ber p( 1840926) with 1505digits [69]. Togetherwith the 1008-digitcofactor of 
+
+A/3359 , these are five Titanic primes successfully tested by ECPP. 10. What proof do we get? We now turn our attention to the following problem: How can we be sure 
+
+that our program did not make any error during one month of CPU time? 
+
+We cannot be certain that there was no bit-loss during this period. However, 
+
+when the program finishes, we have built a sequence of intermediate primes and found an elliptic curve and its number of points and a point on it satisfying 
+
+the requirements of a theorem. This we call a certificate of primality. We thus 
+
+generalize previous work of Pratt [77] and Pomerance [75]. We arrange such a 
+
+certificate in blocks of integers. Each block has the following structure: 
+
+Ni 
+
+type 
+
+0
+
+where A7, is the number to be tested, type giving the type of theorem used to 
+
+show the primality of A7,-: it is -1 (resp. +1) if the N-l test (resp. N+l 
+
+test) was used, and the absolute value of the fundamental discriminant used in the cases of elliptic curves. The primality proof of A^ ends with a 0. To each 
+
+of the types corresponds a list of numbers used to complete the proof of A7, being prime, whenever the following block is valid. We now describe the four 
+
+possible lists: 
+
+In this way, an independent verifier can check the results. A cross verifica-
+
+tion of certificates was carried out between the second author and Kaltofen and 
+
+Valente (personal communications via e-mail, October 1989). After some ad-justments of format, they both agreed on the certification of a 222-digit prime, 
+
+namely 2, 1958M (in the notations of [19]). They also checked the 1226-digit 
+
+record. elliptic curves and primality proving 63 
+
+11. Conclusion 
+
+We have described a primality proving algorithm using the theory of elliptic 
+
+curves with complex multiplication over finite fields. This algorithm is supposed 
+
+to have polynomial complexity and performs well in practice, since it is powerful 
+
+enough to prove the primality of numbers from 100 to 1500 digits. It is now possible to test arbitrary integers up to 400 digits in a few days on a single SUN 3/60 workstation. Numbers with less than 800 digits can be done in about one week of real time, using a distributed process [67] on about 10 workstations.    
+
+> type -1 type +1 type D
+> Po
+> Pk
+> b0 %
+> factors of N —1 factors of TV + 1
+> (Cf. Theorem 1 in [97])
+
+Po,Qo 
+
+> Pk,Qk
+
+id. 
+
+> m = #£
+
+ro 1  
+
+> ■• • > factors of m
+
+## r" J   
+
+> 0
+> a, b: coefficients of E
+> x,y: coordinates of P on E
+
+## h factors of the order of P 
+
+Figure 2. Format of the primality proof There remains much uncertainty as to the best strategy for applying the 
+
+method to large probable prime inputs. We first eliminate some minor points 
+
+which are not germane to the general problem. 
+
+The situation for 100 digits and less is quite atypical. There the downrun is 
+
+dominated by D —±1, D = -3 , and D = -4 ; in particular, once D = -3 is reached, one can usually stay with it to the end. Square roots are much cheaper 
+
+relative to sieving than they are for large inputs, and optimization is desirable 
+
+at all stages of the program. 
+
+Also (for all sizes of input) the reduction of quadratic forms takes negligible 
+
+time, and the polynomials HD can be computed very quickly at the time when 
+
+they are needed. 
+
+Thus, the general operations which should be programmed optimally, and whose timings on a particular machine are relevant to the strategy are: 
+
+1. Sieving and subsequent factorization of the numbers of points, 
+
+2. Exponentiation modulo p (and equivalent square roots, pseudoprime 
+
+tests), 
+
+3. Exponentiation on an elliptic curve modulo p , 4. Solution of polynomial congruences modulo p . 
+
+Usually, 4 can be reduced to finding a small number of square roots, but an 
+
+occasional discriminant with large class number which is unfavorable for p can 
+
+be very expensive. As to sieving, it is worth pointing out that it is much more 
+
+effective here, relative to other factorization methods, than usual. Once -1 and 
+
++ 1 have been done (as discriminants), there is available a list of (N+l) modq . 
+
+For any particular discriminant -D, one only needs to use half the sieving 64 A. O. L. ATKIN AND F. MORAIN 
+
+primes q, dividing numbers of size the square root of N, and applicable to 
+
+two possible numbers of points, a total improvement factor of 8 ( 16 or 24 for 
+
+0 = 4 or 3). On the other hand, (p - 1)-factorization and ECM are no better 
+
+than usual (except that one can in a few cases use an elliptic curve with complex 
+
+multiplication to good effect in ECM). 
+
+A further remark is that the timings of these operations depend not only on the machine, but on the trouble which the programmer has been prepared to 
+
+take. For example, some critics purport to "prove" that the Weierstrass normal 
+
+form is not the best one to use in 3 above, but they rely on an unproved (and 
+
+possibly unconscious) assumption that finding inverses is slow. The first author 
+
+is fortunate in having the use of a very fast gcd routine written by N. W. Rickert 
+
+[81], which alters his choice of algorithm in this and other cases. We will now 
+
+assume that all these operations have been optimized as far as they are going 
+
+to be, and that the timings for various typical numbers of decimal digits are 
+
+known. 
+
+We feel that the optimal strategy will probably have more backtracking fa-
+
+cility than either of us uses at the moment. At a given point in the downrun, 
+
+one has basically to choose four parameters: the size of the sieve, the additional factoring to be used, the minimum acceptable downrun, and how many discrim-
+
+inants to try before modifying the parameters. There is no doubt that sieving represents by far the best value for time spent, so that for inputs of 500 decimal 
+
+digits or more one should probably think in terms of a sieve with several passes 
+
+and recomputed lists of primes. We hope to implement some of these ideas and report further in due course. 
+
+The second author has made his C program (INRIA/ecpp.V3.4.1.tar.Z) available via anonymous ftp from the site ftp.inria.fr (or 128.93.1.26). Acknowledgments 
+
+Many people are to be thanked for the help they gave to various stages of this 
+
+work. J. Cougnard read a preliminary version of [65] that is incorporated in this 
+
+article. J. McKay gave some advice concerning Galois theory and pointed to [39]. V. Miller and J.-F. Mestre communicated their work on X0(s). Finally, H. Cohen carefully read a preliminary version of this paper. We also acknowledge 
+
+with gratitude the numerous detailed suggestions of the referee. 
+
+Bibliography  
+
+> 1. L. Adleman, K. Manders, and G. L. Miller, On taking roots in finite fields, Proc. 18th Annual
+> IEEE Sympos. Foundations of Computer Science (1977), IEEE Inc., New York, 1987, pp.
+
+175-178.   
+
+> 2. L. M. Adleman and M. A. Huang, Recognizing primes in random polynomial time, Proc.
+
+19thSTOC(NewYorkCity, May 25-27, 1986),ACMPress,NewYork, 1987,pp. 462-469.       
+
+> 3. L. M. Adleman, C. Pomerance, and R. S. Rumely, On distinguishing prime numbers from
+
+composite numbers, Ann. of Math. (2) 117 (1983), 173-206.               
+
+> 4. A. O. L. Atkin, Manuscript, Lecture notes of a conference, Boulder, Colorado, August 1986.
+> 5. _, The number of points on an elliptic curve modulo a prime, Preprint, 1991.
+> 6. A. O. L. Atkin and F. Morain, Elliptic curves and primality proving, Research Report 1256,
+
+INRIA, June 1990.        
+
+> 7. _, Finding suitable curves for the elliptic curve method of factorization, Math. Comp. 60
+
+(1993), 399-405. ELLIPTIC CURVESAND PRIMALITY PROVING 65 
+
+8. R. Balasubramanian and M. R. Murty, Elliptic pseudoprimes. II, submitted for publication. 
+
+9. P. Beauchemin, G. Brassard, C. Crépeau, C. Goutier, and C. Pomerance, The generation of 
+
+random numbers that are probably prime, J. Cryptology 1 (1988), 53-64. 
+
+10. E. R. Berlekamp, Factoring polynomials over large finite fields, Math. Comp. 24 (1970), 
+
+713-735. 
+
+11. W. E. H. Berwick, Modular invariants expressible in terms of quadratic and cubic irrational-
+
+ities, Proc. London Math. Soc. 28 (1928), 53-69. 12. B. J. Birch, Weber's class invariants, Mathematika 16 (1969), 283-294. 
+
+13. A. Borel, S. Chowla, C. S. Herz, K. Iwasawa, and J. P. Serre, Seminar on complex multipli-cation, Lecture Notes in Math., vol. 21, Springer-Verlag, Berlin and New York, 1966. 
+
+14. W. Bosma, Primality testing using elliptic curves, Technical Rep. 85-12, Math. Instituut, 
+
+Universiteit van Amsterdam, 1985. 
+
+15. W. Bosma and M.-P. van der Hülst, Faster primality testing, Advances in Cryptology (Proc. Eurocrypt '89, Houthalen, April 10-13), (J.-J. Quisquater, ed.), Lecture Notes in Comput. 
+
+Sei., vol. 434, Springer-Verlag, Berlin and New York, 1990, pp. 652-656. 
+
+16. G. Brassard, Modern cryptology, Lecture Notes in Comput. Sei., vol. 325, Springer-Verlag, 
+
+New York and Berlin, 1988. 
+
+17. R. P. Brent, Some integer factorization algorithms using elliptic curves, Austral. Comp. Sei. 
+
+Commun.8(1986), 149-163. 
+
+18. J. Brillhart, D. H. Lehmer, and J. L. Selfridge, New primality criteria and factorizations of 
+
+2m±\, Math. Comp. 29 (1975), 620-647. 
+
+19. J. Brillhart, D. H. Lehmer, J. L. Selfridge, B. Tuckerman, and S. S. Wagstaff, Jr., Factor-izations of b" ± 1, ¿»= 2,3,5,6,7,10,11,12 up to high powers, 2nd ed. Contemp. 
+
+Math., no. 22, Amer. Math. Soc, Providence, RI, 1988. 
+
+20. D. A. Buell, Small class numbers and extreme values of L-functions of quadratic fields, 
+
+Math. Comp. 31 (1977), 786-796. 
+
+21. J. P. Buhler, R. E. Crandall, and M. A. Penk, Primes oftheform n\±\ and 2-3-5 •• p± 1 , 
+
+Math. Comp. 38 (1982), 639-643. 
+
+22. J. W. S. Cassels, Diophantine equations with special reference to elliptic curves, J. London 
+
+Math. Soc. 41 (1966), 193-291. 
+
+23. D. Châtelain, Bases normales de l'anneau des entiers de certaines extensions abéliennes de 
+
+Q , C. R. Acad. Sei. Paris Ser. A Math. 270 (1970), 557-560. 
+
+24. S. Chowla, An extension of Heilbronn's class number theorem, Quart. J. Math. Oxford 5 
+
+(1934), 304-307. 
+
+25. D. V. Chudnovsky and G. V. Chudnovsky, Sequences of numbers generated by addition in         
+
+> formal groups and new primality and factorization tests, Research report RC 11262, IBM,
+
+Yorktown Heights, NY, 1985.       
+
+> 26. H. Cohen, Cryptographie, factorisation et primauté: l'utilisation des courbes elliptiques,
+
+C. R. J. Soc. Math. France (Paris, January 1987).         
+
+> 27. H. Cohen and A. K. Lenstra, Implementation of a new primality test. Math. Comp. 48
+
+(1987), 103-121. 
+
+28. _, Primality testing and Jacobi sums, Math. Comp. 42 (1984), 297-330.    
+
+> 29. H. Cohn, A classical invitation to algebraic numbers and class fields, Universitext, Springer-
+
+Verlag, 1978. 
+
+30. _, Advanced number theory, Dover, New York, 1980. 31. _, Introduction to the construction of class fields, Cambridge Studies in Adv. Math., no. 
+
+6, Cambridge Univ. Press, Cambridge, 1985. 
+
+32. G. Cornacchia, Su di un método per la risoluzione in numeri interi dell' equazione 
+
+T,h=ochXn~hyh = P, G. Mat. Battaglini 46 (1908), 33-90. 
+
+33. D. A. Cox, Primes oftheform x2 + ny2 , Wiley, New York, 1989. 
+
+34. M. Deuring, Die Klassenkörper der komplexen Multiplikation, Enzyklopädie der Mathema-        
+
+> tischen Wissenschaften mit Einschluss ihrer Anwendungen, Bd. 1, H. 10, T. 2, Teubner,
+
+Stuttgart, 1958. 66 A. O. L. ATKIN AND F. MORAIN 
+
+35. L. E. Dickson, History of the theory of numbers, vols. I, II, III, Chelsea, New York, 1952. 
+
+36. D. R. Dormán, Special values of the elliptic modular function and factorization formulae, J. 
+
+Reine Angew.Math. 383 (1988), 207-220. 
+
+37. R. Fricke, Lehrbuch der Algebra. Ill, Vieweg Braunschweig, 1928. 
+
+38. C. F. Gauss, Disquisitiones Arithmeticae, 1st ed. G. Fleischer, Leipzig, 1801; English transi, 
+
+by A. A. Clarke, Yale Univ. Press, New York, 1966; revised English transi, by W. C. 
+
+Waterhouse, Springer-Verlag, New York, 1988. 
+
+39. K. Girstmair, Über die praktische Auflösung von Gleichungen höheren Grades, Mathemati-
+
+sche Semesterberichte,Band XXXIV/1987, Heft 2 (1987), 213-245. 
+
+40. S. Goldwasser and J. Kilian, Almost all primes can be quickly certified, Proc. 18th STOC 
+
+(Berkeley,May 28-30, 1986),ACM, New York, 1986,pp. 316-329. 
+
+41. D. M. Gordon, On the number of elliptic pseudoprimes, Math. Comp. 52 (1989), 231-245. 
+
+42. A. G. Greenhill, Table of complex multiplication moduli, Proc. London Math. Soc. (1) 21 
+
+(1891), 403-422. 
+
+43. B. H. Gross, Arithmetic on elliptic curves with complex multiplication, Lecture Notes in 
+
+Math., vol. 776, Springer-Verlag, Berlin and New York, 1980. 44. B. H. Gross and D. B. Zagier, On singular moduli, J. Reine Angew. Math. 355 (1985), 
+
+191-220.  
+
+> 45. J.-C. Hervé, F. Morain, D. Salesin, B. Serpette, J. Vuillemin, and P. Zimmermann, Bignum:
+
+A portable and efficient package for arbitrary precision arithmetic, Rapport de Recherche 
+
+1016, INRIA, avril 1989.      
+
+> 46. M.-D. A. Huang, Factorization of polynomials over finite fields and factorization of primes
+
+in algebraic number fields, Proc. 16th ACM STOC (1984), ACM, New York, 1984, pp. 
+
+175-182. 47. _, Riemann hypothesisand finding roots overfinite fields, Proc. 17th ACM STOC (1985), 
+
+ACM, New York, 1985,pp. 121-130 
+
+48. K. Ireland and M. Rosen, A classical introduction to modern number theory, Graduate Texts 
+
+in Math., vol. 84, Springer-Verlag, 1982. 
+
+49. E. Kaltofen, T. Valente, and N. Yui, An improved Las Vegas primality test, Research Report 
+
+89-12, Rensselaer Polytechnic Inst., Troy, New York, May 1989.     
+
+> 50. E. Kaltofen and N. Yui, Explicit construction of the Hilbert class fields of imaginary quadratic
+
+fields with class numbers 7 and 11 , Proc. EUROSAM '84 (Cambridge, England, 1984),     
+
+> Lecture Notes in Comput. Sei., vol. 174 (J. Fitch, ed.), Springer-Verlag, New York, 1984,
+
+pp. 310-320.             
+
+> 51. _, Explicit construction of the Hilbert class fields of imaginary quadratic fields by integer lattice reduction, Research Report 89-13, Rensselaer Polytechnic Inst., Troy, New York,
+
+May 1989. 
+
+52. D. E. Knuth, The art of computer programming: Seminumerical algorithms, Addison-
+
+Wesley, Reading, MA, 1981. 
+
+53. S. Lang, Elliptic functions, Addison-Wesley,Reading, MA, 1973.  
+
+> 54. A. K. Lenstra and H. W. Lenstra, Jr., Algorithms in number theory, Handbook of Theoret-
+
+ical Computer Science, vol. A: Algorithms and Complexity (J. van Leeuwen, ed.), North-
+
+Holland, Amsterdam and New York, 1990, pp. 674-715. 
+
+55. A. K. Lenstra and M. S. Manasse, Factoring by electronic mail, Advances in Cryptology 
+
+(Proc. Eurocrypt '89, Houthalen, April 10-13), (J.-J. Quisquater, ed.), Lecture Notes in 
+
+Comput. Sei., vol. 434, Springer-Verlag,1990, pp. 355-371. 
+
+56. H. W. Lenstra, Jr., Elliptic curves and number theoretic algorithms, Tech. Rep. Report 86-19, 
+
+Math. Inst., Univ. Amsterdam, 1986. 
+
+57. _, Factoring integers with elliptic curves, Ann. of Math. (2) 126 (1987), 649-673.       
+
+> 58. J.-F. Mestre, La méthode des graphes. Exemples et applications, Proc. Internat. Conf. on
+
+Class Numbers and Fundamental Units (Katata, Japan, 1986), Nagoya Univ., Nagoya, 
+
+1986, pp. 217-242. 
+
+59. J.-F. Mestre and V. S. Miller, Computing j via X0(N), in preparation, March 1990. ELLIPTICCURVESAND PRIMALITYPROVING 67 
+
+60. P. Mihailescu, A primality test using cyclotomic extensions, Applied Algebra, Algebraic 
+
+Algorithms and Error-Correcting Codes (Proc. AAECC-6, Rome, July 1988), Lecture Notes 
+
+in Comput. Sei., vol. 357, Springer-Verlag,Berlin and New York, 1989, pp. 310-323. 
+
+61. I. Miyamoto and M. R. Murty, Ellipticpseudoprimes,Math. Comp. 53 (1989), 415-430. 
+
+62. P. L. Montgomery, Speeding the Pollard and elliptic curve methods of factorization, Math. 
+
+Comp. 48(1987), 243-264. 
+
+63. F. Morain, Implementation of the Atkin-Goldwasser-Kilian primality testing algorithm, Rap-
+
+port de Recherche 911, INRIA, Octobre 1988. 
+
+64. _, Construction of Hilbert class fields of imaginary quadratic fields and dihedral equations 
+
+modulo p , Rapport de Recherche 1087, INRIA, Septembre 1989. 
+
+65. _, Résolution d'équations de petit degré modulo de grands nombres premiers, Rapport 
+
+de Recherche 1085, INRIA, Septembre 1989. 
+
+66. _, Solving generalized dihedral equations, Manuscript, August 1990. 
+
+67. _, Distributed primality proving and the primality of (23539+ l)/3 , Advances in Cryp-
+
+tology—EUROCRYPT '90 (Proc. Workshop on the Theory and Appl. of Cryptographic 
+
+Techniques, Aarhus, Denmark, May 21-24, 1990), (I. B. Damgàrd, ed.), Lecture Notes 
+
+in Comput. Sei., vol. 473, Springer-Verlag, Berlin and New York, 1991, pp. 110-123. 
+
+68. _, Elliptic curves, primality proving and some Titanic primes, Journées Arithmétiques 
+
+1989 Astérisque, vol. 198-199-200,Soc. Math. France, Paris, 1992, pp. 245-251. 
+
+69. _, Prime values of partition numbers and the primality of p( 1840926), preprint, August 
+
+1992. 
+
+70. F. Morain and J. Nicolas, On Cornacchia's algorithm, manuscript, March 1990. 
+
+71. F. Morain and J. Olivos, Speeding up the computations on an elliptic curve using addition-
+
+subtraction chains, RAIRO Inform. Théor. Appl. 24 (1990), 531-543. 
+
+72. M. Newman, D. Shanks, and H. C. Williams, Simple groups of square order and an inter-
+
+esting sequence of primes, Acta Arith. 38 (1980), 129-140. 
+
+73. A. Ogg, Modular forms and Dirichlet series, Benjamin, New York and Amsterdam, 1969. 
+
+74. J. C. Parnami and A. R. Rajwade, A new cubic character sum, Acta Arith. 40 ( 1982), 347-
+
+356. 
+
+75. C. Pomerance, Veryshort primality proofs, Math. Comp. 48 (1987), 315-322. 
+
+76. D. Poulakis, Evaluation d'une somme cubique de caractères, J. Number Theory 27 (1987), 
+
+41-45. 
+
+77. V. R. Pratt, Every prime has a succint certificate, SIAM J. Comput. 4 (1975), 214-220. 
+
+78. A. R. Rajwade, Certain classical congruences via elliptic curves, J. London Math. Soc (2) 8 
+
+(1974), 60-62. 
+
+79. _, The diophantine equation y2 = x(x2 + 2ldx + 112d2) and the conjectures of Birch 
+
+and Swinnerton-Dyer, J. Austral. Math. Soc. Ser. A 24 (1977), 286-295. 
+
+80. P. Ribenboim, The book of prime number records, 2nd ed., Springer-Verlag, Berlin and New 
+
+York, 1989. 
+
+81. N. W. Rickert, Efficient reduction of quadratic forms, Computers and Mathematics (Proc. 
+
+Conf. on Computers and Math., June 1989, Cambridge, MA), Springer-Verlag, 1989, pp. 
+
+135-139. 
+
+82. R. Schertz, Die singulären Werte der Weberschen Funktionen f, f\, f¿, ï2, ?i , }■ Reine 
+
+Angew.Math. 286-287(1976), 46-74. 
+
+83. R. Schoof, Elliptic curves over finite fields and the computation of square roots modp , Math. 
+
+Comp. 44(1985), 483-494. 
+
+84. J. P. Serre, Cours d'arithmétique, Presses Universitaires de France, Paris, 1970. 
+
+85. D. Shanks, Class number, a theory of factorization, and genera, Proc. Sympos. Pure Math., 
+
+vol. 20, Amer. Math. Soc, Providence, RI, 1971,pp. 415-440.         
+
+> 86. _, Five number theoretic algorithms, Proc. 2nd Manitoba Conf. on Numerical Math.,
+
+1972, pp. 51-70. 68 A. O. L. ATKIN AND F. MORAIN 
+
+87. G. Shimura and Y. Taniyama, Complex multiplication of abelian varieties and its applica-
+
+tions to number theory, Publ. Math. Soc. Japan, vol. 6, Math. Soc. Japan, Tokyo, 1961. 
+
+88. H. M. Stark, On the "gap" in a theorem of Heegner, J. Number Theory 1 (1969), 16-27. 
+
+89. B. Vallée, Une approche géométrique des algorithmes de réduction des réseaux en petite 
+
+dimension, Thèse, Université de Caen, 1986. 
+
+90. G. N. Watson, Ramanujans Vermutung über Zerfallungsanzahlen, J. Reine Angew. Math. 
+
+179(1938), 97-128. 
+
+91. H. Weber, Lehrbuch der Algebra,vols. I, II, III, Chelsea, New York, 1902. 
+
+92. H. C. Williams, Primality testing on a computer, Ars Combin. 5 (1978), 127-185. 
+
+93. _, Some primes with interesting digit patterns, Math. Comp. 32 (1978), 1306-1310. 
+
+94. _, Effective primality tests for some integers of the forms AS" - 1 and AT" - 1 , Math. 
+
+Comp. 48(1987), 385-403. 95. H. C. Williamsand H. Dubner, Theprimality of R1031, Math. Comp. 47 (1986), 703-711. 
+
+96. H. C. Williams and C. R. Zarnke, Some algorithms for solving a cubic congruence modulo 
+
+p , Utilitas Math. 6 (1974), 285-306.      
+
+> 97. M. C. Wunderlich, A performance analysis of a simple prime-testing algorithm, Math. Comp.
+
+40(1983), 709-714. 
+
+Department of Mathematics, University of Illinois at Chicago, Box 4348, Chicago, 
+
+Illinois 60680 
+
+Projet ALGO, Institut National de Recherche en Informatique et en Automatique, 
+
+Domaine de Voluceau, B. P. 105, 78153 Le Chesnay Cedex France and 
+
+Département de Mathématique, Université Claude Bernard, 69622 Villeurbanne Cedex, France

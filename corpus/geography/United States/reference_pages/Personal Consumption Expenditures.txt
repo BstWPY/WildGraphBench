@@ -1,0 +1,454 @@
+# Personal Consumption Expenditures
+
+Personal Consumption Expenditures (PCECA) | FRED | St. Louis Fed
+
+===============
+[Skip to main content](https://fred.stlouisfed.org/series/PCECA#content-container)[](https://fred.stlouisfed.org/series/PCECA)
+
+Federal Reserve Economic Data
+=============================
+
+[![Image 1: Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/images/Small_Stl_Fed_Logo.svg)](https://www.stlouisfed.org/)
+
+* * *
+
+[![Image 2: FRED homepage](https://fred.stlouisfed.org/images/FRED_Logo_Header.svg)](https://fred.stlouisfed.org/)
+
+*   ![Image 3: Toggle Explore Our Apps Menu](https://fred.stlouisfed.org/images/Waffle_Menu_off.svg)
+
+Explore Our Apps
+----------------
+
+* * *
+
+    *   [![Image 4: A 51x51 small image, likely a logo, icon or avatar](https://fred.stlouisfed.org/images/FRED_Logo_for_Waffle.svg) ### FRED Tools and resources to find and use economic data worldwide](https://fred.stlouisfed.org/)
+    *   [![Image 5: A 51x51 small image, likely a logo, icon or avatar](https://fred.stlouisfed.org/images/FRASER_Logo_for_Waffle.svg) ### FRASER U.S. financial, economic, and banking history](https://fraser.stlouisfed.org/)
+    *   [![Image 6: A 51x51 small image, likely a logo, icon or avatar](https://fred.stlouisfed.org/images/ALFRED_Logo_for_Waffle.svg) ### ALFRED Vintages of economic data from specific dates in history](https://alfred.stlouisfed.org/)
+    *   [![Image 7: A 51x51 small image, likely a logo, icon or avatar](https://fred.stlouisfed.org/images/CASSIDI_Logo_for_Waffle.svg) ### CASSIDI View banking market concentrations and perform HHI analysis](https://cassidi.stlouisfed.org/index)
+
+*         
+
+[![Image 8: FRED homepage](https://fred.stlouisfed.org/images/FRED_Logo_Header_white_text.svg)](https://fred.stlouisfed.org/)
+
+*   [Release Calendar](https://fred.stlouisfed.org/releases/calendar)
+*   Tools 
+    *   [FRED Add-in for Excel](https://fred.stlouisfed.org/fred-addin)
+    *   [FRED API](https://fred.stlouisfed.org/docs/api/fred)
+    *   [FRED Mobile Apps](https://fred.stlouisfed.org/fred-mobile)
+
+*   [News](https://news.research.stlouisfed.org/category/fred-announcements/)
+*   [Blog](https://fredblog.stlouisfed.org/)
+*   About 
+    *   [What is FRED](https://fredhelp.stlouisfed.org/fred/about/about-fred/what-is-fred/)
+    *   [Tutorials](https://fredhelp.stlouisfed.org/)
+    *   [Digital Badges](https://fred.stlouisfed.org/digital-badges/)
+    *   [Contact Us](https://fred.stlouisfed.org/contactus/)
+
+*   [My Account](https://fredaccount.stlouisfed.org/)
+*    Explore Our Apps 
+
+Explore Our Apps
+----------------
+
+* * *
+
+    *   [![Image 9: A 51x51 small image, likely a logo, icon or avatar](https://fred.stlouisfed.org/images/FRED_Logo_for_Waffle.svg) ### FRED Tools and resources to find and use economic data worldwide](https://fred.stlouisfed.org/)
+    *   [![Image 10: A 51x51 small image, likely a logo, icon or avatar](https://fred.stlouisfed.org/images/FRASER_Logo_for_Waffle.svg) ### FRASER U.S. financial, economic, and banking history](https://fraser.stlouisfed.org/)
+    *   [![Image 11: A 51x51 small image, likely a logo, icon or avatar](https://fred.stlouisfed.org/images/ALFRED_Logo_for_Waffle.svg) ### ALFRED Vintages of economic data from specific dates in history](https://alfred.stlouisfed.org/)
+    *   [![Image 12: A 51x51 small image, likely a logo, icon or avatar](https://fred.stlouisfed.org/images/CASSIDI_Logo_for_Waffle.svg) ### CASSIDI View banking market concentrations and perform HHI analysis](https://cassidi.stlouisfed.org/index)
+
+*   [STL Fed Home Page](https://www.stlouisfed.org/)
+
+* * *
+
+*   [Release Calendar](https://fred.stlouisfed.org/releases/calendar)
+*   Tools 
+
+    *   [FRED Add-in for Excel](https://fred.stlouisfed.org/fred-addin)
+    *   [FRED API](https://fred.stlouisfed.org/docs/api/fred)
+    *   [FRED Mobile Apps](https://fred.stlouisfed.org/fred-mobile)
+
+*   [News](https://news.research.stlouisfed.org/category/fred-announcements/)
+*   [Blog](https://fredblog.stlouisfed.org/)
+*   About 
+
+    *   [What is FRED](https://fredhelp.stlouisfed.org/fred/about/about-fred/what-is-fred/)
+    *   [Tutorials](https://fredhelp.stlouisfed.org/)
+    *   [Digital Badges](https://fred.stlouisfed.org/digital-badges/)
+    *   [Contact Us](https://fred.stlouisfed.org/contactus/)
+
+[Home](https://fred.stlouisfed.org/)>[Categories](https://fred.stlouisfed.org/categories)>[National Accounts](https://fred.stlouisfed.org/categories/32992)>[National Income & Product Accounts](https://fred.stlouisfed.org/categories/18)>[Personal Income & Outlays](https://fred.stlouisfed.org/categories/110)
+
+[](https://fred.stlouisfed.org/series/PCECA)
+
+Personal Consumption Expenditures (PCECA)
+=======================================================================================
+
+Observations
+
+2024: 19,896.009 | Billions of Dollars, Not Seasonally Adjusted |  Annual
+
+Updated: Sep 25, 2025 7:46 AM CDT
+
+[Next Release Date: Nov 26, 2025](https://fred.stlouisfed.org/releases/calendar?rid=53&y=2025)
+
+Observations
+
+2024:19,896.009
+
+ Updated: Sep 25, 2025 7:46 AM CDT
+
+[Next Release Date: Nov 26, 2025](https://fred.stlouisfed.org/releases/calendar?rid=53&y=2025)
+
+2024:19,896.009
+2023:18,833.150
+2022:17,690.013
+2021:16,119.682
+2020:14,231.353
+[View All](https://fred.stlouisfed.org/data/PCECA.txt)
+
+Units:
+
+Billions of Dollars,
+
+Not Seasonally Adjusted 
+
+Frequency:
+
+ Annual 
+
+1Y 5Y 10Y Max[](https://fred.stlouisfed.org/series/PCECA#)
+
+From to
+
+Date: 
+
+[Edit Graph](https://fred.stlouisfed.org/series/PCECA)[Edit Map](https://fred.stlouisfed.org/series/PCECA#0)
+
+Download 
+
+Chart
+
+Line chart with 96 data points.
+
+View as data table, Chart
+
+The chart has 1 X axis displaying xAxis. Data ranges from 1929-01-01 1:00:00 to 2024-01-01 1:00:00.
+
+The chart has 2 Y axes displaying Billions of Dollars and yAxisRight.
+
+Personal Consumption Expenditures
+
+Billions of Dollars
+
+End of interactive chart.
+
+Source: U.S. Bureau of Economic Analysis via FRED®
+
+[_Shaded areas indicate U.S. recessions._](https://fredhelp.stlouisfed.org/fred/data/understanding-the-data/recession-bars/)
+
+fred.stlouisfed.org
+
+[](https://fred.stlouisfed.org/)
+
+[EDIT Line](https://fred.stlouisfed.org/series/PCECA#)[ADD Line](https://fred.stlouisfed.org/series/PCECA#)[FORMAT](https://fred.stlouisfed.org/series/PCECA#)[](https://fred.stlouisfed.org/series/PCECA#)
+
+Line 1
+
+(a)Personal Consumption Expenditures,Billions of Dollars,Not Seasonally Adjusted(PCECA)
+
+Units 
+
+Select a date that will equal 100 for your custom index:
+
+U.S. recession: or **Enter date as YYYY-MM-DD**
+
+- [x] Display integer periods instead of dates (e.g. ...,-1,0,1,...) with the value scaled to 100 at period 0. 
+
+Integer start/end to Copy to all
+
+Modify frequency 
+
+Aggregation method: 
+
+Customize data 
+
+Write a custom formula to transform one or more series or combine two or more series.
+
+You can begin by adding a series to combine with your existing series.
+
+Type keywords to search for data
+
+Add 
+
+Now create a custom formula to combine or transform the series.
+
+Need help?
+
+For example, invert an exchange rate by using formula 1/a, where “a” refers to the first FRED data series added to this line. Or calculate the spread between 2 interest rates, a and b, by using the formula a - b.
+
+Use the assigned data series variables (a, b, c, etc.) together with operators (+, -, *, /, ^, etc.), parentheses and constants (1, 1.5, 2, etc.) to create your own formula (e.g., 1/a, a-b, (a+b)/2, (a/(a+b+c))*100). As noted above, you may add other data series to this line before entering a formula.
+
+Formula 
+
+Apply Formula 
+
+Finally, you can change the units of your new series.
+
+Units 
+
+Select a date that will equal 100 for your custom index:
+
+U.S. recession: or **Enter date as YYYY-MM-DD**
+
+#### Add the minimum, maximum, and average calculations of selected lines to the graph
+
+Do not include this line in calculations (default) 
+
+Include this line in calculations 
+
+Include this line in calculations, but do not display it 
+
+ADD LINE
+
+Add data series to graph 
+
+Type keywords to search for data
+
+Add data series 
+
+Create user-defined line 
+
+You can customize a graph by adding a straight line between two data points.
+
+Create line 
+
+FORMAT GRAPH
+
+Graph type 
+
+Stacking: 
+
+##### Details
+
+###### Display
+
+- [x] Title 
+
+- [x] Axis titles 
+
+- [x] Tooltip 
+
+- [x] Recession shading 
+
+- [x] Log scale left 
+
+- [x] Log scale right 
+
+###### Customize
+
+Frame
+
+Plot area
+
+Text
+
+Height 
+
+Width 
+
+Apply
+
+##### Line 1
+
+###### Personal Consumption Expenditures
+
+###### Line details & color
+
+Line style, thickness, color and position
+
+Customize
+
+Line style 
+
+Width 
+
+Color 
+
+Mark type 
+
+Width 
+
+Y-Axis position 
+
+Left 
+
+Right 
+
+Bottom 
+
+ Fullscreen 
+
+**Data in this graph are copyrighted. Please review the copyright information in the [series notes](https://fred.stlouisfed.org/series/PCECA#notes) before sharing.**
+
+Share Graph 
+*   [Custom Graph Link](https://fred.stlouisfed.org/series/PCECA#)
+*   [Embed in Website](https://fred.stlouisfed.org/series/PCECA#)
+*   [Graph Image Link](https://fred.stlouisfed.org/series/PCECA#)
+
+ Account Tools
+*   [Save Graph](https://fred.stlouisfed.org/series/PCECA)
+*   [Add to Dashboard](https://fred.stlouisfed.org/series/PCECA)
+*   [Add to Data List](https://fredaccount.stlouisfed.org/datalists/addseries/PCECA)
+*   [Get Email Notification](javascript:void(0);)
+*   [Save Map](https://fred.stlouisfed.org/series/PCECA)
+
+[](https://fred.stlouisfed.org/graph/share.php)[](https://fred.stlouisfed.org/graph/share.php)[](https://fred.stlouisfed.org/graph/share.php)[](https://fred.stlouisfed.org/graph/share.php)
+
+Notes
+-----
+
+**Source:**[U.S. Bureau of Economic Analysis](http://www.bea.gov/)
+
+**Release:**[Gross Domestic Product](https://www.bea.gov/data/gdp/gross-domestic-product)
+
+**Units:** Billions of Dollars,Not Seasonally Adjusted
+
+**Frequency:** Annual
+
+#### Notes:
+
+BEA Account Code: DPCERC
+
+#### Suggested Citation:
+
+U.S. Bureau of Economic Analysis, Personal Consumption Expenditures [PCECA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/PCECA, December 2, 2025.
+
+Release Tables
+--------------
+
+Gross Domestic Product
+
+*   [Table 1.1.5. Gross Domestic Product: Annual](https://fred.stlouisfed.org/release/tables?rid=53&eid=41047#snid=41049)
+*   [Table 1.5.5. Gross Domestic Product, Expanded Detail: Annual](https://fred.stlouisfed.org/release/tables?rid=53&eid=41630#snid=41632)
+*   [Table 2.1. Personal Income and Its Disposition: Annual](https://fred.stlouisfed.org/release/tables?rid=53&eid=42509#snid=42494)
+*   [Table 2.3.5. Personal Consumption Expenditures by Major Type of Product: Annual](https://fred.stlouisfed.org/release/tables?rid=53&eid=43861#snid=43862)
+*   [Table 2.4.5. Personal Consumption Expenditures by Type of Product: Annual](https://fred.stlouisfed.org/release/tables?rid=53&eid=44183#snid=44184)
+*   [Table 2.5.5. Personal Consumption Expenditures by Function: Annual](https://fred.stlouisfed.org/release/tables?rid=53&eid=44686#snid=44687)
+
+Related Data and Content
+------------------------
+
+### Data Suggestions Based On Your Search
+
+[![Image 13](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/GPDIA "Gross Private Domestic Investment")
+
+[**Gross Private Domestic Investment**](https://fred.stlouisfed.org/series/GPDIA "Gross Private Domestic Investment")
+
+[![Image 14](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/GCEA "Government Consumption Expenditures and Gross Investment")
+
+[**Government Consumption Expenditures and Gross Investment**](https://fred.stlouisfed.org/series/GCEA "Government Consumption Expenditures and Gross Investment")
+
+[![Image 15](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/A019RC1A027NBEA "Net exports of goods and services")
+
+[**Net exports of goods and services**](https://fred.stlouisfed.org/series/A019RC1A027NBEA "Net exports of goods and services")
+
+[![Image 16](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/PCECCA "Real Personal Consumption Expenditures")
+
+[**Real Personal Consumption Expenditures**](https://fred.stlouisfed.org/series/PCECCA "Real Personal Consumption Expenditures")
+
+[![Image 17](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/DPCERG3A086NBEA "Personal Consumption Expenditures: Chain-type Price Index")
+
+[**Personal Consumption Expenditures: Chain-type Price Index**](https://fred.stlouisfed.org/series/DPCERG3A086NBEA "Personal Consumption Expenditures: Chain-type Price Index")
+
+[![Image 18](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/GDPA "Gross Domestic Product")
+
+[**Gross Domestic Product**](https://fred.stlouisfed.org/series/GDPA "Gross Domestic Product")
+
+[![Image 19](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/PCDGA "Personal Consumption Expenditures: Durable Goods")
+
+[**Personal Consumption Expenditures: Durable Goods**](https://fred.stlouisfed.org/series/PCDGA "Personal Consumption Expenditures: Durable Goods")
+
+[![Image 20](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/PCESVA "Personal Consumption Expenditures: Services")
+
+[**Personal Consumption Expenditures: Services**](https://fred.stlouisfed.org/series/PCESVA "Personal Consumption Expenditures: Services")
+
+[See More...](https://fred.stlouisfed.org/series/PCECA#moreTrendingSeries)
+
+* * *
+
+### Content Suggestions
+
+[![Image 21](https://fred.stlouisfed.org/images/loading.svg)](https://fredblog.stlouisfed.org/2015/08/gamble-on-gambling/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog "Gamble on gambling?")
+
+ FRED Blog 
+
+[**Gamble on gambling?**](https://fredblog.stlouisfed.org/2015/08/gamble-on-gambling/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog "Gamble on gambling?")
+
+[![Image 22](https://fred.stlouisfed.org/images/loading.svg)](https://alfred.stlouisfed.org/series?seid=PCECA&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred "Personal Consumption Expenditures")
+
+ ALFRED Vintage Series 
+
+[**Personal Consumption Expenditures**](https://alfred.stlouisfed.org/series?seid=PCECA&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred "Personal Consumption Expenditures")
+
+[![Image 23](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/PCE "Personal Consumption Expenditures")
+
+[**Personal Consumption Expenditures**](https://fred.stlouisfed.org/series/PCE "Personal Consumption Expenditures")
+
+### Other Formats
+
+[Monthly, Seasonally Adjusted Annual Rate](https://fred.stlouisfed.org/series/PCE)[Quarterly, Seasonally Adjusted Annual Rate](https://fred.stlouisfed.org/series/PCEC)[Index 2017=100, Quarterly, Not Seasonally Adjusted](https://fred.stlouisfed.org/series/NC000349Q)[Millions of Dollars, Quarterly, Not Seasonally Adjusted](https://fred.stlouisfed.org/series/NA000349Q)
+
+### Related Categories
+
+[Personal Income & Outlays](https://fred.stlouisfed.org/categories/110)[National Income & Product Accounts](https://fred.stlouisfed.org/categories/18)[National Accounts](https://fred.stlouisfed.org/categories/32992)
+
+### Releases
+
+[More Series from Gross Domestic Product](https://fred.stlouisfed.org/release?rid=53)
+
+### Tags
+
+[Personal Consumption Expenditures](https://fred.stlouisfed.org/tags/series?t=pce)[Consumption Expenditures](https://fred.stlouisfed.org/tags/series?t=consumption%20expenditures)[Consumption](https://fred.stlouisfed.org/tags/series?t=consumption)[Personal](https://fred.stlouisfed.org/tags/series?t=personal)[National Income and Product Accounts](https://fred.stlouisfed.org/tags/series?t=nipa)[Bureau of Economic Analysis](https://fred.stlouisfed.org/tags/series?t=bea)[Gross Domestic Product](https://fred.stlouisfed.org/tags/series?t=gdp)[Annual](https://fred.stlouisfed.org/tags/series?t=annual)[Nation](https://fred.stlouisfed.org/tags/series?t=nation)[Public Domain: Citation Requested](https://fred.stlouisfed.org/tags/series?t=public%20domain%3A%20citation%20requested)[United States of America](https://fred.stlouisfed.org/tags/series?t=usa)[Not Seasonally Adjusted](https://fred.stlouisfed.org/tags/series?t=nsa)
+
+##### Permalink/Embed
+
+modal open, choose link customization options
+
+Select automatic updates to the data or a static time frame. All data are subject to revision.
+
+[Make it responsive](https://fred.stlouisfed.org/series/PCECA#)[See FRED Help for usage instructions](https://fredhelp.stlouisfed.org/fred/graphs/share-my-fred-graph/how-to-embedding-fred-graphs/)
+
+Copy Share Link
+
+[Back to Top](https://fred.stlouisfed.org/series/PCECA#top)
+
+Filter 
+
+### Subscribe to the FRED newsletter
+
+ Subscribe
+
+### Follow us
+
+[Saint Louis Fed linkedin page](http://bit.ly/d056zL)[Saint Louis Fed facebook page](https://www.facebook.com/stlfed)[Saint Louis Fed X page](http://bit.ly/9ngC3L)[Saint Louis Fed YouTube page](http://bit.ly/aY9TVF)
+
+### Need Help?
+
+[Questions or Comments](https://fred.stlouisfed.org/contactus/)
+
+[FRED Help](https://fredhelp.stlouisfed.org/)
+
+* * *
+
+[Legal](https://fred.stlouisfed.org/legal/)
+
+[Privacy Notice & Policy](https://research.stlouisfed.org/privacy.html)
+
+Close
+
+Color format Hex RGB HSL 
+
+#023e8a#2a9d8f#e9c46a#f4a261#e76f51#d62828
+
+Reset Open color picker Color swatch

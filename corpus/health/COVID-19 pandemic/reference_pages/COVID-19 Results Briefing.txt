@@ -1,0 +1,844 @@
+# COVID-19 Results Briefing
+
+> covid19.healthdata.org 1Institute for Health Metrics and Evaluation
+
+# COVID -19 Results Briefing 
+
+# Global 
+
+# January 21, 2022 
+
+This document contains summary information on the latest projections from the IHME 
+
+model on COVID -19 globally. The model was run on January 20, 2022, with data through 
+
+January 18, 2022. 
+
+The global Omicron wave continues to unfold. The only countries that have not begun their 
+
+Omicron surge include most of Southeast Asia with the exception of the Philippines, China, 
+
+New Zealand, Libya , and Slovakia. In this week’s update, we model i n the reference 
+
+scenario a national Omicron outbreak in China beginning in February. Multiple countries 
+
+or states/regions within countries have already peaked and begun to decline. From initial 
+
+surge in reported cases to the peak, the interval is consist ently between 20 and 25 days 
+
+regardless of vaccination levels or prevalence of past infection. The likely explanation is the 
+
+extremely high transmissibility of Omicron and considerable immune escape from vaccine -
+
+derived and infection -acquired immunity. Perhaps the most important insight is the 
+
+extraordinary speed of the Omicron wave and the likelihood that nearly all countries will be 
+
+through the wave by mid -March. The unprecedented level of infection is creating heavy 
+
+pressure on health systems but for tunately is not leading to a major surge in deaths from 
+
+COVID -19. 
+
+Given what we have learned about the speed and intensity of the Omicron wave, policy 
+
+interventions appear to have a very limited impact in the short run. In our scenarios, 
+
+expanding mask use or third -dose vaccination speeds the decline of transmission , but 
+
+compared to previous variants these effects are quite modest. Testing, tracing , and 
+
+quarantine are unlikely to have an impact given the volume of infection in most countries. 
+
+Acutely, th e main efforts of governments should focus on supporting health systems that 
+
+face pressure due to the surge in COVID -19 -related admissions, the large number of 
+
+admissions for other health problems that have incidental COVID -19 infections requiring 
+
+infection c ontrol measures , and the shortages of health workers due to quarantine. Given 
+
+the rapid wave, governments may want to keep in place existing measures and mandates 
+
+and consider removing them in a few weeks after transmission drops , just to be cautious. 
+
+Aft er the Omicron wave subsides, high levels of infection -acquired and vaccine -derived 
+
+immunity should lead to low levels of transmission for many weeks or months. In the 
+
+Northern Hemisphere, further reductions in transmission potential over the summer may 
+
+ex tend the period of low COVID -19 infections into later in the year. covid19.healthdata.org 2 Institute for Health Metrics and Evaluation 
+
+COVID -19 will return, however, for two reasons. First, vaccine -derived and infection -
+
+derived immunity preventing infection will steadily wane. Waning immunity and winter 
+
+seasonality lat er in 2022 should lead at least to a winter increase in the Northern 
+
+Hemisphere and possibly an earlier return in the Southern Hemisphere winter. Second, 
+
+new variants are highly likely to emerge. In fact, the billions of global infections occurring 
+
+in the world from the end of November to March 1 may have created the opportunity for 
+
+new variants to emerge already. To prepare for future COVID -19 variants , governments 
+
+should maintain surveillance and monitor for the emergence of new variants, continue to 
+
+promote vaccination including third doses where vaccines are available, scale up access to 
+
+effective anti virals, and provide guidance for high -risk groups to use high -quality masks 
+
+and social distance if and when a new variant that is more severe than Omicron emerges. 
+
+Accelerating access to anti virals in low - and middle -income countries takes on greater 
+
+importance. With these measures in place, even the emergence of a new variant with 
+
+increased severity as compared to Omicron should not require the r eturn to pandemic -era 
+
+mandates. 
+
+# Current situation 
+
+• Estimated d aily infections in the last week increased to 95 .2 million per day on 
+
+average compared to 90 .4 million the week before (Figure 1.1). 
+
+• Daily hospital census in the last week (through January 18) increased to 1 .6 million 
+
+per day on average compared to 1 .1 million the week before. 
+
+• Daily reported cases in the last week increased to 3 .0 million per day on average 
+
+compared to 2 .6 million the week before (Figure 2.1). 
+
+• Reported deaths due to COVID -19 in the last week increased to 7,400 per day on 
+
+average compared to 7,000 the week before (Figure 3.1). 
+
+• Total deaths due to COVID -19 in the last week increased to 13,600 per day on average 
+
+compared to 12,600 the week before ( Figure 3.1). This makes COVID -19 the number 3 
+
+cause of death globally this week (Table 1). Estimated total daily deaths due to 
+
+COVID -19 in the past week were 1.8 times larger than the reported number of deaths. 
+
+• The daily rate of reported deaths due to COVI D-19 is greater than 4 per million in 28 
+
+countries and no subnational locations (Figure 4.1). 
+
+• The daily rate of total deaths due to COVID -19 is greater than 4 per million in 58 
+
+countries and no subnational locations (Figure 4.2). 
+
+• We estimate that 57% of people globally ha ve been infected at least once as of January 
+
+18 (Figure 6.1). 
+
+• Effective R, computed using cases, hospitalizations, and deaths, is greater than 1 in 
+
+110 countries and 136 subnational locations (Figure 7.1). Transmission is declining in 
+
+much of sub -Saharan Africa, Canada, the e astern and southern USA, Western and 
+
+Southern Europe , and Australia. 
+
+• The infection -detection rate globally was close to 4% on January 18 (Figure 8.1). covid19.healthdata.org 3 Institute for Health Metrics and Evaluation 
+
+• Based on the GISAID and various national databases, combined with ou r variant 
+
+spread model, we estimate the current prevalence of variants of concern (Figure s 9.1 –
+
+9.5). Omicron is dominant in nearly all countries. 
+
+# Trends in drivers of transmission 
+
+• Mobility last week was 9% higher than the pre -COVID -19 baseline (Fig ure 11.1). 
+
+Mobility was lower than 30% of baseline in no locations. 
+
+• As of January 18, in the COVID -19 Trends and Impact Survey, 55% of people self -
+
+report that they always wore a mask when leaving their home (Figure 13.1). 
+
+• There were 176 diagnostic tests pe r 100,000 people on January 18 (Figure 15.1). 
+
+• As of January 18, 70 countries and no subnational locations have reached 70% or more 
+
+of the population who have received at least one vaccine dose , and 44 countries and no 
+
+subnational locations have reached 70% or more of the pop ulation who are fully 
+
+vaccinated (Figure 17.1). 61% of people globally have received at least one vaccine dose 
+
+and 52% are fully vaccinated. First -dose vaccination rates less than 50% are seen in 
+
+most countries in Africa, parts of Eastern Europe, and sele ct countries in other 
+
+regions. 
+
+• Global ly , 68.2% of the population that is 12 years and older say they would accept or 
+
+would probably accept a vaccine for COVID -19. Note that vaccine acceptance is 
+
+calculated using survey data from the 18+ population. The p roportion of the population 
+
+who are open to receiving a COVID -19 vaccine ranges from 31% in Namibia to 100% in 
+
+United Arab Emirates (Figure 19.1). 
+
+• In our current reference scenario, we expect that 5.0 billion people will be vaccinated 
+
+with at least one dos e by May 1 (Figure 20.1). We expect that 59% of the population 
+
+will be fully vaccinated by May 1. 
+
+# Projections 
+
+Infections 
+
+• Daily estimated infections in the reference scenario , which represent s what we 
+
+think is most likely to happen, have peaked and will decline to 1 .4 million on May 1, 
+
+2022 (Figure 21.1). 
+
+• Daily estimated infections in the 80% mask coverage scenario decline faster from 
+
+the peak than in the reference scenario (Figure 21.1). 
+
+• Dail y estimated infections in the third dose scenario will decline slightly faster than 
+
+in the reference scenario (Figure 21.1). 
+
+Cases 
+
+• Daily cases in the reference scenario peak at 3.1 million cases on January 21 and 
+
+then decline rapidly , reaching below 500,0 00 by mid -March (Figure 21.2). covid19.healthdata.org 4 Institute for Health Metrics and Evaluation 
+
+• Daily cases in the 80% mask coverage scenario decline more rapidly than in the 
+
+reference scenario (Figure 21.2). 
+
+• Daily cases in the third dose scenario decline more rapidly than in the reference 
+
+scenario (Figure 21.2). 
+
+Hospit alizations 
+
+• Daily hospital census in the reference scenario will rise to 2 .3 million by the end of 
+
+January and then decline (Figure 21.3). 
+
+• Daily hospital census in the 80% mask coverage scenario will rise to 2 .2 million in 
+
+the last week of January and then decline (Figure 21.3). 
+
+• Daily hospital census in the third dose scenario is similar to the reference scenario 
+
+but with a slightly faster decline from the peak ( Figure 21.3). 
+
+Deaths 
+
+• In our reference scenario , our model projects 6,334,000 cumulative rep orted deaths 
+
+due to COVID -19 on May 1. This represents 275,000 additional deaths from January 
+
+18 to May 1. Daily reported COVID -19 deaths in the reference scenario will rise to 
+
+7,190 by January 22, 2022 , and then decline (Figure 21.4). 
+
+• Under our reference s cenario , our model projects 13,472,000 cumulative total deaths 
+
+due to COVID -19 on May 1. This represents 613,000 additional deaths from January 
+
+18 to May 1 (Figure 24.2). 
+
+• In our 80% mask coverage scenario , our model projects 6,318,000 cumulative 
+
+reported d eaths due to COVID -19 on May 1. This represents 259,000 additional deaths 
+
+from January 18 to May 1. Daily reported COVID -19 deaths in the 80% mask 
+
+coverage scenario will rise to 7,190 by January 22, 2022 (Figure 21.4). 
+
+• In our third dose scenario , our model projects 6,321,000 cumulative reported deaths 
+
+due to COVID -19 on May 1. This represents 262,000 additional deaths from January 
+
+18 to May 1. Daily reported COVID -19 deaths in the third dose scenario will rise to 
+
+7,100 by January 21, 2022 (Figure 21.4). 
+
+• At some point from January through May 1, 33 countries will have high or extreme 
+
+stress on hospital beds (Figure 23.1). At some point from January through May 1, 48 
+
+countries will have high or extreme stress on intensive care unit (ICU) capacity 
+
+(Figure 24.1) .Global 
+
+Model updates 
+
+No model updates. covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 1.1. Daily COVID-19 hospital census and estimated infections 025,000,000 50,000,000 75,000,000 100,000,000  
+
+> Jan 20 Mar 20 May 20 Jul 20 Sep 20 Nov 20 Jan 21 Mar 21 May 21 Jul 21 Sep 21 Nov 21 Jan 22
+> Number of people
+> Daily estimated infections Daily hospital census
+
+Figure 2.1. Reported daily COVID-19 cases, moving average 01,000,000 2,000,000 3,000,000 
+
+> Jan 20 Mar 20 May 20 Jul 20 Sep 20 Nov 20 Jan 21 Mar 21 May 21 Jul 21 Sep 21 Nov 21 Jan 22
+> Count
+
+Daily cases 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Table 1. Ranking of total deaths due to COVID-19 among the leading causes of mortality this week, assuming uniform deaths of non-COVID causes throughout the year Cause name Weekly deaths Ranking Ischemic heart disease 175,727 1Stroke 126,014 2COVID-19 94,890 3Chronic obstructive pulmonary disease 63,089 4Lower respiratory infections 47,946 5Tracheal, bronchus, and lung cancer 39,282 6Neonatal disorders 36,201 7Alzheimer’s disease and other dementias 31,217 8Diabetes mellitus 29,830 9Diarrheal diseases 29,509 10 
+
+Figure 3.1. Smoothed trend estimate of reported daily COVID-19 deaths (blue) and total daily deaths due to COVID-19 (orange) 010,000 20,000 30,000 40,000 50,000 
+
+> Jan 20 Mar 20 May 20 Jul 20 Sep 20 Nov 20 Jan 21 Mar 21 May 21 Jul 21 Sep 21 Nov 21 Jan 22
+> Daily deaths
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global Daily COVID-19 death rate per 1 million on January 18, 2022 
+
+Figure 4.1 Daily reported COVID-19 death rate per 1 million <1 
+
+1 to 1.9 
+
+2 to 2.9 
+
+3 to 3.9 
+
+4 to 4.9 
+
+5 to 5.9 
+
+6 to 6.9 
+
+7 to 7.9 
+
+>=8 
+
+Figure 4.2 Daily total COVID-19 death rate per 1 million <1 
+
+1 to 1.9 
+
+2 to 2.9 
+
+3 to 3.9 
+
+4 to 4.9 
+
+5 to 5.9 
+
+6 to 6.9 
+
+7 to 7.9 
+
+>=8 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global Cumulative COVID-19 deaths per 100,000 on January 18, 2022 
+
+Figure 5.1 Reported cumulative COVID-19 deaths per 100,000 <50 
+
+50 to 99 
+
+100 to 149 
+
+150 to 199 
+
+200 to 249 
+
+250 to 299 
+
+300 to 349 
+
+350 to 399 
+
+>=400 
+
+Figure 5.2 Total cumulative COVID-19 deaths per 100,000 <50 
+
+50 to 99 
+
+100 to 149 
+
+150 to 199 
+
+200 to 249 
+
+250 to 299 
+
+300 to 349 
+
+350 to 399 
+
+>=400 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 6.1. Estimated percent of the population infected with COVID-19 on January 18, 2022 <10 
+
+10−19.9 
+
+20−29.9 
+
+30−39.9 
+
+40−49.9 
+
+50−59.9 
+
+60−69.9 
+
+70−79.9 
+
+80−84.9 
+
+85−89.9 
+
+90−94.9 
+
+>=95 
+
+Figure 7.1. Mean effective R on January 7, 2022. Effective R less than 1 means that transmission should decline, all other things being held the same. The estimate of effective R is based on the combined analysis of deaths, case reporting, and hospitalizations where available. Current reported cases reflect infections 11-13 days prior, so estimates of effective R can only be made for the recent past. <0.65 
+
+0.65−0.73 
+
+0.74−0.82 
+
+0.83−0.9 
+
+0.91−0.99 
+
+1−1.3 
+
+1.31−1.61 
+
+1.62−1.92 
+
+1.93−2.22 
+
+>=2.23 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 8.1. Percent of estimated COVID-19 infections detected. This is estimated as the ratio of reported daily COVID-19 cases to estimated daily COVID-19 infections based on the SEIR disease transmission model. Due to measurement errors in cases and testing rates, the infection-detection rate can exceed 100% at particular points in time. 0% 25% 50% 75% 100%     
+
+> Apr 20 Jun 20 Aug 20 Oct 20 Dec 20 Feb 21 Apr 21 Jun 21 Aug 21 Oct 21 Dec 21 Feb 22
+> Percent of estimated infections detected
+> Global Italy United Kingdom United States of America Brazil
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global Estimated percent of circulating SARS-CoV-2 for primary variant families on January 18, 2022 
+
+Figure 9.1 Estimated percent of new infections that are Alpha variant 0% 
+
+1−9% 
+
+10−24% 
+
+25−49% 
+
+50−74% 
+
+75−89% 
+
+90−100% 
+
+Figure 9.2 Estimated percent of new infections that are Beta variant 0% 
+
+1−9% 
+
+10−24% 
+
+25−49% 
+
+50−74% 
+
+75−89% 
+
+90−100% 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 9.3 Estimated percent of new infections that are Delta variant 0% 
+
+1−9% 
+
+10−24% 
+
+25−49% 
+
+50−74% 
+
+75−89% 
+
+90−100% 
+
+Figure 9.4 Estimated percent of new infections that are Gamma variant 0% 
+
+1−9% 
+
+10−24% 
+
+25−49% 
+
+50−74% 
+
+75−89% 
+
+90−100% 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 9.5 Estimated percent of new infections that are Omicron variant 0% 
+
+1−9% 
+
+10−24% 
+
+25−49% 
+
+50−74% 
+
+75−89% 
+
+90−100% 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 10.1. Infection-fatality rate on January 18, 2022. This is estimated as the ratio of COVID-19 deaths to estimated daily COVID-19 infections. < 0.2% 
+
+0.2% to 0.39% 
+
+0.4% to 0.59% 
+
+0.6% to 0.79% 
+
+0.8% to 0.99% 
+
+> 1% 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 11.1. Trend in mobility as measured through smartphone app use, compared to January 2020 baseline −75 −50 −25 0
+
+> Dec 19 Feb 20 Apr 20 Jun 20 Aug 20 Oct 20 Dec 20 Feb 21 Apr 21 Jun 21 Aug 21 Oct 21 Dec 21 Feb 22
+> Percent reduction from average mobility
+
+Global Italy United Kingdom United States of America Brazil 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 12.1. Mobility level as measured through smartphone app use, compared to January 2020 baseline (percent) on January 18, 2022 =<−50 
+
+−49 to −45 
+
+−44 to −40 
+
+−39 to −35 
+
+−34 to −30 
+
+−29 to −25 
+
+−24 to −20 
+
+−19 to −15 
+
+−14 to −10 
+
+>−10 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 13.1. Trend in the proportion of the population reporting always wearing a mask when leaving home 025 50 75     
+
+> Feb 20 Apr 20 Jun 20 Aug 20 Oct 20 Dec 20 Feb 21 Apr 21 Jun 21 Aug 21 Oct 21 Dec 21 Feb 22
+> Percent of population
+> Global Italy United Kingdom United States of America Brazil
+
+Figure 14.1. Proportion of the population reporting always wearing a mask when leaving home on January 18, 2022 0% 
+
+<10% 
+
+10−20% 
+
+20−30% 
+
+30−40% 
+
+40−50% 
+
+50−60% 
+
+60−70% 
+
+70−80% 
+
+80−90% 
+
+90−100% 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 15.1. Trend in COVID-19 diagnostic tests per 100,000 people 0500 1000 1500 2000     
+
+> Feb 20 Apr 20 Jun 20 Aug 20 Oct 20 Dec 20 Feb 21 Apr 21 Jun 21 Aug 21 Oct 21 Dec 21 Feb 22
+> Test per 100,000 population
+> Global Italy United Kingdom United States of America Brazil
+
+Figure 16.1. COVID-19 diagnostic tests per 100,000 people on January 18, 2022 <5 
+
+5 to 9.9 
+
+10 to 24.9 
+
+25 to 49 
+
+50 to 149 
+
+150 to 249 
+
+250 to 349 
+
+350 to 449 
+
+450 to 499 
+
+>=500 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Table 3. Estimates of vaccine effectiveness for specific vaccines used in the model at preventing severe disease and infection. We use data from clinical trials directly, where available, and make estimates otherwise. More information can be found on our website. 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global Percent of the population having received at least one dose (17.1) and fully vaccinated against SARS-CoV-2 (17.2) by January 18, 2022 
+
+Figure 17.1 Percent of the population having received one dose of a COVID-19 vaccine 0% 
+
+<10% 
+
+10−20% 
+
+20−30% 
+
+30−40% 
+
+40−50% 
+
+50−60% 
+
+60−70% 
+
+70−80% 
+
+80−90% 
+
+90−100% 
+
+Figure 17.2 Percent of the population fully vaccinated against SARS-CoV-2 0% 
+
+<10% 
+
+10−20% 
+
+20−30% 
+
+30−40% 
+
+40−50% 
+
+50−60% 
+
+60−70% 
+
+70−80% 
+
+80−90% 
+
+90−100% 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 18.1. Trend in the estimated proportion of the population that is 12 years and older that has been vaccinated or would probably or definitely receive the COVID-19 vaccine if available. Note that vaccine acceptance is calculated using survey data from the 18+ population. 025 50 75 100     
+
+> Dec 20 Jan 21 Feb 21 Mar 21 Apr 21 May 21 Jun 21 Jul 21 Aug 21 Sep 21 Oct 21 Nov 21 Dec 21 Jan 22
+> Percent of population
+> Global Italy United Kingdom United States of America Brazil
+
+Figure 19.1. Estimated proportion of the population that is 12 years and older that has been vaccinated or would probably or definitely receive the COVID-19 vaccine if available. Note that vaccine acceptance is calculated using survey data from the 18+ population. 0% 
+
+<10% 
+
+10−20% 
+
+20−30% 
+
+30−40% 
+
+40−50% 
+
+50−60% 
+
+60−70% 
+
+70−80% 
+
+80−90% 
+
+90−100% 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 20.1. Percent of people who receive at least one dose of a COVID-19 vaccine and those who are fully vaccinated 0% 10% 20% 30% 40% 50% 60%  
+
+> Dec 20 Jan 21 Feb 21 Mar 21 Apr 21 May 21 Jun 21 Jul 21 Aug 21 Sep 21 Oct 21 Nov 21 Dec 21 Jan 22 Feb 22 Mar 22 Apr 22 May 22
+> Percent of population
+> At least one dose Fully vaccinated
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Projections and scenarios 
+
+We produce 3 scenarios when projecting COVID-19. The reference scenario is our forecast of what we think is most likely to happen: 
+
+• Vaccines are distributed at the expected pace. Brand- and variant-specific vaccine efficacy is updated using the latest available information from peer-reviewed publications and other reports. 
+
+• Future mask use is the mean of mask use over the last 7 days. 
+
+• Mobility increases as vaccine coverage increases. 
+
+• Omicron variant spreads according to our flight and local spread model. 
+
+• 80% of those who have had two doses of vaccine (or one dose for Johnson & Johnson) receive a third dose at 6 months after their second dose. The 80% mask use scenario makes all the same assumptions as the reference scenario but assumes all locations reach 80% mask use within 7 days. If a location currently has higher than 80% use, mask use remains at the current level. The third dose scenario is the same as the reference scenario but assumes that 100% of those who have received two doses of vaccine will get a third dose at 6 months. covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 21.1. Daily COVID-19 infections until May 01, 2022 for 3 scenarios 025,000,000 50,000,000 75,000,000 100,000,000 
+
+0400 800 1200 
+
+> Feb 20 Apr 20 Jun 20 Aug 20 Oct 20 Dec 20 Feb 21 Apr 21 Jun 21 Aug 21 Oct 21 Dec 21 Feb 22 Apr 22 Jun 22
+> Daily estimated infections
+> Daily estimated infections per 100,000
+
+Reference scenario 
+
+80% mask use 
+
+Third dose 
+
+Figure 21.2. Daily COVID-19 reported cases until May 01, 2022 for 3 scenarios 01,000,000 2,000,000 3,000,000 
+
+010 20 30 40 
+
+> Feb 20 Apr 20 Jun 20 Aug 20 Oct 20 Dec 20 Feb 21 Apr 21 Jun 21 Aug 21 Oct 21 Dec 21 Feb 22 Apr 22 Jun 22
+> Daily cases
+> Daily cases per 100,000
+
+Reference scenario 
+
+80% mask use 
+
+Third dose 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 21.3. Daily COVID-19 hospital census until May 01, 2022 for 3 scenarios 01,000,000 2,000,000 
+
+010 20 30 
+
+> Feb 20 Apr 20 Jun 20 Aug 20 Oct 20 Dec 20 Feb 21 Apr 21 Jun 21 Aug 21 Oct 21 Dec 21 Feb 22 Apr 22 Jun 22
+> Hospital census
+> Hospital census per 100,000 population
+
+Reference scenario 
+
+80% mask use 
+
+Third dose 
+
+Figure 21.4 Reported daily COVID-19 deaths per 100,000 05,000 10,000 15,000 
+
+0.00 0.05 0.10 0.15 0.20 
+
+> Feb 20 Apr 20 Jun 20 Aug 20 Oct 20 Dec 20 Feb 21 Apr 21 Jun 21 Aug 21 Oct 21 Dec 21 Feb 22 Apr 22 Jun 22
+> Daily deaths
+> Daily deaths per 100,000
+
+Reference scenario 
+
+80% mask use 
+
+Third dose 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 21.5 Total daily COVID-19 deaths per 100,000 010,000 20,000 30,000 40,000 50,000 
+
+0.0 0.2 0.4 0.6 
+
+> Feb 20 Apr 20 Jun 20 Aug 20 Oct 20 Dec 20 Feb 21 Apr 21 Jun 21 Aug 21 Oct 21 Dec 21 Feb 22 Apr 22 Jun 22
+> Daily deaths
+> Daily deaths per 100,000
+
+Reference scenario 
+
+80% mask use 
+
+Third dose 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 23.1. The estimated inpatient hospital usage is shown over time. The percent of hospital beds occupied by COVID-19 patients is color-coded based on observed quantiles of the maximum proportion of beds occupied by COVID-19 patients. Less than 5% is considered low stress , 5-9% is considered moderate stress , 10-19% is considered high stress , and 20% or greater is considered extreme stress .Yemen Vietnam Uzbekistan Ukraine Uganda USA UK Turkey Thailand Tanzania Sudan Spain South Korea South Africa Saudi Arabia Russia Poland Philippines Peru Pakistan Nigeria Nepal Myanmar Mozambique Morocco Mexico Malaysia Kenya Japan Italy Iraq Iran Indonesia India Ghana Germany France Ethiopia Egypt DR Congo Colombia China Canada Cameroon Brazil Bangladesh Argentina Angola Algeria Afghanistan 
+
+> Mar 20 May 20 Jul 20 Sep 20 Nov 20 Jan 21 Mar 21 May 21 Jul 21 Sep 21 Nov 21 Jan 22 Mar 22 May 22
+
+Stress level 
+
+> Low
+> Moderate
+> High
+> Extreme
+
+All hospital beds 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+Figure 24.1. The estimated intensive care unit (ICU) usage is shown over time. The percent of ICU beds occupied by COVID-19 patients is color-coded based on observed quantiles of the maximum proportion of ICU beds occupied by COVID-19 patients. Less than 10% is considered low stress , 10-29% is considered 
+
+moderate stress , 30-59% is considered high stress , and 60% or greater is considered extreme stress .Yemen Vietnam Uzbekistan Ukraine Uganda USA UK Turkey Thailand Tanzania Sudan Spain South Korea South Africa Saudi Arabia Russia Poland Philippines Peru Pakistan Nigeria Nepal Myanmar Mozambique Morocco Mexico Malaysia Kenya Japan Italy Iraq Iran Indonesia India Ghana Germany France Ethiopia Egypt DR Congo Colombia China Canada Cameroon Brazil Bangladesh Argentina Angola Algeria Afghanistan 
+
+> Mar 20 May 20 Jul 20 Sep 20 Nov 20 Jan 21 Mar 21 May 21 Jul 21 Sep 21 Nov 21 Jan 22 Mar 22 May 22
+
+Stress level 
+
+> Low
+> Moderate
+> High
+> Extreme
+
+Intensive care unit beds 
+
+covid19.healthdata.org Institute for Health Metrics and Evaluation Global 
+
+More information 
+
+Data sources: 
+
+Mask use and vaccine confidence data are from the The Delphi Group at Carnegie Mellon University and University of Maryland COVID-19 Trends and Impact Surveys, in partnership with Facebook. Mask use data are also from Premise, the Kaiser Family Foundation, and the YouGov COVID-19 Behaviour Tracker survey. Genetic sequence and metadata are primarily from the GISAID Initiative. Further details available on the COVID-19 model FAQ page. 
+
+A note of thanks: 
+
+We wish to warmly acknowledge the support of these and others who have made our COVID-19 estimation efforts possible. 
+
+More information: 
+
+For all COVID-19 resources at IHME, visit http://www.healthdata.org/covid. To download our most recent results, visit our Data downloads page. Questions? Requests? Feedback? Please contact us at https://www.healthdata.org/covid/contact-us. covid19.healthdata.org Institute for Health Metrics and Evaluation

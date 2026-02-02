@@ -1,0 +1,2695 @@
+# Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)
+
+> 1
+
+# Report of the WHO -China Joint Mission 
+
+# on Coronavirus Disease 2019 ( COVID -19 )
+
+# 16 -24 February 2020 2
+
+# Table of Contents 
+
+I. THE MISSION 3
+
+GOAL AND OBJECTIVES 3
+
+MEMBERS & METH OD OF WORK 3
+
+II. MAJOR FINDINGS 4
+
+THE VIRUS 4
+
+THE OUTBREAK 5
+
+THE TRANSMISSION DYNA MICS 9
+
+THE SIGNS , SYMPTOMS , DISEASE PROGRESSION AND SEVERITY 11 
+
+THE CHINA RESPONSE 14 
+
+KNOWLEDGE GAPS 16 
+
+III. ASSESSMENT 16 
+
+THE CHINA RESPONSE & NEXT STEPS 16 
+
+THE GLOBAL RESPONSE & NEXT STEPS 18 
+
+IV. MAJOR RECOMMENDATION S 21 
+
+FOR CHINA 21 
+
+FOR COUNTRIES WITH IM PORTED CASES AND /OR OUTBREAKS OF COVID -19 21 
+
+FOR UNINFECTED COUNTR IES 22 
+
+FOR THE PUBLIC 22 
+
+FOR THE INTERNATIONAL COMMUNITY 23 
+
+ANNEXES 24 
+
+A. WHO -CHINA JOINT MISSION MEMBERS 24 
+
+B. SUMMARY AGENDA OF THE MISSION 25 
+
+C. DETAILED TECHNICAL FINDINGS 27 
+
+RESPONSE MANAGEMENT , CASE AND CONTACT MA NAGEMENT , RISK COMMUNICATION AND COMMUNITY 
+
+ENGAGEMENT 27 
+
+CLINICAL CASE MANAGEM ENT AND INFECTION PR EVENTION AND CONTROL 31 
+
+LABORATORY , DIAGNOSTICS AND VIR OLOGY 33 
+
+RESEARCH & DEVELOPMENT 34 
+
+D. KNOWLEDGE GAPS 36 
+
+E. OPERATIONAL & TECHNICAL RECOMMENDATIONS 38 3
+
+# I. The Mission 
+
+Goal and Objectives 
+
+The overall goal of the Joint Mission was to rapidly inform national (China) and international 
+
+planning on next steps in the response to the ongoing outbreak of the novel coronavirus 
+
+disease ( COVID -19 1) and on next steps in re adiness and pr eparedness for geographic areas 
+
+not yet affected. 
+
+The major objectives o f the Joint Mission we re as follows: 
+
+• To enhance understanding of the evolving COVID -19 outbreak in China and the 
+
+nature and impact of ongoing containment measures; 
+
+• To share knowledge on COVID -19 response and preparedness measures being 
+
+implemented in countries affected by or at risk of importations of COVID -19 ;
+
+• To generate recommendations for adjusting COVID -19 containment and response 
+
+measures in China and internati onally; and 
+
+• To establish priorities for a collaborative programme of work , research and 
+
+development to address critical gaps in knowledge and response and readiness tools 
+
+and activities. 
+
+Members & Method of Work 
+
+The Joint Mission consisted of 25 national and international experts from China, Germany, 
+
+Japan, Korea, Nigeria, Russia, Singapore, the United States of America and the World Health 
+
+Organization (WHO) . The Joint Mission was headed by Dr Bruce Aylward of WHO and Dr 
+
+Wannian Liang of the People’s Rep ublic of China. The full list of members and their 
+
+affiliations is available in Annex A. The Joint Mission was implemented over a 9-day period 
+
+from 16 -24 February 2020 . The schedule of work is available in Annex B .
+
+The Joint Mission began with a detaile d workshop with representatives of all of the principal 
+
+ministries that are leading and/or contributing to the response in China through the 
+
+National Prevention and Control Task Force. A series of in -depth meetings were then 
+
+conducted with national level institutions responsible for the management, implementation 
+
+and evaluation of the response, particularly the National Health Commission and the China 
+
+Center s for Disease Control and Prevention (C hina CDC) . To gain first -hand knowledge on 
+
+the field level implementation and impact of the national and local response strategy, under 
+
+a range of epidemiologic and provincial contexts, visits were conducted to Beijing 
+
+Municipality and the provinces of Sichuan (Ch engdu), Guangdong (Guangzhou, Shenzhen) 
+
+and Hubei (Wuhan). The field visits included community centers and health clinics, 
+
+country/district hospitals, COVID -19 designated hospitals, transportations hubs (air, rail, 
+
+road), a wet market, pharmaceutical and personal protective equipment ( PPE ) stocks 
+
+warehouses , research institutions, provincial health commissions, and local Centers for   
+
+> 1In the Chinese version of this report, COVID -19 is referred to throughout as novel coronavirus pneumonia or
+> NCP, the term by which COVID -19 is most widely known in the People’s Republic of China. 4
+
+Disease Control (provincial and prefecture) . During these visits, the team had detailed 
+
+discussion and consultations with Pr ovincial Governors, municipal Mayors, their emergency 
+
+operations teams, senior scientists, frontline clinical , public health and community workers ,
+
+and community neighbourhood administrators . The Joint Mission concluded with working 
+
+sessions to consolidat e findings, generate conclusions and propose suggested actions. 
+
+To achieve its goal, the Joint Mission gave particular focus to addressing key questions 
+
+related to the natural history and severity of COVID -19, the transmission dynamics of the 
+
+COVID -19 viru s in different settings, and the impact of ongoing response measures in areas 
+
+of high (community level), moderate (clusters) and low (sporadic cases or no cases )
+
+transmission. 
+
+The findings in this report are based on the Joint Mission’s review of national and local 
+
+governmental reports, discussions on control and prevention measures with national and 
+
+local experts and response teams, and observations made and insights gained during site 
+
+visits . The figures have been produced using information and data coll ected during site 
+
+visits and with the agreement of the relevant groups . References are available for any 
+
+information in this report that ha s already been published in journals .
+
+The final report of the Joint Mission was submitted on 2 8 February 2020. 
+
+# II. Major findings 
+
+The major findings are described in six sections: the virus, the outbreak, transmission 
+
+dynamics , disease progression and severity , the China response and knowledge gaps. More 
+
+detailed descriptions of technical findings are provided in An nex C. 
+
+The virus 
+
+On 30 Dec ember 2019, three bronchoalveolar lavage samples were collected from a patient 
+
+with pneumonia of unknown etiology – a surveillance definition established following the 
+
+SARS outbreak of 2002 -2003 – in Wuhan Jinyintan Hospital . Real -time PCR (RT -PCR) assay s
+
+on these samples were positive for pan -Betacoronavirus. Using Illumina and nanopore 
+
+sequencing , the whole genome sequences of the virus were acquired. Bioinf or matic 
+
+analys es indicated that the virus had features typical of the coronavirus family and belong ed 
+
+to the Betacoronavirus 2B lineage. Alignment of the full -length genome sequence of the 
+
+COVID -19 virus and other available genomes of Betacoronavirus showed the closest 
+
+relationship was with the b at SARS -like coronavirus strain BatCov RaTG13 , identity 96%. 
+
+Virus isolation was conduct ed with various cell lines, such as human airway epithelial cells, 
+
+Vero E6, and Huh -7. Cytopathic effects (CPE) were observed 96 hours after inoculation. 
+
+Typical crown -like particles were obs erved under transmission electron microscope (TEM) 
+
+with negative staining. The cellular infectivity of the isolated viruses could be completely 
+
+neutralized by the sera collected from convalescent patients. Transgenic human ACE2 mice 
+
+and Rhesus monkey int ranasally challenged by this virus isolate induced multifocal 
+
+pneumonia with interstitial hyperplasia . The COVID -19 virus was subsequently detected 
+
+and isolated in the lung and intestinal tissues of the challenged animals. 5
+
+Whole genome sequencing analy sis of 104 strains of the COVID -19 virus isolated from 
+
+patients in different localities with symptom onset between the end of Dec ember 2019 and 
+
+mid -Feb ruary 2020 showed 99.9% homology, without significant mutation (Figure 1) .
+
+Figure 1. Phylogenetic analysis of the COVID -19 virus and its closely related reference 
+
+genomes 
+
+> Note: COVID -19 virus is referred to as 2019 -nCoV in the figure, the interim virus name WHO announced early in the
+> outbreak.
+
+Post -mortem samples from a 50 -year old male patient from Wuha n were taken from the 
+
+lung, liver, and heart. Histological examination showed bilateral diffuse alveolar damage 
+
+with cellular fibromyxoid exudates. The lung showed evident desquamation of 
+
+pneumocytes and hyaline membrane formation, indicating acute respiratory distress 
+
+syndrome (ARDS). Lung tissue also displayed cellular and fibromyxoi d exudat ion, 
+
+desquamation of pneumocy tes and pulmonary oedema . In terstitial mononuclear 
+
+inflammatory infiltrates, dominated by lymphocytes, were seen in both lungs. 
+
+Multinucleated syncytial cells with atypical enlarged pneumocytes characterized by large 
+
+nuclei, amphophilic granular cytoplasm, and prominent nucleoli wer e identified in the intra -
+
+alveolar spaces, showing viral cytopathic -like changes. No obvious intranuclear or 
+
+intracytoplasmic viral inclusions were identified. 
+
+The outbreak 
+
+As of 2 0 February 2020 , a cumulative total of 7 5,465 COVID -19 case s were reported in 
+
+China . Reported cases are based on the National Reporting System (NRS) between the 6
+
+National and Provincial Health Commissions. The NRS issues daily reports of newly 
+
+recorded confirmed cases, deaths, suspect ed cases, and contacts. A daily repo rt is provided 
+
+by each province at 0300hr in which they report cases from the previous day. 
+
+The epidemic curves presented in Figures 2 and 3 are generated using China’s National 
+
+Infectious Disease Information System (IDIS), which requires each COVID -19 case to be 
+
+reported electronically by the responsible doctor as soon as a case has been diagnosed. It 
+
+includes cases that are reported as asymptomatic and data are updated in real time. 
+
+Individual case reporting forms are downloaded after 2400hr daily . Epidemiologic curves 
+
+for Wuhan, Hubei (outside of Wuhan), China (outside Hubei) and China by symptom onset 
+
+are provided in Figure 2. 
+
+Figure 2 Epidemiologic curve of COVID -19 laboratory confirmed c ases , by date of onset of 
+
+illness, reported in China , as of 20 February 2020 7
+
+Figure 3 presents e pidemic curves of laboratory -confirmed cases, by symptom onset and 
+
+separately by date of report , at 5, 12, and 20 February 2020 . Fig ures 2 and 3 illustrate that 
+
+the epidemic rapidly grew from 10 -22 January, reported cases peaked and plateaued 
+
+between 23 January and 27 Janu ary, and ha ve been steadily declining since then , apart from 
+
+the spike that was reported on 1 February (note: at a major hospital in Wuhan, fever clinic 
+
+patients fell from a peak of 500/day in late January to average 50/day since mid -February ).
+
+Figure 3. Epidemi c curves by symptom onset and date of report as of 5 February (top 
+
+panel), 12 February (middle panel) and 20 February 2020 (lower panel) for laboratory 
+
+confirmed COVID -19 cases for all of China 
+
+Based on these epidemic curves, the published literature, and our on -site visits in Wuhan 
+
+(Hubei ), Guangdong (Shenzhen and Guangzhou) , Sichuan (Chengdu) , and Beijing, the Join t
+
+Mission team has made the following epidemiological observations: 8
+
+Demographic characteristics 
+
+Among 55,924 laboratory confirmed cases reported as of 20 February 2020 , the median age 
+
+is 51 years (range 2 days -100 years old ; IQR 39 -63 years old ) with the majority of cases 
+
+(77.8% ) aged between 30 –69 years . Among reported cases, 51. 1% are male, 77. 0% are from 
+
+Hubei and 21.6 % are farmers or laborer s by occupation .
+
+Zoonotic origins 
+
+COVID -19 is a zoonotic virus. From phylogenetics analyses undertaken with available full 
+
+genome sequences , bats appear to be the reservoir of COVID -19 virus , but t he intermediate 
+
+host(s) has not yet been identified . However, t hree important areas of work are already 
+
+underway in China to inform our understanding of the zoonotic origin of this outbreak. 
+
+These include early investigations of cases with symptom onset in Wuhan throughout 
+
+December 2019, environmental samp ling from the Huanan Wholesale Seafood M arket and 
+
+other area markets , and the collection of detailed records o n the source and type of wildlife 
+
+species sold at the Huanan market and the destination of th ose animals after the market 
+
+was closed .
+
+Routes of transmission 
+
+COVID -19 is transmitted via droplet s and fomites during close unprotected contact between 
+
+an infector and infectee . Airborne spread has not been reported for COVID -19 and it is not 
+
+believed to be a major driver of transmission based on available evidence ; however, it can 
+
+be envis aged if certain aerosol -generating procedures are conducted in healt h care facilities .
+
+Fecal shedding has been demonstrated from some patients , and viable virus has been 
+
+identified in a limited number of case reports . However, the fecal -oral route does not 
+
+appear to be a driver of COVID -19 transmission ; its role and sign ificance for COVID -19 
+
+remains to be determined. Viral shedding is discussed in the Technical Findings (Annex C) .
+
+Household transmission 
+
+In China, h uman -to -human t ransmission of the COVID -19 virus is largely occurring in 
+
+families. The Joint Mission received detailed information from the investigation of clusters 
+
+and some household transmission studies , which are ongoing in a number of Provinces .
+
+Among 344 clusters involving 1308 cases (out of a total 1836 cases reported) in Guangdong 
+
+Provinc e and Si chuan Province , most clusters (78% -85 %) have occurred in famil ies. 
+
+Household transmission studies are currently underway, but preliminary studies ongoing in 
+
+Guangdong estimate the secondary attack rate in household s ranges from 3-10%. 
+
+Contact Tracing 
+
+Chi na has a policy of meticulous case and contact identification for COVID -19. For example, 
+
+in Wuhan more than 18 00 teams of epidemiologists , with a minimum of 5 people/team, are 
+
+tracing tens of thousands of contacts a day. Contact follow up is painstaking , with a high 
+
+percentage of identified close contacts complet ing medical observation . Between 1 % and 
+
+5% of contacts were subsequently laboratory confirmed cases of COVID -19 , depending on 
+
+location . For example: 
+
+• As of 17 February , in Shenzhen City, among 2842 identified close contacts, 2842 
+
+(100 %) were traced and 2240 (72%) have completed medical observation . Among 
+
+the close contacts , 88 (2.8%) were found to be infected with COVID -19 .9
+
+• As of 17 Feb ruary , in Sichuan Province, among 25493 identified close con tacts, 
+
+25347 (99%) were traced and 23178 (91%) have completed medical observation .
+
+Among the close contacts, 0.9% were found to be infected with COVID -19 .
+
+• As of 20 February , in Guangdong Province, among 9939 identified close contacts, 
+
+9939 (100%) were tr aced and 7765 (78%) have completed medical observation .
+
+Among the close contacts, 479 (4.8%) were found to be infected with COVID -19 .
+
+Testing at fever clinics and from routine ILI/SARI surveillance 
+
+The Joint Mission systematically enquired about testing for COVID -19 from routine 
+
+respiratory disease surveillance systems to explore if COVID -19 is circulating more broadly 
+
+and undetected in the community in China . These systems could includ e RT -PCR testing of 
+
+COVID -19 virus in influenz a-like -illness (ILI) and sever e acute respiratory infection (SARI) 
+
+surveillance systems , as well as testing of results among all visit ors to fever clinics. 
+
+In Wuhan, COVID -19 testing of ILI samples (20 per week) in November and December 2019 
+
+and in the fi rst two weeks of January 2020 found no positive results in the 2019 samples, 1
+
+adult positive in the first week of Ja nuary , and 3 adults positive in the second week of 
+
+January; all children tested were negative for COVID -19 although a number were positive for 
+
+influenza . In Guangdong, from 1-14 January, only 1 of more than 15000 ILI/SARI samples 
+
+tested positive for the COVID -19 virus . In one hospital in Beijing, there were no COVID -19 
+
+positive samples among 1910 collected from 28 January 2019 to 13 Februar y 2020 . In a
+
+hospital in Shenz hen, 0/40 ILI samples were positive for COVID -19. 
+
+Withi n the fever clinics in Guangdong , the percent age of samples that tested positive for the 
+
+COVID -19 virus has decreased over time from a peak of 0.47 % positive on 30 January to 
+
+0.0 2% on 16 February. Overall in Guangdong, 0.14% of approximately 3 20,000 fever clinic 
+
+screenings were positive for COVID -19. 
+
+Susceptibility 
+
+As COVID -19 is a newly identified pathogen, there is no known pre -existing immunity in 
+
+humans. Based on the epidemiologic characteristics observed so far in China , everyone is 
+
+assumed to be susceptible, although there may be risk factors increasing susceptibility to 
+
+infection . This requires further study, as well as to know whether ther e is neutralising 
+
+immunity after infection. 
+
+The t ransmission dynamics 
+
+Inferring from Figures 2 and 3 , and based on our observations at the national and 
+
+provincial/municipal levels during the Joint Mission, we summarize and interpret the 
+
+transmission dynamics of COVID -19 thus far. It is important to note that t ransmission 
+
+dynamics of any outbreak are inherently contextual. For COVID -19, we observe four major 
+
+types of transmission dynamics during t he epidemic growth phase and in the post -control 
+
+period , and highlight what is known about transmission in children , as follows: 10 
+
+Transmission in Wuhan 
+
+Early cases identified in Wuhan are believed to be have acquired infection from a zoonotic 
+
+source as ma ny reported visiting or working in the Huanan Wholesale Seafood Market . As 
+
+of 25 February, an animal source has not yet been identified. 
+
+At some point early in the outbreak, some cases generated human -to -human transmission 
+
+chains that seeded the subsequ ent community outbreak prior to the implementation of the 
+
+comprehensive control measures that were rolled out in Wuhan . The dynamics likely 
+
+approximated mass action and radiated from Wuhan to other parts of Hubei province and 
+
+China , which explains a relatively high R0 of 2-2.5 .
+
+The cordon sanitaire around Wuhan and neighboring municipalitie s imposed since 23 
+
+January 2020 has effectively prevented further exportation of infected individuals to the 
+
+rest of the country. 
+
+Transmission in Hubei, other than Wuhan 
+
+In the prefectures immediately adjoining Wuhan (Xiaogan, Huanggang, Jingzhou and Ezhou), 
+
+transmission is less intense . For other prefectures, due to fewer transport links and human 
+
+mobility flows with Wuhan, the dynamics are mor e closely aligned with those observed in 
+
+the other areas of the country. Within Hubei, the implementation of control measures 
+
+(including social distancing) has reduced the community force of infection, resulting in the 
+
+progressively lower incident reporte d case counts. 
+
+Transmission in China outside of Hubei 
+
+Given Wuhan’s transport hub status and population movement during the Chinese New 
+
+Year ( chunyun ), infected individuals quickly spread throughout the country, and were 
+
+particularly concentrated in cities with the highest volume of traffic with Wuhan. Some of 
+
+these imported seeds generated limited human -to -human transmission chains at their 
+
+destinatio n.
+
+Given the Wuhan/Hubei experience, a comprehensive set of interventions, including 
+
+aggressive case and contact identification, isolation and management and extreme social 
+
+distancing, have been implemented to interrupt the chains of transmission nationwide. To 
+
+date, m ost of the recorded cases were imported from or had direct links to Wuhan/Hubei. 
+
+Community transmission has been very limited. Most locally gen erated cases have been 
+
+clustered, the majority of which have occurred in households , as summarized above .
+
+Of note, the highly clustered nature of local transmission may explain a relatively high R0 (2 -
+
+2.5) in the absence of interventions and low confirme d case counts with intense quarantine 
+
+and social distancing measures. 
+
+Special settings 
+
+We note that instances of transmission have occurred within health care settings prisons 
+
+and other closed settings . At the pres ent time, it is not clear what role these settings and 
+
+groups play in transmission. However, t hey do not appear to be major drivers of the overall 
+
+epidemic dynamics. Specifically , we note :11 
+
+(a) Transmission in h ealth care settings and among health care workers (HCW) – The 
+
+Joint Mission discussed nosocomial infection in all locations visited during the 
+
+Mission. As of 20 February 2020 , t here were 2,055 COVID -19 laboratory -confirmed 
+
+cases reported among HCW from 476 hospitals across China. The majority of HCW 
+
+cases ( 88 %) were reported from Hubei. 
+
+Remarkably, m ore than 40,000 HCW have been deployed from other areas of China 
+
+to support the response in Wuhan . Notwithstanding discrete and limited instances 
+
+of nosocomial outbreaks (e .g. a nosocomial outbreak involving 15 HCW in Wuhan), 
+
+transmission within health care settings and amongst health care workers does not 
+
+appear to be a major transmission feature of COVID -19 in Chin a. The Joint Mission 
+
+learned that, among the HCW infections, most were identified early in the ou tbreak 
+
+in Wuhan when supplies and experience with the new disease was lower. 
+
+Additionally, investigations among HCW suggest that many may have been infected 
+
+within the household rather than in a health care s etting. Outside of Hubei, health 
+
+care worker infections have been less frequent (i. e. 246 of the total 2055 HCW 
+
+cases ). W hen exposure was investigated in these limited cases, the exposure for 
+
+most was reported to have be en traced back to a confirmed case in a hou sehold .
+
+The Joint Team noted th at attention to the prevention of infection in health care 
+
+worker s is of paramount importance in China . Surveillance among health care 
+
+workers identified factors early in the outbreak that placed HCW at higher risk of 
+
+infection, and this information has been used to modify policies to improve 
+
+protect ion of HCW .
+
+(b) Transmission in c losed settings – There have been reports of COVID -19 transmission 
+
+in prisons (Hubei, Shandong, and Zhejiang, China ), hospitals (as ab ove) and in a long -
+
+term living facility . The close proximity and contact among people in these settings 
+
+and the potential for environmental contamination are important factors , which 
+
+could amplify transmission . Transmission in these settings warrants further study. 
+
+Children 
+
+Data o n individuals aged 18 years old and under suggest that there is a relatively low attack 
+
+rate in this age group (2.4% of all reported cases). Within Wuhan, among testing of ILI 
+
+samples , no children were positive in November and December of 2019 and in the first two 
+
+weeks of January 2020 . From available data , and in the absence of results from serologic 
+
+studies, it is not possible to determine the extent of infection among children, what role 
+
+children play in transmission, whether children are less susceptible or if they present 
+
+differently clinically (i.e. generally milder presentations). The Joint Mission learned that 
+
+infected children have largely been identified through contact tracing in households of 
+
+adults . Of note , people interviewed by the Joint Mission Team could not recall episodes in 
+
+which transmission occurred from a child to an adult. 
+
+The s igns, symptoms , disease progression and severity 
+
+Symptoms of COVID -19 are non -specific and the disease presentation can range from no 
+
+symptoms (asymptomatic) to severe pneumonia and death. As of 20 February 2020 and 12 
+
+based on 55924 laboratory confirmed cases, typical signs and symptoms include : fever 
+
+(87.9%), dry cough (67.7%), fatigue (38.1%), sputum production (33.4%), shortness of breath 
+
+(18.6%), sore throat (13.9%), headache (13.6%), myalgia or arthralgia (14.8%), chi lls (11.4%), 
+
+nausea or vomiting (5.0%), nasal congestion (4.8%), diarrhea (3.7%), and hemoptysi s (0.9%), 
+
+and conjunctival congestion (0.8%). 
+
+People with COVID -19 generally develop signs and symptoms , including mild respiratory 
+
+symptoms and fever, on an average of 5-6 days after infection (mean incubation period 5 -6
+
+days, range 1 -14 days). 
+
+Most people infected with COVID -19 virus have mild disease and recover. Approximately 
+
+80% of laboratory confirmed patients have had mild to moderate disease , which include s
+
+non -pneumonia and pneumonia cases , 13.8 % have severe disease (dyspnea, respiratory 
+
+frequency ≥30/minute, blood oxygen saturation ≤93%, PaO2/FiO2 ratio <300, and/or lung 
+
+infiltrates >50% of the lung field within 24 -48 hours) and 6.1 % are critical (respiratory 
+
+failure, septic shock, and/or multiple organ dysfunction/fa ilure). Asymptomatic infection 
+
+has been reported, but the majority of the relatively rare cases who are asymptomatic on 
+
+the date of identification/ report went on to develop disease. The proportion of truly 
+
+asymptomatic infections is unclear but appears to be relatively rare and does not appear to 
+
+be a major driver of transmission .
+
+Individuals at highest risk for severe disease and death include people aged over 60 years 
+
+and those with underlying conditions such as hypertension, diabetes, cardiovascula r
+
+disease, chronic respiratory disease and cancer. Disease in children appears to be relatively 
+
+rare and mild with approximately 2 .4 % of the total reported cases reported amongst 
+
+individuals aged under 19 years . A very small proportion of those aged under 19 years have 
+
+developed severe (2.5%) or critical disease (0.2%). 
+
+As of 20 February , 211 4 of the 55 ,924 laboratory confirmed cases have died (crude fatality 
+
+ratio [CFR 2] 3. 8%) (note: at least some of whom were identified using a case definition that 
+
+included pulmonary disease). The overall CFR varies by location and intensity of 
+
+transmission (i.e. 5.8 % in Wuhan vs. 0. 7% in other areas in China) . In China, the overall CFR 
+
+was higher i n the early stages of the outbreak (17 .3% for cases with symptom onset from 1 -
+
+10 January ) and has reduced over time to 0.7% for patients with symptom onset after 1 
+
+February (Figure 4). The Joint Mission noted that the standard of care has evolved over the 
+
+course of the outbreak. 
+
+Mortality increases with age, with the highest mortality among people over 80 years of age 
+
+(CFR 21.9%). The CFR is higher among males compared to females ( 4.7 % v s. 2.8 %). By 
+
+occupation, patients who reported being retirees had the highest CFR at 8.9 %. While 
+
+patients who reported no comorbid conditions had a CFR of 1.4 %, patients with comorbid 
+
+conditions had much higher rates : 13.2 % for those with cardiovascular disease, 9. 2% for 
+
+diabetes, 8.4% for hypertension, 8.0 % for chronic respiratory disease, and 7.6 % for cancer.  
+
+> 2The Joint Mission acknowledges the known challenges and biases of reporting crude CFR early in an epidemic. 13
+
+Figure 4 Case fatality ratio (reported deaths among total cases) for COVID -19 in China over 
+
+time and by location, as of 20 February 2020 
+
+Data on the progression of disease is available from a limited number of reported 
+
+hospitalized cases (Figure 5). Based on available information, t he median time from 
+
+symptom onset to laboratory confirmation nationally decreased from 12 days ( range 8-18 
+
+days) in early January to 3 days (1 -7) by early February 2020 , and in Wuhan from 15 days 
+
+(10 -21) to 5 days (3 -9), respectively . This has allow ed for earlier case and contact 
+
+identification , isolation and treatment. 
+
+Figure 5. Pattern of disease progression for COVID -19 in China         
+
+> Note: the relative size of the boxes for disease severity and outcome reflect the proportion of cases reported as of 20
+> February 2020 . The size of the arrows indicate sthe proportion of cases who recover ed or die d.Disease definiti ons are
+> described above. Moderate cases have a mild form of pneumonia.
+
+Moderate 14 
+
+Using available preliminary data, the median time from onset to clinical recovery for mild 
+
+cases is approximately 2 weeks and is 3-6 weeks for patients with severe or critical disease. 
+
+Preliminary data suggests that the time period from onset to the develop ment of severe 
+
+disease, including hypoxia , is 1 week. Among patients who have died, the time from 
+
+symptom onset to outcome ranges from 2-8 weeks. 
+
+An increasing number of patients have recovered ; as of 2 0 February , 18 264 (24%) reported 
+
+cases have recovered. Encouragingly, a report on 20 February from the Guangdong CDC 
+
+suggests that of 125 severe cases identified in Guangdong, 33 (26.4%) have recover ed and 
+
+been released from hospital , and 58 (46.4%) had improved and were reclassified as having 
+
+mild/moderate disease (i.e. + milder pneumonia) . Among severe cases reported to date, 
+
+13.4% have died. Early identification of cases and contacts allow s for earl ier treatment. 
+
+The China response 
+
+Upon the detection of a cluster of pneumonia cases of unknown etiology in Wuhan, the CPC 
+
+Central Committee and the State Council launched the national emergency response. A
+
+Central Leadership Group for Epidemi c Response and the Joint Prevention and Control 
+
+Mechanism of the State Council were established. General Secretary Xi Jinping personally 
+
+directed and deployed the prevention and control work and requested that the prevention 
+
+and control of the COVID -19 ou tbreak be the top priority of government at all levels. Prime 
+
+Minister Li Keqiang headed the Central Leading Group for Epidemic Response and went to 
+
+Wuhan to inspect and coordinat e the prevention and control work of relevant departments 
+
+and provinces (autonomous regions and municipalities) across the country. Vice Pr emier 
+
+Sun Chunlan, who has been working on the frontline s in Wuhan, has led and coordinated 
+
+the frontline prevention and control of the outbreak. 
+
+The prevention and control measures have been implemented rapidly , from the early stages 
+
+in Wuhan and other key areas of Hubei , to the current overall national epidemic. It has 
+
+been undertaken in three main phases , with two i mportant events defin ing those phases .
+
+First, COVID -19 was included in the statutory report of Class B infectious diseases and 
+
+bo rder health quarantine infectious diseases on 20 January 2020 , which marked the 
+
+transition from the initial partial control ap proach to the comprehensive adoption of various 
+
+control measures in accordance with the law . The second event was the State Council ’s 
+
+issu ing, on 8 February 2020 , of The Notice on Orderly Resuming Production and Resuming 
+
+Production in Enterprises , which indicated that China’s national epidemic control work had 
+
+entered a stage of overall epidemic prevention and control together with the restoration of 
+
+normal social and economic operations. 
+
+The first stage 
+
+During the early stage of the outbreak , the main s trategy focused on preventing the 
+
+exportation of cases from Wuhan and other priority areas of Hubei Province, and preventing 
+
+the importation of cases by other provinces ; the overall aim was to control the source of 
+
+infection, block transmission and prevent further spread. The response mechanism was 
+
+initiated with multi -sectoral involvement in joint prevention and control measures . Wet 
+
+markets were closed, and efforts were made to identify the zoonotic source . Information 
+
+on the epidemic was notified to WHO on 3 January , and whole genome sequence s of the 
+
+COVID -19 virus were shared with WHO on 10 January . Protocols for COVID -19 diagnosis and 15 
+
+treatment, surveillance, epidemiological investigatio n, management of close contacts , and 
+
+laboratory testing were formulated, and relevant surveillance activities and epidemiological 
+
+investigations conducted. Diagnostic t esting kits were developed , and wildlife and live 
+
+poultry markets were placed under str ict supervision and control measures. 
+
+The second stage 
+
+During the second stage of the outbreak , the main strategy was to reduce the intensity of 
+
+the epidemic and to slow down the increase in cases. In Wuhan and other priority areas of 
+
+Hubei Province, the focus was on active ly treat ing patients, reduc ing deaths , and preventi ng 
+
+exportation s. In other provinces, the focus was on preventi ng importation s, curbing the 
+
+spread of the disease and implementing joint prevention and control measures . Nationally, 
+
+wildlife markets were closed and wildlife captive -breeding facilities were cordoned off . On 
+
+20 January, COVID -19 was included in the notifiable report of Class B infectious diseases and 
+
+border health quarantine infectious diseases, with temperature check s, health care 
+
+declarations , and quarantine against COVID -19 instituted at transportation depots in 
+
+accordance with the law. On 23 January, Wuhan implemented strict traffic restrictions . The 
+
+protocol s for diagnosis , treatment and epidemic prevention and control were improved ;
+
+case isolation and treatment were strengthened. 
+
+Measures were taken to ensure that all cases were treated, and close contacts were isolated 
+
+and put under medical observation. Other m easures i mplemented included the extension 
+
+of the Spring Festival holiday, traffic control s, and the control of transportation capacity to 
+
+reduce the movement of people ; mass gathering activities were also cancelled . Information 
+
+about the epidemic and prevention a nd control measures was regularly released. Public risk 
+
+communication s and health education were strengthened; allocation of medical supplies 
+
+was coordinated, new hospitals were built, reserve beds were used and relevant premises 
+
+were repurposed to ensure that all cases could be treated; efforts were made to maintain a
+
+stable supply of commodities and their prices to ensure the smooth operation of society. 
+
+The third stage 
+
+The third stage of the outbreak focused on reducing clusters of cases, thoroughly controlling 
+
+the epidemic, and striking a balance between epidemic prevention and control , sustainable 
+
+economic and social development, the unified command, standardized guidance, and 
+
+scientific evidence -ba sed policy implementation. For Wuhan and other priority areas of 
+
+Hubei Province, the focus was on patient treatment and the i nterruption of transmission, 
+
+with an emphasis on concrete steps to fully implement relevant measures for the testing, 
+
+admitting an d treating of all patients. A risk -based prevention and control approach was 
+
+adopted with differentiated prevention and control measures for different regions of the 
+
+country and provinces . Relevant measures were strengthened in the areas of 
+
+epidemiologic al investigation, case management and epidemic prevention in high -risk public 
+
+places. 
+
+New technologies were applied such as the use of big data and artificial intelligence (AI) to 
+
+strengthen contact tracing and the management of priority population s. R elevant health 
+
+insurance policies were promulgated on "health insurance payment, off -site settlement, and 
+
+financial compensation". All provinces provided support to Wuhan and priority areas in 
+
+Hubei Province in an effort to quickly curb the spread of the disease and provide timely 
+
+clinical treatment . Pre -school preparation was improved, and work resumed in phases and 16 
+
+batches. Health and welfare services were provided to returning workers in a targeted and 
+
+‘one -stop ’ manner. Normal social operation s are being restored in a stepwise fashion ;
+
+knowledge about disease prevention is being popularized to improve public health literacy 
+
+and skills; and a comprehensive program of emergency scientific research is being carried 
+
+out to develop diagnostics , therapeutics and vaccines , delineat e the spectrum of the 
+
+disease , and identify the source of the virus .
+
+Knowledge gaps 
+
+Since the start of the COVID -19 outbreak, there ha ve been extensive attempts to better 
+
+understand the virus and the disease in China . It is remarkable how much knowledge about 
+
+a new virus has been gained in such a short time. However, as with all new diseases, and 
+
+only 7 weeks after this outbreak began, key knowledge gaps remain . Annex D summarizes 
+
+the key unknowns in a number of are as including the source of infection, pathogenesis and 
+
+virulence of the virus, transmissibility, risk factor s for infection and disease progression ,
+
+surveillance, diagnostics, clinical management of severe and critically ill patients, and the 
+
+effectiveness of prevention and control measures. The t imely filling of these knowledge 
+
+gaps is imperative to enhanc e control strategies .
+
+# III. Assessment 
+
+The Joint Mission drew four major conclusions from its work in China and four major 
+
+conclusions from its knowledge of the broader global response to COVID -19 .
+
+Recommendations are offered in five major areas to inform the ongoing response globally 
+
+and in China. 
+
+The China Response & Next Steps 
+
+1. In the face of a previously unknown virus, China has rol led out perhaps the most 
+
+ambitious, agile and aggressive disease containment effort in history. The strategy 
+
+that underpinned this containment effort was initially a national approach that 
+
+promoted universal temperature monitoring , masking, and hand washi ng. However, 
+
+as the outbreak evolved , and knowledge was gained, a science and risk -based 
+
+approach was taken to tailor implementation . Specific containment measures were 
+
+adjusted to the provincial, county and even community context, the capacity of the 
+
+se tting, and the nature of novel coronavirus transmission there. 
+
+While the fundamental principles of this strategy have been consistent since its launch, 
+
+there has been constant refinement of specific aspects to incorporate new knowledge 
+
+on the novel corona virus, the COVID -19 disease , and COVID -19 containment , as rapidly 
+
+as that knowledge has emerged. The remarkable speed with which Chinese scientists 
+
+and public health experts isolated the causative virus, established diagnostic tools, and 
+
+determined key tr ansmission parameters , such as the route of spread and incubation 
+
+period, provided the vital evidence base for China’s strategy, gaining invaluable time for 
+
+the response. 17 
+
+As striking, has been the uncompromising rigor of strategy application that proved t o be 
+
+a hallmark in every setting and context where it was examined. There has also been a 
+
+relentless focus on improving key performance indicators, for example constantly 
+
+enhancing the speed of case detection , isolation and early treatment . The 
+
+implementation of these containment measures has been supported and enabled by the 
+
+innovative and aggressive use of cutting edge technologies , from shifting to online 
+
+medical platforms for routine care and schooling , to the use of 5G platforms to suppor t
+
+rural response operations .
+
+2. Achieving China’s exceptional coverage with and adherence to these containment 
+
+measures has only been possible due to the deep commitment of the Chinese people 
+
+to collective action in the face of this common threat . At a c ommunity level this is 
+
+reflected in the remarkable solidarity of provinces and cities in support of the most 
+
+vulnera ble populations and communities. Despite ongoing outbreaks in their own 
+
+areas, Governors and Mayors have continue d to send thousands of hea lth care 
+
+workers and tons of vital PPE supplies into Hubei province and Wuhan city. 
+
+At the individual level, the Chinese people have reacted to this outbreak with courage 
+
+and conviction. They have accepted and adhered to the starkest of containment 
+
+measu res – whether the suspension of public gatherings, the month -long ‘stay at home’ 
+
+advisories or prohibitions on travel. Throughout an intensive 9-days of site visits across 
+
+China, in frank discussions from the level of local community mobilizers and frontline 
+
+health care providers to top scientists, Governors and Mayors, the Joint Mission was 
+
+struck by the sincerity and dedication that each brings to this COVID -19 response. 
+
+3. China’s bold approach to contain the rapid spread of this new respiratory pathogen 
+
+has changed the course of a rapidly escalating and deadly epidemic. A particularly 
+
+compelling statistic is that on the first day of the advance team’s work there were 
+
+2478 new ly confirmed cases of COVID -19 reported in China. Two weeks later, on the 
+
+final day of this Mission, China reported 409 newly confirmed cases. This decline in 
+
+COVID -19 cases across China is real. 
+
+Several sources of data s upport this conclusion, including the steep decline in fever clinic 
+
+visits, the opening up of treatment beds as cured patients are discharged, and the 
+
+challenges to recruiting new patients for clinical trials. Based on a comparison of crude 
+
+attack rates a cross provinces, t he Joint Mission estimates that this truly all -of -
+
+Government and all -of -society approach that has been taken in China has averted or at 
+
+least delayed hundreds of thousands of COVID -19 cases in the country . By extension, 
+
+the reduction tha t has been achieved in the force of COVID -19 infection in China has 
+
+also played a significant role in protecting the global community and creating a stronger 
+
+first line of defense against international spread . Containing this outbreak, however, 
+
+has come a t great cost and sacrifice by China and its people , in both human and material 
+
+terms. 
+
+While the scale and impact of China’s COVID -19 operation has been remarkable , it has 
+
+also highlighted areas for improvement in public health emergency response capacity. 18 
+
+These include overcoming any obstacles to act immediately on early alerts, to massively 
+
+scale -up capacity for isolation and care, to optimize the protection of frontline health 
+
+care workers in all settings, to enhance collaborati ve action on priority gaps in 
+
+knowledge and tools, and to more clearly communicate key data and developments 
+
+internationally. 
+
+4. China is already , and rightfully , working to bolster its economy, reopen its schools and 
+
+return to a more normal semblance of its society , even as it works to contain the 
+
+remaining chains of COVID -19 transmission. Appropriately, a science -based, risk -
+
+informed and phased approach is being taken, with a clear recognition and readiness 
+
+of the need to immediately react to any new COVID -19 cases or clusters as key 
+
+elements of the containment strategy are lifted. 
+
+Despite the declining case numbers, across China every province, city and community 
+
+visited is urgently escalating their investments in acute care beds and public health 
+
+capacity. It is crucial t hat this continues. Fifty thousand infected COVID -19 patient are 
+
+still under treatment, across the country. However, the Joint Mission has come to 
+
+understand the substantial knowledge, experience and capacities that China has rapidly 
+
+built during this cr isis. Consequently, it endorses China’s working assumption that in 
+
+most provinces and municipalities it should soon be possible to manage a resurgence in 
+
+COVID -19 cases , using even more tailored and sustainable approach es that are anchored 
+
+in very rapid ca se detection, instant activation of key containment activities, direct 
+
+oversight by top leadership, and broad community engagement. 
+
+As China works to resume a more normal level of societal and economic activity, it is 
+
+essential that the world recognizes a nd reacts positively to the rapidly changing, and 
+
+decreasing, risk of COVID -19 in the country. China’s rapid return to full connectivity with 
+
+the world, and to full productivity and economic output , is vital to China and to the 
+
+world. The world urgently needs access to China’s experience in responding to COVID -
+
+19, as well as the material goods it brings to the global response. It is even more urgent 
+
+now, with escalating COVID -19 outbreaks outside of China, to constantly reassess any 
+
+restrictions on trave l and/or trade to China that go beyond the recommendations of the 
+
+IHR Emergency Committee on COVID -19. 
+
+The Global Response & Next Steps 
+
+1. The COVID -19 virus is a new pathogen that is highly contagious, can spread quickly, 
+
+and must be considered capable of causing enormous health, economic and societal 
+
+impacts in any setting. It is not SARS and it is not influenza. Building scenarios and 
+
+strategies only on the basis of well -known pathogens risks failing to exploit all possibl e
+
+measures to slow transmission of the COVID -19 virus , reduce disease and save lives. 
+
+COVID -19 is not SARS and it is not influenza. It is a new virus with its own 
+
+characteristics. For example, COVID -19 transmission in children appears to be limited 
+
+comp ared with in flu enza , while the clinical picture differs from SARS. Such differences, 
+
+while based on limited data, may be playing a role in the apparent efficacy of rigorously 19 
+
+applied non -pharmaceutical, public health measures to interrupt chains of human -to -
+
+human transmission in a range of settings in China. The COVID -19 virus is unique among 
+
+human coronaviruses in its combination of high transmissibility, substantial fatal 
+
+outcomes in some high -risk groups, and ability to cause huge societal and economic 
+
+disruption. For planning purposes, it must be assumed that the global population is 
+
+susceptible to this virus. As the animal origin of the COVID -19 virus is unknown at 
+
+present, the risk of reintroduction into previously infected areas must be constantly 
+
+consider ed .
+
+The novel nature , and our continuously evolving understanding , of this coronavirus 
+
+demands a tremendous agility in our capacity to rapidly adapt and change our readiness 
+
+and response planning as has been done continually in China. This is an extraordinary 
+
+feat for a country of 1.4 billion people. 
+
+2. China’s uncompromising and rigorous use of non -pharmaceutical measures to contain 
+
+transmission of the COVID -19 virus in multiple settings provides vital lessons for the 
+
+global response. This rather unique and unprecedented public health response in 
+
+China reversed the escalating cases in both Hubei , where there has been widespread 
+
+community transmission, and in the importation provinces , where family clusters 
+
+appear to have driven the outb reak. 
+
+Although the timing of the outbreak in China has been relatively similar across the 
+
+countr y, transmission chains were established in a wide diversity of settings, from mega -
+
+cities in the north and south of the country, to remote communities. Howe ver, the rapid 
+
+adaptation and tailoring of China’s strategy demonstrated that containment can be 
+
+adapted and successfully operationalized in a wide range of settings. 
+
+China’s experience strongly supports the efficacy and effectiveness of anchoring COVID -
+
+19 readiness and rapid response plans in a thorough assessment of local risks and of 
+
+utilizing a differentiated risk -based containment strategy to manage the outbreak in 
+
+areas with no cases vs. sporadic cases vs. clusters of cases vs. community -level 
+
+transm ission. Such a strategy is essential for ensuring a sustainable approach while 
+
+minimizing the socio -economic impact. 
+
+3. Much of the global community is not yet ready, in mindset and materially, to 
+
+implement the measures that have been employed to contain COVID -19 in China. 
+
+These are the only measures that are currently proven to interrupt or minimize 
+
+transmission chains in humans. Fundamental to these measures is extremely 
+
+proactive surveillance to immediately detect cases, very rapid diagnosis and 
+
+immed iate case isolation, rigorous tracking and quarantine of close contacts, and an 
+
+exceptionally high degree of population understanding and acceptance of these 
+
+measures. 
+
+Achieving the high quality of implementation needed to be successful with such 
+
+measures requires an unusual and unprecedented speed of decision -making by top 
+
+leaders, operational thoroughness by public health systems, and engagement of society. 20 
+
+Given the damage that can be caused by uncontrolled, community -level transmission of 
+
+this virus, such an approach is warranted to save lives and to gain the weeks and months 
+
+needed for the testing of therapeutics and vaccine development. Furthermore, as the 
+
+majority of new cases outside of China are currently occurring in high and middle -
+
+income count ries, a rigorous commitment to slowing transmission in such settings with 
+
+non -pharmaceutical measures is vital to achieving a second line of defense to protect 
+
+low income countries that have weaker health systems and coping capacities. 
+
+The time that can be gained through the full application of these measures – even if just 
+
+days or weeks – can be invaluable in ultimately reducing COVID -19 illness and deaths. 
+
+This is apparent in the huge increase in knowledge, approaches and even tools that has 
+
+taken place in just the 7 weeks since this virus was discovered through the rapid 
+
+scientific work that has been done in China. 
+
+4. The time gained by rigorously applying COVID -19 containment measures must be used 
+
+more effectively to urgently enhance global readiness and rapidly develop the specific 
+
+tools that are needed to ultimately stop this virus. 
+
+COVID -19 is spreading with astonishing speed; COVID -19 outbreaks in any setting have 
+
+very serious consequences; and there is now strong evidence that non -pharm aceutical 
+
+interventions can reduce and even interrupt transmission. Concerningly, global and 
+
+national preparedness planning is often ambivalent about such interventions. However, 
+
+to reduce COVID -19 illness and death, near -term readiness planning must emb race the 
+
+large -scale implementation of high -quality, non -pharmaceuti cal public health measures. 
+
+These measures must fully incorporate immediate case detection and isolation, rigorous 
+
+close contact tracing and monitoring/quarantine, and direct population/c ommunity 
+
+engagement. 
+
+A huge array of COVID -19 studies, scientific research projects and product R&D efforts 
+
+are ongoing in China and globally. This is essential and to be encouraged and supported. 
+
+However, such a large number of projects and products ne ed s to be prioritized. Without 
+
+prioritiz ing , this risks compromising the concentration of attention and resources and 
+
+collaboration required to cut timelines by precious weeks and months. While progress 
+
+has been made, the urgency of the COVID -19 situatio n supports an even more ruthless 
+
+prioritization of research in the areas of diagnostics, therapeutics and vaccines. 
+
+Similarly, there is a long list of proposed studies on the origins of COVID -19, the natural 
+
+history of the disease, and the virus’s transmission dynamics. However, the urgency of 
+
+responding to cases and saving lives makes it difficult for policy makers to consider and 
+
+act on such comprehensive lists. This can be addressed by balancing studies with the 
+
+immediate public health and clinical needs of the response. Studies can be prioritized in 
+
+terms of the largest knowledge gaps that can be most rapidly addr essed to have 
+
+greatest immediate impact on response operations and patient management. This 
+
+suggests prioritizing studies to identify risk factors for transmission in households, 
+
+institutions and the community; convenience sampling for this virus in the p opulation 
+
+using existing surveillance systems; age -stratified sero -epidemiologic surveys; the 
+
+analysis of clinical case series; and cluster investigations. 21 
+
+# IV. Major Recommendations 
+
+For China 
+
+1. Maintain an appropriate level of emergency management protocols, d epending 
+
+on the assessed risk in each area and recognizing the real risk of new cases and 
+
+clusters of COVID -19 as economic activity resumes, movement restrictions are 
+
+lifted, and schools reopen; 
+
+2. Carefully monitor the phased lifting of the current restrictions on movement and 
+
+public gatherings, beginning with the return of workers and migrant labor, 
+
+followed by the eventual reopening of schools and lifting other measures; 
+
+3. Further strengthen the readiness of emergency management mechanisms, public 
+
+he alth institutions (e.g. CDCs), medical facilities, and community engagement 
+
+mechanisms to ensure sustained capacity to immediately launch containment 
+
+activities in response to any resurgence in cases; 
+
+4. Prioritize research that rapidly informs response and r isk management decisions, 
+
+particularly household and health care facility studies, age -stratified sero -
+
+epidemiologic surveys and rigorous investigation of the animal -human interface; 
+
+establish a centralized research program to fast -track the most promising rapid 
+
+diagnostics and serologic assays, the testing of potential antivirals and vaccine 
+
+candidates, and Chinese engagement in selected multi -country trials; and 
+
+5. As the country with the greatest knowledge on COVID -19, further enhance the 
+
+systematic and rea l-time sharing of epidemiologic data, clinical results and 
+
+experience to inform the global response. 
+
+For countries with imported cases and/or outbreaks of COVID -19 
+
+1. Immediately activate the highest level of national Response Management 
+
+protocols to ensure the all -of -government and all -of -society approach needed to 
+
+contain COVID -19 with non -pharmaceutical public health measures; 
+
+2. Prioritize active, exhaustive case finding and immediate testing and isolation ,
+
+painstaking contact tracing and rigorous quarantin e of close contacts; 
+
+3. Fully educate the general public on the seriousness of COVID -19 and their role in 
+
+preventing its spread; 
+
+4. Immediately expand surveillance to detect COVID -19 transmission chains, by 
+
+testing all patients with atypical pneumonias, conduc ting screening in some 
+
+patients with upper respiratory illnesses and/or recent COVID -19 exposure, and 
+
+adding testing for the COVID -19 virus to existing surveillance systems (e.g. 
+
+systems for influenza -like -illness and SARI); and 22 
+
+5. Conduct multi -sector scena rio planning and simulations for the deployment of 
+
+even more stringent measures to interrupt transmission chains as needed (e.g. 
+
+the suspension of large -scale gatherings and the closure of schools and 
+
+workplaces) .
+
+For u ninfected countries 
+
+1. Prepare to immed iately activate the highest level of emergency response 
+
+mechanisms to trigger the all -of -government and all -of society approach that is 
+
+essential for early containment of a COVID -19 outbreak; 
+
+2. Rapidly test national preparedness plans in light of new knowled ge on the 
+
+effectiveness of non -pharmaceutical measures against COVID -19; incorporate 
+
+rapid detection, largescale case isolation and respiratory support capacities, and 
+
+rigorous contact tracing and management in national COVID -19 readiness and 
+
+response plan s and capacities; 
+
+3. Immediately enhance surveillance for COVID -19 as rapid detection is crucial to 
+
+containing spread; consider testing all patients with atypical pneumonia for the 
+
+COVID -19 virus , and adding testing for the virus to existing in flu enza surveillance 
+
+systems; 
+
+4. Begin now to enforce rigorous application of i nfection prevention and control 
+
+measures in all healthcare facilities, especially in emergency d epartments and 
+
+outpatient clinics, as this is where COVID -19 will enter the health system; and 
+
+5. Rapidly assess the general population ’s understanding of COVID -19, adjust 
+
+national health promotion materials and activities accordingly, and engage 
+
+clinical champions to communicate with the media. 
+
+For the public 
+
+1. Recognize that COVID -19 is a new and concerning disease , but that outbreaks 
+
+can manage d with the right response and that the vast majority of infected 
+
+people will recover; 
+
+2. Begin now to adopt and rigorously practice the most important preventive 
+
+measures for COVID -19 by frequent hand washing and always covering your 
+
+mouth and nose when sneezing or coughing; 
+
+3. Continually update yourself on COVID -19 and its signs and symptoms (i.e. fever 
+
+and dry cough) , because the strategies and response activities will constantly 
+
+improve as new information on t his disease is accumulating every day; and 
+
+4. Be prepared to actively support a response to COVID -19 in a variety of ways, 
+
+including the adoption of more stringent ‘social distancing’ practices and helping 
+
+the high -risk elderly population. 23 
+
+For the international community 
+
+1. Recognize that true solidarity and collaboration is essential between nations to 
+
+tackle the common threat that COVID -19 represents and operationalize this 
+
+principle ;
+
+2. Rapidly share information as required under the International Heal th Regulations 
+
+(IHR) including detailed information about imported cases to facilitate contact 
+
+tracing and inform containment measure s that span countries; 
+
+3. Recogniz e the rapidly changing risk profile of COVID -19 affected countries and 
+
+continually monitor o utbreak trends and control capacities to reassess any 
+
+‘additional health measures ’ that significantly interfere with international travel 
+
+and trade .
+
+__________ 24 
+
+# Annex es 
+
+A. WHO -China Joint Mission Member s
+
+Bruce AYLWARD Team Lead WHO -China Joint Mission on COVID -19, Senior Advisor to the Director -General, 
+
+World Health Organization, Geneva, Switzerland 
+
+Wannian LIANG Team Lead WHO -China Joint Mission on COVID -19, Head of Expert Panel, National Health 
+
+Commission 
+
+Xiaoping DONG Director and Researcher, Center for Glo bal Public Health, Chinese Center for Disease Control 
+
+and Prevention 
+
+Tim ECKMANNS Head of Unit, Healthcare -associated Infections, Surveillance of Antibiotic Resistance and 
+
+Consumption, Robert Koch Institute, Berlin, Germany 
+
+Dale FISHER Professor of Medicine, Yong Loo Lin School of Medicine, National University of Singapore, 
+
+Singapore, Singapore 
+
+Chikwe 
+
+IHEKWEAZU 
+
+Director General, Nigeria Centre for Disease Control, Nig eria Centre for Disease Control ,
+
+Abuja, Nigeria 
+
+Clifford LANE Clinical Director, National Institute of Allergy and Infectious Diseases, US National Institutes 
+
+of Health, Bethesda, United States 
+
+Jong -Koo LEE Professor of Family Medicine, Seoul National University College of Medicine, Seoul, Republic 
+
+of Korea 
+
+Gabriel LEUNG Dean of Medicine, Helen and Francis Zimmern Professor in Population Health, The University 
+
+of Hong Kong, Hong Kong SAR, China 
+
+Jiangtao LIN Director and Professor, Department of Pulmonary and Critical Care Medicine, China -Japan 
+
+Friendship Hospital, National Clinical Research Center for Respiratory Diseases, Beijing 
+
+Haiying LIU Deputy Director and Researcher, Institute of Pathogen Biology, Chinese Academy of Medical 
+
+Sciences , Beijing China 
+
+Natalia 
+
+PSHENICHNAYA 
+
+Head of International Department and Consultant, Center of Infectious Diseases, National 
+
+Medical Research Center of Phthisiopulmonology and Infectious Diseases, Moscow, Russia 
+
+Aleksandr 
+
+SEMENOV 
+
+Deputy Director, Saint Petersburg Pasteur Institute, Saint Petersburg, Russia 
+
+Hitoshi 
+
+TAKAHASHI 
+
+Senior Research Scientist, Influenza Virus Research Center, National Institute of Infectious 
+
+Diseases, Tokyo, Japan 
+
+Maria 
+
+VAN KERKHOVE 
+
+Head of Unit, Emerging Diseases & Zoonoses, Global Infectious Hazard Preparedness, World 
+
+Health Organization, Geneva, S witzerland 
+
+Bin WANG Deputy Team Leader, Deputy Director General, Disease Prevention and Control Bureau, 
+
+National Health Commission 
+
+Guangfa WANG Director, Department of Respiratory and Critical Care Medicine, Peking University First 
+
+Hospital 
+
+Fan WU Vice Dean, Shanghai Medical College, Fudan University 
+
+Zhongze WU Director, Compliance and Enforcement Division, Department of Wildlife Conservation, 
+
+National Forestry and Grassland Administration 
+
+Zunyou WU Chief Epidemiologist, Chinese Center for Disease Control and Prevention 
+
+Jun XING Head of Unit, Country Capacity for International Health Regulations, Health Security 
+
+Preparedness, World Health Organization, Geneva, Switzerland 
+
+Kwok -Yung YUEN Chair Professor and Co -Director of State Key Laboratory of Emerging Infectious Diseases ,
+
+Department of Microbiology, The University of Hong Kong 
+
+Weigong ZHOU Medical Officer, Influenza Division, National Center for Immunization and Respiratory 
+
+Diseases, US Cen ters for Disease Control and Prevention, Atlanta, United States 
+
+Yong ZHANG Assistant Director and Researcher, National Institute for Viral Disease Control and 
+
+prevention, Chinese Center for Disease Control and Prevention. 
+
+Lei ZHOU Chief and Researcher, Branch for Emerging Infectious Disease, Public Health Emergency 
+
+Center, Chinese Center for Disease Control and Preventio n25 
+
+B. Summary Agenda of the Mission 
+
+Dates Location Activities 
+
+10 -15 February 2020 
+
+(Advance Team) 
+
+Beijing Adv ance Team and WHO Country team meetings with national 
+
+counterpart s and institutions 
+
+16 February 2020 Beijing Meeting with the full international team for briefi ng at the WHO 
+
+Country office 
+
+Beijing Workshop at the National Health Commission (NHC) with relevant 
+
+departments of the Joint Prevention and Control Mechanism of the 
+
+State Council 
+
+17 February 2020 Beijing Site visit to Beijing Ditan Hospital 
+
+Beijing Site visit to Anhuali community and health service station, Anzhen 
+
+street, Chaoyang District, Beijing 
+
+Beijing Workshop with Chinese Center for Disease Control and Prevention 
+
+18 February 2020 
+
+(Guangdong Team) 
+
+Shenzhen, 
+
+Guangdong 
+
+Shenzhen customs at the airport 
+
+Shenzhen, 
+
+Guangdong 
+
+Shenzhen No.3 People’s Hospital 
+
+Shenzhen, 
+
+Guangdong 
+
+Shenzhen Center for Disease Control and Prevention 
+
+Shenzhen, 
+
+Guangdong 
+
+Meeting at Tencent 
+
+19 February 2020 
+
+(Guangdong Team) 
+
+Shenzhen, 
+
+Guangdong 
+
+Qiaoxiang community 
+
+Shenzhen to 
+
+Guangzhou 
+
+Visit to Futian High -speed Train Station, and travel to Guangzhou by 
+
+train 
+
+Guangzhou Guangzhou Panyu Sanatorium 
+
+Guangzhou Guangdong Laboratory of Regenerative Medicine and Health 
+
+Guangzhou Guangzhou Tiyudongzhihui wet market 
+
+Guangzhou First Workshop with The People's government of Guangdong Province 
+
+20 February 2020 
+
+(Guangdong Team) 
+
+Guangzhou Guangdong Provincial Center for Disease Control and Prevention 
+
+Guangzhou Renmin road campus of Guangzhou Women and Children Medical 
+
+Center 
+
+Guangzhou The second Workshop with The People's government of Guangdong 
+
+Province 
+
+18 February 2020 
+
+(Sichuan Team) 
+
+Beijing to 
+
+Chengdu 
+
+Sichuan Site visit to Chengdu Shuangliu International Airport 
+
+Meeting with the Governor of Sichuan Provincial People’s Government 
+
+Site visit to Yong'an Township Central hospital with fever clinic 
+
+Site visit to home community of Yong’an township 
+
+19 February 2020 
+
+(Sichuan Team) 
+
+Symposium with provincial and municipal authorities 
+
+Sichuan Center for Disease Control and Prevention 
+
+Site visit to West China Hospital - Designated COVID -19 hospital 
+
+20 February 2020 
+
+(Sichuan Team) 
+
+Site visit to Chengdu Women and Children’s hospital 
+
+Site visit to Pharmaceutical Logistics center 
+
+Site visit to East Chengdu railway station 26 
+
+Site visit to Chengdu Public Health Clinical Centre - Designated COVID 19 
+
+hospital 
+
+Sichuan and Guangdong teams reconvene in Guangzhou 
+
+21-24 February 2020 Analyze major findings; Meetings of the WHO -China Joint mission to 
+
+finalize the report 
+
+Feb 22 (Wuhan Team) Guangzhou to 
+
+Wuhan 
+
+Select team members only 
+
+23 February 
+
+(Wuhan Team) 
+
+Site visit to Guanggu Campus of Wuhan Tongji Hospital 
+
+Site visit to Mobile Cabin Hospital in Wuhan Sports Center 
+
+Workshop with relevant departments of the Joint Prevention and 
+
+Control Mechanism of Hubei Province 
+
+Feedback Meeting with Minister Ma, NHC at the Wuhan Conference 
+
+Center 
+
+24 February 2020 Guangzhou to 
+
+Beijing 
+
+Finalize report, WHO -Join t Press conference in Beijing 
+
+__________ 27 
+
+C. Detailed Technical Findings 
+
+Response management , case and contact management, risk communication and 
+
+community engagement 
+
+The response structures in China were rapidly put in place according to existing emergency 
+
+plans and aligned from the top to the bottom. This was replicated at the four levels of 
+
+government (national provincial, prefecture and county/district ).
+
+Organizational structure and response mechanism 
+
+Response activation at the national level: COVID -19 prevention and control mechanisms 
+
+were initiated immediately after the outbreak was dec lared and nine working groups were 
+
+set up to coordinate the response: a) Coordination b) Epidemic prevention and control c) 
+
+Medical treatment d) Research e) Public communication f) Foreign affairs g) Medical 
+
+material support h) Life maintenance supplies an d i) Social stability. Each working group has 
+
+a ministerial level leader. Emergency response laws and regulations for the emergency 
+
+response to public health emergencies, prevention and control of infectious diseases have 
+
+been developed or updated to guide the response. 
+
+Response activation in provinces : Each province set up a similar structure to manage the 
+
+outbreak. The response is organi zed at the levels of national, provincial, prefecture, 
+
+county/district and the community. By 29 January, all provinces across China had launched 
+
+the highest level of response for major public health emergencies. 
+
+Response Strategy 
+
+A clear strategy was developed, and goals were well articulated and communicated across 
+
+the entire response architectur e. This strategy was rapidly adapted and adjusted to the 
+
+outbreak , both in terms of the epidemiological situation over time and in different parts of 
+
+the country. 
+
+The epidemiological situation has been used to define location into four areas :
+
+• In areas wit hout cases , the strategy in these areas is to "strictly prevent 
+
+introduction". This includes quarantine arrangements in transportation hubs, 
+
+monitoring for temperature changes, strengthening of triage arrangements, use of 
+
+fever clinics, and ensuring normal economic and social operations. 
+
+• In areas with sporadic cases, the strategy is focused on "reducing importation, 
+
+stopping transmission and providing appropriate treatment" .
+
+• In areas with community clusters, the strategy is focussed on "stopping transmissi on, 
+
+preventing exportation, and strengthening treatment". 
+
+• In areas with community transmission, the strictest prevention and control 
+
+strategies are being implemented, the entry and exit of people from the se areas has 
+
+been stopped and public health and med ical treatment measures are 
+
+comprehensively strengthened. 28 
+
+Main control measures implemented in China 
+
+The main control measures implemented in China are as follows and are illustrated in 
+
+Figures 6A-6D , representing the national level response and examples of the response at the 
+
+Provincial and municipal levels :
+
+Monitoring and reporting: COVID -19 was included in the statutory reporting of infectious 
+
+diseases on 20 January and plans were formulated to strengthen diagnosis, monitoring, and 
+
+reporting. 
+
+Strengthening port s of entry and quarantine : The Customs Department launched the 
+
+emergency plan for public health emergencies at ports across the country and restarted the 
+
+health declaration card system for entry and exit into cities as well as strict mo nitoring of 
+
+the temperature of entry and exit passengers. 
+
+Treatment: For severe or critical patients, the principle of " Four Concentrations" was 
+
+implemented: i.e. concentrating patients, medical experts, resources and treatment into 
+
+special centres. All cities and districts transformed relevant hospitals, increased the number 
+
+of designated hospitals, dispatched medical staff, and set up expert groups for consultation, 
+
+so as to minimise mortality of severe patients. Medical resources from all over China have 
+
+been mobili zed to support the medical treatment of patients in Wuhan. 
+
+Epidemiological investigation and close contact management: Strong epidemiological 
+
+investigations are being carried out for cases, clusters, and contacts to identify the source of 
+
+infection and implement targeted control measures , such as contact tracing. 
+
+Social distancing : At the national level , the State Council extended the Spring Festival 
+
+holiday in 2020, all parts of the country actively cancelled or suspended activities like sport 
+
+events, cinema, theatre , and schools and colleges in all parts of the country postponed re -
+
+opening after the holiday . Enterprises and institutions have staggered their return to work. 
+
+Transportation Departments set up thousands of health and quarant ine stations in national 
+
+service areas, and in entrances and exits for passengers at stations. Hubei Province adopted 
+
+the most stringent traffic control measures, such as suspension of urban public transport, 
+
+including subway, ferry and long -distance passenger transport. Every citizen has to wear a 
+
+mask in public. Home support mechanisms were established. As a consequence of all of 
+
+these measure s, public life is very reduced. 
+
+Funding and material support: Payment of health insurance was taken over by the state, as 
+
+well as the work to improv e accessibility and affordability of medical materials, provid e
+
+personal protection materials, and ensure basic living materials for affected people. 
+
+Emergency material support : The government restored production and expanded 
+
+production capacity, organized key enterprises that have already started to exceed current 
+
+production capacity, support ed local enterprises to expand imports, and use d cross -border 
+
+e-commerce platforms and ent erprises to help import medical materials and improve the 
+
+ability to guarantee supplies. 29 0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+4000
+
+> 12/8
+> 12/10
+> 12/12
+> 12/14
+> 12/16
+> 12/18
+> 12/20
+> 12/22
+> 12/24
+> 12/26
+> 12/28
+> 12/30
+> 1/1
+> 1/3
+> 1/5
+> 1/7
+> 1/9
+> 1/11
+> 1/13
+> 1/15
+> 1/17
+> 1/19
+> 1/21
+> 1/23
+> 1/25
+> 1/27
+> 1/29
+> 1/31
+> 2/2
+> 2/4
+> 2/6
+> 2/8
+> 2/10
+> 2/12
+> 2/14
+> 2/16
+> 2/18
+> 2/20
+> Mild
+> Pneumonia
+> Severe
+> Critical
+> Unkonwn
+
+Date of onset Number of cases 
+
+Outbreak announced by WHC. NHC and China CDC involved in investigation and response Huanan seafood wholesale market closed Emergency monitoring, case investigation, close contact management and market investigation initiated, technical protocols for Wuhan released NHC notified WHO and relevant countries and regions Gene sequencing completed by China CDC A novel coronavirus was isolated by China CDC China CDC publicly shared the gene sequence of the novel coronavirus NCIP incorporated as a notifiable disease in the Infectious Disease Law and Health and Quarantine Law in China NHC issued diagnosis and control technical protocols Wuhan implemented strict traffic restrictions NHC started officially daily disease information release State council initiated joint multisectoral mechanism Two new hospitals were established in Wuhan Enhanced admission and isolated treatment of cases in Hubei Resumption of labor and rehabilitation Strategy and response adjustment WHO announced PHEIC First Stage (before Jan. 19, 2020) Second Stage (Jan. 20-Feb. 7, 2020) Third Stage (after Feb. 8, 2020) 
+
+A
+
+B30 
+
+C
+
+Figure 6. COVID -19 epidemic curve s and major intervention measures in China as 
+
+implemented at a) the national level b) in Guangdong province , c) in Shenzhen 
+
+municipality and d) in Sichuan province 
+
+D31 
+
+Risk communication s (information release, public and media communication s)
+
+International and interregional cooperation and information sharing : From 3 January 
+
+2020 , information on COVID -19 cases has been reported to WHO daily . Full genome 
+
+sequence s of the new virus were shared with WHO and the international community 
+
+immediately after the pathogen was identified on 7 January. On 10 January, an expert 
+
+group involvi ng Hong Kong, Macao and Taiwan ese technical experts and a World Health 
+
+Organization team was invited to visit Wuhan. A set of nucleic acid primer s and probe s for 
+
+PCR detection for COVID -19 was released on 21 January. 
+
+Daily updates: The N ational Health Commission announce s the epidemic situation every 
+
+day and hold s daily press conference s to respond to emerging issues . The government also 
+
+frequently invites experts to share scien tific knowledge on COVID -19 and to address public 
+
+concerns. 
+
+Psychological care: This is provided to patients and the public. Governments at all levels, 
+
+NGOs and all sectors of society developed guidelines for emergency psychological crisis 
+
+intervention and guidelines for public psychological self -support and counsel ling . A hot line 
+
+for mental health services has been established for the public. 
+
+IT platform: China has capitalized on the use of technology, big data and AI for COVID -19 
+
+preparedness, readiness and response. Authoritative and reliable information, medical 
+
+guidance, access to online service s, provision of education al tools and remote work tools 
+
+have been developed in and used across China. These services have increase d accessibility 
+
+to health services , reduce d misinformation a nd minimize d the impact of fake news .
+
+Social mobilization and community engagement 
+
+Civil society organi zations (community centers and public health centers) have been 
+
+mobili zed to support prevention and response activities. The community has largely 
+
+acc epted the prevention and control measures and is fully participating in the management 
+
+of self -isolation and enhancement of public compliance. Community volunteers are 
+
+organized to support self -isolation and help isolated residents at home to solve practi cal life 
+
+difficulties. Measures were taken to limit the movement of the population through home -
+
+based support . Up to now, outside of Hubei, 30 provinces have registered and managed 
+
+more than 5 million people coming from Wuhan .
+
+Clinical case management and infection prevention and control 
+
+The main signs and symptoms of COVID -19 include feve r, dry cough, fatigue, sputum 
+
+production, shortness of breath, myalgia or arthralgia, sore throat, and headach e. N ausea 
+
+or vomiting has been reported in a small pe rcentage of patients (5%) . On 14 Feb ruary ,
+
+China CDC described the clinical features, outcomes, laboratory and radiologic findings of 44 
+
+672 laboratory -confirmed cases. Only 965 (2.2%) were under 20 years of age and there is 
+
+just one recorded death (0.1%) in this age group . Most patients (77.8%) were aged 30 to 69 
+
+years. Patients aged over 80 years had a CFR of 14.8%. The CFR was highest in those with 32 
+
+comorbidities including cardiovascular, diabetes, chronic respiratory disease, hypertension 
+
+and c ancer. 
+
+As opposed to Influenza A( H1N1 )pdm09 , pregnant women do not appear to be at higher 
+
+risk of severe disease. In an investigation of 147 pregnant women (64 confirmed, 82 
+
+suspected and 1 asymptomatic) , 8% had severe disease and 1% were critical. 
+
+Sev ere cases are defined as tachypnoea (≧30 breaths/ min) or o xygen saturation ≤93% at 
+
+rest , or PaO2/FIO2 <300 mmH g. Critical cases are defined as respiratory failure requiring 
+
+mechanical ventilation, shock or other organ failure that requires intensive care . About a 
+
+quarter of severe and critical cases require mechanical ventilation while the remaining 75% 
+
+require only oxygen supplementation. 
+
+China has a principle of early identification , early isolation, early diagnosis and early 
+
+treatment. Early identi fication of suspect cases is critical to containment efforts and occurs 
+
+via a process of temp erature screening and questioning at entrances to many institutions, 
+
+communit ies , travel venues (airports, train stations) and hospitals. Many hospitals have 
+
+feve r clinics that were established and maintained since the SARS outbreak . In China, 
+
+laboratory tests were originally requested according to the case definitions , which included 
+
+an epidemiological link to Hubei or other confirmed cases. However, more recently , a more 
+
+liberal clinical testing regimen allow s clinicians to test with a low index of suspicion. 
+
+Suspect cases are isolated in normal pressure single rooms, wear a surgical mask (for source 
+
+control). Staff in China wear a cap, eye protection, n95 masks, gown and gloves (single use 
+
+only). In Wuhan it is necessary for most suspects to be cohorted in a normal pressure 
+
+isolation ward. Staff wear PPE continuously , changing it only when they leave the ward. 
+
+PCR test results are ret urn ed the same day. If positive, patients are transported to 
+
+designated hospitals (including negative pressure ambulances in some cities). All patients ,
+
+including the mild and asymptomatic, with a positive test are admitted. The designated 
+
+hospitals are known and are strategically placed with at least one per district /county .
+
+Positive cases are cohorted by gender. Negative tested patients are managed based on 
+
+clinical needs. All patients are evaluated with a respiratory multiplex to look for other 
+
+dia gnoses. This can add to the reassurance that a negative COVID -19 test reflects a lack of 
+
+infection with COVID -19 .
+
+In Wuhan, there are 45 designated hospitals , 6 of which are designated for critical patients, 
+
+and 39 for severe patients and /or any patients >65 years old. There are an additional 10 
+
+temporary hospitals reconstructed from gymnasium and exhibition centers, which are for 
+
+mild patients. Other surge measures undertaken in Wuhan include two new temporary 
+
+hospitals with 2600 beds, plu s many makeshift hospitals to increase bed capacity. Bed 
+
+capacity within Wuhan has increased to >50,000. 
+
+Patients are treated according to the National Clinical guideline s (edition 6) released by the 
+
+China National Health Commission ( NHC ). There are no specific antiviral or immune 
+
+modulating agents proven (or recommended) to improve outcomes . All patients are 
+
+monitored by regular pulse oximetry. The guidelines include supportive care by clinical 
+
+category (mild, moderate, severe and critical) , as well a s the role of investigational 33 
+
+treatments such as chloroquine, phosphate , lopinavir/ritonavir, alpha interferon, ribavirin, 
+
+arbidol. The application of intubation/ invasive ventilation and ECMO in critically ill patients 
+
+can improve survival. Th e Joint Mis sion Team was told of ECMO use in four patients at one 
+
+hospital with one death and three who appeared to be improving. Clearly , though ECMO is 
+
+very resource consumptive , any health system would need to carefully weigh the benefits. 
+
+The re is widespread use of Traditional Chinese Medicine s (TCM) , for which the affects must 
+
+be fully evaluated .
+
+Patients with COVID -19 are not permitted visitors . Staff use coveralls, mask s, eye cover, 
+
+and gloves , removing PPE only when they leave the ward. 
+
+Patients are dis charged after clinical recovery (afebrile >3 days , resolution of symptoms and 
+
+radiologic improvement ) and 2 negative PCR tests taken 24 hours apart. Upon discharge, 
+
+they are asked to minimise family and social contact and to wear a mask . There are 
+
+expect ations of clinical trial results within a matter of weeks, which will see further 
+
+opportunities for treatment. 
+
+There are guidelines for elderly care specifically targeting prevention in individuals and 
+
+introduction of COVID -19 to nursing homes. 
+
+Training programmes by video conference nationally are scaled up to inform staff of best 
+
+practice and to ensure PPE usage. Clinical champions are created to disperse knowledge 
+
+and provide local expertise. 
+
+Maintenance of usual healthcare activities is maintained by hospital zoning (e.g.
+
+clean/contaminated sections of the healthcare facility ).
+
+Laboratory, diagnostics and virology 
+
+The virus found to cause COVID -19 wa s initially isolated from a clinical sample on 7 January .
+
+It is notable that within weeks following the identification of the virus, a series of reliable 
+
+and sensitive diagnostic tools were developed and deployed. On 1 6 January, the first RT -
+
+PCR assay s for COVID -19 w ere distributed to Hubei. Real -time PCR kits were distributed to 
+
+all the provinces on 19 January and were provided to Hong Kong SAR and Macao SAR on 21 
+
+January . Information regarding viral sequence s and PCR primer s and probes was shared 
+
+with WHO and the international community by C hina CDC on 12 January 2020 . To facilitate 
+
+product development and research on the new virus, COVID -19 virus sequences w ere 
+
+uploaded to the GISAID Database by China .
+
+By 23 Febr uar y, there we re 10 kits for detection of COVID -19 approved in China by the 
+
+NMPA, including 6 RT -PCR kits, 1 isothermal amplification kit, 1 virus sequencing product 
+
+and 2 colloidal gold antibody detection kit s. Several other tests are entered in the 
+
+emergency a ppr oval procedure. Currently , there are at least 6 local producers of PCR test 
+
+kits approved by NMPA . Overall, producers have the capacity to produce and distribute as 
+
+many as 1,650,000 test s/week. 34 
+
+Specimens from both the upper respiratory tract (URT; nasopharyngeal and oropharyngeal) 
+
+and lower respiratory tract (LRT; expectorated spu tum, endotracheal aspirate, or 
+
+bronchoalveolar lavage) are collected for COVID -19 testing by PCR. 
+
+COVID -19 vir us has been detected in respiratory, fecal and blood specimens . According to 
+
+preliminary data from Guangzhou CDC as of 20 February , virus can initially be detected in 
+
+upper respiratory samples 1-2 days prior to symptom onset and persist for 7 -12 days in 
+
+moderate cases and up to 2 weeks in severe cases . Vira l R NA has been detected in f eces in 
+
+up to 30% of patients from day 5 following onset of s ymptoms and has been noted for up to 
+
+4-5 weeks in moderate cases. However, i t is not clear whether this correlates with the 
+
+presence of infectious virus. While live virus has been cultured from stool in some cases, 
+
+the role of fecal -oral transmission is not yet well understood . COVID -19 has been isolated 
+
+from the clinical specimens using human airway epithelial cells , Vero E6 and Huh -7 cell lines. 
+
+Serological diagnostics are rapidly being developed but are not yet widely used. Joint 
+
+Mission members met with local research teams at the China CDC, Guangzhou Regenerative 
+
+Medicine and Health Guangdong Laboratory . The teams reported on the development of 
+
+tests for IgM, IgG and IgM+IgG using rapid test platforms utilizing chemiluminiscence . ELISA 
+
+assays are also under development .
+
+Research & Development 
+
+The government of China has initiated a series of major emergency research programs on 
+
+virus genomics, antivirals, traditional Chinese medicines, clinical trials, vaccines, diagnostics 
+
+an d animal models. Research includes fundamental basic research and human subjects 
+
+research. For the purpose of this report, human studies are limited to those involving IRB 
+
+approval and informed consent. Other forms of human subjects investigation s are i ncluded 
+
+in the sections on epidemiology in this report . Well -focused, robust research conduct ed in 
+
+the setting of an outbreak has the potential of saving many lives by identifying the most 
+
+effective ways to prevent, diagnose and treat disease. 
+
+Since the COVID -19 virus has a genome identity of 96% to a bat SARS -like coronavirus and 
+
+86 %-92 % to a pangolin SARS -like coronavirus, an animal source for COVID -19 is highly likely. 
+
+This was corroborated by the high number of RT -PCR positive environmental samples taken 
+
+from the Huanan Seafood Market in Wuhan. 
+
+At least 8 nucleic acid -based methods for direct detection of COVID -19 and two colloidal 
+
+gold antibody detection kits have been approved in China by the NMPA . Several other tests 
+
+are close to approval. It will be important to compare the sensitivities and specificities of 
+
+these and future serologic tests. Development of rapid and accurate point -of -care tests 
+
+which perform well in field settings are especially useful if the test can be incorporated into 
+
+pr esently commercially available multiplex respiratory virus panels. This would markedly 
+
+improve early detection and isolation of infected patients and, by extension, identification 
+
+of contacts. Rapid IgM and IgG antibody testing are also important ways to facilitate early 
+
+diagnosis. Standard serologic testing can be used for retrospective diagnoses in the context 
+
+of serosurveys that help better understand the full spectrum of COVID -19 infection. 35 
+
+A variety of repurposed drugs and investigational drugs have been identified. Screening 
+
+NMPA approved drug libraries and other chemical libraries have identified novel agents. 
+
+Hundreds of clinical trials involving remdesivir, chloroquine, favipiravir, chloroquine, 
+
+convalescent plasma, TCM and other interventio ns are planned or underway. Rapid 
+
+completion of the most important of these studies is critical to identifying truly effective 
+
+therapies. However, evaluation of investigational agents requires adequately powered, 
+
+randomized, controlled trials with realis tic eligibility criteria and appropriate stratification of 
+
+patients . It is important for there to be a degree of coordination between those conducting 
+
+studies within and beyond China. 
+
+The development of a safe and effective vaccine for this highly commun icable respiratory 
+
+virus is an important epidemic control measure. Recombinant protein, mRNA, DNA, 
+
+inactivated whole virus and recombinant adenovirus vaccines are being developed and 
+
+some are now entering animal studies. Vaccine safety is of prime concer n in the area of 
+
+coronavirus infection in view of the past experience of disease enhancement by inactivated 
+
+whole virus measles vaccine and similar reports in animal experiments with SARS 
+
+coronavirus vaccines. It will be important that these vaccine candi dates rapidly move into 
+
+appropriate clinical trials. 
+
+The ideal animal model for studying routes of virus transmission, pathogenesis, antiviral 
+
+therapy, vaccine and immune responses has yet to be found. The ACE2 transgenic mouse 
+
+model and Macaca Rhesus mo del are already used in research laboratories. Systematically 
+
+address ing which models can accurately mimic human infection is required. 
+
+There is a global rush for masks, hand hygiene products and other personal protective 
+
+equipment. The relative importance of non -pharmaceutical control measures including 
+
+masks, hand hygiene, and social distancing require further research to quantify their impact .
+
+There are distinct patterns of intra -familial transmission of COVID -19. It is unclear whether 
+
+or not there are host factors, including genetic factors, that influence susceptibility or 
+
+disease course. COVID -19 has a varied clinical course an d a precise description of that 
+
+course is not available. In addition , the long -term consequences of COVID -19 are unknown. 
+
+An observational cohort study of patients with COVID -19 enrolled from the time of 
+
+diagnosis ( with appropriate controls) could provid e in -depth information about clinical, 
+
+virologic and immunologic characteristics of COVID -19 . Table 1 summarizes priority 
+
+research areas with immediate to longer term goals. 
+
+Table 1 Priority research areas with immediate, intermediate and longer -term go als                
+
+> Immediate Goals Intermediate Goals Long -term goals
+> Diagnostics: RNA assays, antibody
+> &antigen assays, point of care
+> detection
+> Diagnostics: Multiplex
+> diagnostic platforms
+> Diagnostics: Prognostic markers
+> Therapeutics: Remdesivir,
+> favipiravir, chloroquine, plasma,
+> TCM
+> Therapeutics: intravenous
+> immunoglobulin ( IVIg )
+> Therapeutics: Innovative approaches
+> (CRISPR -CAS; RNAi; Cell -based;
+> positive hits from library screening)
+> Vaccines: Development of animal
+> models
+> Vaccines: mRNA candidates
+> and candidate viral vectors
+> Vaccines: inactivated ca ndidates and
+> subunit candidates 36
+
+D. Knowledge Gaps 
+
+Knowledge gaps and key questions to be answered to guide control strategies include :
+
+Source of infection 
+
+• Animal origin and natural reservoir of the virus 
+
+• Human -animal interface of the original event 
+
+• Early cases whose exposure could not be identified 
+
+The pathogenesis and virulence evolution of the virus 
+
+Transmission dynamics 
+
+• Modes of Transmission: 
+
+o Role of aerosol transmission in non -health care setting s
+
+o Role of fecal -oral transmission 
+
+• Viral shedding in various periods of the clinical course in different biological samples 
+
+(i.e. upper and lower respiratory tract, saliva, faeces, urine) 
+
+o Before symptom onset and among asymptomatic cases 
+
+o During the symptomat ic period 
+
+o After the symptomatic period / during clinical recovery 
+
+Risk factors for infection 
+
+• Behavioral and socio -economic risk factors for infection in 
+
+o Household s / institution s
+
+o the Community 
+
+• Risk factors for asymptomatic infection 
+
+• Risk factors for nosoc omial infection 
+
+o among health care workers 
+
+o among patients 
+
+Surveillance and monitoring 
+
+• Monitoring community transmission through existing 
+
+o ILI surveillance 
+
+o SARI surveillance 
+
+• The outbreak trend and intervention dynamics 
+
+o Basic reproduction numbers in various stages of the epidemic 
+
+o The epidemic’s relation to seasonality 37 
+
+Laboratory and diagnostics 
+
+• Sensitivity and specificity of different nucleic acid (PCR, NAATs and rapid tests) ,
+
+antibody and antigen tests 
+
+• Post -infection antibody titers and the duration of prot ection 
+
+• Sero -prevalence among 
+
+▪ Health care workers 
+
+▪ General population 
+
+▪ Children 
+
+Clinical management of severe and critically ill patients 
+
+• Value of ECMO in the management of critically ill patients 
+
+• Best practice using mechanical ventilation in the management of critically ill patients 
+
+• Re -evaluat ion of the role of steroids in the management of severe and critically ill 
+
+patients 
+
+• Identif ication of factors associated with successful clinical management and 
+
+outcome 
+
+• Dete rmin ation of the effectiveness of Traditional Chinese Medicines (TCM) 
+
+• Determin ation the effectiveness of additional investigational treatment options ( e.g. 
+
+intravenous immunoglobulin/IVIg , convalescent plasma) 
+
+Prevention and control measures 
+
+• Key epidemic indicators that inform evidence -based control strategy decision making 
+
+and adjustments 
+
+• Effectiveness of infection prevention and control (IPC) measures in various health 
+
+care settings 
+
+• Effectiveness of entry and exit screening 
+
+• Effectiveness of the public health control measures and their socio -economic impact 
+
+o Restriction of movement 
+
+o Social distancing 
+
+o School and workplace closures 
+
+o Wearing mask in general public 
+
+o Mandatory quarantine 
+
+o Voluntary quarantine with active surveillance 
+
+__________ 38 
+
+E. Operational & Technical Recommendations 
+
+Operational/programmatic recommendations 
+
+• Reassess risk and capacities based on different stages of the outbreak ; approve 
+
+different measures during the different phases of the response ; assess different 
+
+stages of the response ; reach a balance between response and social development 
+
+• Initiate a timely scientific evidence based, efficient and flexible joint multi -sectoral 
+
+mechanism, which is driven by strong government leadership 
+
+Technical recommendations 
+
+Epidemiology and trans mission 
+
+• Continue enhanced surveillance across the country through existing respiratory 
+
+disease systems, including ILI , SARI or pneumonia surveillance systems 
+
+• Prioritize early investigations, including household transmission studies, age -
+
+stratified sero -epidemiologic surveys including children, case -control studies , cluster 
+
+investigation s, and serologic studies in health care workers 
+
+Severity 
+
+• Continue to share information on patient management, disease progression and 
+
+factors leading to severe disease an d favorable outcomes 
+
+• Review and ana lyze the possible factors associated with the disease severity , which 
+
+may include: 
+
+o natural history studies to better understand disease progression in mild, 
+
+severe and fatal patients 
+
+o medical chart review s about disease severity among vulnerable groups, (e.g. 
+
+those with underlying conditions, older age groups, pregnant women and 
+
+children ) to develop appropriate standard s of care 
+
+o evaluation of f actors leading to favorable outcomes (e.g. early identification 
+
+and care )
+
+Clinical care and infection prevention and control 
+
+• Suspect p atients who have not yet been tested should be isolated in single normal 
+
+pressure rooms ; cohorting of positive cases is acceptable 
+
+• Physicians and all health care workers need to maintai n a high level of clinical alert 
+
+for COVID -19 
+
+• For affected countries, standardize training for clinical care and IPC and scale with 
+
+the development of local (e.g. district level) experts 
+
+• Ensure concurrent testing for other viral pathogens to support a negative COVID -19 
+
+test 
+
+• Ensure maintenance of usual and essential services during the outbreak 39 
+
+• Ensure processes are in place for infection prevention among the most vulnerable ,
+
+including the elderly 
+
+• Ensure readiness to provide clinical care and to meet IPC needs , including: 
+
+a. anticipated respiratory support requir ements (e.g. pulse oximeters, oxygen ,
+
+and invasive support where appropriate )
+
+b. national guidelines for clinical care and IPC , revised for COVID -19 
+
+c. nationally standardised trainings for disease underst anding and PPE use for 
+
+HCWs 
+
+d. community engagement 
+
+e. PPE and Medication stockpiles 
+
+f. early identification protocols; triage, temperature screening, holding bays 
+
+(triage, including pulse oximetry) 
+
+g. treatment protocols including designated facilities, patient transportation 
+
+## h. enhance d uptake of influenza and pneumococcal vaccine according to 
+
+national guidelines 
+
+i. laboratory testing 
+
+j. rapid response teams 
+
+Laboratory and virology 
+
+• Continu e to perform whole genome analysis of COVID -19 viruses isolated from 
+
+different tim es and places, to evaluate virus evolution 
+
+• Conduct pathogenesis stud ies using biopsy/post -mortem specimens of COVID -19 
+
+patients or infected animal models 
+
+• Evaluat e available nucleic acid PCR diagnostics 
+
+• Rapid ly develop and evaluat e rapid/point -of -care diagnostics and serologic assays 
+
+• Conduct further study to interpret the result of positive COVID -19 RNA detection in 
+
+feces in patients recovering from COVID -19 
+
+• Enhance i nternational cooperation, especially in terms of biosafety and information 
+
+sharin g for increas ed understanding of the COVID -19 virus and traceability of the 
+
+virus 
+
+• Consider monitor ing proinflammatory cytokines via multiplex assay s to pre dic t the 
+
+development of “cytokine storm” 
+
+Research and development 
+
+• Additional effort should be made to f ind the animal source , including the natural 
+
+reservoir and any intermediate amplification host , to prevent any new epidemic foci 
+
+or resurgence of similar epidemics 40 
+
+• Efforts should be made to consistently evaluate existing and future diagnostic tests 
+
+for detection of COVID -19 using a harmonized set of standards for laboratory tests 
+
+and a biorepository that can be used for evaluating these tests 
+
+• Consider the establishment of a centralized research program in China to oversee 
+
+th at por tfolio and ensure the most promising research (vaccines, treatments, 
+
+pathogenesis) are adequately supported and studied first ; program staff dedicated 
+
+to the clinical research would work at the clinical research site(s) to decrease the 
+
+research workload of the clinicians at th e site 
+
+• Consider including one or more sites within China in the ongoing and future multi -
+
+cente r, international trials ; Chinese investigators should be actively engaged in 
+
+international trials 
+
+• Continue to develop a dditional animal models , making every effort to ensure these 
+
+mimic human infection and virus transmission as closely as possible 
+
+• Conduct studies to determine which of the commonly used forms of PPE are most 
+
+effective in controlling the spread of COVID -19 
+
+__________

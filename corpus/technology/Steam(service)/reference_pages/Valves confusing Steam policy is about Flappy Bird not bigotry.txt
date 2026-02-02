@@ -1,0 +1,55 @@
+# Valve's confusing Steam policy is about Flappy Bird, not bigotry
+
+A fact I think about a lot is that the human brain runs on about 20 watts of power. That’s a tiny number for such a capable computational processor, but your brain makes due with that supply through the use of tricks and shortcuts. An example of this is that it will make predictions based on your past experiences to fill in gaps around events or text. This is why public relations and communications professionals have jobs. They know that if a public figure or a corporation makes a statement that leaves any opportunity for interpretation, someone will misinterpret it in the least charitable way.
+
+On Wednesday, [Valve Software posted a blog about its Steam Direct policy](https://venturebeat.com/2018/06/06/valve-we-shouldnt-decide-what-you-can-buy-on-steam/) that is so vague that it has forced anyone who has read it to fill in the gaps. Longtime Valve employee and senior engineer Erik Johnson [wrote the post titled “Who Gets To Be On The Steam Store?,”](https://steamcommunity.com/games/593110/announcements/detail/1666776116200553082) and it is ostensibly a more detailed explanation of [the Steam Direct policy the company first announced in February 2017](https://venturebeat.com/2017/02/10/steam-greenlight-is-dead-valve-introduces-steam-direct/). It’s also a response to criticism of the company for suddenly threatening to remove sexual anime-style visual novels from its store after previously committing to not decide what people can purchase and create for the Steam Store.
+
+But Johnson isn’t a PR or communications pro, so I’m going to take a second to paraphrase and translate his blog post. This is what he was trying to say, as best as I understand it:
+
+*   Valve employees, Steam consumers, and game developers all have their unique idea of what games should have access to the Steam store.
+*   Even if Valve hired an infinite number of people to curate games for all of those tastes, it would end up excluding games that some people still find worthy.
+*   And just because Valve owns and operates the store, that doesn’t give it the right to pick which games are acceptable and which aren’t. Specifically, Valve shouldn’t get to make decisions for its customers.
+*   So Valve is going back to the policy it started with Steam Direct, which is that it’s going to allow everything onto the Steam Store except for things that are illegal or trolling.
+*   If you look back at what Steam was like between the launch of Steam Direct and its threat to remove adult visual novels, it’s going to continue to look like that.
+*   Instead of putting energy into gatekeeping access to the market, Valve is going to put its efforts into improving tools for people to find games that they may like — and to exclude games that they personally find objectionable.
+
+OK. Even my breakdown has some gaps. For example, what is Valve’s definition of “trolling”? Many people have read the blog post and assumed that “trolling” doesn’t include hate speech or obvious racist propaganda. They are now operating under the assumption that Valve will let that content in. And I get why you would come to that conclusion; Valve’s language is muddled and non-committal.
+
+So I asked Valve to elaborate by explaining whether it would block Active Shooter again after this blog post. It said it would.
+
+“We rejected Active Shooter because it was a troll, designed to do nothing but generate outrage and cause conflict through its existence,” Valve communications boss Doug Lombardi said. “In addition, the developer had been involved in numerous misrepresentations, copyright violations, and customer abuses. There are no second chances for Active Shooter, or its developers. And to be explicit, while the developer behind it was also a troll, we’d reject Active Shooter if it had been submitted by any other developer.”
+
+So Active Shooter, and games designed to create outrage, are not what Valve means when it says it’s going to let every game through. So what was it talking about? Well, I resent that I have to explain this for Valve, but whatever — allow me to explain: It’s about gatekeeping.
+
+The vile ‘asset flip’
+---------------------
+
+In early 2017, I flew to Valve for a day of roundtables where the company explained its Steam Direct policy and had journalists to ask questions. At that time, it answered a lot of these queries, and you can watch the entire session here:
+
+Based on that conversation, Lombardi’s comment, and even the confusing blog, it’s clear that Valve is not opening up its store to racist propaganda. What it’s trying to do is remain welcoming to something like Flappy Bird.
+
+To be clear, Valve doesn’t want to decide which controversial topics are permitted on Steam. Johnson confirmed that in his blog, but I don’t think that is a hard contradiction with prohibiting hate speech. BioShock Infinite is controversial due to its handling of themes of racism, but Steam should still sell BioShock Infinite — and I think that sort of protection for touchy and fraught subjects needs to extend to even the smallest games.
+
+“The challenge is that this problem is not simply about whether or not the Steam Store should contain games with adult or violent content,” said Johnson. “Instead, it’s about whether the Store contains games within an entire range of controversial topics — politics, sexuality, racism, gender, violence, identity, and so on.”
+
+Maybe that’s a problem, but I would argue that Amazon doesn’t really do that with books, Vudu doesn’t really do that with movies, and iTunes doesn’t really do that with music. While those platforms may have content that discusses racism or even strays into it, they don’t have hardcore pornography or racist propaganda. I expect something similar from Steam.
+
+But if you look at the history of the debate around Steam and curation, which goes back years, you’ll see that most of the criticism has nothing to do with derogatory or insulting works. When something homophobic and bigoted does come on Valve’s radar, it [deals with them quickly and quietly](https://arstechnica.com/gaming/2015/05/failed-christian-shoe-promoter-makes-anti-gay-first-person-shooter/).
+
+So then what is the debate? It’s about the perception of quality. It’s about keeping Steam pure for “real gamers” by only releasing “real games” and not “asset-flipped trash.”
+
+The “asset flip” is a pejorative for a game that someone makes with a development toolkit using a lot of preexisting character and environment models. Most modern game engines have “asset stores” where small studios can buy artwork to flesh out their games. Naturally, some developers have taken this to the extreme and built games entirely out of purchased assets, which gives them a cheap look. Those developers then use Valve’s Steam Direct policy to release games on that platform’s store.
+
+And asset flips are bad because … well, I don’t know. No one has ever explained why they’re so awful in a coherent way — although many have tried.
+
+I think the idea is that these “unworthy” games swarm the store and drown out other games that are “worthy.” Others think they don’t meet the threshold for art because they’re just quick cash grabs. But this notion strikes at the heart of Valve’s open-store policy — who gets to decide what is worthy? Something you may consider trash, I may consider a treasure.
+
+Conflicting tastes is something we see all the time. People complained about the broken, janky PlayerUnknown’s Battlegrounds last year, and many of them believed that Valve shouldn’t sell something so unfinished. But I wouldn’t trade my early 500 hours with that game for some polished triple-A experience ever.
+
+Flappy Bird is the best example of this, though. Flappy Bird had players guiding a weird flying creature through an environment that used remixed artwork from Nintendo’s Super Mario World. At the time, countless critics told anyone who would listen that the free mobile game wasn’t worthy of the attention it was getting because it cheap diversion that used stolen assets.
+
+But people loved Flappy Bird. I [loved Flappy Bird](https://venturebeat.com/2014/02/26/in-the-battle-to-get-every-kid-programming-code-org-asks-everyone-to-make-their-own-flappy-bird/). And while some people may take issue with it, that’s not an excuse to take the game away from those who enjoyed it.
+
+So while I get why people think Valve doesn’t want to take responsibility for the content it sells, or that it doesn’t want to work to make Steam a better place, or it just wants to sell more games while spending less on curation, I don’t think any of those takes tell the whole story. Valve happens to control the most important store for selling PC games in the world, and I think it has a responsibility to use that power to create a chance for something like Flappy Bird to happen on its platform. And I’m relieved that Valve agrees.
+
+Oh, but yeah — if the KKK starts releasing games on Steam next week, I take this all back.

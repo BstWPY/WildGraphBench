@@ -1,0 +1,132 @@
+# Archived
+
+[Phoronix] Steam Lands In Fedora / RHEL RPM Fusion Repository
+
+===============
+
+The Wayback Machine - http://www.phoronix.com/scan.php?page=news_item&px=MTQ5OTg
+
+[Phoronix Premium: Ad-Free Browsing](http://www.phoronix.com/scan.php?page=phoronix_premium)
+
+[Home](http://www.phoronix.com/scan.php?page=home)[Articles & Reviews](http://www.phoronix.com/scan.php?page=phoronix_articles)[Phoronix Test Suite](http://www.phoronix-test-suite.com/)[Search](http://www.phoronix.com/scan.php?page=g_search)[RSS](http://www.phoronix.com/rss.php)[Contact](http://www.phoronix-media.com/index.php?k=contact)[Forums](http://www.phoronix.com/forums/)
+
+Steam Lands In Fedora / RHEL RPM Fusion Repository
+==================================================
+
+Posted by Michael Larabel on October 31, 2013
+---------------------------------------------
+
+While Valve is mostly centered around supporting Ubuntu right now when it comes to their Linux initiatives, the Steam client and its games will generally work fine on other modern Linux distributions. For making it easier to run Steam on Fedora and Red Hat Enterprise Linux, the binary package has entered the third-party RPM Fusion repository. 
+
+RPM Fusion, the popular third-party repository for non-free packages and other out-of-tree RPMs that was a merger of Livna, FreshRPMs, and Dribble, now supports Steam. RPM Fusion supports Fedora 17, 18, 19, and Rawhide. On the RHEL side, Red Hat Enterprise Linux 5 and 6 are supported along with the EL derivatives like Scientific and CentOS. Thanks to community work, Steam can now be found for an easy RPM installation on these Linux operating systems. 
+
+For more details on fetching Steam from RPM Fusion, see [this blog post](http://negativo17.org/steam-is-now-in-rpmfusion/) for instructions or visit [RPMFusion.org](http://rpmfusion.org/).
+
+* * *
+
+_Discuss this article in [our forums](http://www.phoronix.com/news2forums.php?view=MTQ5OTg), [IRC channel](http://www.phoronix.com/scan.php?page=irc), or [email the author](http://www.michaellarabel.com/). You can also follow our content via [RSS](http://www.phoronix.com/rss.php) and on social networks like [Facebook](http://www.facebook.com/Phoronix) and Twitter ([@Phoronix](http://twitter.com/phoronix) and [@MichaelLarabel](http://twitter.com/MichaelLarabel)). Subscribe to [Phoronix Premium](http://www.phoronix.com/scan.php?page=phoronix\_premium) to view our content without advertisements, view entire articles on a single page, and experience other benefits._
+
+[Comments & Discussion](http://www.phoronix.com/news2forums.php?view=MTQ5OTg "Comments On Steam Lands In Fedora / RHEL RPM Fusion Repository")
+
+[News Archives](http://www.phoronix.com/scan.php?page=news_archives "Phoronix News Archives")
+
+[Related Fedora News](http://www.phoronix.com/scan.php?page=news_topic&q=Fedora "Fedora Linux News")
+
+**[Fedora 20 Has Been Delayed Yet...](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMDQ "Fedora 20 Has Been Delayed Yet Again")
+
+[Fedora 20 Beta vs. Ubuntu 13.10...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5ODc "Fedora 20 Beta vs. Ubuntu 13.10 Benchmarks")
+
+[Fedora 21 Drops Support For A...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5NDk "Fedora 21 Drops Support For A Bunch Of Old GPUs")
+
+[Another Delay Hits Fedora 20's...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5NDE "Another Delay Hits Fedora 20's Development")
+
+[Fedora Still Working Towards...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5MzQ "Fedora Still Working Towards Python 3 By Default")
+
+[Ubuntu 13.10 vs. Fedora Linux...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ4MTc "Ubuntu 13.10 vs. Fedora Linux CPU Benchmarks")
+
+[Wayland-Based Hawaii Desktop...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ4MTE "Wayland-Based Hawaii Desktop Planned For Fedora 22")
+
+[Fedora 20 Alpha...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ2Nzk "Fedora 20 Alpha \"Heisenbug\" Is Now Out For Testing")**
+
+Popular News
+
+**[AMD Intentionally Crippled Their...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ4MDE "AMD Intentionally Crippled Their HDMI Adapters")
+
+[Debian To Switch To Systemd Or...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5NzQ "Debian To Switch To Systemd Or Upstart")
+
+[Ubuntu 14.04 Codename Revealed,...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ4OTM "Ubuntu 14.04 Codename Revealed, Mir Haters Attacked")
+
+[GCC 4.9 Will Make Compilers More...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5NjM "GCC 4.9 Will Make Compilers More Exciting In 2014")
+
+[Hi10P Support Proposed For VDPAU](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5NjU "Hi10P Support Proposed For VDPAU")
+
+[NFTables IPTables-Replacement...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5MDU "NFTables IPTables-Replacement Queued For Linux 3.13")
+
+[Civilization V Might Be Heading...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ3Nzc "Civilization V Might Be Heading To Linux")
+
+[The ASUS "Bay Trail"...](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5NzE "The ASUS \"Bay Trail\" T100 Is Not Linux Friendly")**
+
+Latest Hardware Reviews
+
+1.   [Intel Open-Sources Broadwell GPU Driver; Graphics Look Amazing](http://www.phoronix.com/vr.php?view=19308 "Intel Open-Sources Broadwell GPU Driver; Graphics Look Amazing")
+2.   [Intel Performance With Ubuntu Linux vs. Windows 8.1 Is A Mixed Bag](http://www.phoronix.com/vr.php?view=19280 "Intel Performance With Ubuntu Linux vs. Windows 8.1 Is A Mixed Bag")
+3.   [Ubuntu Linux Gaming Performance Mostly On Par With Windows 8.1](http://www.phoronix.com/vr.php?view=19257 "Ubuntu Linux Gaming Performance Mostly On Par With Windows 8.1")
+4.   [NVIDIA GeForce GTX 650 On Linux](http://www.phoronix.com/vr.php?view=19247 "NVIDIA GeForce GTX 650 On Linux")
+
+Latest Software Articles
+
+1.   [RadeonSI Color Tiling Brings OpenGL Performance Boost](http://www.phoronix.com/vr.php?view=19303 "RadeonSI Color Tiling Brings OpenGL Performance Boost")
+2.   [AMD's RadeonSI Gallium3D Is Improving, But Catalyst Is Much Better](http://www.phoronix.com/vr.php?view=19301 "AMD's RadeonSI Gallium3D Is Improving, But Catalyst Is Much Better")
+3.   [Nouveau vs. NVIDIA Linux vs. NVIDIA Windows 8.1](http://www.phoronix.com/vr.php?view=19292 "Nouveau vs. NVIDIA Linux vs. NVIDIA Windows 8.1")
+4.   [AMD's Radeon Gallium3D Starts Posing A Threat To Catalyst](http://www.phoronix.com/vr.php?view=19288 "AMD's Radeon Gallium3D Starts Posing A Threat To Catalyst")
+
+Latest Linux News
+
+1.   [Linus Acknowledges 32-Bit Linux As Less Important](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMzI "Linus Acknowledges 32-Bit Linux As Less Important")
+2.   [Unvanquished Alpha 21 Brings Many Game-Play Changes](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMzE "Unvanquished Alpha 21 Brings Many Game-Play Changes")
+3.   [Linux 3.12 Kernel Released; Linux 4.0 Planning Talked Up](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMzA "Linux 3.12 Kernel Released; Linux 4.0 Planning Talked Up")
+4.   [Intel Broadwell GPU Support Pushed To Mesa Git Branch](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMjk "Intel Broadwell GPU Support Pushed To Mesa Git Branch")
+5.   [Linux 3.12 Changes, Kernel Feature Overview](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMjg "Linux 3.12 Changes, Kernel Feature Overview")
+6.   [Linux 3.12 Kernel Benchmarks Overview](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMjc "Linux 3.12 Kernel Benchmarks Overview")
+7.   [Wayland-Based Green Island Compositor Sees Release](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMjY "Wayland-Based Green Island Compositor Sees Release")
+8.   [Intel Graphics To Get Another Bump In Linux 3.13](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMjU "Intel Graphics To Get Another Bump In Linux 3.13")
+9.   [Xfce's Xfdesktop Graduates To Version 4.11.1](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMjQ "Xfce's Xfdesktop Graduates To Version 4.11.1")
+10.   [OpenWFD: Open-Source WiFi Displays For Linux](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMjM "OpenWFD: Open-Source WiFi Displays For Linux")
+11.   [Intel's Mesa Driver Gets Some Exciting Changes](http://www.phoronix.com/scan.php?page=news_item&px=MTUwMjE "Intel's Mesa Driver Gets Some Exciting Changes")
+
+Latest Forum Talk
+
+1.   [Linus Acknowledges 32-Bit Linux As Less Important](http://www.phoronix.com/forums/showthread.php?t=86396 "Linus Acknowledges 32-Bit Linux As Less Important")
+2.   [Linux 3.12 Kernel Released; Linux 4.0 Planning...](http://www.phoronix.com/forums/showthread.php?t=86345 "Linux 3.12 Kernel Released; Linux 4.0 Planning Talked Up")
+3.   [Intel DRM Driver Gets Support For Multiple Power...](http://www.phoronix.com/forums/showthread.php?t=86266 "Intel DRM Driver Gets Support For Multiple Power Wells")
+4.   [X.Org Server 1.15 RC Brings Multiple New Features](http://www.phoronix.com/forums/showthread.php?t=86270 "X.Org Server 1.15 RC Brings Multiple New Features")
+5.   [Radeon GTT size increase](http://www.phoronix.com/forums/showthread.php?t=86372 "Radeon GTT size increase")
+6.   [How To Setup Radeon DPM On Ubuntu Linux](http://www.phoronix.com/forums/showthread.php?t=82858 "How To Setup Radeon DPM On Ubuntu Linux")
+
+1.   [Computers](http://www.phoronix.com/scan.php?page=category&item=Computers)
+2.   [Display Drivers](http://www.phoronix.com/scan.php?page=category&item=Display%20Drivers)
+3.   [Graphics Cards](http://www.phoronix.com/scan.php?page=category&item=Graphics%20Cards)
+4.   [Motherboards](http://www.phoronix.com/scan.php?page=category&item=Motherboards)
+5.   [Peripherals](http://www.phoronix.com/scan.php?page=category&item=Peripherals)
+6.   [Processors](http://www.phoronix.com/scan.php?page=category&item=Processors)
+7.   [Software](http://www.phoronix.com/scan.php?page=category&item=Software)
+8.   [Operating Systems](http://www.phoronix.com/scan.php?page=category&item=Operating%20Systems)
+9.   [All Articles](http://www.phoronix.com/scan.php?page=phoronix_articles)
+
+1.   Linux Benchmarking
+2.   [OpenBenchmarking.org](http://openbenchmarking.org/)
+3.   [Phoronix Test Suite](http://www.phoronix-test-suite.com/)
+
+![Image 1: A 151x31 small image, likely a logo, icon or avatar](http://www.phoronix.com/phxcms-images/idg_logo_light.gif)
+
+Copyright © 2004 - 2013 by [Phoronix Media](http://www.phoronix-media.com/).
+
+ All trademarks used are properties of their respective owners. All rights reserved. [Legal Disclaimer & Disclosure](http://www.phoronix-media.com/?k=legal).
+
+ Powered by the Phoronix Content Management System (PHXCMS-7.4).
+
+[](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5OTg#)
+
+loading
+
+[](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5OTg "Close")[](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5OTg "Next")[](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5OTg "Play")[](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5OTg "Pause")[](http://www.phoronix.com/scan.php?page=news_item&px=MTQ5OTg "Previous")

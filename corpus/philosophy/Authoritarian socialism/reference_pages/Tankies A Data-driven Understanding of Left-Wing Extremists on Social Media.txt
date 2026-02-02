@@ -1,0 +1,121 @@
+# Tankies: A Data-driven Understanding of Left-Wing Extremists on Social Media
+
+![Image 1: GNET](https://gnet-research.org/2023/10/02/tankies-a-data-driven-understanding-of-left-wing-extremists-on-social-media/)
+
+Tankies: A Data-driven Understanding of Left-Wing Extremists on Social Media
+
+Tankies: A Data-driven Understanding of Left-Wing Extremists on Social Media
+
+2nd October 2023
+
+**Introduction**
+
+In an era where social media has become a powerful platform for political discourse and activism, the narratives of extremism have found fertile ground to flourish. While right-wing extremism has been at the forefront of research and media coverage in recent years, left-wing extremism remains a relatively unexplored domain. This lack of focus on the left wing raises questions about the nature of left-wing extremism online. This Insight is based on a [study that seeks to address this gap](https://arxiv.org/pdf/2307.06981.pdf), offering a comprehensive examination of a left-wing extremist community on Reddit known as ‘tankies’. This community exhibits extremist tendencies through their unwavering support for authoritarian regimes under the banner of socialism, communism, or anti-NATO sentiments, downplaying or justifying human rights abuses.
+
+**What is a Tankie?**
+
+The term tankie has seen several shifts in its connotation over the years. Originally, it was[a pejorative label for communists who supported the Soviet Union’s interventions in Hungary and Czechoslovakia](https://www.theguardian.com/politics/2015/sep/29/marxism-today-forgotten-visionaries-whose-ideas-could-save-labour). Yet, its contemporary application is much broader. Today, the term refers not only to[pro-Soviet hardliners](https://www.tandfonline.com/doi/abs/10.1080/1358684980050102?journalCode=ccen20) but also to those who back China’s policies on matters such as[the Uyghur genocide](https://www.manchesterhive.com/display/9781526166258/9781526166258.xml) and[the Hong Kong protests](https://thediplomat.com/2021/03/tankie-man-the-pro-democracy-hong-kongers-standing-up-to-western-communists/). A [recent study by Petterson](https://brill.com/view/journals/rpbi/4/1/article-p1_1.xml) portrays tankies as: “regard[ing] past and current socialist systems as legitimate attempts at creating communism, and thus have not distanced themselves from Stalin, China etc.”
+
+As a result, while ‘tankie’ once referred to specific historical events, it now captures a broader spectrum of communist ideologies, particularly those aligned with ‘Actually Existing Socialist’ (AES) countries. Our research delves into a selection of subreddits where members identify as communists, notably Marxist/Leninists, who champion AES (See Fig. 1). Our study, spanning from July 2019 to March 2022, explores online spaces where modern tankies gather and spread their extremist ideology, analysing more than 1.3M posts to understand this under-researched and evolving identity.
+
+![Image 2: Screenshot of the Informed Tankie subreddit, featuring article titles and discussion on topics such as Venezuelan army actions, the Bolshevik revolution, and support for AES countries, along with a definition of the term tankie](https://gnet-research.org/wp-content/uploads/2023/09/Screenshot-2023-09-07-at-15.47.28-1024x482.png)
+
+Fig. 1: Screenshot of a tankie subreddit
+
+**Understanding the Identity of Left-Wing Extremists Within the Far-Left Landscape**
+
+In Fig. 2, we present a layout of ideological subreddits, capturing the distinct positioning of tankies within the broader ideological spectrum. Their positioning, further to the left than subreddits like r/communism, r/socialism, and r/Anarchism, underscores their unique placement on the periphery of the far-left cluster, emphasising their extreme nature. Fig. 3 further highlights how the user base of tankies interacts with other groups, revealing that they tend to stick closely together, more so than other far-left communities.
+
+![Image 3: The image presents a complex, interconnected network of political ideologies and movements, with various terms like Feminism, Anarchism, Capitalism, and Socialism linked by numerous colored lines, suggesting relationships and overlaps between different political concepts](https://gnet-research.org/wp-content/uploads/2023/09/Screenshot-2023-09-07-at-15.47.40-1024x841.png)
+
+Fig. 2. Layout of ideological subreddits
+
+To get to the heart of what sets tankies apart, we embarked on an in-depth comparison with other far-left online communities (depicted with a light red in Fig. 2 and 3). We used a range of tools to analyse the topics they discuss and the names they mention, and study their lexical choices by examining the word alignments of tankies with other far-left communities. Subsequently, we assess the toxicity of their conversations employing [Jigsaw and Google’s Perspective API](https://perspectiveapi.com/), which is trained using millions of posts using machine learning algorithms to effectively measure online toxicity and harassment. Additionally, we explored their news sources and how they reacted when faced with bans or restrictions online.
+
+![Image 4: A correlation matrix of different political subreddits](https://gnet-research.org/wp-content/uploads/2023/09/Screenshot-2023-09-07-at-15.47.52-1024x1003.png)
+
+Fig. 3. Relationship between user bases of ideological subreddits. Far-left subreddits are coloured red (with non-tankies coloured light red), Leftists are coloured grey, Capitalists are coloured green, and Feminists are coloured blue. A stronger red hue indicates a higher similarity between the user bases of two subreddits
+
+**State-Level Politics**
+
+Throughout our topic analysis, we find that tankies are particularly vocal about major geopolitical events (Fig. 4 and 5). They are especially focused on issues such as Chinese and North Korean politics, the Russian invasion of Ukraine, and the Israel-Palestine conflict. They also show a keen interest in topics related to communism, fascism, and Stalin. However, when it comes to everyday societal challenges that are usually points of interest for the left wing—like policing, climate change, healthcare, housing, and workers’ rights—tankies seem less engaged.
+
+This pattern reveals a striking insight: tankies appear to be deeply invested in state-driven political events, often at the expense of grassroots societal issues. This underscores a distinct divergence in the priorities and discourse of left-wing extremists and the wider far-left community.
+
+![Image 5: The image shows a map of countries that have sanctioned Russia in 2022, with green countries having sanctioned Russia and blue countries not having sanctioned Russia](https://gnet-research.org/wp-content/uploads/2023/09/Screenshot-2023-09-07-at-15.48.19-868x1024.png)
+
+Fig. 4: An example submission of tankies related to Russia’s invasion of Ukraine.
+
+![Image 6: World map with countries colored to show support for China's Xinjiang Policy](https://gnet-research.org/wp-content/uploads/2023/09/Screenshot-2023-09-07-at-15.48.41-1024x841.png)
+
+Fig. 5: An example submission of tankies related to China’s Xinjiang policy
+
+**Acceptance of CCP Narratives**
+
+In our exploration into online tankie discussions, we found that topics such as the Uyghur genocide and China frequently emerge. They often opt to use the nomenclature ‘Communist Party of China (CPC)’—Beijing’s preferred language—over the more colloquial ‘CCP’. When it comes to the Uyghurs, tankies’ discussions often diverge from the mainstream narrative. Rather than highlighting concerns over[detention](https://www.hrw.org/news/2020/02/20/more-evidence-chinas-horrific-abuses-xinjiang) and[genocide](https://scholarship.law.uc.edu/cgi/viewcontent.cgi?article=1073&context=ihrlr), they portray the situation in a less severe light, e.g.:
+
+“There is no uyghur genocide. There are re-education centers but it is a slim minority of the population and muslim scholars from outside of china teach there to deradicalize the worst extremists. What the west has done is confuse the vocational centers to alleviate poverty with the re-education camps for convicted terrorists. The claims of 1 million uyghurs in camps is bullshit spread by a far right fundamentalist preacher”
+
+“Go back to watching Vaush. There has been no actual documentation on the supposed torture or internment camps with the only “evidence” being footage of a prison. Xinjiang has more mosques per capita than the US. China has not even come close to making a statement that reinforces your point either the briefings are public access so just read.”
+
+This idea is strengthened by[reports of r/GenZedong (a tankie subreddit) showing aggression towards Uyghurs online](https://time.com/6121915/reddit-international-hate-speech/). Overall, there’s a clear inclination in tankies’ dialogues towards viewpoints aligned with the CCP (or CPC in their vocabulary).
+
+**Stalinist Leanings**
+
+Tankies have a tendency towards Stalinism. In our topic analysis, we find that tankies give more prevalence to topics related to Stalin compared to other far-left communities we analyse. This preference becomes even more evident when examining their discussions of key USSR figures like Nikita Khrushchev and Mikhail Gorbachev,[both known for their efforts to move away from Stalin’s policies](https://www.routledge.com/The-Dilemmas-of-De-Stalinization-Negotiating-Cultural-and-Social-Change/Jones/p/book/9780415545884). For instance, the way tankies discuss Khrushchev’s attempts to reduce Stalin’s influence, or “de-Stalinisation,” suggests a certain fondness for Stalin’s era.
+
+For instance, we find constant word alignments with the tankies’ usage of de-Stalinisation and r/communism, r/socialism, and r/Anarchism’s usage of Khrushchev. An example tankie comment regarding de-Stalinisation is “De-Stalinization was a mistake. Fuck Khrushchev.”
+
+Another intriguing finding is their use of the term ‘trot’ –[a derogatory term for Trotskyists, which dates back to the time of Stalin](https://www.newstatesman.com/politics/2016/08/what-are-trots-and-tankies). [Leon Trotsky](https://www.britannica.com/topic/Trotskyism), a key figure in the Bolshevik Revolution, Stalin’s main political adversary during the 1920s and 1930s, opposed Stalin’s idea of ‘Socialism in one country’. This choice of language, along with other patterns, underscores tankies’ inclination towards a more Stalin-centric view.
+
+**Acceptance of the Russian Narrative in Ukraine**
+
+Tankies often show support that goes beyond just socialist countries, sometimes downplaying or even[backing the actions of non-socialist, autocratic countries that oppose NATO, such as Putin’s Russia](https://theintercept.com/2022/03/01/ukraine-russia-leftists-tankie/). Our findings highlight that tankies tend to use the titles of the de facto states, the Luhansk People’s Republic (LPR) and Donetsk People’s Republic (DPR) when referring to areas in Ukraine’s Donbas region. It’s worth noting that[these titles were officially recognised by the Russian government, playing a significant role in the events leading up to the 2022 invasion of Ukraine](https://www.washingtonpost.com/world/2022/02/21/what-is-donbas-donetsk-luhansk-conflict/).
+
+Additionally, the way tankies talk about Ukraine’s President Zelensky is similar to how another group, r/DemocraticSocialism, discusses former US President Trump. We find the tankies’ usage of ‘Zelensky’ aligns with the r/DemocraticSocialism’s usage of ‘Trump’. This parallel suggests a certain scepticism or opposition towards Ukrainian sovereignty within the tankie community.
+
+An example comment from tankies on Zelensky: “Putin and our comrades in Ukraine are going to kill all the US financed nazi scum and hopefully hang Zelensky while they’re at it. Let’s go Brandon!”
+
+And, an example comment from r/DemocraticSocialism on Trump: “There is no option for that. Trump is a corrupt fascist and should be treated as such.”
+
+**Anti-Zionist Leaning**
+
+[From its early days, the USSR held strong anti-Zionist views](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429035845-14/anti-zionism-new-form-antisemitism-dan-segre). Today, we see echoes of those sentiments in modern far-left anti-Zionism. Notably, tankies are more inclined to use the term ‘Zionist’ as a blanket label for Israel and its citizens. Our toxicity analysis also indicates that tankies are more likely than other far-left groups to post antisemitic content targeting Jews.
+
+**Pejorative Terms for Other Ideologies**
+
+Tankies often use derogatory nicknames when referencing other political ideologies. For instance, they might say ‘anarkiddies’ instead of ‘anarchists’ or ‘succdems’ in place of ‘socdems’. They also use terms like ‘westoids’ and ‘libshits’ when talking about liberals. Interestingly, while ‘tankies’ itself is a term others use in a negative light, they seem to have adopted similar tactics. Much like how right-wing extremists use terms like ‘RINO’ (Republican in Name Only) to dismiss mainstream conservatives, this is further evidence that tankies are on the periphery of the far-left, mirroring other extremist strategies.
+
+**Leaning Towards State-Sponsored Media**
+
+As depicted in Fig. 4, tankies show a stronger preference for sharing news from Revisionist World Powers ([Chinese and Russian state-sponsored or state-controlled sources](https://ijoc.org/index.php/ijoc/article/view/17191)), while being less inclined towards sharing Western democratic (Liberal Democracies) outlets.
+
+![Image 7: Stacked bar chart showing percentages by subreddit for revisionist world powers, regional challengers, and liberal democracies](https://gnet-research.org/wp-content/uploads/2023/09/Screenshot-2023-09-07-at-15.48.57-1024x495.png)
+
+Fig. 6: Proportions of sharing amount of news outlets from Revisionist World Powers, Regional Challengers, and Liberal Democracies from each far-left community. Tankie subreddits are specified in red
+
+**U.S Politics**
+
+Tankies engage in discussions about Joe Biden, mirroring the attention r/DemocraticSocialism users give to Donald Trump as we find misalignment between the tankies’ usage of Biden and r/DemocraticSocialism’s usage of Trump.
+
+An example comment of tankies talking about Biden:
+
+“succ dem mad. why don’t you go vote for your imperialist daddy joe biden?”
+
+Tankies are also more inclined to use the derogatory term “Sleepy Joe” for President Biden. Furthermore, tankies’ scepticism towards democratic processes is highlighted by their references to elections as mere “popularity contests.”
+
+**Organised Response to Deplatforming**
+
+When[far-right groups like QAnon and r/The_Donald](https://www.vox.com/recode/22913046/deplatforming-extremists-ban-qanon-proud-boys-boogaloo-oathkeepers-three-percenters-trump) were deplatformed, they migrated to alternative platforms like[voat.co](https://dl.acm.org/doi/abs/10.1145/3442381.3450036),[Parler](https://ojs.aaai.org/index.php/ICWSM/article/view/18117), and[Gettr](https://par.nsf.gov/servlets/purl/10403516).[Facing restrictions on Reddit](https://www.reddit.com/r/SubredditDrama/comments/tllh6z/multiple_subreddits_including_rgenzedong_and/), tankie subreddits, r/GenZedong and r/GenZhou, transitioned to Lemmygrad.ml, a Marxist/Leninist online platform. Tankies’ move not only made them dominant voices on Lemmygrad.ml but also seemed to amplify the overall toxic tone on the platform.
+
+**Conclusion**
+
+Our comprehensive analysis of the tankies community on Reddit has illuminated the presence and growth of a distinct far-left extremist movement online. While the majority of online extremist activity has predominantly been associated with the right wing, our findings emphasise the urgent need for the research community to broaden its focus. The relentless support for authoritarian governments and the rapid growth of the tankies community, mirrors patterns previously observed in the early stages of right-wing online extremism. This underscores the importance of diversifying research efforts to cover all shades of online extremism.
+
+Tech companies must recognise and respond to the adeptness of groups like tankies in evading moderation efforts. Developing advanced content moderation tools that can detect and mitigate the spread of extremist rhetoric, irrespective of its political orientation, should be a priority. Collaborative endeavours between researchers and tech platforms can lead to the development of more robust and unbiased moderation systems. In this digital age, where platforms remarkably influence political discourse, it is imperative to understand and address all forms of online extremism to ensure a safer digital environment for all.
+
+_**Utkucan Balci** ([@utkucanbalci](https://twitter.com/utkucanbalci)) is a Ph.D. Candidate at Binghamton University and a student researcher at iDRAMA (The International Data-driven Research for Advanced Modeling and Analysis) Lab. His current research interests include understanding online communities and how they break up into more divergent subcommunities._
+
+_**Michael Sirivianos** ([@msirivia](https://twitter.com/msirivia)) Associate Professor of Computer Engineering and Informatics and the Dean of the School of Engineering and Technology at the Cyprus University of Technology. He serves on the Board of the [CYENS Centre of Excellence](https://www.cyens.org.cy/en-gb/) and researches ways to help social media users tell lies apart. His research interests include the trust-aware design of distributed systems, device-centric authentication, federated identity management, discrimination based on personal data, cyber safety, transactional workload scalability, and measurement of blockchain systems_
+
+_**Jeremy Blackburn** ([@jhblackb](https://twitter.com/jhblackb)) is an Assistant Professor in the Dept. of Computer Science at Binghamton University. Jeremy is broadly interested in data science, with a focus on large-scale measurements and modelling. His award-winning research into understanding toxic behaviour, hate speech, and fringe and extremist Web communities has been covered in the press by The Washington Post, the New York Times, and Infowars, among others._

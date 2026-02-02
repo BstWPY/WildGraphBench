@@ -1,0 +1,917 @@
+# Features, Evaluation, and Treatment of Coronavirus
+
+Continuing Education Activity
+-----------------------------
+
+Coronavirus disease 2019 (COVID-19) is a highly contagious infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 has had a catastrophic effect on the world, resulting in more than 6 million deaths worldwide. It has emerged as the most consequential global health crisis since the era of the influenza pandemic of 1918. As the virus mutates, treatment guidelines are altered to reflect the most efficacious therapies. This activity is a comprehensive review of the disease presentation, complications, and current guideline-recommended treatment options for managing this disease.
+
+**Objectives:**
+
+*   Screen individuals based on exposure and symptom criteria to identify potential COVID-19 cases.
+
+*   Identify the clinical features and radiological findings expected in patients with COVID-19.
+
+*   Apply the recommended treatment options for patients with COVID-19.
+
+*   Create strategies with the interprofessional team for improving care coordination to care for patients with COVID-19 to help improve clinical outcomes.
+
+[Access free multiple choice questions on this topic.](https://www.statpearls.com/account/trialuserreg/?articleid=52171&utm_source=pubmed&utm_campaign=reviews&utm_content=52171)
+
+Introduction
+------------
+
+Coronavirus disease 2019 (COVID-19) is a highly contagious viral illness caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 has had a catastrophic effect on the world, resulting in more than 6 million deaths worldwide. After the first cases of this predominantly respiratory viral illness were reported in Wuhan, Hubei Province, China, in late December 2019, SARS-CoV-2 rapidly disseminated worldwide. This compelled the World Health Organization (WHO) to declare it a global pandemic on March 11, 2020.[[1]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Even though substantial progress in clinical research has led to a better understanding of SARS-CoV-2, many countries continue to have outbreaks of this viral illness. These outbreaks are primarily attributed to the emergence of mutant variants of the virus.Like other RNA viruses, SARS-CoV-2 adapts with genetic evolution and developing mutations. This results in mutant variants that may have different characteristics than their ancestral strains. Several variants of SARS-CoV-2 have been described during the course of this pandemic, among which only a few are considered variants of concern (VOCs). Based on the epidemiological update by the WHO,5 SARS-CoV-2 VOCs have been identified since the beginning of the pandemic:
+
+*   **Alpha (B.1.1.7):** First variant of concern, which was described in the United Kingdom (UK) in late December 2020[[2]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   **Beta (B.1.351)**: First reported in South Africa in December 2020[[2]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   **Gamma (P.1)**: First reported in Brazil in early January 2021[[2]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   **Delta (B.1.617.2):**First reported in India in December 2020[[2]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   **Omicron****(B.1.1.529):** First reported in South Africa in November 2021[[3]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Despite the unprecedented speed of vaccine development against the prevention of COVID-19 and robust global mass vaccination efforts, the emergence of new SARS-CoV-2 variants threatens to overturn the progress made in limiting the spread of this disease.This review aims to comprehensively describe the etiology, epidemiology, pathophysiology, and clinical features of COVID-19. This review also provides an overview of the different variants of SARS-CoV-2 and the guideline-recommended treatment (as of January 2023) for managing this disease.
+
+Etiology
+--------
+
+Coronaviruses (CoVs) are positive-sense single-stranded RNA (+ssRNA) viruses with a crown-like appearance under an electron microscope (_coronam_ is the Latin term for crown) due to the presence of spike glycoproteins on the envelope.[[1]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#) The subfamily _Orthocoronavirinae_ of the _Coronaviridae_ family (order _Nidovirales_) classifies into 4 genera of CoVs:
+
+*   **Alphacoronavirus** (alphaCoV)
+
+*   **Betacoronavirus** (betaCoV)
+
+*   **Deltacoronavirus** (deltaCoV)
+
+*   **Gammacoronavirus** (gammaCoV)
+
+BetaCoV genus is further divided into 5 sub-genera or lineages.[[4]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)Genomic characterization has shown that bats and rodents are the probable gene sources of alphaCoVs and betaCoVs. Avian species seem to be the source of deltaCoVs and gammaCoVs. CoVs have become significant pathogens of emerging respiratory disease outbreaks. Members of this large family of viruses can cause respiratory, enteric, hepatic, and neurological diseases in different animal species, including camels, cattle, cats, and bats.
+
+These viruses can cross species barriers and infect humans as well. Seven human CoVs (HCoVs) capable of infecting humans have been identified. Some HCoVs were identified in the mid-1960s, while others were only detected in the new millennium. In general, estimates suggest that 2% of the population are healthy carriers of CoVs and that these viruses are responsible for about 5% to 10% of acute respiratory infections.[[5]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   **Common human CoVs**: HCoV-OC43 and HCoV-HKU1 (betaCoVs of the A lineage), HCoV-229E, and HCoV-NL63 (alphaCoVs). These viruses can cause common colds and self-limiting upper respiratory tract infections in immunocompetent individuals. However, in immunocompromised and older patients, lower respiratory tract infections can occur due to these viruses.
+
+*   **Other human CoVs**: SARS-CoV and MERS-CoV (betaCoVs of the B and C lineage, respectively). These viruses are considered more virulent and capable of causing epidemics with respiratory and extra-respiratory manifestations of variable clinical severity.[[1]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+SARS-CoV-2 is a novel betaCoV belonging to the same subgenus as the severe acute respiratory syndrome coronavirus (SARS-CoV) and the Middle East Respiratory Syndrome Coronavirus (MERS-CoV), which have been previously implicated in SARS-CoV and MERS-CoV epidemics with mortality rates up to 10% and 35%, respectively.[[6]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)It has a round or elliptic and often pleomorphic form and a diameter of approximately 60 to 140 nm. Like other CoVs, it is sensitive to ultraviolet rays and heat.[[6]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+The inactivation temperature of SARS-CoV-2 is being researched. A stainless steel surface held at an air temperature of 54.5°C (130 °F) results in the inactivation of 90% of SARS-CoV-2 in approximately 36 minutes.[[7]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)It resists lower temperatures, even those below 0°C. However, lipid solvents can effectively inactivate these viruses, including ether (75%), ethanol, chlorine-containing disinfectant, peroxyacetic acid, and chloroform (except for chlorhexidine).
+
+Although the origin of SARS-CoV-2 is currently unknown, it is widely postulated to have a zoonotic transmission.[[1]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)Genomic analyses suggest that SARS-CoV-2 probably evolved from a strain found in bats. The genomic comparison between the human SARS-CoV-2 sequence and known animal coronaviruses revealed high homology (96%) between the SARS-CoV-2 and the betaCoV RaTG13 of bats (_Rhinolophus affinis_).[[8]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)Similar to SARS and MERS, it has been hypothesized that SARS-CoV-2 advanced from bats to intermediate hosts, such as pangolins and minks, and then to humans.[[9]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[10]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+**SARS-CoV-2 Variants**
+
+A globally dominant D614G variant was eventually identified and associated with increased transmissibility but without the ability to cause severe illness.[[11]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#) Another variant was attributed to transmission from infected farmed mink in Denmark but was not associated with increased transmissibility.[[10]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)Since then, multiple variants of SARS-CoV-2 have been described, of which a few are considered variants of concern (VOCs) due to their potential to cause enhanced transmissibility or virulence. The United States Centers for Disease Control and Prevention (CDC) and the WHO have independently established a classification system for distinguishing the emerging variants of SARS-CoV-2 into variants of concern(VOCs) and variants of interest(VOIs).
+
+**SARS-CoV-2 Variants of Concern (VOCs)**
+
+*   **Alpha (B.1.1.7 lineage)**
+
+*       *   In late December 2020, the Alpha variant,or **GRY**(formerly GR/501Y.V1), was reported in the UK based on whole-genome sequencing of samples from patients who tested positive for SARS-CoV-2.[[12]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[13]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   The variant was also identified using a commercial assay characterized by the absence of the S gene (S-gene target failure, SGTF) in PCR samples. The B.1.1.7 variant includes 17 mutations in the viral genome. Of these,8 mutations (Δ69-70 deletion, Δ144 deletion, N501Y, A570D, P681H, T716I, S982A, D1118H) are in the spike (S) protein. N501Y shows an increased affinity of the spike protein to ACE 2 receptors, enhancing the viral attachment and subsequent entry into host cells.[[14]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[15]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[16]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   This alpha variant was reportedly 43% to 82% more transmissible, surpassing preexisting variants of SARS-CoV-2 to emerge as the dominant SARS-CoV-2 variant in the UK.[[15]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   An initial matched case-control study reported no significant difference in the risk of hospitalization or associated mortality with the B.1.1.7 lineage variant compared to other existing variants. However, subsequent studies have reported that people infected with B.1.1.7 lineage variant had increased disease severity compared to those infected with other circulating variants.[[17]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[13]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   A large matched cohort study in the UK reported that the mortality hazard ratio of patients infected with the B.1.1.7 lineage variant was 1.64 (95% confidence interval 1.32 to 2.04, P<0.0001) compared to patients with previously circulating strains.[[18]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   Another study reported that the B 1.1.7 variant was associated with increased mortality compared to other SARS-CoV-2 variants (HR= 1.61, 95% CI 1.42-1.82).[[19]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)The risk of death was reportedly greater (adjusted hazard ratio 1.67, 95% CI 1.34-2.09) among individuals with confirmed B.1.1.7 infection compared to individuals with non-B.1.1.7 SARS-CoV-2.[[20]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   **Beta (B.1.351 lineage)**
+
+*       *   The Beta variant,or **GH501Y.V2** with multiple spike mutations, resulted in the second wave of COVID-19 infections and was first detected in South Africa in October 2020.[[21]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   The B.1.351 variant includes 9 mutations (L18F, D80A, D215G, R246I, K417N, E484K, N501Y, D614G, and A701V) in the spike protein, of which 3 mutations (K417N, E484K, and N501Y) are located in the receptor binding domain (RBD) and increase its binding affinity for the ACE receptors.[[22]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[14]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[23]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   SARS-CoV-2 501Y.V2 (B.1.351 lineage) was reported in the US at the end of January 2021.
+
+    *   This variant had an increased risk of transmission and reduced neutralization by monoclonal antibody therapy, convalescent sera, and post-vaccination sera.[[24]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   **Gamma (P.1 lineage)**
+
+*       *   The Gamma variant, or**GR/501Y.V3**, was identified in December 2020 in Brazil and was first detected in the US in January 2021.[[25]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   This B.1.1.28 variant harbors ten mutations in the spike protein (L18F, T20N, P26S, D138Y, R190S, H655Y, T1027I V1176, K417T, E484K, and N501Y). Three mutations (L18F, K417N, E484K) are located in the RBD, similar to the B.1.351 variant.[[25]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   
+**Delta (B.1.617.2 lineage)**
+
+    *   The Delta variant was initially identified in December 2020 in India and was responsible for the deadly second wave of COVID-19 infections in April 2021 in India. In the United States, this variant was first detected in March 2021.[[2]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   The B.1.617.2 variant harbors ten mutations ( T19R, (G142D*), 156del, 157del, R158G, L452R, T478K, D614G, P681R, D950N) in the spike protein.
+
+*   
+**Omicron (B.1.1.529 lineage)**
+
+    *   The Omicron variant was first identified in South Africa on 23 November 2021 after an uptick in the number of cases of COVID-19.[[26]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   Omicron was quickly recognized as a VOC due to more than 30 changes to the spike protein of the virus and the sharp rise in the number of cases observed in South Africa.[[27]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)The reported mutations include T91 in the envelope, P13L, E31del, R32del, S33del, R203K, G204R in the nucleocapsid protein, D3G, Q19E, A63T in the matrix, N211del/L212I, Y145del, Y144del, Y143del, G142D, T95I, V70del, H69del, A67V in the N-terminal domain of the spike, Y505H, N501Y, Q498R, G496S, Q493R, E484A, T478K, S477N, G446S, N440K, K417N, S375F, S373P, S371L, G339D in the receptor-binding domain of the spike, D796Y in the fusion peptide of the spike, L981F, N969K, Q954H in the heptad repeat 1 of the spike as well as multiple other mutations in the non-structural proteins and spike protein.[[28]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+    *   Many subvariants of Omicron, such as BA.1, BA.2, BA.3, BA.4, and BA.5,have been identified.[[3]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+**Transmission of SARS-CoV-2**
+
+*   The primary mode of transmission of SARS-CoV-2 is via exposure to respiratory droplets carrying the infectious virus from close contact or direct transmission from presymptomatic, asymptomatic, or symptomatic individuals harboring the virus.[[1]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Airborne transmission with aerosol-generating procedures has also been implicated in the spread of COVID-19. Data implicating airborne transmission of SARS-CoV-2 in the absence of aerosol-generating procedures is present; however, this mode of transmission has not been universally acknowledged.
+
+*   Fomite transmission from contamination of inanimate surfaces with SARS-CoV-2 has been well characterized based on many studies reporting the viability of SARS-CoV-2 on various porous and nonporous surfaces.Under experimental conditions, SARS-CoV-2 was stable on stainless steel and plastic surfaces compared to copper and cardboard surfaces, with the viable virus being detected up to 72 hours after inoculating the surfaces with the virus.[[29]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)The viable virus was isolated for up to 28 days at 20°C from nonporous surfaces such as glass and stainless steel. Conversely, recovery of SARS-CoV-2 on porous materials was reduced compared with nonporous surfaces.[[30]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)In hospital settings, the SARS-CoV-2 has been detected on floors, computer mice, trash cans, sickbed handrails, and in the air (up to 4 meters from patients).[[31]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)The Centers for Disease Control and Prevention (CDC) has stated that individuals can be infected with SARS-CoV-2 via contact with surfaces contaminated by the virus, but the risk is low and is not the main route of transmission of this virus.
+
+*   Epidemiologic data from several case studies have reported that patients with SARS-CoV-2 infection have the live virus in feces implying possible fecal-oral transmission.[[32]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   A meta-analysis that included 936 neonates from mothers with COVID-19 showed vertical transmission is possible but occurs in a minority of cases.[[33]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Epidemiology
+------------
+
+COVID-19 was the third leading cause of death in the United States (USA) in 2020 after heart disease and cancer, with approximately 375,000 deaths.[[34]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Individuals of all ages are at risk of contracting this infection. However, patients aged ≥60 and patients with underlying medical comorbidities (obesity, cardiovascular disease, chronic kidney disease, diabetes, chronic lung disease, smoking, cancer, solid organ or hematopoietic stem cell transplant patients)have an increased risk of developing severe COVID-19 infection.
+
+According to the CDC, age remains the strongest predictor of poor outcomes and severe illness in patients with COVID-19. Data from the National Vital Statistics System (NVSS) at CDC states that patients with COVID-19 aged 50 to 64 years have a 25 times higher risk of death when compared to adults infected with this illness and aged less than 30 years. In patients 65 to 74 years old, this risk increases to 60 times. In patients older than 85, the risk of death increases to 340 times. According to the CDC, these data include all deaths in the United States throughout the pandemic, from February 2020 to July 1, 2022, including deaths among unvaccinated individuals.
+
+The percentage of COVID-19 patients requiring hospitalization was 6 times higher in those with preexisting medical conditions than those without medical conditions (45.4% vs. 7.6%) based on an analysis by Stokes et al. of confirmed cases reported to the CDC from January 22 to May 30, 2020.[[35]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)The study also reported that the percentage of patients who succumbed to this illness was 12 times higher in those with preexisting medical conditions than those without (19.5% vs 1.6%).[[35]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Data regarding the gender-based differences in COVID-19 suggests that male patients have a higher risk of severe illness and increased mortality due to COVID-19 compared to female patients.[[36]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[37]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)Results from a retrospective cohort study from March 1 to November 21, 2020, evaluating the mortality rate in 209 United States of America (USA) acute care hospitals that included 42604 patients with confirmed SARS-CoV-2 infection, reported a higher mortality rate in male patients (12.5%) compared to female patients (9.6%).[[38]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Racial and ethnic minority groups have been reported to have a higher percentage of COVID-19-related hospitalizations than White patients based on a recent CDC analysis of hospitalizations from an extensive administrative database that included approximately 300,000 COVID-19 patients hospitalized from March 2020 to December 2020. This high percentage of COVID-19-related hospitalizations among racial and ethnic groups was driven by a higher risk of exposure to SARS-CoV-2 and an increased risk of developing severe COVID-19 disease.[[39]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)A meta-analysis of 50 studies from USA and UK researchers noted that people of Black, Hispanic, and Asian ethnic minority groups are at increased risk of contracting and dying from COVID-19 infection.[[40]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+COVID-19-related death rates were the highest among Hispanic persons.[[34]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)Another analysis by the CDC evaluating the risk of COVID-19 among sexual minority adults reported that underlying medical comorbidities which increase the risk of developing severe COVID-19 were more prevalent in sexual minority individuals than heterosexual individuals within the general population and within specific racial/ethnic groups.[[41]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Pathophysiology
+---------------
+
+Structurally and phylogenetically, SARS-CoV-2 is similar to SARS-CoV and MERS-CoV and is composed of 4 main structural proteins: spike (S), envelope (E) glycoprotein, nucleocapsid (N), and membrane (M) protein. It also contains 16 nonstructural proteins and 5-8 accessory proteins.[[42]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+The surface spike (S) glycoprotein, which resembles a crown, is located on the outer surface of the virion. It undergoes cleavage into an amino (N)-terminal S1 subunit, which facilitates the incorporation of the virus into the host cell. The carboxyl (C)-terminal S2 subunit contains a fusion peptide, a transmembrane domain, and a cytoplasmic domain responsible for virus-cell membrane fusion.[[43]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[44]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)The S1 subunit is further divided into a receptor-binding domain (RBD) and an N-terminal domain (NTD), which facilitates viral entry into the host cell and serves as a potential target for neutralization in response to antisera or vaccines**.**[[45]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+The RBD is a fundamental peptide in the pathogenesis of infection as it represents a binding site for the human angiotensin-converting enzyme 2 (ACE2) receptors. Inhibition of the renin-angiotensin-aldosterone system (RAAS) does not increase the risk of hospitalization for COVID-19 and severe disease.[[46]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+SARS-CoV-2 gains entry into the host cells by binding the SARS-CoV-2 spike or S protein (S1) to the ACE2 receptors in the respiratory epithelium. ACE2 receptors are also expressed by other organs such as the upper esophagus, enterocytes from the ileum, myocardial cells, proximal tubular cells of the kidney, and urothelial cells of the bladder.[[47]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)The viral attachment process is followed by priming the spike protein S2 subunit by the host transmembrane serine protease 2 (TMPRSS2) that facilitates cell entry and subsequent viral replication.[[48]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+In the early phase of the infection, viral replication results in direct virus-mediated tissue damage. In the late phase, the infected host cells trigger an immune response by recruiting T lymphocytes, monocytes, and neutrophils. Cytokines such as tumor necrosis factor-α (TNF α), granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-1 (IL-1), interleukin-6 (IL-6), ), IL-1β, IL-8, IL-12 and interferon (IFN)-γ are released. In severe COVID-19 illness, a 'cytokine storm' is seen. This is due to the over-activation of the immune system and high levels of cytokines in circulation. This results in a local and systemic inflammatory response.[[49]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[50]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+**Effect of SARS-CoV-2 on the Respiratory System**
+
+Increased vascular permeability and subsequent development of pulmonary edema in patients with severe COVID-19 are explained by multiple mechanisms.[[51]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[52]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[53]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)These mechanisms include:
+
+*   Endotheliitis as a result of direct viral injury and perivascular inflammation leading to microvascular and microthrombi deposition
+
+*   Dysregulation of RAAS due to increased binding of the virus to the ACE2 receptors
+
+*   Activation of the kallikrein-bradykinin pathway, the activation of which enhances vascular permeability
+
+*   Enhanced epithelial cell contraction causes swelling of cells and disturbance of intercellular junctions
+
+*   The binding of SARS-CoV-2 to the Toll-Like Receptor (TLR) induces the release of pro-IL-1β, which mediates lung inflammation until fibrosis**.**[[54]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+**Effect of SARS-CoV-2 on Extrapulmonary Organ Systems**
+
+Although the respiratory system is the principal target for SARS-CoV-2, other major organ systems such as the gastrointestinal tract (GI), hepatobiliary, cardiovascular, renal, and central nervous systems may also be affected. SARS-CoV-2–induced organ dysfunction is likely due to a combination of mechanisms, such as direct viral toxicity, ischemic injury caused by vasculitis, thrombosis, immune dysregulation, and renin-angiotensin-aldosterone system (RAAS) dysregulation.[[55]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Cardiac involvement in COVID-19 is common and likely multifactorial. ACE2 receptors exhibited by myocardial cells may cause direct cytotoxicity to the myocardium leading to myocarditis. Proinflammatory cytokines such as IL-6 can also lead to vascular inflammation, myocarditis, and cardiac arrhythmias.[[56]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Acute coronary syndrome (ACS) is a well-recognized cardiac manifestation of COVID-19. It is likely due to multiple factors, including proinflammatory cytokines, worsening of preexisting severe coronary artery disease, coronary plaque destabilization, microthrombogenesis, and reduced coronary blood flow.[[57]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+SARS-CoV-2 has a significant effect on the hematological and hemostatic systems as well. The mechanism of leukopenia, one of the most common laboratory abnormalities encountered in COVID-19, is unknown. Several hypotheses have been postulated that include ACE 2 mediated lymphocyte destruction by direct invasion by the virus, lymphocyte apoptosis due to proinflammatory cytokines, and possible invasion of the virus in the lymphatic organs.[[58]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Thrombocytopenia is common in COVID-19 and is likely due to multiple factors, including virus-mediated suppression of platelets, autoantibodies formation, and coagulation cascade activation, resulting in platelet consumption.[[59]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Thrombocytopenia and neutrophilia are considered a hallmark of severe illness.[[55]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#) Although it is well known that COVID-19 is associated with a state of hypercoagulability, the exact mechanisms that lead to the activation of the coagulation system are unknown and likely attributed to the cytokine-induced inflammatory response. The pathogenesis of this associated hypercoagulability is multifactorial.The hypercoagulability is probably induced by direct viral-mediated damage or cytokine-induced injury of the vascular endothelium leading to the activation of platelets, monocytes, and macrophages, with increased expression of von Willebrand factor and Factor VIII that results in the generation of thrombin and formation of a fibrin clot.[[59]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[60]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Other mechanisms that have been proposed include possible mononuclear phagocyte-induced prothrombotic sequelae, derangements in the renin-angiotensin system (RAS) pathways, and complement-mediated microangiopathy.[[59]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+History and Physical
+--------------------
+
+**Clinical Manifestations of COVID-19**
+
+*   The median incubation period for SARS-CoV-2 is estimated to be 5.1 days, and most patients will develop symptoms within 11.5 days of infection.[[61]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   The clinical spectrum of COVID-19 varies from asymptomatic or paucisymptomatic forms to clinical illness characterized by acute respiratory failure requiring mechanical ventilation, septic shock, and multiple organ failure.
+
+*   It is estimated that 17.9% to 33.3% of infected patients will remain asymptomatic.[[62]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[63]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Most symptomatic patients present with fever, cough, and shortness of breath. Less common symptoms include sore throat, anosmia, dysgeusia, anorexia, nausea, malaise, myalgias, and diarrhea. Stokes et al. reported that among 373,883 confirmed symptomatic COVID-19 cases in the USA, 70% experienced fever, cough, and shortness of breath, 36% reported myalgia, and 34% reported headache.[[35]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   A large meta-analysis evaluating clinicopathological characteristics of 8697 patients with COVID-19 in China reported laboratory abnormalities that included lymphopenia (47.6%), elevated C-reactive protein levels (65.9%), elevated cardiac enzymes (49.4%), and abnormal liver function tests (26.4%). Other laboratory abnormalities included leukopenia (23.5%), elevated D-dimer (20.4%), elevated erythrocyte sedimentation rate (20.4%), leukocytosis (9.9%), elevated procalcitonin (16.7%), and abnormal renal function (10.9%).[[64]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   A meta-analysis of 212 published studies with 281,461 individuals from 11 countries/regions reported that severe disease course was noted in about 23% of the patients, with a mortality rate of about 6% in patients infected with COVID-19.[[65]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   An elevated neutrophil-to-lymphocyte ratio (NLR), an elevated derived NLR ratio (d-NLR), and an elevated platelet-to-lymphocyte ratio indicate a cytokine-induced inflammatory storm.[[66]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Based on the severity of the presenting illness, which includes clinical symptoms, laboratory and radiographic abnormalities, hemodynamics, and organ function, the National Institutes of Health (NIH) issued guidelines that classify COVID-19 into 5 distinct types.[[NIH COVID-19 Treatment Guidelines](https://www.covid19treatmentguidelines.nih.gov/)]
+
+*   **Asymptomatic or Presymptomatic Infection**: Individuals with positive SARS-CoV-2 test without any clinical symptoms consistent with COVID-19.
+
+*   **Mild illness**: Individuals who have symptoms of COVID-19, such as fever, cough, sore throat, malaise, headache, muscle pain, nausea, vomiting, diarrhea, anosmia, or dysgeusia but without shortness of breath or abnormal chest imaging.
+
+*   **Moderate illness**: Individuals with clinical symptoms or radiologic evidence of lower respiratory tract disease and oxygen saturation (SpO 2) ≥94% on room air.
+
+*   **Severe illness**: Individuals who have SpO 2 less than 94% on room air, a ratio of partial pressure of arterial oxygen to fraction of inspired oxygen (PaO 2/FiO 2) of less than 300, marked tachypnea with a respiratory frequency of greater than 30 breaths/min, or lung infiltrates that are greater than 50% of total lung volume.
+
+*   **Critical illness**: Individuals with acute respiratory failure, septic shock, or multiple organ dysfunction. Patients with severe COVID-19 illness may become critically ill with the development of acute respiratory distress syndrome (ARDS). This tends to occur approximately one week after the onset of symptoms.
+
+ARDS is characterized by a severe new-onset respiratory failure or worsening of an already identified respiratory picture. The diagnosis requires bilateral opacities (lung infiltrates >50%), not fully explained by effusions or atelectasis. The Berlin definition classifies ARDS into 3 types based on the degree of hypoxia, with the reference parameter being PaO 2/FiO 2 or P/F ratio:[[67]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   **Mild ARDS**: 200 mm Hg <PaO 2/FiO 2 ≤300 mm Hg in patients not receiving mechanical ventilation or in those managed through noninvasive ventilation (NIV) by using positive end-expiratory pressure (PEEP) or a continuous positive airway pressure (CPAP) ≥5 cm H2O.
+
+*   **Moderate ARDS**: 100 mm Hg <PaO 2/FiO 2 ≤200 mm Hg
+
+*   **Severe ARDS**: PaO 2/FiO 2 ≤100 mm Hg
+
+When PaO 2 is unavailable, a ratio of SpO 2/FiO 2 ≤315 suggests ARDS. A multicenter prospective observational study that analyzed 28-day mortality in mechanically ventilated patients with ARDS concluded that COVID-19 patients with ARDS had features similar to other ARDS cohorts, and the risk of 28-day mortality increased with ARDS severity.[[68]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+**Extrapulmonary Manifestations**
+
+*   Acute kidney injury (AKI) is the most frequently encountered extrapulmonary manifestation of COVID-19 and is associated with an increased mortality risk.[[69]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#) A large multicenter cohort study of hospitalized patients with COVID-19 that involved 5,449 patients admitted with COVID-19 reported that 1993 (36.6%) patients developed AKI during their hospitalization, of which 14.3% of patients required renal replacement therapy (RRT).[[70]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Myocardial injury manifesting as myocardial ischemia/infarction (MI) and myocarditis are well-recognized cardiac manifestations in patients with COVID-19. Single-center retrospective study analysis of 187 patients with confirmed COVID-19 reported that 27.8% of patients exhibited myocardial injury indicated by elevated troponin levels. The study also noted that patients with elevated troponin levels had more frequent malignant arrhythmias and a higher mechanical ventilation frequency than patients with normal troponin levels.[[71]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)A meta-analysis of 198 published studies involving 159698 COVID-19 patients reported that acute myocardial injury and a high burden of pre-existing cardiovascular disease were significantly associated with higher mortality and ICU admission.[[72]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Lymphopenia is a common laboratory abnormality in most patients with COVID-19. Other laboratory abnormalities include thrombocytopenia, leukopenia, elevated ESR levels, C-reactive protein (CRP), lactate dehydrogenase (LDH), and leukocytosis.
+
+*   COVID-19 is also associated with a hypercoagulable state, evidenced by the high prevalence of venous thromboembolic events. COVID-19 is associated with markedly elevated D-dimer and fibrinogen levels and prolonged prothrombin time (PT) and partial thromboplastin time (aPTT).[[71]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[55]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   GI symptoms (such as diarrhea, nausea, vomiting), anorexia, and abdominal pain are common. A meta-analysis reported that the weighted pool prevalence of diarrhea was 12.4% (95% CI, 8.2% to 17.1%), nausea or vomiting was 9% (95% CI, 5.5% to 12.9%), loss of appetite was 22.3% (95% CI, 11.2% to 34.6%) and abdominal pain was 6.2% (95% CI, 2.6% to 10.3%). The study also reported that the mortality rate among patients with GI symptoms was similar to the overall mortality rate.[[73]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#) Cases of acute mesenteric ischemia and portal vein thrombosis have also been described.[[74]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   An acute increase in aspartate transaminase (AST) and alanine transaminase (ALT) is noted in 14% to 53% of patients with COVID-19 infection.[[75]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Guillain-Barré syndrome (GBS) cases from Northern Italy have also been reported.[[76]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[77]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Acral lesions resembling pseudo chilblains (40.4%) are the most common cutaneous manifestation noted in patients with COVID-19.[[78]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Other cutaneous manifestations include erythematous maculopapular rash (21.3%), vesicular rashes (13%), urticarial rashes (10.9%), vascular rashes (4%) resembling livedo or purpura, and erythema multiforme-like eruptions (3.7%).[[78]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Evaluation
+----------
+
+**Diagnostic Testing in COVID-19**
+
+A nasopharyngeal swab for SARS-CoV-2 nucleic acid using a real-time PCR assay is the standard diagnostic test.[[NIH COVID-19 Treatment Guidelines](https://www.covid19treatmentguidelines.nih.gov/)] Commercial PCR assays have been authorized by the USA Food and Drug Administration (FDA) for the qualitative detection of SARS-CoV-2 virus using specimens obtained from nasopharyngeal swabs as well as other sites such as oropharyngeal, anterior/mid-turbinate nasal swabs, nasopharyngeal aspirates, bronchoalveolar lavage (BAL) and saliva.
+
+The sensitivity of PCR testing depends on multiple factors, including the specimen's adequacy, time from exposure, and specimen source.[[79]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)However, the specificity of most commercial FDA-authorized SARS-CoV-2 PCR assays is nearly 100%, provided there is no cross-contamination during specimen processing. SARS-CoV-2 antigen tests are less sensitive but have a faster turnaround time than molecular PCR testing.[[80]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Despite the numerous antibody tests designed to date, serologic testing has limitations in specificity and sensitivity, and results from different tests vary. According to the NIH guidelines,diagnosing acute SARS-CoV-2 infection based on serologic testing is not recommended. They also stated that there is insufficient evidence to recommend for or against using serologic testing to assess immunity, even if it is used to guide clinical decisions about COVID-19 vaccines/monoclonal antibodies.[[NIH COVID-19 Treatment Guidelines](https://www.covid19treatmentguidelines.nih.gov/)]
+
+**Other Laboratory Assessment**
+
+*   Complete blood count (CBC), a comprehensive metabolic panel (CMP) that includes renal and liver function testing, and a coagulation panel should be performed in all hospitalized patients.
+
+*   Additional tests, such as ESR, C-reactive protein (CRP), ferritin, lactate dehydrogenase, and procalcitonin, can be considered in hospitalized patients. However, their prognostic significance in COVID-19 is not clear.
+
+*   A D-dimer level is required as it guides the use of therapeutic versus prophylactic doses of anticoagulation.
+
+**Imaging ModalitiesThis**s viral illness commonly manifests as pneumonia, so radiological imaging such as chest x-rays, lung ultrasounds, and chest computed tomography (CT) are often obtained. However, there are no guidelines regarding the timing and choice of pulmonary imaging in patients with COVID-19.
+
+When obtained, the chest X-ray usually shows bilateral multifocal alveolar opacities. Pleural effusions can also be demonstrated. The most common CT chest findings in COVID-19 are multifocal bilateral ground glass opacities with consolidation changes, usually in a patchy peripheral distribution.[[81]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Radiologic imaging is not a sensitive method for detecting this disease. A retrospective study of 64 patients with documented COVID-19 reported that 20% had no abnormalities on chest radiographs during the illness.[[82]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)A chest CT is more sensitive than a radiograph but is not specific. No finding on radiographic imaging can completely rule in or rule out COVID-19 illness. Therefore the American College of Radiology (ACR) advises against the routine use of chest CT for screening or diagnosis of COVID-19.[[ACR Position Statement for Diagnosis of COVID-19](https://www.acr.org/Advocacy-and-Economics/ACR-Position-Statements/Recommendations-for-Chest-Radiography-and-CT-for-Suspected-COVID19-Infection)]
+
+Treatment / Management
+----------------------
+
+According to the National Institutes of Health (NIH), the 2 main processes driving the pathogenesis of COVID-19 include replication of the virus in the early phase of the illness and dysregulated immune/inflammatory response to SARS-CoV-2 that leads to systemic tissue damage in the later phase of the disease.[[NIH COVID-19 Treatment Guidelines](https://www.covid19treatmentguidelines.nih.gov/)] The guidelines, therefore, advise antiviral medications to halt viral replication in the early phase of the illness and immunomodulators in the later phase.
+
+Remdesivir is the only antiviral drug approved by the USA Food and Drug Administration(FDA) to treat COVID-19. Ritonavir-boosted nirmatrelvir, molnupiravir,and high-titer COVID-19 convalescent plasma have Emergency Use Authorizations (EUAs) for treating COVID-19. Tixagevimab 300 mg plus cilgavimab 300 mg monoclonal antibodies have received EUAs that allow them to be used as SARS-CoV-2 preexposure prophylaxis (PrEP) in certain patients.
+
+Many other monoclonal antibodies had EUAs; however, as Omicron subvariants emerged, their EUAs were revoked as they were no longer effective.
+
+The most recent NIH treatment guidelines for the management of COVID-19 illness (accessed on January 3rd, 2023) are outlined below:[[NIH COVID-19 Treatment Guidelines](https://www.covid19treatmentguidelines.nih.gov/)]
+
+**Nonhospitalized Adults With Mild-to-Moderate COVID-19 Illness Who Do Not Require Supplemental Oxygen**
+
+*   The NIH recommends against using dexamethasone or any other systemic corticosteroids in patients who are not hypoxic.[[83]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   
+In patients who are at high risk for progression to severe disease, they recommend the following therapies (in order of preference):
+
+    *   
+Ritonavir-boosted nirmatrelvir
+
+        *   Ritonavir-boosted nirmatrelvir is a combination of oral protease inhibitors. It has been shown to reduce hospitalization and death when given to high-risk, unvaccinated, nonhospitalized patients. It must be given within 5 days of symptoms onset.[[84]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+        *   It is a strong cytochrome P450 inhibitor with many drug-drug interactions that must be carefully assessed.
+
+        *   Some interactions can be managed by temporarily holding the medication, some may be managed with dose adjustment, but some may warrant the use of alternate COVID-19 therapy.
+
+        *   Ritonavir-boosted nirmatrelvir is not recommended in patients with an estimated glomerular filtration rate (eGFR) of less than 30 mL/min.
+
+        *   The recommended dose is nirmatrelvir 300 mg with ritonavir 100 mg orally twice daily for 5 days.
+
+    *   
+Remdesivir
+
+        *   This is a nucleotide analog that inhibits the SARS-CoV-2 RNA polymerase
+
+        *   The recommended duration of therapy in this setting is 3 days.
+
+        *   The recommended dose is 200 mg IV on day 1, followed by 100 mg IV for 2 more days.
+
+    *   
+Molnupiravir
+
+        *   It is a mutagenic ribonucleoside antiviral agent.
+
+        *   Fetal toxicity has been reported in animal studies with this agent. Due to the risk of genotoxicity with this agent, it is not recommended in pregnant patients.
+
+        *   This agent should only be used if both therapies are unavailable or cannot be given.
+
+*   The NIH guidelines recommend against using anti-SARS-CoV-2 monoclonal antibodies (mAbs) for treating COVID-19 in this cohort because the Omicron subvariants are not susceptible to these agents.
+
+*   Adequate and close medical follow-up is recommended; however, the frequency and duration of follow-up depend on individual risk factors and the severity of their symptoms.
+
+*   Risk factors for progression to severe disease include advanced age and underlying medical conditions. The CDC maintains an updated list of medical conditions associated with a high risk of progression.
+
+*   
+According to the CDC, conditions with conclusive evidence demonstrating higher risk include:
+
+    *   Asthma
+
+    *   Cancer
+
+    *   Cerebrovascular disease
+
+    *   Chronic kidney disease
+
+    *   Bronchiectasis
+
+    *   COPD (Chronic obstructive pulmonary disease)
+
+    *   Interstitial lung disease
+
+    *   Pulmonary embolism
+
+    *   Pulmonary hypertension
+
+    *   Cirrhosis
+
+    *   Nonalcoholic fatty liver disease
+
+    *   Alcoholic liver disease
+
+    *   Autoimmune hepatitis
+
+    *   Cystic fibrosis
+
+    *   Diabetes, type 1 and 2
+
+    *   Heart conditions (such as heart failure, coronary artery disease, or cardiomyopathies)
+
+    *   HIV (Human immunodeficiency virus)
+
+    *   Mental health conditions such as mood disorders and Schizophrenia spectrum disorders
+
+    *   Obesity (defined as body mass index (BMI) of greater than 30 kg/m 2 or greater than 95th percentile in children)
+
+    *   Pregnancy and recent pregnancy
+
+    *   Smoking, current and former
+
+    *   Solid organ or blood stem cell transplantation
+
+    *   Tuberculosis
+
+**Therapeutic Management of Hospitalized Adults With COVID-19****Who Do Not Require Oxygen**
+
+*   If patients are hospitalized for reasons other than COVID-19 illness and are not on oxygen, their management is similar to nonhospitalized patients.
+
+*   If they are hospitalized for COVID-19 illness but do not require oxygen, the NIH advises against the use of dexamethasone or any other systemic corticosteroid.
+
+*   A prophylactic dose of anticoagulation should be given if there is no contraindication.
+
+*   If they are hospitalized for COVID-19 illness, do not require oxygen, but are at high risk of progression to severe disease, they should be treated with remdesivir.
+
+*   The benefit of remdesivir is greatest when given early, ideally within ten days of symptom onset.
+
+*   Remdesivir should be given for 5 days or until hospital discharge.
+
+**Therapeutic Management of Hospitalized Adults With COVID-19 Who Require Conventional Oxygen**
+
+*   Conventional oxygen is defined as oxygen that is NOT high-flow nasal cannula, noninvasive mechanical ventilation, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO)
+
+*   For most patients in this cohort, the recommended treatment is dexamethasone plus remdesivir.
+
+*   Dexamethasone dose is 6 mg IV or oral (PO) once daily for up to 10 days or until hospital discharge (dexamethasone should not be continued at discharge).[[83]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   If the patient is on minimal oxygen, remdesivir monotherapy (without dexamethasone) should be used.
+
+*   If remdesivir cannot be obtained or given, dexamethasone monotherapy is recommended.
+
+*   If dexamethasone is unavailable, corticosteroids such as prednisone,methylprednisolone, or hydrocortisone may be used.
+
+*   If the patient is already receiving dexamethasone but has rapidly increasing oxygen needs and/or signs of systemic inflammation, oral baricitinib or intravenous (IV) tocilizumab should be added to the treatment regimen as these agents have been shown to improve outcomes in rapidly decompensating patients.[[85]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Alternate immunomodulatory agents for this cohort include oral tofacitinib and IV sarilumab. These agents should only be used if baricitinib and tocilizumab are not available.
+
+*   If the D-dimer level is above normal in this cohort of patients, they recommend therapeutic anticoagulation if the patient is not pregnant and has no increased risk of bleeding.Contraindications for therapeutic anticoagulation in these patients include a platelet count of less than 50 x10^9/L, hemoglobin less than 8 g/dL, use of dual antiplatelet therapy, any significant bleeding within the past 30 days,a history of a bleeding disorder or an inherited or active acquired bleeding disorder.
+
+*   For pregnant patients, a prophylactic dose of anticoagulation is recommended.
+
+**Therapeutic Management of Hospitalized Adults With COVID-19 who Require High-flow Nasal Cannula (HFNC) or Noninvasive Mechanical Ventilation (NIV)**
+
+*   A meta-analysis study evaluating the effectiveness of HFNC compared to conventional oxygen therapy and NIV before mechanical ventilation reported that HFNC, when used before mechanical ventilation, could improve the prognosis of patients compared to conventional oxygen therapy and NIV.[[86]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)HFNC or NIV is associated with decreased dispersion of exhaled air, especially when used with good interface fitting, thus creating a low risk of nosocomial transmission of the infection.[[87]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)However, these treatment modalities are associated with a greater risk of aerosolization and should be used in negative-pressure rooms.[[88]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   According to the NIH, dexamethasone plus oral baricitinib or dexamethasone plus IV tocilizumab are the preferred treatment regimens in these patients.
+
+*   Alternate immunomodulatory agents for this cohort include oral tofacitinib and IV sarilumab.
+
+*   Dexamethasone monotherapy is recommended if baricitinib, tocilizumab, or sarilumab cannot be obtained/given.
+
+*   Clinicians may consider adding remdesivir to corticosteroid and immunomodulator combination regimens in immunocompromised patients who require HFNC or NIV ventilation; however, using remdesivir without immunomodulators is not recommended.
+
+*   A prophylactic dose of anticoagulation is recommended in these patients.
+
+*   If patients were started on a therapeutic dose of heparin while on conventional oxygen therapy, they should be switched to prophylactic dosing at this time unless they have another indication for full anticoagulation.
+
+**Therapeutic Management of Hospitalized Adults With COVID-19 who Require Mechanical Ventilation (MV)**
+
+*   The management of this cohort is the same as those requiring HFNC or NIV, except that remdesivir is not recommended.
+
+*   Remdesivir is most effective earlier in the course of the disease and in patients not on mechanical ventilation or ECMO.
+
+*   According to the NIH, one study showed a slight trend toward an increase in mortality in patients who received remdesivir while on mechanical ventilation or ECMO.[[89]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   With this data in mind, the NIH recommends against using remdesivir in patients receiving MV or ECMO; however, if the patient was started on remdesivir and progressed to requiring mechanical ventilation or ECMO, they recommended continuing remdesivir to complete the treatment course.
+
+**High-Titer COVID-19 Convalescent Plasma (CCP)**
+
+*   The United States Food and Drug Administration (FDA) approved convalescent plasma therapy under a EUA for patients with severe life-threatening COVID-19.[[90]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[91]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)Data from multiple studies evaluating the use of convalescent plasma in life-threatening COVID-19 has generated mixed results. Data from 3 small randomized control trials showed no significant differences in clinical improvement or overall mortality in patients treated with convalescent plasma versus standard therapy.[[92]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[93]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[94]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   According to the NIH, high-titer CCP is not recommended in immunocompetent individuals.
+
+*   However, the NIH states that some experts consider it appropriate for use in immunocompromised individuals. Therefore, the current NIH guidelines state that there is insufficient evidence for or against the use of high-titer CCP for treating COVID-19 in hospitalized or nonhospitalized patients who are immunocompromised.
+
+**Medications/Treatments That Should NOT Be Used for the Treatment of COVID-19 According to the Latest NIH Guidelines[[NIH COVID-19 Treatment Guidelines](https://www.covid19treatmentguidelines.nih.gov/)]**
+
+*   Chloroquine or hydroxychloroquine with or without azithromycin
+
+*   Lopinavir/ritonavir
+
+*   Azithromycin
+
+*   Doxycycline
+
+*   Colchicine
+
+*   Fluvoxamine
+
+*   Ivermectin
+
+*   Inhaled corticosteroids
+
+*   Metformin
+
+*   Excess supplementation of vitamin C, vitamin D, and zinc
+
+*   Interferons alfa, beta, or lambda
+
+*   Nitazoxanide
+
+*   Bamlanivimab plus etesevimab
+
+*   Bebtelovimab
+
+*   Casirivimab plus imdevimab
+
+*   Sotrovimab
+
+**Preexposure Prophylaxis for SARS-CoV-2 Infection**
+
+*   According to the NIH guidelines, tixagevimab plus cilgavimab is authorized by the FDA for preexposure prophylaxis of SARS-CoV-2 in people who are not expected to mount an adequate immune response to COVID-19 vaccination; however, the prevalence of Omicron subvariants that are resistant to tixagevimab plus cilgavimab is noted to be increasing rapidly.
+
+*   In the absence of alternative options, the NIH still recommends tixagevimab 300 mg plus cilgavimab 300 mg at this time.
+
+*   Tixagevimab and cilgavimab are potent anti-spike neutralizing monoclonal antibodies obtained from antibodies isolated from B cells of patients infected with SARS-CoV-2 that have demonstrated neutralizing activity against SARS-CoV-2 virus by binding to nonoverlapping epitopes of the viral spike-protein RBD.[[95]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[96]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)[[97]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   The EUA authorizes its use in adult and pediatric patients with no current evidence of SARS-CoV-2 infection and no recent exposure to SARS-CoV-2-positive individuals. They must be moderately or severely immunocompromised or be on immunosuppressive medications.
+
+Differential Diagnosis
+----------------------
+
+The symptoms of the early stages of the disease are nonspecific. Differential diagnosis should include the possibility of a wide range of infectious and noninfectious respiratory disorders.
+
+*   Community-acquired bacterial pneumonia
+
+*   Viral pneumonia
+
+*   Influenza infection
+
+*   Aspiration pneumonia
+
+*   Pneumocystis jirovecii pneumonia
+
+*   Middle East respiratory syndrome (MERS)
+
+*   Avian influenza A (H7N9) viral infection
+
+*   Avian influenza A (H5N1) viral infection
+
+*   Pulmonary tuberculosis
+
+Prognosis
+---------
+
+The prognosis of COVID-19 depends on various factors, including the patient's age, the severity of illness at presentation, preexisting conditions, how quickly treatment can be implemented, and response to treatment. The WHO currently estimates the global case fatality rate for COVID-19 is 2.2%. Results from a European multicenter prospective cohort study that included 4000 critically ill patients with COVID-19 reported a 90-day mortality of 31%, with higher mortality noted in geriatric patients and patients with diabetes, obesity, and severe ARDS.[[98]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+Complications
+-------------
+
+COVID-19 is a systemic viral illness based on its involvement in multiple major organ systems.
+
+*   Patients with advanced age and comorbid conditions such as obesity, diabetes mellitus, chronic lung disease, cardiovascular disease, chronic kidney disease, chronic liver disease, and neoplastic conditions are at risk of developing severe COVID-19 and its associated complications. The most common complication of severe COVID-19 illness is progressive or sudden clinical deterioration leading to acute respiratory failure and ARDS or multiorgan failure leading to death.
+
+*   Patients with COVID-19 illness are also at increased risk of developing prothrombotic complications such as pulmonary embolisms, myocardial infarctions, ischemic strokes, and arterial thrombosis.[[55]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Cardiovascular system involvement results in malignant arrhythmias, cardiomyopathy, and cardiogenic shock.
+
+*   GI complications such as bowel ischemia, transaminitis, gastrointestinal bleeding, pancreatitis, Ogilvie syndrome, mesenteric ischemia, and severe ileus are often noted in critically ill patients with COVID-19.[[99]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Acute renal failure is the most common extrapulmonary manifestation of COVID-19 and is associated with an increased mortality risk.[[69]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   A meta-analysis study of 14 studies evaluating the prevalence of disseminated intravascular coagulation (DIC) in hospitalized patients with COVID-19 reported that DIC was observed in 3% (95%: 1%-5%, P <0.001) of the included patients. Additionally, DIC was noted to be associated with severe illness and was a poor prognostic indicator.[[100]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   More recent data have emerged regarding prolonged symptoms in patients who have recovered from COVID-19 infection, termed "post-acute COVID-19 syndrome." A large cohort study of 1773 patients performed 6 months after hospitalization with COVID-19 revealed that most exhibited at least one persistent symptom: fatigue, muscle weakness, sleep difficulties, or anxiety. Patients with severe illness also had an increased risk of chronic lung issues.[[101]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   A retrospective cohort study that included 236,379 patients reported substantial neurological (intracranial hemorrhage, ischemic stroke) and psychiatric morbidity (anxiety disorder, psychotic disorder) 6 months after being diagnosed with COVID-19.[[102]](https://www.ncbi.nlm.nih.gov/books/NBK554776/#)
+
+*   Secondary invasive fungal infections such as COVID-19-associated pulmonary aspergillosis and rhino-cerebro-orbital mucormycosis have increasingly been reported as complications in patients recovering from COVID-19. Risk factors for developing secondary fungal infection include comorbid conditions such as uncontrolled diabetes, associated lymphopenia, and excessive use of corticosteroids.
+
+Deterrence and Patient Education
+--------------------------------
+
+The NIH COVID-19 Treatment Guidelines recommend COVID-19 vaccination as soon as possible for all eligible individuals. The CDC’s Advisory Committee on Immunization Practices (AI) determines eligibility eligibility. Four vaccines are authorized or approved in the United States to prevent COVID-19. According to the NIH guidelines, the preferred vaccines include:[[NIH COVID-19 Treatment Guidelines](https://www.covid19treatmentguidelines.nih.gov/)]
+
+*   mRNA vaccine BNT162b2 (Pfizer-BioNTech)
+
+*   mRNA-1273 (Moderna)
+
+*   Recombinant spike protein with matrix-M1 adjuvant vaccine NVX-CoV2373 (Novavax)
+
+The adenovirus vector vaccine Ad26.COV2.S (Johnson & Johnson/Janssen) is less preferred due to its risk of serious adverse events.[[NIH COVID-19 Treatment Guidelines](https://www.covid19treatmentguidelines.nih.gov/)]
+
+A primary series of COVID-19 vaccination is recommended for everyone older than 6 months in the United States. Bivalent mRNA vaccines that protect against the original SARS-CoV-2 virus strain and Omicron subvariants are recommended at least 2 months after receiving the primary vaccine series or a booster dose.[[NIH COVID-19 Treatment Guidelines](https://www.covid19treatmentguidelines.nih.gov/)]
+
+Enhancing Healthcare Team Outcomes
+----------------------------------
+
+SARS-CoV-2 and its variants continue to cause significant morbidity and mortality worldwide. Prevention and management of this highly transmissible respiratory viral illness require a holistic and interprofessional approach that includes physicians' expertise across specialties, nurses, pharmacists, public health experts, and government authorities. There should be open communication among the clinical providers, pharmacists, and nursing staff while managing patients with COVID-19. Each team member should strive to keep abreast of the latest recommendations and guidelines and be free to speak up if they notice anything that does not comply with the latest tenets for managing COVID patients; there is no place for a hierarchy in communication that prohibits any team member from voicing their concerns. This open interprofessional approach will yield the best outcomes.
+
+Clinical providers managing COVID-19 patients on the frontlines should keep themselves periodically updated with the latest clinical guidelines about diagnostic and therapeutic options available in managing COVID-19, especially considering the emergence of new SARS-CoV-2 variants, which could significantly impact morbidity and mortality. Continued viral surveillance of new variants is crucial at regular intervals with viral genomic sequencing, given the possibility that more highly transmissible, more virulent, and treatment-resistant variants could emerge that can have a more catastrophic effect on global health in addition to the current scenario. A multi-pronged approach involving interprofessional team members can improve patient care and outcomes for this potentially devastating disease and help the world end this pandemic.
+
+[![Image 1: An illustration shows how the RNA virus is created](https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/Covid__Replication.gif)](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f1/?report=objectonly "Figure")
+
+#### [Figure](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f1/?report=objectonly)
+
+Covid 19, Corona Replication Contributed by Rohan Bir Singh, MD
+
+[![Image 2: Clinical Presentation of Patients with CoVID-19 Contributed by Rohan Bir Singh, MD; Made with Biorender](https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/Clinical__Presentations__of__Patients__with__Covid-19.gif)](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f2/?report=objectonly "Figure")
+
+#### [Figure](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f2/?report=objectonly)
+
+Clinical Presentation of Patients with CoVID-19 Contributed by Rohan Bir Singh, MD; Made with Biorender.com
+
+[![Image 3: SARS- CoV 2 Structure Contributed by Rohan Bir Singh, MD; Made with Biorender](https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/SARS-CoV__2__Structure.gif)](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f3/?report=objectonly "Figure")
+
+#### [Figure](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f3/?report=objectonly)
+
+SARS- CoV 2 Structure Contributed by Rohan Bir Singh, MD; Made with Biorender.com
+
+[![Image 4: Transmission Cycle of SARS CoV 2 Contributed by Rohan Bir Singh, MD; Made with Biorender](https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/Transmission__Cycle__of__SARS__CoV__2.gif)](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f4/?report=objectonly "Figure")
+
+#### [Figure](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f4/?report=objectonly)
+
+Transmission Cycle of SARS CoV 2 Contributed by Rohan Bir Singh, MD; Made with Biorender.com
+
+[![Image 5: Single-stranded RNA genome of SARS-CoV2 Contributed by Rohan Bir Singh, MD; Made with Biorender](https://www.ncbi.nlm.nih.gov/books/NBK554776/bin/Single__Stranded__RNA__SARS.gif)](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f5/?report=objectonly "Figure")
+
+#### [Figure](https://www.ncbi.nlm.nih.gov/books/NBK554776/figure/article-52171.image.f5/?report=objectonly)
+
+Single-stranded RNA genome of SARS-CoV2 Contributed by Rohan Bir Singh, MD; Made with Biorender.com
+
+References
+----------
+
+1.
+Sharma A, Ahmad Farouk I, Lal SK. COVID-19: A Review on the Novel Coronavirus Disease Evolution, Transmission, Detection, Control and Prevention. Viruses. 2021 Jan 29;13(2) [[PMC free article: PMC7911532](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7911532/)] [[PubMed: 33572857](https://pubmed.ncbi.nlm.nih.gov/33572857)]
+
+2.
+Raman R, Patel KJ, Ranjan K. COVID-19: Unmasking Emerging SARS-CoV-2 Variants, Vaccines and Therapeutic Strategies. Biomolecules. 2021 Jul 06;11(7) [[PMC free article: PMC8301790](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8301790/)] [[PubMed: 34356617](https://pubmed.ncbi.nlm.nih.gov/34356617)]
+
+3.
+Chenchula S, Karunakaran P, Sharma S, Chavan M. Current evidence on efficacy of COVID-19 booster dose vaccination against the Omicron variant: A systematic review. J Med Virol. 2022 Jul;94(7):2969-2976. [[PMC free article: PMC9088621](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9088621/)] [[PubMed: 35246846](https://pubmed.ncbi.nlm.nih.gov/35246846)]
+
+4.
+Chan JF, To KK, Tse H, Jin DY, Yuen KY. Interspecies transmission and emergence of novel viruses: lessons from bats and birds. Trends Microbiol. 2013 Oct;21(10):544-55. [[PMC free article: PMC7126491](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7126491/)] [[PubMed: 23770275](https://pubmed.ncbi.nlm.nih.gov/23770275)]
+
+5.
+Lei J, Kusov Y, Hilgenfeld R. Nsp3 of coronaviruses: Structures and functions of a large multi-domain protein. Antiviral Res. 2018 Jan;149:58-74. [[PMC free article: PMC7113668](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7113668/)] [[PubMed: 29128390](https://pubmed.ncbi.nlm.nih.gov/29128390)]
+
+6.
+Chan JF, Kok KH, Zhu Z, Chu H, To KK, Yuan S, Yuen KY. Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan. Emerg Microbes Infect. 2020;9(1):221-236. [[PMC free article: PMC7067204](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7067204/)] [[PubMed: 31987001](https://pubmed.ncbi.nlm.nih.gov/31987001)]
+
+7.
+Biryukov J, Boydston JA, Dunning RA, Yeager JJ, Wood S, Ferris A, Miller D, Weaver W, Zeitouni NE, Freeburger D, Dabisch P, Wahl V, Hevey MC, Altamura LA. SARS-CoV-2 is rapidly inactivated at high temperature. Environ Chem Lett. 2021;19(2):1773-1777. [[PMC free article: PMC7856623](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7856623/)] [[PubMed: 33551702](https://pubmed.ncbi.nlm.nih.gov/33551702)]
+
+8.
+
+Andersen KG, Rambaut A, Lipkin WI, Holmes EC, Garry RF. The proximal origin of SARS-CoV-2. Nat Med. 2020 Apr;26(4):450-452. [[PMC free article: PMC7095063](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7095063/)] [[PubMed: 32284615](https://pubmed.ncbi.nlm.nih.gov/32284615)]
+
+9.
+Zhang T, Wu Q, Zhang Z. Probable Pangolin Origin of SARS-CoV-2 Associated with the COVID-19 Outbreak. Curr Biol. 2020 Apr 06;30(7):1346-1351.e2. [[PMC free article: PMC7156161](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7156161/)] [[PubMed: 32197085](https://pubmed.ncbi.nlm.nih.gov/32197085)]
+
+10.
+Oreshkova N, Molenaar RJ, Vreman S, Harders F, Oude Munnink BB, Hakze-van der Honing RW, Gerhards N, Tolsma P, Bouwstra R, Sikkema RS, Tacken MG, de Rooij MM, Weesendorp E, Engelsma MY, Bruschke CJ, Smit LA, Koopmans M, van der Poel WH, Stegeman A. SARS-CoV-2 infection in farmed minks, the Netherlands, April and May 2020. Euro Surveill. 2020 Jun;25(23) [[PMC free article: PMC7403642](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7403642/)] [[PubMed: 32553059](https://pubmed.ncbi.nlm.nih.gov/32553059)]
+
+11.
+Korber B, Fischer WM, Gnanakaran S, Yoon H, Theiler J, Abfalterer W, Hengartner N, Giorgi EE, Bhattacharya T, Foley B, Hastie KM, Parker MD, Partridge DG, Evans CM, Freeman TM, de Silva TI, Sheffield COVID-19 Genomics Group. McDanal C, Perez LG, Tang H, Moon-Walker A, Whelan SP, LaBranche CC, Saphire EO, Montefiori DC. Tracking Changes in SARS-CoV-2 Spike: Evidence that D614G Increases Infectivity of the COVID-19 Virus. Cell. 2020 Aug 20;182(4):812-827.e19. [[PMC free article: PMC7332439](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332439/)] [[PubMed: 32697968](https://pubmed.ncbi.nlm.nih.gov/32697968)]
+
+12.
+Galloway SE, Paul P, MacCannell DR, Johansson MA, Brooks JT, MacNeil A, Slayton RB, Tong S, Silk BJ, Armstrong GL, Biggerstaff M, Dugan VG. Emergence of SARS-CoV-2 B.1.1.7 Lineage - United States, December 29, 2020-January 12, 2021. MMWR Morb Mortal Wkly Rep. 2021 Jan 22;70(3):95-99. [[PMC free article: PMC7821772](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7821772/)] [[PubMed: 33476315](https://pubmed.ncbi.nlm.nih.gov/33476315)]
+
+13.
+Volz E, Mishra S, Chand M, Barrett JC, Johnson R, Geidelberg L, Hinsley WR, Laydon DJ, Dabrera G, O'Toole Á, Amato R, Ragonnet-Cronin M, Harrison I, Jackson B, Ariani CV, Boyd O, Loman NJ, McCrone JT, Gonçalves S, Jorgensen D, Myers R, Hill V, Jackson DK, Gaythorpe K, Groves N, Sillitoe J, Kwiatkowski DP, COVID-19 Genomics UK (COG-UK) consortium. Flaxman S, Ratmann O, Bhatt S, Hopkins S, Gandy A, Rambaut A, Ferguson NM. Assessing transmissibility of SARS-CoV-2 lineage B.1.1.7 in England. Nature. 2021 May;593(7858):266-269. [[PubMed: 33767447](https://pubmed.ncbi.nlm.nih.gov/33767447)]
+
+14.
+Wu K, Werner AP, Moliva JI, Koch M, Choi A, Stewart-Jones GBE, Bennett H, Boyoglu-Barnum S, Shi W, Graham BS, Carfi A, Corbett KS, Seder RA, Edwards DK. mRNA-1273 vaccine induces neutralizing antibodies against spike mutants from global SARS-CoV-2 variants. bioRxiv. 2021 Jan 25; [[PubMed: 33501442](https://pubmed.ncbi.nlm.nih.gov/33501442)]
+
+15.
+Davies NG, Abbott S, Barnard RC, Jarvis CI, Kucharski AJ, Munday JD, Pearson CAB, Russell TW, Tully DC, Washburne AD, Wenseleers T, Gimma A, Waites W, Wong KLM, van Zandvoort K, Silverman JD, CMMID COVID-19 Working Group. COVID-19 Genomics UK (COG-UK) Consortium. Diaz-Ordaz K, Keogh R, Eggo RM, Funk S, Jit M, Atkins KE, Edmunds WJ. Estimated transmissibility and impact of SARS-CoV-2 lineage B.1.1.7 in England. Science. 2021 Apr 09;372(6538) [[PMC free article: PMC8128288](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8128288/)] [[PubMed: 33658326](https://pubmed.ncbi.nlm.nih.gov/33658326)]
+
+16.
+Walensky RP, Walke HT, Fauci AS. SARS-CoV-2 Variants of Concern in the United States-Challenges and Opportunities. JAMA. 2021 Mar 16;325(11):1037-1038. [[PMC free article: PMC9009864](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9009864/)] [[PubMed: 33595644](https://pubmed.ncbi.nlm.nih.gov/33595644)]
+
+17.
+Davies NG, Barnard RC, Jarvis CI, Russell TW, Semple MG, Jit M, Edmunds WJ., Centre for Mathematical Modelling of Infectious Diseases COVID-19 Working Group. ISARIC4C investigators. Association of tiered restrictions and a second lockdown with COVID-19 deaths and hospital admissions in England: a modelling study. Lancet Infect Dis. 2021 Apr;21(4):482-492. [[PMC free article: PMC7758181](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7758181/)] [[PubMed: 33357518](https://pubmed.ncbi.nlm.nih.gov/33357518)]
+
+18.
+Challen R, Brooks-Pollock E, Read JM, Dyson L, Tsaneva-Atanasova K, Danon L. Risk of mortality in patients infected with SARS-CoV-2 variant of concern 202012/1: matched cohort study. BMJ. 2021 Mar 09;372:n579. [[PMC free article: PMC7941603](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7941603/)] [[PubMed: 33687922](https://pubmed.ncbi.nlm.nih.gov/33687922)]
+
+19.
+Davies NG, Jarvis CI, CMMID COVID-19 Working Group. Edmunds WJ, Jewell NP, Diaz-Ordaz K, Keogh RH. Increased mortality in community-tested cases of SARS-CoV-2 lineage B.1.1.7. Nature. 2021 May;593(7858):270-274. [[PMC free article: PMC9170116](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9170116/)] [[PubMed: 33723411](https://pubmed.ncbi.nlm.nih.gov/33723411)]
+
+20.
+Grint DJ, Wing K, Williamson E, McDonald HI, Bhaskaran K, Evans D, Evans SJ, Walker AJ, Hickman G, Nightingale E, Schultze A, Rentsch CT, Bates C, Cockburn J, Curtis HJ, Morton CE, Bacon S, Davy S, Wong AY, Mehrkar A, Tomlinson L, Douglas IJ, Mathur R, Blomquist P, MacKenna B, Ingelsby P, Croker R, Parry J, Hester F, Harper S, DeVito NJ, Hulme W, Tazare J, Goldacre B, Smeeth L, Eggo RM. Case fatality risk of the SARS-CoV-2 variant of concern B.1.1.7 in England, 16 November to 5 February. Euro Surveill. 2021 Mar;26(11) [[PMC free article: PMC7976383](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7976383/)] [[PubMed: 33739254](https://pubmed.ncbi.nlm.nih.gov/33739254)]
+
+21.
+Tegally H, Wilkinson E, Giovanetti M, Iranzadeh A, Fonseca V, Giandhari J, Doolabh D, Pillay S, San EJ, Msomi N, Mlisana K, von Gottberg A, Walaza S, Allam M, Ismail A, Mohale T, Glass AJ, Engelbrecht S, Van Zyl G, Preiser W, Petruccione F, Sigal A, Hardie D, Marais G, Hsiao NY, Korsman S, Davies MA, Tyers L, Mudau I, York D, Maslo C, Goedhals D, Abrahams S, Laguda-Akingba O, Alisoltani-Dehkordi A, Godzik A, Wibmer CK, Sewell BT, Lourenço J, Alcantara LCJ, Kosakovsky Pond SL, Weaver S, Martin D, Lessells RJ, Bhiman JN, Williamson C, de Oliveira T. Detection of a SARS-CoV-2 variant of concern in South Africa. Nature. 2021 Apr;592(7854):438-443. [[PubMed: 33690265](https://pubmed.ncbi.nlm.nih.gov/33690265)]
+
+22.
+Wibmer CK, Ayres F, Hermanus T, Madzivhandila M, Kgagudi P, Oosthuysen B, Lambson BE, de Oliveira T, Vermeulen M, van der Berg K, Rossouw T, Boswell M, Ueckermann V, Meiring S, von Gottberg A, Cohen C, Morris L, Bhiman JN, Moore PL. SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma. bioRxiv. 2021 Mar 01; [[PubMed: 33501446](https://pubmed.ncbi.nlm.nih.gov/33501446)]
+
+23.
+Mwenda M, Saasa N, Sinyange N, Busby G, Chipimo PJ, Hendry J, Kapona O, Yingst S, Hines JZ, Minchella P, Simulundu E, Changula K, Nalubamba KS, Sawa H, Kajihara M, Yamagishi J, Kapin'a M, Kapata N, Fwoloshi S, Zulu P, Mulenga LB, Agolory S, Mukonka V, Bridges DJ. Detection of B.1.351 SARS-CoV-2 Variant Strain - Zambia, December 2020. MMWR Morb Mortal Wkly Rep. 2021 Feb 26;70(8):280-282. [[PMC free article: PMC8344984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8344984/)] [[PubMed: 33630820](https://pubmed.ncbi.nlm.nih.gov/33630820)]
+
+24.
+Wang P, Casner RG, Nair MS, Wang M, Yu J, Cerutti G, Liu L, Kwong PD, Huang Y, Shapiro L, Ho DD. Increased Resistance of SARS-CoV-2 Variant P.1 to Antibody Neutralization. bioRxiv. 2021 Apr 09; [[PMC free article: PMC8053237](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8053237/)] [[PubMed: 33688656](https://pubmed.ncbi.nlm.nih.gov/33688656)]
+
+25.
+Faria NR, Mellan TA, Whittaker C, Claro IM, Candido DDS, Mishra S, Crispim MAE, Sales FC, Hawryluk I, McCrone JT, Hulswit RJG, Franco LAM, Ramundo MS, de Jesus JG, Andrade PS, Coletti TM, Ferreira GM, Silva CAM, Manuli ER, Pereira RHM, Peixoto PS, Kraemer MU, Gaburo N, Camilo CDC, Hoeltgebaum H, Souza WM, Rocha EC, de Souza LM, de Pinho MC, Araujo LJT, Malta FSV, de Lima AB, Silva JDP, Zauli DAG, de S Ferreira AC, Schnekenberg RP, Laydon DJ, Walker PGT, Schlüter HM, Dos Santos ALP, Vidal MS, Del Caro VS, Filho RMF, Dos Santos HM, Aguiar RS, Modena JLP, Nelson B, Hay JA, Monod M, Miscouridou X, Coupland H, Sonabend R, Vollmer M, Gandy A, Suchard MA, Bowden TA, Pond SLK, Wu CH, Ratmann O, Ferguson NM, Dye C, Loman NJ, Lemey P, Rambaut A, Fraiji NA, Carvalho MDPSS, Pybus OG, Flaxman S, Bhatt S, Sabino EC. Genomics and epidemiology of a novel SARS-CoV-2 lineage in Manaus, Brazil. medRxiv. 2021 Mar 03; [[PMC free article: PMC8139423](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8139423/)] [[PubMed: 33688664](https://pubmed.ncbi.nlm.nih.gov/33688664)]
+
+26.
+
+Vaughan A. Omicron emerges. New Sci. 2021 Dec 04;252(3363):7. [[PMC free article: PMC8639363](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8639363/)] [[PubMed: 34876769](https://pubmed.ncbi.nlm.nih.gov/34876769)]
+
+27.
+Callaway E. Heavily mutated Omicron variant puts scientists on alert. Nature. 2021 Dec;600(7887):21. [[PubMed: 34824381](https://pubmed.ncbi.nlm.nih.gov/34824381)]
+
+28.
+Gu H, Krishnan P, Ng DYM, Chang LDJ, Liu GYZ, Cheng SSM, Hui MMY, Fan MCY, Wan JHL, Lau LHK, Cowling BJ, Peiris M, Poon LLM. Probable Transmission of SARS-CoV-2 Omicron Variant in Quarantine Hotel, Hong Kong, China, November 2021. Emerg Infect Dis. 2022 Feb;28(2):460-462. [[PMC free article: PMC8798678](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8798678/)] [[PubMed: 34860154](https://pubmed.ncbi.nlm.nih.gov/34860154)]
+
+29.
+van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, Tamin A, Harcourt JL, Thornburg NJ, Gerber SI, Lloyd-Smith JO, de Wit E, Munster VJ. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1. N Engl J Med. 2020 Apr 16;382(16):1564-1567. [[PMC free article: PMC7121658](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7121658/)] [[PubMed: 32182409](https://pubmed.ncbi.nlm.nih.gov/32182409)]
+
+30.
+Riddell S, Goldie S, Hill A, Eagles D, Drew TW. The effect of temperature on persistence of SARS-CoV-2 on common surfaces. Virol J. 2020 Oct 07;17(1):145. [[PMC free article: PMC7538848](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538848/)] [[PubMed: 33028356](https://pubmed.ncbi.nlm.nih.gov/33028356)]
+
+31.
+Guo ZD, Wang ZY, Zhang SF, Li X, Li L, Li C, Cui Y, Fu RB, Dong YZ, Chi XY, Zhang MY, Liu K, Cao C, Liu B, Zhang K, Gao YW, Lu B, Chen W. Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020. Emerg Infect Dis. 2020 Jul;26(7):1583-1591. [[PMC free article: PMC7323510](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323510/)] [[PubMed: 32275497](https://pubmed.ncbi.nlm.nih.gov/32275497)]
+
+32.
+Yeo C, Kaushal S, Yeo D. Enteric involvement of coronaviruses: is faecal-oral transmission of SARS-CoV-2 possible? Lancet Gastroenterol Hepatol. 2020 Apr;5(4):335-337. [[PMC free article: PMC7130008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7130008/)] [[PubMed: 32087098](https://pubmed.ncbi.nlm.nih.gov/32087098)]
+
+33.
+Kotlyar AM, Grechukhina O, Chen A, Popkhadze S, Grimshaw A, Tal O, Taylor HS, Tal R. Vertical transmission of coronavirus disease 2019: a systematic review and meta-analysis. Am J Obstet Gynecol. 2021 Jan;224(1):35-53.e3. [[PMC free article: PMC7392880](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7392880/)] [[PubMed: 32739398](https://pubmed.ncbi.nlm.nih.gov/32739398)]
+
+34.
+Ahmad FB, Cisewski JA, Miniño A, Anderson RN. Provisional Mortality Data - United States, 2020. MMWR Morb Mortal Wkly Rep. 2021 Apr 09;70(14):519-522. [[PMC free article: PMC8030985](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8030985/)] [[PubMed: 33830988](https://pubmed.ncbi.nlm.nih.gov/33830988)]
+
+35.
+Stokes EK, Zambrano LD, Anderson KN, Marder EP, Raz KM, El Burai Felix S, Tie Y, Fullerton KE. Coronavirus Disease 2019 Case Surveillance - United States, January 22-May 30, 2020. MMWR Morb Mortal Wkly Rep. 2020 Jun 19;69(24):759-765. [[PMC free article: PMC7302472](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302472/)] [[PubMed: 32555134](https://pubmed.ncbi.nlm.nih.gov/32555134)]
+
+36.
+Gebhard C, Regitz-Zagrosek V, Neuhauser HK, Morgan R, Klein SL. Impact of sex and gender on COVID-19 outcomes in Europe. Biol Sex Differ. 2020 May 25;11(1):29. [[PMC free article: PMC7247289](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7247289/)] [[PubMed: 32450906](https://pubmed.ncbi.nlm.nih.gov/32450906)]
+
+37.
+Jin JM, Bai P, He W, Wu F, Liu XF, Han DM, Liu S, Yang JK. Gender Differences in Patients With COVID-19: Focus on Severity and Mortality. Front Public Health. 2020;8:152. [[PMC free article: PMC7201103](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7201103/)] [[PubMed: 32411652](https://pubmed.ncbi.nlm.nih.gov/32411652)]
+
+38.
+Finelli L, Gupta V, Petigara T, Yu K, Bauer KA, Puzniak LA. Mortality Among US Patients Hospitalized With SARS-CoV-2 Infection in 2020. JAMA Netw Open. 2021 Apr 01;4(4):e216556. [[PMC free article: PMC8033442](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8033442/)] [[PubMed: 33830226](https://pubmed.ncbi.nlm.nih.gov/33830226)]
+
+39.
+Romano SD, Blackstock AJ, Taylor EV, El Burai Felix S, Adjei S, Singleton CM, Fuld J, Bruce BB, Boehmer TK. Trends in Racial and Ethnic Disparities in COVID-19 Hospitalizations, by Region - United States, March-December 2020. MMWR Morb Mortal Wkly Rep. 2021 Apr 16;70(15):560-565. [[PMC free article: PMC8344991](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8344991/)] [[PubMed: 33857068](https://pubmed.ncbi.nlm.nih.gov/33857068)]
+
+40.
+Sze S, Pan D, Nevill CR, Gray LJ, Martin CA, Nazareth J, Minhas JS, Divall P, Khunti K, Abrams KR, Nellums LB, Pareek M. Ethnicity and clinical outcomes in COVID-19: A systematic review and meta-analysis. EClinicalMedicine. 2020 Dec;29:100630. [[PMC free article: PMC7658622](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7658622/)] [[PubMed: 33200120](https://pubmed.ncbi.nlm.nih.gov/33200120)]
+
+41.
+Heslin KC, Hall JE. Sexual Orientation Disparities in Risk Factors for Adverse COVID-19-Related Outcomes, by Race/Ethnicity - Behavioral Risk Factor Surveillance System, United States, 2017-2019. MMWR Morb Mortal Wkly Rep. 2021 Feb 05;70(5):149-154. [[PMC free article: PMC7861482](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7861482/)] [[PubMed: 33539330](https://pubmed.ncbi.nlm.nih.gov/33539330)]
+
+42.
+Jiang S, Hillyer C, Du L. Neutralizing Antibodies against SARS-CoV-2 and Other Human Coronaviruses: (Trends in Immunology 41, 355-359; 2020). Trends Immunol. 2020 Jun;41(6):545. [[PMC free article: PMC7129017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7129017/)] [[PubMed: 32362491](https://pubmed.ncbi.nlm.nih.gov/32362491)]
+
+43.
+Du L, He Y, Zhou Y, Liu S, Zheng BJ, Jiang S. The spike protein of SARS-CoV--a target for vaccine and therapeutic development. Nat Rev Microbiol. 2009 Mar;7(3):226-36. [[PMC free article: PMC2750777](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2750777/)] [[PubMed: 19198616](https://pubmed.ncbi.nlm.nih.gov/19198616)]
+
+44.
+Jiang S, Hillyer C, Du L. Neutralizing Antibodies against SARS-CoV-2 and Other Human Coronaviruses. Trends Immunol. 2020 May;41(5):355-359. [[PMC free article: PMC7129017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7129017/)] [[PubMed: 32249063](https://pubmed.ncbi.nlm.nih.gov/32249063)]
+
+45.
+Song W, Gui M, Wang X, Xiang Y. Cryo-EM structure of the SARS coronavirus spike glycoprotein in complex with its host cell receptor ACE2. PLoS Pathog. 2018 Aug;14(8):e1007236. [[PMC free article: PMC6107290](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6107290/)] [[PubMed: 30102747](https://pubmed.ncbi.nlm.nih.gov/30102747)]
+
+46.
+de Abajo FJ, Rodríguez-Martín S, Lerma V, Mejía-Abril G, Aguilar M, García-Luque A, Laredo L, Laosa O, Centeno-Soto GA, Ángeles Gálvez M, Puerro M, González-Rojano E, Pedraza L, de Pablo I, Abad-Santos F, Rodríguez-Mañas L, Gil M, Tobías A, Rodríguez-Miguel A, Rodríguez-Puyol D., MED-ACE2-COVID19 study group. Use of renin-angiotensin-aldosterone system inhibitors and risk of COVID-19 requiring admission to hospital: a case-population study. Lancet. 2020 May 30;395(10238):1705-1714. [[PMC free article: PMC7255214](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7255214/)] [[PubMed: 32416785](https://pubmed.ncbi.nlm.nih.gov/32416785)]
+
+47.
+Xu H, Zhong L, Deng J, Peng J, Dan H, Zeng X, Li T, Chen Q. High expression of ACE2 receptor of 2019-nCoV on the epithelial cells of oral mucosa. Int J Oral Sci. 2020 Feb 24;12(1):8. [[PMC free article: PMC7039956](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7039956/)] [[PubMed: 32094336](https://pubmed.ncbi.nlm.nih.gov/32094336)]
+
+48.
+Hoffmann M, Kleine-Weber H, Schroeder S, Krüger N, Herrler T, Erichsen S, Schiergens TS, Herrler G, Wu NH, Nitsche A, Müller MA, Drosten C, Pöhlmann S. SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. Cell. 2020 Apr 16;181(2):271-280.e8. [[PMC free article: PMC7102627](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7102627/)] [[PubMed: 32142651](https://pubmed.ncbi.nlm.nih.gov/32142651)]
+
+49.
+Wang J, Jiang M, Chen X, Montaner LJ. Cytokine storm and leukocyte changes in mild versus severe SARS-CoV-2 infection: Review of 3939 COVID-19 patients in China and emerging pathogenesis and therapy concepts. J Leukoc Biol. 2020 Jul;108(1):17-41. [[PMC free article: PMC7323250](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323250/)] [[PubMed: 32534467](https://pubmed.ncbi.nlm.nih.gov/32534467)]
+
+50.
+Azkur AK, Akdis M, Azkur D, Sokolowska M, van de Veen W, Brüggen MC, O'Mahony L, Gao Y, Nadeau K, Akdis CA. Immune response to SARS-CoV-2 and mechanisms of immunopathological changes in COVID-19. Allergy. 2020 Jul;75(7):1564-1581. [[PMC free article: PMC7272948](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7272948/)] [[PubMed: 32396996](https://pubmed.ncbi.nlm.nih.gov/32396996)]
+
+51.
+
+Teuwen LA, Geldhof V, Pasut A, Carmeliet P. COVID-19: the vasculature unleashed. Nat Rev Immunol. 2020 Jul;20(7):389-391. [[PMC free article: PMC7240244](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7240244/)] [[PubMed: 32439870](https://pubmed.ncbi.nlm.nih.gov/32439870)]
+
+52.
+Ackermann M, Verleden SE, Kuehnel M, Haverich A, Welte T, Laenger F, Vanstapel A, Werlein C, Stark H, Tzankov A, Li WW, Li VW, Mentzer SJ, Jonigk D. Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19. N Engl J Med. 2020 Jul 09;383(2):120-128. [[PMC free article: PMC7412750](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7412750/)] [[PubMed: 32437596](https://pubmed.ncbi.nlm.nih.gov/32437596)]
+
+53.
+van de Veerdonk FL, Netea MG, van Deuren M, van der Meer JW, de Mast Q, Brüggemann RJ, van der Hoeven H. Kallikrein-kinin blockade in patients with COVID-19 to prevent acute respiratory distress syndrome. Elife. 2020 Apr 27;9 [[PMC free article: PMC7213974](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7213974/)] [[PubMed: 32338605](https://pubmed.ncbi.nlm.nih.gov/32338605)]
+
+54.
+Conti P, Ronconi G, Caraffa A, Gallenga CE, Ross R, Frydas I, Kritas SK. Induction of pro-inflammatory cytokines (IL-1 and IL-6) and lung inflammation by Coronavirus-19 (COVI-19 or SARS-CoV-2): anti-inflammatory strategies. 2020 March-April,J Biol Regul Homeost Agents. 34(2):327-331. [[PubMed: 32171193](https://pubmed.ncbi.nlm.nih.gov/32171193)]
+
+55.
+Coopersmith CM, Antonelli M, Bauer SR, Deutschman CS, Evans LE, Ferrer R, Hellman J, Jog S, Kesecioglu J, Kissoon N, Martin-Loeches I, Nunnally ME, Prescott HC, Rhodes A, Talmor D, Tissieres P, De Backer D. The Surviving Sepsis Campaign: Research Priorities for Coronavirus Disease 2019 in Critical Illness. Crit Care Med. 2021 Apr 01;49(4):598-622. [[PubMed: 33591008](https://pubmed.ncbi.nlm.nih.gov/33591008)]
+
+56.
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. [[PMC free article: PMC7159299](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7159299/)] [[PubMed: 31986264](https://pubmed.ncbi.nlm.nih.gov/31986264)]
+
+57.
+Guo T, Fan Y, Chen M, Wu X, Zhang L, He T, Wang H, Wan J, Wang X, Lu Z. Cardiovascular Implications of Fatal Outcomes of Patients With Coronavirus Disease 2019 (COVID-19). JAMA Cardiol. 2020 Jul 01;5(7):811-818. [[PMC free article: PMC7101506](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7101506/)] [[PubMed: 32219356](https://pubmed.ncbi.nlm.nih.gov/32219356)]
+
+58.
+Tan L, Wang Q, Zhang D, Ding J, Huang Q, Tang YQ, Wang Q, Miao H. Lymphopenia predicts disease severity of COVID-19: a descriptive and predictive study. Signal Transduct Target Ther. 2020 Mar 27;5(1):33. [[PMC free article: PMC7100419](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7100419/)] [[PubMed: 32296069](https://pubmed.ncbi.nlm.nih.gov/32296069)]
+
+59.
+Abou-Ismail MY, Diamond A, Kapoor S, Arafah Y, Nayak L. The hypercoagulable state in COVID-19: Incidence, pathophysiology, and management. Thromb Res. 2020 Oct;194:101-115. [[PMC free article: PMC7305763](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7305763/)] [[PubMed: 32788101](https://pubmed.ncbi.nlm.nih.gov/32788101)]
+
+60.
+Amgalan A, Othman M. Exploring possible mechanisms for COVID-19 induced thrombocytopenia: Unanswered questions. J Thromb Haemost. 2020 Jun;18(6):1514-1516. [[PMC free article: PMC7262247](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7262247/)] [[PubMed: 32278338](https://pubmed.ncbi.nlm.nih.gov/32278338)]
+
+61.
+Lauer SA, Grantz KH, Bi Q, Jones FK, Zheng Q, Meredith HR, Azman AS, Reich NG, Lessler J. The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Ann Intern Med. 2020 May 05;172(9):577-582. [[PMC free article: PMC7081172](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7081172/)] [[PubMed: 32150748](https://pubmed.ncbi.nlm.nih.gov/32150748)]
+
+62.
+Mizumoto K, Kagaya K, Zarebski A, Chowell G. Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020. Euro Surveill. 2020 Mar;25(10) [[PMC free article: PMC7078829](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7078829/)] [[PubMed: 32183930](https://pubmed.ncbi.nlm.nih.gov/32183930)]
+
+63.
+Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung SM, Hayashi K, Kinoshita R, Yang Y, Yuan B, Akhmetzhanov AR, Linton NM. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). Int J Infect Dis. 2020 May;94:154-155. [[PMC free article: PMC7270890](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270890/)] [[PubMed: 32179137](https://pubmed.ncbi.nlm.nih.gov/32179137)]
+
+64.
+Zhu J, Zhong Z, Ji P, Li H, Li B, Pang J, Zhang J, Zhao C. Clinicopathological characteristics of 8697 patients with COVID-19 in China: a meta-analysis. Fam Med Community Health. 2020 Apr;8(2) [[PMC free article: PMC7229787](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7229787/)] [[PubMed: 32371463](https://pubmed.ncbi.nlm.nih.gov/32371463)]
+
+65.
+Li J, Huang DQ, Zou B, Yang H, Hui WZ, Rui F, Yee NTS, Liu C, Nerurkar SN, Kai JCY, Teng MLP, Li X, Zeng H, Borghi JA, Henry L, Cheung R, Nguyen MH. Epidemiology of COVID-19: A systematic review and meta-analysis of clinical characteristics, risk factors, and outcomes. J Med Virol. 2021 Mar;93(3):1449-1458. [[PMC free article: PMC7436673](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7436673/)] [[PubMed: 32790106](https://pubmed.ncbi.nlm.nih.gov/32790106)]
+
+66.
+Yang AP, Liu JP, Tao WQ, Li HM. The diagnostic and predictive role of NLR, d-NLR and PLR in COVID-19 patients. Int Immunopharmacol. 2020 Jul;84:106504. [[PMC free article: PMC7152924](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7152924/)] [[PubMed: 32304994](https://pubmed.ncbi.nlm.nih.gov/32304994)]
+
+67.
+ARDS Definition Task Force. Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. [[PubMed: 22797452](https://pubmed.ncbi.nlm.nih.gov/22797452)]
+
+68.
+Ferrando C, Suarez-Sipmann F, Mellado-Artigas R, Hernández M, Gea A, Arruti E, Aldecoa C, Martínez-Pallí G, Martínez-González MA, Slutsky AS, Villar J., COVID-19 Spanish ICU Network. Clinical features, ventilatory management, and outcome of ARDS caused by COVID-19 are similar to other causes of ARDS. Intensive Care Med. 2020 Dec;46(12):2200-2211. [[PMC free article: PMC7387884](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7387884/)] [[PubMed: 32728965](https://pubmed.ncbi.nlm.nih.gov/32728965)]
+
+69.
+Martinez-Rojas MA, Vega-Vega O, Bobadilla NA. Is the kidney a target of SARS-CoV-2? Am J Physiol Renal Physiol. 2020 Jun 01;318(6):F1454-F1462. [[PMC free article: PMC7303722](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7303722/)] [[PubMed: 32412303](https://pubmed.ncbi.nlm.nih.gov/32412303)]
+
+70.
+Hirsch JS, Ng JH, Ross DW, Sharma P, Shah HH, Barnett RL, Hazzan AD, Fishbane S, Jhaveri KD., Northwell COVID-19 Research Consortium. Northwell Nephrology COVID-19 Research Consortium. Acute kidney injury in patients hospitalized with COVID-19. Kidney Int. 2020 Jul;98(1):209-218. [[PMC free article: PMC7229463](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7229463/)] [[PubMed: 32416116](https://pubmed.ncbi.nlm.nih.gov/32416116)]
+
+71.
+Gupta A, Madhavan MV, Sehgal K, Nair N, Mahajan S, Sehrawat TS, Bikdeli B, Ahluwalia N, Ausiello JC, Wan EY, Freedberg DE, Kirtane AJ, Parikh SA, Maurer MS, Nordvig AS, Accili D, Bathon JM, Mohan S, Bauer KA, Leon MB, Krumholz HM, Uriel N, Mehra MR, Elkind MSV, Stone GW, Schwartz A, Ho DD, Bilezikian JP, Landry DW. Extrapulmonary manifestations of COVID-19. Nat Med. 2020 Jul;26(7):1017-1032. [[PMC free article: PMC11972613](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11972613/)] [[PubMed: 32651579](https://pubmed.ncbi.nlm.nih.gov/32651579)]
+
+72.
+Hessami A, Shamshirian A, Heydari K, Pourali F, Alizadeh-Navaei R, Moosazadeh M, Abrotan S, Shojaie L, Sedighi S, Shamshirian D, Rezaei N. Cardiovascular diseases burden in COVID-19: Systematic review and meta-analysis. Am J Emerg Med. 2021 Aug;46:382-391. [[PMC free article: PMC7561581](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561581/)] [[PubMed: 33268238](https://pubmed.ncbi.nlm.nih.gov/33268238)]
+
+73.
+Tariq R, Saha S, Furqan F, Hassett L, Pardi D, Khanna S. Prevalence and Mortality of COVID-19 Patients With Gastrointestinal Symptoms: A Systematic Review and Meta-analysis. Mayo Clin Proc. 2020 Aug;95(8):1632-1648. [[PMC free article: PMC7284248](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284248/)] [[PubMed: 32753138](https://pubmed.ncbi.nlm.nih.gov/32753138)]
+
+74.
+Azouz E, Yang S, Monnier-Cholley L, Arrivé L. Systemic arterial thrombosis and acute mesenteric ischemia in a patient with COVID-19. Intensive Care Med. 2020 Jul;46(7):1464-1465. [[PMC free article: PMC7232609](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7232609/)] [[PubMed: 32424482](https://pubmed.ncbi.nlm.nih.gov/32424482)]
+
+75.
+Xu L, Liu J, Lu M, Yang D, Zheng X. Liver injury during highly pathogenic human coronavirus infections. Liver Int. 2020 May;40(5):998-1004. [[PMC free article: PMC7228361](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228361/)] [[PubMed: 32170806](https://pubmed.ncbi.nlm.nih.gov/32170806)]
+
+76.
+Toscano G, Palmerini F, Ravaglia S, Ruiz L, Invernizzi P, Cuzzoni MG, Franciotta D, Baldanti F, Daturi R, Postorino P, Cavallini A, Micieli G. Guillain-Barré Syndrome Associated with SARS-CoV-2. N Engl J Med. 2020 Jun 25;382(26):2574-2576. [[PMC free article: PMC7182017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7182017/)] [[PubMed: 32302082](https://pubmed.ncbi.nlm.nih.gov/32302082)]
+
+77.
+Zubair AS, McAlpine LS, Gardin T, Farhadian S, Kuruvilla DE, Spudich S. Neuropathogenesis and Neurologic Manifestations of the Coronaviruses in the Age of Coronavirus Disease 2019: A Review. JAMA Neurol. 2020 Aug 01;77(8):1018-1027. [[PMC free article: PMC7484225](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484225/)] [[PubMed: 32469387](https://pubmed.ncbi.nlm.nih.gov/32469387)]
+
+78.
+Daneshgaran G, Dubin DP, Gould DJ. Cutaneous Manifestations of COVID-19: An Evidence-Based Review. Am J Clin Dermatol. 2020 Oct;21(5):627-639. [[PMC free article: PMC7456663](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7456663/)] [[PubMed: 32865778](https://pubmed.ncbi.nlm.nih.gov/32865778)]
+
+79.
+Wiersinga WJ, Rhodes A, Cheng AC, Peacock SJ, Prescott HC. Pathophysiology, Transmission, Diagnosis, and Treatment of Coronavirus Disease 2019 (COVID-19): A Review. JAMA. 2020 Aug 25;324(8):782-793. [[PubMed: 32648899](https://pubmed.ncbi.nlm.nih.gov/32648899)]
+
+80.
+Gandhi RT, Lynch JB, Del Rio C. Mild or Moderate Covid-19. N Engl J Med. 2020 Oct 29;383(18):1757-1766. [[PubMed: 32329974](https://pubmed.ncbi.nlm.nih.gov/32329974)]
+
+81.
+Bao C, Liu X, Zhang H, Li Y, Liu J. Coronavirus Disease 2019 (COVID-19) CT Findings: A Systematic Review and Meta-analysis. J Am Coll Radiol. 2020 Jun;17(6):701-709. [[PMC free article: PMC7151282](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151282/)] [[PubMed: 32283052](https://pubmed.ncbi.nlm.nih.gov/32283052)]
+
+82.
+Wong HYF, Lam HYS, Fong AH, Leung ST, Chin TW, Lo CSY, Lui MM, Lee JCY, Chiu KW, Chung TW, Lee EYP, Wan EYF, Hung IFN, Lam TPW, Kuo MD, Ng MY. Frequency and Distribution of Chest Radiographic Findings in Patients Positive for COVID-19. Radiology. 2020 Aug;296(2):E72-E78. [[PMC free article: PMC7233401](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233401/)] [[PubMed: 32216717](https://pubmed.ncbi.nlm.nih.gov/32216717)]
+
+83.
+RECOVERY Collaborative Group. Horby P, Lim WS, Emberson JR, Mafham M, Bell JL, Linsell L, Staplin N, Brightling C, Ustianowski A, Elmahi E, Prudon B, Green C, Felton T, Chadwick D, Rege K, Fegan C, Chappell LC, Faust SN, Jaki T, Jeffery K, Montgomery A, Rowan K, Juszczak E, Baillie JK, Haynes R, Landray MJ. Dexamethasone in Hospitalized Patients with Covid-19. N Engl J Med. 2021 Feb 25;384(8):693-704. [[PMC free article: PMC7383595](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7383595/)] [[PubMed: 32678530](https://pubmed.ncbi.nlm.nih.gov/32678530)]
+
+84.
+Hammond J, Leister-Tebbe H, Gardner A, Abreu P, Bao W, Wisemandle W, Baniecki M, Hendrick VM, Damle B, Simón-Campos A, Pypstra R, Rusnak JM., EPIC-HR Investigators. Oral Nirmatrelvir for High-Risk, Nonhospitalized Adults with Covid-19. N Engl J Med. 2022 Apr 14;386(15):1397-1408. [[PMC free article: PMC8908851](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8908851/)] [[PubMed: 35172054](https://pubmed.ncbi.nlm.nih.gov/35172054)]
+
+85.
+REMAP-CAP Investigators. Gordon AC, Mouncey PR, Al-Beidh F, Rowan KM, Nichol AD, Arabi YM, Annane D, Beane A, van Bentum-Puijk W, Berry LR, Bhimani Z, Bonten MJM, Bradbury CA, Brunkhorst FM, Buzgau A, Cheng AC, Detry MA, Duffy EJ, Estcourt LJ, Fitzgerald M, Goossens H, Haniffa R, Higgins AM, Hills TE, Horvat CM, Lamontagne F, Lawler PR, Leavis HL, Linstrum KM, Litton E, Lorenzi E, Marshall JC, Mayr FB, McAuley DF, McGlothlin A, McGuinness SP, McVerry BJ, Montgomery SK, Morpeth SC, Murthy S, Orr K, Parke RL, Parker JC, Patanwala AE, Pettilä V, Rademaker E, Santos MS, Saunders CT, Seymour CW, Shankar-Hari M, Sligl WI, Turgeon AF, Turner AM, van de Veerdonk FL, Zarychanski R, Green C, Lewis RJ, Angus DC, McArthur CJ, Berry S, Webb SA, Derde LPG. Interleukin-6 Receptor Antagonists in Critically Ill Patients with Covid-19. N Engl J Med. 2021 Apr 22;384(16):1491-1502. [[PMC free article: PMC7953461](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7953461/)] [[PubMed: 33631065](https://pubmed.ncbi.nlm.nih.gov/33631065)]
+
+86.
+Ni YN, Luo J, Yu H, Liu D, Liang BM, Liang ZA. The effect of high-flow nasal cannula in reducing the mortality and the rate of endotracheal intubation when used before mechanical ventilation compared with conventional oxygen therapy and noninvasive positive pressure ventilation. A systematic review and meta-analysis. Am J Emerg Med. 2018 Feb;36(2):226-233. [[PubMed: 28780231](https://pubmed.ncbi.nlm.nih.gov/28780231)]
+
+87.
+Hui DS, Chow BK, Lo T, Tsang OTY, Ko FW, Ng SS, Gin T, Chan MTV. Exhaled air dispersion during high-flow nasal cannula therapy _versus_ CPAP _via_ different masks. Eur Respir J. 2019 Apr;53(4) [[PubMed: 30705129](https://pubmed.ncbi.nlm.nih.gov/30705129)]
+
+88.
+Grieco DL, Menga LS, Cesarano M, Rosà T, Spadaro S, Bitondo MM, Montomoli J, Falò G, Tonetti T, Cutuli SL, Pintaudi G, Tanzarella ES, Piervincenzi E, Bongiovanni F, Dell'Anna AM, Delle Cese L, Berardi C, Carelli S, Bocci MG, Montini L, Bello G, Natalini D, De Pascale G, Velardo M, Volta CA, Ranieri VM, Conti G, Maggiore SM, Antonelli M., COVID-ICU Gemelli Study Group. Effect of Helmet Noninvasive Ventilation vs High-Flow Nasal Oxygen on Days Free of Respiratory Support in Patients With COVID-19 and Moderate to Severe Hypoxemic Respiratory Failure: The HENIVOT Randomized Clinical Trial. JAMA. 2021 May 04;325(17):1731-1743. [[PMC free article: PMC7995134](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7995134/)] [[PubMed: 33764378](https://pubmed.ncbi.nlm.nih.gov/33764378)]
+
+89.
+WHO Solidarity Trial Consortium. Remdesivir and three other drugs for hospitalised patients with COVID-19: final results of the WHO Solidarity randomised trial and updated meta-analyses. Lancet. 2022 May 21;399(10339):1941-1953. [[PMC free article: PMC9060606](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9060606/)] [[PubMed: 35512728](https://pubmed.ncbi.nlm.nih.gov/35512728)]
+
+90.
+Joyner MJ, Senefeld JW, Klassen SA, Mills JR, Johnson PW, Theel ES, Wiggins CC, Bruno KA, Klompas AM, Lesser ER, Kunze KL, Sexton MA, Diaz Soto JC, Baker SE, Shepherd JRA, van Helmond N, van Buskirk CM, Winters JL, Stubbs JR, Rea RF, Hodge DO, Herasevich V, Whelan ER, Clayburn AJ, Larson KF, Ripoll JG, Andersen KJ, Buras MR, Vogt MNP, Dennis JJ, Regimbal RJ, Bauer PR, Blair JE, Paneth NS, Fairweather D, Wright RS, Carter RE, Casadevall A. Effect of Convalescent Plasma on Mortality among Hospitalized Patients with COVID-19: Initial Three-Month Experience. medRxiv. 2020 Aug 12; [[PubMed: 32817978](https://pubmed.ncbi.nlm.nih.gov/32817978)]
+
+91.
+Joyner MJ, Bruno KA, Klassen SA, Kunze KL, Johnson PW, Lesser ER, Wiggins CC, Senefeld JW, Klompas AM, Hodge DO, Shepherd JRA, Rea RF, Whelan ER, Clayburn AJ, Spiegel MR, Baker SE, Larson KF, Ripoll JG, Andersen KJ, Buras MR, Vogt MNP, Herasevich V, Dennis JJ, Regimbal RJ, Bauer PR, Blair JE, van Buskirk CM, Winters JL, Stubbs JR, van Helmond N, Butterfield BP, Sexton MA, Diaz Soto JC, Paneth NS, Verdun NC, Marks P, Casadevall A, Fairweather D, Carter RE, Wright RS. Safety Update: COVID-19 Convalescent Plasma in 20,000 Hospitalized Patients. Mayo Clin Proc. 2020 Sep;95(9):1888-1897. [[PMC free article: PMC7368917](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7368917/)] [[PubMed: 32861333](https://pubmed.ncbi.nlm.nih.gov/32861333)]
+
+92.
+Simonovich VA, Burgos Pratx LD, Scibona P, Beruto MV, Vallone MG, Vázquez C, Savoy N, Giunta DH, Pérez LG, Sánchez MDL, Gamarnik AV, Ojeda DS, Santoro DM, Camino PJ, Antelo S, Rainero K, Vidiella GP, Miyazaki EA, Cornistein W, Trabadelo OA, Ross FM, Spotti M, Funtowicz G, Scordo WE, Losso MH, Ferniot I, Pardo PE, Rodriguez E, Rucci P, Pasquali J, Fuentes NA, Esperatti M, Speroni GA, Nannini EC, Matteaccio A, Michelangelo HG, Follmann D, Lane HC, Belloso WH., PlasmAr Study Group. A Randomized Trial of Convalescent Plasma in Covid-19 Severe Pneumonia. N Engl J Med. 2021 Feb 18;384(7):619-629. [[PMC free article: PMC7722692](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7722692/)] [[PubMed: 33232588](https://pubmed.ncbi.nlm.nih.gov/33232588)]
+
+93.
+Li L, Zhang W, Hu Y, Tong X, Zheng S, Yang J, Kong Y, Ren L, Wei Q, Mei H, Hu C, Tao C, Yang R, Wang J, Yu Y, Guo Y, Wu X, Xu Z, Zeng L, Xiong N, Chen L, Wang J, Man N, Liu Y, Xu H, Deng E, Zhang X, Li C, Wang C, Su S, Zhang L, Wang J, Wu Y, Liu Z. Effect of Convalescent Plasma Therapy on Time to Clinical Improvement in Patients With Severe and Life-threatening COVID-19: A Randomized Clinical Trial. JAMA. 2020 Aug 04;324(5):460-470. [[PMC free article: PMC7270883](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7270883/)] [[PubMed: 32492084](https://pubmed.ncbi.nlm.nih.gov/32492084)]
+
+94.
+Convalescent plasma in the management of moderate covid-19 in adults in India: open label phase II multicentre randomised controlled trial (PLACID Trial). BMJ. 2020 Nov 03;371:m4232. [[PMC free article: PMC7578662](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7578662/)] [[PubMed: 33144278](https://pubmed.ncbi.nlm.nih.gov/33144278)]
+
+95.
+Levin MJ, Ustianowski A, De Wit S, Launay O, Avila M, Templeton A, Yuan Y, Seegobin S, Ellery A, Levinson DJ, Ambery P, Arends RH, Beavon R, Dey K, Garbes P, Kelly EJ, Koh GCKW, Near KA, Padilla KW, Psachoulia K, Sharbaugh A, Streicher K, Pangalos MN, Esser MT., PROVENT Study Group. Intramuscular AZD7442 (Tixagevimab-Cilgavimab) for Prevention of Covid-19. N Engl J Med. 2022 Jun 09;386(23):2188-2200. [[PMC free article: PMC9069994](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9069994/)] [[PubMed: 35443106](https://pubmed.ncbi.nlm.nih.gov/35443106)]
+
+96.
+Dong J, Zost SJ, Greaney AJ, Starr TN, Dingens AS, Chen EC, Chen RE, Case JB, Sutton RE, Gilchuk P, Rodriguez J, Armstrong E, Gainza C, Nargi RS, Binshtein E, Xie X, Zhang X, Shi PY, Logue J, Weston S, McGrath ME, Frieman MB, Brady T, Tuffy KM, Bright H, Loo YM, McTamney PM, Esser MT, Carnahan RH, Diamond MS, Bloom JD, Crowe JE. Genetic and structural basis for SARS-CoV-2 variant neutralization by a two-antibody cocktail. Nat Microbiol. 2021 Oct;6(10):1233-1244. [[PMC free article: PMC8543371](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8543371/)] [[PubMed: 34548634](https://pubmed.ncbi.nlm.nih.gov/34548634)]
+
+97.
+Zost SJ, Gilchuk P, Case JB, Binshtein E, Chen RE, Nkolola JP, Schäfer A, Reidy JX, Trivette A, Nargi RS, Sutton RE, Suryadevara N, Martinez DR, Williamson LE, Chen EC, Jones T, Day S, Myers L, Hassan AO, Kafai NM, Winkler ES, Fox JM, Shrihari S, Mueller BK, Meiler J, Chandrashekar A, Mercado NB, Steinhardt JJ, Ren K, Loo YM, Kallewaard NL, McCune BT, Keeler SP, Holtzman MJ, Barouch DH, Gralinski LE, Baric RS, Thackray LB, Diamond MS, Carnahan RH, Crowe JE. Potently neutralizing and protective human antibodies against SARS-CoV-2. Nature. 2020 Aug;584(7821):443-449. [[PMC free article: PMC7584396](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584396/)] [[PubMed: 32668443](https://pubmed.ncbi.nlm.nih.gov/32668443)]
+
+98.
+COVID-ICU Group on behalf of the REVA Network and the COVID-ICU Investigators. Clinical characteristics and day-90 outcomes of 4244 critically ill adults with COVID-19: a prospective cohort study. Intensive Care Med. 2021 Jan;47(1):60-73. [[PMC free article: PMC7674575](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7674575/)] [[PubMed: 33211135](https://pubmed.ncbi.nlm.nih.gov/33211135)]
+
+99.
+Kaafarani HMA, El Moheb M, Hwabejire JO, Naar L, Christensen MA, Breen K, Gaitanidis A, Alser O, Mashbari H, Bankhead-Kendall B, Mokhtari A, Maurer L, Kapoen C, Langeveld K, El Hechi MW, Lee J, Mendoza AE, Saillant NN, Parks J, Fawley J, King DR, Fagenholz PJ, Velmahos GC. Gastrointestinal Complications in Critically Ill Patients With COVID-19. Ann Surg. 2020 Aug;272(2):e61-e62. [[PMC free article: PMC7268843](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7268843/)] [[PubMed: 32675498](https://pubmed.ncbi.nlm.nih.gov/32675498)]
+
+100.
+Zhou X, Cheng Z, Luo L, Zhu Y, Lin W, Ming Z, Chen W, Hu Y. Incidence and impact of disseminated intravascular coagulation in COVID-19 a systematic review and meta-analysis. Thromb Res. 2021 May;201:23-29. [[PMC free article: PMC7886625](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7886625/)] [[PubMed: 33631519](https://pubmed.ncbi.nlm.nih.gov/33631519)]
+
+101.
+Huang C, Huang L, Wang Y, Li X, Ren L, Gu X, Kang L, Guo L, Liu M, Zhou X, Luo J, Huang Z, Tu S, Zhao Y, Chen L, Xu D, Li Y, Li C, Peng L, Li Y, Xie W, Cui D, Shang L, Fan G, Xu J, Wang G, Wang Y, Zhong J, Wang C, Wang J, Zhang D, Cao B. 6-month consequences of COVID-19 in patients discharged from hospital: a cohort study. Lancet. 2021 Jan 16;397(10270):220-232. [[PMC free article: PMC7833295](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7833295/)] [[PubMed: 33428867](https://pubmed.ncbi.nlm.nih.gov/33428867)]
+
+102.
+Taquet M, Geddes JR, Husain M, Luciano S, Harrison PJ. 6-month neurological and psychiatric outcomes in 236 379 survivors of COVID-19: a retrospective cohort study using electronic health records. Lancet Psychiatry. 2021 May;8(5):416-427. [[PMC free article: PMC8023694](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8023694/)] [[PubMed: 33836148](https://pubmed.ncbi.nlm.nih.gov/33836148)]
+
+**Disclosure:**Marco Cascella declares no relevant financial relationships with ineligible companies.
+
+**Disclosure:**Michael Rajnik declares no relevant financial relationships with ineligible companies.
+
+**Disclosure:**Abdul Aleem declares no relevant financial relationships with ineligible companies.
+
+**Disclosure:**Scott Dulebohn declares no relevant financial relationships with ineligible companies.
+
+**Disclosure:**Raffaela Di Napoli declares no relevant financial relationships with ineligible companies.

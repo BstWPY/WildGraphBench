@@ -1,0 +1,244 @@
+# Steam client update released
+
+News - Steam client update released
+
+===============
+
+The Wayback Machine - http://store.steampowered.com:80/news/4012
+
+[![Image 5: A 176x44 small image, likely a logo, icon or avatar](http://cdn.store.steampowered.com/public/images/v5/globalheader_logo.png)](http://store.steampowered.com/)
+
+[STORE](http://store.steampowered.com/)[Community](https://steamcommunity.com/)[NEWS](http://store.steampowered.com/news/)[FORUMS](http://store.steampowered.com/forums/)[ABOUT](http://store.steampowered.com/about/)[SUPPORT](http://support.steampowered.com/)[STATS](http://store.steampowered.com/stats/)
+
+[Login](https://store.steampowered.com/login/)|language
+
+![Image 6: A 1x1 image, likely be a tacker probe](http://cdn.store.steampowered.com/public/images/blank.gif)
+
+[##### čeština (Czech)](http://store.steampowered.com/news/4012?l=czech)[##### Dansk (Danish)](http://store.steampowered.com/news/4012?l=danish)[##### Nederlands (Dutch)](http://store.steampowered.com/news/4012?l=dutch)[##### Suomi (Finnish)](http://store.steampowered.com/news/4012?l=finnish)[##### Français (French)](http://store.steampowered.com/news/4012?l=french)[##### Deutsch (German)](http://store.steampowered.com/news/4012?l=german)[##### magyar (Hungarian)](http://store.steampowered.com/news/4012?l=hungarian)[##### Italiano (Italian)](http://store.steampowered.com/news/4012?l=italian)[##### 日本語 (Japanese)](http://store.steampowered.com/news/4012?l=japanese)[##### 한국어 (Korean)](http://store.steampowered.com/news/4012?l=koreana)[##### Norsk (Norwegian)](http://store.steampowered.com/news/4012?l=norwegian)[##### Polski (Polish)](http://store.steampowered.com/news/4012?l=polish)[##### Português (Portuguese)](http://store.steampowered.com/news/4012?l=portuguese)[##### Русский (Russian)](http://store.steampowered.com/news/4012?l=russian)[##### Română (Romanian)](http://store.steampowered.com/news/4012?l=romanian)[##### 简体中文 (Simplified Chinese)](http://store.steampowered.com/news/4012?l=schinese)[##### Español (Spanish)](http://store.steampowered.com/news/4012?l=spanish)[##### Svenska (Swedish)](http://store.steampowered.com/news/4012?l=swedish)[##### 繁體中文 (Traditional Chinese)](http://store.steampowered.com/news/4012?l=tchinese)[##### ไทย (Thai)](http://store.steampowered.com/news/4012?l=thai)
+
+Steam client update released
+============================
+
+ Client Update - Valve 
+
+Jul 1, 2010
+
+ A Steam client update is now available. To apply the update, click the File menu inside of Steam and then select "Check for Steam Client Updates...". The specific changes include:
+
+**Steam Client**
+
+*   Added UI to disable Steam Cloud per-game and per-account.
+
+*   Added an icon in list view for uninstalled games that support cloud.
+
+*   Steam Cloud will now download files for installed games on logon.
+
+*   Fixed Steam Cloud sync failures that occurred because of deleted files.
+
+*   Improve text hit testing in chat windows.
+
+*   Make player names in chat windows clickable, taking you to that user's profile.
+
+*   Fixed tabs in the settings dialog sometimes not drawing correctly.
+
+*   Fixed a regression that prevented steam from automatically validating and repairing damaged game caches on launch.
+
+*   Shortened the delay between launching steam and being offered offline mode in the case of no network connectivity.
+
+*   Fixes the label under the dropdown on the game properties updates page for non-cloud games.
+
+*   Shows the "cloud disabled" icon in list view for games with cloud disabled that are not installed.
+
+*   Fixes players paying mods showing up as "in-game" rather than "in-mod" in the friends window.
+
+*   Fixes the login button in the login dialog becoming enabled when the dialog is dragged after the button is pressed.
+
+*   Improves whitespace detection in chats.
+
+*   Fixes a confusing error message when attempting to back up to a directory that doesn't exist (it would tell you the disk doesn't have enough space).
+
+*   Fixes weirdness with radio buttons when pressing the 'back' key on the backup wizard.
+
+*   Fixes game manuals not opening in an external browser.
+
+*   [OSX] Makes player names in chat windows clickable
+
+*   [OSX] Fixed a class of bugs that could cause steam to hang while shutting down, especially if network settings had changed.
+
+*   [OSX] Fixes tooltip flickering.
+
+*   [OSX] Cmd+Left/Right now go to beginning/end of line.
+
+*   [OSX] Option+Left/Right now go to word boundaries.
+
+*   [OSX] Option+Enter now inserts a newline.
+
+*   [OSX] Fixes some Windows-specific wording about the notification tray in the preferences/settings window.
+
+*   [OSX] Prevents backing up files to the file system root.
+
+*   [OSX] Treats the return key the same as the enter key.
+
+ Share: [![Image 7: A 16x14 small image, likely a logo, icon or avatar](http://cdn.store.steampowered.com/public/images/v5/social/buzz_news.gif)](http://www.google.com/reader/link?url=http%3A%2F%2Fstore.steampowered.com%2Fnews%2F4012%2F&title=Steam+client+update+released&snippet=A+Steam+client+update+is+now+available.+To+apply+the+update%2C+click+the+File+menu+inside+of+Steam+and+then+select+%22Check+for+Steam+Client+Updates...%22.++The+specific+changes+include%3ASteam+ClientAdded+UI... "Share on Google Buzz")[![Image 8: A 15x14 small image, likely a logo, icon or avatar](http://cdn.store.steampowered.com/public/images/v5/social/digg.gif)](http://digg.com/submit?url=http%3A%2F%2Fstore.steampowered.com%2Fnews%2F4012%2F&title=Steam+client+update+released&bodytext=A+Steam+client+update+is+now+available.+To+apply+the+update%2C+click+the+File+menu+inside+of+Steam+and+then+select+%22Check+for+Steam+Client+Updates...%22.++The+specific+changes+include%3ASteam+ClientAdded+UI...&topic=gaming_news "Share on Digg")[![Image 9: A 14x14 small image, likely a logo, icon or avatar](http://cdn.store.steampowered.com/public/images/v5/social/twitter.gif)](http://twitter.com/home?source=steampowered.com&status=From%20@steam_games:%20http%3A%2F%2Fstore.steampowered.com%2Fnews%2F4012%2F "Share on Twitter")[![Image 10: A 14x14 small image, likely a logo, icon or avatar](http://cdn.store.steampowered.com/public/images/v5/social/facebook.gif)](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fstore.steampowered.com%2Fnews%2F4012%2F&t=Steam+client+update+released "Share on Facebook")
+
+Channels
+
+[All News](http://store.steampowered.com/news/)[Announcements](http://store.steampowered.com/news/?feed=steam_announce)[Client Updates](http://store.steampowered.com/news/?feed=steam_client)[Press Releases](http://store.steampowered.com/news/?feed=steam_press)[Product Releases](http://store.steampowered.com/news/?feed=steam_release)[Product Updates](http://store.steampowered.com/news/?feed=steam_updates)[Steam Blog](http://store.steampowered.com/news/?feed=steam_blog)
+
+Syndicated
+
+[Kotaku](http://store.steampowered.com/news/?feed=kotaku)[Left 4 Dead Official Blog](http://store.steampowered.com/news/?feed=l4d_blog)[PC Gamer](http://store.steampowered.com/news/?feed=pcgamer)[Rock, Paper, Shotgun](http://store.steampowered.com/news/?feed=rps)[Shacknews](http://store.steampowered.com/news/?feed=shacknews)[TF2 Official Blog](http://store.steampowered.com/news/?feed=tf2_blog)
+
+Search
+
+ | [![Image 11: A 18x18 small image, likely a logo, icon or avatar](http://cdn.store.steampowered.com/public/images/v5/ico_search.gif)](http://store.steampowered.com/news/4012#)
+
+Archive
+
+2010
+
+[Jul](http://store.steampowered.com/news/?enddate=1280646000)[Jun](http://store.steampowered.com/news/?enddate=1277967600)[May](http://store.steampowered.com/news/?enddate=1275375600)[Apr](http://store.steampowered.com/news/?enddate=1272697200)[Mar](http://store.steampowered.com/news/?enddate=1270105200)[Feb](http://store.steampowered.com/news/?enddate=1267430400)
+
+[Jan](http://store.steampowered.com/news/?enddate=1265011200)
+
+Archives By Year
+
+[2010](http://store.steampowered.com/news/?enddate=1293868800)[2009](http://store.steampowered.com/news/?enddate=1262332800)[2008](http://store.steampowered.com/news/?enddate=1230796800)[2007](http://store.steampowered.com/news/?enddate=1199174400)[2006](http://store.steampowered.com/news/?enddate=1167638400)
+
+[2005](http://store.steampowered.com/news/?enddate=1136102400)[2004](http://store.steampowered.com/news/?enddate=1104566400)[2003](http://store.steampowered.com/news/?enddate=1072944000)[2002](http://store.steampowered.com/news/?enddate=1041408000)
+
+ SHOP BY GENRE 
+
+![Image 12: A 1x1 image, likely be a tacker probe](http://cdn.store.steampowered.com/public/images/blank.gif)
+
+[##### Action](http://store.steampowered.com/genre/Action/)[##### Adventure](http://store.steampowered.com/genre/Adventure/)[##### Strategy](http://store.steampowered.com/genre/Strategy/)[##### RPG](http://store.steampowered.com/genre/RPG/)[##### Indie](http://store.steampowered.com/genre/Indie/)[##### Massively Multiplayer](http://store.steampowered.com/genre/Massively%20Multiplayer/)[##### Casual](http://store.steampowered.com/genre/Casual/)[##### Family Games](http://store.steampowered.com/genre/Family/)[##### Simulation](http://store.steampowered.com/genre/Simulation/)[##### Racing](http://store.steampowered.com/genre/Racing/)[##### Sports](http://store.steampowered.com/genre/Sports/)
+
+ SHOP BY CATEGORY 
+
+![Image 13: A 1x1 image, likely be a tacker probe](http://cdn.store.steampowered.com/public/images/blank.gif)
+
+[##### Demos](http://store.steampowered.com/freestuff/demos/)[##### Videos](http://store.steampowered.com/freestuff/videos/)[##### Downloadable Content](http://store.steampowered.com/search/?category2=21)[##### Game Publisher Catalogs](http://store.steampowered.com/browse/publishers)[##### Games Under $10](http://store.steampowered.com/browse/under10)[##### Games Under $5](http://store.steampowered.com/browse/under5)
+
+ ABOUT STEAM 
+
+![Image 14: A 1x1 image, likely be a tacker probe](http://cdn.store.steampowered.com/public/images/blank.gif)
+
+[##### What is Steam?](http://store.steampowered.com/about/)[##### Gifting on Steam](https://support.steampowered.com/kb_article.php?p_faqid=549#gifts)[##### The Steam Community](https://steamcommunity.com/)
+
+ ABOUT VALVE 
+
+![Image 15: A 1x1 image, likely be a tacker probe](http://cdn.store.steampowered.com/public/images/blank.gif)
+
+[##### About Valve](http://www.valvesoftware.com/about.html)[##### Business Solutions](http://www.valvesoftware.com/business/)[##### Steamworks](http://www.steampowered.com/steamworks/)[##### Source Engine](http://source.valvesoftware.com/)[##### Cyber Cafés](https://cafe.steampowered.com/)[##### Jobs](http://www.valvesoftware.com/jobs.html)
+
+ HELP 
+
+![Image 16: A 1x1 image, likely be a tacker probe](http://cdn.store.steampowered.com/public/images/blank.gif)
+
+[##### Support](http://support.steampowered.com/)[##### Forums](http://store.steampowered.com/forums/)[##### Stats](http://store.steampowered.com/stats/)
+
+ TOOLS 
+
+![Image 17: A 1x1 image, likely be a tacker probe](http://cdn.store.steampowered.com/public/images/blank.gif)
+
+[##### Windows HLDS Update Tool](http://storefront.steampowered.com/download/hldsupdatetool.exe)[##### Linux HLDS Update Tool](http://storefront.steampowered.com/download/hldsupdatetool.bin)
+
+ NEWS FEEDS 
+
+![Image 18: A 1x1 image, likely be a tacker probe](http://cdn.store.steampowered.com/public/images/blank.gif)
+
+[![Image 19: A 13x13 small image, likely a logo, icon or avatar](http://cdn.store.steampowered.com/public/images/ico/ico_rss2.gif)Steam News](http://store.steampowered.com/feeds/news.xml)[![Image 20: A 13x13 small image, likely a logo, icon or avatar](http://cdn.store.steampowered.com/public/images/ico/ico_rss2.gif)Game Releases](http://store.steampowered.com/feeds/newreleases.xml)
+
+### Publisher Catalogs
+
+[1C Company](http://store.steampowered.com/publisher/1C%20Company)
+
+[2K Games](http://store.steampowered.com/publisher/2K%20Games)
+
+[Activision](http://store.steampowered.com/publisher/Activision)
+
+[Atari](http://store.steampowered.com/publisher/Atari)
+
+[Bethesda](http://store.steampowered.com/publisher/Bethesda%20Softworks)
+
+[Big Fish Games](http://store.steampowered.com/publisher/Big%20Fish%20Games)
+
+[Capcom](http://store.steampowered.com/publisher/Capcom)
+
+[Codemasters](http://store.steampowered.com/publisher/Codemasters)
+
+[Electronic Arts](http://store.steampowered.com/publisher/Electronic%20Arts)
+
+[Epic Games](http://store.steampowered.com/publisher/Epic%20Games,%20Inc.)
+
+[Focus](http://store.steampowered.com/publisher/Focus%20Home%20Interactive)
+
+[Her Interactive](http://store.steampowered.com/publisher/Her%20Interactive)
+
+[id Software](http://store.steampowered.com/publisher/id%20Software)
+
+[Interplay](http://store.steampowered.com/publisher/Interplay%20Inc.)
+
+[iWin](http://store.steampowered.com/publisher/iWin)
+
+[JoWooD / DreamCatcher](http://store.steampowered.com/publisher/JoWooD%20Entertainment,%20DreamCatcher)
+
+[Kalypso](http://store.steampowered.com/publisher/Kalypso%20Media%20Digital)
+
+[LucasArts](http://store.steampowered.com/publisher/LucasArts)
+
+[Majesco](http://store.steampowered.com/publisher/Majesco)
+
+[Meridian4](http://store.steampowered.com/publisher/Meridian4)
+
+[MumboJumbo](http://store.steampowered.com/publisher/MumboJumbo)
+
+[NCsoft](http://store.steampowered.com/publisher/NCsoft)
+
+[NovaLogic](http://store.steampowered.com/publisher/NovaLogic)
+
+[Paradox Interactive](http://store.steampowered.com/publisher/Paradox%20Interactive)
+
+[PlayFirst](http://store.steampowered.com/publisher/PlayFirst)
+
+[PopCap](http://store.steampowered.com/publisher/PopCap%20Games,%20Inc.)
+
+[Prima Games](http://store.steampowered.com/publisher/Prima%20Games)
+
+[RailSimulator.com](http://store.steampowered.com/publisher/RailSimulator.com)
+
+[Rockstar Games](http://store.steampowered.com/publisher/Rockstar%20Games)
+
+[Sandlot Games](http://store.steampowered.com/publisher/Sandlot%20Games)
+
+[SEGA](http://store.steampowered.com/publisher/SEGA)
+
+[Sony Online](http://store.steampowered.com/publisher/Sony%20Online%20Entertainment)
+
+[SouthPeak Games](http://store.steampowered.com/publisher/SouthPeak%20Games)
+
+[SQUARE ENIX, Eidos Interactive](http://store.steampowered.com/publisher/SQUARE%20ENIX,%20Eidos%20Interactive)
+
+[Strategy First](http://store.steampowered.com/publisher/Strategy%20First)
+
+[Telltale Games](http://store.steampowered.com/publisher/Telltale%20Games)
+
+[THQ](http://store.steampowered.com/publisher/THQ)
+
+[Tilted Mill](http://store.steampowered.com/publisher/Tilted%20Mill%20Entertainment,%20Inc.)
+
+[Topware](http://store.steampowered.com/publisher/Topware%20Interactive)
+
+[Ubisoft](http://store.steampowered.com/publisher/Ubisoft)
+
+[Valve](http://store.steampowered.com/publisher/Valve)
+
+[Warner Bros.](http://store.steampowered.com/publisher/Warner%20Bros.%20Interactive%20Entertainment)
+
+[About Valve](http://www.valvesoftware.com/about.html) | [Business Solutions](http://www.valvesoftware.com/business/) | [Steamworks](http://www.steampowered.com/steamworks/) | [Source Engine](http://source.valvesoftware.com/) | [Cyber Cafés](https://cafe.steampowered.com/) | [Jobs](http://www.valvesoftware.com/jobs.html)
+
+[![Image 21: Valve Software](http://cdn.store.steampowered.com/public/images/logo_valve_footer.jpg)](http://www.valvesoftware.com/)
+
+© 2010 Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.
+
+[Privacy Policy](http://www.valvesoftware.com/privacy.htm)[Legal](http://www.valvesoftware.com/legal.htm)[Steam Subscriber Agreement](http://store.steampowered.com/subscriber_agreement/)

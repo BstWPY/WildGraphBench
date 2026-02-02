@@ -1,0 +1,27 @@
+# Valve won't manually curate Steam because it dominates PC gaming
+
+Valve is evolving how developers can get onto its Steam store to sell PC games, and one of the reasons it’s doing that is because the company is uncomfortable choosing which games you have access to.
+
+The Steam platform controls a significant percentage of the PC gaming market — 50 percent to 70 percent of all PC game downloads happen on Steam, [according to some reports](http://www.forbes.com/forbes/2011/0228/technology-gabe-newell-videogames-valve-online-mayhem.html)— and Valve says that its near-monopoly was a contributing factor in its decision to star the new Steam Direct program. Late last week, [Valve revealed it is killing the Steam Greenlight program](http://venturebeat.com/2017/02/10/steam-greenlight-is-dead-valve-introduces-steam-direct/) where Steam customers vote on whether or not they want to see games from unknown developers on the platform. In its place, Valve will offer the Direct model that enables anyone to publish a game on Steam after filling out some paperwork and paying a recoupable fee.
+
+What this means is that Valve is stepping back from manually curating the Steam store beyond a basic approval process (that only determines if the game runs and supports the operating systems). The company explained that the industry is producing far too many products for its team to keep up with, but Valve also acknowledged that Steam is such a massive institution in the PC gaming space that it almost shouldn’t have the power to decide which games end up on its platform and which ones don’t.
+
+“[Steam’s market share] is why we’re moving to this more direct path,” Steam developer Alden Kroll said in response to a question about Valve’s near-monopoly during a roundtable with journalists. “In the past, when you think about curation, there are two aspects of that. There is curation of which titles get to be on the Steam backend and have the opportunity to reach customers. And then there’s the curation where, from that pool of products, how do we pick which ones to show to customers. So this direct path is another step down toward getting out of the way of determining what is even allowed onto our system because we don’t want to be in that position.”
+
+Essentially, Steam is so massive that a game has almost no chance of finding an audience on the PC without getting on Valve’s service, unless it’s a game on a major company’s service like EA or Blizzard Entertainment. The company doesn’t want to exercise that power. If it did, a Valve employee could potentially destroy a developer’s chances of succeeding simply because the game doesn’t fit that employees tastes.
+
+“We want any developer that has a product that is trying to reach customers to be able to be on the system,” said Kroll. “We want them to be able to utilize all of our tools, to be able to reach customers, and to use our community features.”
+
+Of course, this introduces problems with discoverability and, potentially, low-effort, broken games overwhelming Steam. Kroll said that the team is working on improving discoverability so that the platform will only show you the games you care about without Valve having to manually choose featured games for an “editor’s choice” section, which is something that happens on both the iOS App Store and the Google Play market.
+
+“We don’t want a world where people feel like they have to get someone at Valve to give the game a stamp of approval or a thumbs up for it to ever show up in front of customers,” Steam developer relations specialist Tom Giardino said. “There are games that launch every day on Steam that nobody at Valve has played before or familiar with that quickly end up on the front page of our store because they are delighting customers.”
+
+As for low-effort joke games from developers like Digital Homicide, the studio responsible for [game-design tragedies like Slaughtering Grounds](https://www.youtube.com/watch?v=VfI7pAaOH9c), Valve is hoping the fee (which is to-be-determined but will end up somewhere between $100 and $5,000) will discourage those kinds of submissions. But the company admits that by stepping away from any manual curation, some terrible stuff will end up on Steam.
+
+“Ultimately, there will be that trade off,” Valve communications specialist Doug Lombardi said.
+
+But Giardino explained that the trade off is necessary because Valve doesn’t want to act as the law in determining an official line that separates good games from bad games.
+
+“It’s really hard to define ‘bad games.’ Games that are bad to everyone all the time or good to everyone all the time,” said Giardino. “The customer who has 25 visual novels in their Steam library is really hoping Steam will get more visual novels. Whereas the person who likes other kinds of games are never going to buy visual novels no matter what happens. Those customers just want different things. So it’s less about us wanting to define the quality line. It’s more about us saying, ‘if you’ve got that great idea, you can bring it to Steam and find customers that are excited about it.’ If you’re doing the right things — if you’re delighting customers and building a community, your game can flourish.”
+
+And if your game is terrorizing people, it probably won’t recoup the submission fee and Jim Sterling will make fun of you:

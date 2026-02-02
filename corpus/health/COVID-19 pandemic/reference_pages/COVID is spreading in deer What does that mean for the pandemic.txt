@@ -1,0 +1,114 @@
+# COVID is spreading in deer. What does that mean for the pandemic?
+
+![Image 1: A researcher tries to swab a white-tailed deer at a wildlife center at Texas A&M University in College Station, Texas.](https://media.nature.com/lw800/magazine-assets/d41586-022-01112-4/d41586-022-01112-4_20340392.jpg)
+
+Researchers prepare to swab a white-tailed deer in College Station, Texas, to check for SARS-CoV-2.Credit: Sergio Flores/The New York Times/Redux/eyevine
+
+Testing deer for SARS-CoV-2 is a little different from testing humans. The cotton swabs travel just a bit farther into the animals’ cavernous nasal passages, for example. “We’ll run out of swab before we, you know, hit anything,” says Andrew Bowman, a veterinary epidemiologist at Ohio State University in Columbus.
+
+And the deer in question are often dead, in the back of a hunter’s truck, at a meat-processing site or a butcher’s shop, waiting to be turned into hamburgers, sausages, steaks, chops and more.
+
+Researchers have worked with hunters for decades as part of regular wildlife surveillance to manage deer populations and track the spread of infectious diseases, such as chronic wasting disease and bovine tuberculosis. But these days, the scientists are also looking for the virus that causes COVID-19 in humans.
+
+In between estimating a deer’s age by checking teeth and taking antler measurements, researchers wearing masks and gloves wipe mud and grass from around the animal’s nostrils before inserting a swab to test for viral RNA. They then collect blood to check for antibodies against the virus. Their work has uncovered widespread infection in white-tailed deer (_Odocoileus virginianus_) in North America, with hundreds of infected animals in 24 US states and several Canadian provinces.
+
+Scientists want to understand how the virus gets into deer, what happens as it spreads among them, and what risk these infections might pose for other wildlife and for humans. Close to 30 million deer live in the United States — one for every 10 people — and a few million live in Canada.
+
+Several teams have cobbled together the funding to survey deer, says Samira Mubareka, a virologist at Sunnybrook Research Institute in Toronto, Canada.
+
+“We’ve mobilized an army of students,” says Bowman.
+
+The variants researchers found circulating in deer typically mirror those spreading in humans who live nearby, but some studies suggest that SARS-CoV-2 in the wild could already be exploring fresh avenues of evolution through mutations that alter the virus.
+
+It’s not yet clear whether the virus can spread in long chains of infection among deer, or whether deer-to-human transmission could spark outbreaks. But researchers are growing increasingly concerned about the animals becoming a viral reservoir, serving as a recalcitrant source of outbreaks and potentially breeding new variants. Some researchers think that the highly infectious [Omicron variant spent time in an animal reservoir](https://www.nature.com/articles/d41586-022-00215-2) before popping up in people.
+
+So far, infected deer aren’t turning up very unwell, but they could spread the infection to livestock or other wildlife that might be more vulnerable. And that’s a major worry. “Once it gets into wildlife,” says Marietjie Venter, a medical virologist at the University of Pretoria in South Africa, “there is basically no way at the moment to control it.”
+
+**Multiple outbreaks**
+----------------------
+
+Researchers have been concerned about wildlife infections since the beginning of the COVID-19 pandemic, but tracking the movements of such a promiscuous virus is tricky. To target surveillance efforts, they started by looking at ACE2, a host-cell protein that the virus typically uses to enter cells. Animals with an ACE2 receptor similar to that found in humans were considered at risk. Teams around the world then began experimentally infecting those animals to see whether they were susceptible and could pass the infection along. Among the prospects were cats, deer mice (_Peromyscus maniculatus_) and raccoon dogs (_Nyctereutes procyonoides_), as well as white-tailed deer.
+
+In early January 2021, researchers at the US Department of Agriculture (USDA) showed that fawns in captivity could be infected with SARS-CoV-2, shed it in their nasal mucus and faeces, and spread the infection to other fawns in adjacent pens[1](https://www.nature.com/articles/d41586-022-01112-4#ref-CR1). Within a week, the animals began producing antibodies against the virus, but none was particularly ill.
+
+The results were “somewhat surprising”, because other ungulates, such as cows, sheep and goats, are fairly resistant to infection, says William Karesh, chair of the Paris-based World Organisation for Animal Health working group on wildlife.
+
+Thomas DeLiberto, SARS-CoV-2 coordinator in the Wildlife Services programme of the USDA Animal and Plant Health Inspection Service in Fort Collins, Colorado, says that the study was an eye-opener. “We said, ‘Well, we better look and see if we’ve had exposure in wild white-tailed deer.’”
+
+DeLiberto and his colleagues started with 385 blood samples collected from deer between January and March 2021, as part of regular wildlife disease-surveillance efforts across Illinois, Michigan, New York and Pennsylvania. Roughly 40% of the samples [contained antibodies against SARS-CoV-2](https://www.nature.com/articles/d41586-021-02110-8). The findings[2](https://www.nature.com/articles/d41586-022-01112-4#ref-CR2), first reported in a July preprint last year, suggested that the deer had been exposed, but it wasn’t clear whether these were one-off exposures or whether the virus had spread among the animals. It was also possible that the antibodies were the result of other coronavirus infections in deer.
+
+These results led to a slew of fresh deer-sampling efforts across North America, and a rush to publish the results of sampling projects already under way.
+
+In the first year of the pandemic, scientists had begun to collect nasal swabs and blood samples from deer to test for SARS-CoV-2 using the polymerase chain reaction — a positive result would be direct proof that the animals were infected. But until December 2020, “we were getting all negative samples”, says Vanessa Hale, an animal-health researcher at Ohio State University. Everything changed in the new year[3](https://www.nature.com/articles/d41586-022-01112-4#ref-CR3). She and Bowman found 129 deer that were positive for SARS-CoV-2 viral RNA among about 360 animals sampled in Ohio between January and March 2021.
+
+Suresh Kuchipudi, a virologist at Pennsylvania State University in University Park, and his colleagues got a similar rate of positive tests in Iowa[4](https://www.nature.com/articles/d41586-022-01112-4#ref-CR4). Of the 283 deer tested between April 2020 and January 2021, 33% were positive for SARS-CoV-2. Most of these turned up in November and December 2020, coinciding with a peak in human infections.
+
+Genome sequencing of more than half of the samples from infected Ohio deer revealed variants similar to those circulating in human communities across the state at the time[3](https://www.nature.com/articles/d41586-022-01112-4#ref-CR3) (see ‘Deer detection’). It seemed that the virus had spilled over from humans on six separate occasions. Mutations in the genetic sequences also confirmed that the deer were spreading the infection among themselves.
+
+![Image 2: DEER DETECTION. Graphic exploring transmission of SARS-CoV-2 in deer and humans.](https://media.nature.com/lw800/magazine-assets/d41586-022-01112-4/d41586-022-01112-4_20340398.png)
+
+Source: Ref. 3
+
+Since then, researchers have found positive deer in 24 of the roughly 30 US states where sampling has been reported — as well as in the Canadian provinces of Quebec[5](https://www.nature.com/articles/d41586-022-01112-4#ref-CR5), Ontario[6](https://www.nature.com/articles/d41586-022-01112-4#ref-CR6), [Saskatchewan](https://news.usask.ca/articles/research/2022/collaborative-surveillance-team-detects-sars-cov-2-virus-in-saskatchewan-white-tailed-deer.php), Manitoba, New Brunswick and [British Columbia](https://twitter.com/environmentca/status/1504880667972231171), although the Canadian positivity rates have been lower, at 1–6%.
+
+In late December 2021, researchers found the highly transmissible Omicron variant in white-tailed deer living in Staten Island, a part of New York City[7](https://www.nature.com/articles/d41586-022-01112-4#ref-CR7). And in March 2022, a mule deer (_Odocoileus hemionus_) in Utah [tested positive for SARS-CoV-2](https://www.fox13now.com/news/local-news/covid-19-detected-in-utah-mule-deer-for-the-first-time-but-no-cause-for-concern).
+
+The epidemic seems to be confined to North America. “No one’s detected it in European deer so far, despite a lot of looking,” says Rachael Tarlinton, a veterinary virologist at the University of Nottingham, UK. For example, Alex Greenwood, an evolutionary virologist at the Leibniz Institute for Zoo and Wildlife Research in Berlin and his colleagues tested roe deer (_Capreolus capreolus_), red deer (_Cervus elaphus_) and fallow deer (_Dama dama_) in Austria and Germany[8](https://www.nature.com/articles/d41586-022-01112-4#ref-CR8), and none of them had SARS-CoV-2.
+
+Researchers say biological differences don’t seem to explain the discrepancy. “All the data on ACE2 receptors suggest European deer species should be as susceptible as white-tailed deer,” says Tarlinton. Rather, the North American epidemic seems to be the result of the high density of deer there, and people’s frequent interactions with them.
+
+“In the Americas, the deer basically walk around wild, in people’s backyards,” says Venter, who adds that interactions with large ungulates are much less common where she works. “In Africa, mostly animals would be in wildlife reserves.”
+
+**Human intervention**
+----------------------
+
+How deer are getting infected remains a mystery. “There’s a window open somewhere and we have no idea what it is,” says Bowman. Humans are known to spread pathogens in the wild, such as the bacterium _Escherichia coli_, the measles virus and the protozoan _Giardia_, among others. But these anthroponotic jumps, or ‘spillbacks’, rarely result in sustained transmission, if ever.
+
+Direct contact, for example when people pet or hand-feed animals, could be a culprit. White-tailed deer live in close proximity to people in towns and cities across North America — the deer live near to houses, roam the streets and explore university campuses. “They’ve done very well to adapt to the human-dominated landscape,” says Michael Tonkovich, who oversees the deer programme at the Ohio Department of Natural Resources in Athens.
+
+Deer are farmed for meat in some US states, and others have rehabilitation programmes for fawns orphaned by car accidents. Deer in captivity can have frequent contact with humans and with wild deer, or they could escape or be released back into the wild.
+
+But Hale says there probably isn’t enough direct contact in any of these scenarios to account for the hundreds of cases detected so far, let alone the countless more that just haven’t been recorded.
+
+Another route of SARS-CoV-2 infection could be environmental. Although transmission through contaminated surfaces has not been an established route in people, deer could be picking the virus up by digging their noses into discarded masks, or gobbling flowers and garden vegetables that humans have sneezed on, for instance. Hunters sometimes also feed and bait deer using maize (corn) or vegetables, which could be covered in virus. But Hale points out that the deer would have to arrive at just the right time to ingest infectious virus. “Is it possible? Yes. Is it likely? Again, I don’t know.”
+
+![Image 3: White-tailed Deer (Odocoileus virginianus) buck near houses, Montana.](https://media.nature.com/lw800/magazine-assets/d41586-022-01112-4/d41586-022-01112-4_20340396.jpg)
+
+An estimated 30 million deer live in the United States. They have adapted well to living around humans.Credit: Donald M. Jones/NPL
+
+Another route might be contaminated waste water that trickles into the animals’ water sources. Although many studies have found viral RNA in sewage, they haven’t isolated infectious SARS-CoV-2. Also, it’s not just urban deer that are getting infected; some live in the middle of nowhere, say researchers.
+
+Other animals such as feral cats or wild mink could serve as a go-between for transmission, according to some reports.
+
+“All of these things seem far-fetched until we can prove them,” says Hale. But there doesn’t have to be one single source of infection, says Mubareka. Multiple routes are probably involved.
+
+**Nose-to-nose**
+----------------
+
+Once one deer catches the virus, there are plenty of opportunities for SARS-CoV-2 to spread in the broader population. White-tailed deer are very social animals, says Tonkovich. For most of the year, bucks live in loose bachelor groups of up to six, grooming and sparring with each other. Matriarchal does live with several generations of their female offspring and fawns. The animals typically stick to their home ranges of several square kilometres, but this all changes during the breeding season: the winter months from around October to February.
+
+Bucks can travel several tens of kilometres, moving between groups of does and locking antlers with other bucks along the way. Occasionally, a doe might also go on an excursion of up to 100 kilometres, possibly “to visit family or friends”, returning days or weeks later to her usual territory, says Tonkovich. And during heavy snow in some northern states, groups of deer sometimes travel to ‘deer yards’, where thick tree cover prevents snow from accumulating on the ground and where they might encounter other groups. All of this time, the animals are interacting and potentially spreading the virus. There’s a lot of “nose-to-nose contact among deer”, says Linda Saif, a virologist at Ohio State University in Wooster.
+
+All of the potential for viral spread has scientists concerned that deer could become a SARS-CoV-2 reservoir — a permanent home for the virus and a regular source of outbreaks in other animals, including humans. Camels, for example, are a natural reservoir of the MERS-CoV coronavirus that causes Middle East respiratory syndrome, which occasionally jumps to people. Once established in deer, SARS-CoV-2 could mutate, evolve and possibly recombine with other coronaviruses, says Saif. And it could evolve to better infect other grazing animals such as sheep, goats and cows that share pastures with deer, she says. “Once you have a single wild-animal reservoir, it’s conceivable it can pass over to other wildlife, or even domestic livestock.”
+
+There is increasing evidence for that. The virus is showing signs of long-term evolution in deer, for example. In a February preprint[6](https://www.nature.com/articles/d41586-022-01112-4#ref-CR6), Mubareka and her colleagues sequenced five SARS-CoV-2 genomes from deer sampled in Ontario in November and December 2021. The viruses had 76 mutations compared with the original SARS-CoV-2 virus isolated in Wuhan, China, including some that contribute to amino-acid changes in the spike protein that the virus uses to infect cells. Such mutations have been key to the success of highly transmissible variants.
+
+The closest known relatives the researchers could find for these viral genomes were from people in Michigan almost a year earlier. The results suggested that the virus had been spreading in animals for a long time. “It was crazy. Honestly, I couldn’t believe it,” says Mubareka, adding, “The fact that we found it with such sparse sampling, you really have to wonder what else is going on?”
+
+A second preprint in February[9](https://www.nature.com/articles/d41586-022-01112-4#ref-CR9) found the Alpha and Delta SARS-CoV-2 variants in Pennsylvania deer in November 2021. The Alpha genomes were distinct from those found in people, and were found in deer months after Delta had become the dominant human-infecting variant, suggesting that Alpha had been evolving independently in the deer population.
+
+Mubareka and her colleagues made another unexpected finding: a viral sequence in a person from southwestern Ontario that was very similar to the viral genomes found in deer[6](https://www.nature.com/articles/d41586-022-01112-4#ref-CR6). Although the evidence is not definitive, scientists suspect that the person might have caught the virus from deer.
+
+Deer-to-human transmission, if confirmed, would be concerning, as would reinfection among deer — something Kuchipudi might have observed. From sampling this past December and January, he identified a deer infected with Omicron that also had antibodies against Delta[7](https://www.nature.com/articles/d41586-022-01112-4#ref-CR7). “If the animals are able to be reinfected, just like people, then the virus will not fade out; it will continue to circulate,” he says.
+
+Researchers say there’s not enough evidence yet to indicate whether deer are a breeding ground for dangerous variants. Karesh says he would need to see many more spillover events — to people from deer — to call them a reservoir for human infection.
+
+Bryan Richards, a wildlife biologist and emerging-disease coordinator at the US Geological Survey National Wildlife Health Center in Madison, Wisconsin, agrees that deer don’t yet seem to pose a risk. “Out of millions of humans who interacted with deer, hunting this last year, we now know of a grand total of one that may have been infected,” he says.
+
+Truly understanding the situation will require more sampling of animals. Some researchers have embarked on longitudinal studies in which they revisit sampling sites over several hunting seasons.
+
+In March 2021, the USDA received a US$300-million grant to survey animals susceptible to SARS-CoV-2, and has sampled deer through the 2022 hunting season in at least 27 states. DeLiberto says his group plans to study footage of how deer interact with people and other animals to quantify their modes of engagement. And Richards says more sampling to determine which types of deer are at highest risk — bucks or does, urban or rural — could offer further clues.
+
+Scientists are also planning more experimental infection studies to see whether variants such as Omicron and Delta behave differently in white-tailed deer, and what other wild animals are susceptible. They’ve found[10](https://www.nature.com/articles/d41586-022-01112-4#ref-CR10) that red foxes (_Vulpes vulpes_) are, but not coyotes (_Canis latrans_), and they want to look at mule deer and elk. They might also try mixed-species studies, to see whether, for example, mink can spread the infection to rodents.
+
+A lot more work is needed to track these rapidly unfurling events, says Mubareka. “These are just the early chapters.”

@@ -1,0 +1,49 @@
+# Heat Waves
+
+This indicator describes trends in multi-day extreme heat events in cities across the United States.
+
+These bar graphs and maps show changes in the number of heat waves per year (frequency) and the number of days between the first and last heat wave of the year (season length). These data were analyzed from 1961 to 2023 for 50 large U.S. metropolitan areas. The graphs show averages across all 50 metropolitan areas by decade. “1960s” represents the average from 1961 to 1970, “1970s” is 1971 to 1980, and so on. Hatching indicates that “2020s” is a partial decade, reflecting data for 2021 to 2023 only. The size/color of each circle in the maps indicates the rate of change per decade. Xs represent cities where the trend is not statistically significant.
+
+Date Range: 1961 - 2023
+
+### U.S. Heat Wave Frequency and Length Are Increasing
+
+Heat waves are occurring more often than they used to in major cities across the United States, from an average of two heat waves per year during the 1960s to more than six per year during the 2020s. The average heat wave season across 50 major cities is 46 days longer than it was in the 1960s. Of the 50 metropolitan areas in this indicator, 46 experienced a statistically significant increase in heat wave frequency between the 1960s and 2020s. The increase in the length of the heat wave season was also significant in 46 locations.
+
+### Why It's Important
+
+*   Heat waves can lead to illness and death, particularly among older adults, the very young, economically disadvantaged groups, and other vulnerable populations such as those in outdoor occupations.
+
+*   Prolonged exposure to excessive heat can lead to other impacts—for example, damaging crops and injuring or killing livestock.
+
+*   Extreme heat events can lead to power outages as heavy demands for air conditioning strain the power grid.
+
+### About Heat Waves
+
+Unusually hot days and multi-day heat waves are a natural part of day-to-day variation in weather. As the Earth’s climate warms, however, hotter-than-usual days and nights are becoming more common and heat waves are expected to become more frequent and intense ([NCA5 Climate Trends chapter: Extreme Events Are Becoming More Frequent and Severe](https://nca2023.globalchange.gov/chapter/2#key-message-2)). Increases in these extreme heat events can lead to more heat-related illnesses and deaths, especially if people and communities are not prepared and do not take steps to adapt.
+
+Large urban areas already face challenges related to heat. Surface air temperatures are often higher in urban areas than in surrounding rural areas for a number of reasons, including the concentrated release of heat from buildings, vehicles, and industry. This urban heat island effect is expected to strengthen in the future as the structure, spatial extent, and population density of urban areas change and grow ([NCA5 Built Environment chapter: Attributes of the Built Environment Exacerbate Climate Impacts, Risks, and Vulnerabilities](https://nca2023.globalchange.gov/chapter/12#key-message-2)).
+
+This indicator examines trends over time in two characteristics of heat waves in the United States:
+
+*   Frequency: the number of heat waves that occur every year
+
+*   Season length: the number of days between the first heat wave of the year and the last
+
+Heat waves can be defined in many ways. For consistency across the country, this indicator defines a heat wave as a period of two or more consecutive days where the daily minimum apparent temperature (actual temperature adjusted for humidity) in a particular city exceeds the 85th percentile of historical July and August temperatures (1981–2010) for that city. This approach is useful for several reasons:
+
+The most serious health impacts of a heat wave are often associated with high temperatures at night, which is when the daily minimum usually occurs. If the air temperature stays too warm at night, the body faces extra strain as the heart pumps harder to try to regulate body temperature.
+
+Adjusting for humidity is important because when humidity is high, water does not evaporate as easily, so it is harder for the human body to cool off by sweating. That is why health warnings about extreme heat are often based on the “heat index,” which combines temperature and humidity.
+
+By using the 85th percentile for each individual city, this indicator defines “unusual” in terms of local conditions. A specific temperature like 95°F might be considered unusually hot in one city but perfectly normal in another city. Plus, people in relatively warm regions (such as the Southwest) may be better acclimated and adapted to hot weather.
+
+Data for this indicator are based on temperature and humidity measurements between 1961 and 2023 from long-term weather stations, which are generally located at airports. This indicator focuses on the 50 most populous U.S. metropolitan areas that have available weather data from a consistent location. The year 1961 was chosen as the starting point because most major cities have collected consistent data since at least that time. The methodology for this indicator is based on [_Habeeb et al. 2015._](https://link.springer.com/article/10.1007%2Fs11069-014-1563-z)
+
+### Related Resources
+
+*   [CDC: Climate Change and Extreme Heat](https://www.cdc.gov/climateandhealth/pubs/extreme-heat-guidebook.pdf)
+*   [CDC Tracking Network in Action: Extreme Heat](https://www.cdc.gov/nceh/features/trackingheat/)
+*   [EPA Climate Change Indicators: High and Low Temperatures](https://www.epa.gov/climate-indicators/climate-change-indicators-high-and-low-temperatures)
+*   [EPA: Urban Heat Island Effect](http://www.epa.gov/heat-islands)
+*   [National Integrated Heat Health Information System (NIHHIS)](https://toolkit.climate.gov/nihhis/)

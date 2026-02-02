@@ -1,0 +1,193 @@
+# Valve introduces Steam Guard to fight account phishing and hijacking
+
+Valve introduces Steam Guard to fight account phishing and hijacking | Joystiq
+
+===============
+![Image 2](http://b.scorecardresearch.com/b?rn=25593278&C1=2&C2=1000009&C4=http%3A%2Fwww.joystiq.com%2F2011%2F03%2F03%2Fvalve-introduces-steam-guard-to-fight-acount-phishing-and-hijack%2F&C5=us.jystiq&C7=http%3A%2Fwww.joystiq.com%2F2011%2F03%2F03%2Fvalve-introduces-steam-guard-to-fight-acount-phishing-and-hijack%2F&C8=Valve%20introduces%20Steam%20Guard%20to%20fight%20account%20phishing%20and%20hijacking%20%7C%20Joystiq)
+
+The Wayback Machine - http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/
+
+[Joystiq](http://www.joystiq.com/ "Back to Joystiq")
+
+[PS4](http://www.joystiq.com/ps4/ "PS4 posts")
+
+[XB1](http://www.joystiq.com/xbox-one/ "Xbox One posts")
+
+[PS3](http://www.joystiq.com/ps3/ "PS3 posts")
+
+[XBOX](http://www.joystiq.com/xbox/ "Xbox posts")
+
+[Wii](http://www.joystiq.com/wii-u/ "Wii-U posts")
+
+[3DS](http://www.joystiq.com/3ds/ "3DS posts")
+
+[PSP](http://www.joystiq.com/vita/ "Vita posts")
+
+[PC](http://www.joystiq.com/pc/ "PC posts")
+
+[Mobile](http://www.joystiq.com/mobile/ "Mobile posts")
+
+#### Follow us on:
+
+*   [](https://www.facebook.com/joystiq)
+*   [](http://twitter.com/joystiq)
+*   [](https://plus.google.com/113286825222687492379/)
+*   [](https://www.youtube.com/joystiq)
+
+*   [News](http://www.joystiq.com/)
+*   [Games](http://www.joystiq.com/games/)
+*   [reviews](http://www.joystiq.com/reviews/)
+*   [Recommended](http://www.joystiq.com/tag/recommended/)
+*   [Trailers](http://www.joystiq.com/tag/@video/)
+*   [Podcasts](http://www.joystiq.com/podcast/)
+*   [Streaming](http://www.joystiq.com/twitch/)
+*   [About](http://www.joystiq.com/about/)
+*   [Deals](https://deals.joystiq.com/)
+
+[Send us a Tip](http://www.joystiq.com/contact/tips/ "Send us your tips")
+
+[](http://www.joystiq.com/game/)
+--------------------------------
+
+*   [News](http://www.joystiq.com/game/)
+*   [Review](http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/#review)
+*   [Screens](http://www.joystiq.com/game//screens/)
+*   [Video](http://www.joystiq.com/game//video/)
+*   [Downloads](http://www.joystiq.com/game//downloads/)
+*   [Achievements](http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/#)
+*   [Guides](http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/#)
+*   [Forum](http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/#)
+
+Valve introduces Steam Guard to fight account phishing and hijacking
+====================================================================
+
+[![Image 3: A 30x30 small image, likely a logo, icon or avatar](http://www.blogcdn.com/www.joystiq.com/media/2010/06/x190-240.jpg.pagespeed.ic.WlR8YpogQG.jpg)](http://www.joystiq.com/editor/andrew-yoon) by [Andrew Yoon](http://www.joystiq.com/editor/andrew-yoon)[@scxzor](http://www.twitter.com/scxzor) on Mar 3rd 2011 1:30PM
+
+Share: 
+
+[](https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.joystiq.com%2F2011%2F03%2F03%2Fvalve-introduces-steam-guard-to-fight-acount-phishing-and-hijack%2F%3Fa_dgi%3Daolshare_facebook&t=Valve%20introduces%20Steam%20Guard%20to%20fight%20account%20phishing%20and%20hijacking "Share on Facebook")[](https://twitter.com/share?url=http%3A%2F%2Fwww.joystiq.com%2F2011%2F03%2F03%2Fvalve-introduces-steam-guard-to-fight-acount-phishing-and-hijack%2F%3Fa_dgi%3Daolshare_twitter&text=Valve%20introduces%20Steam%20Guard%20to%20fight%20account%20phishing%20and%20hijacking%20&via=joystiq "Share on Twitter")[](https://plus.google.com/share?url=http%3A%2F%2Fwww.joystiq.com%2F2011%2F03%2F03%2Fvalve-introduces-steam-guard-to-fight-acount-phishing-and-hijack%2F%3Fa_dgi%3Daolshare_googleplus "Google Plus")
+
+[44](http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/#)
+
+[![Image 4](http://www.blogcdn.com/www.joystiq.com/media/2011/03/steamaccountsecurity.jpg)](http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/)
+
+ What's Steam's "number one support issue" according to Valve's Gabe Newell? "Account phishing and hijacking," says the boss. In an effort to combat the theft of digital goods, Valve has announced Steam Guard, a new service that allows users to restrict account management to a specific Intel-powered PC.
+
+ Using [Intel Identity Protection Technology](http://ipt.intel.com/) (IPT), a hardware-based feature available in second generation Intel Core processors, Steam Guard users will be notified whenever a different PC attempts to log into or modify their account settings. This should give Steam users "the account security they need as they purchase more and more digital goods," said [the filthy rich](http://www.joystiq.com/2011/02/15/valves-gabe-newell-discusses-company-profitability-and-getting/) Newell.
+
+ Because Steam Guard is hardware-reliant, the service will not be available to all Steam users. Still, Valve's Doug Lombardi expects "to see widespread adoption of hardware-based security like Intel IPT by other service providers" in the future. "If as a customer you are buying movies, music, games, or digital goods, you want to know that they are more secure than your physical goods."[](http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/)
+
+ Show full PR text
+
+ March 3, 2011 -- Valve announced today a new Steam and Steamworks feature called Steam Guard, which gives users greatly increased account security.
+
+ Steam Guard allows users to link management of their account to a specific PC. Attempts to modify or change account settings by any other PC won't be possible without the user's approval.
+
+ Steam Guard will take advantage of upcoming Intel® Identity Protection Technology (Intel® IPT), an encrypted, hardware-based feature available with the new 2nd Generation Intel® CoreT and Intel® CoreT vProT processors. IPT generates a new numerical password every 30 seconds, integrating into the processor functionality that previously required a separate card or key fob.
+
+ Users will also be notified if any PCs other than those authorized by them attempt to log into or modify their account settings.
+
+ Steam Guard is available to third parties to incorporate into their own applications through Steamworks.
+
+ "Account phishing and hijacking are our #1 support issues," said Gabe Newell, President of Valve. "With Intel's IPT and Steam Guard, we've taken a big step towards giving customers the account security they need as they purchase more and more digital goods."
+
+ "We expect to see widespread adoption of hardware-based security like Intel IPT by other service providers," said Doug Lombardi, Valve's Vice President of Marketing. "If as a customer you are buying movies, music, games, or digital goods, you want to know that they are more secure than your physical goods."
+
+ "With over 30 million accounts worldwide, Steam is an ideal platform for Intel IPT," said George Thangadurai, General Manager of PC Client Services at Intel. "Those running Steam are investing in a robust digital collection of PC games. By adding hardware-based protection to these investments, we hope to bolster the amazing success of platforms such as Steam."
+
+ For more information, please visit www.steamgames.com
+
+ Tags: [account-security](http://www.joystiq.com/tag/account-security/), [intel](http://www.joystiq.com/tag/intel/), [intel-ipt](http://www.joystiq.com/tag/intel-ipt/), [mac](http://www.joystiq.com/tag/mac/), [pc](http://www.joystiq.com/tag/pc/), [phishing](http://www.joystiq.com/tag/phishing/), [security](http://www.joystiq.com/tag/security/), [steam](http://www.joystiq.com/tag/steam/), [steam-guard](http://www.joystiq.com/tag/steam-guard/), [steamworks](http://www.joystiq.com/tag/steamworks/), [valve](http://www.joystiq.com/tag/valve/)
+
+* * *
+
+### Info
+
+#### Description
+
+[Show more](http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/)
+
+##### MSRP
+
+##### Release Date
+
+##### Genre
+
+##### Developer
+
+##### Publisher
+
+##### Rating
+
+[View on Amazon.com](http://www.joystiq.com/2011/03/03/valve-introduces-steam-guard-to-fight-acount-phishing-and-hijack/)
+
+* * *
+
+### Breaking News
+
+[![Image 5: Breaking News](http://o.aolcdn.com/dims-global/dims/GLOB/5/310/160/90/http://o.aolcdn.com/hss/storage/midas/745e7a527aa6c0bd05c5656ac6299c7e/200949705/raymond-jade-2012-wiki_thumbnail.jpg)](http://www.joystiq.com/2014/10/20/ubisoft-toronto-founder-jade-raymond-departs/)
+#### [Ubisoft Toronto founder Jade Raymond departs to pursue 'new opportunities'](http://www.joystiq.com/2014/10/20/ubisoft-toronto-founder-jade-raymond-departs/)
+
+[More →](http://www.joystiq.com/tag/@breaking "Check out more Breaking News")
+
+* * *
+
+### Featured Stories
+
+[![Image 6: Titanfall 2 game cover art features a tall, metallic mech with a soldier standing on its shoulder, holding a rifle](http://o.aolcdn.com/dims-global/dims/GLOB/5/75/75/90/http://o.aolcdn.com/hss/storage/midas/f6a078e3f19d7b3577075aefb8fd65d1/200982632/slide_0001%282%29_thumbnail.jpeg)](http://www.joystiq.com/2014/10/26/joystiq-weekly-titanfall-gets-co-op-civ-beyond-earth-review/)
+#### [Joystiq Weekly: Titanfall gets co-op, Civ: Beyond Earth review, amiibo impressions and more](http://www.joystiq.com/2014/10/26/joystiq-weekly-titanfall-gets-co-op-civ-beyond-earth-review/)
+
+Posted on Oct 26th 2014 1:30PM
+
+[![Image 7: Image](http://www.blogcdn.com/www.joystiq.com/media/2012/05/joystiqbanner_75x75.jpg)](http://www.joystiq.com/2014/10/25/super-joystiq-podcast-118-super-smash-bros-for-wii-u-civilizat/)
+#### [Super Joystiq Podcast 118: Super Smash Bros for Wii U, Civilization Beyond Earth, Fantasia](http://www.joystiq.com/2014/10/25/super-joystiq-podcast-118-super-smash-bros-for-wii-u-civilizat/)
+
+Posted on Oct 25th 2014 6:30PM
+
+[![Image 8: BARRIER RELATIONS are written in orange letters over a blurred photo of metallic bars](http://o.aolcdn.com/dims-global/dims/GLOB/5/75/75/90/http://o.aolcdn.com/hss/storage/midas/597b7af03ef9748dd9d8be9e7908343c/200979152/AVENGERS_thumbnail.jpg)](http://www.joystiq.com/2014/10/24/barely-related-avengers-age-of-ultron-trailer-is-full-of-surpr/)
+#### [Barely Related: Avengers: Age of Ultron trailer is full of surprises](http://www.joystiq.com/2014/10/24/barely-related-avengers-age-of-ultron-trailer-is-full-of-surpr/)
+
+Posted on Oct 24th 2014 9:30PM
+
+### Advertisement
+
+[![Image 9: Engadget](http://o.aolcdn.com/js/x.gif)](http://www.engadget.com/)
+#### Engadget
+
+*   [Hugo Barra discusses Xiaomi's popularity, its ...](http://www.engadget.com/2014/10/28/hugo-barra-xiaomi-wsjdlive/)
+
+*   [FTC sues AT&T over 'deceptive' mobile data ...](http://www.engadget.com/2014/10/28/ftc-sues-att-over-throttling/)
+
+*   [Amped Wireless gets into the touchscreen wireless ...](http://www.engadget.com/2014/10/28/amped-wireless-touchscreen-range-extender/)
+
+[![Image 10: Engadget](http://o.aolcdn.com/js/x.gif)](http://www.tuaw.com/)
+#### TUAW
+
+*   [Tim Cook on axing the iPod Classic: "We couldn't ...](http://www.tuaw.com/2014/10/28/tim-cook-on-axing-the-ipod-classic-we-couldnt-get-the-parts-a/)
+
+*   [Apple last year spent a record $6 billion on ...](http://www.tuaw.com/2014/10/28/apple-last-year-spent-a-record-6-billion-on-research-and-develo/)
+
+*   [Walmart issues bogus explanation as to why they ...](http://www.tuaw.com/2014/10/28/walmart-issues-bogus-explanation-as-to-why-they-dont-support-ap/)
+
+[![Image 11: Engadget](http://o.aolcdn.com/js/x.gif)](http://massively.joystiq.com/)
+#### Massively
+
+*   [SWTOR brings back the Rakghoul event ...](http://massively.joystiq.com/2014/10/28/swtor-brings-back-the-rakghoul-event/)
+
+*   [Albion Online's six-month road map ...](http://massively.joystiq.com/2014/10/28/albion-onlines-six-month-road-map/)
+
+*   [Guild Wars 2's Echoes of the Past begins next ...](http://massively.joystiq.com/2014/10/28/guild-wars-2s-echoes-of-the-past-begins-next-week/)
+
+[![Image 12: Engadget](http://o.aolcdn.com/js/x.gif)](http://wow.joystiq.com/)
+#### WoW
+
+*   [Maintenance extended until 1pm Pacific ...](http://wow.joystiq.com/2014/10/28/maintenance-extended-until-1pm-pacific/)
+
+*   [Last Week on Massively: All the MMOs ...](http://wow.joystiq.com/2014/10/28/last-week-on-massively-all-the-mmos/)
+
+*   [The Queue: Night, world events, and how the Horde ...](http://wow.joystiq.com/2014/10/28/the-queue-night-world-events-and-how-the-horde-is-or-is-not/)
+
+[AOL Tech](http://www.aoltech.com/)
+
+[Joystiq](http://www.joystiq.com/)
+© 2014 AOL Inc. All rights Reserved. [Privacy Policy](http://privacy.aol.com/) | [Terms of Use](http://legal.aol.com/TOS/) | [Trademarks](http://legal.aol.com/trademarks/) | [AOL A-Z HELP](http://help.aol.com/) | [About Our Ads](http://adinfo.aol.com/about-our-ads/) | [Advertise With Us](http://www.joystiq.com/advertise/)

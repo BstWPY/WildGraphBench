@@ -1,0 +1,1533 @@
+# Exports of goods, services and primary income (BoP, current US$)
+
+Exports of goods, services and primary income (BoP, current US$) | Data
+
+===============
+
+[![Image 1: The World Bank](https://data.worldbank.org/assets/images/logo-wb-header-en.svg)](http://www.worldbank.org/)[Data](https://data.worldbank.org/)
+
+[HOME](https://data.worldbank.org/)
+
+[ECONOMIES](https://data360.worldbank.org/en/economies)
+
+[THEMES](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true#)
+
+[DATA & RESOURCES](https://data360.worldbank.org/en/search)
+
+[ABOUT](https://data360.worldbank.org/en/about)
+
+Exports of goods, services and primary income (BoP, current US$)
+
+Close
+
+Browse World Development Indicators by[Country](https://data.worldbank.org/country)or[Indicator](https://data.worldbank.org/indicator)
+
+[](https://data.worldbank.org/)[DataBank](http://databank.worldbank.org/data/home.aspx)[Microdata](http://microdata.worldbank.org/index.php/home)[Data Catalog](https://datacatalog.worldbank.org/)
+
+Menu
+
+*   [Microdata](http://microdata.worldbank.org/index.php/home)
+*   [Data Catalog](http://datacatalog.worldbank.org/)
+*   [DataBank](http://databank.worldbank.org/data/home.aspx)
+
+Browse World Development Indicators by[Country](https://data.worldbank.org/country)[Indicator](https://data.worldbank.org/indicator)
+
+*   [About Us](https://data.worldbank.org/about)
+    *   [Get Started](https://data.worldbank.org/about/get-started)
+    *   [FAQ](https://data.worldbank.org/about/faq)
+    *   [Help Desk](http://datahelpdesk.worldbank.org/)
+    *   [Contact](https://data.worldbank.org/about/contact)
+
+*   [Data Programs](https://data.worldbank.org/about/data-programs)
+    *   [Improving Statistical Capacity](https://data.worldbank.org/about/data-programs#statcap)
+    *   [Global Data Facility](https://www.worldbank.org/en/programs/global-data-facility)
+    *   [International Comparison Program & Purchasing Power Parity](https://data.worldbank.org/about/data-programs#icp)
+    *   [International Household Survey Network (IHSN)](https://data.worldbank.org/about/data-programs#ihsn)
+    *   [Joint External Debt Hub](https://data.worldbank.org/about/data-programs#jedh)
+    *   [Open Data Toolkit](https://data.worldbank.org/about/data-programs#ogd-toolkit)
+    *   [Quarterly External Debt Statistics](https://data.worldbank.org/about/data-programs#qeds)
+
+*   [Products](https://data.worldbank.org/products)
+    *   [World Development Indicators](http://datatopics.worldbank.org/world-development-indicators)
+    *   [International Debt Statistics](https://www.worldbank.org/en/programs/debt-statistics/ids/products)
+    *   [Other Books and Reports](https://data.worldbank.org/products/data-books)
+    *   [Country & Lending Groups](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519)
+    *   [Data Portals and Tools](https://data.worldbank.org/products/tools)
+
+*   [Development Goals](http://datatopics.worldbank.org/sdgs)
+*   [Terms of Use](https://data.worldbank.org/summary-terms-of-use)
+*   [For Developers](https://datahelpdesk.worldbank.org/knowledgebase/articles/889386)
+
+[Exports of goods, services and primary income (BoP, current US$) ================================================================](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD)
+
+Balance of Payments Statistics Yearbook and data files, International Monetary Fund ( IMF )
+
+_License_ : CC BY-4.0[](https://datacatalog.worldbank.org/public-licenses#cc-by)
+
+[Line](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true)[Bar](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true)[Map](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true)
+
+Share Details
+
+Label - [x] 
+
+![Image 2: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)
+
+**1960** - **2024**
+
+*   [Imports of goods, services and primary income (BoP, current US$)![Image 3: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/BM.GSR.TOTL.CD?most_recent_value_desc=true)
+*   [Exports of goods and services (BoP, current US$)![Image 4: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/BX.GSR.GNFS.CD?most_recent_value_desc=true)
+*   [ICT service exports (BoP, current US$)![Image 5: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/BX.GSR.CCIS.CD?most_recent_value_desc=true)
+*   [Insurance and financial services (% of service exports, BoP)![Image 6: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/BX.GSR.INSF.ZS?most_recent_value_desc=true)
+*   [Goods exports (BoP, current US$)![Image 7: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/BX.GSR.MRCH.CD?most_recent_value_desc=true)
+*   [Travel services (% of service exports, BoP)![Image 8: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/BX.GSR.TRVL.ZS?most_recent_value_desc=true)
+*   [Charges for the use of intellectual property, receipts (BoP, current US$)![Image 9: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/BX.GSR.ROYL.CD?most_recent_value_desc=true)
+*   [Service exports (BoP, current US$)![Image 10: A 28x17 small image, likely a logo, icon or avatar](https://data.worldbank.org/assets/images/placeholder.png)](https://data.worldbank.org/indicator/BX.GSR.NFSV.CD?most_recent_value_desc=true)
+
+#### Download
+
+[CSV](https://api.worldbank.org/v2/en/indicator/BX.GSR.TOTL.CD?downloadformat=csv)[XML](https://api.worldbank.org/v2/en/indicator/BX.GSR.TOTL.CD?downloadformat=xml)[EXCEL](https://api.worldbank.org/v2/en/indicator/BX.GSR.TOTL.CD?downloadformat=excel)
+
+[#### DataBank Explore Our DataBank](http://databank.worldbank.org/data/reports.aspx?source=2&series=BX.GSR.TOTL.CD&country=)
+
+All Countries and Economies
+---------------------------
+
+Country
+
+Most Recent Year
+
+Most Recent Value
+
+(Millions)
+
+[United States](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=US)
+
+2024
+
+4,683,597.00
+
+[China](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CN)
+
+2024
+
+4,102,204.61
+
+[Germany](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=DE)
+
+2024
+
+2,405,994.08
+
+[United Kingdom](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GB)
+
+2024
+
+1,642,942.62
+
+[France](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=FR)
+
+2024
+
+1,475,880.57
+
+[Netherlands](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NL)
+
+2024
+
+1,423,781.56
+
+[Japan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=JP)
+
+2024
+
+1,356,550.36
+
+[Singapore](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SG)
+
+2024
+
+1,178,197.52
+
+[Ireland](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=IE)
+
+2023
+
+1,031,457.04
+
+[Hong Kong SAR, China](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=HK)
+
+2024
+
+1,022,143.82
+
+[Italy](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=IT)
+
+2024
+
+916,138.49
+
+[Canada](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CA)
+
+2024
+
+909,435.50
+
+[Korea, Rep.](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KR)
+
+2024
+
+906,472.50
+
+[Switzerland](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CH)
+
+2024
+
+888,519.49
+
+[India](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=IN)
+
+2024
+
+873,092.07
+
+[Spain](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ES)
+
+2024
+
+770,582.99
+
+[Mexico](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MX)
+
+2024
+
+703,901.05
+
+[Belgium](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BE)
+
+2024
+
+635,407.23
+
+[Luxembourg](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LU)
+
+2024
+
+577,961.80
+
+[Poland](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PL)
+
+2024
+
+503,889.00
+
+[Russian Federation](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=RU)
+
+2024
+
+500,828.97
+
+[Australia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AU)
+
+2024
+
+496,046.83
+
+[Viet Nam](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=VN)
+
+2024
+
+434,925.00
+
+[Sweden](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SE)
+
+2024
+
+430,276.44
+
+[Brazil](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BR)
+
+2024
+
+426,686.33
+
+[Saudi Arabia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SA)
+
+2024
+
+401,064.78
+
+[Thailand](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TH)
+
+2024
+
+384,109.43
+
+[Turkiye](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TR)
+
+2024
+
+382,267.00
+
+[Denmark](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=DK)
+
+2024
+
+352,616.39
+
+[Austria](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AT)
+
+2024
+
+349,778.61
+
+[Malaysia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MY)
+
+2024
+
+322,537.95
+
+[Indonesia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ID)
+
+2024
+
+312,122.25
+
+[Norway](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NO)
+
+2024
+
+302,318.79
+
+[Czechia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CZ)
+
+2024
+
+257,278.25
+
+[Hungary](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=HU)
+
+2024
+
+198,766.97
+
+[Israel](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=IL)
+
+2024
+
+171,951.80
+
+[Portugal](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PT)
+
+2024
+
+163,750.61
+
+[Finland](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=FI)
+
+2024
+
+157,678.21
+
+[Romania](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=RO)
+
+2024
+
+145,927.53
+
+[Qatar](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=QA)
+
+2024
+
+144,829.95
+
+[South Africa](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ZA)
+
+2024
+
+138,382.83
+
+[Kuwait](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KW)
+
+2024
+
+129,287.98
+
+[Slovak Republic](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SK)
+
+2024
+
+125,450.56
+
+[Philippines](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PH)
+
+2024
+
+124,732.52
+
+[Chile](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CL)
+
+2024
+
+123,237.06
+
+[Greece](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GR)
+
+2024
+
+120,457.56
+
+[Iraq](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=IQ)
+
+2023
+
+112,490.39
+
+[Argentina](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AR)
+
+2024
+
+103,218.96
+
+[Kazakhstan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KZ)
+
+2024
+
+95,661.11
+
+[Peru](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PE)
+
+2024
+
+88,994.64
+
+[Colombia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CO)
+
+2024
+
+78,691.77
+
+[New Zealand](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NZ)
+
+2024
+
+69,751.78
+
+[Morocco](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MA)
+
+2024
+
+68,870.81
+
+[Egypt, Arab Rep.](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=EG)
+
+2024
+
+66,847.80
+
+[Lithuania](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LT)
+
+2024
+
+66,372.71
+
+[Oman](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=OM)
+
+2023
+
+66,335.24
+
+[Cyprus](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CY)
+
+2024
+
+66,007.70
+
+[Bulgaria](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BG)
+
+2024
+
+65,963.86
+
+[Ukraine](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=UA)
+
+2024
+
+65,271.00
+
+[Slovenia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SI)
+
+2024
+
+62,521.45
+
+[Nigeria](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NG)
+
+2024
+
+61,412.99
+
+[Algeria](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=DZ)
+
+2024
+
+55,781.76
+
+[Macao SAR, China](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MO)
+
+2023
+
+55,234.68
+
+[Bangladesh](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BD)
+
+2024
+
+54,528.08
+
+[Croatia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=HR)
+
+2024
+
+53,771.18
+
+[Belarus](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BY)
+
+2024
+
+51,600.03
+
+[Malta](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MT)
+
+2024
+
+49,859.31
+
+[Serbia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=RS)
+
+2024
+
+49,251.73
+
+[Bahrain](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BH)
+
+2024
+
+46,864.63
+
+[Libya](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LY)
+
+2023
+
+41,787.20
+
+[Panama](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PA)
+
+2024
+
+41,635.52
+
+[Pakistan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PK)
+
+2024
+
+41,238.77
+
+[Ecuador](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=EC)
+
+2024
+
+38,855.14
+
+[Costa Rica](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CR)
+
+2024
+
+38,023.31
+
+[Angola](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AO)
+
+2024
+
+37,595.19
+
+[Azerbaijan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AZ)
+
+2024
+
+36,706.64
+
+[Estonia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=EE)
+
+2024
+
+35,993.29
+
+[Congo, Dem. Rep.](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CD)
+
+2024
+
+35,651.63
+
+[Cambodia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KH)
+
+2024
+
+32,327.06
+
+[Uzbekistan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=UZ)
+
+2024
+
+31,840.70
+
+[Latvia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LV)
+
+2024
+
+31,776.92
+
+[Iran, Islamic Rep.](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=IR)
+
+2000
+
+30,131.00
+
+[Dominican Republic](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=DO)
+
+2024
+
+29,991.30
+
+[Venezuela, RB](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=VE)
+
+2016
+
+29,291.00
+
+[Ghana](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GH)
+
+2024
+
+28,930.68
+
+[Uruguay](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=UY)
+
+2024
+
+25,876.15
+
+[Jordan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=JO)
+
+2024
+
+24,824.23
+
+[Tunisia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TN)
+
+2024
+
+21,040.76
+
+[Kenya](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KE)
+
+2024
+
+20,825.81
+
+[Guatemala](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GT)
+
+2024
+
+20,466.08
+
+[Syrian Arab Republic](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SY)
+
+2010
+
+19,918.61
+
+[Armenia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AM)
+
+2024
+
+19,818.52
+
+[Mauritius](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MU)
+
+2024
+
+19,542.78
+
+[Cote d'Ivoire](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CI)
+
+2023
+
+19,343.01
+
+[Myanmar](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MM)
+
+2019
+
+18,885.50
+
+[Georgia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GE)
+
+2024
+
+18,101.38
+
+[Paraguay](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PY)
+
+2024
+
+17,801.81
+
+[Sri Lanka](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LK)
+
+2023
+
+17,790.41
+
+[Mongolia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MN)
+
+2024
+
+16,913.08
+
+[Iceland](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=IS)
+
+2024
+
+15,390.98
+
+[Tanzania](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TZ)
+
+2023
+
+14,170.06
+
+[Guyana](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GY)
+
+2023
+
+13,842.79
+
+[Papua New Guinea](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PG)
+
+2024
+
+13,574.37
+
+[Bosnia and Herzegovina](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BA)
+
+2024
+
+13,398.34
+
+[Lebanon](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LB)
+
+2023
+
+12,628.34
+
+[Brunei Darussalam](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BN)
+
+2024
+
+12,482.18
+
+[Trinidad and Tobago](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TT)
+
+2024
+
+12,350.00
+
+[El Salvador](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SV)
+
+2024
+
+12,034.53
+
+[Guinea](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GN)
+
+2024
+
+11,761.50
+
+[Zambia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ZM)
+
+2023
+
+11,513.86
+
+[Uganda](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=UG)
+
+2024
+
+11,181.71
+
+[Ethiopia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ET)
+
+2023
+
+10,934.66
+
+[Albania](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AL)
+
+2024
+
+10,886.46
+
+[North Macedonia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MK)
+
+2024
+
+10,700.81
+
+[Nepal](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NP)
+
+2024
+
+10,503.07
+
+[Bolivia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BO)
+
+2024
+
+10,316.35
+
+[Honduras](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=HN)
+
+2024
+
+9,866.66
+
+[Lao PDR](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LA)
+
+2023
+
+9,819.55
+
+[Mozambique](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MZ)
+
+2024
+
+9,759.89
+
+[Cayman Islands](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KY)
+
+2023
+
+8,656.53
+
+[Cameroon](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CM)
+
+2023
+
+8,565.36
+
+[Nicaragua](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NI)
+
+2024
+
+8,512.02
+
+[Congo, Rep.](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CG)
+
+2021
+
+7,811.96
+
+[Senegal](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SN)
+
+2023
+
+7,702.18
+
+[Jamaica](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=JM)
+
+2024
+
+7,694.05
+
+[Zimbabwe](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ZW)
+
+2023
+
+7,609.71
+
+[Bahamas, The](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BS)
+
+2024
+
+6,871.68
+
+[Moldova](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MD)
+
+2024
+
+6,852.21
+
+[Namibia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NA)
+
+2024
+
+6,620.64
+
+[Tajikistan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TJ)
+
+2024
+
+6,544.95
+
+[Sudan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SD)
+
+2022
+
+6,375.47
+
+[Mali](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ML)
+
+2023
+
+6,329.01
+
+[Burkina Faso](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BF)
+
+2023
+
+6,237.47
+
+[Botswana](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BW)
+
+2024
+
+5,832.24
+
+[Djibouti](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=DJ)
+
+2024
+
+5,523.91
+
+[Gabon](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GA)
+
+2015
+
+5,501.13
+
+[Maldives](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MV)
+
+2024
+
+5,460.34
+
+[Benin](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BJ)
+
+2023
+
+4,855.27
+
+[Madagascar](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MG)
+
+2022
+
+4,738.12
+
+[Kosovo](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XK)
+
+2023
+
+4,670.49
+
+[South Sudan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SS)
+
+2023
+
+4,664.03
+
+[Bermuda](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BM)
+
+2023
+
+4,360.63
+
+[Mauritania](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MR)
+
+2024
+
+4,266.96
+
+[Andorra](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AD)
+
+2024
+
+4,162.37
+
+[Montenegro](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ME)
+
+2024
+
+4,147.22
+
+[West Bank and Gaza](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PS)
+
+2024
+
+3,885.90
+
+[San Marino](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SM)
+
+2022
+
+3,733.78
+
+[Kyrgyz Republic](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KG)
+
+2022
+
+3,657.49
+
+[Rwanda](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=RW)
+
+2023
+
+3,559.79
+
+[Aruba](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AW)
+
+2023
+
+3,297.32
+
+[Suriname](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SR)
+
+2024
+
+2,866.17
+
+[New Caledonia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NC)
+
+2016
+
+2,551.05
+
+[Fiji](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=FJ)
+
+2022
+
+2,433.82
+
+[Seychelles](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SC)
+
+2023
+
+2,427.93
+
+[Eswatini](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SZ)
+
+2023
+
+2,301.81
+
+[Barbados](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BB)
+
+2017
+
+2,301.07
+
+[Curacao](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CW)
+
+2023
+
+2,268.84
+
+[Togo](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TG)
+
+2020
+
+2,005.39
+
+[French Polynesia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PF)
+
+2016
+
+1,834.12
+
+[Afghanistan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AF)
+
+2020
+
+1,716.71
+
+[Belize](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BZ)
+
+2024
+
+1,661.97
+
+[St. Lucia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LC)
+
+2024
+
+1,656.97
+
+[Lesotho](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LS)
+
+2024
+
+1,597.87
+
+[Malawi](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MW)
+
+2023
+
+1,551.35
+
+[Sint Maarten (Dutch part)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SX)
+
+2023
+
+1,521.90
+
+[Faroe Islands](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=FO)
+
+2011
+
+1,451.52
+
+[Sierra Leone](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SL)
+
+2023
+
+1,381.56
+
+[Niger](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NE)
+
+2023
+
+1,354.86
+
+[Antigua and Barbuda](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AG)
+
+2024
+
+1,337.92
+
+[Liberia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LR)
+
+2022
+
+1,240.62
+
+[Cabo Verde](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CV)
+
+2024
+
+1,207.85
+
+[Haiti](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=HT)
+
+2023
+
+1,146.53
+
+[Bhutan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BT)
+
+2024
+
+973.42
+
+[Yemen, Rep.](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=YE)
+
+2016
+
+956.82
+
+[Gambia, The](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GM)
+
+2024
+
+947.13
+
+[Grenada](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GD)
+
+2024
+
+891.19
+
+[Timor-Leste](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TL)
+
+2024
+
+854.12
+
+[Turks and Caicos Islands](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TC)
+
+2018
+
+845.12
+
+[Solomon Islands](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SB)
+
+2024
+
+711.82
+
+[St. Kitts and Nevis](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KN)
+
+2024
+
+549.67
+
+[St. Vincent and the Grenadines](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=VC)
+
+2024
+
+437.52
+
+[Burundi](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=BI)
+
+2023
+
+408.45
+
+[Samoa](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=WS)
+
+2024
+
+405.06
+
+[Guinea-Bissau](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GW)
+
+2023
+
+364.13
+
+[Vanuatu](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=VU)
+
+2022
+
+361.74
+
+[Dominica](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=DM)
+
+2024
+
+224.16
+
+[Marshall Islands](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MH)
+
+2021
+
+219.39
+
+[Kiribati](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KI)
+
+2024
+
+212.21
+
+[Chad](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TD)
+
+1994
+
+195.14
+
+[Tonga](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TO)
+
+2024
+
+192.63
+
+[Central African Republic](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CF)
+
+1993
+
+186.18
+
+[Micronesia, Fed. Sts.](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=FM)
+
+2014
+
+180.83
+
+[Equatorial Guinea](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GQ)
+
+1996
+
+180.36
+
+[Nauru](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=NR)
+
+2023
+
+168.28
+
+[Comoros](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KM)
+
+2023
+
+163.55
+
+[Sao Tome and Principe](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ST)
+
+2022
+
+111.12
+
+[Eritrea](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ER)
+
+2000
+
+106.86
+
+[Palau](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PW)
+
+2022
+
+48.34
+
+[Tuvalu](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TV)
+
+2022
+
+44.61
+
+[World](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=1W)
+
+2024
+
+39,690,969.74
+
+[OECD members](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=OE)
+
+2024
+
+24,891,681.13
+
+[Europe & Central Asia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=Z7)
+
+2024
+
+16,660,684.58
+
+[European Union](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=EU)
+
+2024
+
+12,492,390.91
+
+[East Asia & Pacific](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=Z4)
+
+2024
+
+11,440,294.55
+
+[Euro area](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XC)
+
+2024
+
+10,535,982.93
+
+[East Asia & Pacific (excluding high income)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=4E)
+
+2024
+
+5,793,699.92
+
+[North America](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XU)
+
+2024
+
+5,597,596.34
+
+[Latin America & Caribbean](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ZJ)
+
+2024
+
+2,055,114.72
+
+[Latin America & Caribbean (excluding high income)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XJ)
+
+2024
+
+1,572,717.02
+
+[Central Europe and the Baltics](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=B8)
+
+2024
+
+1,547,711.72
+
+[South Asia](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=8S)
+
+2024
+
+963,530.03
+
+[Europe & Central Asia (excluding high income)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=7E)
+
+2024
+
+837,061.71
+
+[Middle East, North Africa, Afghanistan & Pakistan (excluding high income)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XQ)
+
+2023
+
+627,432.60
+
+[Sub-Saharan Africa](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ZG)
+
+2024
+
+562,923.33
+
+[Sub-Saharan Africa (excluding high income)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ZF)
+
+2024
+
+548,934.82
+
+[Fragile and conflict affected situations](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=F1)
+
+2023
+
+502,912.95
+
+[Least developed countries: UN classification](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XL)
+
+2023
+
+349,840.22
+
+[Small states](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=S1)
+
+2024
+
+293,044.30
+
+[Heavily indebted poor countries (HIPC)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XE)
+
+2023
+
+268,754.66
+
+[Other small states](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=S4)
+
+2024
+
+245,686.73
+
+[Caribbean small states](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=S3)
+
+2024
+
+47,499.54
+
+[Pacific island small states](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=S2)
+
+2022
+
+4,459.66
+
+[High income](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XD)
+
+2024
+
+29,323,606.92
+
+[Low & middle income](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XO)
+
+2024
+
+10,334,708.46
+
+[Middle income](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XP)
+
+2024
+
+10,209,810.44
+
+[Upper middle income](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XT)
+
+2024
+
+8,018,426.41
+
+[Lower middle income](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XN)
+
+2024
+
+2,183,072.45
+
+[Low income](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=XM)
+
+2023
+
+125,008.41
+
+[American Samoa](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AS)
+
+[United Arab Emirates](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=AE)
+
+[Virgin Islands (U.S.)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=VI)
+
+[Liechtenstein](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=LI)
+
+[British Virgin Islands](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=VG)
+
+[Korea, Dem. People's Rep.](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=KP)
+
+[Isle of Man](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=IM)
+
+[Northern Mariana Islands](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MP)
+
+[Monaco](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MC)
+
+[St. Martin (French part)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=MF)
+
+[Somalia, Fed. Rep.](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=SO)
+
+[Puerto Rico (US)](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=PR)
+
+[Turkmenistan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=TM)
+
+[Gibraltar](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GI)
+
+[Greenland](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GL)
+
+[Guam](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=GU)
+
+[Cuba](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=CU)
+
+[Channel Islands](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=JG)
+
+[Arab World](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=1A)
+
+[Middle East, North Africa, Afghanistan & Pakistan](https://data.worldbank.org/indicator/BX.GSR.TOTL.CD?most_recent_value_desc=true&locations=ZQ)
+
+[Help us improve this site](http://goo.gl/forms/Hw4zfOQufm)Help / Feedback
+
+*   [![Image 11: The World Bank Working for a World Free of Poverty](https://data.worldbank.org/assets/images/logo-wbg-footer-en.svg)](http://www.worldbank.org/)
+*   [IBRD](http://www.worldbank.org/en/about/what-we-do/brief/ibrd)
+*   [IDA](http://www.worldbank.org/ida)
+*   [IFC](http://www.ifc.org/)
+*   [MIGA](http://www.miga.org/)
+*   [ICSID](http://icsid.worldbank.org/)
+*   [![Image 12: World Bank Facebook](https://data.worldbank.org/media/social/facebook.svg)](https://www.facebook.com/worldbank/)[![Image 13: World Bank Twitter](https://data.worldbank.org/media/social/twitter.svg)](https://x.com/worldbankdata)[![Image 14: World Bank Github](https://data.worldbank.org/media/social/github.svg)](https://github.com/worldbank)[![Image 15: World Bank Linkedin](https://data.worldbank.org/media/social/linkedin.svg)](https://www.linkedin.com/showcase/world-bank-development-economics/posts/?feedView=all) 
+
+*   [Legal](http://www.worldbank.org/en/about/legal)
+*   [Privacy Notice](https://www.worldbank.org/en/about/legal/privacy-notice)
+*   [Access to Information](http://www.worldbank.org/en/access-to-information)
+*   [Jobs](http://www.worldbank.org/jobs)
+*   [Contact](http://www.worldbank.org/contacts)
+
+© 2025 The World Bank Group, All Rights Reserved.
+
+[REPORT FRAUD OR CORRUPTION](http://www.worldbank.org/fraudandcorruption?clear)
+
+This site uses cookies to optimize functionality and give you the best possible experience. If you continue to navigate this website beyond this page, cookies will be placed on your browser. To learn more about cookies, [click here.](https://www.worldbank.org/en/about/legal/privacy-notice)
+
+×

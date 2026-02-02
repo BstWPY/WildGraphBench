@@ -1,0 +1,208 @@
+# Mortality Analyses
+
+#### Mortality in the most affected countries
+
+For the twenty countries currently most affected by COVID-19 worldwide, the bars in the chart below show the number of deaths either per 100 confirmed cases (observed case-fatality ratio) or per 100,000 population (this represents a country’s general population, with both confirmed cases and healthy people). Countries at the top of this figure have the most deaths proportionally to their COVID-19 cases or population, not necessarily the most deaths overall.
+
+#### Worldwide mortality
+
+The diagonal lines on the chart below correspond to different case fatality ratios (the number of deaths divided by the number of confirmed cases). Countries falling on the uppermost lines have the highest observed case fatality ratios. Points with a black border correspond to the 20 most affected countries by COVID-19 worldwide, based on the number of deaths. Hover over the circles to see the country name and a ratio value. Use the boxes on the top to toggle between: 1) mortality per absolute number of cases (total confirmed cases within a country); and mortality per 100,000 people (this represents a country’s general population, with both confirmed cases and healthy people).
+
+Cases and mortality by country
+------------------------------
+
+| Country | Confirmed | Deaths | Case-Fatality | Deaths/100K pop. |
+| --- | --- | --- | --- | --- |
+| Peru | 4,487,553 | 219,539 | 4.9% | 665.84 |
+| Bulgaria | 1,297,523 | 38,228 | 2.9% | 550.17 |
+| Hungary | 2,196,804 | 48,762 | 2.2% | 504.76 |
+| Bosnia and Herzegovina | 401,729 | 16,280 | 4.1% | 496.22 |
+| North Macedonia | 346,852 | 9,662 | 2.8% | 463.77 |
+| Montenegro | 288,808 | 2,808 | 1.0% | 447.09 |
+| Croatia | 1,269,326 | 17,987 | 1.4% | 438.14 |
+| Georgia | 1,827,537 | 16,971 | 0.9% | 425.43 |
+| Czechia | 4,618,256 | 42,491 | 0.9% | 396.78 |
+| Slovakia | 2,667,551 | 21,035 | 0.8% | 387.05 |
+| San Marino | 23,616 | 122 | 0.5% | 359.48 |
+| Lithuania | 1,307,448 | 9,596 | 0.7% | 352.50 |
+| Romania | 3,346,046 | 67,736 | 2.0% | 352.10 |
+| US | 103,802,702 | 1,123,836 | 1.1% | 341.11 |
+| Slovenia | 1,331,707 | 7,078 | 0.5% | 340.46 |
+| Chile | 5,192,286 | 64,273 | 1.2% | 336.22 |
+| Greece | 5,548,487 | 34,779 | 0.6% | 333.67 |
+| Latvia | 976,255 | 6,269 | 0.6% | 332.36 |
+| Brazil | 37,076,053 | 699,276 | 1.9% | 328.98 |
+| United Kingdom | 24,658,705 | 220,721 | 0.9% | 325.13 |
+| Poland | 6,444,960 | 119,010 | 1.8% | 314.45 |
+| Italy | 25,603,510 | 188,322 | 0.7% | 311.47 |
+| Trinidad and Tobago | 189,918 | 4,355 | 2.3% | 311.18 |
+| Moldova | 611,140 | 12,003 | 2.0% | 298.01 |
+| Armenia | 447,308 | 8,727 | 2.0% | 294.51 |
+| Belgium | 4,739,365 | 33,814 | 0.7% | 294.22 |
+| Argentina | 10,044,957 | 130,472 | 1.3% | 288.68 |
+| Colombia | 6,359,093 | 142,339 | 2.2% | 279.74 |
+| Paraguay | 808,401 | 19,878 | 2.5% | 278.69 |
+| Ukraine | 5,711,929 | 119,283 | 2.1% | 272.75 |
+| Russia | 22,075,858 | 388,478 | 1.8% | 266.20 |
+| Mexico | 7,483,444 | 333,188 | 4.5% | 260.73 |
+| Portugal | 5,570,473 | 26,266 | 0.5% | 257.59 |
+| Spain | 13,770,429 | 119,479 | 0.9% | 255.54 |
+| France | 39,866,718 | 166,176 | 0.4% | 254.68 |
+| Tunisia | 1,151,126 | 29,341 | 2.5% | 248.26 |
+| Austria | 5,961,143 | 21,970 | 0.4% | 243.94 |
+| Suriname | 82,467 | 1,404 | 1.7% | 239.33 |
+| Sweden | 2,699,339 | 23,777 | 0.9% | 235.43 |
+| Liechtenstein | 21,432 | 89 | 0.4% | 233.37 |
+| Saint Lucia | 30,004 | 409 | 1.4% | 222.73 |
+| Estonia | 615,433 | 2,946 | 0.5% | 222.08 |
+| Uruguay | 1,034,303 | 7,617 | 0.7% | 219.27 |
+| Andorra | 47,890 | 165 | 0.3% | 213.55 |
+| Bahamas | 37,491 | 833 | 2.2% | 211.83 |
+| Grenada | 19,680 | 238 | 1.2% | 211.52 |
+| Serbia | 2,500,142 | 17,881 | 0.7% | 204.65 |
+| Ecuador | 1,057,121 | 36,014 | 3.4% | 204.13 |
+| Germany | 38,249,060 | 168,935 | 0.4% | 203.16 |
+| Barbados | 106,798 | 579 | 0.5% | 201.48 |
+| Panama | 1,031,731 | 8,609 | 0.8% | 199.52 |
+| Luxembourg | 317,367 | 1,220 | 0.4% | 194.90 |
+| Bolivia | 1,194,277 | 22,365 | 1.9% | 191.60 |
+| Malta | 117,610 | 828 | 0.7% | 187.53 |
+| Costa Rica | 1,209,725 | 9,245 | 0.8% | 181.48 |
+| Kosovo | 273,312 | 3,211 | 1.2% | 177.37 |
+| Ireland | 1,704,502 | 8,708 | 0.5% | 176.35 |
+| Seychelles | 50,665 | 172 | 0.3% | 174.90 |
+| Belize | 70,757 | 688 | 1.0% | 173.03 |
+| South Africa | 4,067,067 | 102,595 | 2.5% | 172.98 |
+| Iran | 7,572,311 | 144,933 | 1.9% | 172.55 |
+| Monaco | 16,121 | 67 | 0.4% | 170.73 |
+| Guyana | 73,075 | 1,298 | 1.8% | 165.02 |
+| Switzerland | 4,413,911 | 14,210 | 0.3% | 164.19 |
+| Finland | 1,463,644 | 8,967 | 0.6% | 161.84 |
+| Namibia | 171,156 | 4,090 | 2.4% | 160.97 |
+| Lebanon | 1,232,828 | 10,841 | 0.9% | 158.83 |
+| Antigua and Barbuda | 9,106 | 146 | 1.6% | 149.09 |
+| Denmark | 3,451,036 | 8,345 | 0.2% | 142.96 |
+| Israel | 4,803,824 | 12,329 | 0.3% | 142.44 |
+| Jordan | 1,746,997 | 14,122 | 0.8% | 138.41 |
+| Netherlands | 8,712,835 | 23,705 | 0.3% | 138.34 |
+| Canada | 4,617,095 | 51,720 | 1.1% | 135.23 |
+| Albania | 334,457 | 3,598 | 1.1% | 125.03 |
+| Eswatini | 74,267 | 1,425 | 1.9% | 122.83 |
+| Turkey | 17,042,722 | 101,492 | 0.6% | 120.34 |
+| Botswana | 329,758 | 2,801 | 0.8% | 119.11 |
+| Jamaica | 154,416 | 3,514 | 2.3% | 118.67 |
+| Malaysia | 5,044,718 | 36,967 | 0.7% | 114.22 |
+| Guatemala | 1,238,247 | 20,182 | 1.6% | 112.65 |
+| Honduras | 472,250 | 11,111 | 2.4% | 112.18 |
+| West Bank and Gaza | 703,228 | 5,708 | 0.8% | 111.89 |
+| Saint Vincent and the Grenadines | 9,589 | 123 | 1.3% | 110.86 |
+| Cyprus | 650,685 | 1,330 | 0.2% | 110.16 |
+| Dominica | 15,760 | 74 | 0.5% | 102.79 |
+| Kazakhstan | 1,498,668 | 19,071 | 1.3% | 101.57 |
+| Azerbaijan | 828,825 | 10,138 | 1.2% | 99.99 |
+| Fiji | 68,898 | 883 | 1.3% | 98.50 |
+| Norway | 1,479,506 | 5,213 | 0.4% | 96.16 |
+| Libya | 507,187 | 6,437 | 1.3% | 93.68 |
+| Bahrain | 710,693 | 1,553 | 0.2% | 91.27 |
+| Oman | 399,449 | 4,628 | 1.2% | 90.63 |
+| Saint Kitts and Nevis | 6,597 | 47 | 0.7% | 88.36 |
+| Mauritius | 296,042 | 1,044 | 0.4% | 82.09 |
+| Sri Lanka | 672,039 | 16,830 | 2.5% | 78.60 |
+| Iceland | 209,137 | 263 | 0.1% | 77.07 |
+| Australia | 11,399,460 | 19,574 | 0.2% | 76.88 |
+| Belarus | 994,037 | 7,118 | 0.7% | 75.33 |
+| Cuba | 1,112,643 | 8,530 | 0.8% | 75.31 |
+| Cabo Verde | 63,244 | 413 | 0.7% | 74.28 |
+| Taiwan* | 9,970,937 | 17,672 | 0.2% | 74.20 |
+| Korea, South | 30,615,522 | 34,093 | 0.1% | 66.50 |
+| El Salvador | 201,785 | 4,230 | 2.1% | 65.22 |
+| Mongolia | 1,007,900 | 2,136 | 0.2% | 65.16 |
+| Iraq | 2,465,545 | 25,375 | 1.0% | 63.09 |
+| Philippines | 4,077,452 | 66,188 | 1.6% | 60.40 |
+| Kuwait | 663,860 | 2,570 | 0.4% | 60.18 |
+| Indonesia | 6,738,225 | 160,941 | 2.4% | 58.84 |
+| Japan | 33,320,438 | 72,997 | 0.2% | 57.72 |
+| Maldives | 185,738 | 311 | 0.2% | 57.53 |
+| Micronesia | 23,948 | 61 | 0.3% | 53.60 |
+| New Zealand | 2,236,114 | 2,550 | 0.1% | 52.88 |
+| Brunei | 279,661 | 225 | 0.1% | 51.43 |
+| Palau | 5,991 | 9 | 0.2% | 49.98 |
+| Thailand | 4,728,182 | 33,918 | 0.7% | 48.59 |
+| Kyrgyzstan | 206,708 | 2,991 | 1.4% | 45.84 |
+| Vietnam | 11,526,994 | 43,186 | 0.4% | 44.37 |
+| Morocco | 1,272,490 | 16,296 | 1.3% | 44.15 |
+| Nepal | 1,001,154 | 12,020 | 1.2% | 41.25 |
+| Dominican Republic | 660,790 | 4,384 | 0.7% | 40.41 |
+| India | 44,690,738 | 530,779 | 1.2% | 38.46 |
+| Zimbabwe | 264,276 | 5,671 | 2.1% | 38.16 |
+| Burma | 633,950 | 19,490 | 3.1% | 35.82 |
+| Sao Tome and Principe | 6,281 | 77 | 1.2% | 35.13 |
+| Lesotho | 34,790 | 723 | 2.1% | 33.75 |
+| Singapore | 2,235,294 | 1,722 | 0.1% | 29.43 |
+| Marshall Islands | 15,649 | 17 | 0.1% | 29.10 |
+| Saudi Arabia | 830,127 | 9,618 | 1.2% | 27.63 |
+| Egypt | 515,759 | 24,812 | 4.8% | 24.25 |
+| Qatar | 495,090 | 688 | 0.1% | 23.88 |
+| United Arab Emirates | 1,053,213 | 2,349 | 0.2% | 23.75 |
+| Solomon Islands | 24,575 | 153 | 0.6% | 23.44 |
+| Zambia | 343,135 | 4,057 | 1.2% | 22.07 |
+| Mauritania | 63,668 | 997 | 1.6% | 21.44 |
+| Venezuela | 552,162 | 5,854 | 1.1% | 20.59 |
+| Afghanistan | 209,451 | 7,896 | 3.8% | 20.28 |
+| Djibouti | 15,690 | 189 | 1.2% | 19.13 |
+| Comoros | 9,008 | 161 | 1.8% | 18.51 |
+| Cambodia | 138,719 | 3,056 | 2.2% | 18.28 |
+| Syria | 57,467 | 3,164 | 5.5% | 18.08 |
+| Bangladesh | 2,037,871 | 29,445 | 1.4% | 17.88 |
+| Algeria | 271,496 | 6,881 | 2.5% | 15.69 |
+| Gambia | 12,598 | 372 | 3.0% | 15.39 |
+| Kiribati | 5,014 | 18 | 0.4% | 15.31 |
+| Samoa | 16,607 | 29 | 0.2% | 14.79 |
+| Malawi | 88,707 | 2,686 | 3.0% | 14.04 |
+| Pakistan | 1,577,411 | 30,644 | 1.9% | 13.87 |
+| Gabon | 48,981 | 306 | 0.6% | 13.75 |
+| Equatorial Guinea | 17,229 | 183 | 1.1% | 13.04 |
+| Tonga | 16,810 | 13 | 0.1% | 12.30 |
+| Senegal | 88,926 | 1,971 | 2.2% | 11.77 |
+| Sudan | 63,829 | 5,017 | 7.9% | 11.44 |
+| Rwanda | 133,194 | 1,468 | 1.1% | 11.33 |
+| Kenya | 342,937 | 5,688 | 1.7% | 10.58 |
+| Timor-Leste | 23,419 | 138 | 0.6% | 10.47 |
+| Laos | 218,023 | 758 | 0.3% | 10.42 |
+| Guinea-Bissau | 8,960 | 176 | 2.0% | 8.94 |
+| Somalia | 27,324 | 1,361 | 5.0% | 8.56 |
+| Uganda | 170,544 | 3,630 | 2.1% | 7.94 |
+| Haiti | 34,202 | 860 | 2.5% | 7.54 |
+| Papua New Guinea | 46,825 | 670 | 1.4% | 7.49 |
+| Cameroon | 124,392 | 1,965 | 1.6% | 7.40 |
+| Yemen | 11,945 | 2,159 | 18.1% | 7.24 |
+| Mozambique | 233,214 | 2,242 | 1.0% | 7.17 |
+| China | 4,903,524 | 101,056 | 2.1% | 7.16 |
+| Congo (Brazzaville) | 25,087 | 388 | 1.5% | 7.03 |
+| Ethiopia | 500,116 | 7,572 | 1.5% | 6.59 |
+| Angola | 105,288 | 1,933 | 1.8% | 5.88 |
+| Liberia | 8,090 | 295 | 3.6% | 5.83 |
+| Madagascar | 67,889 | 1,423 | 2.1% | 5.14 |
+| Uzbekistan | 251,247 | 1,637 | 0.7% | 4.89 |
+| Vanuatu | 12,014 | 14 | 0.1% | 4.78 |
+| Ghana | 171,229 | 1,462 | 0.9% | 4.71 |
+| Nicaragua | 15,655 | 245 | 1.6% | 3.70 |
+| Mali | 33,062 | 743 | 2.2% | 3.67 |
+| Guinea | 38,267 | 467 | 1.2% | 3.56 |
+| Togo | 39,396 | 290 | 0.7% | 3.50 |
+| Cote d'Ivoire | 88,263 | 834 | 0.9% | 3.16 |
+| Eritrea | 10,189 | 103 | 1.0% | 2.90 |
+| Bhutan | 62,627 | 21 | 0.0% | 2.72 |
+| Central African Republic | 15,368 | 113 | 0.7% | 2.34 |
+| Burkina Faso | 22,056 | 396 | 1.8% | 1.89 |
+| Congo (Kinshasa) | 95,749 | 1,464 | 1.5% | 1.63 |
+| Sierra Leone | 7,760 | 126 | 1.6% | 1.58 |
+| Nigeria | 266,598 | 3,155 | 1.2% | 1.53 |
+| Tanzania | 42,906 | 846 | 2.0% | 1.42 |
+| Benin | 27,999 | 163 | 0.6% | 1.34 |
+| Tajikistan | 17,786 | 125 | 0.7% | 1.31 |
+| Niger | 9,508 | 315 | 3.3% | 1.30 |
+| South Sudan | 18,368 | 138 | 0.8% | 1.23 |
+| Chad | 7,679 | 194 | 2.5% | 1.18 |
+| Burundi | 53,631 | 38 | 0.1% | 0.32 |
+| Korea, North | 1 | 6 | 600.0% | 0.02 |

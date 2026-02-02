@@ -1,0 +1,82 @@
+# The Top Twenty: Primorial
+
+The Top Twenty: Primorial
+
+===============
+
+The Wayback Machine - https://primes.utm.edu/top20/page.php?id=5
+
+![Image 1: The Top Twenty--a Prime Page Collection](http://primes.utm.edu/top20/includes/gifs/top_twenty.gif)Primorial
+=========
+
+This page : [Definition(s)](http://primes.utm.edu/top20/page.php?id=5#notes) | [Records](http://primes.utm.edu/top20/page.php?id=5#records) | [References](http://primes.utm.edu/top20/page.php?id=5#references) | [Related Pages](http://primes.utm.edu/top20/page.php?id=5#related) |
+
+*   [Home](http://primes.utm.edu/top20/home.php)
+*   [Index](http://primes.utm.edu/top20/index.php)
+*   [Search](http://primes.utm.edu/top20/search.php)
+*   [Sizes](http://primes.utm.edu/top20/sizes.php)
+*   [Trends](http://primes.utm.edu/top20/trends.php)
+*   [id=5](http://primes.utm.edu/top20/)
+
+### The Prime Pages
+
+*   [Prime Pages' Home](http://primes.utm.edu/)
+*   [Top 5000's Primes](http://primes.utm.edu/primes/)
+*   [Top 5000's Persons](http://primes.utm.edu/bios/)
+*   [Finding Primes](http://primes.utm.edu/prove/)
+*   [Prime Glossary](http://primes.utm.edu/glossary/)
+*   [Prime Curios!](http://primes.utm.edu/curios/)
+
+**Let me know if something in the Top20 is not working (caldwell@utm.edu).**
+[](http://primes.utm.edu/top20/page.php?id=5)The Prime Pages keeps a list of the 5000 largest known primes, plus a few each of certain selected archivable forms and classes. These forms are defined in this collection's home page. This page is about one of those forms. Comments and suggestions [requested](mailto:caldwell@utm.edu).[](http://primes.utm.edu/top20/page.php?id=5)
+
+### [![Image 2: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=5#top) Definitions and Notes
+
+(Note that [factorial](http://primes.utm.edu/top20/page.php?id=30) and [multifactorial](http://primes.utm.edu/top20/page.php?id=51)[primes](http://primes.utm.edu/glossary/xpage/Prime.html) now have their own pages.) 
+Let _p_# (_p_-[primorial](http://primes.utm.edu/glossary/xpage/Primorial.html)) be the product of the primes less than or equal to _p_ so
+
+*   3# = 2.3 = 6, 
+*   5# = 2.3.5 = 30, and 
+*   13# = 2.3.5.7.11.13 = 30030. 
+
+[](http://primes.utm.edu/top20/page.php?id=5)**Primorial primes** come in two flavors: primorial plus one: _p_#+1, and primorial minus one: _p_#-1. _p_#+1 is prime for the primes _p_=2, 3, 5, 7, 11, 31, 379, 1019, 1021, 2657, 3229, 4547, 4787, 11549, 13649, 18523, 23801, 24029 and 42209 (18241 digits). (See [Borning72], [Templer80], [BCP82], and [Caldwell95].) _p_#-1 is prime for primes _p_=3, 5, 11, 13, 41, 89, 317, 337, 991, 1873, 2053, 2377, 4093, 4297, 4583, 6569, 13033 and 15877 (6845 digits). Both forms have been tested for all primes _p_< 100000 [CG00]. There is more information of primorial and factorial primes in [Dubner87] and [Dubner89a].
+
+[](http://primes.utm.edu/top20/page.php?id=5)
+### [![Image 3: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=5#top) Record Primes of this Type
+
+> | rank | prime | digits | who | when | comment |
+> | --- | --- | --- | --- | --- | --- |
+> | [1](http://primes.utm.edu/primes/page.php?id=105273) | **1098133# - 1** | 476311 | [p346](http://primes.utm.edu/bios/code.php?code=p346) | Mar 2012 | Primorial |
+> | [2](http://primes.utm.edu/primes/page.php?id=97061) | **843301# - 1** | 365851 | [p302](http://primes.utm.edu/bios/code.php?code=p302) | Dec 2010 | Primorial |
+> | [3](http://primes.utm.edu/primes/page.php?id=65) | **392113# + 1** | 169966 | [p16](http://primes.utm.edu/bios/code.php?code=p16) | Sep 2001 | Primorial |
+> | [4](http://primes.utm.edu/primes/page.php?id=69) | **366439# + 1** | 158936 | [p16](http://primes.utm.edu/bios/code.php?code=p16) | Aug 2001 | Primorial |
+> | [5](http://primes.utm.edu/primes/page.php?id=411) | **145823# + 1** | 63142 | [p21](http://primes.utm.edu/bios/code.php?code=p21) | May 2000 | Primorial |
+> | [6](http://primes.utm.edu/primes/page.php?id=10216) | **42209# + 1** | 18241 | [p8](http://primes.utm.edu/bios/code.php?code=p8) | May 1999 | Primorial |
+> | [7](http://primes.utm.edu/primes/page.php?id=17239) | **24029# + 1** | 10387 | [C](http://primes.utm.edu/bios/code.php?code=C) | Dec 1993 | Primorial |
+> | [8](http://primes.utm.edu/primes/page.php?id=17298) | **23801# + 1** | 10273 | [C](http://primes.utm.edu/bios/code.php?code=C) | Dec 1993 | Primorial |
+> | [9](http://primes.utm.edu/primes/page.php?id=19513) | **18523# + 1** | 8002 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1989 | Primorial |
+> | [10](http://primes.utm.edu/primes/page.php?id=21658) | **15877# - 1** | 6845 | [CD](http://primes.utm.edu/bios/code.php?code=CD) | Dec 1992 | Primorial |
+> | [11](http://primes.utm.edu/primes/page.php?id=23075) | **13649# + 1** | 5862 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1987 | Primorial |
+> | [12](http://primes.utm.edu/primes/page.php?id=23403) | **13033# - 1** | 5610 | [CD](http://primes.utm.edu/bios/code.php?code=CD) | Dec 1992 | Primorial |
+> | [13](http://primes.utm.edu/primes/page.php?id=25578) | **11549# + 1** | 4951 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1986 | Primorial |
+> | [14](http://primes.utm.edu/primes/page.php?id=29992) | **6569# - 1** | 2811 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1992 | Primorial |
+> | [15](http://primes.utm.edu/primes/page.php?id=35269) | **4787# + 1** | 2038 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1984 | Primorial |
+> | [16](http://primes.utm.edu/primes/page.php?id=37447) | **4583# - 1** | 1953 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1992 | Primorial |
+> | [17](http://primes.utm.edu/primes/page.php?id=37490) | **4547# + 1** | 1939 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1984 | Primorial |
+> | [18](http://primes.utm.edu/primes/page.php?id=37739) | **4297# - 1** | 1844 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1992 | Primorial |
+> | [19](http://primes.utm.edu/primes/page.php?id=38100) | **4093# - 1** | 1750 | [CD](http://primes.utm.edu/bios/code.php?code=CD) | Oct 1992 | Primorial |
+> | [20](http://primes.utm.edu/primes/page.php?id=40847) | **3229# + 1** | 1368 | [D](http://primes.utm.edu/bios/code.php?code=D) | Dec 1984 | Primorial |
+
+[](http://primes.utm.edu/top20/page.php?id=5)
+### [![Image 4: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=5#top) Related Pages
+
+*   The Prime Glossary's [Primorial prime](http://primes.utm.edu/glossary/page.php?sort=PrimorialPrime)
+*   [The chronology of prime number records'](http://yves.gallot.pagesperso-orange.fr/primes/chrrcds.html#factorial) Factorial/Primorial Prime Records by year
+*   The Top 20 [factorial primes](http://primes.utm.edu/top20/page.php?id=30)
+
+[](http://primes.utm.edu/top20/page.php?id=5)
+### [![Image 5: (up)](http://primes.utm.edu/top20/includes/gifs/up3.gif)](http://primes.utm.edu/top20/page.php?id=5#top) References
+
+> BCP82**J. P. Buhler**, **R. E. Crandall** and **M. A. Penk**, "Primes of the form _n!_± 1 and 2 · 3 · 5 ..._p_± 1," _Math. Comp._, **38**:158 (1982) 639--643. Corrigendum in _Math. Comp._**40** (1983), 727.**[MR 83c:10006](http://www.ams.org/mathscinet-getitem?mr=83c:10006)**Borning72**A. Borning**, "Some results for _k!_± 1 and 2 · 3 · 5 ..._p_± 1," _Math. Comp._, **26** (1972) 567--570.**[MR 46:7133](http://www.ams.org/mathscinet-getitem?mr=46:7133)**Caldwell95**C. Caldwell**, "On the primality of _n!_± 1 and 2 · 3 · 5 ..._p_± 1," _Math. Comp._, **64**:2 (1995) 889--890.**[MR 95g:11003](http://www.ams.org/mathscinet-getitem?mr=95g:11003)**CD93**C. Caldwell** and **H. Dubner**, "Primorial, factorial and multifactorial primes," _Math. Spectrum_, **26**:1 (1993/4) 1--7. CG2000**C. Caldwell** and **Y. Gallot**, "On the primality of _n!_± 1 and 2 × 3 × 5 × ... ×_p_± 1," _Math. Comp._, **71**:237 (2002) 441--448.**[MR 2002g:11011](http://www.ams.org/mathscinet-getitem?mr=2002g:11011)** ([Abstract available](http://primes.utm.edu/references/refs.cgi?long=CG2000 "Entry with abstract")) ([Annotation available](http://primes.utm.edu/references/refs.cgi?long=CG2000 "Entry with annotation")) Dubner87**H. Dubner**, "Factorial and primorial primes," _J. Recreational Math._, **19**:3 (1987) 197--203. Dubner89a**H. Dubner**, "A new primorial prime," _J. Recreational Math._, **21**:4 (1989) 276. Krizek2008**M. Křížek** and **L. Somer**, "Euclidean primes have the minimum number of primitive roots," _JP J. Algebra Number Theory Appl._, **12**:1 (2008) 121--127.**[MR2494078](http://www.ams.org/mathscinet-getitem?mr=MR2494078)**Templer80**M. Templer**, "On the primality of _k! +_ 1 and 2 _*_ 3 _*_ 5 _*_..._* p +_ 1," _Math. Comp._, **34** (1980) 303-304.**[MR 80j:10010](http://www.ams.org/mathscinet-getitem?mr=80j:10010)**
+
+[Chris K. Caldwell](https://www.utm.edu/~caldwell/) © 1996-2021 ([all rights reserved](http://primes.utm.edu/top20/includes/copyright.php))

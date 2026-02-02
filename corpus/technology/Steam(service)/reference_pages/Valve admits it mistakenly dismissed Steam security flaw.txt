@@ -1,0 +1,239 @@
+# Valve admits it mistakenly dismissed Steam security flaw
+
+Valve expands bug bounty program for 'ethical hackers' after mistakenly dismissing Steam security flaw | PC Gamer
+
+===============
+
+The Wayback Machine - https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/
+
+[Skip to main content](https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/#main)
+
+[PC Gamer THE GLOBAL AUTHORITY ON PC GAMES](https://www.pcgamer.com/)
+
+- [x] Search 
+
+Subscribe
+
+[(opens in new tab)](http://steamcommunity.com/groups/pcgamer)[(opens in new tab)](https://www.facebook.com/pcgamermagazine)[(opens in new tab)](https://twitter.com/pcgamer)[(opens in new tab)](https://www.youtube.com/user/pcgamer)[(opens in new tab)](https://www.twitch.tv/pcgamer)[(opens in new tab)](https://flipboard.com/@PC_Gamer_)
+
+US Edition
+
+[UK](https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/)[US](https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/)[Canada](https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/)[Australia](https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/)
+
+[PC Gamer Magazine Subscription (opens in new tab)](https://www.awin1.com/awclick.php?awinmid=2961&awinaffid=103504&clickref=pcg-us-9851178469960983000&p=https%3A%2F%2Fwww.magazinesdirect.com%2FPCU-brandsite)
+
+[![Image 2: PC Gamer Magazine Subscription](https://search-api.fie.future.net.uk/img/misc/no-image-available.svg) (opens in new tab)](https://www.awin1.com/awclick.php?awinmid=2961&awinaffid=103504&clickref=pcg-us-9851178469960983000&p=https%3A%2F%2Fwww.magazinesdirect.com%2FPCU-brandsite)
+
+Why subscribe?
+
+*   Subscribe to the world's #1 PC gaming mag
+*   Try a single issue or save on a subscription
+*   Issues delivered straight to your door or device
+
+[From$10.99 (opens in new tab)](https://www.awin1.com/awclick.php?awinmid=2961&awinaffid=103504&clickref=pcg-us-9851178469960983000&p=https%3A%2F%2Fwww.magazinesdirect.com%2FPCU-brandsite)
+
+[View (opens in new tab)](https://www.awin1.com/awclick.php?awinmid=2961&awinaffid=103504&clickref=pcg-us-9851178469960983000&p=https%3A%2F%2Fwww.magazinesdirect.com%2FPCU-brandsite)
+
+*   [](https://www.pcgamer.com/)
+*   [News](https://www.pcgamer.com/news/)
+*   [Reviews](https://www.pcgamer.com/reviews/)
+*   [Hardware](https://www.pcgamer.com/hardware/)
+*   [Best Of](https://www.pcgamer.com/best-of/)
+*   [Magazine](https://www.pcgamer.com/pc-gamer-print-magazine/)
+*   [The Top 100](https://www.pcgamer.com/top-100-pc-games-2021/)
+*   [Forum](https://forums.pcgamer.com/)
+*   More 
+    *   [PC Gaming Show](https://www.pcgamingshow.com/)
+    *   [Podcasts](https://www.pcgamer.com/tag/podcast/)
+    *   [Newsletter Signup](https://www.pcgamer.com/sign-up-for-the-pc-gamer-newsletter/)
+    *   [Community Guidelines](https://www.pcgamer.com/commenting-rules-and-guidelines/)
+    *   [Affiliate Links](https://www.pcgamer.com/a-note-on-affiliate-links/)
+    *   [Meet the team](https://www.pcgamer.com/meet-the-team/)
+    *   [About PC Gamer](https://www.pcgamer.com/about-pc-gamer/)
+
+Popular
+*   [Steam Summer Sale](https://www.pcgamer.com/steam-summer-sale-deals-2022/)
+*   [Best Free Games](https://www.pcgamer.com/best-free-pc-games/)
+*   [Laptop Deals](https://www.pcgamer.com/gaming-laptop-deals/)
+*   [PC Gaming Show](https://www.pcgamer.com/how-to-watch-pc-gaming-show-2022/)
+*   [City Builders](https://www.pcgamer.com/the-next-wave-of-city-building-games-will-let-us-build-in-some-amazing-places/)
+
+PC Gamer is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. [Here’s why you can trust us](https://www.pcgamer.com/about-pc-gamer/#section-affiliate-advertising-disclosure)
+
+1.   [Home](https://www.pcgamer.com/)
+2.   [News](https://www.pcgamer.com/news/)
+
+Valve admits it mistakenly dismissed Steam security flaw
+========================================================
+
+By [Samuel Horti](https://www.pcgamer.com/author/samuel-horti/) published August 25, 2019
+
+It has expanded its bug bounty program after a security researcher's reports were ignored.
+
+*   [(opens in new tab)](https://www.facebook.com/sharer/sharer.php?u=https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/)
+*   [(opens in new tab)](https://twitter.com/intent/tweet?text=Valve%20admits%20it%20mistakenly%20dismissed%20Steam%20security%20flaw&url=https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/)
+*   [](whatsapp://send/?text=Valve%20admits%20it%20mistakenly%20dismissed%20Steam%20security%20flawhttps://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/?fwa)
+*   [(opens in new tab)](https://www.reddit.com/submit?url=https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/&title=Valve%20admits%20it%20mistakenly%20dismissed%20Steam%20security%20flaw)
+*   [(opens in new tab)](https://pinterest.com/pin/create/button/?url=https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/&media=https://cdn.mos.cms.futurecdn.net/8go4MJAUzFZ2poatgvhmRX-1200-80.jpg)
+*   [(opens in new tab)](https://share.flipboard.com/bookmarklet/popout?title=Valve%20admits%20it%20mistakenly%20dismissed%20Steam%20security%20flaw&url=https%3A%2F%2Fwww.pcgamer.com%2Fvalve-admits-it-mistakenly-dismissed-steam-security-flaw%2F)
+*   [](mailto:/?subject=I%20found%20this%20webpage&body=Hi,%20I%20found%20this%20webpage%20and%20thought%20you%20might%20like%20it%20https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/)
+*   [Comments](https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/#comment-jump)
+
+![Image 3](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)
+
+(Image credit: Valve)
+
+Valve has expanded a scheme in which it [pays "ethical hackers" for discovering security flaws (opens in new tab)](https://www.pcgamer.com/valve-is-paying-hackers-up-to-dollar3000-to-discover-steam-security-flaws/) in Steam after it mistakenly dismissed a valid vulnerability reported by a researcher.
+
+Researcher Vasily Kravets's reports of a Steam vulnerability were dismissed because they were believed to be outside the scope of [the scheme (opens in new tab)](https://www.pcgamer.com/valve-paid-dollar20000-to-hacker-who-discovered-critical-steam-security-flaw/), and Kravets was told Valve's security team would no longer receive his reports through the HackerOne bounty program. After Kravets made a second security flaw public this week, Valve patched both vulnerabilities and admitted its mistake.
+
+"We are...aware that the researcher who discovered the bugs was incorrectly turned away through our HackerOne bug bounty program, where his report was classified as out of scope. This was a mistake," it [told Ars Technica (opens in new tab)](https://arstechnica.com/information-technology/2019/08/valve-says-turning-away-researcher-reporting-steam-vulnerability-was-a-mistake/).
+
+"Our HackerOne program rules were intended only to exclude reports of Steam being instructed to launch previously installed malware on a user’s machine as that local user. Instead, misinterpretation of the rules also led to the exclusion of a more serious attack that also performed local privilege escalation through Steam.
+
+RECOMMENDED VIDEOS FOR YOU...
+
+"We have updated our HackerOne program rules to explicitly state that these issues are in scope and should be reported." The company did not comment on Kravets's status in the program, saying only that it was "reviewing the details of each situation to determine the appropriate actions".
+
+Valve has paid out more than $675,000 in bounties to 263 security researchers through the program over the last two years, it added.
+
+![Image 4: Samuel Horti](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg)
+
+[Samuel Horti](https://www.pcgamer.com/author/samuel-horti/)
+*   [(opens in new tab)](https://www.twitter.com/@samuelhorti)
+
+Samuel Horti is a long-time freelance writer for PC Gamer based in the UK, who loves RPGs and making long lists of games he'll never have time to play. He's now a full-time reporter covering health at the Bureau of Investigative Journalism. When he does have time for games you may find him on the floor, struggling under the weight of his Steam backlog.
+
+More about...
+
+[Someone got Doom running in a McDonald's](https://www.pcgamer.com/someone-got-doom-running-in-a-mcdonalds/)
+
+[No one likes EA's joke about singleplayer games, even EA](https://www.pcgamer.com/no-one-likes-eas-joke-about-singleplayer-games-even-ea/)
+
+Latest
+
+[POV: This cowboy falls out of the sky with a double-barreled shotgun pointed at you. ...](https://www.pcgamer.com/pov-this-cowboy-falls-out-of-the-sky-with-a-double-barreled-shotgun-pointed-at-you-what-do-you-do/)
+
+[See more latest](https://www.pcgamer.com/news)
+
+[See comments](https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/#comment-jump)
+
+Most Popular
+
+[And now, an adventure game about, uh, getting a divorce](https://www.pcgamer.com/and-now-an-adventure-game-about-uh-getting-a-divorce/)
+By [Christopher Livingston](https://www.pcgamer.com/author/christopher-livingston)about 9 hours ago
+
+[](https://www.pcgamer.com/and-now-an-adventure-game-about-uh-getting-a-divorce/)
+
+[Read more](https://www.pcgamer.com/and-now-an-adventure-game-about-uh-getting-a-divorce/)
+
+[Sucker Punch breaks the bad news to Sly Cooper and Infamous fans](https://www.pcgamer.com/sucker-punch-breaks-the-bad-news-to-sly-cooper-and-infamous-fans/)
+By [Morgan Park](https://www.pcgamer.com/author/morgan-park)about 10 hours ago
+
+[](https://www.pcgamer.com/sucker-punch-breaks-the-bad-news-to-sly-cooper-and-infamous-fans/)
+
+[Read more](https://www.pcgamer.com/sucker-punch-breaks-the-bad-news-to-sly-cooper-and-infamous-fans/)
+
+[This Fallout 4 mod looks so good Bethesda just hired one of its designers](https://www.pcgamer.com/this-fallout-4-mod-looks-so-good-bethesda-just-hired-one-of-its-designers/)
+By [Christopher Livingston](https://www.pcgamer.com/author/christopher-livingston)about 11 hours ago
+
+[](https://www.pcgamer.com/this-fallout-4-mod-looks-so-good-bethesda-just-hired-one-of-its-designers/)
+
+[Read more](https://www.pcgamer.com/this-fallout-4-mod-looks-so-good-bethesda-just-hired-one-of-its-designers/)
+
+[Rhythm roguelike Crypt of the Necrodancer gets massive update after 5-year hiatus](https://www.pcgamer.com/rhythm-roguelike-crypt-of-the-necrodancer-gets-massive-update-after-5-year-hiatus/)
+By [Ted Litchfield](https://www.pcgamer.com/author/ted-litchfield)about 11 hours ago
+
+[](https://www.pcgamer.com/rhythm-roguelike-crypt-of-the-necrodancer-gets-massive-update-after-5-year-hiatus/)
+
+[Read more](https://www.pcgamer.com/rhythm-roguelike-crypt-of-the-necrodancer-gets-massive-update-after-5-year-hiatus/)
+
+[Final Fantasy 14 is getting an ultra-difficult dungeon for those endgame masochists](https://www.pcgamer.com/final-fantasy-14-is-getting-an-ultra-difficult-dungeon-for-those-endgame-masochists/)
+By [Mollie Taylor](https://www.pcgamer.com/author/mollie-taylor)about 14 hours ago
+
+[](https://www.pcgamer.com/final-fantasy-14-is-getting-an-ultra-difficult-dungeon-for-those-endgame-masochists/)
+
+[Read more](https://www.pcgamer.com/final-fantasy-14-is-getting-an-ultra-difficult-dungeon-for-those-endgame-masochists/)
+
+[The 'Missing Cryptoqueen' makes the FBI's 10 Most Wanted list](https://www.pcgamer.com/the-missing-cryptoqueen-makes-the-fbis-10-most-wanted-list/)
+By [Rich Stanton](https://www.pcgamer.com/author/rich-stanton)about 16 hours ago
+
+[](https://www.pcgamer.com/the-missing-cryptoqueen-makes-the-fbis-10-most-wanted-list/)
+
+[Read more](https://www.pcgamer.com/the-missing-cryptoqueen-makes-the-fbis-10-most-wanted-list/)
+
+[For $155 each, I'm close to bagging three of these 144Hz gaming monitors](https://www.pcgamer.com/for-dollar155-each-im-close-to-bagging-three-of-these-144hz-gaming-monitors/)
+By [Katie Wickens](https://www.pcgamer.com/author/katie-wickens)about 16 hours ago
+
+[](https://www.pcgamer.com/for-dollar155-each-im-close-to-bagging-three-of-these-144hz-gaming-monitors/)
+
+[Read more](https://www.pcgamer.com/for-dollar155-each-im-close-to-bagging-three-of-these-144hz-gaming-monitors/)
+
+[Minecraft Youtuber Technoblade dies at the age of 23](https://www.pcgamer.com/minecraft-youtuber-technoblade-dies-at-the-age-of-23/)
+By [Rich Stanton](https://www.pcgamer.com/author/rich-stanton)about 16 hours ago
+
+[](https://www.pcgamer.com/minecraft-youtuber-technoblade-dies-at-the-age-of-23/)
+
+[Read more](https://www.pcgamer.com/minecraft-youtuber-technoblade-dies-at-the-age-of-23/)
+
+[World of Warcraft is changing how the auction house works to benefit smaller servers](https://www.pcgamer.com/world-of-warcraft-is-changing-how-the-auction-house-works-to-benefit-smaller-servers/)
+By [Sarah James](https://www.pcgamer.com/author/sarah-james)about 17 hours ago
+
+[](https://www.pcgamer.com/world-of-warcraft-is-changing-how-the-auction-house-works-to-benefit-smaller-servers/)
+
+[Read more](https://www.pcgamer.com/world-of-warcraft-is-changing-how-the-auction-house-works-to-benefit-smaller-servers/)
+
+[Sega wants to make live-action adaptations of Persona and Catherine](https://www.pcgamer.com/sega-wants-to-make-live-action-adaptations-of-persona-and-catherine/)
+By [Mollie Taylor](https://www.pcgamer.com/author/mollie-taylor)about 17 hours ago
+
+[](https://www.pcgamer.com/sega-wants-to-make-live-action-adaptations-of-persona-and-catherine/)
+
+[Read more](https://www.pcgamer.com/sega-wants-to-make-live-action-adaptations-of-persona-and-catherine/)
+
+[Load Comments](https://www.pcgamer.com/valve-admits-it-mistakenly-dismissed-steam-security-flaw/#article-comments)
+
+PC Gamer Newsletter
+
+Sign up to get the best content of the week, and great gaming deals, as picked by the editors.
+
+- [x]  Contact me with news and offers from other Future brands  
+
+- [x]  Receive email from us on behalf of our trusted partners or sponsors  
+
+Thank you for signing up to PC Gamer. You will receive a verification email shortly.
+
+There was a problem. Please refresh the page and try again.
+
+By submitting your information you agree to the [Terms & Conditions (opens in new tab)](http://www.futureplc.com/terms-conditions/) and [Privacy Policy (opens in new tab)](http://www.futureplc.com/privacy-policy/) and are aged 16 or over.
+
+Recommended
+
+[![Image 5](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg) Valve has quietly downgraded the Steam Deck SSD on some 256GB and 512GB models](https://www.pcgamer.com/valve-has-quietly-downgraded-the-steam-deck-ssd-on-some-256gb-and-512gb-models/)
+
+[![Image 6](https://vanilla.futurecdn.net/pcgamer/media/img/missing-image.svg) Steam's most-wishlisted game admits to using some 'volunteer' workers](https://www.pcgamer.com/steams-most-wishlisted-game-admits-to-using-some-volunteer-workers/)
+
+HARDWARE BUYING GUIDES LATEST GAME REVIEWS
+
+1.   [![Image 7: Crucial MX500 and WD Black SN850 SSDs on a blue background](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/best-ssd-for-gaming/ "Best SSD for gaming in 2022")1 [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming/)   
+2.   2 [Gaming PC build guide](https://www.pcgamer.com/gaming-pc-build-guide/)   
+3.   3 [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor/)   
+4.   4 [The best HDMI cable for PC gaming](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019/)   
+5.   5 [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs/)   
+
+1.   [![Image 8: Crucial MX500 and WD Black SN850 SSDs on a blue background](https://www.pcgamer.com/media/img/missing-image.svg)](https://www.pcgamer.com/monster-hunter-rise-sunbreak-review/ "Monster Hunter Rise: Sunbreak review")1 [Monster Hunter Rise: Sunbreak review](https://www.pcgamer.com/monster-hunter-rise-sunbreak-review/)   
+2.   2 [AI: The Somnium Files – nirvanA Initiative review](https://www.pcgamer.com/ai-the-somnium-files-nirvana-initiative-review/)   
+3.   3 [Sony Inzone M9](https://www.pcgamer.com/sony-inzone-m9-gaming-monitor-review/)   
+4.   4 [Origin EVO17-S (2022)](https://www.pcgamer.com/origin-evo17-s-2022-review/)   
+5.   5 [Neon White review](https://www.pcgamer.com/neon-white-review/)   
+
+PC Gamer is part of Future US Inc, an international media group and leading digital publisher. [Visit our corporate site (opens in new tab)](https://www.futureplc.com/).
+
+*   [About Us (opens in new tab)](https://www.pcgamer.com/about-pc-gamer/)
+*   [Terms and conditions (opens in new tab)](https://www.futureplc.com/terms-conditions/)
+*   [Privacy policy (opens in new tab)](https://www.futureplc.com/privacy-policy/)
+*   [Cookies policy (opens in new tab)](https://www.futureplc.com/cookies-policy/)
+*   [Advertise with us (opens in new tab)](https://www.futureplc.com/#partner)
+*   [Accessibility Statement](https://www.futureplc.com/accessibility-statement/)
+*   [Careers (opens in new tab)](https://www.futureplc.com/careers/)
+
+© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.

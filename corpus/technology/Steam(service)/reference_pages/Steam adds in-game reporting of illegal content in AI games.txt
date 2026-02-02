@@ -1,0 +1,60 @@
+# Steam adds in-game reporting of "illegal content" in AI games
+
+"Today's changes are the result of us improving our understanding of the landscape and risks in this space."
+
+![Image 1: Steam logo next to an illustration of a desktop PC on the Steam client, with a hot cuppa sat on the table](https://assetsio.gnwcdn.com/social-og.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp)
+
+Image credit: Valve
+
+Valve has added a new in-game reporting tool in Steam which allows players to flag "illegal content" in games which include live-generated AI content.
+
+The new system is part of Valve's [recently announced initiatives](https://steamcommunity.com/groups/steamworks/announcements/detail/3862463747997849619) to moderate AI content on Steam.
+
+Developers will now be required to disclose any use of AI in their games when submitting them to Steam, and are divided into two categories - pre-generated and live-generated AI content.
+
+Eurogamer Newscast: News Quiz of the Year 2023![Watch on YouTube](https://www.youtube.com/watch?v=ATVzMsqHQCI)
+
+"Under the Steam Distribution Agreement, you promise Valve that your game will not include illegal or infringing content," Valve stated in its new rules. For games with live-generated AI content, developers will also be required to explain what measures they've taken to "ensure it's not generating illegal content".
+
+The new reporting tool has been introduced to allow players to submit reports if they spot "content that they believe should have been caught by the appropriate guardrails on AI generation", and can be found in Steam's in-game overlay.
+
+"Today's changes are the result of us improving our understanding of the landscape and risks in this space," Valve said in its announcement of the changes it's made, "as well as talking to game developers using AI, and those building AI tools." The company said the new rules will "allow us to be much more open to releasing games using AI technology" on its platform.
+
+Valve previously stated its desire to "welcome and encourage innovation" on Steam, following [confusion over its policy on AI](https://www.eurogamer.net/valve-says-ai-generated-content-policy-goal-is-not-to-discourage-the-use-of-it-on-steam) in July 2023. At the time, Valve said "it is the developer's responsibility to make sure they have the appropriate rights to ship their game", touching on one of the biggest points of discussion within the topic of AI.
+
+The technology was a huge presence at GDC last year, where developers talked to Chris Tapsell about their [responses to AI](https://www.eurogamer.net/the-games-industrys-response-to-ai-reverence-and-rage). Actors have spoken out about the [battle against AI-driven deepfake mods](https://www.eurogamer.net/uk-actors-and-equity-are-battling-the-rise-of-ai-driven-deepfake-mods) which use their voices without permission, and the [threat of theft](https://www.eurogamer.net/solid-snake-and-commander-shepard-stars-discuss-threat-of-ai-on-voice-acting). Embark Studios used AI voiceovers in its multiplayer shooter The Finals, which [drew criticism](https://www.eurogamer.net/the-finals-criticised-by-actors-and-designers-for-use-of-ai-commentator-voiceovers) from developers and actors.
+
+Despite the potential backlash, companies are still keen on using AI in game development. In November, Microsoft announced a partnership with AI company Inworld AI to develop [generative AI tools for Xbox's studios](https://www.eurogamer.net/microsoft-offering-generative-ai-tools-to-its-studios). ZeniMax looks set to introduce AI into its workplace, after it came to a tentative agreement with the ZeniMax Workers United-CWA union which gives union members the [right to guide AI implementation](https://www.eurogamer.net/zenimax-union-to-govern-company-adoption-of-ai) in their work.
+
+Related topics
+
+Emmy winning Shōgun director joins Amazon's live-action God of War series
+-------------------------------------------------------------------------
+
+Heard it from the Norse's mouth.
+
+![Image 2: Kratos in God of War next to an image of Shogun's Emmy winning director](https://assetsio.gnwcdn.com/Kratos-in-God-of-War-next-to-an-image-of-Shogun's-Emmy-winning-director.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp)
+
+Image credit: Eurogamer
+
+The team working on Amazon's live-action God of War series is growing.
+
+As reported by [Deadline](https://deadline.com/2025/12/god-of-war-frederick-eo-toye-production-casting-2-season-order-1236630007/), Emmy winning director Frederick E.O. Toye will direct the first two episodes of the upcoming God of War series.
+
+Toye has worked on a number of acclaimed shows during his expansive career, including Westworld, The Boys and The Walking Dead. He is also no stranger to video game adaptations, having additionally helmed episodes of Amazon's Fallout series.
+
+Last year, Toye won the Emmy for outstanding directing for a drama series for historical drama Shōgun's ninth episode, Crimson Sky.
+
+The director joins showrunner and former Battlestar Galactica executive producer Ronald D. Moore on Amazon's God of War series. Moore hasn't always been involved with the God of War TV show, only [joining the project towards the end of last year](https://www.eurogamer.net/amazons-god-of-war-tv-series-lands-new-showrunner-in-former-battlestar-galactica-executive-producer) following the [departure of the original team](https://www.eurogamer.net/amazons-god-of-war-tv-series-reportedly-starting-from-scratch-as-showrunner-departs). Despite the shakeup, PlayStation Productions' Asad Qizilbash, Carter Swan, Sony's Hermen Hulst, Vertigo's Roy Lee and of course Sony Santa Monica head Cory Barlog remain involved with the project. Santa Monica's Jeff Ketcham is also a co-executive producer on Amazon's God of War adaptation.
+
+Pre-production for the show is now underway in Vancouver, and casting for the God of War series has begun. Do you have any thoughts on who may play who?
+
+Meanwhile, while we still don't have a release window for the first season, a [second season of God of War has already been greenlit at Amazon](https://www.eurogamer.net/god-of-war-tv-show-getting-second-season-though-first-still-being-written). To quote Kratos, "Boy!"
+
+In this article
+
+![Image 3: Kratos and Atreus on a boat, artwork for God of War (2018)](https://assetsio.gnwcdn.com/co1tmu.jpg?width=75&height=100&fit=crop&quality=85&format=jpg&auto=webp)
+
+![Image 4: The video game cover for God of War Ragnarok features Kratos and Atreus standing side-by-side in a wintery landscape](https://assetsio.gnwcdn.com/co5s5v_BgPWIcb.jpg?width=75&height=100&fit=crop&quality=85&format=jpg&auto=webp)
+
+Related topics

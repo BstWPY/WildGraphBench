@@ -1,0 +1,561 @@
+# Why Eisenstein proved the Eisenstein criterion and why Schönemann discovered it first
+
+# Why Eisenstein Proved the Eisenstein Criterion and Why Sch¨ onemann Discovered It First ∗
+
+## David A. Cox 
+
+Abstract. This article explores the history of the Eisenstein irreducibility criterion and ex-plains how Theodor Sch¨ onemann discovered this criterion before Eisenstein. Both were in-spired by Gauss’s Disquisitiones Arithmeticae , though they took very different routes to their discoveries. The article will discuss a variety of topics from 19th-century number theory, including Gauss’s lemma, finite fields, the lemniscate, elliptic integrals, abelian groups, the Gaussian integers, and Hensel’s lemma. The Eisenstein irreducibility critierion is part of the training of every mathematician. I first learned the criterion as an undergraduate and, like many before me, was struck by its power and simplicity. This article will describe the unexpectedly rich history of the discovery of the Eisenstein criterion and in particular the role played by Theodor Sch¨ onemann. For a statement of the criterion, we turn to Dorwart’s 1935 article “Irreducibility of polynomials” in this M ONTHLY [9]. As you might expect, he begins with Eisenstein: The earliest and probably best known irreducibility criterion is the Schoenemann-Eisenstein theorem: 
+
+If, in the integral polynomial a0 x n + a1 x n−1 + · · · + an ,
+
+all of the coefficients except a 0 are divisible by a prime p, but a n is not divisible by p 2, then the polynomial is irreducible. 
+
+Here’s our first surprise—Dorwart adds Sch¨ onemann’s name in front of Eisenstein’s. He then gives a classic application: An important application of this theorem is the proof of the irreducibility of the so-called “cyclotomic polynomial” 
+
+f (x) = x p − 1
+
+x − 1 = x p−1 + x p−2 + · · · + 1,
+
+where p is prime. 
+
+doi:10.4169/amer.math.monthly.118.01.003 
+
+> ∗
+
+This paper originally appeared in the journal Normat , published by the Swedish National Center for Math-ematics Education and the Mittag-Leffler Institute in cooperation with the Mathematical Societies of Denmark, Finland, Iceland, Norway, and Sweden. The author thanks the Editor of Normat for permission to reprint the article in this M ONTHLY with minor changes from the original. January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 3If, instead of f (x), we consider f (x + 1), where 
+
+f (x + 1) = (x + 1)p − 1
+
+(x + 1) − 1 = x p−1 +
+
+( p
+
+1
+
+)
+
+x p−2 + · · · + p,
+
+the theorem is seen to apply directly, and the irreducibility of f (x + 1) implies the irreducibility of f (x).The combination “Sch¨ onemann-Eisenstein” (often “Schoenemann-Eisenstein”) was common in the early 20th century. An exception is Dorrie’s delightful book Tri-umph der Mathematik , published in 1933 [ 8], where he states the “Satz von Schoen-emann.” Another exception is van der Waerden’s Moderne Algebra from 1930 [ 29 ], where we find the “Eisensteinscher Satz.” 1Given the influence of van der Waerden’s book on succeeding generations of text-book writers, we can see how Sch¨ onemann’s name got dropped. But how did it get added in the first place? Equally important, how did Eisenstein’s get added? And why both names? To answer these questions, we need to explore some 19th-century number theory. This is a rich subject, so by necessity my treatment will be far from complete. I will instead focus on specific highlights to trace the development of these ideas. There will be numerous quotes (translated into English when necessary 2 ) to illustrate how mathematics was done at the time and what it looked like. We begin with Gauss. 
+
+GAUSS. Disquisitiones Arithmeticae [13 ], published in 1801, contains an amazing amount of mathematics. In particular, Gauss proves that when p is prime, the cyclo-tomic polynomial x p−1 + · · · + x + 1 is irreducible. His proof uses an explicit rep-resentation of the roots and is not easy. However, he also uses the following general result that relates irreducibility over Z to irreducibility over Q:42. If the coefficients A, B, C . . . . N ; a, b, c . . . . n of two functions of the form 
+
+x m + Ax m−1 + Bx m−2 + C x m−3 . . . . . + N . . . . . . . . . . . . . (P)
+
+xμ + ax μ−1 + bx μ−2 + cx μ−3 . . . . . + n . . . . . . . . . . . . . . (Q)
+
+are all rational and not all integers, and if the product of (P) and (Q)
+
+= x m+μ + Ax m+μ−1 + Bx m+μ−2 + etc. + Z
+
+then not all the coefficients A, B . . . . Z can be integers. This is what we now call Gauss’s lemma . His proof is essentially the same one that appears in abstract algebra texts, though he states the result in the contrapositive form and never uses the term “polynomial.” Gauss also doesn’t use the three dots · · · that are standard today. Another major result of Disquisitiones is Gauss’s proof that x n − 1 = 0 is solvable by radicals. The modern approach to solvability by radicals allows the introduction of arbitrary roots of unity, which implies that x n − 1 = 0 is trivially solvable. Gauss instead followed the inductive strategy pioneered by Lagrange, where one constructs     
+
+> 1The 1930 edition included a reference to Sch¨ onemann that was dropped in the 1937 second edition. 2See http://www.cs.amherst.edu/~dac/normat.pdf for a version of the article that gives the quotes in their original languages.
+
+4 c© THE MATHEMATICAL ASSOCIATION OF AMERICA [Monthly 118 the roots recursively using polynomials of strictly smaller degree that are solvable by radicals. In modern terms, this gives an explicit description of the intermediate fields of the extension 
+
+Q ⊆ Q(e2πi/ p )
+
+when p is prime. This has degree p − 1 by the irreducibility of x p−1 + · · · + x + 1. From here, Gauss obtains his wonderful result about dividing the circle into n equal arcs by straightedge and compass. The second paragraph of Section VII of Disquisitiones begins with a famous pas-sage: The principles of the theory we are going to explain actually extend much far-ther than we will indicate. For they can be applied not only to circular functions but just as well to other transcendental functions, e.g. to those which depend on the integral ∫ dx  
+
+> √(1−x4)
+
+and also to various types of congruences. Since, however, we are preparing a large work on those transcendental functions and since we will treat congruences at length in the continuation of these Disquisitiones , we have decided to consider only circular functions here. In this quote, the reference to circular functions is clear. But what about transcen-dental functions that depend on the integral ∫ dx √1−x4 ? Here, any 19th-century math-ematician would immediately think of the lemniscate r2 = cos 2 θ, whose arc length is 4 ∫ 10
+
+> dx
+
+√1−x4 . This integral and its relation to the lemniscate were discovered by the Bernoulli brothers in the late 17th century and played a key role in the development of elliptic integrals by Fagnano, Euler, and Legendre in the 18th century. Gauss’s “large work” on these functions never appeared, though fragments found after Gauss’s death contain some astonishing mathematics (see [ 3]). The quote also mentions “various types of congruences” that will be discussed “in the continuation of these Disquisitiones .” The published version of Disquisitiones had seven sections, but Gauss drafted an eighth section, Disquisitiones generales de con-gruentiis , that studied polynomial congruences f (x) ≡ 0 mod p, where f ∈ Z[x] and 
+
+p is prime (see pp. 212–242 of [ 14 , vol. II] or pp. 602–629 of the German version of [13 ]). In modern terms, Gauss is studying the polynomial ring Fp [x]. Here are some of his results:  
+
+> •
+
+The existence and uniqueness of factorizations of polynomials modulo p. 
+
+> •
+
+A formula for the number of monic irreducible degree-n polynomials modulo p.His result is 1
+
+n
+
+( p n − ∑ p n 
+
+> a
+
++ ∑ p n 
+
+> ab
+
+− ∑ p n 
+
+> abc
+
+etc. )
+
+where the sum ∑ p n 
+
+> a
+
+is over all distinct prime factors of n, ∑ p n 
+
+> ab
+
+is over all pairs of distinct prime factors of n, and similarly for the remaining terms in the formula. Gauss also had a theory of finite fields, though his approach is not easy for the modern reader because of his reluctance to introduce roots of polynomial congruences. Here is what Gauss says about the congruence ξ ≡ 0 mod p, where ξ is a polynomial with integer coefficients: January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 5. . . but nothing prevents us from decomposing ξ , nevertheless, into factors of two, three or more dimensions [degrees], whereupon, in some sense, imaginary 
+
+roots could be attributed to them. Indeed, we could have shortened incompara-bly all our following investigations, had we wanted to introduce such imaginary quantities by taking the same liberty some more recent mathematicians have taken; . . . 
+
+Over the complex numbers, Gauss was the first to prove the existence of roots of poly-nomials. He was critical of those who simply assumed that roots exist, so he clearly wasn’t going to assume that congruences of higher degree have solutions. We refer the reader to [ 11 ] for a fuller account of Gauss’s work on finite fields. Unfortunately, none of this was available until after Gauss’s death in 1855. In partic-ular, Sch¨ onemann was unaware of these developments when he rediscovered many of Gauss’s results in the 1840s. 
+
+ABEL. Gauss’s cryptic comments about the integral ∫ dx √1−x4 in Disquisitiones had a profound influence on Abel. He developed the theory of elliptic functions (as did Jacobi), based on the equation 
+
+y2 = (1 − c2 x2)( 1 + e2 x2), (1) and his elliptic functions were inverse functions to the elliptic integrals 
+
+∫ dx 
+
+y =
+
+∫ dx 
+
+√(1 − c2 x2)( 1 + e2 x2) . (2) Setting e = c = 1 gives ∫ dx √1−x4 . In Abel’s time, it was well known that this integral is intimately related to arc length on the lemniscate shown in Figure 1 (see [ 3] for the history of this relation).      
+
+> 1−1
+> Figure 1. The lemniscate r2=cos 2 θ.
+
+It follows that dividing an arc of the lemniscate starting at the origin into m pieces of equal arc length can be interpreted as a relation between integrals, which Abel and Eisenstein would write as 
+
+∫
+
+> 0
+
+dy /√1 − y4 = m
+
+∫
+
+> 0
+
+dx /√1 − x4. (3) This is the m-division problem for the lemniscate. When the entire lemniscate is di-vided into m pieces of equal length, equation (3) led Abel and Eisenstein (and Gauss before them, though unpublished) to a polynomial Pm (x) of degree m2 satisfied by the polar coordinates of the m-division points of the lemniscate. We will explain how this works when we discuss Eisenstein later in the article. 6 c© THE MATHEMATICAL ASSOCIATION OF AMERICA [Monthly 118 The mathematics involved here is surprisingly rich. The study of elliptic integrals such as (2) eventually become the study of elliptic curves such as (1). The book [ 22 ]gives a nice introduction to elliptic curves and their relation to elliptic integrals. These days, the m-division problem for elliptic integrals is described in terms of the m-division points on elliptic curves. See [ 22 ] and [ 28 ] for more on this important topic in modern number theory. For Abel and his contemporaries, a central question was whether polynomial equa-tions such as Pm (x) = 0 were “solvable algebraically,” which these days means solv-able by radicals. Abel was uniquely qualified to pose this question, since just four years earlier he had proved that the general quintic was not solvable by radicals. In his great paper Recherches sur les functions elliptiques [1, pp. 263–388], pub-lished in volumes 2 and 3 of Crelle’s journal 3 in 1827 and 1828, Abel considers the equation P2n+1(x) = 0 coming from the (2n + 1)-division problem for the elliptic in-tegral (2). Here is what he has to say about this equation: Thus finally the solution of the equation P2n+1 = 0 is reduced to a single equa-tion of degree 2 n + 2; but in general this equation does not appear to be solvable algebraically. Nevertheless one can solve it completely in many particular cases, for example, when e = c, e = c√3, e = c(2 ± √3) etc. In the course of this memoir I will concern myself with these cases, of which the first is especially remarkable, both for the simplicity of its solution, as well as by its beautiful application to geometry. Indeed among other theorems I arrived at this one: “One can divide the entire circumference of the lemniscate into m parts by ruler and compass only , if m is of the form 2 n or 2 n + 1, the last number being at the same time prime, or if m is a product of several numbers of these two forms.” This theorem is, as one sees, precisely the same as that of M. Gauss , relative to the circle. The reduction to an equation of degree 2 n + 2 was done by classical methods of La-grange. The mind-blowing result about ruler and compass constructions on the lem-niscate ( e = c) can be stated more formally as follows. 
+
+Abel’s Theorem on the Lemniscate. The lemniscate can be divided into m pieces of equal arc length by ruler and compass if and only if m is a power of 2 times a product of distinct Fermat primes. 
+
+We will say more about Abel’s theorem later in the article. Other aspects of Abel’s quote are equally mind-blowing when considered from the modern perspective of el-liptic curves:  
+
+> •
+
+The cases e = c, e = c√3, e = c(2 ± √3), etc. that Abel can solve by radicals cor-respond to elliptic curves with complex multiplication (see [ 4] for an introduction). Abel was the first to identify this important class of elliptic curves.  
+
+> •
+
+By class field theory, division points of elliptic curves with complex multiplication generate abelian extensions and hence have abelian Galois groups. Since abelian groups are solvable, Galois theory implies that the division equations P2n+1(x) = 0are solvable by radicals.  
+
+> •
+
+When the curve doesn’t have complex multiplication, Abel was more cautious: they do “not appear to be solvable algebraically.” By deep work of Serre on Galois   
+
+> 3The Journal f¨ ur die reine und angewandte Mathematik , founded by August Leopold Crelle in 1826.
+
+January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 7representations of elliptic curves [ 27 ], we now know that with at most finitely many exceptions, these equations aren’t solvable by radicals. Again we are in the presence of remarkably rich mathematics. Abel thought deeply about why his equations P2n+1(x) = 0 were solvable by radi-cals when the curve has complex multiplication. He realized that the underlying rea-son was the structure of the roots and how they relate to each other. His general result appears in his M´ emoire sur une classe particuli` ere d’´ equations r´ esolubles alg´ ebri-quement [1, pp. 478–507], which was published in Crelle’s journal in 1829. The article begins: Although the algebraic solution of equations is not possible in general, there are nevertheless particular equations of all degrees which admit such a solution. Examples are the equations of the form x n − 1 = 0. The solution of these equa-tions is based on certain relations that exist among the roots. The first sentence refers to Abel’s result on the unsolvability of the general quintic and the solution of x n − 1 = 0 described by Gauss in Disquisitiones . To give the reader a sense of what he means by “relations that exist among the roots,” Abel takes a prime n
+
+and considers the cyclotomic equation x n−1 + · · · + x + 1 = 0. Let θ( x) = xα , where 
+
+α is a primitive root modulo n. Then the roots are given by 
+
+x, θ( x) = xα, θ 2(x) = xα2
+
+, θ 3(x) = xα3
+
+, . . . , θ n−2(x) = xαn−2
+
+, where θn−1(x) = x.
+
+Abel goes on to say that the same property appears in a certain class of equations that he found in the theory of elliptic functions. He then states the main theorem of the paper: In general I have proved the following theorem: ,,If the roots of an equation of arbitrary degree are related among themselves in such a way, that all of the roots can be rationally expressed in terms of one of them, which we designate by x; if in addition, designating by θ x, θ1 x two other arbitrary roots, one has 
+
+θθ 1 x = θ1θ x,
+
+the equation in question is always solvable algebraicially . . . . ”Abel’s “classe particuli` ere” consists of all polynomials that satisfy the hypothesis of his theorem. To see what this means in modern terms, let K ⊆ L be a Galois extension with primitive element α. For each element σi of the Galois group Gal (L/K ), there is a polynomial θi (x) ∈ K [x] such that σi (α) = θi (α) . Then one easily computes that 
+
+σi σ j (α) = θ j (θ i (α)). 
+
+The switch of indices is correct—you should check why. Since σi is determined by its value on α,
+
+σi σ j = σ j σi ⇐⇒ θ j (θ i (α)) = θi (θ j (α)). 
+
+Since the θi (α) are the roots of the minimal polynomial f (x) of α over K , we see that 
+
+f (x) is in the “classe particuli` ere” if and only if Gal (L/K ) is commutative. Abel’s 8 c© THE MATHEMATICAL ASSOCIATION OF AMERICA [Monthly 118 theorem now follows easily from Galois theory since commutative Galois groups are solvable. Besides proving his general theorem, Abel intended to give two applications: After having developed this theory in general, I will apply it to circular and elliptic functions. The version published in Crelle’s journal has a section on circular functions, but ends with the following footnote by Crelle: *) The author of this memoir will give applications to elliptic functions on an-other occasion. Alas, Abel died shortly after this article appeared. 
+
+AFTER ABEL. Abel’s “classe particuli` ere” had an important influence on Kro-necker, Jordan, and Weber. Specifically:  
+
+> •
+
+In 1853, Kronecker [ 18 , vol. IV, p. 11] defined f (x) = 0 to be “abelian” provided it has roots x, θ( x), . . . , θ n−1(x), x = θn (x). Here, as for Abel, θ is a rational func-tion. This special case of Abel’s “classe particuli` ere” corresponds to polynomials with cyclic Galois groups.  
+
+> •
+
+In 1870, Jordan [ 17 , p. 287] defined f (x) = 0 to be “abelian” in terms of its Galois group: We thus call abelian equations all of those whose group only contains substi-tutions that are exchangeable among each other. Here, “exchangeable” is Jordan’s way of saying “commutative.” He then proves [ 17 ,p. 288] that for irreducible equations, his definition is equivalent to Abel’s “classe particuli` ere.”  
+
+> •
+
+The first two volumes of Weber’s monumental Lehrbuch der Algebra were pub-lished in 1894 and 1896. He gives the name “abelian” to Abel’s “classe particuli` ere” [30 , vol. I, p. 576] and later defines a commutative group to be “abelian” [ 30 , vol. II, p. 6]. As far as I know, this is the first appearence of the term “abelian group” in the modern sense. 4The definition of “abelian group” given in introductory algebra courses seems so simple. But in the background is a rich history involving Gauss, Abel, the leminis-cate, elliptic functions, complex multiplication, and solvability by radicals. 
+
+SCH ¨ ONEMANN. Unlike the other people mentioned so far, Theodor Sch¨ onemann is not a familiar name. He has no biography at the MacTutor History of Mathe-matics archive [ 21 ]. According to the Allgemeine Deustsche Biographie [2, vol. 32, pp. 293–294], Sch¨ onemann lived from 1812 to 1868 and was educated in K¨ onigsberg and Berlin under the guidance of Jacobi and Steiner. He got his doctorate in 1842 and became Oberlehrer and eventually Professor at a gymnasium in Brandenburg an der Havel. Lemmermeyer’s book [ 19 ] includes several references to Sch¨ onemann’s work in number theory, and some of his results are mentioned in Dickson’s classic History   
+
+> 4In 1870, Jordan used the term “groupe ab´ elien” to refer to a group closely related to a symplectic group over a finite field [ 17 , Livre II, §VIII].
+
+January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 9of the Theory of Numbers [7], especially in the chapter on higher congruences in the first volume. For us, Sch¨ onemann’s most important work is a long paper printed in two parts in Crelle’s journal in 1845 and 1846. The first part [ 24 ], consisting of §§ 1–50, appeared as Grundz¨ uge einer allgemeinen Theorie der h¨ ohern Congruenzen, deren Modul eine reelle Primzahl ist (Foundations of a general theory of higher congruences, whose modulus is a real prime number ). In the preface, Sch¨ onemann refers to Gauss: The famous author of Disquisitiones Arithmeticae had intended a general the-ory of higher congruences for Section Eight of his work. Since, however, this Section Eight did not appear, and also, as far as I know, the author did not pub-lish anything on this subject, nor indicate anything precisely . . . 
+
+Sch¨ onemann suspects that he may have been scooped by Gauss, but is not worried: 
+
+. . . the loss of first discovery would be compensated by my knowing of having met in my own and independent way such a spirit. Indeed, Sch¨ onemann had been scooped by Gauss, and as we will see later in the article, also by Galois. Hence we should change “a spirit” to “spirits” in the quote, in which case the sentiment is even more apt. Similar to what Gauss did, Sch¨ onemann gave a careful treatement of polynomi-als modulo p, including unique factorization. But then, in §14, he did something different. Let f (x) ∈ Z[x] be monic of degree n and irreducible modulo p, and let 
+
+α ∈ C be a root of f (x) (proved to exist by Gauss). Given polynomials ϕ, ψ ∈ Z[x],Sch¨ onemann defined ϕ(α) and ψ(α) to be congruent modulo ( p, α) , written ϕ(α) ≡
+
+ψ(α) ( mod . p, α) , if ϕ(α) = ψ(α) + p R (α) for some R ∈ Z[x]. He then proves that the “allgemeine Form eines kleines Restes” (“general form of a smallest remainder”) is a0αn−1 + a1αn−2 + · · · + an−1 , where ai ∈ { 0, . . . , p − 1}. This gives a field with 
+
+p n elements. We can recast Sch¨ onemann’s construction as follows. The root α is an alge-braic integer and Z[α] is a ring under multiplication. The equivalence relation 
+
+ϕ(α) ≡ ψ(α) ( mod . p, α) means that ϕ(α) and ψ(α) give the same coset in the quotient ring Z[α]/〈 p〉, where 〈 p〉 = pZ[α] is the ideal generated by p. We will see later that Z[α]/〈 p〉 is a field since f (x) is irreducible modulo p. Thus Z[α]/〈 p〉 is the modern version of Sch¨ onemann’s finite field. In what follows, we will write Fp n
+
+instead of Z[α]/〈 p〉 since this field has p n elements. Here are some other results proved by Sch¨ onemann:  
+
+> •
+
+The elements of Fp n are the roots of x p n
+
+− x. He wrote this as x p n
+
+− x ≡
+
+0 (mod . p, α) . 
+
+> •
+
+f (x) ≡ (x − α)( x − α p ) · · · (x − α p n−1
+
+) ( mod . p, α) . Thus Fp n is the splitting field of f (x) modulo p. The Galois group (generated by Frobenius) is implicit in this factorization of f .The first part of Sch¨ onemann’s paper culminates in §50 with a lovely proof of the irreducibility of p (x) = x p−1 + · · · + x + 1. We will give the proof in modern nota-tion. Pick a prime = p and consider the prime factorization  
+
+> p
+
+(x) ≡ f1(x) · · · f r (x) mod .
+
+10 c© THE MATHEMATICAL ASSOCIATION OF AMERICA [Monthly 118 where the f i are irreducible modulo . Standard properties of finite fields imply that for i = 1, . . . , r,deg ( f i ) = the minimum n such that F∗n has an element of order p
+
+= the minimum n such that n ≡ 1 mod p (4) 
+
+= the order of the congruence class of in (Z/ pZ)∗.
+
+We leave this as a fun exercise for the reader. By Dirichlet’s theorem on primes in arithmetic progressions (proved just a few years before Sch¨ onemann’s paper), every congruence class modulo p contains a prime. In particular, the congruence class of a primitive root contains a prime . A primitive root modulo p gives a congruence class of order p − 1 in (Z/ pZ)∗, so that n = p − 1 in (4) for this choice of . This implies that p(x) is irreducible modulo and hence irreducible over Z. Then p (x)
+
+is irreducible over Q by Gauss’s lemma. This proof is simpler than Gauss’s, though it does require knowledge of finite fields and uses Dirichlet’s classic result. The use of the auxiliary prime is especially el-egant. When I studied Grothendieck-style algebraic geometry as a graduate student in the 1970s, I was always happy when a proof picked a prime different from the residue characteristic. This seemed so modern and cutting-edge. Little did I realize that Sch¨ onemann had used the same idea 120 years earlier. The second part of Sch¨ onemann’s paper [ 25 ], titled Von denjenigen Moduln, welche Potenzen von Primzahlen sind (On those moduli, which are powers of prime numbers ), consists of §§ 51–66. In this paper, Sch¨ onemann considered the factorization of poly-nomials modulo p m , and in particular, how the factorization changes as m varies. One of his major results, in §59, is what we now call Hensel’s lemma :Lemma. If any monic polynomial 5 of x can be factored modulo p into two monic factors, which for this modulus have no common divisor: then this poly-nomial can be factored modulo p m , in a unique manner , into two factors, which are congruent to those first two factors modulo p.6As a consequence, when an irreducible polynomial modulo p m is reduced modulo p,the result must be a power of an irreducible polynomial modulo p. In §61, Sch¨ onemann asks about the converse: Problem. To investigate, whether the power of an irreducible polynomial mod-ulo p is or is not irreducible modulo p m .An especially simple example is (x − a)n , and for a polynomial congruent to (x − a)n
+
+modulo p, the first place to check for irreducibility is modulo p2 . Here is Sch¨ one-mann’s answer: 
+
+. . . hence one may state the theorem: that (x − a)n + pFx is irreducible modulo p2, when the factor x − a is not contained in Fx modulo p . . . .                         
+
+> 5Sch¨ onemann used “Ausdruck” (“expression”) for polynomial and “einfach” (“simple”) for monic. 6The uniqueness assertion enables us to take the limit as m→ ∞ , giving a factorization over the p-adic integers Zpthat reduces to the given factorization modulo p. This version of Hensel’s lemma is stated in [ 16 ,Thm. 3.4.6], and the discussion on [ 16 , p. 72] relates this to the more common version of Hensel’s lemma, which asserts that for f(x)∈Zp[x], a solution of f(x)≡0 mod pof multiplicity one lifts to a solution of
+> f(x)=0 in Zp.
+
+January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 11 As stated, this is not quite correct—one needs to assume that deg (F) ≤ n.7 Since x − a
+
+divides F(x) modulo p if and only if F(a) ≡ 0 mod p, we can state Sch¨ onemann’s result as follows. 
+
+Sch¨ onemann’s Irreducibility Criterion. Let f (x) ∈ Z[x] have degree n > 0 and assume that there is a prime p and an integer a such that f (x) = (x − a)n + pF (x), F(x) ∈ Z[x].
+
+If F (a) ≡ 0 mod p, then f (x) is irreducible modulo p 2.
+
+We sketch a proof for the convenience of the reader. 
+
+Proof. Suppose (x − a)n + pF (x) has a nontrivial factorization modulo p2 , say 
+
+(x − a)n + pF (x) ≡ G(x)H (x) mod p2. (5) One can easily reduce to the case where G(x) and H (x) are monic. Then (x − a)n ≡
+
+G(x)H (x) mod p and unique factorization imply G(x) ≡ (x − a)i mod p and 
+
+H (x) ≡ (x − a) j mod p, where i, j > 0 and i + j = n. Setting x = a in these congruences, we see that p divides both G(a) and H (a) since i, j > 0. Then setting 
+
+x = a in (5) implies pF (a) ≡ 0 mod p2 , a contradiction. 
+
+The pleasant surprise is that this result implies the Eisenstein criterion. To see why, suppose that f (x) = a0 x n + a1 x n−1 + · · · + an satisfies the hypothesis of the Eisentstein criterion. Multiplying by a suitable integer, we may assume a0 ≡ 1 mod p.This allows us to write f (x) = x n + pF (x). Note also that F(0) ≡ 0 mod p since p2does not divide an . Then f (x) is irreducible modulo p2 by Sch¨ onemann’s criterion. This implies irreducibility over Z and hence over Q by Gauss’s lemma. As you might expect, Sch¨ onemann immediately applies his irreducibility criterion to a familiar polynomial: Let us apply the result just obtained to the expression x n − 1
+
+x − 1 , where n denotes a prime number. In this case x n − 1 ≡ (x − 1)n (mod. n), and one thus obtains 
+
+x n − 1
+
+x − 1 = x n−1 + x n−2 + · · · · + x + 1 = (x − 1)n−1 + n F x .
+
+For x = 1 one obtains n = n F (1) and thus F(1) = 1, and not ≡ 0 (mod. n). 
+
+From this, it follows that xn − 1
+
+x − 1 is always irreducible modulo n 2, if n is a prime number; hence, this expression is certainly irreducible in the algebraic sense. 
+
+The ease of proof of this theorem is striking, because the proof in ,,Disquisi-tiones” requires much greater cleverness, and is much more elaborate. (See §. 50. Rem. 2.) This proves the irreducibility of x n−1 + · · · + x + 1 without the change of variable 
+
+x ↔ x + 1 needed when one uses the Eisenstein criterion. Sch¨ onemann is clearly                           
+
+> 7For example, let F(x)=x3−p2x+1. Then x2+pF (x)=(px +1)( x2−p2x+p)even though
+> F(0)≡0 mod p.
+
+12 c© THE MATHEMATICAL ASSOCIATION OF AMERICA [Monthly 118 pleased that his proof is so much simpler than Gauss’s. (The parenthetical comment at the end of the quote refers to Sch¨ onemann’s earlier proof of irreducibility from §50 of his article.) Sch¨ onemann’s criterion is lovely but is unknown to most mathematicians. So how did I learn about it? My book on Galois theory [ 5] gives Eisenstein’s proof of Abel’s theorem on the lemniscate. In trying to understand Eisenstein, I looked at Lemmermeyer’s wonderful book Reciprocity Laws [19 ], where I found a reference to Sch¨ onemann. When I tried to read Sch¨ onemann’s paper, I couldn’t find the Eisenstein criterion, in part because the paper is long and my German isn’t very good, and in part because I was looking for Eisenstein’s version, not Sch¨ onemann’s. I looked back at Lemmermeyer’s book and noticed that Lemmermeyer thanked Michael Filaseta for the Sch¨ onemann reference. I wrote to Filaseta, who replied that Sch¨ onemann proved a criterion for a polynomial to be irreducible modulo p2 . This quickly led me to §61 of the article, which is where Sch¨ onemann states his result. 
+
+BACK TO GAUSS. Besides discovering the Eisenstein criterion before Eisen-stein, Sch¨ onemann also discovered Hensel’s lemma before Hensel. Unfortunately, Sch¨ onemann and Hensel were both scooped by Gauss. In his draft of the unpublished eighth section of Disquisitiones (p. 627 of the German version of [ 13 ] or p. 238 of [ 14 ,vol. II]), Gauss takes a polynomial X with integer coefficients and studies its behavior modulo p and p2 :P ROBLEM . If the function X decomposes modulo p into mutually prime factors ξ, ξ ′, ξ ′′ etc., then similarly X decomposes modulo p 2 into factors 
+
+, ′, ′′ etc. such that 
+
+ξ ≡ , ξ ′ ≡ ′, ξ ′′ ≡ ′′ , etc. (mod . p)
+
+Gauss proves this and then explains how the same principle applies modulo p k for any 
+
+k. His “P ROBLEM ” is weaker than Sch¨ onemann’s “Lemma” because it doesn’t say that the lifted factorization is unique. So what Gauss really proved was a “proto-Hensel’s lemma.” Nevertheless, Gauss was sufficiently pleased with this result that he recorded it in his famous mathematicial diary [ 15 ]. Here is entry 79, dated September 9, 1797: Beginning to uncover principles, by which the resolution of congruences accord-ing to multiple moduli is reduced to congruences according to linear moduli. Here, “resolution of congruences according to multiple moduli” means factoring poly-nomials modulo p k , and similarly “congruences according to linear moduli” means working modulo p. This reading of Gauss’s diary entry is carefully justified in [ 11 ]. Besides this elementary version of Hensel’s lemma, Gauss also considered the case when the factors modulo p are not distinct. For example, the congruence X ≡
+
+X′ (x − a)m (mod . p) appears near the end of Gauss’s draft of the eighth section. Had he pursued this, it is quite possible that he would have followed the same path as Sch¨ onemann and discovered the Eisenstein criterion. But instead, the draft ends abruptly in the middle of a congruence: the last thing Gauss wrote was 0 ≡
+
+As with many other projects, Gauss never returned to finish Disquisitiones generales de congruentiis . It came to light only after being published in 1863 in the second volume of his collected works, and today is still overshadowed by its more famous sibling, Disquisitiones Arithmeticae .January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 13 MORE ON FINITE FIELDS. Besides Gauss and Sch¨ onemann, Galois also devel-oped the theory of finite fields. In his paper Sur la th´ eorie des nombres , appearing in 1830 in the Bulletin des sciences math´ ematiques de Ferussac [12 , pp. 113–127], Galois begins with a congruence F(x) ≡ 0 mod p, or as he writes it, F x = 0, where 
+
+F(x) is irreducible modulo p. Then he considers the roots: One must regard the roots of this congruence as a kind of imaginary symbol . . . 
+
+He then goes on to prove the results about finite fields discovered later by Sch¨ onemann. It appears that Sch¨ onemann was unaware of Galois’s work. Gauss would have been critical of the roots so blithely assumed to exist by Galois. Sch¨ onemann’s construction via Z[α]/〈 p〉, on the other hand, is rigorous since it uses a root α ∈ C of f (x). However, the fundamental theorem of algebra is really a theorem in analysis since it ultimately depends on the completeness of the real numbers. For an algebraic version of Sch¨ onemann’s construction, note that since f (x) ∈ Z[x] is monic and irreducible, x  → α induces a ring isomorphism 
+
+Z[x]/〈 f (x)〉  Z[α].
+
+Reducing f (x) modulo p gives a polynomial ¯f ∈ Fp [x], which Sch¨ onemann assumed to be irreducible. It follows that the quotient ring Fp [x]/〈 ¯ f (x)〉 is a field. Then the isomorphisms 
+
+Fp [x]/〈 ¯ f (x)〉  Z[x]/〈 p, f (x)〉  Z[α]/〈 p〉
+
+show that Sch¨ onemann’s ring Z[α]/〈 p〉 is in fact a finite field with p n elements. This algebraic version of finite fields was made explicit by Dedekind in his 1857 pa-per Abriß einer Theorie der h¨ oheren Kongruenzen in bezug auf einen reellen Primzahl-Modulus (Outline of a theory of higher congruences for a real prime modulus ) [ 6]. Dedekind begins the paper by noting that the subject was initiated by Gauss and had been studied by Galois and Sch¨ onemann. Dedekind was unaware of the full power of what Gauss had done, though later he became the editior in charge of publishing 
+
+Disquisitiones generales de congruentiis in volume II of Gauss’s collected works in 1863. Dedekind’s construction is essentially what we did above with the quotient ring 
+
+Z[x]/〈 p, f (x)〉, f (x) irreducible modulo p, though Dedekind was writing before the concept of quotient ring was fully established. Nevertheless, he shows that this is a finite field with p n elements, n = deg ( f ). For much of the 19th century, “finite field” meant this object. It has the advantage of being easy to compute with (even today, com-puters represent finite fields this way), but mathematically, it depends on the choice of 
+
+f (x) and hence is intrinsically noncanonical. One of the first fully abstract definitions of finite field was given by E. H. Moore, whose paper [ 20 ] appeared in the proceedings of the 1893 international congress of mathematicians. Here is his definition: Suppose that we have a system of s distinct symbols or marks ∗, μ1, . . . , μ s
+
+(s being some finite positive integer), and suppose that these marks may be com-bined by the four fundamental operations of algebra—addition, subtraction, mul-tiplication, and division—these operations being subject to the ordinary abstract 
+
+operational identities of algebra 
+
+μi + μ j = μ j + μi ; μi μ j = μ j μi ; (μ i + μ j )μ k = μi μk + μ j μk ; etc. 14 c© THE MATHEMATICAL ASSOCIATION OF AMERICA [Monthly 118 and that when the marks are so combined the results of these operations are in every case uniquely determined and belong to the system of marks. Such a system we shall call a field of order s , using the notation F[s].We are led at once to seek To determine all such fields of order s , F[s].The words “system” and “marks” indicate that Moore was writing before the language of set theory was standardized. Moore went on to show that his definition was equiva-lent to the Dedekind-style representation of a finite field. So in 1893 we finally have a modern theory of finite fields. The word “marks” in Moore’s quote has an the asterisk that leads to the following footnote:  
+
+> ∗
+
+It is necessary that all quantitative ideas should be excluded from the concept 
+
+marks . Note that the signs >, < do not occur in the theory. Moore was writing for a mathematically sophisticated audience, but he didn’t assume that they had the apparatus of set theory in their heads—his footnote was intended to help them understand the abstract nature of what he was saying. This is something we should keep in mind when we teach abstract algebra to undergraduates. 
+
+EISENSTEIN. We finally get to Eisenstein, whose work on Abel’s theorem on the lemniscate culminated in a long two-part paper in Crelle’s journal in 1850 [ 10 , pp. 536–619]. To set the stage, we use the polar equation r2 = cos 2 θ of the lemniscate and regard r as a function of arc length s. Thus 
+
+r = ϕ( s)
+
+means that if we start at the origin and follow the branch of the lemniscate in the first quadrant for distance s, then we end at a point with polar coordinates (r, θ) . Figure 2 shows what happens when we follow the curve into the fourth quadrant.     
+
+> rs
+> 1−1
+> Figure 2. r=ϕ( s)on the lemniscate.
+
+An arc length calculation (see [ 5, §15.2]) shows that s is related to r via the equation 
+
+s =
+
+∫ r
+
+> 0
+
+dr 
+
+√1 − r4 .
+
+(We follow the 19th-century practice of using the same letter for the variable and limit of integration.) Combining this with r = ϕ( s), we obtain 
+
+r = ϕ( s) ⇐⇒ s =
+
+∫ r
+
+> 0
+
+dr 
+
+√1 − r4 . (6) January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 15 In other words, the lemniscatic function r = ϕ( s) is the inverse function of the elliptic integral ∫ r
+
+> 0
+> dr
+
+√1−r4 we first met in Section VII of Disquisitiones .In the equation (6), 0 ≤ r ≤ 1 corresponds to 0 ≤ s ≤ = ∫ 10
+
+> dr
+
+√1−r4 , so that 
+
+is one-fourth of the total arc length of the lemniscate. In particular, ϕ( ) = 1 and 
+
+ϕ( 2 ) = 0, and for any positive integer m, the radii r = ϕ( k · 2 /m), k = 1, . . . , m,give the points that divide the right half of the lemniscate into m equal pieces. The change of variables r = iu in (6) led Abel to define ϕ( is ) = iϕ( s), and then Euler’s addition law makes ϕ( z) = ϕ( s + it ) into a function of a complex variable 
+
+z ∈ C.8 Further application of the addition law shows that for any Gaussian integer 
+
+m ∈ Z[i], ϕ( mz ) is a rational function of ϕ( z) and its derivative ϕ′(z). This is what 
+
+complex multiplication means for the lemniscatic function ϕ.If m = a + ib is an odd Gaussian integer, meaning that a + b is odd, then ϕ( mz )
+
+is a rational function of ϕ( z) of a very special form. More precisely, given such an m,there are polynomials U (x) and V (x) with coefficients in Z[i] such that y = ϕ( mz ) is related to x = ϕ( z) via 
+
+y = U (x)
+
+V (x) = A0 x + A1 x5 + · · · + A(N (m)−1)/ 4 x N (m)
+
+1 + B1 x4 + · · · + B(N (m)−1)/ 4 x N (m)−1 , (7) where N (m) = a2 + b2 is the norm (in the sense of algebraic number theory) of m =
+
+a + ib . A modern proof can be found in [ 5, Thm. 15.4.4]. Using (6), we obtain 
+
+∫ y
+
+> 0
+
+dy 
+
+√1 − y4 = m
+
+∫ x
+
+> 0
+
+dx 
+
+√1 − x4 ⇐⇒ y = U (x)
+
+V (x) .
+
+In 19th-century parlance, the relation y = U (x)/ V (x) is an algebraic integral of this equality of integrals. This explains equation (3) from earlier in the article. When m is an ordinary odd integer, we know that r = ϕ( k · 2 /m) gives m-division points on the lemniscate. Substituting 
+
+y = ϕ( m · (k · 2 /m)) = ϕ( k · 2 ) = 0 and x = ϕ( k · 2 /m) = r
+
+into (7), we see that 0 = U (r)
+
+V (r) , hence U (r) = 0.
+
+This proves that the division radii r are roots of the polynomial equation U (x) = 0. When m = 2n + 1, this is precisely the equation P2n+1(x) = 0 considered by Abel. Eisenstein used the same setup as Abel. To prove Abel’s theorem on the lemniscate, he reduced to the case when m = a + ib is an odd Gaussian prime. Since U (x) has x
+
+as a factor, Eisenstein wrote U (x) = x W (x), and the strategy of his proof was to show that W (x) is irreducible. Once this is proved, Abel’s theorem follows—see [ 5, §15.5]. 9But how did Eisenstein prove that the polynomial W (x) is irreducible? This is not easy. A key step for Eisenstein was when he noticed something about the coefficients of W (x). He shared his thoughts with Gauss in a letter dated 18 August 1847 [ 10 ,p. 845]:   
+
+> 8Gauss followed the same path in 1797, though he never published his findings. See [ 3] for more details. 9For a complete proof of Abel’s theorem on the lemniscate, the reader should consult [ 5], [ 22 ], or [ 23 ]. The last reference gives a modern proof via class field theory.
+
+16 c© THE MATHEMATICAL ASSOCIATION OF AMERICA [Monthly 118 When m = a + bi is an odd complex integer of norm p and y = U
+
+V =
+
+A0 x + A1 x5 + · · · · + A( p−1)/ 4 x p
+
+1 + B1 x4 + · · · · + B( p−1)/ 4 x p−1 is the algebraic integral of the equation 
+
+∫
+
+> 0
+
+dy /√1 − y4 = m
+
+∫
+
+> 0
+
+dx /√1 − x4,
+
+I had earlier shown that for a two-term complex prime number m the coefficients of the numerator up to the last, which is a complex unit, and the coefficients of the denominator except the first, which = 1, are all divisible by m. I conjectured that this proposition is also correct when m is a one-term prime number ( ≡ 3
+
+(mod 4 ) apart from sign or a complex unit as factor); In the first part of the quote, Eisenstein sets up the situation, and after the displayed equation, describes the structure of the coefficients of the numerator and denominator. Recall that odd Gaussian primes come in two flavors:  
+
+> •
+
+Two-term primes of the form m = a + ib , where p = a2 + b2 is prime and p ≡
+
+1 mod 4.  
+
+> •
+
+One-term primes of the form m = εq, where ε is a unit in Z[i] and q ≡ 3 mod 4. Now consider the polynomial 
+
+W (x) = 1
+
+x U (x) = A0 + A1 x4 + · · · + A( p−1)/ 4 x p−1.
+
+For a two-term prime m, Eisenstein says that he earlier had shown that the last co-efficient A( p−1)/ 4 is a complex unit and the other coefficients A0, . . . , A( p−1)/ 4−1 are divisible by m. He conjectures that the same is true for one-term primes. This smells like the Eisenstein criterion, especially since Eisenstein notes in the letter that the constant term A0 is m, which is not divisible by m2 . The difference is that 
+
+m and the coefficients of W are Gaussian integers. A bit later in the letter, Eisenstein considers what happens if W is not irreducible over Q(i) [10 , pp. 848–849]: 
+
+. . . if it is possible that W is the product of two polynomials 10 of x with Gaus-sian integer coefficients, and their degrees are < p − 1. Let W = P Q ; since the constant term of W is = m, so if m is a complex prime, the constant term in one of the two polynomials P, Q is = 1 and the other = m; then the coeffi-cients of P and Q if rational, must necessarily be integral, as one can show by the same considerations which your Eminence 11 used in the real number theory (Disq. Section I). Here, “real number theory” means over Z rather than Z[i], and the reference to Dis-quisitiones is the first Gauss quote of this article. Thus Eisenstein is telling Gauss that   
+
+> 10 Eisenstein used the term “rationalen ganzen Funktionen” (“rational entire functions”). 11 The German original says “Ew. Hochwohlgeboren,” which translates literally as “your High Well Born.” The word “Hochwohlgeboren” originally applied to lesser German nobility and gentry. This flowery language is reflected in the letter’s salutation, “Sr. Hochwohlgeboren, dem Geheimrath pp. Prof. Dr. Gauss,” which translates “To his Eminence, the Distinguished, and so on, Professor Doctor Gauss.” The word “Geheimrath,” now spelled “Geheimrat,” originated as the German equivalent of a “Privy councillor” in the middle ages and was an honorific for distinguished professors in German universities in the 19th century.
+
+January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 17 Gauss’s lemma applies to the Gaussian integers. Mind-blowing. Then Eisenstein pro-ceeds to prove that W is irreducible using one of the standard proofs of the Eisenstein criterion. 12 In other words, Eisenstein’s first proof of his criterion  
+
+> •
+
+was over the Gaussian integers;  
+
+> •
+
+applied to a polynomial associated with the division problem on the lemniscate; and  
+
+> •
+
+appeared in a letter to Gauss. When Eisenstein wrote up his results for publication, he realized that his criterion was much more general. The first part of his 1850 paper had the title ¨Uber die Irre-ductibilit¨ at und einige andere Eigenschaften der Gleichung, von welcher die Theilung der ganzen Lemniscate abh¨ angt (On the irreducibility and some other properties of equations that depend on the division of the lemniscate ) [ 10 , pp. 536–555]. This paper contains Eisenstein’s version of the Eisenstein criterion: ,,If in a polynomial F(x) of x of arbitrary degree the coefficient of the highest ,,term is = 1, and all following coefficients are integers (real or complex), in ,,which a certain (real resp. complex) prime number m appears, if further the last ,,coefficient is = εm, where ε represents a number not divisible by m: then it is ,,impossible to bring F(x) into the form 
+
+(xμ + a1 xμ−1 + . . . . + aμ )( xν + b1 xν−1 + . . . . + bν )
+
+,,where μ and ν ≥ 1, μ + ν = the degree of F(x), and all a and b are (real resp. ,,complex) integers ; and the equation F(x) = 0 is accordingly irreducible.” 13 (This quote uses the same format that Eisenstein used in his paper.) After giving the proof, Eisenstein applies his criterion to the equation W = 0 that arises from division of the lemniscate and also to our friend x p−1 + · · · + 1. Eisen-stein’s proof that the latter is irreducible is essentially identical to the one sketched on the first page of this article. Eisenstein’s paper is the first appearance of this classic proof of the irreducibility of 
+
+x p−1 + · · · + 1. Eisenstein is clearly pleased to have found such a splendid argument: 
+
+. . . This thus gives, if you will, a new and most highly simple proof of the irreducibility of the equation x p−1 + x p−2 + . . . . + x + 1 = 0; and in contrast with earlier ones ∗∗ ), this proof does not presuppose knowledge of the roots and the relations among them. 
+
+> ∗∗
+
+) Besides the proof of Gauss , only that of Kronecker in volume 29 of this journal, page 280, is known to me. We know about Gauss’s proof, and Kronecker’s proof [ 18 , vol. I, pp. 1–4] from 1845 is simpler than Gauss’s but still uses the explicit relations among the roots. But notice what the footnote does not mention: Sch¨ onemann’s two proofs of the irreducibility of 
+
+x p−1 + · · · + 1 given in his papers of 1845 and 1846. Yet Eisenstein’s paper appears in the same journal in 1850!          
+
+> 12 There are two standard proofs of the Eisenstein criterion. One proof (due to Eisenstein) works by studying which coefficients of the factors are divisible by the prime. The other proof (due to Sch¨ onemann) was given earlier in this article and uses reduction modulo ptogether with unique factorization in Fp[x].13 The Eisenstein criterion is true over any unique factorization domain—see van der Waerden [ 29 ]—and hence applies over Zand Z[i].
+
+18 c© THE MATHEMATICAL ASSOCIATION OF AMERICA [Monthly 118 SCH ¨ ONEMANN COMPLAINS. Eisenstein’s paper, with the offending footnote, appeared in volume 39 of Crelle’s journal. In volume 40, Sch¨ onemann published a 
+
+Notiz [26 ], which began by describing two theorems from Eisenstein’s paper:  
+
+> •
+
+The Eisenstein criterion for real primes (in Z) and complex primes (in Z[i]).  
+
+> •
+
+The irreducibility of the cyclotomic polynomial x p−1 + · · · + 1, proved using the Eisenstein criterion. Then Sch¨ onemann goes on to say: 
+
+. . . Since Eisenstein expressly noted, that for the last theorem he only knew the proofs of Gauss and Kronecker , I am led to recall that in §. 6 of my paper ,,Foundations of a general theory of higher congruences etc.” in volume 31 of this journal, I proved the first theorem [the Eisentein criterion] for real primes and deduced the last [the irreducibility of x p−1 + · · · + 1] from the first, and also the method used by Eisenstein is not significantly different from mine. For the last theorem, I in addition even gave an entirely different proof in §. 50 of the first part of the paper. It seems clear that Eisenstein messed up by not citing Sch¨ onemann. However, there are some complications and confusions. First, Sch¨ onemann refers to §6 of his 
+
+Grundz¨ uge paper in volume 31 of Crelle’s journal, yet his irreducibility criterion and its application to x p−1 + · · · + 1 are in §61 of the second part of his paper, which ap-peared in volume 32. The “ §. 6” in his Notiz should have been “ §. 61.” This explains part of the reason I had trouble finding Sch¨ onemann’s criterion—I was looking in the wrong section! But there was also confusion on Eisenstein’s side as well. As already noted, Eisen-stein’s study of the division equations of the lemniscate was published in a two-part pa-per in Crelle’s journal. The footnote quoted above appeared in the first part, in issue II of volume 39. The second part of the paper, ¨Uber einige allgemeine Eigenschaften der Gleichung, von welcher die Theilung der ganzen Lemniscate abh¨ angt, nebst Anwen-dungen derselben auf die Zahlentheorie (On some general properties of equations that depend on the division of the lemniscate, together with applications to number theory )[10 , pp. 555–619], appeared in issue III of the same volume. This paper included an 
+
+explicit reference to Sch¨ onemann’s first proof of the irreducibility of x p−1 + · · · + 1(the one from §50 of Sch¨ onemann’s paper in volume 31). Yet somehow this proof was unknown to Eisenstein when he wrote the first part of his paper. One can speculate on why this happened, but we will never know for sure. 
+
+CONCLUSION. We are now at the end of the amazing story of how Sch¨ onemann and Eisenstein independently discovered their criteria. Since Sch¨ onemann discovered it first, the name “Sch¨ onemann-Eisenstein criterion” used by Dorwart is the most historically accurate. However, most people use Eisenstein’s version, so the name “Eisenstein-Sch¨ onemann criterion” is also reasonable. In the quote from Section VII of Disquisitiones , Gauss acknowledged two items of unfinished business: the extension from circular to transcendental functions such as Abel’s lemniscatic function ϕ, and the study of higher congruences. Both led to major areas of modern mathematics (elliptic curves and complex multiplication in the first case, p-adic numbers and local methods in number theory in the second), and both led to the Sch¨ onemann-Eisenstein criterion. Sch¨ onemann followed higher congruences to Hensel’s lemma to a question about irreducibility modulo p2 : his cri-terion appears in a completely natural way. Eisenstein followed Abel’s work on the January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 19 lemniscate and considered the coefficients of the resulting division polynomials: his criterion appears in a completely natural way, completely different from the context considered by Sch¨ onemann. Yet both have their origin in the same paragraph in Dis-quisitiones . As I said, it is an amazing story. 
+
+ACKNOWLEDGMENTS. The English translations of the first two Gauss quotes are from the English version of [ 13 ]. For the third Gauss quote and the first two Sch¨ onemann quotes, I used [ 11 ]. I would also like to thank Annemarie and G¨ unter Frei for help in understanding the salutation in Eisenstein’s letter to Gauss. Thanks also to Michael Filaseta for his help in pointing me to the right place in Sch¨ onemann’s papers and to David Leep for bringing Dorrie’s book [ 8] to my attention. I am also grateful to the referees (for both Normat and the M ONTHLY ) for several useful suggestions. I should also mention that the papers from Crelle’s journal quoted in this article are available electronically through the G¨ ottinger Digitalisierungzentrum at the web site http://gdz.sub.uni-goettingen.de/dms/ load/toc/?IDDOC=238618 .
+
+REFERENCES 1. N. H. Abel, Oeuvres compl` etes de Niels Henrik Abel , vol. I, L. Sylow and S. Lie, eds., Grøndahl & Søn, Christiana, 1881. 2. Allgemeine Deutsche Biographie , Duncker & Humblot, Leipzig, 1875–1912; also available at http:// www.deutsche-biographie.de/~ndb/adb_index.html and http://de.wikisource.org/wiki/ Allgemeine_Deutsche_Biographie .3. D. A. Cox, The arithmetic-geometric mean of Gauss, Enseign. Math. 30 (1984) 275–330; reprinted in 
+
+Pi: A Source Book , L. Berggren, J. Borwein, and P. Borwein, eds., 3rd ed., Springer, New York, 2003, 481–536. 4. , Primes of the Form x 2 + ny 2 , Wiley, Hoboken, NJ, 1989. 5. , Galois Theory , Wiley, Hoboken, NJ, 2004. 6. R. Dedekind, Abriß einer Theorie der h¨ oheren Kongruenzen in bezug auf einen reellen Primzahl-Modulus, J. Reine Angew. Math. 54 (1857) 269–325; reprinted in Gesammelte mathematische Werke ,vol. I, E. Noether and O. Ore, eds., Vieweg, Braunschweig, 1930, 40–67. 7. L. E. Dickson, History of the Theory of Numbers , Carnegie Institute, Washington, DC, 1919–1923; reprinted by Chelsea, New York and AMS Chelsea, Providence, RI, 1969. 8. H. Dorrie, Triumph der Mathematik: Hundert ber¨ uhmte Probleme aus zwei Jahrtausenden mathematis-cher Kultur , Fredrich Hirt, Breslau, 1933; English trans. of 5th ed. by D. Antin, 100 Great Problems of Elementary Mathematics: Their History and Solution , Dover, Mineola, NY, 1965. 9. H. L. Dorwart, Irreducibility of polynomials, Amer. Math. Monthly 42 (1935) 369–381. doi:10.2307/ 2301357 
+
+10. F. G. Eisenstein, Mathematische Werke , vol. II; reprinted by Chelsea, New York and AMS Chelsea, Providence, RI, 1989. 11. G. Frei, The unpublished section eight: On the way to function fields over a finite field, in The Shap-ing of Arithmetic after C. F. Gauss’s 
+
+Disquisitiones arithmeticae, C. Goldstein, N. Schappacher, and J. Schwermer, eds., Springer, Berlin, 2007, 159–198. 12. E. Galois, ´Ecrits et M´ emoires Math´ ematiques D’ ´ Evariste Galois , R. Bourgne and J.-P. Azra, eds., Gauthier-Villars, Paris, 1962. 13. C. F. Gauss, Disquisitiones Arithmeticae , G. Fleischer, Leipzig, 1801; reprinted in 1863 as vol. I of [ 14 ]; German trans. by H. Maser, Untersuchungen ¨ uber H¨ ohere Arithmetik , Springer, Berlin, 1889; reprinted by Chelsea, New York and AMS Chelsea, Providence, RI, 1965; English trans. by A. A. Clarke, Yale University Press, New Haven, 1966; reprinted by Springer, New York, 1986. 14. , Werke , K¨ onig. Gesell. Wissen., G¨ ottingen, 1863–1927; vols. I–IX available at http://www. wilbourall.org (search for “Carl”). 15. , Mathematical Diary, Original manuscript in Latin: Handscriftenabteilung Nieders¨ achsische Staats- und Universit¨ atsbibliotek G¨ ottingen, Cod. Ms. Gauß Math. 48 Cim. Ed. (Latin with German anno-tations); reproduced as Abrdruck des Tagebuchs (Notizenjournals), [ 14 , vol. X.1, pp. 483–575]; French trans. by P. Eymard and J.-P. Lafon, Le journal math´ ematique de Gauss, Rev. Hist. Sci. Appl. 9 (1956) 21–51; English trans. by J. Gray, A commentary on Gauss’s mathematical diary, 1796–1814, Expo. Math. 
+
+2 (1984) 97–130; German trans. by E. Schumann, with historical introduction by K.-R. Biermann, and annotations by H. Wußing and O. Neumann, Mathematisches Tagebuch 1796–1814 , 4th ed., Ostwalds Klassiker der exakten Wissenschaften 256 , Akademische Verlagsgesellschaft Geest & Portig, Leipzig, 1985. 20 c© THE MATHEMATICAL ASSOCIATION OF AMERICA [Monthly 118 16. F. Gouvˆ ea, p-adic Numbers: An Introduction , Springer, New York, 1993. 17. C. Jordan, Trait´ e des substitutions et des ´ equations alg´ ebriques , Gauthier-Villars, Paris, 1870; 2nd ed., 1957. 18. L. Kronecker, Werke , B. G. Teubner, Leipzig, 1895–1931; reprinted by Chelsea, New York and AMS Chelsea, Providence, RI, 1968. 19. F. Lemmermeyer, Reciprocity Laws , Springer, New York, 2000. 20. E. H. Moore, A doubly-infinite system of simple groups, in Mathematical Papers Read at the Interna-tional Mathematical Congress, 1893 , Cambridge University Press, Cambridge, 1896. 21. J. J. O’Connor and E. F. Robertson, Mactutor History of Mathematics archive, available at http:// www-history.mcs.st-andrews.ac.uk/history/index.html .22. V. Prasolov and Y. Solovyev, Elliptic Functions and Elliptic Integrals , American Mathematical Society, Providence, RI, 1997. 23. M. Rosen, Abel’s theorem on the lemniscate, Amer. Math. Monthly 88 (1981) 387–395. doi:10.2307/ 2321821 
+
+24. T. Sch¨ onemann, Grundz¨ uge einer allgemeinen Theorie der h¨ ohern Congruenzen, deren Modul eine reelle Primzahl ist, J. Reine Angew. Math. 31 (1845) 269–325. 25. , Von denjenigen Moduln, welche Potenzen von Primzahlen sind, J. Reine Angew. Math. 32 
+
+(1846) 93–105. 26. , Notiz, J. Reine Angew. Math. 40 (1850) 188. 27. J.-P. Serre, Propri´ et´ es galoisiennes des points d’ordre fini des courbes elliptiques, Invent. Math. 15 (1972) 259–331. doi:10.1007/BF01405086 
+
+28. J. Silverman and J. Tate, Rational Points on Elliptic Curves , Springer, New York, 1992. 29. B. L. van der Waerden, Moderne algebra , Springer, Berlin, 1930. 30. H. Weber, Lehrbuch der Algebra , 2nd ed., Vieweg, Braunschwieg, 1898–1908; reprinted by Chelsea, New York and AMS Chelsea, Providence, RI, 1961. 
+
+DAVID A. COX went to Rice University and received his Ph.D. from Princeton University in 1975. After teaching at Haverford and Rutgers, he has been at Amherst College since 1979, except for a sabbatical at Oklahoma State University. His current areas of research include toric varieties and the commutative algebra of curve parametrizations, though he also has interests in number theory and the history of mathematics. He is the author of texts on number theory, computational algebraic geometry, mirror symmetry, Galois theory, and most recently toric varieties. 
+
+Department of Mathematics, Amherst College, Amherst, MA 01002-5000 dac@math.amherst.edu 
+
+Mathematics Is . . . 
+
+“Mathematics is, of all the arts and sciences, the most austere and the most re-mote.” G. H. Hardy, A Mathematician’s Apology ,Cambridge University Press, Cambridge, 1967, p. 143. —Submitted by Carl C. Gaither, Killeen, TX 
+
+January 2011] SCH ¨ ONEMANN AND THE EISENSTEIN CRITERION 21

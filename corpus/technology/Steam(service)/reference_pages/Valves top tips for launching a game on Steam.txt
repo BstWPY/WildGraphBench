@@ -1,0 +1,92 @@
+# Valve's top tips for launching a game on Steam
+
+_Our GamesIndustry.biz Academy guides to Steam tackle every aspect of publishing on Valve's platform, from pre-launch to later periods of your release cycle. [You can read them all on this page](https://www.gamesindustry.biz/articles/2020-05-18-a-developers-guide-to-releasing-a-game-on-steam)._
+
+If you're an independent developer who prefers a premium business model, there's an excellent chance that your business is built around Steam. Valve's platform is by far the dominant marketplace for PC games, and also perhaps the best environment for developing a product as you build a community.
+
+In the coming weeks, the _GamesIndustry.biz_ Academy will be speaking to independent developers about the many facets of selling games through Steam, from [designing a store page](https://www.gamesindustry.biz/articles/2020-04-29-how-to-get-the-most-out-of-your-games-steam-page) and [gathering wishlists](https://www.gamesindustry.biz/articles/2020-05-15-a-game-developer-guide-to-steam-wishlists), to navigating [price-points and discounts](https://www.gamesindustry.biz/articles/2020-06-10-how-to-price-your-game-and-thrive-during-steam-sales). The result will be a [comprehensive network of guides](https://www.gamesindustry.biz/articles/2020-05-18-a-developers-guide-to-releasing-a-game-on-steam) to doing business on this ubiquitous platform.
+
+First, though, some advice direct from Valve. At Melbourne International Games Week late last year, two representatives from the Seattle-based company gave talks on making use of Steam's many tools to increase your chances of success. The first talk, delivered by Valve's Molly Carroll, focused on steps you can take in the period leading up to launch -- we'll be covering post-launch advice in a separate article, to be published this week.
+
+"We believe that a good platform connects developers and players in a way that benefits both," Carroll said. "We're constantly thinking about how to show players the games they're most likely to buy and enjoy, and giving developers the tools and opportunities they need to reach those customers."
+
+Set up a Steam page early
+-------------------------
+
+> "We believe that a good platform connects developers and players in a way that benefits both"
+
+Game development is a long process, and nurturing a community can take time. According to Carroll, a store page on Steam can be a useful hub for building an audience as you work on your product. As such, creating a Steam store page should be high on your list of priorities, [as we highlighted in this dedicated guide](https://www.gamesindustry.biz/articles/2020-04-22-valves-top-tips-for-launching-a-game-on-steam).
+
+"If your game has been announced, if you're talking about it publicly, if you're demoing it at shows, you should make sure that the folks who are hearing about your game and are interested in it, have a place to register that interest," Carrol said. "Like adding it to their Steam wishlist."
+
+A trailer used to be a necessary requirement for creating a store page on Steam, but Valve relaxed that rule when it became clear that many games didn't have trailers until later in development. Setting up a store page early, Carroll said, "is a lot more possible now than it used to be."
+
+Carroll also mentioned a new promotion concept on Steam, which draws attention to games exhibited at major events like PAX, EGX, Day of the Devs, and The Game Awards. Indie marketing specialist Michael Napora explored the value of that concept in a recent article for the _GamesIndustry.biz Academy_, [which you can read here](https://www.gamesindustry.biz/articles/2020-04-20-how-events-being-featured-on-steam-are-changing-games-marketing).
+
+"We recently started promotion pages on Steam for games that are announcing something, or even just games that will be on the showfloor of big industry events," she said. "If that's you, we'll promote your game on that page even if it's not out yet, which is all the more reason to have it on Steam early."
+
+[![Image 1: Carroll was careful to show Steam's international growth, particularly in Asian countries](https://cdn.gamer-network.net/2020/articles/2020-04-22-14-06/Steam_regional_growth.jpg/EG11/resize/646x-1/quality/80/format/jpg)](https://cdn.gamer-network.net/2020/articles/2020-04-22-14-06/Steam_regional_growth.jpg)
+Carroll was careful to show Steam's international growth, particularly in Asian countries
+
+Don't sleep on your developer profile
+-------------------------------------
+
+Carroll stressed the role that a store page can play as a hub for communications, with links running between it and posts on every social media platform a developer might be using. However, she also highlighted the work Valve has put into developer profile pages, which are a [vital tool for studios with portfolios spanning multiple Steam releases](https://www.gamesindustry.biz/articles/2020-04-29-how-to-get-the-most-out-of-your-games-steam-page#section-5).
+
+Previously, clicking on a developer's name on Steam led to an "uninspiring list of search results for their games." It wasn't the most attractive or intuitive way to present their work, Carrol admitted, and Valve received frequent requests to address the problem.
+
+> "Players can now follow your developer page, and that signals their interest in you and all of the games you make"
+
+"We built developer [profile] pages to do just that. Players can now follow your developer page, and that signals their interest in you and all of the games you make -- not just the one that you might be interested in right now."
+
+Klei Entertainment, for example, had 87,000 followers on its developer page when Carroll gave her talk. It now has almost [112,000 followers](https://store.steampowered.com/developer/klei), and each one will be notified when the studio releases a new product.
+
+"Plus, games show up on the Steam homepage [for individual users] based on the developers they follow," Carroll added. "Giving players an opportunity to follow you as a developer means the most engaged fans are going to be seeing more of your games around the store."
+
+Wishlists are vital to boosting sales
+-------------------------------------
+
+We [explored wishlists in more depth in this guide](https://www.gamesindustry.biz/articles/2020-05-15-a-game-developer-guide-to-steam-wishlists), but Carroll emphasised the importance of a feature that many independent developers build their entire marketing strategies around. She also addressed the common belief among developers that wishlist numbers are the most important factor in the way products are surfaced by Steam's algorithm.
+
+"That isn't the case, but wishlists are still a really important tool," she said. "The value of them is really in building up a list of people who are aware of your game... and will be notified of your game's release when it goes on sale.
+
+"There is really no magical number of wishlists that you should shoot for, but as always, the more the merrier... What's important is that your wishlists represent people who are really interested in your game, in hearing about it, and in eventually buying it."
+
+Be specific with your game tags
+-------------------------------
+
+One important factor in the way games are surfaced for individual users are "tags" -- descriptors that can be applied to each game to help place them into categories. According to Carroll, most developers lack imagination when applying tags to their products.
+
+> "There is really no magical number of wishlists that you should shoot for, but as always, the more the merrier"
+
+"A lot of devs just set tags like RPG, Adventure, and Indie, and just leave it there. Those are really good to start with... They do offer some distinction from the rest of Steam's catalogue, but they're really broad, and lots of other games are competing for attention in those same spaces
+
+"I'm going to bet that, no matter what your game is, there will be more specific, narrower tags that you can use in addition to those broad ones. These will help Steam -- and also players -- understand what it is and why it's unique."
+
+Steam suggests the most popular tags, but Carroll recommended making a list of important features and using those as a basis. She personally enjoys games with character customisation, she said, and that kind of granular description could be more persuasive to a potential customer.
+
+The first 15 tags you apply to your game will "drive search and recommendations throughout the store," she added. You can read a bit more about tags in our Academy guide about [how to get the most out of your game's Steam page](https://www.gamesindustry.biz/articles/2020-04-29-how-to-get-the-most-out-of-your-games-steam-page).
+
+[![Image 2: Japanese, Korean and forms of Chinese are now more important on Steam than most European languages](https://cdn.gamer-network.net/2020/articles/2020-04-22-14-06/Steam_localisation.jpg/EG11/resize/646x-1/quality/80/format/jpg)](https://cdn.gamer-network.net/2020/articles/2020-04-22-14-06/Steam_localisation.jpg)
+Japanese, Korean and forms of Chinese are now more important on Steam than most European languages
+
+Choose the languages you support carefully
+------------------------------------------
+
+The start of Carroll's talk featured discussion about the global expansion of Steam, beyond its previous reliance on markets in Western Europe and North America. Valve has invested heavily in supporting new currencies and payment options, resulting in huge growth in Asian territories.
+
+This has created an opportunity for developers that only a minority have fully grasped. Each Steam account has a primary language, with the option to select multiple secondary languages; a user is only shown games that offer at least their user interface in one of those languages.
+
+> "Localisation can be difficult to budget for, but it can massively increase the size of your potential audience"
+
+"Localisation can be difficult to plan and budget for, but it can also massively increase the size of your potential audience on Steam," Carroll said.
+
+Less than a third of Steam users select English as their primary, Carroll said, and most games published on Steam start with support for English, French, Italian, German and Spanish. However, despite being the default for so many, this mix does not include many of the most popular languages among Steam users.
+
+Depending on your game, Carroll continued, you might have a higher chance of success by making a different choice. A slide of the best-selling games on Steam showed the dominance of the sports and racing genres in Italy, for example, while RPGs occupied the entirety of the same chart in Japan.
+
+In 2018, Valve ran a study to find which languages made the most difference to sales when added after a game's launch. English was the most important at that point, but Korean, Japanese, Traditional Chinese, and Simplified Chinese were ahead of the majority of European languages.
+
+Steam's presence in Asia has only grown since then, to the point where, this year, [Simplified Chinese was shown to have surpassed English](https://www.gamesindustry.biz/articles/2020-01-08-simplified-chinese-is-now-the-dominant-language-among-steam-users) as the most commonly used language on the platform.
+
+Our GamesIndustry.biz Academy guides to Steam tackle every aspect of publishing on Valve's platform, from pre-launch to later periods of your release cycle. [You can read them all on this page](https://www.gamesindustry.biz/articles/2020-05-18-a-developers-guide-to-releasing-a-game-on-steam).

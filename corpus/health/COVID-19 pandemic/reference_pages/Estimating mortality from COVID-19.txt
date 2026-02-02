@@ -1,0 +1,786 @@
+# Estimating mortality from COVID-19
+
+Estimating mortality from COVID-19 
+
+===============
+[Skip to main content](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#content)
+
+*   [World Health Organization](https://www.who.int/)[Global](https://www.who.int/)
+*   [Regions](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+
+ World Health Organization WHO Regional websites   
+    *   [Africa](https://www.afro.who.int/)
+    *   [Americas](https://www.paho.org/hq/index.php?lang=en)
+    *   [South-East Asia](https://www.who.int/southeastasia)
+    *   [Europe](https://www.who.int/europe/)
+    *   [Eastern Mediterranean](http://www.emro.who.int/index.html)
+    *   [Western Pacific](https://www.who.int/westernpacific/)
+
+When autocomplete results are available use up and down arrows to review and enter to select.
+
+ Select language  
+
+[](https://www.who.int/ "Home")
+
+[](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+*       
+        *   [World Health Organization](https://www.who.int/)[Global](https://www.who.int/)
+        *   [Regions](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+
+ World Health Organization WHO Regional websites   
+            *   [Africa](https://www.afro.who.int/)
+            *   [Americas](https://www.paho.org/hq/index.php?lang=en)
+            *   [South-East Asia](https://www.who.int/southeastasia)
+            *   [Europe](https://www.who.int/europe/)
+            *   [Eastern Mediterranean](http://www.emro.who.int/index.html)
+            *   [Western Pacific](https://www.who.int/westernpacific/)
+
+*   [Home](https://www.who.int/)
+*   [[Health Topics](https://www.who.int/mega-menu/health-topics)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+    *   [[All topics](https://www.who.int/health-topics/)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [All topics](https://www.who.int/health-topics/)
+        *   [A](https://www.who.int/health-topics/#A)
+        *   [B](https://www.who.int/health-topics/#B)
+        *   [C](https://www.who.int/health-topics/#C)
+        *   [D](https://www.who.int/health-topics/#D)
+        *   [E](https://www.who.int/health-topics/#E)
+        *   [F](https://www.who.int/health-topics/#F)
+        *   [G](https://www.who.int/health-topics/#G)
+        *   [H](https://www.who.int/health-topics/#H)
+        *   [I](https://www.who.int/health-topics/#I)
+        *   [J](https://www.who.int/health-topics/#J)
+        *   [K](https://www.who.int/health-topics/#K)
+        *   [L](https://www.who.int/health-topics/#L)
+        *   [M](https://www.who.int/health-topics/#M)
+        *   [N](https://www.who.int/health-topics/#N)
+        *   [O](https://www.who.int/health-topics/#O)
+        *   [P](https://www.who.int/health-topics/#P)
+        *   [Q](https://www.who.int/health-topics/#Q)
+        *   [R](https://www.who.int/health-topics/#R)
+        *   [S](https://www.who.int/health-topics/#S)
+        *   [T](https://www.who.int/health-topics/#T)
+        *   [U](https://www.who.int/health-topics/#U)
+        *   [V](https://www.who.int/health-topics/#V)
+        *   [W](https://www.who.int/health-topics/#W)
+        *   [X](https://www.who.int/health-topics/#X)
+        *   [Y](https://www.who.int/health-topics/#Y)
+        *   [Z](https://www.who.int/health-topics/#Z)
+
+    *   [[Resources](https://www.who.int/mega-menu/health-topics/resources)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Fact sheets](https://www.who.int/mega-menu/health-topics/resources/fact-sheets)
+        *   [Facts in pictures](https://www.who.int/mega-menu/health-topics/resources/facts-in-pictures)
+        *   [Multimedia](https://www.who.int/mega-menu/health-topics/resources/multimedia)
+        *   [Podcasts](https://www.who.int/mega-menu/health-topics/resources/podcasts)
+        *   [Publications](https://www.who.int/mega-menu/health-topics/resources/publications)
+        *   [Questions and answers](https://www.who.int/mega-menu/health-topics/resources/questions-and-answers)
+        *   [Tools and toolkits](https://www.who.int/mega-menu/health-topics/resources/tools-and-toolkits)
+
+    *   [[Popular](https://www.who.int/mega-menu/health-topics/popular)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Dengue](https://www.who.int/mega-menu/health-topics/popular/dengue)
+        *   [Endometriosis](https://www.who.int/mega-menu/health-topics/popular/endometriosis)
+        *   [Excessive heat](https://www.who.int/mega-menu/health-topics/popular/excessive-heat)
+        *   [Herpes](https://www.who.int/mega-menu/health-topics/popular/herpes)
+        *   [Mental disorders](https://www.who.int/mega-menu/health-topics/popular/mental-disorders)
+        *   [Mpox](https://www.who.int/mega-menu/health-topics/popular/mpox)
+
+*   [[Countries](https://www.who.int/mega-menu/countries)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+    *   [[All countries](https://www.who.int/countries)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [All countries](https://www.who.int/countries)
+        *   [A](https://www.who.int/countries/#A)
+        *   [B](https://www.who.int/countries/#B)
+        *   [C](https://www.who.int/countries/#C)
+        *   [D](https://www.who.int/countries/#D)
+        *   [E](https://www.who.int/countries/#E)
+        *   [F](https://www.who.int/countries/#F)
+        *   [G](https://www.who.int/countries/#G)
+        *   [H](https://www.who.int/countries/#H)
+        *   [I](https://www.who.int/countries/#I)
+        *   [J](https://www.who.int/countries/#J)
+        *   [K](https://www.who.int/countries/#K)
+        *   [L](https://www.who.int/countries/#L)
+        *   [M](https://www.who.int/countries/#M)
+        *   [N](https://www.who.int/countries/#N)
+        *   [O](https://www.who.int/countries/#O)
+        *   [P](https://www.who.int/countries/#P)
+        *   [Q](https://www.who.int/countries/#Q)
+        *   [R](https://www.who.int/countries/#R)
+        *   [S](https://www.who.int/countries/#S)
+        *   [T](https://www.who.int/countries/#T)
+        *   [U](https://www.who.int/countries/#U)
+        *   [V](https://www.who.int/countries/#V)
+        *   [W](https://www.who.int/countries/#W)
+        *   [X](https://www.who.int/countries/#X)
+        *   [Y](https://www.who.int/countries/#Y)
+        *   [Z](https://www.who.int/countries/#Z)
+
+    *   [[Regions](https://www.who.int/mega-menu/countries/regions)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Africa](https://www.who.int/mega-menu/countries/regions/africa)
+        *   [Americas](https://www.who.int/mega-menu/countries/regions/americas)
+        *   [Europe](https://www.who.int/mega-menu/countries/regions/europe)
+        *   [Eastern Mediterranean](https://www.who.int/mega-menu/countries/regions/eastern-mediterranean)
+        *   [South-East Asia](https://www.who.int/mega-menu/countries/regions/south-east-asia)
+        *   [Western Pacific](https://www.who.int/mega-menu/countries/regions/western-pacific)
+
+    *   [[WHO in countries](https://www.who.int/mega-menu/countries/who-in-countries)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Data by country](https://www.who.int/mega-menu/countries/who-in-countries/data-by-country)
+        *   [Country presence](https://www.who.int/mega-menu/countries/who-in-countries/country-presence)
+        *   [Country cooperation strategies](https://www.who.int/mega-menu/countries/who-in-countries/country-cooperation-strategies)
+        *   [Country office profiles](https://www.who.int/mega-menu/countries/who-in-countries/country-office-profiles)
+        *   [Strengthening country offices](https://www.who.int/mega-menu/countries/who-in-countries/country-strengthening)
+
+*   [[Newsroom](https://www.who.int/news-room)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+    *   [[All news](https://www.who.int/mega-menu/news/all-news)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [News releases](https://www.who.int/mega-menu/news/all-news/releases)
+        *   [Statements](https://www.who.int/mega-menu/news/all-news/statements)
+        *   [Campaigns](https://www.who.int/mega-menu/news/all-news/campaigns)
+        *   [Events](https://www.who.int/mega-menu/news/all-news/events)
+        *   [Feature stories](https://www.who.int/mega-menu/news/all-news/feature-stories)
+        *   [Press conferences](https://www.who.int/mega-menu/news/all-news/press-conferences)
+        *   [Speeches](https://www.who.int/mega-menu/news/all-news/speecheshub)
+        *   [Commentaries](https://www.who.int/mega-menu/news/all-news/commentaries)
+        *   [Photo library](https://www.who.int/mega-menu/news/all-news/photo-library)
+
+    *   [Headlines](https://www.who.int/news-room/headlines)
+
+*   [[Emergencies](https://www.who.int/mega-menu/emergencies)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+    *   [[Focus on](https://www.who.int/mega-menu/emergencies/emergencies)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Cholera](https://www.who.int/mega-menu/emergencies/emergencies/cholera)
+        *   [Coronavirus disease (COVID-19)](https://www.who.int/mega-menu/emergencies/emergencies/coronavirus-disease-(covio-19))
+        *   [Greater Horn of Africa](https://www.who.int/mega-menu/emergencies/emergencies/greater-horn-of-africa)
+        *   [Israel and occupied Palestinian territory](https://www.who.int/mega-menu/emergencies/emergencies/israel-and-occupied-palestinian-territory)
+        *   [Mpox](https://www.who.int/mega-menu/emergencies/emergencies/mpox)
+        *   [Sudan](https://www.who.int/mega-menu/emergencies/emergencies/sudan)
+        *   [Ukraine](https://www.who.int/mega-menu/emergencies/emergencies/ukraine-emergency)
+
+    *   [[Latest](https://www.who.int/mega-menu/emergencies/news)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Disease Outbreak News](https://www.who.int/mega-menu/emergencies/news/disease-outbreak-news)
+        *   [Situation reports](https://www.who.int/mega-menu/emergencies/news/situation-reports)
+        *   [Rapid risk assessments](https://www.who.int/mega-menu/emergencies/news/rapid-risk-assessment)
+        *   [Weekly Epidemiological Record](https://www.who.int/mega-menu/emergencies/news/weekly-epidemiological-record)
+
+    *   [[WHO in emergencies](https://www.who.int/mega-menu/emergencies/who-in-emergencies)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Surveillance](https://www.who.int/mega-menu/emergencies/who-in-emergencies/surveillance)
+        *   [Alert and response](https://www.who.int/mega-menu/emergencies/who-in-emergencies/alert-and-response)
+        *   [Operations](https://www.who.int/mega-menu/emergencies/who-in-emergencies/operations)
+        *   [Research](https://www.who.int/mega-menu/emergencies/who-in-emergencies/research-development)
+        *   [Funding](https://www.who.int/mega-menu/emergencies/who-in-emergencies/funding)
+        *   [Partners](https://www.who.int/mega-menu/emergencies/who-in-emergencies/partners)
+        *   [Health emergency appeals](https://www.who.int/mega-menu/emergencies/who-in-emergencies/health-emergency-appeal)
+        *   [International Health Regulations](https://www.who.int/mega-menu/emergencies/who-in-emergencies/international-health-regulations)
+        *   [Independent Oversight and Advisory Committee](https://www.who.int/mega-menu/emergencies/who-in-emergencies/independent-oversight-and-advisory-committee)
+
+*   [[Data](https://www.who.int/mega-menu/data)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+    *   [[Data at WHO](https://www.who.int/mega-menu/data/data-at-who)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Data hub](https://www.who.int/mega-menu/data/data-at-who/data-hub)
+        *   [Global Health Estimates](https://www.who.int/mega-menu/data/data-at-who/global-health-estimates)
+        *   [Mortality](https://www.who.int/mega-menu/data/data-at-who/mortality)
+        *   [Health inequality](https://www.who.int/mega-menu/data/data-at-who/health-inequality)
+
+    *   [[Dashboards](https://www.who.int/mega-menu/data/dashboards)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Triple Billion Progress](https://www.who.int/mega-menu/data/dashboards/triple-billion-progress)
+        *   [Health Inequality Monitor](https://www.who.int/mega-menu/data/dashboards/health-inequality-monitor)
+        *   [Delivery for impact](https://www.who.int/mega-menu/data/dashboards/delivery-for-impact)
+        *   [COVID-19 dashboard](https://www.who.int/mega-menu/data/dashboards/covid-19-dashboard)
+
+    *   [[Data collection](https://www.who.int/mega-menu/data/data-collection)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Classifications](https://www.who.int/mega-menu/data/data-collection/classifications)
+        *   [SCORE](https://www.who.int/mega-menu/data/data-collection/score)
+        *   [Surveys](https://www.who.int/mega-menu/data/data-collection/surveys)
+        *   [Civil registration and vital statistics](https://www.who.int/mega-menu/data/data-collection/civil-registration-and-vital-statistics)
+        *   [Routine health information systems](https://www.who.int/mega-menu/data/data-collection/routine-health-information-systems)
+        *   [Harmonized health facility assessment](https://www.who.int/mega-menu/data/data-collection/harmonized-health-facility-assessment)
+        *   [GIS centre for health](https://www.who.int/mega-menu/data/data-collection/gis-centre-for-health)
+
+    *   [[Reports](https://www.who.int/mega-menu/data/reports)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [World Health Statistics](https://www.who.int/mega-menu/data/reports/world-health-statistics)
+        *   [UHC global monitoring report](https://www.who.int/mega-menu/data/reports/uhc-global-monitoring-report)
+
+*   [[About WHO](https://www.who.int/mega-menu/about-us)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+    *   [[About WHO](https://www.who.int/mega-menu/about-us/about)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Partnerships](https://www.who.int/mega-menu/about-us/about/partnerships-and-collaboration)
+        *   [Committees and advisory groups](https://www.who.int/mega-menu/about-us/about/expert-groups)
+        *   [Collaborating centres](https://www.who.int/mega-menu/about-us/about/collaborating-centres)
+        *   [Technical teams](https://www.who.int/mega-menu/about-us/about/teams)
+        *   [Organizational structure](https://www.who.int/mega-menu/about-us/about/structure)
+        *   [Who we are](https://www.who.int/mega-menu/about-us/about/who-we-are)
+
+    *   [[Our work](https://www.who.int/mega-menu/about-us/our-work)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Activities](https://www.who.int/mega-menu/about-us/our-work/activities)
+        *   [Initiatives](https://www.who.int/mega-menu/about-us/our-work/initiatives)
+        *   [General Programme of Work](https://www.who.int/mega-menu/about-us/our-work/global-programme-of-work)
+        *   [WHO Academy](https://www.who.int/mega-menu/about-us/our-work/who-academy)
+
+    *   [[Funding](https://www.who.int/mega-menu/about-us/who-funding)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Investment in WHO](https://www.who.int/mega-menu/about-us/who-funding/investment-case)
+        *   [WHO Foundation](https://www.who.int/mega-menu/about-us/who-funding/who-foundation)
+
+    *   [[Accountability](https://www.who.int/mega-menu/about-us/accountability)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [External audit](https://www.who.int/mega-menu/about-us/accountability/audit)
+        *   [Financial statements](https://www.who.int/mega-menu/about-us/accountability/financial-statements)
+        *   [Internal audit and investigations](https://www.who.int/mega-menu/about-us/accountability/internal-audit-and-investigations)
+        *   [Programme Budget](https://www.who.int/mega-menu/about-us/accountability/budget)
+        *   [Results reports](https://www.who.int/mega-menu/about-us/accountability/results-report)
+
+    *   [[Governance](https://www.who.int/mega-menu/about-us/governance)](https://www.who.int/news-room/commentaries/detail/estimating-mortality-from-covid-19#)
+        *   [Governing bodies](https://www.who.int/mega-menu/about-us/governance/governing-bodies-website)
+        *   [World Health Assembly](https://www.who.int/mega-menu/about-us/governance/wha)
+        *   [Executive Board](https://www.who.int/mega-menu/about-us/governance/eb)
+        *   [Member States Portal](https://www.who.int/mega-menu/about-us/governance/member-states-portal)
+
+*   [Home](https://www.who.int/)
+*   [Health Topics](https://www.who.int/mega-menu/health-topics)
+*   [Countries](https://www.who.int/mega-menu/countries)
+*   [Newsroom](https://www.who.int/news-room)
+*   [Emergencies](https://www.who.int/mega-menu/emergencies)
+*   [Data](https://www.who.int/mega-menu/data)
+*   [About WHO](https://www.who.int/mega-menu/about-us)
+
+*   [Home](https://www.who.int/)
+*   [Health Topics](https://www.who.int/mega-menu/health-topics)
+    *   [All topics](https://www.who.int/health-topics/)
+        *   [All topics](https://www.who.int/health-topics/)
+        *   [A](https://www.who.int/health-topics/#A)
+        *   [B](https://www.who.int/health-topics/#B)
+        *   [C](https://www.who.int/health-topics/#C)
+        *   [D](https://www.who.int/health-topics/#D)
+        *   [E](https://www.who.int/health-topics/#E)
+        *   [F](https://www.who.int/health-topics/#F)
+        *   [G](https://www.who.int/health-topics/#G)
+        *   [H](https://www.who.int/health-topics/#H)
+        *   [I](https://www.who.int/health-topics/#I)
+        *   [J](https://www.who.int/health-topics/#J)
+        *   [K](https://www.who.int/health-topics/#K)
+        *   [L](https://www.who.int/health-topics/#L)
+        *   [M](https://www.who.int/health-topics/#M)
+        *   [N](https://www.who.int/health-topics/#N)
+        *   [O](https://www.who.int/health-topics/#O)
+        *   [P](https://www.who.int/health-topics/#P)
+        *   [Q](https://www.who.int/health-topics/#Q)
+        *   [R](https://www.who.int/health-topics/#R)
+        *   [S](https://www.who.int/health-topics/#S)
+        *   [T](https://www.who.int/health-topics/#T)
+        *   [U](https://www.who.int/health-topics/#U)
+        *   [V](https://www.who.int/health-topics/#V)
+        *   [W](https://www.who.int/health-topics/#W)
+        *   [X](https://www.who.int/health-topics/#X)
+        *   [Y](https://www.who.int/health-topics/#Y)
+        *   [Z](https://www.who.int/health-topics/#Z)
+
+    *   [Resources](https://www.who.int/mega-menu/health-topics/resources)
+        *   [Fact sheets](https://www.who.int/mega-menu/health-topics/resources/fact-sheets)
+        *   [Facts in pictures](https://www.who.int/mega-menu/health-topics/resources/facts-in-pictures)
+        *   [Multimedia](https://www.who.int/mega-menu/health-topics/resources/multimedia)
+        *   [Podcasts](https://www.who.int/mega-menu/health-topics/resources/podcasts)
+        *   [Publications](https://www.who.int/mega-menu/health-topics/resources/publications)
+        *   [Questions and answers](https://www.who.int/mega-menu/health-topics/resources/questions-and-answers)
+        *   [Tools and toolkits](https://www.who.int/mega-menu/health-topics/resources/tools-and-toolkits)
+
+    *   [Popular](https://www.who.int/mega-menu/health-topics/popular)
+        *   [Dengue](https://www.who.int/mega-menu/health-topics/popular/dengue)
+        *   [Endometriosis](https://www.who.int/mega-menu/health-topics/popular/endometriosis)
+        *   [Excessive heat](https://www.who.int/mega-menu/health-topics/popular/excessive-heat)
+        *   [Herpes](https://www.who.int/mega-menu/health-topics/popular/herpes)
+        *   [Mental disorders](https://www.who.int/mega-menu/health-topics/popular/mental-disorders)
+        *   [Mpox](https://www.who.int/mega-menu/health-topics/popular/mpox)
+
+*   [Countries](https://www.who.int/mega-menu/countries)
+    *   [All countries](https://www.who.int/countries)
+        *   [All countries](https://www.who.int/countries)
+        *   [A](https://www.who.int/countries/#A)
+        *   [B](https://www.who.int/countries/#B)
+        *   [C](https://www.who.int/countries/#C)
+        *   [D](https://www.who.int/countries/#D)
+        *   [E](https://www.who.int/countries/#E)
+        *   [F](https://www.who.int/countries/#F)
+        *   [G](https://www.who.int/countries/#G)
+        *   [H](https://www.who.int/countries/#H)
+        *   [I](https://www.who.int/countries/#I)
+        *   [J](https://www.who.int/countries/#J)
+        *   [K](https://www.who.int/countries/#K)
+        *   [L](https://www.who.int/countries/#L)
+        *   [M](https://www.who.int/countries/#M)
+        *   [N](https://www.who.int/countries/#N)
+        *   [O](https://www.who.int/countries/#O)
+        *   [P](https://www.who.int/countries/#P)
+        *   [Q](https://www.who.int/countries/#Q)
+        *   [R](https://www.who.int/countries/#R)
+        *   [S](https://www.who.int/countries/#S)
+        *   [T](https://www.who.int/countries/#T)
+        *   [U](https://www.who.int/countries/#U)
+        *   [V](https://www.who.int/countries/#V)
+        *   [W](https://www.who.int/countries/#W)
+        *   [X](https://www.who.int/countries/#X)
+        *   [Y](https://www.who.int/countries/#Y)
+        *   [Z](https://www.who.int/countries/#Z)
+
+    *   [Regions](https://www.who.int/mega-menu/countries/regions)
+        *   [Africa](https://www.who.int/mega-menu/countries/regions/africa)
+        *   [Americas](https://www.who.int/mega-menu/countries/regions/americas)
+        *   [Europe](https://www.who.int/mega-menu/countries/regions/europe)
+        *   [Eastern Mediterranean](https://www.who.int/mega-menu/countries/regions/eastern-mediterranean)
+        *   [South-East Asia](https://www.who.int/mega-menu/countries/regions/south-east-asia)
+        *   [Western Pacific](https://www.who.int/mega-menu/countries/regions/western-pacific)
+
+    *   [WHO in countries](https://www.who.int/mega-menu/countries/who-in-countries)
+        *   [Data by country](https://www.who.int/mega-menu/countries/who-in-countries/data-by-country)
+        *   [Country presence](https://www.who.int/mega-menu/countries/who-in-countries/country-presence)
+        *   [Country cooperation strategies](https://www.who.int/mega-menu/countries/who-in-countries/country-cooperation-strategies)
+        *   [Country office profiles](https://www.who.int/mega-menu/countries/who-in-countries/country-office-profiles)
+        *   [Strengthening country offices](https://www.who.int/mega-menu/countries/who-in-countries/country-strengthening)
+
+*   [Newsroom](https://www.who.int/news-room)
+    *   [All news](https://www.who.int/mega-menu/news/all-news)
+        *   [News releases](https://www.who.int/mega-menu/news/all-news/releases)
+        *   [Statements](https://www.who.int/mega-menu/news/all-news/statements)
+        *   [Campaigns](https://www.who.int/mega-menu/news/all-news/campaigns)
+        *   [Events](https://www.who.int/mega-menu/news/all-news/events)
+        *   [Feature stories](https://www.who.int/mega-menu/news/all-news/feature-stories)
+        *   [Press conferences](https://www.who.int/mega-menu/news/all-news/press-conferences)
+        *   [Speeches](https://www.who.int/mega-menu/news/all-news/speecheshub)
+        *   [Commentaries](https://www.who.int/mega-menu/news/all-news/commentaries)
+        *   [Photo library](https://www.who.int/mega-menu/news/all-news/photo-library)
+
+    *   [Headlines](https://www.who.int/news-room/headlines)
+
+*   [Emergencies](https://www.who.int/mega-menu/emergencies)
+    *   [Focus on](https://www.who.int/mega-menu/emergencies/emergencies)
+        *   [Cholera](https://www.who.int/mega-menu/emergencies/emergencies/cholera)
+        *   [Coronavirus disease (COVID-19)](https://www.who.int/mega-menu/emergencies/emergencies/coronavirus-disease-(covio-19))
+        *   [Greater Horn of Africa](https://www.who.int/mega-menu/emergencies/emergencies/greater-horn-of-africa)
+        *   [Israel and occupied Palestinian territory](https://www.who.int/mega-menu/emergencies/emergencies/israel-and-occupied-palestinian-territory)
+        *   [Mpox](https://www.who.int/mega-menu/emergencies/emergencies/mpox)
+        *   [Sudan](https://www.who.int/mega-menu/emergencies/emergencies/sudan)
+        *   [Ukraine](https://www.who.int/mega-menu/emergencies/emergencies/ukraine-emergency)
+
+    *   [Latest](https://www.who.int/mega-menu/emergencies/news)
+        *   [Disease Outbreak News](https://www.who.int/mega-menu/emergencies/news/disease-outbreak-news)
+        *   [Situation reports](https://www.who.int/mega-menu/emergencies/news/situation-reports)
+        *   [Rapid risk assessments](https://www.who.int/mega-menu/emergencies/news/rapid-risk-assessment)
+        *   [Weekly Epidemiological Record](https://www.who.int/mega-menu/emergencies/news/weekly-epidemiological-record)
+
+    *   [WHO in emergencies](https://www.who.int/mega-menu/emergencies/who-in-emergencies)
+        *   [Surveillance](https://www.who.int/mega-menu/emergencies/who-in-emergencies/surveillance)
+        *   [Alert and response](https://www.who.int/mega-menu/emergencies/who-in-emergencies/alert-and-response)
+        *   [Operations](https://www.who.int/mega-menu/emergencies/who-in-emergencies/operations)
+        *   [Research](https://www.who.int/mega-menu/emergencies/who-in-emergencies/research-development)
+        *   [Funding](https://www.who.int/mega-menu/emergencies/who-in-emergencies/funding)
+        *   [Partners](https://www.who.int/mega-menu/emergencies/who-in-emergencies/partners)
+        *   [Health emergency appeals](https://www.who.int/mega-menu/emergencies/who-in-emergencies/health-emergency-appeal)
+        *   [International Health Regulations](https://www.who.int/mega-menu/emergencies/who-in-emergencies/international-health-regulations)
+        *   [Independent Oversight and Advisory Committee](https://www.who.int/mega-menu/emergencies/who-in-emergencies/independent-oversight-and-advisory-committee)
+
+*   [Data](https://www.who.int/mega-menu/data)
+    *   [Data at WHO](https://www.who.int/mega-menu/data/data-at-who)
+        *   [Data hub](https://www.who.int/mega-menu/data/data-at-who/data-hub)
+        *   [Global Health Estimates](https://www.who.int/mega-menu/data/data-at-who/global-health-estimates)
+        *   [Mortality](https://www.who.int/mega-menu/data/data-at-who/mortality)
+        *   [Health inequality](https://www.who.int/mega-menu/data/data-at-who/health-inequality)
+
+    *   [Dashboards](https://www.who.int/mega-menu/data/dashboards)
+        *   [Triple Billion Progress](https://www.who.int/mega-menu/data/dashboards/triple-billion-progress)
+        *   [Health Inequality Monitor](https://www.who.int/mega-menu/data/dashboards/health-inequality-monitor)
+        *   [Delivery for impact](https://www.who.int/mega-menu/data/dashboards/delivery-for-impact)
+        *   [COVID-19 dashboard](https://www.who.int/mega-menu/data/dashboards/covid-19-dashboard)
+
+    *   [Data collection](https://www.who.int/mega-menu/data/data-collection)
+        *   [Classifications](https://www.who.int/mega-menu/data/data-collection/classifications)
+        *   [SCORE](https://www.who.int/mega-menu/data/data-collection/score)
+        *   [Surveys](https://www.who.int/mega-menu/data/data-collection/surveys)
+        *   [Civil registration and vital statistics](https://www.who.int/mega-menu/data/data-collection/civil-registration-and-vital-statistics)
+        *   [Routine health information systems](https://www.who.int/mega-menu/data/data-collection/routine-health-information-systems)
+        *   [Harmonized health facility assessment](https://www.who.int/mega-menu/data/data-collection/harmonized-health-facility-assessment)
+        *   [GIS centre for health](https://www.who.int/mega-menu/data/data-collection/gis-centre-for-health)
+
+    *   [Reports](https://www.who.int/mega-menu/data/reports)
+        *   [World Health Statistics](https://www.who.int/mega-menu/data/reports/world-health-statistics)
+        *   [UHC global monitoring report](https://www.who.int/mega-menu/data/reports/uhc-global-monitoring-report)
+
+*   [About WHO](https://www.who.int/mega-menu/about-us)
+    *   [About WHO](https://www.who.int/mega-menu/about-us/about)
+        *   [Partnerships](https://www.who.int/mega-menu/about-us/about/partnerships-and-collaboration)
+        *   [Committees and advisory groups](https://www.who.int/mega-menu/about-us/about/expert-groups)
+        *   [Collaborating centres](https://www.who.int/mega-menu/about-us/about/collaborating-centres)
+        *   [Technical teams](https://www.who.int/mega-menu/about-us/about/teams)
+        *   [Organizational structure](https://www.who.int/mega-menu/about-us/about/structure)
+        *   [Who we are](https://www.who.int/mega-menu/about-us/about/who-we-are)
+
+    *   [Our work](https://www.who.int/mega-menu/about-us/our-work)
+        *   [Activities](https://www.who.int/mega-menu/about-us/our-work/activities)
+        *   [Initiatives](https://www.who.int/mega-menu/about-us/our-work/initiatives)
+        *   [General Programme of Work](https://www.who.int/mega-menu/about-us/our-work/global-programme-of-work)
+        *   [WHO Academy](https://www.who.int/mega-menu/about-us/our-work/who-academy)
+
+    *   [Funding](https://www.who.int/mega-menu/about-us/who-funding)
+        *   [Investment in WHO](https://www.who.int/mega-menu/about-us/who-funding/investment-case)
+        *   [WHO Foundation](https://www.who.int/mega-menu/about-us/who-funding/who-foundation)
+
+    *   [Accountability](https://www.who.int/mega-menu/about-us/accountability)
+        *   [External audit](https://www.who.int/mega-menu/about-us/accountability/audit)
+        *   [Financial statements](https://www.who.int/mega-menu/about-us/accountability/financial-statements)
+        *   [Internal audit and investigations](https://www.who.int/mega-menu/about-us/accountability/internal-audit-and-investigations)
+        *   [Programme Budget](https://www.who.int/mega-menu/about-us/accountability/budget)
+        *   [Results reports](https://www.who.int/mega-menu/about-us/accountability/results-report)
+
+    *   [Governance](https://www.who.int/mega-menu/about-us/governance)
+        *   [Governing bodies](https://www.who.int/mega-menu/about-us/governance/governing-bodies-website)
+        *   [World Health Assembly](https://www.who.int/mega-menu/about-us/governance/wha)
+        *   [Executive Board](https://www.who.int/mega-menu/about-us/governance/eb)
+        *   [Member States Portal](https://www.who.int/mega-menu/about-us/governance/member-states-portal)
+
+*   [All topics](https://www.who.int/health-topics/)
+*   [A](https://www.who.int/health-topics/#A)
+*   [B](https://www.who.int/health-topics/#B)
+*   [C](https://www.who.int/health-topics/#C)
+*   [D](https://www.who.int/health-topics/#D)
+*   [E](https://www.who.int/health-topics/#E)
+*   [F](https://www.who.int/health-topics/#F)
+*   [G](https://www.who.int/health-topics/#G)
+*   [H](https://www.who.int/health-topics/#H)
+*   [I](https://www.who.int/health-topics/#I)
+*   [J](https://www.who.int/health-topics/#J)
+*   [K](https://www.who.int/health-topics/#K)
+*   [L](https://www.who.int/health-topics/#L)
+*   [M](https://www.who.int/health-topics/#M)
+*   [N](https://www.who.int/health-topics/#N)
+*   [O](https://www.who.int/health-topics/#O)
+*   [P](https://www.who.int/health-topics/#P)
+*   [Q](https://www.who.int/health-topics/#Q)
+*   [R](https://www.who.int/health-topics/#R)
+*   [S](https://www.who.int/health-topics/#S)
+*   [T](https://www.who.int/health-topics/#T)
+*   [U](https://www.who.int/health-topics/#U)
+*   [V](https://www.who.int/health-topics/#V)
+*   [W](https://www.who.int/health-topics/#W)
+*   [X](https://www.who.int/health-topics/#X)
+*   [Y](https://www.who.int/health-topics/#Y)
+*   [Z](https://www.who.int/health-topics/#Z)
+
+*   [Resources](https://www.who.int/mega-menu/health-topics/resources)
+    *   [Fact sheets](https://www.who.int/mega-menu/health-topics/resources/fact-sheets)
+    *   [Facts in pictures](https://www.who.int/mega-menu/health-topics/resources/facts-in-pictures)
+    *   [Multimedia](https://www.who.int/mega-menu/health-topics/resources/multimedia)
+    *   [Podcasts](https://www.who.int/mega-menu/health-topics/resources/podcasts)
+    *   [Publications](https://www.who.int/mega-menu/health-topics/resources/publications)
+    *   [Questions and answers](https://www.who.int/mega-menu/health-topics/resources/questions-and-answers)
+    *   [Tools and toolkits](https://www.who.int/mega-menu/health-topics/resources/tools-and-toolkits)
+
+*   [Popular](https://www.who.int/mega-menu/health-topics/popular)
+    *   [Dengue](https://www.who.int/mega-menu/health-topics/popular/dengue)
+    *   [Endometriosis](https://www.who.int/mega-menu/health-topics/popular/endometriosis)
+    *   [Excessive heat](https://www.who.int/mega-menu/health-topics/popular/excessive-heat)
+    *   [Herpes](https://www.who.int/mega-menu/health-topics/popular/herpes)
+    *   [Mental disorders](https://www.who.int/mega-menu/health-topics/popular/mental-disorders)
+    *   [Mpox](https://www.who.int/mega-menu/health-topics/popular/mpox)
+
+*   [All countries](https://www.who.int/countries)
+*   [A](https://www.who.int/countries/#A)
+*   [B](https://www.who.int/countries/#B)
+*   [C](https://www.who.int/countries/#C)
+*   [D](https://www.who.int/countries/#D)
+*   [E](https://www.who.int/countries/#E)
+*   [F](https://www.who.int/countries/#F)
+*   [G](https://www.who.int/countries/#G)
+*   [H](https://www.who.int/countries/#H)
+*   [I](https://www.who.int/countries/#I)
+*   [J](https://www.who.int/countries/#J)
+*   [K](https://www.who.int/countries/#K)
+*   [L](https://www.who.int/countries/#L)
+*   [M](https://www.who.int/countries/#M)
+*   [N](https://www.who.int/countries/#N)
+*   [O](https://www.who.int/countries/#O)
+*   [P](https://www.who.int/countries/#P)
+*   [Q](https://www.who.int/countries/#Q)
+*   [R](https://www.who.int/countries/#R)
+*   [S](https://www.who.int/countries/#S)
+*   [T](https://www.who.int/countries/#T)
+*   [U](https://www.who.int/countries/#U)
+*   [V](https://www.who.int/countries/#V)
+*   [W](https://www.who.int/countries/#W)
+*   [X](https://www.who.int/countries/#X)
+*   [Y](https://www.who.int/countries/#Y)
+*   [Z](https://www.who.int/countries/#Z)
+
+*   [Regions](https://www.who.int/mega-menu/countries/regions)
+    *   [Africa](https://www.who.int/mega-menu/countries/regions/africa)
+    *   [Americas](https://www.who.int/mega-menu/countries/regions/americas)
+    *   [Europe](https://www.who.int/mega-menu/countries/regions/europe)
+    *   [Eastern Mediterranean](https://www.who.int/mega-menu/countries/regions/eastern-mediterranean)
+    *   [South-East Asia](https://www.who.int/mega-menu/countries/regions/south-east-asia)
+    *   [Western Pacific](https://www.who.int/mega-menu/countries/regions/western-pacific)
+
+*   [WHO in countries](https://www.who.int/mega-menu/countries/who-in-countries)
+    *   [Data by country](https://www.who.int/mega-menu/countries/who-in-countries/data-by-country)
+    *   [Country presence](https://www.who.int/mega-menu/countries/who-in-countries/country-presence)
+    *   [Country cooperation strategies](https://www.who.int/mega-menu/countries/who-in-countries/country-cooperation-strategies)
+    *   [Country office profiles](https://www.who.int/mega-menu/countries/who-in-countries/country-office-profiles)
+    *   [Strengthening country offices](https://www.who.int/mega-menu/countries/who-in-countries/country-strengthening)
+
+*   [All news](https://www.who.int/mega-menu/news/all-news)
+    *   [News releases](https://www.who.int/mega-menu/news/all-news/releases)
+    *   [Statements](https://www.who.int/mega-menu/news/all-news/statements)
+    *   [Campaigns](https://www.who.int/mega-menu/news/all-news/campaigns)
+    *   [Events](https://www.who.int/mega-menu/news/all-news/events)
+    *   [Feature stories](https://www.who.int/mega-menu/news/all-news/feature-stories)
+    *   [Press conferences](https://www.who.int/mega-menu/news/all-news/press-conferences)
+    *   [Speeches](https://www.who.int/mega-menu/news/all-news/speecheshub)
+    *   [Commentaries](https://www.who.int/mega-menu/news/all-news/commentaries)
+    *   [Photo library](https://www.who.int/mega-menu/news/all-news/photo-library)
+
+*   [Headlines](https://www.who.int/news-room/headlines)
+
+[WHO issues global guideline on the use of GLP-1 medicines in treating obesity](https://www.who.int/news/item/01-12-2025-who-issues-global-guideline-on-the-use-of-glp-1-medicines-in-treating-obesity)
+
+1 December 2025
+
+News release
+
+[New prevention tools and investment in services essential in the fight against AIDS](https://www.who.int/news/item/01-12-2025-new-prevention-tools-and-investment-in-services-essential-in-the-fight-against-aids)
+
+1 December 2025
+
+News release
+
+[Measles deaths down 88% since 2000, but cases surge](https://www.who.int/news/item/28-11-2025-measles-deaths-down-88--since-2000--but-cases-surge)
+
+28 November 2025
+
+News release
+
+*   [Focus on](https://www.who.int/mega-menu/emergencies/emergencies)
+    *   [Cholera](https://www.who.int/mega-menu/emergencies/emergencies/cholera)
+    *   [Coronavirus disease (COVID-19)](https://www.who.int/mega-menu/emergencies/emergencies/coronavirus-disease-(covio-19))
+    *   [Greater Horn of Africa](https://www.who.int/mega-menu/emergencies/emergencies/greater-horn-of-africa)
+    *   [Israel and occupied Palestinian territory](https://www.who.int/mega-menu/emergencies/emergencies/israel-and-occupied-palestinian-territory)
+    *   [Mpox](https://www.who.int/mega-menu/emergencies/emergencies/mpox)
+    *   [Sudan](https://www.who.int/mega-menu/emergencies/emergencies/sudan)
+    *   [Ukraine](https://www.who.int/mega-menu/emergencies/emergencies/ukraine-emergency)
+
+*   [Latest](https://www.who.int/mega-menu/emergencies/news)
+    *   [Disease Outbreak News](https://www.who.int/mega-menu/emergencies/news/disease-outbreak-news)
+    *   [Situation reports](https://www.who.int/mega-menu/emergencies/news/situation-reports)
+    *   [Rapid risk assessments](https://www.who.int/mega-menu/emergencies/news/rapid-risk-assessment)
+    *   [Weekly Epidemiological Record](https://www.who.int/mega-menu/emergencies/news/weekly-epidemiological-record)
+
+*   [WHO in emergencies](https://www.who.int/mega-menu/emergencies/who-in-emergencies)
+    *   [Surveillance](https://www.who.int/mega-menu/emergencies/who-in-emergencies/surveillance)
+    *   [Alert and response](https://www.who.int/mega-menu/emergencies/who-in-emergencies/alert-and-response)
+    *   [Operations](https://www.who.int/mega-menu/emergencies/who-in-emergencies/operations)
+    *   [Research](https://www.who.int/mega-menu/emergencies/who-in-emergencies/research-development)
+    *   [Funding](https://www.who.int/mega-menu/emergencies/who-in-emergencies/funding)
+    *   [Partners](https://www.who.int/mega-menu/emergencies/who-in-emergencies/partners)
+    *   [Health emergency appeals](https://www.who.int/mega-menu/emergencies/who-in-emergencies/health-emergency-appeal)
+    *   [International Health Regulations](https://www.who.int/mega-menu/emergencies/who-in-emergencies/international-health-regulations)
+    *   [Independent Oversight and Advisory Committee](https://www.who.int/mega-menu/emergencies/who-in-emergencies/independent-oversight-and-advisory-committee)
+
+*   [Data at WHO](https://www.who.int/mega-menu/data/data-at-who)
+    *   [Data hub](https://www.who.int/mega-menu/data/data-at-who/data-hub)
+    *   [Global Health Estimates](https://www.who.int/mega-menu/data/data-at-who/global-health-estimates)
+    *   [Mortality](https://www.who.int/mega-menu/data/data-at-who/mortality)
+    *   [Health inequality](https://www.who.int/mega-menu/data/data-at-who/health-inequality)
+
+*   [Dashboards](https://www.who.int/mega-menu/data/dashboards)
+    *   [Triple Billion Progress](https://www.who.int/mega-menu/data/dashboards/triple-billion-progress)
+    *   [Health Inequality Monitor](https://www.who.int/mega-menu/data/dashboards/health-inequality-monitor)
+    *   [Delivery for impact](https://www.who.int/mega-menu/data/dashboards/delivery-for-impact)
+    *   [COVID-19 dashboard](https://www.who.int/mega-menu/data/dashboards/covid-19-dashboard)
+
+*   [Data collection](https://www.who.int/mega-menu/data/data-collection)
+    *   [Classifications](https://www.who.int/mega-menu/data/data-collection/classifications)
+    *   [SCORE](https://www.who.int/mega-menu/data/data-collection/score)
+    *   [Surveys](https://www.who.int/mega-menu/data/data-collection/surveys)
+    *   [Civil registration and vital statistics](https://www.who.int/mega-menu/data/data-collection/civil-registration-and-vital-statistics)
+    *   [Routine health information systems](https://www.who.int/mega-menu/data/data-collection/routine-health-information-systems)
+    *   [Harmonized health facility assessment](https://www.who.int/mega-menu/data/data-collection/harmonized-health-facility-assessment)
+    *   [GIS centre for health](https://www.who.int/mega-menu/data/data-collection/gis-centre-for-health)
+
+*   [Reports](https://www.who.int/mega-menu/data/reports)
+    *   [World Health Statistics](https://www.who.int/mega-menu/data/reports/world-health-statistics)
+    *   [UHC global monitoring report](https://www.who.int/mega-menu/data/reports/uhc-global-monitoring-report)
+
+*   [About WHO](https://www.who.int/mega-menu/about-us/about)
+    *   [Partnerships](https://www.who.int/mega-menu/about-us/about/partnerships-and-collaboration)
+    *   [Committees and advisory groups](https://www.who.int/mega-menu/about-us/about/expert-groups)
+    *   [Collaborating centres](https://www.who.int/mega-menu/about-us/about/collaborating-centres)
+    *   [Technical teams](https://www.who.int/mega-menu/about-us/about/teams)
+    *   [Organizational structure](https://www.who.int/mega-menu/about-us/about/structure)
+    *   [Who we are](https://www.who.int/mega-menu/about-us/about/who-we-are)
+
+*   [Our work](https://www.who.int/mega-menu/about-us/our-work)
+    *   [Activities](https://www.who.int/mega-menu/about-us/our-work/activities)
+    *   [Initiatives](https://www.who.int/mega-menu/about-us/our-work/initiatives)
+    *   [General Programme of Work](https://www.who.int/mega-menu/about-us/our-work/global-programme-of-work)
+    *   [WHO Academy](https://www.who.int/mega-menu/about-us/our-work/who-academy)
+
+*   [Funding](https://www.who.int/mega-menu/about-us/who-funding)
+    *   [Investment in WHO](https://www.who.int/mega-menu/about-us/who-funding/investment-case)
+    *   [WHO Foundation](https://www.who.int/mega-menu/about-us/who-funding/who-foundation)
+
+*   [Accountability](https://www.who.int/mega-menu/about-us/accountability)
+    *   [External audit](https://www.who.int/mega-menu/about-us/accountability/audit)
+    *   [Financial statements](https://www.who.int/mega-menu/about-us/accountability/financial-statements)
+    *   [Internal audit and investigations](https://www.who.int/mega-menu/about-us/accountability/internal-audit-and-investigations)
+    *   [Programme Budget](https://www.who.int/mega-menu/about-us/accountability/budget)
+    *   [Results reports](https://www.who.int/mega-menu/about-us/accountability/results-report)
+
+*   [Governance](https://www.who.int/mega-menu/about-us/governance)
+    *   [Governing bodies](https://www.who.int/mega-menu/about-us/governance/governing-bodies-website)
+    *   [World Health Assembly](https://www.who.int/mega-menu/about-us/governance/wha)
+    *   [Executive Board](https://www.who.int/mega-menu/about-us/governance/eb)
+    *   [Member States Portal](https://www.who.int/mega-menu/about-us/governance/member-states-portal)
+
+*   [Home](https://www.who.int/)/
+*   [Newsroom](https://www.who.int/news-room)/
+*   [Commentaries](https://www.who.int/news-room/commentaries)/
+*   [Detail](https://www.who.int/news-room/commentaries/detail)/
+*   Estimating mortality from COVID-19
+
+Estimating mortality from COVID-19
+==================================
+
+Scientific Brief
+----------------
+
+4 August 2020
+
+### Background
+
+An important characteristic of an infectious disease, particularly one caused by a novel pathogen like SARS-CoV-2, is its severity, the ultimate measure of which is its ability to cause death. Fatality rates help us understand the severity of a disease, identify at-risk populations, and evaluate quality of healthcare.
+
+There are two measures used to assess the proportion of infected individuals with fatal outcomes. The first is infection fatality ratio (IFR), which estimates this proportion of deaths among all infected individuals. The second is case fatality ratio (CFR), which estimates this proportion of deaths among identified confirmed cases.
+
+To measure IFR accurately, a complete picture of the number of infections of, and deaths caused by, the disease must be known. Consequently, at this early stage of the pandemic, most estimates of fatality ratios have been based on cases detected through surveillance and calculated using crude methods, giving rise to widely variable estimates of CFR by country – from less than 0.1% to over 25%.
+
+For COVID-19, as for many infectious diseases, the true level of transmission is frequently underestimated because a substantial proportion of people with the infection are undetected either because they are asymptomatic or have only mild symptoms and thus typically fail to present at healthcare facilities [[1,2]](https://paperpile.com/c/LxVgdZ/69vj+wiU8). There may also be neglected or under-served segments of the population who are less likely to access healthcare or testing. Under-detection of cases may be exacerbated during an epidemic, when testing capacity may be limited and restricted to people with severe cases and priority risk groups (such as frontline healthcare workers, elderly people and people with comorbidities) [[3,4]](https://paperpile.com/c/LxVgdZ/wcUa+ElOO). Cases may also be misdiagnosed and attributed to other diseases with similar clinical presentation, such as influenza.
+
+Differences in mortality between groups of people and countries are important proxy indicators of relative risk of death that guide policy decisions regarding scarce medical resource allocation during the ongoing COVID-19 pandemic. This document is intended to help countries estimate CFR and, if possible, IFR, as appropriately and accurately as possible, while accounting for possible biases in their estimation.
+
+**A note on terminology**:
+
+The acronym CFR, as applied to the measure of the number of deaths among all persons with a disease, is most commonly referred to as the ‘case fatality rate,’ although strictly speaking this term is incorrect because the term ‘rate’ is used to denote a time component, which is absent in the CFR. Some authors have attempted to rectify this inconsistency by using the term case fatality proportion, or case fatality ratio, which is not bound by the numerator being a subset of the denominator (i.e., the definition of a proportion). The term ‘case fatality risk,’ used more rarely, is only correct if the duration of the clinical illness is known. For the purposes of this document, we will use the term “case fatality ratio”.
+
+### COVID-19 case and death definitions
+
+Countries have varying approaches to COVID-19 case definitions. Consequently, the numerator and the denominator of any formula used to calculate fatality rate will vary according to how they are defined. WHO recommends using the surveillance case definitions which are available in the WHO interim guidance on Global surveillance for COVID-19 [[5]](https://paperpile.com/c/LxVgdZ/69vj+wiU8).
+
+A COVID-19 death is defined for surveillance purposes as a death resulting from a clinically compatible illness in a probable or confirmed COVID-19 case, unless there is a clear alternative cause of death that cannot be related to COVID-19 disease (e.g. trauma). There should be no period of complete recovery between the illness and death [[6]](https://paperpile.com/c/LxVgdZ/69vj+wiU8).
+
+### Calculating IFR
+
+The true severity of a disease can be described by the Infection Fatality Ratio:
+
+![Image 4: A 523x54 small image, likely a logo, icon or avatar](https://www.who.int/images/default-source/health-topics/coronavirus/ifr.png?sfvrsn=b53cb816_1)
+Serological testing of a representative random sample of the population to detect evidence of exposure to a pathogen is an important method to estimate the true number of infected individuals [[7,8,9]](https://paperpile.com/c/LxVgdZ/aE0N+YChn). Many such serological surveys are currently being undertaken worldwide [[10]](https://paperpile.com/c/LxVgdZ/WiwR), and some have thus far suggested substantial under-ascertainment of cases, with estimates of IFR converging at approximately 0.5 - 1% [[10-12]](https://paperpile.com/c/LxVgdZ/WhMX+WiwR+O2Yz).
+
+As serological studies require an investment of time and resources, there are many situations in which they may not be conducted timely, or even at all. Nevertheless, it remains crucial to monitor trends in severity in real time. In such situations, estimates need to be made with routinely available surveillance data, which generally consist of time-series of cases and deaths reported in aggregate.
+
+### Calculating CFR
+
+**Case fatality ratio (CFR)** is the proportion of individuals diagnosed with a disease who die from that disease and is therefore a measure of severity among detected cases:
+
+![Image 5: A 640x56 small image, likely a logo, icon or avatar](https://www.who.int/images/default-source/health-topics/coronavirus/cfr.png?sfvrsn=c5031cde_1)
+Reliable CFRs that can be used to assess the deadliness of an outbreak and evaluate any implemented public health measures are generally obtained at the end of an outbreak, after all cases have been resolved (affected individuals either died or recovered). However, this calculation may not hold in an ongoing epidemic, because it makes two assumptions:
+
+**Assumption 1: The likelihood of detecting cases and deaths is consistent over the course of the outbreak.**
+
+Early in an outbreak, surveillance tends to focus more on symptomatic patients who seek care, so milder and asymptomatic cases are less likely to be detected, leading to overestimation of CFR; this overestimation may decrease as testing and active case finding increase. One method to account for this is to remove from the analysis those cases that occurred before the establishment of robust surveillance, including application of clear case definitions (a method called left censoring).
+
+**Assumption 2: All detected cases have resolved (that is, reported cases have either recovered or died).**
+
+During an ongoing epidemic, some of the active cases already detected may subsequently die, leading to underestimation of CFR estimated before their death. This effect is accentuated in fast-growing epidemics (e.g. during the exponential growth phase of COVID-19).
+
+### Calculating CFR during an ongoing epidemic
+
+CFR calculated using the above formula during ongoing epidemics provides a conditional, estimate of CFR and is influenced by lags in report dates for cases and deaths [13]. This leads to a wide variation in CFR estimates over the course of an epidemic, which tends toward a stable, final estimate of CFR as active cases are resolved.
+
+One simple solution to mitigating the bias due to delays to case resolution during an ongoing outbreak is to restrict the analysis to resolved cases:
+
+![Image 6: A 492x35 small image, likely a logo, icon or avatar](https://www.who.int/images/default-source/health-topics/coronavirus/cfrce2286ecfd9441ea80c5b2b7322cf3ee.png?sfvrsn=6c028d0_1)
+However, this method does not eliminate all biases related to delayed reporting. For example, differences in the time it takes for cases to resolve can bias this estimate. If people sick with the disease typically die quicker than they recover, CFR may be overestimated. If the reverse is true, it may be underestimated. Therefore, more sophisticated approaches that make use of statistical techniques to predict future outcomes among active cases based on the probabilities of past outcomes may be applied, including modified Kaplan-Meier survival analysis [[14,15]](https://paperpile.com/c/LxVgdZ/f5E7+8itg). Two important drawbacks to such approaches are first, that they tend to require individual-level data that are less accessible in real-time than aggregate case and death counts; and second, that they are less simple to do, generally requiring the application of advanced statistical methods.
+
+Taking risk groups into account
+
+The severity of COVID-19 has been widely reported to be influenced by age, sex and underlying comorbidities [[10,16,17]](https://paperpile.com/c/LxVgdZ/WiwR+8iq7+BURe), and there is some evidence that other factors, such as ethnicity, are also independent risk factors [[18]](https://paperpile.com/c/LxVgdZ/R1RW). Any attempt to capture a single measure of fatality in a population will fail to account for the underlying heterogeneities between different risk groups, and the important bias that occurs due to their different distributions within and between populations [[19]](https://paperpile.com/c/LxVgdZ/TePv). Therefore, efforts should be made to calculate risk-group-specific estimates of fatality risk in order to better describe the true patterns of fatality occurring in a population.
+
+Potential bias in detection of cases and deaths
+
+These biases may vary over the course of an outbreak:
+
+*   At the start of an outbreak, those cases detected are more likely to be severe or fatal. Patients with severe illness are more likely to present at health facilities and to be confirmed by laboratory test.
+*   Delays in reporting deaths can lead to underestimation of the CFR.
+*   COVID-19 cases and deaths occurring in the community that go undetected or are reported late because they were incorrectly attributed to other causes. 
+*   If deaths are more likely to be reported than recoveries, an overestimation of CFR will occur. The reverse leads to underestimation.
+
+It is unlikely that all deaths will be detected and correctly assigned, even though detecting deaths may be subject to less bias than case detection.
+
+### Conclusion
+
+In the COVID-19 pandemic, we have seen broad variations in naïve estimations of CFR that may be misleading. Countries are difficult to compare for a number of reasons. They may be more or less likely to detect and report all COVID-19 deaths. Furthermore, they may be using different case definitions and testing strategies or counting cases differently (for example, with mild cases not being tested or counted). Variations in CFR also may be explained in part by the way time lags are handled. Differing quality of care or interventions being introduced at different stages of the illness also may play a role. Finally, the profile of patients (for example their age, sex, ethnicity and underlying comorbidities) may vary between countries.
+
+### References
+
+1.   Kim G-U, Kim M-J, Ra SH, Lee J, Bae S, Jung J, et al. Clinical characteristics of asymptomatic and symptomatic patients with mild COVID-19. Clin Microbiol Infect. 2020;26: 948.e1–948.e3.
+2.   Nishiura H, Kobayashi T, Miyama T, Suzuki A, Jung S-M, Hayashi K, et al. Estimation of the asymptomatic ratio of novel coronavirus infections (COVID-19). Int J Infect Dis. 2020;94: 154–155.
+3.   Lau H, Khosrawipour T, Kocbach P, Ichii H, Bania J, Khosrawipour V. Evaluating the massive underreporting and undertesting of COVID-19 cases in multiple global epicenters. Pulmonology. 2020. doi:10.1016/j.pulmoe.2020.05.015
+4.   Niehus R, De Salazar PM, Taylor AR, Lipsitch M. Using observational data to quantify bias of traveller-derived COVID-19 prevalence estimates in Wuhan, China. Lancet Infect Dis. 2020;20: 803–808.
+5.   World Health Organization. Global surveillance for COVID-19 caused by human infection with COVID-19 virus. Available from: [https://www.who.int/publications/i/item/global-surveillance-for-covid-19-caused-by-human-infection-with-covid-19-virus-interim-guidance](https://www.who.int/publications/i/item/global-surveillance-for-covid-19-caused-by-human-infection-with-covid-19-virus-interim-guidance)
+6.   World Health Organization. International guidelines for certification and classification (coding) of COVID-19 as a cause of death. Available from: [https://www.who.int/classifications/icd/Guidelines_Cause_of_Death_COVID-19.pdf?ua=1](https://www.who.int/news-room/commentaries/detail/334B58FA-BAFF-493C-AFE6-09155E6885A4)
+7.   Metcalf CJE, Farrar J, Cutts FT, Basta NE, Graham AL, Lessler J, et al. Use of serological surveys to generate key insights into the changing global landscape of infectious disease. Lancet. 2016;388: 728–730.
+8.   Kritsotakis E. On the Importance of Population-Based Serological Surveys of SARS-CoV-2 Without Overlooking Their Inherent Uncertainties. doi:10.20944/preprints202005.0194.v1.
+9.   [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/serology-in-the-context-of-covid-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/serology-in-the-context-of-covid-19)
+10.   Perez-Saez FJ, Lauer SA, Kaiser L, Regard S, Delaporte E, Guessous I, et al. Serology-informed estimates of SARS-CoV-2 infection fatality risk in Geneva, Switzerland. Lancet Infect Dis doi:10.1016/S1473-3099(20)30584-3
+11.   Stringhini S, Wisniak A, Piumatti G, Azman AS, Lauer SA, Baysson H, et al. Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Geneva, Switzerland (SEROCoV-POP): a population-based study. Lancet. 2020. doi:10.1016/S0140-6736(20)31304-0.
+12.   The infection fatality rate of COVID-19 in Stockholm – Technical report. Available: [https://www.folkhalsomyndigheten.se/contentassets/53c0dc391be54f5d959ead9131edb771/infection-fatality-rate-covid-19-stockholm-technical-report.pdf](https://www.folkhalsomyndigheten.se/contentassets/53c0dc391be54f5d959ead9131edb771/infection-fatality-rate-covid-19-stockholm-technical-report.pdf)
+13.   Nishiura H, Klinkenberg D, Roberts M, Heesterbeek JA. Early epidemiological assessment of the virulence of emerging infectious diseases: a case study of an influenza pandemic. PLoS One. 2009;4(8):e6852. Published 2009 Aug 31. doi:10.1371/journal.pone.0006852.
+14.   Ghani AC, Donnelly CA, Cox DR, Griffin JT, Fraser C, Lam TH, et al. Methods for estimating the case fatality ratio for a novel, emerging infectious disease. Am J Epidemiol. 2005;162: 479–486.
+15.   Lipsitch M, Donnelly CA, Fraser C, Blake IM, Cori A, Dorigatti I, et al. Potential Biases in Estimating Absolute and Relative Case-Fatality Risks during Outbreaks. PLOS Neglected Tropical Diseases. 2015. p. e0003846. doi:10.1371/journal.pntd.0003846.
+16.   Gold MS, Sehayek D, Gabrielli S, Zhang X, McCusker C, Ben-Shoshan M. COVID-19 and comorbidities: a systematic review and meta-analysis. Postgrad Med. 2020; 1–7.
+17.   Jain V, Yuan J-M. Predictive symptoms and comorbidities for severe COVID-19 and intensive care unit admission: a systematic review and meta-analysis. Int J Public Health. 2020;65: 533–546.
+18.   Pan D, Sze S, Minhas JS, Bangash MN, Pareek N, Divall P, et al. The impact of ethnicity on clinical outcomes in COVID-19: A systematic review. EClinicalMedicine. 2020;23: 100404.
+19.   Angelopoulos A, Pathak R, Varma R, Jordan MI. Identifying and Correcting Bias from Time- and Severity- Dependent Reporting Rates in the Estimation of the COVID-19 Case Fatality Rate. SSRN Electronic Journal. doi:10.2139/ssrn.3556644.
+
+WHO continues to monitor the situation closely for any changes that may affect this scientific brief. Should any factors change, WHO will issue a further update. Otherwise, this scientific brief document will expire 2 years after the date of publication.
+
+Related
+
+### Estimating mortality from COVID-19
+
+[Access the publication](https://www.who.int/publications/i/item/WHO-2019-nCoV-Sci-Brief-Mortality-2020.1)
+
+*   [Regions](https://www.who.int/redirect-pages/footer/regions) 
+    *   [Africa](https://www.who.int/redirect-pages/footer/regions/africa)
+    *   [Americas](https://www.who.int/redirect-pages/footer/regions/americas)
+    *   [Eastern Mediterranean](https://www.who.int/redirect-pages/footer/regions/eastern-mediterranen)
+    *   [Europe](https://www.who.int/redirect-pages/footer/regions/europe)
+    *   [South-East Asia](https://www.who.int/redirect-pages/footer/regions/south-east-asia)
+    *   [Western Pacific](https://www.who.int/redirect-pages/footer/regions/western-pacific)
+
+*   [Policies](https://www.who.int/redirect-pages/footer/who-policies) 
+    *   [Cybersecurity](https://www.who.int/redirect-pages/footer/who-policies/cybersecurity)
+    *   [Ethics](https://www.who.int/redirect-pages/footer/who-policies/ethics)
+    *   [Information disclosure](https://www.who.int/redirect-pages/footer/who-policies/information-disclosure)
+    *   [Permissions and licensing](https://www.who.int/redirect-pages/footer/who-policies/permissions-and-licensing)
+    *   [Preventing sexual exploitation](https://www.who.int/redirect-pages/footer/who-policies/preventing-sexual-exploitation)
+    *   [Terms of use](https://www.who.int/redirect-pages/footer/who-policies/terms-of-use)
+
+*   [About us](https://www.who.int/redirect-pages/footer/about-us) 
+    *   [Careers](https://www.who.int/redirect-pages/footer/about-us/careers)
+    *   [Frequently asked questions](https://www.who.int/redirect-pages/footer/about-us/frequently-asked-questions)
+    *   [Library](https://www.who.int/redirect-pages/footer/about-us/library)
+    *   [Procurement](https://www.who.int/redirect-pages/footer/about-us/procurement)
+    *   [Publications](https://www.who.int/redirect-pages/footer/about-us/publications)
+
+*   [Contact us](https://www.who.int/about/contact-us) 
+
+[Newsletters](https://www.who.int/redirect-pages/footer/about-us/newsletters)
+
+[Report misconduct](https://www.who.int/about/ethics/integrity-hotline)
+
+[![Image 7: Home](https://www.who.int/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg)](https://www.who.int/ "Home")
+
+[Privacy policy](https://www.who.int/about/policies/privacy)
+
+[](https://www.youtube.com/user/who?sub_confirmation=1 "Follow WHO on Youtube")[](https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who "Follow WHO on Twitter")[](https://www.facebook.com/WHO "Follow WHO on Facebook")[](https://instagram.com/who "Follow WHO on Instagram")[](https://www.linkedin.com/company/world-health-organization "Follow WHO on LinkedIn")[](https://www.snapchat.com/add/who "Follow WHO on Snapchat")[](https://www.tiktok.com/@who?lang=en "Follow WHO on TikTok")
+
+ ©  2025 
+
+[WHO](https://www.who.int/about/policies/terms-of-use)

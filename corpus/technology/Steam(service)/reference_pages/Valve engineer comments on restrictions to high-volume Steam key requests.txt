@@ -1,0 +1,396 @@
+# Valve engineer comments on restrictions to high-volume Steam key requests
+
+Gamasutra - Valve engineer comments on restrictions to high-volume Steam key requests
+
+===============
+
+The Wayback Machine - http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php
+
+*   Our Properties:
+*   [Gamasutra](http://www.gamasutra.com/)
+*   [GameCareerGuide](http://www.gamecareerguide.com/)
+*   [IndieGames](http://www.indiegames.com/)
+*   [GDC Vault](http://www.gdcvault.com/)
+*   [GDC](http://www.gdconf.com/)
+*   [IGF](http://www.igf.com/)
+
+[![Image 2: Gamasutra: The Art & Business of Making Games](https://twimgs.com/gamasutra/images/gamasutra_logo.png)](http://gamasutra.com/)![Image 3: spacer](https://twimgs.com/gamasutra/images/spacer.gif)
+
+SEARCH[GO](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php)
+
+[GAME JOBS](http://jobs.gamasutra.com/)
+
+[updates](http://www.gamasutra.com/updates/)[Blogs](http://www.gamasutra.com/blogs/)[contractors](http://www.gamasutra.com/contractors/contractor_display.php)[newsletter](http://www.gamasutra.com/newsletter-signup)[store](https://store.cmpgame.com/storefront.php?loc=&skin=gamasutra_redesign)
+
+SEARCH[GO](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php)
+
+*   [ALL](http://gamasutra.com/)
+*   [CONSOLE/PC](http://www.gamasutra.com/topic/console-pc)
+*   [SMARTPHONE/TABLET](http://www.gamasutra.com/topic/smartphone-tablet)
+*   [INDEPENDENT](http://www.gamasutra.com/topic/indie)
+*   [VR/AR](http://www.gamasutra.com/topic/vr)
+*   [SOCIAL/ONLINE](http://www.gamasutra.com/topic/social-online)
+
+[![Image 4: A 118x33 small image, likely a logo, icon or avatar](https://twimgs.com/gamasutra/images/btn_gdmag0.png)](http://www.gamasutra.com/topic/game-developer)
+
+*   [](http://www.facebook.com/pages/Gamasutra/31610613408)
+*   [](http://twitter.com/gamasutra)
+*   [](http://gamasutra.com/static2/rssfeeds.html)
+*   [](http://www.gamasutra.com/newsletter-signup)
+
+[![Image 5: arrow](https://twimgs.com/gamasutra/images/button_programming.gif)](http://www.gamasutra.com/category/programming/)
+
+[PROGRAMMING](http://www.gamasutra.com/category/programming/)
+
+* * *
+
+[![Image 6: spacer](https://twimgs.com/gamasutra/images/button_art.gif)](http://www.gamasutra.com/category/art/)
+
+[ART](http://www.gamasutra.com/category/art/)
+
+* * *
+
+[![Image 7: spacer](https://twimgs.com/gamasutra/images/button_audio.gif)](http://www.gamasutra.com/category/audio/)
+
+[AUDIO](http://www.gamasutra.com/category/audio/)
+
+* * *
+
+[![Image 8: arrow](https://twimgs.com/gamasutra/images/button_design.gif)](http://www.gamasutra.com/category/design/)
+
+[DESIGN](http://www.gamasutra.com/category/design/)
+
+* * *
+
+[![Image 9: arrow](https://twimgs.com/gamasutra/images/button_production.gif)](http://www.gamasutra.com/category/production/)
+
+[PRODUCTION](http://www.gamasutra.com/category/production/)
+
+* * *
+
+[![Image 10: arrow](https://twimgs.com/gamasutra/images/button_business.gif)](http://www.gamasutra.com/category/business-marketing/)
+
+[BIZ/MARKETING](http://www.gamasutra.com/category/business-marketing/)
+
+![Image 11: arrow](https://twimgs.com/gamasutra/images/icon_jobs.png)[Latest Jobs](http://jobs.gamasutra.com/)
+
+[**View All**](http://jobs.gamasutra.com/)[**RSS**](http://feeds.feedburner.com/GamasutraJobs)
+
+* * *
+
+**August 18, 2017**
+
+* * *
+
+*   Infinity Ward / Activision
+
+[Senior Visual Effects Artist](http://jobs.gamasutra.com/job/senior-visual-effects-artist-woodland-hills-california-32121)
+
+*   Sanzaru Games Inc.
+
+[UI Artist](http://jobs.gamasutra.com/job/ui-artist-foster-city-california-31913)
+
+*   Respawn Entertainment
+
+[Senior Software Engineer](http://jobs.gamasutra.com/job/senior-software-engineer-los-angeles-california-32030)
+
+*   Respawn Entertainment
+
+[Executive Producer](http://jobs.gamasutra.com/job/executive-producer-los-angeles-california-32021)
+
+*   Respawn Entertainment
+
+[Senior Level Designer](http://jobs.gamasutra.com/job/senior-level-designer-los-angeles-california-32024)
+
+*   Angle Technologies
+
+[Real-Time Networking Engineer](http://jobs.gamasutra.com/job/real-time-networking-engineer-san-francisco-california-32143)
+
+![Image 12: arrow](https://twimgs.com/gamasutra/images/icon_blogs.png)[Latest Blogs](http://www.gamasutra.com/blogs/)
+
+[**View All**](http://www.gamasutra.com/blogs/)[**Post**](http://www.gamasutra.com/blogs/edit/)[**RSS**](http://www.gamasutra.com/blogs/rss/)
+
+* * *
+
+**August 18, 2017**
+
+* * *
+
+*   [Video game music systems at GDC 2017: tools and tips for composers](http://www.gamasutra.com/blogs/WinifredPhillips/20170816/303751/Video_game_music_systems_at_GDC_2017_tools_and_tips_for_composers.php) [[2](http://www.gamasutra.com/blogs/WinifredPhillips/20170816/303751/Video_game_music_systems_at_GDC_2017_tools_and_tips_for_composers.php#comments "2 comments")] 
+
+*   [Making a Game Maker: Hatching Chicken Wiggle 🐣](http://www.gamasutra.com/blogs/JoolsWatsham/20170815/303356/Making_a_Game_Maker_Hatching_Chicken_Wiggle_128035.php) [[1](http://www.gamasutra.com/blogs/JoolsWatsham/20170815/303356/Making_a_Game_Maker_Hatching_Chicken_Wiggle_128035.php#comments "1 comments")] 
+
+*   [Scholars Discuss Urban Empire](http://www.gamasutra.com/blogs/BobWhitaker/20170814/303663/Scholars_Discuss_Urban_Empire.php)
+
+*   [Video Game Deep Cuts: GTA Online's Flash Dream](http://www.gamasutra.com/blogs/SimonCarless/20170814/303647/Video_Game_Deep_Cuts_GTA_Onlines_Flash_Dream.php)
+
+*   [10 Ways in Which Sonic the Hedgehog Wasn’t About Speed](http://www.gamasutra.com/blogs/RadekKoncewicz/20170810/303522/10_Ways_in_Which_Sonic_the_Hedgehog_Wasnt_About_Speed.php) [[6](http://www.gamasutra.com/blogs/RadekKoncewicz/20170810/303522/10_Ways_in_Which_Sonic_the_Hedgehog_Wasnt_About_Speed.php#comments "6 comments")] 
+
+![Image 13: arrow](https://twimgs.com/gamasutra/images/icon_blogs.png)Press Releases
+
+**August 18, 2017**
+
+* * *
+
+[**Games Press**](http://www.gamasutra.com/pressreleases_index.php)
+
+* * *
+
+*   [Let the genie out of the bottle in the new update...](http://gamasutra.com/view/pressreleases/304090/Let_the_genie_out_of_the_bottle_in_the_new_update_of_TheSecret_Societyreg_Hidden_Mystery.php)
+
+*   [Marvel's Guardians of the Galaxy: The Telltale...](http://gamasutra.com/view/pressreleases/304091/Marvels_Guardians_of_the_Galaxy_The_Telltale_Series_ReturnsAugust_22_See_the_Official_Trailer_for_Episode_Three_Now.php)
+
+*   [New songs for SUPERBEAT XONiC are now available!](http://gamasutra.com/view/pressreleases/304092/New_songs_for_SUPERBEAT_XONiC_are_now_available.php)
+
+*   [RAIDEN V: DIRECTOR'S CUT is Coming to PS4 in...](http://gamasutra.com/view/pressreleases/304084/RAIDEN_V_DIRECTORS_CUT_is_Coming_to_PS4_in_Europe.php)
+
+*   [ALLIANCE DIGITAL MEDIA TO LAUNCH COSMO D’S...](http://gamasutra.com/view/pressreleases/304085/ALLIANCE_DIGITAL_MEDIA_TO_LAUNCH_COSMO_DrsquoS_SURREALADVENTURE_GAME_THE_NORWOOD_SUITE_FOR_WINDOWS_PC_ON_OCT_2.php)
+
+[**View All**](http://www.gamasutra.com/pressreleases_index.php)[**RSS**](http://www.gamasutra.com/pressreleases/rss/)
+
+![Image 14: arrow](https://twimgs.com/gamasutra/images/icon_about.png)[About](http://www.gamasutra.com/contactus)
+
+*   **Editor-In-Chief:**
+
+[Kris Graft](mailto:kgraft@gamasutra.com)
+
+*   **Editor:**
+
+[Alex Wawro](mailto:alex.wawro@ubm.com)
+
+*   **Assignment Editor:**
+
+[Chris Baker](mailto:chris.baker@ubm.com)
+
+*   **Contributors:**
+
+ Chris Kerr
+
+ Alissa McAloon
+
+ Emma Kidwell
+
+ Bryant Francis
+
+ Katherine Cross
+
+*   **Advertising:**
+
+[Courtney Blair](mailto:courtney.blair@ubm.com)
+
+* * *
+
+[Contact Gamasutra](http://www.gamasutra.com/contactus)
+
+* * *
+
+[Report a Problem](mailto:support@gamasutra.com)
+
+* * *
+
+[Submit News](mailto:news@gamasutra.com)
+
+* * *
+
+[Comment Guidelines](http://www.gamasutra.com/static2/comment_guidelines.html)
+
+* * *
+
+[Blogging Guidelines](http://www.gamasutra.com/static2/blogsubmissions.html)
+
+* * *
+
+[How We Work](http://www.gamasutra.com/static2/howwework.html)
+
+[![Image 15: Sponsor](https://twimgs.com/gamasutra/images/AdwGama_177x60_button_v1.jpg)](http://www.ubmgamenetwork.com/online/)
+
+![Image 16: arrow](https://twimgs.com/gamasutra/images/icon_about.png)[Gama Network](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php#)
+
+ If you enjoy reading this site, you might also want to check out these UBM Tech sites: 
+
+* * *
+
+[](http://www.gamecareerguide.com/)
+
+[Game Career Guide](http://www.gamecareerguide.com/)
+
+* * *
+
+[](http://www.indiegames.com/blog)
+
+[Indie Games](http://www.indiegames.com/blog)
+
+![Image 17: Valve engineer comments on restrictions to high-volume Steam key requests](http://gamasutra.com/db_area/images/news/2017/Aug/304003/steam134.jpg)
+
+ Valve engineer comments on restrictions to high-volume Steam key requests 
+
+ August 17, 2017 | By Alissa McAloon 
+
+* * *
+
+ August 17, 2017 | By Alissa McAloon 
+
+* * *
+
+![Image 18: Comments](https://twimgs.com/gamasutra/images/comments_bubble.gif)
+
+[1 comments](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php#comments)
+
+* * *
+
+ More: [Console/PC](http://www.gamasutra.com/news/console-pc/), [Business/Marketing](http://www.gamasutra.com/news/business-marketing/)
+
+* * *
+
+[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php# "Twitter")[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php# "Facebook")[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php)[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php# "Pinterest")[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php# "Gmail")[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php#)
+
+* * *
+
+As a developer, next time you request Steam keys for your game, remember that Valve is checking in on whether or not you really _need_ those keys.
+
+A recent comment from Valve engineer Sean Jenkin has placed a spotlight on an internal measure that dictates whether Valve grants or denies developer requests for Steam keys. The comment also exhibits how, to some extent, Valve is paying attention to the third-party bundle and key-reselling markets.
+
+“If we are denying keys for normal size batches it’s likely because your Steam sales don’t reflect a need for as many keys as you’re distributing,” [said Jenkin](http://www.reddit.com/r/Steam/comments/6u8ytk/valve_instates_new_policy_to_combat_shady_key/) in the private Steamworks developer portal.
+
+“You’re probably asking for more keys because you’re offering cheaper options off Steam and yet we are bearing the costs," he said."So at some point we start deciding that the value you’re bringing Steam isn’t worth the cost to us.”
+
+He added that if there is a substantial disparity between the amount of games you've sold on Steam, and the of number keys you've requested and activated, Valve is "going to take a deeper look at your games, your sales, your costs, etc."
+
+While Jenkin's comment is noteworthy, he doesn’t discern if this is a recent change, a longstanding but previously unspoken rule, or a specific change in Steam developer policy. Valve has reportedly been turning down large-quantity key requests prior to Jenkin's remark, so this may be an older but lesser-known tack.
+
+It's also unclear if such a move is specifically to edge-out or combat game sales that are made outside of Steam, but it's easy to speculate.
+
+"Some folks are speculating that Valve will be trying to cut other stores out of Steam keys entirely and I sincerely doubt that," [opined Lars Doucet](https://twitter.com/larsiusprime/status/898215362436767747), a game developer who pays close attention to the business of Steam.
+
+We’ve reached out to Valve for further comment and clarification on Jenkin's post and will update this article following a response.
+
+![Image 19](http://gamasutra.com/db_area/images/news/304003/eLDE2QM.png)
+
+**Update:**A Valve representative gave the following response to Gamasutra:
+
+> "Steam keys have always been available for free to our partners to help them sell PC games at physical retail and on other digital stores. In return, we've asked that partners offer Steam customers a fair deal, similar to what they're offering on other stores. None of that is changing.
+> 
+> 
+> But over the last few years, new features and additions to Steam have changed the way Steam keys were being used, for instance as a means for game-shaped objects to monetize on Steam through methods other than actually selling fun games to customers. Most notably, this meant farming Steam Trading Cards. We shared a lot of info about that issue, and our response to it, [here](http://steamcommunity.com/games/593110/announcements/detail/1954971077935370845).
+> 
+> 
+> While our changes did impact the economics of trading card farming for new products coming to Steam, there are still a lot of games and game-shaped objects using Steam keys as a way to manipulate Steam systems. As a result, we're trying to look more closely at extreme examples of products on Steam that don't seem to be providing actual value as playable games-for instance, when a game has sold 100 units, has mostly negative reviews, but requests 500,000 Steam keys. We're not interested in supporting trading card farming or bot networks at the expense of being able to provide value and service for players.
+> 
+> 
+> It's completely OK for partners to sell their games on other sites via Steam keys, and run discounts or bundles on other stores, and we'll continue granting free keys to help partners do those things. But it's not OK to negatively impact our customers by manipulating our store and features."
+
+* * *
+
+[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php)[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php)[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php# "Reddit")[](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php# "StumbleUpon")[[Share](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php)[?](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php# "More")](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php#)
+
+* * *
+
+### Related Jobs
+
+[![Image 20: Infinity Ward / Activision](http://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/374_1497898804.gif)](http://jobs.gamasutra.com/job/senior-visual-effects-artist-woodland-hills-california-32121)
+
+**Infinity Ward / Activision — woodland hills, California, United States 
+
+ [08.18.17]**
+
+[Senior Visual Effects Artist](http://jobs.gamasutra.com/job/senior-visual-effects-artist-woodland-hills-california-32121)
+
+[![Image 21: Sanzaru Games Inc.](http://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/944627.jpg)](http://jobs.gamasutra.com/job/ui-artist-foster-city-california-31913)
+
+**Sanzaru Games Inc. — Foster City , California, United States 
+
+ [08.17.17]**
+
+[UI Artist](http://jobs.gamasutra.com/job/ui-artist-foster-city-california-31913)
+
+[![Image 22: Respawn Entertainment](http://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/940964.jpg)](http://jobs.gamasutra.com/job/senior-software-engineer-los-angeles-california-32030)
+
+**Respawn Entertainment — Los Angeles, California, United States 
+
+ [08.17.17]**
+
+[Senior Software Engineer](http://jobs.gamasutra.com/job/senior-software-engineer-los-angeles-california-32030)
+
+[![Image 23: Respawn Entertainment](http://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/940964.jpg)](http://jobs.gamasutra.com/job/executive-producer-los-angeles-california-32021)
+
+**Respawn Entertainment — Los Angeles, California, United States 
+
+ [08.17.17]**
+
+[Executive Producer](http://jobs.gamasutra.com/job/executive-producer-los-angeles-california-32021)
+
+**[[View All Jobs](http://jobs.gamasutra.com/)]**
+
+* * *
+
+### Top Stories
+
+[![Image 24](http://www.gamasutra.com/images/news/299849_thumb.jpg)](http://www.gamasutra.com/view/news/299849/How_smallscale_studio_Vector_Unit_optimized_for_bigscale_success.php)
+
+[**How small-scale studio Vector Unit optimized for big-scale success**](http://www.gamasutra.com/view/news/299849/How_smallscale_studio_Vector_Unit_optimized_for_bigscale_success.php)
+
+[![Image 25](http://www.gamasutra.com/images/news/304018_thumb.jpg)](http://www.gamasutra.com/view/news/304018/Valve_says_its_cracking_down_on_big_key_requests_to_combat_Steam_skulduggery.php)
+
+[**Valve says it's cracking down on big key requests to combat Steam skulduggery**](http://www.gamasutra.com/view/news/304018/Valve_says_its_cracking_down_on_big_key_requests_to_combat_Steam_skulduggery.php)
+
+[![Image 26](http://www.gamasutra.com/images/news/304079_thumb.jpg)](http://www.gamasutra.com/view/news/304079/How_Tencents_latest_hit_Honour_of_Kings_has_divided_generations.php)
+
+[**How Tencent's latest hit _Honour of Kings_ has divided generations**](http://www.gamasutra.com/view/news/304079/How_Tencents_latest_hit_Honour_of_Kings_has_divided_generations.php)
+
+[![Image 27](http://www.gamasutra.com/images/news/303981_thumb.jpg)](http://www.gamasutra.com/blogs/WinifredPhillips/20170816/303751/Video_game_music_systems_at_GDC_2017_tools_and_tips_for_composers.php)
+
+[**Blog: Game music system tools and tips**](http://www.gamasutra.com/blogs/WinifredPhillips/20170816/303751/Video_game_music_systems_at_GDC_2017_tools_and_tips_for_composers.php)
+
+**[[Next News Story](http://www.gamasutra.com/view/news/303898/Using_sound_design_to_give_Slime_Rancher_charm_without_getting_too_gooey.php)]  [[View All](http://www.gamasutra.com/updates)]**
+
+304003 newswire/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php[Loading Comments](http://www.gamasutra.com/view/news/304003/Valve_engineer_comments_on_restrictions_to_highvolume_Steam_key_requests.php)
+
+* * *
+
+![Image 28: loader image](http://www.gamasutra.com/ajax-loader.gif)
+
+[![Image 29: UBM](http://img.deusm.com/images/UBM_Logo_White.png)](http://www.ubmtechweb.com/)
+
+*   TECHNOLOGY GROUP
+*   [Black Hat](http://www.blackhat.com/)
+*   [Content Marketing Institute](http://contentmarketinginstitute.com/)
+*   [Content Marketing World](http://www.contentmarketingworld.com/)
+*   [Dark Reading](http://www.darkreading.com/)
+
+*   [Enterprise Connect](http://www.enterpriseconnect.com/)
+*   [Fusion](http://www.servicemanagementfusion.com/)
+*   [GDC](http://www.gdconf.com/)
+*   [Gamasutra](http://www.gamasutra.com/)
+
+*   [HDI](http://www.thinkhdi.com/)
+*   [ICMI](http://www.icmi.com/)
+*   [InformationWeek](http://www.informationweek.com/)
+*   [INsecurity](http://insecurity.com/)
+
+*   [Interop ITX](http://www.interop.com/)
+*   [Network Computing](http://www.networkcomputing.com/)
+*   [No Jitter](http://www.nojitter.com/)
+*   [VRDC](http://www.vrdconf.com/)
+
+*   COMMUNITIES SERVED
+*   [Content Marketing](http://tech.ubm.com/community-brands/content-marketing-2/)
+*   [Enterprise IT](http://tech.ubm.com/community-brands/enterprise-it/)
+*   [Enterprise Communications](http://tech.ubm.com/community-brands/enterprise-communications/)
+*   [Game Development](http://tech.ubm.com/community-brands/game-and-app-developers/)
+*   [Information Security](http://tech.ubm.com/community-brands/information-security/)
+*   [IT Services & Support](http://tech.ubm.com/community-brands/technical-service-and-support/)
+
+*   WORKING WITH US
+*   [Advertising Contacts](http://createyournextcustomer.techweb.com/contact-us/)
+*   [Event Calendar](http://events.ubm.com/?company=10)
+*   [Tech Marketing](http://createyournextcustomer.techweb.com/)
+*   [Solutions](http://createyournextcustomer.techweb.com/)
+*   [Contact Us](http://tech.ubm.com/contact-us/)
+*   [Licensing](http://wrightsmedia.com/sites/ubm/index.cfm)
+
+*   [Terms of Service](http://legal.us.ubm.com/terms-of-service/)
+*   [Privacy Statement](http://legal.us.ubm.com/privacy-policy/)
+*   [Legal Entities](http://reg.ubmamevents.com/UBMLegalEntities)
+*   Copyright © 2017 UBM, All rights reserved
+
+![Image 31](http://www.gamasutra.comhttp//rudy.adsnative.com/cm.gif)

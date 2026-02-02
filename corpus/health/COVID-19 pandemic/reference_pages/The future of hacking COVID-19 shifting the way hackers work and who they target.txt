@@ -1,0 +1,675 @@
+# The future of hacking: COVID-19 shifting the way hackers work and who they target
+
+The future of hacking: COVID-19 shifting the way hackers work and who they target | 2020-08-14 | Security Magazine
+
+===============
+
+[](https://www.securitymagazine.com/)
+
+*   [Sign In](https://bnp.dragonforms.com/init.do?pk=X_W_WRSIGN&returnurl=https://www.securitymagazine.com/user/omeda?referer=https://www.securitymagazine.com/&omedasite=SEC_Login&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Create Account](https://bnp.dragonforms.com/init.do?pk=X_W_WRCREATE&returnurl=https://www.securitymagazine.com/user/omeda?referer=https://www.securitymagazine.com/&omedasite=SEC_Create&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Sign Out](https://www.securitymagazine.com/user/logout)
+*   My Account
+
+Search  search  close search 
+
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-1)[NEWS](https://www.securitymagazine.com/topics/2189-security-newswire)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-2)[MANAGEMENT](https://www.securitymagazine.com/topics/2786-management)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-3)[PHYSICAL](https://www.securitymagazine.com/topics/2787-physical)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-4)[CYBER](https://www.securitymagazine.com/topics/2788-cybersecurity)
+*   [BLOG](https://www.securitymagazine.com/blogs/14)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-5)[COLUMNS](https://www.securitymagazine.com/topics/2644-columns)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-6)[EXCLUSIVES](https://www.securitymagazine.com/#)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-7)[SECTORS](https://www.securitymagazine.com/topics/2789-sectors)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-8)[EVENTS](https://www.securitymagazine.com/events)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-9)[MEDIA](https://www.securitymagazine.com/media)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-11)[MORE](https://www.securitymagazine.com/#)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-12)[EMAG](https://www.securitymagazine.com/emagazine)
+*   [SIGN UP!](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMENAV&r=@{encrypted_customer_id}@&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+
+[cart](https://www.securitymagazine.com/cart)
+
+[facebook](https://www.facebook.com/SECmagazine)[twitter](https://www.twitter.com/SecurityMag)[linkedin](https://www.linkedin.com/company/security-magazine)[youtube](https://www.youtube.com/user/SecurityMag)
+
+*   [NEWS](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Security Newswire](https://www.securitymagazine.com/topics/2189-security-newswire)
+*   [Technologies & Solutions](https://www.securitymagazine.com/topics/2785-technologies-solutions)
+
+*   [MANAGEMENT](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Leadership Management](https://www.securitymagazine.com/topics/2227-security-leadership-and-management)
+*   [Enterprise Services](https://www.securitymagazine.com/topics/2231-enterprise-services)
+*   [Security Education & Training](https://www.securitymagazine.com/topics/2614-education-training)
+*   [Logical Security](https://www.securitymagazine.com/topics/2229-logical-security)
+*   [Security & Business Resilience](https://www.securitymagazine.com/topics/2230-security-business-resilience)
+*   [Profiles in Excellence](https://www.securitymagazine.com/topics/2772-profiles-in-excellence)
+
+*   [PHYSICAL](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Access Management](https://www.securitymagazine.com/topics/2232-access-management)
+*   [Fire & Life Safety](https://www.securitymagazine.com/topics/2235-fire-life-safety)
+*   [Identity Management](https://www.securitymagazine.com/topics/2233-identity-management)
+*   [Physical Security](https://www.securitymagazine.com/topics/2228-physical-security)
+*   [Video Surveillance](https://www.securitymagazine.com/topics/2234-video-surveillance)
+*   [Case Studies (Physical)](https://www.securitymagazine.com/topics/2663-case-studies-physical)
+
+*   [CYBER](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Cybersecurity News](https://www.securitymagazine.com/topics/2236-cybersecurity-news)
+*   [More](https://www.securitymagazine.com/topics/2788-cybersecurity)
+
+*   [COLUMNS](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Career Intelligence](https://www.securitymagazine.com/topics/2780-career-intelligence)
+*   [Cyber Tactics](https://www.securitymagazine.com/topics/2654-cyber-tactics)
+*   [Cybersecurity Education & Training](https://www.securitymagazine.com/topics/2991-cybersecurity-education-training)
+*   [Leadership & Management](https://www.securitymagazine.com/topics/2250-leadership-management)
+*   [Security Talk](https://www.securitymagazine.com/topics/2613-security-talk)
+
+*   [EXCLUSIVES](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Annual Guarding Report](https://www.securitymagazine.com/keywords/7522-annual-guarding-report)
+*   [Most Influential People in Security](https://www.securitymagazine.com/topics/2736-most-influential-people-in-security)
+*   [The Security Benchmark Report](https://www.securitymagazine.com/topics/2275-the-security-benchmark-report)
+*   [Top Guard and Security Officer Companies](https://www.securitymagazine.com/topics/2737-top-guard-and-security-officer-companies)
+*   [Top Cybersecurity Leaders](https://www.securitymagazine.com/topics/2959-top-cybersecurity-leaders)
+*   [Women in Security](https://www.securitymagazine.com/keywords/6376-women-in-security)
+
+*   [SECTORS](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Arenas / Stadiums / Leagues / Entertainment](https://www.securitymagazine.com/topics/2240-arenas-stadiums-leagues-entertainment)
+*   [Banking/Finance/Insurance](https://www.securitymagazine.com/topics/2246-banking-finance-insurance)
+*   [Construction, Real Estate, Property Management](https://www.securitymagazine.com/topics/2245-construction-real-estate-property-management)
+*   [Education: K-12](https://www.securitymagazine.com/topics/2239-education-k-12)
+*   [Education: University](https://www.securitymagazine.com/topics/2241-education-university)
+*   [Government: Federal, State and Local](https://www.securitymagazine.com/topics/2645-government-federal-state-and-local)
+*   [Hospitality & Casinos](https://www.securitymagazine.com/topics/2622-hospitality-casinos)
+*   [Hospitals & Medical Centers](https://www.securitymagazine.com/topics/2247-hospitals-medical-centers)
+*   [Infrastructure:Electric,Gas & Water](https://www.securitymagazine.com/topics/2238-infrastructure-electric-gas-water)
+*   [Ports: Sea, Land, & Air](https://www.securitymagazine.com/topics/2244-ports-sea-land-air)
+*   [Retail/Restaurants/Convenience](https://www.securitymagazine.com/topics/2243-retail-restaurants-convenience)
+*   [Transportation/Logistics/Supply Chain/Distribution/ Warehousing](https://www.securitymagazine.com/topics/2242-transportation-logistics-supply-chain-distribution-warehousing)
+
+*   [EVENTS](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Industry Events](https://www.securitymagazine.com/events)
+*   [Webinars](https://www.securitymagazine.com/events/category/2141)
+*   [Solutions by Sector](https://www.securitymagazine.com/events/category/2940)
+*   [Security 500 Conference](https://www.securitymagazine.com/security-500-conference/)
+
+*   [MEDIA](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Interactive Spotlight](https://www.securitymagazine.com/keywords/9162-interactive-product-spotlight)
+*   [Photo Galleries](https://www.securitymagazine.com/media/photos/)
+*   [Podcasts](https://www.securitymagazine.com/media/podcasts/2594)
+*   [Polls](https://www.securitymagazine.com/polls)
+*   [](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-10)[Videos](https://www.securitymagazine.com/videos)
+
+*   [Videos](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-9)
+*   [Cybersecurity & Geopolitical Discussion](https://www.securitymagazine.com/cyber-geo)
+*   [Ask Me Anything (AMA) Series](https://www.securitymagazine.com/ama)
+
+*   [MORE](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [Call for Entries](https://www.securitymagazine.com/contests-and-forms)
+*   [Classifieds & Job Listings](https://www.securitymagazine.com/classifieds)
+*   [Continuing Education](https://engineeringcenter.bnpmedia.com/library.php?g=security?oly_enc_id=)
+*   [Newsletter](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMENAV&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Sponsor Insights](https://www.securitymagazine.com/topics/2745-sponsored-content)
+*   [Store](https://www.securitymagazine.com/products)
+*   [White Papers](https://www.securitymagazine.com/security-white-papers)
+
+*   [EMAG](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#mm-0)
+*   [eMagazine](https://www.securitymagazine.com/emagazine)
+*   [This Month's Content](https://www.securitymagazine.com/publications/3)
+*   [Advertise](https://www.securitymagazine.com/advertise)
+
+[](https://www.securitymagazine.com/)
+
+[search](https://www.securitymagazine.com/search)
+
+Search  search  close search 
+
+[cart](https://www.securitymagazine.com/cart)
+
+[facebook](https://www.facebook.com/SECmagazine)[twitter](https://www.twitter.com/SecurityMag)[linkedin](https://www.linkedin.com/company/security-magazine)[youtube](https://www.youtube.com/user/SecurityMag)
+
+*   [Sign In](https://bnp.dragonforms.com/init.do?pk=X_W_WRSIGN&returnurl=https://www.securitymagazine.com/user/omeda?referer=https://www.securitymagazine.com/&omedasite=SEC_Login&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Create Account](https://bnp.dragonforms.com/init.do?pk=X_W_WRCREATE&returnurl=https://www.securitymagazine.com/user/omeda?referer=https://www.securitymagazine.com/&omedasite=SEC_Create&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Sign Out](https://www.securitymagazine.com/user/logout)
+*   My Account
+
+[](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#)[](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#)
+
+[](https://www.securitymagazine.com/)
+
+*   [NEWS](https://www.securitymagazine.com/topics/2189-security-newswire)
+    *   [Security Newswire](https://www.securitymagazine.com/topics/2189-security-newswire)
+    *   [Technologies & Solutions](https://www.securitymagazine.com/topics/2785-technologies-solutions)
+
+*   [MANAGEMENT](https://www.securitymagazine.com/topics/2786-management)
+    *   [Leadership Management](https://www.securitymagazine.com/topics/2227-security-leadership-and-management)
+    *   [Enterprise Services](https://www.securitymagazine.com/topics/2231-enterprise-services)
+    *   [Security Education & Training](https://www.securitymagazine.com/topics/2614-education-training)
+    *   [Logical Security](https://www.securitymagazine.com/topics/2229-logical-security)
+    *   [Security & Business Resilience](https://www.securitymagazine.com/topics/2230-security-business-resilience)
+    *   [Profiles in Excellence](https://www.securitymagazine.com/topics/2772-profiles-in-excellence)
+
+*   [PHYSICAL](https://www.securitymagazine.com/topics/2787-physical)
+    *   [Access Management](https://www.securitymagazine.com/topics/2232-access-management)
+    *   [Fire & Life Safety](https://www.securitymagazine.com/topics/2235-fire-life-safety)
+    *   [Identity Management](https://www.securitymagazine.com/topics/2233-identity-management)
+    *   [Physical Security](https://www.securitymagazine.com/topics/2228-physical-security)
+    *   [Video Surveillance](https://www.securitymagazine.com/topics/2234-video-surveillance)
+    *   [Case Studies (Physical)](https://www.securitymagazine.com/topics/2663-case-studies-physical)
+
+*   [CYBER](https://www.securitymagazine.com/topics/2788-cybersecurity)
+    *   [Cybersecurity News](https://www.securitymagazine.com/topics/2236-cybersecurity-news)
+    *   [More](https://www.securitymagazine.com/topics/2788-cybersecurity)
+
+*   [BLOG](https://www.securitymagazine.com/blogs/14)
+*   [COLUMNS](https://www.securitymagazine.com/topics/2644-columns)
+    *   [Career Intelligence](https://www.securitymagazine.com/topics/2780-career-intelligence)
+    *   [Cyber Tactics](https://www.securitymagazine.com/topics/2654-cyber-tactics)
+    *   [Cybersecurity Education & Training](https://www.securitymagazine.com/topics/2991-cybersecurity-education-training)
+    *   [Leadership & Management](https://www.securitymagazine.com/topics/2250-leadership-management)
+    *   [Security Talk](https://www.securitymagazine.com/topics/2613-security-talk)
+
+*   [EXCLUSIVES](https://www.securitymagazine.com/#)
+    *   [Annual Guarding Report](https://www.securitymagazine.com/keywords/7522-annual-guarding-report)
+    *   [Most Influential People in Security](https://www.securitymagazine.com/topics/2736-most-influential-people-in-security)
+    *   [The Security Benchmark Report](https://www.securitymagazine.com/topics/2275-the-security-benchmark-report)
+    *   [Top Guard and Security Officer Companies](https://www.securitymagazine.com/topics/2737-top-guard-and-security-officer-companies)
+    *   [Top Cybersecurity Leaders](https://www.securitymagazine.com/topics/2959-top-cybersecurity-leaders)
+    *   [Women in Security](https://www.securitymagazine.com/keywords/6376-women-in-security)
+
+*   [SECTORS](https://www.securitymagazine.com/topics/2789-sectors)
+    *   [Arenas / Stadiums / Leagues / Entertainment](https://www.securitymagazine.com/topics/2240-arenas-stadiums-leagues-entertainment)
+    *   [Banking/Finance/Insurance](https://www.securitymagazine.com/topics/2246-banking-finance-insurance)
+    *   [Construction, Real Estate, Property Management](https://www.securitymagazine.com/topics/2245-construction-real-estate-property-management)
+    *   [Education: K-12](https://www.securitymagazine.com/topics/2239-education-k-12)
+    *   [Education: University](https://www.securitymagazine.com/topics/2241-education-university)
+    *   [Government: Federal, State and Local](https://www.securitymagazine.com/topics/2645-government-federal-state-and-local)
+    *   [Hospitality & Casinos](https://www.securitymagazine.com/topics/2622-hospitality-casinos)
+    *   [Hospitals & Medical Centers](https://www.securitymagazine.com/topics/2247-hospitals-medical-centers)
+    *   [Infrastructure:Electric,Gas & Water](https://www.securitymagazine.com/topics/2238-infrastructure-electric-gas-water)
+    *   [Ports: Sea, Land, & Air](https://www.securitymagazine.com/topics/2244-ports-sea-land-air)
+    *   [Retail/Restaurants/Convenience](https://www.securitymagazine.com/topics/2243-retail-restaurants-convenience)
+    *   [Transportation/Logistics/Supply Chain/Distribution/ Warehousing](https://www.securitymagazine.com/topics/2242-transportation-logistics-supply-chain-distribution-warehousing)
+
+*   [EVENTS](https://www.securitymagazine.com/events)
+    *   [Industry Events](https://www.securitymagazine.com/events)
+    *   [Webinars](https://www.securitymagazine.com/events/category/2141)
+    *   [Solutions by Sector](https://www.securitymagazine.com/events/category/2940)
+    *   [Security 500 Conference](https://www.securitymagazine.com/security-500-conference/)
+
+*   [MEDIA](https://www.securitymagazine.com/media)
+    *   [Interactive Spotlight](https://www.securitymagazine.com/keywords/9162-interactive-product-spotlight)
+    *   [Photo Galleries](https://www.securitymagazine.com/media/photos/)
+    *   [Podcasts](https://www.securitymagazine.com/media/podcasts/2594)
+    *   [Polls](https://www.securitymagazine.com/polls)
+    *   [Videos](https://www.securitymagazine.com/videos)
+        *   [Cybersecurity & Geopolitical Discussion](https://www.securitymagazine.com/cyber-geo)
+        *   [Ask Me Anything (AMA) Series](https://www.securitymagazine.com/ama)
+
+*   [MORE](https://www.securitymagazine.com/#)
+    *   [Call for Entries](https://www.securitymagazine.com/contests-and-forms)
+    *   [Classifieds & Job Listings](https://www.securitymagazine.com/classifieds)
+    *   [Continuing Education](https://engineeringcenter.bnpmedia.com/library.php?g=security?oly_enc_id=)
+    *   [Newsletter](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMENAV&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+    *   [Sponsor Insights](https://www.securitymagazine.com/topics/2745-sponsored-content)
+    *   [Store](https://www.securitymagazine.com/products)
+    *   [White Papers](https://www.securitymagazine.com/security-white-papers)
+
+*   [EMAG](https://www.securitymagazine.com/emagazine)
+    *   [eMagazine](https://www.securitymagazine.com/emagazine)
+    *   [This Month's Content](https://www.securitymagazine.com/publications/3)
+    *   [Advertise](https://www.securitymagazine.com/advertise)
+
+*   [SIGN UP!](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMENAV&r=@{encrypted_customer_id}@&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+
+[Cybersecurity](https://www.securitymagazine.com/topics/2788-cybersecurity)[Management](https://www.securitymagazine.com/topics/2786-management)[Technologies & Solutions](https://www.securitymagazine.com/topics/2785-technologies-solutions)[Security Enterprise Services](https://www.securitymagazine.com/topics/2231-security-enterprise-services)[Security Leadership and Management](https://www.securitymagazine.com/topics/2227-security-leadership-and-management)[Logical Security](https://www.securitymagazine.com/topics/2229-logical-security)[Security & Business Resilience](https://www.securitymagazine.com/topics/2230-security-business-resilience)[Security Education & Training](https://www.securitymagazine.com/topics/2614-security-education-training)[Cybersecurity News](https://www.securitymagazine.com/topics/2236-cybersecurity-news)
+The future of hacking: COVID-19 shifting the way hackers work and who they target
+=================================================================================
+
+By [Bill DeLisi](https://www.securitymagazine.com/authors/3015-bill-delisi)
+
+![Image 2: SEC1219-cybergap-Feat-slide1_900px](https://www.securitymagazine.com/ext/resources/Issues/2019/December/SEC1219-cybergap-Feat-slide1_900px.webp?t=1575561685)
+
+August 14, 2020
+
+[](http://www.facebook.com/sharer/sharer.php?u=https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target)
+
+[](https://twitter.com/intent/tweet?url=https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target&text=The%20future%20of%20hacking%3A%20COVID-19%20shifting%20the%20way%20hackers%20work%20and%20who%20they%20target)
+
+[](https://www.reddit.com/submit?url=https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target)
+
+[](https://www.linkedin.com/sharing/share-offsite/?url=https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target)
+
+[](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#)
+
+[](https://www.securitymagazine.com/articles/print/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target)
+
+Amid COVID-19, hackers are presented opportunity on multiple fronts. They play on people’s concerns about the virus by presenting phishing schemes or malware disguised in fake Centers for Disease Control and Prevention (CDC) alerts that talk about the latest vaccine or treatment developments. Hackers quickly used the pandemic and related anxiety to [lure people into phishing schemes](https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/) and malware attacks. There is also pressure on healthcare companies and researchers to safeguard their vaccine and treatment data. As of mid-July, there have been multiple reports of [Russian and Chinese state-sponsored hackers](https://www.cnbc.com/2020/07/16/us-uk-and-canada-say-russia-trying-to-steal-coronavirus-vaccine-data.html) attempting to steal coronavirus vaccine data from various labs.
+
+Over the past few months, millions of workers have turned their homes into their new, remote office, including state government employees, which brought a host of risks through use of unsecured Wi-Fi and poor access controls. This shift toward home as well as the underlying panic brought on by COVID-19 altered hackers’ focus and targets aimed at the remote worker. Chief Information Security Officers (CISO) preparing their companies for this change require time, training for employees and the right technology, as well as increased cooperation between the security teams and IT/network operations groups.
+
+### **Contact tracing issues**
+
+Another opportunity for hacking during the pandemic comes with contact tracing. Hackers found contact tracing apps an ideal cover for phishing schemes, by misrepresenting official tracing accounts via email. Legitimate apps themselves are also targets for hackers who see it as a treasure trove of data with individual names and addresses as well as insights from contacts and movements.
+
+For example, for people in high-value positions such as politicians or lawyers on important cases, information about that person’s movements and meetings is valuable to opponents and easily sold by bad actors. Many of these apps lacked encrypted source code, and many did not have intrusion detection when hackers accessed restricted mobile data.
+
+### **Targeting remote workers**
+
+The massive shift toward remote work means more networks are accessed by employees on their own devices. Companies without a remote work component were left to scramble as shutdowns started, putting in place a patchwork of security protocols that often afforded little protection. Remote workers are enticing targets for hackers conducting data theft and ransomware.
+
+As the pandemic continues, companies need to move past the initial shock and adopt Bring Your Own Device (BYOD) policies to handle the nature of remote work. This includes standards for data encryption, dual authentication, pass-phrases instead of passwords, and inactivity timeout controls to protect access during idle periods. IT also needs full remote wipe controls for lost devices or employee terminations or voluntary departures.
+
+Security departments also responded to remote work by investing in VPN access, which brought with it the need for firewalls and gateway controls. Some firms took the step of using operations management tools to turn home computers into corporate-controlled machines managed by IT. Without endpoint management in place, the massive number of phones, tablets and computers accessing corporate networks is unmanageable and unsustainable. These issues also present compliance risks in cases where at-home workers access or store PII data, and they’re subsequently duped by a “COVID-19 Cure” phishing email.
+
+Additional safeguards for businesses during COVID-19 and beyond (since working from home is now a long-term trend):
+
+*   Put in place DDoS protections which can impact the entire remote workforce which relies on accessing the company’s cloud platforms. More security focused appliances are also needed in the cloud to support the infrastructure and protect against DDoS.
+*   Use multi-factor authentication (MFA) to reduce access points for hackers to intrude home-based networks.
+*   Mandate employees to stay off public Wi-Fi networks which provide easy entry points for hackers.
+*   Use monitoring tools to spot poor decisions such as clicking on suspect sites, downloading attachments from unverified senders and other detrimental choices.
+*   Use a secure search engine and communication platform, such as [GOFBA](https://www.gofba.com/), that shields users from malicious sites and malware.
+
+### **Employees need guidance**
+
+On the people side, training is needed to bring at-home employees up to speed on the latest types of attacks and proper defenses that are necessary during this period of enhanced hacker activity. Education is key. They need additional information about spotting fraudulent emails, and guidance to not click on links or download attachments from unfamiliar senders.
+
+Provide guidance to the remote workers about the ways the World Health Organization (WHO) and CDC disseminate information, so they can spot legitimate data sources. Additional training tips for employees include:
+
+*   Mandates about use of VPNs to access company data and platforms.
+*   Automatic updating to remove security and patch gaps from manual updating.
+*   IT and security should work together to communicate more frequently with remote employees about the latest tech implementations, best practices, and any shift in expectations from corporate.
+
+Hackers unfortunately thrive on misery. They exploit people’s need for information in a crisis and the security holes caused by disruption. COVID-19 presents an unparalleled disruption, and CISO’s and their teams will need continued vigilance in addition to the latest strategies for managing the challenges of remote workforces, protecting their networks and training staff members to do their part.
+
+KEYWORDS: [Chief Information Security Officer (CISO)](https://www.securitymagazine.com/keywords/8672-chief-information-security-officer-ciso)[COVID-19](https://www.securitymagazine.com/keywords/8724-covid-19)[cyber security](https://www.securitymagazine.com/keywords/418-cyber-security)[information security](https://www.securitymagazine.com/keywords/1567-information-security)[risk management](https://www.securitymagazine.com/keywords/7692-risk-management)
+
+### Share This Story
+
+[](http://www.facebook.com/sharer/sharer.php?u=https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target)
+
+[](https://twitter.com/intent/tweet?url=https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target&text=The%20future%20of%20hacking%3A%20COVID-19%20shifting%20the%20way%20hackers%20work%20and%20who%20they%20target)
+
+[](https://www.reddit.com/submit?url=https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target)
+
+[](https://www.linkedin.com/sharing/share-offsite/?url=https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target)
+
+[](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#)
+
+[](https://www.securitymagazine.com/articles/print/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target)
+
+**Looking for a reprint of this article?
+
+ From high-res PDFs to custom plaques, [order your copy today](https://www.bnpmedia.com/reprints?oly_enc_id=)!**
+
+[![Image 3: Bill delisi](https://www.securitymagazine.com/ext/resources/authors/Bill-DeLisi.webp?height=96&t=1597352058&width=96)](https://www.securitymagazine.com/authors/3015-bill-delisi)
+
+Bill DeLisi is an authoritative expert in cybersecurity. He currently serves as the Chief Executive Officer, Chief Technology Officer and a founding member of the Board of Directors for GOFBA, Inc, a secure search engine. DeLisi has over 30 tech certifications including those with Microsoft, Cisco, Super Micro and Sonic Walls.
+
+Recommended Content
+===================
+
+[JOIN TODAY](https://bnp.dragonforms.com/init.do?pk=X_W_WRCONREC&returnurl=https://www.securitymagazine.com/user/omeda?referer=https://www.securitymagazine.com/&omedasite=SEC_Create&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+
+To unlock your recommendations.
+
+**Already have an account?**[Sign In](https://bnp.dragonforms.com/init.do?pk=X_W_WRCONREC&returnurl=https://www.securitymagazine.com/user/omeda?referer=https://www.securitymagazine.com/&omedasite=SEC_Login&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+
+*   [![Image 4: Iintegration and use of emerging tools](https://www.securitymagazine.com/ext/resources/Issues/2025/10-October/SEC-1025-Career-Feat-Slide1-1170x658.webp?height=740&t=1761294786&width=auto)](https://www.securitymagazine.com/articles/101949-future-proof-your-security-career-with-ai-skills)[Future Proof Your Security Career with AI Skills](https://www.securitymagazine.com/articles/101949-future-proof-your-security-career-with-ai-skills)
+=====================================================================================================================================================
+
+AI’s evolution demands security leaders master... [Columns](https://www.securitymagazine.com/topics/2644-columns) By: [Jerry J. Brennan](https://www.securitymagazine.com/authors/1916-jerry-brennan) and [Joanne R. Pollock](https://www.securitymagazine.com/authors/2164-joanne-r-pollock)  
+*   [![Image 5: The 2025 Security Benchmark Report](https://www.securitymagazine.com/ext/resources/Issues/2025/11-November/SEC-1125-F1-HERO-Slide-1440x750.webp?height=740&t=1763157543&width=auto)](https://www.securitymagazine.com/articles/101975-the-2025-security-benchmark-report)[The 2025 Security Benchmark Report](https://www.securitymagazine.com/articles/101975-the-2025-security-benchmark-report)
+=========================================================================================================================
+
+The 2025 Security Benchmark Report surveys enterprise... [The Security Benchmark Report](https://www.securitymagazine.com/topics/2275-the-security-benchmark-report) By: [Rachelle Blair-Frasier](https://www.securitymagazine.com/authors/4382-rachelle-blair-frasier)  
+*   [![Image 6: The Most Influential People in Security 2025](https://www.securitymagazine.com/ext/resources/Issues/2025/09-September/SEC-0925-F1-MIPS-HERO-Slide-1440x750.webp?height=740&t=1755100843&width=auto)](https://www.securitymagazine.com/articles/101830-securitys-most-influential-people-in-security-2025)[Security’s Most Influential People in Security 2025](https://www.securitymagazine.com/articles/101830-securitys-most-influential-people-in-security-2025)
+==========================================================================================================================================================
+
+Security Magazine’s 2025 Most Influential People in... [Most Influential People in Security](https://www.securitymagazine.com/topics/2736-most-influential-people-in-security) By: [Security Staff](https://www.securitymagazine.com/authors/3638-security-staff)  
+
+![Image 7: close](https://www.securitymagazine.com/images/icons/klose.png)
+
+### 1 COMPLIMENTARY ARTICLE(S) LEFT
+
+**Unlock the future of cybersecurity news with _Security_.**
+
+As a leader in enterprise security, we have you covered with the information to keep you ahead of the curve.
+
+**[JOIN TODAY](https://bnp.dragonforms.com/init.do?pk=X_W_WRMETCREATE&returnurl=https://www.securitymagazine.com/user/omeda&omedasite=SEC_Create)**
+
+[Already Registered? **Sign in now**](https://bnp.dragonforms.com/init.do?pk=X_W_WRMETSIGN&returnurl=https://www.securitymagazine.com/user/omeda&omedasite=SEC_Login).
+
+[Manage My Account](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#)
+
+*   [Security Newsletter](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMEBOX&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [eMagazine Subscriptions](https://bnp.dragonforms.com/SECeMagazineSubscription?pk=X_W_DGHOMEBOX&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Manage My Preferences](https://bnp.dragonforms.com/security_pref1?pk=X_W_PPHSESUB&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Online Registration](https://bnp.dragonforms.com/init.do?pk=X_W_WRHOMEBOX&returnurl=https://www.securitymagazine.com/user/omeda?referer=https://www.securitymagazine.com/&omedasite=SEC_Create&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Mobile App](https://www.securitymagazine.com/apps)
+*   [Subscription Customer Service](https://www.securitymagazine.com/customerservice)
+
+* * *
+
+![Image 9: Middle East Escalation, Humanitarian Law and Disinformation – Episode 25](https://cf-images.us-east-1.prod.boltdns.net/v1/static/599585967001/24df1133-493f-452a-a305-4ede7756dad2/0bfc22f6-6834-4d44-bb30-bb738756cf04/360x203/match/image.jpg)
+
+Middle East Escalation, Humanitarian Law and Disinformation – Episode 25
+========================================================================
+
+![Image 10: Security’s Top 5 – 2024 Year in Review](https://cf-images.us-east-1.prod.boltdns.net/v1/static/599585967001/7c6db853-d0c4-4781-9c2f-0e1844e37ad6/86b44f59-18f7-4cd5-a86e-742cc837bd70/360x203/match/image.jpg)
+
+Security’s Top 5 – 2024 Year in Review
+======================================
+
+![Image 11: The Money Laundering Machine: Inside the global crime epidemic - Episode 24](https://cf-images.us-east-1.prod.boltdns.net/v1/static/599585967001/21501cea-1687-4ea7-93ad-4b0ec070f62a/839610c4-6075-42eb-b21c-a0f06bd89605/360x203/match/image.jpg)
+
+The Money Laundering Machine: Inside the global crime epidemic - Episode 24
+===========================================================================
+
+prev next
+
+[More Videos](https://www.securitymagazine.com/videos)
+
+* * *
+
+[Sponsored Content](https://www.securitymagazine.com/topics/2745-sponsored-content)[](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#)
+========================================================================================================================================================================================================================
+
+[](https://www.securitymagazine.com/topics/2745-sponsored-content)
+[Sponsored Content is a special paid section where industry companies provide high quality, objective, non-commercial content around topics of interest to the _Security_ audience. All Sponsored Content is supplied by the advertising company and any opinions expressed in this article are those of the author and not necessarily reflect the views of _Security_ or its parent company, BNP Media. Interested in participating in our Sponsored Content section?](https://www.securitymagazine.com/topics/2745-sponsored-content)[**Contact your local rep!**](https://www.securitymagazine.com/contactus)
+
+[close](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#)
+
+*   [![Image 12: critical event management](https://www.securitymagazine.com/ext/resources/images/Sponsored-Content/Everbridge/critical-event-management.webp?crop=true&height=257&t=1759855120&width=420)](https://www.securitymagazine.com/articles/101952-why-a-unified-view-across-it-continuity-and-security-makes-or-breaks-crisis-response)[Sponsored by Everbridge](https://www.securitymagazine.com/topics/3032-everbridge "Sponsored by Everbridge") 
+[Why a Unified View Across IT, Continuity, and Security Makes or Breaks Crisis Response](https://www.securitymagazine.com/articles/101952-why-a-unified-view-across-it-continuity-and-security-makes-or-breaks-crisis-response)
+=============================================================================================================================================================================================================================== 
+*   [![Image 13: Charlotte Star Room](https://www.securitymagazine.com/ext/resources/Sponsored-Content/Amarok/CharlotteStarRoom.webp?crop=true&height=257&t=1757525072&width=420)](https://www.securitymagazine.com/articles/101859-in-an-uncertain-economy-security-is-a-necessity-not-an-afterthought)[Sponsored by AMAROK](https://www.securitymagazine.com/topics/3016-amarok "Sponsored by AMAROK") 
+[In an Uncertain Economy, Security Is a Necessity - Not an Afterthought](https://www.securitymagazine.com/articles/101859-in-an-uncertain-economy-security-is-a-necessity-not-an-afterthought)
+============================================================================================================================================================================================== 
+*   [![Image 14: Sureview screen](https://www.securitymagazine.com/ext/resources/Sponsored-Content/Sureview/Sureview--screen.webp?crop=true&height=257&t=1751291576&width=420)](https://www.securitymagazine.com/articles/101703-the-evolution-of-automation-in-the-command-center)[Sponsored by SureView Systems](https://www.securitymagazine.com/topics/3033-sureview-systems "Sponsored by SureView Systems") 
+[The Evolution of Automation in the Command Center](https://www.securitymagazine.com/articles/101703-the-evolution-of-automation-in-the-command-center)
+======================================================================================================================================================= 
+
+Popular Stories
+===============
+
+[![Image 15: The 2025 Security Benchmark Report](https://www.securitymagazine.com/ext/resources/Issues/2025/11-November/SEC-1125-F1-HERO-Slide-1440x750.webp?crop=true&height=100&t=1763157543&width=100) The 2025 Security Benchmark Report ==================================](https://www.securitymagazine.com/articles/101975-the-2025-security-benchmark-report "The 2025 Security Benchmark Report")
+
+[![Image 16: Cybersecurity trends of 2025](https://www.securitymagazine.com/ext/resources/2025/11/24/SEC_Cyber-security-trends-of-2025.webp?crop=true&height=100&t=1764015222&width=100) 3 Top Cybersecurity Trends from 2025 ====================================](https://www.securitymagazine.com/articles/102021-3-top-cybersecurity-trends-from-2025 "3 Top Cybersecurity Trends from 2025")
+
+[![Image 17: Neon human and android hands](https://www.securitymagazine.com/ext/resources/2025/11/12/Neon-human-and-android-hands-by-Cash-Macanaya.webp?crop=true&height=100&t=1762964833&width=100) 65% of the Forbes AI 50 List Leaked Sensitive Information =========================================================](https://www.securitymagazine.com/articles/102008-65-of-the-forbes-ai-50-list-leaked-sensitive-information "65% of the Forbes AI 50 List Leaked Sensitive Information ")
+
+[![Image 18: Green code](https://www.securitymagazine.com/ext/resources/2025/11/20/Green-code-by-Jake-Walker.webp?crop=true&height=100&t=1763655365&width=100) Logitech Confirms Data Breach, Security Leaders Respond =======================================================](https://www.securitymagazine.com/articles/102016-logitech-confirms-data-breach-security-leaders-respond "Logitech Confirms Data Breach, Security Leaders Respond")
+
+[![Image 19: The Louvre](https://www.securitymagazine.com/ext/resources/2025/11/07/The-Louvre-by-Diogo-Fagundes.webp?crop=true&height=100&t=1763157542&width=100) After the Theft: Why Camera Upgrades Should Begin With a Risk Assessment ========================================================================](https://www.securitymagazine.com/articles/101998-after-the-theft-why-camera-upgrades-should-begin-with-a-risk-assessment "After the Theft: Why Camera Upgrades Should Begin With a Risk Assessment")
+
+[![Image 20: Top Cybersecurity Leaders](https://www.securitymagazine.com/ext/resources/E.C%20Box/SEC-Lead-Magnet-Banner.jpg)](https://www.securitymagazine.com/articles/101975-the-2025-security-benchmark-report)
+
+### Events
+
+September 18, 2025
+
+[Security Under Fire: Insights on Active Shooter Preparedness and Recovery](https://www.securitymagazine.com/events/9387-security-under-fire-insights-on-active-shooter-preparedness-and-recovery "Security Under Fire: Insights on Active Shooter Preparedness and Recovery")
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**ON DEMAND:**In today’s complex threat environment, active shooter incidents demand swift, coordinated and well-informed responses.
+
+December 11, 2025
+
+[Responding to Evolving Threats in Retail Environments](https://www.securitymagazine.com/events/11513-responding-to-evolving-threats-in-retail-environments "Responding to Evolving Threats in Retail Environments")
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Retail security professionals are facing an increasingly complex array of security challenges — everything from organized retail crime to evolving cyber-physical threats and public safety concerns.
+
+[View All](https://www.securitymagazine.com/events)[Submit An Event](https://www.securitymagazine.com/events/new)
+
+Products
+========
+
+[![Image 21: Security Culture: A How-to Guide for Improving Security Culture and Dealing with People Risk in Your Organisation](https://www.securitymagazine.com/ext/resources/2024/07/19/thumb/security-culture.webp?t=1721408762)](https://www.securitymagazine.com/products/638-security-culture-a-how-to-guide-for-improving-security-culture-and-dealing-with-people-risk-in-your-organisation)
+[Security Culture: A How-to Guide for Improving Security Culture and Dealing with People Risk in Your Organisation](https://www.securitymagazine.com/products/638-security-culture-a-how-to-guide-for-improving-security-culture-and-dealing-with-people-risk-in-your-organisation)
+===================================================================================================================================================================================================================================================================================
+
+[See More Products](https://www.securitymagazine.com/products)
+
+Related Articles
+================
+
+*   [![Image 22: cyber remote work](https://www.securitymagazine.com/ext/resources/images/cyber-remote-work.webp?height=200&t=1603921684&width=200)](https://www.securitymagazine.com/articles/93939-ways-to-ensure-network-security-with-a-shift-to-remote-work)[3 ways to ensure network security with a shift to remote work](https://www.securitymagazine.com/articles/93939-ways-to-ensure-network-security-with-a-shift-to-remote-work)
+============================================================================================================================================================================
+
+[See More](https://www.securitymagazine.com/articles/93939-ways-to-ensure-network-security-with-a-shift-to-remote-work) 
+*   [![Image 23: cyber network](https://www.securitymagazine.com/ext/resources/secenews/2019/cyber-network.webp?height=200&t=1557335706&width=200)](https://www.securitymagazine.com/articles/93355-the-three-main-ingredients-for-the-successful-implementation-of-zero-trust-in-the-time-of-covid-19-machine-learning-carta-and-software-defined-perimeter)[The three main ingredients for the successful implementation of Zero Trust in the time of COVID-19: Machine learning, carta and software defined perimeter](https://www.securitymagazine.com/articles/93355-the-three-main-ingredients-for-the-successful-implementation-of-zero-trust-in-the-time-of-covid-19-machine-learning-carta-and-software-defined-perimeter)
+======================================================================================================================================================================================================================================================================================================================================================================
+
+[See More](https://www.securitymagazine.com/articles/93355-the-three-main-ingredients-for-the-successful-implementation-of-zero-trust-in-the-time-of-covid-19-machine-learning-carta-and-software-defined-perimeter) 
+*   [![Image 24: cyber_lock](https://www.securitymagazine.com/ext/resources/secenews/2019/CyberLock_900.webp?height=200&t=1559849661&width=200)](https://www.securitymagazine.com/articles/93753-covid-19-and-the-need-for-a-national-cyber-director-how-the-response-to-the-pandemic-illustrates-the-importance-of-a-leadership)[COVID-19 and the need for a national cyber director: How the response to the pandemic illustrates the importance of a leadership](https://www.securitymagazine.com/articles/93753-covid-19-and-the-need-for-a-national-cyber-director-how-the-response-to-the-pandemic-illustrates-the-importance-of-a-leadership)
+===================================================================================================================================================================================================================================================================================================================
+
+[See More](https://www.securitymagazine.com/articles/93753-covid-19-and-the-need-for-a-national-cyber-director-how-the-response-to-the-pandemic-illustrates-the-importance-of-a-leadership) 
+
+Related Products
+================
+
+[See More Products](https://www.securitymagazine.com/products)
+*   [Risk Analysis and the Security Survey, 4th Edition](https://www.securitymagazine.com/products/516-risk-analysis-and-the-security-survey)
+========================================================================================================================================= 
+*   [The Database Hacker's Handboo](https://www.securitymagazine.com/products/504-the-database-hackers-handboo)
+=========================================================================================================== 
+*   [The Complete Guide to Physical Security](https://www.securitymagazine.com/products/538-the-complete-guide-to-physical-security)
+================================================================================================================================ 
+
+[See More Products](https://www.securitymagazine.com/products)
+
+×
+
+Sign-up to receive top management & result-driven techniques in the industry.
+-----------------------------------------------------------------------------
+
+Join over 20,000+ industry leaders who receive our premium content.
+-------------------------------------------------------------------
+
+[SIGN UP TODAY!](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLPROMOEC&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+
+*   [RESOURCES](https://www.securitymagazine.com/wantmore)
+    *   [Advertise](https://www.securitymagazine.com/advertise)
+    *   [Contact Us](https://www.securitymagazine.com/contactus)
+    *   [Store](https://www.securitymagazine.com/products)
+    *   [Want More](https://www.securitymagazine.com/wantmore)
+
+*   [SIGN UP TODAY](https://bnp.dragonforms.com/SECeMagazineSubscription?pk=X_W_NLHOMEFTR&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+    *   [Create Account](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMEFTR&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+    *   [eMagazine](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMEFTR&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+    *   [Newsletter](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMEFTR&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+    *   [Customer Service](https://www.securitymagazine.com/customerservice)
+    *   [Manage Preferences](https://bnp.dragonforms.com/Security_pref1?pk=X_W_PPFTR&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+
+*   [SERVICES](https://bnpengage.com/?oly_enc_id=)
+    *   [Marketing Services](https://bnpengage.com/?oly_enc_id=)
+    *   [Reprints](https://www.bnpmedia.com/reprints?oly_enc_id=)
+    *   [Market Research](https://www.myclearopinioninsightshub.com/)
+    *   [List Rental](http://bnp.infogrouplistservices.com/)
+    *   [Survey/Respondent Access](https://www.myclearopinioninsightshub.com/)
+
+*   [STAY CONNECTED](https://www.securitymagazine.com/connect)
+    *   [LinkedIn](https://www.linkedin.com/company/security-magazine)
+    *   [Facebook](https://www.facebook.com/SECmagazine)
+    *   [YouTube](https://www.youtube.com/user/SecurityMag)
+    *   [X (Twitter)](https://www.twitter.com/SecurityMag)
+
+*   [PRIVACY](https://www.bnpmedia.com/privacy?oly_enc_id=)
+    *   [PRIVACY POLICY](https://www.bnpmedia.com/privacy?oly_enc_id=)
+    *   [TERMS & CONDITIONS](https://www.bnpmedia.com/terms?oly_enc_id=)
+    *   [DO NOT SELL MY PERSONAL INFORMATION](https://www.bnpmedia.com/do-not-sell?oly_enc_id=)
+    *   [PRIVACY REQUEST](https://www.bnpmedia.com/data-request?oly_enc_id=)
+    *   [ACCESSIBILITY](https://www.bnpmedia.com/accessibility?oly_enc_id=)
+
+Copyright ©2025. All Rights Reserved BNP Media.
+
+Design, CMS, Hosting & Web Development :: [ePublishing](http://www.epublishing.com/)
+
+[](https://www.securitymagazine.com/)
+
+[search](https://www.securitymagazine.com/search)
+
+Search  search  close search 
+
+[cart](https://www.securitymagazine.com/cart)
+
+[facebook](https://www.facebook.com/SECmagazine)[twitter](https://www.twitter.com/SecurityMag)[linkedin](https://www.linkedin.com/company/security-magazine)[youtube](https://www.youtube.com/user/SecurityMag)
+
+*   [Sign In](https://bnp.dragonforms.com/init.do?pk=X_W_WRSIGN&returnurl=https://www.securitymagazine.com/user/omeda?referer=https://www.securitymagazine.com/&omedasite=SEC_Login&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Create Account](https://bnp.dragonforms.com/init.do?pk=X_W_WRCREATE&returnurl=https://www.securitymagazine.com/user/omeda?referer=https://www.securitymagazine.com/&omedasite=SEC_Create&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+*   [Sign Out](https://www.securitymagazine.com/user/logout)
+*   My Account
+
+[](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#)[](https://www.securitymagazine.com/articles/93086-the-future-of-hacking-covid-19-shifting-the-way-hackers-work-and-who-they-target#)
+
+[](https://www.securitymagazine.com/)
+
+*   [NEWS](https://www.securitymagazine.com/topics/2189-security-newswire)
+    *   [Security Newswire](https://www.securitymagazine.com/topics/2189-security-newswire)
+    *   [Technologies & Solutions](https://www.securitymagazine.com/topics/2785-technologies-solutions)
+
+*   [MANAGEMENT](https://www.securitymagazine.com/topics/2786-management)
+    *   [Leadership Management](https://www.securitymagazine.com/topics/2227-security-leadership-and-management)
+    *   [Enterprise Services](https://www.securitymagazine.com/topics/2231-enterprise-services)
+    *   [Security Education & Training](https://www.securitymagazine.com/topics/2614-education-training)
+    *   [Logical Security](https://www.securitymagazine.com/topics/2229-logical-security)
+    *   [Security & Business Resilience](https://www.securitymagazine.com/topics/2230-security-business-resilience)
+    *   [Profiles in Excellence](https://www.securitymagazine.com/topics/2772-profiles-in-excellence)
+
+*   [PHYSICAL](https://www.securitymagazine.com/topics/2787-physical)
+    *   [Access Management](https://www.securitymagazine.com/topics/2232-access-management)
+    *   [Fire & Life Safety](https://www.securitymagazine.com/topics/2235-fire-life-safety)
+    *   [Identity Management](https://www.securitymagazine.com/topics/2233-identity-management)
+    *   [Physical Security](https://www.securitymagazine.com/topics/2228-physical-security)
+    *   [Video Surveillance](https://www.securitymagazine.com/topics/2234-video-surveillance)
+    *   [Case Studies (Physical)](https://www.securitymagazine.com/topics/2663-case-studies-physical)
+
+*   [CYBER](https://www.securitymagazine.com/topics/2788-cybersecurity)
+    *   [Cybersecurity News](https://www.securitymagazine.com/topics/2236-cybersecurity-news)
+    *   [More](https://www.securitymagazine.com/topics/2788-cybersecurity)
+
+*   [BLOG](https://www.securitymagazine.com/blogs/14)
+*   [COLUMNS](https://www.securitymagazine.com/topics/2644-columns)
+    *   [Career Intelligence](https://www.securitymagazine.com/topics/2780-career-intelligence)
+    *   [Cyber Tactics](https://www.securitymagazine.com/topics/2654-cyber-tactics)
+    *   [Cybersecurity Education & Training](https://www.securitymagazine.com/topics/2991-cybersecurity-education-training)
+    *   [Leadership & Management](https://www.securitymagazine.com/topics/2250-leadership-management)
+    *   [Security Talk](https://www.securitymagazine.com/topics/2613-security-talk)
+
+*   [EXCLUSIVES](https://www.securitymagazine.com/#)
+    *   [Annual Guarding Report](https://www.securitymagazine.com/keywords/7522-annual-guarding-report)
+    *   [Most Influential People in Security](https://www.securitymagazine.com/topics/2736-most-influential-people-in-security)
+    *   [The Security Benchmark Report](https://www.securitymagazine.com/topics/2275-the-security-benchmark-report)
+    *   [Top Guard and Security Officer Companies](https://www.securitymagazine.com/topics/2737-top-guard-and-security-officer-companies)
+    *   [Top Cybersecurity Leaders](https://www.securitymagazine.com/topics/2959-top-cybersecurity-leaders)
+    *   [Women in Security](https://www.securitymagazine.com/keywords/6376-women-in-security)
+
+*   [SECTORS](https://www.securitymagazine.com/topics/2789-sectors)
+    *   [Arenas / Stadiums / Leagues / Entertainment](https://www.securitymagazine.com/topics/2240-arenas-stadiums-leagues-entertainment)
+    *   [Banking/Finance/Insurance](https://www.securitymagazine.com/topics/2246-banking-finance-insurance)
+    *   [Construction, Real Estate, Property Management](https://www.securitymagazine.com/topics/2245-construction-real-estate-property-management)
+    *   [Education: K-12](https://www.securitymagazine.com/topics/2239-education-k-12)
+    *   [Education: University](https://www.securitymagazine.com/topics/2241-education-university)
+    *   [Government: Federal, State and Local](https://www.securitymagazine.com/topics/2645-government-federal-state-and-local)
+    *   [Hospitality & Casinos](https://www.securitymagazine.com/topics/2622-hospitality-casinos)
+    *   [Hospitals & Medical Centers](https://www.securitymagazine.com/topics/2247-hospitals-medical-centers)
+    *   [Infrastructure:Electric,Gas & Water](https://www.securitymagazine.com/topics/2238-infrastructure-electric-gas-water)
+    *   [Ports: Sea, Land, & Air](https://www.securitymagazine.com/topics/2244-ports-sea-land-air)
+    *   [Retail/Restaurants/Convenience](https://www.securitymagazine.com/topics/2243-retail-restaurants-convenience)
+    *   [Transportation/Logistics/Supply Chain/Distribution/ Warehousing](https://www.securitymagazine.com/topics/2242-transportation-logistics-supply-chain-distribution-warehousing)
+
+*   [EVENTS](https://www.securitymagazine.com/events)
+    *   [Industry Events](https://www.securitymagazine.com/events)
+    *   [Webinars](https://www.securitymagazine.com/events/category/2141)
+    *   [Solutions by Sector](https://www.securitymagazine.com/events/category/2940)
+    *   [Security 500 Conference](https://www.securitymagazine.com/security-500-conference/)
+
+*   [MEDIA](https://www.securitymagazine.com/media)
+    *   [Interactive Spotlight](https://www.securitymagazine.com/keywords/9162-interactive-product-spotlight)
+    *   [Photo Galleries](https://www.securitymagazine.com/media/photos/)
+    *   [Podcasts](https://www.securitymagazine.com/media/podcasts/2594)
+    *   [Polls](https://www.securitymagazine.com/polls)
+    *   [Videos](https://www.securitymagazine.com/videos)
+        *   [Cybersecurity & Geopolitical Discussion](https://www.securitymagazine.com/cyber-geo)
+        *   [Ask Me Anything (AMA) Series](https://www.securitymagazine.com/ama)
+
+*   [MORE](https://www.securitymagazine.com/#)
+    *   [Call for Entries](https://www.securitymagazine.com/contests-and-forms)
+    *   [Classifieds & Job Listings](https://www.securitymagazine.com/classifieds)
+    *   [Continuing Education](https://engineeringcenter.bnpmedia.com/library.php?g=security?oly_enc_id=)
+    *   [Newsletter](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMENAV&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+    *   [Sponsor Insights](https://www.securitymagazine.com/topics/2745-sponsored-content)
+    *   [Store](https://www.securitymagazine.com/products)
+    *   [White Papers](https://www.securitymagazine.com/security-white-papers)
+
+*   [EMAG](https://www.securitymagazine.com/emagazine)
+    *   [eMagazine](https://www.securitymagazine.com/emagazine)
+    *   [This Month's Content](https://www.securitymagazine.com/publications/3)
+    *   [Advertise](https://www.securitymagazine.com/advertise)
+
+*   [SIGN UP!](https://bnp.dragonforms.com/SECeNews?pk=X_W_NLHOMENAV&r=@{encrypted_customer_id}@&ajs_uid=ab386428-252e-4834-a638-2492531c6da8&oly_enc_id=undefined&oly_anon_id=undefined)
+
+Cookies at BNP Media
+--------------------
+
+This BNP Media website uses cookies to enhance user experience and to analyze performance and traffic on our site. By clicking “Accept All Cookies”, we can bring you the best experience we have to offer. If you'd like to take the time to set which cookies we can use, click 'Manage your Cookies'. [View our Privacy Policy](https://www.bnpmedia.com/privacy)
+
+Accept All Cookies
+
+Manage your Cookies
+
+![Image 25: BNP Media logo featuring a blue, bold bnp above a smaller, gray media with a curved line underneath](https://cdn.cookielaw.org/logos/4c1e62ae-b534-4591-8c79-d1f266a94c47/ebbeeeb1-cb0a-46e0-a01b-e44304e31b78/1b696f6b-aa0c-46db-93a4-b1f93a4465bb/April23Social_May._30_15.08.jpg)
+
+Privacy Preference Center
+-------------------------
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies.  This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies.  Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer._**If you are a registered visitor you will need to accept all cookies to have the targeted experience you desire.**_
+
+[BNP Media Privacy Policy](https://www.bnpmedia.com/privacy)[Cookie List](https://www.securitymagazine.com/cookies)
+
+Allow All
+### Manage Consent Preferences
+
+#### Performance Cookies
+
+- [x] Performance Cookies 
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+#### Functional Cookies
+
+- [x] Functional Cookies 
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+#### Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+#### Targeting Cookies
+
+- [x] Targeting Cookies 
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+### Cookie List
+
+Clear
+
+- [x] checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Reject All Confirm My Choices
+
+[![Image 26: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

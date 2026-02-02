@@ -1,0 +1,377 @@
+# Age-specific mortality and immunity patterns of SARS-CoV-2
+
+Main
+----
+
+As SARS-CoV-2 continues its rapid global spread, increased understanding of the underlying level of transmission and infection severity are crucial for guiding the pandemic response. Although the testing of individuals with COVID-19 is a vital public health tool, variability in surveillance capacities, case definitions and health-seeking behaviour can cause difficulties in the interpretation of case data. Owing to more complete reporting, COVID-19-associated deaths are often seen as a more reliable indicator of the size of the pandemic. If reliably reported, the number of COVID-19-associated deaths can be used to infer the total number of SARS-CoV-2 infections using estimates of the infection fatality ratio (IFR; the ratio of COVID-19-associated deaths to the total number of SARS-CoV-2 infections). Estimates of the IFR derived from seroprevalence studies that carefully estimate the number of individuals with detectable antibodies can help to make the link between deaths and total infections as well as refine estimates of the relative burden in different age groups[1](https://www.nature.com/articles/s41586-020-2918-0#ref-CR1 "Pastor-Barriuso, R. et al. Infection fatality risk for SARS-CoV-2: a nationwide seroepidemiological study in the non-institutionalized population of Spain. Preprint at http://doi.org/10.1101/2020.08.06.20169722 (2020)."). Although it is clear that infection severity increases substantially with age[2](https://www.nature.com/articles/s41586-020-2918-0#ref-CR2 "Verity, R. et al. Estimates of the severity of coronavirus disease 2019: a model-based analysis. Lancet Infect. Dis. 20, 669–677 (2020)."),[4](https://www.nature.com/articles/s41586-020-2918-0#ref-CR4 "Guan, W.-J. et al. Clinical characteristics of coronavirus disease 2019 in China. N. Engl. J. Med. 382, 1708–1720 (2020)."), there remain key unanswered questions with regard to the consistency of mortality patterns across countries. Underlying heterogeneities in the age structure of the population or in the prevalence of comorbidities can contribute to differences in the levels of observed COVID-19-associated fatalities[5](https://www.nature.com/articles/s41586-020-2918-0#ref-CR5 "Clark, A. et al. Global, regional, and national estimates of the population at increased risk of severe COVID-19 due to underlying health conditions in 2020: a modelling study. Lancet Glob. Health 8, e1003–e1017 (2020)."). In addition, when looking at the total number of COVID-19-associated deaths, the level of transmission among the general population can be difficult to disentangle from large outbreaks in vulnerable populations such as those living in nursing homes and other long-term care settings. For many countries, the COVID-19 pandemic has been characterized by a heavy burden in residents of nursing homes, with more than 20% of all reported COVID-19-associated deaths occurring in nursing homes in countries such as Canada, Sweden and the UK[3](https://www.nature.com/articles/s41586-020-2918-0#ref-CR3 "Comas-Herrera, A. et al. Mortality associated with COVID-19 Outbreaks in Care Homes: Early International Evidence. 
+                  https://ltccovid.org/2020/04/12/mortality-associated-with-covid-19-outbreaks-in-care-homes-early-international-evidence/
+                  
+                 (2020)."). In other countries, such as South Korea and Singapore, few COVID-19-associated deaths have been reported in nursing homes[3](https://www.nature.com/articles/s41586-020-2918-0#ref-CR3 "Comas-Herrera, A. et al. Mortality associated with COVID-19 Outbreaks in Care Homes: Early International Evidence. 
+                  https://ltccovid.org/2020/04/12/mortality-associated-with-covid-19-outbreaks-in-care-homes-early-international-evidence/
+                  
+                 (2020)."). In this context, simply comparing the total number of deaths across countries may provide a misleading representation of the underlying level of transmission. Focusing on COVID-19-associated death data in younger individuals, however, may provide more-reliable insights into the underlying nature of transmission.
+
+Seroprevalence surveys provide valuable information on the proportion of the population that have ever experienced an infection[6](https://doi.org/10.1038/s41586-020-2918-0#ref-CR6 "Pollán, M. et al. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study. Lancet 396, 535–544 (2020)."),[7](https://doi.org/10.1038/s41586-020-2918-0#ref-CR7 "Stringhini, S. et al. Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Geneva, Switzerland (SEROCoV-POP): a population-based study. Lancet 396, 313–319 (2020)."),[8](https://doi.org/10.1038/s41586-020-2918-0#ref-CR8 "Rosenberg, E. S. et al. Cumulative incidence and diagnosis of SARS-CoV-2 infection in New York. Ann. Epidemiol. 48, 23–29 (2020)."),[9](https://www.nature.com/articles/s41586-020-2918-0#ref-CR9 "Herzog, S. et al. Seroprevalence of IgG antibodies against SARS coronavirus 2 in Belgium — a prospective cross-sectional study of residual samples. Preprint at 
+                  https://doi.org/10.1101/2020.06.08.20125179
+                  
+                 (2020)."), however, they can be subject to a number of biases and variable performance of different assays can complicate comparisons of results across studies[10](https://www.nature.com/articles/s41586-020-2918-0#ref-CR10 "Takahashi, S., Greenhouse, B. & Rodríguez-Barraquer, I. Are seroprevalence estimates for severe acute respiratory syndrome coronavirus 2 biased? J. Infect. Dis. 222, 1772–1775 (2020)."). Here, we present a model framework that integrates age-specific COVID-19-associated death data from 45 countries with 22 national-level seroprevalence surveys, providing insights into the consistency of infection fatality patterns across countries (Fig. [1a](https://www.nature.com/articles/s41586-020-2918-0#Fig1)). We use our model to produce ensemble IFR estimates by age and sex in a single harmonized framework as well as estimates of the proportion of the population that has been infected in each country.
+
+**Fig. 1: Patterns of COVID-19-associated mortality across settings.**
+
+[![Image 1: figure 1](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2918-0/MediaObjects/41586_2020_2918_Fig1_HTML.png)](https://www.nature.com/articles/s41586-020-2918-0/figures/1)
+
+**a**, Countries with age-specific death data (beige) and locations with seroprevalence data (dots). **b**, Estimated median and 95% credible intervals of the proportion of the population that has died in each age group, relative to the proportion of population that has died among 55–59-year-old individuals in that country (black dots and lines), plotted on a log-linear scale. Coloured dots represent the country- and age-specific relative risks (RR) of COVID-19-associated death in the population relative to the risks of 55–59-year-old individuals observed from reported death data, accounting for population age distributions (Supplementary Methods[1](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)) (_n_=538,477 reported deaths). All data points are plotted at the midpoint of the reported age group. The grey shaded areas highlight the relative risks of death by age for age groups of 65 years and older, which were excluded from model fitting and black asterisks represent estimates inferred solely from England data, which were derived independent of deaths that occurred in nursing homes. **c**, Comparing the reconstructed incidence of deaths with reported data for age groups aged 60 or 65 years and older for a subset of countries from which deaths that occurred in nursing homes could be excluded. Black dots and lines indicate the estimated median and 95% credible intervals derived from only the England data (blue bar); orange bars show the reported incidence of deaths of individuals aged 60 years and older in 13 additional countries that did not occur in nursing homes. Countries labelled with an asterisk indicate those in which the number of deaths were reconstructed for those aged 65 years and older, to align with the reported age groups for each country.
+
+[Full size image](https://www.nature.com/articles/s41586-020-2918-0/figures/1)
+
+Age-specific mortality patterns
+-------------------------------
+
+Using population age structures and age-specific death data, we compare the relative number of deaths by age within each country, using 55–59-year-old individuals as the reference group. We find a very consistent pattern in the relative risk of death by age for individuals younger than 65 years of age across countries and continents, with a strong log-linear relationship between age and risk of death for individuals who are 30–65 years old (Fig. [1b](https://www.nature.com/articles/s41586-020-2918-0#Fig1) and Supplementary Methods[1](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). The observed relative risk of death in older individuals appears to be substantially more heterogeneous across locations. Given the potential for important variability in mortality associated with outbreaks in nursing homes across countries, we first investigate mortality patterns specifically in the general population, using age-specific deaths of individuals aged 65 years and older from England, for which the granularity of the data enables us to remove deaths that occurred in nursing home populations. We find that the log-linear relationship between age and risk of death continues into older age groups (Fig. [1b](https://www.nature.com/articles/s41586-020-2918-0#Fig1)). To assess the generalizability of the data from England to other countries, we use these estimates to reconstruct the number of deaths in the general population—that is, excluding nursing homes—in 13 other countries and find that the predictions are consistent with the reported numbers of deaths in the general population (Fig. [1c](https://www.nature.com/articles/s41586-020-2918-0#Fig1) and Supplementary Methods[2](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)).
+
+To translate the relative risks of death by age to the underlying IFR, we combine age-specific death data with 22 seroprevalence surveys, representing 16 of the 45 countries (multiple studies are available for Belgium, England, Scotland, Sweden and the Netherlands) (Supplementary Table [1](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). We use daily time series of reported deaths to reconstruct the timing of infections and subsequent seroconversions. To limit biases that can be introduced by outbreaks in nursing homes and potentially variable reporting practices of fatalities among individuals aged 65 years of age and older, we fit our model investigating the relationship between seroconversion and mortality exclusively to death data from those younger than 65 years. To infer IFRs in age groups 65 years and older, we use our estimates of the relative risk of death derived from data from England of deaths that did not occur in nursing homes. As our baseline model, we use an ensemble model in which we include results from all national-level seroprevalence studies within a single framework. In addition, we consider separate models for which we use the results of each individual seroprevalence survey to investigate the consistency of estimates provided by different studies. As older individuals have fewer social contacts[11](https://www.nature.com/articles/s41586-020-2918-0#ref-CR11 "Prem, K., Cook, A. R. & Jit, M. Projecting social contact matrices in 152 countries using contact surveys and demographic data. PLOS Comput. Biol. 13, e1005697 (2017).") and are more likely to be isolated through shielding programmes, we assume a baseline relative infection attack rate of 0.7 for individuals aged 65 years and older, relative to those under 65, and assume equal infection attack rates across age groups under 65 years of age. We find that age-specific IFRs estimated by the ensemble model range from 0.001% (95% credible interval, 0–0.001) in those aged 5–9 years old (range, 0–0.002% across individual national-level seroprevalence surveys) to 8.29% (95% credible intervals, 7.11–9.59%) in those aged 80+ (range, 2.49–15.55% across individual national-level seroprevalence surveys) (Fig. [2a](https://www.nature.com/articles/s41586-020-2918-0#Fig2)). We estimate a mean increase in IFR of 0.59% with each five-year increase in age (95% credible interval, 0.51–0.68%) for ages of 10 years and older. We estimate that the risk of death if infected with SARS-CoV-2 is significantly higher for men than for women (Fig. [2a](https://www.nature.com/articles/s41586-020-2918-0#Fig2)) particularly in older individuals with ensemble IFR estimates of 10.83% for men aged 80+ (95% credible interval, 9.28–12.52%; range of each individual seroprevalence survey, 3.25–20.30%) and 5.76% for women aged 80+ (95% credible interval, 4.94–6.66%; individual seroprevalence survey range, 1.73–10.80%), which is consistent with previous findings[12](https://www.nature.com/articles/s41586-020-2918-0#ref-CR12 "Salje, H. et al. Estimating the burden of SARS-CoV-2 in France. Science 369, 208–211 (2020)."),[13](https://www.nature.com/articles/s41586-020-2918-0#ref-CR13 "Jin, J.-M. et al. Gender differences in patients with COVID-19: focus on severity and mortality. Front. Public Health 8, 152 (2020).").
+
+**Fig. 2: IFR estimates.**
+
+[![Image 2: figure 2](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2918-0/MediaObjects/41586_2020_2918_Fig2_HTML.png)](https://www.nature.com/articles/s41586-020-2918-0/figures/2)
+
+**a**, Estimated median and 95% credible intervals of the IFR, stratified by age and sex and plotted on a log-linear scale. The IFR is estimated with the ensemble model (filled dots and black lines). Black asterisks on the right represent the estimated IFRs for age groups of 65 years and older, which were excluded from the fitting of the ensemble model. The semi-transparent dots represent median IFRs estimated from separately fitting the model to each individual seroprevalence survey. **b**, Population-weighted IFR estimates derived from separately fitting individual seroprevalence surveys in the model and using France as a reference population, with points and lines indicating the median and 95% credible intervals. The blue dashed line and ribbon indicate the median and 95% credible intervals of the population-weighted IFR produced by the ensemble model. Hollow dots represent the estimates from subnational seroprevalence surveys that were excluded from the fitting of the ensemble model. **c**, Median and 95% credible intervals of the population-weighted IFRs estimated by the ensemble model for each of the 45 countries, coloured by continent. Grey dots represent the median estimates for each country, derived from fitting the model separately to each individual seroprevalence survey.
+
+[Full size image](https://www.nature.com/articles/s41586-020-2918-0/figures/2)
+
+Consistency of IFRs across seroprevalence surveys
+-------------------------------------------------
+
+We use our model framework to facilitate robust comparisons of IFRs across settings, considering only age-specific deaths among those younger than 65 years old. Using country-specific demographic distributions (both age and sex), we estimate population-weighted IFRs for each country. Taking France as a reference population, the ensemble model estimates a population IFR of 0.79% (95% credible interval, 0.68–0.92%), although we find notable heterogeneity in IFR estimates as suggested by individual national-level seroprevalence studies, with a median range of 0.24–1.49% (Fig. [2b](https://www.nature.com/articles/s41586-020-2918-0#Fig2)). In particular, seroprevalence studies from New York City (2.28; 95% credible interval, 2.15–2.42%), Scotland (1.49%; 95% credible interval, 1.25–1.82%) and England (1.41%; 95% credible intervals, 1.38–1.44%) suggest a significantly higher IFR whereas studies in Kenya (0.24%; 95% credible interval, 0.23–0.25%), Slovenia (0.25%; 95% credible interval, 0.24–0.30%) and Denmark (0.26%; 95% credible interval, 0.24–0.32%) support a lower IFR than that of the ensemble model. We note that the application of age- and sex-specific IFR estimates suggested by individual national-level seroprevalence studies at the lower end of the scale (for example, Kenya, Slovenia and Denmark) to mortality data in highly affected settings would suggest attack rates over 100% (Supplementary Fig. [3](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). Potential explanations for the variable IFR estimates observed across settings include different prevalences of high-risk populations (for example, individuals with comorbidities), differences in methodology and representativeness of seroprevalence studies, heterogeneities in availability and quality of care or variations in reporting of COVID-19-associated deaths. We have fitted our model to seroprevalence data adjusted for reported assay sensitivity and specificity but find that using unadjusted estimates provides similar results (Supplementary Fig. [5](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). As the duration of SARS-CoV-2 seropositivity among infected individuals is as-yet unclear[14](https://www.nature.com/articles/s41586-020-2918-0#ref-CR14 "Huang, A. T. et al. A systematic review of antibody mediated immunity to coronaviruses: kinetics, correlates of protection, and association with severity. Nat. Commun. 11, 4704 (2020)."), in sensitivity analyses we explore the potential effect of waning antibodies over time. In a scenario with assumed 5% exponential decay of seroconversions per month, the ensemble model estimates a population IFR of 0.65% in France (95% credible interval, 0.56–0.73%) (Supplementary Fig. [4](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). Furthermore, we demonstrate that our results are robust to different assumptions regarding the mean delay between infection and seroconversion (Supplementary Fig. [4](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). There may also be individuals who never seroconvert or only develop a T cell response, and those individuals would be missed in these studies[15](https://www.nature.com/articles/s41586-020-2918-0#ref-CR15 "Braun, J. et al. SARS-CoV-2-reactive T cells in healthy donors and patients with COVID-19. Nature 587, 270–274 (2020)."). Of the studies included in our analysis, we find that those conducted among blood donors (which exclude children and require individuals to be asymptomatic at the time of sampling) do not give significantly different results to those conducted among the general population (Supplementary Fig. [6](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). However, further comparisons are needed to fully understand the representativeness of different seroprevalence survey designs.
+
+Considering the demographic structures of each country, we find that population-weighted IFR estimates by the ensemble model are highest for countries with older populations such as Japan (1.09%; 95% credible interval, 0.94–1.26%; individual seroprevalence survey range, 0.33–2.05%) and Italy (0.94%; 95% credible interval, 0.80–1.08%; individual seroprevalence survey range, 0.28–1.76%), whereas the lowest IFRs are for Kenya (0.09%; 95% credible interval, 0.08–0.10%; individual seroprevalence survey range, 0.03–0.17%) and Pakistan (0.16%; 95% credible interval, 0.14–0.19%; individual seroprevalence survey range, 0.05–0.31%) (Fig. [2c](https://www.nature.com/articles/s41586-020-2918-0#Fig2)). Our ensemble model reproduces the reported seroprevalence values for the majority of studies including the temporal dynamics. However, consistent with substantial heterogeneity in IFR across countries, the ensemble model cannot fully reconcile the relationship between reported seroprevalence and age-specific death data in some locations (Fig. [3b](https://www.nature.com/articles/s41586-020-2918-0#Fig3)). Of the 45 countries included in our analysis, which represent 3.4 billion people, we estimate that an average of 5.27% (95% credible interval, 4.51–6.20%; individual seroprevalence survey range, 2.80–13.97%) of these populations had been infected by 1 September 2020, ranging from 0.06% (95% credible interval, 0.04–0.09%; individual seroprevalence survey range, 0.02–0.20%) in South Korea to 62.44% (95% credible interval, 54.07–72.90%; individual seroprevalence survey range, 33.13–207.20%) in Peru. These results indicate that there has been large heterogeneity in the level of transmission across countries to date, with particularly high attack rates estimated in many Latin American countries. Given the underlying heterogeneity in IFR that could not be captured by the ensemble model, it is important to consider the full range of uncertainty in these estimates as suggested by individual seroprevalence studies (grey points in Fig. [3b](https://www.nature.com/articles/s41586-020-2918-0#Fig3)). Estimates of high transmission levels in some Latin American countries are consistent with recent subnational seroprevalence studies[16](https://doi.org/10.1038/s41586-020-2918-0#ref-CR16 "Buss, L. F. et al. COVID-19 herd immunity in the Brazilian Amazon. Preprint at 
+                  https://doi.org/10.1101/2020.09.16.20194787
+                  
+                 (2020)."),[17](https://doi.org/10.1038/s41586-020-2918-0#ref-CR17 "Antonio, C. A. A. et al. Seroprevalencia de Anticuerpos anti SARS-CoV-2 en la Ciudad de Iquitos, Loreto, Perú. 
+                  https://docs.google.com/document/d/1K-aKyFmxztdfNJOtXuSH1uGcBeaZA7LH/edit
+                  
+                 (2020)."),[18](https://www.nature.com/articles/s41586-020-2918-0#ref-CR18 "Del Brutto, O. H. et al. SARS-CoV-2 in rural Latin America. A population-based study in coastal Ecuador. Clin. Infect. Dis. ciaa1055 (2020)."). Our estimates are also consistent with mathematical modelling efforts for individual countries, in which additional metrics of epidemic size (for example, numbers of cases, hospitalizations and/or admissions to intensive care units) have been considered[12](https://www.nature.com/articles/s41586-020-2918-0#ref-CR12 "Salje, H. et al. Estimating the burden of SARS-CoV-2 in France. Science 369, 208–211 (2020)."),[19](https://www.nature.com/articles/s41586-020-2918-0#ref-CR19 "Flaxman, S. et al. Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe. Nature 584, 257–261 (2020)."),[20](https://www.nature.com/articles/s41586-020-2918-0#ref-CR20 "Abrams, S. et al. Modeling the early phase of the Belgian COVID-19 epidemic using a stochastic compartmental model and studying its implied future trajectories. Preprint at 
+                  https://doi.org/10.1101/2020.06.29.20142851
+                  
+                 (2020).") (Supplementary Fig. [7](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). The medium and longer term implications for the pandemic in countries that have experienced high levels of infection remain unclear; in particular, whether sufficient immunity exists to halt the pandemic locally[21](https://www.nature.com/articles/s41586-020-2918-0#ref-CR21 "Fontanet, A. & Cauchemez, S. COVID-19 herd immunity: where are we? Nat. Rev. Immunol. 20, 583–584 (2020).").
+
+**Fig. 3: Infection attack rates.**
+
+[![Image 3: figure 3](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2918-0/MediaObjects/41586_2020_2918_Fig3_HTML.png)](https://www.nature.com/articles/s41586-020-2918-0/figures/3)
+
+**a**, Estimates of the infected population proportion for each country as of 1 September 2020. The _y_ axis in **a** has been capped at 1, whereas in Supplementary Fig. [4](https://www.nature.com/articles/s41586-020-2918-0#MOESM1) the same graph is shown with the full range of values. Grey dots indicate the median estimates by fitting the model to each individual seroprevalence survey. Coloured dots and lines represent the median and 95% credible intervals estimated by the ensemble model. **b**, Proportion of the population who are seropositive over time for each of the 12 countries fit with national-level seroprevalence data. Green curves and ribbons indicate the median and 95% credible intervals estimated by the ensemble model. Dots and lines represent the mean and 95% binomial confidence interval of the published seroprevalence data. For countries with more than 1 seroprevalence survey, black dots and lines correspond to the study that is designated ‘country, 1’ (for example, Sweden,1) in Fig. [2](https://www.nature.com/articles/s41586-020-2918-0#Fig2) and Supplementary Table [1](https://www.nature.com/articles/s41586-020-2918-0#MOESM1), whereas pink dots and lines correspond to the study designated ‘country, 2’ (for example, Belgium,2) and navy dots and lines to the study designated ‘country, 3’ (for example, The Netherlands,3). Blue-shaded regions indicate the start and end dates of sampling for each seroprevalence survey. Grey dashed lines and ribbons represent the median and 95% credible interval model estimates derived from separately fitting the model to each individual seroprevalence study.
+
+[Full size image](https://www.nature.com/articles/s41586-020-2918-0/figures/3)
+
+Heterogeneities in mortality in individuals over 65
+---------------------------------------------------
+
+Using our model framework, we estimate the number of deaths expected in the absence of transmission in nursing homes in those aged 65 years and older, given the reported number of deaths in younger age groups, and compare them to the reported number of COVID-19-associated deaths in individuals aged 65 years and older (Fig. [4a](https://www.nature.com/articles/s41586-020-2918-0#Fig4)). We find that many countries in Latin America had significantly fewer reported deaths in individuals aged 65 years and older than expected, consistent with the underreporting of COVID-19-associated deaths among older individuals. For example, we find that in Ecuador there are 220 fewer reported deaths per 100,000 individuals in those aged 65 years and older than expected (95% credible interval, 200–240), equivalent to approximately 2,800 missing deaths. Although lower infection attack rates in older populations owing to a reduced number of contacts or successful shielding policies may also explain lower mortality rates, in sensitivity analyses we show that for some countries unrealistically low infection attack rates among individuals aged 65 years and older compared to the rest of the population would be required to reconcile the reported number of deaths in these age groups (Supplementary Fig. [8](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)).
+
+**Fig. 4: Infection fatality patterns among individuals who are 60 years and older.**
+
+[![Image 4: figure 4](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2918-0/MediaObjects/41586_2020_2918_Fig4_HTML.png)](https://www.nature.com/articles/s41586-020-2918-0/figures/4)
+
+**a**, Difference between the reported and expected incidence of COVID-19-associated deaths per 100,000 individuals in the population among individuals who are ≥60 or ≥65 years of age in each country. Coloured bars represent the median difference and black lines represent 95% credible intervals. Countries labelled with an asterisk indicate those for which the number of deaths was reconstructed for ages 65+years, to align with the reported age groups for each country (_n_=429,039 reported deaths 60 or 65+years of age). **b**, Population-weighted IFRs for the general population and residents of nursing homes, using France as a reference population (_n_=10,560 reported deaths among residents of nursing homes and _n_=20,528 among the general population). The relative frailty of residents of nursing homes is assumed to be 2 (yellow), 3.8 (green) or 6 (blue). Dots and lines indicate the median and 95% credible intervals estimated by the ensemble model. **c**, Population-weighted IFR in France, estimated with different assumed infection attack rates and frailty of residents of nursing homes relative to those of the same age and sex in the general population. Coloured ribbons indicate 95% credible intervals and the black dashed line represents the median population-weighted IFR estimated when assuming a zero infection attack rate among residents of nursing homes (_n_=10,560 reported deaths among residents of nursing homes and _n_=20,528 among the general population).
+
+[Full size image](https://www.nature.com/articles/s41586-020-2918-0/figures/4)
+
+By contrast, for many European countries, we observe a higher incidence of deaths in older individuals than expected (Fig. [4a](https://www.nature.com/articles/s41586-020-2918-0#Fig4)). This is consistent with the large proportion of reported COVID-19-associated deaths attributable to outbreaks in nursing homes, highlighting the enormous burden experienced by these communities in many higher-income countries[22](https://www.nature.com/articles/s41586-020-2918-0#ref-CR22 "Molenberghs, G. et al. Belgian COVID-19 mortality, excess deaths, number of deaths per million, and infection fatality rates (8 March - 9 May 2020). Preprint at 
+                  https://doi.org/10.1101/2020.06.20.20136234
+                  
+                 (2020)."),[23](https://www.nature.com/articles/s41586-020-2918-0#ref-CR23 "Soveri, H. et al. Why, in almost all countries, was residential care for older people so badly affected by COVID-19? 
+                  http://www.ose.be/files/publication/OSEPaperSeries/Declercq_Et_Al_2020_OpinionPaper23.pdf
+                  
+                 (European Social Observatory, 2020)."). We use the age and sex distribution of residents in nursing homes to derive a population-weighted IFR of 22.25% (95% credible interval, 19.06–25.74%) among residents in nursing home in France, assuming that individuals in nursing homes are 3.8 times more frail than individuals in the general population of the same age and sex, as has previously been estimated[24](https://www.nature.com/articles/s41586-020-2918-0#ref-CR24 "Hardy, O. J. et al. A world apart: levels and factors of excess mortality due to COVID-19 in care homes. The case of Wallonia - Belgium. Preprint at 
+                  https://doi.org/10.1101/2020.08.29.20183210
+                  
+                 (2020).") (Fig. [4b](https://www.nature.com/articles/s41586-020-2918-0#Fig4)). Using this estimate of the IFR would suggest that 7.28% of the French nursing home population had been infected by 1 September 2020 (95% credible interval, 6.29–8.49%), a 1.70-fold higher infection attack rate than the general population (Supplementary Methods[3](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). In our baseline model, we derive IFR estimates among the general population (that is, excluding deaths that occurred in nursing homes) so as to facilitate robust comparisons of IFR and transmission in the general population across settings. However, we demonstrate that in cases in which high rates of infection have occurred among residents of nursing homes, overall IFRs will be significantly greater than in scenarios in which these populations have been successfully shielded or experienced little exposure (Fig. [4c](https://www.nature.com/articles/s41586-020-2918-0#Fig4)). For example, in France, including deaths that occurred in nursing homes increases the IFR from 0.74% for the general population (95% credible interval, 0.64–0.86%) to 1.10% overall (95% credible interval, 0.95–1.28%). This highlights the complexity of comparing headline IFR estimates across populations in which very different levels of transmission may have occurred in these hyper-vulnerable communities.
+
+Discussion
+----------
+
+In our analysis, we assess the relationship between seroprevalence and the age-specific number of COVID-19-associated deaths across numerous settings. Accounting for population demographics and variable mortality burdens among older populations, we find considerable heterogeneity in the overall IFR of SARS-CoV-2 across settings, which suggests that there are additional important drivers of IFRs.
+
+Seroprevalence surveys have, to date, shown inconsistent patterns in age-specific infection attack rates across settings (Supplementary Fig. [10](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)) as contact patterns are likely to have changed substantially over the course of the pandemic. In sensitivity analyses, we find that our results are relatively consistent when using different assumed age-specific infection attack rates (Supplementary Fig. [9](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). Here we use data from national reporting systems of COVID-19-associated deaths. However, in some settings these may not capture all deaths associated with COVID-19. It has been estimated for a subset of countries (_n_=6 out of 45) that the numbers of reported COVID-19-associated deaths ranged between undercounting of 40% to overcounting of 10% compared to excess death estimates[25](https://www.nature.com/articles/s41586-020-2918-0#ref-CR25 "Aron, J., Giattino, C., Muellbauer, J. & Ritchie, H. A pandemic primer on excess mortality statistics and their comparability across countries. Our World in Data 
+                  https://ourworldindata.org/covid-excess-mortality
+                  
+                 (2020)."). Assuming that these differences occur equally across all age groups would result in a change in the mean IFR for these countries of 0.66% to 0.87%. However, this represents an extreme scenario, as most unaccounted for deaths are likely to be in the oldest age groups, which would not affect our estimates[25](https://www.nature.com/articles/s41586-020-2918-0#ref-CR25 "Aron, J., Giattino, C., Muellbauer, J. & Ritchie, H. A pandemic primer on excess mortality statistics and their comparability across countries. Our World in Data 
+                  https://ourworldindata.org/covid-excess-mortality
+                  
+                 (2020)."). There are a number of complexities in the interpretation of excess death data that can inhibit their direct use in assessments of IFR. Specifically, excess death estimates are highly sensitive to the reference time period used (Supplementary Figs. [11](https://www.nature.com/articles/s41586-020-2918-0#MOESM1), [12](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)), frequent negative excess deaths occur, especially in younger ages (Supplementary Fig. [12](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)), and there is limited availability of excess death data for narrow age groups or outside higher-income countries. Although both seroprevalence and reported COVID-19-associated death data can be subject to potential limitations, considering these data across multiple settings in a harmonized framework has enabled us to robustly assess trends in the transmission and fatality rates of SARS-CoV-2 and derive global ensemble estimates.
+
+Translating the number of COVID-19-associated deaths into estimates of the number of infections requires careful consideration of fatalities from outbreak events in highly vulnerable populations. By providing a benchmark of the expected number of deaths by age in older individuals, our approach allows us to identify countries in which excess transmission in nursing home populations has probably occurred. We demonstrate how outbreaks in nursing homes can drive overall population IFRs, through both increased attack rates and increased vulnerability. The results and modelling framework that we present here demonstrate how age-specific death data can be used to robustly reconstruct the underlying level of transmission. This approach could be applied at subnational scale and may be of particular use in settings in which resources to carry out large, representative seroprevalence studies are not available.
+
+Methods
+-------
+
+### Data reporting
+
+No statistical methods were used to predetermine sample size. The experiments were not randomized and the investigators were not blinded to allocation during experiments and outcome assessment.
+
+### Data
+
+#### Age- and sex-specific COVID-19-related fatality data
+
+We collated national-level age-stratified COVID-19-related death counts from official government and department of health webpages and reports for 45 countries. Where available, stratification by both age and sex was used. Subnational age-stratified death counts were additionally collated for four regions in which seroprevalence surveys had been conducted. For countries for which information on age was missing for a subset of deaths, we assumed the age distribution of the missing subset to be the same as that of the deaths with available age data. Information on age was missing for 29% of deaths in Spain. In addition, the time series of daily reported deaths from each country or region were obtained from the COVID-19 Data Repository by the Center for Systems Science and Engineering at Johns Hopkins University[26](https://www.nature.com/articles/s41586-020-2918-0#ref-CR26 "Dong, E., Du, H. & Gardner, L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Infect. Dis. 20, 533–534 (2020)."). Age- and sex-specific population data were obtained from the United Nations 2019 World Population Prospects[27](https://www.nature.com/articles/s41586-020-2918-0#ref-CR27 "De Wulf, M. Population Pyramids of the World from 1950 to 2100. 
+                  https://www.populationpyramid.net/world/2019/
+                  
+                 (2016)."),[28](https://www.nature.com/articles/s41586-020-2918-0#ref-CR28 "UN Department of Economic and Social Affairs. World Population Prospects 2019. 
+                  https://population.un.org/wpp/
+                  
+                 (UN, 2019).").
+
+#### Seroprevalence studies
+
+We used data from 25 SARS-CoV-2 seroprevalence surveys from 20 countries or regions for which the results were representative of the general population and for which age-stratified death data were also available; these results are shown in Fig. [1a](https://www.nature.com/articles/s41586-020-2918-0#Fig1) and Supplementary Table [1](https://www.nature.com/articles/s41586-020-2918-0#MOESM1). In the ensemble model, we consider only the 22 national-level seroprevalence surveys, which represent 16 countries. In cases in which estimates of seroprevalence reported by individual studies had not been adjusted for the performance of the seroprevalence assay, we used the reported values of assay sensitivity and specificity to adjust the reported seroprevalence values (Supplementary Table [1](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). Seroprevalence values from 24 out of 25 studies included in our analysis were adjusted for assay performance; the seroprevalence assay used by the one remaining study had not been reported at the time of publishing.
+
+### Model
+
+We combined age- and sex-specific COVID-19-related death data from 45 countries with data from 22 seroprevalence surveys, to jointly infer the age- and sex-specific IFRs and country-specific cumulative probabilities of infection. Age- and sex-specific IFRs were estimated in 5-year age groups, with individuals aged 80+ years considered as a single age group. Let _N_ _c_,_a_,_s_ be the population size for the age group _a_ of sex _s_ in country _c_. The expected number of deaths for the age group _a_ of sex _s_ in country _c_, _D_ _c_,_a_,_s_ is estimated as shown in equation ([1](https://www.nature.com/articles/s41586-020-2918-0#Equ1)), which we assume to follow a Poisson distribution. _Λ_ _c_ denotes the cumulative probability of infection in country _c_, _δ_ _a_ the relative probability of infection in age group _a_ and IFR _a_,_s_ the infection fatality ratio of age group _a_ and sex _s_. This assumes that age- and sex-specific IFRs are constant over the course of the pandemic. In cases in which improvements in COVID-19 outcomes have occurred over time, our estimates would represent the average probabilities to date.
+
+$${D}_{c,a,s}={N}_{c,a,s}\hspace{.1pt}{\varLambda }_{c}{\delta }_{a}{{\rm{IFR}}}_{a,s}$$
+
+(1)
+
+The expected number of deaths estimated by 5-year age groups were summed to match the corresponding age groups of observed deaths when reported in coarser age groups. We fit exclusively to the reported number of deaths for age groups under 65 years of age for each country (that is, including all age groups for which the upper bound is less than 65 years). IFRs for age groups aged 65 years and older were derived from age-specific death data reported by the Office for National Statistics in England[29](https://www.nature.com/articles/s41586-020-2918-0#ref-CR29 "Caul, S. Deaths registered weekly in England and Wales, provisional. 
+                  https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales
+                  
+                 (UK Office for National Statistics, 2020)."), which allows us to exclude the age-specific number of deaths among residents of nursing homes (Supplementary Methods[2](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). As an external validation, we apply these IFRs to reported death data for a subset of 13 countries for which an adjustment for deaths that occurred in nursing homes could be applied (Supplementary Methods[2](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)).
+
+To align estimates of the cumulative probability of infection, _Λ_ _c_, with data from seroprevalence surveys, we used daily time series of reported deaths to infer the timing of infections and subsequent seroconversions. We assumed a gamma-distributed delay between onset and death[30](https://www.nature.com/articles/s41586-020-2918-0#ref-CR30 "Wu, J. T. et al. Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China. Nat. Med. 26, 506–510 (2020).") with a mean of 20 days and a standard deviation of 10 days and a gamma-distributed delay between infection and onset[31](https://www.nature.com/articles/s41586-020-2918-0#ref-CR31 "Backer, J. A., Klinkenberg, D. & Wallinga, J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20–28 January 2020. Euro Surveill. 25, 2000062 (2020).") with a mean of 6.5 days and standard deviation of 2.6 days. The delay between onset and seroconversion[32](https://www.nature.com/articles/s41586-020-2918-0#ref-CR32 "Lou, B. et al. Serology characteristics of SARS-CoV-2 infection after exposure and post-symptom onset. Eur. Respir. J. 56, 2000763 (2020).") was assumed to be gamma-distributed with a mean of 10 days and a standard deviation of 8 days. We derive the approximated seroprevalence at a given survey period _t_, _λ_ _c_,_t_, as shown in equation ([2](https://www.nature.com/articles/s41586-020-2918-0#Equ2)). Here, _S_ _c_,_i_ is the inferred number of seroconversions in country _c_ on day _i_, as inferred from the convolution of the death time series, _D_ _c_,_i_ is the number of new deaths reported in country _c_ on day _i_, and _T_ _c_ is the date of the reporting of the age-stratified cumulative death data.
+
+$${\lambda }_{c,t}={\varLambda }_{c}\frac{{\sum }_{i=1}^{t}{S}_{c,i}}{{\sum }_{i=1}^{{T}_{c}}{D}_{c,i}}$$
+
+(2)
+
+We include all data from national-level seroprevalence studies in an ensemble model, in which the expected seroprevalence is assumed to follow a beta distribution with an unknown variance parameter, _κ_, as shown in equation ([3](https://www.nature.com/articles/s41586-020-2918-0#Equ3)). To investigate the contribution of different seroprevalence studies to the likelihood, the model was fitted separately to data from each individual seroprevalence survey, including an additional three subnational seroprevalence studies (Supplementary Table [1](https://www.nature.com/articles/s41586-020-2918-0#MOESM1)). For each seroprevalence survey, the expected number of seropositive individuals in country _c_ at sampling period _t_, \({N}_{c,t}^{{\rm{positive}}}\), is assumed to follow a binomial distribution[33](https://www.nature.com/articles/s41586-020-2918-0#ref-CR33 "Wu, J. T. et al. The infection attack rate and severity of 2009 pandemic H1N1 influenza in Hong Kong. Clin. Infect. Dis. 51, 1184–1191 (2010).") as shown in equation ([4](https://www.nature.com/articles/s41586-020-2918-0#Equ4)), in which \({N}_{c,t}^{{\rm{samples}}}\) is the number of serological samples taken in country _c_ at time _t_.
+
+$${\bar{\lambda }}_{c,t} \sim {\rm{beta}}\,({\lambda }_{c,t},\,\kappa ),$$
+
+(3)
+
+$${N}_{c,t}^{{\rm{positive}}} \sim \text{binomial}({N}_{c,t}^{{\rm{samples}}},\,{\lambda }_{c,t}).$$
+
+(4)
+
+All parameters were estimated in a Bayesian framework using RStan[34](https://www.nature.com/articles/s41586-020-2918-0#ref-CR34 "Stan Development Team. RStan: the R interface to Stan. R package version 2 
+                  https://mc-stan.org/users/interfaces/rstan
+                  
+                 (2016).") using R version 3.6.1. We assumed uniform priors on all parameters, between −50 and −0.001 on a logarithmic scale for all IFR estimates, and between −50 and 2 on a logarithmic scale for all estimates of the cumulative probability of infection. The model was run with 3 chains of 10,000 iterations each. The 95% credible intervals are calculated by taking the 0.025 and 0.975 quantiles of the posterior distribution.
+
+### Reporting summary
+
+Further information on research design is available in the[Nature Research Reporting Summary](https://www.nature.com/articles/s41586-020-2918-0#MOESM2) linked to this paper.
+
+Code availability
+-----------------
+
+All code necessary to reproduce this analysis is available at [https://github.com/meganodris/International-COVID-IFR](https://github.com/meganodris/International-COVID-IFR).
+
+References
+----------
+
+1.   Pastor-Barriuso, R. et al. Infection fatality risk for SARS-CoV-2: a nationwide seroepidemiological study in the non-institutionalized population of Spain. Preprint at http://doi.org/10.1101/2020.08.06.20169722 (2020).
+
+2.   Verity, R. et al. Estimates of the severity of coronavirus disease 2019: a model-based analysis. _Lancet Infect. Dis_. **20**, 669–677 (2020).
+
+[Article](https://doi.org/10.1016%2FS1473-3099%2820%2930243-7)[MathSciNet](http://www.ams.org/mathscinet-getitem?mr=4114996)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXmt1Sitr8%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimates%20of%20the%20severity%20of%20coronavirus%20disease%202019%3A%20a%20model-based%20analysis&journal=Lancet%20Infect.%20Dis.&doi=10.1016%2FS1473-3099%2820%2930243-7&volume=20&pages=669-677&publication_year=2020&author=Verity%2CR)
+
+3.   Comas-Herrera, A. et al. _Mortality associated with COVID-19 Outbreaks in Care Homes: Early International Evidence_. [https://ltccovid.org/2020/04/12/mortality-associated-with-covid-19-outbreaks-in-care-homes-early-international-evidence/](https://ltccovid.org/2020/04/12/mortality-associated-with-covid-19-outbreaks-in-care-homes-early-international-evidence/) (2020).
+
+4.   Guan, W.-J. et al. Clinical characteristics of coronavirus disease 2019 in China. _N. Engl. J. Med_. **382**, 1708–1720 (2020).
+
+[Article](https://doi.org/10.1056%2FNEJMoa2002032)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXovVSjsb8%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Clinical%20characteristics%20of%20coronavirus%20disease%202019%20in%20China&journal=N.%20Engl.%20J.%20Med.&doi=10.1056%2FNEJMoa2002032&volume=382&pages=1708-1720&publication_year=2020&author=Guan%2CW-J)
+
+5.   Clark, A. et al. Global, regional, and national estimates of the population at increased risk of severe COVID-19 due to underlying health conditions in 2020: a modelling study. _Lancet Glob. Health_**8**, e1003–e1017 (2020).
+
+[Article](https://doi.org/10.1016%2FS2214-109X%2820%2930264-3)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Global%2C%20regional%2C%20and%20national%20estimates%20of%20the%20population%20at%20increased%20risk%20of%20severe%20COVID-19%20due%20to%20underlying%20health%20conditions%20in%202020%3A%20a%20modelling%20study&journal=Lancet%20Glob.%20Health&doi=10.1016%2FS2214-109X%2820%2930264-3&volume=8&pages=e1003-e1017&publication_year=2020&author=Clark%2CA)
+
+6.   Pollán, M. et al. Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study. _Lancet_**396**, 535–544 (2020).
+
+[Article](https://doi.org/10.1016%2FS0140-6736%2820%2931483-5)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Prevalence%20of%20SARS-CoV-2%20in%20Spain%20%28ENE-COVID%29%3A%20a%20nationwide%2C%20population-based%20seroepidemiological%20study&journal=Lancet&doi=10.1016%2FS0140-6736%2820%2931483-5&volume=396&pages=535-544&publication_year=2020&author=Poll%C3%A1n%2CM)
+
+7.   Stringhini, S. et al. Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Geneva, Switzerland (SEROCoV-POP): a population-based study. _Lancet_**396**, 313–319 (2020).
+
+[Article](https://doi.org/10.1016%2FS0140-6736%2820%2931304-0)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtFGgtrrL)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Seroprevalence%20of%20anti-SARS-CoV-2%20IgG%20antibodies%20in%20Geneva%2C%20Switzerland%20%28SEROCoV-POP%29%3A%20a%20population-based%20study&journal=Lancet&doi=10.1016%2FS0140-6736%2820%2931304-0&volume=396&pages=313-319&publication_year=2020&author=Stringhini%2CS)
+
+8.   Rosenberg, E. S. et al. Cumulative incidence and diagnosis of SARS-CoV-2 infection in New York. _Ann. Epidemiol_. **48**, 23–29 (2020).
+
+[Article](https://doi.org/10.1016%2Fj.annepidem.2020.06.004)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Cumulative%20incidence%20and%20diagnosis%20of%20SARS-CoV-2%20infection%20in%20New%20York&journal=Ann.%20Epidemiol.&doi=10.1016%2Fj.annepidem.2020.06.004&volume=48&pages=23-29&publication_year=2020&author=Rosenberg%2CES)
+
+9.   Herzog, S. et al. Seroprevalence of IgG antibodies against SARS coronavirus 2 in Belgium — a prospective cross-sectional study of residual samples. Preprint at [https://doi.org/10.1101/2020.06.08.20125179](https://doi.org/10.1101/2020.06.08.20125179) (2020).
+
+10.   Takahashi, S., Greenhouse, B. & Rodríguez-Barraquer, I. Are seroprevalence estimates for severe acute respiratory syndrome coronavirus 2 biased? _J. Infect. Dis_. **222**, 1772–1775 (2020).
+
+[Article](https://doi.org/10.1093%2Finfdis%2Fjiaa523)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXisVWgs77L)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Are%20seroprevalence%20estimates%20for%20severe%20acute%20respiratory%20syndrome%20coronavirus%202%20biased%3F&journal=J.%20Infect.%20Dis.&doi=10.1093%2Finfdis%2Fjiaa523&volume=222&pages=1772-1775&publication_year=2020&author=Takahashi%2CS&author=Greenhouse%2CB&author=Rodr%C3%ADguez-Barraquer%2CI)
+
+11.   Prem, K., Cook, A. R. & Jit, M. Projecting social contact matrices in 152 countries using contact surveys and demographic data. _PLOS Comput. Biol_. **13**, e1005697 (2017).
+
+[Article](https://doi.org/10.1371%2Fjournal.pcbi.1005697)[ADS](http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2017PLSCB..13E5697P)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Projecting%20social%20contact%20matrices%20in%20152%20countries%20using%20contact%20surveys%20and%20demographic%20data&journal=PLOS%20Comput.%20Biol.&doi=10.1371%2Fjournal.pcbi.1005697&volume=13&publication_year=2017&author=Prem%2CK&author=Cook%2CAR&author=Jit%2CM)
+
+12.   Salje, H. et al. Estimating the burden of SARS-CoV-2 in France. _Science_**369**, 208–211 (2020).
+
+[Article](https://doi.org/10.1126%2Fscience.abc3517)[ADS](http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020Sci...369..208S)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhtlKqsbbI)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimating%20the%20burden%20of%20SARS-CoV-2%20in%20France&journal=Science&doi=10.1126%2Fscience.abc3517&volume=369&pages=208-211&publication_year=2020&author=Salje%2CH)
+
+13.   Jin, J.-M. et al. Gender differences in patients with COVID-19: focus on severity and mortality. _Front. Public Health_**8**, 152 (2020).
+
+[Article](https://doi.org/10.3389%2Ffpubh.2020.00152)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Gender%20differences%20in%20patients%20with%20COVID-19%3A%20focus%20on%20severity%20and%20mortality&journal=Front.%20Public%20Health&doi=10.3389%2Ffpubh.2020.00152&volume=8&publication_year=2020&author=Jin%2CJ-M)
+
+14.   Huang, A. T. et al. A systematic review of antibody mediated immunity to coronaviruses: kinetics, correlates of protection, and association with severity. _Nat. Commun_. **11**, 4704 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41467-020-18450-4)[ADS](http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020NatCo..11.4704H)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhvVynsLzJ)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=A%20systematic%20review%20of%20antibody%20mediated%20immunity%20to%20coronaviruses%3A%20kinetics%2C%20correlates%20of%20protection%2C%20and%20association%20with%20severity&journal=Nat.%20Commun.&doi=10.1038%2Fs41467-020-18450-4&volume=11&publication_year=2020&author=Huang%2CAT)
+
+15.   Braun, J. et al. SARS-CoV-2-reactive T cells in healthy donors and patients with COVID-19. _Nature_**587**, 270–274 (2020).
+
+16.   Buss, L. F. et al. COVID-19 herd immunity in the Brazilian Amazon. Preprint at [https://doi.org/10.1101/2020.09.16.20194787](https://doi.org/10.1101/2020.09.16.20194787) (2020).
+
+17.   Antonio, C. A. A. et al. _Seroprevalencia de Anticuerpos anti SARS-CoV-2 en la Ciudad de Iquitos, Loreto, Perú_. [https://docs.google.com/document/d/1K-aKyFmxztdfNJOtXuSH1uGcBeaZA7LH/edit](https://docs.google.com/document/d/1K-aKyFmxztdfNJOtXuSH1uGcBeaZA7LH/edit) (2020).
+
+18.   Del Brutto, O. H. et al. SARS-CoV-2 in rural Latin America. A population-based study in coastal Ecuador. _Clin. Infect. Dis_. ciaa1055 (2020).
+
+19.   Flaxman, S. et al. Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe. _Nature_**584**, 257–261 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41586-020-2405-7)[ADS](http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020Natur.584..257F)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXhsFegtb3O)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimating%20the%20effects%20of%20non-pharmaceutical%20interventions%20on%20COVID-19%20in%20Europe&journal=Nature&doi=10.1038%2Fs41586-020-2405-7&volume=584&pages=257-261&publication_year=2020&author=Flaxman%2CS)
+
+20.   Abrams, S. et al. Modeling the early phase of the Belgian COVID-19 epidemic using a stochastic compartmental model and studying its implied future trajectories. Preprint at [https://doi.org/10.1101/2020.06.29.20142851](https://doi.org/10.1101/2020.06.29.20142851) (2020).
+
+21.   Fontanet, A. & Cauchemez, S. COVID-19 herd immunity: where are we? _Nat. Rev. Immunol_. **20**, 583–584 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41577-020-00451-5)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=COVID-19%20herd%20immunity%3A%20where%20are%20we%3F&journal=Nat.%20Rev.%20Immunol.&doi=10.1038%2Fs41577-020-00451-5&volume=20&pages=583-584&publication_year=2020&author=Fontanet%2CA&author=Cauchemez%2CS)
+
+22.   Molenberghs, G. et al. Belgian COVID-19 mortality, excess deaths, number of deaths per million, and infection fatality rates (8 March - 9 May 2020). Preprint at [https://doi.org/10.1101/2020.06.20.20136234](https://doi.org/10.1101/2020.06.20.20136234) (2020).
+
+23.   Soveri, H. et al. Why, in almost all countries, was residential care for older people so badly affected by COVID-19? [http://www.ose.be/files/publication/OSEPaperSeries/Declercq_Et_Al_2020_OpinionPaper23.pdf](http://www.ose.be/files/publication/OSEPaperSeries/Declercq_Et_Al_2020_OpinionPaper23.pdf) (European Social Observatory, 2020).
+
+24.   Hardy, O. J. et al. A world apart: levels and factors of excess mortality due to COVID-19 in care homes. The case of Wallonia - Belgium. Preprint at [https://doi.org/10.1101/2020.08.29.20183210](https://doi.org/10.1101/2020.08.29.20183210) (2020).
+
+25.   Aron, J., Giattino, C., Muellbauer, J. & Ritchie, H. A pandemic primer on excess mortality statistics and their comparability across countries. _Our World in Data_[https://ourworldindata.org/covid-excess-mortality](https://ourworldindata.org/covid-excess-mortality) (2020).
+
+26.   Dong, E., Du, H. & Gardner, L. An interactive web-based dashboard to track COVID-19 in real time. _Lancet Infect. Dis_. **20**, 533–534 (2020).
+
+[Article](https://doi.org/10.1016%2FS1473-3099%2820%2930120-1)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXksVaisbs%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=An%20interactive%20web-based%20dashboard%20to%20track%20COVID-19%20in%20real%20time&journal=Lancet%20Infect.%20Dis.&doi=10.1016%2FS1473-3099%2820%2930120-1&volume=20&pages=533-534&publication_year=2020&author=Dong%2CE&author=Du%2CH&author=Gardner%2CL)
+
+27.   De Wulf, M. _Population Pyramids of the World from 1950 to 2100_. [https://www.populationpyramid.net/world/2019/](https://www.populationpyramid.net/world/2019/) (2016).
+
+28.   UN Department of Economic and Social Affairs. _World Population Prospects 2019_. [https://population.un.org/wpp/](https://population.un.org/wpp/) (UN, 2019).
+
+29.   Caul, S. Deaths registered weekly in England and Wales, provisional. [https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales) (UK Office for National Statistics, 2020).
+
+30.   Wu, J. T. et al. Estimating clinical severity of COVID-19 from the transmission dynamics in Wuhan, China. _Nat. Med_. **26**, 506–510 (2020).
+
+[Article](https://doi.org/10.1038%2Fs41591-020-0822-7)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXlt1Chsrs%3D)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Estimating%20clinical%20severity%20of%20COVID-19%20from%20the%20transmission%20dynamics%20in%20Wuhan%2C%20China&journal=Nat.%20Med.&doi=10.1038%2Fs41591-020-0822-7&volume=26&pages=506-510&publication_year=2020&author=Wu%2CJT)
+
+31.   Backer, J. A., Klinkenberg, D. & Wallinga, J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20–28 January 2020. _Euro Surveill_. **25**, 2000062 (2020).
+
+[Article](https://doi.org/10.2807%2F1560-7917.ES.2020.25.5.2000062)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Incubation%20period%20of%202019%20novel%20coronavirus%20%282019-nCoV%29%20infections%20among%20travellers%20from%20Wuhan%2C%20China%2C%2020%E2%80%9328%20January%202020&journal=Euro%20Surveill.&doi=10.2807%2F1560-7917.ES.2020.25.5.2000062&volume=25&publication_year=2020&author=Backer%2CJA&author=Klinkenberg%2CD&author=Wallinga%2CJ)
+
+32.   Lou, B. et al. Serology characteristics of SARS-CoV-2 infection after exposure and post-symptom onset. _Eur. Respir. J_. **56**, 2000763 (2020).
+
+[Article](https://doi.org/10.1183%2F13993003.00763-2020)[CAS](https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3cXitFWiu7zO)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=Serology%20characteristics%20of%20SARS-CoV-2%20infection%20after%20exposure%20and%20post-symptom%20onset&journal=Eur.%20Respir.%20J.&doi=10.1183%2F13993003.00763-2020&volume=56&publication_year=2020&author=Lou%2CB)
+
+33.   Wu, J. T. et al. The infection attack rate and severity of 2009 pandemic H1N1 influenza in Hong Kong. _Clin. Infect. Dis_. **51**, 1184–1191 (2010).
+
+[Article](https://doi.org/10.1086%2F656740)[Google Scholar](http://scholar.google.com/scholar_lookup?&title=The%20infection%20attack%20rate%20and%20severity%20of%202009%20pandemic%20H1N1%20influenza%20in%20Hong%20Kong&journal=Clin.%20Infect.%20Dis.&doi=10.1086%2F656740&volume=51&pages=1184-1191&publication_year=2010&author=Wu%2CJT)
+
+34.   Stan Development Team. RStan: the R interface to Stan. R package version 2 [https://mc-stan.org/users/interfaces/rstan](https://mc-stan.org/users/interfaces/rstan) (2016).
+
+[Download references](https://citation-needed.springer.com/v2/references/10.1038/s41586-020-2918-0?format=refman&flavour=references)
+
+Acknowledgements
+----------------
+
+We acknowledge financial support from the EPSRC Impact Acceleration Grant (number RG90413) (M.O., H.S., G.R.D.S. and L.W.), the European Research Council (grant 804744) (H.S.), the Investissement d’Avenir programme (S.C.), the Laboratoire d’Excellence Integrative Biology of Emerging Infectious Diseases programme (grant ANR-10-LABX-62- IBEID) (S.C.), Santé Publique France (S.C.), the INCEPTION project (PIA/ANR16-CONV-0005) (S.C.) and the European Union’s Horizon 2020 research and innovation programme under grants 101003589 (RECOVER) and 874735 (VEO) (S.C.). We thank the global public health community for the rapid synthesis of SARS-CoV-2-related data.
+
+Author information
+------------------
+
+Author notes
+
+1.   These authors jointly supervised this work: Simon Cauchemez, Henrik Salje
+
+### Authors and Affiliations
+
+1.   Department of Genetics, University of Cambridge, Cambridge, UK
+
+Megan O’Driscoll,Gabriel Ribeiro Dos Santos,Lin Wang&Henrik Salje
+
+2.   Mathematical Modelling of Infectious Diseases Unit, Institut Pasteur, UMR2000, CNRS, Paris, France
+
+Megan O’Driscoll,Gabriel Ribeiro Dos Santos,Lin Wang,Juliette Paireau,Simon Cauchemez&Henrik Salje
+
+3.   Department of Biology and Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA
+
+Derek A. T. Cummings
+
+4.   Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA
+
+Andrew S. Azman
+
+5.   Unit of Population Epidemiology, Division of Primary Care Medicine, Geneva University Hospitals, Geneva, Switzerland
+
+Andrew S. Azman
+
+6.   Emerging Infectious Diseases Unit, Institut Pasteur, Paris, France
+
+Juliette Paireau&Arnaud Fontanet
+
+7.   PACRI Unit, Conservatoire National des Arts et Métiers, Paris, France
+
+Arnaud Fontanet
+
+Authors
+
+1.   Megan O’Driscoll
+2.   Gabriel Ribeiro Dos Santos
+3.   Lin Wang
+4.   Derek A. T. Cummings
+5.   Andrew S. Azman
+6.   Juliette Paireau
+7.   Arnaud Fontanet
+8.   Simon Cauchemez
+9.   Henrik Salje
+
+### Contributions
+
+M.O., H.S. and S.C. conceived the study and performed the analysis. M.O., H.S., S.C., G.R.D.S., L.W. and J.P. collated data. G.R.D.S. and L.W. reviewed code. M.O., H.S. and S.C. wrote the first draft of the manuscript. M.O., H.S., S.C., G.R.D.S., L.W., D.A.T.C., A.S.A., J.P. and A.F. discussed the results and contributed to revisions of the manuscript.
+
+### Corresponding authors
+
+Correspondence to [Megan O’Driscoll](mailto:mo487@cam.ac.uk), [Simon Cauchemez](mailto:simon.cauchemez@pasteur.fr) or [Henrik Salje](mailto:hs743@cam.ac.uk).
+
+Ethics declarations
+-------------------
+
+### Competing interests
+
+The authors declare no competing interests.
+
+Additional information
+----------------------
+
+**Peer review information**_Nature_ thanks Gabriel Leung, Geert Molenberghs and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.
+
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+About this article
+------------------
+
+[![Image 5: Check for updates. Verify currency and authenticity via CrossMark](blob:http://localhost/df43c82f6cb6dcd2a87db38f317bf9f2)](https://crossmark.crossref.org/dialog/?doi=10.1038/s41586-020-2918-0)
+
+### Cite this article
+
+O’Driscoll, M., Ribeiro Dos Santos, G., Wang, L. _et al._ Age-specific mortality and immunity patterns of SARS-CoV-2. _Nature_**590**, 140–145 (2021). https://doi.org/10.1038/s41586-020-2918-0
+
+[Download citation](https://citation-needed.springer.com/v2/references/10.1038/s41586-020-2918-0?format=refman&flavour=citation)
+
+*   Received: 24 August 2020
+
+*   Accepted: 23 October 2020
+
+*   Published: 02 November 2020
+
+*   Version of record: 09 December 2020
+
+*   Issue date: 04 February 2021
+
+*   DOI: https://doi.org/10.1038/s41586-020-2918-0

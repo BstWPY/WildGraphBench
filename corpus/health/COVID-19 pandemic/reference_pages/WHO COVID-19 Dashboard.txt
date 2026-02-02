@@ -1,0 +1,176 @@
+# WHO COVID-19 Dashboard
+
+WHO Health Emergencies Programme
+
+*   Region
+
+*   World Bank Income Group
+
+*   Country, territory or area
+
+COVID-19 Cases, World
+---------------------
+
+WHO will utilize various sources to continue monitoring the COVID-19 epidemiological situation via the WHO COVID-19 dashboard. If data for certain countries is unavailable in this section, it may indicate that they have either ceased reporting COVID-19 surveillance data to WHO or have integrated the COVID-19 surveillance into existing respiratory disease surveillance. In the latter case, SARS-CoV-2 detections from sentinel and systematic virological surveillance sites in those countries may be found in the Circulation section which also includes information on SARS-CoV-2 variant circulation. This global summary of COVID-19 cases includes data on confirmed cases reported to WHO from the comprehensive COVID-19 case monitoring.
+
+*   Last 7 days 
+*   Last 28 days 
+*   Total cumulative 
+
+*   Count 
+*   Rate per 100 000 
+
+Number of COVID-19 cases reported to WHO
+----------------------------------------
+
+World, 28 days to 16 November 2025
+
+**91,356****‎−61,210****decrease on previous 28 days**
+
+**Reported COVID-19 cases**
+
+World, 28 days to 16 November 2025
+
+Number of COVID-19 cases reported to WHO
+----------------------------------------
+
+World, 28 days to 16 November 2025
+
+| Country | Cases |
+| --- | --- |
+| World | 91.4k |  |
+| Brazil | 30.3k |  |
+| Greece | 11.9k |  |
+|  |
+| Suriname | 0 |  |
+| Türkiye | 0 |  |
+| Venezuela (Bolivarian Republic of) | 0 |  |
+
+Most recent data submission date: 9th November 2025
+
+Number of countries reported: 62
+
+ What is the definition of 'confirmed' and 'reported' in COVID-19 data? 
+All data represents the date of reporting as opposed to date of symptom onset. All data is subject to continuous verification and may change based on retrospective updates to accurately reflect trends, changes in country case definitions and/or reporting practices. Significant data errors detected or reported to WHO may be corrected at more frequent intervals with some countries performing retrospective bulk corrections may lead to the appearance of significant spikes or negative values which are verified and validated by WHO.
+
+In the context of WHO's statistical reporting of COVID-19 data, it is important to note that only confirmed cases are included in case and death counts. In guidance updated on 22 July 2023; there are two alternative definitions for 'Confirmed case of SARS-CoV-2 infection' in international surveillance reporting, although some departures may exist due to local adaptations:
+
+a) A person with a positive Nucleic Acid Amplification Test (NAAT), regardless of clinical criteria OR epidemiological criteria.
+
+b) A person meeting clinical criteria AND/OR epidemiological criteria (suspect case A) with a positive professional-use or self-test SARS-CoV-2 Antigen-RDT.
+
+Additionally, WHO only disseminates data as reported by its Member States. From the 31 December 2019 to the 21 March 2020, WHO collected the numbers of confirmed COVID-19 cases and deaths through official communications under the International Health Regulations (IHR, 2005), complemented by monitoring the official ministries of health websites and social media accounts.
+
+Since 22 March 2020, global data has been compiled through WHO region-specific dashboards, and/or aggregate count data reported directly to WHO headquarters by Member States. Statistical counts include both domestic and repatriated cases. Case detection, definitions, testing strategies, reporting practice, and lag times (e.g. time to case notification, and time to reporting of deaths) differ between countries, territories and areas. These factors, amongst others, influence the counts presented with variable under or overestimation of true case and death counts, and variable delays to reflecting these statistics at a global level. Please note that statistics do not necessarily reflect the actual number of cases and deaths or the actual number of countries where cases and deaths are occurring, as a number of countries have stopped reporting or changed their frequency of reporting.
+
+Trends in COVID-19 cases, World
+-------------------------------
+
+### Recent COVID-19 cases reported to WHO (weekly)
+
+World, July 2023 - present
+
+##### Source: World Health Organization
+
+_Data may be incomplete for the latest week._
+
+### Total COVID-19 cases reported to WHO (weekly)
+
+World, January 2020 - present
+
+ Why is COVID-19 data being presented as weekly statistics? 
+A number of countries have stopped reporting or changed their frequency of reporting COVID-19 case and death counts to WHO. An outcome of these differences in reporting is that WHO may receive daily data from some countries, while other countries may only report data to WHO once every 14 days. In addition, countries differ in how they choose to report statistics; some countries provide their data attributed to specific dates while others who report less frequently may group data from 7 days into a single statistic attributed to a week in their reporting.As of 25 August 2023, WHO declared that it is no longer necessary for Member States to report daily counts of cases and deaths to WHO and requested strengthening of weekly reporting.
+
+**Reported data is still available attributed to specific dates (daily data)[here as a download](https://data.who.int/dashboards/covid19/data).**This dashboard presents the same statistics as weekly figures in charts in order to mitigate against the visual misinterpretation of data. Should daily data have been presented here, many countries would show zero counts for multiple consecutive days due in part to the differences in how they choose to report. While weekly intervals do not completely mitigate against this, the approach reduces the risk that some dashboard users might infer zero cases or deaths when lack of data is often due to reporting differences.
+
+**What do negative counts of cases or deaths mean?** All data is subject to continuous verification and may change based on retrospective updates to accurately reflect trends, changes in country case definitions and/or reporting practices. Significant data errors detected or reported to WHO may be corrected by Member States at more frequent intervals with some countries performing retrospective bulk corrections in their reporting. Bulk corrections may lead to the appearance of significant spikes or negative values which are verified and validated by WHO.
+
+Aggregate groups (weekly data to week end date)
+-----------------------------------------------
+
+*   WHO Region 
+*   World Bank income group 
+
+*   Weekly data 
+*   Cumulative data 
+
+Number of weekly COVID-19 cases reported to WHO
+-----------------------------------------------
+
+7 days to 5 January 2020 – 7 days to 16 November 2025
+
+7 days to 28 September 2025
+
+Align axis scales
+
+### Africa
+
+7 days to 28 September 2025
+
+**21**
+
+### Americas
+
+7 days to 16 November 2025
+
+**7,627**
+
+### Eastern Mediterranean
+
+7 days to 5 May 2024
+
+**638**
+
+### Europe
+
+7 days to 16 November 2025
+
+**9,703**
+
+### South-East Asia
+
+7 days to 12 October 2025
+
+**665**
+
+### Western Pacific
+
+7 days to 16 November 2025
+
+**0**
+
+COVID-19 cases, country level trends
+------------------------------------
+
+*   Sort by latest value 
+*   Sort by percent change 
+
+Align axis scales
+
+Metadata
+--------
+
+### Glossary and definitions
+
+| Confirmed COVID-19 case | Although COVID-19 defines the symptomatic disease caused by SARS-CoV-2, the cases are presented in this dashboard meet one of two alternate definitions of confirmed case of SARS-CoV-2 infection in international surveillance reporting: a) A person with a positive Nucleic Acid Amplification Test (NAAT), regardless of clinical criteria* OR epidemiological criteria*. b) A person meeting clinical criteria* AND/OR epidemiological criteria* (suspect case A) with a positive professional-use or self-test SARS-CoV-2 Antigen-RDT. *Please visit the [WHO COVID-19 Case definition](https://www.who.int/publications/i/item/WHO-2019-nCoV-Surveillance_Case_Definition-2022.1) for details on clinical and epidemiological criteria. _Updated 22 July 2023_ |
+| --- |
+| Last 7 days | ‘Last 7 days’ refers to the most recent complete epidemiological week (commonly referred to as an 'epi week'). |
+| Last 28 days | ‘Last 28 days’ refers to the four preceding most recently complete epidemiological weeks. |
+| WHO Regions | The World Health Organization (WHO) is divided into six regions with regional offices, each responsible for addressing health challenges and promoting public health within its designated geographical area. These regions serve as administrative units that allow the WHO to tailor its efforts to the specific needs, priorities, and health conditions of member countries within each region. |
+| World Bank Income Groups | The World Bank classifies economies into income groups based on their Gross National Income (GNI) per capita. These annually updated classifications help the World Bank and other organizations analyze and understand global economic trends, allocate resources, and design development policies. |
+
+### Data sources
+
+| COVID-19 case data | From the 31 December 2019 to the 21 March 2020, WHO collected the numbers of confirmed COVID-19 cases and deaths through official communications under the International Health Regulations (IHR, 2005), complemented by monitoring the official ministries of health websites and social media accounts. Since 22 March 2020, global data is compiled through WHO region-specific dashboards, and/or aggregate count data reported to WHO headquarters. WHO COVID-19 Dashboard is updated every Tuesday for the period of two full weeks prior. Counts primarily reflect laboratory-confirmed cases and deaths, based upon WHO case definitions; although some departures may exist due to local adaptations. Counts include both domestic and repatriated cases. Case detection, definitions, testing strategies, reporting practice, and lag times (e.g. time to case notification, and time to reporting of deaths) differ between countries, territories and areas. These factors, amongst others, influence the counts presented with variable under or overestimation of true case and death counts, and variable delays to reflecting these data at a global level. All data represent date of reporting as opposed to date of symptom onset. All data are subject to continuous verification and may change based on retrospective updates to accurately reflect trends, changes in country case definitions and/or reporting practices. Significant data errors detected or reported to WHO may be corrected at more frequent intervals. **New case and death counts from the Region of the Americas** Starting from the week commencing on 11 September 2023, the source of the data from the Region of the Americas was switched to the aggregated national surveillances, received through the COVID-19, Influenza, RSV and Other Respiratory Viruses program in the Americas. Data have been included retrospectively since 31 July 2023. **Rates** <0.001 per 100,000 population may be rounded to 0. |
+| --- |
+| Population data | Estimated populations and projections are drawn from: * [United Nations, Department of Economic and Social Affairs](https://population.un.org/wpp/Download/Standard/Population/), Population Division. World Population Prospects 2019, Online Edition. Rev. 1 (2020 projections). * [Eurostat. “Demo_pjan”](https://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing?dir=data&sort=1&sort=2&start=d) (population as of 1 January by country, year, age and gender; last updated by Eurostat on 2021-02-12; last year of data: 2020). * National Statistics Office Malta. * The Government of the Pitcairn Islands. * [Statistics Netherlands (CBS)](https://opendata.cbs.nl/statline/#/CBS/en/dataset/83698ENG/table?ts=1605093337813). Estimates of population for Bonaire, Sint Eustatius and Saba. *Total population for France has been adjusted to account for the following overseas territories (French Guiana, Guadeloupe, Martinique, Mayotte, Réunion, Saint Martin). |
+
+### Copyright and licensing
+
+| Copyright | Attribution 4.0 International (CC BY 4.0) |
+| --- |
+| License | The World Health Organization (“WHO”) encourages public access and use of the data that it collects and publishes on its web site data.who.int. The data are organized in datasets and made available in machine-readable format (“Datasets”). The Datasets have been compiled from data provided by WHO’s Member States under the WHO policy on the use and sharing of data collected by WHO in Member States outside the context of public health emergencies. Use of the data derived from the Datasets, which may appear in formats such as tables and charts, is also subject to these Terms and Conditions. Datasets may include data describing the Dataset called “Metadata”. If any datasets are credited to a source other than WHO, then those materials are not covered by these Terms and Conditions, and permission should be sought from the source provided. You are responsible for determining if this is the case, and if so, you are responsible for obtaining any necessary permission from the sources indicated. The risk of claims resulting from infringement of any third-party-owned component in the materials rests solely with you. You may use our application programming interfaces (“APIs”) to facilitate access to the Datasets, whether through a separate web site or through another type of software application. By using the Datasets or any presentations of data derived from them, or by using our APIs in connection with the Datasets, you agree to be bound by these Terms and Conditions, as may be amended from time to time by WHO at its sole discretion. Unless specifically indicated otherwise, these Datasets are provided to you under a Creative Commons Attribution 4.0 International License (CC BY 4.0), with the additional terms below. The basic terms applicable to the CC BY 4.0 license may be accessed here. By downloading or using the Datasets, you agree to comply with the terms of the CC BY 4.0 license, as well as the following mandatory and binding addition: Any dispute relating to the interpretation or application of this license shall, unless amicably settled, be subject to conciliation. In the event of failure of the latter, the dispute shall be settled by arbitration. The arbitration shall be conducted in accordance with the modalities to be agreed upon by the parties or, in the absence of agreement, with the UNCITRAL Arbitration Rules. The parties shall accept the arbitral award as final. |
+| Permission type | Publicly accessible |
+| Prohibited uses | You shall not attempt to de-anonymise the Datasets or use the Datasets in a manner that falsifies or misrepresents their content. You shall not, in connection with your use of the Datasets published on data.who.int, state or imply that WHO endorses, or is affiliated with, you, or that WHO endorses your use of data.who.int, or any content, output, or analysis resulting from or related to the data.who.int, or any entity, organization, company, product or services. |
+| Citation | World Health Organization 2023 data.who.int, WHO Coronavirus (COVID-19) dashboard > More resources [Dashboard]. https://data.who.int/dashboards/covid19/more-resources |
+| Disclaimer | WHO reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Datasets, or any means of accessing or utilizing the Datasets with or without prior notice to you. **Maps** The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not yet be full agreement. All references to Kosovo should be understood to be in the context of the United Nations Security Council resolution 1244 (1999). A dispute exists between the Governments of Argentina and the United Kingdom of Great Britain and Northern Ireland concerning sovereignty over the Falkland Islands (Malvinas). The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters. All reasonable precautions have been taken by WHO to verify the accuracy of the Datasets. However, the Datasets are being provided without warranty of any kind, either expressed or implied. You will be solely responsible for your use of the Datasets. In no event shall WHO be liable for any damages arising from such use. **Regional reclassification for Indonesia:** In accordance with resolution WHA78.25 (2025), Indonesia was reassigned to the WHO Western Pacific Region as of 27 May 2025. Data pertaining to Indonesia are therefore included in the Western Pacific regional aggregates. For full disclaimers, terms of use and your indemnification of WHO, please visit [Terms and Conditions](https://data.who.int/about/data/terms-and-conditions). |

@@ -1,0 +1,76 @@
+# The Return of Zeta
+
+The Wayback Machine - http://maa.org:80/mathland/mathtrek_6_28_99.html
+
+![Image 1](http://maa.org/mathland/ivars.gif)Ivars Peterson's**MathTrek**
+
+June 28, 1999
+
+ The Riemann hypothesis is widely considered the outstanding unsolved problem in mathematics. Generations of mathematicians have been lured into hunting for a proof of this celebrated conundrum. All have so far failed.
+Lately, however, a cautious optimism has taken hold among mathematicians tangling with the problem. New approaches show promise, potentially bringing a proof of the Riemann hypothesis within reach.
+
+One of the most exciting possibilities involves an astonishing, unexpected connection between the distribution of prime numbers and the energy levels of excited atoms. The vehicle is a branch of mathematics known as random matrix theory.
+
+The Riemann hypothesis was first proposed in 1859 by the German mathematician Georg Friedrich Bernhard Riemann (1826-1866). It concerns the so-called zeta function, which encodes a great deal of information about the seemingly haphazard distribution of prime numbers among the integers (see[The Mark of Zeta](http://maa.org/mathland/mathtrek_6_21_99.html), June 21, 1999).
+
+Mathematicians know that the Riemann zeta function (zeta(_s_) = 1 + 1/2 _s_ + 1/3 _s_ + . . . + 1/_n_ _s_ + . . .) is zero when the complex number _s_ is a negative even number. Riemann conjectured that all other solutions of the equation have the form 1/2 + _b_ i. In other words, the so-called zeros of the Riemann zeta function lie along a line in the complex plane at positions specified by the number _b_. Knowing precisely where those zeros lie (the values of _b_) would give accurate estimates of the distribution of primes.
+
+The Riemann hypothesis "is one of the finest examples of the extraction of order from chaos in the whole of mathematics," Philip J. Davis and Reuben Hersh write in _The Mathematical Experience_.
+
+In a sense, if the zeros of the zeta function are like musical notes, then prime numbers are chords, and theorems about these entities are symphonies, says quantum chaologist Michael Berry of the University of Bristol in England. The Riemann hypothesis imposes a pleasing harmony on the zeta-zero notes, he adds.
+
+One of the first inklings of a connection between number theory and quantum mechanics came in 1972. Hugh Montgomery of the University of Michigan had discovered a formula that describes the average spacing between consecutive zeros (values of _b_) of the zeta function. During a visit to the Institute for Advanced Study in Princeton, N.J., he showed his result to quantum physicist Freeman Dyson, when they happened to meet at afternoon tea.
+
+Dyson immediately recognized it as identical to the result obtained for so-called random matrix models, which are used to describe the energy levels of large atoms or heavy nuclei. By an amazing coincidence, Dyson was one of just a handful of physicists in the world who had done such calculations and could appreciate Montgomery's work.
+
+The fundamental equation of quantum mechanics is known as the Schrödinger equation. It describes the behavior of microscopic entities such as atoms, electrons, and nuclei. Solving the equation for a given quantum system means determining its so-called eigenvalues--whole numbers that correspond to energy levels. Such a set of eigenvalues is termed the system's spectrum.
+
+Equivalently, physicists can represent a given quantum system by a matrix--a square array of whole numbers. Solving that matrix gives the system's eigenvalues.
+
+Calculating the eigenvalues of a simple system, such as a lone electron trapped in a rectangular box or an electron orbiting a proton (as in the hydrogen atom), can be done by any beginning student of quantum mechanics. Determining the energy levels of a heavy nucleus or of an atom with many electrons is immensely more difficult.
+
+"One way to understand a complicated object is to study properties of a random thing which matches it in a few salient features," notes mathematician Persi Diaconis of Stanford University.
+
+In the 1970s, theoretical physicists started to use sets of random matrices (with certain, specified properties) as mathematical models of complex quantum systems. In a random matrix, the rows and columns are filled with numbers randomly selected from a normal, or Gaussian, distribution. (Imagine randomly choosing numbered balls from an urn, where certain numbers are represented more often than others.)
+
+By solving a sufficiently large random matrix, physicists can determine a system's "typical" eigenvalues. Combining the results of many such calculations, they can come up with statistical laws about those eigenvalues.
+
+If the random matrices belong to a class of matrices known as the Gaussian Unitary Ensemble (GUE), physicists obtain good estimates of the average spacing between consecutive energy levels of heavy atomic nuclei and other complex quantum systems.
+
+It turns out that the spacings between consecutive zeros of the zeta function also appear to behave statistically like the spacings between consecutive eigenvalues of these large, random matrices. Indeed, this observation also suggests that the infinitely many zeros specified in the Riemann hypothesis are irregularly distributed in a particular way along the line 1/2 +_b_ i.
+
+In recent years, large-scale computations of zeros of the zeta function by Andrew M. Odlyzko of AT&T Labs in Florham Park, N.J., and others have furnished numerical evidence that random matrices, like those used for modeling quantum systems, accurately represent the behavior of the zeta function.
+
+These computational results give mathematicians confidence that random matrix theory could provide an avenue to a proof of the Riemann hypothesis.
+
+There is also new hope for physicists, who generally have a hard time computing the eigenvalues and experimentally measuring the energy levels of complex quantum systems. The Riemann zeta function itself may provide a new way to do such calculations in quantum mechanics.
+
+In particular, the zeros of the zeta function could be interpreted as energy levels in the quantum version of a conventional, or classical, system that behaves chaotically (see [Billiards in the Round](http://maa.org/mathland/mathland_3_3.html), Mar. 3, 1997). Such a simple mathematical model would allow physicists to test ideas about how to bridge the apparently incompatible chaotic and quantum-mechanical descriptions of the microscopic world.
+
+Why the Riemann zeta function so convincingly mimics a quantum system without being one remains a matter of conjecture and mystery. Whatever the reason, physicists and mathematicians have opened a new window on the fascinating interplay of order and chaos--in nature and among integers.
+
+Copyright 1999 by Ivars Peterson
+
+References:
+
+Cipra, B. 1998. A prime case of chaos. In _What's Happening in the Mathematical Sciences_, Vol. 4. Providence, R.I.: American Mathematical Society.
+
+______. 1996. Prime formula weds number theory and quantum physics. _Science_ 274(Dec. 20):2014.
+
+Davis, P.J., and R. Hersch. 1981. _The Mathematical Experience_. New York: Viking Penguin.
+
+Katz, N.M., and P. Sarnak. 1999. Zeroes of zeta functions and symmetry. _Bulletin of the American Mathematical Society_ 36(January):1.
+
+Mackenzie, D. 1998. From solitaire, a clue to the world of prime numbers. _Science_ 282(Nov. 27):1631.
+
+Peterson, I. 1995. Cavities of chaos. _Science News_ 147(April 29):264. (Available at [http://www.sciencenews.org/sn_edpik/ps_1.htm](http://www.sciencenews.org/sn_edpik/ps_1.htm).)
+
+Richards, I. 1978. Number theory. In _Mathematics Today: Twelve Informal Essays_. L.A. Steen, ed. New York: Springer-Verlag.
+
+Peter Sarnak's lecture on random matrix models in number theory and quantum mechanics is available at [http://www.msri.org/publications/video/fall98/mandm.html](http://www.msri.org/publications/video/fall98/mandm.html)
+
+Andrew Odlyzko's Web page at [http://www.research.att.com/~amo/](http://www.research.att.com/~amo/) features computations of the zeros of the zeta function.
+
+* * *
+
+Comments are welcome. Please send messages to Ivars Peterson at [ipeterson@maa.org.](http://20071020141624/mailto:ipeterson@maa.org)

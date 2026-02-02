@@ -1,0 +1,42 @@
+# How Steam key Reselling is Killing the Little Guys
+
+**_The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community.
+
+ The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent company._**
+
+* * *
+
+[IndieGameStand](http://indiegamestand.com/)has had**$30,759.42**in fraudulent credit card charges and transactions.
+--------------------------------------------------------------------------------------------------------------------
+
+That is a lot for a small niche site like ours and almost all of it revolves around Steam key scamming and reselling. This problem isn’t getting any better either when you consider that 86% of the that total has come in the past year. Needless to say I’ve spent a lot of time analyzing the problem and dealing with security.
+
+Steam key reselling is killing indie sites like ours and indie developers as a whole.
+
+#### The problem with these sites like G2A, Fast2Play, Pingwin, etc. is that they have created an ecosystem for hackers, scammers, identity thefts and other internet assholes to steal from indie developers and other small websites.
+
+They’re basically helping people launder money. There are plenty of great articles here already covering the topic of reselling keys.[Here is an excellent article by Paul of Mode7Games](http://www.gamasutra.com/blogs/PaulKilduffTaylor/20150925/254656/The_Key_Masters_Reselling_and_the_Games_Industry.php)about the legality of legitimately buying a key and then reselling it on one of these marketplaces and what indie developers think about it. There’s also the issue of streamers/youtubers asking for keys and reselling new games that they never feature or provide any press or traffic for as detailed in this[article by Polygon](http://www.polygon.com/2015/2/9/8006693/the-truth-behind-those-mysteriously-cheap-gray-market-game-codes).
+
+![Image 1: g2a_growth_chart](http://blog.indiegamestand.com/wordpress/wp-content/uploads/2016/03/g2a_growth_chart.png)
+
+The articles above focus on the bigger issues of reselling keys, I’m not talking about developers bundling their game and then customers reselling those keys (at least they got them somewhat legit). That is still a major problem, but at least the developer has some control over discounting their game and is getting paid (albeit at a lower rate) at some point during the process. We at[IndieGameStand](https://indiegamestand.com/)have certainly noticed some developers’ new hesitation in doing bundles or PWYW sales as a result of this reselling epidemic. It’s the very reason why we redid our backend to support independent minimum prices for DRM-free and Steam keys so that developers have more control over their deals (Nothing wrong with our[Sylvio Deal](https://indiegamestand.com/deal/?saleId=305#details)that had a $5 steam minimum but a $0.25 DRM-free minimum).
+
+### The bigger problem killing the little guys is when scammers use stolen credit cards to purchase games from online retailers to resell Steam keys.
+
+Here’s how the scam works: You get a bunch of stolen credit card numbers and then go to a legit Steam key reseller site and use the stolen info to buy the digital codes. You grab as many codes as you can and then go over to one of these gray market resellers and turn your keys into real money since you bought them with stolen cards. Meanwhile, the website and/or developer that you purchased the key from gets a credit card chargeback or other dispute 30-60 days later.
+
+This has been a huge problem at IndieGameStand this past year. I’ve personally wasted around 6-9 months of development time on security detection rather than building cool new things for our site. I’m sure it’s affected other game marketplaces too since I know larger sites like Humble Bundle build in a refund/chargeback percentage to all their sales payouts and my guess is that this type of scamming has contributed to the closing of smaller sites like ShinyLoot and maybe even Desura. In the case of[IndieGameStand](http://indiegamestand/), I estimate it’s directly cost us well over $12k and that’s just in raw chargeback fees and developer payouts (for refunded/scammed sales) – not counting the hours of ongoing development time that we’ve wasted on this problem.
+
+Why have I wasted so much time on the problem? This scam really pisses me off – mainly because these people aren’t stealing from large rich corporations but taking advantage of smaller companies and indie developers. For indie developers and sites like IndieGameStand, every purchase means a lot. Indie Game Developers struggle to get every one of their games released and are often struggling financially. This is the very reason that IndieGameStand has paid out developers for these invalid purchases and taken the financial hit instead of passing it on to the smaller indie dev teams.**If anyone at Valve is reading this, I would love to have some sort of backend API tool where I could input stolen codes and hurt the hackers’ reps on whatever marketplace they are using to resell keys.**It would be a nice tool for developers to stop the Youtube/Streamer problem too aka[how to get every game on Steam for free](http://www.gamasutra.com/blogs/LeszekLisowski/20141001/226840/How_to_get_every_game_on_STEAM_for_free.php).
+
+It should be noted that whatever you think of PayPal, I have found their security much better than other providers. Amazon has improved with their new system but Stripe is awful and actually charges you an additional $15 for any kind of dispute. It’s a hard balance on a digital marketplace. You want people to be able to play their games quickly after a purchase but lately we have had to be really weary of thieves. It sucks and I’m sorry for any legit customers out there that have been negatively affected by our (or any other site’s) security measures. I would love to share all our security measures with you here but am very hesitant to post it publicly. I don’t want any more of a target on our backs then we've already experienced. If you’re a developer and curious, please feel free to contact me directly. I take it all very seriously.
+
+This post may be a huge mistake and paint a bigger target on our back, but I feel that by not talking about it – the problem just persists. I’m hoping that at the very least gamers realize that turning to the gray market hurts people like us that are working hard to support the game industry and specifically the indie scene.
+
+Other Articles and References:
+
+*   [Key resellers and what they mean for you](https://www.reddit.com/r/Steam/comments/2yhnsw/key_resellers_and_what_they_mean_for_you/)
+*   [Ubisoft kills copies of Far Cry 4 sold through third parties](http://www.destructoid.com/ubisoft-kills-copies-of-far-cry-4-sold-through-third-parties-286686.phtml)
+*   [1,341 Natural Selection 2 keys stolen, costs developer $30K in fees](http://unknownworlds.com/blog/beware-shady-key-resellers-and-discount-steam-keys/)
+*   [30,000 Blackwell Deception keys revoked after giveaway exploit](http://www.steamgifts.com/discussion/luB9P/blackwell-deception)
+*   [Retailer Scam Re-Sells Humble Bundle Games, Reaps Profit Off Charity](http://www.gameinformer.com/b/news/archive/2014/03/28/retailer-scam-resells-humble-bundle-games-reaps-profit.aspx)

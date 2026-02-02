@@ -1,0 +1,186 @@
+# Environmental Performance Index
+
+The 2024 EPI combines 58 indicators across 11 issue categories, ranging from climate change mitigation and air pollution to waste management, sustainability of fisheries and agriculture, deforestation, and biodiversity protection.
+
+| country | rank | Score | 10y ∆ |
+| --- | --- | --- | --- |
+| [Estonia](https://epi.yale.edu/country/2024/EST) | 1 | 75.7 | 17.6 |
+| [Luxembourg](https://epi.yale.edu/country/2024/LUX) | 2 | 75.1 | 4.2 |
+| [Germany](https://epi.yale.edu/country/2024/DEU) | 3 | 74.5 | 4.6 |
+| [Finland](https://epi.yale.edu/country/2024/FIN) | 4 | 73.8 | 8.3 |
+| [United Kingdom](https://epi.yale.edu/country/2024/GBR) | 5 | 72.6 | 2.1 |
+| [Sweden](https://epi.yale.edu/country/2024/SWE) | 6 | 70.3 | 1.6 |
+| [Norway](https://epi.yale.edu/country/2024/NOR) | 7 | 69.9 | 3.7 |
+| [Austria](https://epi.yale.edu/country/2024/AUT) | 8 | 68.9 | -0.3 |
+| [Switzerland](https://epi.yale.edu/country/2024/CHE) | 9 | 67.8 | 2.0 |
+| [Denmark](https://epi.yale.edu/country/2024/DNK) | 10 | 67.7 | 1.8 |
+| [Greece](https://epi.yale.edu/country/2024/GRC) | 11 | 67.3 | 8.4 |
+| [France](https://epi.yale.edu/country/2024/FRA) | 12 | 67.0 | 1.7 |
+| [Malta](https://epi.yale.edu/country/2024/MLT) | 13 | 66.9 | 7.9 |
+| [Netherlands](https://epi.yale.edu/country/2024/NLD) | 13 | 66.9 | 5.0 |
+| [Belgium](https://epi.yale.edu/country/2024/BEL) | 15 | 66.8 | 5.5 |
+| [Ireland](https://epi.yale.edu/country/2024/IRL) | 16 | 65.8 | 2.6 |
+| [Czech Republic](https://epi.yale.edu/country/2024/CZE) | 17 | 65.5 | 0.9 |
+| [Slovakia](https://epi.yale.edu/country/2024/SVK) | 18 | 65.1 | -1.4 |
+| [Iceland](https://epi.yale.edu/country/2024/ISL) | 19 | 64.3 | 3.8 |
+| [Poland](https://epi.yale.edu/country/2024/POL) | 20 | 64.2 | 2.5 |
+| [Lithuania](https://epi.yale.edu/country/2024/LTU) | 21 | 64.1 | 5.7 |
+| [Spain](https://epi.yale.edu/country/2024/ESP) | 22 | 64.0 | 1.5 |
+| [Australia](https://epi.yale.edu/country/2024/AUS) | 23 | 63.1 | 5.4 |
+| [Slovenia](https://epi.yale.edu/country/2024/SVN) | 24 | 62.4 | -1.2 |
+| [Croatia](https://epi.yale.edu/country/2024/HRV) | 25 | 62.3 | 3.0 |
+| [Portugal](https://epi.yale.edu/country/2024/PRT) | 26 | 61.9 | 2.5 |
+| [Japan](https://epi.yale.edu/country/2024/JPN) | 27 | 61.4 | 4.6 |
+| [Canada](https://epi.yale.edu/country/2024/CAN) | 28 | 61.1 | 3.5 |
+| [Italy](https://epi.yale.edu/country/2024/ITA) | 29 | 60.3 | 4.0 |
+| [Latvia](https://epi.yale.edu/country/2024/LVA) | 30 | 60.2 | 2.6 |
+| [Hungary](https://epi.yale.edu/country/2024/HUN) | 31 | 59.8 | -2.3 |
+| [Belarus](https://epi.yale.edu/country/2024/BLR) | 32 | 58.2 | 10.2 |
+| [New Zealand](https://epi.yale.edu/country/2024/NZL) | 33 | 57.3 | 0.7 |
+| [Romania](https://epi.yale.edu/country/2024/ROU) | 33 | 57.3 | -2.6 |
+| [United States of America](https://epi.yale.edu/country/2024/USA) | 35 | 57.2 | 0.3 |
+| [Suriname](https://epi.yale.edu/country/2024/SUR) | 36 | 56.9 | 9.6 |
+| [Bulgaria](https://epi.yale.edu/country/2024/BGR) | 37 | 56.2 | -1.5 |
+| [Bahamas](https://epi.yale.edu/country/2024/BHS) | 38 | 55.9 | 3.1 |
+| [Antigua and Barbuda](https://epi.yale.edu/country/2024/ATG) | 39 | 55.6 | 1.0 |
+| [Costa Rica](https://epi.yale.edu/country/2024/CRI) | 40 | 55.5 | 2.1 |
+| [Ukraine](https://epi.yale.edu/country/2024/UKR) | 41 | 54.6 | 8.3 |
+| [Saint Vincent and the Grenadines](https://epi.yale.edu/country/2024/VCT) | 42 | 54.2 | 2.0 |
+| [Cyprus](https://epi.yale.edu/country/2024/CYP) | 43 | 53.9 | 0.8 |
+| [Gabon](https://epi.yale.edu/country/2024/GAB) | 44 | 53.3 | 5.5 |
+| [Venezuela](https://epi.yale.edu/country/2024/VEN) | 44 | 53.3 | 1.8 |
+| [Barbados](https://epi.yale.edu/country/2024/BRB) | 46 | 53.1 | 3.3 |
+| [Brazil](https://epi.yale.edu/country/2024/BRA) | 47 | 53.0 | 6.6 |
+| [Singapore](https://epi.yale.edu/country/2024/SGP) | 47 | 53.0 | 3.8 |
+| [Panama](https://epi.yale.edu/country/2024/PAN) | 49 | 52.9 | 5.1 |
+| [Cuba](https://epi.yale.edu/country/2024/CUB) | 50 | 52.5 | 2.5 |
+| [Trinidad and Tobago](https://epi.yale.edu/country/2024/TTO) | 50 | 52.5 | 3.0 |
+| [Albania](https://epi.yale.edu/country/2024/ALB) | 52 | 52.2 | 5.5 |
+| [United Arab Emirates](https://epi.yale.edu/country/2024/ARE) | 53 | 51.6 | 9.2 |
+| [Zimbabwe](https://epi.yale.edu/country/2024/ZWE) | 53 | 51.6 | 7.7 |
+| [Ecuador](https://epi.yale.edu/country/2024/ECU) | 55 | 51.3 | 7.4 |
+| [Oman](https://epi.yale.edu/country/2024/OMN) | 55 | 51.3 | 11.0 |
+| [Saint Lucia](https://epi.yale.edu/country/2024/LCA) | 57 | 51.1 | 2.6 |
+| [South Korea](https://epi.yale.edu/country/2024/KOR) | 58 | 50.6 | 5.3 |
+| [North Macedonia](https://epi.yale.edu/country/2024/MKD) | 59 | 50.3 | 2.3 |
+| [Taiwan](https://epi.yale.edu/country/2024/TWN) | 60 | 50.1 | 0.3 |
+| [Timor-Leste](https://epi.yale.edu/country/2024/TLS) | 61 | 49.9 | 13.7 |
+| [Serbia](https://epi.yale.edu/country/2024/SRB) | 62 | 49.8 | -4.8 |
+| [Colombia](https://epi.yale.edu/country/2024/COL) | 63 | 49.7 | 4.5 |
+| [Chile](https://epi.yale.edu/country/2024/CHL) | 64 | 49.6 | 3.9 |
+| [Dominica](https://epi.yale.edu/country/2024/DMA) | 65 | 49.3 | -0.6 |
+| [Botswana](https://epi.yale.edu/country/2024/BWA) | 66 | 49.2 | 1.3 |
+| [Guyana](https://epi.yale.edu/country/2024/GUY) | 67 | 49.0 | 2.0 |
+| [Jamaica](https://epi.yale.edu/country/2024/JAM) | 68 | 48.5 | 1.5 |
+| [Brunei Darussalam](https://epi.yale.edu/country/2024/BRN) | 69 | 48.3 | 0.5 |
+| [Israel](https://epi.yale.edu/country/2024/ISR) | 70 | 48.0 | 0.4 |
+| [Seychelles](https://epi.yale.edu/country/2024/SYC) | 71 | 47.9 | -4.6 |
+| [Kazakhstan](https://epi.yale.edu/country/2024/KAZ) | 72 | 47.8 | 5.5 |
+| [Dominican Republic](https://epi.yale.edu/country/2024/DOM) | 73 | 47.7 | -1.3 |
+| [Montenegro](https://epi.yale.edu/country/2024/MNE) | 73 | 47.7 | 1.3 |
+| [Belize](https://epi.yale.edu/country/2024/BLZ) | 75 | 47.4 | 1.1 |
+| [Nicaragua](https://epi.yale.edu/country/2024/NIC) | 75 | 47.4 | 0.4 |
+| [Georgia](https://epi.yale.edu/country/2024/GEO) | 77 | 47.3 | 6.3 |
+| [Jordan](https://epi.yale.edu/country/2024/JOR) | 77 | 47.3 | 9.0 |
+| [Mauritius](https://epi.yale.edu/country/2024/MUS) | 77 | 47.3 | 4.1 |
+| [Samoa](https://epi.yale.edu/country/2024/WSM) | 80 | 47.1 | 4.7 |
+| [Argentina](https://epi.yale.edu/country/2024/ARG) | 81 | 47.0 | 1.4 |
+| [Qatar](https://epi.yale.edu/country/2024/QAT) | 82 | 46.8 | 6.1 |
+| [Russia](https://epi.yale.edu/country/2024/RUS) | 83 | 46.7 | 0.8 |
+| [Zambia](https://epi.yale.edu/country/2024/ZMB) | 83 | 46.7 | 4.7 |
+| [Peru](https://epi.yale.edu/country/2024/PER) | 85 | 46.5 | 3.8 |
+| [Moldova](https://epi.yale.edu/country/2024/MDA) | 86 | 46.1 | 2.7 |
+| [Bosnia and Herzegovina](https://epi.yale.edu/country/2024/BIH) | 87 | 46.0 | 5.4 |
+| [Fiji](https://epi.yale.edu/country/2024/FJI) | 87 | 46.0 | -2.9 |
+| [Grenada](https://epi.yale.edu/country/2024/GRD) | 89 | 45.8 | 1.7 |
+| [Thailand](https://epi.yale.edu/country/2024/THA) | 90 | 45.7 | 5.2 |
+| [Bolivia](https://epi.yale.edu/country/2024/BOL) | 91 | 45.3 | 4.1 |
+| [Tunisia](https://epi.yale.edu/country/2024/TUN) | 91 | 45.3 | 0.7 |
+| [Vanuatu](https://epi.yale.edu/country/2024/VUT) | 93 | 45.0 | 11.8 |
+| [Armenia](https://epi.yale.edu/country/2024/ARM) | 94 | 44.9 | 1.5 |
+| [Kuwait](https://epi.yale.edu/country/2024/KWT) | 95 | 44.4 | -2.7 |
+| [Kiribati](https://epi.yale.edu/country/2024/KIR) | 96 | 44.3 | -1.1 |
+| [Mexico](https://epi.yale.edu/country/2024/MEX) | 97 | 44.2 | 2.7 |
+| [Uruguay](https://epi.yale.edu/country/2024/URY) | 98 | 44.1 | 3.0 |
+| [Namibia](https://epi.yale.edu/country/2024/NAM) | 99 | 44.0 | 1.5 |
+| [Senegal](https://epi.yale.edu/country/2024/SEN) | 100 | 43.8 | 3.6 |
+| [Egypt](https://epi.yale.edu/country/2024/EGY) | 101 | 43.7 | 4.5 |
+| [Tanzania](https://epi.yale.edu/country/2024/TZA) | 102 | 43.6 | 4.3 |
+| [Bhutan](https://epi.yale.edu/country/2024/BTN) | 103 | 43.3 | 6.8 |
+| [Cote d'Ivoire](https://epi.yale.edu/country/2024/CIV) | 104 | 42.9 | 5.0 |
+| [Kyrgyzstan](https://epi.yale.edu/country/2024/KGZ) | 105 | 42.8 | 13.7 |
+| [South Africa](https://epi.yale.edu/country/2024/ZAF) | 106 | 42.7 | 5.0 |
+| [Uzbekistan](https://epi.yale.edu/country/2024/UZB) | 107 | 42.6 | -0.5 |
+| [Marshall Islands](https://epi.yale.edu/country/2024/MHL) | 108 | 42.5 | 1.8 |
+| [Saudi Arabia](https://epi.yale.edu/country/2024/SAU) | 108 | 42.5 | 8.3 |
+| [Burkina Faso](https://epi.yale.edu/country/2024/BFA) | 110 | 42.2 | -0.1 |
+| [Solomon Islands](https://epi.yale.edu/country/2024/SLB) | 110 | 42.2 | 1.9 |
+| [Guinea-Bissau](https://epi.yale.edu/country/2024/GNB) | 112 | 42.0 | -0.4 |
+| [Iran](https://epi.yale.edu/country/2024/IRN) | 113 | 41.8 | 0.7 |
+| [Algeria](https://epi.yale.edu/country/2024/DZA) | 114 | 41.7 | 2.6 |
+| [Equatorial Guinea](https://epi.yale.edu/country/2024/GNQ) | 114 | 41.7 | -3.4 |
+| [El Salvador](https://epi.yale.edu/country/2024/SLV) | 116 | 41.6 | -5.0 |
+| [Republic of Congo](https://epi.yale.edu/country/2024/COG) | 116 | 41.6 | 1.3 |
+| [Malaysia](https://epi.yale.edu/country/2024/MYS) | 118 | 41.0 | 7.0 |
+| [Micronesia](https://epi.yale.edu/country/2024/FSM) | 119 | 40.8 | -0.5 |
+| [Turkmenistan](https://epi.yale.edu/country/2024/TKM) | 120 | 40.6 | 4.9 |
+| [Azerbaijan](https://epi.yale.edu/country/2024/AZE) | 121 | 40.5 | 0.7 |
+| [Tonga](https://epi.yale.edu/country/2024/TON) | 122 | 40.4 | -6.9 |
+| [Honduras](https://epi.yale.edu/country/2024/HND) | 123 | 40.2 | 2.7 |
+| [Angola](https://epi.yale.edu/country/2024/AGO) | 124 | 40.1 | 7.7 |
+| [Niger](https://epi.yale.edu/country/2024/NER) | 125 | 40.0 | 6.9 |
+| [Lebanon](https://epi.yale.edu/country/2024/LBN) | 126 | 39.9 | 6.4 |
+| [Sierra Leone](https://epi.yale.edu/country/2024/SLE) | 126 | 39.9 | 4.0 |
+| [Dem. Rep. Congo](https://epi.yale.edu/country/2024/COD) | 128 | 39.5 | 6.0 |
+| [Morocco](https://epi.yale.edu/country/2024/MAR) | 128 | 39.5 | 2.9 |
+| [Paraguay](https://epi.yale.edu/country/2024/PRY) | 128 | 39.5 | 0.8 |
+| [Sudan](https://epi.yale.edu/country/2024/SDN) | 131 | 39.1 | 3.4 |
+| [Central African Republic](https://epi.yale.edu/country/2024/CAF) | 132 | 39.0 | -5.8 |
+| [Mozambique](https://epi.yale.edu/country/2024/MOZ) | 132 | 39.0 | 3.8 |
+| [Sri Lanka](https://epi.yale.edu/country/2024/LKA) | 134 | 38.8 | 1.0 |
+| [Eswatini](https://epi.yale.edu/country/2024/SWZ) | 135 | 38.7 | -1.7 |
+| [Cameroon](https://epi.yale.edu/country/2024/CMR) | 136 | 38.6 | 0.6 |
+| [Comoros](https://epi.yale.edu/country/2024/COM) | 137 | 38.2 | -6.4 |
+| [Maldives](https://epi.yale.edu/country/2024/MDV) | 138 | 38.1 | 4.9 |
+| [Cabo Verde](https://epi.yale.edu/country/2024/CPV) | 139 | 38.0 | -1.0 |
+| [Nigeria](https://epi.yale.edu/country/2024/NGA) | 140 | 37.9 | 2.5 |
+| [Benin](https://epi.yale.edu/country/2024/BEN) | 141 | 37.8 | -0.7 |
+| [Gambia](https://epi.yale.edu/country/2024/GMB) | 142 | 37.6 | 0.2 |
+| [Mongolia](https://epi.yale.edu/country/2024/MNG) | 143 | 37.2 | 5.7 |
+| [Turkiye](https://epi.yale.edu/country/2024/TUR) | 143 | 37.2 | 2.5 |
+| [Ghana](https://epi.yale.edu/country/2024/GHA) | 145 | 36.9 | 1.7 |
+| [Kenya](https://epi.yale.edu/country/2024/KEN) | 145 | 36.9 | 2.1 |
+| [Lesotho](https://epi.yale.edu/country/2024/LSO) | 145 | 36.9 | 1.4 |
+| [Papua New Guinea](https://epi.yale.edu/country/2024/PNG) | 145 | 36.9 | -6.9 |
+| [Guinea](https://epi.yale.edu/country/2024/GIN) | 149 | 36.5 | -3.2 |
+| [Haiti](https://epi.yale.edu/country/2024/HTI) | 150 | 36.4 | 7.5 |
+| [Ethiopia](https://epi.yale.edu/country/2024/ETH) | 151 | 36.3 | 4.0 |
+| [Sao Tome and Principe](https://epi.yale.edu/country/2024/STP) | 152 | 36.2 | 0.2 |
+| [Chad](https://epi.yale.edu/country/2024/TCD) | 153 | 35.9 | 1.2 |
+| [Uganda](https://epi.yale.edu/country/2024/UGA) | 154 | 35.8 | 4.9 |
+| [Togo](https://epi.yale.edu/country/2024/TGO) | 155 | 35.7 | -1.8 |
+| [China](https://epi.yale.edu/country/2024/CHN) | 156 | 35.4 | 7.4 |
+| [Bahrain](https://epi.yale.edu/country/2024/BHR) | 157 | 35.3 | -1.2 |
+| [Malawi](https://epi.yale.edu/country/2024/MWI) | 158 | 35.1 | -6.3 |
+| [Mauritania](https://epi.yale.edu/country/2024/MRT) | 159 | 34.6 | -3.6 |
+| [Mali](https://epi.yale.edu/country/2024/MLI) | 160 | 34.5 | -3.4 |
+| [Liberia](https://epi.yale.edu/country/2024/LBR) | 161 | 34.3 | 1.3 |
+| [Rwanda](https://epi.yale.edu/country/2024/RWA) | 162 | 33.9 | -0.7 |
+| [Indonesia](https://epi.yale.edu/country/2024/IDN) | 163 | 33.6 | 5.9 |
+| [Burundi](https://epi.yale.edu/country/2024/BDI) | 164 | 33.5 | 0.2 |
+| [Nepal](https://epi.yale.edu/country/2024/NPL) | 165 | 33.1 | 0.7 |
+| [Guatemala](https://epi.yale.edu/country/2024/GTM) | 166 | 32.5 | -3.6 |
+| [Djibouti](https://epi.yale.edu/country/2024/DJI) | 167 | 32.3 | -0.1 |
+| [Tajikistan](https://epi.yale.edu/country/2024/TJK) | 167 | 32.3 | -4.9 |
+| [Philippines](https://epi.yale.edu/country/2024/PHL) | 169 | 32.1 | -0.9 |
+| [Cambodia](https://epi.yale.edu/country/2024/KHM) | 170 | 31.2 | 0.4 |
+| [Afghanistan](https://epi.yale.edu/country/2024/AFG) | 171 | 31.0 | 13.7 |
+| [Iraq](https://epi.yale.edu/country/2024/IRQ) | 172 | 30.3 | 5.1 |
+| [Madagascar](https://epi.yale.edu/country/2024/MDG) | 173 | 30.1 | 0.2 |
+| [Eritrea](https://epi.yale.edu/country/2024/ERI) | 174 | 29.0 | -2.0 |
+| [Bangladesh](https://epi.yale.edu/country/2024/BGD) | 175 | 28.1 | 2.4 |
+| [India](https://epi.yale.edu/country/2024/IND) | 176 | 27.6 | 4.7 |
+| [Myanmar](https://epi.yale.edu/country/2024/MMR) | 177 | 27.1 | -2.7 |
+| [Laos](https://epi.yale.edu/country/2024/LAO) | 178 | 26.3 | 1.1 |
+| [Pakistan](https://epi.yale.edu/country/2024/PAK) | 179 | 25.5 | -4.0 |
+| [Viet Nam](https://epi.yale.edu/country/2024/VNM) | 180 | 24.6 | -4.7 |

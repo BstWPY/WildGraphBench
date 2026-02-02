@@ -1,0 +1,7 @@
+# Privacy-Preserving Contact Tracing
+
+Across the world, governments and health authorities are working together to find solutions to the COVID‑19 pandemic, to protect people and get society back up and running. Software developers are contributing by crafting technical tools to help combat the virus and save lives. In this spirit of collaboration, Google and Apple are announcing a joint effort to enable the use of Bluetooth technology to help governments and health agencies reduce the spread of the virus, with user privacy and security central to the design.
+
+As part of this partnership Google and Apple are releasing draft documentation for an Exposure Notification system in service of privacy-preserving contact tracing:
+
+All of us at Apple and Google believe there has never been a more important moment to work together to solve one of the world’s most pressing problems. Through close cooperation and collaboration with developers, governments, and public health providers, we hope to harness the power of technology to help countries around the world slow the spread of COVID‑19 and accelerate the return of everyday life.

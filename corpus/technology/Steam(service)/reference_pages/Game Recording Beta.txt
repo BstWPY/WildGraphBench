@@ -1,0 +1,185 @@
+# Game Recording Beta
+
+[![Image 1: Link to the Steam Homepage](https://store.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016)](https://store.steampowered.com/?snr=1_614_615_gamerecording_global-header)
+
+![Image 2: A 1024x46 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images/39049601/778175ce8f9f6963f5526091e7a5328afc50b1cd.jpg)
+
+![Image 3: A 177x52 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/9c605e4748f8a1b66a0df2f4293c7eff21f811b4.png)
+
+Game Recording
+
+A new built-in system for creating and sharing your gameplay footage
+
+![Image 4: A 48x48 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/514da4de40d0fa341b7cc0ba5fd1fcea0babf8ca.png) Record
+
+![Image 5: A 48x48 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/a95347431add2d75591f34a83916d7e79052c60c.png) Replay
+
+![Image 6: A 48x48 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/675b35bc86b3e2b3b5ad655983551ce6e241a0c9.png) Clip
+
+![Image 7: A 48x48 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/74162892bbcb557674498379161f022c7f4411fe.png) Share
+
+Clips or it didn't happen
+
+From capturing highlights to documenting entire campaigns, there are many ways to use this all-new set of features.
+
+Now it’s easy to find, keep,
+
+and share moments
+
+Introducing an array of lightweight yet powerful tools
+
+Timeline and Event Markers
+
+The Steam Timeline appears whenever you’re actively recording. Timeline-enhanced games generate event markers as relevant game events happen. Steam achievements and screenshots automatically create markers as well.
+
+![Image 8: A screenshot of a timeline that shows a point at eight seconds where Hoodwink, level 11, killed Juggernaut and gained 437 gold](https://clan.fastly.steamstatic.com/images//39049601/54e8971874797e97eb6f3fd2aa53bb0a49d86f42.png)
+
+![Image 9: A blue map pin icon on a black background](https://clan.fastly.steamstatic.com/images//39049601/648eecc65cf4f8a69665761d99ccb85860e1372a.png)
+
+Player-Added Markers
+
+Drop markers as reference points at moments you may want to watch later. Event Markers allow you to quickly grab a clip or add notes to Background Recordings.
+
+![Image 10: A logo shows a white jaguar head and a blue bar over a black square](https://clan.fastly.steamstatic.com/images//39049601/d7ec8b8a2f4c4eac82e11e13f7382c02119f75ad.png)
+
+Game-Added Markers
+
+In addition to being able to record any game you’re playing, timeline-enhanced games are games that can proactively notify Steam when relevant events happen. These events are represented along the timeline with details specified by developers.
+
+![Image 11: Menu, Lobby and Playing buttons, presented on a black background](https://clan.fastly.steamstatic.com/images/39049601/870c2fa8e62a81bd43834d56321b3930e31ed536.png)
+
+Game Mode Indicators
+
+Games can control the appearance of the timeline to indicate the current state of the game - each game can use the display options to best suit its needs.
+
+![Image 12: You killed Tusk, level 5 for 347 Gold overlay in the game Dota 2](https://clan.fastly.steamstatic.com/images//39049601/92aeda3b2defc0832f28d4aabae1e89013304f73.png)
+
+Highlight Viewer
+
+Use the playback controls to quickly navigate your timeline - the “Jump to Next Event” button can also act as a personal highlight viewer.
+
+New Recordings & Screenshots Manager
+
+All your game captures in one place
+
+Timeline-enhanced games can provide additional context to your play sessions by adding game-specific tags and attributes to your recordings.
+
+![Image 13: The Dota 2 screen displays search results for the hero Axe, showing matches from the previous day and week with corresponding stats and thumbnails](https://clan.fastly.steamstatic.com/images//39049601/83829df21fc47f05c8a192c342181f58645faafc.png)
+
+![Image 14: A 1280x12 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/6c249baf056d2321a0b1be508345ae03ec19587e.png)
+
+Saving and Sharing Clips
+
+Send videos anywhere— during or after playing
+
+![Image 15: The screenshot shows a media transfer screen with a pop-up to create a share link or code for a video clip named I am Fish. The pop-up includes a QR code for users to scan with their phone's camera to open the clip in their web browser](https://clan.fastly.steamstatic.com/images/39049601/70bd9d0c29dc01133814a7396bf753a71168725d.png)
+
+Send to Device
+
+Get it where you want it - whether that’s from your PC to your phone, Deck to PC, or sending to a friend.
+
+Easily Export MP4s
+
+Steam stores all Clips in an optimized Steam timeline format for snappier, smoother replays. At any time you can export your recordings to MP4 format with a number of convenient ways to adjust specifications to accommodate various sharing contexts.
+
+![Image 16: A 1280x12 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/6c249baf056d2321a0b1be508345ae03ec19587e.png)
+
+Select your Recording Mode
+
+Whatever your recording needs, Steam has you covered
+
+Along with a traditional push-button start and stop method, we developed a mode to combat the most common issue players report when capturing gameplay footage... forgetting to press record.
+
+![Image 17: A menu with options to control Steam gameplay recording: Recording Off, Record in Background, and Record Manually are listed](https://clan.fastly.steamstatic.com/images/39049601/5f630823528ad44cb35c4c60ade71ca26f9cce00.png)
+
+Background Recording Settings by Game
+
+Players can set recording duration and quality levels for individual titles, including ‘Do not record’ and Infinite recording options.
+
+![Image 18: Two settings configurations are shown, one for Counter-Strike 2 with a length of 60 minutes and high quality, resulting in a disk space of 5.4 GB, and another for All Other Games with a length of 120 minutes and high quality, resulting in a disk space of 10.8 GB](https://clan.fastly.steamstatic.com/images/39049601/dd310c7b948603ea2e85789539fe233211f3e54b.png)
+
+Quick Capture Hotkeys
+
+Make your recent gameplay a sharable clip the moment it happens with a keystroke. 
+
+Available in Background Recording mode.
+
+![Image 19: A 1280x12 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/6c249baf056d2321a0b1be508345ae03ec19587e.png)
+
+Steam Deck Verified
+
+Game Recording is fully functional on Steam Deck
+
+![Image 20: Valve's Steam Deck handheld console shows a video game being edited within its Clip application](https://clan.fastly.steamstatic.com/images//39049601/e1fd42a9004004ac28477ed9d4ae9977cab555cc.png)
+
+And a few other things
+
+![Image 21: A 48x48 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/34e6ad5696c6a1fa1df5861f0d829371813389c6.png)
+
+Works w/ Any Game
+
+This includes non-Steam titles. As long as the game allows the Steam Overlay to run, the gameplay can be recorded.
+
+![Image 22: A 48x48 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/19a14ee8c9ca8e5dc75851b88b3cd127a0afa219.png)
+
+Privacy
+
+Record your games, not your desktop.
+
+Select which audio channels are included. Footage is captured directly to your hard drive and you choose what to share.
+
+![Image 23: A 48x48 small image, likely a logo, icon or avatar](https://clan.fastly.steamstatic.com/images//39049601/354db5d9f8b4c0819613b76ebb649f4f2ed9a858.png)
+
+Engineered for Performance
+
+Minimizes CPU usage of video encoding by using the dedicated video encoding hardware of your AMD or nVidia GPUs.
+
+For Game Developers
+
+SDK and API now available
+
+![Image 24: A Dota 2 clip with a hero kill, text indicating it was Ember Spirit and the player getting 437 gold for it and level 19 Windranger](https://clan.fastly.steamstatic.com/images//39049601/fa676bc9812b4a2dbc0b9372eef0238dbe8d3ad4.png)
+
+A
+
+Events
+
+Indicate when something notable happens 
+
+_(i.e. a boss battle, unlocking a new item, scoring a goal, etc)_
+
+B
+
+State Description
+
+Indicates current game status 
+
+_(i.e. level, quest, score, location, character, etc)_
+
+C
+
+Game Modes
+
+Controls timeline bar appearance
+
+_(i.e. Menu, Lobby, Playing, etc)_
+
+Questions & Answers
+
+What will Steam record?
+
+When enabled by the user, Steam Game Recording will capture your gameplay footage of games played through the Steam Client. It will not capture video of your desktop or other programs. You can choose to include the audio from other programs, such as voice chat programs. When recording and sharing, be respectful of others and abide by the [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/?snr=1_614_615_gamerecording_1601) and the [Steam Online Conduct Rules.](https://store.steampowered.com/online_conduct/?snr=1_614_615_gamerecording_1601)
+
+Will this affect my perf or gameplay?
+
+Steam Game Recording has been designed with the goal of taking as little computer resources away from the game you are playing as possible. It takes advantage of NVIDIA and AMD graphics cards to remove most of the performance cost of creating video recordings. When run on systems without those graphics cards, the systems CPU is used to create video recordings which may cause a noticeable performance impact on those systems.
+
+Where are my recordings?
+
+Game recordings (and their timeline) are shown in the in-game Overlay and in your Recordings & Screenshots viewer. From the Steam Desktop Client select View > Recordings & Screenshots. From your Steam Deck, select the Media tab from the main menu. You'll find the same content and capabilities in both places.
+
+You can choose where your recordings are stored on your hard drive from Steam > Settings > Game Recording. Steam is capturing both the video and the timeline in a raw format, if you'd like a video format (mp4) of your gameplay then you'll need to create a clip and export it.
+
+How do I know if a game supports Steam Timeline?
+
+Game Recording works for any game that supports the Steam Overlay - it may not work for some older games. Games may choose to support event markers on the Steam Timeline.

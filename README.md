@@ -195,18 +195,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-## ⭐ Star History
-
-<a href="https://star-history.com/#BstWPY/WildGraphBench&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=BstWPY/WildGraphBench&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=BstWPY/WildGraphBench&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=BstWPY/WildGraphBench&type=Date" />
- </picture>
-</a>
-
----
-
 <div align="center">
 
 **⭐ Star us on GitHub if you find this benchmark useful! ⭐**

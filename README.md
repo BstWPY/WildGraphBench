@@ -100,25 +100,17 @@ We evaluate representative flat-RAG and GraphRAG baselines on WildGraphBench. Al
 
 ```
 WildGraphBench/
-├── corpus/                     # Raw corpus data
-│   ├── culture/
-│   │   └── Marvel Cinematic Universe/
-│   │       ├── Marvel Cinematic Universe.txt   # Wikipedia article
-│   │       ├── reference_pages/                # External reference pages
-│   │       └── references.jsonl                # Reference metadata
-│   ├── geography/
-│   ├── health/
-│   └── ...
-├── extracted_data/             # Extracted triples
+├── corpus/                     # Corpus for graph construction
 │   └── {domain}/{topic}/
-│       ├── valid_triples.jsonl
-│       └── invalid_triples.jsonl
-├── statements/                 # Gold statements
-│   └── {domain}/{topic}/
-│       └── statements.jsonl
-├── QA/                         # Questions
+│       ├── {topic}.txt              # Wikipedia article (for reference only)
+│       ├── reference_pages/         # 📌 Use these for graph construction!
+│       └── references.jsonl         # Reference metadata
+├── QA/                         # Questions for evaluation
 │   └── {domain}/
 │       └── questions.jsonl
+├── statements/                 # Gold statements (for Summary tasks)
+│   └── {domain}/{topic}/
+│       └── statements.jsonl
 └── LICENSE
 ```
 
@@ -126,43 +118,76 @@ WildGraphBench/
 
 ## 🚀 Quick Start
 
-### Load Questions
+WildGraphBench evaluates GraphRAG systems in two steps:
+
+| Step | What to do | Data to use |
+|:-----|:-----------|:------------|
+| **1. Build Graph** | Construct your knowledge graph | `corpus/{domain}/{topic}/reference_pages/` |
+| **2. Answer Questions** | Run your GraphRAG to answer | `QA/{domain}/questions.jsonl` |
+
+### Step 1: Load Corpus for Graph Construction
+
+> ⚠️ **Important**: Build your graph from **reference pages**, not the Wikipedia article!
+
+```python
+from pathlib import Path
+
+# Choose a domain and topic
+domain = "people"
+topic = "Donald Trump"
+
+# Load all reference documents
+ref_dir = Path(f"corpus/{domain}/{topic}/reference_pages")
+documents = [f.read_text() for f in ref_dir.glob("*.txt")]
+
+print(f"Loaded {len(documents)} reference documents")
+```
+
+```python
+# Now build your graph with your own GraphRAG system
+# Example: your_graph = YourGraphRAG.build(documents)
+```
+
+### Step 2: Load Questions & Evaluate
 
 ```python
 import json
 
-# Load questions for a specific domain
+# Load questions for this domain
 domain = "people"
-with open(f"QA/{domain}/questions.jsonl", "r") as f:
+with open(f"QA/{domain}/questions.jsonl") as f:
     questions = [json.loads(line) for line in f]
 
-for q in questions[:3]:
-    print(f"Question: {q['question']}")
-    print(f"Type: {q['type']}")
-    print("---")
+print(f"Loaded {len(questions)} questions")
 ```
-
-### Load Corpus
 
 ```python
-import os
-from pathlib import Path
-
-# Load corpus for a specific topic
-domain = "people"
-topic = "Donald Trump"
-corpus_path = Path(f"corpus/{domain}/{topic}")
-
-# Read Wikipedia article
-with open(corpus_path / f"{topic}.txt", "r") as f:
-    wiki_article = f.read()
-
-# Read reference pages
-ref_pages_dir = corpus_path / "reference_pages"
-for ref_file in ref_pages_dir.iterdir():
-    with open(ref_file, "r") as f:
-        ref_content = f.read()
+# Answer each question with your GraphRAG
+for q in questions:
+    question = q["question"]
+    q_type = q["type"]  # "single-fact", "multi-fact", or "summary"
+    answer = q["answer"]
+    
+    # your_answer = your_graph.query(question)
+    # evaluate(your_answer, answer)
 ```
+
+### Available Domains
+
+| Domain | Topic | # References | # Questions |
+|:-------|:------|:------------:|:-----------:|
+| culture | Marvel Cinematic Universe | 452 | 155 |
+| geography | United States | 470 | 98 |
+| health | COVID-19 pandemic | 510 | 150 |
+| history | World War II | 74 | 36 |
+| human_activities | 2022 FIFA World Cup | 367 | 140 |
+| mathematics | Prime number | 50 | 33 |
+| nature | 2012 Pacific typhoon season | 72 | 28 |
+| people | Donald Trump | 547 | 154 |
+| philosophy | Authoritarian socialism | 257 | 70 |
+| religion | Persecution of Muslims | 346 | 106 |
+| society | Human | 319 | 114 |
+| technology | Steam (service) | 442 | 113 |
 
 ---
 

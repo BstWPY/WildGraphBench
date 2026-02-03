@@ -29,7 +29,7 @@ load_dotenv()
 # Supports OpenAI-compatible APIs (OpenAI, Anthropic, Azure, etc.)
 APY_KEY = os.environ.get("EVAL_API_KEY", os.environ.get("OPENAI_API_KEY", "YOUR_API_KEY_HERE"))
 BASE_URL = os.environ.get("EVAL_BASE_URL", os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1"))
-MODEL = os.environ.get("EVAL_MODEL", "gpt-4o-mini")
+MODEL = os.environ.get("EVAL_MODEL", "gpt-5-mini")
 
 # -----------------------
 # Async Claude API helpers

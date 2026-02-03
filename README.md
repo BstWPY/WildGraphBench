@@ -170,7 +170,7 @@ python tools/eval.py --gold QA/{domain}/questions.jsonl --pred your_predictions.
 |:---------|:------------|:--------|
 | `EVAL_API_KEY` | API key for LLM judge | - |
 | `EVAL_BASE_URL` | API endpoint (OpenAI-compatible) | `https://api.openai.com/v1` |
-| `EVAL_MODEL` | Model for evaluation | `gpt-4o-mini` |
+| `EVAL_MODEL` | Model for evaluation | `gpt-5-mini` |
 
 ---
 

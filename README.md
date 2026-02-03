@@ -146,11 +146,31 @@ WildGraphBench evaluates GraphRAG systems in **two steps**:
 
 ### Question Format
 
-Each line in `questions.jsonl` contains:
-
+**Single-Fact / Multi-Fact:**
 ```json
-{"question": "...", "answer": "...", "type": "single-fact | multi-fact | summary"}
+{"question": "...", "question_type": ["single-fact"], "answer": "...", "ref_urls": ["..."]}
 ```
+
+**Summary:**
+```json
+{"question": "...", "question_type": ["summary"], "gold_statements": ["...", "..."], "ref_urls": ["..."]}
+```
+
+### Evaluation
+
+Use `tools/eval.py` to evaluate your predictions:
+
+```bash
+python tools/eval.py --gold QA/{domain}/questions.jsonl --pred your_predictions.jsonl --outdir results/
+```
+
+**Configuration** (set in `.env` or environment variables):
+
+| Variable | Description | Default |
+|:---------|:------------|:--------|
+| `EVAL_API_KEY` | API key for LLM judge | - |
+| `EVAL_BASE_URL` | API endpoint (OpenAI-compatible) | `https://api.openai.com/v1` |
+| `EVAL_MODEL` | Model for evaluation | `gpt-4o-mini` |
 
 ---
 

@@ -4,11 +4,11 @@
 """
 extract_triples.py
 
-阶段一：抽取 (sentence, statement, refs) triple
+Phase 1: Extract (sentence, statement, refs) triples
 
-输出两个 JSONL：
-  - --out-valid:  每行一个 leaf section 的有效 triple 列表
-  - --out-invalid: 每行一个 leaf section 的无效 triple 列表
+Outputs two JSONL files:
+  - --out-valid:  each line contains a list of valid triples for a leaf section
+  - --out-invalid: each line contains a list of invalid triples for a leaf section
 """
 
 import os
@@ -34,20 +34,19 @@ OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o")
 _JSON_CHAT_CACHE: Dict[Tuple[str, str, int, float], dict] = {}
 def strip_wikipedia_title_header(md: str) -> str:
     """
-    去掉形如:
+    Remove headers like:
       Marvel Cinematic Universe - Wikipedia
       ===============
-    这种顶部 header，让真正的文章从
+    So the real article starts from
       Marvel Cinematic Universe
       ===============
-    开始。
     """
     if not md:
         return md
 
     lines = md.splitlines()
 
-    # 去掉前面的空行 / BOM
+    # Remove leading empty lines / BOM
     while lines and not lines[0].strip():
         lines.pop(0)
 
@@ -57,18 +56,18 @@ def strip_wikipedia_title_header(md: str) -> str:
     first = lines[0].strip()
     second = lines[1].strip()
 
-    # 情形1：Setext 格式
+    # Case 1: Setext format
     # Marvel Cinematic Universe - Wikipedia
     # ===============
     if first.endswith(" - Wikipedia") and second and all(ch == "=" for ch in second):
-        # 删除这两行
+        # Remove these two lines
         lines = lines[2:]
-        # 再把后面紧跟的空行去掉
+        # Also remove following empty lines
         while lines and not lines[0].strip():
             lines.pop(0)
         return "\n".join(lines)
 
-    # 情形2：ATX 格式（万一 Jina 有这种）
+    # Case 2: ATX format (in case Jina uses this)
     # # Marvel Cinematic Universe - Wikipedia
     if first.startswith("#") and first.rstrip().endswith(" - Wikipedia"):
         lines = lines[1:]
@@ -80,19 +79,19 @@ def strip_wikipedia_title_header(md: str) -> str:
 
 def _should_skip_section(text: str) -> bool:
     """
-    判断是否应该跳过该 section
+    Determine if this section should be skipped
     
-    跳过条件:
-    1. 在导航类标题列表中 (See also, References 等)
-    2. 格式为 "XXX - Wikipedia" 的标题
+    Skip conditions:
+    1. In navigation section title list (See also, References, etc.)
+    2. Title format is "XXX - Wikipedia"
     """
     norm_text = _norm_heading_title(text)
     
-    # 检查是否在跳过列表中
+    # Check if in skip list
     if norm_text in SKIP_SECTION_TITLES:
         return True
     
-    # 检查是否以 " - wikipedia" 结尾（统一转小写）
+    # Check if ends with " - wikipedia" (case insensitive)
     if text.lower().endswith(" - wikipedia"):
         return True
     
@@ -100,7 +99,8 @@ def _should_skip_section(text: str) -> bool:
 
 def _json_chat(model: str, prompt: str, max_tokens: int = 50000, temperature: float = 0.1) -> dict:
     """
-    直接复用你 QA 脚本里的实现，只是去掉 client 形参。
+    Call LLM and return JSON response.
+    Reuses the implementation from QA script without the client parameter.
     """
     import requests
     global _JSON_CHAT_CACHE
@@ -108,7 +108,7 @@ def _json_chat(model: str, prompt: str, max_tokens: int = 50000, temperature: fl
     full_prompt = f"You are a careful data-wrangler. Return ONLY valid JSON.\n\n{prompt}"
     cache_key = (model, full_prompt, int(max_tokens), float(temperature))
     if cache_key in _JSON_CHAT_CACHE:
-        print(f"[缓存命中] 复用已有 LLM 响应 (model={model})")
+        print(f"[Cache Hit] Reusing existing LLM response (model={model})")
         return _JSON_CHAT_CACHE[cache_key]
 
     url = OPENAI_BASE_URL.rstrip("/") + "/chat/completions"
@@ -131,14 +131,14 @@ def _json_chat(model: str, prompt: str, max_tokens: int = 50000, temperature: fl
     }
 
     try:
-        print(f"[调用 LLM] 模型: {model}")
+        print(f"[LLM Call] Model: {model}"))
         resp = requests.post(
             url, headers=headers, json=payload,
             timeout=1800,
             proxies={"http": None, "https": None}
         )
         if resp.status_code != 200:
-            print(f"[LLM 错误] HTTP {resp.status_code}: {resp.text[:500]}")
+            print(f"[LLM Error] HTTP {resp.status_code}: {resp.text[:500]}")
             _JSON_CHAT_CACHE[cache_key] = {}
             return {}
         data = resp.json()
@@ -160,11 +160,11 @@ def _json_chat(model: str, prompt: str, max_tokens: int = 50000, temperature: fl
             content_text = data["data"][0].get("text") or ""
 
         if not content_text:
-            print(f"[响应格式错误] 无法解析: {json.dumps(data)[:300]}")
+            print(f"[Response Format Error] Unable to parse: {json.dumps(data)[:300]}")
             _JSON_CHAT_CACHE[cache_key] = {}
             return {}
 
-        # 去掉 ```json 代码块
+        # Remove ```json code blocks
         content_text = re.sub(
             r'^```(?:json)?\s*|\s*```$',
             '',
@@ -180,29 +180,29 @@ def _json_chat(model: str, prompt: str, max_tokens: int = 50000, temperature: fl
                 _JSON_CHAT_CACHE[cache_key] = {}
             return result
         except json.JSONDecodeError as e:
-            print(f"[JSON 解析失败] {e}")
-            print(f"[原始内容] {content_text[:400]}")
+            print(f"[JSON Parse Failed] {e}")
+            print(f"[Raw Content] {content_text[:400]}")
             _JSON_CHAT_CACHE[cache_key] = {}
             return {}
     except Exception as e:
-        print(f"[LLM 调用异常] {type(e).__name__}: {e}")
+        print(f"[LLM Call Exception] {type(e).__name__}: {e}")
         _JSON_CHAT_CACHE[cache_key] = {}
         return {}
 
-# ====================== 引用相关工具 ======================
+# ====================== Citation Tools ======================
 
 # # [[12]](https://...#cite_note-:2-1)
 # WIKI_CITE_PATTERN = re.compile(r'\[\[(\d+)\]\]\(https://[^\)]*?#cite_note-([^)]+)\)')
-# 新的更通用的模式：[[N]] 或 [[N]](任意url)
+# More general pattern: [[N]] or [[N]](any_url)
 CITE_PATTERN = re.compile(r'\[\[(\d+)\]\](?:\(([^)]*)\))?')
 
 def _extract_all_citations(text: str) -> List[Tuple[str, str]]:
     """
-    返回 (display_num, cite_note_id) 列表，cite_note_id 可能为 "".
-    支持：
+    Returns list of (display_num, cite_note_id), cite_note_id may be "".
+    Supports:
       - [[N]]
       - [[N]](https://...#cite_note-xxx)
-      - [[N]](https://...  任意其它形式)
+      - [[N]](https://...  any other format)
     """
     if not text:
         return []
@@ -213,14 +213,14 @@ def _extract_all_citations(text: str) -> List[Tuple[str, str]]:
         url_part = m.group(2) or ""
 
         cite_note_id = ""
-        # 尝试从 url 中提取 '#cite_note-xxx'
+        # Try to extract '#cite_note-xxx' from url
         m_id = re.search(r'#cite_note-([^&)\s]+)', url_part)
         if m_id:
             cite_note_id = m_id.group(1)
 
         pairs.append((display_num, cite_note_id))
 
-    # 去重
+    # Deduplicate
     seen = set()
     out: List[Tuple[str, str]] = []
     for p in pairs:
@@ -231,8 +231,8 @@ def _extract_all_citations(text: str) -> List[Tuple[str, str]]:
 
 class ReferenceResolver:
     """
-    直接从你原脚本 copy：负责把 [[N]]#cite_note-XX 映射到 reference_pages 下的 md 文件 / URL
-    这里略掉注释，只保留关键逻辑。
+    Copied directly from original script: responsible for mapping [[N]]#cite_note-XX to md files / URLs under reference_pages
+    Comments omitted, only key logic retained.
     """
 
     def __init__(self, topic_dir: Path):
@@ -256,13 +256,13 @@ class ReferenceResolver:
 
     def _load_references(self):
         if not self.ref_jsonl_path.exists():
-            print(f"[警告] 未找到 references.jsonl: {self.ref_jsonl_path}")
+            print(f"[Warning] references.jsonl not found: {self.ref_jsonl_path}")
             return
         self.url_to_title = {}
         self.title_to_file = {}
         self.url_meta = {}
 
-        # 从 references.jsonl 读 url + title
+        # Read url + title from references.jsonl
         with self.ref_jsonl_path.open("r", encoding="utf-8") as f:
             for line in f:
                 try:
@@ -281,7 +281,7 @@ class ReferenceResolver:
                 except Exception:
                     continue
 
-        # 扫描 reference_pages 下的 md 文件
+        # Scan md files under reference_pages
         actual_files: Dict[str, Path] = {}
         actual_files_original: Dict[str, str] = {}
         if self.ref_pages_dir.exists():
@@ -290,7 +290,7 @@ class ReferenceResolver:
                 actual_files[norm] = md_file
                 actual_files_original[norm] = md_file.stem
 
-        # 第一轮：精确匹配
+        # Round 1: Exact match
         matched_count = 0
         matched_normalized_files = set()
         unmatched_titles_info: List[Tuple[str, str, str]] = []
@@ -305,11 +305,11 @@ class ReferenceResolver:
                 matched_normalized_files.add(norm_title)
             else:
                 unmatched_titles_info.append((url, title, norm_title))
-        print(f"  [参考解析器] 精确匹配: {matched_count}/{len(self.url_to_title)} 个 URL")
+        print(f"  [ReferenceResolver] Exact match: {matched_count}/{len(self.url_to_title)} URLs")
 
-        # 4) 第二轮：前缀模糊匹配（处理截断/前缀完全相同）
+        # 4) Round 2: Prefix fuzzy match (handle truncation/identical prefixes)
         if unmatched_titles_info:
-            print(f"  [参考解析器] 尝试对 {len(unmatched_titles_info)} 个未匹配标题进行前缀模糊匹配...")
+            print(f"  [ReferenceResolver] Attempting prefix fuzzy match for {len(unmatched_titles_info)} unmatched titles..."))
             fuzzy_matched = 0
             still_unmatched: List[Tuple[str, str, str]] = []
 
@@ -331,13 +331,13 @@ class ReferenceResolver:
                     title_prefix = norm_title[:prefix_len]
                     file_prefix = file_norm[:prefix_len]
 
-                    # 前缀完全一样
+                    # Prefix exactly the same
                     if title_prefix == file_prefix:
                         matched = True
-                    # 文件名是标题的完整前缀（标题更长）
+                    # Filename is complete prefix of title (title is longer)
                     elif norm_title.startswith(file_norm) and len(file_norm) >= 50:
                         matched = True
-                    # 标题是文件名的完整前缀（文件更长）
+                    # Title is complete prefix of filename (filename is longer)
                     elif file_norm.startswith(norm_title) and len(norm_title) >= 50:
                         matched = True
 
@@ -347,7 +347,7 @@ class ReferenceResolver:
                         matched_normalized_files.add(file_norm)
                         fuzzy_matched += 1
                         unmatched_files.pop(file_norm, None)
-                        print(f"    [模糊1/2] '{title[:60]}...' → '{file_orig[:60]}...'")
+                        print(f"    [Fuzzy1/2] '{title[:60]}...' → '{file_orig[:60]}...'"))
                         break
 
                 if not matched:
@@ -355,11 +355,11 @@ class ReferenceResolver:
 
             matched_count += fuzzy_matched
             unmatched_titles_info = still_unmatched
-            print(f"  [参考解析器] 前缀模糊匹配: {fuzzy_matched} 个额外匹配")
+            print(f"  [ReferenceResolver] Prefix fuzzy match: {fuzzy_matched} additional matches"))
 
-        # 5) 第三轮：相似度匹配（真正 fuzzy，用 difflib）
+        # 5) Round 3: Similarity match (true fuzzy, using difflib)
         if unmatched_titles_info:
-            print(f"  [参考解析器] 尝试对剩余 {len(unmatched_titles_info)} 个标题进行相似度匹配...")
+            print(f"  [ReferenceResolver] Attempting similarity match for remaining {len(unmatched_titles_info)} titles..."))
             sim_matched = 0
             still_unmatched2: List[Tuple[str, str, str]] = []
 
@@ -379,7 +379,7 @@ class ReferenceResolver:
                         best_score = score
                         best_norm = file_norm
 
-                # 阈值可以根据实际数据调，这里先用 0.90
+                # Threshold can be adjusted based on actual data, using 0.90 here first
                 if best_norm is not None and best_score >= 0.70:
                     file_path, file_orig = unmatched_files.pop(best_norm)
                     self.title_to_file[title] = file_path
@@ -387,16 +387,16 @@ class ReferenceResolver:
                     matched_normalized_files.add(best_norm)
                     sim_matched += 1
                     matched_count += 1
-                    print(f"    [模糊3] 相似度 {best_score:.3f}: '{title[:60]}...' → '{file_orig[:60]}...'")
+                    print(f"    [Fuzzy3] Similarity {best_score:.3f}: '{title[:60]}...' → '{file_orig[:60]}...'"))
                 else:
                     still_unmatched2.append((url, title, norm_title))
 
             unmatched_titles_info = still_unmatched2
-            print(f"  [参考解析器] 相似度匹配: {sim_matched} 个额外匹配")
+            print(f"  [ReferenceResolver] Similarity match: {sim_matched} additional matches")
 
-        print(f"  [参考解析器] 总共匹配: {matched_count}/{len(self.url_to_title)} 个 URL")
+        print(f"  [ReferenceResolver] Total matched: {matched_count}/{len(self.url_to_title)} URLs")
 
-        # 6) 找出未匹配的 MD 文件
+        # 6) Find unmatched MD files
         unmatched_md_files = []
         for norm_file, orig_file in actual_files_original.items():
             if norm_file not in matched_normalized_files:
@@ -406,28 +406,28 @@ class ReferenceResolver:
                     "file_path": actual_files[norm_file],
                 })
 
-        # 7) 打印未匹配的标题
+        # 7) Print unmatched titles
         if unmatched_titles_info:
-            print(f"  [警告] {len(unmatched_titles_info)} 个标题仍未匹配:")
+            print(f"  [Warning] {len(unmatched_titles_info)} titles still unmatched:")
             for url, title, norm_title in unmatched_titles_info[:5]:
                 print(f"    - '{title[:80]}...'")
-                print(f"      标准化后: '{norm_title[:80]}...'")
+                print(f"      Normalized: '{norm_title[:80]}...'")
             if len(unmatched_titles_info) > 5:
-                print(f"    ... 以及另外 {len(unmatched_titles_info) - 5} 个")
+                print(f"    ... and another {len(unmatched_titles_info) - 5}")
 
-        # 8) 打印 & 保存未匹配的 MD 文件
+        # 8) Print & save unmatched MD files
         if unmatched_md_files:
-            print(f"\n  [警告] {len(unmatched_md_files)} 个 MD 文件存在但未被任何标题匹配:")
+            print(f"\n  [Warning] {len(unmatched_md_files)} MD files exist but not matched by any title:")
             for i, info in enumerate(unmatched_md_files[:10], 1):
-                print(f"    {i}. 文件: '{info['original_name'][:80]}...'")
-                print(f"       标准化后: '{info['normalized_name'][:80]}...'")
+                print(f"    {i}. File: '{info['original_name'][:80]}...'")
+                print(f"       Normalized: '{info['normalized_name'][:80]}...'")
 
             if len(unmatched_md_files) > 10:
-                print(f"    ... 以及另外 {len(unmatched_md_files) - 10} 个")
+                print(f"    ... and another {len(unmatched_md_files) - 10}")
 
-        print(f"[参考解析器] 总匹配 URL: {matched_count}/{len(self.url_to_title)}")
+        print(f"[ReferenceResolver] Total URLs matched: {matched_count}/{len(self.url_to_title)}")
 
-    # ---- 下面这些解析函数也直接照搬你原来的 ----
+    # ---- The parsing functions below are directly adapted from the original implementation ----
     def _extract_reference_section(self, wiki_text: str) -> str:
         patterns = [r'##\s*References\s*\n(.*)', r'References\s*\n-{3,}\n(.*)']
         for pattern in patterns:
@@ -502,49 +502,49 @@ class ReferenceResolver:
 
 def _require_all_refs_md(resolver: ReferenceResolver, wiki_text: str, sentence: str) -> Tuple[bool, List[str], List[str]]:
     """
-    检查一个 sentence 中出现的脚注能否全部解析到 reference md。
+    Check if all footnotes in a sentence can be resolved to reference md files.
     
-    新增：对于精确匹配失败的引用，尝试模糊匹配（前缀匹配 + 相似度匹配）
+    Enhancement: For citations that fail exact matching, attempt fuzzy matching (prefix match + similarity match)
 
-    返回:
-      all_ok: 是否全部命中
-      missing_keys: 无法命中的键列表
-      ref_urls: 成功解析到的去重 URL 列表
+    Returns:
+      all_ok: Whether all citations are resolved
+      missing_keys: List of unresolved citation keys
+      ref_urls: Deduplicated list of successfully resolved URLs
     """
     citations = set(_extract_all_citations(sentence))
     missing = []
     ref_urls = set()
-    unmatched_citations = []  # 存储精确匹配失败的引用
+    unmatched_citations = []  # Store citations that failed exact matching
     
-    # 第一轮：精确匹配
+    # Round 1: Exact matching
     for dn, nid in sorted(citations, key=lambda x: (int(x[0]), x[1])):
         info = resolver.resolve_cite_note(wiki_text, dn, nid)
         if not info or not info.get("matched_refs"):
-            # 精确匹配失败，暂存
+            # Exact match failed, store for later
             unmatched_citations.append((dn, nid, info))
         else:
-            # 成功，收集 URL
+            # Success, collect URL
             for rr in info["matched_refs"]:
                 ref_urls.add(rr["url"])
     
-    # 第二轮：对未匹配的引用进行模糊匹配
+    # Round 2: Fuzzy matching for unmatched citations
     if unmatched_citations:
-        print(f"  [模糊匹配] 尝试对 {len(unmatched_citations)} 个未匹配的引用进行模糊匹配...")
+        print(f"  [Fuzzy Match] Attempting fuzzy matching for {len(unmatched_citations)} unmatched citations...")
         
-        # 收集所有未匹配的 MD 文件
+        # Collect all matched MD files
         matched_files = set()
         for meta in resolver.url_meta.values():
             if meta.get("file"):
                 matched_files.add(resolver._normalize_for_matching(meta["file"].stem))
         
-        # 扫描所有 MD 文件
+        # Scan all MD files
         all_md_files = {}
         if resolver.ref_pages_dir.exists():
             for md_file in resolver.ref_pages_dir.glob("*.md"):
                 norm = resolver._normalize_for_matching(md_file.stem)
                 all_md_files[norm] = md_file
         
-        # 找出未被匹配的文件
+        # Find unmatched files
         unmatched_files = {
             norm: path 
             for norm, path in all_md_files.items() 
@@ -557,19 +557,19 @@ def _require_all_refs_md(resolver: ReferenceResolver, wiki_text: str, sentence: 
                 missing.append(key)
                 continue
             
-            # 从 info 中获取 URL（虽然没匹配到 MD，但可能有 URL）
+            # Get URL from info (may have URL even if MD not matched)
             urls = info.get("urls", [])
             if not urls:
                 key = f"[[{dn}]]#{nid}" if nid else f"[[{dn}]]"
                 missing.append(key)
                 continue
             
-            # 尝试为每个 URL 找到对应的 MD 文件
+            # Try to find corresponding MD file for each URL
             matched = False
             for url in urls:
                 clean_url = url.split("#")[0]
                 
-                # 尝试从 url_meta 中获取标题
+                # Try to get title from url_meta
                 meta = resolver.url_meta.get(clean_url)
                 if not meta:
                     continue
@@ -580,7 +580,7 @@ def _require_all_refs_md(resolver: ReferenceResolver, wiki_text: str, sentence: 
                 
                 norm_title = resolver._normalize_for_matching(title)
                 
-                # 2.1 前缀模糊匹配
+                # 2.1 Prefix fuzzy matching
                 for file_norm, file_path in list(unmatched_files.items()):
                     min_len = min(len(norm_title), len(file_norm))
                     if min_len < 20:
@@ -591,35 +591,35 @@ def _require_all_refs_md(resolver: ReferenceResolver, wiki_text: str, sentence: 
                     file_prefix = file_norm[:prefix_len]
                     
                     prefix_matched = False
-                    # 前缀完全一致
+                    # Exact prefix match
                     if title_prefix == file_prefix:
                         prefix_matched = True
-                    # 文件名是标题的完整前缀
+                    # File name is complete prefix of title
                     elif norm_title.startswith(file_norm) and len(file_norm) >= 50:
                         prefix_matched = True
-                    # 标题是文件名的完整前缀
+                    # Title is complete prefix of file name
                     elif file_norm.startswith(norm_title) and len(norm_title) >= 50:
                         prefix_matched = True
                     
                     if prefix_matched:
-                        print(f"    [前缀匹配] [[{dn}]] '{title[:60]}...' → '{file_path.stem[:60]}...'")
-                        # 更新到 resolver 的映射表
+                        print(f"    [Prefix Match] [[{dn}]] '{title[:60]}...' → '{file_path.stem[:60]}...'")
+                        # Update resolver mapping table
                         resolver.title_to_file[title] = file_path
                         resolver.url_meta[clean_url]["file"] = file_path
                         matched_files.add(file_norm)
                         
-                        # 收集 URL
+                        # Collect URL
                         ref_urls.add(clean_url)
                         matched = True
                         
-                        # 从未匹配列表中移除
+                        # Remove from unmatched list
                         unmatched_files.pop(file_norm, None)
                         break
                 
                 if matched:
                     break
                 
-                # 2.2 相似度模糊匹配
+                # 2.2 Similarity fuzzy matching
                 if not matched:
                     best_norm = None
                     best_score = 0.0
@@ -632,36 +632,36 @@ def _require_all_refs_md(resolver: ReferenceResolver, wiki_text: str, sentence: 
                             best_norm = file_norm
                             best_path = file_path
                     
-                    # 阈值设为 0.70
+                    # Threshold set to 0.70
                     if best_norm is not None and best_score >= 0.70:
-                        print(f"    [相似度匹配 {best_score:.3f}] [[{dn}]] '{title[:60]}...' → '{best_path.stem[:60]}...'")
-                        # 更新到 resolver 的映射表
+                        print(f"    [Similarity Match {best_score:.3f}] [[{dn}]] '{title[:60]}...' → '{best_path.stem[:60]}...'")
+                        # Update resolver mapping table
                         resolver.title_to_file[title] = best_path
                         resolver.url_meta[clean_url]["file"] = best_path
                         matched_files.add(best_norm)
                         
-                        # 收集 URL
+                        # Collect URL
                         ref_urls.add(clean_url)
                         matched = True
                         
-                        # 从未匹配列表中移除
+                        # Remove from unmatched list
                         unmatched_files.pop(best_norm, None)
                         break
             
-            # 如果仍未匹配，加入 missing 列表
+            # If still unmatched, add to missing list
             if not matched:
                 key = f"[[{dn}]]#{nid}" if nid else f"[[{dn}]]"
                 missing.append(key)
     
     return len(missing) == 0, missing, sorted(ref_urls)
 
-# ====================== markdown 解析：叶子 section ======================
+# ====================== Markdown Parsing: Leaf Sections ======================
 
 class LeafSection:
     def __init__(self, path: List[str], body: str):
         self.path = path          # ["Title", "Section", "Subsection", ...]
-        self.body = body          # 原文（含 cite）
-# 放在 parse_leaf_sections 之前
+        self.body = body          # Original text (including citations)
+# Place before parse_leaf_sections
 SKIP_SECTION_TITLES = {
     s.lower()
     for s in [
@@ -676,21 +676,21 @@ SKIP_SECTION_TITLES = {
 }
 
 def _norm_heading_title(s: str) -> str:
-    # 统一大小写、去掉两端空白、多余空格
+    # Normalize case, strip leading/trailing whitespace, reduce multiple spaces
     return re.sub(r"\s+", " ", (s or "")).strip().lower()
 
 # def parse_leaf_sections(wiki_text: str, wiki_title: str) -> List[LeafSection]:
 #     """
-#     解析 markdown，找出所有叶子 section：
+#     Parse markdown to find all leaf sections:
 
-#     - "# title" 视作 level 1
-#     - setext "Section\n-------" 视作 level 2
-#     - "### ..." level = 个数 - 1 (你可以按自己习惯调)
+#     - "# title" is treated as level 1
+#     - setext "Section\n-------" is treated as level 2
+#     - "### ..." level = hash count - 1 (adjustable)
 #     """
 #     lines = wiki_text.splitlines()
 #     n = len(lines)
 
-#     # 收集所有 heading
+#     # Collect all headings
 #     headings = []  # (idx, level, text, is_setext)
 #     i = 0
 #     while i < n:
@@ -718,13 +718,13 @@ def _norm_heading_title(s: str) -> str:
 #     if not headings:
 #         return []
 
-#     # 确定 title（level 1）
-#     # 若第一行就是 "# title" 就用它；否则用 wiki_title
+#     # Determine title (level 1)
+#     # Use "# title" if it's the first line; otherwise use wiki_title
 #     title = wiki_title
 #     if headings[0][1] == 1:
 #         title = headings[0][2]
 
-#     # 根据 heading 划分 body 区间
+#     # Divide body sections based on headings
 #     sections = []  # (start_idx, end_idx, level, text, is_setext)
 #     for idx, (h_i, level, text, is_setext) in enumerate(headings):
 #         body_start = h_i + (2 if is_setext else 1)
@@ -735,17 +735,17 @@ def _norm_heading_title(s: str) -> str:
 #             body_end = n
 #         sections.append((h_i, body_start, body_end, level, text, is_setext))
 
-#     # 用一个栈维护 heading 层级，算出 path
+#     # Use a stack to maintain heading levels and compute path
 #     leaf_sections: List[LeafSection] = []
 #     stack: List[Tuple[int, str]] = []  # (level, text)
 
 #     for (h_i, body_start, body_end, level, text, is_setext) in sections:
-#         # 更新栈：弹出 >= 当前 level 的 heading
+#         # Update stack: pop headings >= current level
 #         while stack and stack[-1][0] >= level:
 #             stack.pop()
 #         stack.append((level, text))
 
-#         # 判断是否 leaf：在 (h_i, body_end) 区间内是否有更深 level 的 heading
+#         # Check if leaf: whether there are deeper level headings in (h_i, body_end) range
 #         has_child = False
 #         for (other_h_i, other_level, _, _) in headings:
 #             if other_h_i <= h_i:
@@ -757,11 +757,11 @@ def _norm_heading_title(s: str) -> str:
 #                 break
 #         if has_child:
 #             continue
-#         # ★ 新增：过滤掉“See also / References / Cited sources / External links”之类的 leaf
+#         # NEW: Filter out "See also / References / Cited sources / External links" type leaf sections
 #         if _norm_heading_title(text) in SKIP_SECTION_TITLES:
-#             print(f"[Section 解析] 跳过尾部导航类 section: {text!r}")
+#             print(f"[Section Parsing] Skipping navigation section: {text!r}")
 #             continue
-#         # 组 path：以 title 为 root，后接 stack 文本（去掉 level1 里的 title 重复）
+#         # Build path: use title as root, followed by stack text (remove duplicate title from level1)
 #         path = [title]
 #         for lv, tx in stack:
 #             if lv == 1:
@@ -773,47 +773,47 @@ def _norm_heading_title(s: str) -> str:
 #         if body:
 #             leaf_sections.append(LeafSection(path=path, body=body))
 
-#     print(f"[Section 解析] 发现 leaf sections: {len(leaf_sections)}")
+#     print(f"[Section Parsing] Found leaf sections: {len(leaf_sections)}")
 #     return leaf_sections
 def parse_leaf_sections(wiki_text: str, wiki_title: str) -> List[LeafSection]:
     """
-    解析 markdown，找出所有叶子 section
+    Parse markdown to find all leaf sections
     
-    新格式规则:
-    - Title\n===== 视为 level 1
-    - Section\n----- 视为 level 2
-    - ### xxx 视为 level 3
-    - #### xxx 视为 level 4
+    Format rules:
+    - Title\n===== is treated as level 1
+    - Section\n----- is treated as level 2
+    - ### xxx is treated as level 3
+    - #### xxx is treated as level 4
     
-    叶子 section 判断:
-    - 如果一个 section 后面没有更深层级的 subsection，则为叶子
-    - wiki_title 到第一个 section 之间的内容也算一个叶子 section
+    Leaf section criteria:
+    - A section is a leaf if it has no deeper-level subsections after it
+    - Content between wiki_title and the first section is also considered a leaf section
     """
     lines = wiki_text.splitlines()
     n = len(lines)
 
-    # 收集所有 heading: (行号, level, 标题文本, is_setext)
+    # Collect all headings: (line_number, level, title_text, is_setext)
     headings = []
     i = 0
     
     while i < n:
         line = lines[i]
         
-        # ===== 风格 (Title, level 1)
+        # ===== style (Title, level 1)
         if i + 1 < n and re.match(r'^[^\s].*$', line) and re.match(r'^\s*={3,}\s*$', lines[i+1]):
             text = line.strip()
             headings.append((i, 1, text, True))
             i += 2
             continue
         
-        # ----- 风格 (Section, level 2)
+        # ----- style (Section, level 2)
         if i + 1 < n and re.match(r'^[^\s].*$', line) and re.match(r'^\s*-{3,}\s*$', lines[i+1]):
             text = line.strip()
             headings.append((i, 2, text, True))
             i += 2
             continue
         
-        # ATX 风格: ### xxx (level = #的个数)
+        # ATX style: ### xxx (level = number of #)
         m = re.match(r'^(#+)\s*(.+?)\s*$', line)
         if m:
             level = len(m.group(1))
@@ -827,49 +827,49 @@ def parse_leaf_sections(wiki_text: str, wiki_title: str) -> List[LeafSection]:
     if not headings:
         return []
 
-    # ★ 新增：处理 wiki_title 到第一个 section 的内容作为首个叶子 section
+    # NEW: Process content from wiki_title to first section as first leaf section
     sections = []
     
-    # 如果第一个 heading 是 title (level 1)
+    # If first heading is title (level 1)
     if headings and headings[0][1] == 1:
         title = headings[0][2]
         title_line_idx = headings[0][0]
         
-        # ★ 检查 title 是否需要跳过
+        # Check if title should be skipped
         if _should_skip_section(title):
-            print(f"[Section 解析] 跳过 title section: {title!r}")
-            # 从第二个 heading 开始处理
+            print(f"[Section Parsing] Skipping title section: {title!r}")
+            # Start processing from second heading
             start_idx = 1
         else:
-            # title 内容：从 title 下一行到第一个 section (或文件末尾)
+            # Title content: from line after title to first section (or end of file)
             if len(headings) > 1:
-                body_start = title_line_idx + 2  # 跳过 title 和 ===== 行
-                body_end = headings[1][0]  # 第二个 heading 开始
+                body_start = title_line_idx + 2  # Skip title and ===== line
+                body_end = headings[1][0]  # Start of second heading
             else:
                 body_start = title_line_idx + 2
                 body_end = n
             
-            # 收集 title section
+            # Collect title section
             sections.append((title_line_idx, body_start, body_end, 1, title, True))
             
-            # 从第二个 heading 开始处理
+            # Start processing from second heading
             start_idx = 1
     else:
-        # 如果没有 title，用传入的 wiki_title
+        # If no title, use the passed wiki_title
         title = wiki_title
         start_idx = 0
 
-    # 处理剩余的 sections
+    # Process remaining sections
     for idx in range(start_idx, len(headings)):
         h_i, level, text, is_setext = headings[idx]
         
-        # 计算 body 范围
+        # Calculate body range
         if is_setext:
-            body_start = h_i + 2  # 跳过标题行和下划线
+            body_start = h_i + 2  # Skip title line and underline
         else:
-            body_start = h_i + 1  # 跳过 ### 行
+            body_start = h_i + 1  # Skip ### line
         
-        # body_end: 到下一个 heading 或文件末尾
+        # body_end: to next heading or end of file
         if idx + 1 < len(headings):
             body_end = headings[idx + 1][0]
         else:
@@ -877,17 +877,17 @@ def parse_leaf_sections(wiki_text: str, wiki_title: str) -> List[LeafSection]:
         
         sections.append((h_i, body_start, body_end, level, text, is_setext))
 
-    # ★ 判断叶子 section + 构建路径
+    # Determine leaf sections + build path
     leaf_sections: List[LeafSection] = []
     stack: List[Tuple[int, str]] = []  # (level, text)
     
     for (h_i, body_start, body_end, level, text, is_setext) in sections:
-        # 更新栈：弹出 >= 当前 level 的 heading
+        # Update stack: pop headings >= current level
         while stack and stack[-1][0] >= level:
             stack.pop()
         stack.append((level, text))
         
-        # ★ 判断是否为叶子：body 范围内是否有更深层级的 heading
+        # Check if leaf: whether there are deeper level headings in body range
         has_child = False
         for (other_h_i, other_level, _, _) in headings:
             if other_h_i <= h_i:
@@ -899,31 +899,31 @@ def parse_leaf_sections(wiki_text: str, wiki_title: str) -> List[LeafSection]:
                 break
         
         if has_child:
-            continue  # 不是叶子，跳过
+            continue  # Not a leaf, skip
         
-        # ★ 过滤掉导航类 section 和 "XXX - Wikipedia" 格式的 section
+        # Filter out navigation sections and "XXX - Wikipedia" format sections
         if _should_skip_section(text):
-            print(f"[Section 解析] 跳过 section: {text!r}")
+            print(f"[Section Parsing] Skipping section: {text!r}")
             continue
         
-        # ★ 构建路径：[title, section1, subsection1, ...]
+        # Build path: [title, section1, subsection1, ...]
         path = [title]
         for lv, tx in stack:
-            if lv == 1:  # 跳过 level 1 (title 已经加入)
+            if lv == 1:  # Skip level 1 (title already added)
                 continue
             path.append(tx)
         
-        # 提取 body 内容
+        # Extract body content
         body_lines = lines[body_start:body_end]
         body = "\n".join(body_lines).strip()
         
         if body:
             leaf_sections.append(LeafSection(path=path, body=body))
     
-    print(f"[Section 解析] 发现 {len(leaf_sections)} 个叶子 sections")
+    print(f"[Section Parsing] Found {len(leaf_sections)} leaf sections")
     return leaf_sections
 
-# ====================== LLM：在 leaf section 中抽 sentence + statement ======================
+# ====================== LLM: Extract sentence + statement from leaf section ======================
 
 def llm_extract_triples_from_leaf(
     model: str,
@@ -1014,9 +1014,9 @@ Remember: VERIFY that you captured ALL cited sentences before returning your ans
         sent = str(t.get("sentence", "")).strip()
         if not sent:
             continue
-        # # 轻微校验：sentence 必须出现在 body 中
+        # # Soft validation: sentence must appear in body
         # if sent not in section_body:
-        #     print(f"  [警告] sentence 不在 body 中，丢弃: {sent[:60]}...")
+        #     print(f"  [Warning] sentence not in body, discarding: {sent[:60]}...")
         #     continue
         stmt = t.get("statement", None)
         if isinstance(stmt, str):
@@ -1032,7 +1032,7 @@ Remember: VERIFY that you captured ALL cited sentences before returning your ans
         })
     return out
 
-# ====================== 主流程：按 topic 抽取 triple ======================
+# ====================== Main Process: Extract triples by topic ======================
 
 def process_topic(
     raw_root: Path,
@@ -1046,27 +1046,27 @@ def process_topic(
         default=None
     )
     if not wiki_md:
-        print(f"[跳过] {topic_dir.name}: 未找到 Wiki Markdown 文件")
+        print(f"[Skip] {topic_dir.name}: Wiki Markdown file not found")
         return
 
     wiki_text = wiki_md.read_text(encoding="utf-8", errors="ignore")
-    wiki_text = strip_wikipedia_title_header(wiki_text)  # ★ 在这里清洗掉 “*- Wikipedia” 顶部块
+    wiki_text = strip_wikipedia_title_header(wiki_text)  # Clean up “*- Wikipedia” header block
     wiki_title = wiki_md.stem.replace("_", " ")
-    # 统计整篇里的 [[N]] 数量
+    # Count [[N]] occurrences in the entire article
     total_cites = len(re.findall(r"\[\[(\d+)\]\]", wiki_text))
-    print(f"[DEBUG] 整篇文章脚注标记数量: {total_cites}")
+    print(f"[DEBUG] Total citation markers in article: {total_cites}")
 
     resolver = ReferenceResolver(topic_dir)
     leaf_sections = parse_leaf_sections(wiki_text, wiki_title)
 
-    # 统计所有 leaf.body 里的 [[N]] 数
+    # Count [[N]] occurrences in all leaf.body
     cites_in_leaves = sum(
         len(re.findall(r"\[\[(\d+)\]\]", leaf.body)) for leaf in leaf_sections
     )
-    print(f"[DEBUG] 所有 leaf section 中脚注标记总数: {cites_in_leaves}")
+    print(f"[DEBUG] Total citation markers in all leaf sections: {cites_in_leaves}")
     print(f"\n{'#'*80}")
-    print(f"# 主题: {wiki_title} ({topic_dir.name})")
-    print(f"# 文件: {wiki_md.name} ({len(wiki_text)} chars)")
+    print(f"# Topic: {wiki_title} ({topic_dir.name})")
+    print(f"# File: {wiki_md.name} ({len(wiki_text)} chars)")
     print(f"{'#'*80}")
 
     resolver = ReferenceResolver(topic_dir)
@@ -1081,16 +1081,16 @@ def process_topic(
             section_path=leaf.path,
             section_body=leaf.body,
         )
-        print(f"  [Leaf DEBUG] LLM 返回 triples 数: {len(triples_llm)}")
+        print(f"  [Leaf DEBUG] LLM returned triples count: {len(triples_llm)}")
 
-        # 粗看前几个 sentence 长什么样
+        # Quick look at first few sentences
         for t in triples_llm[:5]:
             s = t.get("sentence", "")
-            print("    [例句] ", s[:200].replace("\n", " "))
-            print("    [例句-原始 [[N]] 计数] ", len(re.findall(r"\[\[(\d+)\]\]", s)))
-            print("    [例句-[N] 计数] ", len(re.findall(r"\[(\d+)\]", s)))
+            print("    [Sample] ", s[:200].replace("\n", " "))
+            print("    [Sample-original [[N]] count] ", len(re.findall(r"\[\[(\d+)\]\]", s)))
+            print("    [Sample-[N] count] ", len(re.findall(r"\[(\d+)\]", s)))
         if not triples_llm:
-            print("  [Leaf] LLM 未返回任何 triple，跳过")
+            print("  [Leaf] LLM returned no triples, skipping")
             continue
 
         valid_triples = []
@@ -1099,7 +1099,7 @@ def process_topic(
         for t in triples_llm:
             sentence = t["sentence"]
             statement = t["statement"]
-            # 只保留带 citation 的句子（否则对我们没用）
+            # Only keep sentences with citations (otherwise useless for us)
             if not _extract_all_citations(sentence):
                 continue
 
@@ -1112,7 +1112,7 @@ def process_topic(
                 "sentence": sentence,
                 "statement": statement,
                 "citation_numbers": t["citation_numbers"],
-                "citation_keys": missing if not all_ok else [],  # 这里存 missing 其实没啥必要
+                "citation_keys": missing if not all_ok else [],  # storing missing here is not really necessary
                 "ref_urls": ref_urls,
                 "ref_count": len(ref_urls),
             }
@@ -1123,7 +1123,7 @@ def process_topic(
                 triple_obj["citation_keys"] = missing
                 invalid_triples.append(triple_obj)
                 total_invalid += 1
-        print(f"[Topic 小结] {wiki_title}: valid_triples={total_valid}, invalid_triples={total_invalid}")
+        print(f"[Topic Summary] {wiki_title}: valid_triples={total_valid}, invalid_triples={total_invalid}")
 
         if valid_triples:
             rec = {
@@ -1146,18 +1146,18 @@ def process_topic(
             out_invalid_f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
 def main():
-    ap = argparse.ArgumentParser(description="阶段一：从 wiki md 抽取 (sentence, statement, refs) triple")
+    ap = argparse.ArgumentParser(description="Phase 1: Extract (sentence, statement, refs) triples from wiki md")
     ap.add_argument("--raw-dir", type=str, required=True,
-                    help="原始 wiki topic 根目录（每个子目录一个 topic）")
+                    help="Root directory of raw wiki topics (one topic per subdirectory)")
     ap.add_argument("--out-valid", type=str, required=True,
-                    help="有效 triple（全部脚注都解析成功）的 JSONL 输出路径")
+                    help="JSONL output path for valid triples (all citations resolved successfully)")
     ap.add_argument("--out-invalid", type=str, required=True,
-                    help="无效 triple 的 JSONL 输出路径")
+                    help="JSONL output path for invalid triples")
     args = ap.parse_args()
 
     raw_root = Path(args.raw_dir)
     if not raw_root.exists():
-        print(f"[错误] raw-dir 不存在: {raw_root}")
+        print(f"[Error] raw-dir does not exist: {raw_root}")
         return
 
     out_valid_path = Path(args.out_valid)
@@ -1165,22 +1165,22 @@ def main():
     out_invalid_path = Path(args.out_invalid)
     out_invalid_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # 判断 raw_root 是「category」还是「单个 topic」
+    # Determine if raw_root is a category or a single topic
     has_article_md = any(
         f for f in raw_root.glob("*.md")
         if f.name != "README.md"
     )
 
     if has_article_md:
-        # 单 topic 模式：raw_root 自己就是一个 topic 目录
+        # Single topic mode: raw_root itself is a topic directory
         topic_dirs = [raw_root]
-        print(f"[模式] 单 topic 目录: {raw_root}")
+        print(f"[Mode] Single topic directory: {raw_root}")
     else:
-        # category 模式：枚举子目录
+        # Category mode: enumerate subdirectories
         topic_dirs = sorted([d for d in raw_root.iterdir() if d.is_dir()])
-        print(f"[模式] category 目录: {raw_root}，包含 {len(topic_dirs)} 个 topic")
+        print(f"[Mode] Category directory: {raw_root}，containing {len(topic_dirs)} topics")
 
-    print(f"[开始] 共 {len(topic_dirs)} 个 topic")
+    print(f"[Start] Total {len(topic_dirs)} topics")
 
     with out_valid_path.open("w", encoding="utf-8") as fv, \
         out_invalid_path.open("w", encoding="utf-8") as fi:
@@ -1191,9 +1191,9 @@ def main():
             process_topic(raw_root, topic_dir, fv, fi)
             fv.flush()
             fi.flush()
-    print("\n[完成] triple 抽取结束")
-    print(f"  有效 triple 文件: {out_valid_path}")
-    print(f"  无效 triple 文件: {out_invalid_path}")
+    print("\n[Complete] Triple extraction finished")
+    print(f"  Valid triples file: {out_valid_path}")
+    print(f"  Invalid triples file: {out_invalid_path}")
 
 if __name__ == "__main__":
     main()

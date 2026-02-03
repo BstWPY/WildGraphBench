@@ -9,39 +9,39 @@ import statistics
 
 def count_tokens(text: str, model: str = "gpt-3.5-turbo") -> int:
     """
-    使用tiktoken计算文本的token数量；允许把特殊token当普通文本编码
+    Count the number of tokens in a text using tiktoken; allows encoding special tokens as normal text
     """
     try:
         encoding = tiktoken.encoding_for_model(model)
     except Exception:
-        # 某些模型名不被识别时，回退到 cl100k_base
+        # Fallback to cl100k_base if the model name is not recognized
         encoding = tiktoken.get_encoding("cl100k_base")
 
-    # 关键：关闭特殊token校验
+    # Key: disable special token validation
     try:
         return len(encoding.encode(text, disallowed_special=()))
     except Exception:
-        # 兜底：去掉 <|...|> 这种标记再编码（极少用到）
+        # Fallback: remove <|...|> markers and encode (rarely used)
         cleaned = re.sub(r"<\|[^|>]+?\|>", "", text)
         return len(encoding.encode(cleaned, disallowed_special=()))
 
 def read_file_content(file_path: str) -> str:
-    """读取文件内容"""
+    """Read file content"""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             return f.read()
     except Exception as e:
-        print(f"⚠️  读取文件失败 {file_path}: {e}")
+        print(f"⚠️  Failed to read file {file_path}: {e}")
         return ""
 
 def is_content_file(file_path: str) -> bool:
-    """判断是否是内容文件（排除只有URL的json文件）"""
+    """Check if the file is a content file (excluding JSON files with only URLs)"""
     if file_path.endswith('.json') or file_path.endswith('.jsonl'):
         return False
     return file_path.endswith('.md')
 
 def get_default_config(gpu_count: int = 8) -> Dict:
-    """获取默认配置信息"""
+    """Get default configuration"""
     return {
         "gpu_config": f"0-{gpu_count-1}",
         "gpu_ids": list(range(gpu_count)),
@@ -52,20 +52,20 @@ def get_default_config(gpu_count: int = 8) -> Dict:
     }
 
 def analyze_category(category_path: str, use_cleaned: bool = False) -> Dict:
-    """分析单个类别的token统计
+    """Analyze token statistics for a single category
     
     Args:
-        category_path: 类别路径
-        use_cleaned: 是否使用清洗后的数据（从raw_cleaned目录）
+        category_path: Category path
+        use_cleaned: Whether to use cleaned data (from raw_cleaned directory)
     """
     category_name = os.path.basename(category_path)
-    print(f"📊 分析类别: {category_name}")
+    print(f"📊 Analyzing category: {category_name}")
     
     wiki_stats = []
     total_wikis = 0
     total_references = 0
     
-    # 遍历类别下的所有wiki目录
+    # Iterate through all wiki directories under the category
     for wiki_item in os.listdir(category_path):
         wiki_dir = os.path.join(category_path, wiki_item)
         if not os.path.isdir(wiki_dir):
@@ -76,9 +76,9 @@ def analyze_category(category_path: str, use_cleaned: bool = False) -> Dict:
         ref_tokens = 0
         ref_count = 0
         
-        print(f"  📂 处理wiki: {wiki_item}")
+        print(f"  📂 Processing wiki: {wiki_item}")
         
-        # 处理wiki主文件
+        # Process wiki main file
         for file in os.listdir(wiki_dir):
             if file.endswith('.md'):
                 wiki_file_path = os.path.join(wiki_dir, file)
@@ -88,24 +88,24 @@ def analyze_category(category_path: str, use_cleaned: bool = False) -> Dict:
                     wiki_tokens += tokens
                     print(f"    📄 {file}: {tokens:,} tokens")
         
-        # 处理reference目录下的参考文件
+        # Process reference files under the reference directory
         ref_dir = os.path.join(wiki_dir, "reference")
         if os.path.exists(ref_dir):
             if use_cleaned:
-                # 使用清洗后的文件
+                # Use cleaned files
                 ref_pages_dir = os.path.join(ref_dir, "reference_pages_cleaned")
-                dir_label = "清洗后的参考文献"
+                dir_label = "cleaned references"
             else:
-                # 使用原始的参考文件
+                # Use original reference files
                 ref_pages_dir = os.path.join(ref_dir, "reference_pages")
-                dir_label = "原始参考文献"
+                dir_label = "original references"
             
             if os.path.exists(ref_pages_dir):
-                print(f"    📁 处理{dir_label}目录: {ref_pages_dir}")
+                print(f"    📁 Processing {dir_label} directory: {ref_pages_dir}")
                 
-                # 获取所有.md文件
+                # Get all .md files
                 ref_files = [f for f in os.listdir(ref_pages_dir) if f.endswith('.md')]
-                print(f"    📋 找到 {len(ref_files)} 个参考文献文件")
+                print(f"    📋 Found {len(ref_files)} reference files")
                 
                 for ref_file in ref_files:
                     ref_file_path = os.path.join(ref_pages_dir, ref_file)
@@ -115,18 +115,18 @@ def analyze_category(category_path: str, use_cleaned: bool = False) -> Dict:
                         ref_tokens += tokens
                         ref_count += 1
                         total_references += 1
-                        # print(f"      📄 {ref_file}: {tokens:,} tokens")  # 可选：显示每个文件的详情
+                        # print(f"      📄 {ref_file}: {tokens:,} tokens")  # Optional: show details for each file
                 
                 if ref_count > 0:
-                    print(f"    📊 {dir_label}: {ref_count} 文件, {ref_tokens:,} tokens")
+                    print(f"    📊 {dir_label}: {ref_count} files, {ref_tokens:,} tokens")
                 else:
-                    print(f"    ⚠️  {dir_label}目录为空或无有效内容")
+                    print(f"    ⚠️  {dir_label} directory is empty or has no valid content")
             else:
-                print(f"    ⚠️  {dir_label}目录不存在: {ref_pages_dir}")
+                print(f"    ⚠️  {dir_label} directory does not exist: {ref_pages_dir}")
         else:
-            print(f"    ⚠️  reference目录不存在")
+            print(f"    ⚠️  reference directory does not exist")
         
-        # 记录该wiki的统计
+        # Record statistics for this wiki
         wiki_stats.append({
             'name': wiki_item,
             'wiki_tokens': wiki_tokens,
@@ -135,9 +135,9 @@ def analyze_category(category_path: str, use_cleaned: bool = False) -> Dict:
             'total_tokens': wiki_tokens + ref_tokens
         })
         
-        print(f"    📊 小计 - Wiki: {wiki_tokens:,}, 参考: {ref_tokens:,}, 总计: {wiki_tokens + ref_tokens:,} tokens")
+        print(f"    📊 Subtotal - Wiki: {wiki_tokens:,}, References: {ref_tokens:,}, Total: {wiki_tokens + ref_tokens:,} tokens")
     
-    # 计算类别统计
+    # Calculate category statistics
     total_wiki_tokens = sum(stat['wiki_tokens'] for stat in wiki_stats)
     total_ref_tokens = sum(stat['reference_tokens'] for stat in wiki_stats)
     total_tokens = total_wiki_tokens + total_ref_tokens
@@ -158,7 +158,7 @@ def analyze_category(category_path: str, use_cleaned: bool = False) -> Dict:
     }
 
 def main():
-    """主函数"""
+    """Main function"""
     import argparse
     parser = argparse.ArgumentParser(description="Calculate tokens for Wiki and reference documents")
     parser.add_argument("--raw-dir", type=str, default="./raw", help="Raw data directory")
@@ -166,13 +166,13 @@ def main():
     parser.add_argument("--gpu-count", type=int, default=8, help="Number of GPUs/services for load estimation")
     args = parser.parse_args()
     
-    print("🔍 开始统计Wiki和参考文献Token数量...")
+    print("🔍 Starting Wiki and reference token counting...")
     
-    # 配置路径
+    # Configuration paths
     raw_dir = args.raw_dir
     cleaned_dir = args.cleaned_dir
     
-    # 使用简化的配置而非从脚本解析
+    # Use simplified configuration instead of parsing from script
     oss_config = {
         "gpu_config": f"0-{args.gpu_count-1}",
         "gpu_ids": list(range(args.gpu_count)),
@@ -181,39 +181,39 @@ def main():
         "gpu_count": args.gpu_count,
         "internal_ip": "localhost"
     }
-    print(f"🌐 OSS服务配置:")
-    print(f"  GPU配置: {oss_config['gpu_config']}")
-    print(f"  使用GPU: {oss_config['gpu_ids']}")
-    print(f"  服务端口: {oss_config['ports']}")
-    print(f"  服务数量: {oss_config['gpu_count']}")
-    print(f"  内网IP: {oss_config['internal_ip']}")
+    print(f"🌐 OSS service configuration:")
+    print(f"  GPU config: {oss_config['gpu_config']}")
+    print(f"  Using GPUs: {oss_config['gpu_ids']}")
+    print(f"  Service ports: {oss_config['ports']}")
+    print(f"  Number of services: {oss_config['gpu_count']}")
+    print(f"  Internal IP: {oss_config['internal_ip']}")
     print()
     
-    # 选择数据源
-    print("📂 可用的数据源:")
-    print(f"  1. 原始数据: {raw_dir}")
-    print(f"  2. 清洗后数据: {cleaned_dir}")
+    # Select data source
+    print("📂 Available data sources:")
+    print(f"  1. Raw data: {raw_dir}")
+    print(f"  2. Cleaned data: {cleaned_dir}")
     
     use_cleaned = False
     data_dir = raw_dir
     
-    # 检查清洗后目录是否存在
+    # Check if cleaned directory exists
     if os.path.exists(cleaned_dir):
-        choice = input("\n🤔 请选择数据源 (1=原始数据, 2=清洗后数据): ").strip()
+        choice = input("\n🤔 Please select data source (1=raw data, 2=cleaned data): ").strip()
         if choice == '2':
             use_cleaned = True
             data_dir = cleaned_dir
-            print("✅ 使用清洗后数据")
+            print("✅ Using cleaned data")
         else:
-            print("✅ 使用原始数据")
+            print("✅ Using raw data")
     else:
-        print("⚠️  清洗后目录不存在，使用原始数据")
+        print("⚠️  Cleaned directory does not exist, using raw data")
     
     if not os.path.exists(data_dir):
-        print(f"❌ 数据目录不存在: {data_dir}")
+        print(f"❌ Data directory does not exist: {data_dir}")
         return
     
-    # 获取所有类别目录
+    # Get all category directories
     categories = []
     for item in os.listdir(data_dir):
         item_path = os.path.join(data_dir, item)
@@ -221,30 +221,30 @@ def main():
             categories.append(item_path)
     
     if not categories:
-        print("❌ 没有找到类别目录")
+        print("❌ No category directories found")
         return
     
-    print(f"\n📂 找到 {len(categories)} 个类别")
+    print(f"\n📂 Found {len(categories)} categories")
     for i, cat_path in enumerate(sorted(categories), 1):
         print(f"  {i:2d}. {os.path.basename(cat_path)}")
     print()
     
-    # 分析每个类别
+    # Analyze each category
     all_category_stats = []
     for category_path in sorted(categories):
         print(f"\n{'='*60}")
         stats = analyze_category(category_path, use_cleaned)
         all_category_stats.append(stats)
-        print(f"✅ 完成类别 {stats['category_name']}")
+        print(f"✅ Completed category {stats['category_name']}")
         print(f"   📊 {stats['total_wikis']} wikis, {stats['total_references']} references")
         print(f"   🔢 Wiki tokens: {stats['total_wiki_tokens']:,}")
-        print(f"   🔢 参考tokens: {stats['total_reference_tokens']:,}")
-        print(f"   🔢 总tokens: {stats['total_tokens']:,}")
+        print(f"   🔢 Reference tokens: {stats['total_reference_tokens']:,}")
+        print(f"   🔢 Total tokens: {stats['total_tokens']:,}")
     
-    # 计算总体统计
+    # Calculate overall statistics
     print("\n" + "="*80)
-    data_type = "清洗后数据" if use_cleaned else "原始数据"
-    print(f"📈 总体统计 ({data_type})")
+    data_type = "cleaned data" if use_cleaned else "raw data"
+    print(f"📈 Overall Statistics ({data_type})")
     print("="*80)
     
     total_wikis = sum(stats['total_wikis'] for stats in all_category_stats)
@@ -253,53 +253,53 @@ def main():
     total_ref_tokens = sum(stats['total_reference_tokens'] for stats in all_category_stats)
     total_all_tokens = total_wiki_tokens + total_ref_tokens
     
-    print(f"📂 总类别数: {len(all_category_stats)}")
-    print(f"📄 总Wiki数: {total_wikis:,}")
-    print(f"📋 总参考文献数: {total_references:,}")
+    print(f"📂 Total categories: {len(all_category_stats)}")
+    print(f"📄 Total wikis: {total_wikis:,}")
+    print(f"📋 Total references: {total_references:,}")
     print()
-    print(f"🔢 Token统计:")
+    print(f"🔢 Token Statistics:")
     print(f"  Wiki tokens: {total_wiki_tokens:,}")
-    print(f"  参考文献tokens: {total_ref_tokens:,}")
-    print(f"  总tokens: {total_all_tokens:,}")
+    print(f"  Reference tokens: {total_ref_tokens:,}")
+    print(f"  Total tokens: {total_all_tokens:,}")
     print()
-    print(f"📊 平均值:")
-    print(f"  每个Wiki平均tokens: {total_wiki_tokens/total_wikis:,.1f}" if total_wikis > 0 else "  每个Wiki平均tokens: 0")
-    print(f"  每个参考文献平均tokens: {total_ref_tokens/total_references:,.1f}" if total_references > 0 else "  每个参考文献平均tokens: 0")
-    print(f"  每个Wiki(含参考文献)平均tokens: {total_all_tokens/total_wikis:,.1f}" if total_wikis > 0 else "  每个Wiki(含参考文献)平均tokens: 0")
+    print(f"📊 Averages:")
+    print(f"  Avg tokens per wiki: {total_wiki_tokens/total_wikis:,.1f}" if total_wikis > 0 else "  Avg tokens per wiki: 0")
+    print(f"  Avg tokens per reference: {total_ref_tokens/total_references:,.1f}" if total_references > 0 else "  Avg tokens per reference: 0")
+    print(f"  Avg tokens per wiki (incl. refs): {total_all_tokens/total_wikis:,.1f}" if total_wikis > 0 else "  Avg tokens per wiki (incl. refs): 0")
     print()
-    print(f"🌐 OSS服务处理能力评估:")
+    print(f"🌐 OSS Service Processing Capacity Estimate:")
     tokens_per_service = total_all_tokens / oss_config['gpu_count']
-    print(f"  每个OSS服务平均处理tokens: {tokens_per_service:,.1f}")
-    print(f"  服务URL示例:")
-    for i, url in enumerate(oss_config['service_urls'][:3], 1):  # 只显示前3个
-        print(f"    服务{i}: {url}")
+    print(f"  Avg tokens per OSS service: {tokens_per_service:,.1f}")
+    print(f"  Example service URLs:")
+    for i, url in enumerate(oss_config['service_urls'][:3], 1):  # Show only first 3
+        print(f"    Service {i}: {url}")
     if len(oss_config['service_urls']) > 3:
-        print(f"    ... 以及其他 {len(oss_config['service_urls']) - 3} 个服务")
+        print(f"    ... and {len(oss_config['service_urls']) - 3} more services")
     
-    # 按类别显示详细统计
+    # Show detailed statistics by category
     print("\n" + "="*80)
-    print("📊 各类别详细统计")
+    print("📊 Detailed Statistics by Category")
     print("="*80)
     
-    # 按总token数排序
+    # Sort by total token count
     sorted_stats = sorted(all_category_stats, key=lambda x: x['total_tokens'], reverse=True)
     
     for i, stats in enumerate(sorted_stats, 1):
         print(f"\n{i:2d}. 📁 {stats['category_name']}:")
-        print(f"     📄 Wiki数: {stats['total_wikis']}")
-        print(f"     📋 参考文献数: {stats['total_references']}")
+        print(f"     📄 Wiki count: {stats['total_wikis']}")
+        print(f"     📋 Reference count: {stats['total_references']}")
         print(f"     🔢 Wiki tokens: {stats['total_wiki_tokens']:,}")
-        print(f"     🔢 参考文献tokens: {stats['total_reference_tokens']:,}")
-        print(f"     🔢 总tokens: {stats['total_tokens']:,}")
-        print(f"     📊 平均Wiki tokens: {stats['avg_wiki_tokens']:,.1f}")
+        print(f"     🔢 Reference tokens: {stats['total_reference_tokens']:,}")
+        print(f"     🔢 Total tokens: {stats['total_tokens']:,}")
+        print(f"     📊 Avg wiki tokens: {stats['avg_wiki_tokens']:,.1f}")
         if stats['total_references'] > 0:
-            print(f"     📊 平均参考文献tokens: {stats['avg_reference_tokens']:,.1f}")
+            print(f"     📊 Avg reference tokens: {stats['avg_reference_tokens']:,.1f}")
         
-        # 计算该类别占总体的比例
+        # Calculate percentage of total
         percentage = (stats['total_tokens'] / total_all_tokens * 100) if total_all_tokens > 0 else 0
-        print(f"     📈 占总体比例: {percentage:.1f}%")
+        print(f"     📈 Percentage of total: {percentage:.1f}%")
     
-    # 找出token数最多和最少的wiki
+    # Find wikis with most and least tokens
     all_wiki_details = []
     for category_stats in all_category_stats:
         for wiki_detail in category_stats['wiki_details']:
@@ -308,27 +308,27 @@ def main():
     
     if all_wiki_details:
         print("\n" + "="*80)
-        print("🏆 Token数量排行")
+        print("🏆 Token Count Rankings")
         print("="*80)
         
-        # 按总token数排序
+        # Sort by total token count
         sorted_wikis = sorted(all_wiki_details, key=lambda x: x['total_tokens'], reverse=True)
         
-        print("🥇 Token数最多的前10个Wiki:")
+        print("🥇 Top 10 Wikis by Token Count:")
         for i, wiki in enumerate(sorted_wikis[:10], 1):
             print(f"  {i:2d}. [{wiki['category']}] {wiki['name']}")
-            print(f"      总计: {wiki['total_tokens']:,} tokens")
-            print(f"      (Wiki: {wiki['wiki_tokens']:,}, 参考: {wiki['reference_tokens']:,}, 参考文件: {wiki['reference_count']})")
+            print(f"      Total: {wiki['total_tokens']:,} tokens")
+            print(f"      (Wiki: {wiki['wiki_tokens']:,}, References: {wiki['reference_tokens']:,}, Ref files: {wiki['reference_count']})")
         
-        print("\n📊 Token数分布统计:")
+        print("\n📊 Token Distribution Statistics:")
         token_counts = [wiki['total_tokens'] for wiki in all_wiki_details]
-        print(f"  最大值: {max(token_counts):,} tokens")
-        print(f"  最小值: {min(token_counts):,} tokens")
-        print(f"  中位数: {statistics.median(token_counts):,.1f} tokens")
+        print(f"  Max: {max(token_counts):,} tokens")
+        print(f"  Min: {min(token_counts):,} tokens")
+        print(f"  Median: {statistics.median(token_counts):,.1f} tokens")
         if len(token_counts) > 1:
-            print(f"  标准差: {statistics.stdev(token_counts):,.1f} tokens")
+            print(f"  Std Dev: {statistics.stdev(token_counts):,.1f} tokens")
         
-        # 分布区间统计
+        # Distribution range statistics
         ranges = [
             (0, 1000, "< 1K"),
             (1000, 5000, "1K-5K"),
@@ -338,13 +338,13 @@ def main():
             (100000, float('inf'), "> 100K")
         ]
         
-        print(f"\n📈 Token数分布区间:")
+        print(f"\n📈 Token Distribution Ranges:")
         for min_val, max_val, label in ranges:
             count = sum(1 for tokens in token_counts if min_val <= tokens < max_val)
             percentage = (count / len(token_counts) * 100) if token_counts else 0
             print(f"  {label:>8}: {count:3d} wikis ({percentage:4.1f}%)")
     
-    # 保存详细统计到JSON文件
+    # Save detailed statistics to JSON file
     output_file = os.path.join(data_dir, f"token_statistics_{'cleaned' if use_cleaned else 'raw'}.json")
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump({
@@ -376,14 +376,14 @@ def main():
             }
         }, f, ensure_ascii=False, indent=2)
     
-    print(f"\n💾 详细统计已保存到: {output_file}")
-    print(f"\n🎯 数据处理摘要:")
-    print(f"  数据类型: {data_type}")
-    print(f"  数据目录: {data_dir}")
-    print(f"  参考文献目录: {'reference_pages_cleaned' if use_cleaned else 'reference_pages'}")
-    print(f"  OSS服务数量: {oss_config['gpu_count']}")
-    print(f"  每服务平均负载: {tokens_per_service:,.1f} tokens")
-    print("\n🎉 统计完成！")
+    print(f"\n💾 Detailed statistics saved to: {output_file}")
+    print(f"\n🎯 Data Processing Summary:")
+    print(f"  Data type: {data_type}")
+    print(f"  Data directory: {data_dir}")
+    print(f"  Reference directory: {'reference_pages_cleaned' if use_cleaned else 'reference_pages'}")
+    print(f"  OSS service count: {oss_config['gpu_count']}")
+    print(f"  Avg load per service: {tokens_per_service:,.1f} tokens")
+    print("\n🎉 Statistics completed!")
 
 if __name__ == "__main__":
     main()

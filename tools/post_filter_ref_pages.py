@@ -4,23 +4,23 @@
 """
 post_filter_ref_pages.py
 
-功能（离线后处理一条龙）：
-1. 遍历 corpus 下所有 article 的 reference/reference_pages/*.md
-2. 调用 LLM 过滤每个 ref 页面：
-   - keep=True 认为是“正常引用原文”，保留
-   - keep=False 认为是“垃圾/错误页/索引/空内容”等，进入修复流程
-3. 对于 keep=False 的页面：
-   - 用 md 文件里的标题，在 references.jsonl 中做模糊匹配找到对应条目
-   - 若该条 ref 存在 archive_url：
-       * 调用 fetch_reference_pages.py，用 archive-mode=direct + fetcher=jina 强制用原始 url 重抓（--force + --no-skip-exists）
-       * 对新抓到的 md 再跑一次 LLM 过滤
-           - 如果通过：保留新 md，并在 references.jsonl 上打上 llm_filter_status = "refetched_ok"
-           - 如果仍不过：删除 md，标记 llm_filter_status = "refetched_still_bad_dropped"
-   - 否则（没有 archive_url）：
-       * 直接删除 md，标记 llm_filter_status = "dropped_without_refetch"
+Features (offline post-processing pipeline):
+1. Traverse all reference/reference_pages/*.md for each article in corpus
+2. Call LLM to filter each ref page:
+   - keep=True: considered "valid reference source", retain
+   - keep=False: considered "junk/error page/index/empty content", enter repair flow
+3. For keep=False pages:
+   - Use the md file title to fuzzy match corresponding entry in references.jsonl
+   - If the ref has archive_url:
+       * Call fetch_reference_pages.py with archive-mode=direct + fetcher=jina to force re-fetch using original url (--force + --no-skip-exists)
+       * Run LLM filter again on newly fetched md
+           - If passed: keep new md, mark llm_filter_status = "refetched_ok" in references.jsonl
+           - If still failed: delete md, mark llm_filter_status = "refetched_still_bad_dropped"
+   - Otherwise (no archive_url):
+       * Delete md directly, mark llm_filter_status = "dropped_without_refetch"
 
-新增：
-- 支持并发调用 LLM：参数 --llm-workers，默认 1（串行）
+New features:
+- Support concurrent LLM calls: parameter --llm-workers, default 1 (serial)
 """
 
 import os
@@ -37,11 +37,11 @@ import requests
 
 
 # -----------------------
-# LLM 相关
+# LLM Related
 # -----------------------
 
 def _truncate_text(text: str, max_chars: int = 6000) -> str:
-    """目前不再使用截断，但保留工具函数以备后续需要。"""
+    """Truncation not currently used, but utility function kept for future needs."""
     text = text.strip()
     if len(text) <= max_chars:
         return text
@@ -59,57 +59,57 @@ def call_quality_model(
     timeout: int = 60,
 ) -> Tuple[bool, str, str]:
     """
-    调用 LLM 判断一个 ref 页面是否是“正常引用原文”。
+    Call LLM to determine if a ref page is a "valid reference source".
 
-    这里会把：
-      - 维基百科条目标题 wiki_title
-      - references.jsonl 中该条 reference 的 title（ref_title）
-      - 该 md 页面自身的标题（page_title）
-      - 该 md 的全文（Markdown，绝对不截断）
-    一并给到模型。
+    This will provide the model with:
+      - Wikipedia article title wiki_title
+      - Reference title from references.jsonl (ref_title)
+      - The md page's own title (page_title)
+      - Full text of the md (Markdown, absolutely no truncation)
 
-    返回:
-        keep: bool       # True=保留, False=认为是垃圾/错误页
-        category: str    # 模型分类标签（如 ok/404/index/login/...）
-        reason: str      # 简短中文说明
+    Returns:
+        keep: bool       # True=keep, False=considered junk/error page
+        category: str    # Model classification label (e.g. ok/404/index/login/...)
+        reason: str      # Brief explanation
     """
-    # ✅ 不再截断：直接使用全文
+    # No truncation: use full text directly
     excerpt = markdown_text if markdown_text is not None else ""
     excerpt = excerpt.strip()
 
     system_prompt = (
-        "你是一个网页质量过滤助手。我们从互联网上抓取了一些网页作为维基百科条目的参考文献原文页面，"
-        "内容已经被转成 Markdown。你的任务是判断给定页面是否“可以作为这个维基条目的有用参考来源”。\n\n"
-        "你会看到：\n"
-        "1) 维基条目的标题(WIKI_TITLE)\n"
-        "2) 参考文献条目的标题(REF_TITLE)\n"
-        "3) 该参考页面 Markdown 的全文内容(PAGE_TITLE + FULL_MARKDOWN)\n\n"
-        "判断为 keep=true 的情况（尽量宽松）：\n"
-        "- 页面包含与该维基主题/参考条目相关的实质性文字内容，即使篇幅不长、排版混乱、夹杂导航或广告；\n"
-        "- 是新闻报道、百科条目、论文、官方声明、博客、论坛帖子等，只要有与主题相关的正文，都算有用；\n"
-        "- 即使有很多无关元素（导航栏、侧边栏、推荐链接），只要有一部分清晰的正文信息即可。\n\n"
-        "判断为 keep=false 的情况（严格）：\n"
-        "- 明显是 404 页面、错误页、访问被拒绝，仅有几行错误提示；\n"
-        "- 需要登录/订阅/购买才能看的页面，主体内容完全不可见（只有登录或订阅提示）；\n"
-        "- 纯搜索结果页、站点目录、仅有链接列表或导航，没有任何实质正文；\n"
-        "- 完全空白或者只有极少量无意义字符。\n\n"
-        "注意：\n"
-        "- 不要因为内容看起来“简单/短/写得不好”就判为 false，只要有一些与主题相关的信息就应 keep=true；\n"
-        "- 不要求和 WIKI_TITLE / REF_TITLE 完全匹配，只要在主题上大致相关且有用即可。\n\n"
-        "输出必须是一个 JSON 对象，不要附加任何解释文字。字段：\n"
-        '{ \"keep\": true 或 false, \"category\": \"ok/404/index/login/empty/other\", \"reason\": \"用中文简要说明(<=30字)\" }'
+        "You are a web page quality filter assistant. We have scraped some web pages from the internet "
+        "as reference source pages for Wikipedia articles, and the content has been converted to Markdown. "
+        "Your task is to determine whether a given page can serve as a useful reference source for the Wikipedia article.\n\n"
+        "You will see:\n"
+        "1) The title of the Wikipedia article (WIKI_TITLE)\n"
+        "2) The title of the reference entry (REF_TITLE)\n"
+        "3) The full Markdown content of the reference page (PAGE_TITLE + FULL_MARKDOWN)\n\n"
+        "Cases where keep=true (be lenient):\n"
+        "- The page contains substantive text content related to the Wikipedia topic/reference entry, even if it is short, poorly formatted, or mixed with navigation or ads;\n"
+        "- It is a news report, encyclopedia entry, paper, official statement, blog, forum post, etc. - as long as there is body text related to the topic, it is useful;\n"
+        "- Even if there are many irrelevant elements (navigation bars, sidebars, recommended links), as long as there is some clear body text information, it counts.\n\n"
+        "Cases where keep=false (be strict):\n"
+        "- Clearly a 404 page, error page, or access denied page with only a few lines of error messages;\n"
+        "- Pages requiring login/subscription/purchase to view, where the main content is completely invisible (only login or subscription prompts);\n"
+        "- Pure search result pages, site directories, pages with only link lists or navigation, without any substantive body text;\n"
+        "- Completely blank or containing only minimal meaningless characters.\n\n"
+        "Note:\n"
+        "- Do not mark as false just because the content appears simple/short/poorly written - as long as there is some information related to the topic, keep=true;\n"
+        "- Exact match with WIKI_TITLE / REF_TITLE is not required - as long as it is roughly related to the topic and useful, it counts.\n\n"
+        "Output must be a JSON object with no additional explanatory text. Fields:\n"
+        '{ \"keep\": true or false, \"category\": \"ok/404/index/login/empty/other\", \"reason\": \"Brief explanation (<=30 words)\" }'
     )
 
     user_prompt = (
-        "下面是一个维基参考文献页面的相关信息，请按照系统提示进行判断。\n\n"
+        "Below is the relevant information for a Wikipedia reference page. Please evaluate it according to the system prompt.\n\n"
         f"WIKI_TITLE: {wiki_title}\n"
         f"REF_TITLE: {ref_title}\n"
         f"PAGE_TITLE: {page_title}\n\n"
-        "下面是该页面的 Markdown 全文：\n"
+        "Below is the full Markdown content of the page:\n"
         "--------------------\n"
         f"{excerpt}\n"
         "--------------------\n"
-        "请只输出一个 JSON 对象，不要输出其它任何文字。"
+        "Please output only a JSON object, without any other text."
     )
 
     url = api_base.rstrip("/") + "/chat/completions"
@@ -133,26 +133,26 @@ def call_quality_model(
         data = resp.json()
         content = data["choices"][0]["message"]["content"]
     except Exception as e:
-        # 模型挂了就保守点：先保留
-        return True, "model_error", f"调用模型失败: {type(e).__name__}"
+        # Model failed, be conservative: keep it
+        return True, "model_error", f"Model call failed: {type(e).__name__}"
 
-    # 从返回文本中尽量抠出 JSON
+    # Try to extract JSON from return text
     try:
         m = re.search(r"\{.*\}", content, re.S)
         if not m:
-            raise ValueError("未找到 JSON 对象")
+            raise ValueError("JSON object not found")
         obj = json.loads(m.group(0))
         keep = bool(obj.get("keep", True))
         category = str(obj.get("category", "unknown"))
         reason = str(obj.get("reason", ""))
         return keep, category, reason
     except Exception as e:
-        # 解析失败，同样先保留，避免误删
-        return True, "parse_error", f"解析模型输出失败: {type(e).__name__}"
+        # Parse failed, also keep to avoid accidental deletion
+        return True, "parse_error", f"Failed to parse model output: {type(e).__name__}"
 
 
 # -----------------------
-# references.jsonl 相关
+# references.jsonl related
 # -----------------------
 
 def load_references(jsonl_path: Path) -> List[Dict[str, Any]]:
@@ -223,8 +223,8 @@ def find_best_ref_index(page_title: str, refs: List[Dict[str, Any]], min_score: 
 
 def extract_title_from_md(md_path: Path, text: Optional[str] = None) -> str:
     """
-    优先从 Markdown 第一行以 '# ' 开头的标题获取；
-    否则退回到文件名（反 slug 一下）。
+    Prefer extracting title from first line starting with '# ';
+    otherwise fallback to filename (with some de-slugging).
     """
     if text is None:
         try:
@@ -235,19 +235,19 @@ def extract_title_from_md(md_path: Path, text: Optional[str] = None) -> str:
         stripped = line.strip()
         if stripped.startswith("# "):
             return stripped[2:].strip()
-    # fallback：文件名去掉扩展名
+    # fallback: filename without extension
     name = md_path.stem
     name = name.replace("_", " ")
     return name
 
 
 # -----------------------
-# 遍历 reference_pages
+# Traverse reference_pages
 # -----------------------
 
 def iter_reference_pages(root_dir: Path):
     """
-    遍历所有 reference/reference_pages 目录，yield (md_path, references.jsonl path)
+    Traverse all reference/reference_pages directories, yield (md_path, references.jsonl path)
     """
     for ref_pages_dir in root_dir.rglob("reference_pages"):
         if not ref_pages_dir.is_dir():
@@ -261,7 +261,7 @@ def iter_reference_pages(root_dir: Path):
 
 
 # -----------------------
-# LLM 并发清洗阶段
+# LLM concurrent processing stage
 # -----------------------
 
 def run_llm_triple_check_for_page(
@@ -272,10 +272,10 @@ def run_llm_triple_check_for_page(
     verbose: bool = False,
 ) -> Dict[str, Any]:
     """
-    对单个 ref 页面做"三次判定" LLM 调用。
-    只有三次都判定为 keep=False 时，才认为页面无效。
+    Perform "triple judgment" LLM calls on a single ref page.
+    Only when all three judgments are keep=False is the page considered invalid.
 
-    输入 task 包含：
+    Input task contains:
       - md_path
       - jsonl_path
       - rel_str
@@ -283,12 +283,12 @@ def run_llm_triple_check_for_page(
       - page_title
       - md_text
 
-    输出 result 包含：
+    Output result contains:
       - keep: bool
       - cat_label: str
       - reason: str
-      - judgments: List[Dict] - 记录每次判定的结果
-      - 以及原 task 的字段
+      - judgments: List[Dict] - records each judgment result
+      - plus original task fields
     """
     md_path: Path = task["md_path"]
     jsonl_path: Path = task["jsonl_path"]
@@ -297,7 +297,7 @@ def run_llm_triple_check_for_page(
     page_title: str = task["page_title"]
     md_text: str = task["md_text"]
 
-    # 尝试从 references.jsonl 中找到 ref_title
+    # Try to find ref_title from references.jsonl
     refs = load_references(jsonl_path)
     ref_title = ""
     if refs:
@@ -307,7 +307,7 @@ def run_llm_triple_check_for_page(
 
     judgments = []
     
-    # 第一次判定
+    # First judgment
     keep1, cat1, reason1 = call_quality_model(
         markdown_text=md_text,
         api_base=api_base,
@@ -322,7 +322,7 @@ def run_llm_triple_check_for_page(
     if verbose:
         print(f"[INFO] (LLM-1) {rel_str} -> keep={keep1}, category={cat1}, reason={reason1}")
 
-    # 如果第一次判定为 keep=True，直接返回保留
+    # If first judgment is keep=True, return keep directly
     if keep1:
         result = dict(task)
         result["keep"] = True
@@ -331,7 +331,7 @@ def run_llm_triple_check_for_page(
         result["judgments"] = judgments
         return result
 
-    # 第一次判定为 False，进行第二次判定
+    # First judgment is False, proceed with second judgment
     keep2, cat2, reason2 = call_quality_model(
         markdown_text=md_text,
         api_base=api_base,
@@ -346,10 +346,10 @@ def run_llm_triple_check_for_page(
     if verbose:
         print(f"[INFO] (LLM-2) {rel_str} -> keep={keep2}, category={cat2}, reason={reason2}")
 
-    # 如果第二次判定为 keep=True，最终保留
+    # If second judgment is keep=True, final decision is keep
     if keep2:
         if verbose:
-            print(f"[INFO] 三次判定：第一次无效，第二次有效，最终保留该页面：{rel_str}")
+            print(f"[INFO] Triple judgment: first invalid, second valid, keeping page: {rel_str}")
         result = dict(task)
         result["keep"] = True
         result["cat_label"] = f"{cat1}|{cat2}"
@@ -357,7 +357,7 @@ def run_llm_triple_check_for_page(
         result["judgments"] = judgments
         return result
 
-    # 前两次都判定为 False，进行第三次判定
+    # First two are both False, proceed with third judgment
     keep3, cat3, reason3 = call_quality_model(
         markdown_text=md_text,
         api_base=api_base,
@@ -372,11 +372,11 @@ def run_llm_triple_check_for_page(
     if verbose:
         print(f"[INFO] (LLM-3) {rel_str} -> keep={keep3}, category={cat3}, reason={reason3}")
 
-    # 判断最终结果
+    # Determine final result
     if keep3:
-        # 第三次判定为有效，最终保留
+        # Third judgment is valid, final decision is keep
         if verbose:
-            print(f"[INFO] 三次判定：前两次无效，第三次有效，最终保留该页面：{rel_str}")
+            print(f"[INFO] Triple judgment: first two invalid, third valid, keeping page: {rel_str}")
         result = dict(task)
         result["keep"] = True
         result["cat_label"] = f"{cat1}|{cat2}|{cat3}"
@@ -384,9 +384,9 @@ def run_llm_triple_check_for_page(
         result["judgments"] = judgments
         return result
     else:
-        # 三次都判定为 False，认为页面无效
+        # All three judgments are False, consider page invalid
         if verbose:
-            print(f"[INFO] 三次判定：三次都判为无效，最终丢弃该页面：{rel_str}")
+            print(f"[INFO] Triple judgment: all three invalid, discarding page: {rel_str}")
         result = dict(task)
         result["keep"] = False
         result["cat_label"] = f"{cat1}|{cat2}|{cat3}"
@@ -396,7 +396,7 @@ def run_llm_triple_check_for_page(
 
 
 # -----------------------
-# 主逻辑
+# Main logic
 # -----------------------
 
 def main():
@@ -404,62 +404,62 @@ def main():
     parser.add_argument(
         "--root-dir",
         default="./corpus",
-        help="数据集根目录",
+        help="Dataset root directory",
     )
     parser.add_argument(
         "--api-base",
         default=os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1"),
-        help="LLM API base_url (OpenAI 兼容 /v1)",
+        help="LLM API base_url (OpenAI compatible /v1)",
     )
     parser.add_argument(
         "--model",
         default=os.environ.get("OPENAI_MODEL", "gpt-4o-mini"),
-        help="用于过滤的模型名",
+        help="Model name for filtering",
     )
     parser.add_argument(
         "--api-key",
         default=os.environ.get("OPENAI_API_KEY", ""),
-        help="模型 API key（也可用环境变量 OPENAI_API_KEY）",
+        help="Model API key (can also use env var OPENAI_API_KEY)",
     )
     parser.add_argument(
         "--only-category",
         default=None,
-        help="仅处理某个一级 category（如 ai_and_ml），可选",
+        help="Only process a specific top-level category (e.g. ai_and_ml), optional",
     )
     parser.add_argument(
         "--max-pages",
         type=int,
         default=None,
-        help="最多处理多少个 ref 页面（全局），用于调试",
+        help="Maximum number of ref pages to process (global), for debugging",
     )
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help="只打印将要进行的操作，不真正删除/重抓",
+        help="Only print planned operations, don't actually delete/re-fetch",
     )
     parser.add_argument(
         "--verbose",
         action="store_true",
-        help="打印更多细节",
+        help="Print more details",
     )
     parser.add_argument(
         "--llm-workers",
         type=int,
         default=10,
-        help="并发调用 LLM 的线程数，默认 1（串行），可根据接口 QPS 设置为 4/8 等",
+        help="Number of concurrent LLM threads, default 1 (serial), can set to 4/8 based on API QPS",
     )
 
     args = parser.parse_args()
 
     if not args.api_key:
-        print("[ERROR] 必须通过 --api-key 或环境变量 OPENAI_API_KEY 提供模型 key", file=sys.stderr)
+        print("[ERROR] Must provide model key via --api-key or env var OPENAI_API_KEY", file=sys.stderr)
         sys.exit(1)
 
     root_dir = Path(args.root_dir).resolve()
     fetch_script = (Path(__file__).parent / "fetch_reference_pages.py").resolve()
 
     # -----------------------
-    # 阶段 1：收集所有要处理的 ref 页面
+    # Stage 1: Collect all ref pages to process
     # -----------------------
     tasks: List[Dict[str, Any]] = []
     scanned = 0
@@ -479,7 +479,7 @@ def main():
         try:
             md_text = md_path.read_text(encoding="utf-8", errors="ignore")
         except Exception as e:
-            print(f"[WARN] 读取 {md_path} 失败: {e}")
+            print(f"[WARN] Failed to read {md_path}: {e}")
             continue
 
         page_title = extract_title_from_md(md_path, md_text)
@@ -500,23 +500,23 @@ def main():
             break
 
     if not tasks:
-        print("[INFO] 未找到任何 ref 页面可处理，直接退出。")
+        print("[INFO] No ref pages found to process, exiting.")
         return
 
-    print(f"[INFO] 待 LLM 清洗的 ref 页面总数: {len(tasks)}")
-    print(f"[INFO] 使用三次判定机制：只有三次都判为 False 才会丢弃")
+    print(f"[INFO] Total ref pages pending LLM cleaning: {len(tasks)}")
+    print(f"[INFO] Using triple judgment mechanism: only discarded when all three are False")
     if args.llm_workers > 1:
-        print(f"[INFO] 使用并发 LLM 线程数: {args.llm_workers}")
+        print(f"[INFO] Using concurrent LLM threads: {args.llm_workers}")
     else:
-        print("[INFO] LLM 调用串行执行（--llm-workers=1）")
+        print("[INFO] LLM calls executing serially (--llm-workers=1)")
 
     # -----------------------
-    # 阶段 2：LLM 并发清洗（三次判定）
+    # Stage 2: LLM concurrent cleaning (triple judgment)
     # -----------------------
     llm_results: List[Dict[str, Any]] = []
 
     if args.llm_workers <= 1:
-        # 串行
+        # Serial
         for t in tasks:
             res = run_llm_triple_check_for_page(
                 t,
@@ -527,7 +527,7 @@ def main():
             )
             llm_results.append(res)
     else:
-        # 并发
+        # Concurrent
         with ThreadPoolExecutor(max_workers=args.llm_workers) as executor:
             future_to_task = {
                 executor.submit(
@@ -544,11 +544,11 @@ def main():
                 res = future.result()
                 llm_results.append(res)
 
-    # 按相对路径排序
+    # Sort by relative path
     llm_results.sort(key=lambda r: r["rel_str"])
 
     # -----------------------
-    # 阶段 3：根据三次判定结果执行后续操作
+    # Stage 3: Execute subsequent operations based on triple judgment results
     # -----------------------
     invalid = 0
     refetched_ok = 0
@@ -565,24 +565,24 @@ def main():
         reason: str = res["reason"]
         judgments: List[Dict] = res.get("judgments", [])
 
-        # 如果三次判定后仍为 True，无需处理
+        # If still True after triple judgment, no processing needed
         if keep:
             continue
 
-        # 三次都判定为 False
+        # All three judged as False
         invalid += 1
-        print(f"[BAD] 检测到无效 ref 页面（三次判定都为 False）：{rel_str}")
-        print(f"  判定详情: {reason}")
+        print(f"[BAD] Detected invalid ref page (all three judgments False): {rel_str}")
+        print(f"  Judgment details: {reason}")
 
-        # 后续处理逻辑保持不变
+        # Subsequent processing logic remains unchanged
         refs = load_references(jsonl_path)
         if not refs:
-            print(f"  [WARN] {jsonl_path} 为空，跳过")
+            print(f"  [WARN] {jsonl_path} is empty, skipping")
             continue
 
         idx = find_best_ref_index(page_title, refs)
         if idx is None:
-            print(f"  [WARN] 无法匹配到 references.jsonl 中的条目")
+            print(f"  [WARN] Cannot match to entry in references.jsonl")
             if not args.dry_run and md_path.exists():
                 md_path.unlink()
                 dropped_direct += 1
@@ -593,11 +593,11 @@ def main():
         archive_url = ref.get("archive_url") or ""
         has_archive = bool(archive_url)
 
-        print(f"  [MATCH] references.jsonl 第 {idx+1} 行：title='{ref_title}', has_archive={has_archive}")
+        print(f"  [MATCH] references.jsonl row {idx+1}: title='{ref_title}', has_archive={has_archive}")
 
-        # 情况 A：有 archive_url -> 重抓
+        # Case A: has archive_url -> re-fetch
         if has_archive:
-            print("  [ACTION] 存在 archive_url，尝试重新抓取")
+            print("  [ACTION] archive_url exists, attempting to re-fetch")
             if not args.dry_run:
                 cmd = [
                     sys.executable,
@@ -630,7 +630,7 @@ def main():
                     ref_title=ref_title,
                     page_title=new_page_title,
                 )
-                print(f"  [REFETCH_CHECK] 新内容判定 keep={keep2}, reason={reason2}")
+                print(f"  [REFETCH_CHECK] new content judgment keep={keep2}, reason={reason2}")
 
                 refs2 = load_references(jsonl_path)
                 if idx < len(refs2):
@@ -646,11 +646,11 @@ def main():
                         md_path.unlink()
                     refetched_dropped += 1
             else:
-                print("  [DRY-RUN] 不实际操作")
+                print("  [DRY-RUN] No actual operation")
 
-        # 情况 B：无 archive_url -> 直接丢弃
+        # Case B: no archive_url -> discard directly
         else:
-            print("  [ACTION] 无 archive_url，直接丢弃")
+            print("  [ACTION] No archive_url, discarding directly")
             if not args.dry_run:
                 refs = load_references(jsonl_path)
                 if idx < len(refs):
@@ -662,12 +662,12 @@ def main():
                     md_path.unlink()
             dropped_direct += 1
 
-    print("\n========== 总结 ==========")
-    print(f"扫描 ref 页面总数: {scanned}")
-    print(f"三次判定都为 False 的页面数: {invalid}")
-    print(f"  重抓后判定为有效: {refetched_ok}")
-    print(f"  重抓后仍无效: {refetched_dropped}")
-    print(f"  直接丢弃: {dropped_direct}")
+    print("\n========== Summary ==========")
+    print(f"Total ref pages scanned: {scanned}")
+    print(f"Pages with all three judgments False: {invalid}")
+    print(f"  Re-fetched and valid: {refetched_ok}")
+    print(f"  Re-fetched but still invalid: {refetched_dropped}")
+    print(f"  Directly discarded: {dropped_direct}")
     print("======================================")
 
 

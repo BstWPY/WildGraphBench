@@ -60,15 +60,15 @@ class WebScrapingJinaTool:
 
 
 def slugify(text: str, max_length: int = 80) -> str:
-    """Convert text to a filesystem-safe slug (保留原有大小写)."""
+    """Convert text to a filesystem-safe slug (preserves original case)."""
     text = text.strip()
-    # 压缩多余空白为单个空格
+    # Compress excess whitespace to single space
     text = re.sub(r'\s+', ' ', text)
-    # 去掉下划线（可根据需要保留）
+    # Remove underscores (can be kept if needed)
     text = text.replace('_', ' ')
-    # 仅允许 字母/数字/空格/连字符
+    # Only allow letters/numbers/spaces/hyphens
     text = re.sub(r'[^A-Za-z0-9\- ]+', '', text)
-    # 压缩多余空格（再次，避免非法清理后留下的双空格）
+    # Compress excess spaces again (avoid double spaces after illegal char removal)
     text = re.sub(r' {2,}', ' ', text)
     text = text.strip(' -')
     if not text:
@@ -90,8 +90,8 @@ def save_markdown(data: Dict[str, Any], output_dir: str, slug: str | None = None
     """
     os.makedirs(output_dir, exist_ok=True)
 
-    # 如果调用方给了 slug（比如从 URL 推出来），就优先用它；
-    # 否则维持原逻辑，用抓取结果里的标题。
+    # If caller provided slug (e.g., derived from URL), use it preferentially;
+    # otherwise use original logic with title from scrape result.
     if slug is not None:
         base_name = slugify(slug)
     else:
@@ -116,7 +116,7 @@ def save_markdown(data: Dict[str, Any], output_dir: str, slug: str | None = None
     filename = f"{base_name}.md"
     path = os.path.join(page_dir, filename)
     if os.path.exists(path):
-        logger.info(f"Markdown 已存在，直接复用: {path}")
+        logger.info(f"Markdown already exists, reusing: {path}")
         return path
 
     lines = []
@@ -148,24 +148,24 @@ def main():
     parser.add_argument(
         '--url',
         default='https://en.wikipedia.org/wiki/Persecution_of_Muslims',
-        help='目标网页 URL'
+        help='Target webpage URL'
     )
     parser.add_argument(
         '--output_dir',
         default='./output',
-        help='Markdown 输出目录'
+        help='Markdown output directory'
     )
     parser.add_argument(
         '--api-key',
         dest='api_key',
         default=None,
-        help='可选：显式指定 Jina API Key (会覆盖环境变量 JINA_API_KEY)'
+        help='Optional: Explicitly specify Jina API Key (overrides JINA_API_KEY environment variable)'
     )
     parser.add_argument(
         '--timeout',
         type=int,
         default=1200,
-        help='超时时间（秒）'
+        help='Timeout in seconds'
     )
 
     args = parser.parse_args()

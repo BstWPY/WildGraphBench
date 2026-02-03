@@ -2,21 +2,21 @@
 # -*- coding: utf-8 -*-
 
 """
-引用提取脚本
+Reference Extraction Script
 
-功能:
-1. 使用 jina_scraping 中的 WebScrapingJinaTool 抓取网页并保存 Markdown（形成 目录/标题/reference/ 结构）
-2. 从保存的 Markdown 中解析 References 段落里的引用链接
-3. 生成 reference/references.jsonl，每行一个引用项，包含：
+Features:
+1. Use WebScrapingJinaTool from jina_scraping to scrape web pages and save as Markdown (creating directory/title/reference/ structure)
+2. Parse reference links from the References section in saved Markdown
+3. Generate reference/references.jsonl, each line containing a reference item with:
    - url
-   - is_external (是否是外链)
-   - jumpup (若包含脚注"↑"或"jump up"等标记则给出对象信息，否则为空字符串)
-   - title (引用标题估计)
-   - date (若能解析出日期)
+   - is_external (whether it's an external link)
+   - jumpup (if contains footnote markers like "\u2191" or "jump up", provide object info, otherwise empty string)
+   - title (estimated reference title)
+   - date (if parseable)
 
-说明:
-由于 Jina 抓取返回的是经过提炼的文本而非原始 HTML，本脚本采用启发式解析，
-可能不能 100% 复原复杂的 Wikipedia 引用结构；可按需后续改为直接用 MediaWiki API 获取更结构化数据。
+Note:
+Since Jina scraping returns refined text rather than raw HTML, this script uses heuristic parsing,
+which may not 100% restore complex Wikipedia reference structures; can be improved later with MediaWiki API for more structured data.
 """
 
 from __future__ import annotations
@@ -31,10 +31,10 @@ from typing import List, Dict, Any, Optional
 from jina_scraping import WebScrapingJinaTool, save_markdown, DEFAULT_API_KEY, slugify  # type: ignore
 from urllib.parse import urlparse, unquote
 
-# 重试配置
-MAX_RETRIES = 10       # 最多重试10次
+# Retry configuration
+MAX_RETRIES = 10       # Maximum 10 retries
 
-# URL 提取正则：匹配 http/https 开头直到遇到空白或右括号/引号/方括号
+# URL extraction regex: matches http/https URLs until whitespace, parenthesis, quote, or bracket
 URL_REGEX = re.compile(r'(https?://[^\s\)\]\><"\']+)')
 DATE_ISO_REGEX = re.compile(r'\b(\d{4}-\d{2}-\d{2})\b')
 DATE_YMD_REGEX = re.compile(r'\b(\d{4})[\./年-](\d{1,2})[\./月-](\d{1,2})日?\b')
@@ -46,128 +46,128 @@ RETRIEVED_DATE_REGEX = re.compile(
     re.IGNORECASE
 )
 
-# Jump/脚注模式（窄化：仅去除单个 **[^](...)** 或 ^ 及紧随的 anchor 链接，而不吞掉后续正文）
+# Jump/footnote pattern (narrowed: only remove single **[^](...)** or ^ with adjacent anchor links, not consuming following text)
 JUMP_CARET_PATTERN = re.compile(r'(\*\*\[\^]\([^)]*\)\*\*)')  # **[^](...)**
 JUMP_INLINE_ANCHORS_PATTERN = re.compile(
     r'(\[[^\]]+\]\(https?://[^)]+cite_ref[^)]*\))'
-)  # a,b,c锚点
+)  # a,b,c anchors
 JUMP_PHRASE_PATTERN = re.compile(r'^\s*\^?\s*Jump up to:?', re.IGNORECASE)
 MD_LINK_REGEX = re.compile(r'\[([^\]]+)\]\((https?://[^)]+)\)')
 
 def url_to_slug_title(url: str) -> str:
-    """从 Wiki URL 推导一个“标题字符串”，供目录命名用。
+    """Derive a title string from Wiki URL for directory naming.
 
-    例如:
+    Example:
         https://en.wikipedia.org/wiki/Al_Jazeera_Media_Network
         -> 'Al Jazeera Media Network'
     """
     path = urlparse(url).path
-    last = path.rsplit('/', 1)[-1]  # 取最后一段
-    last = unquote(last)            # 处理 %20 等
+    last = path.rsplit('/', 1)[-1]  # Get the last segment
+    last = unquote(last)            # Handle %20 etc.
     title = last.replace('_', ' ')
     return title or 'page'
 
 def scrape_with_retry(scraper, url: str) -> Optional[Dict]:
-  """带重试机制的网页抓取
+  """Web scraping with retry mechanism
 
   Args:
-      scraper: WebScrapingJinaTool 实例
-      url: 要抓取的URL
+      scraper: WebScrapingJinaTool instance
+      url: URL to scrape
 
   Returns:
-      抓取结果或None
+      Scrape result or None
   """
   for attempt in range(MAX_RETRIES):
     try:
-      print(f"🔄 尝试抓取 (第 {attempt + 1}/{MAX_RETRIES} 次): {url}")
+      print(f"🔄 Attempting scrape (attempt {attempt + 1}/{MAX_RETRIES}): {url}")
 
-      # 调用抓取器，不传入timeout参数
+      # Call scraper without timeout parameter
       data = scraper(url)
 
       if data and data.get('content'):
         content_length = len(data.get('content', ''))
-        print(f"✅ 抓取成功: {content_length} 字符")
+        print(f"✅ Scrape successful: {content_length} characters")
         return data
       else:
-        print(f"⚠️  抓取返回空内容")
+        print(f"⚠️  Scrape returned empty content")
     except Exception as e:
       error_msg = str(e)
-      print(f"❌ 抓取失败 (尝试 {attempt + 1}): {error_msg}")
+      print(f"❌ Scrape failed (attempt {attempt + 1}): {error_msg}")
 
       if attempt < MAX_RETRIES - 1:
-        # 简单的等待策略
-        wait_time = (attempt + 1) * 10  # 10秒递增等待
-        print(f"⏳ 等待 {wait_time} 秒后重试...")
+        # Simple wait strategy
+        wait_time = (attempt + 1) * 10  # 10-second incremental wait
+        print(f"⏳ Waiting {wait_time} seconds before retry...")
         time.sleep(wait_time)
       else:
-        print(f"🚫 所有重试都失败了")
+        print(f"🚫 All retries exhausted")
 
   return None
 
 
 def safe_url_to_title(url: str) -> str:
-  """从URL安全地提取标题，处理特殊字符"""
+  """Safely extract title from URL, handling special characters"""
   try:
     import urllib.parse
 
-    # 解码URL
+    # Decode URL
     decoded_url = urllib.parse.unquote(url)
-    # 提取最后一部分作为标题
+    # Extract last part as title
     title = decoded_url.split('/')[-1]
-    # 替换下划线为空格
+    # Replace underscores with spaces
     title = title.replace('_', ' ')
-    # 移除不安全的文件名字符
+    # Remove unsafe filename characters
     title = re.sub(r'[<>:"/\\|?*]', '', title)
     return title.strip()
   except Exception as e:
-    print(f"⚠️  URL标题提取失败 {url}: {e}")
+    print(f"⚠️  URL title extraction failed {url}: {e}")
     return "Unknown_Title"
 
 
 def create_error_placeholder(url: str, output_dir: str, error_msg: str) -> tuple[str, str]:
-  """创建错误占位符文件
+  """Create error placeholder file
 
   Args:
-      url: 失败的URL
-      output_dir: 输出目录
-      error_msg: 错误信息
+      url: Failed URL
+      output_dir: Output directory
+      error_msg: Error message
 
   Returns:
-      (markdown_path, jsonl_path) 元组
+      (markdown_path, jsonl_path) tuple
   """
   title = safe_url_to_title(url)
   error_dir = os.path.join(output_dir, "Error")
   os.makedirs(error_dir, exist_ok=True)
 
-  # 创建错误Markdown文件
+  # Create error Markdown file
   error_md_path = os.path.join(error_dir, "Error.md")
   with open(error_md_path, 'w', encoding='utf-8') as f:
     f.write("# Error\n\n")
-    f.write(f"抓取失败: {url}\n\n")
-    f.write(f"原因: {error_msg}\n\n")
-    f.write("建议: 检查网络连接或稍后重试\n")
+    f.write(f"Scrape failed: {url}\n\n")
+    f.write(f"Reason: {error_msg}\n\n")
+    f.write("Suggestion: Check network connection or retry later\n")
 
-  # 创建空的引用文件
+  # Create empty reference file
   reference_dir = os.path.join(error_dir, 'reference')
   os.makedirs(reference_dir, exist_ok=True)
   jsonl_path = os.path.join(reference_dir, 'references.jsonl')
 
   with open(jsonl_path, 'w', encoding='utf-8') as f:
-    # 创建空文件
+    # Create empty file
     pass
 
   return error_md_path, jsonl_path
 
 
 def parse_references_block(markdown_text: str) -> List[str]:
-  """定位参考文献区块和Bibliography区块并返回其中的原始行。
+  """Locate References and Bibliography sections and return their raw lines.
 
-  支持以下结构示例:
+  Supports the following structures:
   1. References\n----------\n### Citations\n<entries>
-  2. # References / ## References 形式
-  3. Bibliography / ## Bibliography 形式
-  4. 页面末尾的无标题引用列表（Tell es-Sakan模式）
-  5. 编号引用列表（1. ^ Jump up to: ... 模式）
+  2. # References / ## References format
+  3. Bibliography / ## Bibliography format
+  4. Untitled reference list at end of page (Tell es-Sakan pattern)
+  5. Numbered reference list (1. ^ Jump up to: ... pattern)
   """
   lines = markdown_text.splitlines()
   n = len(lines)
@@ -180,21 +180,21 @@ def parse_references_block(markdown_text: str) -> List[str]:
     stripped = ln.strip()
     low = stripped.lower()
 
-    # 查找 References 部分
+    # Find References section (including Chinese "参考文献")
     if low in {"references", "参考文献"}:
       ref_start_idx = i
       if i + 1 < n and re.fullmatch(r'-{3,}', lines[i + 1].strip()):
         pass
-    # 直接 markdown 形式标题 - References
+    # Markdown heading format - References
     if low.startswith('#') and 'references' in low:
       ref_start_idx = i
 
-    # 查找 Bibliography 部分
+    # Find Bibliography section (including Chinese "书目", "参考书目")
     if low in {"bibliography", "书目", "参考书目"}:
       bib_start_idx = i
       if i + 1 < n and re.fullmatch(r'-{3,}', lines[i + 1].strip()):
         pass
-    # 直接 markdown 形式标题 - Bibliography
+    # Markdown heading format - Bibliography
     if low.startswith('#') and 'bibliography' in low:
       bib_start_idx = i
 
@@ -203,16 +203,16 @@ def parse_references_block(markdown_text: str) -> List[str]:
       if ref_start_idx is None:
         ref_start_idx = i
 
-    # 查找编号引用列表的开始（如 "1. ^ Jump up to:" 或 "1. **^**"）
+    # Find numbered reference list start (e.g. "1. ^ Jump up to:" or "1. **^**")
     if numbered_refs_start is None and re.match(
       r'^\s*1\.\s*[\^\*]*\s*(Jump up|[\*\^])', stripped, re.IGNORECASE
     ):
       numbered_refs_start = i
 
-  # 收集所有相关内容
+  # Collect all relevant content
   collected: List[str] = []
 
-  # 处理 References 部分
+  # Process References section
   if ref_start_idx is not None:
     start_collect = (citations_anchor_idx + 1) if citations_anchor_idx is not None else (ref_start_idx + 1)
     end_collect = min(
@@ -235,7 +235,7 @@ def parse_references_block(markdown_text: str) -> List[str]:
           break
       collected.append(ln)
 
-  # 处理 Bibliography 部分
+  # Process Bibliography section
   if bib_start_idx is not None:
     start_collect = bib_start_idx + 1
     end_collect = (
@@ -255,32 +255,32 @@ def parse_references_block(markdown_text: str) -> List[str]:
         break
       collected.append(ln)
 
-  # 处理编号引用列表
+  # Process numbered reference list
   if numbered_refs_start is not None:
     for j in range(numbered_refs_start, n):
       ln = lines[j]
       stripped = ln.strip()
 
-      # 如果是编号引用格式，继续收集
+      # If it's a numbered reference format, continue collecting
       if re.match(r'^\s*\d+\.\s*[\^\*]*\s*(Jump up|\*)', stripped, re.IGNORECASE):
         collected.append(ln)
-      # 如果是空行，跳过
+      # If it's an empty line, skip
       elif not stripped:
         collected.append(ln)
-      # 如果遇到新的章节标题，停止
+      # If a new section heading is encountered, stop
       elif re.match(r'^#{1,3} ', stripped):
         break
-      # 如果遇到明显的其他内容，停止
+      # If obviously other content is encountered, stop
       elif stripped.lower().startswith(('external links', 'see also', 'notes')):
         break
-      # 否则认为是引用的延续部分
+      # Otherwise consider it a continuation of the reference
       else:
         collected.append(ln)
 
-  # 如果没有找到正式的References/Bibliography段，也没有编号引用，查找页面末尾的引用列表
+  # If no formal References/Bibliography section found and no numbered references, look for end-of-page reference list
   if ref_start_idx is None and bib_start_idx is None and numbered_refs_start is None:
-    print("🔍 未找到标准引用格式，尝试备用策略...")
-    # 原有的末尾引用检测逻辑
+    print("🔍 No standard reference format found, trying fallback strategy...")
+    # Original end-of-page reference detection logic
     ref_lines_from_end = []
     for i in range(n - 1, -1, -1):
       line = lines[i].strip()
@@ -300,22 +300,22 @@ def parse_references_block(markdown_text: str) -> List[str]:
         break
 
     if ref_lines_from_end:
-      print(f"📋 备用策略找到 {len(ref_lines_from_end)} 行可能的引用")
+      print(f"📋 Fallback strategy found {len(ref_lines_from_end)} possible reference lines")
       collected.extend(ref_lines_from_end)
 
-    print(f"📊 解析结果: 收集到 {len(collected)} 行引用内容")
+    print(f"📊 Parse result: collected {len(collected)} reference lines")
 
   return collected
 
 
 def group_reference_entries(ref_lines: List[str]) -> List[str]:
-  """将引用区块按空行或编号/列表起始分组，输出每条引用文本。"""
+  """Group reference block by empty lines or numbered/list starts, output each reference text."""
   entries: List[str] = []
   buffer: List[str] = []
 
   def flush():
     if buffer:
-      # 合并并压缩空白
+      # Merge and compress whitespace
       merged = ' '.join(l.strip() for l in buffer if l.strip())
       if merged:
         entries.append(merged)
@@ -326,7 +326,7 @@ def group_reference_entries(ref_lines: List[str]) -> List[str]:
     if not stripped:
       flush()
       continue
-    # 典型编号形式 [1] 或 1. 或 - 号开头，新条目
+    # Typical numbered formats [1] or 1. or - prefix, start new entry
     if re.match(r'^\s*(\[[0-9]+\]|[0-9]+[.)]|[-*])\s+', ln):
       flush()
       buffer.append(stripped)
@@ -337,22 +337,22 @@ def group_reference_entries(ref_lines: List[str]) -> List[str]:
 
 
 def extract_date(text: str) -> Optional[str]:
-  # 优先匹配 Retrieved 格式 (包含尾部句点)
+  # Prioritize matching Retrieved format (including trailing period)
   m = RETRIEVED_DATE_REGEX.search(text)
   if m:
     phrase = m.group(1)
-    # 确保以句点结束
+    # Ensure ends with period
     return phrase if phrase.endswith('.') else phrase + '.'
   # ISO
   m = DATE_ISO_REGEX.search(text)
   if m:
     return m.group(1)
-  # YYYY-MM-DD 或带中文分隔
+  # YYYY-MM-DD or with Chinese separators
   m = DATE_YMD_REGEX.search(text)
   if m:
     y, mo, d = m.groups()
     return f"{int(y):04d}-{int(mo):02d}-{int(d):02d}"
-  # Month name (出版日期) 直接返回
+  # Month name (publication date) return directly
   m = MONTH_NAME_REGEX.search(text)
   if m:
     return m.group(0)
@@ -360,32 +360,32 @@ def extract_date(text: str) -> Optional[str]:
 
 
 def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
-  """解析引用条目 -> 结构化字段。
+  """Parse reference entries -> structured fields.
 
-  新规则汇总（来自 ref_cases.md）：
+  Rule summary (from ref_cases.md):
 
-   1. 去除所有 "Jump up" / a b c 脚注跳转锚点 (包含 cite_ref / cite_note / caret ^ 形式)。
-   2. 若首个"正文"链接是同页锚点 (#CITEREF / #cite_ref) 且整条中不存在任何外链或 Archive 链接，
-      则整条丢弃 (纯页内书目/Works cited 指向)。
-   3. 标题 = 第一条 *内容* 链接文本 (剥离引号 / 前后空白)。
-       - 若该链接 URL 仍是 wikipedia.org 且存在 [Archived](archive_url) 链接，则标题仍取第一条，最终 url 取 Archived 链接。
-   4. 若存在 [Archived](archive_url)，保留 archive_url 字段，但最终抓取使用原始非 Archived 链接 (url 字段)；不再替换为归档地址。
-   5. 作者：
-       - 有 (Month Day, Year) 出版日期：日期前的非空文本（去除跳转锚点与多余标点）。
-       - 无出版日期：若在第一条标题链接之前出现以句点结束的短文本 (<= 12 词)，视为作者。例如："United States Congress."。
-   6. sources：收集标题之后的所有非 'Archived' 链接文本；包括媒体名、出版物、ISSN/ISBN 及其编号链接；保持去重顺序。
-      若只有 1 个 source 仍放在列表里。
-   7. 过滤：
-       - 没有任何可抓取 url（既无外部 http(s) 链接，亦无归档链接）=> 丢弃 (如纯书目：_Promises to Keep: ..._ 无链接)。
-       - 仅含内部 #CITEREF/#cite_ref 链接 => 丢弃。
-   8. 归一化：
-       - 标题去除首尾中文/英文引号、强调符号 _ *。
-       - 去掉重复空白。
-   9. 日期：
-       - publish_date：第一个 (Month Day, Year) 样式。
-       - retrieved_date：'Retrieved Month Day, Year'。
-  10. 仍保留 is_external：指最终使用的 url 是否外部 (非 wikipedia.org)。
-  11. 作者为空时，若 sources 存在，作者回填为第一个 source（机构即作者）。
+   1. Remove all "Jump up" / a b c footnote anchor links (including cite_ref / cite_note / caret ^ forms).
+   2. If the first "content" link is an in-page anchor (#CITEREF / #cite_ref) and the entire entry has no external links or Archive links,
+      discard the entire entry (pure in-page bibliography/Works cited reference).
+   3. title = first *content* link text (strip quotes / leading & trailing whitespace).
+       - If the link URL is still wikipedia.org and an [Archived](archive_url) link exists, title is still taken from the first link, but final url uses the Archived link.
+   4. If [Archived](archive_url) exists, keep archive_url field, but final scraping uses the original non-Archived link (url field); no longer replace with archive address.
+   5. author:
+       - If (Month Day, Year) publication date exists: non-empty text before the date (after removing jump anchors and extra punctuation).
+       - If no publication date: if short text (<= 12 words) ending with period appears before the first title link, treat as author. e.g., "United States Congress.".
+   6. sources: collect all non-'Archived' link texts after the title; includes media names, publications, ISSN/ISBN and their number links; maintain dedupe order.
+      If only 1 source, still put in a list.
+   7. Filtering:
+       - No scrapable url (no external http(s) links and no archive links) => discard (e.g., pure bibliography: _Promises to Keep: ..._ with no links).
+       - Only internal #CITEREF/#cite_ref links => discard.
+   8. Normalization:
+       - Strip leading/trailing Chinese/English quotes and emphasis symbols _ * from title.
+       - Remove duplicate whitespace.
+   9. Dates:
+       - publish_date: first (Month Day, Year) pattern.
+       - retrieved_date: 'Retrieved Month Day, Year'.
+  10. Still keep is_external: whether the final url used is external (non-wikipedia.org).
+  11. When author is empty, if sources exist, backfill author with the first source (organization as author).
   """
   items: List[Dict[str, Any]] = []
   month_names = (
@@ -413,22 +413,22 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
     entry = raw_entry.strip()
     if not entry:
       continue
-    # 去除行首编号 "1."、"[1]"、"-" 等
+    # Remove line number prefixes "1.", "[1]", "-" etc.
     entry = re.sub(r'^\s*(\[[0-9]+\]|[0-9]+[.)]|[-*])\s+', '', entry)
-    # 去除开头 Jump up phrase
+    # Remove leading Jump up phrase
     entry = JUMP_PHRASE_PATTERN.sub('', entry)
-    # 去除 caret jump 组件 **[^](...)**
+    # Remove caret jump components **[^](...)**
     entry = JUMP_CARET_PATTERN.sub(' ', entry)
-    # 去除 cite_ref 锚点链接集合 (a,b,c...)
+    # Remove cite_ref anchor link collections (a,b,c...)
     entry = JUMP_INLINE_ANCHORS_PATTERN.sub(' ', entry)
     entry = re.sub(r'\s+', ' ', entry).strip()
 
     md_links = MD_LINK_REGEX.findall(entry)
     if not md_links:
-      # 没有任何链接 => 可能是书籍（无 url） -> 丢弃
+      # No links at all => possibly a book (no url) -> discard
       continue
 
-    # 过滤掉纯脚注/跳转/单字母锚点
+    # Filter out pure footnote/jump/single letter anchors
     def is_pure_anchor(txt: str, url: str) -> bool:
       t = txt.strip().lower().strip('_*"')
       if not url:
@@ -445,7 +445,7 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
     if not content_links:
       continue
 
-    # 识别出版日期 & Retrieved
+    # Identify publication date & Retrieved
     m_pub = publish_date_pat.search(entry)
     m_ret = retrieved_pat.search(entry)
     publish_date = m_pub.group(0).strip('()') if m_pub else ''
@@ -455,35 +455,35 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
 
     def clean_name(s: str) -> str:
       s = re.sub(r'\s+', ' ', s).strip()
-      # 去掉开头符号 ^ * _ 以及多余标点
+      # Remove leading symbols ^ * _ and extra punctuation
       s = re.sub(r'^[\^*_\s]+', '', s)
       s = s.strip()
-      # 避免产生空字符串
+      # Avoid producing empty string
       return s
 
-    # 作者候选区域
+    # Author candidate region
     author_segment = ''
     if m_pub:
       author_segment = entry[:m_pub.start()].strip()
     else:
-      # 无出版日期：截取到第一个外部(非 wikipedia)链接或第一个引号包裹标题链接前
+      # No publication date: truncate to first external (non-wikipedia) link or before first quoted title link
       first_ext_idx = None
       for t, u in content_links:
         if 'wikipedia.org' not in u:
-          # 位置基于全文搜索
-          pos = entry.find('[' + t + '](')
+          # Position based on full text search
+          pos = entry.find('[' + t + '](')  
           if pos != -1:
             first_ext_idx = pos
             break
       if first_ext_idx is not None:
         author_segment = entry[:first_ext_idx].strip()
       else:
-        # 若没有外部链接，以第一个链接前为作者
+        # If no external link, use text before the first link as author
         first_link_text = content_links[0][0]
         pos = entry.find('[' + first_link_text + '](')
         author_segment = entry[:pos].strip() if pos != -1 else ''
 
-    # 清除作者段中的残留 jump/锚点链接
+    # Clear remaining jump/anchor links in author segment
     if author_segment:
       author_segment = JUMP_CARET_PATTERN.sub(' ', author_segment)
       author_segment = JUMP_INLINE_ANCHORS_PATTERN.sub(' ', author_segment)
@@ -498,18 +498,18 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
         author_segment
       )
       author_segment = re.sub(r'\s+', ' ', author_segment).strip()
-      # 去掉末尾句点
+      # Remove trailing period
       if author_segment.endswith('.'):
         author_segment = author_segment[:-1].strip()
 
     author = author_segment
-    # 若作者过长 (> 15 词) 视为噪声放弃
+    # If author is too long (> 15 words), treat as noise and discard
     if author and len(author.split()) > 15:
       author = ''
 
-    # 确定标题链接：优先策略
+    # Determine title link: priority strategy
     title_link = None
-    # 1. 在出版日期之后的链接中，优先选择文本被引号包裹且为外部链接
+    # 1. Among links after publication date, prefer text wrapped in quotes and is external link
     after_pub_pos = m_pub.end() if m_pub else (len(author_segment) if author_segment else 0)
     for t, u in content_links:
       pos = entry.find('[' + t + '](')
@@ -519,7 +519,7 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
       if ('wikipedia.org' not in u) and re.match(r'^".*"$|^".*"$', txt):
         title_link = (t, u)
         break
-    # 2. 外部链接（日期之后）
+    # 2. External link (after date)
     if not title_link:
       for t, u in content_links:
         pos = entry.find('[' + t + '](')
@@ -528,14 +528,14 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
         if 'wikipedia.org' not in u:
           title_link = (t, u)
           break
-    # 3. 任何（日期之后）
+    # 3. Any (after date)
     if not title_link:
       for t, u in content_links:
         pos = entry.find('[' + t + '](')
         if pos >= after_pub_pos:
           title_link = (t, u)
           break
-    # 4. 回退：第一个不在作者段中的链接
+    # 4. Fallback: first link not in author segment
     if not title_link:
       for t, u in content_links:
         pos = entry.find('[' + t + '](')
@@ -546,14 +546,14 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
       continue
     title_text, title_url = title_link
 
-    # 查找 Archived 链接（记录但不用作主 url）
+    # Find Archived link (record but don't use as main url)
     archive_url = None
     for t, u in content_links:
       if t.lower() == 'archived':
         archive_url = u
         break
 
-    # 提取 source：标题链接之后第一个非 Archived、非同 URL 的链接文本
+    # Extract source: first non-Archived, non-same URL link text after title link
     title_pos = entry.find('[' + title_text + '](')
     source = ''
     for t, u in content_links:
@@ -569,55 +569,55 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
       source = t.strip('_* ')
       break
 
-    # 若未找到来源或来源与作者相同，尝试解析标题后纯文本媒体名称
+    # If source not found or same as author, try to parse plain text media name after title
     if not source or source == author:
       link_markdown = f'[{title_text}]({title_url})'
       link_end = entry.find(link_markdown)
       if link_end != -1:
         link_end += len(link_markdown)
         tail = entry[link_end:]
-        # 截断到 Archived / Retrieved 之前
+        # Truncate to before Archived / Retrieved
         cut_idx = len(tail)
         for kw in ['Archived', 'Retrieved']:
           kpos = tail.find(kw)
           if kpos != -1 and kpos < cut_idx:
             cut_idx = kpos
         tail_section = tail[:cut_idx]
-        # 斜体媒体 _..._
+        # Italic media _..._
         m_italic = re.search(r'_(\s*[^_]{2,}?)_', tail_section)
         candidate = ''
         if m_italic:
           candidate = m_italic.group(1).strip()
         else:
-          # 首个以句点结束的连续大写/首字母大写词组 (NPR. / Associated Press.)
+          # First capitalized/uppercase word phrase ending with period (NPR. / Associated Press.)
           m_acro = re.match(
             r'\s*([A-Z][A-Za-z&\.]*?(?:\s+[A-Z][A-Za-z&\.]*?){0,4})\.(?:\s|$)',
             tail_section
           )
           if m_acro:
             cand = m_acro.group(1).strip()
-            # 过滤 Retrieved / Archived 误判
+            # Filter out Retrieved / Archived misjudgment
             if cand.lower() not in {'retrieved', 'archived'}:
               candidate = cand
         if not candidate:
-          # 捕获如 "NPR." 出现在标题链接后
+          # Capture like "NPR." appearing after title link
           m_npr = re.search(r'\b(NPR)\.(?:\s|$)', tail_section)
           if m_npr:
             candidate = m_npr.group(1)
         if candidate and candidate != author:
           source = candidate.strip('_* ')
 
-    # 过滤内部 works cited：若标题仍是 wikipedia 链接且没有外部链接
+    # Filter internal works cited: if title is still wikipedia link and no external links
     if 'wikipedia.org' in title_url and not any(
       'wikipedia.org' not in u for _, u in content_links
     ):
       continue
 
-    # 清洗标题
+    # Clean title
     title = title_text.strip().strip('"""').strip('_* ')
     title = re.sub(r'\s+', ' ', title)
 
-    # 作者/来源互补
+    # Author/source mutual complement
     if not author and source:
       author = source
     if not source and author:
@@ -625,7 +625,7 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
 
     author = clean_name(author)
     source = clean_name(source)
-    # 若清洗后仍为空且彼此存在互补
+    # If still empty after cleaning and mutual complement exists
     if not author and source:
       author = source
     if not source and author:
@@ -647,7 +647,7 @@ def build_reference_items(ref_entries: List[str]) -> List[Dict[str, Any]]:
       item['publish_date'] = publish_date
     if retrieved_date:
       item['retrieved_date'] = retrieved_date
-    # scraped 标志在写出时补
+    # scraped flag is added when writing out
     items.append(item)
 
   return items
@@ -657,62 +657,62 @@ def write_jsonl(items: List[Dict[str, Any]], path: str) -> None:
   os.makedirs(os.path.dirname(path), exist_ok=True)
   with open(path, 'w', encoding='utf-8') as f:
     for it in items:
-      # 初始化 scraped 标记
+      # Initialize scraped mark
       if 'scraped' not in it:
         it['scraped'] = False
       f.write(json.dumps(it, ensure_ascii=False) + '\n')
 
 
 def main():
-  parser = argparse.ArgumentParser(description='抓取网页并提取参考文献生成 JSONL')
-  parser.add_argument('--url', required=True, help='目标网页 URL (基准 URL)')
-  parser.add_argument('--output_dir', required=True, help='输出根目录')
-  parser.add_argument('--api-key', dest='api_key', default=None, help='Jina API Key (可选)')
+  parser = argparse.ArgumentParser(description='Scrape webpage and extract references to generate JSONL')
+  parser.add_argument('--url', required=True, help='Target webpage URL (base URL)')
+  parser.add_argument('--output_dir', required=True, help='Output root directory')
+  parser.add_argument('--api-key', dest='api_key', default=None, help='Jina API Key (optional)')
   args = parser.parse_args()
 
-  print(f"🌐 开始处理 URL: {args.url}")
-  print(f"📁 输出目录: {args.output_dir}")
-  print(f"🔄 重试次数: {MAX_RETRIES}")
+  print(f"🌐 Starting to process URL: {args.url}")
+  print(f"📁 Output directory: {args.output_dir}")
+  print(f"🔄 Retry count: {MAX_RETRIES}"))
 
   api_key = args.api_key or os.environ.get('JINA_API_KEY') or DEFAULT_API_KEY
   if not api_key.startswith('Bearer '):
     api_key = f'Bearer {api_key}'
 
   scraper = WebScrapingJinaTool(api_key)
-  # 用 URL 推导一个“稳定标题”，保证目录命名与 run_ref_scraper 一致
+  # Use URL to derive a "stable title" to ensure directory naming matches run_ref_scraper
   url_title = url_to_slug_title(args.url)
 
-  # 使用带重试的抓取
+  # Use scraping with retries
   data = scrape_with_retry(scraper, args.url)
 
   if not data or not data.get('content'):
-    print("❌ 抓取失败，无法获取页面内容")
+    print("❌ Scrape failed, unable to get page content")
 
-    # 创建错误占位符
+    # Create error placeholder
     error_md_path, jsonl_path = create_error_placeholder(
       args.url,
       args.output_dir,
-      "网络超时或服务不可用"
+      "Network timeout or service unavailable"
     )
 
-    print(f"📄 错误页面: {error_md_path}")
-    print(f"📋 空引用文件: {jsonl_path}")
+    print(f"📄 Error page: {error_md_path}")
+    print(f"📋 Empty reference file: {jsonl_path}")
     return
 
-  # 保存 Markdown
+  # Save Markdown
   try:
     md_path = save_markdown(data, args.output_dir, slug=url_title)
-    print(f"📄 Markdown 已保存: {md_path}")
+    print(f"📄 Markdown saved: {md_path}")
   except Exception as e:
-    print(f"❌ 保存 Markdown 失败: {e}")
+    print(f"❌ Failed to save Markdown: {e}")
     return
 
-  # 读取 markdown 内容
+  # Read markdown content
   try:
     with open(md_path, 'r', encoding='utf-8') as f:
       markdown_text = f.read()
   except Exception as e:
-    print(f"❌ 读取 Markdown 文件失败: {e}")
+    print(f"❌ Failed to read Markdown file: {e}")
     return
 
   reference_dir = os.path.join(os.path.dirname(md_path), 'reference')
@@ -720,31 +720,31 @@ def main():
   jsonl_path = os.path.join(reference_dir, 'references.jsonl')
 
   if os.path.exists(jsonl_path):
-    print(f'📋 引用文件已存在，跳过重建: {jsonl_path}')
+    print(f'📋 Reference file already exists, skipping: {jsonl_path}')
     return
 
-  print("🔍 开始解析引用...")
+  print("🔍 Starting to parse references...")
   ref_lines = parse_references_block(markdown_text)
 
   if not ref_lines:
-    print("⚠️  未找到引用内容，创建空文件")
+    print("⚠️  No reference content found, creating empty file")
     write_jsonl([], jsonl_path)
-    print(f"📋 空引用文件: {jsonl_path}")
+    print(f"📋 Empty reference file: {jsonl_path}")
     return
 
   ref_entries = group_reference_entries(ref_lines)
-  print(f"📝 分组后得到 {len(ref_entries)} 个引用条目")
+  print(f"📝 Got {len(ref_entries)} reference entries after grouping")
 
   if not ref_entries:
-    print("⚠️  引用条目为空，创建空文件")
+    print("⚠️  Reference entries are empty, creating empty file")
     write_jsonl([], jsonl_path)
-    print(f"📋 空引用文件: {jsonl_path}")
+    print(f"📋 Empty reference file: {jsonl_path}")
     return
 
   items = build_reference_items(ref_entries)
-  print(f"🔗 解析得到 {len(items)} 个有效引用")
+  print(f"🔗 Parsed {len(items)} valid references")
 
-  # 去重：完全相同的条目只保留一份
+  # Deduplication: keep only one copy of completely identical entries
   if items:
     seen = set()
     deduped = []
@@ -756,18 +756,18 @@ def main():
       deduped.append(it)
     removed = len(items) - len(deduped)
     if removed > 0:
-      print(f'🔄 去重: 移除 {removed} 条重复引用 (原始 {len(items)} -> 保留 {len(deduped)})')
+      print(f'🔄 Deduplication: removed {removed} duplicate references (original {len(items)} -> kept {len(deduped)})')
     items = deduped
 
   write_jsonl(items, jsonl_path)
 
-  print("✅ 处理完成!")
+  print("✅ Processing complete!")
   print(f"📄 Markdown: {md_path}")
-  print(f"📋 引用文件: {jsonl_path} ({len(items)} 条)")
+  print(f"📋 Reference file: {jsonl_path} ({len(items)} entries)")
 
   if not items:
-    print("⚠️  警告: 未能解析到引用内容")
-    print("💡 建议检查页面是否包含 References 段落或调整解析策略")
+    print("⚠️  Warning: No reference content parsed")
+    print("💡 Suggestion: Check if page contains References section or adjust parsing strategy")
 
 
 if __name__ == '__main__':

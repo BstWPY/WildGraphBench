@@ -9,18 +9,18 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Tuple
 import time
 
-# 配置 - 使用相对路径，可通过环境变量覆盖
+# Configuration - use relative paths, can be overridden via environment variables
 DATASET_ROOT = Path(os.environ.get("DATASET_ROOT", "./corpus"))
 EXTRACTOR_SCRIPT = Path(os.environ.get("EXTRACTOR_SCRIPT", "./tools/wiki_extractor.py"))
 OUTPUT_ROOT = Path(os.environ.get("OUTPUT_ROOT", "./extracted_data"))
-MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "12"))  # 并发数
+MAX_WORKERS = int(os.environ.get("MAX_WORKERS", "12"))  # concurrency
 
 
 def process_topic(topic_dir: Path, category_name: str) -> Tuple[bool, str, int, int]:
-    """处理单个主题
+    """Process a single topic
     
     Returns:
-        (成功?, 主题名, 有效数, 无效数)
+        (success?, topic_name, valid_count, invalid_count)
     """
     topic_name = topic_dir.name
     topic_output = OUTPUT_ROOT / category_name / topic_name
@@ -30,10 +30,10 @@ def process_topic(topic_dir: Path, category_name: str) -> Tuple[bool, str, int, 
     invalid_output = topic_output / "invalid_triples.jsonl"
     log_file = topic_output / "extraction.log"
     
-    print(f"[{time.strftime('%H:%M:%S')}] 🔄 开始: {category_name}/{topic_name}")
+    print(f"[{time.strftime('%H:%M:%S')}] 🔄 Starting: {category_name}/{topic_name}")
     
     try:
-        # 调用 wiki_extractor.py
+        # Call wiki_extractor.py
         with open(log_file, 'w', encoding='utf-8') as log:
             result = subprocess.run(
                 [
@@ -51,28 +51,28 @@ def process_topic(topic_dir: Path, category_name: str) -> Tuple[bool, str, int, 
             valid_count = sum(1 for _ in valid_output.open()) if valid_output.exists() else 0
             invalid_count = sum(1 for _ in invalid_output.open()) if invalid_output.exists() else 0
             
-            print(f"[{time.strftime('%H:%M:%S')}] ✅ 完成: {category_name}/{topic_name} "
-                  f"(有效: {valid_count}, 无效: {invalid_count})")
+            print(f"[{time.strftime('%H:%M:%S')}] ✅ Done: {category_name}/{topic_name} "
+                  f"(valid: {valid_count}, invalid: {invalid_count})")
             return True, topic_name, valid_count, invalid_count
         else:
-            print(f"[{time.strftime('%H:%M:%S')}] ❌ 失败: {category_name}/{topic_name}")
+            print(f"[{time.strftime('%H:%M:%S')}] ❌ Failed: {category_name}/{topic_name}")
             return False, topic_name, 0, 0
             
     except Exception as e:
-        print(f"[{time.strftime('%H:%M:%S')}] ❌ 错误: {category_name}/{topic_name} - {e}")
+        print(f"[{time.strftime('%H:%M:%S')}] ❌ Error: {category_name}/{topic_name} - {e}")
         return False, topic_name, 0, 0
 
 
 def main():
     print("="*60)
-    print("🚀 开始批量抽取 Wiki 数据 (并行模式)")
-    print(f"⚙️  并发数: {MAX_WORKERS}")
+    print("🚀 Starting batch Wiki data extraction (parallel mode)")
+    print(f"⚙️  Concurrency: {MAX_WORKERS}")
     print("="*60)
     print()
     
     OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
     
-    # 收集所有待处理的主题
+    # Collect all topics to process
     tasks = []
     for category_dir in sorted(DATASET_ROOT.iterdir()):
         if not category_dir.is_dir():
@@ -80,29 +80,29 @@ def main():
         
         category_name = category_dir.name
         
-        # 跳过特定目录
+        # Skip specific directories
         if category_name == "token_statistics_raw.json":
             continue
         
-        # 创建分类输出目录
+        # Create category output directory
         (OUTPUT_ROOT / category_name).mkdir(parents=True, exist_ok=True)
         
-        # 收集该分类下的所有主题
+        # Collect all topics under this category
         for topic_dir in sorted(category_dir.iterdir()):
             if not topic_dir.is_dir():
                 continue
             
-            # ★ 新增：跳过 reference 目录
+            # Skip reference directory
             if topic_dir.name.lower() == 'reference':
-                print(f"⏭️  跳过: {category_name}/reference")
+                print(f"⏭️  Skip: {category_name}/reference")
                 continue
             
             tasks.append((topic_dir, category_name))
     
     total = len(tasks)
-    print(f"📊 总共发现 {total} 个主题\n")
+    print(f"📊 Found {total} topics in total\n")
     
-    # 并行处理
+    # Parallel processing
     stats = {
         'success': 0,
         'failed': 0,
@@ -126,20 +126,20 @@ def main():
             else:
                 stats['failed'] += 1
     
-    # 打印统计
+    # Print statistics
     print()
     print("="*60)
-    print("✅ 批量抽取完成！")
+    print("✅ Batch extraction completed!")
     print("="*60)
     print()
-    print("📊 统计信息:")
-    print(f"  总主题数: {total}")
-    print(f"  ✅ 成功: {stats['success']}")
-    print(f"  ❌ 失败: {stats['failed']}")
-    print(f"  📄 总有效 triples: {stats['total_valid']}")
-    print(f"  ⚠️  总无效 triples: {stats['total_invalid']}")
+    print("📊 Statistics:")
+    print(f"  Total topics: {total}")
+    print(f"  ✅ Success: {stats['success']}")
+    print(f"  ❌ Failed: {stats['failed']}")
+    print(f"  📄 Total valid triples: {stats['total_valid']}")
+    print(f"  ⚠️  Total invalid triples: {stats['total_invalid']}")
     print()
-    print(f"📁 输出目录: {OUTPUT_ROOT}")
+    print(f"📁 Output directory: {OUTPUT_ROOT}")
 
 
 if __name__ == "__main__":

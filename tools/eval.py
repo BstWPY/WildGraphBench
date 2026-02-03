@@ -42,7 +42,7 @@ async def call_claude_api_async(
     debug: bool = False,
     retry: int = 3
 ) -> str:
-    """异步调用 Claude API"""
+    """Async call to Claude API"""
     url = f"{BASE_URL}/messages"
     headers = {
         "Authorization": f"Bearer {APY_KEY}",
@@ -67,9 +67,9 @@ async def call_claude_api_async(
                 if response.status != 200:
                     error_text = await response.text()
                     error_msg = f"API error {response.status}: {error_text}"
-                    print(f"  [Claude API错误] {error_msg}", file=sys.stderr)
+                    print(f"  [Claude API Error] {error_msg}", file=sys.stderr)
                     if attempt < retry - 1:
-                        await asyncio.sleep(2 ** attempt)  # 指数退避
+                        await asyncio.sleep(2 ** attempt)  # exponential backoff
                         continue
                     return ""
                 
@@ -78,7 +78,7 @@ async def call_claude_api_async(
                 if debug:
                     print(f"[DEBUG] Full Response JSON: {json.dumps(result, ensure_ascii=False, indent=2)}")
                 
-                # 优先尝试 OpenAI 兼容格式
+                # First try OpenAI compatible format
                 if "choices" in result and len(result["choices"]) > 0:
                     choice = result["choices"][0]
                     if "message" in choice:
@@ -87,7 +87,7 @@ async def call_claude_api_async(
                             print(f"[DEBUG] Extracted from OpenAI format: {content}")
                         return content
                 
-                # 备选：原生 Claude 格式
+                # Fallback: native Claude format
                 if "content" in result and len(result["content"]) > 0:
                     content = result["content"][0].get("text", "")
                     if debug:
@@ -100,19 +100,19 @@ async def call_claude_api_async(
                 return ""
                 
         except asyncio.TimeoutError:
-            print(f"  [Claude API超时] Request timeout after 120s (attempt {attempt+1}/{retry})", file=sys.stderr)
+            print(f"  [Claude API Timeout] Request timeout after 120s (attempt {attempt+1}/{retry})", file=sys.stderr)
             if attempt < retry - 1:
                 await asyncio.sleep(2 ** attempt)
                 continue
             return ""
         except aiohttp.ClientError as e:
-            print(f"  [Claude API请求异常] {e} (attempt {attempt+1}/{retry})", file=sys.stderr)
+            print(f"  [Claude API Request Error] {e} (attempt {attempt+1}/{retry})", file=sys.stderr)
             if attempt < retry - 1:
                 await asyncio.sleep(2 ** attempt)
                 continue
             return ""
         except Exception as e:
-            print(f"  [Claude API异常] {e}", file=sys.stderr)
+            print(f"  [Claude API Exception] {e}", file=sys.stderr)
             if debug:
                 import traceback
                 traceback.print_exc()
@@ -121,17 +121,17 @@ async def call_claude_api_async(
     return ""
 
 def extract_json(text: str) -> dict:
-    """从文本中提取 JSON (支持 markdown 代码块)"""
+    """Extract JSON from text (supports markdown code blocks)"""
     if not text:
         return {}
     
-    # 尝试直接解析
+    # Try direct parse
     try:
         return json.loads(text)
     except:
         pass
     
-    # 提取 ```json ... ``` 代码块
+    # Extract ```json ... ``` code block
     match = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', text, re.DOTALL)
     if match:
         try:
@@ -139,7 +139,7 @@ def extract_json(text: str) -> dict:
         except:
             pass
     
-    # 提取第一个 {...} 对象
+    # Extract first {...} object
     match = re.search(r'\{(?:[^{}]|(?:\{[^{}]*\}))*\}', text, re.DOTALL)
     if match:
         try:
@@ -147,7 +147,7 @@ def extract_json(text: str) -> dict:
         except:
             pass
     
-    # 尝试更宽松的提取
+    # Try more relaxed extraction
     try:
         start = text.find('{')
         end = text.rfind('}')
@@ -167,7 +167,7 @@ async def json_chat_async(
     debug: bool = False,
     retry: int = 3
 ) -> dict:
-    """异步调用 Claude 并解析 JSON 响应"""
+    """Async call to Claude and parse JSON response"""
     system_prompt = """You are a careful grader. You must return ONLY a valid JSON object.
 Do not include any explanatory text before or after the JSON.
 Do not wrap the JSON in markdown code blocks.
@@ -191,7 +191,7 @@ Just return the raw JSON object directly."""
     if not content:
         return {}
     
-    # 尝试提取 JSON
+    # Try to extract JSON
     data = extract_json(content)
     
     if not data and debug:
@@ -204,7 +204,7 @@ Just return the raw JSON object directly."""
 # IO helpers
 # -----------------------
 def load_jsonl(path: Path) -> List[dict]:
-    """加载 JSONL 文件"""
+    """Load JSONL file"""
     out = []
     with path.open("r", encoding="utf-8") as f:
         for line in f:
@@ -218,7 +218,7 @@ def load_jsonl(path: Path) -> List[dict]:
     return out
 
 def load_json_or_jsonl(path: Path) -> List[dict]:
-    """加载 JSON 或 JSONL 文件"""
+    """Load JSON or JSONL file"""
     try:
         with path.open("r", encoding="utf-8") as f:
             data = json.load(f)
@@ -232,7 +232,7 @@ def load_json_or_jsonl(path: Path) -> List[dict]:
     return load_jsonl(path)
 
 def normalize_type(t: str) -> str:
-    """标准化题型名称"""
+    """Normalize question type name"""
     t = (t or "").strip().lower()
     if t in ("type1", "single", "single_fact", "single-fact"): 
         return "single_fact"
@@ -243,7 +243,7 @@ def normalize_type(t: str) -> str:
     return t or "unknown"
 
 def extract_question_type(g: dict) -> str:
-    """从 gold 记录中提取题型"""
+    """Extract question type from gold record"""
     if "type" in g:
         return normalize_type(g.get("type", ""))
     
@@ -317,9 +317,9 @@ CANDIDATE SUMMARY:
 # Type-3: statement-level extraction & alignment
 # -----------------------
 
-MAX_STATEMENTS_PER_SIDE = 20       # 每边最多抽多少条 statement（防止太细碎）
-TOP_K_MATCH = 5                    # 每条 statement 只看 top-k 个候选
-STATEMENT_MATCH_THRESHOLD = 0.7    # 认为“覆盖/支持”的相似度阈值
+MAX_STATEMENTS_PER_SIDE = 20       # max statements to extract per side (prevent too many fragments)
+TOP_K_MATCH = 5                    # only look at top-k candidates per statement
+STATEMENT_MATCH_THRESHOLD = 0.7    # similarity threshold for "covered/supported"
 
 
 async def extract_statements_async(
@@ -331,10 +331,10 @@ async def extract_statements_async(
     debug: bool = False,
 ) -> List[str]:
     """
-    用 gpt-5-mini 把 summary answer 拆成若干 atomic factual statements。
+    Use gpt-5-mini to decompose the summary answer into atomic factual statements.
 
-    - 对 gold（wiki 答案）会额外给 raw snippet 作为 context，但明确要求不能引入 snippet 里答案中没有的事实。
-    - 对 pred 只看模型答案本身。
+    - For gold (wiki answer), will provide raw snippet as context, but explicitly require not to introduce facts from snippet that are not in the answer.
+    - For pred, only look at the model answer itself.
     """
     answer = (answer or "").strip()
     if not answer:
@@ -399,13 +399,13 @@ Return JSON ONLY in this format:
             if s:
                 out.append(s)
     elif isinstance(statements, str):
-        # 容错：万一直接返回一个长字符串，就按句号/分号粗切一下
+        # Error tolerance: if a long string is returned directly, roughly split by period/semicolon
         for s in re.split(r'[。.;；]\s*', statements):
             s = s.strip()
             if s:
                 out.append(s)
 
-    # 去重 + 截断
+    # Deduplicate + truncate
     seen = set()
     unique_out = []
     for s in out:
@@ -423,19 +423,19 @@ async def match_statements_async(
     debug: bool = False,
 ) -> List[int]:
     """
-    给定一个 REFERENCE ANSWER（完整答案段落）和若干 CANDIDATE STATEMENTS，
-    判断每条 statement 是否被 REFERENCE ANSWER 事实性支持。
+    Given a REFERENCE ANSWER (complete paragraph) and several CANDIDATE STATEMENTS,
+    determine whether each statement is factually supported by the REFERENCE ANSWER.
 
-    返回长度为 len(cand_statements) 的 0/1 列表：
-      - 1 表示 statement 可以从 ref_answer 中清楚地推出/支持
-      - 0 表示 ref_answer 未清楚表达该事实，或与之矛盾/不完全一致
+    Returns a 0/1 list of length len(cand_statements):
+      - 1 means the statement can be clearly derived/supported from ref_answer
+      - 0 means ref_answer does not clearly express that fact, or contradicts/partially disagrees with it
     """
     if not cand_statements:
         return []
 
     ref_answer = (ref_answer or "").strip()
     if not ref_answer:
-        # 没有参考答案时，所有语句都视为不被支持
+        # When there is no reference answer, all statements are considered unsupported
         return [0] * len(cand_statements)
 
     cand_block = "\n".join(
@@ -472,7 +472,7 @@ Return JSON ONLY in this format:
         retry=3,
     )
 
-    # 默认全部 0
+    # Default all to 0
     flags = [0] * len(cand_statements)
     if not data:
         return flags
@@ -493,7 +493,7 @@ Return JSON ONLY in this format:
         try:
             idx_int = int(idx)
             if 1 <= idx_int <= len(cand_statements):
-                # 兼容 0/1 或 0.0~1.0：>0.5 当作 1
+                # Compatible with 0/1 or 0.0~1.0: treat >0.5 as 1
                 sc_f = float(sc)
                 supported = 1 if sc_f >= 0.5 else 0
                 flags[idx_int - 1] = supported
@@ -513,23 +513,23 @@ async def score_alignment_one_direction_async(
     direction: str = "gold->pred",
 ) -> Tuple[float, List[Dict]]:
     """
-    单向对齐（基于“整段答案 vs 单条 statement”的 0/1 判断）：
+    Unidirectional alignment (based on 0/1 judgment of "full answer vs single statement"):
 
-    - source_statements: 需要被 ref_answer 覆盖/验证的一组语句
-      * gold->pred 时：gold_statements
-      * pred->gold 时：pred_statements
-    - ref_answer: 作为“证据”的完整答案文本
-      * gold->pred 时：pred_answer
-      * pred->gold 时：gold_answer
+    - source_statements: A set of statements that need to be covered/verified by ref_answer
+      * For gold->pred: gold_statements
+      * For pred->gold: pred_statements
+    - ref_answer: The complete answer text used as "evidence"
+      * For gold->pred: pred_answer
+      * For pred->gold: gold_answer
 
-    对 source_statements 里的每一条，判断是否被 ref_answer 事实性支持。
-    hit_rate = 被支持的语句数 / 语句总数
+    For each statement in source_statements, determine whether it is factually supported by ref_answer.
+    hit_rate = number of supported statements / total number of statements
     """
     details: List[Dict] = []
     if not source_statements:
         return 0.0, details
 
-    # 调一次模型，让它对这一批 statements 逐条打 0/1
+    # Call the model once to score each statement in this batch with 0/1
     flags = await match_statements_async(
         session,
         ref_answer=ref_answer,
@@ -566,15 +566,15 @@ async def grade_binary_async(
     pred: str,
     debug: bool = False
 ) -> Tuple[int, str]:
-    """异步二分评分"""
+    """Async binary grading"""
     if not pred.strip():
-        return 0, "空答案"
+        return 0, "Empty answer"
     
     prompt = BIN_PROMPT.format(question=q, gold=gold, pred=pred)
     data = await json_chat_async(session, prompt, max_tokens=2048, temperature=0.0, debug=debug, retry=3)
     
     if not data:
-        return 0, "Claude返回无效JSON"
+        return 0, "Claude returned invalid JSON"
     
     score_raw = data.get("score", 0)
     if isinstance(score_raw, str):
@@ -586,7 +586,7 @@ async def grade_binary_async(
     else:
         score = int(score_raw in (1, "1", True))
     
-    reason = (data.get("reason") or "").strip() or "无"
+    reason = (data.get("reason") or "").strip() or "N/A"
     return score, reason
 
 async def grade_summary_async(
@@ -596,15 +596,15 @@ async def grade_summary_async(
     pred: str,
     debug: bool = False
 ) -> Tuple[int, str]:
-    """异步摘要评分"""
+    """Async summary grading"""
     if not pred.strip():
-        return 0, "空答案"
+        return 0, "Empty answer"
     
     prompt = SUMMARY_PROMPT.format(question=q, gold=gold, pred=pred)
     data = await json_chat_async(session, prompt, max_tokens=2048, temperature=0.0, debug=debug, retry=3)
     
     if not data:
-        return 0, "Claude返回无效JSON"
+        return 0, "Claude returned invalid JSON"
     
     score_raw = data.get("score", 0)
     if isinstance(score_raw, str):
@@ -616,14 +616,14 @@ async def grade_summary_async(
     else:
         score = int(score_raw in (1, "1", True))
     
-    reason = (data.get("reason") or "").strip() or "无"
+    reason = (data.get("reason") or "").strip() or "None"
     return score, reason
 
 # -----------------------
 # Extract answer from prediction
 # -----------------------
 def extract_pred_answer(p: dict) -> str:
-    """从预测记录中提取答案"""
+    """Extract answer from prediction record"""
     if not p:
         return ""
     
@@ -647,7 +647,7 @@ def extract_pred_answer(p: dict) -> str:
 # Alignment
 # -----------------------
 def align_by_question(golds: List[dict], preds: List[dict]) -> List[Tuple[dict, Optional[dict]]]:
-    """按 question 对齐"""
+    """Align by question"""
     q2pred = {}
     for p in preds:
         question = (p.get("question") or "").strip()
@@ -662,7 +662,7 @@ def align_by_question(golds: List[dict], preds: List[dict]) -> List[Tuple[dict, 
     return out
 
 def align_by_id(golds: List[dict], preds: List[dict]) -> List[Tuple[dict, Optional[dict]]]:
-    """按 id 对齐"""
+    """Align by id"""
     id2pred = {}
     for p in preds:
         pid = p.get("id")
@@ -677,14 +677,14 @@ def align_by_id(golds: List[dict], preds: List[dict]) -> List[Tuple[dict, Option
     return out
 
 def align(golds: List[dict], preds: List[dict]) -> List[Tuple[dict, Optional[dict]]]:
-    """智能对齐"""
+    """Smart alignment"""
     has_id = any(p.get("id") is not None for p in preds)
     
     if has_id:
-        print("[INFO] 使用 ID 对齐模式")
+        print("[INFO] Using ID alignment mode")
         return align_by_id(golds, preds)
     else:
-        print("[INFO] 使用 Question 对齐模式")
+        print("[INFO] Using Question alignment mode")
         return align_by_question(golds, preds)
 
 # -----------------------
@@ -698,7 +698,7 @@ async def evaluate_single(
     p: Optional[dict],
     debug: bool = False
 ) -> dict:
-    """评测单个样本（带并发控制）"""
+    """Evaluate a single sample (with concurrency control)"""
     async with semaphore:
         gid = g.get("id")
         gtype = extract_question_type(g)
@@ -715,7 +715,7 @@ async def evaluate_single(
             "pred_answer": pred_answer,
         }
 
-        # 前3个样本启用详细日志
+        # Enable detailed logging for first 3 samples
         debug_this = debug or idx <= 3
 
         try:
@@ -726,12 +726,11 @@ async def evaluate_single(
                 rec.update({"score": score, "reason": reason})
 
             elif gtype == "summary":
-                # ---------- Type-3：使用预先固化的 gold_statements ----------
-                # 1) 从 gold 记录中读取预先抽好的 statements
+                # ---------- Type-3: Use pre-cached gold_statements ----------
+                # 1) Read pre-extracted statements from gold record
                 gold_statements = g.get("gold_statements") or g.get("statements") or []
-
                 if isinstance(gold_statements, str):
-                    # 万一写成了一个大字符串，简单按行/分号切一下
+                    # In case it's written as a big string, simply split by line/semicolon
                     tmp = []
                     for s in re.split(r'[\n;；]+', gold_statements):
                         s = s.strip()
@@ -742,13 +741,13 @@ async def evaluate_single(
                 if not isinstance(gold_statements, list):
                     gold_statements = []
 
-                # 尝试从 gold 里拿到 wiki_snippet（仅供 debug / 可视化，不再用于抽句）
+                # Try to get wiki_snippet from gold (for debug/visualization only, no longer used for statement extraction)
                 snippet = ""
                 src_list = g.get("source") or g.get("sources")
                 if isinstance(src_list, list) and src_list and isinstance(src_list[0], dict):
                     snippet = (src_list[0].get("wiki_snippet") or "").strip()
 
-                # 2) 只对 pred 再抽一次 atomic statements
+                # 2) Only extract atomic statements from pred once more
                 pred_statements = await extract_statements_async(
                     session,
                     pred_answer,
@@ -763,10 +762,10 @@ async def evaluate_single(
                     stmt_acc = 0.0
                     f1 = 0.0
                     score = 0
-                    reason = f"statement 抽取失败或为空 (gold={len(gold_statements)}, pred={len(pred_statements)})"
+                    reason = f"Statement extraction failed or empty (gold={len(gold_statements)}, pred={len(pred_statements)})"
                 else:
-                    # 3) gold -> pred: coverage（召回）
-                    #    判断“每条 gold_statement 是否被 pred_answer 支持”
+                    # 3) gold -> pred: coverage (recall)
+                    #    Check whether each gold_statement is supported by pred_answer
                     coverage, cov_details = await score_alignment_one_direction_async(
                         session,
                         source_statements=gold_statements,
@@ -774,8 +773,8 @@ async def evaluate_single(
                         debug=debug_this,
                         direction="gold->pred",
                     )
-                    # 4) pred -> gold: accuracy（精度）
-                    #    判断“每条 pred_statement 是否被 gold_answer 支持”
+                    # 4) pred -> gold: accuracy (precision)
+                    #    Check whether each pred_statement is supported by gold_answer
                     stmt_acc, acc_details = await score_alignment_one_direction_async(
                         session,
                         source_statements=pred_statements,
@@ -789,10 +788,10 @@ async def evaluate_single(
                     else:
                         f1 = 0.0
 
-                    # 严格二分类保持不变
+                    # Strict binary classification unchanged
                     score = 1 if (coverage >= 1.0 and stmt_acc >= 1.0) else 0
                     reason = (
-                        f"statement-level 双向对齐: "
+                        f"statement-level bidirectional alignment: "
                         f"coverage={coverage:.3f}, accuracy={stmt_acc:.3f}, f1={f1:.3f}"
                     )
 
@@ -806,10 +805,10 @@ async def evaluate_single(
                     "pred_statements": pred_statements,
                 })
             else:
-                rec.update({"score": 0, "reason": "未知题型"})
+                rec.update({"score": 0, "reason": "Unknown question type"})
                 
         except Exception as e:
-            rec.update({"score": 0, "reason": f"评测异常: {e}"})
+            rec.update({"score": 0, "reason": f"Evaluation error: {e}"})
             if debug:
                 import traceback
                 traceback.print_exc()
@@ -825,7 +824,7 @@ async def run_evaluation(
     max_concurrent: int = 10,
     debug: bool = False
 ) -> List[dict]:
-    """并发评测所有样本"""
+    """Concurrent evaluation of all samples"""
     semaphore = asyncio.Semaphore(max_concurrent)
     
     connector = aiohttp.TCPConnector(limit=max_concurrent * 2)
@@ -837,17 +836,17 @@ async def run_evaluation(
             for i, (g, p) in enumerate(pairs, start=1)
         ]
         
-        # 使用 tqdm 显示进度
+        # Use tqdm to show progress
         results = []
         with open(scored_path, "w", encoding="utf-8") as fout:
-            for coro in tqdm_asyncio.as_completed(tasks, total=len(tasks), desc="评测进度"):
+            for coro in tqdm_asyncio.as_completed(tasks, total=len(tasks), desc="Evaluation Progress"):
                 rec = await coro
                 results.append(rec)
                 fout.write(json.dumps(rec, ensure_ascii=False) + "\n")
                 fout.flush()
                 
-                # 打印简要信息
-                print(f"[{rec['idx']:04d}] ID={rec['id']} {rec['type']:12s} 分数={rec['score']} | {rec['reason'][:60]}")
+                # Print summary info
+                print(f"[{rec['idx']:04d}] ID={rec['id']} {rec['type']:12s} score={rec['score']} | {rec['reason'][:60]}")
         
         return results
 
@@ -864,8 +863,8 @@ def main():
                     default="./eval_output",
                     help="Output directory for evaluation results")
     ap.add_argument("--max-concurrent", type=int, default=10,
-                    help="最大并发数（默认10）")
-    ap.add_argument("--debug", action="store_true", help="打印详细调试信息")
+                    help="Maximum concurrency (default 10)")
+    ap.add_argument("--debug", action="store_true", help="Print detailed debug info")
     args = ap.parse_args()
 
     outdir = Path(args.outdir)
@@ -873,24 +872,24 @@ def main():
     scored_path = outdir / "scored2.jsonl"
     report_path = outdir / "report2.json"
 
-    # 加载数据
+    # Load data
     golds = load_jsonl(Path(args.gold))
     preds = load_json_or_jsonl(Path(args.pred))
     
-    # 对齐
+    # Alignment
     pairs = align(golds, preds)
 
-    print(f"\n===== 开始评测 =====")
-    print(f"Gold 条数: {len(golds)} | Pred 条数: {len(preds)} | 对齐后: {len(pairs)}")
-    print(f"评测模型: Claude 4.5 Haiku ({MODEL})")
-    print(f"最大并发: {args.max_concurrent}")
-    print(f"评分标准: 所有题型均为二分评分（事实级别严格匹配）")
-    print(f"调试模式: {args.debug}\n")
+    print(f"\n===== Starting Evaluation =====")
+    print(f"Gold count: {len(golds)} | Pred count: {len(preds)} | After alignment: {len(pairs)}")
+    print(f"Evaluation model: Claude 4.5 Haiku ({MODEL})")
+    print(f"Max concurrency: {args.max_concurrent}")
+    print(f"Grading criteria: All question types use binary grading (fact-level strict matching)")
+    print(f"Debug mode: {args.debug}\n")
 
-    # 运行异步评测
+    # Run async evaluation
     results = asyncio.run(run_evaluation(pairs, scored_path, args.max_concurrent, args.debug))
 
-    # 统计结果
+    # Compute statistics
     total = len(results)
     t1_correct = sum(1 for r in results if r.get("type") == "single_fact" and r.get("score") == 1)
     t2_correct = sum(1 for r in results if r.get("type") == "multi_fact" and r.get("score") == 1)
@@ -904,7 +903,7 @@ def main():
     acc2 = (t2_correct / n2) if n2 else 0.0
     acc3 = (t3_correct / n3) if n3 else 0.0
 
-    # 新增：对 Type-3 的 coverage / accuracy / f1 做宏平均
+    # Added: macro-average coverage / accuracy / f1 for Type-3
     sum_cov = sum(r.get("coverage", 0.0) for r in results if r.get("type") == "summary")
     sum_stmt_acc = sum(r.get("statement_accuracy", 0.0) for r in results if r.get("type") == "summary")
     sum_stmt_f1 = sum(r.get("statement_f1", 0.0) for r in results if r.get("type") == "summary")
@@ -952,9 +951,9 @@ def main():
     with report_path.open("w", encoding="utf-8") as f:
         json.dump(report, f, ensure_ascii=False, indent=2)
 
-    print("\n===== 评测完成 =====")
+    print("\n===== Evaluation Complete =====")
     print(json.dumps(report, ensure_ascii=False, indent=2))
-    print(f"\n结果文件：\n- 逐条打分：{scored_path}\n- 汇总报告：{report_path}\n")
+    print(f"\nResult files:\n- Scored output: {scored_path}\n- Summary report: {report_path}\n")
 
 if __name__ == "__main__":
     main()

@@ -14,7 +14,7 @@ DEFAULT_SPIDER_API_URL = os.environ.get("SPIDER_API_URL", "YOUR_SPIDER_API_URL_H
 DEFAULT_SPIDER_TIMEOUT = 120
 DEFAULT_MAX_RETRY = 2
 
-# 设置日志
+# Setup logging
 logger = logging.getLogger('SpiderTool')
 logger.setLevel(logging.INFO)
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
@@ -24,7 +24,7 @@ logger.addHandler(console_handler)
 
 
 class SpiderTool:
-    """基于spider-api-gateway的网页爬取工具"""
+    """Web scraping tool based on spider-api-gateway"""
 
     def __init__(
         self,
@@ -45,24 +45,24 @@ class SpiderTool:
     def retrieve(
         self,
         url: str,
-        content: str = "string",  # 默认值，可以自定义
+        content: str = "string",  # Default value, can be customized
     ) -> Dict[str, Any]:
         """
-        爬取和解析网页内容
+        Scrape and parse web page content
 
         Args:
-            url: 要爬取的网址
-            content: 内容参数（根据API文档调整）
+            url: URL to scrape
+            content: Content parameter (adjust according to API documentation)
 
         Returns:
-            包含爬取结果的字典
+            Dictionary containing scrape results
         """
         for attempt in range(self.max_retry):
             request_id = (
                 f"spider_retrieve_{int(time.time() * 1000)}_{random.randint(1000, 9999)}"
             )
 
-            # 根据curl命令构建payload
+            # Build payload based on curl command
             payload = {
                 "content": content,
                 "enable_cache": self.enable_cache,
@@ -76,57 +76,57 @@ class SpiderTool:
             }
 
             try:
-                logger.info(f"正在爬取: {url}")
+                logger.info(f"Scraping: {url}")
                 if self.debug:
                     logger.debug(
-                        f"请求载荷: {json.dumps(payload, ensure_ascii=False, indent=2)}"
+                        f"Request payload: {json.dumps(payload, ensure_ascii=False, indent=2)}"
                     )
                     logger.debug(
-                        f"请求头: {json.dumps(headers, ensure_ascii=False, indent=2)}"
+                        f"Request headers: {json.dumps(headers, ensure_ascii=False, indent=2)}"
                     )
 
                 response = requests.post(
                     self.api_url,
-                    json=payload,  # 使用json参数而不是data
+                    json=payload,  # Use json parameter instead of data
                     headers=headers,
                     timeout=self.timeout,
                 )
 
                 if self.debug:
-                    logger.debug(f"HTTP状态码: {response.status_code}")
-                    logger.debug(f"响应头: {dict(response.headers)}")
+                    logger.debug(f"HTTP status code: {response.status_code}")
+                    logger.debug(f"Response headers: {dict(response.headers)}")
 
                 return self._handle_response(response, url, request_id)
 
             except requests.exceptions.Timeout as e:
-                logger.error(f"请求超时 (尝试 {attempt + 1}/{self.max_retry}): {e}")
+                logger.error(f"Request timeout (attempt {attempt + 1}/{self.max_retry}): {e}")
                 if attempt < self.max_retry - 1:
-                    wait_time = 2 ** attempt + random.uniform(0, 1)  # 指数退避
-                    logger.info(f"等待 {wait_time:.1f}s 后重试...")
+                    wait_time = 2 ** attempt + random.uniform(0, 1)  # Exponential backoff
+                    logger.info(f"Waiting {wait_time:.1f}s before retry...")
                     time.sleep(wait_time)
                 continue
 
             except requests.exceptions.ConnectionError as e:
-                logger.error(f"连接错误 (尝试 {attempt + 1}/{self.max_retry}): {e}")
+                logger.error(f"Connection error (attempt {attempt + 1}/{self.max_retry}): {e}")
                 if attempt < self.max_retry - 1:
                     wait_time = 2 ** attempt + random.uniform(0, 1)
-                    logger.info(f"等待 {wait_time:.1f}s 后重试...")
+                    logger.info(f"Waiting {wait_time:.1f}s before retry...")
                     time.sleep(wait_time)
                 continue
 
             except Exception as e:
                 logger.error(
-                    f"其他错误 (尝试 {attempt + 1}/{self.max_retry}): {type(e).__name__}: {e}"
+                    f"Other error (attempt {attempt + 1}/{self.max_retry}): {type(e).__name__}: {e}"
                 )
                 if attempt < self.max_retry - 1:
                     wait_time = 2 ** attempt + random.uniform(0, 1)
-                    logger.info(f"等待 {wait_time:.1f}s 后重试...")
+                    logger.info(f"Waiting {wait_time:.1f}s before retry...")
                     time.sleep(wait_time)
                 continue
 
         return {
             "success": False,
-            "error": f"所有 {self.max_retry} 次重试尝试均失败",
+            "error": f"All {self.max_retry} retry attempts failed",
             "url": url,
         }
 
@@ -136,13 +136,13 @@ class SpiderTool:
         url: str,
         request_id: str,
     ) -> Dict[str, Any]:
-        """处理响应，输出详细的调试信息"""
+        """Handle response with detailed debug output"""
         try:
-            # 首先检查HTTP状态码
+            # First check HTTP status code
             if response.status_code != 200:
-                error_msg = f"HTTP错误: {response.status_code} - {response.reason}"
+                error_msg = f"HTTP error: {response.status_code} - {response.reason}"
                 if self.debug:
-                    logger.error(f"响应内容: {response.text}")
+                    logger.error(f"Response content: {response.text}")
                 return {
                     "success": False,
                     "error": error_msg,
@@ -152,12 +152,12 @@ class SpiderTool:
                     "request_id": request_id,
                 }
 
-            # 尝试解析JSON
+            # Try to parse JSON
             try:
                 response_data = response.json()
             except json.JSONDecodeError as e:
-                error_msg = f"JSON解析失败: {e}"
-                logger.error(f"{error_msg}, 原始响应: {response.text[:1000]}")
+                error_msg = f"JSON parsing failed: {e}"
+                logger.error(f"{error_msg}, raw response: {response.text[:1000]}")
                 return {
                     "success": False,
                     "error": error_msg,
@@ -166,17 +166,17 @@ class SpiderTool:
                     "request_id": request_id,
                 }
 
-            # 打印完整响应用于调试
+            # Print full response for debugging
             if self.debug:
                 logger.debug(
-                    f"完整API响应: {json.dumps(response_data, ensure_ascii=False, indent=2)}"
+                    f"Full API response: {json.dumps(response_data, ensure_ascii=False, indent=2)}"
                 )
 
-            # 分析响应结构
+            # Analyze response structure
             response_keys = list(response_data.keys())
-            logger.info(f"响应包含字段: {response_keys}")
+            logger.info(f"Response contains fields: {response_keys}")
 
-            # 检查响应是否成功（根据实际API响应格式调整）
+            # Check if response is successful (adjust based on actual API response format)
             success_indicators = [
                 response_data.get("success") is True,
                 response_data.get("status") == "success",
@@ -187,12 +187,12 @@ class SpiderTool:
             ]
 
             if any(success_indicators):
-                # 提取内容（根据实际API响应格式调整字段名）
+                # Extract content (adjust field names based on actual API response format)
                 content = ""
                 title = ""
                 description = ""
 
-                # 尝试不同的字段名
+                # Try different field names
                 if "data" in response_data:
                     data_field = response_data["data"]
                     if isinstance(data_field, dict):
@@ -222,14 +222,14 @@ class SpiderTool:
                     elif isinstance(result_field, str):
                         content = result_field
 
-                # 如果还是没有内容，尝试直接从响应中提取
+                # If still no content, try to extract directly from response
                 if not content:
                     for key in ["text", "markdown", "html"]:
                         if key in response_data and response_data[key]:
                             content = response_data[key]
                             break
 
-                logger.info(f"✅ 成功提取内容，长度: {len(content)} 字符")
+                logger.info(f"✅ Successfully extracted content, length: {len(content)} chars")
 
                 return {
                     "success": True,
@@ -244,28 +244,28 @@ class SpiderTool:
                     "url": url,
                 }
 
-            # 失败情况
+            # Failure case
             error_details = []
 
-            # 检查常见的错误字段
+            # Check common error fields
             if "error" in response_data:
-                error_details.append(f"API错误: {response_data['error']}")
+                error_details.append(f"API error: {response_data['error']}")
             if "message" in response_data:
-                error_details.append(f"消息: {response_data['message']}")
+                error_details.append(f"Message: {response_data['message']}")
             if "status" in response_data:
-                error_details.append(f"状态: {response_data['status']}")
+                error_details.append(f"Status: {response_data['status']}")
             if "code" in response_data:
-                error_details.append(f"错误代码: {response_data['code']}")
+                error_details.append(f"Error code: {response_data['code']}")
 
-            # 组合错误信息
+            # Combine error messages
             if error_details:
-                error_msg = "API返回失败状态: " + " | ".join(error_details)
+                error_msg = "API returned failure status: " + " | ".join(error_details)
             else:
-                error_msg = f"未知的API响应格式，响应字段: {response_keys}"
+                error_msg = f"Unknown API response format, response fields: {response_keys}"
 
-            # 如果响应很小，包含完整内容
+            # If response is small, include full content
             if len(str(response_data)) < 2000:
-                error_msg += f" | 完整响应: {json.dumps(response_data, ensure_ascii=False)}"
+                error_msg += f" | Full response: {json.dumps(response_data, ensure_ascii=False)}"
 
             logger.error(error_msg)
 
@@ -279,7 +279,7 @@ class SpiderTool:
             }
 
         except Exception as e:
-            error_msg = f"解析响应时出错: {type(e).__name__}: {e}"
+            error_msg = f"Error parsing response: {type(e).__name__}: {e}"
             logger.error(error_msg)
             return {
                 "success": False,
@@ -291,14 +291,14 @@ class SpiderTool:
 
     def __call__(self, url: str, **kwargs) -> Dict[str, Any]:
         """
-        调用接口的简化方法
+        Simplified interface call method
 
         Args:
-            url: 要爬取的网址
-            **kwargs: 其他参数
+            url: URL to scrape
+            **kwargs: Additional parameters
 
         Returns:
-            爬取结果
+            Scraping result
         """
         try:
             response_dict = self.retrieve(url, **kwargs)
@@ -322,18 +322,18 @@ class SpiderTool:
                     'request_id': response_dict.get("request_id", "")
                 }
         except Exception as e:
-            logger.error(f"爬取失败: {e}")
+            logger.error(f"Scrape failed: {e}")
             return {
                 'success': False,
                 'url': url,
                 'title': '',
                 'content': '',
-                'error': f"调用异常: {type(e).__name__}: {e}"
+                'error': f"Call exception: {type(e).__name__}: {e}"
             }
 
 
 def build_default_spider_tool(debug: bool = False) -> SpiderTool:
-    """提供一个可复用的默认实例"""
+    """Provide a reusable default instance"""
     return SpiderTool(
         api_url=DEFAULT_SPIDER_API_URL,
         timeout=DEFAULT_SPIDER_TIMEOUT,
@@ -345,14 +345,14 @@ def build_default_spider_tool(debug: bool = False) -> SpiderTool:
 
 
 def test_spider_api():
-    """测试新的spider API"""
+    """Test the new spider API"""
     test_urls = [
         "https://en.wikipedia.org/wiki/ChatGPT",
     ]
 
-    print("🚀 测试Spider API...")
+    print("🚀 Testing Spider API...")
 
-    # 创建工具实例
+    # Create tool instance
     tool = SpiderTool(debug=True)
 
     success_count = 0
@@ -360,7 +360,7 @@ def test_spider_api():
 
     for i, url in enumerate(test_urls, 1):
         print("\n" + "=" * 80)
-        print(f"📋 测试 {i}/{total_count}: {url}")
+        print(f"📋 Test {i}/{total_count}: {url}")
         print("=" * 80)
 
         start_time = time.time()
@@ -369,41 +369,41 @@ def test_spider_api():
 
         if result.get("success"):
             content_len = len(result.get("content", ""))
-            print("✅ 成功！")
-            print(f"   标题: {result.get('title', 'N/A')}")
-            print(f"   内容长度: {content_len} 字符")
-            print(f"   耗时: {end_time - start_time:.2f}秒")
-            print(f"   内容预览: {result.get('content', '')[:200]}...")
+            print("✅ Success!")
+            print(f"   Title: {result.get('title', 'N/A')}")
+            print(f"   Content length: {content_len} chars")
+            print(f"   Time: {end_time - start_time:.2f}s")
+            print(f"   Content preview: {result.get('content', '')[:200]}...")
             success_count += 1
         else:
             error = result.get("error", "Unknown error")
-            print(f"❌ 失败: {error}")
-            print(f"   耗时: {end_time - start_time:.2f}秒")
+            print(f"❌ Failed: {error}")
+            print(f"   Time: {end_time - start_time:.2f}s")
 
-        # 在URL之间添加延迟
+        # Add delay between URLs
         if i < total_count:
-            print("⏳ 等待2秒...")
+            print("⏳ Waiting 2 seconds...")
             time.sleep(2)
 
-    print(f"\n🎉 测试完成！成功率: {success_count}/{total_count} ({success_count/total_count*100:.1f}%)")
+    print(f"\n🎉 Testing complete! Success rate: {success_count}/{total_count} ({success_count/total_count*100:.1f}%)")
 
 
-# 保持兼容性：为了让旧代码仍然工作，提供别名
+# Maintain compatibility: provide aliases so old code still works
 GoliathTool = SpiderTool
 build_default_goliath_tool = build_default_spider_tool
 
 
 if __name__ == "__main__":
-    print("=== 测试新的Spider API网页爬取功能 ===")
+    print("=== Testing new Spider API web scraping functionality ===")
 
-    # 直接测试单个URL
+    # Directly test single URL
     tool = build_default_spider_tool(debug=True)
     result = tool("https://www.bbc.co.uk/pressoffice/pressreleases/stories/2008/03_march/07/ob.shtml")
 
-    print("\n📊 单个URL测试结果:")
+    print("\n📊 Single URL test result:")
     print(json.dumps(result, ensure_ascii=False, indent=2))
 
-    # 保存结果到文件
+    # Save result to file
     if result.get("success"):
         output_dir = os.environ.get("SPIDER_OUTPUT_DIR", "./output")
         os.makedirs(output_dir, exist_ok=True)
@@ -421,7 +421,7 @@ if __name__ == "__main__":
             f.write("---\n\n")
             f.write(content)
 
-        print(f"✅ 内容已保存到: {filepath}")
+        print(f"✅ Content saved to: {filepath}")
 
     print("\n" + "=" * 80)
     test_spider_api()

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌲 WildGraphBench
+# WildGraphBench
 
 **Benchmarking GraphRAG with Wild-Source Corpora**
 

@@ -4,7 +4,7 @@
 
 **Benchmarking GraphRAG with Wild-Source Corpora**
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](YOUR_ARXIV_LINK_HERE)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.02053-b31b1b.svg)](https://arxiv.org/abs/2602.02053)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-WildGraphBench-yellow)](https://huggingface.co/datasets/YOUR_HF_LINK_HERE)
 
@@ -182,7 +182,7 @@ If you find WildGraphBench useful in your research, please cite our paper:
 @article{wildgraphbench2025,
   title={WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora},
   author={},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  journal={arXiv preprint arXiv:2602.02053},
   year={2025}
 }
 ```

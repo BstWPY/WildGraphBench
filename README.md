@@ -118,76 +118,39 @@ WildGraphBench/
 
 ## 🚀 Quick Start
 
-WildGraphBench evaluates GraphRAG systems in two steps:
+WildGraphBench evaluates GraphRAG systems in **two steps**:
 
-| Step | What to do | Data to use |
-|:-----|:-----------|:------------|
-| **1. Build Graph** | Construct your knowledge graph | `corpus/{domain}/{topic}/reference_pages/` |
-| **2. Answer Questions** | Run your GraphRAG to answer | `QA/{domain}/questions.jsonl` |
+| Step | Task | Path |
+|:----:|:-----|:-----|
+| 1️⃣ | **Build Graph** from reference documents | `corpus/{domain}/{topic}/reference_pages/*.txt` |
+| 2️⃣ | **Answer Questions** and evaluate | `QA/{domain}/questions.jsonl` |
 
-### Step 1: Load Corpus for Graph Construction
-
-> ⚠️ **Important**: Build your graph from **reference pages**, not the Wikipedia article!
-
-```python
-from pathlib import Path
-
-# Choose a domain and topic
-domain = "people"
-topic = "Donald Trump"
-
-# Load all reference documents
-ref_dir = Path(f"corpus/{domain}/{topic}/reference_pages")
-documents = [f.read_text() for f in ref_dir.glob("*.txt")]
-
-print(f"Loaded {len(documents)} reference documents")
-```
-
-```python
-# Now build your graph with your own GraphRAG system
-# Example: your_graph = YourGraphRAG.build(documents)
-```
-
-### Step 2: Load Questions & Evaluate
-
-```python
-import json
-
-# Load questions for this domain
-domain = "people"
-with open(f"QA/{domain}/questions.jsonl") as f:
-    questions = [json.loads(line) for line in f]
-
-print(f"Loaded {len(questions)} questions")
-```
-
-```python
-# Answer each question with your GraphRAG
-for q in questions:
-    question = q["question"]
-    q_type = q["type"]  # "single-fact", "multi-fact", or "summary"
-    answer = q["answer"]
-    
-    # your_answer = your_graph.query(question)
-    # evaluate(your_answer, answer)
-```
+> ⚠️ Build your graph from **reference pages**, not the Wikipedia article!
 
 ### Available Domains
 
-| Domain | Topic | # References | # Questions |
-|:-------|:------|:------------:|:-----------:|
-| culture | Marvel Cinematic Universe | 452 | 155 |
-| geography | United States | 470 | 98 |
-| health | COVID-19 pandemic | 510 | 150 |
-| history | World War II | 74 | 36 |
-| human_activities | 2022 FIFA World Cup | 367 | 140 |
-| mathematics | Prime number | 50 | 33 |
-| nature | 2012 Pacific typhoon season | 72 | 28 |
-| people | Donald Trump | 547 | 154 |
-| philosophy | Authoritarian socialism | 257 | 70 |
-| religion | Persecution of Muslims | 346 | 106 |
-| society | Human | 319 | 114 |
-| technology | Steam (service) | 442 | 113 |
+| Domain | Topic | References | Questions |
+|:-------|:------|:----------:|:---------:|
+| `culture` | Marvel Cinematic Universe | 452 | 155 |
+| `geography` | United States | 470 | 98 |
+| `health` | COVID-19 pandemic | 510 | 150 |
+| `history` | World War II | 74 | 36 |
+| `human_activities` | 2022 FIFA World Cup | 367 | 140 |
+| `mathematics` | Prime number | 50 | 33 |
+| `nature` | 2012 Pacific typhoon season | 72 | 28 |
+| `people` | Donald Trump | 547 | 154 |
+| `philosophy` | Authoritarian socialism | 257 | 70 |
+| `religion` | Persecution of Muslims | 346 | 106 |
+| `society` | Human | 319 | 114 |
+| `technology` | Steam (service) | 442 | 113 |
+
+### Question Format
+
+Each line in `questions.jsonl` contains:
+
+```json
+{"question": "...", "answer": "...", "type": "single-fact | multi-fact | summary"}
+```
 
 ---
 

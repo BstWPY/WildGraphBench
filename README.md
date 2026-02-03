@@ -179,11 +179,11 @@ python tools/eval.py --gold QA/{domain}/questions.jsonl --pred your_predictions.
 If you find WildGraphBench useful in your research, please cite our paper:
 
 ```bibtex
-@article{wildgraphbench2025,
+@article{wildgraphbench2026,
   title={WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora},
   author={},
   journal={arXiv preprint arXiv:2602.02053},
-  year={2025}
+  year={2026}
 }
 ```
 

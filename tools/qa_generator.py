@@ -121,7 +121,7 @@ class ReferenceResolver:
 
         # 4) Round 2: Prefix fuzzy match
         if unmatched_titles_info:
-            print(f"  [ReferenceResolver] Attempting prefix fuzzy match for {len(unmatched_titles_info)} unmatched titles..."))
+            print(f"  [ReferenceResolver] Attempting prefix fuzzy match for {len(unmatched_titles_info)} unmatched titles...")
             fuzzy_matched = 0
             still_unmatched: List[Tuple[str, str, str]] = []
 
@@ -168,7 +168,7 @@ class ReferenceResolver:
 
         # 5) Round 3: Similarity match
         if unmatched_titles_info:
-            print(f"  [ReferenceResolver] Attempting similarity match for remaining {len(unmatched_titles_info)} titles..."))
+            print(f"  [ReferenceResolver] Attempting similarity match for remaining {len(unmatched_titles_info)} titles...")
             sim_matched = 0
             still_unmatched2: List[Tuple[str, str, str]] = []
 
@@ -200,7 +200,7 @@ class ReferenceResolver:
                     still_unmatched2.append((url, title, norm_title))
 
             unmatched_titles_info = still_unmatched2
-            print(f"  [ReferenceResolver] Similarity match: {sim_matched} additional matches"))
+            print(f"  [ReferenceResolver] Similarity match: {sim_matched} additional matches")
 
         # 6) Report unmatched MD files
         unmatched_md_files = []

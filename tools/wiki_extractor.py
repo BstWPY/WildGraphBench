@@ -131,7 +131,7 @@ def _json_chat(model: str, prompt: str, max_tokens: int = 50000, temperature: fl
     }
 
     try:
-        print(f"[LLM Call] Model: {model}"))
+        print(f"[LLM Call] Model: {model}")
         resp = requests.post(
             url, headers=headers, json=payload,
             timeout=1800,
@@ -309,7 +309,7 @@ class ReferenceResolver:
 
         # 4) Round 2: Prefix fuzzy match (handle truncation/identical prefixes)
         if unmatched_titles_info:
-            print(f"  [ReferenceResolver] Attempting prefix fuzzy match for {len(unmatched_titles_info)} unmatched titles..."))
+            print(f"  [ReferenceResolver] Attempting prefix fuzzy match for {len(unmatched_titles_info)} unmatched titles...")
             fuzzy_matched = 0
             still_unmatched: List[Tuple[str, str, str]] = []
 
@@ -347,7 +347,7 @@ class ReferenceResolver:
                         matched_normalized_files.add(file_norm)
                         fuzzy_matched += 1
                         unmatched_files.pop(file_norm, None)
-                        print(f"    [Fuzzy1/2] '{title[:60]}...' → '{file_orig[:60]}...'"))
+                        print(f"    [Fuzzy1/2] '{title[:60]}...' → '{file_orig[:60]}...'")
                         break
 
                 if not matched:
@@ -355,11 +355,11 @@ class ReferenceResolver:
 
             matched_count += fuzzy_matched
             unmatched_titles_info = still_unmatched
-            print(f"  [ReferenceResolver] Prefix fuzzy match: {fuzzy_matched} additional matches"))
+            print(f"  [ReferenceResolver] Prefix fuzzy match: {fuzzy_matched} additional matches")
 
         # 5) Round 3: Similarity match (true fuzzy, using difflib)
         if unmatched_titles_info:
-            print(f"  [ReferenceResolver] Attempting similarity match for remaining {len(unmatched_titles_info)} titles..."))
+            print(f"  [ReferenceResolver] Attempting similarity match for remaining {len(unmatched_titles_info)} titles...")
             sim_matched = 0
             still_unmatched2: List[Tuple[str, str, str]] = []
 
@@ -387,7 +387,7 @@ class ReferenceResolver:
                     matched_normalized_files.add(best_norm)
                     sim_matched += 1
                     matched_count += 1
-                    print(f"    [Fuzzy3] Similarity {best_score:.3f}: '{title[:60]}...' → '{file_orig[:60]}...'"))
+                    print(f"    [Fuzzy3] Similarity {best_score:.3f}: '{title[:60]}...' → '{file_orig[:60]}...'")
                 else:
                     still_unmatched2.append((url, title, norm_title))
 

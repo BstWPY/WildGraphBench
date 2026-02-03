@@ -372,7 +372,7 @@ def main():
       print(f"[line {idx}] Already scraped, skipping (use --force to re-fetch)")
       continue
 
-    print(f"[line {idx}] Fetching {url} ..."))
+    print(f"[line {idx}] Fetching {url} ...")
     max_filter_retry = 3
     filter_attempts = 0
     aggregate_attempt_log: List[Dict[str, Any]] = []

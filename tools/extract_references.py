@@ -672,7 +672,7 @@ def main():
 
   print(f"🌐 Starting to process URL: {args.url}")
   print(f"📁 Output directory: {args.output_dir}")
-  print(f"🔄 Retry count: {MAX_RETRIES}"))
+  print(f"🔄 Retry count: {MAX_RETRIES}")
 
   api_key = args.api_key or os.environ.get('JINA_API_KEY') or DEFAULT_API_KEY
   if not api_key.startswith('Bearer '):

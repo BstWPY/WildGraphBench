@@ -10,6 +10,10 @@
 
 </div>
 
+## 📰 News
+
+- **Feb 2026**: Paper released on [arXiv](https://arxiv.org/abs/2602.02053)!
+
 ## 📖 Overview
 
 **WildGraphBench** is a benchmark designed to evaluate Graph-based Retrieval-Augmented Generation (GraphRAG) systems in realistic, challenging scenarios. Unlike existing benchmarks that rely on short, curated passages, WildGraphBench uses Wikipedia's unique structure—where concise summaries are grounded in long, heterogeneous external reference documents—to create a truly "wild" evaluation setting.

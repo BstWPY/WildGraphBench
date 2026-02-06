@@ -56,20 +56,6 @@ We evaluate representative flat-RAG and GraphRAG baselines on WildGraphBench. Al
 | LightRAG (hybrid) | 56.76 | 61.32 | 40.84 | 12.44 | 17.70 | 14.61 |
 | LinearRAG | 44.87 | 47.53 | 35.60 | 5.81 | **29.20** | 9.69 |
 
-### People Subset (with Human Performance)
-
-| Method | Avg. Acc. | Single-fact Acc. | Multi-fact Acc. | Recall | Precision | F1 |
-|:-------|:---------:|:----------------:|:---------------:|:------:|:---------:|:--:|
-| NaiveRAG | 65.82 | 76.62 | 28.12 | **10.48** | 15.29 | **8.03** |
-| BM25 | 65.20 | 74.03 | 34.38 | 5.74 | 16.98 | 5.03 |
-| Fast-GraphRAG | 30.43 | 33.77 | 18.75 | 1.48 | **22.83** | 1.62 |
-| HippoRAG2 | 64.89 | 72.73 | 37.50 | 7.63 | 15.69 | 6.14 |
-| MS GraphRAG (local) | 35.16 | 38.96 | 21.88 | 4.59 | 9.17 | 2.98 |
-| MS GraphRAG (global) | 56.81 | 62.34 | 37.50 | 5.52 | 14.13 | 5.41 |
-| **LightRAG (hybrid)** | **74.42** | **80.52** | **53.12** | 5.56 | 15.69 | 4.73 |
-| LinearRAG | 45.26 | 51.95 | 21.88 | 1.52 | 22.51 | 1.69 |
-| 👤 **Human** | **85.66** | **89.61** | **71.88** | 38.59 | 12.62 | 15.30 |
-
 ### 💡 Key Findings
 
 1. **Single-Fact QA**: Flat retrieval baselines (NaiveRAG) remain competitive; graph structure doesn't automatically translate into gains for simple lookups

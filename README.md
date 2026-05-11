@@ -12,6 +12,7 @@
 
 ## 📰 News
 
+- **May 2026**: 🎉 Paper accepted to **ACL 2026 Findings**!
 - **Feb 2026**: Paper released on [arXiv](https://arxiv.org/abs/2602.02053)!
 
 ## 📖 Overview
